@@ -1,0 +1,444 @@
+{
+  "brand": "Daihatsu",
+  "models": {
+    "Applause": [
+      {
+        "BrandID": 36,
+        "ModelID": 380,
+        "Brand Name": "Daihatsu",
+        "Model Name": "Applause",
+        "Serie Name": "Applause I",
+        "Years": "1989 - 1997",
+        "specs": {
+          "bodyType": "Liftback",
+          "segment": "Compact",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5m/or/5pucwaskosccskock80/applause-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 36,
+        "ModelID": 380,
+        "Brand Name": "Daihatsu",
+        "Model Name": "Applause",
+        "Serie Name": "Applause II",
+        "Years": "1997 - 2000",
+        "specs": {
+          "bodyType": "Liftback",
+          "segment": "Compact",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5m/or/5pucwaskosccskock80/applause-sedan.310.jpg"
+        }
+      }
+    ],
+    "Charade": [
+      {
+        "BrandID": 36,
+        "ModelID": 381,
+        "Brand Name": "Daihatsu",
+        "Model Name": "Charade",
+        "Serie Name": "Charade (G100)",
+        "Years": "1987 - 1993",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Supermini",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L / 1.3L / 1.0L Turbo",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ed/z6/8f09x0ggkw0okock8wcc8/charade-4-hatch.310.jpg"
+        }
+      },
+      {
+        "BrandID": 36,
+        "ModelID": 381,
+        "Brand Name": "Daihatsu",
+        "Model Name": "Charade",
+        "Serie Name": "Charade (G200)",
+        "Years": "1993 - 2000",
+        "specs": {
+          "bodyType": "Hatchback/Sedan",
+          "segment": "Supermini",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.3L / 1.5L / 1.6L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ed/z6/8f09x0ggkw0okock8wcc8/charade-4-hatch.310.jpg"
+        }
+      },
+      {
+        "BrandID": 36,
+        "ModelID": 416740,
+        "Brand Name": "Daihatsu",
+        "Model Name": "Charade",
+        "Serie Name": "Charade (XP9)",
+        "Years": "2011 - 2013",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Supermini",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.33L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ed/z6/8f09x0ggkw0okock8wcc8/charade-4-hatch.310.jpg"
+        }
+      }
+    ],
+    "Copen": [
+      {
+        "BrandID": 36,
+        "ModelID": 416720,
+        "Brand Name": "Daihatsu",
+        "Model Name": "Copen",
+        "Serie Name": "Copen (L880)",
+        "Years": "2002 - 2012",
+        "specs": {
+          "bodyType": "Roadster",
+          "segment": "Kei Sports Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "0.66L Turbo / 1.3L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/co/p2/op01dpw80gg4o844occkc/copen.310.jpg"
+        }
+      }
+    ],
+    "Cuore": [
+      {
+        "BrandID": 36,
+        "ModelID": 414115,
+        "Brand Name": "Daihatsu",
+        "Model Name": "Cuore",
+        "Serie Name": "Cuore (L200)",
+        "Years": "1990 - 1994",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "0.66L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3x/dq/itqw0ds04oos8g8kg0sgk/cuore-8.310.jpg"
+        }
+      },
+      {
+        "BrandID": 36,
+        "ModelID": 414116,
+        "Brand Name": "Daihatsu",
+        "Model Name": "Cuore",
+        "Serie Name": "Cuore (L500)",
+        "Years": "1994 - 1998",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "0.66L / 0.8L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3x/dq/itqw0ds04oos8g8kg0sgk/cuore-8.310.jpg"
+        }
+      },
+      {
+        "BrandID": 36,
+        "ModelID": 414117,
+        "Brand Name": "Daihatsu",
+        "Model Name": "Cuore",
+        "Serie Name": "Cuore (L700)",
+        "Years": "1998 - 2002",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3x/dq/itqw0ds04oos8g8kg0sgk/cuore-8.310.jpg"
+        }
+      },
+      {
+        "BrandID": 36,
+        "ModelID": 414118,
+        "Brand Name": "Daihatsu",
+        "Model Name": "Cuore",
+        "Serie Name": "Cuore (L250)",
+        "Years": "2003 - 2007",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3x/dq/itqw0ds04oos8g8kg0sgk/cuore-8.310.jpg"
+        }
+      },
+      {
+        "BrandID": 36,
+        "ModelID": 416721,
+        "Brand Name": "Daihatsu",
+        "Model Name": "Cuore",
+        "Serie Name": "Cuore (L276)",
+        "Years": "2007 - 2013",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3x/dq/itqw0ds04oos8g8kg0sgk/cuore-8.310.jpg"
+        }
+      }
+    ],
+    "Feroza": [
+      {
+        "BrandID": 36,
+        "ModelID": 384,
+        "Brand Name": "Daihatsu",
+        "Model Name": "Feroza",
+        "Serie Name": "Feroza",
+        "Years": "1989 - 1998",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5b/v2/7el6jksgw40o4ggckgsok/feroza.310.jpg"
+        }
+      }
+    ],
+    "Gran Move": [
+      {
+        "BrandID": 36,
+        "ModelID": 414119,
+        "Brand Name": "Daihatsu",
+        "Model Name": "Gran Move",
+        "Serie Name": "Gran Move",
+        "Years": "1996 - 2002",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L / 1.6L",
+          "isOldtimer": true,
+          "vehicleType": "Van",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5m/f3/5p98wwkckgkcgc8ckcws0/grand-move.310.jpg"
+        }
+      }
+    ],
+    "Materia": [
+      {
+        "BrandID": 36,
+        "ModelID": 416722,
+        "Brand Name": "Daihatsu",
+        "Model Name": "Materia",
+        "Serie Name": "Materia",
+        "Years": "2006 - 2012",
+        "specs": {
+          "bodyType": "Hatchback/MPV",
+          "segment": "Mini MPV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "1.3L / 1.5L",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8d/0z/dy6b82880w0gss4kosc4g/materia.310.jpg"
+        }
+      }
+    ],
+    "Move": [
+      {
+        "BrandID": 36,
+        "ModelID": 413107,
+        "Brand Name": "Daihatsu",
+        "Model Name": "Move",
+        "Serie Name": "Move (L900)",
+        "Years": "1999 - 2002",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2p/rh/bgnm3u4gc8w0ggs8sckck/move.310.jpg"
+        }
+      },
+      {
+        "BrandID": 36,
+        "ModelID": 413108,
+        "Brand Name": "Daihatsu",
+        "Model Name": "Move",
+        "Serie Name": "Move Latte",
+        "Years": "2004 - 2009",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "0.66L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2p/rh/bgnm3u4gc8w0ggs8sckck/move.310.jpg"
+        }
+      }
+    ],
+    "Rocky": [
+      {
+        "BrandID": 36,
+        "ModelID": 390,
+        "Brand Name": "Daihatsu",
+        "Model Name": "Rocky",
+        "Serie Name": "Rocky (F300)",
+        "Years": "1989 - 2002",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L / 2.8L Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2i/1r/29hn1nk0s444o04o0cck8/rocky.310.jpg"
+        }
+      }
+    ],
+    "Sirion": [
+      {
+        "BrandID": 36,
+        "ModelID": 414120,
+        "Brand Name": "Daihatsu",
+        "Model Name": "Sirion",
+        "Serie Name": "Sirion I",
+        "Years": "1998 - 2004",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Supermini",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "1.0L / 1.3L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cd/xz/01zr1a0w04csk04oosgok/sirion-2.310.jpg"
+        }
+      },
+      {
+        "BrandID": 36,
+        "ModelID": 414121,
+        "Brand Name": "Daihatsu",
+        "Model Name": "Sirion",
+        "Serie Name": "Sirion II",
+        "Years": "2005 - 2011",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Supermini",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "1.0L / 1.3L / 1.5L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cd/xz/01zr1a0w04csk04oosgok/sirion-2.310.jpg"
+        }
+      }
+    ],
+    "Terios": [
+      {
+        "BrandID": 36,
+        "ModelID": 414122,
+        "Brand Name": "Daihatsu",
+        "Model Name": "Terios",
+        "Serie Name": "Terios I",
+        "Years": "1997 - 2005",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mini SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "1.3L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1o/pi/r6oak2o0880cgokgsogkc/terios-2.310.jpg"
+        }
+      },
+      {
+        "BrandID": 36,
+        "ModelID": 414123,
+        "Brand Name": "Daihatsu",
+        "Model Name": "Terios",
+        "Serie Name": "Terios II",
+        "Years": "2006 - 2017",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mini SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1o/pi/r6oak2o0880cgokgsogkc/terios-2.310.jpg"
+        }
+      }
+    ],
+    "Trevis": [
+      {
+        "BrandID": 36,
+        "ModelID": 416180,
+        "Brand Name": "Daihatsu",
+        "Model Name": "Trevis",
+        "Serie Name": "Trevis",
+        "Years": "2006 - 2009",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5d/76/fszunkw08koscgw484cgk/trevis.310.jpg"
+        }
+      }
+    ],
+    "YRV": [
+      {
+        "BrandID": 36,
+        "ModelID": 393,
+        "Brand Name": "Daihatsu",
+        "Model Name": "YRV",
+        "Serie Name": "YRV",
+        "Years": "2000 - 2005",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Mini MPV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "1.0L / 1.3L / 1.3L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Van"
+        }
+      }
+    ]
+  }
+}

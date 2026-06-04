@@ -1,0 +1,126 @@
+{
+  "brand": "Jaecoo",
+  "models": {
+    "Jaecoo 7": [
+      {
+        "BrandID": 301,
+        "ModelID": 500101,
+        "Brand Name": "Jaecoo",
+        "Model Name": "Jaecoo 7",
+        "Serie Name": "Jaecoo 7",
+        "Years": "2023 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/PHEV",
+          "engine": "1.6T / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Jaecoo 7 to kompaktowy SUV o 'twardym' designie, łączący miejską elegancję z możliwościami terenowymi dzięki zaawansowanemu systemowi napędu ARDIS.",
+              "en": "Jaecoo 7 is a compact SUV with a 'tough' design, combining urban elegance with off-road capabilities thanks to the advanced ARDIS drive system.",
+              "de": "Jaecoo 7 ist ein kompakter SUV mit „robustem“ Design, der dank des fortschrittlichen ARDIS-Antriebssystems urbane Eleganz mit Offroad-Fähigkeiten verbindet.",
+              "uk": "Jaecoo 7 — це компактний позашляховик із «жорстким» дизайном, який поєднує міську елегантність із можливостями бездоріжжя завдяки вдосконаленій системі приводу ARDIS.",
+              "ru": "Jaecoo 7 — компактный внедорожник с «жестким» дизайном, сочетающий в себе городскую элегантность и внедорожные возможности благодаря усовершенствованной системе привода ARDIS.",
+              "zh": "Jaecoo 7 是一款采用“硬朗”设计的紧凑型 SUV，凭借先进的 ARDIS 驱动系统，将都市优雅与越野能力融为一体。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chery (Jaecoo)",
+                "en": "Chery (Jaecoo)",
+                "de": "Chery (Jaecoo)",
+                "uk": "Chery (Jaecoo)",
+                "ru": "Chery (Jaecoo)",
+                "zh": "奇瑞 (Jaecoo)"
+              },
+              "okres produkcji": {
+                "pl": "od 2023",
+                "en": "from 2023",
+                "de": "ab 2023",
+                "uk": "з 2023 року",
+                "ru": "с 2023 года",
+                "zh": "2023 年起"
+              },
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型 SUV"
+              },
+              "napęd": {
+                "pl": "AWD (ARDIS)",
+                "en": "AWD (ARDIS)",
+                "de": "AWD (ARDIS)",
+                "uk": "AWD (ARDIS)",
+                "ru": "AWD (ARDIS)",
+                "zh": "AWD (ARDIS)"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Jaecoo 8": [
+      {
+        "BrandID": 301,
+        "ModelID": 500102,
+        "Brand Name": "Jaecoo",
+        "Model Name": "Jaecoo 8",
+        "Serie Name": "Jaecoo 8",
+        "Years": "2023 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/PHEV",
+          "engine": "2.0T / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Jaecoo 8 (znany też jako Chery Tiggo 9) to flagowy, luksusowy SUV dla 6-7 osób. Oferuje podróż w klasie biznes, potężny napęd i najnowsze technologie.",
+              "en": "Jaecoo 8 (also known as Chery Tiggo 9) is a flagship luxury SUV for 6-7 people. It offers business class travel, powerful drive and the latest technologies.",
+              "de": "Jaecoo 8 (auch bekannt als Chery Tiggo 9) ist ein Flaggschiff-Luxus-SUV für 6-7 Personen. Es bietet Business-Class-Reisen, leistungsstarken Antrieb und neueste Technologien.",
+              "uk": "Jaecoo 8 (також відомий як Chery Tiggo 9) — флагманський розкішний позашляховик на 6-7 місць. Він пропонує подорож бізнес-класом, потужний драйв і новітні технології.",
+              "ru": "Jaecoo 8 (также известный как Chery Tiggo 9) — флагманский внедорожник класса люкс для 6-7 человек. Он предлагает путешествия бизнес-класса, мощный драйв и новейшие технологии.",
+              "zh": "Jaecoo 8（也称为奇瑞瑞虎 9）是一款 6-7 人的旗舰豪华 SUV。它提供商务舱旅行、强大的动力和最新的技术。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chery (Jaecoo)",
+                "en": "Chery (Jaecoo)",
+                "de": "Chery (Jaecoo)",
+                "uk": "Chery (Jaecoo)",
+                "ru": "Chery (Jaecoo)",
+                "zh": "奇瑞 (Jaecoo)"
+              },
+              "okres produkcji": {
+                "pl": "od 2023",
+                "en": "from 2023",
+                "de": "ab 2023",
+                "uk": "з 2023 р.",
+                "ru": "2023 г.",
+                "zh": "2023 年起"
+              },
+              "segment": {
+                "pl": "Mid-size Luxury SUV",
+                "en": "Mid-size Luxury SUV",
+                "de": "Mittelgroßer Luxus-SUV",
+                "uk": "Розкішний позашляховик середнього розміру",
+                "ru": "Роскошный внедорожник среднего размера",
+                "zh": "中型豪华 SUV"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

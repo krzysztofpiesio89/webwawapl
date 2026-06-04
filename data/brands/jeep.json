@@ -1,0 +1,1083 @@
+{
+  "brand": "Jeep",
+  "models": {
+    "Cherokee": [
+      {
+        "BrandID": 71,
+        "ModelID": 138388,
+        "Brand Name": "Jeep",
+        "Model Name": "Cherokee",
+        "Serie Name": "Cherokee XJ",
+        "Years": "1984 - 2001",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.5L / 4.0L I6 / 2.5L Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Jeep Cherokee (XJ) to ikona, która zrewolucjonizowała rynek, wprowadzając nadwozie samonośne (Unibody) do świata SUV-ów. Lekki, zwrotny i niepowstrzymany w terenie.",
+              "en": "Jeep Cherokee (XJ) is an icon that revolutionized the market by introducing the unibody to the world of SUVs. Light, agile and unstoppable in the field.",
+              "de": "Der Jeep Cherokee (XJ) ist eine Ikone, die den Markt revolutionierte, indem sie den Unibody in die Welt der SUVs einführte. Leicht, wendig und unaufhaltsam im Gelände.",
+              "uk": "Jeep Cherokee (XJ) — це ікона, яка зробила революцію на ринку, представивши унікузов у ​​світі позашляховиків. Легкий, спритний і нестримний у полі.",
+              "ru": "Jeep Cherokee (XJ) — это икона, которая произвела революцию на рынке, представив цельный кузов в мире внедорожников. Легкий, маневренный и незаменимый в поле.",
+              "zh": "Jeep Cherokee (XJ) 是一款标志性车型，通过将一体式车身引入 SUV 领域，彻底改变了市场。轻盈、敏捷，在战场上势不可挡。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jeep"
+              },
+              "okres produkcji": "1984–2001",
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6k/17/wlfkhjwgg84ookc0oow40/jeep_cherokee-trailhawk-europe-2014_r16-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 71,
+        "ModelID": 134019,
+        "Brand Name": "Jeep",
+        "Model Name": "Cherokee",
+        "Serie Name": "Cherokee KJ (Liberty)",
+        "Years": "2001 - 2007",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.4L / 3.7L V6 / 2.8L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Jeep Cherokee (KJ), w USA znany jako Liberty, zastąpił legendę XJ. Wyróżnia się okrągłymi reflektorami i niezależnym zawieszeniem przednim.",
+              "en": "The Jeep Cherokee (KJ), known as Liberty in the USA, replaced the XJ legend. It is distinguished by round headlights and independent front suspension.",
+              "de": "Der Jeep Cherokee (KJ), in den USA als Liberty bekannt, löste die XJ-Legende ab. Es zeichnet sich durch runde Scheinwerfer und Einzelradaufhängung vorne aus.",
+              "uk": "Jeep Cherokee (KJ), відомий як Liberty в США, прийшов на зміну легенді XJ. Його відрізняють круглі фари і незалежна передня підвіска.",
+              "ru": "Jeep Cherokee (KJ), известный в США как Liberty, пришел на смену легенде XJ. Его отличают круглые фары и независимая передняя подвеска.",
+              "zh": "Jeep Cherokee (KJ) 在美国被称为 Liberty，取代了 XJ 的传奇。它的特点是圆形头灯和独立前悬架。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jeep"
+              },
+              "okres produkcji": "2001–2007",
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6k/17/wlfkhjwgg84ookc0oow40/jeep_cherokee-trailhawk-europe-2014_r16-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 71,
+        "ModelID": 412959,
+        "Brand Name": "Jeep",
+        "Model Name": "Cherokee",
+        "Serie Name": "Cherokee KK (Liberty)",
+        "Years": "2008 - 2013",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.7L V6 / 2.8L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Jeep Cherokee (KK) powrócił do kanciastych linii ('boxy design'), oferując m.in. płócienny dach Sky Slider. Technicznie bliźniak Dodge'a Nitro.",
+              "en": "Jeep Cherokee (KK) returned to boxy lines, offering, among others, Sky Slider canvas roof. Technically a twin of the Dodge Nitro.",
+              "de": "Jeep Cherokee (KK) kehrt zu kastenförmigen Linien zurück und bietet unter anderem das Sky Slider-Leinendach. Technisch gesehen ein Zwilling des Dodge Nitro.",
+              "uk": "Jeep Cherokee (KK) повернувся до квадратних ліній, пропонуючи, серед іншого, брезентовий дах Sky Slider. Технічно двійник Dodge Nitro.",
+              "ru": "Jeep Cherokee (KK) вернулся к угловатым линиям («квадратному дизайну»), предложив, среди прочего, брезентовую крышу Sky Slider. Технически близнец Dodge Nitro.",
+              "zh": "吉普切诺基 (KK) 回归棱角分明的线条（“四四方方的设计”），提供 Sky Slider 帆布车顶等。从技术上讲，它是道奇 Nitro 的双胞胎。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jeep"
+              },
+              "okres produkcji": "2008–2013",
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6k/17/wlfkhjwgg84ookc0oow40/jeep_cherokee-trailhawk-europe-2014_r16-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 71,
+        "ModelID": 412960,
+        "Brand Name": "Jeep",
+        "Model Name": "Cherokee",
+        "Serie Name": "Cherokee KL",
+        "Years": "2013 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.4L / 3.2L V6 / 2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Jeep Cherokee (KL) to radykalna zmiana stylistyczna. Futurystyczny przód i platforma Fiata, ale w wersji Trailhawk wciąż dzielny w terenie.",
+              "en": "Jeep Cherokee (KL) is a radical stylistic change. Futuristic front end and Fiat platform, but still brave off-road in the Trailhawk version.",
+              "de": "Jeep Cherokee (KL) ist eine radikale stilistische Veränderung. Futuristische Frontpartie und Fiat-Plattform, aber dennoch mutig im Gelände in der Trailhawk-Version.",
+              "uk": "Jeep Cherokee (KL) — радикальна стилістична зміна. Футуристичний передок і платформа Fiat, але все ще хоробрі бездоріжжя у версії Trailhawk.",
+              "ru": "Jeep Cherokee (KL) — радикальное изменение стиля. Футуристическая передняя часть и платформа Fiat, но в версии Trailhawk он по-прежнему храбр на бездорожье.",
+              "zh": "Jeep Cherokee (KL) 的造型发生了彻底的改变。未来派前端和菲亚特平台，但 Trailhawk 版本仍然勇于越野。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jeep"
+              },
+              "okres produkcji": "2013–2023",
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6k/17/wlfkhjwgg84ookc0oow40/jeep_cherokee-trailhawk-europe-2014_r16-jpg.310.jpg"
+        }
+      }
+    ],
+    "Commander": [
+      {
+        "BrandID": 71,
+        "ModelID": 770,
+        "Brand Name": "Jeep",
+        "Model Name": "Commander",
+        "Serie Name": "Commander (XK)",
+        "Years": "2005 - 2010",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.7L V6 / 4.7L V8 / 5.7L V8 / 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Jeep Commander (XK) to największy i najbardziej kanciasty Jeep swoich czasów. Oferował 7 miejsc i potężne silniki V8 (w tym HEMI).",
+              "en": "Jeep Commander (XK) is the largest and most angular Jeep of its time. It offered 7 seats and powerful V8 engines (including HEMI).",
+              "de": "Jeep Commander (XK) ist der größte und kantigste Jeep seiner Zeit. Es bot 7 Sitze und leistungsstarke V8-Motoren (einschließlich HEMI).",
+              "uk": "Jeep Commander (XK) — найбільший і незграбний джип свого часу. Він пропонував 7 місць і потужні двигуни V8 (включаючи HEMI).",
+              "ru": "Jeep Commander (XK) — самый большой и угловатый джип своего времени. Он предлагал 7 мест и мощные двигатели V8 (включая HEMI).",
+              "zh": "Jeep Commander (XK) 是当时最大、棱角最分明的吉普车。它提供 7 个座位和强大的 V8 发动机（包括 HEMI）。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jeep"
+              },
+              "okres produkcji": "2005–2010",
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний позашляховик",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/35/kq/dtk706g48w4s88kkkg8c4/jeep-commander-i.310.jpg"
+        }
+      }
+    ],
+    "Compass": [
+      {
+        "BrandID": 71,
+        "ModelID": 413718,
+        "Brand Name": "Jeep",
+        "Model Name": "Compass",
+        "Serie Name": "Compass Gen 1 (MK49)",
+        "Years": "2006 - 2016",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L / 2.4L / 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Pierwsza generacja Jeepa Compassa to pierwszy 'miejski' Jeep, zbudowany na platformie Dodge'a Caliber. Przeznaczony głównie na asfalt.",
+              "en": "The first generation Jeep Compass is the first 'city' Jeep, built on the Dodge Caliber platform. Designed mainly for asphalt.",
+              "de": "Der Jeep Compass der ersten Generation ist der erste „Stadt“-Jeep, der auf der Dodge Caliber-Plattform basiert. Hauptsächlich für Asphalt konzipiert.",
+              "uk": "Перше покоління Jeep Compass — це перший «міський» Jeep, побудований на платформі Dodge Caliber. Призначений в основному для асфальту.",
+              "ru": "Jeep Compass первого поколения — первый «городской» Jeep, построенный на платформе Dodge Caliber. Предназначен в основном для асфальта.",
+              "zh": "第一代 Jeep Compass 是第一款“城市”吉普车，基于道奇 Calibre 平台打造。主要针对沥青而设计。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jeep"
+              },
+              "okres produkcji": "2006–2016",
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型SUV"
+              },
+              "napęd": {
+                "pl": "FWD/4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2t/ye/ray9lhycg8kk8o8skowgs/jeep-compass-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 71,
+        "ModelID": 413721,
+        "Brand Name": "Jeep",
+        "Model Name": "Compass",
+        "Serie Name": "Compass Gen 2 (MP)",
+        "Years": "2017 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "1.4L Turbo / 2.4L / 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja Compassa to 'mały Grand Cherokee'. Nowoczesny, globalny SUV, który świetnie radzi sobie w mieście, a w wersji Trailhawk także w terenie.",
+              "en": "The second generation of Compass is a 'small Grand Cherokee'. A modern, global SUV that performs great in the city and, in the Trailhawk version, also off-road.",
+              "de": "Die zweite Generation des Compass ist ein „kleiner Grand Cherokee“. Ein modernes, globales SUV, das in der Stadt und in der Trailhawk-Version auch im Gelände eine gute Figur macht.",
+              "uk": "Друге покоління Compass — це «маленький Grand Cherokee». Сучасний глобальний позашляховик, який чудово працює в місті, а у версії Trailhawk також і на бездоріжжі.",
+              "ru": "Второе поколение Compass — это «маленький Grand Cherokee». Современный глобальный внедорожник, который отлично ведет себя в городе, а в версии Trailhawk — и на бездорожье.",
+              "zh": "第二代Compass是“小大切诺基”。一款现代的全球 SUV，在城市中表现出色，Trailhawk 版本在越野中也表现出色。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jeep"
+              },
+              "okres produkcji": {
+                "pl": "od 2017",
+                "en": "from 2017",
+                "de": "ab 2017",
+                "uk": "з 2017 року",
+                "ru": "с 2017 года",
+                "zh": "2017年以来"
+              },
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2t/ye/ray9lhycg8kk8o8skowgs/jeep-compass-ii.310.jpg"
+        }
+      }
+    ],
+    "Gladiator": [
+      {
+        "BrandID": 71,
+        "ModelID": 416603,
+        "Brand Name": "Jeep",
+        "Model Name": "Gladiator",
+        "Serie Name": "Gladiator (JT)",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Mid-size Pickup",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.6L V6 / 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Jeep Gladiator to długo wyczekiwany powrót marki do segmentu pickupów. Bazuje na Wranglerze JL, oferując jego legendarną dzielność terenową plus pakę ładunkową.",
+              "en": "Jeep Gladiator is the brand's long-awaited return to the pickup segment. It's based on the Wrangler JL, offering its legendary off-road capability plus a cargo bed.",
+              "de": "Jeep Gladiator ist die lang erwartete Rückkehr der Marke in das Pickup-Segment. Er basiert auf dem Wrangler JL und bietet dessen legendäre Geländetauglichkeit sowie eine Ladefläche.",
+              "uk": "Jeep Gladiator — це довгоочікуване повернення бренду в сегмент пікапів. Він заснований на Wrangler JL, пропонуючи його легендарні позашляхові можливості та вантажне ліжко.",
+              "ru": "Jeep Gladiator – долгожданное возвращение бренда в сегмент пикапов. Он создан на базе Wrangler JL и обладает легендарными внедорожными качествами и грузовым отсеком.",
+              "zh": "Jeep Gladiator 是该品牌期待已久的重返皮卡车市场的车型。它以牧马人 JL 为基础，提供传奇的越野能力和货厢。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jeep"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019 року",
+                "ru": "с 2019 года",
+                "zh": "2019年起"
+              },
+              "segment": {
+                "pl": "Mid-size Pickup",
+                "en": "Mid-size Pickup",
+                "de": "Mittelklasse-Pickup",
+                "uk": "Пікап середнього розміру",
+                "ru": "Пикап среднего размера",
+                "zh": "中型皮卡"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Grand Cherokee": [
+      {
+        "BrandID": 71,
+        "ModelID": 413722,
+        "Brand Name": "Jeep",
+        "Model Name": "Grand Cherokee",
+        "Serie Name": "Grand Cherokee I (ZJ)",
+        "Years": "1993 - 1998",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "4.0L I6 / 5.2L V8 / 5.9L V8",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Jeep_Grand_Cherokee_ZJ_rear_20090121.jpg/1280px-Jeep_Grand_Cherokee_ZJ_rear_20090121.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Jeep_Grand_Cherokee_ZJ_rear_20090121.jpg/1280px-Jeep_Grand_Cherokee_ZJ_rear_20090121.jpg"
+            ],
+            "description": {
+              "pl": "Jeep Grand Cherokee (ZJ) zdefiniował na nowo pojęcie luksusowego SUV-a. Był szybszy, wygodniejszy i bezpieczniejszy niż cokolwiek wcześniej, nie tracąc charakteru Jeepa.",
+              "en": "The Jeep Grand Cherokee (ZJ) redefined the concept of a luxury SUV. It was faster, more comfortable and safer than anything before it, without losing the character of a Jeep.",
+              "de": "Der Jeep Grand Cherokee (ZJ) hat das Konzept eines Luxus-SUV neu definiert. Er war schneller, komfortabler und sicherer als alles zuvor, ohne den Charakter eines Jeeps zu verlieren.",
+              "uk": "Jeep Grand Cherokee (ZJ) переосмислив концепцію розкішного SUV. Він був швидшим, комфортнішим і безпечнішим, ніж будь-що до нього, не втрачаючи характеру джипа.",
+              "ru": "Jeep Grand Cherokee (ZJ) переосмыслил концепцию роскошного внедорожника. Он был быстрее, комфортнее и безопаснее, чем все предыдущие модели, не теряя при этом характера джипа.",
+              "zh": "Jeep 大切诺基 (ZJ) 重新定义了豪华 SUV 的概念。它比之前的任何产品都更快、更舒适、更安全，同时又不失吉普车的特色。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jeep"
+              },
+              "okres produkcji": "1993–1998",
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний SUV",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2g/ir/w8u2bb40g0wgssc4w08c0/jeep-grand-cherokee-iv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 71,
+        "ModelID": 413723,
+        "Brand Name": "Jeep",
+        "Model Name": "Grand Cherokee",
+        "Serie Name": "Grand Cherokee II (WJ)",
+        "Years": "1999 - 2004",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "4.0L I6 / 4.7L V8 / 2.7L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja (WJ) to ewolucja ideału. Bardziej opływowe nadwozie, nowoczesne silniki PowerTech i Quadra-Drive – napęd 4x4 nowej ery.",
+              "en": "The second generation (WJ) is the evolution of the ideal. A more streamlined body, modern PowerTech and Quadra-Drive engines - a new era 4x4 drive.",
+              "de": "Die zweite Generation (WJ) ist die Weiterentwicklung des Ideals. Eine stromlinienförmigere Karosserie, moderne PowerTech- und Quadra-Drive-Motoren – eine neue Ära des 4x4-Antriebs.",
+              "uk": "Друге покоління (WJ) — це еволюція ідеалу. Більш обтічний кузов, сучасні двигуни PowerTech і Quadra-Drive - привід 4x4 нової ери.",
+              "ru": "Второе поколение (ВП) – это эволюция идеала. Более обтекаемый кузов, современные двигатели PowerTech и Quadra-Drive — новая эра привода 4x4.",
+              "zh": "第二代（WJ）是理想的进化。更加流线型的车身、现代 PowerTech 和四驱发动机 - 新时代的 4x4 驱动。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jeep"
+              },
+              "okres produkcji": "1999–2004",
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний SUV",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2g/ir/w8u2bb40g0wgssc4w08c0/jeep-grand-cherokee-iv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 71,
+        "ModelID": 413724,
+        "Brand Name": "Jeep",
+        "Model Name": "Grand Cherokee",
+        "Serie Name": "Grand Cherokee III (WK)",
+        "Years": "2005 - 2010",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.7L V6 / 4.7L V8 / 5.7L V8 / 6.1L SRT8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Grand Cherokee (WK) wprowadził niezależne zawieszenie przednie dla lepszego prowadzenia na asfalcie oraz potężną wersję SRT8, która rzuciła wyzwanie sportowym autom.",
+              "en": "Grand Cherokee (WK) introduced independent front suspension for better handling on asphalt and a powerful SRT8 version that challenged sports cars.",
+              "de": "Der Grand Cherokee (WK) führte eine Einzelradaufhängung vorn für besseres Handling auf Asphalt und eine leistungsstarke SRT8-Version ein, die Sportwagen herausforderte.",
+              "uk": "Grand Cherokee (WK) представив незалежну передню підвіску для кращої керованості на асфальті та потужну версію SRT8, яка кинула виклик спортивним автомобілям.",
+              "ru": "Grand Cherokee (WK) представил независимую переднюю подвеску для лучшей управляемости на асфальте и мощную версию SRT8, бросившую вызов спортивным автомобилям.",
+              "zh": "大切诺基（WK）推出了独立前悬架，以实现更好的沥青路面操控性，并推出了挑战跑车的强大SRT8版本。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jeep"
+              },
+              "okres produkcji": "2005–2010",
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний позашляховик",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2g/ir/w8u2bb40g0wgssc4w08c0/jeep-grand-cherokee-iv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 71,
+        "ModelID": 413725,
+        "Brand Name": "Jeep",
+        "Model Name": "Grand Cherokee",
+        "Serie Name": "Grand Cherokee IV (WK2)",
+        "Years": "2010 - 2021",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.6L V6 / 5.7L V8 / 6.4L SRT / 6.2L Trackhawk",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Model WK2 to skok jakościowy. Zbudowany na platformie Mercedesa ML, oferuje pneumatyczne zawieszenie, luksusowe wnętrze i wersję Trackhawk o mocy ponad 700 KM.",
+              "en": "The WK2 model is a qualitative leap. Built on the Mercedes ML platform, it offers air suspension, a luxurious interior and a Trackhawk version with over 700 HP.",
+              "de": "Das WK2-Modell ist ein qualitativer Sprung. Aufgebaut auf der Mercedes ML-Plattform bietet er Luftfederung, ein luxuriöses Interieur und eine Trackhawk-Version mit über 700 PS.",
+              "uk": "Модель WK2 — це якісний стрибок. Побудований на платформі Mercedes ML, він пропонує пневматичну підвіску, розкішний салон і версію Trackhawk з потужністю понад 700 к. с.",
+              "ru": "Модель WK2 — это качественный скачок. Построенный на платформе Mercedes ML, он предлагает пневматическую подвеску, роскошный салон и версию Trackhawk мощностью более 700 л.с.",
+              "zh": "WK2型号是质的飞跃。它建立在梅赛德斯 ML 平台上，提供空​​气悬架、豪华内饰和超过 700 马力的 Trackhawk 版本。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jeep"
+              },
+              "okres produkcji": "2010–2021",
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний SUV",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型 SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2g/ir/w8u2bb40g0wgssc4w08c0/jeep-grand-cherokee-iv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 71,
+        "ModelID": 416604,
+        "Brand Name": "Jeep",
+        "Model Name": "Grand Cherokee",
+        "Serie Name": "Grand Cherokee V (WL)",
+        "Years": "2021 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/PHEV",
+          "engine": "3.6L V6 / 5.7L V8 / 2.0L PHEV (4xe)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Najnowszy Grand Cherokee (WL) to szczyt technologii i luksusu. Dostępny także w wersji 7-osobowej (L) oraz jako hybryda plug-in 4xe.",
+              "en": "The newest Grand Cherokee (WL) is the pinnacle of technology and luxury. Also available in a 7-seater version (L) and as a 4xe plug-in hybrid.",
+              "de": "Der neueste Grand Cherokee (WL) ist der Gipfel der Technologie und des Luxus. Auch als 7-Sitzer-Version (L) und als 4xe Plug-in-Hybrid erhältlich.",
+              "uk": "Найновіший Grand Cherokee (WL) — це вершина технологій і розкоші. Також доступний у 7-місній версії (L) і як 4xe plug-in hybrid.",
+              "ru": "Новейший Grand Cherokee (WL) — это вершина технологий и роскоши. Также доступен в 7-местной версии (L) и подключаемом гибриде 4xe.",
+              "zh": "最新的大切诺基 (WL) 是技术与豪华的巅峰之作。还提供 7 座版本 (L) 和 4xe 插电式混合动力版本。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jeep"
+              },
+              "okres produkcji": {
+                "pl": "od 2021",
+                "en": "from 2021",
+                "de": "ab 2021",
+                "uk": "з 2021 року",
+                "ru": "с 2021 года.",
+                "zh": "2021 年起"
+              },
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний позашляховик",
+                "ru": "Среднеразмерный внедорожник.",
+                "zh": "中型 SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2g/ir/w8u2bb40g0wgssc4w08c0/jeep-grand-cherokee-iv.310.jpg"
+        }
+      }
+    ],
+    "Liberty": [
+      {
+        "BrandID": 71,
+        "ModelID": 413227,
+        "Brand Name": "Jeep",
+        "Model Name": "Liberty",
+        "Serie Name": "Liberty Gen 1 (KJ)",
+        "Years": "2001 - 2007",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.4L / 3.7L V6 / 2.8L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Jeep Liberty (KJ) to następca Cherokee w USA. Wyróżnia się charakterystycznymi okrągłymi reflektorami i dzielnością terenową godną marki Jeep.",
+              "en": "Jeep Liberty (KJ) is the successor to the Cherokee in the USA. It is distinguished by characteristic round headlights and off-road capability worthy of the Jeep brand.",
+              "de": "Jeep Liberty (KJ) ist der Nachfolger des Cherokee in den USA. Es zeichnet sich durch die charakteristischen runden Scheinwerfer und die Geländegängigkeit aus, die der Marke Jeep würdig sind.",
+              "uk": "Jeep Liberty (KJ) є наступником Cherokee у США. Його відрізняють характерні круглі фари і прохідність, гідна марки Jeep.",
+              "ru": "Jeep Liberty (KJ) является преемником Cherokee в США. Его отличают характерные круглые фары и достойные марки Jeep внедорожные качества.",
+              "zh": "Jeep Liberty (KJ) 是美国切诺基的后继车型。它的特点是独特的圆形前灯和与 Jeep 品牌相称的越野能力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jeep"
+              },
+              "okres produkcji": "2001–2007",
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5l/fk/md4t5sgss0gsc4oo0ck88/jeep-liberty-i.310.jpg"
+        }
+      },
+      {
+        "BrandID": 71,
+        "ModelID": 413228,
+        "Brand Name": "Jeep",
+        "Model Name": "Liberty",
+        "Serie Name": "Liberty Gen 2 (KK)",
+        "Years": "2008 - 2012",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline",
+          "engine": "3.7L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja Liberty (KK) powróciła do bardziej kanciastej stylistyki, oferując więcej przestrzeni i nowoczesne systemy multimedialne.",
+              "en": "The second generation of Liberty (KK) returned to a more angular style, offering more space and modern multimedia systems.",
+              "de": "Die zweite Generation des Liberty (KK) kehrte zu einem kantigeren Stil zurück und bot mehr Platz und moderne Multimediasysteme.",
+              "uk": "Друге покоління Liberty (KK) повернулося до більш незграбного стилю, пропонуючи більше простору та сучасні мультимедійні системи.",
+              "ru": "Второе поколение Liberty (KK) вернулось к более угловатому стилю, предлагая больше места и современные мультимедийные системы.",
+              "zh": "第二代Liberty (KK) 回归了更有棱角的风格，提供了更多的空间和现代化的多媒体系统。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jeep"
+              },
+              "okres produkcji": "2008–2012",
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型 SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5l/fk/md4t5sgss0gsc4oo0ck88/jeep-liberty-i.310.jpg"
+        }
+      }
+    ],
+    "Patriot": [
+      {
+        "BrandID": 71,
+        "ModelID": 778,
+        "Brand Name": "Jeep",
+        "Model Name": "Patriot",
+        "Serie Name": "Patriot (MK74)",
+        "Years": "2007 - 2017",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L / 2.4L / 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Jeep Patriot to kompaktowy SUV o klasycznym, pudełkowatym wyglądzie Jeepa ('baby Commander'). Bliźniak techniczny Compassa, ale o bardziej surowym charakterze.",
+              "en": "Jeep Patriot is a compact SUV with a classic, boxy Jeep look ('baby Commander'). The technical twin of Compass, but with a more severe character.",
+              "de": "Jeep Patriot ist ein Kompakt-SUV mit einem klassischen, kastenförmigen Jeep-Look („Baby Commander“). Der technische Zwilling von Compass, aber mit strengerem Charakter.",
+              "uk": "Jeep Patriot — це компактний позашляховик із класичним квадратним зовнішнім виглядом Jeep («малюк Commander»). Технічний двійник Compass, але з більш суворим характером.",
+              "ru": "Jeep Patriot — компактный внедорожник классического квадратного внедорожника («малыш-командир»). Технический двойник Компаса, но с более суровым характером.",
+              "zh": "Jeep Patriot 是一款紧凑型 SUV，具有经典、四四方方的 Jeep 外观（“宝贝指挥官”）。 Compass 的技术双胞胎，但具有更严厉的性格。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jeep"
+              },
+              "okres produkcji": "2007–2017",
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6j/f8/2ulsodss0oscgkgo4g8sg/jeep-patriot.310.jpg"
+        }
+      }
+    ],
+    "Renegade": [
+      {
+        "BrandID": 71,
+        "ModelID": 415409,
+        "Brand Name": "Jeep",
+        "Model Name": "Renegade",
+        "Serie Name": "Renegade (BU)",
+        "Years": "2014 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Subcompact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "1.3L Turbo / 1.4L Turbo / 2.4L / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Jeep Renegade to najmniejszy model w gamie, produkowany we Włoszech. Łączy miejski styl z zaskakującymi możliwościami terenowymi i licznymi 'Easter Eggs'.",
+              "en": "Jeep Renegade is the smallest model in the range, produced in Italy. It combines urban style with surprising off-road capabilities and numerous 'Easter Eggs'.",
+              "de": "Jeep Renegade ist das kleinste Modell der Baureihe, hergestellt in Italien. Es vereint urbanen Stil mit überraschenden Offroad-Fähigkeiten und zahlreichen „Easter Eggs“.",
+              "uk": "Jeep Renegade — найменша модель у лінійці, вироблена в Італії. Він поєднує міський стиль із дивовижними позашляховими можливостями та численними «пасхальними яйцями».",
+              "ru": "Jeep Renegade — самая маленькая модель в линейке, производимая в Италии. Он сочетает в себе городской стиль с удивительными внедорожными возможностями и многочисленными «пасхальными яйцами».",
+              "zh": "Jeep Renegade 是该系列中最小的车型，在意大利生产。它将城市风格与令人惊叹的越野能力和众多的“复活节彩蛋”结合在一起。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jeep"
+              },
+              "okres produkcji": {
+                "pl": "od 2014",
+                "en": "from 2014",
+                "de": "ab 2014",
+                "uk": "з 2014 року",
+                "ru": "2014 года.",
+                "zh": "2014 年起"
+              },
+              "segment": {
+                "pl": "Subcompact SUV",
+                "en": "Subcompact SUV",
+                "de": "Kleinwagen-SUV",
+                "uk": "Субкомпактний позашляховик",
+                "ru": "Малолитражный внедорожник.",
+                "zh": "小型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5c/z3/wodats8440k80cgw8gcog/jeep-renegade-2.310.jpg"
+        }
+      }
+    ],
+    "Wagoneer": [
+      {
+        "BrandID": 71,
+        "ModelID": 416605,
+        "Brand Name": "Jeep",
+        "Model Name": "Wagoneer",
+        "Serie Name": "Wagoneer / Grand Wagoneer (WS)",
+        "Years": "2021 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline",
+          "engine": "5.7L V8 / 6.4L V8 / 3.0L I6 Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Wagoneer i Grand Wagoneer to powrót ikony. Potężny, luksusowy SUV, który rzuca wyzwanie Cadillacowi Escalade, oferując niesamowity komfort i przestrzeń.",
+              "en": "Wagoneer and Grand Wagoneer are the return of an icon. A powerful, luxurious SUV that challenges the Cadillac Escalade with incredible comfort and space.",
+              "de": "Wagoneer und Grand Wagoneer sind die Rückkehr einer Ikone. Ein leistungsstarker, luxuriöser SUV, der den Cadillac Escalade mit unglaublichem Komfort und Platzangebot herausfordert.",
+              "uk": "Wagoneer і Grand Wagoneer — повернення ікони. Потужний, розкішний позашляховик, який кидає виклик Cadillac Escalade неймовірним комфортом і простором.",
+              "ru": "Wagoneer и Grand Wagoneer — возвращение иконы. Мощный, роскошный внедорожник, бросающий вызов Cadillac Escalade невероятным комфортом и простором.",
+              "zh": "Wagoneer 和 Grand Wagoneer 是标志性的回归。一款功能强大的豪华 SUV，以令人难以置信的舒适度和空间挑战凯迪拉克凯雷德。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jeep"
+              },
+              "okres produkcji": {
+                "pl": "od 2021",
+                "en": "from 2021",
+                "de": "ab 2021",
+                "uk": "з 2021 року",
+                "ru": "с 2021 года.",
+                "zh": "2021 年起"
+              },
+              "segment": {
+                "pl": "Full-size SUV",
+                "en": "Full-size SUV",
+                "de": "Full-Size-SUV",
+                "uk": "Повнорозмірний позашляховик",
+                "ru": "Полноразмерный внедорожник.",
+                "zh": "全尺寸 SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Wrangler": [
+      {
+        "BrandID": 71,
+        "ModelID": 414202,
+        "Brand Name": "Jeep",
+        "Model Name": "Wrangler",
+        "Serie Name": "Wrangler YJ",
+        "Years": "1986 - 1995",
+        "specs": {
+          "bodyType": "SUV/Convertible",
+          "segment": "Off-Road",
+          "drive": "4WD",
+          "fuel": "Gasoline",
+          "engine": "2.5L / 4.0L I6 / 4.2L I6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Jeep Wrangler (YJ) to pierwszy model o tej nazwie, następca CJ-7. Wyróżnia się prostokątnymi reflektorami (jedyny taki Wrangler) i zawieszeniem na resorach piórowych.",
+              "en": "Jeep Wrangler (YJ) is the first model with this name, the successor to the CJ-7. It is distinguished by rectangular headlights (the only one of its kind in Wrangler) and leaf spring suspension.",
+              "de": "Jeep Wrangler (YJ) ist das erste Modell mit diesem Namen, der Nachfolger des CJ-7. Es zeichnet sich durch rechteckige Scheinwerfer (die einzigen seiner Art im Wrangler) und eine Blattfederung aus.",
+              "uk": "Jeep Wrangler (YJ) — перша модель з такою назвою, спадкоємець CJ-7. Його відрізняють прямокутні фари (єдині в своєму роді у Wrangler) і ресорна підвіска.",
+              "ru": "Jeep Wrangler (YJ) — первая модель с таким названием, преемница CJ-7. Его отличают прямоугольные фары (единственные в своем роде у Wrangler) и рессорная подвеска.",
+              "zh": "Jeep 牧马人 (YJ) 是第一款同名车型，是 CJ-7 的后继车型。它的特点是矩形前灯（牧马人中唯一的一种）和板簧悬架。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jeep"
+              },
+              "okres produkcji": "1986–1995",
+              "segment": {
+                "pl": "Off-road SUV",
+                "en": "Off-road SUV",
+                "de": "Gelände-SUV",
+                "uk": "Позашляховик",
+                "ru": "Внедорожный внедорожник",
+                "zh": "越野SUV"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9h/kp/y4hsmgcos4g8o0ccgw0c4/jeep-wrangler-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 71,
+        "ModelID": 413229,
+        "Brand Name": "Jeep",
+        "Model Name": "Wrangler",
+        "Serie Name": "Wrangler TJ",
+        "Years": "1997 - 2006",
+        "specs": {
+          "bodyType": "SUV/Convertible",
+          "segment": "Off-Road",
+          "drive": "4WD",
+          "fuel": "Gasoline",
+          "engine": "2.4L / 2.5L / 4.0L I6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Model TJ przywrócił okrągłe reflektory i wprowadził zawieszenie na sprężynach śrubowych, znacząco poprawiając komfort jazdy bez utraty dzielności terenowej.",
+              "en": "The TJ model restored round headlights and introduced coil spring suspension, significantly improving driving comfort without losing off-road capability.",
+              "de": "Beim TJ-Modell wurden runde Scheinwerfer wiederhergestellt und eine Schraubenfederaufhängung eingeführt, wodurch der Fahrkomfort deutlich verbessert wurde, ohne dass die Geländetauglichkeit verloren ging.",
+              "uk": "Модель TJ відновила круглі фари та представила підвіску з гвинтовими пружинами, що значно покращило комфорт водіння без втрати прохідності.",
+              "ru": "В модели TJ были восстановлены круглые фары и введена пружинная подвеска, что значительно повысило комфорт вождения без потери внедорожных качеств.",
+              "zh": "TJ车型恢复了圆形大灯，并引入螺旋弹簧悬架，显着提高驾驶舒适性，同时又不失越野能力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jeep"
+              },
+              "okres produkcji": "1997–2006",
+              "segment": {
+                "pl": "Off-road SUV",
+                "en": "Off-road SUV",
+                "de": "Offroad-SUV",
+                "uk": "Позашляховик",
+                "ru": "Внедорожник",
+                "zh": "越野 SUV"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9h/kp/y4hsmgcos4g8o0ccgw0c4/jeep-wrangler-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 71,
+        "ModelID": 413230,
+        "Brand Name": "Jeep",
+        "Model Name": "Wrangler",
+        "Serie Name": "Wrangler JK",
+        "Years": "2007 - 2018",
+        "specs": {
+          "bodyType": "SUV/Convertible",
+          "segment": "Off-Road",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.6L V6 / 3.8L V6 / 2.8L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Wrangler JK to rewolucja – po raz pierwszy dostępny także w wersji 4-drzwiowej (Unlimited), co uczyniło go autem rodzinnym i ogromnym sukcesem rynkowym.",
+              "en": "Wrangler JK is a revolution - for the first time also available in a 4-door version (Unlimited), which made it a family car and a huge market success.",
+              "de": "Wrangler JK ist eine Revolution – erstmals auch als 4-Türer (Unlimited) erhältlich, was ihn zum Familienauto und großen Markterfolg machte.",
+              "uk": "Wrangler JK — це революція — вперше також доступний у 4-дверній версії (Unlimited), що зробило його сімейним автомобілем і має величезний успіх на ринку.",
+              "ru": "Wrangler JK — это революция: впервые он доступен также в 4-дверной версии (Unlimited), что сделало его семейным автомобилем и имело огромный успех на рынке.",
+              "zh": "牧马人 JK 是一场革命 - 首次推出 4 门版本（无限），这使其成为家庭用车并取得了巨大的市场成功。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jeep"
+              },
+              "okres produkcji": "2007–2018",
+              "segment": {
+                "pl": "Off-road SUV",
+                "en": "Off-road SUV",
+                "de": "Gelände-SUV",
+                "uk": "Позашляховик",
+                "ru": "Внедорожник",
+                "zh": "越野SUV"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9h/kp/y4hsmgcos4g8o0ccgw0c4/jeep-wrangler-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 71,
+        "ModelID": 416606,
+        "Brand Name": "Jeep",
+        "Model Name": "Wrangler",
+        "Serie Name": "Wrangler JL",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "SUV/Convertible",
+          "segment": "Off-Road",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "2.0L Turbo / 3.6L V6 / 6.4L V8 / PHEV (4xe)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "3"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Najnowszy Wrangler (JL) to perfekcyjne połączenie klasyki z nowoczesnością. Lżejszy, bardziej cyfrowy, dostępny jako hybryda 4xe, ale wciąż niepokonany w terenie.",
+              "en": "The newest Wrangler (JL) is a perfect combination of classic and modern. Lighter, more digital, available as a 4xe hybrid, but still unbeatable off-road.",
+              "de": "Der neueste Wrangler (JL) ist eine perfekte Kombination aus Klassik und Moderne. Leichter, digitaler, als 4xe-Hybrid erhältlich, aber im Gelände immer noch unschlagbar.",
+              "uk": "Найновіший Wrangler (JL) — ідеальне поєднання класики та сучасності. Легший, більш цифровий, доступний як гібрид 4xe, але все ще неперевершений на бездоріжжі.",
+              "ru": "Новейший Wrangler (JL) представляет собой идеальное сочетание классики и современности. Легче, более цифровой, доступен в виде гибрида 4xe, но при этом непревзойден на бездорожье.",
+              "zh": "最新款牧马人（JL）是经典与现代的完美结合。更轻，更数字化，可作为 4xe 混合动力，但仍然具有无与伦比的越野能力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jeep"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "from 2018",
+                "de": "ab 2018",
+                "uk": "з 2018",
+                "ru": "от 2018 г.",
+                "zh": "2018 年起"
+              },
+              "segment": {
+                "pl": "Off-road SUV",
+                "en": "Off-road SUV",
+                "de": "Gelände-SUV",
+                "uk": "Позашляховик",
+                "ru": "Внедорожник",
+                "zh": "越野 SUV"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9h/kp/y4hsmgcos4g8o0ccgw0c4/jeep-wrangler-iii.310.jpg"
+        }
+      }
+    ]
+  }
+}

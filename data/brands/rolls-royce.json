@@ -1,0 +1,457 @@
+{
+  "brand": "Rolls-Royce",
+  "models": {
+    "Phantom": [
+      {
+        "BrandID": 110,
+        "ModelID": 414307,
+        "Brand Name": "Rolls-Royce",
+        "Model Name": "Phantom",
+        "Serie Name": "Phantom VII",
+        "Years": "2003 - 2017",
+        "specs": {
+          "bodyType": "Sedan/Coupe/Convertible",
+          "segment": "Ultra-Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "6.75L V12",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Rolls-Royce Phantom to flagowa limuzyna marki, uosobienie bogactwa i statusu. Oferuje 'Magic Carpet Ride' – niezrównany komfort podróży.",
+              "en": "The Rolls-Royce Phantom is the brand's flagship limousine, the epitome of wealth and status. It offers 'Magic Carpet Ride' - unrivaled travel comfort.",
+              "de": "Der Rolls-Royce Phantom ist die Flaggschiff-Limousine der Marke, der Inbegriff von Reichtum und Status. Es bietet „Magic Carpet Ride“ – unübertroffenen Reisekomfort.",
+              "uk": "Rolls-Royce Phantom — флагманський лімузин марки, втілення багатства та статусу. Він пропонує «Magic Carpet Ride» — неперевершений комфорт подорожі.",
+              "ru": "Rolls-Royce Phantom — флагманский лимузин бренда, воплощение богатства и статуса. Он предлагает «Поездку на волшебном ковре» — непревзойденный комфорт путешествия.",
+              "zh": "劳斯莱斯幻影是该品牌的旗舰豪华轿车，是财富和地位的缩影。它提供“魔毯之旅”——无与伦比的旅行舒适度。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Rolls-Royce"
+              },
+              "okres produkcji": {
+                "pl": "od 1925 (seria)",
+                "en": "from 1925 (series)",
+                "de": "von 1925 (Serie)",
+                "uk": "з 1925 року (серія)",
+                "ru": "1925 года (серия)",
+                "zh": "从 1925 年开始（系列）"
+              },
+              "segment": {
+                "pl": "F (Luksusowy)",
+                "en": "F (Luxury)",
+                "de": "F (Luxus)",
+                "uk": "F (Luxury)",
+                "ru": "F (Роскошь)",
+                "zh": "F（豪华）"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1r/du/gaoora5cgccocccos8w08/rolls-royve-phantom-2003.310.jpg"
+        }
+      },
+      {
+        "BrandID": 110,
+        "ModelID": 415370,
+        "Brand Name": "Rolls-Royce",
+        "Model Name": "Phantom",
+        "Serie Name": "Phantom VIII",
+        "Years": "2017 - Present",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Ultra-Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "6.75L V12 Twin Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Rolls-Royce Phantom to flagowa limuzyna marki, uosobienie bogactwa i statusu. Oferuje 'Magic Carpet Ride' – niezrównany komfort podróży.",
+              "en": "Rolls-Royce Phantom is the brand's flagship limousine, the epitome of wealth and status. It offers 'Magic Carpet Ride' - unrivaled travel comfort.",
+              "de": "Rolls-Royce Phantom ist die Flaggschiff-Limousine der Marke, der Inbegriff von Reichtum und Status. Es bietet „Magic Carpet Ride“ – unübertroffenen Reisekomfort.",
+              "uk": "Rolls-Royce Phantom — флагманський лімузин марки, втілення багатства та статусу. Він пропонує «Magic Carpet Ride» — неперевершений комфорт подорожі.",
+              "ru": "Rolls-Royce Phantom — флагманский лимузин бренда, воплощение богатства и статуса. Он предлагает «Поездку на волшебном ковре» — непревзойденный комфорт путешествия.",
+              "zh": "劳斯莱斯幻影是该品牌的旗舰豪华轿车，是财富和地位的缩影。它提供“魔毯之旅”——无与伦比的旅行舒适度。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Rolls-Royce"
+              },
+              "okres produkcji": {
+                "pl": "od 1925 (seria)",
+                "en": "from 1925 (series)",
+                "de": "ab 1925 (Serie)",
+                "uk": "з 1925 року (серія)",
+                "ru": "1925 года (серия)",
+                "zh": "从 1925 年开始（系列）"
+              },
+              "segment": {
+                "pl": "F (Luksusowy)",
+                "en": "F (Luxury)",
+                "de": "F (Luxus)",
+                "uk": "F (Luxury)",
+                "ru": "F (Luxury)",
+                "zh": "F（豪华）"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1r/du/gaoora5cgccocccos8w08/rolls-royve-phantom-2003.310.jpg"
+        }
+      }
+    ],
+    "Ghost": [
+      {
+        "BrandID": 110,
+        "ModelID": 414308,
+        "Brand Name": "Rolls-Royce",
+        "Model Name": "Ghost",
+        "Serie Name": "Ghost I",
+        "Years": "2009 - 2020",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Ultra-Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "6.6L V12 Twin Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rolls_Royce_Ghost_%28Series_I%29_in_white%2C_rear_6.24.18.jpg/1280px-Rolls_Royce_Ghost_%28Series_I%29_in_white%2C_rear_6.24.18.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rolls_Royce_Ghost_%28Series_I%29_in_white%2C_rear_6.24.18.jpg/1280px-Rolls_Royce_Ghost_%28Series_I%29_in_white%2C_rear_6.24.18.jpg"
+            ],
+            "description": {
+              "pl": "Rolls-Royce Ghost to nieco mniejsza limuzyna, skierowana do klientów, którzy wolą sami prowadzić swoje auto. Wciąż oferuje najwyższy poziom luksusu.",
+              "en": "Rolls-Royce Ghost is a slightly smaller limousine, aimed at customers who prefer to drive their own car. It still offers the highest level of luxury.",
+              "de": "Rolls-Royce Ghost ist eine etwas kleinere Limousine, die sich an Kunden richtet, die lieber ihr eigenes Auto fahren. Es bietet immer noch ein Höchstmaß an Luxus.",
+              "uk": "Rolls-Royce Ghost — це трохи менший лімузин, орієнтований на клієнтів, які віддають перевагу їзді на власному автомобілі. Він все ще пропонує найвищий рівень розкоші.",
+              "ru": "Rolls-Royce Ghost — лимузин немного меньшего размера, ориентированный на клиентов, предпочитающих ездить на собственном автомобиле. Он по-прежнему предлагает высочайший уровень роскоши.",
+              "zh": "劳斯莱斯古思特是一款稍小的豪华轿车，针对喜欢驾驶自己的汽车的客户。它仍然提供最高水平的奢华。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Rolls-Royce"
+              },
+              "okres produkcji": {
+                "pl": "od 2009",
+                "en": "from 2009",
+                "de": "ab 2009",
+                "uk": "з 2009 року",
+                "ru": "от 2009 года.",
+                "zh": "自2009年以来"
+              },
+              "segment": {
+                "pl": "F (Luksusowy)",
+                "en": "F (Luxury)",
+                "de": "F (Luxus)",
+                "uk": "F (Luxury)",
+                "ru": "F (Luxury)",
+                "zh": "F（豪华）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 110,
+        "ModelID": 415412,
+        "Brand Name": "Rolls-Royce",
+        "Model Name": "Ghost",
+        "Serie Name": "Ghost II",
+        "Years": "2020 - Present",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Ultra-Luxury",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "6.75L V12 Twin Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rolls_Royce_Ghost_%28Series_I%29_in_white%2C_rear_6.24.18.jpg/1280px-Rolls_Royce_Ghost_%28Series_I%29_in_white%2C_rear_6.24.18.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rolls_Royce_Ghost_%28Series_I%29_in_white%2C_rear_6.24.18.jpg/1280px-Rolls_Royce_Ghost_%28Series_I%29_in_white%2C_rear_6.24.18.jpg"
+            ],
+            "description": {
+              "pl": "Rolls-Royce Ghost to nieco mniejsza limuzyna, skierowana do klientów, którzy wolą sami prowadzić swoje auto. Wciąż oferuje najwyższy poziom luksusu.",
+              "en": "Rolls-Royce Ghost is a slightly smaller limousine, aimed at customers who prefer to drive their own car. It still offers the highest level of luxury.",
+              "de": "Rolls-Royce Ghost ist eine etwas kleinere Limousine, die sich an Kunden richtet, die lieber ihr eigenes Auto fahren. Es bietet immer noch ein Höchstmaß an Luxus.",
+              "uk": "Rolls-Royce Ghost — це трохи менший лімузин, орієнтований на клієнтів, які віддають перевагу їзді на власному автомобілі. Він все ще пропонує найвищий рівень розкоші.",
+              "ru": "Rolls-Royce Ghost — лимузин немного меньшего размера, ориентированный на клиентов, предпочитающих водить собственный автомобиль. Он по-прежнему предлагает высочайший уровень роскоши.",
+              "zh": "劳斯莱斯古思特是一款稍小的豪华轿车，针对喜欢驾驶自己的汽车的客户。它仍然提供最高水平的奢华。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Rolls-Royce"
+              },
+              "okres produkcji": {
+                "pl": "od 2009",
+                "en": "from 2009",
+                "de": "ab 2009",
+                "uk": "з 2009 року",
+                "ru": "с 2009 года.",
+                "zh": "自2009年以来"
+              },
+              "segment": {
+                "pl": "F (Luksusowy)",
+                "en": "F (Luxury)",
+                "de": "F (Luxus)",
+                "uk": "F (Luxury)",
+                "ru": "F (Роскошь)",
+                "zh": "F（豪华）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Wraith": [
+      {
+        "BrandID": 110,
+        "ModelID": 414309,
+        "Brand Name": "Rolls-Royce",
+        "Model Name": "Wraith",
+        "Serie Name": "Wraith",
+        "Years": "2013 - 2023",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Ultra-Luxury Coupe",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "6.6L V12 Twin Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Rolls-Royce to synonim absolutnego luksusu i perfekcji. Każdy egzemplarz jest składany ręcznie z najlepszych materiałów na świecie.",
+              "en": "Rolls-Royce is synonymous with absolute luxury and perfection. Each piece is hand-assembled from the best materials in the world.",
+              "de": "Rolls-Royce steht für absoluten Luxus und Perfektion. Jedes Stück wird aus den besten Materialien der Welt von Hand zusammengesetzt.",
+              "uk": "Rolls-Royce є синонімом абсолютної розкоші та досконалості. Кожен елемент збирається вручну з найкращих матеріалів у світі.",
+              "ru": "Rolls-Royce — синоним абсолютной роскоши и совершенства. Каждое изделие собирается вручную из лучших материалов в мире.",
+              "zh": "劳斯莱斯是绝对奢华和完美的代名词。每件作品均采用世界上最好的材料手工组装而成。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Rolls-Royce Motor Cars (BMW)",
+                "en": "Rolls-Royce Motor Cars (BMW)",
+                "de": "Rolls-Royce Motor Cars (BMW)",
+                "uk": "Rolls-Royce Motor Cars (BMW)",
+                "ru": "Rolls-Royce Motor Cars (BMW)",
+                "zh": "劳斯莱斯汽车（宝马）"
+              },
+              "siedziba": {
+                "pl": "Goodwood, UK",
+                "en": "Goodwood, UK",
+                "de": "Goodwood, Großbritannien",
+                "uk": "Гудвуд, Великобританія",
+                "ru": "Гудвуд, Великобритания",
+                "zh": "英国古德伍德"
+              },
+              "założona": {
+                "pl": "1904 (marka), 1998 (obecna firma)",
+                "en": "1904 (make), 1998 (current company)",
+                "de": "1904 (Marke), 1998 (aktuelles Unternehmen)",
+                "uk": "1904 (марка), 1998 (поточна компанія)",
+                "ru": "1904 (производитель), 1998 (нынешняя компания)",
+                "zh": "1904（品牌）、1998（现公司）"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Dawn": [
+      {
+        "BrandID": 110,
+        "ModelID": 415368,
+        "Brand Name": "Rolls-Royce",
+        "Model Name": "Dawn",
+        "Serie Name": "Dawn",
+        "Years": "2015 - 2023",
+        "specs": {
+          "bodyType": "Convertible",
+          "segment": "Ultra-Luxury Convertible",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "6.6L V12 Twin Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Rolls-Royce to synonim absolutnego luksusu i perfekcji. Każdy egzemplarz jest składany ręcznie z najlepszych materiałów na świecie.",
+              "en": "Rolls-Royce is synonymous with absolute luxury and perfection. Each piece is hand-assembled from the best materials in the world.",
+              "de": "Rolls-Royce ist ein Synonym für absoluten Luxus und Perfektion. Jedes Stück wird aus den besten Materialien der Welt von Hand zusammengesetzt.",
+              "uk": "Rolls-Royce є синонімом абсолютної розкоші та досконалості. Кожен елемент збирається вручну з найкращих матеріалів у світі.",
+              "ru": "Rolls-Royce является синонимом абсолютной роскоши и совершенства. Каждое изделие собирается вручную из лучших материалов в мире.",
+              "zh": "劳斯莱斯是绝对奢华和完美的代名词。每件作品均采用世界上最好的材料手工组装而成。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Rolls-Royce Motor Cars (BMW)",
+                "en": "Rolls-Royce Motor Cars (BMW)",
+                "de": "Rolls-Royce Motor Cars (BMW)",
+                "uk": "Rolls-Royce Motor Cars (BMW)",
+                "ru": "Rolls-Royce Motor Cars (BMW)",
+                "zh": "劳斯莱斯汽车（宝马）"
+              },
+              "siedziba": {
+                "pl": "Goodwood, UK",
+                "en": "Goodwood, UK",
+                "de": "Goodwood, Großbritannien",
+                "uk": "Гудвуд, Великобританія",
+                "ru": "Гудвуд, Великобритания",
+                "zh": "英国古德伍德"
+              },
+              "założona": {
+                "pl": "1904 (marka), 1998 (obecna firma)",
+                "en": "1904 (brand), 1998 (current company)",
+                "de": "1904 (Marke), 1998 (aktuelles Unternehmen)",
+                "uk": "1904 (бренд), 1998 (поточна компанія)",
+                "ru": "1904 (торговая марка), 1998 (нынешняя компания)",
+                "zh": "1904（品牌）、1998（现公司）"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Cullinan": [
+      {
+        "BrandID": 110,
+        "ModelID": 415565,
+        "Brand Name": "Rolls-Royce",
+        "Model Name": "Cullinan",
+        "Serie Name": "Cullinan",
+        "Years": "2018 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Ultra-Luxury SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "6.75L V12 Twin Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Rolls-Royce Cullinan to pierwszy SUV w historii marki. Pozwala cieszyć się luksusem Rolls-Royce'a w każdym terenie.",
+              "en": "The Rolls-Royce Cullinan is the first SUV in the brand's history. It allows you to enjoy the luxury of a Rolls-Royce on any terrain.",
+              "de": "Der Rolls-Royce Cullinan ist der erste SUV in der Geschichte der Marke. Damit können Sie in jedem Gelände den Luxus eines Rolls-Royce genießen.",
+              "uk": "Rolls-Royce Cullinan — перший позашляховик в історії бренду. Це дозволяє насолоджуватися розкішшю Rolls-Royce на будь-якій місцевості.",
+              "ru": "Rolls-Royce Cullinan — первый внедорожник в истории бренда. Он позволяет вам наслаждаться роскошью Rolls-Royce на любой местности.",
+              "zh": "劳斯莱斯库里南是该品牌历史上的第一款SUV。它让您在任何地形上都能享受劳斯莱斯的奢华。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Rolls-Royce"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "from 2018",
+                "de": "ab 2018",
+                "uk": "з 2018 року",
+                "ru": "с 2018 года.",
+                "zh": "2018年以来"
+              },
+              "segment": {
+                "pl": "F-SUV (Luksusowy)",
+                "en": "F-SUV (Luxury)",
+                "de": "F-SUV (Luxus)",
+                "uk": "F-SUV (Luxury)",
+                "ru": "F-SUV (Luxury)",
+                "zh": "F-SUV（豪华）"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Spectre": [
+      {
+        "BrandID": 110,
+        "ModelID": 416575,
+        "Brand Name": "Rolls-Royce",
+        "Model Name": "Spectre",
+        "Serie Name": "Spectre",
+        "Years": "2023 - Present",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Ultra-Luxury Coupe",
+          "drive": "AWD",
+          "fuel": "Electric",
+          "engine": "Electric Motor 102kWh",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Rolls-Royce to synonim absolutnego luksusu i perfekcji. Każdy egzemplarz jest składany ręcznie z najlepszych materiałów na świecie.",
+              "en": "Rolls-Royce is synonymous with absolute luxury and perfection. Each piece is hand-assembled from the best materials in the world.",
+              "de": "Rolls-Royce steht für absoluten Luxus und Perfektion. Jedes Stück wird aus den besten Materialien der Welt von Hand zusammengesetzt.",
+              "uk": "Rolls-Royce є синонімом абсолютної розкоші та досконалості. Кожен елемент збирається вручну з найкращих матеріалів у світі.",
+              "ru": "Rolls-Royce — синоним абсолютной роскоши и совершенства. Каждое изделие собирается вручную из лучших материалов в мире.",
+              "zh": "劳斯莱斯是绝对奢华和完美的代名词。每件作品均采用世界上最好的材料手工组装而成。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Rolls-Royce Motor Cars (BMW)",
+                "en": "Rolls-Royce Motor Cars (BMW)",
+                "de": "Rolls-Royce Motor Cars (BMW)",
+                "uk": "Rolls-Royce Motor Cars (BMW)",
+                "ru": "Автомобили Rolls-Royce (BMW)",
+                "zh": "劳斯莱斯汽车（宝马）"
+              },
+              "siedziba": {
+                "pl": "Goodwood, UK",
+                "en": "Goodwood, UK",
+                "de": "Goodwood, Großbritannien",
+                "uk": "Гудвуд, Великобританія",
+                "ru": "Гудвуд, Великобритания",
+                "zh": "英国古德伍德"
+              },
+              "założona": {
+                "pl": "1904 (marka), 1998 (obecna firma)",
+                "en": "1904 (brand), 1998 (current company)",
+                "de": "1904 (Marke), 1998 (aktuelles Unternehmen)",
+                "uk": "1904 (бренд), 1998 (поточна компанія)",
+                "ru": "1904 г. (торговая марка), 1998 г. (нынешняя компания)",
+                "zh": "1904（品牌），1998（现公司）"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

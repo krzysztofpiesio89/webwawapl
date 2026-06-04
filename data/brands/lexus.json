@@ -1,0 +1,1820 @@
+{
+  "brand": "Lexus",
+  "models": {
+    "CT": [
+      {
+        "BrandID": 82,
+        "ModelID": 845,
+        "Brand Name": "Lexus",
+        "Model Name": "CT",
+        "Serie Name": "CT 200h",
+        "Years": "2010 - 2022",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Compact Luxury Hybrid",
+          "drive": "FWD",
+          "fuel": "Hybrid",
+          "engine": "1.8L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lexus_CT_200h_Executive_Line_%28ZWA10%29_%E2%80%93_Frontansicht%2C_16._M%C3%A4rz_2014%2C_D%C3%BCsseldorf.jpg/1280px-Lexus_CT_200h_Executive_Line_%28ZWA10%29_%E2%80%93_Frontansicht%2C_16._M%C3%A4rz_2014%2C_D%C3%BCsseldorf.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lexus_CT_200h_Executive_Line_%28ZWA10%29_%E2%80%93_Frontansicht%2C_16._M%C3%A4rz_2014%2C_D%C3%BCsseldorf.jpg/1280px-Lexus_CT_200h_Executive_Line_%28ZWA10%29_%E2%80%93_Frontansicht%2C_16._M%C3%A4rz_2014%2C_D%C3%BCsseldorf.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lexus_CT_200h_Executive_Line_%28ZWA10%29_%E2%80%93_Heckansicht%2C_16._M%C3%A4rz_2014%2C_D%C3%BCsseldorf.jpg/1280px-Lexus_CT_200h_Executive_Line_%28ZWA10%29_%E2%80%93_Heckansicht%2C_16._M%C3%A4rz_2014%2C_D%C3%BCsseldorf.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Lexus_CT200h_Fsport_2014_Interior_Japan.JPG/1280px-Lexus_CT200h_Fsport_2014_Interior_Japan.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lexus_CT200h_F_SPORT_%28DAA-ZWA10-AHXBB%29_front.jpg/1280px-Lexus_CT200h_F_SPORT_%28DAA-ZWA10-AHXBB%29_front.jpg"
+            ],
+            "description": {
+              "pl": "Lexus CT 200h to luksusowy, kompaktowy hatchback z napędem hybrydowym. Łączy prestiż marki z oszczędnością i niezawodnością układu znanego z Toyoty Prius.",
+              "en": "Lexus CT 200h is a luxurious, compact hatchback with a hybrid drive. It combines the prestige of the brand with the economy and reliability of the system known from the Toyota Prius.",
+              "de": "Der Lexus CT 200h ist ein luxuriöses, kompaktes Fließheckmodell mit Hybridantrieb. Es verbindet das Prestige der Marke mit der Wirtschaftlichkeit und Zuverlässigkeit des vom Toyota Prius bekannten Systems.",
+              "uk": "Lexus CT 200h – розкішний компактний хетчбек з гібридним приводом. Він поєднує в собі престиж бренду з економічністю та надійністю системи, відомої з Toyota Prius.",
+              "ru": "Lexus CT 200h — роскошный компактный хэтчбек с гибридным приводом. Он сочетает в себе престиж бренда с экономичностью и надежностью системы, известной по Toyota Prius.",
+              "zh": "雷克萨斯 CT 200h 是一款采用混合动力驱动的豪华紧凑型掀背车。它将品牌的声望与丰田普锐斯众所周知的系统的经济性和可靠性结合在一起。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "okres produkcji": "2010–2022",
+              "segment": {
+                "pl": "Compact Luxury",
+                "en": "Compact Luxury",
+                "de": "Kompakter Luxus",
+                "uk": "Компактний розкішний",
+                "ru": "Компактный люксовый автомобиль",
+                "zh": "紧凑型豪华车"
+              },
+              "napęp": {
+                "pl": "Hybrid (FWD)",
+                "en": "Hybrid (FWD)",
+                "de": "Hybrid (FWD)",
+                "uk": "Гібридний (FWD)",
+                "ru": "Гибрид (FWD)",
+                "zh": "混合动力车 (FWD)"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4q/lo/pby52c2so4o80g4000kss/lexus-ct-i-hatchback.310.jpg"
+        }
+      }
+    ],
+    "ES": [
+      {
+        "BrandID": 82,
+        "ModelID": 413272,
+        "Brand Name": "Lexus",
+        "Model Name": "ES",
+        "Serie Name": "ES Gen 1 (V20)",
+        "Years": "1989 - 1991",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Luxury",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.5L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus to luksusowa marka Toyoty, która zrewolucjonizowała rynek premium jakością, niezawodnością i obsługą klienta. Pionier napędów hybrydowych w klasie premium.",
+              "en": "Lexus is Toyota's luxury brand that has revolutionized the premium market with quality, reliability and customer service. Pioneer of hybrid drives in the premium class.",
+              "de": "Lexus ist Toyotas Luxusmarke, die den Premiummarkt mit Qualität, Zuverlässigkeit und Kundenservice revolutioniert hat. Pionier der Hybridantriebe der Premiumklasse.",
+              "uk": "Lexus — це розкішний бренд Toyota, який зробив революцію на ринку преміум-класу завдяки якості, надійності та обслуговуванню клієнтів. Піонер гібридних приводів преміум класу.",
+              "ru": "Lexus — это люксовый бренд Toyota, который произвел революцию на рынке автомобилей премиум-класса благодаря качеству, надежности и обслуживанию клиентов. Пионер гибридных приводов премиум-класса.",
+              "zh": "雷克萨斯是丰田旗下的豪华品牌，凭借质量、可靠性和客户服务彻底改变了高端市场。高级混合动力驱动器的先驱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "siedziba": {
+                "pl": "Nagoja, Japonia",
+                "en": "Nagoya, Japan",
+                "de": "Nagoya, Japan",
+                "uk": "Нагоя, Японія",
+                "ru": "Нагоя, Япония",
+                "zh": "日本名古屋"
+              },
+              "założona": "1989"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cd/sa/aedivtsgw40kg4sw04s80/lexus-ec-v-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 82,
+        "ModelID": 413273,
+        "Brand Name": "Lexus",
+        "Model Name": "ES",
+        "Serie Name": "ES Gen 2 (XV10)",
+        "Years": "1991 - 1996",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Luxury",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "3.0L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus to luksusowa marka Toyoty, która zrewolucjonizowała rynek premium jakością, niezawodnością i obsługą klienta. Pionier napędów hybrydowych w klasie premium.",
+              "en": "Lexus is Toyota's luxury brand that has revolutionized the premium market with quality, reliability and customer service. Pioneer of hybrid drives in the premium class.",
+              "de": "Lexus ist die Luxusmarke von Toyota, die den Premiummarkt mit Qualität, Zuverlässigkeit und Kundenservice revolutioniert hat. Pionier der Hybridantriebe der Premiumklasse.",
+              "uk": "Lexus — це люксовий бренд Toyota, який зробив революцію на ринку преміум-класу завдяки якості, надійності та обслуговуванню клієнтів. Піонер гібридних приводів преміум класу.",
+              "ru": "Lexus — роскошный бренд Toyota, который произвел революцию на рынке автомобилей премиум-класса благодаря качеству, надежности и обслуживанию клиентов. Пионер гибридных приводов премиум-класса.",
+              "zh": "雷克萨斯是丰田旗下的豪华品牌，凭借质量、可靠性和客户服务彻底改变了高端市场。高级混合动力驱动器的先驱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "siedziba": {
+                "pl": "Nagoja, Japonia",
+                "en": "Nagoya, Japan",
+                "de": "Nagoya, Japan",
+                "uk": "Нагоя, Японія",
+                "ru": "Нагоя, Япония",
+                "zh": "日本名古屋"
+              },
+              "założona": "1989"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cd/sa/aedivtsgw40kg4sw04s80/lexus-ec-v-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 82,
+        "ModelID": 413274,
+        "Brand Name": "Lexus",
+        "Model Name": "ES",
+        "Serie Name": "ES Gen 3 (XV20)",
+        "Years": "1996 - 2001",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Luxury",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "3.0L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus to luksusowa marka Toyoty, która zrewolucjonizowała rynek premium jakością, niezawodnością i obsługą klienta. Pionier napędów hybrydowych w klasie premium.",
+              "en": "Lexus is Toyota's luxury brand that has revolutionized the premium market with quality, reliability and customer service. Pioneer of hybrid drives in the premium class.",
+              "de": "Lexus ist die Luxusmarke von Toyota, die den Premiummarkt mit Qualität, Zuverlässigkeit und Kundenservice revolutioniert hat. Pionier der Hybridantriebe der Premiumklasse.",
+              "uk": "Lexus — це люксовий бренд Toyota, який зробив революцію на ринку преміум-класу завдяки якості, надійності та обслуговуванню клієнтів. Піонер гібридних приводів преміум класу.",
+              "ru": "Lexus — роскошный бренд Toyota, который произвел революцию на рынке автомобилей премиум-класса благодаря качеству, надежности и обслуживанию клиентов. Пионер гибридных приводов премиум-класса.",
+              "zh": "雷克萨斯是丰田旗下的豪华品牌，凭借质量、可靠性和客户服务彻底改变了高端市场。高级混合动力驱动器的先驱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "siedziba": {
+                "pl": "Nagoja, Japonia",
+                "en": "Nagoya, Japan",
+                "de": "Nagoya, Japan",
+                "uk": "Нагоя, Японія",
+                "ru": "Нагоя, Япония",
+                "zh": "日本名古屋"
+              },
+              "założona": "1989"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cd/sa/aedivtsgw40kg4sw04s80/lexus-ec-v-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 82,
+        "ModelID": 413275,
+        "Brand Name": "Lexus",
+        "Model Name": "ES",
+        "Serie Name": "ES Gen 4 (XV30)",
+        "Years": "2001 - 2006",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Luxury",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "3.0L / 3.3L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus to luksusowa marka Toyoty, która zrewolucjonizowała rynek premium jakością, niezawodnością i obsługą klienta. Pionier napędów hybrydowych w klasie premium.",
+              "en": "Lexus is Toyota's luxury brand that has revolutionized the premium market with quality, reliability and customer service. Pioneer of hybrid drives in the premium class.",
+              "de": "Lexus ist die Luxusmarke von Toyota, die den Premiummarkt mit Qualität, Zuverlässigkeit und Kundenservice revolutioniert hat. Pionier der Hybridantriebe der Premiumklasse.",
+              "uk": "Lexus — це люксовий бренд Toyota, який зробив революцію на ринку преміум-класу завдяки якості, надійності та обслуговуванню клієнтів. Піонер гібридних приводів преміум класу.",
+              "ru": "Lexus — роскошный бренд Toyota, который произвел революцию на рынке автомобилей премиум-класса благодаря качеству, надежности и обслуживанию клиентов. Пионер гибридных приводов премиум-класса.",
+              "zh": "雷克萨斯是丰田旗下的豪华品牌，凭借质量、可靠性和客户服务彻底改变了高端市场。高级混合动力驱动器的先驱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "siedziba": {
+                "pl": "Nagoja, Japonia",
+                "en": "Nagoya, Japan",
+                "de": "Nagoya, Japan",
+                "uk": "Нагоя, Японія",
+                "ru": "Нагоя, Япония",
+                "zh": "日本名古屋"
+              },
+              "założona": "1989"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cd/sa/aedivtsgw40kg4sw04s80/lexus-ec-v-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 82,
+        "ModelID": 413276,
+        "Brand Name": "Lexus",
+        "Model Name": "ES",
+        "Serie Name": "ES Gen 5 (XV40)",
+        "Years": "2006 - 2012",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Luxury",
+          "drive": "FWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "3.5L V6 / 2.4L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus to luksusowa marka Toyoty, która zrewolucjonizowała rynek premium jakością, niezawodnością i obsługą klienta. Pionier napędów hybrydowych w klasie premium.",
+              "en": "Lexus is Toyota's luxury brand that has revolutionized the premium market with quality, reliability and customer service. Pioneer of hybrid drives in the premium class.",
+              "de": "Lexus ist die Luxusmarke von Toyota, die den Premiummarkt mit Qualität, Zuverlässigkeit und Kundenservice revolutioniert hat. Pionier der Hybridantriebe der Premiumklasse.",
+              "uk": "Lexus — це люксовий бренд Toyota, який зробив революцію на ринку преміум-класу завдяки якості, надійності та обслуговуванню клієнтів. Піонер гібридних приводів преміум класу.",
+              "ru": "Lexus — роскошный бренд Toyota, который произвел революцию на рынке автомобилей премиум-класса благодаря качеству, надежности и обслуживанию клиентов. Пионер гибридных приводов премиум-класса.",
+              "zh": "雷克萨斯是丰田旗下的豪华品牌，凭借质量、可靠性和客户服务彻底改变了高端市场。高级混合动力驱动器的先驱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "siedziba": {
+                "pl": "Nagoja, Japonia",
+                "en": "Nagoya, Japan",
+                "de": "Nagoya, Japan",
+                "uk": "Нагоя, Японія",
+                "ru": "Нагоя, Япония",
+                "zh": "日本名古屋"
+              },
+              "założona": "1989"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cd/sa/aedivtsgw40kg4sw04s80/lexus-ec-v-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 82,
+        "ModelID": 413277,
+        "Brand Name": "Lexus",
+        "Model Name": "ES",
+        "Serie Name": "ES Gen 6 (XV60)",
+        "Years": "2012 - 2018",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Luxury",
+          "drive": "FWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "3.5L V6 / 2.5L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus to luksusowa marka Toyoty, która zrewolucjonizowała rynek premium jakością, niezawodnością i obsługą klienta. Pionier napędów hybrydowych w klasie premium.",
+              "en": "Lexus is Toyota's luxury brand that has revolutionized the premium market with quality, reliability and customer service. Pioneer of hybrid drives in the premium class.",
+              "de": "Lexus ist die Luxusmarke von Toyota, die den Premiummarkt mit Qualität, Zuverlässigkeit und Kundenservice revolutioniert hat. Pionier der Hybridantriebe der Premiumklasse.",
+              "uk": "Lexus — це люксовий бренд Toyota, який зробив революцію на ринку преміум-класу завдяки якості, надійності та обслуговуванню клієнтів. Піонер гібридних приводів преміум класу.",
+              "ru": "Lexus — роскошный бренд Toyota, который произвел революцию на рынке автомобилей премиум-класса благодаря качеству, надежности и обслуживанию клиентов. Пионер гибридных приводов премиум-класса.",
+              "zh": "雷克萨斯是丰田旗下的豪华品牌，凭借质量、可靠性和客户服务彻底改变了高端市场。高级混合动力驱动器的先驱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "siedziba": {
+                "pl": "Nagoja, Japonia",
+                "en": "Nagoya, Japan",
+                "de": "Nagoya, Japan",
+                "uk": "Нагоя, Японія",
+                "ru": "Нагоя, Япония",
+                "zh": "日本名古屋"
+              },
+              "założona": "1989"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cd/sa/aedivtsgw40kg4sw04s80/lexus-ec-v-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 82,
+        "ModelID": 415518,
+        "Brand Name": "Lexus",
+        "Model Name": "ES",
+        "Serie Name": "ES Gen 7 (XZ10)",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Luxury",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.5L / 3.5L V6 / 2.5L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus ES to synonim komfortu i spokoju. Od klasycznego sedana opartego na modelu Camry po siódmą generację, która stała się globalnym fundamentem marki, oferując ogromną przestrzeń i oszczędne napędy hybrydowe.",
+              "en": "Lexus ES is synonymous with comfort and peace of mind. From the classic sedan based on the Camry model to the seventh generation, which has become the global foundation of the brand, offering huge space and fuel-efficient hybrid drives.",
+              "de": "Lexus ES ist ein Synonym für Komfort und Seelenfrieden. Von der klassischen Limousine auf Basis des Camry-Modells bis zur siebten Generation, die mit viel Platz und sparsamen Hybridantrieben zum weltweiten Fundament der Marke geworden ist.",
+              "uk": "Lexus ES є синонімом комфорту та спокою. Від класичного седана на основі моделі Camry до сьомого покоління, яке стало глобальною основою бренду, пропонуючи величезний простір і економічні гібридні приводи.",
+              "ru": "Lexus ES — синоним комфорта и душевного спокойствия. От классического седана на базе модели Camry до седьмого поколения, ставшего глобальной основой бренда, предлагающего огромный простор и экономичные гибридные приводы.",
+              "zh": "雷克萨斯 ES 是舒适、安心的代名词。从基于凯美瑞车型的经典轿车到第七代，它已成为该品牌的全球基础，提供巨大的空间和节能的混合动力驱动。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "okres produkcji": {
+                "pl": "od 1989",
+                "en": "since 1989",
+                "de": "seit 1989",
+                "uk": "з 1989 року",
+                "ru": "с 1989 года.",
+                "zh": "自 1989 年以来"
+              },
+              "segment": {
+                "pl": "Mid-size Luxury",
+                "en": "Mid-size Luxury",
+                "de": "Mittelklasse-Luxus",
+                "uk": "Розкішні автомобілі середнього розміру",
+                "ru": "Среднеразмерные автомобили класса люкс",
+                "zh": "中型豪华车"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD/AWD",
+                "uk": "FWD / AWD",
+                "ru": "Переднеприводный/полноприводный",
+                "zh": "FWD / AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cd/sa/aedivtsgw40kg4sw04s80/lexus-ec-v-sedan.310.jpg"
+        }
+      }
+    ],
+    "GS": [
+      {
+        "BrandID": 82,
+        "ModelID": 413278,
+        "Brand Name": "Lexus",
+        "Model Name": "GS",
+        "Serie Name": "GS Gen 1 (S140)",
+        "Years": "1993 - 1997",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Executive Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.0L I6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus to luksusowa marka Toyoty, która zrewolucjonizowała rynek premium jakością, niezawodnością i obsługą klienta. Pionier napędów hybrydowych w klasie premium.",
+              "en": "Lexus is the luxury brand of Toyota that has revolutionized the premium market with quality, reliability and customer service. Pioneer of hybrid drives in the premium class.",
+              "de": "Lexus ist die Luxusmarke von Toyota, die den Premiummarkt mit Qualität, Zuverlässigkeit und Kundenservice revolutioniert hat. Pionier der Hybridantriebe der Premiumklasse.",
+              "uk": "Lexus — це люксовий бренд Toyota, який зробив революцію на ринку преміум-класу завдяки якості, надійності та обслуговуванню клієнтів. Піонер гібридних приводів преміум класу.",
+              "ru": "Lexus — это люксовый бренд Toyota, который произвел революцию на рынке премиум-класса благодаря качеству, надежности и обслуживанию клиентов. Пионер гибридных приводов премиум-класса.",
+              "zh": "雷克萨斯是丰田旗下的豪华品牌，凭借质量、可靠性和客户服务彻底改变了高端市场。高级混合动力驱动器的先驱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "siedziba": {
+                "pl": "Nagoja, Japonia",
+                "en": "Nagoya, Japan",
+                "de": "Nagoya, Japan",
+                "uk": "Нагоя, Японія",
+                "ru": "Нагоя, Япония",
+                "zh": "日本名古屋"
+              },
+              "założona": "1989"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 82,
+        "ModelID": 413279,
+        "Brand Name": "Lexus",
+        "Model Name": "GS",
+        "Serie Name": "GS Gen 2 (S160)",
+        "Years": "1997 - 2005",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Executive Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.0L I6 / 4.0L / 4.3L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus to luksusowa marka Toyoty, która zrewolucjonizowała rynek premium jakością, niezawodnością i obsługą klienta. Pionier napędów hybrydowych w klasie premium.",
+              "en": "Lexus is Toyota's luxury brand that has revolutionized the premium market with quality, reliability and customer service. Pioneer of hybrid drives in the premium class.",
+              "de": "Lexus ist die Luxusmarke von Toyota, die den Premiummarkt mit Qualität, Zuverlässigkeit und Kundenservice revolutioniert hat. Pionier der Hybridantriebe der Premiumklasse.",
+              "uk": "Lexus — це люксовий бренд Toyota, який зробив революцію на ринку преміум-класу завдяки якості, надійності та обслуговуванню клієнтів. Піонер гібридних приводів преміум класу.",
+              "ru": "Lexus — роскошный бренд Toyota, который произвел революцию на рынке автомобилей премиум-класса благодаря качеству, надежности и обслуживанию клиентов. Пионер гибридных приводов премиум-класса.",
+              "zh": "雷克萨斯是丰田旗下的豪华品牌，凭借质量、可靠性和客户服务彻底改变了高端市场。高级混合动力驱动器的先驱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "siedziba": {
+                "pl": "Nagoja, Japonia",
+                "en": "Nagoya, Japan",
+                "de": "Nagoya, Japan",
+                "uk": "Нагоя, Японія",
+                "ru": "Нагоя, Япония",
+                "zh": "日本名古屋"
+              },
+              "założona": "1989"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 82,
+        "ModelID": 413280,
+        "Brand Name": "Lexus",
+        "Model Name": "GS",
+        "Serie Name": "GS Gen 3 (S190)",
+        "Years": "2005 - 2011",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Executive Car",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "3.0L / 3.5L V6 / 4.3L / 4.6L V8 / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus to luksusowa marka Toyoty, która zrewolucjonizowała rynek premium jakością, niezawodnością i obsługą klienta. Pionier napędów hybrydowych w klasie premium.",
+              "en": "Lexus is Toyota's luxury brand that has revolutionized the premium market with quality, reliability and customer service. Pioneer of hybrid drives in the premium class.",
+              "de": "Lexus ist die Luxusmarke von Toyota, die den Premiummarkt mit Qualität, Zuverlässigkeit und Kundenservice revolutioniert hat. Pionier der Hybridantriebe der Premiumklasse.",
+              "uk": "Lexus — це люксовий бренд Toyota, який зробив революцію на ринку преміум-класу завдяки якості, надійності та обслуговуванню клієнтів. Піонер гібридних приводів преміум класу.",
+              "ru": "Lexus — роскошный бренд Toyota, который произвел революцию на рынке автомобилей премиум-класса благодаря качеству, надежности и обслуживанию клиентов. Пионер гибридных приводов премиум-класса.",
+              "zh": "雷克萨斯是丰田旗下的豪华品牌，凭借质量、可靠性和客户服务彻底改变了高端市场。高级混合动力驱动器的先驱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "siedziba": {
+                "pl": "Nagoja, Japonia",
+                "en": "Nagoya, Japan",
+                "de": "Nagoya, Japan",
+                "uk": "Нагоя, Японія",
+                "ru": "Нагоя, Япония",
+                "zh": "日本名古屋"
+              },
+              "założona": "1989"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 82,
+        "ModelID": 413281,
+        "Brand Name": "Lexus",
+        "Model Name": "GS",
+        "Serie Name": "GS Gen 4 (L10)",
+        "Years": "2012 - 2020",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Executive Car",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.5L / 3.5L V6 / 5.0L V8 / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus GS to sportowa limuzyna konkurująca z BMW serii 5. Znany z nienagannej precyzji prowadzenia, trwałych silników V8 (m.in. GS F) oraz pionierskiego wykorzystania napędu hybrydowego w tej klasie.",
+              "en": "Lexus GS is a sports limousine competing with the BMW 5 Series. Known for its impeccable driving precision, durable V8 engines (including GS F) and the pioneering use of a hybrid drive in this class.",
+              "de": "Lexus GS ist eine Sportlimousine, die mit dem BMW 5er konkurriert. Bekannt für seine tadellose Fahrpräzision, langlebige V8-Motoren (u.a. GS F) und den in dieser Klasse bahnbrechenden Einsatz eines Hybridantriebs.",
+              "uk": "Lexus GS — спортивний лімузин, який конкурує з BMW 5 серії. Відомий своєю бездоганною точністю водіння, міцними двигунами V8 (включно з GS F) і новаторським використанням гібридного приводу в цьому класі.",
+              "ru": "Lexus GS — спортивный лимузин, конкурирующий с BMW 5 серии. Известный своей безупречной точностью вождения, надежными двигателями V8 (включая GS F) и новаторским использованием гибридного привода в этом классе.",
+              "zh": "雷克萨斯GS是一款与宝马5系竞争的运动型豪华轿车。以其无可挑剔的驾驶精度、耐用的 V8 发动机（包括 GS F）以及同类车型中混合动力驱动的开创性应用而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "okres produkcji": "1993–2020",
+              "segment": {
+                "pl": "Executive car",
+                "en": "Executive car",
+                "de": "Executive-Auto",
+                "uk": "Представницький автомобіль",
+                "ru": "Автомобиль представительского класса",
+                "zh": "行政车"
+              },
+              "napęd": {
+                "pl": "RWD / AWD",
+                "en": "RWD / AWD",
+                "de": "RWD / AWD",
+                "uk": "RWD / AWD",
+                "ru": "RWD/AWD",
+                "zh": "RWD / AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "GX": [
+      {
+        "BrandID": 82,
+        "ModelID": 413282,
+        "Brand Name": "Lexus",
+        "Model Name": "GX",
+        "Serie Name": "GX 470 (J120)",
+        "Years": "2002 - 2009",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline",
+          "engine": "4.7L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus to luksusowa marka Toyoty, która zrewolucjonizowała rynek premium jakością, niezawodnością i obsługą klienta. Pionier napędów hybrydowych w klasie premium.",
+              "en": "Lexus is a luxury Toyota brand that has revolutionized the premium market with quality, reliability and customer service. Pioneer of hybrid drives in the premium class.",
+              "de": "Lexus ist eine Luxusmarke von Toyota, die den Premiummarkt mit Qualität, Zuverlässigkeit und Kundenservice revolutioniert hat. Pionier der Hybridantriebe der Premiumklasse.",
+              "uk": "Lexus — це розкішний бренд Toyota, який зробив революцію на ринку преміум-класу завдяки якості, надійності та обслуговуванню клієнтів. Піонер гібридних приводів преміум класу.",
+              "ru": "Lexus — это роскошный бренд Toyota, который произвел революцию на рынке премиум-класса благодаря качеству, надежности и обслуживанию клиентов. Пионер гибридных приводов премиум-класса.",
+              "zh": "雷克萨斯是丰田豪华品牌，凭借质量、可靠性和客户服务彻底改变了高端市场。高级混合动力驱动器的先驱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "siedziba": {
+                "pl": "Nagoja, Japonia",
+                "en": "Nagoya, Japan",
+                "de": "Nagoya, Japan",
+                "uk": "Нагоя, Японія",
+                "ru": "Нагоя, Япония",
+                "zh": "日本名古屋"
+              },
+              "założona": "1989"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ej/ax/w0f0sbcc8w4kc8o4g8ggc/lexus-gx-i.310.jpg"
+        }
+      },
+      {
+        "BrandID": 82,
+        "ModelID": 413283,
+        "Brand Name": "Lexus",
+        "Model Name": "GX",
+        "Serie Name": "GX 460 (J150)",
+        "Years": "2009 - 2023",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline",
+          "engine": "4.6L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus to luksusowa marka Toyoty, która zrewolucjonizowała rynek premium jakością, niezawodnością i obsługą klienta. Pionier napędów hybrydowych w klasie premium.",
+              "en": "Lexus is Toyota's luxury brand that has revolutionized the premium market with quality, reliability and customer service. Pioneer of hybrid drives in the premium class.",
+              "de": "Lexus ist die Luxusmarke von Toyota, die den Premiummarkt mit Qualität, Zuverlässigkeit und Kundenservice revolutioniert hat. Pionier der Hybridantriebe der Premiumklasse.",
+              "uk": "Lexus — це люксовий бренд Toyota, який зробив революцію на ринку преміум-класу завдяки якості, надійності та обслуговуванню клієнтів. Піонер гібридних приводів преміум класу.",
+              "ru": "Lexus — роскошный бренд Toyota, который произвел революцию на рынке автомобилей премиум-класса благодаря качеству, надежности и обслуживанию клиентов. Пионер гибридных приводов премиум-класса.",
+              "zh": "雷克萨斯是丰田旗下的豪华品牌，凭借质量、可靠性和客户服务彻底改变了高端市场。高级混合动力驱动器的先驱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "siedziba": {
+                "pl": "Nagoja, Japonia",
+                "en": "Nagoya, Japan",
+                "de": "Nagoya, Japan",
+                "uk": "Нагоя, Японія",
+                "ru": "Нагоя, Япония",
+                "zh": "日本名古屋"
+              },
+              "założona": "1989"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ej/ax/w0f0sbcc8w4kc8o4g8ggc/lexus-gx-i.310.jpg"
+        }
+      },
+      {
+        "BrandID": 82,
+        "ModelID": 416626,
+        "Brand Name": "Lexus",
+        "Model Name": "GX",
+        "Serie Name": "GX 550 (J250)",
+        "Years": "2024 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "3.4L V6 Twin-Turbo / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus GX to luksusowy terenowiec zbudowany na solidnej ramie. Łączy niesamowitą dzielność w terenie (bazującą na Land Cruiserze) z komfortem i wykończeniem godnym flagowca.",
+              "en": "Lexus GX is a luxury off-roader built on a solid frame. It combines incredible off-road capability (based on the Land Cruiser) with comfort and finish worthy of a flagship.",
+              "de": "Der Lexus GX ist ein Luxus-Offroader auf einem soliden Rahmen. Es kombiniert unglaubliche Geländetauglichkeit (basierend auf dem Land Cruiser) mit Komfort und einem Finish, das eines Flaggschiffs würdig ist.",
+              "uk": "Lexus GX — розкішний позашляховик, побудований на міцній рамі. Він поєднує в собі неймовірну прохідність (на основі Land Cruiser) із комфортом і оздобленням, гідними флагмана.",
+              "ru": "Lexus GX — роскошный внедорожник, построенный на прочной раме. Он сочетает в себе невероятные внедорожные качества (на базе Land Cruiser) с комфортом и отделкой, достойной флагмана.",
+              "zh": "雷克萨斯 GX 是一款采用坚固框架打造的豪华越野车。它结合了令人难以置信的越野能力（基于陆地巡洋舰）与舒适性和值得旗舰产品的外观。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "okres produkcji": {
+                "pl": "od 2002",
+                "en": "from 2002",
+                "de": "ab 2002",
+                "uk": "з 2002 року",
+                "ru": "с 2002 года.",
+                "zh": "2002 年起"
+              },
+              "segment": {
+                "pl": "Full-size Luxury SUV",
+                "en": "Full-size Luxury SUV",
+                "de": "Oberklasse-Luxus-SUV",
+                "uk": "Повнорозмірний розкішний позашляховик",
+                "ru": "Полноразмерный роскошный внедорожник.",
+                "zh": "全尺寸豪华 SUV"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ej/ax/w0f0sbcc8w4kc8o4g8ggc/lexus-gx-i.310.jpg"
+        }
+      }
+    ],
+    "IS": [
+      {
+        "BrandID": 82,
+        "ModelID": 131871,
+        "Brand Name": "Lexus",
+        "Model Name": "IS",
+        "Serie Name": "IS Gen 1 (XE10)",
+        "Years": "1998 - 2005",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Compact Executive",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L / 3.0L I6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus IS to sportowy sedan, konkurent BMW Serii 3. Znany z odważnego designu i niezawodności.",
+              "en": "Lexus IS is a sports sedan, a competitor to the BMW 3 Series. Known for its bold design and reliability.",
+              "de": "Lexus IS ist eine Sportlimousine, ein Konkurrent des BMW 3er. Bekannt für sein kühnes Design und seine Zuverlässigkeit.",
+              "uk": "Lexus IS — спортивний седан, конкурент BMW 3 серії. Відомий своїм сміливим дизайном і надійністю.",
+              "ru": "Lexus IS — спортивный седан, конкурент BMW 3 серии. Известен своим смелым дизайном и надежностью.",
+              "zh": "雷克萨斯 IS 是一款运动型轿车，是宝马 3 系的竞争对手。 Known for its bold design and reliability."
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "okres produkcji": {
+                "pl": "od 1998",
+                "en": "from 1998",
+                "de": "ab 1998",
+                "uk": "з 1998 року",
+                "ru": "с 1998 года.",
+                "zh": "1998 年生产"
+              },
+              "segment": {
+                "pl": "D (Premium)",
+                "en": "D (Premium)",
+                "de": "D (Premium)",
+                "uk": "D (Premium)",
+                "ru": "D (Премиум)",
+                "zh": "D（高级）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cz/wj/awd94xwgs4oocwc8gcc00/lexus-is-03.310.jpg"
+        }
+      },
+      {
+        "BrandID": 82,
+        "ModelID": 169131,
+        "Brand Name": "Lexus",
+        "Model Name": "IS",
+        "Serie Name": "IS Gen 2 (XE20)",
+        "Years": "2005 - 2013",
+        "specs": {
+          "bodyType": "Sedan/Convertible",
+          "segment": "Compact Executive",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.5L / 3.5L V6 / 5.0L V8 / 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus IS to sportowy sedan, konkurent BMW Serii 3. Znany z odważnego designu i niezawodności.",
+              "en": "Lexus IS is a sports sedan, a competitor to the BMW 3 Series. Known for its bold design and reliability.",
+              "de": "Lexus IS ist eine Sportlimousine, ein Konkurrent des BMW 3er. Bekannt für sein kühnes Design und seine Zuverlässigkeit.",
+              "uk": "Lexus IS — спортивний седан, конкурент BMW 3 серії. Відомий своїм сміливим дизайном і надійністю.",
+              "ru": "Lexus IS — спортивный седан, конкурент BMW 3 серии. Известен своим смелым дизайном и надежностью.",
+              "zh": "雷克萨斯 IS 是一款运动型轿车，是宝马 3 系的竞争对手。以其大胆的设计和可靠性而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "okres produkcji": {
+                "pl": "od 1998",
+                "en": "from 1998",
+                "de": "ab 1998",
+                "uk": "з 1998 року",
+                "ru": "с 1998 года.",
+                "zh": "1998 年生产"
+              },
+              "segment": {
+                "pl": "D (Premium)",
+                "en": "D (Premium)",
+                "de": "D (Premium)",
+                "uk": "D (Premium)",
+                "ru": "D (Премиум)",
+                "zh": "D（高级）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cz/wj/awd94xwgs4oocwc8gcc00/lexus-is-03.310.jpg"
+        }
+      },
+      {
+        "BrandID": 82,
+        "ModelID": 413284,
+        "Brand Name": "Lexus",
+        "Model Name": "IS",
+        "Serie Name": "IS Gen 3 (XE30)",
+        "Years": "2013 - 3000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Compact Executive",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.0L Turbo / 2.5L / 3.5L V6 / 5.0L V8 / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus IS to sportowy sedan, konkurent BMW Serii 3. Znany z odważnego designu i niezawodności.",
+              "en": "Lexus IS is a sports sedan, a competitor to the BMW 3 Series. Known for its bold design and reliability.",
+              "de": "Lexus IS ist eine Sportlimousine, ein Konkurrent des BMW 3er. Bekannt für sein kühnes Design und seine Zuverlässigkeit.",
+              "uk": "Lexus IS — спортивний седан, конкурент BMW 3 серії. Відомий своїм сміливим дизайном і надійністю.",
+              "ru": "Lexus IS — спортивный седан, конкурент BMW 3 серии. Известен своим смелым дизайном и надежностью.",
+              "zh": "雷克萨斯 IS 是一款运动型轿车，是宝马 3 系的竞争对手。 Known for its bold design and reliability."
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "okres produkcji": {
+                "pl": "od 1998",
+                "en": "from 1998",
+                "de": "ab 1998",
+                "uk": "з 1998 року",
+                "ru": "с 1998 года.",
+                "zh": "1998 年生产"
+              },
+              "segment": {
+                "pl": "D (Premium)",
+                "en": "D (Premium)",
+                "de": "D (Premium)",
+                "uk": "D (Преміум)",
+                "ru": "D (Премиум)",
+                "zh": "D（高级）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cz/wj/awd94xwgs4oocwc8gcc00/lexus-is-03.310.jpg"
+        }
+      }
+    ],
+    "LC": [
+      {
+        "BrandID": 82,
+        "ModelID": 414217,
+        "Brand Name": "Lexus",
+        "Model Name": "LC",
+        "Serie Name": "LC",
+        "Years": "2017 - 3000",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Grand Tourer",
+          "drive": "RWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "5.0L V8 / 3.5L V6 Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus LC to motoryzacyjne dzieło sztuki. Flagowe coupe marki o futurystycznym wyglądzie, oferujące wybór między niesamowitym dźwiękiem wolnossącego V8 a zaawansowanym napędem Multi-Stage Hybrid.",
+              "en": "The Lexus LC is an automotive work of art. The brand's flagship coupe with a futuristic look, offering a choice between the amazing sound of a naturally aspirated V8 and an advanced Multi-Stage Hybrid drive.",
+              "de": "Der Lexus LC ist ein automobiles Kunstwerk. Das Flaggschiff-Coupé der Marke mit futuristischem Look bietet die Wahl zwischen dem erstaunlichen Sound eines V8-Saugmotors und einem fortschrittlichen Multi-Stage-Hybridantrieb.",
+              "uk": "Lexus LC — це автомобільний витвір мистецтва. Флагманське купе бренду з футуристичним виглядом, що пропонує вибір між дивовижним звуком атмосферного V8 і вдосконаленим багатоступеневим гібридним приводом.",
+              "ru": "Lexus LC — произведение автомобильного искусства. Флагманское купе бренда с футуристическим внешним видом, предлагающее выбор между потрясающим звуком безнаддувного двигателя V8 и усовершенствованным многоступенчатым гибридным приводом.",
+              "zh": "雷克萨斯 LC 是一件汽车艺术品。该品牌的旗舰轿跑车具有未来派外观，提供自然吸气 V8 令人惊叹的声音和先进的多级混合动力驱动器之间的选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "okres produkcji": {
+                "pl": "od 2017",
+                "en": "from 2017",
+                "de": "ab 2017",
+                "uk": "з 2017 року",
+                "ru": "2017 года.",
+                "zh": "2017 年起"
+              },
+              "segment": {
+                "pl": "Grand Tourer",
+                "en": "Grand Tourer",
+                "de": "Grand Tourer",
+                "uk": "Grand Tourer",
+                "ru": "Grand Tourer",
+                "zh": "Grand Tourer"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "LS": [
+      {
+        "BrandID": 82,
+        "ModelID": 413285,
+        "Brand Name": "Lexus",
+        "Model Name": "LS",
+        "Serie Name": "LS Gen 1 (XF10)",
+        "Years": "1989 - 1994",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "4.0L V8",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus LS to flagowa limuzyna, od której zaczęła się historia marki. Symbol perfekcji i ciszy.",
+              "en": "Lexus LS is the flagship limousine from which the brand's history began. A symbol of perfection and silence.",
+              "de": "Lexus LS ist die Flaggschiff-Limousine, mit der die Geschichte der Marke begann. Ein Symbol für Perfektion und Stille.",
+              "uk": "Lexus LS — флагманський лімузин, з якого почалася історія бренду. Символ досконалості і тиші.",
+              "ru": "Lexus LS — флагманский лимузин, с которого началась история бренда. Символ совершенства и тишины.",
+              "zh": "雷克萨斯 LS 是旗舰豪华轿车，该品牌的历史由此开始。完美与沉默的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "okres produkcji": {
+                "pl": "od 1989",
+                "en": "from 1989",
+                "de": "ab 1989",
+                "uk": "з 1989",
+                "ru": "с 1989 г.",
+                "zh": "1989 年起"
+              },
+              "segment": {
+                "pl": "F (Luksusowy)",
+                "en": "F (Luxury)",
+                "de": "F (Luxus)",
+                "uk": "F (люкс)",
+                "ru": "F (Люкс)",
+                "zh": "F（豪华）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/b2/kl/6toqso8o8k8k4gsc8o0s8/lexus-ls-v.310.jpg"
+        }
+      },
+      {
+        "BrandID": 82,
+        "ModelID": 413286,
+        "Brand Name": "Lexus",
+        "Model Name": "LS",
+        "Serie Name": "LS Gen 2 (XF20)",
+        "Years": "1994 - 2000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "4.0L V8",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus LS to flagowa limuzyna, od której zaczęła się historia marki. Symbol perfekcji i ciszy.",
+              "en": "Lexus LS is the flagship limousine from which the brand's history began. A symbol of perfection and silence.",
+              "de": "Lexus LS ist die Flaggschiff-Limousine, mit der die Geschichte der Marke begann. Ein Symbol für Perfektion und Stille.",
+              "uk": "Lexus LS – флагманський лімузин, з якого почалася історія марки. Символ досконалості і тиші.",
+              "ru": "Lexus LS – флагманский лимузин, с которого началась история бренда. Символ совершенства и тишины.",
+              "zh": "雷克萨斯 LS 是旗舰豪华轿车，该品牌的历史由此开始。完美与沉默的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "okres produkcji": {
+                "pl": "od 1989",
+                "en": "from 1989",
+                "de": "von 1989",
+                "uk": "з 1989 року",
+                "ru": "с 1989 года",
+                "zh": "自1989年以来"
+              },
+              "segment": {
+                "pl": "F (Luksusowy)",
+                "en": "F (Luxury)",
+                "de": "F (Luxus)",
+                "uk": "F (Luxury)",
+                "ru": "Ф (Люкс)",
+                "zh": "F（豪华）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/b2/kl/6toqso8o8k8k4gsc8o0s8/lexus-ls-v.310.jpg"
+        }
+      },
+      {
+        "BrandID": 82,
+        "ModelID": 413287,
+        "Brand Name": "Lexus",
+        "Model Name": "LS",
+        "Serie Name": "LS Gen 3 (XF30)",
+        "Years": "2000 - 2006",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "4.3L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus LS to flagowa limuzyna, od której zaczęła się historia marki. Symbol perfekcji i ciszy.",
+              "en": "Lexus LS is the flagship limousine from which the brand's history began. A symbol of perfection and silence.",
+              "de": "Lexus LS ist die Flaggschiff-Limousine, mit der die Geschichte der Marke begann. Ein Symbol für Perfektion und Stille.",
+              "uk": "Lexus LS — флагманський лімузин, з якого почалася історія бренду. Символ досконалості і тиші.",
+              "ru": "Lexus LS – флагманский лимузин, с которого началась история бренда. Символ совершенства и тишины.",
+              "zh": "雷克萨斯 LS 是旗舰豪华轿车，该品牌的历史由此开始。完美与沉默的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "okres produkcji": {
+                "pl": "od 1989",
+                "en": "from 1989",
+                "de": "von 1989",
+                "uk": "з 1989 року",
+                "ru": "с 1989 года",
+                "zh": "自1989年以来"
+              },
+              "segment": {
+                "pl": "F (Luksusowy)",
+                "en": "F (Luxury)",
+                "de": "F (Luxus)",
+                "uk": "F (Luxury)",
+                "ru": "Ф (Люкс)",
+                "zh": "F（豪华）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/b2/kl/6toqso8o8k8k4gsc8o0s8/lexus-ls-v.310.jpg"
+        }
+      },
+      {
+        "BrandID": 82,
+        "ModelID": 413288,
+        "Brand Name": "Lexus",
+        "Model Name": "LS",
+        "Serie Name": "LS Gen 4 (XF40)",
+        "Years": "2006 - 2017",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "4.6L V8 / 5.0L V8 Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus LS to flagowa limuzyna, od której zaczęła się historia marki. Symbol perfekcji i ciszy.",
+              "en": "Lexus LS is the flagship limousine from which the brand's history began. A symbol of perfection and silence.",
+              "de": "Lexus LS ist die Flaggschiff-Limousine, mit der die Geschichte der Marke begann. Ein Symbol für Perfektion und Stille.",
+              "uk": "Lexus LS — флагманський лімузин, з якого почалася історія бренду. Символ досконалості і тиші.",
+              "ru": "Lexus LS – флагманский лимузин, с которого началась история бренда. Символ совершенства и тишины.",
+              "zh": "雷克萨斯 LS 是旗舰豪华轿车，该品牌的历史由此开始。完美与沉默的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "okres produkcji": {
+                "pl": "od 1989",
+                "en": "from 1989",
+                "de": "von 1989",
+                "uk": "з 1989 року",
+                "ru": "с 1989 года",
+                "zh": "自1989年以来"
+              },
+              "segment": {
+                "pl": "F (Luksusowy)",
+                "en": "F (Luxury)",
+                "de": "F (Luxus)",
+                "uk": "F (Luxury)",
+                "ru": "Ф (Люкс)",
+                "zh": "F（豪华）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/b2/kl/6toqso8o8k8k4gsc8o0s8/lexus-ls-v.310.jpg"
+        }
+      },
+      {
+        "BrandID": 82,
+        "ModelID": 414218,
+        "Brand Name": "Lexus",
+        "Model Name": "LS",
+        "Serie Name": "LS Gen 5 (XF50)",
+        "Years": "2017 - 3000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "3.5L V6 Twin-Turbo / 3.5L V6 Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus LS to flagowa limuzyna, od której zaczęła się historia marki. Symbol perfekcji i ciszy.",
+              "en": "Lexus LS is the flagship limousine from which the brand's history began. A symbol of perfection and silence.",
+              "de": "Lexus LS ist die Flaggschiff-Limousine, mit der die Geschichte der Marke begann. Ein Symbol für Perfektion und Stille.",
+              "uk": "Lexus LS — флагманський лімузин, з якого почалася історія бренду. Символ досконалості і тиші.",
+              "ru": "Lexus LS – флагманский лимузин, с которого началась история бренда. Символ совершенства и тишины.",
+              "zh": "雷克萨斯 LS 是旗舰豪华轿车，该品牌的历史由此开始。完美与沉默的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "okres produkcji": {
+                "pl": "od 1989",
+                "en": "since 1989",
+                "de": "seit 1989",
+                "uk": "з 1989 р.",
+                "ru": "с 1989 года",
+                "zh": "自1989年以来"
+              },
+              "segment": {
+                "pl": "F (Luksusowy)",
+                "en": "F (Luxury)",
+                "de": "F (Luxus)",
+                "uk": "F (Luxury)",
+                "ru": "Ф (Люкс)",
+                "zh": "F（豪华）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/b2/kl/6toqso8o8k8k4gsc8o0s8/lexus-ls-v.310.jpg"
+        }
+      }
+    ],
+    "LX": [
+      {
+        "BrandID": 82,
+        "ModelID": 413289,
+        "Brand Name": "Lexus",
+        "Model Name": "LX",
+        "Serie Name": "LX 450 (J80)",
+        "Years": "1995 - 1998",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size Luxury SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline",
+          "engine": "4.5L I6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus to luksusowa marka Toyoty, która zrewolucjonizowała rynek premium jakością, niezawodnością i obsługą klienta. Pionier napędów hybrydowych w klasie premium.",
+              "en": "Lexus is Toyota's luxury brand that has revolutionized the premium market with quality, reliability and customer service. Pioneer of hybrid drives in the premium class.",
+              "de": "Lexus ist Toyotas Luxusmarke, die den Premiummarkt mit Qualität, Zuverlässigkeit und Kundenservice revolutioniert hat. Pionier der Hybridantriebe der Premiumklasse.",
+              "uk": "Lexus — це люксовий бренд Toyota, який зробив революцію на ринку преміум-класу завдяки якості, надійності та обслуговуванню клієнтів. Піонер гібридних приводів преміум класу.",
+              "ru": "Lexus — роскошный бренд Toyota, который произвел революцию на рынке автомобилей премиум-класса благодаря качеству, надежности и обслуживанию клиентов. Пионер гибридных приводов премиум-класса.",
+              "zh": "雷克萨斯是丰田旗下的豪华品牌，凭借质量、可靠性和客户服务彻底改变了高端市场。高级混合动力驱动器的先驱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "siedziba": {
+                "pl": "Nagoja, Japonia",
+                "en": "Nagoya, Japan",
+                "de": "Nagoya, Japan",
+                "uk": "Нагоя, Японія",
+                "ru": "Нагоя, Япония",
+                "zh": "日本名古屋"
+              },
+              "założona": "1989"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5r/7k/hv8t0c8wgwwo8ko0ogkwg/lexus-lx-iii-suv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 82,
+        "ModelID": 413290,
+        "Brand Name": "Lexus",
+        "Model Name": "LX",
+        "Serie Name": "LX 470 (J100)",
+        "Years": "1998 - 2007",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size Luxury SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline",
+          "engine": "4.7L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus to luksusowa marka Toyoty, która zrewolucjonizowała rynek premium jakością, niezawodnością i obsługą klienta. Pionier napędów hybrydowych w klasie premium.",
+              "en": "Lexus is Toyota's luxury brand that has revolutionized the premium market with quality, reliability and customer service. Pioneer of hybrid drives in the premium class.",
+              "de": "Lexus ist die Luxusmarke von Toyota, die den Premiummarkt mit Qualität, Zuverlässigkeit und Kundenservice revolutioniert hat. Pionier der Hybridantriebe der Premiumklasse.",
+              "uk": "Lexus — це люксовий бренд Toyota, який зробив революцію на ринку преміум-класу завдяки якості, надійності та обслуговуванню клієнтів. Піонер гібридних приводів преміум класу.",
+              "ru": "Lexus — роскошный бренд Toyota, который произвел революцию на рынке автомобилей премиум-класса благодаря качеству, надежности и обслуживанию клиентов. Пионер гибридных приводов премиум-класса.",
+              "zh": "雷克萨斯是丰田旗下的豪华品牌，凭借质量、可靠性和客户服务彻底改变了高端市场。高级混合动力驱动器的先驱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "siedziba": {
+                "pl": "Nagoja, Japonia",
+                "en": "Nagoya, Japan",
+                "de": "Nagoya, Japan",
+                "uk": "Нагоя, Японія",
+                "ru": "Нагоя, Япония",
+                "zh": "日本名古屋"
+              },
+              "założona": "1989"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5r/7k/hv8t0c8wgwwo8ko0ogkwg/lexus-lx-iii-suv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 82,
+        "ModelID": 413291,
+        "Brand Name": "Lexus",
+        "Model Name": "LX",
+        "Serie Name": "LX 570 (J200)",
+        "Years": "2007 - 2021",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size Luxury SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "5.7L V8 / 4.5L V8 Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus to luksusowa marka Toyoty, która zrewolucjonizowała rynek premium jakością, niezawodnością i obsługą klienta. Pionier napędów hybrydowych w klasie premium.",
+              "en": "Lexus is Toyota's luxury brand that has revolutionized the premium market with quality, reliability and customer service. Pioneer of hybrid drives in the premium class.",
+              "de": "Lexus ist die Luxusmarke von Toyota, die den Premiummarkt mit Qualität, Zuverlässigkeit und Kundenservice revolutioniert hat. Pionier der Hybridantriebe der Premiumklasse.",
+              "uk": "Lexus — це люксовий бренд Toyota, який зробив революцію на ринку преміум-класу завдяки якості, надійності та обслуговуванню клієнтів. Піонер гібридних приводів преміум класу.",
+              "ru": "Lexus — роскошный бренд Toyota, который произвел революцию на рынке автомобилей премиум-класса благодаря качеству, надежности и обслуживанию клиентов. Пионер гибридных приводов премиум-класса.",
+              "zh": "雷克萨斯是丰田旗下的豪华品牌，凭借质量、可靠性和客户服务彻底改变了高端市场。高级混合动力驱动器的先驱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "siedziba": {
+                "pl": "Nagoja, Japonia",
+                "en": "Nagoya, Japan",
+                "de": "Nagoya, Japan",
+                "uk": "Нагоя, Японія",
+                "ru": "Нагоя, Япония",
+                "zh": "日本名古屋"
+              },
+              "założona": "1989"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5r/7k/hv8t0c8wgwwo8ko0ogkwg/lexus-lx-iii-suv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 82,
+        "ModelID": 416627,
+        "Brand Name": "Lexus",
+        "Model Name": "LX",
+        "Serie Name": "LX 600 (J310)",
+        "Years": "2021 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size Luxury SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.4L V6 Twin-Turbo / 3.3L V6 Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus LX to szczyt możliwości terenowych marki. Największy z dostępnych SUV-ów, łączący pancerną konstrukcję z najbardziej wyrafinowanym luksusem i najnowszą technologią.",
+              "en": "Lexus LX is the pinnacle of the brand's off-road capabilities. The largest SUV available, combining armored construction with the most refined luxury and the latest technology.",
+              "de": "Der Lexus LX ist der Gipfel der Offroad-Fähigkeiten der Marke. Der größte verfügbare SUV, der gepanzerte Konstruktion mit raffiniertestem Luxus und modernster Technologie kombiniert.",
+              "uk": "Lexus LX — це вершина позашляхових можливостей бренду. Найбільший доступний позашляховик, що поєднує броньовану конструкцію з найвишуканішою розкішшю та новітніми технологіями.",
+              "ru": "Lexus LX – это вершина внедорожных возможностей бренда. Самый большой внедорожник, сочетающий в себе бронированную конструкцию, изысканную роскошь и новейшие технологии.",
+              "zh": "雷克萨斯 LX 是该品牌越野能力的巅峰之作。最大的 SUV，将装甲结构与最精致的奢华和最新技术相结合。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "okres produkcji": {
+                "pl": "od 1995",
+                "en": "since 1995",
+                "de": "seit 1995",
+                "uk": "з 1995 р.",
+                "ru": "с 1995 года",
+                "zh": "自1995年以来"
+              },
+              "segment": {
+                "pl": "Full-size Luxury SUV",
+                "en": "Full-size Luxury SUV",
+                "de": "Oberklasse-Luxus-SUV",
+                "uk": "Повнорозмірний розкішний позашляховик",
+                "ru": "Полноразмерный роскошный внедорожник",
+                "zh": "全尺寸豪华SUV"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5r/7k/hv8t0c8wgwwo8ko0ogkwg/lexus-lx-iii-suv.310.jpg"
+        }
+      }
+    ],
+    "NX": [
+      {
+        "BrandID": 82,
+        "ModelID": 413875,
+        "Brand Name": "Lexus",
+        "Model Name": "NX",
+        "Serie Name": "NX Gen 1 (AZ10)",
+        "Years": "2014 - 2021",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact Luxury SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.0L Turbo / 2.5L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus to luksusowa marka Toyoty, która zrewolucjonizowała rynek premium jakością, niezawodnością i obsługą klienta. Pionier napędów hybrydowych w klasie premium.",
+              "en": "Lexus is Toyota's luxury brand that has revolutionized the premium market with quality, reliability and customer service. Pioneer of hybrid drives in the premium class.",
+              "de": "Lexus ist Toyotas Luxusmarke, die den Premiummarkt mit Qualität, Zuverlässigkeit und Kundenservice revolutioniert hat. Pionier der Hybridantriebe der Premiumklasse.",
+              "uk": "Lexus — це люксовий бренд Toyota, який зробив революцію на ринку преміум-класу завдяки якості, надійності та обслуговуванню клієнтів. Піонер гібридних приводів преміум класу.",
+              "ru": "Lexus — роскошный бренд Toyota, который произвел революцию на рынке автомобилей премиум-класса благодаря качеству, надежности и обслуживанию клиентов. Пионер гибридных приводов премиум-класса.",
+              "zh": "雷克萨斯是丰田旗下的豪华品牌，凭借质量、可靠性和客户服务彻底改变了高端市场。高级混合动力驱动器的先驱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "siedziba": {
+                "pl": "Nagoja, Japonia",
+                "en": "Nagoya, Japan",
+                "de": "Nagoya, Japan",
+                "uk": "Нагоя, Японія",
+                "ru": "Нагоя, Япония",
+                "zh": "日本名古屋"
+              },
+              "założona": "1989"
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      },
+      {
+        "BrandID": 82,
+        "ModelID": 416628,
+        "Brand Name": "Lexus",
+        "Model Name": "NX",
+        "Serie Name": "NX Gen 2 (AZ20)",
+        "Years": "2021 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact Luxury SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid/PHEV",
+          "engine": "2.5L / 2.4L Turbo / Hybrid / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus NX to kompaktowy crossover, który stał się bestsellerem w Europie. Jego ostre linie i zaawansowane napędy hybrydowe (w tym Plug-in) przyciągają nową grupę klientów do marki Lexus.",
+              "en": "Lexus NX is a compact crossover that has become a bestseller in Europe. Its sharp lines and advanced hybrid drives (including Plug-in) attract a new group of customers to the Lexus brand.",
+              "de": "Lexus NX ist ein kompakter Crossover, der in Europa zu einem Bestseller geworden ist. Seine klaren Linien und fortschrittlichen Hybridantriebe (einschließlich Plug-in) locken eine neue Kundengruppe für die Marke Lexus.",
+              "uk": "Lexus NX — компактний кросовер, який став бестселером у Європі. Його чіткі лінії та передові гібридні приводи (включаючи Plug-in) приваблюють нову групу клієнтів до бренду Lexus.",
+              "ru": "Lexus NX – компактный кроссовер, ставший бестселлером в Европе. Его четкие линии и усовершенствованные гибридные приводы (в том числе подключаемые модули) привлекают к бренду Lexus новую группу покупателей.",
+              "zh": "雷克萨斯 NX 是一款紧凑型跨界车，已成为欧洲的畅销产品。其锐利的线条和先进的混合动力驱动（包括插电式）为雷克萨斯品牌吸引了一批新客户。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "okres produkcji": {
+                "pl": "od 2014",
+                "en": "from 2014",
+                "de": "von 2014",
+                "uk": "з 2014 року",
+                "ru": "с 2014 года",
+                "zh": "自2014年起"
+              },
+              "segment": {
+                "pl": "Compact Luxury SUV",
+                "en": "Compact Luxury SUV",
+                "de": "Kompakter Luxus-SUV",
+                "uk": "Компактний розкішний позашляховик",
+                "ru": "Компактный роскошный внедорожник",
+                "zh": "紧凑型豪华 SUV"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD / AWD",
+                "uk": "FWD / AWD",
+                "ru": "FWD/AWD",
+                "zh": "FWD / AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      }
+    ],
+    "RC": [
+      {
+        "BrandID": 82,
+        "ModelID": 414219,
+        "Brand Name": "Lexus",
+        "Model Name": "RC",
+        "Serie Name": "RC",
+        "Years": "2014 - 3000",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Compact Executive Coupe",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.0L Turbo / 3.5L V6 / 5.0L V8 / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus RC to luksusowe coupe o sportowym charakterze. Szczególnie cenione w wersji RC F z potężnym silnikiem V8, który jest jednym z ostatnich takich motorów w swojej klasie.",
+              "en": "Lexus RC is a luxurious coupe with a sporty character. Particularly appreciated in the RC F version with a powerful V8 engine, which is one of the last such engines in its class.",
+              "de": "Lexus RC ist ein luxuriöses Coupé mit sportlichem Charakter. Besonders geschätzt wird es in der RC F-Version mit leistungsstarkem V8-Motor, einem der letzten Motoren dieser Art in seiner Klasse.",
+              "uk": "Lexus RC — це розкішне купе зі спортивним характером. Особливо цінується у версії RC F з потужним двигуном V8, який є одним з останніх таких двигунів у своєму класі.",
+              "ru": "Lexus RC — роскошное купе со спортивным характером. Особенно ценится версия RC F с мощным двигателем V8, который является одним из последних подобных двигателей в своем классе.",
+              "zh": "雷克萨斯 RC 是一款具有运动特色的豪华轿跑车。特别值得赞赏的是 RC F 版本，它配备了强大的 V8 发动机，这是同类发动机中最后的一款。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "okres produkcji": {
+                "pl": "od 2014",
+                "en": "from 2014",
+                "de": "ab 2014",
+                "uk": "з 2014 року",
+                "ru": "2014 г.",
+                "zh": "2014 年起"
+              },
+              "segment": {
+                "pl": "Executive Coupe",
+                "en": "Executive Coupe",
+                "de": "Executive Coupé",
+                "uk": "Executive Coupe",
+                "ru": "Представительское купе",
+                "zh": "Executive Coupe"
+              },
+              "napęd": {
+                "pl": "RWD / AWD",
+                "en": "RWD / AWD",
+                "de": "RWD / AWD",
+                "uk": "RWD / AWD",
+                "ru": "RWD/AWD",
+                "zh": "RWD / AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      }
+    ],
+    "RX": [
+      {
+        "BrandID": 82,
+        "ModelID": 413292,
+        "Brand Name": "Lexus",
+        "Model Name": "RX",
+        "Serie Name": "RX Gen 1 (XU10)",
+        "Years": "1998 - 2003",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.0L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus RX to model, który stworzył segment luksusowych crossoverów. Najpopularniejszy model marki, często wybierany jako hybryda.",
+              "en": "Lexus RX is the model that created the luxury crossover segment. The brand's most popular model, often chosen as a hybrid.",
+              "de": "Lexus RX ist das Modell, das das Luxus-Crossover-Segment geschaffen hat. Das beliebteste Modell der Marke, oft als Hybridmodell gewählt.",
+              "uk": "Lexus RX – це модель, яка створила сегмент розкішних кросоверів. Найпопулярніша модель бренду, яку часто вибирають як гібрид.",
+              "ru": "Lexus RX — модель, создавшая сегмент роскошных кроссоверов. Самая популярная модель бренда, часто выбираемая как гибрид.",
+              "zh": "雷克萨斯 RX 是开创豪华跨界车细分市场的车型。该品牌最受欢迎的车型，通常被选为混合动力车型。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "okres produkcji": {
+                "pl": "od 1998",
+                "en": "from 1998",
+                "de": "ab 1998",
+                "uk": "з 1998 року",
+                "ru": "с 1998 года.",
+                "zh": "1998 年生产"
+              },
+              "segment": {
+                "pl": "E-SUV (Premium)",
+                "en": "E-SUV (Premium)",
+                "de": "E-SUV (Premium)",
+                "uk": "E-SUV (преміум)",
+                "ru": "E-SUV (Премиум)",
+                "zh": "E-SUV（高级）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1c/k1/23rtmjc0cskgosso44gs8/lexus-rx-iii-suv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 82,
+        "ModelID": 413293,
+        "Brand Name": "Lexus",
+        "Model Name": "RX",
+        "Serie Name": "RX Gen 2 (XU30)",
+        "Years": "2003 - 2008",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "3.3L / 3.5L V6 / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus RX to model, który stworzył segment luksusowych crossoverów. Najpopularniejszy model marki, często wybierany jako hybryda.",
+              "en": "Lexus RX is the model that created the luxury crossover segment. The brand's most popular model, often chosen as a hybrid.",
+              "de": "Lexus RX ist das Modell, das das Luxus-Crossover-Segment geschaffen hat. Das beliebteste Modell der Marke, oft als Hybridmodell gewählt.",
+              "uk": "Lexus RX — це модель, яка створила сегмент розкішних кросоверів. Найпопулярніша модель бренду, яку часто вибирають як гібрид.",
+              "ru": "Lexus RX — модель, создавшая сегмент роскошных кроссоверов. Самая популярная модель бренда, часто выбираемая как гибрид.",
+              "zh": "雷克萨斯 RX 是开创豪华跨界车细分市场的车型。该品牌最受欢迎的车型，通常被选为混合动力车型。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "okres produkcji": {
+                "pl": "od 1998",
+                "en": "from 1998",
+                "de": "ab 1998",
+                "uk": "з 1998 року",
+                "ru": "с 1998 года.",
+                "zh": "1998 年生产"
+              },
+              "segment": {
+                "pl": "E-SUV (Premium)",
+                "en": "E-SUV (Premium)",
+                "de": "E-SUV (Premium)",
+                "uk": "E-SUV (преміум)",
+                "ru": "E-SUV (Премиум)",
+                "zh": "E-SUV（高级）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1c/k1/23rtmjc0cskgosso44gs8/lexus-rx-iii-suv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 82,
+        "ModelID": 413294,
+        "Brand Name": "Lexus",
+        "Model Name": "RX",
+        "Serie Name": "RX Gen 3 (AL10)",
+        "Years": "2008 - 2015",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.7L / 3.5L V6 / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus RX to model, który stworzył segment luksusowych crossoverów. Najpopularniejszy model marki, często wybierany jako hybryda.",
+              "en": "Lexus RX is the model that created the luxury crossover segment. The brand's most popular model, often chosen as a hybrid.",
+              "de": "Lexus RX ist das Modell, das das Luxus-Crossover-Segment geschaffen hat. Das beliebteste Modell der Marke, oft als Hybridmodell gewählt.",
+              "uk": "Lexus RX — це модель, яка створила сегмент розкішних кросоверів. Найпопулярніша модель бренду, яку часто вибирають як гібрид.",
+              "ru": "Lexus RX — модель, создавшая сегмент роскошных кроссоверов. Самая популярная модель бренда, часто выбираемая как гибрид.",
+              "zh": "雷克萨斯 RX 是开创豪华跨界车细分市场的车型。该品牌最受欢迎的车型，通常被选为混合动力车型。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "okres produkcji": {
+                "pl": "od 1998",
+                "en": "from 1998",
+                "de": "ab 1998",
+                "uk": "з 1998 року",
+                "ru": "с 1998 года.",
+                "zh": "1998 年生产"
+              },
+              "segment": {
+                "pl": "E-SUV (Premium)",
+                "en": "E-SUV (Premium)",
+                "de": "E-SUV (Premium)",
+                "uk": "E-SUV (преміум)",
+                "ru": "E-SUV (Премиум)",
+                "zh": "E-SUV（高级）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1c/k1/23rtmjc0cskgosso44gs8/lexus-rx-iii-suv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 82,
+        "ModelID": 414223,
+        "Brand Name": "Lexus",
+        "Model Name": "RX",
+        "Serie Name": "RX Gen 4 (AL20)",
+        "Years": "2015 - 2022",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.0L Turbo / 3.5L V6 / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus RX to model, który stworzył segment luksusowych crossoverów. Najpopularniejszy model marki, często wybierany jako hybryda.",
+              "en": "Lexus RX is the model that created the luxury crossover segment. The brand's most popular model, often chosen as a hybrid.",
+              "de": "Lexus RX ist das Modell, das das Luxus-Crossover-Segment geschaffen hat. Das beliebteste Modell der Marke, oft als Hybridmodell gewählt.",
+              "uk": "Lexus RX — це модель, яка створила сегмент розкішних кросоверів. Найпопулярніша модель бренду, яку часто вибирають як гібрид.",
+              "ru": "Lexus RX — модель, создавшая сегмент роскошных кроссоверов. Самая популярная модель бренда, часто выбираемая как гибрид.",
+              "zh": "雷克萨斯 RX 是开创豪华跨界车细分市场的车型。该品牌最受欢迎的车型，通常被选为混合动力车型。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "okres produkcji": {
+                "pl": "od 1998",
+                "en": "from 1998",
+                "de": "ab 1998",
+                "uk": "з 1998 року",
+                "ru": "с 1998 года.",
+                "zh": "1998 年生产"
+              },
+              "segment": {
+                "pl": "E-SUV (Premium)",
+                "en": "E-SUV (Premium)",
+                "de": "E-SUV (Premium)",
+                "uk": "E-SUV (преміум)",
+                "ru": "E-SUV (Премиум)",
+                "zh": "E-SUV（高级）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1c/k1/23rtmjc0cskgosso44gs8/lexus-rx-iii-suv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 82,
+        "ModelID": 416629,
+        "Brand Name": "Lexus",
+        "Model Name": "RX",
+        "Serie Name": "RX Gen 5 (AL30)",
+        "Years": "2022 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid/PHEV",
+          "engine": "2.4L Turbo / Hybrid / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus RX to model, który stworzył segment luksusowych crossoverów. Najpopularniejszy model marki, często wybierany jako hybryda.",
+              "en": "Lexus RX is the model that created the luxury crossover segment. The brand's most popular model, often chosen as a hybrid.",
+              "de": "Lexus RX ist das Modell, das das Luxus-Crossover-Segment geschaffen hat. Das beliebteste Modell der Marke, oft als Hybridmodell gewählt.",
+              "uk": "Lexus RX — це модель, яка створила сегмент розкішних кросоверів. Найпопулярніша модель бренду, яку часто вибирають як гібрид.",
+              "ru": "Lexus RX — модель, создавшая сегмент роскошных кроссоверов. Самая популярная модель бренда, часто выбираемая как гибрид.",
+              "zh": "雷克萨斯 RX 是开创豪华跨界车细分市场的车型。该品牌最受欢迎的车型，通常被选为混合动力车型。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "okres produkcji": {
+                "pl": "od 1998",
+                "en": "from 1998",
+                "de": "ab 1998",
+                "uk": "з 1998 року",
+                "ru": "с 1998 года.",
+                "zh": "1998 年生产"
+              },
+              "segment": {
+                "pl": "E-SUV (Premium)",
+                "en": "E-SUV (Premium)",
+                "de": "E-SUV (Premium)",
+                "uk": "E-SUV (преміум)",
+                "ru": "E-SUV (Премиум)",
+                "zh": "E-SUV（高级）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1c/k1/23rtmjc0cskgosso44gs8/lexus-rx-iii-suv.310.jpg"
+        }
+      }
+    ],
+    "UX": [
+      {
+        "BrandID": 82,
+        "ModelID": 415852,
+        "Brand Name": "Lexus",
+        "Model Name": "UX",
+        "Serie Name": "UX",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "Crossover",
+          "segment": "Subcompact Luxury SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid/Electric",
+          "engine": "2.0L / 2.0L Hybrid / Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lexus UX to najmniejszy crossover w gamie, zaprojektowany z myślą o mieście. Wyróżnia się zwinnością, unikalnym oświetleniem tylnej części nadwozia i dostępnością wersji w pełni elektrycznej.",
+              "en": "Lexus UX is the smallest crossover in the range, designed with the city in mind. It stands out for its agility, unique rear lighting and the availability of a fully electric version.",
+              "de": "Der Lexus UX ist der kleinste Crossover der Baureihe, der speziell für die Stadt entwickelt wurde. Er zeichnet sich durch seine Agilität, die einzigartige Heckbeleuchtung und die Verfügbarkeit einer vollelektrischen Version aus.",
+              "uk": "Lexus UX — це найменший кросовер у лінійці, розроблений для міста. Він виділяється своєю маневреністю, унікальним заднім освітленням і наявністю повністю електричної версії.",
+              "ru": "Lexus UX — самый маленький кроссовер в линейке, созданный с учетом городских условий. Он выделяется своей маневренностью, уникальным задним освещением и наличием полностью электрической версии.",
+              "zh": "雷克萨斯 UX 是该系列中最小的跨界车，设计时考虑了城市需求。它因其敏捷性、独特的尾灯和全电动版本而脱颖而出。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lexus"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "from 2018",
+                "de": "ab 2018",
+                "uk": "з 2018 року",
+                "ru": "с 2018 г.",
+                "zh": "2018 年起"
+              },
+              "segment": {
+                "pl": "Subcompact Luxury SUV",
+                "en": "Subcompact Luxury SUV",
+                "de": "Subkompakter Luxus-SUV",
+                "uk": "Субкомпактний розкішний позашляховик",
+                "ru": "Малолитражный роскошный внедорожник",
+                "zh": "小型豪华 SUV"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD / AWD",
+                "uk": "Передній / повний привід",
+                "ru": "Переднеприводный/полноприводный",
+                "zh": "FWD / AWD"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

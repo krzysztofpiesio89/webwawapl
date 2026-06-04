@@ -1,0 +1,362 @@
+{
+  "brand": "MG",
+  "models": {
+    "ZS": [
+      {
+        "BrandID": 92,
+        "ModelID": 1022,
+        "Brand Name": "MG",
+        "Model Name": "ZS",
+        "Serie Name": "ZS (2001-2005)",
+        "Years": "2001 - 2005",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Compact Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.8L - 2.5L V6 / 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "MG ZS to nowoczesny crossover, który stał się hitem sprzedażowym dzięki atrakcyjnej cenie i dobremu wyposażeniu. Dostępny także w wersji elektrycznej.",
+              "en": "The MG ZS is a modern crossover that became a sales hit thanks to its attractive price and good equipment. Also available in an electric version.",
+              "de": "Der MG ZS ist ein moderner Crossover, der durch seinen attraktiven Preis und die gute Ausstattung zum Verkaufsschlager wurde. Auch in einer elektrischen Version erhältlich.",
+              "uk": "MG ZS – сучасний кросовер, який став хітом продажів завдяки привабливій ціні та хорошому оснащенню. Також доступний в електричній версії.",
+              "ru": "MG ZS – современный кроссовер, ставший хитом продаж благодаря привлекательной цене и хорошему оснащению. Также доступен в электрической версии.",
+              "zh": "名爵ZS是一款现代跨界车，凭借极具吸引力的价格和良好的装备而大受欢迎。还有电动版本。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "MG Motor",
+                "en": "MG Motor",
+                "de": "MG Motor",
+                "uk": "MG Motor",
+                "ru": "МГ Мотор",
+                "zh": "MG Motor"
+              },
+              "okres produkcji": {
+                "pl": "od 2017",
+                "en": "from 2017",
+                "de": "ab 2017",
+                "uk": "2017 року",
+                "ru": "с 2017 года",
+                "zh": "2017 年起"
+              },
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/25/43/z74qf2hwwcgg40g0w8coo/zs.310.jpg"
+        }
+      },
+      {
+        "BrandID": 92,
+        "ModelID": 416665,
+        "Brand Name": "MG",
+        "Model Name": "ZS",
+        "Serie Name": "ZS SUV",
+        "Years": "2017 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Subcompact SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Electric",
+          "engine": "1.0L Turbo / 1.5L / Electric (ZS EV)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "MG ZS to nowoczesny crossover, który stał się hitem sprzedażowym dzięki atrakcyjnej cenie i dobremu wyposażeniu. Dostępny także w wersji elektrycznej.",
+              "en": "MG ZS is a modern crossover that has become a sales hit thanks to its attractive price and good equipment. Also available in an electric version.",
+              "de": "MG ZS ist ein moderner Crossover, der sich dank attraktivem Preis und guter Ausstattung zum Verkaufsschlager entwickelt hat. Auch in einer elektrischen Version erhältlich.",
+              "uk": "MG ZS — сучасний кросовер, який став хітом продажів завдяки привабливій ціні та хорошому оснащенню. Також доступний в електричній версії.",
+              "ru": "MG ZS – современный кроссовер, ставший хитом продаж благодаря привлекательной цене и хорошему оснащению. Также доступен в электрической версии.",
+              "zh": "MG ZS 是一款现代跨界车，凭借其有吸引力的价格和良好的装备而成为畅销产品。还有电动版本。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "MG Motor",
+                "en": "MG Motor",
+                "de": "MG Motor",
+                "uk": "MG Motor",
+                "ru": "МГ Мотор",
+                "zh": "MG Motor"
+              },
+              "okres produkcji": {
+                "pl": "od 2017",
+                "en": "from 2017",
+                "de": "ab 2017",
+                "uk": "з 2017 року",
+                "ru": "с 2017 года",
+                "zh": "2017 年起"
+              },
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/25/43/z74qf2hwwcgg40g0w8coo/zs.310.jpg"
+        }
+      }
+    ],
+    "HS": [
+      {
+        "BrandID": 92,
+        "ModelID": 416666,
+        "Brand Name": "MG",
+        "Model Name": "HS",
+        "Serie Name": "HS",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/PHEV",
+          "engine": "1.5L Turbo / 2.0L Turbo / PHEV (E-HS)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "MG (Morris Garages) to brytyjska marka słynąca z małych roadsterów. Obecnie należy do chińskiego koncernu SAIC i produkuje nowoczesne SUV-y oraz auta elektryczne.",
+              "en": "MG (Morris Garages) is a British brand famous for its small roadsters. Currently, it belongs to the Chinese concern SAIC and produces modern SUVs and electric cars.",
+              "de": "MG (Morris Garages) ist eine britische Marke, die für ihre kleinen Roadster bekannt ist. Derzeit gehört es zum chinesischen Konzern SAIC und produziert moderne SUVs und Elektroautos.",
+              "uk": "MG (Morris Garages) — британський бренд, відомий своїми маленькими родстерами. Нині належить китайському концерну SAIC і випускає сучасні позашляховики та електромобілі.",
+              "ru": "MG (Morris Garages) — британский бренд, известный своими небольшими родстерами. В настоящее время оно принадлежит китайскому концерну SAIC и производит современные внедорожники и электромобили.",
+              "zh": "MG (Morris Garages) 是一个以其小型跑车而闻名的英国品牌。目前，它隶属于中国上汽集团，生产现代SUV和电动汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "SAIC Motor",
+                "en": "SAIC Motor",
+                "de": "SAIC Motor",
+                "uk": "SAIC Motor",
+                "ru": "САИК Мотор",
+                "zh": "上汽集团"
+              },
+              "siedziba": {
+                "pl": "Longbridge, UK / Szanghaj, Chiny",
+                "en": "Longbridge, UK / Shanghai, China",
+                "de": "Longbridge, Großbritannien / Shanghai, China",
+                "uk": "Лонгбрідж, Великобританія / Шанхай, Китай",
+                "ru": "Лонгбридж, Великобритания / Шанхай, Китай",
+                "zh": "英国长桥/中国上海"
+              },
+              "założona": "1924"
+            }
+          }
+        }
+      }
+    ],
+    "MG4": [
+      {
+        "BrandID": 92,
+        "ModelID": 416667,
+        "Brand Name": "MG",
+        "Model Name": "MG4",
+        "Serie Name": "MG4 Electric",
+        "Years": "2022 - 3000",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Compact Car",
+          "drive": "RWD/AWD",
+          "fuel": "Electric",
+          "engine": "Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "MG (Morris Garages) to brytyjska marka słynąca z małych roadsterów. Obecnie należy do chińskiego koncernu SAIC i produkuje nowoczesne SUV-y oraz auta elektryczne.",
+              "en": "MG (Morris Garages) is a British brand famous for its small roadsters. Currently, it belongs to the Chinese concern SAIC and produces modern SUVs and electric cars.",
+              "de": "MG (Morris Garages) ist eine britische Marke, die für ihre kleinen Roadster bekannt ist. Derzeit gehört es zum chinesischen Konzern SAIC und produziert moderne SUVs und Elektroautos.",
+              "uk": "MG (Morris Garages) — британський бренд, відомий своїми маленькими родстерами. Нині належить китайському концерну SAIC і випускає сучасні позашляховики та електромобілі.",
+              "ru": "MG (Morris Garages) — британский бренд, известный своими небольшими родстерами. В настоящее время оно принадлежит китайскому концерну SAIC и производит современные внедорожники и электромобили.",
+              "zh": "MG (Morris Garages) 是一个以小型跑车闻名的英国品牌。目前，它隶属于中国上汽集团，生产现代SUV和电动汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "SAIC Motor",
+                "en": "SAIC Motor",
+                "de": "SAIC Motor",
+                "uk": "SAIC Motor",
+                "ru": "САИК Мотор",
+                "zh": "上汽集团"
+              },
+              "siedziba": {
+                "pl": "Longbridge, UK / Szanghaj, Chiny",
+                "en": "Longbridge, UK / Shanghai, China",
+                "de": "Longbridge, Großbritannien / Shanghai, China",
+                "uk": "Лонгбрідж, Великобританія / Шанхай, Китай",
+                "ru": "Лонгбридж, Великобритания / Шанхай, Китай",
+                "zh": "英国长桥/中国上海"
+              },
+              "założona": "1924"
+            }
+          }
+        }
+      }
+    ],
+    "MG5": [
+      {
+        "BrandID": 92,
+        "ModelID": 416668,
+        "Brand Name": "MG",
+        "Model Name": "MG5",
+        "Serie Name": "MG5 EV",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "Station Wagon",
+          "segment": "Compact Car",
+          "drive": "FWD",
+          "fuel": "Electric",
+          "engine": "Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "MG (Morris Garages) to brytyjska marka słynąca z małych roadsterów. Obecnie należy do chińskiego koncernu SAIC i produkuje nowoczesne SUV-y oraz auta elektryczne.",
+              "en": "MG (Morris Garages) is a British brand famous for its small roadsters. Currently, it belongs to the Chinese concern SAIC and produces modern SUVs and electric cars.",
+              "de": "MG (Morris Garages) ist eine britische Marke, die für ihre kleinen Roadster bekannt ist. Derzeit gehört es zum chinesischen Konzern SAIC und produziert moderne SUVs und Elektroautos.",
+              "uk": "MG (Morris Garages) — британський бренд, відомий своїми маленькими родстерами. Нині належить китайському концерну SAIC і випускає сучасні позашляховики та електромобілі.",
+              "ru": "MG (Morris Garages) — британский бренд, известный своими небольшими родстерами. В настоящее время оно принадлежит китайскому концерну SAIC и производит современные внедорожники и электромобили.",
+              "zh": "MG (Morris Garages) 是一个以小型跑车闻名的英国品牌。目前，它隶属于中国上汽集团，生产现代SUV和电动汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "SAIC Motor",
+                "en": "SAIC Motor",
+                "de": "SAIC Motor",
+                "uk": "SAIC Motor",
+                "ru": "САИК Мотор",
+                "zh": "上汽集团"
+              },
+              "siedziba": {
+                "pl": "Longbridge, UK / Szanghaj, Chiny",
+                "en": "Longbridge, UK / Shanghai, China",
+                "de": "Longbridge, Großbritannien / Shanghai, China",
+                "uk": "Лонгбрідж, Великобританія / Шанхай, Китай",
+                "ru": "Лонгбридж, Великобритания / Шанхай, Китай",
+                "zh": "英国长桥/中国上海"
+              },
+              "założona": "1924"
+            }
+          }
+        }
+      }
+    ],
+    "TF": [
+      {
+        "BrandID": 92,
+        "ModelID": 414051,
+        "Brand Name": "MG",
+        "Model Name": "TF",
+        "Serie Name": "TF",
+        "Years": "2002 - 2011",
+        "specs": {
+          "bodyType": "Convertible",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L - 1.8L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "MG (Morris Garages) to brytyjska marka słynąca z małych roadsterów. Obecnie należy do chińskiego koncernu SAIC i produkuje nowoczesne SUV-y oraz auta elektryczne.",
+              "en": "MG (Morris Garages) is a British brand famous for its small roadsters. Currently, it belongs to the Chinese concern SAIC and produces modern SUVs and electric cars.",
+              "de": "MG (Morris Garages) ist eine britische Marke, die für ihre kleinen Roadster bekannt ist. Derzeit gehört es zum chinesischen Konzern SAIC und produziert moderne SUVs und Elektroautos.",
+              "uk": "MG (Morris Garages) — британський бренд, відомий своїми маленькими родстерами. Нині належить китайському концерну SAIC і випускає сучасні позашляховики та електромобілі.",
+              "ru": "MG (Morris Garages) — британский бренд, известный своими небольшими родстерами. В настоящее время оно принадлежит китайскому концерну SAIC и производит современные внедорожники и электромобили.",
+              "zh": "MG (Morris Garages) 是一个以小型跑车闻名的英国品牌。目前，它隶属于中国上汽集团，生产现代SUV和电动汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "SAIC Motor",
+                "en": "SAIC Motor",
+                "de": "SAIC Motor",
+                "uk": "SAIC Motor",
+                "ru": "САИК Мотор",
+                "zh": "上汽集团"
+              },
+              "siedziba": {
+                "pl": "Longbridge, UK / Szanghaj, Chiny",
+                "en": "Longbridge, UK / Shanghai, China",
+                "de": "Longbridge, Großbritannien / Shanghai, China",
+                "uk": "Лонгбрідж, Великобританія / Шанхай, Китай",
+                "ru": "Лонгбридж, Великобритания / Шанхай, Китай",
+                "zh": "英国长桥/中国上海"
+              },
+              "założona": "1924"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ed/hh/wi86a74kkkkkggokso4o4/tf.310.jpg"
+        }
+      }
+    ],
+    "Cyberster": [
+      {
+        "BrandID": 92,
+        "ModelID": 416669,
+        "Brand Name": "MG",
+        "Model Name": "Cyberster",
+        "Serie Name": "Cyberster",
+        "Years": "2024 - 3000",
+        "specs": {
+          "bodyType": "Convertible",
+          "segment": "Sports Car",
+          "drive": "RWD/AWD",
+          "fuel": "Electric",
+          "engine": "Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "MG (Morris Garages) to brytyjska marka słynąca z małych roadsterów. Obecnie należy do chińskiego koncernu SAIC i produkuje nowoczesne SUV-y oraz auta elektryczne.",
+              "en": "MG (Morris Garages) is a British brand famous for its small roadsters. Currently, it belongs to the Chinese concern SAIC and produces modern SUVs and electric cars.",
+              "de": "MG (Morris Garages) ist eine britische Marke, die für ihre kleinen Roadster bekannt ist. Derzeit gehört es zum chinesischen Konzern SAIC und produziert moderne SUVs und Elektroautos.",
+              "uk": "MG (Morris Garages) — британський бренд, відомий своїми маленькими родстерами. Нині належить китайському концерну SAIC і випускає сучасні позашляховики та електромобілі.",
+              "ru": "MG (Morris Garages) — британский бренд, известный своими небольшими родстерами. В настоящее время оно принадлежит китайскому концерну SAIC и производит современные внедорожники и электромобили.",
+              "zh": "MG (Morris Garages) 是一个以小型跑车闻名的英国品牌。目前，它隶属于中国上汽集团，生产现代SUV和电动汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "SAIC Motor",
+                "en": "SAIC Motor",
+                "de": "SAIC Motor",
+                "uk": "SAIC Motor",
+                "ru": "САИК Мотор",
+                "zh": "上汽集团"
+              },
+              "siedziba": {
+                "pl": "Longbridge, UK / Szanghaj, Chiny",
+                "en": "Longbridge, UK / Shanghai, China",
+                "de": "Longbridge, Großbritannien / Shanghai, China",
+                "uk": "Лонгбридж, Великобританія / Шанхай, Китай",
+                "ru": "Лонгбридж, Великобритания / Шанхай, Китай",
+                "zh": "英国长桥 / 中国上海"
+              },
+              "założona": "1924"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

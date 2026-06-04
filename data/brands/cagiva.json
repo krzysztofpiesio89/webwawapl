@@ -1,0 +1,96 @@
+{
+  "brand": "Cagiva",
+  "models": {
+    "Mito": [
+      {
+        "BrandID": 207,
+        "ModelID": 416210,
+        "Brand Name": "Cagiva",
+        "Model Name": "Mito",
+        "Serie Name": "Mito 125",
+        "Years": "1990 - 2012",
+        "specs": {
+          "bodyType": "Sport Bike",
+          "segment": "Motorcycle",
+          "drive": "Chain",
+          "fuel": "Gasoline",
+          "engine": "125cc 2-Stroke",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle"
+        }
+      },
+      {
+        "BrandID": 207,
+        "ModelID": 416211,
+        "Brand Name": "Cagiva",
+        "Model Name": "Mito",
+        "Serie Name": "Mito 500",
+        "Years": "2007 - 2012",
+        "specs": {
+          "bodyType": "Sport Bike",
+          "segment": "Motorcycle",
+          "drive": "Chain",
+          "fuel": "Gasoline",
+          "engine": "500cc Single",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle"
+        }
+      }
+    ],
+    "Raptor": [
+      {
+        "BrandID": 207,
+        "ModelID": 416212,
+        "Brand Name": "Cagiva",
+        "Model Name": "Raptor",
+        "Serie Name": "Raptor 650",
+        "Years": "2000 - 2007",
+        "specs": {
+          "bodyType": "Naked Bike",
+          "segment": "Motorcycle",
+          "drive": "Chain",
+          "fuel": "Gasoline",
+          "engine": "645cc V-Twin (Suzuki)",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle"
+        }
+      },
+      {
+        "BrandID": 207,
+        "ModelID": 416213,
+        "Brand Name": "Cagiva",
+        "Model Name": "Raptor",
+        "Serie Name": "Raptor 1000",
+        "Years": "2000 - 2006",
+        "specs": {
+          "bodyType": "Naked Bike",
+          "segment": "Motorcycle",
+          "drive": "Chain",
+          "fuel": "Gasoline",
+          "engine": "996cc V-Twin (Suzuki)",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle"
+        }
+      }
+    ],
+    "Elefant": [
+      {
+        "BrandID": 207,
+        "ModelID": 416214,
+        "Brand Name": "Cagiva",
+        "Model Name": "Elefant",
+        "Serie Name": "Elefant 750/900",
+        "Years": "1987 - 1998",
+        "specs": {
+          "bodyType": "Dual Sport",
+          "segment": "Motorcycle",
+          "drive": "Chain",
+          "fuel": "Gasoline",
+          "engine": "750cc / 900cc L-Twin (Ducati)",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle"
+        }
+      }
+    ]
+  }
+}

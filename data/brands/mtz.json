@@ -1,0 +1,116 @@
+{
+  "brand": "МТЗ",
+  "models": {
+    "3022": [
+      {
+        "BrandID": 223,
+        "ModelID": "",
+        "Brand Name": "МТЗ",
+        "Model Name": 3022,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Biełarus 3022 to ciężki ciągnik rolniczy o dużej mocy, przeznaczony do prac polowych w dużych gospodarstwach.",
+              "en": "Biełarus 3022 is a heavy, high-power agricultural tractor designed for field work on large farms.",
+              "de": "Der Biełarus 3022 ist ein schwerer landwirtschaftlicher Traktor mit hoher Leistung, der für die Feldarbeit auf großen landwirtschaftlichen Betrieben konzipiert ist.",
+              "uk": "Biełarus 3022 — важкий потужний сільськогосподарський трактор, призначений для польових робіт на великих фермах.",
+              "ru": "Беларус 3022 – тяжелый, мощный сельскохозяйственный трактор, предназначенный для полевых работ в крупных фермерских хозяйствах.",
+              "zh": "Biełarus 3022 是一款重型大功率农用拖拉机，专为大型农场的田间作业而设计。"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 223,
+        "ModelID": 416266,
+        "Brand Name": "МТЗ",
+        "Model Name": 3022,
+        "Serie Name": 3022,
+        "Years": "1990 - 3000",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Biełarus 3022 to ciężki ciągnik rolniczy o dużej mocy, przeznaczony do prac polowych w dużych gospodarstwach.",
+              "en": "Biełarus 3022 is a heavy, high-power agricultural tractor designed for field work on large farms.",
+              "de": "Biełarus 3022 ist ein schwerer landwirtschaftlicher Traktor mit hoher Leistung, der für die Feldarbeit auf großen landwirtschaftlichen Betrieben konzipiert ist.",
+              "uk": "Biełarus 3022 — важкий, потужний сільськогосподарський трактор, призначений для польових робіт на великих фермах.",
+              "ru": "Беларус 3022 – тяжелый, мощный сельскохозяйственный трактор, предназначенный для полевых работ в крупных фермерских хозяйствах.",
+              "zh": "Biełarus 3022 是一款重型大功率农用拖拉机，专为大型农场的田间作业而设计。"
+            }
+          }
+        }
+      }
+    ],
+    "": [
+      {
+        "BrandID": 223,
+        "ModelID": "",
+        "Brand Name": "МТЗ",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "MTZ (Mińska Fabryka Traktorów) to jeden z największych producentów maszyn rolniczych na świecie, znany z legendarnych ciągników 'Biełarus'.",
+              "en": "MTZ (Minsk Tractor Plant) is one of the largest producers of agricultural machinery in the world, known for the legendary 'Biełarus' tractors.",
+              "de": "MTZ (Minsker Traktorenwerk) ist einer der größten Hersteller von Landmaschinen weltweit, bekannt für die legendären „Biełarus“-Traktoren.",
+              "uk": "МТЗ (Мінський тракторний завод) — один із найбільших виробників сільськогосподарської техніки у світі, відомий завдяки легендарним тракторам «Biełarus».",
+              "ru": "МТЗ (Минский тракторный завод) – один из крупнейших производителей сельскохозяйственной техники в мире, известный своими легендарными тракторами «Беларусь».",
+              "zh": "MTZ（明斯克拖拉机厂）是世界上最大的农业机械生产商之一，以传奇的“Biełarus”拖拉机而闻名。"
+            }
+          }
+        }
+      }
+    ],
+    "80/82": [
+      {
+        "BrandID": 223,
+        "ModelID": "",
+        "Brand Name": "МТЗ",
+        "Model Name": "80/82",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Biełarus 80/82 to legenda radzieckiego i postradzieckiego rolnictwa. Prosty, niezniszczalny i wszechstronny ciągnik.",
+              "en": "Biełarus 80/82 is a legend of Soviet and post-Soviet agriculture. A simple, indestructible and versatile tractor.",
+              "de": "Biełarus 80/82 ist eine Legende der sowjetischen und postsowjetischen Landwirtschaft. Ein einfacher, unverwüstlicher und vielseitiger Traktor.",
+              "uk": "Biełarus 80/82 — легенда радянського та пострадянського сільського господарства. Простий, непорушний і універсальний трактор.",
+              "ru": "«Беларусь 80/82» — легенда советского и постсоветского сельского хозяйства. Простой, неубиваемый и универсальный трактор.",
+              "zh": "Biełarus 80/82 是苏联和后苏联农业的传奇。一种简单、坚不可摧的多功能拖拉机。"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 223,
+        "ModelID": 416268,
+        "Brand Name": "МТЗ",
+        "Model Name": "80/82",
+        "Serie Name": "80/82",
+        "Years": "1990 - 3000",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Biełarus 80/82 to legenda radzieckiego i postradzieckiego rolnictwa. Prosty, niezniszczalny i wszechstronny ciągnik.",
+              "en": "Biełarus 80/82 is a legend of Soviet and post-Soviet agriculture. A simple, indestructible and versatile tractor.",
+              "de": "Biełarus 80/82 ist eine Legende der sowjetischen und postsowjetischen Landwirtschaft. Ein einfacher, unverwüstlicher und vielseitiger Traktor.",
+              "uk": "Biełarus 80/82 — легенда радянського та пострадянського сільського господарства. Простий, непорушний і універсальний трактор.",
+              "ru": "«Беларусь 80/82» — легенда советского и постсоветского сельского хозяйства. Простой, неубиваемый и универсальный трактор.",
+              "zh": "Biełarus 80/82 是苏联和后苏联农业的传奇。一种简单、坚不可摧的多功能拖拉机。"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

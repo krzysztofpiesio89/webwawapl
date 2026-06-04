@@ -1,0 +1,1273 @@
+{
+  "brand": "Mazda",
+  "models": {
+    "2": [
+      {
+        "BrandID": 88,
+        "ModelID": 413306,
+        "Brand Name": "Mazda",
+        "Model Name": "2",
+        "Serie Name": "2 DY",
+        "Years": "2003 - 2007",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Supermini",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L - 1.6L / 1.4L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/1999-2001_Mazda_Demio.jpg/1280px-1999-2001_Mazda_Demio.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/1999-2001_Mazda_Demio.jpg/1280px-1999-2001_Mazda_Demio.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/1999-2001_Mazda_Demio_rear.jpg/1280px-1999-2001_Mazda_Demio_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mazda2_%28DY%29_%E2%80%93_Heckansicht%2C_25._August_2013%2C_D%C3%BCsseldorf.jpg/1280px-Mazda2_%28DY%29_%E2%80%93_Heckansicht%2C_25._August_2013%2C_D%C3%BCsseldorf.jpg"
+            ],
+            "description": {
+              "pl": "Mazda 2 to zwinne i stylowe auto miejskie. Generacja DY łączy cechy minivana z hatchbackiem, oferując zaskakującą przestrzeń i japońską niezawodność.",
+              "en": "Mazda 2 is an agile and stylish city car. The DY generation combines the features of a minivan with a hatchback, offering surprising space and Japanese reliability.",
+              "de": "Mazda 2 ist ein agiles und stilvolles Stadtauto. Die DY-Generation vereint die Merkmale eines Minivans mit denen eines Fließheckmodells und bietet überraschend viel Platz und japanische Zuverlässigkeit.",
+              "uk": "Mazda 2 — це маневрений і стильний міський автомобіль. Покоління DY поєднує риси мінівена з хетчбеком, пропонуючи дивовижний простір і японську надійність.",
+              "ru": "Mazda 2 – маневренный и стильный городской автомобиль. Поколение DY сочетает в себе черты минивэна и хэтчбека, предлагая удивительный простор и японскую надежность.",
+              "zh": "马自达2是一款敏捷、时尚的城市汽车。 DY 一代结合了小型货车和掀背车的特点，提供令人惊叹的空间和日本的可靠性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mazda"
+              },
+              "okres produkcji": {
+                "pl": "od 2003",
+                "en": "from 2003",
+                "de": "ab 2003",
+                "uk": "з 2003 року",
+                "ru": "с 2003 года",
+                "zh": "自2003年以来"
+              },
+              "segment": {
+                "pl": "B (Miejskie)",
+                "en": "B (City)",
+                "de": "B (Stadt)",
+                "uk": "B (місто)",
+                "ru": "Б (Городской)",
+                "zh": "B（城市）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1n/7t/48oiepwks080ccgc4kgg0/mazda_2-uk-2015_r9-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 88,
+        "ModelID": 413307,
+        "Brand Name": "Mazda",
+        "Model Name": "2",
+        "Serie Name": "2 DE",
+        "Years": "2007 - 2014",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Supermini",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.3L - 1.5L / 1.4L - 1.6L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mazda 2 (DE) to lekki i aerodynamiczny hatchback, który zdobył tytuł World Car of the Year 2008. Definiuje podejście marki do redukcji masy i poprawy efektywności.",
+              "en": "Mazda 2 (DE) is a light and aerodynamic hatchback that won the title of World Car of the Year 2008. It defines the brand's approach to reducing weight and improving efficiency.",
+              "de": "Mazda 2 (DE) ist ein leichtes und aerodynamisches Fließheck, das den Titel „Weltauto des Jahres 2008“ gewann. Es definiert den Ansatz der Marke zur Gewichtsreduzierung und Verbesserung der Effizienz.",
+              "uk": "Mazda 2 (DE) — легкий і аеродинамічний хетчбек, який отримав звання «Всесвітній автомобіль року 2008». Він визначає підхід бренду до зменшення ваги та підвищення ефективності.",
+              "ru": "Mazda 2 (DE) — легкий аэродинамический хэтчбек, завоевавший титул «Всемирный автомобиль года 2008». Он определяет подход бренда к снижению веса и повышению эффективности.",
+              "zh": "Mazda 2 (DE) 是一款轻型、空气动力学掀背车，荣获 2008 年世界年度汽车称号。它定义了该品牌减轻重量和提高效率的方法。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mazda"
+              },
+              "okres produkcji": "2007–2014",
+              "segment": {
+                "pl": "B (Miejskie)",
+                "en": "B (City)",
+                "de": "B (Stadt)",
+                "uk": "B (місто)",
+                "ru": "Б (Городской)",
+                "zh": "B（城市）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1n/7t/48oiepwks080ccgc4kgg0/mazda_2-uk-2015_r9-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 88,
+        "ModelID": 416645,
+        "Brand Name": "Mazda",
+        "Model Name": "2",
+        "Serie Name": "2 DJ",
+        "Years": "2014 - 3000",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Supermini",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "1.5L SkyActiv / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nowoczesna Mazda 2 (DJ) wprowadziła do segmentu aut miejskich technologię SkyActiv oraz design Kodo. To auto dla tych, którzy od małego samochodu oczekują jakości premium i świetnego prowadzenia.",
+              "en": "The modern Mazda 2 (DJ) introduced SkyActiv technology and Kodo design to the city car segment. This is a car for those who expect premium quality and great handling from a small car.",
+              "de": "Der moderne Mazda 2 (DJ) führte die SkyActiv-Technologie und das Kodo-Design in das Stadtautosegment ein. Dies ist ein Auto für diejenigen, die von einem Kleinwagen erstklassige Qualität und hervorragendes Handling erwarten.",
+              "uk": "Сучасна Mazda 2 (DJ) представила технологію SkyActiv і дизайн Kodo в сегменті міських автомобілів. Це автомобіль для тих, хто очікує від маленького автомобіля преміум якості та чудової керованості.",
+              "ru": "Современная Mazda 2 (DJ) привнесла в сегмент городских автомобилей технологию SkyActiv и дизайн Kodo. Это автомобиль для тех, кто ожидает от малолитражки премиального качества и отличной управляемости.",
+              "zh": "现代马自达 2 (DJ) 将 SkyActiv 技术和 Kodo 设计引入城市汽车领域。这款车适合那些期望小型车具有高品质和出色操控性的人。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mazda"
+              },
+              "okres produkcji": {
+                "pl": "od 2014",
+                "en": "from 2014",
+                "de": "ab 2014",
+                "uk": "з 2014 року",
+                "ru": "с 2014 года",
+                "zh": "自2014年起"
+              },
+              "segment": {
+                "pl": "B (Miejskie)",
+                "en": "B (City)",
+                "de": "B (Stadt)",
+                "uk": "B (місто)",
+                "ru": "Б (Городской)",
+                "zh": "B（城市）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1n/7t/48oiepwks080ccgc4kgg0/mazda_2-uk-2015_r9-jpg.310.jpg"
+        }
+      }
+    ],
+    "3": [
+      {
+        "BrandID": 88,
+        "ModelID": 413308,
+        "Brand Name": "Mazda",
+        "Model Name": "3",
+        "Serie Name": "3 BK",
+        "Years": "2003 - 2009",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Compact Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 2.3L Turbo / 1.6L - 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mazda 3 (BK) to dynamiczny kompakt zbudowany na wspólnej platformie z Fordem Focusem, ale o znacznie bardziej sportowym charakterze i unikalnej stylistyce.",
+              "en": "Mazda 3 (BK) is a dynamic compact car built on a common platform with the Ford Focus, but with a much sportier character and unique styling.",
+              "de": "Mazda 3 (BK) ist ein dynamischer Kompaktwagen, der auf einer gemeinsamen Plattform mit dem Ford Focus basiert, aber einen viel sportlicheren Charakter und ein einzigartiges Design aufweist.",
+              "uk": "Mazda 3 (BK) — динамічний компактний автомобіль, побудований на загальній платформі з Ford Focus, але з набагато більш спортивним характером і унікальним стилем.",
+              "ru": "Mazda 3 (BK) — динамичный компактный автомобиль, построенный на общей платформе с Ford Focus, но обладающий гораздо более спортивным характером и уникальным стилем.",
+              "zh": "马自达 3 (BK) 是一款动感紧凑型车型，与福特福克斯建立在同一平台上，但具有更强的运动特性和独特的造型。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mazda"
+              },
+              "okres produkcji": "2003–2009",
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (Compact)",
+                "ru": "С (компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      },
+      {
+        "BrandID": 88,
+        "ModelID": 413309,
+        "Brand Name": "Mazda",
+        "Model Name": "3",
+        "Serie Name": "3 BL",
+        "Years": "2008 - 2013",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Compact Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.5L / 2.3L Turbo / 1.6L - 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mazda_3_Facelift_rear.JPG/1280px-Mazda_3_Facelift_rear.JPG",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mazda_3_Facelift_rear.JPG/1280px-Mazda_3_Facelift_rear.JPG"
+            ],
+            "description": {
+              "pl": "Mazda 3 (BL) kontynuuje sportowe tradycje marki. Znana z 'uśmiechniętego' grilla i wprowadzenia pierwszych rozwiązań pro-środowiskowych przy zachowaniu dynamiki jazdy.",
+              "en": "Mazda 3 (BL) continues the brand's sporting traditions. Known for its 'smiling' grille and the introduction of the first pro-environmental solutions while maintaining driving dynamics.",
+              "de": "Mazda 3 (BL) führt die sportlichen Traditionen der Marke fort. Bekannt für seinen „lächelnden“ Kühlergrill und die Einführung der ersten umweltfreundlichen Lösungen bei gleichzeitiger Beibehaltung der Fahrdynamik.",
+              "uk": "Mazda 3 (BL) продовжує спортивні традиції марки. Відомий своєю «усміхненою» решіткою радіатора та впровадженням перших проекологічних рішень при збереженні динаміки водіння.",
+              "ru": "Mazda 3 (BL) продолжает спортивные традиции бренда. Известен своей «улыбающейся» решеткой радиатора и первыми экологическими решениями, сохраняющими при этом динамику движения.",
+              "zh": "马自达 3 (BL) 延续了该品牌的运动传统。以其“微笑”格栅和在保持驾驶动力的同时引入第一个环保解决方案而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mazda"
+              },
+              "okres produkcji": "2008–2013",
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (Compact)",
+                "ru": "С (компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      },
+      {
+        "BrandID": 88,
+        "ModelID": 413310,
+        "Brand Name": "Mazda",
+        "Model Name": "3",
+        "Serie Name": "3 BM/BN",
+        "Years": "2013 - 2018",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Compact Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.5L - 2.5L SkyActiv / 1.5L - 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mazda 3 (BM/BN) to przełom w designie (KODO) i technologii (pełny SkyActiv). Auto, które udowodniło, że silniki wolnossące mogą być oszczędne i dynamiczne.",
+              "en": "Mazda 3 (BM/BN) is a breakthrough in design (KODO) and technology (full SkyActiv). A car that proved that naturally aspirated engines can be economical and dynamic.",
+              "de": "Mazda 3 (BM/BN) ist ein Durchbruch in Design (KODO) und Technologie (vollständiges SkyActiv). Ein Auto, das bewiesen hat, dass Saugmotoren sparsam und dynamisch sein können.",
+              "uk": "Mazda 3 (BM/BN) — це прорив у дизайні (KODO) і технологіях (повний SkyActiv). Автомобіль, який довів, що атмосферні двигуни можуть бути економічними та динамічними.",
+              "ru": "Mazda 3 (BM/BN) — это прорыв в дизайне (KODO) и технологиях (полный SkyActiv). Автомобиль, доказавший, что безнаддувные двигатели могут быть экономичными и динамичными.",
+              "zh": "马自达3（BM/BN）是设计（KODO）和技术（全SkyActiv）的突破。这辆车证明了自然吸气发动机既经济又充满活力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mazda"
+              },
+              "okres produkcji": "2013–2018",
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (Compact)",
+                "ru": "С (компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      },
+      {
+        "BrandID": 88,
+        "ModelID": 416646,
+        "Brand Name": "Mazda",
+        "Model Name": "3",
+        "Serie Name": "3 BP",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Compact Car",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/Mild-Hybrid",
+          "engine": "1.5L - 2.5L SkyActiv / SkyActiv-X",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Najnowsza Mazda 3 (BP) to dzieło sztuki na kołach. Oferuje minimalistyczne, luksusowe wnętrze i innowacyjny silnik SkyActiv-X, łączący cechy diesla i jednostki benzynowej.",
+              "en": "The latest Mazda 3 (BP) is a work of art on wheels. It offers a minimalist, luxurious interior and the innovative SkyActiv-X engine, combining the features of a diesel and petrol unit.",
+              "de": "Der neueste Mazda 3 (BP) ist ein Kunstwerk auf Rädern. Es bietet ein minimalistisches, luxuriöses Interieur und den innovativen SkyActiv-X-Motor, der die Eigenschaften eines Diesel- und Benzinaggregats vereint.",
+              "uk": "Остання Mazda 3 (BP) — це витвір мистецтва на колесах. Він пропонує мінімалістичний, розкішний інтер’єр та інноваційний двигун SkyActiv-X, що поєднує в собі характеристики дизельного та бензинового агрегатів.",
+              "ru": "Последняя Mazda 3 (BP) – это произведение искусства на колесах. Он предлагает минималистичный, роскошный интерьер и инновационный двигатель SkyActiv-X, сочетающий в себе характеристики дизельного и бензинового агрегата.",
+              "zh": "最新的马自达 3 (BP) 是车轮上的艺术品。它拥有简约、豪华的内饰和创新的 SkyActiv-X 发动机，结合了柴油机和汽油机的特点。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mazda"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019 року",
+                "ru": "с 2019 года",
+                "zh": "2019年起"
+              },
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (Compact)",
+                "ru": "С (компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      }
+    ],
+    "6": [
+      {
+        "BrandID": 88,
+        "ModelID": 135114,
+        "Brand Name": "Mazda",
+        "Model Name": "6",
+        "Serie Name": "6 GG/GY",
+        "Years": "2002 - 2008",
+        "specs": {
+          "bodyType": "Sedan/Hatchback/Wagon",
+          "segment": "Mid-size Car",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.8L - 3.0L V6 / 2.3L Turbo / 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mazda 6 to elegancki sedan/kombi klasy średniej, ceniony za stylistykę Kodo i właściwości jezdne.",
+              "en": "The Mazda 6 is an elegant mid-size sedan/wagon, appreciated for its Kodo styling and driving characteristics.",
+              "de": "Der Mazda 6 ist eine elegante Mittelklasse-Limousine/Kombi, die für ihr Kodo-Design und ihre Fahreigenschaften geschätzt wird.",
+              "uk": "Mazda 6 — це елегантний седан/універсал середнього розміру, який цінують за стиль Kodo та ходові характеристики.",
+              "ru": "Mazda 6 — это элегантный седан/универсал среднего размера, который ценится за стиль Kodo и ходовые качества.",
+              "zh": "马自达 6 是一款优雅的中型轿车/旅行车，因其 Kodo 造型和驾驶特性而受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mazda"
+              },
+              "okres produkcji": {
+                "pl": "od 2002",
+                "en": "from 2002",
+                "de": "ab 2002",
+                "uk": "з 2002 року",
+                "ru": "с 2002 года",
+                "zh": "自2002年以来"
+              },
+              "segment": {
+                "pl": "D"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8v/gw/kcj5kls8s48gwccgcgc4c/mazda-6-2012-14.310.jpg"
+        }
+      },
+      {
+        "BrandID": 88,
+        "ModelID": 146344,
+        "Brand Name": "Mazda",
+        "Model Name": "6",
+        "Serie Name": "6 GH",
+        "Years": "2007 - 2012",
+        "specs": {
+          "bodyType": "Sedan/Hatchback/Wagon",
+          "segment": "Mid-size Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.8L - 3.7L V6 / 2.0L - 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mazda 6 to elegancki sedan/kombi klasy średniej, ceniony za stylistykę Kodo i właściwości jezdne.",
+              "en": "Mazda 6 is an elegant mid-size sedan/wagon, appreciated for its Kodo styling and driving characteristics.",
+              "de": "Mazda 6 ist eine elegante Mittelklasse-Limousine/Kombi, die für ihr Kodo-Design und ihre Fahreigenschaften geschätzt wird.",
+              "uk": "Mazda 6 — це елегантний седан/універсал середнього розміру, який цінують за стиль і ходові якості Kodo.",
+              "ru": "Mazda 6 — это элегантный седан/универсал среднего размера, который ценится за стиль Kodo и ходовые качества.",
+              "zh": "马自达 6 是一款优雅的中型轿车/旅行车，因其 Kodo 造型和驾驶特性而受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mazda"
+              },
+              "okres produkcji": {
+                "pl": "od 2002",
+                "en": "from 2002",
+                "de": "ab 2002",
+                "uk": "з 2002 року",
+                "ru": "с 2002 года",
+                "zh": "自2002年以来"
+              },
+              "segment": {
+                "pl": "D"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8v/gw/kcj5kls8s48gwccgcgc4c/mazda-6-2012-14.310.jpg"
+        }
+      },
+      {
+        "BrandID": 88,
+        "ModelID": 412966,
+        "Brand Name": "Mazda",
+        "Model Name": "6",
+        "Serie Name": "6 GJ/GL",
+        "Years": "2012 - 2024",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Mid-size Car",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 2.5L SkyActiv / 2.5L Turbo / 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mazda 6 to elegancki sedan/kombi klasy średniej, ceniony za stylistykę Kodo i właściwości jezdne.",
+              "en": "Mazda 6 is an elegant mid-size sedan/wagon, appreciated for its Kodo styling and driving characteristics.",
+              "de": "Mazda 6 ist eine elegante Mittelklasse-Limousine/Kombi, die für ihr Kodo-Design und ihre Fahreigenschaften geschätzt wird.",
+              "uk": "Mazda 6 — це елегантний седан/універсал середнього розміру, який цінують за стиль і ходові якості Kodo.",
+              "ru": "Mazda 6 — это элегантный седан/универсал среднего размера, который ценится за стиль Kodo и ходовые качества.",
+              "zh": "马自达 6 是一款优雅的中型轿车/旅行车，因其 Kodo 造型和驾驶特性而受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mazda"
+              },
+              "okres produkcji": {
+                "pl": "od 2002",
+                "en": "from 2002",
+                "de": "ab 2002",
+                "uk": "з 2002 року",
+                "ru": "с 2002 года",
+                "zh": "自2002年以来"
+              },
+              "segment": {
+                "pl": "D"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8v/gw/kcj5kls8s48gwccgcgc4c/mazda-6-2012-14.310.jpg"
+        }
+      }
+    ],
+    "MX-5": [
+      {
+        "BrandID": 88,
+        "ModelID": 413317,
+        "Brand Name": "Mazda",
+        "Model Name": "MX-5",
+        "Serie Name": "MX-5 NA",
+        "Years": "1989 - 1997",
+        "specs": {
+          "bodyType": "Convertible",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L / 1.8L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mazda MX-5 (Miata) to najlepiej sprzedający się roadster na świecie. Kwintesencja radości z jazdy (Jinba Ittai).",
+              "en": "The Mazda MX-5 (Miata) is the best-selling roadster in the world. The quintessence of driving pleasure (Jinba Ittai).",
+              "de": "Der Mazda MX-5 (Miata) ist der meistverkaufte Roadster der Welt. Die Quintessenz des Fahrspaßes (Jinba Ittai).",
+              "uk": "Mazda MX-5 (Miata) є найбільш продаваним родстером у світі. Квінтесенція задоволення від водіння (Jinba Ittai).",
+              "ru": "Mazda MX-5 (Miata) — самый продаваемый родстер в мире. Квинтэссенция удовольствия от вождения (Джинба Иттай).",
+              "zh": "马自达 MX-5 (Miata) 是世界上最畅销的跑车。驾驶乐趣的精髓（Jinba Ittai）。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mazda"
+              },
+              "okres produkcji": {
+                "pl": "od 1989",
+                "en": "since 1989",
+                "de": "seit 1989",
+                "uk": "з 1989 року",
+                "ru": "с 1989 года",
+                "zh": "自1989年以来"
+              },
+              "segment": {
+                "pl": "Roadster"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9p/k9/hgcm73kss8cgkkcogos8s/hk2-php.310.jpg"
+        }
+      },
+      {
+        "BrandID": 88,
+        "ModelID": 413318,
+        "Brand Name": "Mazda",
+        "Model Name": "MX-5",
+        "Serie Name": "MX-5 NB",
+        "Years": "1998 - 2005",
+        "specs": {
+          "bodyType": "Convertible",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L / 1.8L / 1.8L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mazda MX-5 (Miata) to najlepiej sprzedający się roadster na świecie. Kwintesencja radości z jazdy (Jinba Ittai).",
+              "en": "The Mazda MX-5 (Miata) is the best-selling roadster in the world. The quintessence of driving pleasure (Jinba Ittai).",
+              "de": "Der Mazda MX-5 (Miata) ist der meistverkaufte Roadster der Welt. Die Quintessenz des Fahrspaßes (Jinba Ittai).",
+              "uk": "Mazda MX-5 (Miata) є найбільш продаваним родстером у світі. Квінтесенція задоволення від водіння (Jinba Ittai).",
+              "ru": "Mazda MX-5 (Miata) — самый продаваемый родстер в мире. Квинтэссенция удовольствия от вождения (Джинба Иттай).",
+              "zh": "马自达 MX-5 (Miata) 是世界上最畅销的跑车。驾驶乐趣的精髓（Jinba Ittai）。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mazda"
+              },
+              "okres produkcji": {
+                "pl": "od 1989",
+                "en": "since 1989",
+                "de": "seit 1989",
+                "uk": "з 1989 року",
+                "ru": "с 1989 года.",
+                "zh": "自 1989 年以来"
+              },
+              "segment": {
+                "pl": "Roadster"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9p/k9/hgcm73kss8cgkkcogos8s/hk2-php.310.jpg"
+        }
+      },
+      {
+        "BrandID": 88,
+        "ModelID": 413319,
+        "Brand Name": "Mazda",
+        "Model Name": "MX-5",
+        "Serie Name": "MX-5 NC",
+        "Years": "2005 - 2015",
+        "specs": {
+          "bodyType": "Convertible",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "1.8L / 2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mazda MX-5 (Miata) to najlepiej sprzedający się roadster na świecie. Kwintesencja radości z jazdy (Jinba Ittai).",
+              "en": "The Mazda MX-5 (Miata) is the best-selling roadster in the world. The quintessence of driving pleasure (Jinba Ittai).",
+              "de": "Der Mazda MX-5 (Miata) ist der meistverkaufte Roadster der Welt. Die Quintessenz des Fahrspaßes (Jinba Ittai).",
+              "uk": "Mazda MX-5 (Miata) є найбільш продаваним родстером у світі. Квінтесенція задоволення від водіння (Jinba Ittai).",
+              "ru": "Mazda MX-5 (Miata) — самый продаваемый родстер в мире. Квинтэссенция удовольствия от вождения (Джинба Иттай).",
+              "zh": "Mazda MX-5 (Miata) 是世界上最畅销的敞篷跑车。驾驶乐趣的精髓（Jinba Ittai）。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mazda"
+              },
+              "okres produkcji": {
+                "pl": "od 1989",
+                "en": "since 1989",
+                "de": "seit 1989",
+                "uk": "з 1989 року",
+                "ru": "с 1989 года.",
+                "zh": "自 1989 年以来"
+              },
+              "segment": {
+                "pl": "Roadster"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9p/k9/hgcm73kss8cgkkcogos8s/hk2-php.310.jpg"
+        }
+      },
+      {
+        "BrandID": 88,
+        "ModelID": 413808,
+        "Brand Name": "Mazda",
+        "Model Name": "MX-5",
+        "Serie Name": "MX-5 ND",
+        "Years": "2015 - 3000",
+        "specs": {
+          "bodyType": "Convertible/RF",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L / 2.0L SkyActiv",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Mazda MX-5 (Miata) to najlepiej sprzedający się roadster na świecie. Kwintesencja radości z jazdy (Jinba Ittai).",
+              "en": "The Mazda MX-5 (Miata) is the best-selling roadster in the world. The quintessence of driving pleasure (Jinba Ittai).",
+              "de": "Der Mazda MX-5 (Miata) ist der meistverkaufte Roadster der Welt. Die Quintessenz des Fahrspaßes (Jinba Ittai).",
+              "uk": "Mazda MX-5 (Miata) є найбільш продаваним родстером у світі. Квінтесенція задоволення від водіння (Jinba Ittai).",
+              "ru": "Mazda MX-5 (Miata) — самый продаваемый родстер в мире. Квинтэссенция удовольствия от вождения (Джинба Иттай).",
+              "zh": "Mazda MX-5 (Miata) 是世界上最畅销的敞篷跑车。驾驶乐趣的精髓（Jinba Ittai）。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mazda"
+              },
+              "okres produkcji": {
+                "pl": "od 1989",
+                "en": "from 1989",
+                "de": "von 1989",
+                "uk": "з 1989 року",
+                "ru": "1989 года.",
+                "zh": "1989 年"
+              },
+              "segment": {
+                "pl": "Roadster"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9p/k9/hgcm73kss8cgkkcogos8s/hk2-php.310.jpg"
+        }
+      }
+    ],
+    "CX-3": [
+      {
+        "BrandID": 88,
+        "ModelID": 413928,
+        "Brand Name": "Mazda",
+        "Model Name": "CX-3",
+        "Serie Name": "CX-3",
+        "Years": "2015 - 2022",
+        "specs": {
+          "bodyType": "Crossover",
+          "segment": "Subcompact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.5L - 2.0L / 1.5L - 1.8L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mazda CX-3 to miejski crossover o ostrych liniach i świetnych proporcjach. Choć bazuje na Mazdzie 2, oferuje wyższą pozycję za kierownicą i unikalny charakter lifestyle.",
+              "en": "Mazda CX-3 is an urban crossover with sharp lines and great proportions. Although based on the Mazda 2, it offers a higher driving position and a unique lifestyle character.",
+              "de": "Mazda CX-3 ist ein urbaner Crossover mit scharfen Linien und tollen Proportionen. Obwohl er auf dem Mazda 2 basiert, bietet er eine höhere Fahrposition und einen einzigartigen Lifestyle-Charakter.",
+              "uk": "Mazda CX-3 — міський кросовер із гострими лініями та чудовими пропорціями. Незважаючи на те, що він заснований на Mazda 2, він пропонує вищу посаду за кермом і унікальний стиль життя.",
+              "ru": "Mazda CX-3 — городской кроссовер с резкими линиями и великолепными пропорциями. Хотя он создан на основе Mazda 2, он предлагает более высокую посадку водителя и уникальный образ жизни.",
+              "zh": "马自达 CX-3 是一款城市跨界车，线条锐利，比例优美。虽然基于马自达 2，但它提供了更高的驾驶位置和独特的生活方式特征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mazda"
+              },
+              "okres produkcji": "2015–2022",
+              "segment": {
+                "pl": "B-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "CX-30": [
+      {
+        "BrandID": 88,
+        "ModelID": 416647,
+        "Brand Name": "Mazda",
+        "Model Name": "CX-30",
+        "Serie Name": "CX-30",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "Crossover",
+          "segment": "Subcompact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/Mild-Hybrid",
+          "engine": "2.0L - 2.5L SkyActiv / 1.8L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mazda CX-30 wypełnia lukę między CX-3 i CX-5. Wyróżnia się płynną linią nadwozia Inspirowaną kaligrafią i luksusowym wykończeniem kabiny w standardzie.",
+              "en": "The Mazda CX-30 fills the gap between the CX-3 and CX-5. It is distinguished by a flowing body line inspired by calligraphy and a luxurious cabin finish as standard.",
+              "de": "Der Mazda CX-30 füllt die Lücke zwischen dem CX-3 und CX-5. Er zeichnet sich durch eine fließende, von der Kalligrafie inspirierte Karosserielinie und eine serienmäßige luxuriöse Innenausstattung aus.",
+              "uk": "Mazda CX-30 заповнює прогалину між CX-3 і CX-5. Він вирізняється плавною лінією кузова, навіяною каліграфією, і розкішним оздобленням салону в стандартній комплектації.",
+              "ru": "Mazda CX-30 заполняет пробел между CX-3 и CX-5. Его отличают плавные линии кузова, вдохновленные каллиграфией, и роскошная отделка салона в стандартной комплектации.",
+              "zh": "马自达CX-30填补了CX-3和CX-5之间的空白。它的特点是受书法启发的流畅车身线条和标准的豪华客舱装饰。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mazda"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019 року",
+                "ru": "от 2019 года",
+                "zh": "2019 年起"
+              },
+              "segment": {
+                "pl": "C-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "CX-5": [
+      {
+        "BrandID": 88,
+        "ModelID": 413313,
+        "Brand Name": "Mazda",
+        "Model Name": "CX-5",
+        "Serie Name": "CX-5 KE",
+        "Years": "2012 - 2017",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 2.5L / 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mazda CX-5 to popularny SUV, który łączy praktyczność z przyjemnością prowadzenia. Bestseller marki.",
+              "en": "Mazda CX-5 is a popular SUV that combines practicality with driving pleasure. Brand bestseller.",
+              "de": "Mazda CX-5 ist ein beliebter SUV, der Praktikabilität mit Fahrspaß verbindet. Markenbestseller.",
+              "uk": "Mazda CX-5 — це популярний позашляховик, який поєднує практичність із задоволенням від водіння. Бестселер бренду.",
+              "ru": "Mazda CX-5 — популярный внедорожник, сочетающий в себе практичность и удовольствие от вождения. Бестселлер бренда.",
+              "zh": "马自达 CX-5 是一款集实用性与驾驶乐趣于一体的热门 SUV。品牌畅销书。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mazda"
+              },
+              "okres produkcji": {
+                "pl": "od 2012",
+                "en": "from 2012",
+                "de": "ab 2012",
+                "uk": "з 2012 року",
+                "ru": "2012 года.",
+                "zh": "2012 年起"
+              },
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7l/w2/301r2ykgok4gko00gwgcs/cx-5.310.jpg"
+        }
+      },
+      {
+        "BrandID": 88,
+        "ModelID": 416648,
+        "Brand Name": "Mazda",
+        "Model Name": "CX-5",
+        "Serie Name": "CX-5 KF",
+        "Years": "2017 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 2.5L Turbo / 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Mazda CX-5 to popularny SUV, który łączy praktyczność z przyjemnością prowadzenia. Bestseller marki.",
+              "en": "Mazda CX-5 is a popular SUV that combines practicality with driving pleasure. Brand bestseller.",
+              "de": "Der Mazda CX-5 ist ein beliebter SUV, der Praktikabilität mit Fahrspaß verbindet. Markenbestseller.",
+              "uk": "Mazda CX-5 — популярний позашляховик, який поєднує практичність із задоволенням від водіння. Бестселер бренду.",
+              "ru": "Mazda CX-5 — популярный внедорожник, сочетающий в себе практичность и удовольствие от вождения. Бестселлер бренда.",
+              "zh": "马自达 CX-5 是一款集实用性与驾驶乐趣于一体的热门 SUV。品牌畅销书。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mazda"
+              },
+              "okres produkcji": {
+                "pl": "od 2012",
+                "en": "from 2012",
+                "de": "ab 2012",
+                "uk": "з 2012 року",
+                "ru": "2012 года.",
+                "zh": "2012 年款"
+              },
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7l/w2/301r2ykgok4gko00gwgcs/cx-5.310.jpg"
+        }
+      }
+    ],
+    "CX-50": [
+      {
+        "BrandID": 88,
+        "ModelID": 416649,
+        "Brand Name": "Mazda",
+        "Model Name": "CX-50",
+        "Serie Name": "CX-50",
+        "Years": "2022 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.5L / 2.5L Turbo / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mazda CX-50 to bardziej surowa i nastawiona na outdoor wersja SUV-a Mazdy, stworzona z myślą o przygodach poza asfaltem, zachowująca przy tym elegancję marki.",
+              "en": "The Mazda CX-50 is a more rugged and outdoor-oriented version of the Mazda SUV, created for adventures off the asphalt, while maintaining the elegance of the brand.",
+              "de": "Der Mazda CX-50 ist eine robustere und Outdoor-orientiertere Version des Mazda-SUV, die für Abenteuer abseits des Asphalts entwickelt wurde und gleichzeitig die Eleganz der Marke beibehält.",
+              "uk": "Mazda CX-50 — це більш міцна та орієнтована на вулицю версія позашляховика Mazda, створена для пригод поза асфальтом, зберігаючи при цьому елегантність бренду.",
+              "ru": "Mazda CX-50 — это более прочная и ориентированная на открытый воздух версия внедорожника Mazda, созданная для приключений за пределами асфальта, сохраняющая при этом элегантность бренда.",
+              "zh": "马自达 CX-50 是马自达 SUV 的一款更加坚固且面向户外的版本，专为沥青路面上的冒险而设计，同时保持了品牌的优雅气质。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mazda"
+              },
+              "okres produkcji": {
+                "pl": "od 2022",
+                "en": "from 2022",
+                "de": "ab 2022",
+                "uk": "з 2022 року",
+                "ru": "с 2022 года.",
+                "zh": "2022 年起"
+              },
+              "segment": {
+                "pl": "C-SUV (Adventure)",
+                "en": "C-SUV (Adventure)",
+                "de": "C-SUV (Adventure)",
+                "uk": "C-SUV (Adventure)",
+                "ru": "C-SUV (Adventure)",
+                "zh": "C-SUV（冒险）"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "CX-60": [
+      {
+        "BrandID": 88,
+        "ModelID": 416650,
+        "Brand Name": "Mazda",
+        "Model Name": "CX-60",
+        "Serie Name": "CX-60",
+        "Years": "2022 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Diesel/PHEV/Mild-Hybrid",
+          "engine": "2.5L PHEV / 3.3L I6 Diesel/Gasoline",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mazda CX-60 to przełomowy model z napędem na tylną oś i nowymi silnikami sześciocylindrowymi. Pierwsza hybryda Plug-in marki o niesamowitej mocy i luksusowym charakterze.",
+              "en": "Mazda CX-60 is a groundbreaking model with rear-wheel drive and new six-cylinder engines. The brand's first Plug-in hybrid with incredible power and luxurious character.",
+              "de": "Mazda CX-60 ist ein bahnbrechendes Modell mit Hinterradantrieb und neuen Sechszylindermotoren. Der erste Plug-in-Hybrid der Marke mit unglaublicher Leistung und luxuriösem Charakter.",
+              "uk": "Mazda CX-60 — це новаторська модель із заднім приводом і новими шестициліндровими двигунами. Перший гібрид марки з неймовірною потужністю та розкішним характером.",
+              "ru": "Mazda CX-60 — революционная модель с задним приводом и новыми шестицилиндровыми двигателями. Первый подключаемый модуль бренда, обладающий невероятной мощностью и роскошным характером.",
+              "zh": "马自达 CX-60 是一款具有后轮驱动和新型六缸发动机的突破性车型。该品牌的首款插电式混合动力车具有令人难以置信的动力和奢华的品质。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mazda"
+              },
+              "okres produkcji": {
+                "pl": "od 2022",
+                "en": "from 2022",
+                "de": "ab 2022",
+                "uk": "з 2022 року",
+                "ru": "с 2022 года.",
+                "zh": "2022 年起"
+              },
+              "segment": {
+                "pl": "D-SUV (Premium)",
+                "en": "D-SUV (Premium)",
+                "de": "D-SUV (Premium)",
+                "uk": "D-SUV (преміум)",
+                "ru": "D-SUV (Premium)",
+                "zh": "D-SUV（高级）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "CX-7": [
+      {
+        "BrandID": 88,
+        "ModelID": 903,
+        "Brand Name": "Mazda",
+        "Model Name": "CX-7",
+        "Serie Name": "CX-7",
+        "Years": "2006 - 2012",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.3L Turbo / 2.5L / 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mazda CX-7 to sportowy crossover, który przetarł szlaki dla dzisiejszych SUV-ów marki. Słynął z mocnego silnika 2.3 Turbo z wersji MPS i świetnego prowadzenia.",
+              "en": "Mazda CX-7 is a sports crossover that paved the way for the brand's SUVs today. It was famous for its powerful 2.3 Turbo engine from the MPS version and great handling.",
+              "de": "Der Mazda CX-7 ist ein Sport-Crossover, der den Weg für die heutigen SUVs der Marke ebnete. Er war berühmt für seinen leistungsstarken 2,3-Turbomotor aus der MPS-Version und sein hervorragendes Handling.",
+              "uk": "Mazda CX-7 — це спортивний кросовер, який проклав шлях до позашляховиків бренду сьогодні. Він був відомий своїм потужним двигуном 2.3 Turbo з версії MPS і чудовою керованістю.",
+              "ru": "Mazda CX-7 — спортивный кроссовер, проложивший путь сегодняшним внедорожникам бренда. Он славился мощным двигателем 2.3 Turbo от версии MPS и великолепной управляемостью.",
+              "zh": "马自达 CX-7 是一款运动跨界车，为该品牌当今的 SUV 铺平了道路。它以其 MPS 版本强大的 2.3 涡轮增压发动机和出色的操控性而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mazda"
+              },
+              "okres produkcji": "2006–2012",
+              "segment": {
+                "pl": "D-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/sy/69/ew952lck4ckcwc8cokc4/cx-7.310.jpg"
+        }
+      }
+    ],
+    "CX-9": [
+      {
+        "BrandID": 88,
+        "ModelID": 904,
+        "Brand Name": "Mazda",
+        "Model Name": "CX-9",
+        "Serie Name": "CX-9 TB",
+        "Years": "2006 - 2015",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L / 3.7L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mazda to japoński producent, który idzie własną drogą (filozofia 'Zoom-Zoom'). Znana z silników Wankla i technologii SkyActiv.",
+              "en": "Mazda is a Japanese manufacturer that goes its own way ('Zoom-Zoom' philosophy). Known for its Wankel engines and SkyActiv technology.",
+              "de": "Mazda ist ein japanischer Hersteller, der seinen eigenen Weg geht („Zoom-Zoom“-Philosophie). Bekannt für seine Wankelmotoren und die SkyActiv-Technologie.",
+              "uk": "Mazda — японський виробник, який йде власним шляхом (філософія Zoom-Zoom). Відомий своїми двигунами Ванкеля та технологією SkyActiv.",
+              "ru": "Mazda — японский производитель, идущий своим путем (философия «Zoom-Zoom»). Известен своими двигателями Ванкеля и технологией SkyActiv.",
+              "zh": "马自达是一家走自己的路（“Zoom-Zoom”哲学）的日本制造商。以其 Wankel 发动机和 SkyActiv 技术而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mazda Motor Corp.",
+                "en": "Mazda Motor Corp.",
+                "de": "Mazda Motor Corp.",
+                "uk": "Mazda Motor Corp.",
+                "ru": "Mazda Motor Corp.",
+                "zh": "马自达汽车公司"
+              },
+              "siedziba": {
+                "pl": "Hiroszima, Japonia",
+                "en": "Hiroshima, Japan",
+                "de": "Hiroshima, Japan",
+                "uk": "Хіросіма, Японія",
+                "ru": "Хиросима, Япония",
+                "zh": "日本广岛"
+              },
+              "założona": "1920"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4m/em/rr380m4g0cgkkgcw8o48g/cx-9.310.jpg"
+        }
+      },
+      {
+        "BrandID": 88,
+        "ModelID": 416651,
+        "Brand Name": "Mazda",
+        "Model Name": "CX-9",
+        "Serie Name": "CX-9 TC",
+        "Years": "2016 - 2023",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.5L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mazda CX-9 to największy SUV marki, oferujący luksusowy transport dla siedmiu osób. Generacja TC postawiła na wysokiej klasy materiały i dynamiczny silnik SkyActiv Turbo.",
+              "en": "The Mazda CX-9 is the brand's largest SUV, offering luxurious transport for seven people. The TC generation focused on high-class materials and the dynamic SkyActiv Turbo engine.",
+              "de": "Der Mazda CX-9 ist der größte SUV der Marke und bietet luxuriösen Transport für sieben Personen. Bei der TC-Generation standen hochwertige Materialien und der dynamische SkyActiv Turbo-Motor im Fokus.",
+              "uk": "Mazda CX-9 — найбільший позашляховик бренду, який пропонує розкішний транспорт для семи осіб. Покоління TC зосереджено на високоякісних матеріалах і динамічному двигуні SkyActiv Turbo.",
+              "ru": "Mazda CX-9 — самый большой внедорожник марки, предлагающий роскошный транспорт для семи человек. В поколении TC основное внимание уделялось высококачественным материалам и динамичному двигателю SkyActiv Turbo.",
+              "zh": "马自达 CX-9 是该品牌最大的 SUV，可为七人提供豪华交通工具。 TC 一代专注于高级材料和动态 SkyActiv Turbo 发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mazda"
+              },
+              "okres produkcji": "2006–2023",
+              "segment": {
+                "pl": "E-SUV (Full-size)",
+                "en": "E-SUV (Full-size)",
+                "de": "E-SUV (Full-Size)",
+                "uk": "Електронний позашляховик (повнорозмірний)",
+                "ru": "E-SUV (полноразмерный)",
+                "zh": "E-SUV（全尺寸）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4m/em/rr380m4g0cgkkgcw8o48g/cx-9.310.jpg"
+        }
+      }
+    ],
+    "CX-90": [
+      {
+        "BrandID": 88,
+        "ModelID": 416652,
+        "Brand Name": "Mazda",
+        "Model Name": "CX-90",
+        "Serie Name": "CX-90",
+        "Years": "2023 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/PHEV",
+          "engine": "3.3L I6 Turbo / 2.5L PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Zapierająca dech w piersiach Mazda CX-90 to nowy okręt flagowy. Oferuje potężne silniki R6, ogromną przestrzeń i standard wykończenia konkurujący z najlepszymi markami premium.",
+              "en": "The breathtaking Mazda CX-90 is the new flagship. It offers powerful R6 engines, huge space and a finishing standard that competes with the best premium brands.",
+              "de": "Der atemberaubende Mazda CX-90 ist das neue Flaggschiff. Er bietet leistungsstarke R6-Motoren, viel Platz und einen Verarbeitungsstandard, der mit den besten Premiummarken mithalten kann.",
+              "uk": "Захоплююча Mazda CX-90 — новий флагман. Він пропонує потужні двигуни R6, величезний простір і стандарт обробки, який конкурує з найкращими брендами преміум-класу.",
+              "ru": "Потрясающая Mazda CX-90 — новый флагман. Он предлагает мощные двигатели R6, огромное пространство и уровень отделки, конкурирующий с лучшими брендами премиум-класса.",
+              "zh": "令人惊叹的马自达 CX-90 是新旗舰。它提供强大的 R6 发动机、宽敞的空间和可与最优质品牌竞争的精加工标准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mazda"
+              },
+              "okres produkcji": {
+                "pl": "od 2023",
+                "en": "from 2023",
+                "de": "ab 2023",
+                "uk": "з 2023 року",
+                "ru": "2023 года.",
+                "zh": "2023 年起"
+              },
+              "segment": {
+                "pl": "F-SUV"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "RX-7": [
+      {
+        "BrandID": 88,
+        "ModelID": 413320,
+        "Brand Name": "Mazda",
+        "Model Name": "RX-7",
+        "Serie Name": "RX-7 FD",
+        "Years": "1992 - 2002",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "1.3L Twin-Turbo Rotary",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mazda RX-7 FD to czysta esencja japońskiego auta sportowego lat 90. Legendarna dzięki silnikowi Wankla (Rotary) z sekwencyjnym turbo i nieskazitelnemu prowadzeniu.",
+              "en": "Mazda RX-7 FD is the pure essence of a Japanese sports car from the 1990s. Legendary thanks to its Wankel (Rotary) engine with sequential turbo and impeccable handling.",
+              "de": "Der Mazda RX-7 FD ist die reine Essenz eines japanischen Sportwagens aus den 1990er Jahren. Legendär dank seines Wankelmotors mit sequenziellem Turbo und tadellosem Handling.",
+              "uk": "Mazda RX-7 FD — це чиста сутність японського спортивного автомобіля 1990-х років. Легендарний завдяки двигуну Ванкеля (роторному) з послідовним турбонаддувом і бездоганній керованості.",
+              "ru": "Mazda RX-7 FD — это чистая суть японского спортивного автомобиля 1990-х годов. Легендарный благодаря двигателю Ванкеля (Ротарный) с последовательным турбонаддувом и безупречной управляемостью.",
+              "zh": "马自达 RX-7 FD 是 2023 年日本跑车的纯粹精髓。传奇归功于其具有顺序涡轮增压和无可挑剔的操控性的汪克尔（旋转）发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mazda"
+              },
+              "okres produkcji": "1992–2002",
+              "segment": {
+                "pl": "Sportowe"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2z/uq/f8419c2sws0gg80gg4cs8/rx-7-iii.310.jpg"
+        }
+      }
+    ],
+    "RX-8": [
+      {
+        "BrandID": 88,
+        "ModelID": 413321,
+        "Brand Name": "Mazda",
+        "Model Name": "RX-8",
+        "Serie Name": "RX-8",
+        "Years": "2003 - 2012",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "1.3L Rotary (Renesis)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mazda RX-8 to innowacyjne coupe z unikalnymi drzwiami 'suicide doors'. Ostatni seryjny model z silnikiem Wankla (Renesis), oferujący wysokoobrotową charakterystykę pracy.",
+              "en": "Mazda RX-8 is an innovative coupe with unique 'suicide doors'. The last serial model with a Wankel engine (Renesis), offering high-speed operation characteristics.",
+              "de": "Mazda RX-8 ist ein innovatives Coupé mit einzigartigen „Selbstmordtüren“. Das letzte Serienmodell mit Wankelmotor (Renesis) und Hochgeschwindigkeitslaufeigenschaften.",
+              "uk": "Mazda RX-8 — інноваційне купе з унікальними «дверями самогубця». Остання серійна модель з двигуном Ванкеля (Renesis), що володіє високошвидкісними характеристиками.",
+              "ru": "Mazda RX-8 — инновационное купе с уникальными «дверями-самоубийцами». Последняя серийная модель с двигателем Ванкеля (Renesis), обладающая высокими скоростными характеристиками.",
+              "zh": "马自达 RX-8 是一款具有独特“自杀门”的创新轿跑车。最后一个系列型号配备汪克尔发动机（Renesis），具有高速运行特性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mazda"
+              },
+              "okres produkcji": "2003–2012",
+              "segment": {
+                "pl": "Sportowe"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7l/q2/v74yiscgwcc0coog488k8/rx-8.310.jpg"
+        }
+      }
+    ]
+  }
+}

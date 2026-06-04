@@ -1,0 +1,654 @@
+{
+  "brand": "Mini",
+  "models": {
+    "Cooper": [
+      {
+        "BrandID": 93,
+        "ModelID": 36173,
+        "Brand Name": "Mini",
+        "Model Name": "Cooper",
+        "Serie Name": "Cooper R50/R53",
+        "Years": "2001 - 2006",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Supermini",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L / 1.6L Supercharged",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mini Cooper to ikona brytyjskiego stylu w nowoczesnym wydaniu. Kolejne generacje pod skrzydłami BMW zachowały gokartowe prowadzenie i unikalny design, stając się symbolem miejskiego premium.",
+              "en": "Mini Cooper is an icon of British style with a modern twist. Subsequent generations under BMW's wings retained go-kart handling and unique design, becoming a symbol of urban premium.",
+              "de": "Der Mini Cooper ist eine Ikone des britischen Stils mit einem modernen Touch. Nachfolgende Generationen unter den Fittichen von BMW behielten das Gokart-Handling und das einzigartige Design bei und wurden zum Symbol für urbane Premiumqualität.",
+              "uk": "Mini Cooper – ікона британського стилю з сучасним відтінком. Наступні покоління під крилами BMW зберегли керованість картингу та унікальний дизайн, ставши символом міського преміум-класу.",
+              "ru": "Mini Cooper — это икона британского стиля в современной интерпретации. Последующие поколения под крылом BMW сохранили управляемость картинга и уникальный дизайн, став символом городского премиум-класса.",
+              "zh": "Mini Cooper 是具有现代风格的英式风格的象征。宝马旗下的后代保留了卡丁车般的操控性和独特的设计，成为城市高端的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mini (BMW Group)",
+                "en": "Mini (BMW Group)",
+                "de": "Mini (BMW Group)",
+                "uk": "Mini (BMW Group)",
+                "ru": "Mini (BMW Group)",
+                "zh": "Mini（宝马集团）"
+              },
+              "okres produkcji": {
+                "pl": "od 2001 (BMW era)",
+                "en": "from 2001 (BMW era)",
+                "de": "von 2001 (BMW-Ära)",
+                "uk": "з 2001 року (епоха BMW)",
+                "ru": "2001 года (эра BMW)",
+                "zh": "2001 年（宝马时代）"
+              },
+              "segment": {
+                "pl": "B (Premium)",
+                "en": "B (Premium)",
+                "de": "B (Premium)",
+                "uk": "B (Premium)",
+                "ru": "B (Премиум)",
+                "zh": "B（Premium）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3g/40/uz9483288coko04owk8wk/mini-cooper-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 93,
+        "ModelID": 165329,
+        "Brand Name": "Mini",
+        "Model Name": "Cooper",
+        "Serie Name": "Cooper R56",
+        "Years": "2006 - 2013",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Supermini",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L / 1.6L / 1.6L Turbo / 1.6L - 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mini Cooper to ikona brytyjskiego stylu w nowoczesnym wydaniu. Kolejne generacje pod skrzydłami BMW zachowały gokartowe prowadzenie i unikalny design, stając się symbolem miejskiego premium.",
+              "en": "Mini Cooper is an icon of British style in a modern version. Subsequent generations under BMW's wings retained go-kart handling and unique design, becoming a symbol of urban premium.",
+              "de": "Mini Cooper ist eine Ikone des britischen Stils in einer modernen Version. Nachfolgende Generationen unter den Fittichen von BMW behielten das Gokart-Handling und das einzigartige Design bei und wurden zum Symbol für urbane Premiumqualität.",
+              "uk": "Mini Cooper — це ікона британського стилю в сучасній версії. Наступні покоління під крилами BMW зберегли керованість картингу та унікальний дизайн, ставши символом міського преміум-класу.",
+              "ru": "Mini Cooper — икона британского стиля в современной версии. Последующие поколения под крылом BMW сохранили управляемость картинга и уникальный дизайн, став символом городского премиум-класса.",
+              "zh": "Mini Cooper 是现代版英伦风格的标志。宝马旗下的后代保留了卡丁车般的操控性和独特的设计，成为城市高端的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mini (BMW Group)",
+                "en": "Mini (BMW Group)",
+                "de": "Mini (BMW Group)",
+                "uk": "Mini (BMW Group)",
+                "ru": "Mini (BMW Group)",
+                "zh": "Mini（宝马集团）"
+              },
+              "okres produkcji": {
+                "pl": "od 2001 (BMW era)",
+                "en": "from 2001 (BMW era)",
+                "de": "von 2001 (BMW-Ära)",
+                "uk": "з 2001 року (епоха BMW)",
+                "ru": "2001 года (эра BMW)",
+                "zh": "2001 年（宝马时代）"
+              },
+              "segment": {
+                "pl": "B (Premium)",
+                "en": "B (Premium)",
+                "de": "B (Premium)",
+                "uk": "B (Premium)",
+                "ru": "B (Премиум)",
+                "zh": "B（Premium）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3g/40/uz9483288coko04owk8wk/mini-cooper-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 93,
+        "ModelID": 413915,
+        "Brand Name": "Mini",
+        "Model Name": "Cooper",
+        "Serie Name": "Convertible R57",
+        "Years": "2009 - 2015",
+        "specs": {
+          "bodyType": "Convertible",
+          "segment": "Supermini",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L / 1.6L Turbo / 1.6L - 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mini Cooper to ikona brytyjskiego stylu w nowoczesnym wydaniu. Kolejne generacje pod skrzydłami BMW zachowały gokartowe prowadzenie i unikalny design, stając się symbolem miejskiego premium.",
+              "en": "Mini Cooper is an icon of British style in a modern version. Subsequent generations under BMW's wings retained go-kart handling and unique design, becoming a symbol of urban premium.",
+              "de": "Mini Cooper ist eine Ikone des britischen Stils in einer modernen Version. Nachfolgende Generationen unter den Fittichen von BMW behielten das Gokart-Handling und das einzigartige Design bei und wurden zum Symbol für urbane Premiumqualität.",
+              "uk": "Mini Cooper — це ікона британського стилю в сучасній версії. Наступні покоління під крилами BMW зберегли керованість картингу та унікальний дизайн, ставши символом міського преміум-класу.",
+              "ru": "Mini Cooper — икона британского стиля в современной версии. Последующие поколения под крылом BMW сохранили управляемость картинга и уникальный дизайн, став символом городского премиум-класса.",
+              "zh": "Mini Cooper 是现代版英伦风格的标志。宝马旗下的后代保留了卡丁车般的操控性和独特的设计，成为城市高端的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mini (BMW Group)",
+                "en": "Mini (BMW Group)",
+                "de": "Mini (BMW Group)",
+                "uk": "Mini (BMW Group)",
+                "ru": "Mini (BMW Group)",
+                "zh": "Mini（宝马集团）"
+              },
+              "okres produkcji": {
+                "pl": "od 2001 (BMW era)",
+                "en": "from 2001 (BMW era)",
+                "de": "von 2001 (BMW-Ära)",
+                "uk": "з 2001 року (епоха BMW)",
+                "ru": "2001 года (эра BMW)",
+                "zh": "2001 年（宝马时代）"
+              },
+              "segment": {
+                "pl": "B (Premium)",
+                "en": "B (Premium)",
+                "de": "B (Premium)",
+                "uk": "B (Premium)",
+                "ru": "B (Премиум)",
+                "zh": "B（Premium）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3g/40/uz9483288coko04owk8wk/mini-cooper-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 93,
+        "ModelID": 413343,
+        "Brand Name": "Mini",
+        "Model Name": "Cooper",
+        "Serie Name": "Cooper F55 (5-door)",
+        "Years": "2014 - 3000",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Supermini",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L - 2.0L Turbo / 1.5L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mini Cooper to ikona brytyjskiego stylu w nowoczesnym wydaniu. Kolejne generacje pod skrzydłami BMW zachowały gokartowe prowadzenie i unikalny design, stając się symbolem miejskiego premium.",
+              "en": "Mini Cooper is an icon of British style in a modern version. Subsequent generations under BMW's wings retained go-kart handling and unique design, becoming a symbol of urban premium.",
+              "de": "Mini Cooper ist eine Ikone des britischen Stils in einer modernen Version. Nachfolgende Generationen unter den Fittichen von BMW behielten das Gokart-Handling und das einzigartige Design bei und wurden zum Symbol für urbane Premiumqualität.",
+              "uk": "Mini Cooper — це ікона британського стилю в сучасній версії. Наступні покоління під крилами BMW зберегли керованість картингу та унікальний дизайн, ставши символом міського преміум-класу.",
+              "ru": "Mini Cooper — икона британского стиля в современной версии. Последующие поколения под крылом BMW сохранили управляемость картинга и уникальный дизайн, став символом городского премиум-класса.",
+              "zh": "Mini Cooper 是现代版英伦风格的标志。宝马旗下的后代保留了卡丁车般的操控性和独特的设计，成为城市高端的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mini (BMW Group)",
+                "en": "Mini (BMW Group)",
+                "de": "Mini (BMW Group)",
+                "uk": "Mini (BMW Group)",
+                "ru": "Mini (BMW Group)",
+                "zh": "Mini（宝马集团）"
+              },
+              "okres produkcji": {
+                "pl": "od 2001 (BMW era)",
+                "en": "from 2001 (BMW era)",
+                "de": "von 2001 (BMW-Ära)",
+                "uk": "з 2001 року (епоха BMW)",
+                "ru": "2001 года (эра BMW)",
+                "zh": "2001 年（宝马时代）"
+              },
+              "segment": {
+                "pl": "B (Premium)",
+                "en": "B (Premium)",
+                "de": "B (Premium)",
+                "uk": "B (Premium)",
+                "ru": "B (Премиум)",
+                "zh": "B（Premium）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3g/40/uz9483288coko04owk8wk/mini-cooper-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 93,
+        "ModelID": 416671,
+        "Brand Name": "Mini",
+        "Model Name": "Cooper",
+        "Serie Name": "Cooper F56 (3-door)",
+        "Years": "2014 - 3000",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Supermini",
+          "drive": "FWD",
+          "fuel": "Gasoline/Electric",
+          "engine": "1.2L - 2.0L Turbo / Electric (SE)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mini Cooper to ikona brytyjskiego stylu w nowoczesnym wydaniu. Kolejne generacje pod skrzydłami BMW zachowały gokartowe prowadzenie i unikalny design, stając się symbolem miejskiego premium.",
+              "en": "Mini Cooper is an icon of British style in a modern version. Subsequent generations under BMW's wings retained go-kart handling and unique design, becoming a symbol of urban premium.",
+              "de": "Mini Cooper ist eine Ikone des britischen Stils in einer modernen Version. Nachfolgende Generationen unter den Fittichen von BMW behielten das Gokart-Handling und das einzigartige Design bei und wurden zum Symbol für urbane Premiumqualität.",
+              "uk": "Mini Cooper — це ікона британського стилю в сучасній версії. Наступні покоління під крилами BMW зберегли керованість картингу та унікальний дизайн, ставши символом міського преміум-класу.",
+              "ru": "Mini Cooper — икона британского стиля в современной версии. Последующие поколения под крылом BMW сохранили управляемость картинга и уникальный дизайн, став символом городского премиум-класса.",
+              "zh": "Mini Cooper 是现代版英伦风格的标志。宝马旗下的后代保留了卡丁车般的操控性和独特的设计，成为城市高端的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mini (BMW Group)",
+                "en": "Mini (BMW Group)",
+                "de": "Mini (BMW Group)",
+                "uk": "Mini (BMW Group)",
+                "ru": "Mini (BMW Group)",
+                "zh": "Mini（宝马集团）"
+              },
+              "okres produkcji": {
+                "pl": "od 2001 (BMW era)",
+                "en": "from 2001 (BMW era)",
+                "de": "von 2001 (BMW-Ära)",
+                "uk": "з 2001 року (епоха BMW)",
+                "ru": "2001 года (эра BMW)",
+                "zh": "2001 年（宝马时代）"
+              },
+              "segment": {
+                "pl": "B (Premium)",
+                "en": "B (Premium)",
+                "de": "B (Premium)",
+                "uk": "B (Premium)",
+                "ru": "B (Премиум)",
+                "zh": "B（Premium）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3g/40/uz9483288coko04owk8wk/mini-cooper-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 93,
+        "ModelID": 416672,
+        "Brand Name": "Mini",
+        "Model Name": "Cooper",
+        "Serie Name": "Convertible F57",
+        "Years": "2016 - 3000",
+        "specs": {
+          "bodyType": "Convertible",
+          "segment": "Supermini",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L - 2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mini Cooper to ikona brytyjskiego stylu w nowoczesnym wydaniu. Kolejne generacje pod skrzydłami BMW zachowały gokartowe prowadzenie i unikalny design, stając się symbolem miejskiego premium.",
+              "en": "Mini Cooper is an icon of British style in a modern version. Subsequent generations under BMW's wings retained go-kart handling and unique design, becoming a symbol of urban premium.",
+              "de": "Mini Cooper ist eine Ikone des britischen Stils in einer modernen Version. Nachfolgende Generationen unter den Fittichen von BMW behielten das Gokart-Handling und das einzigartige Design bei und wurden zum Symbol für urbane Premiumqualität.",
+              "uk": "Mini Cooper — це ікона британського стилю в сучасній версії. Наступні покоління під крилами BMW зберегли керованість картингу та унікальний дизайн, ставши символом міського преміум-класу.",
+              "ru": "Mini Cooper — икона британского стиля в современной версии. Последующие поколения под крылом BMW сохранили управляемость картинга и уникальный дизайн, став символом городского премиум-класса.",
+              "zh": "Mini Cooper 是现代版英伦风格的标志。宝马旗下的后代保留了卡丁车般的操控性和独特的设计，成为城市高端的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mini (BMW Group)",
+                "en": "Mini (BMW Group)",
+                "de": "Mini (BMW Group)",
+                "uk": "Mini (BMW Group)",
+                "ru": "Mini (BMW Group)",
+                "zh": "Mini（宝马集团）"
+              },
+              "okres produkcji": {
+                "pl": "od 2001 (BMW era)",
+                "en": "from 2001 (BMW era)",
+                "de": "ab 2001 (BMW-Ära)",
+                "uk": "з 2001 року (епоха BMW)",
+                "ru": "2001 года (эра BMW)",
+                "zh": "2001 年（宝马时代）"
+              },
+              "segment": {
+                "pl": "B (Premium)",
+                "en": "B (Premium)",
+                "de": "B (Premium)",
+                "uk": "B (Premium)",
+                "ru": "B (Premium)",
+                "zh": "B（Premium）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3g/40/uz9483288coko04owk8wk/mini-cooper-ii.310.jpg"
+        }
+      }
+    ],
+    "Clubman": [
+      {
+        "BrandID": 93,
+        "ModelID": 413905,
+        "Brand Name": "Mini",
+        "Model Name": "Clubman",
+        "Serie Name": "Clubman R55",
+        "Years": "2007 - 2014",
+        "specs": {
+          "bodyType": "Wagon",
+          "segment": "Supermini Wagon",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 1.6L Turbo / 1.6L - 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mini Clubman to najbardziej nietuzinkowe kombi na rynku. Charakterystyczne, dwuskrzydłowe drzwi bagażnika (Split Doors) i wydłużone nadwozie oferują więcej przestrzeni bez utraty charakteru Mini.",
+              "en": "Mini Clubman is the most unique station wagon on the market. The distinctive split doors and elongated body offer more space without losing the Mini's character.",
+              "de": "Mini Clubman ist der einzigartigste Kombi auf dem Markt. Die markanten geteilten Türen und die verlängerte Karosserie bieten mehr Platz, ohne den Charakter des Mini zu verlieren.",
+              "uk": "Mini Clubman є найбільш унікальним універсалом на ринку. Характерні роздільні двері та подовжений кузов пропонують більше простору, не втрачаючи характеру Mini.",
+              "ru": "Mini Clubman — самый уникальный универсал на рынке. Характерные разделенные двери и удлиненный кузов обеспечивают больше места, не теряя при этом характера Mini.",
+              "zh": "Mini Clubman 是市场上最独特的旅行车。独特的分体式车门和加长的车身提供了更多的空间，同时又不失 Mini 的特色。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mini"
+              },
+              "okres produkcji": "2007–2024",
+              "segment": {
+                "pl": "Compact Luxury Estate",
+                "en": "Compact Luxury Estate",
+                "de": "Der kompakte Luxus-Kombi",
+                "uk": "Компактний розкішний універсал",
+                "ru": "Компактный роскошный универсал",
+                "zh": "紧凑型豪华庄园"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/du/ca/4lazxvk0k4o4gccg0kso4/mini-clubman-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 93,
+        "ModelID": 413907,
+        "Brand Name": "Mini",
+        "Model Name": "Clubman",
+        "Serie Name": "Clubman F54",
+        "Years": "2015 - 2024",
+        "specs": {
+          "bodyType": "Wagon",
+          "segment": "Compact Wagon",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.5L - 2.0L Turbo / 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mini Clubman to najbardziej nietuzinkowe kombi na rynku. Charakterystyczne, dwuskrzydłowe drzwi bagażnika (Split Doors) i wydłużone nadwozie oferują więcej przestrzeni bez utraty charakteru Mini.",
+              "en": "Mini Clubman is the most unique station wagon on the market. The distinctive split doors and elongated body offer more space without losing the Mini's character.",
+              "de": "Mini Clubman ist der einzigartigste Kombi auf dem Markt. Die markanten geteilten Türen und die verlängerte Karosserie bieten mehr Platz, ohne den Charakter des Mini zu verlieren.",
+              "uk": "Mini Clubman — найунікальніший універсал на ринку. Характерні роздільні двері та подовжений кузов пропонують більше простору, не втрачаючи характеру Mini.",
+              "ru": "Mini Clubman — самый уникальный универсал на рынке. Характерные разделенные двери и удлиненный кузов обеспечивают больше места, не теряя при этом характера Mini.",
+              "zh": "Mini Clubman 是市场上最独特的旅行车。独特的分体式车门和加长的车身提供了更多的空间，同时又不失 Mini 的特色。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mini"
+              },
+              "okres produkcji": "2007–2024",
+              "segment": {
+                "pl": "Compact Luxury Estate",
+                "en": "Compact Luxury Estate",
+                "de": "Kompakter Luxus-Kombi",
+                "uk": "Компактний розкішний універсал",
+                "ru": "Компактный роскошный универсал",
+                "zh": "紧凑型豪华旅行车"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/du/ca/4lazxvk0k4o4gccg0kso4/mini-clubman-ii.310.jpg"
+        }
+      }
+    ],
+    "Countryman": [
+      {
+        "BrandID": 93,
+        "ModelID": 413909,
+        "Brand Name": "Mini",
+        "Model Name": "Countryman",
+        "Serie Name": "Countryman R60",
+        "Years": "2010 - 2016",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Subcompact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L Turbo / 1.6L - 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mini Countryman to największy model w rodzinie, który udowadnia, że Mini może być autem rodzinnym. Jako pierwszy SUV marki oferuje napęd na cztery koła ALL4 i wysoką dzielność w każdych warunkach.",
+              "en": "Mini Countryman is the largest model in the family, proving that Mini can be a family car. As the brand's first SUV, it offers ALL4 all-wheel drive and high performance in all conditions.",
+              "de": "Der Mini Countryman ist das größte Modell der Familie und beweist, dass Mini ein Familienauto sein kann. Als erster SUV der Marke bietet er ALL4-Allradantrieb und hohe Leistung unter allen Bedingungen.",
+              "uk": "Mini Countryman — найбільша модель у родині, що доводить, що Mini може бути сімейним автомобілем. Будучи першим позашляховиком марки, він пропонує повний привід ALL4 і високу продуктивність за будь-яких умов.",
+              "ru": "Mini Countryman — самая крупная модель в семействе, доказывающая, что Mini может быть семейным автомобилем. Будучи первым внедорожником бренда, он предлагает полный привод ALL4 и высокую производительность в любых условиях.",
+              "zh": "Mini Countryman 是家族中最大的车型，证明 Mini 可以成为家庭用车。作为该品牌的首款SUV，它提供ALL4全轮驱动以及在所有条件下的高性能。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mini"
+              },
+              "okres produkcji": {
+                "pl": "od 2010",
+                "en": "from 2010",
+                "de": "ab 2010",
+                "uk": "з 2010 року",
+                "ru": "2010 г.",
+                "zh": "2010 年起"
+              },
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/83/ya/ooo68vgoggw0g04kgk4ko/mini-countryman.310.jpg"
+        }
+      },
+      {
+        "BrandID": 93,
+        "ModelID": 413910,
+        "Brand Name": "Mini",
+        "Model Name": "Countryman",
+        "Serie Name": "Countryman F60",
+        "Years": "2017 - 2023",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Subcompact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "1.5L - 2.0L Turbo / 2.0L Diesel / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mini Countryman to największy model w rodzinie, który udowadnia, że Mini może być autem rodzinnym. Jako pierwszy SUV marki oferuje napęd na cztery koła ALL4 i wysoką dzielność w każdych warunkach.",
+              "en": "Mini Countryman is the largest model in the family, proving that Mini can be a family car. As the brand's first SUV, it offers ALL4 all-wheel drive and high performance in all conditions.",
+              "de": "Der Mini Countryman ist das größte Modell der Familie und beweist, dass Mini ein Familienauto sein kann. Als erster SUV der Marke bietet er ALL4-Allradantrieb und hohe Leistung unter allen Bedingungen.",
+              "uk": "Mini Countryman є найбільшою моделлю в родині, доводячи, що Mini може бути сімейним автомобілем. Будучи першим позашляховиком марки, він пропонує повний привід ALL4 і високу продуктивність за будь-яких умов.",
+              "ru": "Mini Countryman — самая крупная модель в семействе, доказывающая, что Mini может быть семейным автомобилем. Будучи первым внедорожником бренда, он предлагает полный привод ALL4 и высокую производительность в любых условиях.",
+              "zh": "Mini Countryman 是家族中最大的车型，证明 Mini 可以成为家庭用车。作为该品牌的首款SUV，它提供ALL4全轮驱动以及在所有条件下的高性能。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mini"
+              },
+              "okres produkcji": {
+                "pl": "od 2010",
+                "en": "from 2010",
+                "de": "ab 2010",
+                "uk": "з 2010 року",
+                "ru": "2010 г.",
+                "zh": "2010 年起"
+              },
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/83/ya/ooo68vgoggw0g04kgk4ko/mini-countryman.310.jpg"
+        }
+      },
+      {
+        "BrandID": 93,
+        "ModelID": 416673,
+        "Brand Name": "Mini",
+        "Model Name": "Countryman",
+        "Serie Name": "Countryman U25",
+        "Years": "2024 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Electric",
+          "engine": "2.0L Turbo / Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Mini Countryman to największy model w rodzinie, który udowadnia, że Mini może być autem rodzinnym. Jako pierwszy SUV marki oferuje napęd na cztery koła ALL4 i wysoką dzielność w każdych warunkach.",
+              "en": "Mini Countryman is the largest model in the family, proving that Mini can be a family car. As the brand's first SUV, it offers ALL4 all-wheel drive and high performance in all conditions.",
+              "de": "Der Mini Countryman ist das größte Modell der Familie und beweist, dass Mini ein Familienauto sein kann. Als erster SUV der Marke bietet er ALL4-Allradantrieb und hohe Leistung unter allen Bedingungen.",
+              "uk": "Mini Countryman є найбільшою моделлю в родині, доводячи, що Mini може бути сімейним автомобілем. Будучи першим позашляховиком марки, він пропонує повний привід ALL4 і високу продуктивність за будь-яких умов.",
+              "ru": "Mini Countryman — самая крупная модель в семействе, доказывающая, что Mini может быть семейным автомобилем. Будучи первым внедорожником бренда, он предлагает полный привод ALL4 и высокую производительность в любых условиях.",
+              "zh": "Mini Countryman 是家族中最大的车型，证明 Mini 可以成为家庭用车。作为该品牌的首款SUV，它提供ALL4全轮驱动以及在所有条件下的高性能。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mini"
+              },
+              "okres produkcji": {
+                "pl": "od 2010",
+                "en": "from 2010",
+                "de": "ab 2010",
+                "uk": "з 2010 року",
+                "ru": "2010 г.",
+                "zh": "2010 年起"
+              },
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/83/ya/ooo68vgoggw0g04kgk4ko/mini-countryman.310.jpg"
+        }
+      }
+    ],
+    "Paceman": [
+      {
+        "BrandID": 93,
+        "ModelID": 413914,
+        "Brand Name": "Mini",
+        "Model Name": "Paceman",
+        "Serie Name": "Paceman R61",
+        "Years": "2012 - 2016",
+        "specs": {
+          "bodyType": "Crossover Coupe",
+          "segment": "Subcompact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L Turbo / 1.6L - 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mini Paceman to trzydrzwiowy, drapieżny crossover. Łączy muskularną sylwetkę Countrymana z linią dachu coupe, oferując unikalny styl dla tych, którzy chcą się wyróżnić.",
+              "en": "Mini Paceman is a three-door, aggressive crossover. It combines the muscular silhouette of the Countryman with the roofline of a coupe, offering a unique style for those who want to stand out.",
+              "de": "Mini Paceman ist ein dreitüriger, aggressiver Crossover. Es kombiniert die muskulöse Silhouette des Countryman mit der Dachlinie eines Coupés und bietet einen einzigartigen Stil für alle, die auffallen wollen.",
+              "uk": "Mini Paceman — тридверний, агресивний кросовер. Він поєднує м’язистий силует Countryman з лінією даху купе, пропонуючи унікальний стиль для тих, хто хоче виділитися.",
+              "ru": "Mini Paceman — трехдверный агрессивный кроссовер. Он сочетает в себе мускулистый силуэт Countryman с линией крыши купе, предлагая уникальный стиль для тех, кто хочет выделиться.",
+              "zh": "Mini Paceman 是一款三门、激进的跨界车。它将 Countryman 的肌肉轮廓与轿跑车的车顶线条融为一体，为那些想要脱颖而出的人提供了独特的风格。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mini"
+              },
+              "okres produkcji": "2012–2016",
+              "segment": {
+                "pl": "Compact Crossover Coupe",
+                "en": "Compact Crossover Coupe",
+                "de": "Kompaktes Crossover-Coupé",
+                "uk": "Компактне кросовер-купе",
+                "ru": "Компактный кроссовер-купе",
+                "zh": "紧凑型跨界轿跑车"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/44/n1/u3511v28s48kwg4s0g4ck/1.310.jpg"
+        }
+      }
+    ]
+  }
+}

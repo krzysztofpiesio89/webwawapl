@@ -1,0 +1,594 @@
+{
+  "brand": "GMC",
+  "models": {
+    "Acadia": [
+      {
+        "BrandID": 53,
+        "ModelID": 591,
+        "Brand Name": "GMC",
+        "Model Name": "Acadia",
+        "Serie Name": "Acadia Gen 1",
+        "Years": "2007 - 2016",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.6L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Automobile_GMC_Acadia_%285463094484%29.jpg/1280px-Automobile_GMC_Acadia_%285463094484%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Automobile_GMC_Acadia_%285463094484%29.jpg/1280px-Automobile_GMC_Acadia_%285463094484%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/2017_GMC_Acadia_Limited%2C_front_9.30.19.jpg/1280px-2017_GMC_Acadia_Limited%2C_front_9.30.19.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/2017_GMC_Acadia_Limited%2C_rear_9.30.19.jpg/1280px-2017_GMC_Acadia_Limited%2C_rear_9.30.19.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/2017_GMC_Acadia_rear_2.15.18.jpg/1280px-2017_GMC_Acadia_rear_2.15.18.jpg"
+            ],
+            "description": {
+              "pl": "GMC Acadia pierwszej generacji to duży crossover, który zastąpił minivana Safari i SUV-a Envoy. Oferuje przestrzeń dla 8 osób i komfortową jazdę, będąc bliźniakiem Chevroleta Traverse.",
+              "en": "The first-generation GMC Acadia is a large crossover that replaced the Safari minivan and Envoy SUV. It offers space for 8 people and a comfortable ride, being the twin of the Chevrolet Traverse.",
+              "de": "Der GMC Acadia der ersten Generation ist ein großer Crossover, der den Safari-Minivan und den Envoy-SUV ersetzte. Er bietet Platz für 8 Personen und eine komfortable Fahrt und ist der Zwilling des Chevrolet Traverse.",
+              "uk": "GMC Acadia першого покоління - великий кросовер, який прийшов на зміну мінівену Safari і позашляховику Envoy. Він пропонує місце для 8 осіб і комфортну поїздку, будучи близнюком Chevrolet Traverse.",
+              "ru": "GMC Acadia первого поколения — большой кроссовер, пришедший на смену минивэну Safari и внедорожнику Envoy. Он предлагает место для 8 человек и комфортную езду, поскольку является близнецом Chevrolet Traverse.",
+              "zh": "第一代 GMC Acadia 是一款大型跨界车，取代了 Safari 小型货车和 Envoy SUV。它可容纳 8 人，乘坐舒适，是雪佛兰 Traverse 的双胞胎。"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ep/ft/savmtxc0048g08csg8cg/gmc-acadia.310.jpg"
+        }
+      },
+      {
+        "BrandID": 53,
+        "ModelID": 415597,
+        "Brand Name": "GMC",
+        "Model Name": "Acadia",
+        "Serie Name": "Acadia Gen 2",
+        "Years": "2017 - 2023",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L / 2.5L / 3.6L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Automobile_GMC_Acadia_%285463094484%29.jpg/1280px-Automobile_GMC_Acadia_%285463094484%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Automobile_GMC_Acadia_%285463094484%29.jpg/1280px-Automobile_GMC_Acadia_%285463094484%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/2017_GMC_Acadia_Limited%2C_front_9.30.19.jpg/1280px-2017_GMC_Acadia_Limited%2C_front_9.30.19.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/2017_GMC_Acadia_Limited%2C_rear_9.30.19.jpg/1280px-2017_GMC_Acadia_Limited%2C_rear_9.30.19.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/2017_GMC_Acadia_rear_2.15.18.jpg/1280px-2017_GMC_Acadia_rear_2.15.18.jpg"
+            ],
+            "description": {
+              "pl": "Druga generacja GMC Acadia została nieco pomniejszona, stając się typowym SUV-em klasy średniej. Zyskała na zwrotności i ekonomii, oferując jednocześnie zaawansowane systemy bezpieczeństwa.",
+              "en": "The second generation of the GMC Acadia was slightly smaller, becoming a typical mid-class SUV. It has gained in maneuverability and economy, while offering advanced safety systems.",
+              "de": "Die zweite Generation des GMC Acadia war etwas kleiner und entwickelte sich zu einem typischen Mittelklasse-SUV. Es hat an Manövrierfähigkeit und Wirtschaftlichkeit gewonnen und bietet gleichzeitig fortschrittliche Sicherheitssysteme.",
+              "uk": "Друге покоління GMC Acadia було трохи менше, ставши типовим позашляховиком середнього класу. Він покращив маневреність та економічність, пропонуючи передові системи безпеки.",
+              "ru": "Второе поколение GMC Acadia было немного меньше и стало типичным внедорожником среднего класса. Он улучшил маневренность и экономичность, предлагая при этом усовершенствованные системы безопасности.",
+              "zh": "第二代GMC Acadia的车身尺寸略小，成为典型的中级SUV。它在机动性和经济性方面取得了进步，同时提供了先进的安全系统。"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ep/ft/savmtxc0048g08csg8cg/gmc-acadia.310.jpg"
+        }
+      },
+      {
+        "BrandID": 53,
+        "ModelID": 416566,
+        "Brand Name": "GMC",
+        "Model Name": "Acadia",
+        "Serie Name": "Acadia Gen 3",
+        "Years": "2024 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.5L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Automobile_GMC_Acadia_%285463094484%29.jpg/1280px-Automobile_GMC_Acadia_%285463094484%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Automobile_GMC_Acadia_%285463094484%29.jpg/1280px-Automobile_GMC_Acadia_%285463094484%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/2017_GMC_Acadia_Limited%2C_front_9.30.19.jpg/1280px-2017_GMC_Acadia_Limited%2C_front_9.30.19.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/2017_GMC_Acadia_Limited%2C_rear_9.30.19.jpg/1280px-2017_GMC_Acadia_Limited%2C_rear_9.30.19.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/2017_GMC_Acadia_rear_2.15.18.jpg/1280px-2017_GMC_Acadia_rear_2.15.18.jpg"
+            ],
+            "description": {
+              "pl": "Najnowsza GMC Acadia powraca do większych rozmiarów, oferując więcej przestrzeni i potężny wygląd. Wnętrze zdominowane jest przez ogromny ekran, a wersja AT4 zapewnia dzielność w terenie.",
+              "en": "The newest GMC Acadia returns to larger dimensions, offering more space and a powerful appearance. The interior is dominated by a huge screen, and the AT4 version ensures off-road prowess.",
+              "de": "Der neueste GMC Acadia kehrt in größere Abmessungen zurück und bietet mehr Platz und ein kraftvolles Erscheinungsbild. Der Innenraum wird von einem riesigen Bildschirm dominiert und die AT4-Version sorgt für Geländetauglichkeit.",
+              "uk": "Найновіший GMC Acadia повертається до більших розмірів, пропонуючи більше простору та потужний зовнішній вигляд. В інтер’єрі домінує величезний екран, а версія AT4 забезпечує бездоріжжя.",
+              "ru": "Новейший GMC Acadia возвращается к более крупным размерам, предлагая больше места и мощный внешний вид. В интерьере доминирует огромный экран, а версия AT4 обеспечивает внедорожное мастерство.",
+              "zh": "最新的 GMC Acadia 回归更大的尺寸，提供更多的空间和强大的外观。内饰以大屏幕为主，AT4版本保证了越野能力。"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ep/ft/savmtxc0048g08csg8cg/gmc-acadia.310.jpg"
+        }
+      }
+    ],
+    "Canyon": [
+      {
+        "BrandID": 53,
+        "ModelID": 414048,
+        "Brand Name": "GMC",
+        "Model Name": "Canyon",
+        "Serie Name": "Canyon Gen 1",
+        "Years": "2004 - 2012",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Mid-size Pickup",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline",
+          "engine": "2.8L - 5.3L V8",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/GMC_Canyon_rear.jpg/1280px-GMC_Canyon_rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/GMC_Canyon_rear.jpg/1280px-GMC_Canyon_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/%2709_GMC_Canyon_Extended_Cab.JPG/1280px-%2709_GMC_Canyon_Extended_Cab.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2018_GMC_Canyon_Denali_SWB_4-Door_3.6L_rear_5.19.19.jpg/1280px-2018_GMC_Canyon_Denali_SWB_4-Door_3.6L_rear_5.19.19.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2015_GMC_Canyon%2C_Front_Right%2C_04-10-2021.jpg/1280px-2015_GMC_Canyon%2C_Front_Right%2C_04-10-2021.jpg"
+            ],
+            "description": {
+              "pl": "GMC Canyon pierwszej generacji to solidny pickup średniej wielkości, bliźniak Chevroleta Colorado. Ceniony za prostotę i możliwości przewozowe.",
+              "en": "The first generation GMC Canyon is a solid mid-size pickup, a twin of the Chevrolet Colorado. Appreciated for its simplicity and transport possibilities.",
+              "de": "Der GMC Canyon der ersten Generation ist ein solider Mittelklasse-Pickup, ein Zwilling des Chevrolet Colorado. Geschätzt für seine Einfachheit und Transportmöglichkeiten.",
+              "uk": "Перше покоління GMC Canyon — солідний пікап середнього розміру, двійник Chevrolet Colorado. Цінується за простоту і транспортні можливості.",
+              "ru": "GMC Canyon первого поколения — это солидный пикап среднего размера, близнец Chevrolet Colorado. Ценится за простоту и возможности транспортировки.",
+              "zh": "第一代 GMC Canyon 是一款坚固的中型皮卡，是雪佛兰 Colorado 的双胞胎。因其简单性和运输可能性而受到赞赏。"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 53,
+        "ModelID": 413874,
+        "Brand Name": "GMC",
+        "Model Name": "Canyon",
+        "Serie Name": "Canyon Gen 2",
+        "Years": "2015 - 2022",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Mid-size Pickup",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.5L / 3.6L V6 / 2.8L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "3"
+            }
+          },
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/GMC_Canyon_rear.jpg/1280px-GMC_Canyon_rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/GMC_Canyon_rear.jpg/1280px-GMC_Canyon_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/%2709_GMC_Canyon_Extended_Cab.JPG/1280px-%2709_GMC_Canyon_Extended_Cab.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2018_GMC_Canyon_Denali_SWB_4-Door_3.6L_rear_5.19.19.jpg/1280px-2018_GMC_Canyon_Denali_SWB_4-Door_3.6L_rear_5.19.19.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2015_GMC_Canyon%2C_Front_Right%2C_04-10-2021.jpg/1280px-2015_GMC_Canyon%2C_Front_Right%2C_04-10-2021.jpg"
+            ],
+            "description": {
+              "pl": "Druga generacja GMC Canyon wprowadziła znacznie wyższy standard wykończenia i nowoczesne technologie, pozycjonując się jako jedyny 'premium' pickup w klasie średniej, zwłaszcza w wersji Denali.",
+              "en": "The second generation of the GMC Canyon introduced a much higher standard of finishing and modern technologies, positioning itself as the only 'premium' pickup in the mid-range class, especially in the Denali version.",
+              "de": "Die zweite Generation des GMC Canyon führte einen viel höheren Standard an Verarbeitung und modernen Technologien ein und positionierte sich als einziger „Premium“-Pickup in der Mittelklasse, insbesondere in der Denali-Version.",
+              "uk": "Друге покоління GMC Canyon представило набагато вищий стандарт обробки та сучасних технологій, позиціонуючи себе як єдиний «преміальний» пікап у середньому класі, особливо у версії Denali.",
+              "ru": "Второе поколение GMC Canyon представило гораздо более высокий стандарт отделки и современные технологии, позиционируя себя как единственный «премиальный» пикап в среднем классе, особенно в версии Denali.",
+              "zh": "第二代 GMC Canyon 引入了更高标准的表面处理和现代技术，将自己定位为中档级别中唯一的“优质”皮卡，尤其是 Denali 版本。"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 53,
+        "ModelID": 416567,
+        "Brand Name": "GMC",
+        "Model Name": "Canyon",
+        "Serie Name": "Canyon Gen 3",
+        "Years": "2023 - 3000",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Mid-size Pickup",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline",
+          "engine": "2.7L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "3"
+            }
+          },
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/GMC_Canyon_rear.jpg/1280px-GMC_Canyon_rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/GMC_Canyon_rear.jpg/1280px-GMC_Canyon_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/%2709_GMC_Canyon_Extended_Cab.JPG/1280px-%2709_GMC_Canyon_Extended_Cab.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2018_GMC_Canyon_Denali_SWB_4-Door_3.6L_rear_5.19.19.jpg/1280px-2018_GMC_Canyon_Denali_SWB_4-Door_3.6L_rear_5.19.19.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2015_GMC_Canyon%2C_Front_Right%2C_04-10-2021.jpg/1280px-2015_GMC_Canyon%2C_Front_Right%2C_04-10-2021.jpg"
+            ],
+            "description": {
+              "pl": "Nowy GMC Canyon to bezkompromisowy pickup nastawiony na off-road, szczególnie w wersji AT4X. Oferuje luksusowe wnętrze i potężne osiągi z silnika turbo.",
+              "en": "The new GMC Canyon is an uncompromising pickup geared for off-road use, especially in the AT4X version. It offers a luxurious interior and powerful performance from a turbo engine.",
+              "de": "Der neue GMC Canyon ist ein kompromisslos auf den Offroad-Einsatz ausgelegter Pickup, insbesondere in der AT4X-Version. Es bietet einen luxuriösen Innenraum und kraftvolle Leistung durch einen Turbomotor.",
+              "uk": "Новий GMC Canyon — це безкомпромісний пікап, призначений для бездоріжжя, особливо у версії AT4X. Він пропонує розкішний інтер’єр і потужну продуктивність турбованого двигуна.",
+              "ru": "Новый GMC Canyon — это бескомпромиссный пикап, предназначенный для бездорожья, особенно в версии AT4X. Он предлагает роскошный салон и мощную мощность турбодвигателя.",
+              "zh": "新款 GMC Canyon 是一款不折不扣的越野皮卡，尤其是 AT4X 版本。它提供豪华的内饰和涡轮发动机的强大性能。"
+            }
+          }
+        }
+      }
+    ],
+    "Envoy": [
+      {
+        "BrandID": 53,
+        "ModelID": 415598,
+        "Brand Name": "GMC",
+        "Model Name": "Envoy",
+        "Serie Name": "Envoy",
+        "Years": "1998 - 2009",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline",
+          "engine": "4.2L I6 / 5.3L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "GMC Envoy to luksusowy wariant Chevroleta TrailBlazera. Wyróżniał się bogatym wyposażeniem, w tym zawieszeniem pneumatycznym w wersji Denali.",
+              "en": "GMC Envoy is a luxury variant of the Chevrolet TrailBlazer. It was distinguished by rich equipment, including air suspension in the Denali version.",
+              "de": "GMC Envoy ist eine Luxusvariante des Chevrolet TrailBlazer. Es zeichnete sich durch eine reichhaltige Ausstattung aus, darunter auch eine Luftfederung in der Denali-Version.",
+              "uk": "GMC Envoy — це розкішний варіант Chevrolet TrailBlazer. Він відрізнявся багатим оснащенням, включаючи пневмопідвіску у версії Denali.",
+              "ru": "GMC Envoy — роскошный вариант Chevrolet TrailBlazer. Его отличало богатое оснащение, в том числе пневмоподвеска в версии Denali.",
+              "zh": "GMC Envoy 是雪佛兰 TrailBlazer 的豪华版。它以丰富的装备而著称，其中包括 Denali 版本的空气悬架。"
+            }
+          }
+        }
+      }
+    ],
+    "Hummer EV": [
+      {
+        "BrandID": 53,
+        "ModelID": 416568,
+        "Brand Name": "GMC",
+        "Model Name": "Hummer EV",
+        "Serie Name": "Hummer EV",
+        "Years": "2022 - 3000",
+        "specs": {
+          "bodyType": "SUV/Pickup Truck",
+          "segment": "Electric Supertruck",
+          "drive": "AWD",
+          "fuel": "Electric",
+          "engine": "Electric",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "GMC Hummer EV to powrót legendy w elektrycznym wydaniu. Ten 'Supertruck' oferuje oszałamiającą moc (do 1000 KM), tryb CrabWalk i przyspieszenie godne supersamochodu.",
+              "en": "GMC Hummer EV is the return of the legend in an electric version. This 'Supertruck' offers stunning power (up to 1000 HP), CrabWalk mode and acceleration worthy of a supercar.",
+              "de": "GMC Hummer EV ist die Rückkehr der Legende in einer elektrischen Version. Dieser „Supertruck“ bietet atemberaubende Leistung (bis zu 1000 PS), den CrabWalk-Modus und eine Beschleunigung, die eines Supersportwagens würdig ist.",
+              "uk": "GMC Hummer EV — це повернення легенди в електричній версії. Ця «Супервантажівка» пропонує приголомшливу потужність (до 1000 к.с.), режим CrabWalk і прискорення, гідне суперкара.",
+              "ru": "GMC Hummer EV — возвращение легенды в электрической версии. Этот «Супергрузовик» предлагает потрясающую мощность (до 1000 л.с.), режим CrabWalk и ускорение, достойное суперкара.",
+              "zh": "GMC 悍马 EV 是传奇的电动版回归。这款“超级卡车”提供令人惊叹的动力（高达 1000 马力）、CrabWalk 模式和堪比超级跑车的加速性能。"
+            }
+          }
+        }
+      }
+    ],
+    "Jimmy": [
+      {
+        "BrandID": 53,
+        "ModelID": 594,
+        "Brand Name": "GMC",
+        "Model Name": "Jimmy",
+        "Serie Name": "Jimmy",
+        "Years": "1983 - 2005",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline",
+          "engine": "4.3L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "GMC Jimmy to klasyczny SUV, poprzednik modelu Envoy. Dzielił konstrukcję z Chevroletem Blazerem, oferując solidną ramową budowę i napęd 4x4.",
+              "en": "GMC Jimmy is a classic SUV, the predecessor of the Envoy model. It shared its structure with the Chevrolet Blazer, offering a solid frame construction and 4x4 drive.",
+              "de": "GMC Jimmy ist ein klassischer SUV, der Vorgänger des Envoy-Modells. Er teilte seine Struktur mit dem Chevrolet Blazer und bot eine solide Rahmenkonstruktion und einen Allradantrieb.",
+              "uk": "GMC Jimmy — класичний позашляховик, попередник моделі Envoy. Він поділив структуру з Chevrolet Blazer, пропонуючи міцну рамну конструкцію та повний привід.",
+              "ru": "GMC Jimmy — классический внедорожник, предшественник модели Envoy. Он разделял структуру Chevrolet Blazer, предлагая прочную рамную конструкцию и привод 4x4.",
+              "zh": "GMC吉米是一款经典SUV，是Envoy的前身。它与雪佛兰 Blazer 共享结构，提供坚固的框架结构和 4x4 驱动。"
+            }
+          }
+        }
+      }
+    ],
+    "Savana": [
+      {
+        "BrandID": 53,
+        "ModelID": 596,
+        "Brand Name": "GMC",
+        "Model Name": "Savana",
+        "Serie Name": "Savana",
+        "Years": "1996 - 3000",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Full-size Van",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "4.3L V6 / 6.0L V8 / 2.8L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "GMC Savana to wół roboczy w gamie GMC. Ten klasyczny van, produkowany bez większych zmian od lat 90., jest ceniony za niezawodność, prostotę i ogromne możliwości przewozowe.",
+              "en": "The GMC Savana is the workhorse in the GMC lineup. This classic van, produced without major changes since the 1990s, is appreciated for its reliability, simplicity and enormous transport capacity.",
+              "de": "Der GMC Savana ist das Arbeitstier in der GMC-Reihe. Dieser klassische Transporter, der seit den 1990er-Jahren ohne große Veränderungen hergestellt wird, wird für seine Zuverlässigkeit, Einfachheit und enorme Transportkapazität geschätzt.",
+              "uk": "GMC Savana — це робоча конячка в лінійці GMC. Цей класичний фургон, який випускався без особливих змін з 1990-х років, цінується за його надійність, простоту та величезну транспортну здатність.",
+              "ru": "GMC Savana — рабочая лошадка в линейке GMC. Этот классический фургон, выпускаемый без серьезных изменений с 1990-х годов, ценится за надежность, простоту и огромную транспортную вместимость.",
+              "zh": "GMC Savana 是 GMC 系列中的主力车型。这款经典货车自 20 世纪 90 年代以来一直没有进行重大改动，因其可靠性、简单性和巨大的运输能力而受到赞赏。"
+            }
+          }
+        }
+      }
+    ],
+    "Sierra": [
+      {
+        "BrandID": 53,
+        "ModelID": 415596,
+        "Brand Name": "GMC",
+        "Model Name": "Sierra",
+        "Serie Name": "Sierra 1500",
+        "Years": "1999 - 3000",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Full-size Pickup",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel/Electric",
+          "engine": "5.3L V8 / 6.2L V8 / 3.0L Diesel / EV",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/1989_GMC_K1500_rear.jpg/1280px-1989_GMC_K1500_rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/1989_GMC_K1500_rear.jpg/1280px-1989_GMC_K1500_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/1996_GMC_Sierra.jpg/1280px-1996_GMC_Sierra.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/GMC_Pick-Up_%285920123343%29.jpg/1280px-GMC_Pick-Up_%285920123343%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/GMC_Sierra_2500HD_Extended.jpg/1280px-GMC_Sierra_2500HD_Extended.jpg"
+            ],
+            "description": {
+              "pl": "GMC Sierra 1500 to luksusowy brat Chevroleta Silverado. Wyróżnia się innowacyjną burtą MultiPro Tailgate i wersją Denali, która jest synonimem luksusowego pickupa.",
+              "en": "GMC Sierra 1500 is the luxurious brother of the Chevrolet Silverado. It is distinguished by the innovative MultiPro Tailgate and the Denali version, which is synonymous with a luxury pickup truck.",
+              "de": "GMC Sierra 1500 ist der luxuriöse Bruder des Chevrolet Silverado. Er zeichnet sich durch die innovative MultiPro-Heckklappe und die Denali-Version aus, die als Synonym für einen Luxus-Pickup gilt.",
+              "uk": "GMC Sierra 1500 — розкішний брат Chevrolet Silverado. Його вирізняють інноваційний MultiPro Tailgate та версія Denali, яка є синонімом розкішного пікапа.",
+              "ru": "GMC Sierra 1500 — роскошный брат Chevrolet Silverado. Его отличают инновационная задняя дверь MultiPro и версия Denali, которая является синонимом роскошного пикапа.",
+              "zh": "GMC Sierra 1500 是雪佛兰索罗德的豪华兄弟。它的特点是创新的 MultiPro 尾门和 Denali 版本，这是豪华皮卡车的代名词。"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 53,
+        "ModelID": 416569,
+        "Brand Name": "GMC",
+        "Model Name": "Sierra",
+        "Serie Name": "Sierra 2500HD/3500HD",
+        "Years": "1999 - 3000",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Heavy Duty Pickup",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "6.6L V8 / 6.6L Duramax Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/1989_GMC_K1500_rear.jpg/1280px-1989_GMC_K1500_rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/1989_GMC_K1500_rear.jpg/1280px-1989_GMC_K1500_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/1996_GMC_Sierra.jpg/1280px-1996_GMC_Sierra.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/GMC_Pick-Up_%285920123343%29.jpg/1280px-GMC_Pick-Up_%285920123343%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/GMC_Sierra_2500HD_Extended.jpg/1280px-GMC_Sierra_2500HD_Extended.jpg"
+            ],
+            "description": {
+              "pl": "GMC Sierra HD (Heavy Duty) to potężne narzędzie do najcięższych zadań. Oferuje gigantyczny uciąg i moment obrotowy diesla Duramax, nie rezygnując z luksusu w kabinie.",
+              "en": "GMC Sierra HD (Heavy Duty) is a powerful tool for the heaviest tasks. It offers the enormous towing and torque of a Duramax diesel without sacrificing the luxury in the cabin.",
+              "de": "GMC Sierra HD (Heavy Duty) ist ein leistungsstarkes Werkzeug für die schwersten Aufgaben. Er bietet die enorme Zugkraft und das Drehmoment eines Duramax-Diesels, ohne auf den Luxus in der Kabine zu verzichten.",
+              "uk": "GMC Sierra HD (Heavy Duty) — потужний інструмент для найважчих завдань. Він пропонує величезну силу буксирування та крутний момент дизеля Duramax без шкоди для розкоші в салоні.",
+              "ru": "GMC Sierra HD (Heavy Duty) — мощный инструмент для самых тяжелых задач. Он обеспечивает огромную тягу и крутящий момент дизельного двигателя Duramax, не жертвуя при этом роскошью салона.",
+              "zh": "GMC Sierra HD（重型）是一款适用于最艰巨工作的强大工具。它提供了 Duramax 柴油机的巨大牵引力和扭矩，同时又不牺牲机舱的豪华性。"
+            }
+          }
+        }
+      }
+    ],
+    "Terrain": [
+      {
+        "BrandID": 53,
+        "ModelID": 598,
+        "Brand Name": "GMC",
+        "Model Name": "Terrain",
+        "Serie Name": "Terrain Gen 1",
+        "Years": "2010 - 2017",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L / 3.6L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "GMC Terrain pierwszej generacji wyróżniał się kanciastym, 'industrialnym' designem. To kompaktowy SUV oferujący przestronne wnętrze i przesuwaną tylną kanapę.",
+              "en": "The first generation GMC Terrain was distinguished by its angular, 'industrial' design. It is a compact SUV offering a spacious interior and a sliding rear seat.",
+              "de": "Der GMC Terrain der ersten Generation zeichnete sich durch sein kantiges, „industrielles“ Design aus. Es handelt sich um einen kompakten SUV mit geräumigem Innenraum und einer verschiebbaren Rückbank.",
+              "uk": "Перше покоління GMC Terrain вирізнялося незграбним «промисловим» дизайном. Це компактний позашляховик із просторим салоном і розсувним заднім сидінням.",
+              "ru": "GMC Terrain первого поколения отличался угловатым, «промышленным» дизайном. Это компактный внедорожник с просторным салоном и сдвижным задним сиденьем.",
+              "zh": "第一代 GMC Terrain 以其棱角分明的“工业”设计而著称。这是一款紧凑型 SUV，拥有宽敞的内部空间和可滑动的后排座椅。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "General Motors",
+                "en": "General Motors",
+                "de": "General Motors",
+                "uk": "General Motors",
+                "ru": "General Motors",
+                "zh": "通用汽车"
+              },
+              "siedziba": {
+                "pl": "Detroit, USA",
+                "en": "Detroit, USA",
+                "de": "Detroit, USA",
+                "uk": "Детройт, США",
+                "ru": "Детройт, США",
+                "zh": "美国底特律"
+              },
+              "założona": "1911"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 53,
+        "ModelID": 416281,
+        "Brand Name": "GMC",
+        "Model Name": "Terrain",
+        "Serie Name": "Terrain Gen 2",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.5L / 2.0L / 1.6L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja GMC Terrain zyskała bardziej aerodynamiczny wygląd i nowoczesne silniki turbo. Wersja Denali oferuje wyposażenie rzadko spotykane w tej klasie.",
+              "en": "The second generation of GMC Terrain gained a more aerodynamic appearance and modern turbo engines. The Denali version offers equipment rarely found in this class.",
+              "de": "Die zweite Generation des GMC Terrain erhielt ein aerodynamischeres Erscheinungsbild und moderne Turbomotoren. Die Denali-Version bietet eine Ausstattung, die in dieser Klasse selten zu finden ist.",
+              "uk": "Друге покоління GMC Terrain отримало більш аеродинамічний вигляд і сучасні турбомотори. Версія Denali пропонує обладнання, яке рідко зустрічається в цьому класі.",
+              "ru": "Второе поколение GMC Terrain получило более аэродинамичный внешний вид и современные турбомоторы. Версия Denali предлагает оборудование, редко встречающееся в этом классе.",
+              "zh": "第二代 GMC Terrain 获得了更符合空气动力学的外观和现代涡轮发动机。 Denali 版本提供了此类中很少见的设备。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "General Motors",
+                "en": "General Motors",
+                "de": "General Motors",
+                "uk": "General Motors",
+                "ru": "General Motors",
+                "zh": "通用汽车"
+              },
+              "siedziba": {
+                "pl": "Detroit, USA",
+                "en": "Detroit, USA",
+                "de": "Detroit, USA",
+                "uk": "Детройт, США",
+                "ru": "Детройт, США",
+                "zh": "美国底特律"
+              },
+              "założona": "1911"
+            }
+          }
+        }
+      }
+    ],
+    "Yukon": [
+      {
+        "BrandID": 53,
+        "ModelID": 601,
+        "Brand Name": "GMC",
+        "Model Name": "Yukon",
+        "Serie Name": "Yukon",
+        "Years": "1992 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "5.3L V8 / 6.2L V8 / 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "GMC Yukon to flagowy SUV marki, oferujący potężną przestrzeń i komfort. Bliźniak Chevroleta Tahoe, ale z bardziej luksusowym wykończeniem i charakterystycznym grillem.",
+              "en": "GMC Yukon is the brand's flagship SUV, offering enormous space and comfort. A twin of the Chevrolet Tahoe, but with more luxurious finishes and a distinctive grille.",
+              "de": "GMC Yukon ist das Flaggschiff-SUV der Marke und bietet enormes Platzangebot und Komfort. Ein Zwilling des Chevrolet Tahoe, jedoch mit luxuriöserer Ausstattung und einem markanten Kühlergrill.",
+              "uk": "GMC Yukon — флагманський позашляховик бренду, який пропонує величезний простір і комфорт. Двійник Chevrolet Tahoe, але з більш розкішною обробкою та характерною решіткою радіатора.",
+              "ru": "GMC Yukon — флагманский внедорожник бренда, предлагающий огромное пространство и комфорт. Двойник Chevrolet Tahoe, но с более роскошной отделкой и характерной решеткой радиатора.",
+              "zh": "GMC Yukon 是该品牌的旗舰 SUV，提供宽敞的空间和舒适度。雪佛兰 Tahoe 的双胞胎，但具有更豪华的饰面和独特的格栅。"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1c/c2/y0wfewv4k4co0ocw04kss/gmc-yukon-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 53,
+        "ModelID": 416570,
+        "Brand Name": "GMC",
+        "Model Name": "Yukon XL",
+        "Serie Name": "Yukon XL",
+        "Years": "2000 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "5.3L V8 / 6.2L V8 / 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "GMC Yukon XL to przedłużona wersja Yukona (odpowiednik Suburbana). Oferuje bagażnik, który pomieści wszystko, nawet przy komplecie pasażerów.",
+              "en": "GMC Yukon XL is an extended version of the Yukon (equivalent to the Suburban). It offers a trunk that will accommodate everything, even with a full complement of passengers.",
+              "de": "GMC Yukon XL ist eine erweiterte Version des Yukon (entspricht dem Suburban). Er bietet einen Kofferraum, der selbst bei voller Passagierbesetzung alles unterbringt.",
+              "uk": "GMC Yukon XL — це розширена версія Yukon (еквівалент Suburban). Він пропонує багажник, який вміщає все, навіть із повним набором пасажирів.",
+              "ru": "GMC Yukon XL — расширенная версия Yukon (эквивалент Suburban). Он предлагает багажник, в который поместится все, даже при полном составе пассажиров.",
+              "zh": "GMC Yukon XL 是 Yukon（相当于 Suburban）的加长版。它提供了一个可以容纳所有物品的行李箱，甚至可以容纳满载乘客。"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1c/c2/y0wfewv4k4co0ocw04kss/gmc-yukon-iii.310.jpg"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+@import "tailwindcss";
+
+/* Force Tailwind CSS v4 to only trigger dark variants if .dark class is explicitly present on HTML */
+@variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: var(--font-outfit), sans-serif;
+  --color-primary: #fbbf24;
+  --color-primary-dark: #f59e0b;
+  --color-secondary: #1f2937;
+  --color-accent: #ef4444;
+}
+
+@layer base {
+  :root {
+    --background: #ffffff;
+    --text: #0f172a;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 100px;
+  }
+
+  body {
+    background-color: var(--background);
+    color: var(--text);
+    scroll-behavior: smooth;
+  }
+}
+
+@layer components {
+  .glass {
+    background: rgba(255, 255, 255, 0.85);
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.05);
+  }
+
+  .btn-primary {
+    @apply bg-amber-400 hover:bg-amber-500 text-gray-900 font-bold py-3 px-6 rounded-xl transition-all transform hover:scale-105 active:scale-95 shadow-lg hover:shadow-amber-400/50;
+  }
+
+  .btn-secondary {
+    @apply bg-gray-800 hover:bg-gray-700 text-white font-bold py-3 px-6 rounded-xl transition-all transform hover:scale-105 active:scale-95;
+  }
+
+  .section-title {
+    @apply text-3xl md:text-5xl font-bold mb-6 tracking-tight;
+  }
+
+  .gradient-text {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-amber-400 to-amber-600;
+    padding-right: 0.15em;
+  }
+
+  .animate-fade-in {
+    animation: fade-in 0.8s ease-out forwards;
+  }
+
+  .hover-lift {
+    @apply transition-transform duration-300 hover:-translate-y-2 hover:shadow-2xl;
+  }
+
+  .glass-card {
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(15, 23, 42, 0.08);
+    @apply p-8 rounded-3xl transition-all duration-300 hover:shadow-amber-400/20 hover:border-amber-400/50;
+  }
+}
+
+@layer utilities {
+  .stagger-1 { animation-delay: 0.1s; }
+  .stagger-2 { animation-delay: 0.2s; }
+  .stagger-3 { animation-delay: 0.3s; }
+
+  .animate-pulse-slow {
+    animation: pulse-slow 3s infinite;
+  }
+}
+
+@keyframes pulse-slow {
+  0%, 100% { transform: scale(1); box-shadow: 0 0 0 rgba(251, 191, 36, 0); }
+  50% { transform: scale(1.05); box-shadow: 0 0 20px rgba(251, 191, 36, 0.5); }
+}
+
+@keyframes fade-in {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}

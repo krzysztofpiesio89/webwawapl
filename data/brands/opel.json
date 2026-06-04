@@ -1,0 +1,1670 @@
+{
+  "brand": "Opel",
+  "models": {
+    "Corsa": [
+      {
+        "BrandID": 101,
+        "ModelID": 414286,
+        "Brand Name": "Opel",
+        "Model Name": "Corsa",
+        "Serie Name": "Corsa A",
+        "Years": "1982 - 1993",
+        "specs": {
+          "bodyType": "Hatchback/Sedan",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L - 1.6L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Opel_Corsa_rear_20071212.jpg/1280px-Opel_Corsa_rear_20071212.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Opel_Corsa_rear_20071212.jpg/1280px-Opel_Corsa_rear_20071212.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Opel_Corsa_front_20070914.jpg/1280px-Opel_Corsa_front_20070914.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Opel_Corsa_A_2-door_rear.JPG/1280px-Opel_Corsa_A_2-door_rear.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Opel_Corsa_B_Vorfacelift_1.4_GSI_Atlanta_Heck.JPG/1280px-Opel_Corsa_B_Vorfacelift_1.4_GSI_Atlanta_Heck.JPG"
+            ],
+            "description": {
+              "pl": "Opel to niemiecka marka z długą historią, przez dekady należąca do GM, obecnie część Stellantis. Producent popularnych aut dla każdego.",
+              "en": "Opel is a German brand with a long history, owned by GM for decades, now part of Stellantis. Manufacturer of popular cars for everyone.",
+              "de": "Opel ist eine deutsche Marke mit langer Geschichte, seit Jahrzehnten im Besitz von GM und heute Teil von Stellantis. Hersteller beliebter Autos für jedermann.",
+              "uk": "Opel — це німецький бренд із багаторічною історією, який десятиліттями належить GM, а тепер є частиною Stellantis. Виробник популярних автомобілів для всіх.",
+              "ru": "Opel — немецкий бренд с давней историей, на протяжении десятилетий принадлежавший GM, ныне являющийся частью Stellantis. Производитель популярных автомобилей для каждого.",
+              "zh": "欧宝是一个历史悠久的德国品牌，几十年来一直为通用汽车所有，现隶属于Stellantis。为所有人生产受欢迎的汽车的制造商。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel Automobile GmbH",
+                "en": "Opel Automobile GmbH",
+                "de": "Opel Automobile GmbH",
+                "uk": "Opel Automobile GmbH",
+                "ru": "Opel Automobile GmbH",
+                "zh": "欧宝汽车有限公司"
+              },
+              "siedziba": {
+                "pl": "Rüsselsheim, Niemcy",
+                "en": "Rüsselsheim, Germany",
+                "de": "Rüsselsheim, Deutschland",
+                "uk": "Рюссельсгайм, Німеччина",
+                "ru": "Рюссельсхайм, Германия",
+                "zh": "德国吕塞尔斯海姆"
+              },
+              "założona": "1862"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4z/or/s92xk3gg8wwcsk0o84s8g/opel-corsa-13.310.jpg"
+        }
+      },
+      {
+        "BrandID": 101,
+        "ModelID": 132235,
+        "Brand Name": "Opel",
+        "Model Name": "Corsa",
+        "Serie Name": "Corsa B",
+        "Years": "1993 - 2000",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L - 1.6L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Opel_Corsa_B_Vorfacelift_1.4_GSI_Atlanta_Heck.JPG/1280px-Opel_Corsa_B_Vorfacelift_1.4_GSI_Atlanta_Heck.JPG",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Opel_Corsa_B_Vorfacelift_1.4_GSI_Atlanta_Heck.JPG/1280px-Opel_Corsa_B_Vorfacelift_1.4_GSI_Atlanta_Heck.JPG"
+            ],
+            "description": {
+              "pl": "Opel to niemiecka marka z długą historią, przez dekady należąca do GM, obecnie część Stellantis. Producent popularnych aut dla każdego.",
+              "en": "Opel is a German brand with a long history, owned by GM for decades, now part of Stellantis. Manufacturer of popular cars for everyone.",
+              "de": "Opel ist eine deutsche Marke mit langer Geschichte, seit Jahrzehnten im Besitz von GM und heute Teil von Stellantis. Hersteller beliebter Autos für jedermann.",
+              "uk": "Opel — німецький бренд із довгою історією, десятиліттями належить GM, а тепер є частиною Stellantis. Виробник популярних автомобілів для всіх.",
+              "ru": "Opel — немецкая марка с долгой историей, на протяжении десятилетий принадлежавшая GM, а теперь являющаяся частью Stellantis. Производитель популярных автомобилей для каждого.",
+              "zh": "欧宝是一个历史悠久的德国品牌，几十年来一直为通用汽车所有，现隶属于 Stellantis。为所有人生产受欢迎的汽车的制造商。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel Automobile GmbH",
+                "en": "Opel Automobile GmbH",
+                "de": "Opel Automobile GmbH",
+                "uk": "Opel Automobile GmbH",
+                "ru": "Opel Automobile GmbH",
+                "zh": "欧宝汽车有限公司"
+              },
+              "siedziba": {
+                "pl": "Rüsselsheim, Niemcy",
+                "en": "Rüsselsheim, Germany",
+                "de": "Rüsselsheim, Deutschland",
+                "uk": "Рюссельсгайм, Німеччина",
+                "ru": "Рюссельсхайм, Германия",
+                "zh": "德国吕塞尔斯海姆"
+              },
+              "założona": "1862"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4z/or/s92xk3gg8wwcsk0o84s8g/opel-corsa-13.310.jpg"
+        }
+      },
+      {
+        "BrandID": 101,
+        "ModelID": 412862,
+        "Brand Name": "Opel",
+        "Model Name": "Corsa",
+        "Serie Name": "Corsa C",
+        "Years": "2000 - 2006",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L - 1.8L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Opel to niemiecka marka z długą historią, przez dekady należąca do GM, obecnie część Stellantis. Producent popularnych aut dla każdego.",
+              "en": "Opel is a German brand with a long history, owned by GM for decades, now part of Stellantis. Manufacturer of popular cars for everyone.",
+              "de": "Opel ist eine deutsche Marke mit langer Geschichte, seit Jahrzehnten im Besitz von GM und heute Teil von Stellantis. Hersteller beliebter Autos für jedermann.",
+              "uk": "Opel — німецький бренд із довгою історією, десятиліттями належить GM, а тепер є частиною Stellantis. Виробник популярних автомобілів для всіх.",
+              "ru": "Opel — немецкая марка с долгой историей, на протяжении десятилетий принадлежавшая GM, а теперь являющаяся частью Stellantis. Производитель популярных автомобилей для каждого.",
+              "zh": "欧宝是一个历史悠久的德国品牌，几十年来一直为通用汽车所有，现隶属于 Stellantis。为所有人生产受欢迎的汽车的制造商。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel Automobile GmbH",
+                "en": "Opel Automobile GmbH",
+                "de": "Opel Automobile GmbH",
+                "uk": "Opel Automobile GmbH",
+                "ru": "Opel Automobile GmbH",
+                "zh": "欧宝汽车有限公司"
+              },
+              "siedziba": {
+                "pl": "Rüsselsheim, Niemcy",
+                "en": "Rüsselsheim, Germany",
+                "de": "Rüsselsheim, Deutschland",
+                "uk": "Рюссельсгайм, Німеччина",
+                "ru": "Рюссельсхайм, Германия",
+                "zh": "德国吕塞尔斯海姆"
+              },
+              "założona": "1862"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4z/or/s92xk3gg8wwcsk0o84s8g/opel-corsa-13.310.jpg"
+        }
+      },
+      {
+        "BrandID": 101,
+        "ModelID": 133632,
+        "Brand Name": "Opel",
+        "Model Name": "Corsa",
+        "Serie Name": "Corsa D",
+        "Years": "2006 - 2014",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L - 1.6L Turbo (OPC)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Opel to niemiecka marka z długą historią, przez dekady należąca do GM, obecnie część Stellantis. Producent popularnych aut dla każdego.",
+              "en": "Opel is a German brand with a long history, owned by GM for decades, now part of Stellantis. Manufacturer of popular cars for everyone.",
+              "de": "Opel ist eine deutsche Marke mit langer Geschichte, seit Jahrzehnten im Besitz von GM und heute Teil von Stellantis. Hersteller beliebter Autos für jedermann.",
+              "uk": "Opel — німецький бренд із довгою історією, десятиліттями належить GM, а тепер є частиною Stellantis. Виробник популярних автомобілів для всіх.",
+              "ru": "Opel — немецкая марка с долгой историей, на протяжении десятилетий принадлежавшая GM, а теперь являющаяся частью Stellantis. Производитель популярных автомобилей для каждого.",
+              "zh": "欧宝是一个历史悠久的德国品牌，几十年来一直为通用汽车所有，现隶属于 Stellantis。为所有人生产受欢迎的汽车的制造商。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel Automobile GmbH",
+                "en": "Opel Automobile GmbH",
+                "de": "Opel Automobile GmbH",
+                "uk": "Opel Automobile GmbH",
+                "ru": "Opel Automobile GmbH",
+                "zh": "欧宝汽车有限公司"
+              },
+              "siedziba": {
+                "pl": "Rüsselsheim, Niemcy",
+                "en": "Rüsselsheim, Germany",
+                "de": "Rüsselsheim, Deutschland",
+                "uk": "Рюссельсгайм, Німеччина",
+                "ru": "Рюссельсхайм, Германия",
+                "zh": "德国吕塞尔斯海姆"
+              },
+              "założona": "1862"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4z/or/s92xk3gg8wwcsk0o84s8g/opel-corsa-13.310.jpg"
+        }
+      },
+      {
+        "BrandID": 101,
+        "ModelID": 169854,
+        "Brand Name": "Opel",
+        "Model Name": "Corsa",
+        "Serie Name": "Corsa E",
+        "Years": "2014 - 2019",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L Turbo - 1.6L Turbo (OPC)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Opel to niemiecka marka z długą historią, przez dekady należąca do GM, obecnie część Stellantis. Producent popularnych aut dla każdego.",
+              "en": "Opel is a German brand with a long history, owned by GM for decades, now part of Stellantis. Manufacturer of popular cars for everyone.",
+              "de": "Opel ist eine deutsche Marke mit langer Geschichte, seit Jahrzehnten im Besitz von GM und heute Teil von Stellantis. Hersteller beliebter Autos für jedermann.",
+              "uk": "Opel — німецький бренд із довгою історією, десятиліттями належить GM, а тепер є частиною Stellantis. Виробник популярних автомобілів для всіх.",
+              "ru": "Opel — немецкая марка с долгой историей, на протяжении десятилетий принадлежавшая GM, а теперь являющаяся частью Stellantis. Производитель популярных автомобилей для каждого.",
+              "zh": "欧宝是一个历史悠久的德国品牌，几十年来一直为通用汽车所有，现隶属于 Stellantis。为所有人生产受欢迎的汽车的制造商。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel Automobile GmbH",
+                "en": "Opel Automobile GmbH",
+                "de": "Opel Automobile GmbH",
+                "uk": "Opel Automobile GmbH",
+                "ru": "Opel Automobile GmbH",
+                "zh": "欧宝汽车有限公司"
+              },
+              "siedziba": {
+                "pl": "Rüsselsheim, Niemcy",
+                "en": "Rüsselsheim, Germany",
+                "de": "Rüsselsheim, Deutschland",
+                "uk": "Рюссельсхайм, Німеччина",
+                "ru": "Рюссельсхайм, Германия",
+                "zh": "德国吕塞尔斯海姆"
+              },
+              "założona": "1862"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4z/or/s92xk3gg8wwcsk0o84s8g/opel-corsa-13.310.jpg"
+        }
+      },
+      {
+        "BrandID": 101,
+        "ModelID": 415394,
+        "Brand Name": "Opel",
+        "Model Name": "Corsa",
+        "Serie Name": "Corsa F",
+        "Years": "2019 - Present",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/Electric",
+          "engine": "1.2L Turbo - Electric 50kWh",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Opel_Corsa_B_Vorfacelift_1.4_GSI_Atlanta_Heck.JPG/1280px-Opel_Corsa_B_Vorfacelift_1.4_GSI_Atlanta_Heck.JPG",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Opel_Corsa_B_Vorfacelift_1.4_GSI_Atlanta_Heck.JPG/1280px-Opel_Corsa_B_Vorfacelift_1.4_GSI_Atlanta_Heck.JPG"
+            ],
+            "description": {
+              "pl": "Opel Corsa to jeden z najchętniej wybieranych samochodów miejskich w Europie. Od lat kojarzona z solidnością i funkcjonalnością, w najnowszej odsłonie oferuje nowoczesny design i napęd w pełni elektryczny.",
+              "en": "Opel Corsa is one of the most frequently chosen city cars in Europe. For years associated with solidity and functionality, the latest version offers a modern design and a fully electric drive.",
+              "de": "Der Opel Corsa ist eines der am häufigsten gewählten Stadtautos in Europa. Seit Jahren mit Solidität und Funktionalität verbunden, bietet die neueste Version ein modernes Design und einen vollelektrischen Antrieb.",
+              "uk": "Opel Corsa є одним із найбільш часто вибираних міських автомобілів у Європі. Протягом багатьох років асоціювалася з міцністю та функціональністю, остання версія пропонує сучасний дизайн та повністю електричний привід.",
+              "ru": "Opel Corsa – один из наиболее часто выбираемых городских автомобилей в Европе. Последняя версия, годами ассоциирующаяся с надежностью и функциональностью, предлагает современный дизайн и полностью электрический привод.",
+              "zh": "欧宝 Corsa 是欧洲最常选择的城市汽车之一。多年来，我们一直注重坚固性和功能性，最新版本提供了现代设计和全电动驱动。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel"
+              },
+              "okres produkcji": {
+                "pl": "od 1982",
+                "en": "from 1982",
+                "de": "ab 1982",
+                "uk": "з 1982",
+                "ru": "с 1982 года.",
+                "zh": "源自 1982 年"
+              },
+              "segment": {
+                "pl": "B (Miejskie)",
+                "en": "B (City)",
+                "de": "B (Stadt)",
+                "uk": "B (місто)",
+                "ru": "B (Город)",
+                "zh": "B（城市）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4z/or/s92xk3gg8wwcsk0o84s8g/opel-corsa-13.310.jpg"
+        }
+      }
+    ],
+    "Astra": [
+      {
+        "BrandID": 101,
+        "ModelID": 158628,
+        "Brand Name": "Opel",
+        "Model Name": "Astra",
+        "Serie Name": "Astra F",
+        "Years": "1991 - 2002",
+        "specs": {
+          "bodyType": "Hatchback/Sedan/Wagon/Convertible",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 2.0L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Opel Astra to fundament klasy kompaktowej, oferujący niemiecką precyzję i innowacyjne rozwiązania, takie jak matrycowe reflektory IntelliLux. Każda generacja wyznaczała standardy komfortu i bezpieczeństwa w swoim segmencie.",
+              "en": "Opel Astra is the foundation of the compact class, offering German precision and innovative solutions, such as IntelliLux matrix headlights. Each generation set the standards for comfort and safety in its segment.",
+              "de": "Der Opel Astra ist der Grundstein der Kompaktklasse und bietet deutsche Präzision und innovative Lösungen, wie zum Beispiel IntelliLux-Matrix-Scheinwerfer. Jede Generation setzt in ihrem Segment Maßstäbe für Komfort und Sicherheit.",
+              "uk": "Opel Astra є основою компактного класу, пропонуючи німецьку точність та інноваційні рішення, такі як матричні фари IntelliLux. Кожне покоління встановлювало стандарти комфорту та безпеки у своєму сегменті.",
+              "ru": "Opel Astra — это основа компактного класса, предлагающая немецкую точность и инновационные решения, такие как матричные фары IntelliLux. Каждое поколение устанавливает стандарты комфорта и безопасности в своем сегменте.",
+              "zh": "欧宝雅特 (Opel Astra) 是紧凑型车的基础，提供德国精准和创新的解决方案，例如 IntelliLux 矩阵头灯。每一代产品都为其细分市场设定了舒适性和安全性标准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel"
+              },
+              "okres produkcji": {
+                "pl": "od 1991",
+                "en": "from 1991",
+                "de": "ab 1991",
+                "uk": "з 1991 року",
+                "ru": "с 1991 года.",
+                "zh": "源自 1991 年"
+              },
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (Compact)",
+                "ru": "C (Компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ab/in/5fr52xc8woos4sg80gs00/opel-astra-4.310.jpg"
+        }
+      },
+      {
+        "BrandID": 101,
+        "ModelID": 3632,
+        "Brand Name": "Opel",
+        "Model Name": "Astra",
+        "Serie Name": "Astra G",
+        "Years": "1998 - 2009",
+        "specs": {
+          "bodyType": "Hatchback/Sedan/Wagon/Coupe/Convertible",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L - 2.2L / 2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Opel Astra to fundament klasy kompaktowej, oferujący niemiecką precyzję i innowacyjne rozwiązania, takie jak matrycowe reflektory IntelliLux. Każda generacja wyznaczała standardy komfortu i bezpieczeństwa w swoim segmencie.",
+              "en": "Opel Astra is the foundation of the compact class, offering German precision and innovative solutions such as IntelliLux matrix headlights. Each generation set the standards for comfort and safety in its segment.",
+              "de": "Der Opel Astra ist der Grundstein der Kompaktklasse und bietet deutsche Präzision und innovative Lösungen wie IntelliLux-Matrix-Scheinwerfer. Jede Generation setzt in ihrem Segment Maßstäbe für Komfort und Sicherheit.",
+              "uk": "Opel Astra є основою компактного класу, пропонуючи німецьку точність та інноваційні рішення, такі як матричні фари IntelliLux. Кожне покоління встановлювало стандарти комфорту та безпеки у своєму сегменті.",
+              "ru": "Opel Astra — это основа компактного класса, предлагающая немецкую точность и инновационные решения, такие как матричные фары IntelliLux. Каждое поколение устанавливает стандарты комфорта и безопасности в своем сегменте.",
+              "zh": "欧宝雅特 (Opel Astra) 是紧凑型车的基础，提供德国精准和创新的解决方案，例如 IntelliLux 矩阵头灯。每一代产品都为其细分市场设定了舒适性和安全性标准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel"
+              },
+              "okres produkcji": {
+                "pl": "od 1991",
+                "en": "from 1991",
+                "de": "ab 1991",
+                "uk": "з 1991 року",
+                "ru": "с 1991 года.",
+                "zh": "源自 1991 年"
+              },
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (Compact)",
+                "ru": "C (Компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ab/in/5fr52xc8woos4sg80gs00/opel-astra-4.310.jpg"
+        }
+      },
+      {
+        "BrandID": 101,
+        "ModelID": 133241,
+        "Brand Name": "Opel",
+        "Model Name": "Astra",
+        "Serie Name": "Astra H",
+        "Years": "2004 - 2014",
+        "specs": {
+          "bodyType": "Hatchback/Wagon/GTC/TwinTop",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Opel Astra to fundament klasy kompaktowej, oferujący niemiecką precyzję i innowacyjne rozwiązania, takie jak matrycowe reflektory IntelliLux. Każda generacja wyznaczała standardy komfortu i bezpieczeństwa w swoim segmencie.",
+              "en": "Opel Astra is the foundation of the compact class, offering German precision and innovative solutions such as IntelliLux matrix headlights. Each generation set the standards for comfort and safety in its segment.",
+              "de": "Der Opel Astra ist der Grundstein der Kompaktklasse und bietet deutsche Präzision und innovative Lösungen wie IntelliLux-Matrix-Scheinwerfer. Jede Generation setzt in ihrem Segment Maßstäbe für Komfort und Sicherheit.",
+              "uk": "Opel Astra є основою компактного класу, пропонуючи німецьку точність та інноваційні рішення, такі як матричні фари IntelliLux. Кожне покоління встановлювало стандарти комфорту та безпеки у своєму сегменті.",
+              "ru": "Opel Astra — это основа компактного класса, предлагающая немецкую точность и инновационные решения, такие как матричные фары IntelliLux. Каждое поколение устанавливает стандарты комфорта и безопасности в своем сегменте.",
+              "zh": "欧宝雅特 (Opel Astra) 是紧凑型车的基础，提供德国精准和创新的解决方案，例如 IntelliLux 矩阵头灯。每一代产品都为其细分市场设定了舒适性和安全性标准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel"
+              },
+              "okres produkcji": {
+                "pl": "od 1991",
+                "en": "from 1991",
+                "de": "ab 1991",
+                "uk": "з 1991",
+                "ru": "с 1991 года",
+                "zh": "自1991年以来"
+              },
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Compact)",
+                "uk": "C (Compact)",
+                "ru": "C (Компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ab/in/5fr52xc8woos4sg80gs00/opel-astra-4.310.jpg"
+        }
+      },
+      {
+        "BrandID": 101,
+        "ModelID": 135870,
+        "Brand Name": "Opel",
+        "Model Name": "Astra",
+        "Serie Name": "Astra J",
+        "Years": "2009 - 2015",
+        "specs": {
+          "bodyType": "Hatchback/Wagon/GTC/Sedan",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L Turbo - 2.0L BiTurbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Opel Astra to fundament klasy kompaktowej, oferujący niemiecką precyzję i innowacyjne rozwiązania, takie jak matrycowe reflektory IntelliLux. Każda generacja wyznaczała standardy komfortu i bezpieczeństwa w swoim segmencie.",
+              "en": "Opel Astra is the foundation of the compact class, offering German precision and innovative solutions such as IntelliLux matrix headlights. Each generation set the standards for comfort and safety in its segment.",
+              "de": "Opel Astra ist das Fundament der Kompaktklasse und bietet deutsche Präzision und innovative Lösungen wie IntelliLux-Matrix-Scheinwerfer. Jede Generation setzt in ihrem Segment Maßstäbe für Komfort und Sicherheit.",
+              "uk": "Opel Astra є основою компактного класу, пропонуючи німецьку точність та інноваційні рішення, такі як матричні фари IntelliLux. Кожне покоління встановлювало стандарти комфорту та безпеки у своєму сегменті.",
+              "ru": "Opel Astra является основой компактного класса, предлагая немецкую точность и инновационные решения, такие как матричные фары IntelliLux. Каждое поколение устанавливает стандарты комфорта и безопасности в своем сегменте.",
+              "zh": "欧宝雅特 (Opel Astra) 是紧凑型车的基础，提供德国精准和创新的解决方案，例如 IntelliLux 矩阵头灯。每一代产品都为其细分市场设定了舒适性和安全性标准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel"
+              },
+              "okres produkcji": {
+                "pl": "od 1991",
+                "en": "from 1991",
+                "de": "ab 1991",
+                "uk": "з 1991 року",
+                "ru": "с 1991 года.",
+                "zh": "自1991年以来"
+              },
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (Compact)",
+                "ru": "C (Компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ab/in/5fr52xc8woos4sg80gs00/opel-astra-4.310.jpg"
+        }
+      },
+      {
+        "BrandID": 101,
+        "ModelID": 414284,
+        "Brand Name": "Opel",
+        "Model Name": "Astra",
+        "Serie Name": "Astra K",
+        "Years": "2015 - 2021",
+        "specs": {
+          "bodyType": "Hatchback/Wagon",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L Turbo - 1.6L BiTurbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Opel_Astra_F_rear_20071019.jpg/1280px-Opel_Astra_F_rear_20071019.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Opel_Astra_F_rear_20071019.jpg/1280px-Opel_Astra_F_rear_20071019.jpg"
+            ],
+            "description": {
+              "pl": "Opel Astra to fundament klasy kompaktowej, oferujący niemiecką precyzję i innowacyjne rozwiązania, takie jak matrycowe reflektory IntelliLux. Każda generacja wyznaczała standardy komfortu i bezpieczeństwa w swoim segmencie.",
+              "en": "Opel Astra is the foundation of the compact class, offering German precision and innovative solutions such as IntelliLux matrix headlights. Each generation set the standards for comfort and safety in its segment.",
+              "de": "Der Opel Astra ist der Grundstein der Kompaktklasse und bietet deutsche Präzision und innovative Lösungen wie IntelliLux-Matrix-Scheinwerfer. Jede Generation setzt in ihrem Segment Maßstäbe für Komfort und Sicherheit.",
+              "uk": "Opel Astra є основою компактного класу, пропонуючи німецьку точність та інноваційні рішення, такі як матричні фари IntelliLux. Кожне покоління встановлювало стандарти комфорту та безпеки у своєму сегменті.",
+              "ru": "Opel Astra — это основа компактного класса, предлагающая немецкую точность и инновационные решения, такие как матричные фары IntelliLux. Каждое поколение устанавливает стандарты комфорта и безопасности в своем сегменте.",
+              "zh": "欧宝雅特 (Opel Astra) 是紧凑型车的基础，提供德国精准和创新的解决方案，例如 IntelliLux 矩阵头灯。每一代产品都为其细分市场设定了舒适性和安全性标准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel"
+              },
+              "okres produkcji": {
+                "pl": "od 1991",
+                "en": "from 1991",
+                "de": "ab 1991",
+                "uk": "з 1991 року",
+                "ru": "с 1991 года.",
+                "zh": "自1991年以来"
+              },
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (Compact)",
+                "ru": "C (Компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ab/in/5fr52xc8woos4sg80gs00/opel-astra-4.310.jpg"
+        }
+      },
+      {
+        "BrandID": 101,
+        "ModelID": 416563,
+        "Brand Name": "Opel",
+        "Model Name": "Astra",
+        "Serie Name": "Astra L",
+        "Years": "2021 - Present",
+        "specs": {
+          "bodyType": "Hatchback/Wagon",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/Hybrid/Electric",
+          "engine": "1.2L Turbo - PHEV/Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Opel Astra to fundament klasy kompaktowej, oferujący niemiecką precyzję i innowacyjne rozwiązania, takie jak matrycowe reflektory IntelliLux. Każda generacja wyznaczała standardy komfortu i bezpieczeństwa w swoim segmencie.",
+              "en": "Opel Astra is the foundation of the compact class, offering German precision and innovative solutions such as IntelliLux matrix headlights. Each generation set the standards for comfort and safety in its segment.",
+              "de": "Der Opel Astra ist der Grundstein der Kompaktklasse und bietet deutsche Präzision und innovative Lösungen wie IntelliLux-Matrix-Scheinwerfer. Jede Generation setzt in ihrem Segment Maßstäbe für Komfort und Sicherheit.",
+              "uk": "Opel Astra є основою компактного класу, пропонуючи німецьку точність та інноваційні рішення, такі як матричні фари IntelliLux. Кожне покоління встановлювало стандарти комфорту та безпеки у своєму сегменті.",
+              "ru": "Opel Astra — это основа компактного класса, предлагающая немецкую точность и инновационные решения, такие как матричные фары IntelliLux. Каждое поколение устанавливает стандарты комфорта и безопасности в своем сегменте.",
+              "zh": "欧宝雅特 (Opel Astra) 是紧凑型车的基础，提供德国精准和创新的解决方案，例如 IntelliLux 矩阵头灯。每一代产品都为其细分市场设定了舒适性和安全性标准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel"
+              },
+              "okres produkcji": {
+                "pl": "od 1991",
+                "en": "from 1991",
+                "de": "ab 1991",
+                "uk": "з 1991 року",
+                "ru": "с 1991 года.",
+                "zh": "自1991年以来"
+              },
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (Compact)",
+                "ru": "C (Компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ab/in/5fr52xc8woos4sg80gs00/opel-astra-4.310.jpg"
+        }
+      }
+    ],
+    "Insignia": [
+      {
+        "BrandID": 101,
+        "ModelID": 413432,
+        "Brand Name": "Opel",
+        "Model Name": "Insignia",
+        "Serie Name": "Insignia A",
+        "Years": "2008 - 2017",
+        "specs": {
+          "bodyType": "Sedan/Liftback/Wagon",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L Turbo - 2.8L V6 Turbo (OPC)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Opel Insignia to flagowy model marki, łączący elegancję limuzyny z nowoczesną technologią. Jako następca Vectry, wprowadził markę w nowy wymiar designu i jakości wykonania, stając się wyborem klasy biznes.",
+              "en": "Opel Insignia is the brand's flagship model, combining the elegance of a limousine with modern technology. As the successor to the Vectra, it introduced the brand to a new dimension of design and build quality, becoming the choice of the business class.",
+              "de": "Der Opel Insignia ist das Flaggschiffmodell der Marke und vereint die Eleganz einer Limousine mit moderner Technologie. Als Nachfolger des Vectra eröffnete er der Marke eine neue Dimension von Design und Verarbeitungsqualität und wurde zur ersten Wahl der Business-Klasse.",
+              "uk": "Opel Insignia — це флагманська модель бренду, яка поєднує в собі елегантність лімузина з сучасними технологіями. Будучи спадкоємцем Vectra, він представив бренду новий вимір дизайну та якості збірки, ставши вибором бізнес-класу.",
+              "ru": "Opel Insignia — флагманская модель бренда, сочетающая элегантность лимузина с современными технологиями. Являясь преемником Vectra, он вывел бренд на новое измерение дизайна и качества сборки, став выбором бизнес-класса.",
+              "zh": "欧宝 Insignia 是该品牌的旗舰车型，将豪华轿车的优雅与现代技术融为一体。作为 Vectra 的继承者，它将品牌的设计和制造质量推向了新的高度，成为商务舱的选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel"
+              },
+              "okres produkcji": "2008–2022",
+              "segment": {
+                "pl": "D (Klasa średnia)",
+                "en": "D (Middle class)",
+                "de": "D (Mittelklasse)",
+                "uk": "D (Середній клас)",
+                "ru": "D (Средний класс)",
+                "zh": "D（中产阶级）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      },
+      {
+        "BrandID": 101,
+        "ModelID": 413433,
+        "Brand Name": "Opel",
+        "Model Name": "Insignia",
+        "Serie Name": "Insignia B",
+        "Years": "2017 - 2022",
+        "specs": {
+          "bodyType": "Liftback/Wagon",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.5L Turbo - 2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Opel Insignia to flagowy model marki, łączący elegancję limuzyny z nowoczesną technologią. Jako następca Vectry, wprowadził markę w nowy wymiar designu i jakości wykonania, stając się wyborem klasy biznes.",
+              "en": "Opel Insignia is the brand's flagship model, combining the elegance of a limousine with modern technology. As the successor to the Vectra, it introduced the brand to a new dimension of design and build quality, becoming the choice of the business class.",
+              "de": "Der Opel Insignia ist das Flaggschiffmodell der Marke und vereint die Eleganz einer Limousine mit moderner Technologie. Als Nachfolger des Vectra eröffnete er der Marke eine neue Dimension von Design und Verarbeitungsqualität und wurde zur ersten Wahl der Business-Klasse.",
+              "uk": "Opel Insignia — флагманська модель бренду, яка поєднує в собі елегантність лімузина з сучасними технологіями. Будучи спадкоємцем Vectra, він представив бренду новий вимір дизайну та якості збірки, ставши вибором бізнес-класу.",
+              "ru": "Opel Insignia — флагманская модель бренда, сочетающая элегантность лимузина с современными технологиями. Являясь преемником Vectra, он вывел бренд на новое измерение дизайна и качества сборки, став выбором бизнес-класса.",
+              "zh": "欧宝 Insignia 是该品牌的旗舰车型，将豪华轿车的优雅与现代技术融为一体。作为 Vectra 的继承者，它将品牌的设计和制造质量推向了新的高度，成为商务舱的选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel"
+              },
+              "okres produkcji": "2008–2022",
+              "segment": {
+                "pl": "D (Klasa średnia)",
+                "en": "D (Middle class)",
+                "de": "D (Mittelklasse)",
+                "uk": "D (Середній клас)",
+                "ru": "D (Средний класс)",
+                "zh": "D（中产阶级）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      }
+    ],
+    "Mokka": [
+      {
+        "BrandID": 101,
+        "ModelID": 414287,
+        "Brand Name": "Opel",
+        "Model Name": "Mokka",
+        "Serie Name": "Mokka A / Mokka X",
+        "Years": "2012 - 2019",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment B-SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L Turbo - 1.7L CDTi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Opel to niemiecka marka z długą historią, przez dekady należąca do GM, obecnie część Stellantis. Producent popularnych aut dla każdego.",
+              "en": "Opel is a German brand with a long history, owned by GM for decades, now part of Stellantis. Manufacturer of popular cars for everyone.",
+              "de": "Opel ist eine deutsche Marke mit langer Geschichte, seit Jahrzehnten im Besitz von GM, heute Teil von Stellantis. Hersteller beliebter Autos für jedermann.",
+              "uk": "Opel — німецький бренд із довгою історією, десятиліттями належить GM, а тепер є частиною Stellantis. Виробник популярних автомобілів для всіх.",
+              "ru": "Opel — немецкая марка с многолетней историей, на протяжении десятилетий принадлежавшая GM, сейчас являющаяся частью Stellantis. Производитель популярных автомобилей для каждого.",
+              "zh": "欧宝是一个历史悠久的德国品牌，几十年来一直为通用汽车所有，现隶属于Stellantis。为所有人生产受欢迎的汽车的制造商。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel Automobile GmbH",
+                "en": "Opel Automobile GmbH",
+                "de": "Opel Automobile GmbH",
+                "uk": "Opel Automobile GmbH",
+                "ru": "Opel Automobile GmbH",
+                "zh": "欧宝汽车有限公司"
+              },
+              "siedziba": {
+                "pl": "Rüsselsheim, Niemcy",
+                "en": "Rüsselsheim, Germany",
+                "de": "Rüsselsheim, Deutschland",
+                "uk": "Рюссельсхайм, Німеччина",
+                "ru": "Рюссельсхайм, Германия",
+                "zh": "德国吕塞尔斯海姆"
+              },
+              "założona": "1862"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/dm/wy/x2vdrlwksgk4kcc0kgggw/mokka.310.jpg"
+        }
+      },
+      {
+        "BrandID": 101,
+        "ModelID": 415395,
+        "Brand Name": "Opel",
+        "Model Name": "Mokka",
+        "Serie Name": "Mokka B",
+        "Years": "2020 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment B-SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/Electric",
+          "engine": "1.2L Turbo - Electric 50kWh",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Opel Mokka to stylowy crossover, który zapoczątkował nową filozofię projektowania marki (Opel Vizor). Łączy kompaktowe wymiary z odważnym wyrazem i nowoczesnymi napędami, w tym elektrycznym.",
+              "en": "Opel Mokka is a stylish crossover that initiated the brand's new design philosophy (Opel Vizor). It combines compact dimensions with a bold expression and modern drives, including electric ones.",
+              "de": "Der Opel Mokka ist ein stilvoller Crossover, der die neue Designphilosophie der Marke initiierte (Opel Vizor). Es vereint kompakte Abmessungen mit kühnem Ausdruck und modernen Antrieben, auch elektrisch.",
+              "uk": "Opel Mokka — це стильний кросовер, який започаткував нову філософію дизайну бренду (Opel Vizor). Він поєднує в собі компактні розміри зі сміливим виразом і сучасними приводами, в тому числі електричними.",
+              "ru": "Opel Mokka — стильный кроссовер, положивший начало новой философии дизайна бренда (Opel Vizor). Он сочетает в себе компактные размеры, смелую экспрессию и современные приводы, в том числе электрические.",
+              "zh": "欧宝 Mokka 是一款时尚跨界车，开创了该品牌（欧宝 Vizor）的新设计理念。它将紧凑的尺寸与大胆的表达和现代驱动器（包括电动驱动器）结合在一起。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel"
+              },
+              "okres produkcji": {
+                "pl": "od 2012",
+                "en": "from 2012",
+                "de": "ab 2012",
+                "uk": "з 2012 року",
+                "ru": "2012 года выпуска.",
+                "zh": "自2012年起"
+              },
+              "segment": {
+                "pl": "B-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/dm/wy/x2vdrlwksgk4kcc0kgggw/mokka.310.jpg"
+        }
+      }
+    ],
+    "Crossland": [
+      {
+        "BrandID": 101,
+        "ModelID": 416434,
+        "Brand Name": "Opel",
+        "Model Name": "Crossland",
+        "Serie Name": "Crossland X / Crossland",
+        "Years": "2017 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment B-SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L - 1.5L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Opel Crossland to wszechstronny crossover miejski, który stawia na praktyczność i wygodę. Dzięki przesuwanym fotelom i wysokiej pozycji za kierownicą, jest idealnym kompanem w codziennym użytkowaniu.",
+              "en": "Opel Crossland is a versatile city crossover that focuses on practicality and comfort. Thanks to sliding seats and a high driving position, it is the perfect companion for everyday use.",
+              "de": "Der Opel Crossland ist ein vielseitiger City-Crossover, bei dem Funktionalität und Komfort im Vordergrund stehen. Dank verschiebbarer Sitze und hoher Fahrposition ist er der perfekte Begleiter für den Alltag.",
+              "uk": "Opel Crossland — це універсальний міський кросовер, який зосереджений на практичності та комфорті. Завдяки розсувним сидінням і високій позиції за кермом, це ідеальний компаньйон для щоденного використання.",
+              "ru": "Opel Crossland — универсальный городской кроссовер, ориентированный на практичность и комфорт. Благодаря сдвижным сиденьям и высокой посадке водителя он станет идеальным компаньоном для повседневного использования.",
+              "zh": "欧宝 Crossland 是一款多功能城市跨界车，注重实用性和舒适性。得益于滑动座椅和较高的驾驶位置，它是日常使用的完美伴侣。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel"
+              },
+              "okres produkcji": {
+                "pl": "od 2017",
+                "en": "from 2017",
+                "de": "ab 2017",
+                "uk": "з 2017 року",
+                "ru": "с 2017 г.",
+                "zh": "2017年以来"
+              },
+              "segment": {
+                "pl": "B-SUV / Crossover",
+                "en": "B-SUV / Crossover",
+                "de": "B-SUV / Crossover",
+                "uk": "B-SUV/кросовер",
+                "ru": "B-SUV/Crossover",
+                "zh": "B-SUV/跨界车"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Grandland": [
+      {
+        "BrandID": 101,
+        "ModelID": 415695,
+        "Brand Name": "Opel",
+        "Model Name": "Grandland",
+        "Serie Name": "Grandland X / Grandland",
+        "Years": "2017 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment C-SUV",
+          "drive": "FWD/AWD (Hybrid)",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "1.2L Turbo - PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Opel Grandland to największy SUV w ofercie marki, oferujący komfort podróżowania na najwyższym poziomie. Jako flagowy crossover, łączy elegancję z zaawansowanymi napędami hybrydowymi typu Plug-in.",
+              "en": "Opel Grandland is the largest SUV in the brand's offer, offering the highest level of travel comfort. As a flagship crossover, it combines elegance with advanced plug-in hybrid drives.",
+              "de": "Der Opel Grandland ist der größte SUV im Angebot der Marke und bietet höchsten Reisekomfort. Als Flaggschiff-Crossover vereint er Eleganz mit fortschrittlichen Plug-in-Hybridantrieben.",
+              "uk": "Opel Grandland — це найбільший позашляховик у пропозиції бренду, який пропонує найвищий рівень комфорту подорожей. Будучи флагманським кросовером, він поєднує в собі елегантність і вдосконалені гібридні приводи, що підключаються до мережі.",
+              "ru": "Opel Grandland — самый большой внедорожник в предложении бренда, предлагающий высочайший уровень комфорта в путешествии. Флагманский кроссовер сочетает в себе элегантность и усовершенствованные гибридные приводы.",
+              "zh": "欧宝 Grandland 是该品牌产品中最大的 SUV，提供最高水平的旅行舒适度。作为一款旗舰跨界车，它将优雅与先进的插电式混合动力驱动器融为一体。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel"
+              },
+              "okres produkcji": {
+                "pl": "od 2017",
+                "en": "from 2017",
+                "de": "von 2017",
+                "uk": "з 2017 року",
+                "ru": "с 2017 года",
+                "zh": "2017年以来"
+              },
+              "segment": {
+                "pl": "C-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Zafira": [
+      {
+        "BrandID": 101,
+        "ModelID": 414288,
+        "Brand Name": "Opel",
+        "Model Name": "Zafira",
+        "Serie Name": "Zafira A",
+        "Years": "1999 - 2005",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.0L Turbo (OPC)",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Opel to niemiecka marka z długą historią, przez dekady należąca do GM, obecnie część Stellantis. Producent popularnych aut dla każdego.",
+              "en": "Opel is a German brand with a long history, owned by GM for decades, now part of Stellantis. Manufacturer of popular cars for everyone.",
+              "de": "Opel ist eine deutsche Marke mit langer Geschichte, seit Jahrzehnten im Besitz von GM und heute Teil von Stellantis. Hersteller beliebter Autos für jedermann.",
+              "uk": "Opel — це німецький бренд із багаторічною історією, який десятиліттями належить GM, а тепер є частиною Stellantis. Виробник популярних автомобілів для всіх.",
+              "ru": "Opel — немецкий бренд с давней историей, на протяжении десятилетий принадлежавший GM, ныне являющийся частью Stellantis. Производитель популярных автомобилей для каждого.",
+              "zh": "欧宝是一个历史悠久的德国品牌，几十年来一直为通用汽车所有，现隶属于Stellantis。为所有人生产受欢迎的汽车的制造商。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel Automobile GmbH",
+                "en": "Opel Automobile GmbH",
+                "de": "Opel Automobile GmbH",
+                "uk": "Opel Automobile GmbH",
+                "ru": "Опель Автомобиль ГмбХ",
+                "zh": "欧宝汽车有限公司"
+              },
+              "siedziba": {
+                "pl": "Rüsselsheim, Niemcy",
+                "en": "Rüsselsheim, Germany",
+                "de": "Rüsselsheim, Deutschland",
+                "uk": "Рюссельсхайм, Німеччина",
+                "ru": "Рюссельсхайм, Германия",
+                "zh": "德国吕塞尔斯海姆"
+              },
+              "założona": "1862"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/14/nm/18kfsw1wg8ck84ssswwok/zafira-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 101,
+        "ModelID": 414289,
+        "Brand Name": "Opel",
+        "Model Name": "Zafira",
+        "Serie Name": "Zafira B",
+        "Years": "2005 - 2014",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/CNG",
+          "engine": "1.6L - 2.0L Turbo (OPC)",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Opel Zafira to pionier nowoczesnych minivanów, który zrewolucjonizował rynek systemem Flex7, pozwalającym na łatwą konfigurację siedmiu miejsc bez ich wyjmowania. To synonim rodzinnej funkcjonalności i przemyślanej przestrzeni.",
+              "en": "Opel Zafira is a pioneer of modern minivans that revolutionized the market with the Flex7 system, which allows for easy configuration of seven seats without removing them. It is synonymous with family functionality and well-thought-out space.",
+              "de": "Opel Zafira ist ein Pionier moderner Minivans, der den Markt mit dem Flex7-System revolutioniert hat, das eine einfache Konfiguration von sieben Sitzen ohne Ausbau ermöglicht. Es ist ein Synonym für Familienfunktionalität und durchdachtes Raumangebot.",
+              "uk": "Opel Zafira є піонером сучасних мінівенів, який зробив революцію на ринку завдяки системі Flex7, яка дозволяє легко конфігурувати сім сидінь, не знімаючи їх. Це синонім сімейної функціональності та добре продуманого простору.",
+              "ru": "Opel Zafira — пионер современных минивэнов, который произвел революцию на рынке благодаря системе Flex7, которая позволяет легко настроить семь сидений, не снимая их. Это синоним семейной функциональности и продуманного пространства.",
+              "zh": "欧宝 Zafira 是现代小型货车的先驱，通过 Flex7 系统彻底改变了市场，该系统允许轻松配置七个座位，而无需拆除它们。它是家庭功能和精心设计的空间的代名词。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel"
+              },
+              "okres produkcji": {
+                "pl": "1999–2019 (jako MPV)",
+                "en": "1999–2019 (as MPV)",
+                "de": "1999–2019 (als MPV)",
+                "uk": "1999–2019 (як MPV)",
+                "ru": "1999–2019 (как MPV)",
+                "zh": "1999–2019（作为MPV）"
+              },
+              "segment": {
+                "pl": "K (Minivan)",
+                "en": "K (Minivan)",
+                "de": "K (Minivan)",
+                "uk": "K (Мінівен)",
+                "ru": "К (Минивэн)",
+                "zh": "K（小型货车）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/14/nm/18kfsw1wg8ck84ssswwok/zafira-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 101,
+        "ModelID": 413437,
+        "Brand Name": "Opel",
+        "Model Name": "Zafira",
+        "Serie Name": "Zafira C (Tourer)",
+        "Years": "2011 - 2019",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/CNG",
+          "engine": "1.4L Turbo - 2.0L BiTurbo",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Opel Zafira to pionier nowoczesnych minivanów, który zrewolucjonizował rynek systemem Flex7, pozwalającym na łatwą konfigurację siedmiu miejsc bez ich wyjmowania. To synonim rodzinnej funkcjonalności i przemyślanej przestrzeni.",
+              "en": "Opel Zafira is a pioneer of modern minivans that revolutionized the market with the Flex7 system, allowing for easy configuration of seven seats without removing them. It is synonymous with family functionality and well-thought-out space.",
+              "de": "Opel Zafira ist ein Pionier moderner Minivans, der den Markt mit dem Flex7-System revolutioniert hat, das eine einfache Konfiguration von sieben Sitzen ohne Ausbau ermöglicht. Es ist ein Synonym für Familienfunktionalität und durchdachtes Raumangebot.",
+              "uk": "Opel Zafira — піонер сучасних мінівенів, який зробив революцію на ринку завдяки системі Flex7, що дозволяє легко конфігурувати сім сидінь, не знімаючи їх. Це синонім сімейної функціональності та добре продуманого простору.",
+              "ru": "Opel Zafira — пионер современных минивэнов, который произвел революцию на рынке благодаря системе Flex7, которая позволяет легко настроить семь сидений, не снимая их. Это синоним семейной функциональности и продуманного пространства.",
+              "zh": "欧宝 Zafira 是现代小型货车的先驱，通过 Flex7 系统彻底改变了市场，该系统允许轻松配置七个座位，而无需拆除它们。它是家庭功能和精心设计的空间的代名词。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel"
+              },
+              "okres produkcji": {
+                "pl": "1999–2019 (jako MPV)",
+                "en": "1999–2019 (as MPV)",
+                "de": "1999–2019 (als MPV)",
+                "uk": "1999–2019 (як MPV)",
+                "ru": "1999–2019 (как MPV)",
+                "zh": "1999–2019（作为MPV）"
+              },
+              "segment": {
+                "pl": "K (Minivan)",
+                "en": "K (Minivan)",
+                "de": "K (Minivan)",
+                "uk": "K (Мінівен)",
+                "ru": "К (Минивэн)",
+                "zh": "K（小型货车）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/14/nm/18kfsw1wg8ck84ssswwok/zafira-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 101,
+        "ModelID": 416564,
+        "Brand Name": "Opel",
+        "Model Name": "Zafira Life",
+        "Serie Name": "Zafira Life",
+        "Years": "2019 - Present",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Large MPV",
+          "drive": "FWD",
+          "fuel": "Diesel/Electric",
+          "engine": "1.5L - 2.0L Diesel / Electric",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Opel Zafira to pionier nowoczesnych minivanów, który zrewolucjonizował rynek systemem Flex7, pozwalającym na łatwą konfigurację siedmiu miejsc bez ich wyjmowania. To synonim rodzinnej funkcjonalności i przemyślanej przestrzeni.",
+              "en": "Opel Zafira is a pioneer of modern minivans that revolutionized the market with the Flex7 system, allowing for easy configuration of seven seats without removing them. It is synonymous with family functionality and well-thought-out space.",
+              "de": "Opel Zafira ist ein Pionier moderner Minivans, der den Markt mit dem Flex7-System revolutioniert hat, das eine einfache Konfiguration von sieben Sitzen ohne Ausbau ermöglicht. Es ist ein Synonym für Familienfunktionalität und durchdachtes Raumangebot.",
+              "uk": "Opel Zafira — піонер сучасних мінівенів, який зробив революцію на ринку завдяки системі Flex7, що дозволяє легко конфігурувати сім сидінь, не знімаючи їх. Це синонім сімейної функціональності та добре продуманого простору.",
+              "ru": "Opel Zafira — пионер современных минивэнов, который произвел революцию на рынке благодаря системе Flex7, которая позволяет легко настроить семь сидений, не снимая их. Это синоним семейной функциональности и продуманного пространства.",
+              "zh": "欧宝 Zafira 是现代小型货车的先驱，通过 Flex7 系统彻底改变了市场，该系统允许轻松配置七个座位，而无需拆除它们。它是家庭功能和精心设计的空间的代名词。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel"
+              },
+              "okres produkcji": {
+                "pl": "1999–2019 (jako MPV)",
+                "en": "1999–2019 (as MPV)",
+                "de": "1999–2019 (als MPV)",
+                "uk": "1999–2019 (як MPV)",
+                "ru": "1999–2019 (как MPV)",
+                "zh": "1999–2019（作为MPV）"
+              },
+              "segment": {
+                "pl": "K (Minivan)",
+                "en": "K (Minivan)",
+                "de": "K (Minivan)",
+                "uk": "K (Мінівен)",
+                "ru": "К (Минивэн)",
+                "zh": "K（小型货车）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/14/nm/18kfsw1wg8ck84ssswwok/zafira-iii.310.jpg"
+        }
+      }
+    ],
+    "Meriva": [
+      {
+        "BrandID": 101,
+        "ModelID": 413434,
+        "Brand Name": "Opel",
+        "Model Name": "Meriva",
+        "Serie Name": "Meriva A",
+        "Years": "2003 - 2010",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Small MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 1.8L",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Opel Meriva to kompaktowy minivan, który zasłynął innowacyjnymi rozwiązaniami ułatwiającymi wsiadanie, takimi jak tylne drzwi otwierane 'pod prąd' (FlexDoors). Idealny wybór dla osób ceniących ergonomię i łatwość dostępu.",
+              "en": "Opel Meriva is a compact minivan, famous for innovative solutions facilitating entry, such as rear doors that open against the flow (FlexDoors). An ideal choice for people who value ergonomics and ease of access.",
+              "de": "Opel Meriva ist ein kompakter Minivan, der für innovative Lösungen bekannt ist, die den Einstieg erleichtern, wie zum Beispiel Hecktüren, die sich gegen den Strom öffnen (FlexDoors). Eine ideale Wahl für Menschen, die Wert auf Ergonomie und einfachen Zugang legen.",
+              "uk": "Opel Meriva — компактний мінівен, відомий інноваційними рішеннями для полегшення входу, такими як задні двері, що відкриваються проти потоку (FlexDoors). Ідеальний вибір для людей, які цінують ергономічність і легкість доступу.",
+              "ru": "Opel Meriva — компактный минивэн, известный своими инновационными решениями, облегчающими посадку, такими как задние двери, открывающиеся против потока (FlexDoors). Идеальный выбор для людей, которые ценят эргономику и простоту доступа.",
+              "zh": "欧宝 Meriva 是一款紧凑型小型货车，以其方便进入的创新解决方案而闻名，例如逆流打开的后门 (FlexDoors)。对于重视人体工程学和易于使用的人们来说，这是一个理想的选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel"
+              },
+              "okres produkcji": "2003–2017",
+              "segment": {
+                "pl": "K (Microvan / MPV)",
+                "en": "K (Microvan / MPV)",
+                "de": "K (Microvan / MPV)",
+                "uk": "K (Microvan / MPV)",
+                "ru": "К (Микровэн/MPV)",
+                "zh": "K（微型货车/MPV）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ci/1r/ckkc520ccw0w008ookk4w/meriva-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 101,
+        "ModelID": 413435,
+        "Brand Name": "Opel",
+        "Model Name": "Meriva",
+        "Serie Name": "Meriva B",
+        "Years": "2010 - 2017",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Small MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L Turbo - 1.7L CDTi",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Opel Meriva to kompaktowy minivan, który zasłynął innowacyjnymi rozwiązaniami ułatwiającymi wsiadanie, takimi jak tylne drzwi otwierane 'pod prąd' (FlexDoors). Idealny wybór dla osób ceniących ergonomię i łatwość dostępu.",
+              "en": "Opel Meriva is a compact minivan, famous for its innovative solutions that facilitate entry, such as rear doors that open against the flow (FlexDoors). An ideal choice for people who value ergonomics and ease of access.",
+              "de": "Opel Meriva ist ein kompakter Minivan, der für seine innovativen Lösungen bekannt ist, die den Einstieg erleichtern, wie zum Beispiel Hecktüren, die sich gegen den Strom öffnen (FlexDoors). Eine ideale Wahl für Menschen, die Wert auf Ergonomie und einfachen Zugang legen.",
+              "uk": "Opel Meriva — компактний мінівен, відомий своїми інноваційними рішеннями, що полегшують вхід, наприклад, задні двері, що відкриваються проти потоку (FlexDoors). Ідеальний вибір для людей, які цінують ергономічність і легкість доступу.",
+              "ru": "Opel Meriva — компактный минивэн, известный своими инновационными решениями, облегчающими посадку, такими как задние двери, открывающиеся против потока (FlexDoors). Идеальный выбор для людей, которые ценят эргономику и простоту доступа.",
+              "zh": "欧宝 Meriva 是一款紧凑型小型货车，以其方便进入的创新解决方案而闻名，例如逆流打开的后门 (FlexDoors)。对于重视人体工程学和易于使用的人们来说，这是一个理想的选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel"
+              },
+              "okres produkcji": "2003–2017",
+              "segment": {
+                "pl": "K (Microvan / MPV)",
+                "en": "K (Microvan / MPV)",
+                "de": "K (Microvan / MPV)",
+                "uk": "K (Microvan / MPV)",
+                "ru": "К (Микровэн/MPV)",
+                "zh": "K（微型货车/MPV）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ci/1r/ckkc520ccw0w008ookk4w/meriva-ii.310.jpg"
+        }
+      }
+    ],
+    "Vectra": [
+      {
+        "BrandID": 101,
+        "ModelID": 414290,
+        "Brand Name": "Opel",
+        "Model Name": "Vectra",
+        "Serie Name": "Vectra A",
+        "Years": "1988 - 1995",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.5L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Opel Vectra to legenda europejskich autostrad i jeden z najpopularniejszych modeli klasy średniej. Przez trzy generacje (A, B, C) oferował solidność, przestronne wnętrza i bogatą paletę silników, będąc stałym elementem krajobrazu dróg.",
+              "en": "Opel Vectra is a legend of European highways and one of the most popular mid-range models. For three generations (A, B, C) it offered solidity, spacious interiors and a wide range of engines, being a permanent element of the road landscape.",
+              "de": "Opel Vectra ist eine Legende der europäischen Autobahnen und eines der beliebtesten Mittelklassemodelle. Drei Generationen lang (A, B, C) bot er Stabilität, geräumige Innenräume und eine große Auswahl an Motoren und war ein fester Bestandteil der Straßenlandschaft.",
+              "uk": "Opel Vectra — легенда європейських доріг і одна з найпопулярніших моделей середнього класу. Протягом трьох поколінь (A, B, C) він пропонував солідність, просторий салон і широкий вибір двигунів, будучи постійним елементом дорожнього ландшафту.",
+              "ru": "Opel Vectra – легенда европейских шоссейных дорог и одна из самых популярных моделей среднего класса. На протяжении трех поколений (А, В, С) он предлагал солидность, просторный салон и широкую гамму двигателей, являясь постоянным элементом дорожного ландшафта.",
+              "zh": "欧宝Vectra是欧洲高速公路的传奇，也是最受欢迎的中档车型之一。对于三代（A、B、C），它提供了坚固、宽敞的内部空间和多种发动机，成为道路景观的永久元素。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel"
+              },
+              "okres produkcji": "1988–2008",
+              "segment": {
+                "pl": "D (Klasa średnia)",
+                "en": "D (Middle class)",
+                "de": "D (Mittelklasse)",
+                "uk": "D (Середній клас)",
+                "ru": "Д (Средний класс)",
+                "zh": "D（中产阶级）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4r/h3/iyyhk46cgwkwwwc8000sw/vectra-c-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 101,
+        "ModelID": 413436,
+        "Brand Name": "Opel",
+        "Model Name": "Vectra",
+        "Serie Name": "Vectra B",
+        "Years": "1995 - 2002",
+        "specs": {
+          "bodyType": "Sedan/Hatchback/Wagon",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.5L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Opel Vectra to legenda europejskich autostrad i jeden z najpopularniejszych modeli klasy średniej. Przez trzy generacje (A, B, C) oferował solidność, przestronne wnętrza i bogatą paletę silników, będąc stałym elementem krajobrazu dróg.",
+              "en": "Opel Vectra is a legend of European highways and one of the most popular middle class models. For three generations (A, B, C) it offered solidity, spacious interiors and a wide range of engines, being a permanent element of the road landscape.",
+              "de": "Der Opel Vectra ist eine Legende der europäischen Autobahnen und eines der beliebtesten Mittelklassemodelle. Drei Generationen lang (A, B, C) bot er Stabilität, geräumige Innenräume und eine große Auswahl an Motoren und war ein fester Bestandteil der Straßenlandschaft.",
+              "uk": "Opel Vectra - легенда європейських доріг і одна з найпопулярніших моделей середнього класу. Протягом трьох поколінь (A, B, C) він пропонував солідність, просторий салон і широкий вибір двигунів, будучи постійним елементом дорожнього ландшафту.",
+              "ru": "Opel Vectra – легенда европейских шоссейных дорог и одна из самых популярных моделей среднего класса. На протяжении трех поколений (А, В, С) он предлагал солидность, просторный салон и широкую гамму двигателей, являясь постоянным элементом дорожного ландшафта.",
+              "zh": "欧宝Vectra是欧洲高速公路的传奇，也是最受欢迎的中档车型之一。对于三代（A、B、C），它提供了坚固、宽敞的内部空间和多种发动机，成为道路景观的永久元素。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel"
+              },
+              "okres produkcji": "1988–2008",
+              "segment": {
+                "pl": "D (Klasa średnia)",
+                "en": "D (Middle class)",
+                "de": "D (Mittelklasse)",
+                "uk": "D (Середній клас)",
+                "ru": "Д (Средний класс)",
+                "zh": "D（中产阶级）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4r/h3/iyyhk46cgwkwwwc8000sw/vectra-c-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 101,
+        "ModelID": 413437,
+        "Brand Name": "Opel",
+        "Model Name": "Vectra",
+        "Serie Name": "Vectra C",
+        "Years": "2002 - 2008",
+        "specs": {
+          "bodyType": "Sedan/Hatchback/Wagon",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.8L - 3.2L V6 / 2.8L V6 Turbo (OPC)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Opel Vectra to legenda europejskich autostrad i jeden z najpopularniejszych modeli klasy średniej. Przez trzy generacje (A, B, C) oferował solidność, przestronne wnętrza i bogatą paletę silników, będąc stałym elementem krajobrazu dróg.",
+              "en": "Opel Vectra is a legend of European highways and one of the most popular middle class models. For three generations (A, B, C) it offered solidity, spacious interiors and a wide range of engines, being a permanent element of the road landscape.",
+              "de": "Der Opel Vectra ist eine Legende der europäischen Autobahnen und eines der beliebtesten Mittelklassemodelle. Drei Generationen lang (A, B, C) bot er Stabilität, geräumige Innenräume und eine große Auswahl an Motoren und war ein fester Bestandteil der Straßenlandschaft.",
+              "uk": "Opel Vectra - легенда європейських доріг і одна з найпопулярніших моделей середнього класу. Протягом трьох поколінь (A, B, C) він пропонував солідність, просторий салон і широкий вибір двигунів, будучи постійним елементом дорожнього ландшафту.",
+              "ru": "Opel Vectra – легенда европейских шоссейных дорог и одна из самых популярных моделей среднего класса. На протяжении трех поколений (А, В, С) он предлагал солидность, просторный салон и широкую гамму двигателей, являясь постоянным элементом дорожного ландшафта.",
+              "zh": "欧宝Vectra是欧洲高速公路的传奇，也是最受欢迎的中档车型之一。对于三代（A、B、C），它提供了坚固、宽敞的内部空间和多种发动机，成为道路景观的永久元素。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel"
+              },
+              "okres produkcji": "1988–2008",
+              "segment": {
+                "pl": "D (Klasa średnia)",
+                "en": "D (Middle class)",
+                "de": "D (Mittelklasse)",
+                "uk": "D (Середній клас)",
+                "ru": "Д (Средний класс)",
+                "zh": "D（中产阶级）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4r/h3/iyyhk46cgwkwwwc8000sw/vectra-c-sedan.310.jpg"
+        }
+      }
+    ],
+    "Omega": [
+      {
+        "BrandID": 101,
+        "ModelID": 414291,
+        "Brand Name": "Opel",
+        "Model Name": "Omega",
+        "Serie Name": "Omega A",
+        "Years": "1986 - 1994",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Executive Car",
+          "drive": "RWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.8L - 4.0L V6 (Lotus)",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Opel Omega to flagowa limuzyna, która reprezentowała najwyższy poziom komfortu i luksusu w wydaniu Rüsselsheim. Jako jeden z ostatnich Opli z tylnym napędem, cieszył się uznaniem za aksamitną pracę silników V6 i ogromną ilość miejsca.",
+              "en": "Opel Omega is a flagship limousine that represented the highest level of comfort and luxury in the Rüsselsheim edition. As one of the last Opels with rear drive, it was appreciated for the smooth operation of its V6 engines and a huge amount of space.",
+              "de": "Opel Omega ist eine Flaggschiff-Limousine, die in der Rüsselsheim-Edition ein Höchstmaß an Komfort und Luxus repräsentierte. Als einer der letzten Opel mit Heckantrieb zeichnete er sich durch die Laufruhe seiner V6-Motoren und sein enormes Platzangebot aus.",
+              "uk": "Opel Omega — це флагманський лімузин, який представляє найвищий рівень комфорту та розкоші у версії Rüsselsheim. Як один із останніх Opel із заднім приводом, його цінували за плавну роботу двигунів V6 і величезний простір.",
+              "ru": "Opel Omega — флагманский лимузин, который представляет высочайший уровень комфорта и роскоши в версии Рюссельсхайма. Как один из последних «Опелей» с задним приводом, его ценили за плавную работу двигателей V6 и огромное пространство.",
+              "zh": "欧宝欧米茄是吕塞尔斯海姆版旗舰豪华轿车，代表了最高水平的舒适度和奢华感。作为最后一款后轮驱动的欧宝汽车之一，它因其 V6 发动机的平稳运行和巨大的空间而受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel"
+              },
+              "okres produkcji": "1986–2003",
+              "segment": {
+                "pl": "E (Klasa wyższa)",
+                "en": "E (Upper class)",
+                "de": "E (Oberklasse)",
+                "uk": "E (Вищий клас)",
+                "ru": "Е (высший класс)",
+                "zh": "E（上层阶级）"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/sd/qx/4yizpo0o0g0g4c8swg0c/omega-c-kombi.310.jpg"
+        }
+      },
+      {
+        "BrandID": 101,
+        "ModelID": 413438,
+        "Brand Name": "Opel",
+        "Model Name": "Omega",
+        "Serie Name": "Omega B",
+        "Years": "1994 - 2003",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Executive Car",
+          "drive": "RWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 3.2L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Opel Omega to flagowa limuzyna, która reprezentowała najwyższy poziom komfortu i luksusu w wydaniu Rüsselsheim. Jako jeden z ostatnich Opli z tylnym napędem, cieszył się uznaniem za aksamitną pracę silników V6 i ogromną ilość miejsca.",
+              "en": "Opel Omega is the flagship limousine that represented the highest level of comfort and luxury in the Rüsselsheim edition. As one of the last Opels with rear drive, it was appreciated for the smooth operation of its V6 engines and a huge amount of space.",
+              "de": "Opel Omega ist die Flaggschiff-Limousine, die in der Rüsselsheim-Edition das höchste Maß an Komfort und Luxus repräsentierte. Als einer der letzten Opel mit Heckantrieb zeichnete er sich durch die Laufruhe seiner V6-Motoren und sein enormes Platzangebot aus.",
+              "uk": "Opel Omega — це флагманський лімузин, який представляє найвищий рівень комфорту та розкоші у версії Rüsselsheim. Як один із останніх Opel із заднім приводом, його цінували за плавну роботу двигунів V6 і величезний простір.",
+              "ru": "Opel Omega — флагманский лимузин, который представляет высочайший уровень комфорта и роскоши в версии Рюссельсхайма. Как один из последних «Опелей» с задним приводом, его ценили за плавную работу двигателей V6 и огромное пространство.",
+              "zh": "欧宝欧米茄是吕塞尔斯海姆版旗舰豪华轿车，代表了最高水平的舒适度和奢华感。作为最后一款后轮驱动的欧宝汽车之一，它因其 V6 发动机的平稳运行和巨大的空间而受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel"
+              },
+              "okres produkcji": "1986–2003",
+              "segment": {
+                "pl": "E (Klasa wyższa)",
+                "en": "E (Upper class)",
+                "de": "E (Oberklasse)",
+                "uk": "E (вищий клас)",
+                "ru": "Е (высший класс)",
+                "zh": "E（上层阶级）"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/sd/qx/4yizpo0o0g0g4c8swg0c/omega-c-kombi.310.jpg"
+        }
+      }
+    ],
+    "Adam": [
+      {
+        "BrandID": 101,
+        "ModelID": 413975,
+        "Brand Name": "Opel",
+        "Model Name": "Adam",
+        "Serie Name": "Adam",
+        "Years": "2012 - 2019",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment A (City Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.0L Turbo - 1.4L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Opel Adam to stylowy, miejski maluch, który postawił na niemal nieograniczone możliwości personalizacji. Nazwany na cześć założyciela marki, łączy wysoką jakość wykonania z modnym, lifestyle'owym charakterem.",
+              "en": "Opel Adam is a stylish, city car with almost unlimited personalization possibilities. Named after the brand's founder, it combines high quality workmanship with a fashionable, lifestyle character.",
+              "de": "Der Opel Adam ist ein stilvolles Stadtauto mit nahezu unbegrenzten Personalisierungsmöglichkeiten. Benannt nach dem Markengründer vereint es hochwertige Verarbeitung mit modischem Lifestyle-Charakter.",
+              "uk": "Opel Adam — це стильний міський автомобіль із майже необмеженими можливостями персоналізації. Названий на честь засновника бренду, він поєднує в собі високу якість виготовлення з модним життєвим характером.",
+              "ru": "Opel Adam — стильный городской автомобиль с практически неограниченными возможностями персонализации. Названный в честь основателя бренда, он сочетает в себе высокое качество изготовления и модный стиль жизни.",
+              "zh": "欧宝 Adam 是一款时尚的城市汽车，具有几乎无限的个性化选项。它以品牌创始人的名字命名，将高品质工艺与时尚、生活方式的特色融为一体。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel"
+              },
+              "okres produkcji": "2012–2019",
+              "segment": {
+                "pl": "A (Miejskie)",
+                "en": "A (Urban)",
+                "de": "A (Urban)",
+                "uk": "A (Urban)",
+                "ru": "А (Городской)",
+                "zh": "A（城市）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3h/50/ykouefwg0cgs0wg8kc480/opel-adam.310.jpg"
+        }
+      }
+    ],
+    "Karl": [
+      {
+        "BrandID": 101,
+        "ModelID": 415396,
+        "Brand Name": "Opel",
+        "Model Name": "Karl",
+        "Serie Name": "Karl",
+        "Years": "2015 - 2019",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment A (City Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Opel Karl to praktyczny reprezentant segmentu A, zaprojektowany jako prosty i ekonomiczny środek transportu miejskiego. Oferuje zaskakująco dużo miejsca wewnątrz przy zachowaniu kompaktowych wymiarów zewnętrznych.",
+              "en": "Opel Karl is a practical representative of the A segment, designed as a simple and economical means of urban transport. It offers a surprising amount of space inside while maintaining compact external dimensions.",
+              "de": "Opel Karl ist ein praktischer Vertreter des A-Segments, konzipiert als einfaches und wirtschaftliches Fortbewegungsmittel in der Stadt. Es bietet überraschend viel Platz im Inneren bei gleichzeitig kompakten Außenmaßen.",
+              "uk": "Opel Karl — практичний представник сегменту А, розроблений як простий і економічний засіб міського транспорту. Він пропонує напрочуд багато простору всередині, зберігаючи при цьому компактні зовнішні розміри.",
+              "ru": "Opel Karl – практичный представитель А-сегмента, созданный как простое и экономичное средство городского транспорта. Он предлагает удивительно много места внутри, сохраняя при этом компактные внешние размеры.",
+              "zh": "欧宝 Karl 是 A 级车的实用代表，旨在作为一种简单而经济的城市交通方式。它提供了令人惊讶的内部空间，同时保持紧凑的外部尺寸。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel"
+              },
+              "okres produkcji": "2015–2019",
+              "segment": {
+                "pl": "A (Miejskie)",
+                "en": "A (City)",
+                "de": "A (Stadt)",
+                "uk": "A (City)",
+                "ru": "А (Городской)",
+                "zh": "A（城市）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5e/oi/wvvithsscswwg0o840k8o/opel-karl-24.310.jpg"
+        }
+      }
+    ],
+    "Antara": [
+      {
+        "BrandID": 101,
+        "ModelID": 1172,
+        "Brand Name": "Opel",
+        "Model Name": "Antara",
+        "Serie Name": "Antara",
+        "Years": "2006 - 2015",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment C-SUV",
+          "drive": "AWD/FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.4L - 3.2L V6 / 2.0L - 2.2L CDTi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Opel Antara to solidny SUV, który wprowadził markę w świat nowoczesnych aut uterenowionych. Oferuje komfortową jazdę, wysoką pozycję za kierownicą i pewność prowadzenia dzięki opcjonalnemu napędowi na cztery koła.",
+              "en": "Opel Antara is a solid SUV that introduced the brand to the world of modern off-road cars. It offers a comfortable ride, a high driving position and driving confidence thanks to the optional four-wheel drive.",
+              "de": "Der Opel Antara ist ein solider SUV, der die Marke in die Welt der modernen Geländewagen eingeführt hat. Dank des optionalen Allradantriebs bietet es ein angenehmes Fahrgefühl, eine hohe Fahrposition und Fahrsicherheit.",
+              "uk": "Opel Antara — солідний позашляховик, який ввів бренд у світ сучасних позашляховиків. Він пропонує комфортну їзду, високу позицію за кермом і впевненість водіння завдяки опціональному повному приводу.",
+              "ru": "Opel Antara – добротный внедорожник, введший бренд в мир современных внедорожников. Он предлагает комфортную езду, высокую посадку и уверенность вождения благодаря опциональному полному приводу.",
+              "zh": "欧宝 Antara 是一款坚固的 SUV，将该品牌引入了现代越野汽车的世界。得益于可选的四轮驱动，它提供了舒适的乘坐体验、较高的驾驶位置和驾驶信心。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel"
+              },
+              "okres produkcji": "2006–2015",
+              "segment": {
+                "pl": "C-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bi/5r/2pcwtpckw8gsgkw08ocko/antara.310.jpg"
+        }
+      }
+    ],
+    "Frontera": [
+      {
+        "BrandID": 101,
+        "ModelID": 413430,
+        "Brand Name": "Opel",
+        "Model Name": "Frontera",
+        "Serie Name": "Frontera A",
+        "Years": "1991 - 1998",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 2.8L TD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Opel Frontera to prawdziwy twardziel wśród SUV-ów, zbudowany na ramie z myślą o jeździe w trudniejszym terenie. Łączy cechy auta terenowego z codzienną użytecznością, będąc jednym z pionierów segmentu SUV w Europie.",
+              "en": "Opel Frontera is a real tough SUV, built on a frame for driving in more difficult terrain. It combines the features of an off-road vehicle with everyday usability, being one of the pioneers of the SUV segment in Europe.",
+              "de": "Der Opel Frontera ist ein wirklich robuster SUV, der auf einem Rahmen für das Fahren in schwierigerem Gelände aufgebaut ist. Er vereint die Eigenschaften eines Geländewagens mit Alltagstauglichkeit und gehört damit zu den Pionieren des SUV-Segments in Europa.",
+              "uk": "Opel Frontera — справжній міцний позашляховик, побудований на рамі для їзди по складнішій місцевості. Він поєднує в собі риси позашляховика з зручністю для повсякденного використання, будучи одним із піонерів сегменту позашляховиків у Європі.",
+              "ru": "Opel Frontera – настоящий крепкий внедорожник, построенный на раме для езды по более сложной местности. Он сочетает в себе черты внедорожника с удобством повседневного использования, являясь одним из пионеров сегмента внедорожников в Европе.",
+              "zh": "欧宝 Frontera 是一款真正坚固的 SUV，其车架适合在更困难的地形中行驶。它结合了越野车的特点和日常实用性，是欧洲 SUV 细分市场的先驱之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel"
+              },
+              "okres produkcji": "1991–2004",
+              "segment": {
+                "pl": "Off-road / SUV",
+                "en": "Off-road / SUV",
+                "de": "Offroad / SUV",
+                "uk": "Позашляховик / позашляховик",
+                "ru": "Внедорожник/внедорожник",
+                "zh": "越野/SUV"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9t/vo/w2xaalgkkwk0ks0ok4occ/frontera-b.310.jpg"
+        }
+      },
+      {
+        "BrandID": 101,
+        "ModelID": 413431,
+        "Brand Name": "Opel",
+        "Model Name": "Frontera",
+        "Serie Name": "Frontera B",
+        "Years": "1998 - 2004",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.2L - 3.2L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Opel Frontera to prawdziwy twardziel wśród SUV-ów, zbudowany na ramie z myślą o jeździe w trudniejszym terenie. Łączy cechy auta terenowego z codzienną użytecznością, będąc jednym z pionierów segmentu SUV w Europie.",
+              "en": "Opel Frontera is a real tough SUV, built on a frame for driving in more difficult terrain. It combines the features of an off-road vehicle with everyday usability, being one of the pioneers of the SUV segment in Europe.",
+              "de": "Der Opel Frontera ist ein wirklich robuster SUV, der auf einem Rahmen für das Fahren in schwierigerem Gelände gebaut ist. Er vereint die Eigenschaften eines Geländewagens mit Alltagstauglichkeit und gehört damit zu den Pionieren des SUV-Segments in Europa.",
+              "uk": "Opel Frontera — справжній міцний позашляховик, побудований на рамі для їзди по складнішій місцевості. Він поєднує в собі риси позашляховика з зручністю для повсякденного використання, будучи одним із піонерів сегменту позашляховиків у Європі.",
+              "ru": "Opel Frontera – настоящий крепкий внедорожник, построенный на раме для езды по более сложной местности. Он сочетает в себе черты внедорожника с удобством повседневного использования, являясь одним из пионеров сегмента внедорожников в Европе.",
+              "zh": "欧宝 Frontera 是一款真正坚固的 SUV，其车架适合在更困难的地形中行驶。它结合了越野车的特点和日常实用性，是欧洲 SUV 细分市场的先驱之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Opel"
+              },
+              "okres produkcji": "1991–2004",
+              "segment": {
+                "pl": "Off-road / SUV",
+                "en": "Off-road / SUV",
+                "de": "Offroad / SUV",
+                "uk": "Позашляховик / позашляховик",
+                "ru": "Внедорожник/внедорожник",
+                "zh": "越野/SUV"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9t/vo/w2xaalgkkwk0ks0ok4occ/frontera-b.310.jpg"
+        }
+      }
+    ]
+  }
+}

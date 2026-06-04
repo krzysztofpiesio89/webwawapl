@@ -1,0 +1,600 @@
+{
+  "brand": "Pontiac",
+  "models": {
+    "Firebird": [
+      {
+        "BrandID": 105,
+        "ModelID": 1282,
+        "Brand Name": "Pontiac",
+        "Model Name": "Firebird",
+        "Serie Name": "Firebird (3rd Gen)",
+        "Years": "1982 - 1992",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Muscle Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "V6 - V8",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/1967_Pontiac_Firebird_%2822834743099%29.jpg/1280px-1967_Pontiac_Firebird_%2822834743099%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/1967_Pontiac_Firebird_%2822834743099%29.jpg/1280px-1967_Pontiac_Firebird_%2822834743099%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Pontiac_Firebird_400_Convertible_1967.jpg/1280px-Pontiac_Firebird_400_Convertible_1967.jpg"
+            ],
+            "description": {
+              "pl": "Pontiac Firebird to legendarny pony car, bliźniak Chevroleta Camaro. W wersji Trans Am stał się ikoną popkultury (Nieustraszony).",
+              "en": "Pontiac Firebird is a legendary pony car, a twin of the Chevrolet Camaro. In the Trans Am version, he became a pop culture icon (Fearless).",
+              "de": "Pontiac Firebird ist ein legendäres Pony-Car, ein Zwilling des Chevrolet Camaro. In der Trans-Am-Version wurde er zu einer Ikone der Popkultur (Fearless).",
+              "uk": "Pontiac Firebird — легендарний поні-кар, двійник Chevrolet Camaro. У версії Trans Am він став іконою поп-культури (Fearless).",
+              "ru": "Pontiac Firebird — легендарный пони-кар, близнец Chevrolet Camaro. В версии Trans Am он стал иконой поп-культуры («Бесстрашный»).",
+              "zh": "庞蒂亚克火鸟是一款传奇的小马车，是雪佛兰科迈罗的双胞胎。在 Trans Am 版本中，他成为流行文化偶像（无畏）。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Pontiac"
+              },
+              "okres produkcji": "1967–2002",
+              "segment": {
+                "pl": "Pony Car / Muscle Car",
+                "en": "Pony Car / Muscle Car",
+                "de": "Pony Car / Muscle Car",
+                "uk": "Pony Car / Muscle Car",
+                "ru": "Pony Car / Muscle Car",
+                "zh": "小马车/肌肉车"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1u/gt/5llv0l8gsgs848c8o0804/fiero.310.jpg"
+        }
+      },
+      {
+        "BrandID": 105,
+        "ModelID": 1283,
+        "Brand Name": "Pontiac",
+        "Model Name": "Firebird",
+        "Serie Name": "Firebird (4th Gen)",
+        "Years": "1993 - 2002",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Muscle Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.4L V6 - 5.7L V8 LS1",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Pontiac Firebird to legendarny pony car, bliźniak Chevroleta Camaro. W wersji Trans Am stał się ikoną popkultury (Nieustraszony).",
+              "en": "Pontiac Firebird is a legendary pony car, a twin of the Chevrolet Camaro. In the Trans Am version, he became a pop culture icon (Fearless).",
+              "de": "Pontiac Firebird ist ein legendäres Pony Car, ein Zwilling des Chevrolet Camaro. In der Trans-Am-Version wurde er zu einer Ikone der Popkultur (Fearless).",
+              "uk": "Pontiac Firebird — легендарний поні-кар, двійник Chevrolet Camaro. У версії Trans Am він став іконою поп-культури (Fearless).",
+              "ru": "Pontiac Firebird — легендарный пони-кар, близнец Chevrolet Camaro. В версии Trans Am он стал иконой поп-культуры («Бесстрашный»).",
+              "zh": "庞蒂亚克火鸟是一款传奇的小马车，是雪佛兰科迈罗的双胞胎。在 Trans Am 版本中，他成为流行文化偶像（无畏）。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Pontiac"
+              },
+              "okres produkcji": "1967–2002",
+              "segment": {
+                "pl": "Pony Car / Muscle Car",
+                "en": "Pony Car / Muscle Car",
+                "de": "Pony Car / Muscle Car",
+                "uk": "Pony Car / Muscle Car",
+                "ru": "Pony Car / Muscle Car",
+                "zh": "小马车/肌肉车"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1u/gt/5llv0l8gsgs848c8o0804/fiero.310.jpg"
+        }
+      }
+    ],
+    "GTO": [
+      {
+        "BrandID": 105,
+        "ModelID": 414292,
+        "Brand Name": "Pontiac",
+        "Model Name": "GTO",
+        "Serie Name": "GTO New Gen",
+        "Years": "2004 - 2006",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Muscle Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "5.7L LS1 - 6.0L LS2 V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Pontiac GTO to samochód, który zapoczątkował erę muscle cars w latach 60. Potężny silnik w średniej wielkości nadwoziu.",
+              "en": "Pontiac GTO is the car that started the era of muscle cars in the 1960s. A powerful engine in a mid-size body.",
+              "de": "Pontiac GTO ist das Auto, das in den 1960er Jahren die Ära der Muscle Cars einläutete. Ein leistungsstarker Motor in einer mittelgroßen Karosserie.",
+              "uk": "Pontiac GTO — це автомобіль, який розпочав еру масл-карів у 1960-х роках. Потужний двигун в кузові середнього розміру.",
+              "ru": "Pontiac GTO — автомобиль, положивший начало эре маслкаров в 1960-х годах. Мощный двигатель в корпусе среднего размера.",
+              "zh": "Pontiac GTO 是开启 20 世纪 60 年代肌肉车时代的汽车。中等尺寸机身中的强大发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Pontiac"
+              },
+              "okres produkcji": {
+                "pl": "1964–1974, 2004–2006",
+                "en": "1964–1974, 2004–2006",
+                "de": "1964–1974, 2004–2006",
+                "uk": "1964–1974, 2004–2006",
+                "ru": "1964–1974, 2004–2006 гг.",
+                "zh": "1964–1974, 2004–2006"
+              },
+              "segment": {
+                "pl": "Muscle Car",
+                "en": "Muscle Car",
+                "de": "Muscle Car",
+                "uk": "Muscle Car",
+                "ru": "Muscle Car",
+                "zh": "肌肉车"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Grand Prix": [
+      {
+        "BrandID": 105,
+        "ModelID": 414053,
+        "Brand Name": "Pontiac",
+        "Model Name": "Grand Prix",
+        "Serie Name": "Grand Prix",
+        "Years": "1997 - 2008",
+        "specs": {
+          "bodyType": "Sedan/Coupe",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "3.1L V6 - 5.3L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Pontiac był marką o sportowym charakterze w koncernie GM. Twórca segmentu muscle cars (model GTO) i aut takich jak Firebird.",
+              "en": "Pontiac was a sports brand of the GM concern. Creator of the muscle car segment (GTO model) and cars such as the Firebird.",
+              "de": "Pontiac war eine Sportmarke des GM-Konzerns. Schöpfer des Muscle-Car-Segments (GTO-Modell) und von Autos wie dem Firebird.",
+              "uk": "Pontiac — спортивний бренд концерну GM. Творець сегменту масл-карів (модель GTO) і таких автомобілів, як Firebird.",
+              "ru": "Pontiac — спортивная марка концерна GM. Создатель сегмента маслкаров (модель GTO) и таких автомобилей, как Firebird.",
+              "zh": "庞蒂亚克 (Pontiac) 是通用汽车公司旗下的运动品牌。肌肉车细分市场（GTO 车型）和 Firebird 等汽车的创造者。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "General Motors",
+                "en": "General Motors",
+                "de": "General Motors",
+                "uk": "General Motors",
+                "ru": "General Motors",
+                "zh": "通用汽车"
+              },
+              "siedziba": {
+                "pl": "Detroit, USA",
+                "en": "Detroit, USA",
+                "de": "Detroit, USA",
+                "uk": "Детройт, США",
+                "ru": "Детройт, США",
+                "zh": "美国底特律"
+              },
+              "założona": "1926",
+              "zlikwidowana": "2010"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3m/zj/hcxmbnmsw8w8oogoco0c4/grand-prix-viii-coupe.310.jpg"
+        }
+      }
+    ],
+    "Grand Am": [
+      {
+        "BrandID": 105,
+        "ModelID": 414296,
+        "Brand Name": "Pontiac",
+        "Model Name": "Grand Am",
+        "Serie Name": "Grand Am",
+        "Years": "1999 - 2005",
+        "specs": {
+          "bodyType": "Sedan/Coupe",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L - 3.4L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Pontiac był marką o sportowym charakterze w koncernie GM. Twórca segmentu muscle cars (model GTO) i aut takich jak Firebird.",
+              "en": "Pontiac was a sports brand within the GM concern. Creator of the muscle car segment (GTO model) and cars such as the Firebird.",
+              "de": "Pontiac war eine Sportmarke innerhalb des GM-Konzerns. Schöpfer des Muscle-Car-Segments (GTO-Modell) und von Autos wie dem Firebird.",
+              "uk": "Pontiac був спортивним брендом концерну GM. Творець сегменту масл-карів (модель GTO) і таких автомобілів, як Firebird.",
+              "ru": "Pontiac — спортивный бренд концерна GM. Создатель сегмента маслкаров (модель GTO) и таких автомобилей, как Firebird.",
+              "zh": "庞蒂亚克是通用汽车公司旗下的一个运动品牌。肌肉车细分市场（GTO 车型）和 Firebird 等汽车的创造者。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "General Motors",
+                "en": "General Motors",
+                "de": "General Motors",
+                "uk": "General Motors",
+                "ru": "General Motors",
+                "zh": "通用汽车"
+              },
+              "siedziba": {
+                "pl": "Detroit, USA",
+                "en": "Detroit, USA",
+                "de": "Detroit, USA",
+                "uk": "Детройт, США",
+                "ru": "Детройт, США",
+                "zh": "美国底特律"
+              },
+              "założona": "1926",
+              "zlikwidowana": "2010"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/78/pk/rbu7blogc4o8g8008skkg/grand-am-iv-coupe.310.jpg"
+        }
+      }
+    ],
+    "Bonneville": [
+      {
+        "BrandID": 105,
+        "ModelID": 414293,
+        "Brand Name": "Pontiac",
+        "Model Name": "Bonneville",
+        "Serie Name": "Bonneville",
+        "Years": "1992 - 2005",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "3.8L V6 - 4.6L V8 Northstar",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Pontiac był marką o sportowym charakterze w koncernie GM. Twórca segmentu muscle cars (model GTO) i aut takich jak Firebird.",
+              "en": "Pontiac was a sports brand within the GM concern. Creator of the muscle car segment (GTO model) and cars such as the Firebird.",
+              "de": "Pontiac war eine Sportmarke innerhalb des GM-Konzerns. Schöpfer des Muscle-Car-Segments (GTO-Modell) und von Autos wie dem Firebird.",
+              "uk": "Pontiac був спортивним брендом концерну GM. Творець сегменту масл-карів (модель GTO) і таких автомобілів, як Firebird.",
+              "ru": "Pontiac — спортивный бренд концерна GM. Создатель сегмента маслкаров (модель GTO) и таких автомобилей, как Firebird.",
+              "zh": "庞蒂亚克是通用汽车公司旗下的一个运动品牌。肌肉车细分市场（GTO 车型）和 Firebird 等汽车的创造者。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "General Motors",
+                "en": "General Motors",
+                "de": "General Motors",
+                "uk": "General Motors",
+                "ru": "General Motors",
+                "zh": "通用汽车"
+              },
+              "siedziba": {
+                "pl": "Detroit, USA",
+                "en": "Detroit, USA",
+                "de": "Detroit, USA",
+                "uk": "Детройт, США",
+                "ru": "Детройт, США",
+                "zh": "美国底特律"
+              },
+              "założona": "1926",
+              "zlikwidowana": "2010"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/63/jg/7a1cu4g04go0cg8g004c8/boneville-viii.310.jpg"
+        }
+      }
+    ],
+    "Vibe": [
+      {
+        "BrandID": 105,
+        "ModelID": 1291,
+        "Brand Name": "Pontiac",
+        "Model Name": "Vibe",
+        "Serie Name": "Vibe I",
+        "Years": "2002 - 2008",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Compact Hatchback",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "1.8L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Pontiac był marką o sportowym charakterze w koncernie GM. Twórca segmentu muscle cars (model GTO) i aut takich jak Firebird.",
+              "en": "Pontiac was a sports brand within the GM concern. Creator of the muscle car segment (GTO model) and cars such as the Firebird.",
+              "de": "Pontiac war eine Sportmarke innerhalb des GM-Konzerns. Schöpfer des Muscle-Car-Segments (GTO-Modell) und von Autos wie dem Firebird.",
+              "uk": "Pontiac був спортивним брендом концерну GM. Творець сегменту масл-карів (модель GTO) і таких автомобілів, як Firebird.",
+              "ru": "Pontiac — спортивный бренд концерна GM. Создатель сегмента маслкаров (модель GTO) и таких автомобилей, как Firebird.",
+              "zh": "庞蒂亚克是通用汽车公司旗下的一个运动品牌。肌肉车细分市场（GTO 车型）和 Firebird 等汽车的创造者。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "General Motors",
+                "en": "General Motors",
+                "de": "General Motors",
+                "uk": "General Motors",
+                "ru": "General Motors",
+                "zh": "通用汽车"
+              },
+              "siedziba": {
+                "pl": "Detroit, USA",
+                "en": "Detroit, USA",
+                "de": "Detroit, USA",
+                "uk": "Детройт, США",
+                "ru": "Детройт, США",
+                "zh": "美国底特律"
+              },
+              "założona": "1926",
+              "zlikwidowana": "2010"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/43/z5/ld7fdk2s4kg00oskcwk04/vibe.310.jpg"
+        }
+      },
+      {
+        "BrandID": 105,
+        "ModelID": 416394,
+        "Brand Name": "Pontiac",
+        "Model Name": "Vibe",
+        "Serie Name": "Vibe II",
+        "Years": "2009 - 2010",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Compact Hatchback",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "1.8L - 2.4L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Pontiac był marką o sportowym charakterze w koncernie GM. Twórca segmentu muscle cars (model GTO) i aut takich jak Firebird.",
+              "en": "Pontiac was a sports brand within the GM concern. Creator of the muscle car segment (GTO model) and cars such as the Firebird.",
+              "de": "Pontiac war eine Sportmarke innerhalb des GM-Konzerns. Schöpfer des Muscle-Car-Segments (GTO-Modell) und von Autos wie dem Firebird.",
+              "uk": "Pontiac був спортивним брендом концерну GM. Творець сегменту масл-карів (модель GTO) і таких автомобілів, як Firebird.",
+              "ru": "Pontiac — спортивный бренд концерна GM. Создатель сегмента маслкаров (модель GTO) и таких автомобилей, как Firebird.",
+              "zh": "庞蒂亚克是通用汽车公司旗下的一个运动品牌。肌肉车细分市场（GTO 车型）和 Firebird 等汽车的创造者。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "General Motors",
+                "en": "General Motors",
+                "de": "General Motors",
+                "uk": "General Motors",
+                "ru": "General Motors",
+                "zh": "通用汽车"
+              },
+              "siedziba": {
+                "pl": "Detroit, USA",
+                "en": "Detroit, USA",
+                "de": "Detroit, USA",
+                "uk": "Детройт, США",
+                "ru": "Детройт, США",
+                "zh": "美国底特律"
+              },
+              "założona": "1926",
+              "zlikwidowana": "2010"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/43/z5/ld7fdk2s4kg00oskcwk04/vibe.310.jpg"
+        }
+      }
+    ],
+    "Solstice": [
+      {
+        "BrandID": 105,
+        "ModelID": 414297,
+        "Brand Name": "Pontiac",
+        "Model Name": "Solstice",
+        "Serie Name": "Solstice",
+        "Years": "2005 - 2009",
+        "specs": {
+          "bodyType": "Convertible/Coupe",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L - 2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Pontiac był marką o sportowym charakterze w koncernie GM. Twórca segmentu muscle cars (model GTO) i aut takich jak Firebird.",
+              "en": "Pontiac was a sports brand within the GM concern. Creator of the muscle car segment (GTO model) and cars such as the Firebird.",
+              "de": "Pontiac war eine Sportmarke innerhalb des GM-Konzerns. Schöpfer des Muscle-Car-Segments (GTO-Modell) und von Autos wie dem Firebird.",
+              "uk": "Pontiac був спортивним брендом концерну GM. Творець сегменту масл-карів (модель GTO) і таких автомобілів, як Firebird.",
+              "ru": "Pontiac — спортивный бренд концерна GM. Создатель сегмента маслкаров (модель GTO) и таких автомобилей, как Firebird.",
+              "zh": "庞蒂亚克是通用汽车公司旗下的一个运动品牌。肌肉车细分市场（GTO 车型）和 Firebird 等汽车的创造者。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "General Motors",
+                "en": "General Motors",
+                "de": "General Motors",
+                "uk": "General Motors",
+                "ru": "General Motors",
+                "zh": "通用汽车"
+              },
+              "siedziba": {
+                "pl": "Detroit, USA",
+                "en": "Detroit, USA",
+                "de": "Detroit, USA",
+                "uk": "Детройт, США",
+                "ru": "Детройт, США",
+                "zh": "美国底特律"
+              },
+              "założona": "1926",
+              "zlikwidowana": "2010"
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      }
+    ],
+    "G6": [
+      {
+        "BrandID": 105,
+        "ModelID": 414295,
+        "Brand Name": "Pontiac",
+        "Model Name": "G6",
+        "Serie Name": "G6",
+        "Years": "2005 - 2010",
+        "specs": {
+          "bodyType": "Sedan/Coupe/Convertible",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L - 3.9L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Pontiac był marką o sportowym charakterze w koncernie GM. Twórca segmentu muscle cars (model GTO) i aut takich jak Firebird.",
+              "en": "Pontiac was a sports brand within the GM group. Creator of the muscle car segment (GTO model) and cars such as the Firebird.",
+              "de": "Pontiac war eine Sportmarke innerhalb des GM-Konzerns. Schöpfer des Muscle-Car-Segments (GTO-Modell) und von Autos wie dem Firebird.",
+              "uk": "Pontiac був спортивним брендом у групі GM. Творець сегменту масл-карів (модель GTO) і таких автомобілів, як Firebird.",
+              "ru": "Pontiac был спортивным брендом группы GM. Создатель сегмента маслкаров (модель GTO) и таких автомобилей, как Firebird.",
+              "zh": "庞蒂亚克是通用汽车集团旗下的一个运动品牌。肌肉车细分市场（GTO 车型）和 Firebird 等汽车的创造者。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "General Motors",
+                "en": "General Motors",
+                "de": "General Motors",
+                "uk": "General Motors",
+                "ru": "General Motors",
+                "zh": "通用汽车"
+              },
+              "siedziba": {
+                "pl": "Detroit, USA",
+                "en": "Detroit, USA",
+                "de": "Detroit, USA",
+                "uk": "Детройт, США",
+                "ru": "Детройт, США",
+                "zh": "美国底特律"
+              },
+              "założona": "1926",
+              "zlikwidowana": "2010"
+            }
+          }
+        }
+      }
+    ],
+    "G8": [
+      {
+        "BrandID": 105,
+        "ModelID": 414298,
+        "Brand Name": "Pontiac",
+        "Model Name": "G8",
+        "Serie Name": "G8",
+        "Years": "2008 - 2009",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Sports Sedan",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.6L V6 - 6.2L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Pontiac był marką o sportowym charakterze w koncernie GM. Twórca segmentu muscle cars (model GTO) i aut takich jak Firebird.",
+              "en": "Pontiac was a sports brand within the GM concern. Creator of the muscle car segment (GTO model) and cars such as the Firebird.",
+              "de": "Pontiac war eine Sportmarke innerhalb des GM-Konzerns. Schöpfer des Muscle-Car-Segments (GTO-Modell) und von Autos wie dem Firebird.",
+              "uk": "Pontiac був спортивним брендом концерну GM. Творець сегменту масл-карів (модель GTO) і таких автомобілів, як Firebird.",
+              "ru": "Pontiac — спортивный бренд концерна GM. Создатель сегмента маслкаров (модель GTO) и таких автомобилей, как Firebird.",
+              "zh": "庞蒂亚克是通用汽车公司旗下的一个运动品牌。肌肉车细分市场（GTO 车型）和 Firebird 等汽车的创造者。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "General Motors",
+                "en": "General Motors",
+                "de": "General Motors",
+                "uk": "General Motors",
+                "ru": "General Motors",
+                "zh": "通用汽车"
+              },
+              "siedziba": {
+                "pl": "Detroit, USA",
+                "en": "Detroit, USA",
+                "de": "Detroit, USA",
+                "uk": "Детройт, США",
+                "ru": "Детройт, США",
+                "zh": "美国底特律"
+              },
+              "założona": "1926",
+              "zlikwidowana": "2010"
+            }
+          }
+        }
+      }
+    ],
+    "Aztek": [
+      {
+        "BrandID": 105,
+        "ModelID": 414294,
+        "Brand Name": "Pontiac",
+        "Model Name": "Aztek",
+        "Serie Name": "Aztek",
+        "Years": "2001 - 2005",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.4L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Pontiac był marką o sportowym charakterze w koncernie GM. Twórca segmentu muscle cars (model GTO) i aut takich jak Firebird.",
+              "en": "Pontiac was a sports brand within the GM concern. Creator of the muscle car segment (GTO model) and cars such as the Firebird.",
+              "de": "Pontiac war eine Sportmarke innerhalb des GM-Konzerns. Schöpfer des Muscle-Car-Segments (GTO-Modell) und von Autos wie dem Firebird.",
+              "uk": "Pontiac був спортивним брендом концерну GM. Творець сегменту масл-карів (модель GTO) і таких автомобілів, як Firebird.",
+              "ru": "Pontiac — спортивный бренд концерна GM. Создатель сегмента маслкаров (модель GTO) и таких автомобилей, как Firebird.",
+              "zh": "庞蒂亚克是通用汽车公司旗下的一个运动品牌。肌肉车细分市场（GTO 车型）和 Firebird 等汽车的创造者。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "General Motors",
+                "en": "General Motors",
+                "de": "General Motors",
+                "uk": "General Motors",
+                "ru": "General Motors",
+                "zh": "通用汽车"
+              },
+              "siedziba": {
+                "pl": "Detroit, USA",
+                "en": "Detroit, USA",
+                "de": "Detroit, USA",
+                "uk": "Детройт, США",
+                "ru": "Детройт, США",
+                "zh": "美国底特律"
+              },
+              "założona": "1926",
+              "zlikwidowana": "2010"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

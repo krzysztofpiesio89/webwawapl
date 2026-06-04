@@ -1,0 +1,2474 @@
+{
+  "brand": "Acura",
+  "models": {
+    "CL": [
+      {
+        "BrandID": 1,
+        "ModelID": 412995,
+        "Brand Name": "Acura",
+        "Model Name": "CL",
+        "Serie Name": "CL I",
+        "Years": "1996 - 2000",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.2L / 2.3L / 3.0L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Acura CL pierwszej generacji to luksusowe coupe, które zadebiutowało w 1996 roku jako pierwszy model Acury zaprojektowany, skonstruowany i wyprodukowany w Stanach Zjednoczonych. Samochód łączył sportową sylwetkę z komfortem limuzyny.",
+              "en": "The first-generation Acura CL is a luxury coupe that debuted in 1996 as the first Acura model designed, engineered and manufactured in the United States. The car combined a sporty silhouette with the comfort of a limousine.",
+              "de": "Der Acura CL der ersten Generation ist ein Luxuscoupé, das 1996 als erstes in den USA entworfenes, konstruiertes und hergestelltes Acura-Modell auf den Markt kam. Das Auto vereinte eine sportliche Silhouette mit dem Komfort einer Limousine.",
+              "uk": "Acura CL першого покоління - це розкішне купе, яке дебютувало в 1996 році як перша модель Acura, розроблена, розроблена та виготовлена ​​в Сполучених Штатах. Автомобіль поєднав у собі спортивний силует і комфорт лімузина.",
+              "ru": "Acura CL первого поколения — это роскошное купе, дебютировавшее в 1996 году как первая модель Acura, спроектированная, спроектированная и произведенная в Соединенных Штатах. Автомобиль сочетал в себе спортивный силуэт с комфортом лимузина.",
+              "zh": "第一代讴歌 CL 是一款豪华轿跑车，于 1996 年首次亮相，是第一款在美国设计、制造和制造的讴歌车型。该车将运动型轮廓与豪华轿车的舒适性融为一体。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "1996–1999",
+                "en": "1996–1999",
+                "de": "1996–1999",
+                "uk": "1996–1999",
+                "ru": "1996–1999"
+              },
+              "miejsce produkcji": {
+                "pl": "East Liberty, Ohio, USA",
+                "en": "East Liberty, Ohio, USA",
+                "de": "East Liberty, Ohio, USA",
+                "uk": "Іст-Ліберті, Огайо, США",
+                "ru": "Ист-Либерти, Огайо, США",
+                "zh": "美国俄亥俄州东自由城"
+              },
+              "segment": {
+                "pl": "G",
+                "en": "G",
+                "de": "G",
+                "uk": "Г",
+                "ru": "Г"
+              },
+              "typ nadwozia": {
+                "pl": "2-drzwiowe coupe",
+                "en": "2-door coupe",
+                "de": "2-türiges Coupé",
+                "uk": "2-дверне купе",
+                "ru": "2-дверное купе",
+                "zh": "2门轿跑车"
+              },
+              "napęd": {
+                "pl": "FWD",
+                "en": "FWD",
+                "de": "FWD",
+                "uk": "FWD",
+                "ru": "вперед"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/1st-Acura-CL-2.jpg/1280px-1st-Acura-CL-2.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/1st-Acura-CL-2.jpg/1280px-1st-Acura-CL-2.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3r/un/uurrw4mcw88s0wsgkwoko/acura-cl-ii-coupe.310.jpg"
+        }
+      },
+      {
+        "BrandID": 1,
+        "ModelID": 412998,
+        "Brand Name": "Acura",
+        "Model Name": "CL",
+        "Serie Name": "CL II",
+        "Years": "2000 - 2003",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "3.2L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja Acury CL (2000–2003) przyniosła odświeżony design i mocniejsze jednostki napędowe, w tym wersję Type-S o mocy 260 KM.",
+              "en": "The second generation of Acura CL (2000–2003) brought a refreshed design and more powerful engines, including the Type-S version with 260 HP.",
+              "de": "Die zweite Generation des Acura CL (2000–2003) brachte ein aufgefrischtes Design und leistungsstärkere Motoren, darunter die Type-S-Version mit 260 PS.",
+              "uk": "Друге покоління Acura CL (2000–2003) принесло оновлений дизайн і більш потужні двигуни, включаючи версію Type-S на 260 к.с.",
+              "ru": "Второе поколение Acura CL (2000–2003 гг.) принесло обновленный дизайн и более мощные двигатели, включая версию Type-S мощностью 260 л.с.",
+              "zh": "第二代Acura CL（2000-2003）带来了更新的设计和更强大的发动机，包括260马力的Type-S版本。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "2000–2003",
+                "en": "2000–2003",
+                "de": "2000–2003",
+                "uk": "2000–2003",
+                "ru": "2000–2003"
+              },
+              "miejsce produkcji": {
+                "pl": "Marysville, Ohio, USA",
+                "en": "Marysville, Ohio, USA",
+                "de": "Marysville, Ohio, USA",
+                "uk": "Мерісвіль, штат Огайо, США",
+                "ru": "Мерисвилл, Огайо, США",
+                "zh": "马里斯维尔, 俄亥俄州, 美国"
+              },
+              "platforma": {
+                "pl": "Honda Accord VI",
+                "en": "Honda Accord VI",
+                "de": "Honda Accord VI",
+                "uk": "Honda Accord VI",
+                "ru": "Хонда Аккорд VI",
+                "zh": "本田雅阁VI"
+              },
+              "typ nadwozia": {
+                "pl": "2-drzwiowe coupe",
+                "en": "2-door coupe",
+                "de": "2-türiges Coupé",
+                "uk": "2-дверне купе",
+                "ru": "2-дверное купе",
+                "zh": "2门轿跑车"
+              },
+              "silnik": {
+                "pl": "3.2L V6",
+                "en": "3.2L V6",
+                "de": "3,2 l V6",
+                "uk": "3,2 л V6",
+                "ru": "3,2 л V6",
+                "zh": "3.2升V6发动机"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/1st-Acura-CL-2.jpg/1280px-1st-Acura-CL-2.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/1st-Acura-CL-2.jpg/1280px-1st-Acura-CL-2.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3r/un/uurrw4mcw88s0wsgkwoko/acura-cl-ii-coupe.310.jpg"
+        }
+      }
+    ],
+    "EL": [
+      {
+        "BrandID": 1,
+        "ModelID": 416331,
+        "Brand Name": "Acura",
+        "Model Name": "EL",
+        "Serie Name": "EL I",
+        "Years": "1997 - 2000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Acura EL to kompaktowy sedan oferowany wyłącznie na rynku kanadyjskim, bazujący na Hondzie Civic. Pierwsza generacja (1997-2000) wyróżniała się bogatszym wyposażeniem i zmienioną stylistyką.",
+              "en": "The Acura EL is a compact sedan offered exclusively in the Canadian market, based on the Honda Civic. The first generation (1997-2000) was distinguished by richer equipment and changed styling.",
+              "de": "Der Acura EL ist eine kompakte Limousine, die ausschließlich auf dem kanadischen Markt angeboten wird und auf dem Honda Civic basiert. Die erste Generation (1997–2000) zeichnete sich durch eine reichhaltigere Ausstattung und ein verändertes Design aus.",
+              "uk": "Acura EL — це компактний седан, який пропонується виключно на канадському ринку на базі Honda Civic. Перше покоління (1997-2000) відрізнялося більш багатим оснащенням і зміненим стилем.",
+              "ru": "Acura EL — компактный седан, предлагаемый исключительно на канадском рынке, созданный на базе Honda Civic. Первое поколение (1997-2000 гг.) отличалось более богатым оснащением и измененным стилем.",
+              "zh": "Acura EL 是一款专供加拿大市场的紧凑型轿车，基于本田 Civic。第一代（1997-2000）的特点是更丰富的装备和改变的造型。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "1997–2000",
+                "en": "1997–2000",
+                "de": "1997–2000",
+                "uk": "1997–2000",
+                "ru": "1997–2000"
+              },
+              "miejsce produkcji": {
+                "pl": "Alliston, Kanada",
+                "en": "Alliston, Canada",
+                "de": "Alliston, Kanada",
+                "uk": "Еллістон, Канада",
+                "ru": "Аллистон, Канада",
+                "zh": "加拿大阿利斯顿"
+              },
+              "segment": {
+                "pl": "C",
+                "en": "C",
+                "de": "C",
+                "uk": "C",
+                "ru": "С"
+              },
+              "pokrewne": {
+                "pl": "Honda Civic VI",
+                "en": "Honda Civic VI",
+                "de": "Honda Civic VI",
+                "uk": "Honda Civic VI",
+                "ru": "Хонда Цивик VI",
+                "zh": "本田思域VI"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/%2797-%2798_Acura_1.6EL_%28Orange_Julep%29.jpg/1280px-%2797-%2798_Acura_1.6EL_%28Orange_Julep%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/%2797-%2798_Acura_1.6EL_%28Orange_Julep%29.jpg/1280px-%2797-%2798_Acura_1.6EL_%28Orange_Julep%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/%2700_acura_1.6_el.JPG/1280px-%2700_acura_1.6_el.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/8/83/Acura_1.7EL.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Last_Acura_EL.JPG/1280px-Last_Acura_EL.JPG"
+            ]
+          }
+        }
+      },
+      {
+        "BrandID": 1,
+        "ModelID": 416332,
+        "Brand Name": "Acura",
+        "Model Name": "EL",
+        "Serie Name": "EL II",
+        "Years": "2001 - 2005",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.7L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja Acury EL (2001-2005) kontynuowała sukces poprzednika w Kanadzie, oferując jeszcze wyższy poziom luksusu w segmencie kompaktowym.",
+              "en": "The second generation Acura EL (2001-2005) continued the success of its predecessor in Canada, offering an even higher level of luxury in the compact segment.",
+              "de": "Der Acura EL der zweiten Generation (2001–2005) setzte den Erfolg seines Vorgängers in Kanada fort und bot ein noch höheres Maß an Luxus im Kompaktsegment.",
+              "uk": "Друге покоління Acura EL (2001-2005) продовжило успіх свого попередника в Канаді, пропонуючи ще вищий рівень розкоші в компактному сегменті.",
+              "ru": "Второе поколение Acura EL (2001-2005) продолжило успех своего предшественника в Канаде, предложив еще более высокий уровень роскоши в компактном сегменте.",
+              "zh": "第二代讴歌 EL（2001-2005）延续了其前身在加拿大的成功，在紧凑型车领域提供了更高水平的豪华体验。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "2001–2005",
+                "en": "2001–2005",
+                "de": "2001–2005",
+                "uk": "2001–2005",
+                "ru": "2001–2005"
+              },
+              "miejsce produkcji": {
+                "pl": "Alliston, Kanada",
+                "en": "Alliston, Canada",
+                "de": "Alliston, Kanada",
+                "uk": "Еллістон, Канада",
+                "ru": "Аллистон, Канада",
+                "zh": "加拿大阿利斯顿"
+              },
+              "napęd": {
+                "pl": "FWD",
+                "en": "FWD",
+                "de": "FWD",
+                "uk": "FWD",
+                "ru": "вперед"
+              },
+              "następca": {
+                "pl": "Acura CSX",
+                "en": "Acura CSX",
+                "de": "Acura CSX",
+                "uk": "Акура CSX",
+                "ru": "Акура CSX",
+                "zh": "讴歌CSX"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/%2797-%2798_Acura_1.6EL_%28Orange_Julep%29.jpg/1280px-%2797-%2798_Acura_1.6EL_%28Orange_Julep%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/%2797-%2798_Acura_1.6EL_%28Orange_Julep%29.jpg/1280px-%2797-%2798_Acura_1.6EL_%28Orange_Julep%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/%2700_acura_1.6_el.JPG/1280px-%2700_acura_1.6_el.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/8/83/Acura_1.7EL.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Last_Acura_EL.JPG/1280px-Last_Acura_EL.JPG"
+            ]
+          }
+        }
+      }
+    ],
+    "ILX": [
+      {
+        "BrandID": 1,
+        "ModelID": 415228,
+        "Brand Name": "Acura",
+        "Model Name": "ILX",
+        "Serie Name": "ILX",
+        "Years": "2012 - 2015",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.5L / 2.0L / 2.4L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Acura ILX to kompaktowy sedan klasy premium, który zadebiutował w 2012 roku jako następca modelu CSX (w Kanadzie). Oparty na płycie podłogowej Hondy Civic.",
+              "en": "The Acura ILX is a premium compact sedan that debuted in 2012 as the successor to the CSX (in Canada). Based on the Honda Civic platform.",
+              "de": "Der Acura ILX ist eine Premium-Kompaktlimousine, die 2012 als Nachfolger des CSX (in Kanada) auf den Markt kam. Basierend auf der Honda Civic-Plattform.",
+              "uk": "Acura ILX — компактний седан преміум-класу, який дебютував у 2012 році як наступник CSX (у Канаді). Заснований на платформі Honda Civic.",
+              "ru": "Acura ILX — компактный седан премиум-класса, дебютировавший в 2012 году как преемник CSX (в Канаде). На базе платформы Honda Civic.",
+              "zh": "The Acura ILX is a premium compact sedan that debuted in 2012 as the successor to the CSX (in Canada).基于本田思域平台。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "2012–2015",
+                "en": "2012–2015",
+                "de": "2012–2015",
+                "uk": "2012–2015",
+                "ru": "2012–2015"
+              },
+              "miejsce produkcji": {
+                "pl": "Greensburg, USA",
+                "en": "Greensburg, USA",
+                "de": "Greensburg, USA",
+                "uk": "Грінсбург, США",
+                "ru": "Гринсбург, США",
+                "zh": "美国格林斯堡"
+              },
+              "segment": {
+                "pl": "C",
+                "en": "C",
+                "de": "C",
+                "uk": "C",
+                "ru": "С"
+              },
+              "projektant": {
+                "pl": "Toshinobu Minami",
+                "en": "Toshinobu Minami",
+                "de": "Toshinobu Minami",
+                "uk": "Тосінобу Мінамі",
+                "ru": "Тошинобу Минами",
+                "zh": "南利伸"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 1,
+        "ModelID": 413876,
+        "Brand Name": "Acura",
+        "Model Name": "ILX",
+        "Serie Name": "ILX Facelift",
+        "Years": "2015 - 2022",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "ILX po liftingu (2015-2022) zyskał bardziej agresywny wygląd i zmodernizowane wnętrze.",
+              "en": "The ILX facelift (2015-2022) gained a more aggressive look and a modernized interior.",
+              "de": "Das ILX-Facelift (2015–2022) erhielt ein aggressiveres Aussehen und ein modernisiertes Interieur.",
+              "uk": "ILX facelift (2015-2022) отримав більш агресивний вигляд і модернізований салон.",
+              "ru": "Рестайлинг ILX (2015-2022) приобрел более агрессивный вид и модернизированный салон.",
+              "zh": "小改款 ILX（2015-2022）拥有更具侵略性的外观和现代化的内饰。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "2015–2022",
+                "en": "2015–2022",
+                "de": "2015–2022",
+                "uk": "2015–2022",
+                "ru": "2015–2022"
+              },
+              "miejsce produkcji": {
+                "pl": "Marysville, USA",
+                "en": "Marysville, USA",
+                "de": "Marysville, USA",
+                "uk": "Мерісвіль, США",
+                "ru": "Мерисвилл, США",
+                "zh": "美国马里斯维尔"
+              },
+              "segment": {
+                "pl": "C",
+                "en": "C",
+                "de": "C",
+                "uk": "C",
+                "ru": "С"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/2016_Acura_ILX_A-Spec_Premium_Package%2C_front_right.jpg/1280px-2016_Acura_ILX_A-Spec_Premium_Package%2C_front_right.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/2016_Acura_ILX_A-Spec_Premium_Package%2C_front_right.jpg/1280px-2016_Acura_ILX_A-Spec_Premium_Package%2C_front_right.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2013_Acura_ILX%2C_rear_view.jpg/1280px-2013_Acura_ILX%2C_rear_view.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Acura_ILX_P4220666.jpg/1280px-Acura_ILX_P4220666.jpg"
+            ]
+          }
+        }
+      }
+    ],
+    "Integra": [
+      {
+        "BrandID": 1,
+        "ModelID": 412983,
+        "Brand Name": "Acura",
+        "Model Name": "Integra",
+        "Serie Name": "Integra I",
+        "Years": "1986 - 1989",
+        "specs": {
+          "bodyType": "Hatchback/Sedan",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Acura Integra pierwszej generacji (1986-1989) była jednym z dwóch modeli, które zapoczątkowały markę Acura. Dostępna jako 3-drzwiowy hatchback i 5-drzwiowy liftback.",
+              "en": "The first-generation Acura Integra (1986-1989) was one of two models that launched the Acura brand. Available as a 3-door hatchback and 5-door liftback.",
+              "de": "Der Acura Integra der ersten Generation (1986–1989) war eines von zwei Modellen, mit denen die Marke Acura eingeführt wurde. Erhältlich als 3-türiges Fließheck und 5-türiges Liftback.",
+              "uk": "Acura Integra першого покоління (1986-1989) була однією з двох моделей, які започаткували бренд Acura. Доступний як 3-дверний хетчбек і 5-дверний ліфтбек.",
+              "ru": "Acura Integra первого поколения (1986–1989) была одной из двух моделей, положивших начало бренду Acura. Доступен как 3-дверный хэтчбек и 5-дверный лифтбек.",
+              "zh": "第一代 Acura Integra（1986-1989）是推出 Acura 品牌的两款车型之一。有 3 门掀背车和 5 门掀背车可供选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "1986–1989",
+                "en": "1986–1989",
+                "de": "1986–1989",
+                "uk": "1986–1989",
+                "ru": "1986–1989"
+              },
+              "miejsce produkcji": {
+                "pl": "Suzuka, Japonia",
+                "en": "Suzuka, Japan",
+                "de": "Suzuka, Japan",
+                "uk": "Сузука, Японія",
+                "ru": "Сузука, Япония",
+                "zh": "日本铃鹿市"
+              },
+              "segment": {
+                "pl": "C",
+                "en": "C",
+                "de": "C",
+                "uk": "C",
+                "ru": "С"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/1986-89_Acura_Integra.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/f/f9/1986-89_Acura_Integra.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Honda_Intagra_Seitenansicht_Cambridge_1987.jpg/1280px-Honda_Intagra_Seitenansicht_Cambridge_1987.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/2nd-Acura-Integra-Sedan.jpg/1280px-2nd-Acura-Integra-Sedan.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Acura_Integra_1991-93.jpg/1280px-Acura_Integra_1991-93.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/71/q0/jos57fk0848kog8084ggw/integra-2-coupe.310.jpg"
+        }
+      },
+      {
+        "BrandID": 1,
+        "ModelID": 412983,
+        "Brand Name": "Acura",
+        "Model Name": "Integra",
+        "Serie Name": "Integra II",
+        "Years": "1989 - 1993",
+        "specs": {
+          "bodyType": "Hatchback/Sedan",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.7L / 1.8L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja Integry (1989-1993) wprowadziła słynny silnik VTEC (w wersji GS-R), stając się ikoną tuningu.",
+              "en": "The second generation of Integra (1989-1993) introduced the famous VTEC engine (in the GS-R version), becoming a tuning icon.",
+              "de": "Die zweite Generation des Integra (1989–1993) führte den berühmten VTEC-Motor (in der GS-R-Version) ein und wurde zu einer Tuning-Ikone.",
+              "uk": "Друге покоління Integra (1989-1993) представило знаменитий двигун VTEC (у версії GS-R), ставши іконою тюнінгу.",
+              "ru": "Второе поколение Интегры (1989-1993) представило знаменитый двигатель VTEC (в версии GS-R), став иконой тюнинга.",
+              "zh": "第二代Integra（1989-1993）引入了著名的VTEC发动机（GS-R版本），成为改装标志。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "1989–1993",
+                "en": "1989–1993",
+                "de": "1989–1993",
+                "uk": "1989–1993",
+                "ru": "1989–1993"
+              },
+              "silnik": {
+                "pl": "1.8L B18A1",
+                "en": "1.8L B18A1",
+                "de": "1,8L B18A1",
+                "uk": "1,8 л B18A1",
+                "ru": "1,8 л Б18А1",
+                "zh": "1.8L B18A1"
+              },
+              "typ nadwozia": {
+                "pl": "3-drzwiowy liftback",
+                "en": "3-door liftback",
+                "de": "3-türiges Liftback",
+                "uk": "3-дверний ліфтбек",
+                "ru": "3-дверный лифтбек",
+                "zh": "3门掀背式"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/1986-89_Acura_Integra.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/f/f9/1986-89_Acura_Integra.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Honda_Intagra_Seitenansicht_Cambridge_1987.jpg/1280px-Honda_Intagra_Seitenansicht_Cambridge_1987.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/2nd-Acura-Integra-Sedan.jpg/1280px-2nd-Acura-Integra-Sedan.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Acura_Integra_1991-93.jpg/1280px-Acura_Integra_1991-93.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/71/q0/jos57fk0848kog8084ggw/integra-2-coupe.310.jpg"
+        }
+      },
+      {
+        "BrandID": 1,
+        "ModelID": 412999,
+        "Brand Name": "Acura",
+        "Model Name": "Integra",
+        "Serie Name": "Integra III",
+        "Years": "1993 - 2001",
+        "specs": {
+          "bodyType": "Hatchback/Sedan",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.8L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Trzecia generacja (1993-2001) to najbardziej rozpoznawalna odsłona Integry, znana z podwójnych reflektorów.",
+              "en": "The third generation (1993-2001) is the most recognizable version of Integra, known for its double headlights.",
+              "de": "Die dritte Generation (1993–2001) ist die bekannteste Version des Integra und bekannt für ihre Doppelscheinwerfer.",
+              "uk": "Третє покоління (1993-2001) - найбільш впізнаваний варіант Integra, відомий своїми подвійними фарами.",
+              "ru": "Третье поколение (1993-2001 гг.) – самая узнаваемая версия Интегры, известная своими двойными фарами.",
+              "zh": "第三代（1993-2001）是 Integra 中最知名的版本，以其双头灯而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "1993–2001",
+                "en": "1993–2001",
+                "de": "1993–2001",
+                "uk": "1993–2001",
+                "ru": "1993–2001"
+              },
+              "projektant": {
+                "pl": "Noriaki Fujii",
+                "en": "Fujii's Noriaki",
+                "de": "Fujiis Noriaki",
+                "uk": "Норіакі Фуджі",
+                "ru": "Нориаки Фуджи",
+                "zh": "藤井纪明"
+              },
+              "wersje specjalne": {
+                "pl": "Type R",
+                "en": "Type R",
+                "de": "Typ R",
+                "uk": "Тип R",
+                "ru": "Тип Р",
+                "zh": "R型"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/1986-89_Acura_Integra.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/f/f9/1986-89_Acura_Integra.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Honda_Intagra_Seitenansicht_Cambridge_1987.jpg/1280px-Honda_Intagra_Seitenansicht_Cambridge_1987.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/2nd-Acura-Integra-Sedan.jpg/1280px-2nd-Acura-Integra-Sedan.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Acura_Integra_1991-93.jpg/1280px-Acura_Integra_1991-93.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/71/q0/jos57fk0848kog8084ggw/integra-2-coupe.310.jpg"
+        }
+      },
+      {
+        "BrandID": 1,
+        "ModelID": 416500,
+        "Brand Name": "Acura",
+        "Model Name": "Integra",
+        "Serie Name": "Integra DE4",
+        "Years": "2022 - 3000",
+        "specs": {
+          "bodyType": "Liftback",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L Turbo / 2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Po ponad dwóch dekadach przerwy, Acura Integra powróciła w 2022 roku jako 5-drzwiowy liftback premium.",
+              "en": "After a hiatus of more than two decades, the Acura Integra returns in 2022 as a premium 5-door liftback.",
+              "de": "Nach einer Pause von mehr als zwei Jahrzehnten kehrt der Acura Integra im Jahr 2022 als Premium-5-Türer-Liftback zurück.",
+              "uk": "Після більш ніж двох десятиліть перерви Acura Integra повертається у 2022 році як 5-дверний ліфтбек преміум-класу.",
+              "ru": "После более чем двадцатилетнего перерыва Acura Integra возвращается в 2022 году в виде 5-дверного лифтбека премиум-класса.",
+              "zh": "经过二十多年的停顿后，Acura Integra 将于 2022 年作为一款优质 5 门掀背车回归。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "od 2022",
+                "en": "from 2022",
+                "de": "ab 2022",
+                "uk": "з 2022 року",
+                "ru": "с 2022 года",
+                "zh": "2022年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Marysville, USA",
+                "en": "Marysville, USA",
+                "de": "Marysville, USA",
+                "uk": "Мерісвіль, США",
+                "ru": "Мерисвилл, США",
+                "zh": "美国马里斯维尔"
+              },
+              "tytuł": {
+                "pl": "NACTOY 2023",
+                "en": "NACTOY 2023",
+                "de": "NACTOY 2023",
+                "uk": "NACTOY 2023",
+                "ru": "НАКТОЙ 2023",
+                "zh": "2023年国际玩具展"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/1986-89_Acura_Integra.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/f/f9/1986-89_Acura_Integra.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Honda_Intagra_Seitenansicht_Cambridge_1987.jpg/1280px-Honda_Intagra_Seitenansicht_Cambridge_1987.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/2nd-Acura-Integra-Sedan.jpg/1280px-2nd-Acura-Integra-Sedan.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Acura_Integra_1991-93.jpg/1280px-Acura_Integra_1991-93.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/71/q0/jos57fk0848kog8084ggw/integra-2-coupe.310.jpg"
+        }
+      }
+    ],
+    "Legend": [
+      {
+        "BrandID": 1,
+        "ModelID": 412989,
+        "Brand Name": "Acura",
+        "Model Name": "Legend",
+        "Serie Name": "Legend I",
+        "Years": "1986 - 1990",
+        "specs": {
+          "bodyType": "Sedan/Coupe",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.5L / 2.7L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Acura Legend I to flagowa limuzyna, która zdefiniowała markę Acura w 1986 roku.",
+              "en": "The Acura Legend I is the flagship sedan that defined the Acura brand in 1986.",
+              "de": "Der Acura Legend I ist die Flaggschiff-Limousine, die 1986 die Marke Acura definierte.",
+              "uk": "Acura Legend I — флагманський седан, який визначив бренд Acura в 1986 році.",
+              "ru": "Acura Legend I — флагманский седан, определивший бренд Acura в 1986 году.",
+              "zh": "Acura Legend I 是 1986 年定义 Acura 品牌的旗舰轿车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "1986–1990",
+                "en": "1986–1990",
+                "de": "1986–1990",
+                "uk": "1986–1990",
+                "ru": "1986–1990"
+              },
+              "miejsce produkcji": {
+                "pl": "Sayama, Japonia",
+                "en": "Sayama, Japan",
+                "de": "Sayama, Japan",
+                "uk": "Саяма, Японія",
+                "ru": "Саяма, Япония",
+                "zh": "日本狭山"
+              },
+              "segment": {
+                "pl": "E",
+                "en": "E",
+                "de": "E",
+                "uk": "E",
+                "ru": "Э"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Honda_Legend_2_Door_02.jpg/1280px-Honda_Legend_2_Door_02.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Honda_Legend_2_Door_02.jpg/1280px-Honda_Legend_2_Door_02.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Honda_Legend_2_Door_rear.jpg/1280px-Honda_Legend_2_Door_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/1989_Honda_Legend_%28KA4%29_sedan_%282015-07-15%29_02.jpg/1280px-1989_Honda_Legend_%28KA4%29_sedan_%282015-07-15%29_02.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/1994_Honda_Legend_%28KA7%29_sedan_%282010-09-23%29_02.jpg/1280px-1994_Honda_Legend_%28KA7%29_sedan_%282010-09-23%29_02.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4g/xr/oelamruos8wwowwgcc80k/legend-2-coupe.310.jpg"
+        }
+      },
+      {
+        "BrandID": 1,
+        "ModelID": 412992,
+        "Brand Name": "Acura",
+        "Model Name": "Legend",
+        "Serie Name": "Legend II",
+        "Years": "1990 - 1995",
+        "specs": {
+          "bodyType": "Sedan/Coupe",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "3.2L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja Legendy (1990-1995) stała się ikoną lat 90. dzięki eleganckiej stylistyce i wersji Coupe.",
+              "en": "The second generation of the Legend (1990-1995) became an icon of the 1990s thanks to its elegant styling and Coupe version.",
+              "de": "Die zweite Generation des Legend (1990–1995) wurde dank seines eleganten Designs und der Coupé-Version zu einer Ikone der 1990er Jahre.",
+              "uk": "Друге покоління Legend (1990-1995) стало іконою 1990-х завдяки своєму елегантному стилю та версії Coupe.",
+              "ru": "Второе поколение Legend (1990-1995) стало иконой 1990-х годов благодаря элегантному стилю и версии купе.",
+              "zh": "第二代Legend（1990-1995）凭借其优雅的造型和轿跑车版本成为20世纪90年代的标志。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "1990–1995",
+                "en": "1990–1995",
+                "de": "1990–1995",
+                "uk": "1990–1995",
+                "ru": "1990–1995"
+              },
+              "silnik": {
+                "pl": "3.2L C32A V6",
+                "en": "3.2L C32A V6",
+                "de": "3,2L C32A V6",
+                "uk": "3.2L C32A V6",
+                "ru": "3,2 л C32A V6",
+                "zh": "3.2L C32A V6"
+              },
+              "następca": {
+                "pl": "Acura RL",
+                "en": "Acura RL",
+                "de": "Acura RL",
+                "uk": "Acura RL",
+                "ru": "Акура РЛ",
+                "zh": "讴歌RL"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Honda_Legend_2_Door_02.jpg/1280px-Honda_Legend_2_Door_02.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Honda_Legend_2_Door_02.jpg/1280px-Honda_Legend_2_Door_02.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Honda_Legend_2_Door_rear.jpg/1280px-Honda_Legend_2_Door_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/1989_Honda_Legend_%28KA4%29_sedan_%282015-07-15%29_02.jpg/1280px-1989_Honda_Legend_%28KA4%29_sedan_%282015-07-15%29_02.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/1994_Honda_Legend_%28KA7%29_sedan_%282010-09-23%29_02.jpg/1280px-1994_Honda_Legend_%28KA7%29_sedan_%282010-09-23%29_02.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4g/xr/oelamruos8wwowwgcc80k/legend-2-coupe.310.jpg"
+        }
+      }
+    ],
+    "MDX": [
+      {
+        "BrandID": 1,
+        "ModelID": 413000,
+        "Brand Name": "Acura",
+        "Model Name": "MDX",
+        "Serie Name": "MDX I",
+        "Years": "2000 - 2006",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mainstream",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Acura MDX pierwszej generacji (2000-2006) zrewolucjonizowała rynek luksusowych SUV-ów.",
+              "en": "The first generation Acura MDX (2000-2006) revolutionized the luxury SUV market.",
+              "de": "Der Acura MDX der ersten Generation (2000–2006) revolutionierte den Luxus-SUV-Markt.",
+              "uk": "Перше покоління Acura MDX (2000-2006) здійснило революцію на ринку розкішних позашляховиків.",
+              "ru": "Первое поколение Acura MDX (2000-2006) произвело революцию на рынке роскошных внедорожников.",
+              "zh": "第一代Acura MDX（2000-2006）彻底改变了豪华SUV市场。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "2000–2006",
+                "en": "2000–2006",
+                "de": "2000–2006",
+                "uk": "2000–2006",
+                "ru": "2000–2006"
+              },
+              "miejsce produkcji": {
+                "pl": "Alliston, Kanada",
+                "en": "Alliston, Canada",
+                "de": "Alliston, Kanada",
+                "uk": "Еллістон, Канада",
+                "ru": "Аллистон, Канада",
+                "zh": "加拿大阿利斯顿"
+              },
+              "segment": {
+                "pl": "J",
+                "en": "J",
+                "de": "J",
+                "uk": "Дж",
+                "ru": "Дж"
+              },
+              "tytuł": {
+                "pl": "North American Truck of the Year 2001",
+                "en": "North American Truck of the Year 2001",
+                "de": "Nordamerikanischer Truck des Jahres 2001",
+                "uk": "Північноамериканська вантажівка року 2001",
+                "ru": "Североамериканский грузовик года 2001",
+                "zh": "2001 年北美年度卡车"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Acura_MDX_2001_%2815036854272%29.jpg/1280px-Acura_MDX_2001_%2815036854272%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Acura_MDX_2001_%2815036854272%29.jpg/1280px-Acura_MDX_2001_%2815036854272%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Acura_MDX_SH-AWD_2011_%2813522503703%29.jpg/1280px-Acura_MDX_SH-AWD_2011_%2813522503703%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Acura_MDX_Back_P4220662.jpg/1280px-Acura_MDX_Back_P4220662.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/2022_Acura_MDX_A-Spec%2C_rear_4.16.21.jpg/1280px-2022_Acura_MDX_A-Spec%2C_rear_4.16.21.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/al/6u/yxlfp748o8wkokcsw844o/acura-mdx-2.310.jpg"
+        }
+      },
+      {
+        "BrandID": 1,
+        "ModelID": 413001,
+        "Brand Name": "Acura",
+        "Model Name": "MDX",
+        "Serie Name": "MDX II",
+        "Years": "2006 - 2013",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mainstream",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "3.7L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "MDX drugiej generacji (2006-2013) zyskał bardziej agresywną stylistykę i potężniejszy silnik 3.7L V6.",
+              "en": "The second generation MDX (2006-2013) gained more aggressive styling and a more powerful 3.7L V6 engine.",
+              "de": "Der MDX der zweiten Generation (2006–2013) erhielt ein aggressiveres Design und einen leistungsstärkeren 3,7-Liter-V6-Motor.",
+              "uk": "MDX другого покоління (2006-2013) отримав більш агресивний стиль і більш потужний двигун 3,7 л V6.",
+              "ru": "Второе поколение MDX (2006–2013 гг.) получило более агрессивный дизайн и более мощный двигатель V6 объемом 3,7 л.",
+              "zh": "第二代MDX（2006-2013）获得了更激进的造型和更强大的3.7L V6发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "2006–2013",
+                "en": "2006–2013",
+                "de": "2006–2013",
+                "uk": "2006–2013",
+                "ru": "2006–2013"
+              },
+              "napęd": {
+                "pl": "SH-AWD",
+                "en": "SH-AWD",
+                "de": "SH-AWD",
+                "uk": "SH-AWD",
+                "ru": "SH-AWD"
+              },
+              "testy zderzeniowe": {
+                "pl": "IIHS Top Safety Pick",
+                "en": "IIHS Top Safety Pick",
+                "de": "IIHS Top Safety Pick",
+                "uk": "Найкращий вибір безпеки IIHS",
+                "ru": "Лучший выбор безопасности IIHS",
+                "zh": "IIHS 顶级安全精选"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Acura_MDX_2001_%2815036854272%29.jpg/1280px-Acura_MDX_2001_%2815036854272%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Acura_MDX_2001_%2815036854272%29.jpg/1280px-Acura_MDX_2001_%2815036854272%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Acura_MDX_SH-AWD_2011_%2813522503703%29.jpg/1280px-Acura_MDX_SH-AWD_2011_%2813522503703%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Acura_MDX_Back_P4220662.jpg/1280px-Acura_MDX_Back_P4220662.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/2022_Acura_MDX_A-Spec%2C_rear_4.16.21.jpg/1280px-2022_Acura_MDX_A-Spec%2C_rear_4.16.21.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/al/6u/yxlfp748o8wkokcsw844o/acura-mdx-2.310.jpg"
+        }
+      },
+      {
+        "BrandID": 1,
+        "ModelID": 413002,
+        "Brand Name": "Acura",
+        "Model Name": "MDX",
+        "Serie Name": "MDX III",
+        "Years": "2013 - 2020",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mainstream",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "3.5L V6 / 3.0L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Trzecia generacja MDX (2013-2020) skupiła się na komforcie i luksusie, oferując cichsze wnętrze i lepsze materiały.",
+              "en": "The third generation MDX (2013-2020) focused on comfort and luxury, offering a quieter interior and better materials.",
+              "de": "Der MDX der dritten Generation (2013–2020) konzentrierte sich auf Komfort und Luxus und bot einen ruhigeren Innenraum und bessere Materialien.",
+              "uk": "Третє покоління MDX (2013-2020) зосереджено на комфорті та розкоші, пропонуючи більш тихий салон та кращі матеріали.",
+              "ru": "Третье поколение MDX (2013-2020) ориентировано на комфорт и роскошь, предлагая более тихий салон и лучшие материалы.",
+              "zh": "第三代MDX（2013-2020）专注于舒适性和豪华性，提供更安静的内饰和更好的材料。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "2013–2020",
+                "en": "2013–2020",
+                "de": "2013–2020",
+                "uk": "2013–2020",
+                "ru": "2013–2020"
+              },
+              "platforma": {
+                "pl": "Honda Pilot",
+                "en": "Honda Pilot",
+                "de": "Honda-Pilot",
+                "uk": "Honda Pilot",
+                "ru": "Хонда Пилот",
+                "zh": "本田飞行员"
+              },
+              "silnik": {
+                "pl": "3.5L V6",
+                "en": "3.5L V6",
+                "de": "3,5L V6",
+                "uk": "3,5 л V6",
+                "ru": "3,5 л V6",
+                "zh": "3.5升V6发动机"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Acura_MDX_2001_%2815036854272%29.jpg/1280px-Acura_MDX_2001_%2815036854272%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Acura_MDX_2001_%2815036854272%29.jpg/1280px-Acura_MDX_2001_%2815036854272%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Acura_MDX_SH-AWD_2011_%2813522503703%29.jpg/1280px-Acura_MDX_SH-AWD_2011_%2813522503703%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Acura_MDX_Back_P4220662.jpg/1280px-Acura_MDX_Back_P4220662.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/2022_Acura_MDX_A-Spec%2C_rear_4.16.21.jpg/1280px-2022_Acura_MDX_A-Spec%2C_rear_4.16.21.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/al/6u/yxlfp748o8wkokcsw844o/acura-mdx-2.310.jpg"
+        }
+      },
+      {
+        "BrandID": 1,
+        "ModelID": 416401,
+        "Brand Name": "Acura",
+        "Model Name": "MDX",
+        "Serie Name": "MDX IV",
+        "Years": "2021 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mainstream",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6 / 3.0L Turbo V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Czwarta generacja MDX (od 2021) to najbardziej luksusowy i zaawansowany technicznie SUV w historii marki.",
+              "en": "The fourth generation of MDX (from 2021) is the most luxurious and technically advanced SUV in the history of the brand.",
+              "de": "Die vierte Generation des MDX (ab 2021) ist das luxuriöseste und technisch fortschrittlichste SUV in der Geschichte der Marke.",
+              "uk": "Четверте покоління MDX (з 2021 року) — найрозкішніший і технічно найдосконаліший SUV в історії бренду.",
+              "ru": "Четвертое поколение MDX (с 2021 года) — самый роскошный и технически совершенный внедорожник за всю историю бренда.",
+              "zh": "第四代MDX（2021年起）是该品牌历史上最豪华、技术最先进的SUV。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "od 2021",
+                "en": "from 2021",
+                "de": "ab 2021",
+                "uk": "з 2021 року",
+                "ru": "с 2021 года",
+                "zh": "2021年起"
+              },
+              "silnik": {
+                "pl": "3.5L V6 / 3.0L Turbo V6 (Type S)",
+                "en": "3.5L V6 / 3.0L Turbo V6 (Type S)",
+                "de": "3,5 l V6 / 3,0 l Turbo V6 (Typ S)",
+                "uk": "3,5 л V6 / 3,0 л Turbo V6 (тип S)",
+                "ru": "3,5 л V6 / 3,0 л турбо V6 (Тип S)",
+                "zh": "3.5L V6 / 3.0L 涡轮增压V6（S型）"
+              },
+              "skrzynia biegów": {
+                "pl": "10-biegowa automatyczna",
+                "en": "10-speed automatic",
+                "de": "10-Gang-Automatik",
+                "uk": "10-ступінчастий автомат",
+                "ru": "10-ступенчатая автоматическая",
+                "zh": "10速自动"
+              },
+              "technologie": {
+                "pl": "Precision Cockpit",
+                "en": "Precision Cockpit",
+                "de": "Präzisions-Cockpit",
+                "uk": "Точна кабіна",
+                "ru": "Прецизионная кабина",
+                "zh": "精密驾驶舱"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Acura_MDX_2001_%2815036854272%29.jpg/1280px-Acura_MDX_2001_%2815036854272%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Acura_MDX_2001_%2815036854272%29.jpg/1280px-Acura_MDX_2001_%2815036854272%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Acura_MDX_SH-AWD_2011_%2813522503703%29.jpg/1280px-Acura_MDX_SH-AWD_2011_%2813522503703%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Acura_MDX_Back_P4220662.jpg/1280px-Acura_MDX_Back_P4220662.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/2022_Acura_MDX_A-Spec%2C_rear_4.16.21.jpg/1280px-2022_Acura_MDX_A-Spec%2C_rear_4.16.21.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/al/6u/yxlfp748o8wkokcsw844o/acura-mdx-2.310.jpg"
+        }
+      }
+    ],
+    "RDX": [
+      {
+        "BrandID": 1,
+        "ModelID": 413003,
+        "Brand Name": "Acura",
+        "Model Name": "RDX",
+        "Serie Name": "RDX I",
+        "Years": "2006 - 2012",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mainstream",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.3L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Acura RDX pierwszej generacji (2006-2012) była kompaktowym crossoverem premium.",
+              "en": "The first generation Acura RDX (2006-2012) was a premium compact crossover.",
+              "de": "Der Acura RDX der ersten Generation (2006–2012) war ein Premium-Kompakt-Crossover.",
+              "uk": "Перше покоління Acura RDX (2006-2012) було компактним кросовером преміум-класу.",
+              "ru": "Acura RDX первого поколения (2006-2012) представлял собой компактный кроссовер премиум-класса.",
+              "zh": "第一代讴歌 RDX（2006-2012 年）是一款优质紧凑型跨界车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "2006–2012",
+                "en": "2006–2012",
+                "de": "2006–2012",
+                "uk": "2006–2012",
+                "ru": "2006–2012"
+              },
+              "miejsce produkcji": {
+                "pl": "Marysville, USA",
+                "en": "Marysville, USA",
+                "de": "Marysville, USA",
+                "uk": "Мерісвіль, США",
+                "ru": "Мерисвилл, США",
+                "zh": "美国马里斯维尔"
+              },
+              "segment": {
+                "pl": "I",
+                "en": "AND",
+                "de": "UND",
+                "uk": "І",
+                "ru": "И"
+              },
+              "silnik": {
+                "pl": "2.3L Turbo i-VTEC",
+                "en": "2.3L Turbo i-VTEC",
+                "de": "2,3 l Turbo i-VTEC",
+                "uk": "2,3 л Turbo i-VTEC",
+                "ru": "2,3 л турбо i-VTEC",
+                "zh": "2.3L 涡轮增压 i-VTEC"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2010-2012_Acura_RDX_--_03-21-2012.JPG/1280px-2010-2012_Acura_RDX_--_03-21-2012.JPG",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2010-2012_Acura_RDX_--_03-21-2012.JPG/1280px-2010-2012_Acura_RDX_--_03-21-2012.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/8/8c/RDX_%2707.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Acura_RDX_Back_P4220661.jpg/1280px-Acura_RDX_Back_P4220661.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/2019_Acura_RDX_SH-AWD_rear_1.23.19.jpg/1280px-2019_Acura_RDX_SH-AWD_rear_1.23.19.jpg"
+            ]
+          }
+        }
+      },
+      {
+        "BrandID": 1,
+        "ModelID": 413004,
+        "Brand Name": "Acura",
+        "Model Name": "RDX",
+        "Serie Name": "RDX II",
+        "Years": "2013 - 2018",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mainstream",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja RDX (2013-2018) stała się bardziej konwencjonalna, zamieniając silnik turbo na solidne V6.",
+              "en": "The second generation of the RDX (2013-2018) became more conventional, replacing the turbo engine with a solid V6.",
+              "de": "Die zweite Generation des RDX (2013–2018) wurde konventioneller und ersetzte den Turbomotor durch einen soliden V6.",
+              "uk": "Друге покоління RDX (2013-2018) стало більш традиційним, замінивши турбодвигун на солідний V6.",
+              "ru": "Второе поколение RDX (2013-2018) стало более традиционным, заменив турбомотор на солидный V6.",
+              "zh": "第二代RDX（2013-2018）变得更加传统，用坚固的V6发动机取代了涡轮发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "2013–2018",
+                "en": "2013–2018",
+                "de": "2013–2018",
+                "uk": "2013–2018",
+                "ru": "2013–2018"
+              },
+              "miejsce produkcji": {
+                "pl": "East Liberty, USA",
+                "en": "East Liberty, USA",
+                "de": "East Liberty, USA",
+                "uk": "Іст Ліберті, США",
+                "ru": "Ист Либерти, США",
+                "zh": "美国东自由城"
+              },
+              "segment": {
+                "pl": "I",
+                "en": "AND",
+                "de": "UND",
+                "uk": "І",
+                "ru": "И"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2010-2012_Acura_RDX_--_03-21-2012.JPG/1280px-2010-2012_Acura_RDX_--_03-21-2012.JPG",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2010-2012_Acura_RDX_--_03-21-2012.JPG/1280px-2010-2012_Acura_RDX_--_03-21-2012.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/8/8c/RDX_%2707.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Acura_RDX_Back_P4220661.jpg/1280px-Acura_RDX_Back_P4220661.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/2019_Acura_RDX_SH-AWD_rear_1.23.19.jpg/1280px-2019_Acura_RDX_SH-AWD_rear_1.23.19.jpg"
+            ]
+          }
+        }
+      },
+      {
+        "BrandID": 1,
+        "ModelID": 415808,
+        "Brand Name": "Acura",
+        "Model Name": "RDX",
+        "Serie Name": "RDX III",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mainstream",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Trzecia generacja RDX (od 2019) wróciła do korzeni z silnikiem turbo i zaawansowanym napędem SH-AWD.",
+              "en": "The third generation of RDX (from 2019) returned to its roots with a turbo engine and advanced SH-AWD drive.",
+              "de": "Die dritte Generation des RDX (ab 2019) kehrte mit Turbomotor und fortschrittlichem SH-AWD-Antrieb zu seinen Wurzeln zurück.",
+              "uk": "Третє покоління RDX (з 2019 року) повернулося до витоків з турбодвигуном і вдосконаленим приводом SH-AWD.",
+              "ru": "Третье поколение RDX (с 2019 года) вернулось к истокам с турбомотором и усовершенствованным приводом SH-AWD.",
+              "zh": "第三代 RDX（自 2019 年起）回归根源，配备涡轮发动机和先进的 SH-AWD 驱动装置。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019 року",
+                "ru": "с 2019 года",
+                "zh": "2019年起"
+              },
+              "silnik": {
+                "pl": "2.0L Turbo",
+                "en": "2.0L Turbo",
+                "de": "2,0 l Turbo",
+                "uk": "2.0L Turbo",
+                "ru": "2,0 л турбо",
+                "zh": "2.0升涡轮增压"
+              },
+              "napęd": {
+                "pl": "SH-AWD",
+                "en": "SH-AWD",
+                "de": "SH-AWD",
+                "uk": "SH-AWD",
+                "ru": "SH-AWD"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2010-2012_Acura_RDX_--_03-21-2012.JPG/1280px-2010-2012_Acura_RDX_--_03-21-2012.JPG",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2010-2012_Acura_RDX_--_03-21-2012.JPG/1280px-2010-2012_Acura_RDX_--_03-21-2012.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/8/8c/RDX_%2707.JPG"
+            ]
+          }
+        }
+      }
+    ],
+    "RL": [
+      {
+        "BrandID": 1,
+        "ModelID": 413005,
+        "Brand Name": "Acura",
+        "Model Name": "RL",
+        "Serie Name": "RL KA9",
+        "Years": "1996 - 2004",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Acura RL (1996-2004) zastąpiła Legendę jako flagowy model marki. Skrót RL pochodzi od \"Refined Luxury\".",
+              "en": "The Acura RL (1996-2004) replaced the Legend as the brand's flagship model. The abbreviation RL stands for \"Refined Luxury\".",
+              "de": "Der Acura RL (1996–2004) löste den Legend als Flaggschiffmodell der Marke ab. Die Abkürzung RL steht für „Refined Luxury“.",
+              "uk": "Acura RL (1996-2004) змінила Legend як флагманську модель бренду. Абревіатура RL розшифровується як «Refined Luxury».",
+              "ru": "Acura RL (1996–2004) заменила Legend в качестве флагманской модели бренда. Аббревиатура RL расшифровывается как «Изысканная роскошь».",
+              "zh": "Acura RL（1996-2004）取代Legend成为该品牌的旗舰车型。缩写 RL 代表“精致奢华”。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "1996–2004",
+                "en": "1996–2004",
+                "de": "1996–2004",
+                "uk": "1996–2004",
+                "ru": "1996–2004"
+              },
+              "poprzednik": {
+                "pl": "Acura Legend",
+                "en": "Acura Legend",
+                "de": "Acura-Legende",
+                "uk": "Легенда Акура",
+                "ru": "Акура Легенда",
+                "zh": "讴歌传奇"
+              },
+              "miejsce produkcji": {
+                "pl": "Saitama, Japonia",
+                "en": "Saitama, Japan",
+                "de": "Saitama, Japan",
+                "uk": "Сайтама, Японія",
+                "ru": "Сайтама, Япония",
+                "zh": "日本埼玉县"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Honda_Legend_2_Door_02.jpg/1280px-Honda_Legend_2_Door_02.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Honda_Legend_2_Door_02.jpg/1280px-Honda_Legend_2_Door_02.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Honda_Legend_2_Door_rear.jpg/1280px-Honda_Legend_2_Door_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/1989_Honda_Legend_%28KA4%29_sedan_%282015-07-15%29_02.jpg/1280px-1989_Honda_Legend_%28KA4%29_sedan_%282015-07-15%29_02.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/1994_Honda_Legend_%28KA7%29_sedan_%282010-09-23%29_02.jpg/1280px-1994_Honda_Legend_%28KA7%29_sedan_%282010-09-23%29_02.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/55/3f/7j9a6dssccs0kkk0o88gk/rl-3.310.jpg"
+        }
+      },
+      {
+        "BrandID": 1,
+        "ModelID": 413006,
+        "Brand Name": "Acura",
+        "Model Name": "RL",
+        "Serie Name": "RL KB1/KB2",
+        "Years": "2004 - 2012",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mainstream",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L / 3.7L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja RL (2004-2012) była przełomowa dzięki debiutowi systemu SH-AWD. Ten zaawansowany napęd poprawiał zwrotność limuzyny.",
+              "en": "The second generation of the RL (2004-2012) was groundbreaking with the debut of the SH-AWD system. This advanced drive improved the limousine's maneuverability.",
+              "de": "Die zweite Generation des RL (2004–2012) war mit dem Debüt des SH-AWD-Systems bahnbrechend. Dieser fortschrittliche Antrieb verbesserte die Manövrierfähigkeit der Limousine.",
+              "uk": "Друге покоління RL (2004-2012) стало новаторським із дебютом системи SH-AWD. Цей вдосконалений привід покращив маневреність лімузина.",
+              "ru": "Второе поколение RL (2004–2012 гг.) стало революционным благодаря дебюту системы SH-AWD. Этот усовершенствованный привод улучшил маневренность лимузина.",
+              "zh": "随着 SH-AWD 系统的首次亮相，第二代 RL（2004-2012）具有开创性。这种先进的驱动装置提高了豪华轿车的机动性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "2004–2012",
+                "en": "2004–2012",
+                "de": "2004–2012",
+                "uk": "2004–2012",
+                "ru": "2004–2012"
+              },
+              "miejsce produkcji": {
+                "pl": "Saitama, Japonia",
+                "en": "Saitama, Japan",
+                "de": "Saitama, Japan",
+                "uk": "Сайтама, Японія",
+                "ru": "Сайтама, Япония",
+                "zh": "日本埼玉县"
+              },
+              "napęd": {
+                "pl": "SH-AWD",
+                "en": "SH-AWD",
+                "de": "SH-AWD",
+                "uk": "SH-AWD",
+                "ru": "SH-AWD"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Honda_Legend_2_Door_02.jpg/1280px-Honda_Legend_2_Door_02.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Honda_Legend_2_Door_02.jpg/1280px-Honda_Legend_2_Door_02.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Honda_Legend_2_Door_rear.jpg/1280px-Honda_Legend_2_Door_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/1989_Honda_Legend_%28KA4%29_sedan_%282015-07-15%29_02.jpg/1280px-1989_Honda_Legend_%28KA4%29_sedan_%282015-07-15%29_02.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/1994_Honda_Legend_%28KA7%29_sedan_%282010-09-23%29_02.jpg/1280px-1994_Honda_Legend_%28KA7%29_sedan_%282010-09-23%29_02.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/55/3f/7j9a6dssccs0kkk0o88gk/rl-3.310.jpg"
+        }
+      }
+    ],
+    "RLX": [
+      {
+        "BrandID": 1,
+        "ModelID": 416510,
+        "Brand Name": "Acura",
+        "Model Name": "RLX",
+        "Serie Name": "RLX",
+        "Years": "2013 - 2020",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mainstream",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Acura RLX (2013-2020) to technologiczny następca modelu RL. Wyróżniał się wersją Sport Hybrid SH-AWD.",
+              "en": "Acura RLX (2013-2020) is the technological successor to the RL model. It was distinguished by the Sport Hybrid SH-AWD version.",
+              "de": "Acura RLX (2013–2020) ist der technologische Nachfolger des RL-Modells. Es zeichnete sich durch die Sport Hybrid SH-AWD-Version aus.",
+              "uk": "Acura RLX (2013-2020) є технологічним спадкоємцем моделі RL. Його відзначила версія Sport Hybrid SH-AWD.",
+              "ru": "Acura RLX (2013-2020) является технологическим преемником модели RL. Его отличала версия Sport Hybrid SH-AWD.",
+              "zh": "Acura RLX（2013-2020）是 RL 车型的技术继承者。它的特色是运动混合动力 SH-AWD 版本。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "2013–2020",
+                "en": "2013–2020",
+                "de": "2013–2020",
+                "uk": "2013–2020",
+                "ru": "2013–2020"
+              },
+              "poprzednik": {
+                "pl": "Acura RL",
+                "en": "Acura RL",
+                "de": "Acura RL",
+                "uk": "Acura RL",
+                "ru": "Акура РЛ",
+                "zh": "讴歌RL"
+              },
+              "wersja hybrydowa": {
+                "pl": "377 KM",
+                "en": "377 hp",
+                "de": "377 PS",
+                "uk": "377 к.с",
+                "ru": "377 л.с.",
+                "zh": "377马力"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "RSX": [
+      {
+        "BrandID": 1,
+        "ModelID": 10,
+        "Brand Name": "Acura",
+        "Model Name": "RSX",
+        "Serie Name": "RSX",
+        "Years": "2001 - 2006",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Acura RSX (2001-2006) zastąpiła Integrę, stając się marzeniem tunerów dzięki silnikowi K20.",
+              "en": "The Acura RSX (2001-2006) replaced the Integra, becoming a tuner's dream with its K20 engine.",
+              "de": "Der Acura RSX (2001–2006) ersetzte den Integra und wurde mit seinem K20-Motor zum Traum eines jeden Tuners.",
+              "uk": "Acura RSX (2001-2006) замінила Integra, ставши мрією тюнера з двигуном K20.",
+              "ru": "Acura RSX (2001-2006) пришла на смену Integra, став мечтой тюнеров со своим двигателем K20.",
+              "zh": "Acura RSX（2001-2006）取代了 Integra，凭借其 K20 发动机成为改装者的梦想。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "2001–2006",
+                "en": "2001–2006",
+                "de": "2001–2006",
+                "uk": "2001–2006",
+                "ru": "2001–2006"
+              },
+              "miejsce produkcji": {
+                "pl": "Suzuka, Japonia",
+                "en": "Suzuka, Japan",
+                "de": "Suzuka, Japan",
+                "uk": "Сузука, Японія",
+                "ru": "Сузука, Япония",
+                "zh": "日本铃鹿市"
+              },
+              "platforma": {
+                "pl": "Honda Civic VII",
+                "en": "Honda Civic VII",
+                "de": "Honda Civic VII",
+                "uk": "Honda Civic VII",
+                "ru": "Хонда Цивик VII",
+                "zh": "本田思域VII"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/b4/wk/vn5wldwg08w4c404kw80k/rsx.310.jpg"
+        }
+      }
+    ],
+    "SLX": [
+      {
+        "BrandID": 1,
+        "ModelID": 414421,
+        "Brand Name": "Acura",
+        "Model Name": "SLX",
+        "Serie Name": "SLX",
+        "Years": "1996 - 1999",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mainstream",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "3.2L / 3.5L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Acura SLX (1996-1999) to rebrandowany Isuzu Trooper, pierwszy SUV marki.",
+              "en": "The Acura SLX (1996-1999) is a rebranded Isuzu Trooper, the brand's first SUV.",
+              "de": "Der Acura SLX (1996–1999) ist ein umbenannter Isuzu Trooper, der erste SUV der Marke.",
+              "uk": "Acura SLX (1996-1999) — це ребрендинг Isuzu Trooper, перший позашляховик марки.",
+              "ru": "Acura SLX (1996–1999) — это переименованный Isuzu Trooper, первый внедорожник бренда.",
+              "zh": "Acura SLX（1996-1999）是重新命名的 Isuzu Trooper，也是该品牌的第一款 SUV。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Isuzu (dla Acury)",
+                "en": "Isuzu (for Acura)",
+                "de": "Isuzu (für Acura)",
+                "uk": "Isuzu (для Acura)",
+                "ru": "Исузу (для Акура)",
+                "zh": "五十铃（讴歌用）"
+              },
+              "okres produkcji": {
+                "pl": "1996–1999",
+                "en": "1996–1999",
+                "de": "1996–1999",
+                "uk": "1996–1999",
+                "ru": "1996–1999"
+              },
+              "pokrewne": {
+                "pl": "Isuzu Trooper",
+                "en": "Isuzu Trooper",
+                "de": "Isuzu Trooper",
+                "uk": "Isuzu Trooper",
+                "ru": "Исузу Солдат",
+                "zh": "五十铃骑兵"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "TL": [
+      {
+        "BrandID": 1,
+        "ModelID": 413008,
+        "Brand Name": "Acura",
+        "Model Name": "TL",
+        "Serie Name": "TL I",
+        "Years": "1995 - 1998",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.5L / 3.2L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Acura TL pierwszej generacji (1995-1998) zastąpiła model Vigor.",
+              "en": "The first generation Acura TL (1995-1998) replaced the Vigor model.",
+              "de": "Der Acura TL der ersten Generation (1995–1998) ersetzte das Vigor-Modell.",
+              "uk": "На зміну моделі Vigor прийшло перше покоління Acura TL (1995-1998).",
+              "ru": "Acura TL первого поколения (1995-1998 гг.) пришла на смену модели Vigor.",
+              "zh": "第一代Acura TL（1995-1998）取代了Vigor车型。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "1995–1998",
+                "en": "1995–1998",
+                "de": "1995–1998",
+                "uk": "1995–1998",
+                "ru": "1995–1998"
+              },
+              "poprzednik": {
+                "pl": "Acura Vigor",
+                "en": "Acura Vigor",
+                "de": "Acura Vigor",
+                "uk": "Акура Вігор",
+                "ru": "Акура Вигор",
+                "zh": "讴歌活力"
+              },
+              "miejsce produkcji": {
+                "pl": "Sayama, Japonia",
+                "en": "Sayama, Japan",
+                "de": "Sayama, Japan",
+                "uk": "Саяма, Японія",
+                "ru": "Саяма, Япония",
+                "zh": "日本狭山"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/1999-01_Acura_TL.jpg/1280px-1999-01_Acura_TL.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/1999-01_Acura_TL.jpg/1280px-1999-01_Acura_TL.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/09_Acura_TL_.jpg/1280px-09_Acura_TL_.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/78/t5/oylw8fksk4c4k804ks4sw/tl-3.310.jpg"
+        }
+      },
+      {
+        "BrandID": 1,
+        "ModelID": 413009,
+        "Brand Name": "Acura",
+        "Model Name": "TL",
+        "Serie Name": "TL II",
+        "Years": "1998 - 2003",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "3.2L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja TL (1998-2003) bazowała na amerykańskiej wersji Hondy Accord i stała się bestsellerem.",
+              "en": "The second generation of the TL (1998-2003) was based on the American version of the Honda Accord and became a bestseller.",
+              "de": "Die zweite Generation des TL (1998–2003) basierte auf der amerikanischen Version des Honda Accord und wurde zum Bestseller.",
+              "uk": "Друге покоління TL (1998-2003) базувалося на американській версії Honda Accord і стало бестселером.",
+              "ru": "Второе поколение TL (1998-2003 гг.) было основано на американской версии Honda Accord и стало бестселлером.",
+              "zh": "第二代TL（1998-2003）是基于美国版本田雅阁开发的，并成为畅销车型。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "1998–2003",
+                "en": "1998–2003",
+                "de": "1998–2003",
+                "uk": "1998–2003",
+                "ru": "1998–2003"
+              },
+              "miejsce produkcji": {
+                "pl": "Marysville, USA",
+                "en": "Marysville, USA",
+                "de": "Marysville, USA",
+                "uk": "Мерісвіль, США",
+                "ru": "Мерисвилл, США",
+                "zh": "美国马里斯维尔"
+              },
+              "segment": {
+                "pl": "D",
+                "en": "D",
+                "de": "D",
+                "uk": "Д",
+                "ru": "Д"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/1999-01_Acura_TL.jpg/1280px-1999-01_Acura_TL.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/1999-01_Acura_TL.jpg/1280px-1999-01_Acura_TL.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/09_Acura_TL_.jpg/1280px-09_Acura_TL_.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/78/t5/oylw8fksk4c4k804ks4sw/tl-3.310.jpg"
+        }
+      },
+      {
+        "BrandID": 1,
+        "ModelID": 413010,
+        "Brand Name": "Acura",
+        "Model Name": "TL",
+        "Serie Name": "TL III",
+        "Years": "2003 - 2008",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "3.2L / 3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Acura TL III (2003-2008) wyróżniała się agresywnym designem i systemem DVD-Audio.",
+              "en": "Acura TL III (2003-2008) was distinguished by an aggressive design and a DVD-Audio system.",
+              "de": "Acura TL III (2003-2008) zeichnete sich durch ein aggressives Design und ein DVD-Audiosystem aus.",
+              "uk": "Acura TL III (2003-2008) відрізнявся агресивним дизайном і системою DVD-Audio.",
+              "ru": "Acura TL III (2003-2008) отличался агрессивным дизайном и системой DVD-Audio.",
+              "zh": "Acura TL III (2003-2008) 以其激进的设计和 DVD 音频系统而著称。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "2003–2008",
+                "en": "2003–2008",
+                "de": "2003–2008",
+                "uk": "2003–2008",
+                "ru": "2003–2008"
+              },
+              "silnik": {
+                "pl": "3.2L / 3.5L V6",
+                "en": "3.2L/3.5L V6",
+                "de": "3,2 l/3,5 l V6",
+                "uk": "3,2 л/3,5 л V6",
+                "ru": "3,2 л/3,5 л V6",
+                "zh": "3.2L/3.5L V6"
+              },
+              "napęd": {
+                "pl": "FWD",
+                "en": "FWD",
+                "de": "FWD",
+                "uk": "FWD",
+                "ru": "вперед"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/1999-01_Acura_TL.jpg/1280px-1999-01_Acura_TL.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/1999-01_Acura_TL.jpg/1280px-1999-01_Acura_TL.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/09_Acura_TL_.jpg/1280px-09_Acura_TL_.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/78/t5/oylw8fksk4c4k804ks4sw/tl-3.310.jpg"
+        }
+      },
+      {
+        "BrandID": 1,
+        "ModelID": 413011,
+        "Brand Name": "Acura",
+        "Model Name": "TL",
+        "Serie Name": "TL IV",
+        "Years": "2008 - 2014",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mainstream",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L / 3.7L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Czwarta generacja TL (2008-2014) wprowadziła styl \"Keen Edge\" i napęd SH-AWD.",
+              "en": "The fourth generation TL (2008-2014) introduced the \"Keen Edge\" styling and SH-AWD drive.",
+              "de": "Der TL der vierten Generation (2008–2014) führte das „Keen Edge“-Design und den SH-AWD-Antrieb ein.",
+              "uk": "Четверте покоління TL (2008-2014) представило стиль «Keen Edge» і привід SH-AWD.",
+              "ru": "TL четвертого поколения (2008–2014 гг.) представил стиль Keen Edge и привод SH-AWD.",
+              "zh": "第四代 TL（2008-2014）引入了“Keen Edge”造型和 SH-AWD 驱动装置。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "2008–2014",
+                "en": "2008–2014",
+                "de": "2008–2014",
+                "uk": "2008–2014",
+                "ru": "2008–2014"
+              },
+              "napęd": {
+                "pl": "FWD / SH-AWD",
+                "en": "FWD/SH-AWD",
+                "de": "FWD/SH-AWD",
+                "uk": "FWD/SH-AWD",
+                "ru": "ВПЕРЕД/SH-AWD",
+                "zh": "FWD/SH-AWD"
+              },
+              "następca": {
+                "pl": "Acura TLX",
+                "en": "Acura TLX",
+                "de": "Acura TLX",
+                "uk": "Acura TLX",
+                "ru": "Акура ТЛХ",
+                "zh": "讴歌TLX"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/1999-01_Acura_TL.jpg/1280px-1999-01_Acura_TL.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/1999-01_Acura_TL.jpg/1280px-1999-01_Acura_TL.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/09_Acura_TL_.jpg/1280px-09_Acura_TL_.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/78/t5/oylw8fksk4c4k804ks4sw/tl-3.310.jpg"
+        }
+      }
+    ],
+    "TLX": [
+      {
+        "BrandID": 1,
+        "ModelID": 416520,
+        "Brand Name": "Acura",
+        "Model Name": "TLX",
+        "Serie Name": "TLX I",
+        "Years": "2014 - 2020",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mainstream",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L / 3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Acura TLX (2014-2020) zastąpiła modele TL i TSX, łącząc komfort ze sportem.",
+              "en": "The Acura TLX (2014-2020) replaced the TL and TSX models, combining comfort with sport.",
+              "de": "Der Acura TLX (2014–2020) ersetzte die Modelle TL und TSX und kombiniert Komfort mit Sport.",
+              "uk": "Acura TLX (2014-2020) прийшла на зміну моделям TL і TSX, поєднавши комфорт і спорт.",
+              "ru": "Acura TLX (2014-2020) пришла на смену моделям TL и TSX, сочетая комфорт со спортом.",
+              "zh": "Acura TLX（2014-2020）取代了 TL 和 TSX 车型，将舒适性与运动性融为一体。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "2014–2020",
+                "en": "2014–2020",
+                "de": "2014–2020",
+                "uk": "2014–2020",
+                "ru": "2014–2020"
+              },
+              "poprzednik": {
+                "pl": "Acura TL / Acura TSX",
+                "en": "Acura TL / Acura TSX",
+                "de": "Acura TL / Acura TSX",
+                "uk": "Acura TL / Acura TSX",
+                "ru": "Акура ТЛ / Акура TSX",
+                "zh": "讴歌 TL / 讴歌 TSX"
+              },
+              "miejsce produkcji": {
+                "pl": "Marysville, USA",
+                "en": "Marysville, USA",
+                "de": "Marysville, USA",
+                "uk": "Мерісвіль, США",
+                "ru": "Мерисвилл, США",
+                "zh": "美国马里斯维尔"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2021_Acura_TLX_red.jpg/1280px-2021_Acura_TLX_red.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2021_Acura_TLX_red.jpg/1280px-2021_Acura_TLX_red.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2019_Acura_ILX%2C_front_8.25.19.jpg/1280px-2019_Acura_ILX%2C_front_8.25.19.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/2015_Acura_TLX_%28rear_right%29.jpg/1280px-2015_Acura_TLX_%28rear_right%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/2021_Acura_TLX_SH-AWD%2C_rear_4.1.21.jpg/1280px-2021_Acura_TLX_SH-AWD%2C_rear_4.1.21.jpg"
+            ]
+          }
+        }
+      },
+      {
+        "BrandID": 1,
+        "ModelID": 416521,
+        "Brand Name": "Acura",
+        "Model Name": "TLX",
+        "Serie Name": "TLX II",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mainstream",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L Turbo / 3.0L Turbo V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "5"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja TLX (od 2020) to sportowy sedan premium, przywracający wersję Type S.",
+              "en": "The second generation TLX (from 2020) is a premium sports sedan, bringing back the Type S version.",
+              "de": "Der TLX der zweiten Generation (ab 2020) ist eine Premium-Sportlimousine und bringt die Type S-Version zurück.",
+              "uk": "Друге покоління TLX (з 2020 року) — це преміальний спортивний седан, що повертає версію Type S.",
+              "ru": "Второе поколение TLX (с 2020 года) — спортивный седан премиум-класса, возвращающий версию Type S.",
+              "zh": "第二代 TLX（2020 年起）是一款高级运动轿车，带回了 Type S 版本。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "od 2020",
+                "en": "from 2020",
+                "de": "ab 2020",
+                "uk": "з 2020 року",
+                "ru": "с 2020 года",
+                "zh": "2020年起"
+              },
+              "silnik": {
+                "pl": "2.0L Turbo / 3.0L Turbo V6",
+                "en": "2.0L Turbo/3.0L Turbo V6",
+                "de": "2,0 l Turbo/3,0 l Turbo V6",
+                "uk": "2.0L Turbo/3.0L Turbo V6",
+                "ru": "2,0 л турбо/3,0 л турбо V6",
+                "zh": "2.0L涡轮增压/3.0L涡轮增压V6"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2021_Acura_TLX_red.jpg/1280px-2021_Acura_TLX_red.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2021_Acura_TLX_red.jpg/1280px-2021_Acura_TLX_red.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2019_Acura_ILX%2C_front_8.25.19.jpg/1280px-2019_Acura_ILX%2C_front_8.25.19.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/2015_Acura_TLX_%28rear_right%29.jpg/1280px-2015_Acura_TLX_%28rear_right%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/2021_Acura_TLX_SH-AWD%2C_rear_4.1.21.jpg/1280px-2021_Acura_TLX_SH-AWD%2C_rear_4.1.21.jpg"
+            ]
+          }
+        }
+      }
+    ],
+    "TSX": [
+      {
+        "BrandID": 1,
+        "ModelID": 413013,
+        "Brand Name": "Acura",
+        "Model Name": "TSX",
+        "Serie Name": "TSX I",
+        "Years": "2003 - 2008",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Acura TSX (2003-2008) była amerykańską wersją europejskiej Hondy Accord VII, cenioną za precyzję prowadzenia.",
+              "en": "The Acura TSX (2003-2008) was an American version of the European Honda Accord VII, appreciated for its precise driving.",
+              "de": "Der Acura TSX (2003–2008) war eine amerikanische Version des europäischen Honda Accord VII, die für ihr präzises Fahrverhalten geschätzt wurde.",
+              "uk": "Acura TSX (2003-2008) була американською версією європейської Honda Accord VII, яку цінували за точне водіння.",
+              "ru": "Acura TSX (2003–2008) была американской версией европейской Honda Accord VII, ценившейся за точность вождения.",
+              "zh": "Acura TSX（2003-2008）是欧洲本田 Accord VII 的美国版，因其精确的驾驶而受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "2003–2008",
+                "en": "2003–2008",
+                "de": "2003–2008",
+                "uk": "2003–2008",
+                "ru": "2003–2008"
+              },
+              "segment": {
+                "pl": "D",
+                "en": "D",
+                "de": "D",
+                "uk": "Д",
+                "ru": "Д"
+              },
+              "pokrewne": {
+                "pl": "Honda Accord (Europa)",
+                "en": "Honda Accord (Europe)",
+                "de": "Honda Accord (Europa)",
+                "uk": "Honda Accord (Європа)",
+                "ru": "Хонда Аккорд (Европа)",
+                "zh": "本田雅阁（欧洲）"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/HondaAccord-rear.jpg/1280px-HondaAccord-rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/HondaAccord-rear.jpg/1280px-HondaAccord-rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/d/da/MHV_Honda_Accord_02.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/2/24/HondaAccord1stinterior.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/a/a9/HondaAccordTypSY-1.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5x/9k/tp1yxn0osoc808ow8w8o8/tsx-2.310.jpg"
+        }
+      },
+      {
+        "BrandID": 1,
+        "ModelID": 413012,
+        "Brand Name": "Acura",
+        "Model Name": "TSX",
+        "Serie Name": "TSX II",
+        "Years": "2008 - 2014",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L / 3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja TSX (2008-2014) zyskała na rozmiarach i komforcie, a w 2011 roku gamę uzupełniła wersja Sport Wagon.",
+              "en": "The second generation of the TSX (2008-2014) increased in size and comfort, and in 2011 the Sport Wagon version complemented the range.",
+              "de": "Die zweite Generation des TSX (2008–2014) wuchs in Größe und Komfort, und 2011 ergänzte die Sport-Wagon-Version das Sortiment.",
+              "uk": "Друге покоління TSX (2008-2014) збільшилося в розмірах і комфорті, а в 2011 році модельний ряд поповнила версія Sport Wagon.",
+              "ru": "Второе поколение TSX (2008-2014) увеличилось в размерах и комфорте, а в 2011 году гамму дополнила версия Sport Wagon.",
+              "zh": "第二代 TSX（2008-2014）增加了尺寸和舒适度，2011 年运动旅行车版本补充了该系列。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "2008–2014",
+                "en": "2008–2014",
+                "de": "2008–2014",
+                "uk": "2008–2014",
+                "ru": "2008–2014"
+              },
+              "nadwozie": {
+                "pl": "Sedan, Kombi",
+                "en": "Sedan, Station wagon",
+                "de": "Limousine, Kombi",
+                "uk": "Седан, Універсал",
+                "ru": "Седан, Универсал",
+                "zh": "轿车、旅行车"
+              },
+              "następca": {
+                "pl": "Acura TLX",
+                "en": "Acura TLX",
+                "de": "Acura TLX",
+                "uk": "Acura TLX",
+                "ru": "Акура ТЛХ",
+                "zh": "讴歌TLX"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/HondaAccord-rear.jpg/1280px-HondaAccord-rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/HondaAccord-rear.jpg/1280px-HondaAccord-rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/d/da/MHV_Honda_Accord_02.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/2/24/HondaAccord1stinterior.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/a/a9/HondaAccordTypSY-1.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5x/9k/tp1yxn0osoc808ow8w8o8/tsx-2.310.jpg"
+        }
+      }
+    ],
+    "NSX": [
+      {
+        "BrandID": 1,
+        "ModelID": 416530,
+        "Brand Name": "Acura",
+        "Model Name": "NSX",
+        "Serie Name": "NSX I",
+        "Years": "1990 - 2005",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sport",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.0L / 3.2L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Acura NSX pierwszej generacji (1990-2005) to legenda motoryzacji. Pierwszy seryjny samochód z aluminiowym nadwoziem.",
+              "en": "The first generation Acura NSX (1990-2005) is an automotive legend. The first production car with an aluminum body.",
+              "de": "Der Acura NSX der ersten Generation (1990–2005) ist eine Automobillegende. Das erste Serienauto mit Aluminiumkarosserie.",
+              "uk": "Перше покоління Acura NSX (1990-2005) – легенда автомобілебудування. Перший серійний автомобіль з алюмінієвим кузовом.",
+              "ru": "Acura NSX первого поколения (1990-2005 гг.) – легенда автомобилестроения. Первый серийный автомобиль с алюминиевым кузовом.",
+              "zh": "第一代 Acura NSX（1990-2005）是汽车传奇。第一辆采用铝制车身的量产车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "1990–2005",
+                "en": "1990–2005",
+                "de": "1990–2005",
+                "uk": "1990–2005",
+                "ru": "1990–2005"
+              },
+              "silnik": {
+                "pl": "Centralny V6 VTEC",
+                "en": "Central V6 VTEC",
+                "de": "Zentraler V6 VTEC",
+                "uk": "Центральний V6 VTEC",
+                "ru": "Центральный V6 VTEC",
+                "zh": "中央V6 VTEC"
+              },
+              "miejsce produkcji": {
+                "pl": "Japonia",
+                "en": "Japan",
+                "de": "Japan",
+                "uk": "Японія",
+                "ru": "Япония"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Honda_NSX_typeIII.JPG/1280px-Honda_NSX_typeIII.JPG",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Honda_NSX_typeIII.JPG/1280px-Honda_NSX_typeIII.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Terenure%2C_Co._Dublin_-_Ireland_%285995345472%29.jpg/1280px-Terenure%2C_Co._Dublin_-_Ireland_%285995345472%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/NSXside.jpg/1280px-NSXside.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wn%C4%99trze_NSX.jpg/1280px-Wn%C4%99trze_NSX.jpg"
+            ]
+          }
+        }
+      },
+      {
+        "BrandID": 1,
+        "ModelID": 416531,
+        "Brand Name": "Acura",
+        "Model Name": "NSX",
+        "Serie Name": "NSX II",
+        "Years": "2016 - 2022",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sport",
+          "drive": "AWD",
+          "fuel": "Hybrid",
+          "engine": "3.5L Twin-Turbo V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja NSX (2016-2022) to hybrydowy supersamochód XXI wieku z napędem Sport Hybrid SH-AWD.",
+              "en": "The second generation of NSX (2016-2022) is a hybrid supercar of the 21st century with Sport Hybrid SH-AWD drive.",
+              "de": "Die zweite Generation des NSX (2016–2022) ist ein Hybrid-Supersportwagen des 21. Jahrhunderts mit Sport Hybrid SH-AWD-Antrieb.",
+              "uk": "Друге покоління NSX (2016-2022) — гібридний суперкар 21 століття з приводом Sport Hybrid SH-AWD.",
+              "ru": "Второе поколение NSX (2016-2022) — гибридный суперкар XXI века с приводом Sport Hybrid SH-AWD.",
+              "zh": "第二代 NSX（2016-2022 年）是一款 21 世纪的混合动力超级跑车，采用运动混合 SH-AWD 驱动系统。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "2016–2022",
+                "en": "2016–2022",
+                "de": "2016–2022",
+                "uk": "2016–2022",
+                "ru": "2016–2022"
+              },
+              "miejsce produkcji": {
+                "pl": "Marysville, USA",
+                "en": "Marysville, USA",
+                "de": "Marysville, USA",
+                "uk": "Мерісвіль, США",
+                "ru": "Мерисвилл, США",
+                "zh": "美国马里斯维尔"
+              },
+              "napęd": {
+                "pl": "Hybrydowy SH-AWD",
+                "en": "Hybrid SH-AWD",
+                "de": "Hybrid-SH-AWD",
+                "uk": "Гібрид SH-AWD",
+                "ru": "Гибридный SH-AWD",
+                "zh": "混合动力 SH-AWD"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Honda_NSX_typeIII.JPG/1280px-Honda_NSX_typeIII.JPG",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Honda_NSX_typeIII.JPG/1280px-Honda_NSX_typeIII.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Terenure%2C_Co._Dublin_-_Ireland_%285995345472%29.jpg/1280px-Terenure%2C_Co._Dublin_-_Ireland_%285995345472%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/NSXside.jpg/1280px-NSXside.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wn%C4%99trze_NSX.jpg/1280px-Wn%C4%99trze_NSX.jpg"
+            ]
+          }
+        }
+      }
+    ],
+    "ZDX": [
+      {
+        "BrandID": 1,
+        "ModelID": 13,
+        "Brand Name": "Acura",
+        "Model Name": "ZDX",
+        "Serie Name": "ZDX I",
+        "Years": "2009 - 2013",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mainstream",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "3.7L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Acura ZDX (2009-2013) była odważnym stylistycznie \"4-drzwiowym sportowym coupe\" na bazie SUV-a MDX.",
+              "en": "The Acura ZDX (2009-2013) was a boldly styled \"4-door sports coupe\" based on the MDX SUV.",
+              "de": "Der Acura ZDX (2009–2013) war ein kühn gestaltetes „viertüriges Sportcoupé“ auf Basis des MDX-SUV.",
+              "uk": "Acura ZDX (2009-2013) було сміливо оформленим «4-дверним спортивним купе» на основі позашляховика MDX.",
+              "ru": "Acura ZDX (2009–2013) представлял собой смелое «4-дверное спортивное купе», созданное на базе внедорожника MDX.",
+              "zh": "讴歌ZDX（2009-2013）是一款基于MDX SUV、风格大胆的“四门运动轿跑车”。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "2009–2013",
+                "en": "2009–2013",
+                "de": "2009–2013",
+                "uk": "2009–2013",
+                "ru": "2009–2013"
+              },
+              "projektant": {
+                "pl": "Michelle Christensen",
+                "en": "Michelle Christensen",
+                "de": "Michelle Christensen",
+                "uk": "Мішель Крістенсен",
+                "ru": "Мишель Кристенсен",
+                "zh": "米歇尔·克里斯滕森"
+              },
+              "segment": {
+                "pl": "E (Crossover Coupe)",
+                "en": "E (Crossover Coupe)",
+                "de": "E (Crossover-Coupé)",
+                "uk": "E (кросовер купе)",
+                "ru": "E (Кроссовер-купе)",
+                "zh": "E（跨界轿跑车）"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 1,
+        "ModelID": 416540,
+        "Brand Name": "Acura",
+        "Model Name": "ZDX",
+        "Serie Name": "ZDX II",
+        "Years": "2024 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mainstream",
+          "drive": "RWD/AWD",
+          "fuel": "Electric",
+          "engine": "Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "5"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja ZDX (od 2024) to pierwszy w pełni elektryczny SUV marki, powstały we współpracy z GM.",
+              "en": "The second generation ZDX (from 2024) is the brand's first fully electric SUV, created in cooperation with GM.",
+              "de": "Der ZDX der zweiten Generation (ab 2024) ist das erste vollelektrische SUV der Marke, das in Zusammenarbeit mit GM entstanden ist.",
+              "uk": "Друге покоління ZDX (з 2024 року) — перший повністю електричний SUV бренду, створений у співпраці з GM.",
+              "ru": "ZDX второго поколения (с 2024 года) — первый полностью электрический внедорожник марки, созданный в сотрудничестве с GM.",
+              "zh": "第二代 ZDX（2024 年起）是该品牌首款全电动 SUV，与通用汽车合作打造。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Acura",
+                "en": "Acura",
+                "de": "Acura",
+                "uk": "Acura",
+                "ru": "Акура"
+              },
+              "okres produkcji": {
+                "pl": "od 2024",
+                "en": "from 2024",
+                "de": "ab 2024",
+                "uk": "з 2024 року",
+                "ru": "с 2024 года",
+                "zh": "2024年起"
+              },
+              "napęd": {
+                "pl": "Elektryczny",
+                "en": "Electric",
+                "de": "Elektrisch",
+                "uk": "Електричний",
+                "ru": "Электрический"
+              },
+              "platforma": {
+                "pl": "GM Ultium",
+                "en": "GM Ultium",
+                "de": "GM Ultium",
+                "uk": "GM Ultium",
+                "ru": "ГМ Ультиум",
+                "zh": "通用汽车终极"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

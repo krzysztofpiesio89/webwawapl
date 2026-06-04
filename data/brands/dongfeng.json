@@ -1,0 +1,412 @@
+{
+  "brand": "Dongfeng",
+  "models": {
+    "AX7": [
+      {
+        "BrandID": 196,
+        "ModelID": 415513,
+        "Brand Name": "Dongfeng",
+        "Model Name": "AX7",
+        "Serie Name": "Aeolus AX7",
+        "Years": "2014 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.4L Turbo / 1.5L Turbo / 2.0L / 2.3L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dongfeng Aeolus AX7 to nowoczesny SUV korzystający z technologii PSA (silniki i platforma), oferujący bogate wyposażenie i przestronne wnętrze.",
+              "en": "Dongfeng Aeolus AX7 is a modern SUV using PSA technology (engines and platform), offering rich equipment and a spacious interior.",
+              "de": "Der Dongfeng Aeolus AX7 ist ein moderner SUV mit PSA-Technologie (Motoren und Plattform), der eine reichhaltige Ausstattung und einen geräumigen Innenraum bietet.",
+              "uk": "Dongfeng Aeolus AX7 – це сучасний позашляховик, що використовує технологію PSA (двигуни та платформа), пропонує багате оснащення та просторий салон.",
+              "ru": "Dongfeng Aeolus AX7 — современный внедорожник, использующий технологию PSA (двигатели и платформа), предлагающий богатое оснащение и просторный салон.",
+              "zh": "东风风神AX7是一款采用PSA技术（发动机和平台）的现代SUV，提供丰富的装备和宽敞的内部空间。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dongfeng Motor",
+                "en": "Dongfeng Motor",
+                "de": "Dongfeng Motor",
+                "uk": "Dongfeng Motor",
+                "ru": "Dongfeng Motor",
+                "zh": "东风汽车"
+              },
+              "okres produkcji": {
+                "pl": "od 2014",
+                "en": "from 2014",
+                "de": "von 2014",
+                "uk": "з 2014 року",
+                "ru": "2014 г.",
+                "zh": "自2014年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Wuhan, Chiny",
+                "en": "Wuhan, China",
+                "de": "Wuhan, China",
+                "uk": "Ухань, Китай",
+                "ru": "Ухань, Китай",
+                "zh": "中国武汉"
+              },
+              "platforma": {
+                "pl": "PSA PF3",
+                "en": "PSA PF3",
+                "de": "PSA PF3",
+                "uk": "PSA PF3",
+                "ru": "PSA PF3",
+                "zh": "PSA PF3"
+              },
+              "silnik": {
+                "pl": "1.4L Turbo - 2.3L",
+                "en": "1.4L Turbo - 2.3L",
+                "de": "1,4L Turbo - 2,3L",
+                "uk": "1.4L Turbo - 2.3L",
+                "ru": "1.4L Turbo — 2.3L",
+                "zh": "1.4L 涡轮增压 - 2.3L"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Fengon 580": [
+      {
+        "BrandID": 196,
+        "ModelID": 416770,
+        "Brand Name": "Dongfeng",
+        "Model Name": "Fengon 580",
+        "Serie Name": "Fengon 580",
+        "Years": "2016 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L Turbo / 1.8L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dongfeng Fengon 580 to przestronny, 7-osobowy SUV, popularny w Chinach i na rynkach eksportowych (jako Glory 580) dzięki atrakcyjnej cenie.",
+              "en": "Dongfeng Fengon 580 is a spacious, 7-seater SUV, popular in China and on export markets (as Glory 580) thanks to its attractive price.",
+              "de": "Dongfeng Fengon 580 ist ein geräumiger 7-Sitzer-SUV, der in China und auf Exportmärkten (als Glory 580) dank seines attraktiven Preises beliebt ist.",
+              "uk": "Dongfeng Fengon 580 — просторий 7-місний позашляховик, популярний у Китаї та на експортних ринках (як Glory 580) завдяки привабливій ціні.",
+              "ru": "Dongfeng Fengon 580 — просторный 7-местный внедорожник, популярный в Китае и на экспортных рынках (как Glory 580) благодаря привлекательной цене.",
+              "zh": "东风风昂 580 是一款宽敞的 7 座 SUV，因其极具吸引力的价格而在中国和出口市场（如荣耀 580）广受欢迎。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dongfeng Sokon (DFSK)",
+                "en": "Dongfeng Sokon (DFSK)",
+                "de": "Dongfeng Sokon (DFSK)",
+                "uk": "Dongfeng Sokon (DFSK)",
+                "ru": "Dongfeng Sokon (DFSK)",
+                "zh": "东风小康 (DFSK)"
+              },
+              "okres produkcji": {
+                "pl": "od 2016",
+                "en": "from 2016",
+                "de": "ab 2016",
+                "uk": "з 2016 року",
+                "ru": "с 2016 г.",
+                "zh": "自2016年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Chongqing, Chiny",
+                "en": "Chongqing, China",
+                "de": "Chongqing, China",
+                "uk": "Чунцин, Китай",
+                "ru": "Чунцин, Китай",
+                "zh": "中国重庆"
+              },
+              "platforma": {
+                "pl": "DFSK Platform",
+                "en": "DFSK Platform",
+                "de": "DFSK-Plattform",
+                "uk": "Платформа DFSK",
+                "ru": "Платформа DFSK",
+                "zh": "东风键控平台"
+              },
+              "silnik": {
+                "pl": "1.5L Turbo / 1.8L",
+                "en": "1.5L Turbo / 1.8L",
+                "de": "1,5L Turbo / 1,8L",
+                "uk": "1,5 л з турбонаддувом / 1,8 л",
+                "ru": "1,5 л Turbo / 1,8 л",
+                "zh": "1.5L 涡轮增压 / 1.8L"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "H30 Cross": [
+      {
+        "BrandID": 196,
+        "ModelID": 415515,
+        "Brand Name": "Dongfeng",
+        "Model Name": "H30 Cross",
+        "Serie Name": "H30 Cross",
+        "Years": "2010 - 2017",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Crossover Hatchback",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L / 1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dongfeng H30 Cross to uterenowiona wersja hatchbacka H30, oparta na technologii Citroëna ZX/Elysee, oferująca wyższy prześwit i plastikowe osłony.",
+              "en": "The Dongfeng H30 Cross is an off-road version of the H30 hatchback, based on Citroën ZX/Elysee technology, offering higher ground clearance and plastic covers.",
+              "de": "Der Dongfeng H30 Cross ist eine Offroad-Version des H30-Schrägheckmodells, basierend auf der Citroën ZX/Elysee-Technologie, mit größerer Bodenfreiheit und Kunststoffabdeckungen.",
+              "uk": "Dongfeng H30 Cross — це позашляхова версія хетчбека H30, заснована на технології Citroën ZX/Elysee, яка пропонує вищий кліренс і пластикові кришки.",
+              "ru": "Dongfeng H30 Cross — внедорожная версия хэтчбека H30, созданная на основе технологии Citroën ZX/Elysee, с увеличенным дорожным просветом и пластиковыми кожухами.",
+              "zh": "东风H30 Cross是H30掀背车的越野版，基于雪铁龙ZX/爱丽舍技术，提供更高的离地间隙和塑料盖。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dongfeng Motor",
+                "en": "Dongfeng Motor",
+                "de": "Dongfeng Motor",
+                "uk": "Dongfeng Motor",
+                "ru": "Dongfeng Motor",
+                "zh": "东风汽车"
+              },
+              "okres produkcji": "2010–2017",
+              "miejsce produkcji": {
+                "pl": "Wuhan, Chiny",
+                "en": "Wuhan, China",
+                "de": "Wuhan, China",
+                "uk": "Ухань, Китай",
+                "ru": "Ухань, Китай",
+                "zh": "中国武汉"
+              },
+              "platforma": {
+                "pl": "PSA ZX",
+                "en": "PSA ZX",
+                "de": "PSA ZX",
+                "uk": "PSA ZX",
+                "ru": "PSA ZX",
+                "zh": "PSA ZX"
+              },
+              "silnik": {
+                "pl": "1.5L / 1.6L",
+                "en": "1.5L / 1.6L",
+                "de": "1,5 l / 1,6 l",
+                "uk": "1.5L / 1.6L",
+                "ru": "1,5 л/1,6 л",
+                "zh": "1.5升/1.6升"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Nano Box": [
+      {
+        "BrandID": 196,
+        "ModelID": 416771,
+        "Brand Name": "Dongfeng",
+        "Model Name": "Nano Box",
+        "Serie Name": "Nano Box",
+        "Years": "2022 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Small Electric SUV",
+          "drive": "FWD",
+          "fuel": "Electric",
+          "engine": "Electric (45 hp)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dongfeng Nano Box to miejski elektryczny crossover, bliźniak Dacii Spring i Renault City K-ZE, oferujący zwrotność i niskie koszty eksploatacji.",
+              "en": "Dongfeng Nano Box is an urban electric crossover, a twin of the Dacia Spring and Renault City K-ZE, offering maneuverability and low operating costs.",
+              "de": "Dongfeng Nano Box ist ein städtischer Elektro-Crossover, ein Zwilling des Dacia Spring und des Renault City K-ZE, der Manövrierfähigkeit und niedrige Betriebskosten bietet.",
+              "uk": "Dongfeng Nano Box — це міський електричний кросовер, двійник Dacia Spring і Renault City K-ZE, який пропонує маневреність і низькі експлуатаційні витрати.",
+              "ru": "Dongfeng Nano Box — городской электрический кроссовер, близнец Dacia Spring и Renault City K-ZE, предлагающий маневренность и низкие эксплуатационные расходы.",
+              "zh": "东风 Nano Box 是一款城市电动跨界车，是达契亚 Spring 和雷诺 City K-ZE 的双胞胎，具有机动性和较低的运营成本。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dongfeng EV",
+                "en": "Dongfeng EV",
+                "de": "Dongfeng EV",
+                "uk": "Dongfeng EV",
+                "ru": "Dongfeng EV",
+                "zh": "东风电动汽车"
+              },
+              "okres produkcji": {
+                "pl": "od 2022",
+                "en": "from 2022",
+                "de": "ab 2022",
+                "uk": "з 2022 року",
+                "ru": "с 2022 года",
+                "zh": "2022年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Shiyan, Chiny",
+                "en": "Shiyan, China",
+                "de": "Shiyan, China",
+                "uk": "Шиян, Китай",
+                "ru": "Шиян, Китай",
+                "zh": "中国十堰"
+              },
+              "platforma": {
+                "pl": "CMF-A EV",
+                "en": "CMF-A EV",
+                "de": "CMF-A EV",
+                "uk": "CMF-A EV",
+                "ru": "CMF-A EV",
+                "zh": "CMF-A电动车"
+              },
+              "silnik": {
+                "pl": "Electric (45 hp)",
+                "en": "Electric (45 hp)",
+                "de": "Elektro (45 PS)",
+                "uk": "Електричний (45 к.с.)",
+                "ru": "Electric (45 л.с.)",
+                "zh": "电动（45 马力）"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Rich": [
+      {
+        "BrandID": 196,
+        "ModelID": 416772,
+        "Brand Name": "Dongfeng",
+        "Model Name": "Rich",
+        "Serie Name": "Rich 6",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Mid-size Pickup",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel/Electric",
+          "engine": "2.4L / 2.5L Diesel / Electric",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Dongfeng Rich 6 to solidny pickup oparty na Nissanie Navara (D23), sprawdzony w trudnych warunkach roboczych, dostępny również w wersji elektrycznej.",
+              "en": "Dongfeng Rich 6 is a solid pickup based on the Nissan Navara (D23), proven in difficult working conditions, also available in an electric version.",
+              "de": "Dongfeng Rich 6 ist ein solider Pickup auf Basis des Nissan Navara (D23), der sich unter schwierigen Arbeitsbedingungen bewährt hat und auch in einer Elektroversion erhältlich ist.",
+              "uk": "Dongfeng Rich 6 — міцний пікап на базі Nissan Navara (D23), перевірений у складних умовах роботи, також доступний у електричній версії.",
+              "ru": "Dongfeng Rich 6 — добротный пикап на базе Nissan Navara (D23), зарекомендовавший себя в сложных условиях работы, также доступен в электрической версии.",
+              "zh": "东风瑞驰 6 是一款基于日产 Navara (D23) 打造的坚固皮卡，经过了恶劣工况的考验，同时还提供电动版本。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Zhengzhou Nissan",
+                "en": "Zhengzhou Nissan",
+                "de": "Zhengzhou Nissan",
+                "uk": "Zhengzhou Nissan",
+                "ru": "Чжэнчжоу Ниссан",
+                "zh": "郑州日产"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "from 2018",
+                "de": "ab 2018",
+                "uk": "з 2018 р.",
+                "ru": "с 2018 г.",
+                "zh": "2018年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Zhengzhou, Chiny",
+                "en": "Zhengzhou, China",
+                "de": "Zhengzhou, China",
+                "uk": "Чженчжоу, Китай",
+                "ru": "Чжэнчжоу, Китай",
+                "zh": "中国郑州"
+              },
+              "platforma": {
+                "pl": "Nissan F-Alpha",
+                "en": "Nissan F-Alpha",
+                "de": "Nissan F-Alpha",
+                "uk": "Nissan F-Alpha",
+                "ru": "Nissan F-Alpha",
+                "zh": "日产 F-Alpha"
+              },
+              "silnik": {
+                "pl": "2.4L / 2.5L Diesel",
+                "en": "2.4L / 2.5L Diesel",
+                "de": "2,4L / 2,5L Diesel",
+                "uk": "2.4L / 2.5L Diesel",
+                "ru": "2,4 л/2,5 л Дизель",
+                "zh": "2.4L / 2.5L 柴油"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "S30": [
+      {
+        "BrandID": 196,
+        "ModelID": 416773,
+        "Brand Name": "Dongfeng",
+        "Model Name": "S30",
+        "Serie Name": "S30",
+        "Years": "2009 - 2017",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Compact Sedan",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dongfeng S30 to kompaktowy sedan bazujący na platformie PSA, znany z prostej konstrukcji i trwałości, popularny jako taksówka.",
+              "en": "Dongfeng S30 is a compact sedan based on the PSA platform, known for its simple design and durability, popular as a taxi.",
+              "de": "Dongfeng S30 ist eine kompakte Limousine auf Basis der PSA-Plattform, bekannt für ihr schlichtes Design und ihre Langlebigkeit, beliebt als Taxi.",
+              "uk": "Dongfeng S30 — компактний седан на платформі PSA, відомий своїм простим дизайном і міцністю, популярний як таксі.",
+              "ru": "Dongfeng S30 — компактный седан на платформе PSA, известный своим простым дизайном и долговечностью, популярный в качестве такси.",
+              "zh": "东风 S30 是一款基于 PSA 平台的紧凑型轿车，以简洁的设计和耐用性着称，作为出租车广受欢迎。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dongfeng Motor",
+                "en": "Dongfeng Motor",
+                "de": "Dongfeng Motor",
+                "uk": "Dongfeng Motor",
+                "ru": "Dongfeng Motor",
+                "zh": "东风汽车"
+              },
+              "okres produkcji": "2009–2017",
+              "miejsce produkcji": {
+                "pl": "Wuhan, Chiny",
+                "en": "Wuhan, China",
+                "de": "Wuhan, China",
+                "uk": "Ухань, Китай",
+                "ru": "Ухань, Китай",
+                "zh": "中国武汉"
+              },
+              "platforma": {
+                "pl": "PSA ZX",
+                "en": "PSA ZX",
+                "de": "PSA ZX",
+                "uk": "PSA ZX",
+                "ru": "PSA ZX",
+                "zh": "PSA ZX"
+              },
+              "silnik": {
+                "pl": "1.6L"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

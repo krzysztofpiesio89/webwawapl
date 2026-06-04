@@ -1,0 +1,319 @@
+{
+  "brand": "Genesis",
+  "models": {
+    "G70": [
+      {
+        "BrandID": 189,
+        "ModelID": 415329,
+        "Brand Name": "Genesis",
+        "Model Name": "G70",
+        "Serie Name": "G70",
+        "Years": "2017 - 3000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Compact Executive",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L Turbo / 3.3L Twin-Turbo V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Genesis G70 to sportowy sedan klasy premium, stworzony, by konkurować z BMW serii 3. Wyróżnia się dynamicznym prowadzeniem, luksusowym wykończeniem i zdobył tytuł North American Car of the Year 2019.",
+              "en": "The Genesis G70 is a premium sports sedan designed to compete with the BMW 3 Series. It boasts dynamic handling, luxurious finishes, and won the 2019 North American Car of the Year title.",
+              "de": "Der Genesis G70 ist eine Premium-Sportlimousine, die als Konkurrenz zum BMW 3er konzipiert wurde. Es zeichnet sich durch dynamisches Handling und luxuriöse Oberflächen aus und gewann den Titel „Nordamerikanisches Auto des Jahres 2019“.",
+              "uk": "Genesis G70 — це спортивний седан преміум-класу, створений для конкуренції з BMW 3 серії. Він може похвалитися динамічною керованістю, розкішною обробкою та виграв титул «Автомобіль року в Північній Америці» 2019 року.",
+              "ru": "Genesis G70 — спортивный седан премиум-класса, созданный для конкуренции с BMW 3 серии. Он может похвастаться динамичным управлением, роскошной отделкой и завоевал титул «Автомобиль года в Северной Америке 2019 года».",
+              "zh": "Genesis G70 是一款高级运动轿车，旨在与 BMW 3 系竞争。它以其动感的操控性、豪华的外观而脱颖而出，荣获 2019 北美年度汽车称号。"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 189,
+        "ModelID": 416840,
+        "Brand Name": "Genesis",
+        "Model Name": "G70",
+        "Serie Name": "G70 Shooting Brake",
+        "Years": "2021 - 3000",
+        "specs": {
+          "bodyType": "Wagon",
+          "segment": "Compact Executive",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L Turbo / 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Genesis_G70_2.0T_Sport_IK_Platinum_Silver_%289%29_%28cropped%29.jpg/1280px-Genesis_G70_2.0T_Sport_IK_Platinum_Silver_%289%29_%28cropped%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Genesis_G70_2.0T_Sport_IK_Platinum_Silver_%289%29_%28cropped%29.jpg/1280px-Genesis_G70_2.0T_Sport_IK_Platinum_Silver_%289%29_%28cropped%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Genesis_G70_Facelift_Classic-Gala_2022_1X7A0089.jpg/1280px-Genesis_G70_Facelift_Classic-Gala_2022_1X7A0089.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Genesis_G70_Facelift_1X7A5728.jpg/1280px-Genesis_G70_Facelift_1X7A5728.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Genesis_G70_Shooting_Brake_1X7A5747.jpg/1280px-Genesis_G70_Shooting_Brake_1X7A5747.jpg"
+            ],
+            "description": {
+              "pl": "Genesis G70 Shooting Brake to eleganckie kombi, łączące sportowy charakter sedana z większą praktycznością. Model ten został zaprojektowany specjalnie z myślą o rynku europejskim.",
+              "en": "The Genesis G70 Shooting Brake is an elegant wagon that combines the sporty character of a sedan with greater practicality. This model was designed specifically for the European market.",
+              "de": "Der Genesis G70 Shooting Brake ist ein eleganter Kombi, der den sportlichen Charakter einer Limousine mit mehr Praktikabilität verbindet. Dieses Modell wurde speziell für den europäischen Markt entwickelt.",
+              "uk": "Genesis G70 Shooting Brake — це елегантний універсал, який поєднує в собі спортивний характер седана з більшою практичністю. Ця модель розроблена спеціально для європейського ринку.",
+              "ru": "Genesis G70 Shooting Brake — элегантный универсал, сочетающий в себе спортивный характер седана с большей практичностью. Эта модель была разработана специально для европейского рынка.",
+              "zh": "Genesis G70 Shooting Brake 是一款优雅的旅行车，结合了轿车的运动特性和更大的实用性。该型号专为欧洲市场设计。"
+            }
+          }
+        }
+      }
+    ],
+    "G80": [
+      {
+        "BrandID": 189,
+        "ModelID": 415331,
+        "Brand Name": "Genesis",
+        "Model Name": "G80",
+        "Serie Name": "G80 Gen 1 (DH)",
+        "Years": "2016 - 2020",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Executive Car",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.3L V6 / 3.8L V6 / 5.0L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/0_Genesis_G80_%28DH%29_11.jpg/1280px-0_Genesis_G80_%28DH%29_11.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/0_Genesis_G80_%28DH%29_11.jpg/1280px-0_Genesis_G80_%28DH%29_11.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2019_Genesis_G80_3.8_HTrac%2C_front_3.11.20.jpg/1280px-2019_Genesis_G80_3.8_HTrac%2C_front_3.11.20.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/2019_Genesis_G80_3.8_HTrac%2C_rear_3.11.20.jpg/1280px-2019_Genesis_G80_3.8_HTrac%2C_rear_3.11.20.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/2021_Genesis_G80_2.5T_AWD_in_Uyuni_White%2C_rear_right.jpg/1280px-2021_Genesis_G80_2.5T_AWD_in_Uyuni_White%2C_rear_right.jpg"
+            ],
+            "description": {
+              "pl": "Genesis G80 to luksusowa limuzyna, która zdefiniowała styl marki. Pierwsza generacja (wcześniej Hyundai Genesis) oferowała przestrzeń i komfort na poziomie aut wyższej klasy w atrakcyjnej cenie.",
+              "en": "Genesis G80 is a luxury limousine that defined the brand's style. The first generation (formerly Hyundai Genesis) offered space and comfort at the level of higher-class cars at an attractive price.",
+              "de": "Genesis G80 ist eine Luxuslimousine, die den Stil der Marke definiert hat. Die erste Generation (ehemals Hyundai Genesis) bot Platz und Komfort auf dem Niveau höherklassiger Autos zu einem attraktiven Preis.",
+              "uk": "Genesis G80 — розкішний лімузин, який визначив стиль бренду. Перше покоління (раніше Hyundai Genesis) пропонувало простір і комфорт на рівні автомобілів вищого класу за привабливою ціною.",
+              "ru": "Genesis G80 — роскошный лимузин, определивший стиль бренда. Первое поколение (ранее Hyundai Genesis) предлагало простор и комфорт на уровне автомобилей более высокого класса по привлекательной цене.",
+              "zh": "Genesis G80 是一款定义了该品牌风格的豪华轿车。第一代（原现代捷恩斯）以极具吸引力的价格提供了高级汽车水平的空间和舒适性。"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 189,
+        "ModelID": 416841,
+        "Brand Name": "Genesis",
+        "Model Name": "G80",
+        "Serie Name": "G80 Gen 2 (RG3)",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Executive Car",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Electric",
+          "engine": "2.5L Turbo / 3.5L Twin-Turbo V6 / Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "5"
+            }
+          },
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/0_Genesis_G80_%28DH%29_11.jpg/1280px-0_Genesis_G80_%28DH%29_11.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/0_Genesis_G80_%28DH%29_11.jpg/1280px-0_Genesis_G80_%28DH%29_11.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2019_Genesis_G80_3.8_HTrac%2C_front_3.11.20.jpg/1280px-2019_Genesis_G80_3.8_HTrac%2C_front_3.11.20.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/2019_Genesis_G80_3.8_HTrac%2C_rear_3.11.20.jpg/1280px-2019_Genesis_G80_3.8_HTrac%2C_rear_3.11.20.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/2021_Genesis_G80_2.5T_AWD_in_Uyuni_White%2C_rear_right.jpg/1280px-2021_Genesis_G80_2.5T_AWD_in_Uyuni_White%2C_rear_right.jpg"
+            ],
+            "description": {
+              "pl": "Druga generacja Genesis G80 to popis designu 'Athletic Elegance'. Imponuje sylwetką w stylu fastback, najwyższej jakości materiałami i zaawansowaną technologią, rzucając wyzwanie niemieckiej konkurencji.",
+              "en": "The second generation of Genesis G80 is a showcase of 'Athletic Elegance' design. It impresses with its fastback silhouette, top-quality materials and advanced technology, challenging the German competition.",
+              "de": "Die zweite Generation des Genesis G80 ist ein Paradebeispiel für „athletisches Eleganz“-Design. Es beeindruckt mit seiner Fastback-Silhouette, hochwertigen Materialien und fortschrittlicher Technologie und fordert die deutsche Konkurrenz heraus.",
+              "uk": "Друге покоління Genesis G80 є демонстрацією дизайну «Спортивна елегантність». Він вражає своїм фастбек силуетом, високоякісними матеріалами та передовими технологіями, кидаючи виклик німецькій конкуренції.",
+              "ru": "Второе поколение Genesis G80 представляет собой образец дизайна «спортивной элегантности». Он впечатляет своим силуэтом в стиле фастбэк, высококачественными материалами и передовыми технологиями, бросая вызов немецким конкурентам.",
+              "zh": "第二代Genesis G80是“运动优雅”设计的典范。它以其溜背式轮廓、优质材料和先进技术令人印象深刻，挑战德国竞争对手。"
+            }
+          }
+        }
+      }
+    ],
+    "G90": [
+      {
+        "BrandID": 189,
+        "ModelID": 415333,
+        "Brand Name": "Genesis",
+        "Model Name": "G90",
+        "Serie Name": "G90 Gen 1 (HI)",
+        "Years": "2016 - 2021",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.3L Twin-Turbo V6 / 5.0L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2017_Genesis_G90_Premium_3.3L_rear_5.18.19.jpg/1280px-2017_Genesis_G90_Premium_3.3L_rear_5.18.19.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2017_Genesis_G90_Premium_3.3L_rear_5.18.19.jpg/1280px-2017_Genesis_G90_Premium_3.3L_rear_5.18.19.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Genesis_EQ900L_%28G90L%29_HI_black_%281%29.jpg/1280px-Genesis_EQ900L_%28G90L%29_HI_black_%281%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Genesis_EQ900L_%28G90L%29_HI_black_%282%29.jpg/1280px-Genesis_EQ900L_%28G90L%29_HI_black_%282%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/2020_Genesis_G90_3.3T_%28facelift%29_%282%29%2C_front_1.23.20.jpg/1280px-2020_Genesis_G90_3.3T_%28facelift%29_%282%29%2C_front_1.23.20.jpg"
+            ],
+            "description": {
+              "pl": "Genesis G90 to flagowa limuzyna marki, uosobienie koreańskiego luksusu. Oferuje podróż w absolutnej ciszy i komforcie, konkurując z Mercedesem Klasy S.",
+              "en": "Genesis G90 is the brand's flagship limousine, the epitome of Korean luxury. It offers a journey in absolute silence and comfort, competing with the Mercedes S-Class.",
+              "de": "Genesis G90 ist die Flaggschiff-Limousine der Marke, der Inbegriff koreanischen Luxus. Es bietet eine Fahrt in absoluter Stille und Komfort und konkurriert damit mit der Mercedes S-Klasse.",
+              "uk": "Genesis G90 — флагманський лімузин бренду, втілення корейської розкоші. Він пропонує подорож в абсолютній тиші та комфорті, конкуруючи з Mercedes S-Class.",
+              "ru": "Genesis G90 — флагманский лимузин бренда, воплощение корейской роскоши. Он предлагает путешествие в абсолютной тишине и комфорте, конкурируя с Mercedes S-Class.",
+              "zh": "Genesis G90是该品牌的旗舰豪华轿车，是韩国奢华的缩影。它提供绝对安静和舒适的旅程，可与梅赛德斯 S 级轿车竞争。"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 189,
+        "ModelID": 415334,
+        "Brand Name": "Genesis",
+        "Model Name": "G90",
+        "Serie Name": "G90 Gen 2 (RS4)",
+        "Years": "2022 - 3000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L Twin-Turbo V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2017_Genesis_G90_Premium_3.3L_rear_5.18.19.jpg/1280px-2017_Genesis_G90_Premium_3.3L_rear_5.18.19.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2017_Genesis_G90_Premium_3.3L_rear_5.18.19.jpg/1280px-2017_Genesis_G90_Premium_3.3L_rear_5.18.19.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Genesis_EQ900L_%28G90L%29_HI_black_%281%29.jpg/1280px-Genesis_EQ900L_%28G90L%29_HI_black_%281%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Genesis_EQ900L_%28G90L%29_HI_black_%282%29.jpg/1280px-Genesis_EQ900L_%28G90L%29_HI_black_%282%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/2020_Genesis_G90_3.3T_%28facelift%29_%282%29%2C_front_1.23.20.jpg/1280px-2020_Genesis_G90_3.3T_%28facelift%29_%282%29%2C_front_1.23.20.jpg"
+            ],
+            "description": {
+              "pl": "Nowy Genesis G90 przenosi luksus na wyższy poziom dzięki futurystycznemu designowi i innowacjom technologicznym, takim jak system Easy Close Door czy zawieszenie pneumatyczne nowej generacji.",
+              "en": "The new Genesis G90 takes luxury to the next level thanks to its futuristic design and technological innovations such as the Easy Close Door system and the next-generation air suspension.",
+              "de": "Der neue Genesis G90 hebt Luxus dank seines futuristischen Designs und technologischer Innovationen wie dem Easy-Close-Door-System und der Luftfederung der nächsten Generation auf ein neues Niveau.",
+              "uk": "Новий Genesis G90 виводить розкіш на новий рівень завдяки своєму футуристичному дизайну та технологічним інноваціям, таким як система Easy Close Door і пневматична підвіска нового покоління.",
+              "ru": "Новый Genesis G90 выводит роскошь на новый уровень благодаря своему футуристическому дизайну и технологическим инновациям, таким как система Easy Close Door и пневматическая подвеска нового поколения.",
+              "zh": "新款 Genesis G90 凭借未来派设计和 Easy Close Door 系统和新一代空气悬架等技术创新，将奢华提升到了一个新的水平。"
+            }
+          }
+        }
+      }
+    ],
+    "GV60": [
+      {
+        "BrandID": 189,
+        "ModelID": 416842,
+        "Brand Name": "Genesis",
+        "Model Name": "GV60",
+        "Serie Name": "GV60",
+        "Years": "2021 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact Electric Crossover",
+          "drive": "RWD/AWD",
+          "fuel": "Electric",
+          "engine": "Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Genesis GV60 to pierwszy model marki zbudowany na dedykowanej platformie elektrycznej E-GMP. Wyróżnia się 'kryształową kulą' (Crystal Sphere) do wyboru biegów i funkcją rozpoznawania twarzy.",
+              "en": "Genesis GV60 is the brand's first model built on the dedicated E-GMP electric platform. It is distinguished by a 'Crystal Sphere' for gear selection and a facial recognition function.",
+              "de": "Genesis GV60 ist das erste Modell der Marke, das auf der speziellen E-GMP-Elektroplattform basiert. Es zeichnet sich durch eine „Crystal Sphere“ zur Gangwahl und eine Gesichtserkennungsfunktion aus.",
+              "uk": "Genesis GV60 — перша модель бренду, побудована на спеціальній електричній платформі E-GMP. Він відрізняється «кришталевою сферою» для вибору передач і функцією розпізнавання обличчя.",
+              "ru": "Genesis GV60 — первая модель бренда, построенная на специальной электрической платформе E-GMP. Его отличают «Хрустальная сфера» для выбора передач и функция распознавания лиц.",
+              "zh": "Genesis GV60是该品牌首款基于E-GMP专用电动平台打造的车型。它的特点是用于档位选择的“水晶球”和面部识别功能。"
+            }
+          }
+        }
+      }
+    ],
+    "GV70": [
+      {
+        "BrandID": 189,
+        "ModelID": 416316,
+        "Brand Name": "Genesis",
+        "Model Name": "GV70",
+        "Serie Name": "GV70",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Electric",
+          "engine": "2.5L Turbo / 3.5L Twin-Turbo V6 / Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Genesis GV70 to dynamiczny SUV klasy średniej, łączący sportowe osiągi z wszechstronnością. Jego wnętrze inspirowane jest architekturą koreańską, kładąc nacisk na 'piękno białej przestrzeni'.",
+              "en": "Genesis GV70 is a dynamic mid-class SUV, combining sporty performance with versatility. Its interior is inspired by Korean architecture, emphasizing the 'beauty of white space'.",
+              "de": "Genesis GV70 ist ein dynamischer Mittelklasse-SUV, der sportliche Leistung mit Vielseitigkeit verbindet. Die Inneneinrichtung ist von der koreanischen Architektur inspiriert und betont die „Schönheit des weißen Raums“.",
+              "uk": "Genesis GV70 — це динамічний позашляховик середнього класу, який поєднує в собі спортивні характеристики та універсальність. Його інтер’єр натхненний корейською архітектурою, підкреслюючи «красу білого простору».",
+              "ru": "Genesis GV70 — динамичный внедорожник среднего класса, сочетающий в себе спортивные характеристики и универсальность. Его интерьер вдохновлен корейской архитектурой, подчеркивающей «красоту белого пространства».",
+              "zh": "Genesis GV70 是一款动感十足的中型 SUV，将运动性能与多功能性融为一体。其内部设计灵感来自韩国建筑，强调“白色空间之美”。"
+            }
+          }
+        }
+      }
+    ],
+    "GV80": [
+      {
+        "BrandID": 189,
+        "ModelID": 416311,
+        "Brand Name": "Genesis",
+        "Model Name": "GV80",
+        "Serie Name": "GV80",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.5L Turbo / 3.5L Twin-Turbo V6 / 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Genesis GV80 to pierwszy SUV marki, który od razu stał się bestsellerem. Oferuje potężny wygląd, trzy rzędy siedzeń i luksusowe wykończenie, stanowiąc alternatywę dla X5 czy GLE.",
+              "en": "Genesis GV80 is the brand's first SUV that immediately became a bestseller. It offers powerful looks, three rows of seats and luxurious finishes, providing an alternative to the X5 or GLE.",
+              "de": "Genesis GV80 ist das erste SUV der Marke, das sofort zum Bestseller wurde. Er bietet ein kraftvolles Aussehen, drei Sitzreihen und luxuriöse Oberflächen und stellt eine Alternative zum X5 oder GLE dar.",
+              "uk": "Genesis GV80 — перший позашляховик бренду, який одразу став бестселером. Він пропонує потужний зовнішній вигляд, три ряди сидінь і розкішне оздоблення, забезпечуючи альтернативу X5 або GLE.",
+              "ru": "Genesis GV80 — первый внедорожник бренда, сразу ставший бестселлером. Он предлагает мощный внешний вид, три ряда сидений и роскошную отделку, являясь альтернативой X5 или GLE.",
+              "zh": "Genesis GV80是该品牌的第一款SUV，立即成为畅销产品。它具有强大的外观、三排座椅和豪华的饰面，是 X5 或 GLE 的替代品。"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

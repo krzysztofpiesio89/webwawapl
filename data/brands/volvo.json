@@ -1,0 +1,2308 @@
+{
+  "brand": "Volvo",
+  "models": {
+    "240": [
+      {
+        "BrandID": 144,
+        "ModelID": 1684,
+        "Brand Name": "Volvo",
+        "Model Name": "240",
+        "Serie Name": "240 Series",
+        "Years": "1974 - 1993",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Mainstream",
+          "drive": "RWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 2.3L Turbo / 2.4L Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo 240 to ikona motoryzacyjnej solidności i bezpieczeństwa, produkowana przez niemal dwie dekady. Słynąca z niezniszczalnej konstrukcji i kanciastej sylwetki, stała się symbolem szwedzkiej inżynierii oraz jednym z najlepiej sprzedających się modeli marki.",
+              "en": "The Volvo 240 is an icon of automotive reliability and safety, produced for almost two decades. Famous for its indestructible construction and angular silhouette, it has become a symbol of Swedish engineering and one of the brand's best-selling models.",
+              "de": "Der Volvo 240 ist eine Ikone der Automobilzuverlässigkeit und -sicherheit und wird seit fast zwei Jahrzehnten produziert. Berühmt für seine unverwüstliche Konstruktion und seine kantige Silhouette ist es zum Symbol schwedischer Ingenieurskunst und zu einem der meistverkauften Modelle der Marke geworden.",
+              "uk": "Volvo 240 — ікона автомобільної надійності та безпеки, що випускається майже два десятиліття. Відомий своєю непорушною конструкцією та незграбним силуетом, він став символом шведського машинобудування та однією з найбільш продаваних моделей бренду.",
+              "ru": "Volvo 240 — символ автомобильной надежности и безопасности, выпускаемый вот уже почти два десятилетия. Известный своей прочной конструкцией и угловатым силуэтом, он стал символом шведской инженерной мысли и одной из самых продаваемых моделей бренда.",
+              "zh": "沃尔沃 240 是汽车可靠性和安全性的象征，生产已近二十年。它以其坚不可摧的结构和棱角分明的轮廓而闻名，已成为瑞典工程的象征和该品牌最畅销的型号之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": "1974–1993",
+              "segment": {
+                "pl": "D / E (Klasa średnia/wyższa)",
+                "en": "D / E (Middle/upper class)",
+                "de": "D / E (Mittel-/Oberklasse)",
+                "uk": "D / E (Середній/вищий клас)",
+                "ru": "D/E (средний/высший класс)",
+                "zh": "D/E（中/上层阶级）"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2k/ib/y2ky2fk0cso8ckog0kckw/volvo-240-i-sedan.310.jpg"
+        }
+      }
+    ],
+    "340": [
+      {
+        "BrandID": 144,
+        "ModelID": 1688,
+        "Brand Name": "Volvo",
+        "Model Name": "340",
+        "Serie Name": "340 Series",
+        "Years": "1976 - 1991",
+        "specs": {
+          "bodyType": "Hatchback/Sedan",
+          "segment": "Compact",
+          "drive": "RWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 1.7L / 1.6L Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo serii 300 to kompaktowy model, który wprowadzał markę w segment aut mniejszych. Wyjątkowy dzięki układowi transaxle i solidnemu wykonaniu, oferował bezpieczną i trwałą alternatywę dla popularnych hatchbacków swojej epoki.",
+              "en": "The Volvo 300 series is a compact model that introduced the brand to the smaller car segment. Unique in its transaxle layout and solid build, it offered a safe and durable alternative to the popular hatchbacks of its era.",
+              "de": "Die Volvo 300-Serie ist ein Kompaktmodell, das die Marke in das kleinere Fahrzeugsegment einführte. Einzigartig in seiner Transaxle-Anordnung und seiner soliden Bauweise bot er eine sichere und langlebige Alternative zu den beliebten Schrägheckmodellen seiner Zeit.",
+              "uk": "Серія Volvo 300 — це компактна модель, яка представила бренд у сегменті невеликих автомобілів. Унікальний завдяки своєму розташуванню коробки передач і надійній конструкції, він був безпечною та довговічною альтернативою популярним хетчбекам своєї епохи.",
+              "ru": "Серия Volvo 300 — это компактная модель, которая представила бренд малому сегменту автомобилей. Уникальный по своей компоновке коробки передач и прочной конструкции, он представлял собой безопасную и долговечную альтернативу популярным хэтчбекам того времени.",
+              "zh": "沃尔沃 300 系列是一款紧凑型车型，将该品牌引入了小型汽车领域。它以其独特的变速驱动桥布局和坚固的构造，为当时流行的掀背车提供了安全耐用的替代品。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": "1976–1991",
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (Compact)",
+                "ru": "С (компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ct/31/jxd7eu0c4oc80ckww0888/volvo-340-i.310.jpg"
+        }
+      }
+    ],
+    "440": [
+      {
+        "BrandID": 144,
+        "ModelID": 1692,
+        "Brand Name": "Volvo",
+        "Model Name": "440",
+        "Serie Name": "440",
+        "Years": "1987 - 1996",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.0L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo 440 (hatchback) to przełomowy model marki, który wprowadził napęd na przednią oś do klasy kompaktowej premium. Łącząc nowoczesną stylistykę z tradycyjnym naciskiem na bezpieczeństwo, stanowił ważny krok w modernizacji gamy modelowej.",
+              "en": "Volvo 440 (hatchback) is a breakthrough model of the brand that introduced front-wheel drive to the premium compact class. Combining modern styling with a traditional emphasis on safety, it marked an important step in the modernization of the model range.",
+              "de": "Volvo 440 (Fließheck) ist ein bahnbrechendes Modell der Marke, die den Frontantrieb in der Premium-Kompaktklasse eingeführt hat. Durch die Kombination von modernem Design und traditioneller Betonung der Sicherheit markierte es einen wichtigen Schritt bei der Modernisierung der Modellpalette.",
+              "uk": "Volvo 440 (хетчбек) — проривна модель бренду, який впровадив передній привід у преміальний компакт-клас. Поєднання сучасного стилю з традиційним акцентом на безпеку стало важливим кроком у модернізації модельного ряду.",
+              "ru": "Volvo 440 (хэтчбек) — прорывная модель бренда, представившая передний привод в премиум-компакт-классе. Сочетая современный стиль с традиционным акцентом на безопасность, он стал важным шагом в модернизации модельного ряда.",
+              "zh": "沃尔沃 440（掀背式）是该品牌的突破性车型，将前轮驱动引入了高级紧凑型车型。将现代风格与对安全的传统重视相​​结合，标志着该车型系列现代化的重要一步。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": "1988–1996",
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (Compact)",
+                "ru": "С (компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6b/xa/1ulqmm0wg0wksw8cow8ow/volvo-440-i-sedan.310.jpg"
+        }
+      }
+    ],
+    "460": [
+      {
+        "BrandID": 144,
+        "ModelID": 1693,
+        "Brand Name": "Volvo",
+        "Model Name": "460",
+        "Serie Name": "460",
+        "Years": "1989 - 1996",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.0L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo 460 to sedanowa odmiana modelu 440, oferująca bardziej klasyczną linię nadwozia przy zachowaniu nowoczesnego napędu na przednią oś. Model ten łączył komfort limuzyny średniej wielkości z niezawodnością i bezpieczeństwem typowym dla Volvo.",
+              "en": "Volvo 460 is a sedan variant of the 440 model, offering a more classic body line while maintaining a modern front-wheel drive. This model combined the comfort of a mid-size sedan with the reliability and safety typical of Volvo.",
+              "de": "Der Volvo 460 ist eine Limousinenvariante des Modells 440 und bietet eine klassischere Karosserielinie bei gleichzeitig modernem Frontantrieb. Dieses Modell vereinte den Komfort einer Mittelklasse-Limousine mit der für Volvo typischen Zuverlässigkeit und Sicherheit.",
+              "uk": "Volvo 460 — це варіант седана моделі 440, який пропонує більш класичну лінію кузова, зберігаючи сучасний передній привід. Ця модель поєднала комфорт седана середнього розміру з надійністю та безпекою, типовими для Volvo.",
+              "ru": "Volvo 460 — это вариант седана модели 440, предлагающий более классическую линию кузова при сохранении современного переднего привода. Эта модель сочетала в себе комфорт седана среднего размера с надежностью и безопасностью, типичными для Volvo.",
+              "zh": "沃尔沃 460 是 440 车型的轿车变体，提供更经典的车身线条，同时保持现代的前轮驱动。该车型结合了中型轿车的舒适性和沃尔沃典型的可靠性和安全性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": "1989–1996",
+              "segment": {
+                "pl": "C (Sedan)",
+                "en": "C (Sedan)",
+                "de": "C (Limousine)",
+                "uk": "C (Седан)",
+                "ru": "С (Седан)",
+                "zh": "C（轿车）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7q/4g/z5vffv4so44csw4k4owwc/volvo-460-i-sedan.310.jpg"
+        }
+      }
+    ],
+    "480": [
+      {
+        "BrandID": 144,
+        "ModelID": 1694,
+        "Brand Name": "Volvo",
+        "Model Name": "480",
+        "Serie Name": "480",
+        "Years": "1986 - 1995",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sports Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.7L - 2.0L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo 480 to futurystyczne coupe z unoszonymi reflektorami i przeszkloną klapą bagażnika – model, który złamał stereotyp kanciastego Volvo. Jako pierwszy model marki z napędem FWD, do dziś fascynuje unikalnym stylem i jest cenionym klasykiem.",
+              "en": "Volvo 480 is a futuristic coupe with raised headlights and a glass trunk lid - a model that broke the stereotype of the angular Volvo. As the brand's first model with FWD drive, it still fascinates with its unique style and is a valued classic.",
+              "de": "Der Volvo 480 ist ein futuristisches Coupé mit erhöhten Scheinwerfern und einem Kofferraumdeckel aus Glas – ein Modell, das mit dem Klischee des eckigen Volvo brach. Als erstes Modell der Marke mit FWD-Antrieb fasziniert er noch immer durch seinen einzigartigen Stil und ist ein geschätzter Klassiker.",
+              "uk": "Volvo 480 — футуристичне купе з піднятими фарами та скляною кришкою багажника — модель, яка зламала стереотип незграбного Volvo. Будучи першою моделлю бренду з переднім приводом, вона все ще зачаровує своїм унікальним стилем і є цінною класикою.",
+              "ru": "Volvo 480 — футуристическое купе с приподнятыми фарами и стеклянной крышкой багажника — модель, сломавшая стереотип об угловатом Volvo. Будучи первой моделью бренда с переднеприводным приводом, она по-прежнему очаровывает своим уникальным стилем и является ценной классикой.",
+              "zh": "沃尔沃 480 是一款未来派轿跑车，配有凸起的前灯和玻璃行李箱盖 - 该车型打破了沃尔沃棱角分明的刻板印象。作为该品牌首款采用前轮驱动的车型，它至今仍以其独特的风格令人着迷，堪称珍贵的经典之作。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": "1986–1995",
+              "segment": {
+                "pl": "S (Coupe)",
+                "en": "S (Coupe)",
+                "de": "S (Coupé)",
+                "uk": "S (Coupe)",
+                "ru": "С (Купе)",
+                "zh": "S（轿跑车）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5n/ph/7vily2gw440wcggw84080/volvo-480-i.310.jpg"
+        }
+      }
+    ],
+    "740": [
+      {
+        "BrandID": 144,
+        "ModelID": 1696,
+        "Brand Name": "Volvo",
+        "Model Name": "740",
+        "Serie Name": "740",
+        "Years": "1984 - 1992",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Executive",
+          "drive": "RWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 2.3L Turbo / 2.4L Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo serii 700 to ucieleśnienie luksusu i bezpieczeństwa lat 80., rozpoznawalne dzięki ostrym, kanciastym liniom nadwozia. Oferując niespotykany komfort i ogromną przestrzeń w wersji kombi, stało się wzorcem samochodu prestiżowego i niezniszczalnego.",
+              "en": "The Volvo 700 series is the embodiment of 1980s luxury and safety, recognizable by its sharp, angular body lines. Offering unprecedented comfort and huge space in the station wagon version, it has become a model of a prestigious and indestructible car.",
+              "de": "Die Volvo 700-Serie ist die Verkörperung des Luxus und der Sicherheit der 1980er Jahre, erkennbar an ihren scharfen, eckigen Karosserielinien. Er bietet in der Kombiversion beispiellosen Komfort und viel Platz und ist zum Vorbild für ein prestigeträchtiges und unverwüstliches Auto geworden.",
+              "uk": "Volvo серії 700 є втіленням розкоші та безпеки 1980-х років, які можна впізнати за різкими незграбними лініями кузова. Пропонуючи безпрецедентний комфорт і величезний простір у версії універсал, він став зразком престижного і непорушного автомобіля.",
+              "ru": "Серия Volvo 700 — это воплощение роскоши и безопасности 1980-х годов, узнаваемая по резким угловатым линиям кузова. Предлагая небывалый комфорт и огромное пространство в версии универсал, он стал образцом престижного и неубиваемого автомобиля.",
+              "zh": "沃尔沃 700 系列是 20 世纪 80 年代豪华和安全的体现，以其锐利、棱角分明的车身线条而闻名。旅行车版提供了前所未有的舒适性和宽敞的空间，成为久负盛名且坚不可摧的汽车典范。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": "1982–1992",
+              "segment": {
+                "pl": "E (Klasa wyższa)",
+                "en": "E (Upper class)",
+                "de": "E (Oberklasse)",
+                "uk": "E (вищий клас)",
+                "ru": "Е (высший класс)",
+                "zh": "E（上层阶级）"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/87/0f/4ibmvr8kcs4c8sc88o00o/volvo-740-i-sedan.310.jpg"
+        }
+      }
+    ],
+    "760": [
+      {
+        "BrandID": 144,
+        "ModelID": 1697,
+        "Brand Name": "Volvo",
+        "Model Name": "760",
+        "Serie Name": "760",
+        "Years": "1982 - 1990",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.3L Turbo - 2.8L V6 / 2.4L Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo serii 700 to ucieleśnienie luksusu i bezpieczeństwa lat 80., rozpoznawalne dzięki ostrym, kanciastym liniom nadwozia. Oferując niespotykany komfort i ogromną przestrzeń w wersji kombi, stało się wzorcem samochodu prestiżowego i niezniszczalnego.",
+              "en": "The Volvo 700 series is the embodiment of 1980s luxury and safety, recognizable by its sharp, angular body lines. Offering unprecedented comfort and huge space in the station wagon version, it has become a model of a prestigious and indestructible car.",
+              "de": "Die Volvo 700-Serie ist die Verkörperung des Luxus und der Sicherheit der 1980er Jahre, erkennbar an ihren scharfen, eckigen Karosserielinien. Er bietet in der Kombiversion beispiellosen Komfort und viel Platz und ist zum Vorbild für ein prestigeträchtiges und unverwüstliches Auto geworden.",
+              "uk": "Volvo серії 700 — це втілення розкоші та безпеки 1980-х років, які можна впізнати за гострими незграбними лініями кузова. Пропонуючи безпрецедентний комфорт і величезний простір у версії універсал, він став зразком престижного і непорушного автомобіля.",
+              "ru": "Серия Volvo 700 — это воплощение роскоши и безопасности 1980-х годов, узнаваемая по резким угловатым линиям кузова. Предлагая небывалый комфорт и огромное пространство в версии универсал, он стал образцом престижного и неубиваемого автомобиля.",
+              "zh": "沃尔沃 700 系列是 20 世纪 80 年代豪华和安全的体现，以其锐利、棱角分明的车身线条而闻名。旅行车版提供了前所未有的舒适性和宽敞的空间，成为久负盛名且坚不可摧的汽车典范。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": "1982–1992",
+              "segment": {
+                "pl": "E (Klasa wyższa)",
+                "en": "E (Upper class)",
+                "de": "E (Oberklasse)",
+                "uk": "E (вищий клас)",
+                "ru": "Е (высший класс)",
+                "zh": "E（上层阶级）"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9w/yo/9isyzogkkw0g8w4k8og8o/volvo-760-i-sedan.310.jpg"
+        }
+      }
+    ],
+    "850": [
+      {
+        "BrandID": 144,
+        "ModelID": 1698,
+        "Brand Name": "Volvo",
+        "Model Name": "850",
+        "Serie Name": "850",
+        "Years": "1991 - 1997",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Executive",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 2.5L Turbo (T5/R) / 2.5L TDI",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo 850 to rewolucyjny model, który na nowo zdefiniował wizerunek marki dzięki zaawansowanemu zawieszeniu Delta-Link i pięciocylindrowym silnikom. Słynne z wersji T-5R, 850 stało się legendą łączącą bezpieczeństwo z niesamowitymi osiągami.",
+              "en": "The Volvo 850 is a revolutionary model that redefined the brand's image thanks to its advanced Delta-Link suspension and five-cylinder engines. Famous for its T-5R version, the 850 has become a legend combining safety with incredible performance.",
+              "de": "Der Volvo 850 ist ein revolutionäres Modell, das dank seiner fortschrittlichen Delta-Link-Federung und Fünfzylindermotoren das Image der Marke neu definiert hat. Berühmt für seine T-5R-Version ist der 850 zu einer Legende geworden, die Sicherheit mit unglaublicher Leistung verbindet.",
+              "uk": "Volvo 850 — це революційна модель, яка змінила імідж бренду завдяки вдосконаленій підвісці Delta-Link і п’ятициліндровим двигунам. Відомий своєю версією T-5R, 850 став легендою, поєднуючи безпеку з неймовірною продуктивністю.",
+              "ru": "Volvo 850 — революционная модель, которая изменила имидж бренда благодаря усовершенствованной подвеске Delta-Link и пятицилиндровым двигателям. Модель 850, известная своей версией Т-5R, стала легендой, сочетающей безопасность с невероятными характеристиками.",
+              "zh": "沃尔沃 850 是一款革命性车型，凭借其先进的 Delta-Link 悬架和五缸发动机，重新定义了该品牌的形象。 850 以其 T-5R 版本而闻名，已成为安全性与令人难以置信的性能相结合的传奇。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": "1991–1997",
+              "segment": {
+                "pl": "E (Klasa wyższa / Executive)",
+                "en": "E (Executive / Executive)",
+                "de": "E (Executive / Executive)",
+                "uk": "E (Executive / Executive)",
+                "ru": "E (высший класс/руководитель)",
+                "zh": "E（上等/行政）"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD / AWD",
+                "uk": "FWD / AWD",
+                "ru": "передний/полный привод",
+                "zh": "前轮驱动/全轮驱动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/a8/r3/i2lmwb4848k8sswg888s4/volvo-850-i-sedan.310.jpg"
+        }
+      }
+    ],
+    "940": [
+      {
+        "BrandID": 144,
+        "ModelID": 1699,
+        "Brand Name": "Volvo",
+        "Model Name": "940",
+        "Serie Name": "940",
+        "Years": "1990 - 1998",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Executive",
+          "drive": "RWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 2.3L Turbo / 2.4L Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo serii 900 to ostatnia generacja klasycznych, tylnonapędowych modeli marki, stanowiąca szczytowe osiągnięcie w dziedzinie komfortu i trwałości. Model 940 był ceniony za niesamowitą odporność na upływ czasu i bezkompromisowe bezpieczeństwo.",
+              "en": "The Volvo 900 series is the last generation of the brand's classic rear-wheel drive models, representing the pinnacle of comfort and durability. The 940 model was appreciated for its incredible resistance to the passage of time and uncompromising safety.",
+              "de": "Die Volvo 900-Serie ist die letzte Generation der klassischen Modelle mit Hinterradantrieb der Marke und repräsentiert den Gipfel von Komfort und Langlebigkeit. Das Modell 940 wurde für seine unglaubliche Widerstandsfähigkeit gegenüber dem Lauf der Zeit und seine kompromisslose Sicherheit geschätzt.",
+              "uk": "Volvo серії 900 — це останнє покоління класичних задньопривідних моделей бренду, що представляють собою вершину комфорту та довговічності. Модель 940 оцінили за неймовірну стійкість до плину часу та безкомпромісну безпеку.",
+              "ru": "Серия Volvo 900 — это последнее поколение классических заднеприводных моделей бренда, представляющее собой вершину комфорта и долговечности. Модель 940 ценилась за невероятную устойчивость к течению времени и бескомпромиссную безопасность.",
+              "zh": "沃尔沃900系列是该品牌最后一代经典后轮驱动车型，代表了舒适性和耐用性的巅峰。 940 型号因其令人难以置信的耐久力和不妥协的安全性而受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": "1990–1998",
+              "segment": {
+                "pl": "E (Klasa wyższa)",
+                "en": "E (Upper class)",
+                "de": "E (Oberklasse)",
+                "uk": "E (вищий клас)",
+                "ru": "Е (высший класс)",
+                "zh": "E（上层阶级）"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/42/fj/uzi301wksssc40c0480co/volvo-940-i-sedan.310.jpg"
+        }
+      }
+    ],
+    "960": [
+      {
+        "BrandID": 144,
+        "ModelID": 1700,
+        "Brand Name": "Volvo",
+        "Model Name": "960",
+        "Serie Name": "960 / S90 / V90",
+        "Years": "1990 - 1998",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "2.5L - 3.0L Inline-6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo serii 900 to ostatnia generacja klasycznych, tylnonapędowych modeli marki, stanowiąca szczytowe osiągnięcie w dziedzinie komfortu i trwałości. Model 960 z rzędowymi, sześciocylindrowymi silnikami oferował najwyższy standard luksusu.",
+              "en": "The Volvo 900 series is the last generation of the brand's classic rear-wheel drive models, representing the pinnacle of comfort and durability. The 960 model with inline six-cylinder engines offered the highest standard of luxury.",
+              "de": "Die Volvo 900-Serie ist die letzte Generation der klassischen Modelle mit Hinterradantrieb der Marke und repräsentiert den Gipfel von Komfort und Langlebigkeit. Das Modell 960 mit Reihensechszylindermotoren bot höchsten Luxusstandard.",
+              "uk": "Серія Volvo 900 — це останнє покоління класичних задньопривідних моделей бренду, що представляють вершину комфорту та довговічності. Модель 960 з рядними шестициліндровими двигунами запропонувала найвищий рівень розкоші.",
+              "ru": "Серия Volvo 900 — это последнее поколение классических заднеприводных моделей бренда, представляющее собой вершину комфорта и долговечности. Модель 960 с рядными шестицилиндровыми двигателями предлагала высочайший уровень роскоши.",
+              "zh": "沃尔沃900系列是该品牌最后一代经典后轮驱动车型，代表了舒适性和耐用性的巅峰。配备直列六缸发动机的 960 车型提供了最高的豪华标准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": "1990–1998",
+              "segment": {
+                "pl": "E (Klasa wyższa)",
+                "en": "E (Upper class)",
+                "de": "E (Oberklasse)",
+                "uk": "E (вищий клас)",
+                "ru": "Е (высший класс)",
+                "zh": "E（上层阶级）"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8m/po/pk1uo78ks4gc8000s48s8/volvo-960-i-sedan.310.jpg"
+        }
+      }
+    ],
+    "C30": [
+      {
+        "BrandID": 144,
+        "ModelID": 1701,
+        "Brand Name": "Volvo",
+        "Model Name": "C30",
+        "Serie Name": "C30",
+        "Years": "2006 - 2013",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/Electric",
+          "engine": "1.6L - 2.5L T5 / Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo C30 to stylowy, kompaktowy hatchback klasy premium, wyróżniający się unikalną szklaną klapą bagażnika. Zaprojektowany z myślą o dynamice, łączył skandynawski minimalizm z świetnym prowadzeniem i bezkompromisowym bezpieczeństwem.",
+              "en": "The Volvo C30 is a stylish, premium compact hatchback, distinguished by a unique glass tailgate. Designed with dynamics in mind, it combined Scandinavian minimalism with great handling and uncompromising safety.",
+              "de": "Der Volvo C30 ist ein stilvolles, kompaktes Premium-Schrägheckmodell, das sich durch eine einzigartige Glasheckklappe auszeichnet. Er wurde mit Blick auf Dynamik entwickelt und vereinte skandinavischen Minimalismus mit großartigem Handling und kompromissloser Sicherheit.",
+              "uk": "Volvo C30 — це стильний компактний хетчбек преміум-класу, який вирізняється унікальним скляним дверима багажника. Розроблений з урахуванням динаміки, він поєднав у собі скандинавський мінімалізм із чудовою керованістю та безкомпромісною безпекою.",
+              "ru": "Volvo C30 — стильный компактный хэтчбек премиум-класса, отличающийся уникальной стеклянной задней дверью. Созданный с учетом динамики, он сочетает в себе скандинавский минимализм с великолепной управляемостью и бескомпромиссной безопасностью.",
+              "zh": "沃尔沃 C30 是一款时尚、优质的紧凑型掀背车，以独特的玻璃尾门为特色。它在设计时充分考虑了动态性，将斯堪的纳维亚极简主义与出色的操控性和毫不妥协的安全性结合在一起。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": "2006–2013",
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (Compact)",
+                "ru": "С (компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/dn/mg/jth4qa88w4004kckow8oc/volvo-c30-i.310.jpg"
+        }
+      }
+    ],
+    "C40": [
+      {
+        "BrandID": 144,
+        "ModelID": 416623,
+        "Brand Name": "Volvo",
+        "Model Name": "C40",
+        "Serie Name": "C40 Recharge",
+        "Years": "2021 - Present",
+        "specs": {
+          "bodyType": "Crossover Coupe",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Electric",
+          "engine": "Single Motor / Twin Motor",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo C40 Recharge to pierwszy model marki zaprojektowany wyłącznie jako auto w pełni elektryczne. Ten crossover coupe łączy dynamiczną sylwetkę z ekologicznym wnętrzem oraz imponującymi osiągami nowoczesnego napędu elektrycznego.",
+              "en": "Volvo C40 Recharge is the brand's first model designed exclusively as a fully electric car. This crossover coupe combines a dynamic silhouette with an ecological interior and impressive performance of a modern electric drive.",
+              "de": "Der Volvo C40 Recharge ist das erste Modell der Marke, das ausschließlich als vollelektrisches Auto konzipiert ist. Dieses Crossover-Coupé vereint eine dynamische Silhouette mit einem ökologischen Innenraum und der beeindruckenden Leistung eines modernen Elektroantriebs.",
+              "uk": "Volvo C40 Recharge — це перша модель бренду, розроблена виключно як повністю електричний автомобіль. Цей кросовер-купе поєднує в собі динамічний силует з екологічним салоном і вражаючою продуктивністю сучасного електроприводу.",
+              "ru": "Volvo C40 Recharge — первая модель бренда, разработанная исключительно как полностью электрический автомобиль. Этот кроссовер-купе сочетает в себе динамичный силуэт с экологичным салоном и впечатляющими характеристиками современного электропривода.",
+              "zh": "沃尔沃 C40 Recharge 是该品牌首款专为纯电动汽车设计的车型。这款跨界轿跑车将动感轮廓与生态内饰以及现代电力驱动器的令人印象深刻的性能相结合。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": {
+                "pl": "od 2021",
+                "en": "from 2021",
+                "de": "ab 2021",
+                "uk": "з 2021 року",
+                "ru": "с 2021 года",
+                "zh": "2021年起"
+              },
+              "segment": {
+                "pl": "SUV (Kompaktowe)",
+                "en": "SUV (Compact)",
+                "de": "SUV (Kompakt)",
+                "uk": "SUV (Compact)",
+                "ru": "Внедорожник (компактный)",
+                "zh": "SUV（紧凑型）"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD / AWD",
+                "uk": "FWD / AWD",
+                "ru": "Переднеприводный/полноприводный",
+                "zh": "前轮驱动/全轮驱动"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "C70": [
+      {
+        "BrandID": 144,
+        "ModelID": 413614,
+        "Brand Name": "Volvo",
+        "Model Name": "C70",
+        "Serie Name": "C70 I",
+        "Years": "1997 - 2005",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Luxury",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L - 2.5L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo C70 pierwszej generacji to luksusowe coupe i kabriolet, które zdefiniowało nowy poziom elegancji marki. Opracowane z troską o detale, oferowało wyjątkowy komfort podróżowania przy zachowaniu wzorcowego bezpieczeństwa.",
+              "en": "The first generation Volvo C70 is a luxurious coupe and convertible that defined a new level of elegance for the brand. Developed with attention to detail, it offered exceptional traveling comfort while maintaining exemplary safety.",
+              "de": "Der Volvo C70 der ersten Generation ist ein luxuriöses Coupé und Cabrio, das ein neues Maß an Eleganz für die Marke definiert. Mit Liebe zum Detail entwickelt, bot es außergewöhnlichen Reisekomfort bei gleichzeitig vorbildlicher Sicherheit.",
+              "uk": "Перше покоління Volvo C70 — це розкішне купе та кабріолет, що визначило новий рівень елегантності для бренду. Розроблений з увагою до деталей, він запропонував винятковий комфорт під час подорожі, зберігаючи взірцеву безпеку.",
+              "ru": "Volvo C70 первого поколения — это роскошное купе и кабриолет, определившее новый уровень элегантности для бренда. Разработанный с вниманием к деталям, он предлагал исключительный комфорт в путешествии, сохраняя при этом образцовую безопасность.",
+              "zh": "第一代沃尔沃 C70 是一款豪华轿跑车和敞篷车，为该品牌定义了新的优雅水平。它的开发注重细节，提供卓越的旅行舒适性，同时保持典范的安全性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": "1997–2005",
+              "segment": {
+                "pl": "S (Coupe / Kabriolet)",
+                "en": "S (Coupe / Cabriolet)",
+                "de": "S (Coupé / Cabriolet)",
+                "uk": "S (купе/кабріолет)",
+                "ru": "S (Купе/Кабриолет)",
+                "zh": "S（轿跑车/敞篷车）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2d/9x/oxcujdwkgwkscc8c0c8s0/volvo-c70-ii-cabrio.310.jpg"
+        }
+      },
+      {
+        "BrandID": 144,
+        "ModelID": 413615,
+        "Brand Name": "Volvo",
+        "Model Name": "C70",
+        "Serie Name": "C70 II",
+        "Years": "2006 - 2013",
+        "specs": {
+          "bodyType": "Convertible",
+          "segment": "Luxury",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.4L - 2.5L T5",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo C70 drugiej generacji to innowacyjny kabriolet z trójczęściowym, twardym składanym dachem. Łącząc cechy luksusowego coupe i efektownego kabrioletu, oferuje komfortową podróż w każdych warunkach pogodowych.",
+              "en": "The second generation Volvo C70 is an innovative convertible with a three-piece folding hardtop. Combining the features of a luxurious coupe and an attractive convertible, it offers a comfortable journey in all weather conditions.",
+              "de": "Der Volvo C70 der zweiten Generation ist ein innovatives Cabriolet mit einem dreiteiligen faltbaren Hardtop. Es vereint die Eigenschaften eines luxuriösen Coupés und eines attraktiven Cabriolets und bietet eine komfortable Reise bei jedem Wetter.",
+              "uk": "Друге покоління Volvo C70 — це інноваційний кабріолет із складним жорстким дахом із трьох частин. Поєднуючи в собі риси розкішного купе та привабливого кабріолета, він пропонує комфортну подорож за будь-яких погодних умов.",
+              "ru": "Volvo C70 второго поколения — это инновационный кабриолет с трехсекционной складной жесткой крышей. Сочетая в себе черты роскошного купе и привлекательного кабриолета, он предлагает комфортное путешествие в любых погодных условиях.",
+              "zh": "第二代沃尔沃C70是一款创新型敞篷车，配备三片式硬质折叠车顶。它结合了豪华轿跑车和有吸引力的敞篷车的特点，在任何天气条件下都能提供舒适的旅程。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": "2006–2013",
+              "segment": {
+                "pl": "S (Kabriolet)",
+                "en": "S (Cabriolet)",
+                "de": "S (Cabriolet)",
+                "uk": "S (Cabriolet)",
+                "ru": "S (Кабриолет)",
+                "zh": "S（敞篷车）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2d/9x/oxcujdwkgwkscc8c0c8s0/volvo-c70-ii-cabrio.310.jpg"
+        }
+      }
+    ],
+    "S40": [
+      {
+        "BrandID": 144,
+        "ModelID": 413618,
+        "Brand Name": "Volvo",
+        "Model Name": "S40",
+        "Serie Name": "S40 I",
+        "Years": "1995 - 2004",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo S40 pierwszej generacji to kompaktowy sedan, oferujący solidność i bezpieczeństwo marki w miejskim formacie. Był to model, który wprowadził nowoczesną linię Volvo do klasy aut kompaktowych premium.",
+              "en": "The first-generation Volvo S40 is a compact sedan, offering the brand's solidity and safety in an urban format. It was the model that introduced the modern Volvo line to the class of premium compact cars.",
+              "de": "Der Volvo S40 der ersten Generation ist eine kompakte Limousine, die die Solidität und Sicherheit der Marke in einem urbanen Format bietet. Es war das Modell, das die moderne Volvo-Reihe in die Klasse der Premium-Kompaktwagen einführte.",
+              "uk": "Volvo S40 першого покоління — це компактний седан, який пропонує солідність і безпеку бренду в міському форматі. Саме ця модель ввела сучасну лінійку Volvo в клас преміальних компактних автомобілів.",
+              "ru": "Volvo S40 первого поколения — компактный седан, сочетающий в себе солидность и безопасность бренда в городском формате. Именно модель ввела современную линейку Volvo в класс компактных автомобилей премиум-класса.",
+              "zh": "第一代沃尔沃 S40 是一款紧凑型轿车，在城市环境中展现了该品牌的坚固性和安全性。正是这款车型将现代沃尔沃系列引入了高级紧凑型汽车领域。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": "1995–2004",
+              "segment": {
+                "pl": "C (Sedan premium)",
+                "en": "C (Premium sedan)",
+                "de": "C (Premium-Limousine)",
+                "uk": "C (седан преміум-класу)",
+                "ru": "C (седан премиум-класса)",
+                "zh": "C（高级轿车）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7d/af/soi1prsw4k8s8wg4sscgc/volvo-s40-ii-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 144,
+        "ModelID": 413619,
+        "Brand Name": "Volvo",
+        "Model Name": "S40",
+        "Serie Name": "S40 II",
+        "Years": "2004 - 2012",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Compact",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.5L T5",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo S40 drugiej generacji zrewolucjonizowało design wnętrza dzięki 'wiszącej' konsoli środkowej. Oferowało doskonałe prowadzenie i innowacyjne systemy bezpieczeństwa, stając się wzorcem w swojej klasie.",
+              "en": "The second generation Volvo S40 revolutionized interior design thanks to a 'hanging' center console. It offered excellent handling and innovative safety systems, becoming a benchmark in its class.",
+              "de": "Der Volvo S40 der zweiten Generation revolutionierte das Innendesign dank einer „hängenden“ Mittelkonsole. Er bot ein hervorragendes Handling und innovative Sicherheitssysteme und wurde zum Maßstab seiner Klasse.",
+              "uk": "Друге покоління Volvo S40 революціонізувало дизайн інтер’єру завдяки «висячій» центральній консолі. Він запропонував чудову керованість та інноваційні системи безпеки, ставши еталоном у своєму класі.",
+              "ru": "Второе поколение Volvo S40 произвело революцию в дизайне интерьера благодаря «подвесной» центральной консоли. Он предлагал отличную управляемость и инновационные системы безопасности, став эталоном в своем классе.",
+              "zh": "第二代沃尔沃 S40 凭借“悬挂式”中控台彻底改变了内饰设计。它提供了出色的操控性和创新的安全系统，成为同类产品中的标杆。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": "2004–2012",
+              "segment": {
+                "pl": "C (Sedan premium)",
+                "en": "C (Premium sedan)",
+                "de": "C (Premium-Limousine)",
+                "uk": "C (седан преміум-класу)",
+                "ru": "C (Седан премиум-класса)",
+                "zh": "C（高级轿车）"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD / AWD",
+                "uk": "FWD / AWD",
+                "ru": "FWD/AWD",
+                "zh": "前轮驱动/全轮驱动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7d/af/soi1prsw4k8s8wg4sscgc/volvo-s40-ii-sedan.310.jpg"
+        }
+      }
+    ],
+    "S60": [
+      {
+        "BrandID": 144,
+        "ModelID": 413620,
+        "Brand Name": "Volvo",
+        "Model Name": "S60",
+        "Serie Name": "S60 I",
+        "Years": "2000 - 2009",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 2.5L R",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo S60 to sportowy sedan klasy średniej, będący dynamiczną alternatywą dla tradycyjnych limuzyn. Każda generacja S60 stawia na emocje z jazdy, elegancką linię oraz innowacyjne systemy wsparcia takie jak City Safety.",
+              "en": "Volvo S60 is a mid-class sports sedan, which is a dynamic alternative to traditional limousines. Each generation of S60 focuses on driving emotions, elegant lines and innovative support systems such as City Safety.",
+              "de": "Der Volvo S60 ist eine Sportlimousine der Mittelklasse, die eine dynamische Alternative zu herkömmlichen Limousinen darstellt. Bei jeder Generation des S60 stehen Fahremotionen, elegante Linien und innovative Unterstützungssysteme wie City Safety im Mittelpunkt.",
+              "uk": "Volvo S60 — спортивний седан середнього класу, який є динамічною альтернативою традиційним лімузинам. Кожне покоління S60 фокусується на емоціях водіння, елегантних лініях та інноваційних системах підтримки, таких як City Safety.",
+              "ru": "Volvo S60 — спортивный седан среднего класса, являющийся динамичной альтернативой традиционным лимузинам. В каждом поколении S60 основное внимание уделяется эмоциям от вождения, элегантным линиям и инновационным системам поддержки, таким как City Safety.",
+              "zh": "沃尔沃 S60 是一款中级运动轿车，是传统豪华轿车的动态替代品。每一代S60都专注于驾驶情感、优雅的线条和城市安全等创新支持系统。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": {
+                "pl": "od 2000",
+                "en": "from 2000",
+                "de": "ab 2000",
+                "uk": "з 2000 р.",
+                "ru": "с 2000 года.",
+                "zh": "自2000年以来"
+              },
+              "segment": {
+                "pl": "D (Klasa średnia premium)",
+                "en": "D (Premium mid-range)",
+                "de": "D (Premium-Mittelklasse)",
+                "uk": "D (Преміум середнього класу)",
+                "ru": "D (средний премиум-класс)",
+                "zh": "D（优质中产阶级）"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD / AWD",
+                "uk": "FWD / AWD",
+                "ru": "FWD/AWD",
+                "zh": "前轮驱动/全轮驱动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/wt/hm/yxld6nkswcok808wcsk0/volvo-s60-ii-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 144,
+        "ModelID": 413621,
+        "Brand Name": "Volvo",
+        "Model Name": "S60",
+        "Serie Name": "S60 II",
+        "Years": "2010 - 2018",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 3.0L T6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo S60 to sportowy sedan klasy średniej, będący dynamiczną alternatywą dla tradycyjnych limuzyn. Każda generacja S60 stawia na emocje z jazdy, elegancką linię oraz innowacyjne systemy wsparcia takie jak City Safety.",
+              "en": "The Volvo S60 is a mid-class sports sedan, which is a dynamic alternative to traditional limousines. Each generation of S60 focuses on driving emotions, elegant lines and innovative support systems such as City Safety.",
+              "de": "Der Volvo S60 ist eine Sportlimousine der Mittelklasse, die eine dynamische Alternative zu herkömmlichen Limousinen darstellt. Bei jeder Generation des S60 stehen Fahremotionen, elegante Linien und innovative Unterstützungssysteme wie City Safety im Mittelpunkt.",
+              "uk": "Volvo S60 — це спортивний седан середнього класу, який є динамічною альтернативою традиційним лімузинам. Кожне покоління S60 фокусується на емоціях водіння, елегантних лініях та інноваційних системах підтримки, таких як City Safety.",
+              "ru": "Volvo S60 — спортивный седан среднего класса, являющийся динамичной альтернативой традиционным лимузинам. В каждом поколении S60 основное внимание уделяется эмоциям от вождения, элегантным линиям и инновационным системам поддержки, таким как City Safety.",
+              "zh": "沃尔沃 S60 是一款中级运动轿车，是传统豪华轿车的动态替代品。每一代S60都专注于驾驶情感、优雅的线条和城市安全等创新支持系统。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": {
+                "pl": "od 2000",
+                "en": "from 2000",
+                "de": "ab 2000",
+                "uk": "з 2000 р.",
+                "ru": "от 2000 года.",
+                "zh": "自2000年以来"
+              },
+              "segment": {
+                "pl": "D (Klasa średnia premium)",
+                "en": "D (Premium middle class)",
+                "de": "D (Premium-Mittelklasse)",
+                "uk": "D (Преміум середнього класу)",
+                "ru": "D (Премиум-средний класс)",
+                "zh": "D（优质中产阶级）"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD / AWD",
+                "uk": "FWD / AWD",
+                "ru": "FWD/AWD",
+                "zh": "前轮驱动/全轮驱动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/wt/hm/yxld6nkswcok808wcsk0/volvo-s60-ii-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 144,
+        "ModelID": 415559,
+        "Brand Name": "Volvo",
+        "Model Name": "S60",
+        "Serie Name": "S60 III",
+        "Years": "2019 - Present",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/PHEV",
+          "engine": "2.0L Turbo / Twin Engine (Recharge)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo S60 trzeciej generacji to nowoczesny, dynamiczny sedan, który jako pierwszy model marki zrezygnował z silników Diesla na rzecz hybryd. Łączy szwedzki luksus z precyzyjnym prowadzeniem i zaawansowaną technologią.",
+              "en": "The third generation Volvo S60 is a modern, dynamic sedan, which was the first model of the brand to abandon diesel engines in favor of hybrids. It combines Swedish luxury with precise handling and advanced technology.",
+              "de": "Der Volvo S60 der dritten Generation ist eine moderne, dynamische Limousine, die als erstes Modell der Marke auf Dieselmotoren zugunsten von Hybriden verzichtete. Es vereint schwedischen Luxus mit präzisem Handling und fortschrittlicher Technologie.",
+              "uk": "Третє покоління Volvo S60 - це сучасний динамічний седан, який став першою моделлю марки, яка відмовилася від дизельних двигунів на користь гібридів. Він поєднує в собі шведську розкіш з точним керуванням і передовими технологіями.",
+              "ru": "Третье поколение Volvo S60 — современный, динамичный седан, ставший первой моделью бренда, отказавшейся от дизельных двигателей в пользу гибридов. Он сочетает в себе шведскую роскошь с точным управлением и передовыми технологиями.",
+              "zh": "第三代沃尔沃 S60 是一款现代、动感十足的轿车，是该品牌第一款放弃柴油发动机而采用混合动力汽车的车型。它将瑞典奢华与精确操控和先进技术融为一体。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "from 2018",
+                "de": "ab 2018",
+                "uk": "з 2018 року",
+                "ru": "с 2018 года",
+                "zh": "2018年以来"
+              },
+              "segment": {
+                "pl": "D (Klasa średnia premium)",
+                "en": "D (Premium mid-range)",
+                "de": "D (Premium-Mittelklasse)",
+                "uk": "D (преміум середнього класу)",
+                "ru": "D (Премиум среднего класса)",
+                "zh": "D（优质中产阶级）"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD / AWD",
+                "uk": "FWD / AWD",
+                "ru": "FWD/AWD",
+                "zh": "前轮驱动/全轮驱动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/wt/hm/yxld6nkswcok808wcsk0/volvo-s60-ii-sedan.310.jpg"
+        }
+      }
+    ],
+    "S80": [
+      {
+        "BrandID": 144,
+        "ModelID": 413622,
+        "Brand Name": "Volvo",
+        "Model Name": "S80",
+        "Serie Name": "S80 I",
+        "Years": "1998 - 2006",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Executive",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.4L - 4.4L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo S80 pierwszej generacji to flagowa limuzyna, która wprowadziła nowe standardy bezpieczeństwa, w tym system SIPS. Znana z potężnych silników i niezrównanego komfortu, była synonimem prestiżu i solidności Volvo.",
+              "en": "The first generation Volvo S80 is a flagship limousine that introduced new safety standards, including the SIPS system. Known for its powerful engines and unrivaled comfort, it was synonymous with Volvo's prestige and reliability.",
+              "de": "Der Volvo S80 der ersten Generation ist eine Flaggschiff-Limousine, die neue Sicherheitsstandards eingeführt hat, darunter das SIPS-System. Bekannt für seine leistungsstarken Motoren und seinen unübertroffenen Komfort, war er ein Synonym für das Prestige und die Zuverlässigkeit von Volvo.",
+              "uk": "Перше покоління Volvo S80 — це флагманський лімузин, який запровадив нові стандарти безпеки, зокрема систему SIPS. Відомий своїми потужними двигунами та неперевершеним комфортом, він був синонімом престижу та надійності Volvo.",
+              "ru": "Volvo S80 первого поколения — флагманский лимузин, в котором внедрены новые стандарты безопасности, включая систему SIPS. Известный своими мощными двигателями и непревзойденным комфортом, он был синонимом престижа и надежности Volvo.",
+              "zh": "第一代沃尔沃 S80 是一款旗舰豪华轿车，引入了新的安全标准，包括 SIPS 系统。它以其强大的发动机和无与伦比的舒适性而闻名，是沃尔沃声誉和可靠性的代名词。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": "1998–2006",
+              "segment": {
+                "pl": "E (Klasa wyższa)",
+                "en": "E (Upper class)",
+                "de": "E (Oberschicht)",
+                "uk": "E (вищий клас)",
+                "ru": "E (Высший класс)",
+                "zh": "E（上层阶级）"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD / AWD",
+                "uk": "FWD / AWD",
+                "ru": "FWD/AWD",
+                "zh": "前轮驱动/全轮驱动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2f/vj/bs6b2o740oc8kc888gk44/volvo-s80-ii-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 144,
+        "ModelID": 413623,
+        "Brand Name": "Volvo",
+        "Model Name": "S80",
+        "Serie Name": "S80 II",
+        "Years": "2006 - 2016",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Executive",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 4.4L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo S80 drugiej generacji uosabiało dyskretny luksus i skandynawską elegancję. Oferując wyrafinowane wnętrze i unikalne jednostki napędowe jak silnik V8, S80 było idealnym towarzyszem dalekich i bezpiecznych podróży.",
+              "en": "The second generation Volvo S80 embodied understated luxury and Scandinavian elegance. Offering a refined interior and unique engines such as the V8 engine, the S80 was the perfect companion for long and safe journeys.",
+              "de": "Der Volvo S80 der zweiten Generation verkörperte dezenten Luxus und skandinavische Eleganz. Mit einem raffinierten Innenraum und einzigartigen Motoren wie dem V8-Motor war der S80 der perfekte Begleiter für lange und sichere Reisen.",
+              "uk": "Друге покоління Volvo S80 втілило в собі стриману розкіш і скандинавську елегантність. Завдяки вишуканому салону та унікальним двигунам, таким як двигун V8, S80 став ідеальним супутником для довгих і безпечних подорожей.",
+              "ru": "Volvo S80 второго поколения воплотил в себе сдержанную роскошь и скандинавскую элегантность. Предлагая изысканный интерьер и уникальные двигатели, такие как двигатель V8, S80 стал идеальным спутником в длительных и безопасных поездках.",
+              "zh": "第二代沃尔沃 S80 体现了低调的奢华和斯堪的纳维亚的优雅。 S80 拥有精致的内饰和独特的发动机（例如 V8 发动机），是长途安全旅行的完美伴侣。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": "2006–2016",
+              "segment": {
+                "pl": "E (Klasa wyższa)",
+                "en": "E (Upper Class)",
+                "de": "E (Oberklasse)",
+                "uk": "E (вищий клас)",
+                "ru": "E (высший класс)",
+                "zh": "E（上层阶级）"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD / AWD",
+                "uk": "FWD / AWD",
+                "ru": "Передний / полный привод",
+                "zh": "前轮驱动/全轮驱动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2f/vj/bs6b2o740oc8kc888gk44/volvo-s80-ii-sedan.310.jpg"
+        }
+      }
+    ],
+    "S90": [
+      {
+        "BrandID": 144,
+        "ModelID": 414379,
+        "Brand Name": "Volvo",
+        "Model Name": "S90",
+        "Serie Name": "S90 I",
+        "Years": "1996 - 1998",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "2.9L - 3.0L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo S90 to współczesny okręt flagowy marki, ucieleśniający nowoczesny skandynawski luksus. Dzięki minimalistycznemu wnętrzu i zaawansowanym systemom wsparcia, S90 rzuca wyzwanie najlepszym limuzynom klasy premium.",
+              "en": "The Volvo S90 is the brand's contemporary flagship, embodying modern Scandinavian luxury. With a minimalist interior and advanced support systems, the S90 challenges the best premium sedans.",
+              "de": "Der Volvo S90 ist das moderne Flaggschiff der Marke und verkörpert modernen skandinavischen Luxus. Mit einem minimalistischen Innenraum und fortschrittlichen Unterstützungssystemen fordert der S90 die besten Premium-Limousinen heraus.",
+              "uk": "Volvo S90 — це сучасний флагман бренду, що втілює сучасну скандинавську розкіш. Завдяки мінімалістичному інтер’єру та вдосконаленим системам підтримки S90 кидає виклик найкращим седанам преміум-класу.",
+              "ru": "Volvo S90 — современный флагман бренда, олицетворяющий современную скандинавскую роскошь. Благодаря минималистичному интерьеру и передовым системам поддержки S90 бросает вызов лучшим седанам премиум-класса.",
+              "zh": "沃尔沃 S90 是该品牌的当代旗舰产品，体现了现代斯堪的纳维亚奢华。 S90 凭借简约的内饰和先进的支撑系统，挑战最好的高级轿车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": {
+                "pl": "od 2016",
+                "en": "from 2016",
+                "de": "ab 2016",
+                "uk": "з 2016 року",
+                "ru": "с 2016 года",
+                "zh": "自2016年起"
+              },
+              "segment": {
+                "pl": "E (Klasa wyższa)",
+                "en": "E (Upper class)",
+                "de": "E (Oberklasse)",
+                "uk": "E (вищий клас)",
+                "ru": "E (Высший класс)",
+                "zh": "E（上层阶级）"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD / AWD",
+                "uk": "FWD / AWD",
+                "ru": "FWD/AWD",
+                "zh": "前轮驱动/全轮驱动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/aa/4s/dzhhgq0occg4084o4okw4/volvo-s90-i-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 144,
+        "ModelID": 414380,
+        "Brand Name": "Volvo",
+        "Model Name": "S90",
+        "Serie Name": "S90 II",
+        "Years": "2016 - Present",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Luxury",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "2.0L Turbo / Twin Engine (Recharge)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo S90 to flagowa limuzyna marki, ucieleśnienie skandynawskiego luksusu. Minimalistyczne wnętrze i najwyższa jakość wykonania.",
+              "en": "Volvo S90 is the brand's flagship limousine, the embodiment of Scandinavian luxury. Minimalist interior and the highest quality of workmanship.",
+              "de": "Der Volvo S90 ist die Flaggschiff-Limousine der Marke, die Verkörperung skandinavischen Luxus. Minimalistisches Interieur und höchste Verarbeitungsqualität.",
+              "uk": "Volvo S90 — флагманський лімузин марки, втілення скандинавської розкоші. Мінімалістичний інтер'єр і найвища якість виконання.",
+              "ru": "Volvo S90 — флагманский лимузин бренда, воплощение скандинавской роскоши. Минималистичный интерьер и высочайшее качество исполнения.",
+              "zh": "沃尔沃 S90 是该品牌的旗舰豪华轿车，是斯堪的纳维亚奢华的体现。极简的内饰和最高品质的工艺。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": {
+                "pl": "od 2016",
+                "en": "from 2016",
+                "de": "ab 2016",
+                "uk": "з 2016 року",
+                "ru": "от 2016 года",
+                "zh": "自2016年起"
+              },
+              "segment": {
+                "pl": "E"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/aa/4s/dzhhgq0occg4084o4okw4/volvo-s90-i-sedan.310.jpg"
+        }
+      }
+    ],
+    "V40": [
+      {
+        "BrandID": 144,
+        "ModelID": 413624,
+        "Brand Name": "Volvo",
+        "Model Name": "V40",
+        "Serie Name": "V40 I",
+        "Years": "1995 - 2004",
+        "specs": {
+          "bodyType": "Wagon",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo V40 pierwszej generacji to kompaktowe kombi, które skutecznie łączyło cechy auta rodzinnego z dynamicznym stylem życia. Cenione za trwałość i ergonomię, stanowiło fundament sukcesu marki w tym segmencie.",
+              "en": "The first generation Volvo V40 is a compact station wagon that effectively combined the features of a family car with a dynamic lifestyle. Appreciated for durability and ergonomics, it was the foundation of the brand's success in this segment.",
+              "de": "Der Volvo V40 der ersten Generation ist ein kompakter Kombi, der die Eigenschaften eines Familienautos effektiv mit einem dynamischen Lebensstil kombiniert. Es wurde für seine Langlebigkeit und Ergonomie geschätzt und war die Grundlage für den Erfolg der Marke in diesem Segment.",
+              "uk": "Перше покоління Volvo V40 — це компактний універсал, який ефективно поєднав риси сімейного автомобіля з динамічним стилем життя. Його цінували за довговічність і ергономічність, що стало основою успіху бренду в цьому сегменті.",
+              "ru": "Volvo V40 первого поколения — компактный универсал, эффективно сочетающий в себе черты семейного автомобиля с динамичным образом жизни. Ценимый за долговечность и эргономичность, он стал основой успеха бренда в этом сегменте.",
+              "zh": "第一代沃尔沃V40是一款紧凑型旅行车，有效地将家庭用车的功能与充满活力的生活方式结合起来。因其耐用性和人体工程学而受到赞赏，这是该品牌在这一领域取得成功的基础。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": "1995–2004",
+              "segment": {
+                "pl": "C (Kombi premium)",
+                "en": "C (Premium station wagon)",
+                "de": "C (Premium-Kombi)",
+                "uk": "C (універсал преміум-класу)",
+                "ru": "C (Универсал премиум-класса)",
+                "zh": "C（高级庄园）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7h/v7/aorwja80o4wo04c0o0cks/volvo-v40-ii-kombi.310.jpg"
+        }
+      },
+      {
+        "BrandID": 144,
+        "ModelID": 413625,
+        "Brand Name": "Volvo",
+        "Model Name": "V40",
+        "Serie Name": "V40 II",
+        "Years": "2012 - 2019",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.5L T5",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo V40 drugiej generacji to nowoczesny hatchback premium, który zrewolucjonizował bezpieczeństwo w swojej klasie, wprowadzając m.in. poduszkę powietrzną dla pieszego. Zachwyca sportową sylwetką i jakością wykończenia.",
+              "en": "The second generation Volvo V40 is a modern premium hatchback that has revolutionized safety in its class, introducing, among others, pedestrian airbag. It impresses with its sporty silhouette and quality of finish.",
+              "de": "Der Volvo V40 der zweiten Generation ist ein modernes Premium-Fließheck, das die Sicherheit in seiner Klasse revolutioniert hat, unter anderem durch die Einführung eines Fußgänger-Airbags. Es besticht durch seine sportliche Silhouette und die hochwertige Verarbeitung.",
+              "uk": "Volvo V40 другого покоління — це сучасний хетчбек преміум-класу, який зробив революцію в безпеці у своєму класі, представивши, серед іншого, подушку безпеки для пішоходів. Він вражає своїм спортивним силуетом і якістю обробки.",
+              "ru": "Volvo V40 второго поколения — это современный хэтчбек премиум-класса, который произвел революцию в области безопасности в своем классе, представив, среди прочего, подушку безопасности для пешеходов. Он впечатляет своим спортивным силуэтом и качеством отделки.",
+              "zh": "第二代沃尔沃 V40 是一款现代高级掀背车，它彻底改变了同级车的安全性，其中包括引入行人安全气囊。它的运动轮廓和表面质量令人印象深刻。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": "2012–2019",
+              "segment": {
+                "pl": "C (Hatchback premium)",
+                "en": "C (Premium Hatchback)",
+                "de": "C (Premium-Schrägheckmodell)",
+                "uk": "C (Хетчбек преміум-класу)",
+                "ru": "C (Хэтчбек премиум-класса)",
+                "zh": "C（高级掀背车）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7h/v7/aorwja80o4wo04c0o0cks/volvo-v40-ii-kombi.310.jpg"
+        }
+      },
+      {
+        "BrandID": 144,
+        "ModelID": 413626,
+        "Brand Name": "Volvo",
+        "Model Name": "V40 Cross Country",
+        "Serie Name": "V40 Cross Country",
+        "Years": "2013 - 2019",
+        "specs": {
+          "bodyType": "Hatchback (Crossover)",
+          "segment": "Compact",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.5L T5",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo V40 Cross Country to uterenowiona wersja stylowego hatchbacka, oferująca zwiększony prześwit i osłony nadwozia. To propozycja dla osób aktywnych, szukających uniwersalnego auta o skandynawskim charakterze.",
+              "en": "The Volvo V40 Cross Country is an off-road version of the stylish hatchback, offering increased ground clearance and body protection. This is a proposition for active people looking for a universal car with a Scandinavian character.",
+              "de": "Der Volvo V40 Cross Country ist eine Offroad-Version des eleganten Fließheckmodells und bietet mehr Bodenfreiheit und Karosserieschutz. Dies ist ein Angebot für aktive Menschen, die ein universelles Auto mit skandinavischem Charakter suchen.",
+              "uk": "Volvo V40 Cross Country — позашляхова версія стильного хетчбека, що пропонує збільшений кліренс і захист кузова. Це пропозиція для активних людей, які шукають універсальний автомобіль зі скандинавським характером.",
+              "ru": "Volvo V40 Cross Country — внедорожная версия стильного хэтчбека, предлагающая увеличенный дорожный просвет и защиту кузова. Это предложение для активных людей, ищущих универсальный автомобиль со скандинавским характером.",
+              "zh": "沃尔沃 V40 Cross Country 是时尚掀背车的越野版本，提供更大的离地间隙和车身保护。对于寻找具有斯堪的纳维亚特色的通用汽车的活跃人士来说，这是一个建议。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": "2013–2019",
+              "segment": {
+                "pl": "C (Crossover premium)",
+                "en": "C (Crossover premium)",
+                "de": "C (Crossover Premium)",
+                "uk": "C (Crossover premium)",
+                "ru": "C (Кроссовер премиум-класса)",
+                "zh": "C（交叉溢价）"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD / AWD",
+                "uk": "FWD / AWD",
+                "ru": "FWD/AWD",
+                "zh": "前轮驱动/全轮驱动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7h/v7/aorwja80o4wo04c0o0cks/volvo-v40-ii-kombi.310.jpg"
+        }
+      }
+    ],
+    "V50": [
+      {
+        "BrandID": 144,
+        "ModelID": 1710,
+        "Brand Name": "Volvo",
+        "Model Name": "V50",
+        "Serie Name": "V50",
+        "Years": "2004 - 2012",
+        "specs": {
+          "bodyType": "Wagon",
+          "segment": "Compact",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.5L T5",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo V50 to stylowe kombi oparte na modelu S40, idealnie łączące kompaktowe wymiary z funkcjonalnością i estetyką Volvo. Dzięki przemyślanej przestrzeni bagażowej stało się popularnym wyborem dla osób ceniących aktywny tryb życia.",
+              "en": "Volvo V50 is a stylish station wagon based on the S40 model, perfectly combining compact dimensions with Volvo functionality and aesthetics. Thanks to the well-thought-out luggage space, it has become a popular choice for people who value an active lifestyle.",
+              "de": "Der Volvo V50 ist ein stilvoller Kombi auf Basis des S40-Modells, der kompakte Abmessungen perfekt mit der Funktionalität und Ästhetik von Volvo verbindet. Dank des durchdachten Gepäckraums ist er zu einer beliebten Wahl für Menschen geworden, die Wert auf einen aktiven Lebensstil legen.",
+              "uk": "Volvo V50 — це стильний універсал на базі моделі S40, який ідеально поєднує компактні розміри з функціональністю та естетикою Volvo. Завдяки продуманому багажному відсіку він став популярним вибором для людей, які цінують активний спосіб життя.",
+              "ru": "Volvo V50 — стильный универсал на базе модели S40, прекрасно сочетающий компактные размеры с функциональностью и эстетикой Volvo. Благодаря продуманному багажному отделению он стал популярным выбором людей, ценящих активный образ жизни.",
+              "zh": "沃尔沃 V50 是一款基于 S40 车型的时尚旅行车，将紧凑的尺寸与沃尔沃的功能和美学完美结合。由于精心设计的行李空间，它已成为重视积极生活方式的人们的热门选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": "2004–2012",
+              "segment": {
+                "pl": "C (Kombi premium)",
+                "en": "C (Premium station wagon)",
+                "de": "C (Premium-Kombi)",
+                "uk": "C (універсал преміум-класу)",
+                "ru": "C (универсал премиум-класса)",
+                "zh": "C（高级庄园）"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD / AWD",
+                "uk": "FWD / AWD",
+                "ru": "FWD/AWD",
+                "zh": "前轮驱动/全轮驱动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9g/lw/ogw8v6sks48oskgwowkwg/volvo-v50-ii-kombi.310.jpg"
+        }
+      }
+    ],
+    "V60": [
+      {
+        "BrandID": 144,
+        "ModelID": 1711,
+        "Brand Name": "Volvo",
+        "Model Name": "V60",
+        "Serie Name": "V60 I",
+        "Years": "2010 - 2018",
+        "specs": {
+          "bodyType": "Wagon",
+          "segment": "Mid-size",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "1.6L - 3.0L T6 / D6 Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo V60 pierwszej generacji to dynamiczne kombi klasy średniej, które zdefiniowało nowy język stylistyczny marki. Oferując zaawansowane napędy i sportowe prowadzenie, stało się ikoną nowoczesnego, aktywnego kombi we szwedzkim wydaniu.",
+              "en": "The first generation Volvo V60 is a dynamic mid-class station wagon that defined the brand's new stylistic language. Offering advanced drives and sporty handling, it has become an icon of a modern, active station wagon in the Swedish version.",
+              "de": "Der Volvo V60 der ersten Generation ist ein dynamischer Mittelklasse-Kombi, der die neue Stilsprache der Marke prägte. Mit fortschrittlichen Antrieben und sportlichem Handling ist er in der schwedischen Version zur Ikone eines modernen, aktiven Kombis geworden.",
+              "uk": "Перше покоління Volvo V60 — це динамічний універсал середнього класу, який визначив нову стилістичну мову бренду. Пропонуючи передові приводи та спортивну керованість, він став іконою сучасного активного універсалу у шведській версії.",
+              "ru": "Volvo V60 первого поколения — динамичный универсал среднего класса, определивший новый стилистический язык бренда. Предлагая передовые приводы и спортивную управляемость, он в шведской версии стал символом современного активного универсала.",
+              "zh": "第一代沃尔沃 V60 是一款动感十足的中级旅行车，定义了该品牌新的风格语言。它具有先进的驱动装置和运动型操控性，已成为瑞典版现代活跃旅行车的标志。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": "2010–2018",
+              "segment": {
+                "pl": "D (Kombi premium)",
+                "en": "D (Premium station wagon)",
+                "de": "D (Premium-Kombi)",
+                "uk": "D (універсал преміум-класу)",
+                "ru": "D (Универсал премиум-класса)",
+                "zh": "D（高级庄园）"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD / AWD",
+                "uk": "FWD / AWD",
+                "ru": "FWD/AWD",
+                "zh": "前轮驱动/全轮驱动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9u/ce/hvnrs94484k8www8g8k4c/z.310.jpg"
+        }
+      },
+      {
+        "BrandID": 144,
+        "ModelID": 416624,
+        "Brand Name": "Volvo",
+        "Model Name": "V60",
+        "Serie Name": "V60 II",
+        "Years": "2018 - Present",
+        "specs": {
+          "bodyType": "Wagon",
+          "segment": "Mid-size",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "2.0L Turbo / Twin Engine (Recharge)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Volvo V60 drugiej generacji to eleganckie, nowoczesne kombi, które łączy skandynawski minimalizm z wybitną funkcjonalnością. Dzięki wiodącym w klasie systemom bezpieczeństwa i zaawansowanym napędom hybrydowym, jest idealnym wyborem dla świadomego użytkownika premium.",
+              "en": "The second generation Volvo V60 is an elegant, modern station wagon that combines Scandinavian minimalism with outstanding functionality. With class-leading safety systems and advanced hybrid drives, it is the perfect choice for the conscious premium user.",
+              "de": "Der Volvo V60 der zweiten Generation ist ein eleganter, moderner Kombi, der skandinavischen Minimalismus mit herausragender Funktionalität verbindet. Mit erstklassigen Sicherheitssystemen und fortschrittlichen Hybridantrieben ist es die perfekte Wahl für den bewussten Premium-Nutzer.",
+              "uk": "Друге покоління Volvo V60 — це елегантний сучасний універсал, який поєднує скандинавський мінімалізм із видатною функціональністю. Завдяки найкращим у своєму класі системам безпеки та передовим гібридним приводам це ідеальний вибір для свідомого користувача преміум-класу.",
+              "ru": "Volvo V60 второго поколения — элегантный современный универсал, сочетающий в себе скандинавский минимализм с выдающейся функциональностью. Благодаря лучшим в своем классе системам безопасности и усовершенствованным гибридным приводам это идеальный выбор для сознательного пользователя премиум-класса.",
+              "zh": "第二代沃尔沃 V60 是一款优雅、现代的旅行车，将斯堪的纳维亚极简主义与出色的功能融为一体。凭借一流的安全系统和先进的混合动力驱动器，它是有意识的高级用户的完美选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "from 2018",
+                "de": "von 2018",
+                "uk": "з 2018 року",
+                "ru": "с 2018 года",
+                "zh": "2018年以来"
+              },
+              "segment": {
+                "pl": "D (Kombi premium)",
+                "en": "D (Premium estate)",
+                "de": "D (Premium-Kombi)",
+                "uk": "D (Універсал преміум-класу)",
+                "ru": "D (универсал премиум-класса)",
+                "zh": "D（高级庄园）"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD / AWD",
+                "uk": "FWD / AWD",
+                "ru": "FWD/AWD",
+                "zh": "前轮驱动/全轮驱动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9u/ce/hvnrs94484k8www8g8k4c/z.310.jpg"
+        }
+      },
+      {
+        "BrandID": 144,
+        "ModelID": 416625,
+        "Brand Name": "Volvo",
+        "Model Name": "V60 Cross Country",
+        "Serie Name": "V60 Cross Country",
+        "Years": "2015 - Present",
+        "specs": {
+          "bodyType": "Wagon (Crossover)",
+          "segment": "Mid-size",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 2.5L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo V60 Cross Country to luksusowe kombi o uterenowionym charakterze, które zachwyca pewnością prowadzenia w każdych warunkach. Zwiększony prześwit, napęd na wszystkie koła i charakterystyczne osłony nadwozia podkreślają jego wszechstronność.",
+              "en": "The Volvo V60 Cross Country is a luxurious estate with an off-road character that impresses with driving confidence in all conditions. Increased ground clearance, all-wheel drive and distinctive body panels emphasize its versatility.",
+              "de": "Der Volvo V60 Cross Country ist ein luxuriöser Kombi mit Offroad-Charakter, der unter allen Bedingungen durch Fahrsicherheit überzeugt. Erhöhte Bodenfreiheit, Allradantrieb und markante Karosserieteile unterstreichen seine Vielseitigkeit.",
+              "uk": "Volvo V60 Cross Country — це розкішний універсал із позашляховим характером, який вражає впевненістю водіння за будь-яких умов. Збільшений кліренс, повний привід і характерні панелі кузова підкреслюють його універсальність.",
+              "ru": "Volvo V60 Cross Country — это роскошный универсал с внедорожным характером, впечатляющий уверенностью при вождении в любых условиях. Увеличенный клиренс, полный привод и характерные панели кузова подчеркивают его универсальность.",
+              "zh": "沃尔沃 V60 Cross Country 是一款具有越野特性的豪华旅行车，在任何条件下都能给人留下深刻的驾驶信心。增加的离地间隙、全轮驱动和独特的车身面板强调了其多功能性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": {
+                "pl": "od 2015",
+                "en": "from 2015",
+                "de": "ab 2015",
+                "uk": "з 2015 року",
+                "ru": "от 2015 года.",
+                "zh": "自2015年起"
+              },
+              "segment": {
+                "pl": "D (Crossover premium)",
+                "en": "D (Crossover premium)",
+                "de": "D (Crossover Premium)",
+                "uk": "D (Crossover premium)",
+                "ru": "D (Кроссовер премиум-класса)",
+                "zh": "D（交叉溢价）"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9u/ce/hvnrs94484k8www8g8k4c/z.310.jpg"
+        }
+      }
+    ],
+    "V70": [
+      {
+        "BrandID": 144,
+        "ModelID": 156227,
+        "Brand Name": "Volvo",
+        "Model Name": "V70",
+        "Serie Name": "V70 I",
+        "Years": "1996 - 2000",
+        "specs": {
+          "bodyType": "Wagon",
+          "segment": "Executive",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 2.4L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo V70 pierwszej generacji to bezpośredni następca modelu 850, który umocnił reputację marki jako producenta najbezpieczniejszych kombi na świecie. Oferując ogromną przestrzeń i klasyczny szwedzki design, stał się wzorcem auta rodzinnego.",
+              "en": "The first generation Volvo V70 is a direct successor to the 850 model, which strengthened the brand's reputation as the manufacturer of the safest station wagons in the world. Offering huge space and classic Swedish design, it has become a benchmark for a family car.",
+              "de": "Der Volvo V70 der ersten Generation ist ein direkter Nachfolger des Modells 850, das den Ruf der Marke als Hersteller der sichersten Kombis der Welt stärkte. Mit seinem riesigen Platzangebot und dem klassischen schwedischen Design ist er zum Maßstab für ein Familienauto geworden.",
+              "uk": "Перше покоління Volvo V70 є прямим наступником моделі 850, яка зміцнила репутацію бренду як виробника найбезпечніших універсалів у світі. Пропонуючи величезний простір і класичний шведський дизайн, він став еталоном для сімейного автомобіля.",
+              "ru": "Volvo V70 первого поколения является прямым преемником модели 850, что укрепило репутацию бренда как производителя самых безопасных универсалов в мире. Обладая огромным пространством и классическим шведским дизайном, он стал эталоном семейного автомобиля.",
+              "zh": "第一代沃尔沃 V70 是 850 车型的直接后继产品，巩固了该品牌作为全球最安全旅行车制造商的声誉。宽敞的空间和经典的瑞典设计，已成为家庭用车的标杆。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": "1996–2000",
+              "segment": {
+                "pl": "E (Kombi premium)",
+                "en": "E (Premium station wagon)",
+                "de": "E (Premium-Kombi)",
+                "uk": "E (універсал преміум-класу)",
+                "ru": "E (универсал премиум-класса)",
+                "zh": "E（高级庄园）"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD / AWD",
+                "uk": "FWD / AWD",
+                "ru": "FWD/AWD",
+                "zh": "前轮驱动/全轮驱动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/28/d0/5ty11fy80004k8co00k0g/volvo-v70-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 144,
+        "ModelID": 161839,
+        "Brand Name": "Volvo",
+        "Model Name": "V70",
+        "Serie Name": "V70 II",
+        "Years": "2000 - 2007",
+        "specs": {
+          "bodyType": "Wagon",
+          "segment": "Executive",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/CNG",
+          "engine": "2.0L - 2.5L R",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo V70 drugiej generacji to kultowe kombi, które zdefiniowało nową erę komfortu i funkcjonalności. Dzięki charakterystycznej tylnej linii nadwozia i innowacyjnym systemom poprawiającym trzymanie się drogi, stało się ikoną bezpieczeństwa swojej epoki.",
+              "en": "The second generation Volvo V70 is an iconic station wagon that defined a new era of comfort and functionality. Thanks to its distinctive rear body line and innovative road-holding systems, it became a safety icon of its era.",
+              "de": "Der Volvo V70 der zweiten Generation ist ein ikonischer Kombi, der eine neue Ära des Komforts und der Funktionalität definierte. Dank seiner markanten Hecklinie und innovativen Straßenhaltesysteme wurde er zum Sicherheitssymbol seiner Zeit.",
+              "uk": "Друге покоління Volvo V70 — це культовий універсал, який визначив нову еру комфорту та функціональності. Завдяки виразній лінії задньої частини кузова та інноваційним системам зчеплення з дорогою він став іконою безпеки своєї епохи.",
+              "ru": "Volvo V70 второго поколения — культовый универсал, определивший новую эру комфорта и функциональности. Благодаря характерной линии задней части кузова и инновационным системам курсовой устойчивости он стал символом безопасности своего времени.",
+              "zh": "第二代沃尔沃 V70 是一款标志性旅行车，定义了舒适性和功能性的新时代。凭借其独特的后车身线条和创新的抓地系统，它成为了那个时代的安全标志。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": "2000–2007",
+              "segment": {
+                "pl": "E (Kombi premium)",
+                "en": "E (Premium station wagon)",
+                "de": "E (Premium-Kombi)",
+                "uk": "E (універсал преміум-класу)",
+                "ru": "E (Универсал премиум-класса)",
+                "zh": "E（高级庄园）"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD / AWD",
+                "uk": "FWD / AWD",
+                "ru": "FWD/AWD",
+                "zh": "前轮驱动/全轮驱动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/28/d0/5ty11fy80004k8co00k0g/volvo-v70-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 144,
+        "ModelID": 413627,
+        "Brand Name": "Volvo",
+        "Model Name": "V70",
+        "Serie Name": "V70 III",
+        "Years": "2007 - 2016",
+        "specs": {
+          "bodyType": "Wagon",
+          "segment": "Executive",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 3.2L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo V70 trzeciej generacji to najbardziej dojrzałe wcielenie modelu, oparte na architekturze luksusowej limuzyny S80. Zapewnia wybitny poziom wyciszenia, najwyższej jakości materiały i niezrównaną pewność prowadzenia.",
+              "en": "The third generation Volvo V70 is the most mature incarnation of the model, based on the architecture of the S80 luxury limousine. It provides an outstanding level of silence, top-quality materials and unrivaled driving confidence.",
+              "de": "Der Volvo V70 der dritten Generation ist die ausgereifteste Inkarnation des Modells und basiert auf der Architektur der Luxuslimousine S80. Es bietet ein hervorragendes Maß an Laufruhe, hochwertige Materialien und unübertroffenes Fahrvertrauen.",
+              "uk": "Третє покоління Volvo V70 є найдосконалішим втіленням моделі, засноване на архітектурі розкішного лімузина S80. Він забезпечує винятковий рівень тиші, високоякісні матеріали та неперевершену впевненість водіння.",
+              "ru": "Третье поколение Volvo V70 — наиболее зрелое воплощение модели, основанное на архитектуре роскошного лимузина S80. Он обеспечивает выдающийся уровень тишины, высококачественные материалы и непревзойденную уверенность при вождении.",
+              "zh": "第三代沃尔沃V70是该车型最成熟的化身，基于豪华S80豪华轿车的架构。它提供了卓越的静音水平、优质材料和无与伦比的驾驶信心。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": "2007–2016",
+              "segment": {
+                "pl": "E (Kombi premium)",
+                "en": "E (Premium station wagon)",
+                "de": "E (Premium-Kombi)",
+                "uk": "E (універсал преміум-класу)",
+                "ru": "E (Универсал премиум-класса)",
+                "zh": "E（高级庄园）"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD / AWD",
+                "uk": "FWD / AWD",
+                "ru": "FWD/AWD",
+                "zh": "前轮驱动/全轮驱动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/28/d0/5ty11fy80004k8co00k0g/volvo-v70-iii.310.jpg"
+        }
+      }
+    ],
+    "V90": [
+      {
+        "BrandID": 144,
+        "ModelID": 414383,
+        "Brand Name": "Volvo",
+        "Model Name": "V90",
+        "Serie Name": "V90 I",
+        "Years": "1996 - 1998",
+        "specs": {
+          "bodyType": "Wagon",
+          "segment": "Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "2.5L - 3.0L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo V90 pierwszej generacji to szlachetne kombi o klasycznej linii, będące kontynuacją prestiżowego modelu 960. Jako flagowy model z napędem na tylną oś, łączyło monumentalny spokój prowadzenia z najwyższym standardem wykończenia.",
+              "en": "The first generation Volvo V90 is a noble station wagon with a classic line, a continuation of the prestigious 960 model. As a flagship model with rear-wheel drive, it combined monumental driving comfort with the highest standard of finishing.",
+              "de": "Der Volvo V90 der ersten Generation ist ein edler Kombi mit klassischer Linie, eine Fortsetzung des prestigeträchtigen Modells 960. Als Spitzenmodell mit Hinterradantrieb vereinte er enormen Fahrkomfort mit höchstem Verarbeitungsstandard.",
+              "uk": "Перше покоління Volvo V90 - благородний універсал з класичною лінією, продовження престижної моделі 960. Як флагманська модель із заднім приводом, вона поєднувала монументальний комфорт водіння з найвищим стандартом обробки.",
+              "ru": "Volvo V90 первого поколения — благородный универсал классической линии, продолжение престижной модели 960. Будучи флагманской моделью с задним приводом, она сочетала в себе монументальный комфорт вождения с высочайшим стандартом отделки.",
+              "zh": "第一代沃尔沃V90是一款具有经典线条的高贵旅行车，是久负盛名的960车型的延续。作为一款后轮驱动的旗舰车型，它将卓越的驾驶舒适性与最高标准的装饰融为一体。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": "1996–1998",
+              "segment": {
+                "pl": "E (Luksusowe kombi)",
+                "en": "E (Luxury Estate)",
+                "de": "E (Luxury Estate)",
+                "uk": "E (Luxury Estate)",
+                "ru": "E (Luxury Estate)",
+                "zh": "E（豪华庄园）"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6d/f5/ksn73y0w40ws8wwwksk40/volvo-v90-i.310.jpg"
+        }
+      },
+      {
+        "BrandID": 144,
+        "ModelID": 414384,
+        "Brand Name": "Volvo",
+        "Model Name": "V90",
+        "Serie Name": "V90 II",
+        "Years": "2016 - Present",
+        "specs": {
+          "bodyType": "Wagon",
+          "segment": "Luxury",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "2.0L Turbo / Twin Engine (Recharge)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Współczesne Volvo V90 to flagowe kombi serii 90, będące szczytem skandynawskiego luksusu. Minimalistyczny design i zaawansowane systemy wsparcia kierowcy tworzą atmosferę spokoju i bezpieczeństwa w segmencie premium.",
+              "en": "The modern Volvo V90 is the flagship estate of the 90 series and is the pinnacle of Scandinavian luxury. Minimalist design and advanced driver support systems create an atmosphere of peace and safety in the premium segment.",
+              "de": "Der moderne Volvo V90 ist das Flaggschiff der 90er-Serie und der Inbegriff des skandinavischen Luxus. Minimalistisches Design und fortschrittliche Fahrerassistenzsysteme schaffen eine Atmosphäre der Ruhe und Sicherheit im Premiumsegment.",
+              "uk": "Сучасний Volvo V90 є флагманським універсалом серії 90 і є вершиною скандинавської розкоші. Мінімалістичний дизайн і передові системи підтримки водія створюють атмосферу спокою і безпеки в преміальному сегменті.",
+              "ru": "Современный Volvo V90 — флагманский универсал 90-й серии, вершина скандинавской роскоши. Минималистичный дизайн и передовые системы поддержки водителя создают атмосферу спокойствия и безопасности в премиум-сегменте.",
+              "zh": "现代沃尔沃 V90 是 90 系列的旗舰旅行车，是斯堪的纳维亚奢华的顶峰。简约的设计和先进的驾驶员支持系统在高端市场营造出一种和平与安全的氛围。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": {
+                "pl": "od 2016",
+                "en": "from 2016",
+                "de": "ab 2016",
+                "uk": "з 2016 р.",
+                "ru": "с 2016 года.",
+                "zh": "自2016年起"
+              },
+              "segment": {
+                "pl": "E (Luksusowe kombi)",
+                "en": "E (Luxury station wagon)",
+                "de": "E (Luxus-Kombi)",
+                "uk": "E (розкішний універсал)",
+                "ru": "E (Универсал класса люкс)",
+                "zh": "E（豪华庄园）"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD / AWD",
+                "uk": "FWD / AWD",
+                "ru": "FWD/AWD",
+                "zh": "前轮驱动/全轮驱动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6d/f5/ksn73y0w40ws8wwwksk40/volvo-v90-i.310.jpg"
+        }
+      },
+      {
+        "BrandID": 144,
+        "ModelID": 416626,
+        "Brand Name": "Volvo",
+        "Model Name": "V90 Cross Country",
+        "Serie Name": "V90 Cross Country",
+        "Years": "2016 - Present",
+        "specs": {
+          "bodyType": "Wagon (Crossover)",
+          "segment": "Luxury",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo V90 Cross Country to luksusowy krążownik szos o uterenowionym charakterze. Łącząc elegancję limuzyny z dzielnością SUV-a, oferuje niezrównany komfort podróżowania bez względu na jakość nawierzchni.",
+              "en": "The Volvo V90 Cross Country is a luxury road cruiser with off-road character. Combining the elegance of a limousine with the agility of an SUV, it offers unrivaled travel comfort regardless of the quality of the road surface.",
+              "de": "Der Volvo V90 Cross Country ist ein Luxus-Straßenkreuzer mit Offroad-Charakter. Er vereint die Eleganz einer Limousine mit der Agilität eines SUV und bietet unabhängig von der Beschaffenheit des Straßenbelags unübertroffenen Reisekomfort.",
+              "uk": "Volvo V90 Cross Country — це розкішний дорожній круїзер із позашляховим характером. Поєднуючи елегантність лімузина з маневреністю позашляховика, він пропонує неперевершений комфорт подорожей незалежно від якості дорожнього покриття.",
+              "ru": "Volvo V90 Cross Country — роскошный дорожный круизер с внедорожным характером. Сочетая элегантность лимузина с маневренностью внедорожника, он предлагает непревзойденный комфорт в путешествии независимо от качества дорожного покрытия.",
+              "zh": "沃尔沃 V90 Cross Country 是一款具有越野特色的豪华公路巡洋舰。它结合了豪华轿车的优雅与 SUV 的敏捷性，无论路面质量如何，都能提供无与伦比的旅行舒适度。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": {
+                "pl": "od 2016",
+                "en": "from 2016",
+                "de": "ab 2016",
+                "uk": "2016 року випуску",
+                "ru": "от 2016 года.",
+                "zh": "自2016年起"
+              },
+              "segment": {
+                "pl": "E (Luksusowy crossover)",
+                "en": "E (Luxury crossover)",
+                "de": "E (Luxus-Crossover)",
+                "uk": "E (розкішний кросовер)",
+                "ru": "E (Кроссовер класса «люкс»)",
+                "zh": "E（豪华跨界车）"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6d/f5/ksn73y0w40ws8wwwksk40/volvo-v90-i.310.jpg"
+        }
+      }
+    ],
+    "XC40": [
+      {
+        "BrandID": 144,
+        "ModelID": 414391,
+        "Brand Name": "Volvo",
+        "Model Name": "XC40",
+        "Serie Name": "XC40",
+        "Years": "2017 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/PHEV/Electric",
+          "engine": "1.5L - 2.0L / Recharge",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo XC40 to miejski SUV, który odmienił wizerunek marki, stawiając na młodzieńczy design i maksymalną praktyczność. Laureat tytułu Europejskiego Samochodu Roku, łączy innowacje z tradycyjnym szwedzkim podejściem do bezpieczeństwa.",
+              "en": "Volvo XC40 is an urban SUV that has changed the brand's image, focusing on youthful design and maximum practicality. Winner of the European Car of the Year title, it combines innovation with a traditional Swedish approach to safety.",
+              "de": "Der Volvo XC40 ist ein urbaner SUV, der das Image der Marke verändert hat und sich auf jugendliches Design und maximale Praktikabilität konzentriert. Als Gewinner des Titels „Europäisches Auto des Jahres“ verbindet es Innovation mit einem traditionellen schwedischen Sicherheitsansatz.",
+              "uk": "Volvo XC40 — міський позашляховик, який змінив імідж бренду, зробивши акцент на молодіжному дизайні та максимальній практичності. Володар титулу «Європейський автомобіль року», він поєднує інновації з традиційним шведським підходом до безпеки.",
+              "ru": "Volvo XC40 — городской внедорожник, изменивший имидж бренда, сделав упор на молодежный дизайн и максимальную практичность. Обладатель титула «Европейский автомобиль года», он сочетает в себе инновации с традиционным шведским подходом к безопасности.",
+              "zh": "沃尔沃XC40是一款改变了品牌形象的城市SUV，注重年轻化的设计和最大程度的实用性。它荣获欧洲年度汽车称号，将创新与瑞典传统的安全方法相结合。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": {
+                "pl": "od 2017",
+                "en": "from 2017",
+                "de": "von 2017",
+                "uk": "з 2017 року",
+                "ru": "с 2017 года",
+                "zh": "2017年以来"
+              },
+              "segment": {
+                "pl": "SUV (Kompaktowe premium)",
+                "en": "SUV (Compact Premium)",
+                "de": "SUV (Compact Premium)",
+                "uk": "Позашляховик (компактний преміум)",
+                "ru": "Внедорожник (Компактный Премиум)",
+                "zh": "SUV（紧凑型高级）"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD / AWD",
+                "uk": "FWD / AWD",
+                "ru": "передний/полный привод",
+                "zh": "前轮驱动/全轮驱动"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "XC60": [
+      {
+        "BrandID": 144,
+        "ModelID": 414381,
+        "Brand Name": "Volvo",
+        "Model Name": "XC60",
+        "Serie Name": "XC60 I",
+        "Years": "2008 - 2017",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 3.2L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo XC60 to najlepiej sprzedający się model marki na świecie, definiujący segment średnich SUV-ów premium. Dzięki doskonałym proporcjom i zaawansowanym systemom bezpieczeństwa, XC60 stało się ulubionym wyborem wymagających rodzin.",
+              "en": "The Volvo XC60 is the brand's best-selling model in the world, defining the premium mid-size SUV segment. Thanks to its excellent proportions and advanced safety systems, the XC60 has become a favorite choice for demanding families.",
+              "de": "Der Volvo XC60 ist das meistverkaufte Modell der Marke weltweit und definiert das Premium-Mittelklasse-SUV-Segment. Dank seiner hervorragenden Proportionen und fortschrittlichen Sicherheitssysteme ist der XC60 zur bevorzugten Wahl für anspruchsvolle Familien geworden.",
+              "uk": "Volvo XC60 є найбільш продаваною моделлю бренду в світі, що визначає сегмент позашляховиків преміум-класу середнього розміру. Завдяки чудовим пропорціям і вдосконаленим системам безпеки XC60 став улюбленим вибором для вимогливих сімей.",
+              "ru": "Volvo XC60 — самая продаваемая модель бренда в мире, определяющая сегмент среднеразмерных внедорожников премиум-класса. Благодаря превосходным пропорциям и передовым системам безопасности XC60 стал любимым выбором требовательных семей.",
+              "zh": "沃尔沃 XC60 是该品牌全球最畅销的车型，定义了高端中型 SUV 细分市场。凭借出色的车身比例和先进的安全系统，XC60成为高要求家庭的最爱选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": {
+                "pl": "od 2008",
+                "en": "from 2008",
+                "de": "ab 2008",
+                "uk": "з 2008 р.",
+                "ru": "с 2008 года",
+                "zh": "自2008年以来"
+              },
+              "segment": {
+                "pl": "SUV (Średnie premium)",
+                "en": "SUV (Premium mid-size)",
+                "de": "SUV (Premium-Mittelklasse)",
+                "uk": "Позашляховик (середньорозмірний клас преміум-класу)",
+                "ru": "Внедорожник (средний премиум)",
+                "zh": "SUV（中高档）"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD / AWD",
+                "uk": "Передньопривідний / повний привід",
+                "ru": "передний/полный привод",
+                "zh": "前轮驱动/全轮驱动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6l/ia/jsiezbsws0k484wscsk88/volvo-xc60-i.310.jpg"
+        }
+      },
+      {
+        "BrandID": 144,
+        "ModelID": 414382,
+        "Brand Name": "Volvo",
+        "Model Name": "XC60",
+        "Serie Name": "XC60 II",
+        "Years": "2017 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "2.0L Turbo / Twin Engine (Recharge)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Volvo XC60 to najlepiej sprzedający się model marki na świecie, definiujący segment średnich SUV-ów premium. Dzięki doskonałym proporcjom i zaawansowanym systemom bezpieczeństwa, XC60 stało się ulubionym wyborem wymagających rodzin.",
+              "en": "The Volvo XC60 is the brand's best-selling model in the world, defining the premium mid-size SUV segment. Thanks to its excellent proportions and advanced safety systems, the XC60 has become a favorite choice for demanding families.",
+              "de": "Der Volvo XC60 ist das meistverkaufte Modell der Marke weltweit und definiert das Premium-Mittelklasse-SUV-Segment. Dank seiner hervorragenden Proportionen und fortschrittlichen Sicherheitssysteme ist der XC60 zur bevorzugten Wahl für anspruchsvolle Familien geworden.",
+              "uk": "Volvo XC60 є найбільш продаваною моделлю бренду в світі, що визначає сегмент позашляховиків середнього розміру преміум-класу. Завдяки чудовим пропорціям і вдосконаленим системам безпеки XC60 став улюбленим вибором для вимогливих сімей.",
+              "ru": "Volvo XC60 — самая продаваемая модель бренда в мире, определяющая сегмент среднеразмерных внедорожников премиум-класса. Благодаря превосходным пропорциям и передовым системам безопасности XC60 стал любимым выбором требовательных семей.",
+              "zh": "沃尔沃 XC60 是该品牌全球最畅销的车型，定义了高端中型 SUV 细分市场。凭借出色的车身比例和先进的安全系统，XC60成为高要求家庭的最爱选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": {
+                "pl": "od 2008",
+                "en": "from 2008",
+                "de": "ab 2008",
+                "uk": "з 2008 року",
+                "ru": "с 2008 года",
+                "zh": "自2008年以来"
+              },
+              "segment": {
+                "pl": "SUV (Średnie premium)",
+                "en": "SUV (Premium medium)",
+                "de": "SUV (Premium Medium)",
+                "uk": "Позашляховик (преміальний середній)",
+                "ru": "Внедорожник (средний премиум)",
+                "zh": "SUV（中高档）"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD / AWD",
+                "uk": "FWD / AWD",
+                "ru": "передний/полный привод",
+                "zh": "前轮驱动/全轮驱动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6l/ia/jsiezbsws0k484wscsk88/volvo-xc60-i.310.jpg"
+        }
+      }
+    ],
+    "XC70": [
+      {
+        "BrandID": 144,
+        "ModelID": 413628,
+        "Brand Name": "Volvo",
+        "Model Name": "XC70",
+        "Serie Name": "XC70 I",
+        "Years": "1997 - 2000",
+        "specs": {
+          "bodyType": "Wagon (Crossover)",
+          "segment": "Executive",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo XC70 pierwszej generacji to model, który zapoczątkował modę na uterenowione luksusowe kombi. Dzięki napędowi na obie osie i solidnej budowie, zyskało miano niezniszczalnego auta do zadań specjalnych.",
+              "en": "The first generation Volvo XC70 is the model that started the fashion for off-road luxury station wagons. Thanks to its all-wheel drive and solid construction, it has gained the reputation of an indestructible car for special tasks.",
+              "de": "Der Volvo XC70 der ersten Generation ist das Modell, mit dem die Mode für Offroad-Luxuskombis begann. Dank seines Allradantriebs und seiner soliden Bauweise hat er sich den Ruf eines unverwüstlichen Autos für besondere Aufgaben erworben.",
+              "uk": "Перше покоління Volvo XC70 — це модель, яка поклала початок моді на позашляхові розкішні універсали. Завдяки повному приводу та надійній конструкції він заслужив репутацію непорушного автомобіля для спеціальних завдань.",
+              "ru": "Volvo XC70 первого поколения – модель, положившая начало моде на внедорожные универсалы класса люкс. Благодаря полному приводу и прочной конструкции он завоевал репутацию неубиваемого автомобиля для выполнения специальных задач.",
+              "zh": "第一代沃尔沃XC70是开启越野豪华旅行车时尚的车型。由于其全轮驱动和坚固的结构，它赢得了坚不可摧的特殊任务汽车的声誉。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": "1997–2000",
+              "segment": {
+                "pl": "SUV (Crossover premium)",
+                "en": "SUV (Premium Crossover)",
+                "de": "SUV (Premium Crossover)",
+                "uk": "Позашляховик (кросовер преміум-класу)",
+                "ru": "Внедорожник (Кроссовер премиум)",
+                "zh": "SUV（豪华跨界车）"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3q/lj/ii70na4ggscokoc4ookkw/volvo-xc70-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 144,
+        "ModelID": 413617,
+        "Brand Name": "Volvo",
+        "Model Name": "XC70",
+        "Serie Name": "XC70 II",
+        "Years": "2000 - 2007",
+        "specs": {
+          "bodyType": "Wagon (Crossover)",
+          "segment": "Executive",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.4L - 2.5L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo XC70 drugiej generacji to ikona wszechstronności, oferująca luksusowy charakter Volvo w opakowaniu gotowym na każdą przygodę. Model ten stał się kultowy wśród osób szukających auta o najwyższej trwałości.",
+              "en": "The second-generation Volvo XC70 is an icon of versatility, offering Volvo luxury in a package ready for any adventure. This model has become a cult among people looking for a car with the highest durability.",
+              "de": "Der Volvo XC70 der zweiten Generation ist ein Symbol der Vielseitigkeit und bietet Volvo-Luxus in einem Paket, das für jedes Abenteuer gerüstet ist. Dieses Modell ist zu einem Kult unter Menschen geworden, die ein Auto mit höchster Haltbarkeit suchen.",
+              "uk": "Volvo XC70 другого покоління є іконою універсальності, що пропонує розкіш Volvo у пакеті, готовому до будь-яких пригод. Ця модель стала культовою серед людей, які шукають автомобіль з найвищою міцністю.",
+              "ru": "Volvo XC70 второго поколения — это символ универсальности, сочетающий роскошный характер Volvo в упаковке, готовой к любым приключениям. Эта модель стала культовой среди людей, ищущих автомобиль с максимальной долговечностью.",
+              "zh": "第二代沃尔沃 XC70 是多功能性的象征，将沃尔沃的豪华品质融入到适合任何冒险的套装中。该车型已成为寻求最高耐用性汽车的人们的狂热追捧。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": "2000–2007",
+              "segment": {
+                "pl": "SUV (Crossover premium)",
+                "en": "SUV (Crossover premium)",
+                "de": "SUV (Crossover Premium)",
+                "uk": "Позашляховик (кросовер преміум-класу)",
+                "ru": "Внедорожник (Кроссовер премиум)",
+                "zh": "SUV（豪华跨界车）"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3q/lj/ii70na4ggscokoc4ookkw/volvo-xc70-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 144,
+        "ModelID": 413853,
+        "Brand Name": "Volvo",
+        "Model Name": "XC70",
+        "Serie Name": "XC70 III",
+        "Years": "2007 - 2016",
+        "specs": {
+          "bodyType": "Wagon (Crossover)",
+          "segment": "Executive",
+          "drive": "AWD/FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 3.2L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo XC70 trzeciej generacji to najbardziej zaawansowane wcielenie Cross Country, oferujące luksus limuzyny S80 z najwyższą dzielnością terenową kombi. To wzorzec bezpiecznego i mocnego auta na każdą drogę.",
+              "en": "The third generation Volvo XC70 is the most advanced incarnation of Cross Country, offering the luxury of an S80 limousine with the highest off-road capability of a station wagon. It is a model of a safe and strong car for every road.",
+              "de": "Der Volvo XC70 der dritten Generation ist die fortschrittlichste Inkarnation des Cross Country und bietet den Luxus einer S80-Limousine mit der höchsten Geländetauglichkeit eines Kombis. Es ist ein Musterbeispiel für ein sicheres und starkes Auto für jede Straße.",
+              "uk": "Третє покоління Volvo XC70 є найдосконалішим втіленням Cross Country, що пропонує розкіш лімузина S80 із найвищою позашляховою здатністю універсалу. Це модель безпечного та міцного автомобіля для будь-якої дороги.",
+              "ru": "Volvo XC70 третьего поколения — самое передовое воплощение Cross Country, предлагающее роскошь седана S80 с высочайшими внедорожными качествами универсала. Это модель безопасного и мощного автомобиля для любой дороги.",
+              "zh": "第三代沃尔沃XC70是越野车最先进的化身，提供S80轿车的豪华感和旅行车最高的越野能力。它是一款适合各种道路的安全、坚固的汽车典范。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": "2007–2016",
+              "segment": {
+                "pl": "SUV (Crossover premium)",
+                "en": "SUV (Crossover premium)",
+                "de": "SUV (Crossover Premium)",
+                "uk": "SUV (кросовер преміум-класу)",
+                "ru": "Внедорожник (Кроссовер премиум)",
+                "zh": "SUV（豪华跨界车）"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD / AWD",
+                "uk": "FWD / AWD",
+                "ru": "передний/полный привод",
+                "zh": "前轮驱动/全轮驱动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3q/lj/ii70na4ggscokoc4ookkw/volvo-xc70-iii.310.jpg"
+        }
+      }
+    ],
+    "XC90": [
+      {
+        "BrandID": 144,
+        "ModelID": 413630,
+        "Brand Name": "Volvo",
+        "Model Name": "XC90",
+        "Serie Name": "XC90 I",
+        "Years": "2002 - 2014",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Large SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.4L - 4.4L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo XC90 / EX90 to flagowe SUV-y marki, które redefiniują luksus i bezpieczeństwo. Oferując luksusową przestrzeń dla siedmiu osób, zaawansowane napędy oraz ikoniczny skandynawski design, stanowią szczytowe osiągnięcie szwedzkiej inżynierii.",
+              "en": "Volvo XC90 / EX90 are the brand's flagship SUVs that redefine luxury and safety. Offering luxurious space for seven people, advanced drives and iconic Scandinavian design, they are the pinnacle of Swedish engineering.",
+              "de": "Volvo XC90 / EX90 sind die Flaggschiff-SUVs der Marke, die Luxus und Sicherheit neu definieren. Sie bieten luxuriösen Platz für sieben Personen, fortschrittliche Antriebe und das ikonische skandinavische Design und sind der Gipfel schwedischer Ingenieurskunst.",
+              "uk": "Volvo XC90 / EX90 — це флагманські позашляховики бренду, які переосмислюють розкіш і безпеку. Пропонуючи розкішний простір для семи осіб, передові приводи та культовий скандинавський дизайн, вони є вершиною шведської техніки.",
+              "ru": "Volvo XC90/EX90 — флагманские внедорожники бренда, которые по-новому определяют роскошь и безопасность. Предлагая роскошное пространство для семи человек, передовые приводы и культовый скандинавский дизайн, они являются вершиной шведской инженерии.",
+              "zh": "沃尔沃XC90/EX90是该品牌重新定义豪华与安全的旗舰SUV。它们提供可容纳七人的豪华空间、先进的驱动器和标志性的斯堪的纳维亚设计，是瑞典工程的巅峰之作。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": {
+                "pl": "od 2002",
+                "en": "from 2002",
+                "de": "ab 2002",
+                "uk": "з 2002 року",
+                "ru": "с 2002 года",
+                "zh": "自2002年以来"
+              },
+              "segment": {
+                "pl": "SUV (Luksusowe)",
+                "en": "SUV (Luxury)",
+                "de": "SUV (Luxus)",
+                "uk": "SUV (Luxury)",
+                "ru": "Внедорожник (Люкс)",
+                "zh": "SUV（豪华）"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/b7/cd/6iq6c4gggo8440wg4so8o/volvo-xc90-2.310.jpg"
+        }
+      },
+      {
+        "BrandID": 144,
+        "ModelID": 413631,
+        "Brand Name": "Volvo",
+        "Model Name": "XC90",
+        "Serie Name": "XC90 II",
+        "Years": "2015 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Large SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "2.0L Turbo / Twin Engine (Recharge)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo XC90 / EX90 to flagowe SUV-y marki, które redefiniują luksus i bezpieczeństwo. Oferując luksusową przestrzeń dla siedmiu osób, zaawansowane napędy oraz ikoniczny skandynawski design, stanowią szczytowe osiągnięcie szwedzkiej inżynierii.",
+              "en": "Volvo XC90 / EX90 are the brand's flagship SUVs that redefine luxury and safety. Offering luxurious space for seven people, advanced drives and iconic Scandinavian design, they are the pinnacle of Swedish engineering.",
+              "de": "Volvo XC90 / EX90 sind die Flaggschiff-SUVs der Marke, die Luxus und Sicherheit neu definieren. Sie bieten luxuriösen Platz für sieben Personen, fortschrittliche Antriebe und das ikonische skandinavische Design und sind der Gipfel schwedischer Ingenieurskunst.",
+              "uk": "Volvo XC90 / EX90 — це флагманські позашляховики бренду, які переосмислюють розкіш і безпеку. Пропонуючи розкішний простір для семи осіб, передові приводи та культовий скандинавський дизайн, вони є вершиною шведської техніки.",
+              "ru": "Volvo XC90/EX90 — флагманские внедорожники бренда, которые по-новому определяют роскошь и безопасность. Предлагая роскошное пространство для семи человек, передовые приводы и культовый скандинавский дизайн, они являются вершиной шведской инженерии.",
+              "zh": "沃尔沃XC90/EX90是该品牌重新定义豪华与安全的旗舰SUV。它们提供可容纳七人的豪华空间、先进的驱动器和标志性的斯堪的纳维亚设计，是瑞典工程的巅峰之作。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": {
+                "pl": "od 2002",
+                "en": "from 2002",
+                "de": "ab 2002",
+                "uk": "з 2002 року",
+                "ru": "с 2002 года",
+                "zh": "自2002年以来"
+              },
+              "segment": {
+                "pl": "SUV (Luksusowe)",
+                "en": "SUV (Luxury)",
+                "de": "SUV (Luxus)",
+                "uk": "SUV (Luxury)",
+                "ru": "Внедорожник (Люкс)",
+                "zh": "SUV（豪华）"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/b7/cd/6iq6c4gggo8440wg4so8o/volvo-xc90-2.310.jpg"
+        }
+      },
+      {
+        "BrandID": 144,
+        "ModelID": 416627,
+        "Brand Name": "Volvo",
+        "Model Name": "EX90",
+        "Serie Name": "EX90",
+        "Years": "2024 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Large SUV",
+          "drive": "AWD",
+          "fuel": "Electric",
+          "engine": "Twin Motor Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volvo XC90 / EX90 to flagowe SUV-y marki, które redefiniują luksus i bezpieczeństwo. Oferując luksusową przestrzeń dla siedmiu osób, zaawansowane napędy oraz ikoniczny skandynawski design, stanowią szczytowe osiągnięcie szwedzkiej inżynierii.",
+              "en": "Volvo XC90 / EX90 are the brand's flagship SUVs that redefine luxury and safety. Offering luxurious space for seven people, advanced drives and iconic Scandinavian design, they are the pinnacle of Swedish engineering.",
+              "de": "Volvo XC90 / EX90 sind die Flaggschiff-SUVs der Marke, die Luxus und Sicherheit neu definieren. Sie bieten luxuriösen Platz für sieben Personen, fortschrittliche Antriebe und das ikonische skandinavische Design und sind der Gipfel schwedischer Ingenieurskunst.",
+              "uk": "Volvo XC90 / EX90 — це флагманські позашляховики бренду, які переосмислюють розкіш і безпеку. Пропонуючи розкішний простір для семи осіб, передові приводи та культовий скандинавський дизайн, вони є вершиною шведської техніки.",
+              "ru": "Volvo XC90/EX90 — флагманские внедорожники бренда, которые по-новому определяют роскошь и безопасность. Предлагая роскошное пространство для семи человек, передовые приводы и культовый скандинавский дизайн, они являются вершиной шведской инженерии.",
+              "zh": "沃尔沃XC90/EX90是该品牌重新定义豪华与安全的旗舰SUV。它们提供可容纳七人的豪华空间、先进的驱动器和标志性的斯堪的纳维亚设计，是瑞典工程的巅峰之作。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volvo"
+              },
+              "okres produkcji": {
+                "pl": "od 2002",
+                "en": "since 2002",
+                "de": "seit 2002",
+                "uk": "з 2002 року",
+                "ru": "с 2002 года",
+                "zh": "自2002年以来"
+              },
+              "segment": {
+                "pl": "SUV (Luksusowe)",
+                "en": "SUV (Luxury)",
+                "de": "SUV (Luxus)",
+                "uk": "позашляховик (люкс)",
+                "ru": "Внедорожник (Люкс)",
+                "zh": "SUV（豪华）"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/b7/cd/6iq6c4gggo8440wg4so8o/volvo-xc90-2.310.jpg"
+        }
+      }
+    ]
+  }
+}

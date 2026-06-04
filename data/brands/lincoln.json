@@ -1,0 +1,1046 @@
+{
+  "brand": "Lincoln",
+  "models": {
+    "Aviator": [
+      {
+        "BrandID": 84,
+        "ModelID": 864,
+        "Brand Name": "Lincoln",
+        "Model Name": "Aviator",
+        "Serie Name": "Aviator Gen 1",
+        "Years": "2002 - 2005",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "4.6L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lincoln to luksusowa marka Forda, ucieleśnienie amerykańskiego komfortu ('American Luxury'). Znana z wielkich limuzyn i SUV-ów.",
+              "en": "Lincoln is Ford's luxury brand, the embodiment of American comfort ('American Luxury'). Known for large limousines and SUVs.",
+              "de": "Lincoln ist die Luxusmarke von Ford, der Inbegriff amerikanischen Komforts („American Luxury“). Bekannt für große Limousinen und SUVs.",
+              "uk": "Lincoln — це люксовий бренд Ford, втілення американського комфорту («American Luxury»). Відомий своїми великими лімузинами та позашляховиками.",
+              "ru": "Lincoln — люксовый бренд Ford, воплощение американского комфорта («Американская роскошь»). Известен большими лимузинами и внедорожниками.",
+              "zh": "林肯是福特旗下的豪华品牌，是美式舒适（“美式豪华”）的体现。以大型豪华轿车和SUV而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford Motor Company",
+                "en": "Ford Motor Company",
+                "de": "Ford Motor Company",
+                "uk": "Ford Motor Company",
+                "ru": "Ford Motor Company",
+                "zh": "福特汽车公司"
+              },
+              "siedziba": {
+                "pl": "Dearborn, USA",
+                "en": "Dearborn, USA",
+                "de": "Dearborn, USA",
+                "uk": "Дірборн, США",
+                "ru": "Дирборн, США",
+                "zh": "美国迪尔伯恩"
+              },
+              "założona": "1917"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 84,
+        "ModelID": 416630,
+        "Brand Name": "Lincoln",
+        "Model Name": "Aviator",
+        "Serie Name": "Aviator Gen 2",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/PHEV",
+          "engine": "3.0L V6 Twin-Turbo / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lincoln Aviator to luksusowy SUV średniej wielkości, który łączy potężne osiągi z wyrafinowanym wnętrzem. Druga generacja wprowadziła nowoczesny język stylistyczny i zaawansowane napędy hybrydowe typu Plug-in.",
+              "en": "The Lincoln Aviator is a luxury mid-size SUV that combines powerful performance with a refined interior. The second generation introduced a modern stylistic language and advanced Plug-in hybrid drives.",
+              "de": "Der Lincoln Aviator ist ein luxuriöser Mittelklasse-SUV, der kraftvolle Leistung mit einem raffinierten Innenraum kombiniert. Die zweite Generation führte eine moderne Formensprache und fortschrittliche Plug-in-Hybridantriebe ein.",
+              "uk": "Lincoln Aviator — це розкішний позашляховик середнього розміру, який поєднує потужні характеристики з вишуканим інтер’єром. Друге покоління представило сучасну стилістичну мову та вдосконалені гібридні приводи Plug-in.",
+              "ru": "Lincoln Aviator — это роскошный внедорожник среднего размера, сочетающий в себе мощные характеристики и изысканный интерьер. Второе поколение представило современный стилистический язык и усовершенствованные подключаемые гибридные приводы.",
+              "zh": "林肯飞行家是一款豪华中型 SUV，将强大的性能与精致的内饰融为一体。第二代引入了现代风格语言和先进的插电式混合动力驱动器。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lincoln"
+              },
+              "okres produkcji": {
+                "pl": "od 2002",
+                "en": "from 2002",
+                "de": "ab 2002",
+                "uk": "з 2002 року",
+                "ru": "с 2002 года.",
+                "zh": "2002 年起"
+              },
+              "segment": {
+                "pl": "Mid-size Luxury SUV",
+                "en": "Mid-size Luxury SUV",
+                "de": "Mittelgroßer Luxus-SUV",
+                "uk": "Розкішний позашляховик середнього розміру",
+                "ru": "Роскошный внедорожник среднего размера.",
+                "zh": "中型豪华 SUV"
+              },
+              "napęd": {
+                "pl": "RWD / AWD",
+                "en": "RWD / AWD",
+                "de": "RWD/AWD",
+                "uk": "RWD / AWD",
+                "ru": "RWD/AWD.",
+                "zh": "RWD / AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Continental": [
+      {
+        "BrandID": 84,
+        "ModelID": 414229,
+        "Brand Name": "Lincoln",
+        "Model Name": "Continental",
+        "Serie Name": "Continental Gen 9",
+        "Years": "1994 - 2002",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "4.6L V8",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lincoln Continental to nazwa legenda. Przez dekady była synonimem prezydenckiej limuzyny i amerykańskiego stylu.",
+              "en": "Lincoln Continental is a legendary name. For decades, it was synonymous with the presidential limousine and American style.",
+              "de": "Lincoln Continental ist ein legendärer Name. Jahrzehntelang war er ein Synonym für die Präsidentenlimousine und den amerikanischen Stil.",
+              "uk": "Lincoln Continental — це легендарна назва. Десятиліттями він був синонімом президентського лімузина та американського стилю.",
+              "ru": "Lincoln Continental — легендарное имя. На протяжении десятилетий он был синонимом президентского лимузина и американского стиля.",
+              "zh": "林肯大陆 (Lincoln Continental) 是一个传奇的名字。几十年来，它一直是总统豪华轿车和美国风格的代名词。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lincoln"
+              },
+              "okres produkcji": "1939–2020",
+              "segment": {
+                "pl": "Full-size Luxury Car",
+                "en": "Full-size Luxury Car",
+                "de": "Luxusauto in Originalgröße",
+                "uk": "Повнорозмірний розкішний автомобіль",
+                "ru": "Полноразмерный роскошный автомобиль.",
+                "zh": "全尺寸豪华轿车"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/52/h6/mn2x25ssg4sss0o8oogcw/continental-1995.310.jpg"
+        }
+      },
+      {
+        "BrandID": 84,
+        "ModelID": 416631,
+        "Brand Name": "Lincoln",
+        "Model Name": "Continental",
+        "Serie Name": "Continental Gen 10",
+        "Years": "2016 - 2020",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.7L / 3.0L / 3.7L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lincoln Continental to nazwa legenda. Przez dekady była synonimem prezydenckiej limuzyny i amerykańskiego stylu.",
+              "en": "Lincoln Continental is a legendary name. For decades, it was synonymous with the presidential limousine and American style.",
+              "de": "Lincoln Continental ist ein legendärer Name. Jahrzehntelang war er ein Synonym für die Präsidentenlimousine und den amerikanischen Stil.",
+              "uk": "Lincoln Continental — легендарна назва. Десятиліттями він був синонімом президентського лімузина та американського стилю.",
+              "ru": "Lincoln Continental — легендарное имя. На протяжении десятилетий он был синонимом президентского лимузина и американского стиля.",
+              "zh": "林肯大陆是一个传奇的名字。几十年来，它一直是总统豪华轿车和美国风格的代名词。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lincoln"
+              },
+              "okres produkcji": "1939–2020",
+              "segment": {
+                "pl": "Full-size Luxury Car",
+                "en": "Full-size Luxury Car",
+                "de": "Luxusauto in Originalgröße",
+                "uk": "Повнорозмірний розкішний автомобіль",
+                "ru": "Полноразмерный автомобиль класса люкс",
+                "zh": "全尺寸豪华轿车"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/52/h6/mn2x25ssg4sss0o8oogcw/continental-1995.310.jpg"
+        }
+      }
+    ],
+    "Corsair": [
+      {
+        "BrandID": 84,
+        "ModelID": 416632,
+        "Brand Name": "Lincoln",
+        "Model Name": "Corsair",
+        "Serie Name": "Corsair",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact Luxury SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/PHEV",
+          "engine": "2.0L / 2.3L Turbo / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lincoln Corsair to najbardziej kompaktowy SUV w gamie, oferujący harmonię i ciszę (Quiet Flight). Zastąpił model MKC, wprowadzając znacznie wyższy poziom wykończenia i technologii.",
+              "en": "Lincoln Corsair is the most compact SUV in the range, offering harmony and silence (Quiet Flight). It replaced the MKC model, introducing a much higher level of finish and technology.",
+              "de": "Der Lincoln Corsair ist der kompakteste SUV der Reihe und bietet Harmonie und Stille (Quiet Flight). Es ersetzte das MKC-Modell und führte ein viel höheres Maß an Verarbeitung und Technologie ein.",
+              "uk": "Lincoln Corsair — найкомпактніший позашляховик у лінійці, який пропонує гармонію та тишу (Quiet Flight). Він замінив модель MKC, представивши набагато вищий рівень обробки та технологій.",
+              "ru": "Lincoln Corsair — самый компактный внедорожник в линейке, предлагающий гармонию и тишину (Quiet Flight). Он заменил модель MKC, представив гораздо более высокий уровень отделки и технологий.",
+              "zh": "林肯海盗船是该系列中最紧凑的 SUV，提供和谐与安静（安静飞行）。它取代了 MKC 型号，引入了更高水平的表面处理和技术。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lincoln"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019 року",
+                "ru": "с 2019 года",
+                "zh": "2019 年起"
+              },
+              "segment": {
+                "pl": "Compact Luxury SUV",
+                "en": "Compact Luxury SUV",
+                "de": "Kompakter Luxus-SUV",
+                "uk": "Компактний розкішний позашляховик",
+                "ru": "Компактный роскошный внедорожник",
+                "zh": "紧凑型豪华 SUV"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD/AWD",
+                "uk": "FWD / AWD",
+                "ru": "Переднеприводный / полный привод",
+                "zh": "FWD / AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "MKC": [
+      {
+        "BrandID": 84,
+        "ModelID": 416633,
+        "Brand Name": "Lincoln",
+        "Model Name": "MKC",
+        "Serie Name": "MKC",
+        "Years": "2014 - 2019",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact Luxury SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L / 2.3L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lincoln MKC był pierwszym małym luksusowym crossoverem marki, stworzonym aby przyciągnąć młodszych klientów. Oferował dynamiczne silniki EcoBoost i komfort niespotykany u konkurencji.",
+              "en": "The Lincoln MKC was the brand's first small luxury crossover, created to attract younger customers. It offered dynamic EcoBoost engines and comfort unmatched by the competition.",
+              "de": "Der Lincoln MKC war der erste kleine Luxus-Crossover der Marke, der entwickelt wurde, um jüngere Kunden anzulocken. Er bot dynamische EcoBoost-Motoren und einen von der Konkurrenz unerreichten Komfort.",
+              "uk": "Lincoln MKC був першим маленьким розкішним кросовером бренду, створеним для залучення молодих клієнтів. Він пропонував динамічні двигуни EcoBoost і комфорт, неперевершений серед конкурентів.",
+              "ru": "Lincoln MKC был первым небольшим роскошным кроссовером бренда, созданным для привлечения молодых покупателей. Он предлагал динамичные двигатели EcoBoost и комфорт, не имеющий себе равных среди конкурентов.",
+              "zh": "林肯 MKC 是该品牌的首款小型豪华跨界车，旨在吸引年轻客户。它提供了竞争对手无与伦比的动态 EcoBoost 发动机和舒适性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lincoln"
+              },
+              "okres produkcji": "2014–2019",
+              "segment": {
+                "pl": "Compact Luxury SUV",
+                "en": "Compact Luxury SUV",
+                "de": "Kompakter Luxus-SUV",
+                "uk": "Компактний розкішний позашляховик",
+                "ru": "Компактный роскошный внедорожник",
+                "zh": "紧凑型豪华 SUV"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD/AWD",
+                "uk": "FWD / AWD",
+                "ru": "Переднеприводный / полный привод",
+                "zh": "FWD / AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "MKS": [
+      {
+        "BrandID": 84,
+        "ModelID": 869,
+        "Brand Name": "Lincoln",
+        "Model Name": "MKS",
+        "Serie Name": "MKS",
+        "Years": "2008 - 2016",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L / 3.7L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lincoln MKS był flagowym sedanem marki, wprowadzającym nową erę designu i technologii Turbo EcoBoost. Oferował ogromne wnętrze i ciszę godną prezydenckiej limuzyny.",
+              "en": "The Lincoln MKS was the brand's flagship sedan, ushering in a new era of design and Turbo EcoBoost technology. It offered a huge interior and silence worthy of a presidential limousine.",
+              "de": "Der Lincoln MKS war die Flaggschiff-Limousine der Marke und läutete eine neue Ära des Designs und der Turbo-EcoBoost-Technologie ein. Er bot einen riesigen Innenraum und eine Stille, die einer Präsidentenlimousine würdig war.",
+              "uk": "Lincoln MKS був флагманським седаном бренду, відкривши нову еру дизайну та технології Turbo EcoBoost. Він пропонував величезний салон і тишу, гідну президентського лімузина.",
+              "ru": "Lincoln MKS был флагманским седаном бренда, открывшим новую эру дизайна и технологии Turbo EcoBoost. Он предлагал огромный салон и тишину, достойную президентского лимузина.",
+              "zh": "林肯 MKS 是该品牌的旗舰轿车，开创了设计和 Turbo EcoBoost 技术的新时代。它拥有宽敞的内部空间和堪比总统豪华轿车的安静环境。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lincoln"
+              },
+              "okres produkcji": "2008–2016",
+              "segment": {
+                "pl": "Full-size Luxury",
+                "en": "Full-size Luxury",
+                "de": "Oberklasse-Luxus",
+                "uk": "Повнорозмірний Luxury",
+                "ru": "Полноразмерный люксовый автомобиль",
+                "zh": "全尺寸豪华"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD/AWD",
+                "uk": "FWD / AWD",
+                "ru": "Переднеприводный/полноприводный",
+                "zh": "FWD / AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "MKT": [
+      {
+        "BrandID": 84,
+        "ModelID": 416634,
+        "Brand Name": "Lincoln",
+        "Model Name": "MKT",
+        "Serie Name": "MKT",
+        "Years": "2009 - 2019",
+        "specs": {
+          "bodyType": "SUV/Crossover",
+          "segment": "Full-size Luxury Crossover",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L Turbo / 3.5L / 3.7L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lincoln MKT to unikalne połączenie luksusowego SUV-a i vana. Wyróżniał się awangardową stylistyką i niespotykanym komfortem w trzech rzędach siedzeń.",
+              "en": "Lincoln MKT is a unique combination of a luxury SUV and a van. It was distinguished by its avant-garde styling and unprecedented comfort in three rows of seats.",
+              "de": "Der Lincoln MKT ist eine einzigartige Kombination aus einem Luxus-SUV und einem Van. Er zeichnete sich durch sein avantgardistisches Design und beispiellosen Komfort in drei Sitzreihen aus.",
+              "uk": "Lincoln MKT — це унікальне поєднання розкішного позашляховика та фургона. Він вирізнявся авангардним стилем і небувалим комфортом у трьох рядах сидінь.",
+              "ru": "Lincoln MKT — это уникальное сочетание роскошного внедорожника и фургона. Он отличался авангардным стилем и небывалым комфортом в трех рядах сидений.",
+              "zh": "林肯 MKT 是豪华 SUV 和货车的独特组合。它以其前卫的造型和三排座椅前所未有的舒适性而著称。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lincoln"
+              },
+              "okres produkcji": "2009–2019",
+              "segment": {
+                "pl": "Full-size Luxury crossover",
+                "en": "Full-size Luxury crossover",
+                "de": "Full-Size-Luxus-Crossover",
+                "uk": "Повнорозмірний розкішний кросовер",
+                "ru": "Полноразмерный кроссовер класса люкс",
+                "zh": "全尺寸豪华跨界车"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD/AWD",
+                "uk": "FWD / AWD",
+                "ru": "FWD/AWD",
+                "zh": "FWD / AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "MKX": [
+      {
+        "BrandID": 84,
+        "ModelID": 871,
+        "Brand Name": "Lincoln",
+        "Model Name": "MKX",
+        "Serie Name": "MKX Gen 1",
+        "Years": "2006 - 2015",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L / 3.7L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lincoln to luksusowa marka Forda, ucieleśnienie amerykańskiego komfortu ('American Luxury'). Znana z wielkich limuzyn i SUV-ów.",
+              "en": "Lincoln is Ford's luxury brand, the embodiment of American comfort ('American Luxury'). Known for large limousines and SUVs.",
+              "de": "Lincoln ist Fords Luxusmarke, die Verkörperung amerikanischen Komforts („American Luxury“). Bekannt für große Limousinen und SUVs.",
+              "uk": "Lincoln — це розкішний бренд Ford, втілення американського комфорту («American Luxury»). Відомий своїми великими лімузинами та позашляховиками.",
+              "ru": "Lincoln — люксовый бренд Ford, воплощение американского комфорта («Американская роскошь»). Известен большими лимузинами и внедорожниками.",
+              "zh": "林肯是福特旗下的豪华品牌，是美式舒适（“美式豪华”）的体现。以大型豪华轿车和SUV而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford Motor Company",
+                "en": "Ford Motor Company",
+                "de": "Ford Motor Company",
+                "uk": "Ford Motor Company",
+                "ru": "Ford Motor Company",
+                "zh": "福特汽车公司"
+              },
+              "siedziba": {
+                "pl": "Dearborn, USA",
+                "en": "Dearborn, USA",
+                "de": "Dearborn, USA",
+                "uk": "Дірборн, США",
+                "ru": "Дирборн, США",
+                "zh": "美国迪尔伯恩"
+              },
+              "założona": "1917"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 84,
+        "ModelID": 416635,
+        "Brand Name": "Lincoln",
+        "Model Name": "MKX",
+        "Serie Name": "MKX Gen 2",
+        "Years": "2015 - 2018",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.7L Turbo / 3.7L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Lincoln MKX (później Nautilus) to luksusowy crossover średniej wielkości. Ceniony za potężne silniki V6, system audio Revel oraz niezwykle miękkie nastawy zawieszenia.",
+              "en": "The Lincoln MKX (later Nautilus) is a luxury mid-size crossover. Appreciated for its powerful V6 engines, Revel audio system and extremely soft suspension settings.",
+              "de": "Der Lincoln MKX (später Nautilus) ist ein luxuriöser Mittelklasse-Crossover. Geschätzt für seine leistungsstarken V6-Motoren, das Revel-Audiosystem und die extrem weiche Federungsabstimmung.",
+              "uk": "Lincoln MKX (пізніше Nautilus) — розкішний кросовер середнього розміру. Його цінують за потужні двигуни V6, аудіосистему Revel і надзвичайно м’які налаштування підвіски.",
+              "ru": "Lincoln MKX (позже Nautilus) — роскошный кроссовер среднего размера. Ценится за мощные двигатели V6, аудиосистему Revel и чрезвычайно мягкие настройки подвески.",
+              "zh": "林肯 MKX（后来的 Nautilus）是一款豪华中型跨界车。因其强大的 V6 发动机、Revel 音响系统和极其柔软的悬架设置而受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lincoln"
+              },
+              "okres produkcji": "2006–2018",
+              "segment": {
+                "pl": "Mid-size Luxury SUV",
+                "en": "Mid-size Luxury SUV",
+                "de": "Mittelgroßer Luxus-SUV",
+                "uk": "Розкішний позашляховик середнього розміру",
+                "ru": "Роскошный внедорожник среднего размера",
+                "zh": "中型豪华SUV"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD/AWD",
+                "uk": "FWD / AWD",
+                "ru": "Переднеприводный/полноприводный",
+                "zh": "FWD / AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "MKZ": [
+      {
+        "BrandID": 84,
+        "ModelID": 413299,
+        "Brand Name": "Lincoln",
+        "Model Name": "MKZ",
+        "Serie Name": "MKZ Gen 1",
+        "Years": "2005 - 2012",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Luxury",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.5L Hybrid / 3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lincoln to luksusowa marka Forda, ucieleśnienie amerykańskiego komfortu ('American Luxury'). Znana z wielkich limuzyn i SUV-ów.",
+              "en": "Lincoln is Ford's luxury brand, the embodiment of American comfort ('American Luxury'). Known for large limousines and SUVs.",
+              "de": "Lincoln ist die Luxusmarke von Ford, die Verkörperung amerikanischen Komforts („American Luxury“). Bekannt für große Limousinen und SUVs.",
+              "uk": "Lincoln — це розкішний бренд Ford, втілення американського комфорту («American Luxury»). Відомий своїми великими лімузинами та позашляховиками.",
+              "ru": "Lincoln — люксовый бренд Ford, воплощение американского комфорта («Американская роскошь»). Известен большими лимузинами и внедорожниками.",
+              "zh": "林肯是福特旗下的豪华品牌，是美式舒适（“美式豪华”）的体现。以大型豪华轿车和SUV而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford Motor Company",
+                "en": "Ford Motor Company",
+                "de": "Ford Motor Company",
+                "uk": "Ford Motor Company",
+                "ru": "Ford Motor Company",
+                "zh": "福特汽车公司"
+              },
+              "siedziba": {
+                "pl": "Dearborn, USA",
+                "en": "Dearborn, USA",
+                "de": "Dearborn, USA",
+                "uk": "Дірборн, США",
+                "ru": "Дирборн, США",
+                "zh": "美国迪尔伯恩"
+              },
+              "założona": "1917"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 84,
+        "ModelID": 413300,
+        "Brand Name": "Lincoln",
+        "Model Name": "MKZ",
+        "Serie Name": "MKZ Gen 2",
+        "Years": "2012 - 2020",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Luxury",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.0L Turbo / 3.0L / 3.7L V6 / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "5"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Lincoln MKZ to elegancki sedan, który wprowadził charakterystyczny 'skrzydlaty' grill. Oferował zaawansowane opcje, jak dach panoramiczny z jednej tafli szkła czy wydajne napędy hybrydowe.",
+              "en": "Lincoln MKZ is an elegant sedan that introduced a characteristic 'winged' grill. It offered advanced options, such as a panoramic roof made of one pane of glass and efficient hybrid drives.",
+              "de": "Lincoln MKZ ist eine elegante Limousine, die einen charakteristischen „geflügelten“ Grill eingeführt hat. Es bot erweiterte Optionen wie ein Panoramadach aus einer Glasscheibe und effiziente Hybridantriebe.",
+              "uk": "Lincoln MKZ — елегантний седан із характерною «крилатою» решіткою радіатора. Він пропонував розширені опції, такі як панорамний дах з одного скла та ефективні гібридні приводи.",
+              "ru": "Lincoln MKZ — элегантный седан с характерной «крылатой» решеткой радиатора. Он предлагал расширенные опции, такие как панорамная крыша из одного стекла и эффективные гибридные приводы.",
+              "zh": "林肯 MKZ 是一款优雅的轿车，采用了独特的“翼式”格栅。它提供了先进的选项，例如由一块玻璃制成的全景屋顶和高效的混合动力驱动器。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lincoln"
+              },
+              "okres produkcji": "2005–2020",
+              "segment": {
+                "pl": "Mid-size Luxury sedan",
+                "en": "Mid-size Luxury sedan",
+                "de": "Mittelklasse-Luxuslimousine",
+                "uk": "Розкішний седан середнього розміру",
+                "ru": "Среднеразмерный седан класса люкс",
+                "zh": "中型豪华轿车"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD/AWD",
+                "uk": "FWD / AWD",
+                "ru": "Переднеприводный / полный привод",
+                "zh": "FWD / AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Nautilus": [
+      {
+        "BrandID": 84,
+        "ModelID": 416636,
+        "Brand Name": "Lincoln",
+        "Model Name": "Nautilus",
+        "Serie Name": "Nautilus Gen 1",
+        "Years": "2018 - 2023",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L Turbo / 2.7L Turbo V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lincoln to luksusowa marka Forda, ucieleśnienie amerykańskiego komfortu ('American Luxury'). Znana z wielkich limuzyn i SUV-ów.",
+              "en": "Lincoln is Ford's luxury brand, the embodiment of American comfort ('American Luxury'). Known for large limousines and SUVs.",
+              "de": "Lincoln ist die Luxusmarke von Ford, der Inbegriff des amerikanischen Komforts („American Luxury“). Bekannt für große Limousinen und SUVs.",
+              "uk": "Lincoln — це розкішний бренд Ford, втілення американського комфорту («American Luxury»). Відомий своїми великими лімузинами та позашляховиками.",
+              "ru": "Lincoln — люксовый бренд Ford, воплощение американского комфорта («Американская роскошь»). Известен большими лимузинами и внедорожниками.",
+              "zh": "林肯是福特旗下的豪华品牌，是美式舒适（“美式豪华”）的体现。以大型豪华轿车和SUV而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford Motor Company",
+                "en": "Ford Motor Company",
+                "de": "Ford Motor Company",
+                "uk": "Ford Motor Company",
+                "ru": "Ford Motor Company",
+                "zh": "福特汽车公司"
+              },
+              "siedziba": {
+                "pl": "Dearborn, USA",
+                "en": "Dearborn, USA",
+                "de": "Dearborn, USA",
+                "uk": "Дірборн, США",
+                "ru": "Дирборн, США",
+                "zh": "美国迪尔伯恩"
+              },
+              "założona": "1917"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 84,
+        "ModelID": 416637,
+        "Brand Name": "Lincoln",
+        "Model Name": "Nautilus",
+        "Serie Name": "Nautilus Gen 2",
+        "Years": "2023 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.0L Turbo / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Lincoln Nautilus (godny następca MKX) to SUV definiujący pojęcie 'Quiet Flight'. Oferuje jeden z najbardziej komfortowych systemów foteli na rynku oraz nowoczesne wnętrze z dominującymi ekranami.",
+              "en": "Lincoln Nautilus (a worthy successor to the MKX) is an SUV that defines the concept of 'Quiet Flight'. It offers one of the most comfortable seat systems on the market and a modern interior with dominant screens.",
+              "de": "Lincoln Nautilus (ein würdiger Nachfolger des MKX) ist ein SUV, der das Konzept des „Quiet Flight“ definiert. Es bietet eines der bequemsten Sitzsysteme auf dem Markt und ein modernes Interieur mit dominanten Bildschirmen.",
+              "uk": "Lincoln Nautilus (гідний наступник MKX) — позашляховик, який визначає концепцію «Тихого польоту». Він пропонує одну з найзручніших систем сидінь на ринку та сучасний інтер’єр із домінуючими екранами.",
+              "ru": "Lincoln Nautilus (достойный преемник MKX) — внедорожник, определяющий концепцию «тихого полета». Он предлагает одну из самых удобных систем сидений на рынке и современный интерьер с доминирующими экранами.",
+              "zh": "林肯 Nautilus（MKX 的当之无愧的继承者）是一款定义“安静飞行”概念的 SUV。它提供市场上最舒适的座椅系统之一以及带有主屏幕的现代化内饰。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lincoln"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "from 2018",
+                "de": "ab 2018",
+                "uk": "з 2018 року",
+                "ru": "с 2018 года",
+                "zh": "2018 年起"
+              },
+              "segment": {
+                "pl": "Mid-size Luxury SUV",
+                "en": "Mid-size Luxury SUV",
+                "de": "Mittelgroßer Luxus-SUV",
+                "uk": "Розкішний позашляховик середнього розміру",
+                "ru": "Роскошный внедорожник среднего размера",
+                "zh": "中型豪华 SUV"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD/AWD",
+                "uk": "FWD / AWD",
+                "ru": "Переднеприводный / полный привод",
+                "zh": "FWD / AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Navigator": [
+      {
+        "BrandID": 84,
+        "ModelID": 413301,
+        "Brand Name": "Lincoln",
+        "Model Name": "Navigator",
+        "Serie Name": "Navigator Gen 1",
+        "Years": "1997 - 2002",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size Luxury SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline",
+          "engine": "5.4L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lincoln Navigator to ogromny, luksusowy SUV, który wyznacza standardy przestrzeni i komfortu w swoim segmencie.",
+              "en": "The Lincoln Navigator is a huge, luxurious SUV that sets the standard for space and comfort in its segment.",
+              "de": "Der Lincoln Navigator ist ein riesiger, luxuriöser SUV, der in seinem Segment den Maßstab für Platz und Komfort setzt.",
+              "uk": "Lincoln Navigator — це величезний розкішний позашляховик, який встановлює стандарт простору та комфорту у своєму сегменті.",
+              "ru": "Lincoln Navigator — это огромный роскошный внедорожник, устанавливающий стандарты простора и комфорта в своем сегменте.",
+              "zh": "林肯 Navigator 是一款巨大的豪华 SUV，为同级车的空间和舒适度树立了标准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lincoln"
+              },
+              "okres produkcji": {
+                "pl": "od 1997",
+                "en": "from 1997",
+                "de": "ab 1997",
+                "uk": "з 1997 року",
+                "ru": "с 1997 года.",
+                "zh": "1997 年生产"
+              },
+              "segment": {
+                "pl": "Full-size Luxury SUV",
+                "en": "Full-size Luxury SUV",
+                "de": "Oberklasse-Luxus-SUV",
+                "uk": "Повнорозмірний розкішний позашляховик",
+                "ru": "Полноразмерный роскошный внедорожник",
+                "zh": "全尺寸豪华 SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/b4/1y/yedgkfcogsk0g0skok0w8/navigator-3.310.jpg"
+        }
+      },
+      {
+        "BrandID": 84,
+        "ModelID": 413302,
+        "Brand Name": "Lincoln",
+        "Model Name": "Navigator",
+        "Serie Name": "Navigator Gen 2",
+        "Years": "2002 - 2006",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size Luxury SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline",
+          "engine": "5.4L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lincoln Navigator to ogromny, luksusowy SUV, który wyznacza standardy przestrzeni i komfortu w swoim segmencie.",
+              "en": "The Lincoln Navigator is a large, luxurious SUV that sets the standard for space and comfort in its segment.",
+              "de": "Der Lincoln Navigator ist ein großer, luxuriöser SUV, der in seinem Segment den Maßstab für Platz und Komfort setzt.",
+              "uk": "Lincoln Navigator — це великий розкішний позашляховик, який встановлює стандарт простору та комфорту у своєму сегменті.",
+              "ru": "Lincoln Navigator — это большой роскошный внедорожник, устанавливающий стандарты простора и комфорта в своем сегменте.",
+              "zh": "林肯领航员是一款大型豪华 SUV，为同级别车型的空间和舒适度树立了标准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lincoln"
+              },
+              "okres produkcji": {
+                "pl": "od 1997",
+                "en": "from 1997",
+                "de": "ab 1997",
+                "uk": "з 1997 року",
+                "ru": "с 1997 года.",
+                "zh": "1997 年生产"
+              },
+              "segment": {
+                "pl": "Full-size Luxury SUV",
+                "en": "Full-size Luxury SUV",
+                "de": "Oberklasse-Luxus-SUV",
+                "uk": "Повнорозмірний розкішний позашляховик",
+                "ru": "Полноразмерный роскошный внедорожник",
+                "zh": "全尺寸豪华 SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/b4/1y/yedgkfcogsk0g0skok0w8/navigator-3.310.jpg"
+        }
+      },
+      {
+        "BrandID": 84,
+        "ModelID": 413303,
+        "Brand Name": "Lincoln",
+        "Model Name": "Navigator",
+        "Serie Name": "Navigator Gen 3",
+        "Years": "2006 - 2017",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size Luxury SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline",
+          "engine": "5.4L V8 / 3.5L V6 EcoBoost",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lincoln Navigator to ogromny, luksusowy SUV, który wyznacza standardy przestrzeni i komfortu w swoim segmencie.",
+              "en": "The Lincoln Navigator is a large, luxurious SUV that sets the standard for space and comfort in its segment.",
+              "de": "Der Lincoln Navigator ist ein großer, luxuriöser SUV, der in seinem Segment den Maßstab für Platz und Komfort setzt.",
+              "uk": "Lincoln Navigator — це великий розкішний позашляховик, який встановлює стандарт простору та комфорту у своєму сегменті.",
+              "ru": "Lincoln Navigator — это большой роскошный внедорожник, устанавливающий стандарты простора и комфорта в своем сегменте.",
+              "zh": "林肯领航员是一款大型豪华 SUV，为同级别车型的空间和舒适度树立了标准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lincoln"
+              },
+              "okres produkcji": {
+                "pl": "od 1997",
+                "en": "from 1997",
+                "de": "ab 1997",
+                "uk": "з 1997",
+                "ru": "с 1997 года",
+                "zh": "1997 年起"
+              },
+              "segment": {
+                "pl": "Full-size Luxury SUV",
+                "en": "Full-size Luxury SUV",
+                "de": "Oberklasse-Luxus-SUV",
+                "uk": "Повнорозмірний розкішний позашляховик",
+                "ru": "Полноразмерный роскошный внедорожник",
+                "zh": "全尺寸豪华 SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/b4/1y/yedgkfcogsk0g0skok0w8/navigator-3.310.jpg"
+        }
+      },
+      {
+        "BrandID": 84,
+        "ModelID": 416638,
+        "Brand Name": "Lincoln",
+        "Model Name": "Navigator",
+        "Serie Name": "Navigator Gen 4",
+        "Years": "2017 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size Luxury SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6 Twin-Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Lincoln Navigator to ogromny, luksusowy SUV, który wyznacza standardy przestrzeni i komfortu w swoim segmencie.",
+              "en": "The Lincoln Navigator is a huge, luxurious SUV that sets the standards for space and comfort in its segment.",
+              "de": "Der Lincoln Navigator ist ein riesiger, luxuriöser SUV, der in seinem Segment Maßstäbe für Platz und Komfort setzt.",
+              "uk": "Lincoln Navigator — це величезний розкішний позашляховик, який встановлює стандарти простору та комфорту у своєму сегменті.",
+              "ru": "Lincoln Navigator — это огромный роскошный внедорожник, устанавливающий стандарты простора и комфорта в своем сегменте.",
+              "zh": "林肯领航员是一款巨大的豪华 SUV，为同级别车型的空间和舒适度树立了标准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lincoln"
+              },
+              "okres produkcji": {
+                "pl": "od 1997",
+                "en": "from 1997",
+                "de": "von 1997",
+                "uk": "з 1997 р.",
+                "ru": "с 1997 года.",
+                "zh": "1997年生产"
+              },
+              "segment": {
+                "pl": "Full-size Luxury SUV",
+                "en": "Full-size Luxury SUV",
+                "de": "Full-Size-Luxus-SUV",
+                "uk": "Повнорозмірний розкішний позашляховик",
+                "ru": "Полноразмерный роскошный внедорожник",
+                "zh": "全尺寸豪华SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/b4/1y/yedgkfcogsk0g0skok0w8/navigator-3.310.jpg"
+        }
+      }
+    ],
+    "Town Car": [
+      {
+        "BrandID": 84,
+        "ModelID": 876,
+        "Brand Name": "Lincoln",
+        "Model Name": "Town Car",
+        "Serie Name": "Town Car Gen 2",
+        "Years": "1989 - 1997",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "4.6L V8",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lincoln to luksusowa marka Forda, ucieleśnienie amerykańskiego komfortu ('American Luxury'). Znana z wielkich limuzyn i SUV-ów.",
+              "en": "Lincoln is Ford's luxury brand, the embodiment of American comfort ('American Luxury'). Known for large limousines and SUVs.",
+              "de": "Lincoln ist die Luxusmarke von Ford, die Verkörperung amerikanischen Komforts („American Luxury“). Bekannt für große Limousinen und SUVs.",
+              "uk": "Lincoln — це розкішний бренд Ford, втілення американського комфорту («American Luxury»). Відомий своїми великими лімузинами та позашляховиками.",
+              "ru": "Lincoln — люксовый бренд Ford, воплощение американского комфорта («Американская роскошь»). Известен большими лимузинами и внедорожниками.",
+              "zh": "林肯是福特旗下的豪华品牌，是美式舒适（“美式豪华”）的体现。以大型豪华轿车和SUV而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford Motor Company",
+                "en": "Ford Motor Company",
+                "de": "Ford Motor Company",
+                "uk": "Ford Motor Company",
+                "ru": "Ford Motor Company",
+                "zh": "福特汽车公司"
+              },
+              "siedziba": {
+                "pl": "Dearborn, USA",
+                "en": "Dearborn, USA",
+                "de": "Dearborn, USA",
+                "uk": "Дірборн, США",
+                "ru": "Дирборн, США",
+                "zh": "美国迪尔伯恩"
+              },
+              "założona": "1917"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2w/su/e2a2ups008o8oo4cwckk/town-car-3.310.jpg"
+        }
+      },
+      {
+        "BrandID": 84,
+        "ModelID": 416639,
+        "Brand Name": "Lincoln",
+        "Model Name": "Town Car",
+        "Serie Name": "Town Car Gen 3",
+        "Years": "1997 - 2011",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "4.6L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lincoln Town Car to ikona amerykańskiej limuzyny. Przez dekady utożsamiany z najwyższym komfortem jazdy, ogromną przestrzenią i legendarną trwałością konstrukcji na ramie.",
+              "en": "Lincoln Town Car is an icon of the American limousine. For decades, it has been identified with the highest driving comfort, huge space and legendary durability of the frame structure.",
+              "de": "Lincoln Town Car ist eine Ikone der amerikanischen Limousine. Seit Jahrzehnten steht es für höchsten Fahrkomfort, enormes Platzangebot und die legendäre Haltbarkeit der Rahmenkonstruktion.",
+              "uk": "Lincoln Town Car — ікона американського лімузина. Десятиліттями його ототожнювали з найвищим комфортом водіння, величезним простором і легендарною міцністю конструкції рами.",
+              "ru": "Lincoln Town Car – это икона американского лимузина. На протяжении десятилетий его отождествляли с высочайшим комфортом вождения, огромным пространством и легендарной прочностью рамной конструкции.",
+              "zh": "林肯城市轿车是美国豪华轿车的标志。几十年来，它一直以最高的驾驶舒适度、巨大的空间和传奇般的车架结构耐用性而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lincoln"
+              },
+              "okres produkcji": "1980–2011",
+              "segment": {
+                "pl": "Full-size Luxury",
+                "en": "Full-size Luxury",
+                "de": "Luxus in Originalgröße",
+                "uk": "Повнорозмірний Luxury",
+                "ru": "Полноразмерная роскошь",
+                "zh": "全尺寸豪华"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2w/su/e2a2ups008o8oo4cwckk/town-car-3.310.jpg"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "brand": "Iran-khodro",
+  "models": {
+    "": [
+      {
+        "BrandID": 113,
+        "ModelID": "",
+        "Brand Name": "Iran-khodro",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Iran Khodro (IKCO) to największy irański producent samochodów, znany z modelu Samand oraz licencyjnej produkcji Peugeotów.",
+              "en": "Iran Khodro (IKCO) is the largest Iranian car manufacturer, known for the Samand model and the licensed production of Peugeots.",
+              "de": "Iran Khodro (IKCO) ist der größte iranische Automobilhersteller, bekannt für das Samand-Modell und die Lizenzproduktion von Peugeots.",
+              "uk": "Iran Khodro (IKCO) — найбільший іранський виробник автомобілів, відомий моделлю Samand і ліцензійним виробництвом Peugeot.",
+              "ru": "Иран Ходро (IKCO) — крупнейший иранский производитель автомобилей, известный моделью Samand и лицензионным производством автомобилей Peugeot.",
+              "zh": "伊朗霍德罗（IKCO）是伊朗最大的汽车制造商，以萨曼德车型和标致汽车的授权生产而闻名。"
+            }
+          }
+        }
+      }
+    ],
+    "Samand": [
+      {
+        "BrandID": 113,
+        "ModelID": 1401,
+        "Brand Name": "Iran-khodro",
+        "Model Name": "Samand",
+        "Serie Name": "Samand",
+        "Years": "2002 - 2007",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Samand to pierwszy 'narodowy samochód' Iranu, zbudowany na płycie podłogowej Peugeota 405. Znany z wytrzymałości i prostej konstrukcji.",
+              "en": "Samand is Iran's first 'national car', built on the Peugeot 405 platform. Known for its durability and simple design.",
+              "de": "Samand ist Irans erstes „Nationalauto“, gebaut auf der Peugeot 405-Plattform. Bekannt für seine Langlebigkeit und sein schlichtes Design.",
+              "uk": "Samand — перший «національний автомобіль» Ірану, побудований на платформі Peugeot 405. Відомий своєю довговічністю та простим дизайном.",
+              "ru": "Samand — первый «национальный автомобиль» Ирана, построенный на платформе Peugeot 405. Известен своей долговечностью и простой конструкцией.",
+              "zh": "Samand是伊朗首款“国民车”，基于标致405平台打造。以其耐用性和简单的设计而闻名。"
+            }
+          }
+        }
+      }
+    ],
+    "EL": [
+      {
+        "BrandID": 113,
+        "ModelID": 1402,
+        "Brand Name": "Iran-khodro",
+        "Model Name": "EL",
+        "Serie Name": "EL",
+        "Years": "0000 - 0000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Model EL to jedna z wersji wyposażeniowych samochodów produkowanych przez Iran Khodro.",
+              "en": "The EL model is one of the equipment versions of cars manufactured by Iran Khodro.",
+              "de": "Das EL-Modell ist eine der Ausstattungsversionen von Autos, die von Iran Khodro hergestellt werden.",
+              "uk": "Модель EL є однією з версій комплектації автомобілів виробництва Iran Khodro.",
+              "ru": "Модель EL является одной из версий оснащения автомобилей производства компании Iran Khodro.",
+              "zh": "EL车型是伊朗Khodro制造的汽车的装备版本之一。"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

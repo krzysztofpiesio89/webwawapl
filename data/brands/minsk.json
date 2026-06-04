@@ -1,0 +1,92 @@
+{
+  "brand": "Minsk",
+  "models": {
+    "": [
+      {
+        "BrandID": 224,
+        "ModelID": "",
+        "Brand Name": "Minsk",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Minsk (M1NSK) to białoruska marka motocykli, znana z legendarnych modeli z czasów ZSRR oraz współczesnych jednośladów.",
+              "en": "Minsk (M1NSK) is a Belarusian motorcycle brand, known for its legendary models from the USSR era and modern two-wheelers.",
+              "de": "Minsk (M1NSK) ist eine weißrussische Motorradmarke, die für ihre legendären Modelle aus der UdSSR-Ära und modernen Zweiräder bekannt ist.",
+              "uk": "Minsk (M1NSK) — білоруська марка мотоциклів, відома своїми легендарними моделями часів СРСР і сучасними двоколісними.",
+              "ru": "Минск (М1НСК) — белорусская марка мотоциклов, известная своими легендарными моделями времен СССР и современными двухколесными мотоциклами.",
+              "zh": "明斯克（M1NSK）是白俄罗斯摩托车品牌，以其苏联时代的传奇车型和现代两轮车而闻名。"
+            }
+          }
+        }
+      }
+    ],
+    "R250": [
+      {
+        "BrandID": 224,
+        "ModelID": 416293,
+        "Brand Name": "Minsk",
+        "Model Name": "R250",
+        "Serie Name": "R250",
+        "Years": "2011 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Minsk R250 to sportowy motocykl o nowoczesnej stylistyce, powstały przy współpracy z brytyjską firmą Megelli.",
+              "en": "Minsk R250 is a sports motorcycle with a modern style, created in cooperation with the British company Megelli.",
+              "de": "Minsk R250 ist ein Sportmotorrad mit modernem Stil, das in Zusammenarbeit mit der britischen Firma Megelli entwickelt wurde.",
+              "uk": "Minsk R250 - спортивний мотоцикл в сучасному стилі, створений у співпраці з британською компанією Megelli.",
+              "ru": "Минск Р250 – спортивный мотоцикл современного стиля, созданный совместно с британской компанией Megelli.",
+              "zh": "Minsk R250是一款具有现代风格的运动摩托车，与英国Megelli公司合作打造。"
+            }
+          }
+        }
+      }
+    ],
+    "ММВЗ": [
+      {
+        "BrandID": 224,
+        "ModelID": 416294,
+        "Brand Name": "Minsk",
+        "Model Name": "R250",
+        "Serie Name": "ММВЗ",
+        "Years": "1980 - 2010",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Klasyczne motocykle MMVZ to proste i niezawodne maszyny, które zmotoryzowały białoruską wieś.",
+              "en": "Classic MMVZ motorcycles are simple and reliable machines that have brought motorization to the Belarusian countryside.",
+              "de": "Klassische MMVZ-Motorräder sind einfache und zuverlässige Maschinen, die die Motorisierung in die belarussische Landschaft gebracht haben.",
+              "uk": "Класичні мотоцикли ММВЗ - це прості і надійні машини, які принесли автомобілізацію в білоруське село.",
+              "ru": "Классические мотоциклы ММВЗ – простые и надежные машины, которые принесли автомобилизацию в белорусскую деревню.",
+              "zh": "经典 MMVZ 摩托车是简单而可靠的机器，为白俄罗斯乡村带来了机动化。"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

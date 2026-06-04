@@ -1,0 +1,103 @@
+{
+  "brand": "Tata",
+  "models": {
+    "Indica": [
+      {
+        "BrandID": 202,
+        "ModelID": 415711,
+        "Brand Name": "TATA",
+        "Model Name": "Indica",
+        "Serie Name": "Indica",
+        "Years": "1998 - 2018",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L - 1.4L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Tata Motors to największy indyjski producent samochodów, właściciel Jaguara i Land Rovera. Produkuje wszystko - od najtańszych aut świata po ciężarówki.",
+              "en": "Tata Motors is India's largest car manufacturer, owner of Jaguar and Land Rover. It produces everything - from the cheapest cars in the world to trucks.",
+              "de": "Tata Motors ist Indiens größter Automobilhersteller und Eigentümer von Jaguar und Land Rover. Es produziert alles – vom billigsten Auto der Welt bis zum Lastwagen.",
+              "uk": "Tata Motors — найбільший виробник автомобілів в Індії, власник Jaguar і Land Rover. Виробляє все – від найдешевших автомобілів у світі до вантажівок.",
+              "ru": "Tata Motors — крупнейший производитель автомобилей в Индии, владелец компаний Jaguar и Land Rover. Здесь производят все – от самых дешевых автомобилей в мире до грузовиков.",
+              "zh": "塔塔汽车公司是印度最大的汽车制造商，拥有捷豹和路虎。它生产一切——从世界上最便宜的汽车到卡车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Tata Motors",
+                "en": "Tata Motors",
+                "de": "Tata Motors",
+                "uk": "Tata Motors",
+                "ru": "Tata Motors",
+                "zh": "塔塔汽车公司"
+              },
+              "siedziba": {
+                "pl": "Mumbaj, Indie",
+                "en": "Mumbai, India",
+                "de": "Mumbai, Indien",
+                "uk": "Мумбаї, Індія",
+                "ru": "Мумбаи, Индия",
+                "zh": "印度孟买"
+              },
+              "założona": "1945"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ap/65/pv6k120cs0ww0osk4s0os/tata-indica-vista.310.jpg"
+        }
+      }
+    ],
+    "Safari": [
+      {
+        "BrandID": 202,
+        "ModelID": 416193,
+        "Brand Name": "TATA",
+        "Model Name": "Safari",
+        "Serie Name": "Safari",
+        "Years": "1998 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Diesel",
+          "engine": "2.0L - 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Tata Motors to największy indyjski producent samochodów, właściciel Jaguara i Land Rovera. Produkuje wszystko - od najtańszych aut świata po ciężarówki.",
+              "en": "Tata Motors is the largest Indian car manufacturer, owner of Jaguar and Land Rover. It produces everything - from the cheapest cars in the world to trucks.",
+              "de": "Tata Motors ist der größte indische Automobilhersteller und Eigentümer von Jaguar und Land Rover. Es produziert alles – vom billigsten Auto der Welt bis zum Lastwagen.",
+              "uk": "Tata Motors — найбільший індійський виробник автомобілів, власник Jaguar і Land Rover. Виробляє все – від найдешевших автомобілів у світі до вантажівок.",
+              "ru": "Tata Motors — крупнейший индийский производитель автомобилей, владелец компаний Jaguar и Land Rover. Здесь производят все – от самых дешевых автомобилей в мире до грузовиков.",
+              "zh": "塔塔汽车公司是印度最大的汽车制造商，拥有捷豹和路虎。它生产一切——从世界上最便宜的汽车到卡车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Tata Motors",
+                "en": "Tata Motors",
+                "de": "Tata Motors",
+                "uk": "Tata Motors",
+                "ru": "Tata Motors",
+                "zh": "塔塔汽车"
+              },
+              "siedziba": {
+                "pl": "Mumbaj, Indie",
+                "en": "Mumbai, India",
+                "de": "Mumbai, Indien",
+                "uk": "Мумбаї, Індія",
+                "ru": "Мумбаи, Индия",
+                "zh": "印度孟买"
+              },
+              "założona": "1945"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/aw/6i/blk5keg4ow0gskosw444o/tata-safari-2006.310.jpg"
+        }
+      }
+    ]
+  }
+}

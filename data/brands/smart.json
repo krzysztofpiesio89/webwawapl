@@ -1,0 +1,422 @@
+{
+  "brand": "Smart",
+  "models": {
+    "Fortwo": [
+      {
+        "BrandID": 123,
+        "ModelID": 413496,
+        "Brand Name": "Smart",
+        "Model Name": "Fortwo",
+        "Serie Name": "Fortwo I (450)",
+        "Years": "1998 - 2007",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Segment A (City Cars)",
+          "drive": "RWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "0.6L Turbo - 0.8L CDI",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/2001_MCC_Smart_ForTwo_Passion_Softouch_600cc_Rear.jpg/1280px-2001_MCC_Smart_ForTwo_Passion_Softouch_600cc_Rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/2001_MCC_Smart_ForTwo_Passion_Softouch_600cc_Rear.jpg/1280px-2001_MCC_Smart_ForTwo_Passion_Softouch_600cc_Rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2003_Smart_City_Pulse_61_Semi-Automatic_700cc_Front.jpg/1280px-2003_Smart_City_Pulse_61_Semi-Automatic_700cc_Front.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2003_Smart_City_Pulse_61_Semi-Automatic_700cc_Rear.jpg/1280px-2003_Smart_City_Pulse_61_Semi-Automatic_700cc_Rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/3/31/Smart_Fortwo_Cabrio.JPG"
+            ],
+            "description": {
+              "pl": "Smart Fortwo to dwuosobowe auto miejskie, które można zaparkować prostopadle do krawężnika. Król zatłoczonych miast.",
+              "en": "Smart Fortwo is a two-seater city car that can be parked perpendicular to the curb. The king of crowded cities.",
+              "de": "Smart Fortwo ist ein zweisitziges Stadtauto, das senkrecht zum Bordstein geparkt werden kann. Der König der überfüllten Städte.",
+              "uk": "Smart Fortwo — двомісний міський автомобіль, який можна паркувати перпендикулярно бордюру. Король багатолюдних міст.",
+              "ru": "Smart Fortwo — двухместный городской автомобиль, который можно парковать перпендикулярно бордюру. Король многолюдных городов.",
+              "zh": "Smart Fortwo 是一款两座城市汽车，可以垂直于路边停放。拥挤城市之王。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Smart"
+              },
+              "okres produkcji": {
+                "pl": "od 1998",
+                "en": "from 1998",
+                "de": "ab 1998",
+                "uk": "з 1998 року",
+                "ru": "от 1998 года.",
+                "zh": "自1998年以来"
+              },
+              "segment": {
+                "pl": "A (Mikrosamochód)",
+                "en": "A (Microcar)",
+                "de": "A (Kleinstwagen)",
+                "uk": "A (Microcar)",
+                "ru": "A (Микрокар)",
+                "zh": "A（微型车）"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2z/6g/v4qz53cwcccckg8o8csc4/smart-fortwo.310.jpg"
+        }
+      },
+      {
+        "BrandID": 123,
+        "ModelID": 413497,
+        "Brand Name": "Smart",
+        "Model Name": "Fortwo",
+        "Serie Name": "Fortwo II (451)",
+        "Years": "2007 - 2014",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Segment A (City Cars)",
+          "drive": "RWD",
+          "fuel": "Gasoline/Diesel/Electric",
+          "engine": "1.0L - Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/2001_MCC_Smart_ForTwo_Passion_Softouch_600cc_Rear.jpg/1280px-2001_MCC_Smart_ForTwo_Passion_Softouch_600cc_Rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/2001_MCC_Smart_ForTwo_Passion_Softouch_600cc_Rear.jpg/1280px-2001_MCC_Smart_ForTwo_Passion_Softouch_600cc_Rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2003_Smart_City_Pulse_61_Semi-Automatic_700cc_Front.jpg/1280px-2003_Smart_City_Pulse_61_Semi-Automatic_700cc_Front.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2003_Smart_City_Pulse_61_Semi-Automatic_700cc_Rear.jpg/1280px-2003_Smart_City_Pulse_61_Semi-Automatic_700cc_Rear.jpg"
+            ],
+            "description": {
+              "pl": "Smart Fortwo to dwuosobowe auto miejskie, które można zaparkować prostopadle do krawężnika. Król zatłoczonych miast.",
+              "en": "Smart Fortwo is a two-seater city car that can be parked perpendicular to the curb. The king of crowded cities.",
+              "de": "Smart Fortwo ist ein zweisitziges Stadtauto, das senkrecht zum Bordstein geparkt werden kann. Der König der überfüllten Städte.",
+              "uk": "Smart Fortwo — це двомісний міський автомобіль, який можна паркувати перпендикулярно бордюру. Король багатолюдних міст.",
+              "ru": "Smart Fortwo — двухместный городской автомобиль, который можно парковать перпендикулярно бордюру. Король многолюдных городов.",
+              "zh": "Smart Fortwo 是一款两座城市汽车，可以垂直于路边停放。拥挤城市之王。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Smart"
+              },
+              "okres produkcji": {
+                "pl": "od 1998",
+                "en": "from 1998",
+                "de": "ab 1998",
+                "uk": "з 1998 року",
+                "ru": "от 1998 года.",
+                "zh": "自1998年以来"
+              },
+              "segment": {
+                "pl": "A (Mikrosamochód)",
+                "en": "A (Microcar)",
+                "de": "A (Kleinstwagen)",
+                "uk": "A (Microcar)",
+                "ru": "A (Микрокар)",
+                "zh": "A（微型车）"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2z/6g/v4qz53cwcccckg8o8csc4/smart-fortwo.310.jpg"
+        }
+      },
+      {
+        "BrandID": 123,
+        "ModelID": 413498,
+        "Brand Name": "Smart",
+        "Model Name": "Fortwo",
+        "Serie Name": "Fortwo III (453)",
+        "Years": "2014 - 2024",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Segment A (City Cars)",
+          "drive": "RWD",
+          "fuel": "Gasoline/Electric",
+          "engine": "0.9L Turbo - Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Smart Fortwo to dwuosobowe auto miejskie, które można zaparkować prostopadle do krawężnika. Król zatłoczonych miast.",
+              "en": "Smart Fortwo is a two-seater city car that can be parked perpendicular to the curb. The king of crowded cities.",
+              "de": "Smart Fortwo ist ein zweisitziges Stadtauto, das senkrecht zum Bordstein geparkt werden kann. Der König der überfüllten Städte.",
+              "uk": "Smart Fortwo — це двомісний міський автомобіль, який можна паркувати перпендикулярно бордюру. Король багатолюдних міст.",
+              "ru": "Smart Fortwo — двухместный городской автомобиль, который можно парковать перпендикулярно бордюру. Король многолюдных городов.",
+              "zh": "Smart Fortwo 是一款两座城市汽车，可以垂直于路边停放。拥挤城市之王。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Smart"
+              },
+              "okres produkcji": {
+                "pl": "od 1998",
+                "en": "since 1998",
+                "de": "seit 1998",
+                "uk": "з 1998",
+                "ru": "с 1998 года.",
+                "zh": "自1998年以来"
+              },
+              "segment": {
+                "pl": "A (Mikrosamochód)",
+                "en": "A (Microcar)",
+                "de": "A (Microcar)",
+                "uk": "A (Microcar)",
+                "ru": "A (Микрокар)",
+                "zh": "A（微型车）"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2z/6g/v4qz53cwcccckg8o8csc4/smart-fortwo.310.jpg"
+        }
+      }
+    ],
+    "Forfour": [
+      {
+        "BrandID": 123,
+        "ModelID": 413494,
+        "Brand Name": "Smart",
+        "Model Name": "Forfour",
+        "Serie Name": "Forfour I (454)",
+        "Years": "2004 - 2006",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.1L - 1.5L CDI",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Smart to marka miejskich mikrosamochodów, stworzona przy współpracy Mercedesa i Swatch. Obecnie produkuje tylko auta elektryczne.",
+              "en": "Smart is a brand of urban microcars, created in cooperation with Mercedes and Swatch. Currently, it only produces electric cars.",
+              "de": "Smart ist eine Marke für urbane Kleinstwagen, die in Zusammenarbeit mit Mercedes und Swatch entwickelt wurde. Derzeit werden nur Elektroautos produziert.",
+              "uk": "Smart — бренд міських мікроавтомобілів, створений у співпраці з Mercedes і Swatch. Зараз тут випускають лише електромобілі.",
+              "ru": "Smart — марка городских микроавтомобилей, созданная в сотрудничестве с Mercedes и Swatch. В настоящее время она производит только электромобили.",
+              "zh": "Smart是城市微型汽车品牌，与梅赛德斯和斯沃琪合作创建。目前，它只生产电动汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Smart Automobile (Mercedes/Geely)",
+                "en": "Smart Automobile (Mercedes/Geely)",
+                "de": "Smart Automobile (Mercedes/Geely)",
+                "uk": "Smart Automobile (Mercedes/Geely)",
+                "ru": "Smart Automobile (Mercedes/Geely)",
+                "zh": "智能汽车（奔驰/吉利）"
+              },
+              "siedziba": {
+                "pl": "Ningbo, Chiny",
+                "en": "Ningbo, China",
+                "de": "Ningbo, China",
+                "uk": "Нінбо, Китай",
+                "ru": "Нинбо, Китай",
+                "zh": "中国宁波"
+              },
+              "założona": "1994"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/31/s1/3k2xlr408gwsc84okk00k/smart-forfour.310.jpg"
+        }
+      },
+      {
+        "BrandID": 123,
+        "ModelID": 413495,
+        "Brand Name": "Smart",
+        "Model Name": "Forfour",
+        "Serie Name": "Forfour II (453)",
+        "Years": "2014 - 2021",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment A (City Cars)",
+          "drive": "RWD",
+          "fuel": "Gasoline/Electric",
+          "engine": "0.9L Turbo - Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Smart to marka miejskich mikrosamochodów, stworzona przy współpracy Mercedesa i Swatch. Obecnie produkuje tylko auta elektryczne.",
+              "en": "Smart is a brand of urban microcars, created in cooperation with Mercedes and Swatch. Currently, it only produces electric cars.",
+              "de": "Smart ist eine Marke für städtische Kleinstautos, die in Zusammenarbeit mit Mercedes und Swatch entwickelt wurde. Derzeit werden nur Elektroautos produziert.",
+              "uk": "Smart — бренд міських мікроавтомобілів, створений у співпраці з Mercedes і Swatch. Зараз тут випускають лише електромобілі.",
+              "ru": "Smart — бренд городских микроавтомобилей, созданный в сотрудничестве с Mercedes и Swatch. В настоящее время она производит только электромобили.",
+              "zh": "Smart是城市微型汽车品牌，与梅赛德斯和斯沃琪合作创建。目前，它只生产电动汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Smart Automobile (Mercedes/Geely)",
+                "en": "Smart Automobile (Mercedes/Geely)",
+                "de": "Smart Automobile (Mercedes/Geely)",
+                "uk": "Smart Automobile (Mercedes/Geely)",
+                "ru": "Smart Automobile (Mercedes/Geely)",
+                "zh": "智能汽车（奔驰/吉利）"
+              },
+              "siedziba": {
+                "pl": "Ningbo, Chiny",
+                "en": "Ningbo, China",
+                "de": "Ningbo, China",
+                "uk": "Нінбо, Китай",
+                "ru": "Нинбо, Китай",
+                "zh": "中国宁波"
+              },
+              "założona": "1994"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/31/s1/3k2xlr408gwsc84okk00k/smart-forfour.310.jpg"
+        }
+      }
+    ],
+    "Roadster": [
+      {
+        "BrandID": 123,
+        "ModelID": 415807,
+        "Brand Name": "Smart",
+        "Model Name": "Roadster",
+        "Serie Name": "Roadster (452)",
+        "Years": "2003 - 2005",
+        "specs": {
+          "bodyType": "Roadster/Coupe",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "0.7L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Smart_Roadster_Brabus_FIN-ED_A.jpg/1280px-Smart_Roadster_Brabus_FIN-ED_A.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Smart_Roadster_Brabus_FIN-ED_A.jpg/1280px-Smart_Roadster_Brabus_FIN-ED_A.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Smart_Roadster_Brabus_FIN-ED_A_-_10275869706.jpg/1280px-Smart_Roadster_Brabus_FIN-ED_A_-_10275869706.jpg"
+            ],
+            "description": {
+              "pl": "Smart to marka miejskich mikrosamochodów, stworzona przy współpracy Mercedesa i Swatch. Obecnie produkuje tylko auta elektryczne.",
+              "en": "Smart is a brand of urban microcars, created in cooperation with Mercedes and Swatch. Currently, it only produces electric cars.",
+              "de": "Smart ist eine Marke für städtische Kleinstautos, die in Zusammenarbeit mit Mercedes und Swatch entwickelt wurde. Derzeit werden nur Elektroautos produziert.",
+              "uk": "Smart — бренд міських мікроавтомобілів, створений у співпраці з Mercedes і Swatch. Зараз тут випускають лише електромобілі.",
+              "ru": "Smart — бренд городских микроавтомобилей, созданный в сотрудничестве с Mercedes и Swatch. В настоящее время она производит только электромобили.",
+              "zh": "Smart是城市微型汽车品牌，与梅赛德斯和斯沃琪合作创建。目前，它只生产电动汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Smart Automobile (Mercedes/Geely)",
+                "en": "Smart Automobile (Mercedes/Geely)",
+                "de": "Smart Automobile (Mercedes/Geely)",
+                "uk": "Smart Automobile (Mercedes/Geely)",
+                "ru": "Smart Automobile (Mercedes/Geely)",
+                "zh": "智能汽车（奔驰/吉利）"
+              },
+              "siedziba": {
+                "pl": "Ningbo, Chiny",
+                "en": "Ningbo, China",
+                "de": "Ningbo, China",
+                "uk": "Нінбо, Китай",
+                "ru": "Нинбо, Китай",
+                "zh": "中国宁波"
+              },
+              "założona": "1994"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2x/ui/ub3ie8o4c400840c0so8g/smart-roadster-coupe.310.jpg"
+        }
+      }
+    ],
+    "#1": [
+      {
+        "BrandID": 123,
+        "ModelID": 416586,
+        "Brand Name": "Smart",
+        "Model Name": "#1",
+        "Serie Name": "#1",
+        "Years": "2022 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment B-SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Electric",
+          "engine": "Electric Motor 66kWh",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Smart to marka miejskich mikrosamochodów, stworzona przy współpracy Mercedesa i Swatch. Obecnie produkuje tylko auta elektryczne.",
+              "en": "Smart is a brand of urban microcars, created in cooperation with Mercedes and Swatch. Currently, it only produces electric cars.",
+              "de": "Smart ist eine Marke für städtische Kleinstautos, die in Zusammenarbeit mit Mercedes und Swatch entwickelt wurde. Derzeit werden nur Elektroautos produziert.",
+              "uk": "Smart — бренд міських мікроавтомобілів, створений у співпраці з Mercedes і Swatch. Зараз тут випускають лише електромобілі.",
+              "ru": "Smart — бренд городских микроавтомобилей, созданный в сотрудничестве с Mercedes и Swatch. В настоящее время она производит только электромобили.",
+              "zh": "Smart是城市微型汽车品牌，与梅赛德斯和斯沃琪合作创建。目前，它只生产电动汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Smart Automobile (Mercedes/Geely)",
+                "en": "Smart Automobile (Mercedes/Geely)",
+                "de": "Smart Automobile (Mercedes/Geely)",
+                "uk": "Smart Automobile (Mercedes/Geely)",
+                "ru": "Smart Automobile (Mercedes/Geely)",
+                "zh": "智能汽车（奔驰/吉利）"
+              },
+              "siedziba": {
+                "pl": "Ningbo, Chiny",
+                "en": "Ningbo, China",
+                "de": "Ningbo, China",
+                "uk": "Нінбо, Китай",
+                "ru": "Нинбо, Китай",
+                "zh": "中国宁波"
+              },
+              "założona": "1994"
+            }
+          }
+        }
+      }
+    ],
+    "#3": [
+      {
+        "BrandID": 123,
+        "ModelID": 416587,
+        "Brand Name": "Smart",
+        "Model Name": "#3",
+        "Serie Name": "#3",
+        "Years": "2023 - Present",
+        "specs": {
+          "bodyType": "Coupe SUV",
+          "segment": "Segment C-SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Electric",
+          "engine": "Electric Motor 66kWh",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Smart to marka miejskich mikrosamochodów, stworzona przy współpracy Mercedesa i Swatch. Obecnie produkuje tylko auta elektryczne.",
+              "en": "Smart is a brand of urban microcars, created in cooperation with Mercedes and Swatch. Currently, it only produces electric cars.",
+              "de": "Smart ist eine Marke für städtische Kleinstautos, die in Zusammenarbeit mit Mercedes und Swatch entwickelt wurde. Derzeit werden nur Elektroautos produziert.",
+              "uk": "Smart — бренд міських мікроавтомобілів, створений у співпраці з Mercedes і Swatch. Зараз тут випускають лише електромобілі.",
+              "ru": "Smart — бренд городских микроавтомобилей, созданный в сотрудничестве с Mercedes и Swatch. В настоящее время она производит только электромобили.",
+              "zh": "Smart是城市微型汽车品牌，与梅赛德斯和斯沃琪合作创建。目前，它只生产电动汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Smart Automobile (Mercedes/Geely)",
+                "en": "Smart Automobile (Mercedes/Geely)",
+                "de": "Smart Automobile (Mercedes/Geely)",
+                "uk": "Розумний автомобіль (Mercedes/Geely)",
+                "ru": "Умный автомобиль (Mercedes/Geely)",
+                "zh": "智能汽车（奔驰/吉利）"
+              },
+              "siedziba": {
+                "pl": "Ningbo, Chiny",
+                "en": "Ningbo, China",
+                "de": "Ningbo, China",
+                "uk": "Нінбо, Китай",
+                "ru": "Нинбо, Китай",
+                "zh": "中国宁波"
+              },
+              "założona": "1994"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

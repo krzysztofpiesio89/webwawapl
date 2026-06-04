@@ -1,0 +1,1533 @@
+{
+  "brand": "Infiniti",
+  "models": {
+    "EX": [
+      {
+        "BrandID": 66,
+        "ModelID": 723,
+        "Brand Name": "Infiniti",
+        "Model Name": "EX",
+        "Serie Name": "EX",
+        "Years": "2007 - 2013",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact Luxury SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.5L V6 / 3.7L V6 / 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Infiniti EX (później QX50) to jeden z pierwszych kompaktowych crossoverów premium, łączący cechy coupe i SUV-a. Wprowadził innowacyjny system kamer 360 stopni (AVM).",
+              "en": "Infiniti EX (later QX50) is one of the first compact premium crossovers, combining the features of a coupe and an SUV. He introduced an innovative 360-degree camera system (AVM).",
+              "de": "Der Infiniti EX (später QX50) ist einer der ersten kompakten Premium-Crossover, der die Merkmale eines Coupés und eines SUV vereint. Er stellte ein innovatives 360-Grad-Kamerasystem (AVM) vor.",
+              "uk": "Infiniti EX (згодом QX50) — один із перших компактних кросоверів преміум-класу, що поєднує в собі риси купе та позашляховика. Він представив інноваційну систему 360-градусної камери (AVM).",
+              "ru": "Infiniti EX (позже QX50) — один из первых компактных кроссоверов премиум-класса, сочетающий в себе черты купе и внедорожника. Он представил инновационную систему камер с обзором на 360 градусов (AVM).",
+              "zh": "英菲尼迪 EX（后来的 QX50）是首款紧凑型高级跨界车之一，结合了轿跑车和 SUV 的特点。他推出了创新的 360 度摄像系统 (AVM)。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": "2007–2013",
+              "segment": {
+                "pl": "Compact Luxury SUV",
+                "en": "Compact Luxury SUV",
+                "de": "Kompakter Luxus-SUV",
+                "uk": "Компактний розкішний позашляховик",
+                "ru": "Компактный роскошный внедорожник",
+                "zh": "紧凑型豪华 SUV"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/25/og/bjshhfi8488w4ck040c0w/ex.310.jpg"
+        }
+      }
+    ],
+    "FX": [
+      {
+        "BrandID": 66,
+        "ModelID": 413211,
+        "Brand Name": "Infiniti",
+        "Model Name": "FX",
+        "Serie Name": "FX Gen 1 (S50)",
+        "Years": "2002 - 2008",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6 / 4.5L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Infiniti FX I (S50) to ikona stylu ('Bionic Cheetah'). Sportowy SUV, który prowadzi się jak auto osobowe, z charakterystycznym wydechem i agresywnym wyglądem.",
+              "en": "Infiniti FX I (S50) is a style icon ('Bionic Cheetah'). A sports SUV that drives like a passenger car, with a distinctive exhaust and an aggressive look.",
+              "de": "Infiniti FX I (S50) ist eine Stilikone („Bionic Cheetah“). Ein Sport-SUV, der wie ein Pkw fährt, mit markantem Auspuff und aggressivem Look.",
+              "uk": "Infiniti FX I (S50) — ікона стилю («Біонічний гепард»). Спортивний позашляховик, який їздить, як легковий автомобіль, із характерним вихлопом і агресивним виглядом.",
+              "ru": "Infiniti FX I (S50) — икона стиля («Бионический гепард»). Спортивный внедорожник, который ездит как легковой автомобиль, с характерным выхлопом и агрессивным внешним видом.",
+              "zh": "英菲尼迪 FX I (S50) 是时尚偶像（“仿生猎豹”）。一款驾驶起来像乘用车一样的运动SUV，具有独特的排气和侵略性的外观。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": "2002–2008",
+              "segment": {
+                "pl": "Mid-size Luxury SUV",
+                "en": "Mid-size Luxury SUV",
+                "de": "Mittelgroßer Luxus-SUV",
+                "uk": "Розкішний позашляховик середнього розміру",
+                "ru": "Роскошный внедорожник среднего размера",
+                "zh": "中型豪华SUV"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2m/a2/zhcedtkwk4oggkc4gk04w/fx-2.310.jpg"
+        }
+      },
+      {
+        "BrandID": 66,
+        "ModelID": 413212,
+        "Brand Name": "Infiniti",
+        "Model Name": "FX",
+        "Serie Name": "FX Gen 2 (S51)",
+        "Years": "2008 - 2013",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.5L V6 / 3.7L V6 / 5.0L V8 / 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja FX (S51, później QX70) stała się jeszcze bardziej luksusowa i naszpikowana technologią, zachowując drapieżny charakter i potężne silniki V6/V8.",
+              "en": "The second generation of FX (S51, later QX70) became even more luxurious and packed with technology, retaining its predatory character and powerful V6/V8 engines.",
+              "de": "Die zweite Generation des FX (S51, später QX70) wurde noch luxuriöser und voller Technologie, behielt jedoch ihren räuberischen Charakter und die leistungsstarken V6/V8-Motoren bei.",
+              "uk": "Друге покоління FX (S51, пізніше QX70) стало ще розкішнішим і наповненим технологіями, зберігши свій хижий характер і потужні двигуни V6/V8.",
+              "ru": "Второе поколение FX (S51, позже QX70) стало еще более роскошным и оснащенным технологиями, сохранив свой хищный характер и мощные двигатели V6/V8.",
+              "zh": "第二代FX（S51，后来的QX70）变得更加豪华和充满科技，保留了其掠夺性的特征和强大的V6/V8发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": "2008–2013",
+              "segment": {
+                "pl": "Mid-size Luxury SUV",
+                "en": "Mid-size Luxury SUV",
+                "de": "Mittelgroßer Luxus-SUV",
+                "uk": "Розкішний позашляховик середнього розміру",
+                "ru": "Роскошный внедорожник среднего размера.",
+                "zh": "中型豪华SUV"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2m/a2/zhcedtkwk4oggkc4gk04w/fx-2.310.jpg"
+        }
+      }
+    ],
+    "G": [
+      {
+        "BrandID": 66,
+        "ModelID": 414201,
+        "Brand Name": "Infiniti",
+        "Model Name": "G",
+        "Serie Name": "G Gen 1 (P10)",
+        "Years": "1990 - 1996",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Compact Executive",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Infiniti G20 (P10) to pierwszy model 'entry-level luxury' marki. Bazował na Nissanie Primera, oferując solidne prowadzenie i bogate wyposażenie w kompaktowym nadwoziu.",
+              "en": "Infiniti G20 (P10) is the brand's first 'entry-level luxury' model. It was based on the Nissan Primera, offering solid handling and extensive equipment in a compact body.",
+              "de": "Der Infiniti G20 (P10) ist das erste „Luxus-Einstiegsmodell“ der Marke. Er basierte auf dem Nissan Primera und bot solides Handling und umfangreiche Ausstattung in einer kompakten Karosserie.",
+              "uk": "Infiniti G20 (P10) — це перша модель бренду «розкіш початкового рівня». Його базували на Nissan Primera, пропонуючи надійну керованість і широке обладнання в компактному кузові.",
+              "ru": "Infiniti G20 (P10) — первая модель бренда класса «люкс» начального уровня. Он был основан на Nissan Primera и предлагал надежную управляемость и обширное оснащение в компактном кузове.",
+              "zh": "英菲尼迪G20 (P10) 是该品牌首款“入门级豪华”车型。它以 Nissan Primera 为基础，在紧凑的车身中提供可靠的操控性和丰富的设备。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": "1990–1996",
+              "segment": {
+                "pl": "Compact Executive",
+                "en": "Compact Executive",
+                "de": "Compact Executive",
+                "uk": "Compact Executive",
+                "ru": "Compact Executive",
+                "zh": "紧凑型行政车"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 66,
+        "ModelID": 414200,
+        "Brand Name": "Infiniti",
+        "Model Name": "G",
+        "Serie Name": "G Gen 2 (P11)",
+        "Years": "1998 - 2002",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Compact Executive",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja G20 (P11) kontynuowała filozofię sportowego sedana z napędem na przód, będąc ciekawą, japońską alternatywą dla aut europejskich w latach 90.",
+              "en": "The second generation of the G20 (P11) continued the philosophy of a front-drive sports sedan, being an interesting Japanese alternative to European cars in the 1990s.",
+              "de": "Die zweite Generation des G20 (P11) setzte die Philosophie einer Sportlimousine mit Frontantrieb fort und war in den 1990er Jahren eine interessante japanische Alternative zu europäischen Autos.",
+              "uk": "Друге покоління G20 (P11) продовжило філософію передньопривідного спортивного седана, будучи цікавою японською альтернативою європейським автомобілям 1990-х років.",
+              "ru": "Второе поколение G20 (P11) продолжило философию переднеприводного спортивного седана, являясь интересной японской альтернативой европейским автомобилям 1990-х годов.",
+              "zh": "第二代 G20 (P11) 延续了前驱运动轿车的理念，是 20 世纪 90 年代欧洲汽车的有趣日本替代品。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": "1998–2002",
+              "segment": {
+                "pl": "Compact Executive",
+                "en": "Compact Executive",
+                "de": "Compact Executive",
+                "uk": "Compact Executive",
+                "ru": "Compact Executive",
+                "zh": "Compact Executive"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 66,
+        "ModelID": 413213,
+        "Brand Name": "Infiniti",
+        "Model Name": "G",
+        "Serie Name": "G Gen 3 (V35)",
+        "Years": "2002 - 2007",
+        "specs": {
+          "bodyType": "Sedan/Coupe",
+          "segment": "Compact Executive",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Przełomowy model G35 (V35). Tylnonapędowy sedan i coupe, który skutecznie rzucił wyzwanie BMW serii 3, oferując świetne osiągi legendarnego silnika V6 VQ35DE.",
+              "en": "The groundbreaking G35 (V35) model. A rear-wheel drive sedan and coupe that successfully challenged the BMW 3 Series, offering great performance from the legendary VQ35DE V6 engine.",
+              "de": "Das bahnbrechende Modell G35 (V35). Eine Limousine und ein Coupé mit Hinterradantrieb, die den BMW 3er erfolgreich herausforderten und mit dem legendären VQ35DE-V6-Motor großartige Leistung boten.",
+              "uk": "Революційна модель G35 (V35). Задньопривідний седан і купе, який успішно кинув виклик BMW 3 серії, пропонуючи чудову продуктивність легендарного двигуна VQ35DE V6.",
+              "ru": "Инновационная модель G35 (V35). Заднеприводный седан и купе, успешно бросивший вызов BMW 3 серии, предлагая великолепные характеристики легендарного двигателя VQ35DE V6.",
+              "zh": "开创性的 G35 (V35) 型号。成功挑战 BMW 3 系的后轮驱动轿车和轿跑车，凭借传奇的 VQ35DE V6 发动机提供卓越性能。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": "2002–2007",
+              "segment": {
+                "pl": "Compact Executive",
+                "en": "Compact Executive",
+                "de": "Compact Executive",
+                "uk": "Compact Executive",
+                "ru": "Compact Executive",
+                "zh": "Compact Executive"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 66,
+        "ModelID": 413214,
+        "Brand Name": "Infiniti",
+        "Model Name": "G",
+        "Serie Name": "G Gen 4 (V36)",
+        "Years": "2006 - 2015",
+        "specs": {
+          "bodyType": "Sedan/Coupe/Convertible",
+          "segment": "Compact Executive",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.5L / 3.5L / 3.7L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ewolucja modelu G (V36) jako G35, G37 i G25. Jeszcze bardziej dopracowane wnętrze, mocniejsze silniki i wprowadzenie wersji kabriolet hardtop.",
+              "en": "Evolution of the G (V36) as G35, G37 and G25. An even more refined interior, more powerful engines and the introduction of a convertible hardtop version.",
+              "de": "Weiterentwicklung des G (V36) als G35, G37 und G25. Ein noch verfeinerter Innenraum, stärkere Motoren und die Einführung einer Cabrio-Hardtop-Version.",
+              "uk": "Еволюція G (V36) як G35, G37 і G25. Ще більш витончений інтер’єр, потужніші двигуни та поява версії з кабріолетом із жорстким дахом.",
+              "ru": "Эволюция G (V36) как G35, G37 и G25. Еще более изысканный интерьер, более мощные двигатели и появление кабриолета с жесткой крышей.",
+              "zh": "G (V36) 演变为 G35、G37 和 G25。更精致的内饰、更强大的发动机以及敞篷硬顶版本的推出。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": "2006–2015",
+              "segment": {
+                "pl": "Compact Executive",
+                "en": "Compact Executive",
+                "de": "Compact Executive",
+                "uk": "Compact Executive",
+                "ru": "Compact Executive",
+                "zh": "Compact Executive"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "I": [
+      {
+        "BrandID": 66,
+        "ModelID": 415282,
+        "Brand Name": "Infiniti",
+        "Model Name": "I",
+        "Serie Name": "I Gen 1 (A32)",
+        "Years": "1995 - 1999",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Luxury",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "3.0L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Infiniti I30 (A32) to luksusowa wersja Nissana Maximy. Oferowała komfort, niezawodność i bogate wyposażenie w niższej cenie niż niemiecka konkurencja.",
+              "en": "Infiniti I30 (A32) is a luxury version of the Nissan Maxima. It offered comfort, reliability and rich equipment at a lower price than the German competition.",
+              "de": "Infiniti I30 (A32) ist eine Luxusversion des Nissan Maxima. Er bot Komfort, Zuverlässigkeit und reichhaltige Ausstattung zu einem günstigeren Preis als die deutsche Konkurrenz.",
+              "uk": "Infiniti I30 (A32) — розкішна версія Nissan Maxima. Він пропонував комфорт, надійність і багате обладнання за нижчою ціною, ніж німецька конкуренція.",
+              "ru": "Infiniti I30 (A32) — роскошная версия Nissan Maxima. Он предлагал комфорт, надежность и богатое оснащение по более низкой цене, чем немецкие конкуренты.",
+              "zh": "英菲尼迪 I30 (A32) 是 Nissan Maxima 的豪华版。它以比德国竞争对手更低的价格提供舒适性、可靠性和丰富的设备。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": "1995–1999",
+              "segment": {
+                "pl": "Mid-size Luxury",
+                "en": "Mid-size Luxury",
+                "de": "Mittelklasse-Luxus",
+                "uk": "Середньорозмірний Luxury",
+                "ru": "Среднеразмерная роскошь",
+                "zh": "中型豪华车"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 66,
+        "ModelID": 726,
+        "Brand Name": "Infiniti",
+        "Model Name": "I",
+        "Serie Name": "I Gen 2 (A33)",
+        "Years": "1999 - 2004",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Luxury",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "3.0L / 3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja (A33), jako I30 i później I35, zyskała mocniejszy silnik i odświeżony wygląd, pozostając komfortową limuzyną z napędem na przód.",
+              "en": "The second generation (A33), as I30 and later I35, gained a more powerful engine and a refreshed appearance, while remaining a comfortable front-drive limousine.",
+              "de": "Die zweite Generation (A33), als I30 und später als I35, erhielt einen stärkeren Motor und ein aufgefrischtes Erscheinungsbild, blieb aber eine komfortable Limousine mit Frontantrieb.",
+              "uk": "Друге покоління (A33), як I30 і пізніше I35, отримало більш потужний двигун і оновлений зовнішній вигляд, залишаючись при цьому комфортабельним передньопривідним лімузином.",
+              "ru": "Второе поколение (A33), как I30, а затем и I35, получило более мощный двигатель и обновленный внешний вид, оставаясь при этом комфортабельным лимузином с передним приводом.",
+              "zh": "第二代 (A33)，即 I30 和后来的 I35，获得了更强大的发动机和焕然一新的外观，同时保留了舒适的前驱豪华轿车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": "1999–2004",
+              "segment": {
+                "pl": "Mid-size Luxury",
+                "en": "Mid-size Luxury",
+                "de": "Mittelklasse-Luxus",
+                "uk": "Середньорозмірний Luxury",
+                "ru": "Среднеразмерный люксовый автомобиль",
+                "zh": "中型豪华车"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "JX": [
+      {
+        "BrandID": 66,
+        "ModelID": 728,
+        "Brand Name": "Infiniti",
+        "Model Name": "JX",
+        "Serie Name": "JX",
+        "Years": "2012 - 2013",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Infiniti JX35 (później QX60) to pierwszy 7-osobowy crossover marki z płaską podłogą, zaprojektowany z myślą o rodzinach i komforcie podróżowania.",
+              "en": "Infiniti JX35 (later QX60) is the brand's first 7-seater crossover with a flat floor, designed with families and travel comfort in mind.",
+              "de": "Der Infiniti JX35 (später QX60) ist der erste 7-Sitzer-Crossover der Marke mit flachem Boden, der speziell für Familien und Reisekomfort entwickelt wurde.",
+              "uk": "Infiniti JX35 (пізніше QX60) — це перший 7-місний кросовер бренду з рівною підлогою, розроблений для сімейного відпочинку та комфорту подорожей.",
+              "ru": "Infiniti JX35 (позже QX60) — первый 7-местный кроссовер бренда с плоским полом, созданный для семейного отдыха и комфорта в путешествиях.",
+              "zh": "英菲尼迪 JX35（后来的 QX60）是该品牌首款 7 座跨界车，采用平地板，设计时考虑了家庭和旅行舒适度。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": "2012–2013",
+              "segment": {
+                "pl": "Mid-size Luxury SUV",
+                "en": "Mid-size Luxury SUV",
+                "de": "Mittelgroßer Luxus-SUV",
+                "uk": "Розкішний позашляховик середнього розміру",
+                "ru": "Роскошный внедорожник среднего размера.",
+                "zh": "中型豪华 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "M": [
+      {
+        "BrandID": 66,
+        "ModelID": 413215,
+        "Brand Name": "Infiniti",
+        "Model Name": "M",
+        "Serie Name": "M Gen 2 (Y34)",
+        "Years": "2002 - 2004",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "4.5L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Infiniti M45 (Y34) to sedan o klasycznej, pudełkowatej sylwetce i potężnym silniku V8, ceniony przez entuzjastów za unikalny styl (JDM Gloria/Cedric).",
+              "en": "Infiniti M45 (Y34) is a sedan with a classic, boxy silhouette and a powerful V8 engine, appreciated by enthusiasts for its unique style (JDM Gloria/Cedric).",
+              "de": "Der Infiniti M45 (Y34) ist eine Limousine mit einer klassischen, kastenförmigen Silhouette und einem leistungsstarken V8-Motor, die von Enthusiasten wegen ihres einzigartigen Stils geschätzt wird (JDM Gloria/Cedric).",
+              "uk": "Infiniti M45 (Y34) — це седан із класичним квадратним силуетом і потужним двигуном V8, який цінується ентузіастами за його унікальний стиль (JDM Gloria/Cedric).",
+              "ru": "Infiniti M45 (Y34) — седан классического квадратного силуэта с мощным двигателем V8, ценимый энтузиастами за свой уникальный стиль (JDM Gloria/Cedric).",
+              "zh": "英菲尼迪 M45 (Y34) 是一款轿车，具有经典的四四方方的轮廓和强大的 V8 发动机，因其独特的风格而受到爱好者的赞赏 (JDM Gloria/Cedric)。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": "2002–2004",
+              "segment": {
+                "pl": "Mid-size Luxury",
+                "en": "Mid-size Luxury",
+                "de": "Mittelklasse-Luxus",
+                "uk": "Середньорозмірний Luxury",
+                "ru": "Среднеразмерный люкс",
+                "zh": "中型豪华车"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7i/3p/m0z22wco4o8s44ok8o8gw/m.310.jpg"
+        }
+      },
+      {
+        "BrandID": 66,
+        "ModelID": 413216,
+        "Brand Name": "Infiniti",
+        "Model Name": "M",
+        "Serie Name": "M Gen 3 (Y50)",
+        "Years": "2005 - 2010",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Luxury",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6 / 4.5L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Infiniti M (Y50) to konkurent BMW serii 5, który zaoferował nowoczesny design, zaawansowaną technologię (LDW, skrętne reflektory) i świetne właściwości jezdne.",
+              "en": "Infiniti M (Y50) is a competitor to the BMW 5 series, which offered modern design, advanced technology (LDW, swiveling headlights) and great driving characteristics.",
+              "de": "Der Infiniti M (Y50) ist ein Konkurrent der BMW 5er-Reihe, der modernes Design, fortschrittliche Technologie (LDW, schwenkbare Scheinwerfer) und hervorragende Fahreigenschaften bot.",
+              "uk": "Infiniti M (Y50) є конкурентом BMW 5 серії, який пропонував сучасний дизайн, передові технології (LDW, поворотні фари) і чудові ходові характеристики.",
+              "ru": "Infiniti M (Y50) — конкурент BMW 5 серии, который предлагал современный дизайн, передовые технологии (LDW, поворотные фары) и отличные ходовые качества.",
+              "zh": "英菲尼迪 M (Y50) 是 BMW 5 系列的竞争对手，它提供现代设计、先进技术（LDW、旋转头灯）和出色的驾驶特性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": "2005–2010",
+              "segment": {
+                "pl": "Mid-size Luxury",
+                "en": "Mid-size Luxury",
+                "de": "Mittelklasse-Luxus",
+                "uk": "Розкіш середнього розміру",
+                "ru": "Роскошь среднего размера",
+                "zh": "中型豪华车"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7i/3p/m0z22wco4o8s44ok8o8gw/m.310.jpg"
+        }
+      },
+      {
+        "BrandID": 66,
+        "ModelID": 413217,
+        "Brand Name": "Infiniti",
+        "Model Name": "M",
+        "Serie Name": "M Gen 4 (Y51)",
+        "Years": "2010 - 2013",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Luxury",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "3.7L V6 / 5.6L V8 / 3.0L Diesel / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Czwarta generacja modelu M (Y51, później Q70) o muskularnych liniach inspirowanych naturą. Oferowała wersję hybrydową i potężne V8.",
+              "en": "The fourth generation of the M model (Y51, later Q70) with muscular lines inspired by nature. It offered a hybrid version and a powerful V8.",
+              "de": "Die vierte Generation des M-Modells (Y51, später Q70) mit kraftvollen, von der Natur inspirierten Linien. Es gab eine Hybridversion und einen leistungsstarken V8.",
+              "uk": "Четверте покоління моделі M (Y51, пізніше Q70) з мускулистими лініями, натхненними природою. Він пропонував гібридну версію та потужний V8.",
+              "ru": "Четвертое поколение модели M (Y51, позже Q70) с мускулистыми линиями, вдохновленными природой. Предлагалась гибридная версия и мощный V8.",
+              "zh": "第四代 M 车型（Y51，后来的 Q70），具有受自然启发的肌肉线条。它提供了混合动力版本和强大的 V8 发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": "2010–2013",
+              "segment": {
+                "pl": "Mid-size Luxury",
+                "en": "Mid-size Luxury",
+                "de": "Der mittelgroße Luxus",
+                "uk": "Середньорозмірний Luxury",
+                "ru": "Среднеразмерный роскошный",
+                "zh": "中型豪华"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7i/3p/m0z22wco4o8s44ok8o8gw/m.310.jpg"
+        }
+      }
+    ],
+    "Q30": [
+      {
+        "BrandID": 66,
+        "ModelID": 415285,
+        "Brand Name": "Infiniti",
+        "Model Name": "Q30",
+        "Serie Name": "Q30",
+        "Years": "2015 - 2019",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Copmact Luxury",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L / 2.0L / 1.5L Diesel / 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Infiniti Q30 to pierwszy kompaktowy hatchback marki, zbudowany na platformie Mercedesa klasy A. Wyróżnia się odważnym, płynnym designem.",
+              "en": "Infiniti Q30 is the brand's first compact hatchback, built on the Mercedes A-class platform. It is distinguished by a bold, fluid design.",
+              "de": "Infiniti Q30 ist das erste kompakte Fließheckmodell der Marke, das auf der Plattform der Mercedes A-Klasse basiert. Es zeichnet sich durch ein kühnes, fließendes Design aus.",
+              "uk": "Infiniti Q30 — перший компактний хетчбек марки, побудований на платформі Mercedes A-класу. Його вирізняє сміливий плавний дизайн.",
+              "ru": "Infiniti Q30 — первый компактный хэтчбек бренда, построенный на платформе Mercedes A-класса. Его отличает смелый, плавный дизайн.",
+              "zh": "英菲尼迪 Q30 是该品牌的首款紧凑型掀背车，基于梅赛德斯 A 级平台打造。它的特点是大胆、流畅的设计。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": "2015–2019",
+              "segment": {
+                "pl": "Compact Luxury",
+                "en": "Compact Luxury",
+                "de": "Kompakter Luxus",
+                "uk": "Компактний розкішний",
+                "ru": "Компактная роскошь",
+                "zh": "紧凑型豪华车"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Q40": [
+      {
+        "BrandID": 66,
+        "ModelID": 415287,
+        "Brand Name": "Infiniti",
+        "Model Name": "Q40",
+        "Serie Name": "Q40",
+        "Years": "2014 - 2015",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Compact Executive",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "3.7L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Infiniti Q40 to przemianowany model G37 sedan, oferowany przez krótki czas jako tańsza alternatywa dla wchodzącego na rynek modelu Q50.",
+              "en": "Infiniti Q40 is a renamed G37 sedan, offered for a short time as a cheaper alternative to the upcoming Q50 model.",
+              "de": "Der Infiniti Q40 ist eine umbenannte G37-Limousine, die für kurze Zeit als günstigere Alternative zum kommenden Q50-Modell angeboten wird.",
+              "uk": "Infiniti Q40 — седан G37, перейменований у седан, який протягом короткого часу пропонувався як дешевша альтернатива майбутній моделі Q50.",
+              "ru": "Infiniti Q40 — это переименованный седан G37, который на короткое время предлагается в качестве более дешевой альтернативы будущей модели Q50.",
+              "zh": "英菲尼迪 Q40 是一款更名为 G37 轿车，作为即将推出的 Q50 车型的更便宜替代品，短期内提供。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": "2014–2015",
+              "segment": {
+                "pl": "Compact Executive",
+                "en": "Compact Executive",
+                "de": "Compact Executive",
+                "uk": "Compact Executive",
+                "ru": "Compact Executive",
+                "zh": "紧凑型行政车"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Q45": [
+      {
+        "BrandID": 66,
+        "ModelID": 413219,
+        "Brand Name": "Infiniti",
+        "Model Name": "Q45",
+        "Serie Name": "Q45 Gen 1 (G50)",
+        "Years": "1989 - 1996",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "4.5L V8",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Infiniti Q45 (G50) to flagowa limuzyna, która zapoczątkowała historię marki. Wyróżniała się brakiem grilla i potężnym silnikiem V8, stawiając na osiągi.",
+              "en": "Infiniti Q45 (G50) is the flagship limousine that started the brand's history. It was distinguished by the lack of a grille and a powerful V8 engine, focusing on performance.",
+              "de": "Infiniti Q45 (G50) ist die Flaggschiff-Limousine, mit der die Geschichte der Marke begann. Es zeichnete sich durch das Fehlen eines Kühlergrills und einen leistungsstarken V8-Motor aus, bei dem die Leistung im Vordergrund stand.",
+              "uk": "Infiniti Q45 (G50) — флагманський лімузин, з якого почалася історія бренду. Він відрізнявся відсутністю решітки радіатора і потужним двигуном V8, акцентуючи увагу на продуктивності.",
+              "ru": "Infiniti Q45 (G50) — флагманский лимузин, с которого началась история бренда. Его отличали отсутствие решетки радиатора и мощный двигатель V8, делающий упор на производительность.",
+              "zh": "英菲尼迪 Q45 (G50) 是开启该品牌历史的旗舰豪华轿车。它的特点是没有格栅和强大的 V8 发动机，注重性能。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": "1989–1996",
+              "segment": {
+                "pl": "Full-size Luxury",
+                "en": "Full-size Luxury",
+                "de": "Luxus in Originalgröße",
+                "uk": "Повнорозмірний Luxury",
+                "ru": "Полноразмерная роскошь",
+                "zh": "全尺寸豪华"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7y/o7/fcewtdwk84s4w8kg40kks/q45-3.310.jpg"
+        }
+      },
+      {
+        "BrandID": 66,
+        "ModelID": 413220,
+        "Brand Name": "Infiniti",
+        "Model Name": "Q45",
+        "Serie Name": "Q45 Gen 2 (FY33)",
+        "Years": "1997 - 2001",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "4.1L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja Q45 (FY33) stała się bardziej konwencjonalna i luksusowa (bliźniak Nissana Cima), celując w klientów ceniących komfort nad sportowe wrażenia.",
+              "en": "The second generation of the Q45 (FY33) became more conventional and luxurious (twin to the Nissan Cima), targeting customers who value comfort over sporty sensations.",
+              "de": "Die zweite Generation des Q45 (FY33) wurde konventioneller und luxuriöser (Zwilling des Nissan Cima) und richtete sich an Kunden, die Komfort über sportliche Empfindungen legen.",
+              "uk": "Друге покоління Q45 (FY33) стало більш звичайним і розкішним (близнюк Nissan Cima), націлене на клієнтів, які цінують комфорт над спортивними відчуттями.",
+              "ru": "Второе поколение Q45 (33-й финансовый год) стало более традиционным и роскошным (близнец Nissan Cima), ориентированным на клиентов, которые ценят комфорт выше спортивных ощущений.",
+              "zh": "第二代 Q45 (FY33) 变得更加传统和豪华（与日产 Cima 是双胞胎），目标客户是重视舒适性而非运动感的客户。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": "1997–2001",
+              "segment": {
+                "pl": "Full-size Luxury",
+                "en": "Full-size Luxury",
+                "de": "Luxus in Originalgröße",
+                "uk": "Повнорозмірний Luxury",
+                "ru": "Полноразмерная роскошь",
+                "zh": "全尺寸豪华"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7y/o7/fcewtdwk84s4w8kg40kks/q45-3.310.jpg"
+        }
+      },
+      {
+        "BrandID": 66,
+        "ModelID": 731,
+        "Brand Name": "Infiniti",
+        "Model Name": "Q45",
+        "Serie Name": "Q45 Gen 3 (F50)",
+        "Years": "2001 - 2006",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "4.5L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Trzecia generacja Q45 (F50) to potężna limuzyna z 340-konnym V8 i unikalnymi reflektorami wielosoczewkowymi ('Gatling gun'), która wyprzedzała swoje czasy.",
+              "en": "The third generation Q45 (F50) is a powerful limousine with a 340-horsepower V8 and unique multi-lens headlights ('Gatling gun'), which was ahead of its time.",
+              "de": "Der Q45 (F50) der dritten Generation ist eine leistungsstarke Limousine mit einem 340-PS-V8 und einzigartigen Mehrlinsen-Scheinwerfern („Gatling-Gun“), die ihrer Zeit voraus war.",
+              "uk": "Третє покоління Q45 (F50) — потужний лімузин з 340-сильним V8 і унікальними багатолінзовими фарами («пістолет Гатлінга»), який випередив свій час.",
+              "ru": "Третье поколение Q45 (F50) — мощный лимузин с 340-сильным двигателем V8 и уникальными многолинзовыми фарами («Пистолет Гатлинга»), опередивший свое время.",
+              "zh": "第三代 Q45（F50）是一款强大的豪华轿车，配备 340 马力的 V8 发动机和独特的多透镜头灯（“加特林枪”），领先于时代。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": "2001–2006",
+              "segment": {
+                "pl": "Full-size Luxury",
+                "en": "Full-size Luxury",
+                "de": "Oberklasse-Luxus",
+                "uk": "Повнорозмірний Luxury",
+                "ru": "Полноразмерная роскошь",
+                "zh": "全尺寸豪华"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7y/o7/fcewtdwk84s4w8kg40kks/q45-3.310.jpg"
+        }
+      }
+    ],
+    "Q50": [
+      {
+        "BrandID": 66,
+        "ModelID": 415289,
+        "Brand Name": "Infiniti",
+        "Model Name": "Q50",
+        "Serie Name": "Q50",
+        "Years": "2013 - 3000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Compact Executive",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "2.0L Turbo / 3.0L Turbo / 3.7L V6 / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Infiniti Q50 to sportowy sedan klasy średniej, następca modelu G. Wyróżnia się systemem steer-by-wire (DAS) i mocnymi silnikami V6.",
+              "en": "Infiniti Q50 is a mid-class sports sedan, the successor to the G model. It is distinguished by a steer-by-wire system (DAS) and powerful V6 engines.",
+              "de": "Der Infiniti Q50 ist eine Sportlimousine der Mittelklasse, der Nachfolger des G-Modells. Er zeichnet sich durch ein Steer-by-Wire-System (DAS) und leistungsstarke V6-Motoren aus.",
+              "uk": "Infiniti Q50 — спортивний седан середнього класу, наступник моделі G. Він відрізняється системою рульового управління (DAS) і потужними двигунами V6.",
+              "ru": "Infiniti Q50 — спортивный седан среднего класса, преемник модели G. Его отличает электродистанционная система рулевого управления (DAS) и мощные двигатели V6.",
+              "zh": "英菲尼迪 Q50 是一款中级运动轿车，是 G 车型的后继产品。它的特点是线控转向系统 (DAS) 和强大的 V6 发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": {
+                "pl": "od 2013",
+                "en": "from 2013",
+                "de": "ab 2013",
+                "uk": "з 2013 року",
+                "ru": "2013 года.",
+                "zh": "2013 年起"
+              },
+              "segment": {
+                "pl": "D (Premium)",
+                "en": "D (Premium)",
+                "de": "D (Premium)",
+                "uk": "D (Преміум)",
+                "ru": "D (Премиум)",
+                "zh": "D（高级版）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/27/8m/umqe7oe8c80k8cs80wc4s/infiniti-q50-eu-2013-r1-jpg.310.jpg"
+        }
+      }
+    ],
+    "Q60": [
+      {
+        "BrandID": 66,
+        "ModelID": 415291,
+        "Brand Name": "Infiniti",
+        "Model Name": "Q60",
+        "Serie Name": "Q60 Gen 1",
+        "Years": "2013 - 2016",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Coupe",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.7L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Infiniti Q60 (wcześniej G37 Coupe) to eleganckie auto sportowe, łączące luksus z osiągami kultowego silnika V6.",
+              "en": "Infiniti Q60 (formerly G37 Coupe) is an elegant sports car, combining luxury with the performance of the iconic V6 engine.",
+              "de": "Der Infiniti Q60 (ehemals G37 Coupé) ist ein eleganter Sportwagen, der Luxus mit der Leistung des legendären V6-Motors kombiniert.",
+              "uk": "Infiniti Q60 (раніше G37 Coupe) — це елегантний спортивний автомобіль, який поєднує в собі розкіш і потужність культового двигуна V6.",
+              "ru": "Infiniti Q60 (ранее G37 Coupe) — элегантный спортивный автомобиль, сочетающий в себе роскошь и мощность культового двигателя V6.",
+              "zh": "英菲尼迪 Q60（原 G37 Coupe）是一款优雅的跑车，将奢华与标志性 V6 发动机的性能融为一体。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": "2013–2016",
+              "segment": {
+                "pl": "Coupe"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6n/v6/vqk53ig4k4c8ckkkkg8sk/infiniti-q60-ipl-coupe-2013-r5-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 66,
+        "ModelID": 415292,
+        "Brand Name": "Infiniti",
+        "Model Name": "Q60",
+        "Serie Name": "Q60 Gen 2",
+        "Years": "2016 - 2022",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Coupe",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L Turbo / 3.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nowe Infiniti Q60 to stylistyczne dzieło sztuki. Coupe o inżynierii nastawionej na kierowcę, oferujące silniki VR30DDTT z podwójnym turbo.",
+              "en": "The new Infiniti Q60 is a stylistic work of art. A coupe with driver-focused engineering featuring VR30DDTT twin-turbo engines.",
+              "de": "Der neue Infiniti Q60 ist ein stilistisches Kunstwerk. Ein Coupé mit fahrerorientierter Technik und VR30DDTT-Twin-Turbo-Motoren.",
+              "uk": "Новий Infiniti Q60 — це стилістичний витвір мистецтва. Купе, орієнтоване на водія, оснащене двигунами VR30DDTT з подвійним турбонаддувом.",
+              "ru": "Новый Infiniti Q60 — стилистическое произведение искусства. Купе с дизайном, ориентированным на водителя, с двигателями VR30DDTT с двойным турбонаддувом.",
+              "zh": "新款英菲尼迪 Q60 是一件风格艺术品。一款采用以驾驶员为中心的工程设计的轿跑车，配备 VR30DDTT 双涡轮增压发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": "2016–2022",
+              "segment": {
+                "pl": "Coupe"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6n/v6/vqk53ig4k4c8ckkkkg8sk/infiniti-q60-ipl-coupe-2013-r5-jpg.310.jpg"
+        }
+      }
+    ],
+    "Q70": [
+      {
+        "BrandID": 66,
+        "ModelID": 415294,
+        "Brand Name": "Infiniti",
+        "Model Name": "Q70",
+        "Serie Name": "Q70",
+        "Years": "2013 - 2019",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Luxury",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "3.7L V6 / 5.6L V8 / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Infiniti Q70 (dawniej M) to limuzyna klasy wyższej dla indywidualistów. Oferuje przestronne wnętrze inspirowane naturą i potężne silniki V6/V8.",
+              "en": "Infiniti Q70 (formerly M) is a premium limousine for individualists. It offers a spacious interior inspired by nature and powerful V6/V8 engines.",
+              "de": "Infiniti Q70 (ehemals M) ist eine Premium-Limousine für Individualisten. Es bietet einen geräumigen, von der Natur inspirierten Innenraum und leistungsstarke V6/V8-Motoren.",
+              "uk": "Infiniti Q70 (раніше M) — преміальний лімузин для індивідуалістів. Він пропонує просторий салон, натхненний природою, і потужні двигуни V6/V8.",
+              "ru": "Infiniti Q70 (ранее M) — лимузин премиум-класса для индивидуалистов. Он предлагает просторный салон, вдохновленный природой, и мощные двигатели V6/V8.",
+              "zh": "英菲尼迪 Q70（以前称为 M）是一款适合个人主义者的高级豪华轿车。它拥有受大自然启发的宽敞内部空间和强大的 V6/V8 发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": "2013–2019",
+              "segment": {
+                "pl": "Mid-size Luxury",
+                "en": "Mid-size Luxury",
+                "de": "Mittelklasse-Luxus",
+                "uk": "Розкіш середнього розміру",
+                "ru": "Среднеразмерная роскошь",
+                "zh": "中型豪华车"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5z/nn/42oui0kcc4o4kc4g08cwc/infiniti-q70-5-6-v8-y51-2013-r7-jpg.310.jpg"
+        }
+      }
+    ],
+    "QX30": [
+      {
+        "BrandID": 66,
+        "ModelID": 415298,
+        "Brand Name": "Infiniti",
+        "Model Name": "QX30",
+        "Serie Name": "QX30",
+        "Years": "2016 - 2019",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Subcompact Luxury SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L Turbo / 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Infiniti QX30 to stylowy, miejski crossover, dzielący platformę z Mercedesem GLA, ale oferujący unikalny design i wyższy prześwit.",
+              "en": "The Infiniti QX30 is a stylish urban crossover that shares its platform with the Mercedes GLA, but offers a unique design and higher ground clearance.",
+              "de": "Der Infiniti QX30 ist ein stilvoller urbaner Crossover, der seine Plattform mit dem Mercedes GLA teilt, aber ein einzigartiges Design und eine höhere Bodenfreiheit bietet.",
+              "uk": "Infiniti QX30 — це стильний міський кросовер, який має спільну платформу з Mercedes GLA, але має унікальний дизайн і вищий кліренс.",
+              "ru": "Infiniti QX30 — стильный городской кроссовер, который разделяет платформу с Mercedes GLA, но предлагает уникальный дизайн и увеличенный дорожный просвет.",
+              "zh": "英菲尼迪 QX30 是一款时尚的城市跨界车，与梅赛德斯 GLA 共享平台，但提供独特的设计和更高的离地间隙。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": "2016–2019",
+              "segment": {
+                "pl": "Subcompact Luxury SUV",
+                "en": "Subcompact Luxury SUV",
+                "de": "Subkompakter Luxus-SUV",
+                "uk": "Субкомпактний розкішний позашляховик",
+                "ru": "Субкомпактный роскошный внедорожник",
+                "zh": "超小型豪华 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "QX4": [
+      {
+        "BrandID": 66,
+        "ModelID": 415300,
+        "Brand Name": "Infiniti",
+        "Model Name": "QX4",
+        "Serie Name": "QX4",
+        "Years": "1997 - 2003",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline",
+          "engine": "3.3L V6 / 3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Infiniti QX4 to pierwszy SUV marki (bazujący na Nissanie Pathfinder). Luksusowa terenówka, która łączyła dzielność w terenie z komfortem limuzyny.",
+              "en": "Infiniti QX4 is the brand's first SUV (based on the Nissan Pathfinder). A luxurious off-road vehicle that combined off-road prowess with the comfort of a limousine.",
+              "de": "Infiniti QX4 ist der erste SUV der Marke (basierend auf dem Nissan Pathfinder). Ein luxuriöser Geländewagen, der Geländetauglichkeit mit dem Komfort einer Limousine vereint.",
+              "uk": "Infiniti QX4 — перший позашляховик марки (на базі Nissan Pathfinder). Розкішний позашляховик, який поєднує в собі бездоріжжя та комфорт лімузина.",
+              "ru": "Infiniti QX4 — первый внедорожник бренда (на базе Nissan Pathfinder). Роскошный внедорожник, сочетающий в себе внедорожные качества и комфорт лимузина.",
+              "zh": "英菲尼迪 QX4 是该品牌的首款 SUV（基于日产 Pathfinder）。一款豪华越野车，将越野能力与豪华轿车的舒适性融为一体。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": "1997–2003",
+              "segment": {
+                "pl": "Mid-size Luxury SUV",
+                "en": "Mid-size Luxury SUV",
+                "de": "Mittelgroßer Luxus-SUV",
+                "uk": "Розкішний позашляховик середнього розміру",
+                "ru": "Роскошный внедорожник среднего размера",
+                "zh": "中型豪华 SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "QX50": [
+      {
+        "BrandID": 66,
+        "ModelID": 415302,
+        "Brand Name": "Infiniti",
+        "Model Name": "QX50",
+        "Serie Name": "QX50 Gen 1",
+        "Years": "2013 - 2017",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact Luxury SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.7L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Infiniti QX50 (pierwszej generacji) to odświeżony model EX z wydłużonym rozstawem osi, oferujący znacznie więcej miejsca dla pasażerów z tyłu.",
+              "en": "The Infiniti QX50 (first generation) is a refreshed EX model with a longer wheelbase, offering significantly more space for rear passengers.",
+              "de": "Der Infiniti QX50 (erste Generation) ist ein überarbeitetes EX-Modell mit längerem Radstand, das deutlich mehr Platz für die Fondpassagiere bietet.",
+              "uk": "Infiniti QX50 (перше покоління) — це оновлена ​​модель EX із подовженою колісною базою, яка пропонує значно більше місця для задніх пасажирів.",
+              "ru": "Infiniti QX50 (первое поколение) — это обновленная модель EX с удлиненной колесной базой, предлагающая значительно больше места для задних пассажиров.",
+              "zh": "英菲尼迪 QX50（第一代）是经过更新的 EX 车型，轴距更长，为后排乘客提供了更多的空间。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": "2013–2017",
+              "segment": {
+                "pl": "Compact Luxury SUV",
+                "en": "Compact Luxury SUV",
+                "de": "Kompakter Luxus-SUV",
+                "uk": "Компактний розкішний позашляховик",
+                "ru": "Компактный роскошный внедорожник",
+                "zh": "紧凑型豪华SUV"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8l/od/7u2ujkgssck8ww4ogcc8s/infiniti-qx50-2013-r7-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 66,
+        "ModelID": 415303,
+        "Brand Name": "Infiniti",
+        "Model Name": "QX50",
+        "Serie Name": "QX50 Gen 2",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact Luxury SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L VC-Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Infiniti QX50 drugiej generacji to rewolucja technologiczna. Wprowadził pierwszy na świecie silnik o zmiennym stopniu sprężania (VC-Turbo) i nowoczesną platformę FWD.",
+              "en": "The second generation Infiniti QX50 is a technological revolution. It introduced the world's first variable compression ratio engine (VC-Turbo) and a modern FWD platform.",
+              "de": "Der Infiniti QX50 der zweiten Generation ist eine technologische Revolution. Es stellte den weltweit ersten Motor mit variablem Verdichtungsverhältnis (VC-Turbo) und eine moderne FWD-Plattform vor.",
+              "uk": "Друге покоління Infiniti QX50 — це технологічна революція. Він представив перший у світі двигун зі змінним ступенем стиснення (VC-Turbo) і сучасну платформу FWD.",
+              "ru": "Infiniti QX50 второго поколения — это технологическая революция. Он представил первый в мире двигатель с регулируемой степенью сжатия (VC-Turbo) и современную переднеприводную платформу.",
+              "zh": "第二代英菲尼迪QX50是一场技术革命。它推出了世界上第一台可变压缩比发动机（VC-Turbo）和现代 FWD 平台。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "from 2018",
+                "de": "ab 2018",
+                "uk": "з 2018 року",
+                "ru": "с 2018 года",
+                "zh": "2018年起"
+              },
+              "segment": {
+                "pl": "Compact Luxury SUV",
+                "en": "Compact Luxury SUV",
+                "de": "Kompakter Luxus-SUV",
+                "uk": "Компактний розкішний позашляховик",
+                "ru": "Компактный роскошный внедорожник",
+                "zh": "紧凑型豪华SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8l/od/7u2ujkgssck8ww4ogcc8s/infiniti-qx50-2013-r7-jpg.310.jpg"
+        }
+      }
+    ],
+    "QX55": [
+      {
+        "BrandID": 66,
+        "ModelID": 416598,
+        "Brand Name": "Infiniti",
+        "Model Name": "QX55",
+        "Serie Name": "QX55",
+        "Years": "2021 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact Luxury SUV Coupe",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L VC-Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Infiniti QX55 to powrót do korzeni (duchowy spadkobierca modelu FX). SUV Coupe o zachwycającej sylwetce i nowoczesnym wnętrzu.",
+              "en": "Infiniti QX55 is a return to the roots (the spiritual heir of the FX model). SUV Coupe with a stunning silhouette and a modern interior.",
+              "de": "Infiniti QX55 ist eine Rückkehr zu den Wurzeln (der spirituelle Erbe des FX-Modells). SUV-Coupé mit atemberaubender Silhouette und modernem Interieur.",
+              "uk": "Infiniti QX55 — це повернення до витоків (духовний спадкоємець моделі FX). SUV Coupe з приголомшливим силуетом і сучасним інтер'єром.",
+              "ru": "Infiniti QX55 — возвращение к истокам (духовный наследник модели FX). Внедорожник-купе с потрясающим силуэтом и современным салоном.",
+              "zh": "英菲尼迪QX55是回归根源（FX车型的精神继承人）。 SUV Coupe 拥有令人惊叹的轮廓和现代内饰。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": {
+                "pl": "od 2021",
+                "en": "from 2021",
+                "de": "ab 2021",
+                "uk": "з 2021 року",
+                "ru": "с 2021 года.",
+                "zh": "2021 年起"
+              },
+              "segment": {
+                "pl": "Compact Luxury SUV Coupe",
+                "en": "Compact Luxury SUV Coupe",
+                "de": "Kompaktes Luxus-SUV-Coupé",
+                "uk": "Компактний розкішний позашляховик-купе",
+                "ru": "Компактный роскошный внедорожник-купе",
+                "zh": "紧凑型豪华 SUV 轿跑车"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "QX56": [
+      {
+        "BrandID": 66,
+        "ModelID": 415305,
+        "Brand Name": "Infiniti",
+        "Model Name": "QX56",
+        "Serie Name": "QX56 Gen 1 (JA60)",
+        "Years": "2004 - 2010",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size Luxury SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline",
+          "engine": "5.6L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Infiniti QX56 (JA60) to potężny, pełnowymiarowy SUV budowany na ramie (bazuje na Nissanie Armada). Oferuje ogromną przestrzeń i uciąg.",
+              "en": "Infiniti QX56 (JA60) is a powerful, full-size body-on-frame SUV (based on the Nissan Armada). It offers enormous space and towing capacity.",
+              "de": "Der Infiniti QX56 (JA60) ist ein leistungsstarker SUV mit Karosserie in Originalgröße (basierend auf dem Nissan Armada). Er bietet enorm viel Platz und Anhängelast.",
+              "uk": "Infiniti QX56 (JA60) — це потужний повнорозмірний рамний позашляховик (на базі Nissan Armada). Він пропонує величезний простір і потужність для буксирування.",
+              "ru": "Infiniti QX56 (JA60) — мощный полноразмерный рамный внедорожник (на базе Nissan Armada). Он предлагает огромное пространство и буксировочную способность.",
+              "zh": "英菲尼迪 QX56 (JA60) 是一款功能强大的全尺寸非承载式 SUV（基于 Nissan Armada）。它提供了巨大的空间和牵引能力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": "2004–2010",
+              "segment": {
+                "pl": "Full-size Luxury SUV",
+                "en": "Full-size Luxury SUV",
+                "de": "Luxus-SUV in Originalgröße",
+                "uk": "Повнорозмірний розкішний позашляховик",
+                "ru": "Полноразмерный роскошный внедорожник",
+                "zh": "全尺寸豪华SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 66,
+        "ModelID": 415306,
+        "Brand Name": "Infiniti",
+        "Model Name": "QX56",
+        "Serie Name": "QX56 Gen 2 (Z62)",
+        "Years": "2010 - 2013",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size Luxury SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline",
+          "engine": "5.6L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja QX56 (Z62, później QX80) to luksusowy krążownik szos, bazujący na legendarnym Nissanie Patrolu. Synonim niezawodności i prestiżu.",
+              "en": "The second generation QX56 (Z62, later QX80) is a luxury road cruiser based on the legendary Nissan Patrol. Synonymous with reliability and prestige.",
+              "de": "Der QX56 der zweiten Generation (Z62, später QX80) ist ein Luxus-Straßenkreuzer, der auf dem legendären Nissan Patrol basiert. Synonym für Zuverlässigkeit und Prestige.",
+              "uk": "Друге покоління QX56 (Z62, пізніше QX80) — це розкішний дорожній круїзер на базі легендарного Nissan Patrol. Синонім надійності та престижу.",
+              "ru": "Второе поколение QX56 (Z62, позже QX80) — роскошный дорожный крейсер, созданный на базе легендарного Nissan Patrol. Синоним надежности и престижа.",
+              "zh": "第二代QX56（Z62，后来的QX80）是一款基于传奇日产Patrol 打造的豪华公路巡洋舰。可靠性和威望的代名词。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": "2010–2013",
+              "segment": {
+                "pl": "Full-size Luxury SUV",
+                "en": "Full-size Luxury SUV",
+                "de": "Oberklasse-Luxus-SUV",
+                "uk": "Повнорозмірний розкішний позашляховик",
+                "ru": "Полноразмерный роскошный внедорожник",
+                "zh": "全尺寸豪华SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "QX60": [
+      {
+        "BrandID": 66,
+        "ModelID": 415308,
+        "Brand Name": "Infiniti",
+        "Model Name": "QX60",
+        "Serie Name": "QX60 Gen 1",
+        "Years": "2013 - 2020",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "3.5L V6 / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Infiniti QX60 (wcześniej JX) to bestseller marki. Rodzinny, 7-osobowy SUV ceniony za wszechstronność, komfort i bezpieczeństwo.",
+              "en": "Infiniti QX60 (formerly JX) is the brand's bestseller. A family, 7-seater SUV appreciated for its versatility, comfort and safety.",
+              "de": "Infiniti QX60 (ehemals JX) ist der Bestseller der Marke. Ein Familien-SUV mit 7 Sitzen, der für seine Vielseitigkeit, seinen Komfort und seine Sicherheit geschätzt wird.",
+              "uk": "Infiniti QX60 (раніше JX) є бестселером бренду. Сімейний 7-місний позашляховик, який цінується за універсальність, комфорт і безпеку.",
+              "ru": "Infiniti QX60 (ранее JX) — бестселлер бренда. Семейный 7-местный внедорожник, ценимый за свою универсальность, комфорт и безопасность.",
+              "zh": "英菲尼迪QX60（原JX）是该品牌的畅销产品。一款家庭 7 座 SUV 因其多功能性、舒适性和安全性而受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": "2013–2020",
+              "segment": {
+                "pl": "Mid-size Luxury SUV",
+                "en": "Mid-size Luxury SUV",
+                "de": "Mittelgroßer Luxus-SUV",
+                "uk": "Розкішний позашляховик середнього розміру",
+                "ru": "Роскошный внедорожник среднего размера",
+                "zh": "中型豪华SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 66,
+        "ModelID": 416599,
+        "Brand Name": "Infiniti",
+        "Model Name": "QX60",
+        "Serie Name": "QX60 Gen 2",
+        "Years": "2021 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nowy Infiniti QX60 to krok milowy w dziedzinie luksusu. Wyrafinowany design, 9-biegowa skrzynia (zamiast CVT) i wnętrze klasy premium.",
+              "en": "The new Infiniti QX60 is a milestone in luxury. Sophisticated design, 9-speed gearbox (instead of CVT) and premium interior.",
+              "de": "Der neue Infiniti QX60 ist ein Meilenstein in Sachen Luxus. Anspruchsvolles Design, 9-Gang-Getriebe (statt CVT) und hochwertiges Interieur.",
+              "uk": "Новий Infiniti QX60 є віхою в розкоші. Вишуканий дизайн, 9-ступінчаста коробка передач (замість CVT) та преміальний салон.",
+              "ru": "Новый Infiniti QX60 — это веха в сфере роскоши. Продуманный дизайн, 9-ступенчатая коробка передач (вместо вариатора) и премиальный салон.",
+              "zh": "新款英菲尼迪QX60是豪华车领域的里程碑。精致的设计、9 速变速箱（而非 CVT）和高级内饰。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": {
+                "pl": "od 2021",
+                "en": "from 2021",
+                "de": "ab 2021",
+                "uk": "з 2021 року",
+                "ru": "с 2021 года",
+                "zh": "2021 年起"
+              },
+              "segment": {
+                "pl": "Mid-size Luxury SUV",
+                "en": "Mid-size Luxury SUV",
+                "de": "Mittelklasse-Luxus-SUV",
+                "uk": "Розкішний позашляховик середнього розміру",
+                "ru": "Роскошный внедорожник среднего размера",
+                "zh": "中型豪华 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "QX70": [
+      {
+        "BrandID": 66,
+        "ModelID": 415311,
+        "Brand Name": "Infiniti",
+        "Model Name": "QX70",
+        "Serie Name": "QX70",
+        "Years": "2013 - 2017",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.7L V6 / 5.0L V8 / 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Infiniti QX70 (wcześniej FX) to sportowy SUV coupe, który wyprzedził swoje czasy. Jego agresywna sylwetka 'Bionic Cheetah' wciąż wygląda nowocześnie.",
+              "en": "The Infiniti QX70 (formerly FX) is a sports SUV coupe that was ahead of its time. Its aggressive 'Bionic Cheetah' silhouette still looks modern.",
+              "de": "Der Infiniti QX70 (ehemals FX) ist ein Sport-SUV-Coupé, das seiner Zeit voraus war. Seine aggressive „Bionic Cheetah“-Silhouette sieht immer noch modern aus.",
+              "uk": "Infiniti QX70 (раніше FX) — це спортивний позашляховик-купе, який випередив свій час. Його агресивний силует «біонічного гепарда» все ще виглядає сучасно.",
+              "ru": "Infiniti QX70 (ранее FX) — спортивный внедорожник-купе, опередивший свое время. Его агрессивный силуэт «Бионический гепард» по-прежнему выглядит современно.",
+              "zh": "英菲尼迪 QX70（以前称为 FX）是一款领先于时代的运动 SUV 轿跑车。其激进的“仿生猎豹”轮廓看起来仍然很现代。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": "2002–2017",
+              "segment": {
+                "pl": "E-SUV"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/e2/el/1il5j94ww44og0cgscs4s/infiniti-qx70-3-7-v6-s51-2013-r7-jpg.310.jpg"
+        }
+      }
+    ],
+    "QX80": [
+      {
+        "BrandID": 66,
+        "ModelID": 415313,
+        "Brand Name": "Infiniti",
+        "Model Name": "QX80",
+        "Serie Name": "QX80",
+        "Years": "2013 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size Luxury SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline",
+          "engine": "5.6L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Infiniti QX80 (wcześniej QX56) to flagowy, największy SUV marki. Oferuje luksus na poziomie prywatnego odrzutowca i legendarne zdolności terenowe (Nissan Patrol).",
+              "en": "Infiniti QX80 (formerly QX56) is the brand's flagship and largest SUV. It offers private jet-level luxury and legendary off-road capability (Nissan Patrol).",
+              "de": "Infiniti QX80 (ehemals QX56) ist das Flaggschiff und größte SUV der Marke. Es bietet Luxus auf Privatjet-Niveau und legendäre Geländetauglichkeit (Nissan Patrol).",
+              "uk": "Infiniti QX80 (раніше QX56) — флагман і найбільший позашляховик бренду. Він пропонує розкіш на рівні приватного реактивного літака та легендарну бездоріжжя (Nissan Patrol).",
+              "ru": "Infiniti QX80 (ранее QX56) — флагманский и самый большой внедорожник бренда. Он предлагает роскошь уровня частного самолета и легендарную внедорожность (Nissan Patrol).",
+              "zh": "英菲尼迪 QX80（原 QX56）是该品牌的旗舰和最大的 SUV。它提供私人飞机级别的奢华和传奇的越野能力（Nissan Patrol）。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Infiniti"
+              },
+              "okres produkcji": {
+                "pl": "od 2013",
+                "en": "from 2013",
+                "de": "ab 2013",
+                "uk": "з 2013 року",
+                "ru": "с 2013 г.",
+                "zh": "2013 年起"
+              },
+              "segment": {
+                "pl": "Full-size Luxury SUV",
+                "en": "Full-size Luxury SUV",
+                "de": "Oberklasse-Luxus-SUV",
+                "uk": "Повнорозмірний розкішний позашляховик",
+                "ru": "Полноразмерный роскошный внедорожник",
+                "zh": "全尺寸豪华 SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

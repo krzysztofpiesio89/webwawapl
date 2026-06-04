@@ -1,0 +1,92 @@
+{
+  "brand": "Haima",
+  "models": {
+    "3": [
+      {
+        "BrandID": 192,
+        "ModelID": 416346,
+        "Brand Name": "Haima",
+        "Model Name": 3,
+        "Serie Name": 3,
+        "Years": "2007 - 2013",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Haima to chiński producent samochodów, dawniej partner Mazdy. Model 3 to kompaktowy sedan bazujący na technologii japońskiego partnera.",
+              "en": "Haima is a Chinese car manufacturer, formerly a partner of Mazda. Model 3 is a compact sedan based on the technology of its Japanese partner.",
+              "de": "Haima ist ein chinesischer Automobilhersteller, früher Partner von Mazda. Beim Model 3 handelt es sich um eine Kompaktlimousine, die auf der Technologie des japanischen Partners basiert.",
+              "uk": "Haima — китайський виробник автомобілів, колишній партнер Mazda. Model 3 — компактний седан, створений за технологіями японського партнера.",
+              "ru": "Haima — китайский производитель автомобилей, бывший партнер Mazda. Model 3 — компактный седан, созданный на основе технологий своего японского партнера.",
+              "zh": "海马是一家中国汽车制造商，曾是马自达的合作伙伴。 Model 3 是一款基于日本合作伙伴技术的紧凑型轿车。"
+            }
+          }
+        }
+      }
+    ],
+    "7": [
+      {
+        "BrandID": 192,
+        "ModelID": 415346,
+        "Brand Name": "Haima",
+        "Model Name": 7,
+        "Serie Name": 7,
+        "Years": "2013 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Haima 7 to kompaktowy SUV marki, który łączy sprawdzoną technologię z przystępną ceną.",
+              "en": "Haima 7 is a compact SUV from the brand that combines proven technology with an affordable price.",
+              "de": "Haima 7 ist ein Kompakt-SUV der Marke, der bewährte Technologie mit einem erschwinglichen Preis kombiniert.",
+              "uk": "Haima 7 — компактний позашляховик від бренду, який поєднує в собі перевірені технології та доступну ціну.",
+              "ru": "Haima 7 — компактный внедорожник от бренда, сочетающий в себе проверенные технологии и доступную цену.",
+              "zh": "海马7是该品牌的一款紧凑型SUV，结合了成熟的技术和实惠的价格。"
+            }
+          }
+        }
+      }
+    ],
+    "": [
+      {
+        "BrandID": 192,
+        "ModelID": "",
+        "Brand Name": "Haima",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Haima to chińska marka motoryzacyjna z siedzibą w Haikou. Początkowo współpracowała z Mazdą, co wpłynęło na charakter jej wczesnych modeli.",
+              "en": "Haima is a Chinese automotive brand based in Haikou. Initially, it cooperated with Mazda, which influenced the character of its early models.",
+              "de": "Haima ist eine chinesische Automobilmarke mit Sitz in Haikou. Zunächst kooperierte es mit Mazda, was den Charakter seiner frühen Modelle beeinflusste.",
+              "uk": "Haima — китайський автомобільний бренд, що базується в Хайкоу. Спочатку вона співпрацювала з Mazda, що вплинуло на характер її ранніх моделей.",
+              "ru": "Haima — китайский автомобильный бренд, базирующийся в Хайкоу. Первоначально она сотрудничала с Mazda, что повлияло на характер ее ранних моделей.",
+              "zh": "海马是一个总部位于海口的中国汽车品牌。最初，它与马自达合作，这影响了其早期车型的特征。"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "brand": "Iveco",
+  "models": {
+    "Daily": [
+      {
+        "BrandID": 68,
+        "ModelID": 412975,
+        "Brand Name": "Iveco",
+        "Model Name": "Daily",
+        "Serie Name": "Daily Gen 1",
+        "Years": "1978 - 1990",
+        "specs": {
+          "bodyType": "Van/Truck",
+          "segment": "Commercial",
+          "drive": "RWD/4WD",
+          "fuel": "Diesel",
+          "engine": "2.5L Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Truck",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Iveco_Daily_Mk1.JPG/1280px-Iveco_Daily_Mk1.JPG",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Iveco_Daily_Mk1.JPG/1280px-Iveco_Daily_Mk1.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/1980_Iveco_Daily_front.jpg/1280px-1980_Iveco_Daily_front.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Iveco_Daily_%2845852206195%29.jpg/1280px-Iveco_Daily_%2845852206195%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/1991_Iveco-Ford_TurboDaily_40-10_2.4_Front.jpg/1280px-1991_Iveco-Ford_TurboDaily_40-10_2.4_Front.jpg"
+            ],
+            "description": {
+              "pl": "Pierwsza generacja Iveco Daily zrewolucjonizowała rynek aut dostawczych, wprowadzając niezależne zawieszenie przednie i solidną ramę, co było ewenementem w tej klasie.",
+              "en": "The first generation of Iveco Daily revolutionized the commercial vehicle market by introducing independent front suspension and a solid frame, which was unique in this class.",
+              "de": "Die erste Generation des Iveco Daily revolutionierte den Nutzfahrzeugmarkt durch die Einführung einer Einzelradaufhängung vorn und eines soliden Rahmens, was in dieser Klasse einzigartig war.",
+              "uk": "Перше покоління Iveco Daily зробило революцію на ринку комерційних автомобілів, представивши незалежну передню підвіску та міцну раму, що було унікальним у цьому класі.",
+              "ru": "Первое поколение Iveco Daily произвело революцию на рынке коммерческих автомобилей, представив независимую переднюю подвеску и прочную раму, что было уникально для этого класса.",
+              "zh": "第一代依维柯 Daily 通过引入独立前悬架和坚固的车架，彻底改变了商用车市场，这在同级车中是独一无二的。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Iveco"
+              },
+              "okres produkcji": "1978–1990",
+              "segment": {
+                "pl": "Samochód dostawczy",
+                "en": "Commercial vehicle",
+                "de": "Nutzfahrzeug",
+                "uk": "Комерційний автомобіль",
+                "ru": "Коммерческий автомобиль",
+                "zh": "商用车"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/dv/2p/xtnj9wgk8oowg4sgckoc4/daily-11-furgon.310.jpg"
+        }
+      },
+      {
+        "BrandID": 68,
+        "ModelID": 253161,
+        "Brand Name": "Iveco",
+        "Model Name": "Daily",
+        "Serie Name": "Daily Gen 2",
+        "Years": "1990 - 2000",
+        "specs": {
+          "bodyType": "Van/Truck",
+          "segment": "Commercial",
+          "drive": "RWD/4WD",
+          "fuel": "Diesel",
+          "engine": "2.5L / 2.8L Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Truck",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Iveco_Daily_Mk1.JPG/1280px-Iveco_Daily_Mk1.JPG",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Iveco_Daily_Mk1.JPG/1280px-Iveco_Daily_Mk1.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/1980_Iveco_Daily_front.jpg/1280px-1980_Iveco_Daily_front.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Iveco_Daily_%2845852206195%29.jpg/1280px-Iveco_Daily_%2845852206195%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/1991_Iveco-Ford_TurboDaily_40-10_2.4_Front.jpg/1280px-1991_Iveco-Ford_TurboDaily_40-10_2.4_Front.jpg"
+            ],
+            "description": {
+              "pl": "Druga generacja, często znana jako TurboDaily, wprowadziła turbodoładowanie, znacząco poprawiając osiągi i umacniając pozycję modelu w transporcie ciężkim.",
+              "en": "The second generation, often known as TurboDaily, introduced turbocharging, significantly improving performance and strengthening the model's position in heavy transport.",
+              "de": "Die zweite Generation, oft als TurboDaily bekannt, führte die Turboaufladung ein, wodurch die Leistung deutlich verbessert und die Position des Modells im Schwertransport gestärkt wurde.",
+              "uk": "Друге покоління, часто відоме як TurboDaily, представило турбонаддув, що значно покращило продуктивність і зміцнило позиції моделі у важких транспортних засобах.",
+              "ru": "Во втором поколении, часто известном как TurboDaily, появился турбонаддув, значительно улучшивший характеристики и укрепивший позиции модели на рынке тяжелого транспорта.",
+              "zh": "第二代（通常称为 TurboDaily）引入了涡轮增压技术，显着提高了性能并加强了该车型在重型运输中的地位。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Iveco"
+              },
+              "okres produkcji": "1990–2000",
+              "segment": {
+                "pl": "Samochód dostawczy",
+                "en": "Commercial vehicle",
+                "de": "Nutzfahrzeug",
+                "uk": "Комерційний автомобіль",
+                "ru": "Коммерческий автомобиль",
+                "zh": "商用车"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/dv/2p/xtnj9wgk8oowg4sgckoc4/daily-11-furgon.310.jpg"
+        }
+      },
+      {
+        "BrandID": 68,
+        "ModelID": 252332,
+        "Brand Name": "Iveco",
+        "Model Name": "Daily",
+        "Serie Name": "Daily Gen 3",
+        "Years": "2000 - 2006",
+        "specs": {
+          "bodyType": "Van/Truck",
+          "segment": "Commercial",
+          "drive": "RWD/4WD",
+          "fuel": "Diesel",
+          "engine": "2.3L / 2.8L / 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Trzecia generacja ('City Truck') zyskała nowoczesną stylistykę i silniki Common Rail (Unijet), oferując komfort prowadzenia zbliżony do aut osobowych.",
+              "en": "The third generation ('City Truck') has a modern style and Common Rail (Unijet) engines, offering driving comfort similar to that of passenger cars.",
+              "de": "Die dritte Generation („City Truck“) verfügt über einen modernen Stil und Common-Rail-Motoren (Unijet) und bietet einen Fahrkomfort ähnlich dem von Pkw.",
+              "uk": "Третє покоління («City Truck») має сучасний стиль і двигуни Common Rail (Unijet), що забезпечує комфорт водіння, подібний до комфорту легкових автомобілів.",
+              "ru": "Третье поколение («Городской грузовик») имеет современный стиль и двигатели Common Rail (Unijet), обеспечивающие комфорт вождения, аналогичный комфорту легковых автомобилей.",
+              "zh": "第三代（“城市卡车”）具有现代风格和共轨（Unijet）发动机，提供与乘用车类似的驾驶舒适性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Iveco"
+              },
+              "okres produkcji": "2000–2006",
+              "segment": {
+                "pl": "Samochód dostawczy",
+                "en": "Commercial vehicle",
+                "de": "Nutzfahrzeug",
+                "uk": "Комерційний автомобіль",
+                "ru": "Коммерческий автомобиль",
+                "zh": "商用车"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/dv/2p/xtnj9wgk8oowg4sgckoc4/daily-11-furgon.310.jpg"
+        }
+      },
+      {
+        "BrandID": 68,
+        "ModelID": 261643,
+        "Brand Name": "Iveco",
+        "Model Name": "Daily",
+        "Serie Name": "Daily Gen 4",
+        "Years": "2006 - 2011",
+        "specs": {
+          "bodyType": "Van/Truck",
+          "segment": "Commercial",
+          "drive": "RWD/4WD",
+          "fuel": "Diesel/CNG",
+          "engine": "2.3L / 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Czwarta generacja, zaprojektowana przez Giugiaro, to nowoczesny design i jeszcze większe możliwości konfiguracji, w tym wersje o DMC do 7 ton.",
+              "en": "The fourth generation, designed by Giugiaro, is a modern design and even greater configuration possibilities, including versions with a GVW of up to 7 tons.",
+              "de": "Die von Giugiaro entworfene vierte Generation zeichnet sich durch modernes Design und noch größere Konfigurationsmöglichkeiten aus, einschließlich Versionen mit einem zulässigen Gesamtgewicht von bis zu 7 Tonnen.",
+              "uk": "Четверте покоління, розроблене Giugiaro, — це сучасний дизайн і ще більші можливості комплектації, включаючи версії з повною масою до 7 тонн.",
+              "ru": "Четвертое поколение, разработанное Джуджаро, — это современный дизайн и еще большие возможности комплектации, включая версии с полной массой до 7 тонн.",
+              "zh": "第四代由乔治亚罗设计，设计现代，配置可能性更大，包括总重高达 7 吨的版本。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Iveco"
+              },
+              "okres produkcji": "2006–2011",
+              "segment": {
+                "pl": "Samochód dostawczy",
+                "en": "Commercial vehicle",
+                "de": "Nutzfahrzeug",
+                "uk": "Комерційний автомобіль",
+                "ru": "Коммерческий автомобиль",
+                "zh": "商用车"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/dv/2p/xtnj9wgk8oowg4sgckoc4/daily-11-furgon.310.jpg"
+        }
+      },
+      {
+        "BrandID": 68,
+        "ModelID": 292126,
+        "Brand Name": "Iveco",
+        "Model Name": "Daily",
+        "Serie Name": "Daily Gen 5",
+        "Years": "2011 - 2014",
+        "specs": {
+          "bodyType": "Van/Truck",
+          "segment": "Commercial",
+          "drive": "RWD/4WD",
+          "fuel": "Diesel/CNG",
+          "engine": "2.3L / 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Piąta generacja (facelifting) skupiła się na ekologii (seria EcoDaily) i wprowadzeniu mocniejszych silników 3.0 l, spełniających normy EEV.",
+              "en": "The fifth generation (facelift) focused on ecology (EcoDaily series) and the introduction of more powerful 3.0 l engines that meet EEV standards.",
+              "de": "Die fünfte Generation (Facelift) konzentrierte sich auf die Ökologie (EcoDaily-Serie) und die Einführung leistungsstärkerer 3,0-l-Motoren, die den EEV-Standards entsprechen.",
+              "uk": "П'яте покоління (фейсліфт) зосереджено на екології (серія EcoDaily) і впровадження більш потужних двигунів 3,0 л, які відповідають стандартам EEV.",
+              "ru": "Пятое поколение (фейслифтинг) ориентировано на экологию (серия EcoDaily) и внедрение более мощных двигателей объемом 3,0 л, соответствующих стандартам EEV.",
+              "zh": "第五代（改款）注重生态（EcoDaily 系列），推出更强大、符合 EEV 标准的 3.0 升发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Iveco"
+              },
+              "okres produkcji": "2011–2014",
+              "segment": {
+                "pl": "Samochód dostawczy",
+                "en": "Commercial vehicle",
+                "de": "Nutzfahrzeug",
+                "uk": "Комерційний автомобіль",
+                "ru": "Коммерческий автомобиль",
+                "zh": "商用车"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/dv/2p/xtnj9wgk8oowg4sgckoc4/daily-11-furgon.310.jpg"
+        }
+      },
+      {
+        "BrandID": 68,
+        "ModelID": 413224,
+        "Brand Name": "Iveco",
+        "Model Name": "Daily",
+        "Serie Name": "Daily Gen 6",
+        "Years": "2014 - 3000",
+        "specs": {
+          "bodyType": "Van/Truck",
+          "segment": "Commercial",
+          "drive": "RWD/4WD",
+          "fuel": "Diesel/CNG",
+          "engine": "2.3L / 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Najnowsze Daily to całkowicie nowa konstrukcja z 8-biegową skrzynią Hi-Matic. Oferuje niezrównaną w klasie ładowność i zaawansowane systemy łączności.",
+              "en": "The latest Daily is a completely new design with an 8-speed Hi-Matic gearbox. It offers unmatched payload in its class and advanced communication systems.",
+              "de": "Der neueste Daily ist ein völlig neues Design mit einem 8-Gang-Hi-Matic-Getriebe. Es bietet eine in seiner Klasse unübertroffene Nutzlast und fortschrittliche Kommunikationssysteme.",
+              "uk": "Найновіший Daily — це абсолютно новий дизайн із 8-ступінчастою коробкою передач Hi-Matic. Він пропонує неперевершене корисне навантаження у своєму класі та передові системи зв’язку.",
+              "ru": "Последняя модель Daily имеет совершенно новый дизайн и оснащена 8-ступенчатой ​​коробкой передач Hi-Matic. Он предлагает непревзойденную полезную нагрузку в своем классе и передовые системы связи.",
+              "zh": "最新款Daily采用全新设计，配备8速Hi-Matic变速箱。它提供同类产品中无与伦比的有效负载和先进的通信系统。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Iveco"
+              },
+              "okres produkcji": {
+                "pl": "od 2014",
+                "en": "from 2014",
+                "de": "von 2014",
+                "uk": "з 2014 року",
+                "ru": "от 2014 года.",
+                "zh": "2014 年起"
+              },
+              "segment": {
+                "pl": "Samochód dostawczy",
+                "en": "Commercial vehicle",
+                "de": "Nutzfahrzeug",
+                "uk": "Комерційний автомобіль",
+                "ru": "Коммерческий автомобиль",
+                "zh": "商用车"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/dv/2p/xtnj9wgk8oowg4sgckoc4/daily-11-furgon.310.jpg"
+        }
+      }
+    ],
+    "Massif": [
+      {
+        "BrandID": 68,
+        "ModelID": 416602,
+        "Brand Name": "Iveco",
+        "Model Name": "Massif",
+        "Serie Name": "Massif",
+        "Years": "2007 - 2011",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Off-Road",
+          "drive": "4WD",
+          "fuel": "Diesel",
+          "engine": "3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Iveco Massif to surowa, prawdziwa terenówka, będąca zmodernizowaną wersją Santany PS-10 (licencja Land Rovera). Zbudowana do ciężkiej pracy w terenie.",
+              "en": "Iveco Massif is a raw, real off-road vehicle, which is a modernized version of the Santana PS-10 (Land Rover license). Built for hard work in the field.",
+              "de": "Iveco Massif ist ein rohes, echtes Geländewagen, eine modernisierte Version des Santana PS-10 (Land Rover-Lizenz). Gebaut für harte Arbeit im Feld.",
+              "uk": "Iveco Massif - сирий справжній позашляховик, який є модернізованою версією Santana PS-10 (ліцензія Land Rover). Створений для важкої роботи в полі.",
+              "ru": "Iveco Massif — сырой, настоящий внедорожник, представляющий собой модернизированную версию Santana PS-10 (лицензия Land Rover). Создан для тяжелой работы в полевых условиях.",
+              "zh": "依维柯 Massif 是一款原始的、真正的越野车，是桑塔纳 PS-10（路虎牌照）的现代化版本。专为现场艰苦工作而设计。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Iveco"
+              },
+              "okres produkcji": "2007–2011",
+              "segment": {
+                "pl": "Off-Road"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/60/kl/xb21oo00so0gscc8c0o0w/massif.310.jpg"
+        }
+      }
+    ]
+  }
+}

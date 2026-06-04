@@ -1,0 +1,439 @@
+{
+  "brand": "Mercury",
+  "models": {
+    "Grand Marquis": [
+      {
+        "BrandID": 91,
+        "ModelID": 1016,
+        "Brand Name": "Mercury",
+        "Model Name": "Grand Marquis",
+        "Serie Name": "Grand Marquis",
+        "Years": "1992 - 2011",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "4.6L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercury Grand Marquis to klasyczny amerykański sedan na ramie, bliźniak Forda Crown Victoria. Ceniony za trwałość i komfort.",
+              "en": "The Mercury Grand Marquis is a classic American body-on-frame sedan, a twin of the Ford Crown Victoria. Valued for durability and comfort.",
+              "de": "Der Mercury Grand Marquis ist eine klassische amerikanische Karosserielimousine, ein Zwilling des Ford Crown Victoria. Geschätzt für Haltbarkeit und Komfort.",
+              "uk": "Mercury Grand Marquis — класичний американський рамний седан, двійник Ford Crown Victoria. Цінується за довговічність і комфорт.",
+              "ru": "Mercury Grand Marquis — классический американский рамный седан, близнец Ford Crown Victoria. Ценится за долговечность и комфорт.",
+              "zh": "Mercury Grand Marquis 是一款经典的美国非承载式轿车，是福特维多利亚皇冠的双胞胎。因其耐用性和舒适性而受到重视。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercury"
+              },
+              "okres produkcji": "1975–2011",
+              "segment": {
+                "pl": "Full-size Car",
+                "en": "Full-size Car",
+                "de": "Full-Size-Auto",
+                "uk": "Повнорозмірний автомобіль",
+                "ru": "Полноразмерный автомобиль",
+                "zh": "全尺寸汽车"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Mountaineer": [
+      {
+        "BrandID": 91,
+        "ModelID": 415206,
+        "Brand Name": "Mercury",
+        "Model Name": "Mountaineer",
+        "Serie Name": "Mountaineer Gen 1",
+        "Years": "1997 - 2001",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "4.0L V6 / 5.0L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/%2797_Mercury_Mountaineer_V8_--_Rear.jpg/1280px-%2797_Mercury_Mountaineer_V8_--_Rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/%2797_Mercury_Mountaineer_V8_--_Rear.jpg/1280px-%2797_Mercury_Mountaineer_V8_--_Rear.jpg"
+            ],
+            "description": {
+              "pl": "Mercury to nieistniejąca już marka należąca do Forda, pozycjonowana między popularnym Fordem a luksusowym Lincolnem. Oferowała komfortowe krążowniki szos.",
+              "en": "Mercury is a now defunct brand owned by Ford, positioned between the popular Ford and the luxurious Lincoln. It offered comfortable road cruisers.",
+              "de": "Mercury ist eine inzwischen nicht mehr existierende Marke von Ford, die zwischen dem beliebten Ford und dem luxuriösen Lincoln positioniert ist. Es bot komfortable Straßenkreuzer.",
+              "uk": "Mercury — це вже неіснуючий бренд, що належить компанії Ford, позиціонується між популярним Ford і розкішним Lincoln. Він пропонував комфортабельні дорожні крейсери.",
+              "ru": "Mercury — ныне несуществующая марка, принадлежащая компании Ford, занимающая промежуточное положение между популярным Ford и роскошным Lincoln. Он предлагал комфортабельные круизеры.",
+              "zh": "Mercury 是福特旗下现已不复存在的品牌，定位介于大众福特和豪华林肯之间。它提供舒适的公路巡洋舰。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford Motor Company",
+                "en": "Ford Motor Company",
+                "de": "Ford Motor Company",
+                "uk": "Ford Motor Company",
+                "ru": "Ford Motor Company",
+                "zh": "福特汽车公司"
+              },
+              "siedziba": {
+                "pl": "Dearborn, USA",
+                "en": "Dearborn, USA",
+                "de": "Dearborn, USA",
+                "uk": "Дірборн, США",
+                "ru": "Дирборн, США",
+                "zh": "美国迪尔伯恩"
+              },
+              "założona": "1938",
+              "zlikwidowana": "2011"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 91,
+        "ModelID": 416660,
+        "Brand Name": "Mercury",
+        "Model Name": "Mountaineer",
+        "Serie Name": "Mountaineer Gen 2",
+        "Years": "2002 - 2005",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "4.0L V6 / 4.6L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercury to nieistniejąca już marka należąca do Forda, pozycjonowana między popularnym Fordem a luksusowym Lincolnem. Oferowała komfortowe krążowniki szos.",
+              "en": "Mercury is a now defunct brand owned by Ford, positioned between the popular Ford and the luxurious Lincoln. It offered comfortable road cruisers.",
+              "de": "Mercury ist eine inzwischen nicht mehr existierende Marke im Besitz von Ford, positioniert zwischen dem beliebten Ford und dem luxuriösen Lincoln. Es bot komfortable Straßenkreuzer.",
+              "uk": "Mercury — нині неіснуючий бренд, що належить компанії Ford, позиціонується між популярним Ford і розкішним Lincoln. Він пропонував комфортабельні дорожні крейсери.",
+              "ru": "Mercury — ныне несуществующая марка, принадлежащая компании Ford, занимающая промежуточное положение между популярным Ford и роскошным Lincoln. Он предлагал комфортабельные круизеры.",
+              "zh": "Mercury 是福特旗下现已不复存在的品牌，定位介于大众福特和豪华林肯之间。它提供舒适的公路巡洋舰。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford Motor Company",
+                "en": "Ford Motor Company",
+                "de": "Ford Motor Company",
+                "uk": "Ford Motor Company",
+                "ru": "Ford Motor Company",
+                "zh": "福特汽车公司"
+              },
+              "siedziba": {
+                "pl": "Dearborn, USA",
+                "en": "Dearborn, USA",
+                "de": "Dearborn, USA",
+                "uk": "Дірборн, США",
+                "ru": "Дирборн, США",
+                "zh": "美国迪尔伯恩"
+              },
+              "założona": "1938",
+              "zlikwidowana": "2011"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 91,
+        "ModelID": 416661,
+        "Brand Name": "Mercury",
+        "Model Name": "Mountaineer",
+        "Serie Name": "Mountaineer Gen 3",
+        "Years": "2006 - 2010",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "4.0L V6 / 4.6L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercury to nieistniejąca już marka należąca do Forda, pozycjonowana między popularnym Fordem a luksusowym Lincolnem. Oferowała komfortowe krążowniki szos.",
+              "en": "Mercury is a now defunct brand owned by Ford, positioned between the popular Ford and the luxurious Lincoln. It offered comfortable road cruisers.",
+              "de": "Mercury ist eine inzwischen nicht mehr existierende Marke im Besitz von Ford, positioniert zwischen dem beliebten Ford und dem luxuriösen Lincoln. Es bot komfortable Straßenkreuzer.",
+              "uk": "Mercury — нині неіснуючий бренд, що належить компанії Ford, позиціонується між популярним Ford і розкішним Lincoln. Він пропонував комфортабельні дорожні крейсери.",
+              "ru": "Mercury — ныне несуществующая марка, принадлежащая компании Ford, занимающая промежуточное положение между популярным Ford и роскошным Lincoln. Он предлагал комфортабельные круизеры.",
+              "zh": "Mercury 是福特旗下现已不复存在的品牌，定位介于大众福特和豪华林肯之间。它提供舒适的公路巡洋舰。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford Motor Company",
+                "en": "Ford Motor Company",
+                "de": "Ford Motor Company",
+                "uk": "Ford Motor Company",
+                "ru": "Ford Motor Company",
+                "zh": "福特汽车公司"
+              },
+              "siedziba": {
+                "pl": "Dearborn, USA",
+                "en": "Dearborn, USA",
+                "de": "Dearborn, USA",
+                "uk": "Дірборн, США",
+                "ru": "Дирборн, США",
+                "zh": "美国迪尔伯恩"
+              },
+              "założona": "1938",
+              "zlikwidowana": "2011"
+            }
+          }
+        }
+      }
+    ],
+    "Milan": [
+      {
+        "BrandID": 91,
+        "ModelID": 416662,
+        "Brand Name": "Mercury",
+        "Model Name": "Milan",
+        "Serie Name": "Milan",
+        "Years": "2006 - 2011",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Car",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.3L - 2.5L I4 / 3.0L V6 / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercury to nieistniejąca już marka należąca do Forda, pozycjonowana między popularnym Fordem a luksusowym Lincolnem. Oferowała komfortowe krążowniki szos.",
+              "en": "Mercury is a now defunct brand owned by Ford, positioned between the popular Ford and the luxurious Lincoln. It offered comfortable road cruisers.",
+              "de": "Mercury ist eine inzwischen nicht mehr existierende Marke im Besitz von Ford, positioniert zwischen dem beliebten Ford und dem luxuriösen Lincoln. Es bot komfortable Straßenkreuzer.",
+              "uk": "Mercury — нині неіснуючий бренд, що належить компанії Ford, позиціонується між популярним Ford і розкішним Lincoln. Він пропонував комфортабельні дорожні крейсери.",
+              "ru": "Mercury — ныне несуществующая марка, принадлежащая компании Ford, занимающая промежуточное положение между популярным Ford и роскошным Lincoln. Он предлагал комфортабельные круизеры.",
+              "zh": "Mercury 是福特旗下现已不复存在的品牌，定位介于大众福特和豪华林肯之间。它提供舒适的公路巡洋舰。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford Motor Company",
+                "en": "Ford Motor Company",
+                "de": "Ford Motor Company",
+                "uk": "Ford Motor Company",
+                "ru": "Ford Motor Company",
+                "zh": "福特汽车公司"
+              },
+              "siedziba": {
+                "pl": "Dearborn, USA",
+                "en": "Dearborn, USA",
+                "de": "Dearborn, USA",
+                "uk": "Дірборн, США",
+                "ru": "Дирборн, США",
+                "zh": "美国迪尔伯恩"
+              },
+              "założona": "1938",
+              "zlikwidowana": "2011"
+            }
+          }
+        }
+      }
+    ],
+    "Mariner": [
+      {
+        "BrandID": 91,
+        "ModelID": 415234,
+        "Brand Name": "Mercury",
+        "Model Name": "Mariner",
+        "Serie Name": "Mariner Gen 1",
+        "Years": "2005 - 2007",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.3L I4 / 3.0L V6 / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercury to nieistniejąca już marka należąca do Forda, pozycjonowana między popularnym Fordem a luksusowym Lincolnem. Oferowała komfortowe krążowniki szos.",
+              "en": "Mercury is a now defunct brand owned by Ford, positioned between the popular Ford and the luxurious Lincoln. It offered comfortable road cruisers.",
+              "de": "Mercury ist eine inzwischen nicht mehr existierende Marke im Besitz von Ford, positioniert zwischen dem beliebten Ford und dem luxuriösen Lincoln. Es bot komfortable Straßenkreuzer.",
+              "uk": "Mercury — нині неіснуючий бренд, що належить компанії Ford, позиціонується між популярним Ford і розкішним Lincoln. Він пропонував комфортабельні дорожні крейсери.",
+              "ru": "Mercury — ныне несуществующая марка, принадлежащая компании Ford, занимающая промежуточное положение между популярным Ford и роскошным Lincoln. Он предлагал комфортабельные круизеры.",
+              "zh": "Mercury 是福特旗下现已不复存在的品牌，定位介于大众福特和豪华林肯之间。它提供舒适的公路巡洋舰。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford Motor Company",
+                "en": "Ford Motor Company",
+                "de": "Ford Motor Company",
+                "uk": "Ford Motor Company",
+                "ru": "Ford Motor Company",
+                "zh": "福特汽车公司"
+              },
+              "siedziba": {
+                "pl": "Dearborn, USA",
+                "en": "Dearborn, USA",
+                "de": "Dearborn, USA",
+                "uk": "Дірборн, США",
+                "ru": "Дирборн, США",
+                "zh": "美国迪尔伯恩"
+              },
+              "założona": "1938",
+              "zlikwidowana": "2011"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 91,
+        "ModelID": 416663,
+        "Brand Name": "Mercury",
+        "Model Name": "Mariner",
+        "Serie Name": "Mariner Gen 2",
+        "Years": "2008 - 2011",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.5L I4 / 3.0L V6 / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercury to nieistniejąca już marka należąca do Forda, pozycjonowana między popularnym Fordem a luksusowym Lincolnem. Oferowała komfortowe krążowniki szos.",
+              "en": "Mercury is a now defunct brand owned by Ford, positioned between the popular Ford and the luxurious Lincoln. It offered comfortable road cruisers.",
+              "de": "Mercury ist eine inzwischen nicht mehr existierende Marke im Besitz von Ford, positioniert zwischen dem beliebten Ford und dem luxuriösen Lincoln. Es bot komfortable Straßenkreuzer.",
+              "uk": "Mercury — нині неіснуючий бренд, що належить компанії Ford, позиціонується між популярним Ford і розкішним Lincoln. Він пропонував комфортабельні дорожні крейсери.",
+              "ru": "Mercury — ныне несуществующая марка, принадлежащая компании Ford, занимающая промежуточное положение между популярным Ford и роскошным Lincoln. Он предлагал комфортабельные круизеры.",
+              "zh": "Mercury 是福特旗下现已不复存在的品牌，定位介于大众福特和豪华林肯之间。它提供舒适的公路巡洋舰。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford Motor Company",
+                "en": "Ford Motor Company",
+                "de": "Ford Motor Company",
+                "uk": "Ford Motor Company",
+                "ru": "Ford Motor Company",
+                "zh": "福特汽车公司"
+              },
+              "siedziba": {
+                "pl": "Dearborn, USA",
+                "en": "Dearborn, USA",
+                "de": "Dearborn, USA",
+                "uk": "Дірборн, США",
+                "ru": "Дирборн, США",
+                "zh": "美国迪尔伯恩"
+              },
+              "założona": "1938",
+              "zlikwidowana": "2011"
+            }
+          }
+        }
+      }
+    ],
+    "Sable": [
+      {
+        "BrandID": 91,
+        "ModelID": 1017,
+        "Brand Name": "Mercury",
+        "Model Name": "Sable",
+        "Serie Name": "Sable",
+        "Years": "1986 - 2005",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Mid-size Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "3.0L - 3.8L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercury to nieistniejąca już marka należąca do Forda, pozycjonowana między popularnym Fordem a luksusowym Lincolnem. Oferowała komfortowe krążowniki szos.",
+              "en": "Mercury is a now defunct brand owned by Ford, positioned between the popular Ford and the luxurious Lincoln. It offered comfortable road cruisers.",
+              "de": "Mercury ist eine inzwischen nicht mehr existierende Marke im Besitz von Ford, positioniert zwischen dem beliebten Ford und dem luxuriösen Lincoln. Es bot komfortable Straßenkreuzer.",
+              "uk": "Mercury — нині неіснуючий бренд, що належить компанії Ford, позиціонується між популярним Ford і розкішним Lincoln. Він пропонував комфортабельні дорожні крейсери.",
+              "ru": "Mercury — ныне несуществующая марка, принадлежащая компании Ford, занимающая промежуточное положение между популярным Ford и роскошным Lincoln. Он предлагал комфортабельные круизеры.",
+              "zh": "Mercury 是福特旗下现已不复存在的品牌，定位介于大众福特和豪华林肯之间。它提供舒适的公路巡洋舰。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford Motor Company",
+                "en": "Ford Motor Company",
+                "de": "Ford Motor Company",
+                "uk": "Ford Motor Company",
+                "ru": "Ford Motor Company",
+                "zh": "福特汽车公司"
+              },
+              "siedziba": {
+                "pl": "Dearborn, USA",
+                "en": "Dearborn, USA",
+                "de": "Dearborn, USA",
+                "uk": "Дірборн, США",
+                "ru": "Дирборн, США",
+                "zh": "美国迪尔伯恩"
+              },
+              "założona": "1938",
+              "zlikwidowana": "2011"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 91,
+        "ModelID": 416664,
+        "Brand Name": "Mercury",
+        "Model Name": "Sable",
+        "Serie Name": "Sable Gen 5",
+        "Years": "2008 - 2009",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Car",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercury to nieistniejąca już marka należąca do Forda, pozycjonowana między popularnym Fordem a luksusowym Lincolnem. Oferowała komfortowe krążowniki szos.",
+              "en": "Mercury is a now defunct brand owned by Ford, positioned between the popular Ford and the luxurious Lincoln. It offered comfortable road cruisers.",
+              "de": "Mercury ist eine inzwischen nicht mehr existierende Marke im Besitz von Ford, positioniert zwischen dem beliebten Ford und dem luxuriösen Lincoln. Es bot komfortable Straßenkreuzer.",
+              "uk": "Mercury — нині неіснуючий бренд, що належить компанії Ford, позиціонується між популярним Ford і розкішним Lincoln. Він пропонував комфортабельні дорожні крейсери.",
+              "ru": "Mercury — ныне несуществующая марка, принадлежащая компании Ford, занимающая промежуточное положение между популярным Ford и роскошным Lincoln. Он предлагал комфортабельные круизеры.",
+              "zh": "Mercury 是福特旗下现已不复存在的品牌，定位介于大众福特和豪华林肯之间。它提供舒适的公路巡洋舰。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford Motor Company",
+                "en": "Ford Motor Company",
+                "de": "Ford Motor Company",
+                "uk": "Ford Motor Company",
+                "ru": "Форд Мотор Компани",
+                "zh": "福特汽车公司"
+              },
+              "siedziba": {
+                "pl": "Dearborn, USA",
+                "en": "Dearborn, USA",
+                "de": "Dearborn, USA",
+                "uk": "Дірборн, США",
+                "ru": "Дирборн, США",
+                "zh": "美国迪尔伯恩"
+              },
+              "założona": "1938",
+              "zlikwidowana": "2011"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

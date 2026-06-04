@@ -1,0 +1,745 @@
+{
+  "brand": "Jaguar",
+  "models": {
+    "E-Pace": [
+      {
+        "BrandID": 70,
+        "ModelID": 413929,
+        "Brand Name": "Jaguar",
+        "Model Name": "E-Pace",
+        "Serie Name": "E-Pace",
+        "Years": "2017 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact Luxury SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "2.0L Turbo / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Jaguar E-Pace to kompaktowy SUV o sportowej sylwetce ('baby F-Pace'), który łączy zwinność z luksusowym wykończeniem. Idealny do miasta, inspirowany modelem F-Type.",
+              "en": "Jaguar E-Pace is a compact SUV with a sporty silhouette ('baby F-Pace') that combines agility with a luxurious finish. Perfect for the city, inspired by the F-Type.",
+              "de": "Jaguar E-Pace ist ein kompakter SUV mit sportlicher Silhouette („Baby F-Pace“), der Agilität mit luxuriöser Verarbeitung verbindet. Perfekt für die Stadt, inspiriert vom F-Type.",
+              "uk": "Jaguar E-Pace — це компактний позашляховик зі спортивним силуетом («дитячий F-Pace»), який поєднує маневреність із розкішною обробкою. Ідеально підходить для міста, натхненний F-Type.",
+              "ru": "Jaguar E-Pace — компактный внедорожник спортивного силуэта («малыш F-Pace»), сочетающий в себе маневренность и роскошную отделку. Идеально подходит для города, вдохновлен F-Type.",
+              "zh": "捷豹 E-Pace 是一款紧凑型 SUV，具有运动轮廓（“小 F-Pace”），将敏捷性与豪华外观融为一体。灵感源自 F-Type，非常适合城市。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "JLR"
+              },
+              "okres produkcji": {
+                "pl": "od 2017",
+                "en": "from 2017",
+                "de": "ab 2017",
+                "uk": "з 2017 року",
+                "ru": "2017 года.",
+                "zh": "2017 年起"
+              },
+              "segment": {
+                "pl": "Compact Luxury SUV",
+                "en": "Compact Luxury SUV",
+                "de": "Kompakter Luxus-SUV",
+                "uk": "Компактний розкішний позашляховик",
+                "ru": "Компактный роскошный внедорожник",
+                "zh": "紧凑型豪华 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "F-Pace": [
+      {
+        "BrandID": 70,
+        "ModelID": 413757,
+        "Brand Name": "Jaguar",
+        "Model Name": "F-Pace",
+        "Serie Name": "F-Pace",
+        "Years": "2016 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "2.0L / 3.0L V6 / 5.0L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Jaguar F-Pace to pierwszy SUV w historii marki, który odniósł ogromny sukces rynkowy, łącząc praktyczność ze stylem Jaguara.",
+              "en": "Jaguar F-Pace is the first SUV in the brand's history that achieved huge market success, combining practicality with Jaguar style.",
+              "de": "Jaguar F-Pace ist der erste SUV in der Markengeschichte, der einen großen Markterfolg erzielte und Praktikabilität mit Jaguar-Stil verbindet.",
+              "uk": "Jaguar F-Pace — це перший позашляховик в історії бренду, який досяг величезного успіху на ринку, поєднуючи практичність і стиль Jaguar.",
+              "ru": "Jaguar F-Pace — первый внедорожник в истории бренда, добившийся огромного успеха на рынке, сочетающий практичность со стилем Jaguar.",
+              "zh": "捷豹 F-Pace 是该品牌历史上第一款取得巨大市场成功的 SUV，将实用性与捷豹风格融为一体。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jaguar"
+              },
+              "okres produkcji": {
+                "pl": "od 2016",
+                "en": "from 2016",
+                "de": "ab 2016",
+                "uk": "з 2016 року",
+                "ru": "2016 г.",
+                "zh": "2016 年起"
+              },
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний SUV",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型 SUV"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "F-Type": [
+      {
+        "BrandID": 70,
+        "ModelID": 414385,
+        "Brand Name": "Jaguar",
+        "Model Name": "F-Type",
+        "Serie Name": "F-Type",
+        "Years": "2013 - 3000",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Sports Car",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L Turbo / 3.0L V6 / 5.0L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Jaguar F-Type to duchowy spadkobierca legendarnego E-Type'a. Dwumiejscowe auto sportowe o zachwycającym wyglądzie i brzmieniu.",
+              "en": "Jaguar F-Type is the spiritual heir to the legendary E-Type. A two-seater sports car with a stunning look and sound.",
+              "de": "Jaguar F-Type ist der geistige Erbe des legendären E-Type. Ein zweisitziger Sportwagen mit atemberaubender Optik und Sound.",
+              "uk": "Jaguar F-Type є духовним спадкоємцем легендарного E-Type. Двомісний спортивний автомобіль з приголомшливим виглядом і звуком.",
+              "ru": "Jaguar F-Type — духовный наследник легендарного E-Type. Двухместный спортивный автомобиль с потрясающим внешним видом и звуком.",
+              "zh": "捷豹 F-Type 是传奇 E-Type 的精神继承人。一款两座跑车，具有令人惊叹的外观和声音。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jaguar"
+              },
+              "okres produkcji": "2013–2024",
+              "segment": {
+                "pl": "Samochód sportowy",
+                "en": "Sports car",
+                "de": "Sportwagen",
+                "uk": "Спортивний автомобіль",
+                "ru": "Спортивный автомобиль",
+                "zh": "跑车"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/y9/hg/7wtboeoc0o8s4w8os00k/jaguar-f-type-03.310.jpg"
+        }
+      }
+    ],
+    "I-Pace": [
+      {
+        "BrandID": 70,
+        "ModelID": 415561,
+        "Brand Name": "Jaguar",
+        "Model Name": "I-Pace",
+        "Serie Name": "I-Pace",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Electric Luxury SUV",
+          "drive": "AWD",
+          "fuel": "Electric",
+          "engine": "Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Jaguar I-Pace to pierwszy w pełni elektryczny model marki, który zdobył tytuł World Car of the Year. Rewolucyjny design 'cab-forward' i osiągi auta sportowego.",
+              "en": "Jaguar I-Pace is the first fully electric model of the brand to win the World Car of the Year title. Revolutionary 'cab-forward' design and sports car performance.",
+              "de": "Jaguar I-Pace ist das erste vollelektrische Modell der Marke, das den Titel „World Car of the Year“ gewonnen hat. Revolutionäres „Cab-Forward“-Design und sportliche Leistung.",
+              "uk": "Jaguar I-Pace — перша повністю електрична модель бренду, яка отримала титул «Всесвітній автомобіль року». Революційний дизайн «кабіни вперед» і продуктивність спортивного автомобіля.",
+              "ru": "Jaguar I-Pace — первая полностью электрическая модель бренда, завоевавшая титул «Всемирный автомобиль года». Революционный дизайн «кабина вперед» и спортивные характеристики автомобиля.",
+              "zh": "捷豹 I-Pace 是该品牌首款荣获世界年度汽车称号的纯电动车型。革命性的“驾驶室前移”设计和跑车性能。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "JLR"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "from 2018",
+                "de": "ab 2018",
+                "uk": "з 2018 року",
+                "ru": "2018 года.",
+                "zh": "2018 年起"
+              },
+              "segment": {
+                "pl": "Electric Luxury SUV",
+                "en": "Electric Luxury SUV",
+                "de": "Elektro-Luxus-SUV",
+                "uk": "Електричний розкішний позашляховик",
+                "ru": "Электрический роскошный внедорожник.",
+                "zh": "电动豪华 SUV"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "S-Type": [
+      {
+        "BrandID": 70,
+        "ModelID": 753,
+        "Brand Name": "Jaguar",
+        "Model Name": "S-Type",
+        "Serie Name": "S-Type",
+        "Years": "1999 - 2008",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.5L / 3.0L V6 / 4.0L V8 / 4.2L V8 / 2.7L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Jaguar S-Type to limuzyna o charakterystycznej stylistyce retro, nawiązującej do modelu z lat 60. Wyróżnia się komfortem i klasycznym, brytyjskim klimatem wnętrza.",
+              "en": "Jaguar S-Type is a limousine with a characteristic retro style, referring to the model from the 1960s. It is distinguished by comfort and a classic, British interior atmosphere.",
+              "de": "Der Jaguar S-Type ist eine Limousine im charakteristischen Retro-Stil, die an das Modell aus den 1960er Jahren erinnert. Es zeichnet sich durch Komfort und eine klassische, britische Innenatmosphäre aus.",
+              "uk": "Jaguar S-Type — це лімузин із характерним ретро-стилем, що відсилає до моделі 1960-х років. Його відрізняє комфорт і класична, британська атмосфера інтер'єру.",
+              "ru": "Jaguar S-Type — лимузин с характерным ретро-стилем, отсылающим к модели 1960-х годов. Его отличает комфорт и классическая британская внутренняя атмосфера.",
+              "zh": "捷豹 S-Type 是一款具有复古风格的豪华轿车，指的是 20 世纪 60 年代的车型。它以舒适性和经典的英式室内氛围而著称。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jaguar"
+              },
+              "okres produkcji": "1999–2008",
+              "segment": {
+                "pl": "Mid-size Luxury",
+                "en": "Mid-size Luxury",
+                "de": "Mittelklasse-Luxus",
+                "uk": "Середньорозмірний Luxury",
+                "ru": "Среднеразмерный люксовый автомобиль",
+                "zh": "中型豪华车"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/oz/86/q193sysw0c4soo0ssk4/jaguar-s-type.310.jpg"
+        }
+      }
+    ],
+    "X-Type": [
+      {
+        "BrandID": 70,
+        "ModelID": 754,
+        "Brand Name": "Jaguar",
+        "Model Name": "X-Type",
+        "Serie Name": "X-Type",
+        "Years": "2001 - 2009",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Compact Executive",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 3.0L V6 / 2.0L - 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Jaguar X-Type to wejście marki do segmentu D. Dostępny jako sedan i kombi (Estate), oferował napęd na cztery koła i czerpał rozwiązania z Forda Mondeo.",
+              "en": "Jaguar X-Type is the brand's entry into the D segment. Available as a sedan and estate car, it offered four-wheel drive and derived solutions from the Ford Mondeo.",
+              "de": "Der Jaguar X-Type ist der Einstieg der Marke in das D-Segment. Er war als Limousine und Kombi erhältlich und bot Allradantrieb sowie abgeleitete Lösungen vom Ford Mondeo.",
+              "uk": "Jaguar X-Type — це вихід бренду в сегмент D. Доступний як седан і універсал, він пропонував повний привід і похідні рішення від Ford Mondeo.",
+              "ru": "Jaguar X-Type — представитель бренда в сегменте D. Доступный как седан и универсал, он предлагал полный привод и решения, заимствованные у Ford Mondeo.",
+              "zh": "捷豹 X-Type 是该品牌进军 D 级车的入门车型。它可作为轿车和旅行车提供，提供四轮驱动和源自福特蒙迪欧的解决方案。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jaguar"
+              },
+              "okres produkcji": "2001–2009",
+              "segment": {
+                "pl": "Compact Executive",
+                "en": "Compact Executive",
+                "de": "Compact Executive",
+                "uk": "Compact Executive",
+                "ru": "Compact Executive",
+                "zh": "Compact Executive"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1r/9c/dt7eo7usoc008488sk40g/jaguar-x-type-i-sedan.310.jpg"
+        }
+      }
+    ],
+    "XE": [
+      {
+        "BrandID": 70,
+        "ModelID": 414037,
+        "Brand Name": "Jaguar",
+        "Model Name": "XE",
+        "Serie Name": "XE",
+        "Years": "2015 - 3000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Compact Executive",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L Turbo / 3.0L V6 / 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Jaguar XE to sportowy sedan, który rzucił wyzwanie BMW serii 3. Lekka, aluminiowa konstrukcja i dopracowane zawieszenie czynią go jednym z najlepiej prowadzących się aut w klasie.",
+              "en": "Jaguar XE is a sports sedan that challenged the BMW 3 Series. Light, aluminum construction and refined suspension make it one of the best-driving cars in its class.",
+              "de": "Jaguar XE ist eine Sportlimousine, die den BMW 3er herausforderte. Die leichte Aluminiumkonstruktion und die raffinierte Federung machen ihn zu einem der am besten fahrenden Autos seiner Klasse.",
+              "uk": "Jaguar XE — спортивний седан, який кинув виклик BMW 3 серії. Легка алюмінієва конструкція та вдосконалена підвіска роблять його одним із найкращих автомобілів у своєму класі.",
+              "ru": "Jaguar XE — спортивный седан, бросивший вызов BMW 3 серии. Легкая алюминиевая конструкция и усовершенствованная подвеска делают его одним из лучших по управляемости автомобилей в своем классе.",
+              "zh": "捷豹XE是一款挑战宝马3系的运动轿车。轻质铝制结构和精致的悬架使其成为同类中驾驶性能最佳的汽车之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "JLR"
+              },
+              "okres produkcji": {
+                "pl": "od 2015",
+                "en": "from 2015",
+                "de": "ab 2015",
+                "uk": "з 2015 року",
+                "ru": "с 2015 года",
+                "zh": "2015 年起"
+              },
+              "segment": {
+                "pl": "Compact Executive",
+                "en": "Compact Executive",
+                "de": "Compact Executive",
+                "uk": "Compact Executive",
+                "ru": "Compact Executive",
+                "zh": "Compact Executive"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7p/je/q8vvahoggoos00k4c48ss/jaguar_xe-s-2014_r17-jpg.310.jpg"
+        }
+      }
+    ],
+    "XF": [
+      {
+        "BrandID": 70,
+        "ModelID": 413701,
+        "Brand Name": "Jaguar",
+        "Model Name": "XF",
+        "Serie Name": "XF Gen 1 (X250)",
+        "Years": "2007 - 2015",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Mid-size Luxury",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 5.0L V8 / 2.2L - 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2010_Jaguar_XF_Premium_Luxury_V6_Automatic_3.0_Rear.jpg/1280px-2010_Jaguar_XF_Premium_Luxury_V6_Automatic_3.0_Rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2010_Jaguar_XF_Premium_Luxury_V6_Automatic_3.0_Rear.jpg/1280px-2010_Jaguar_XF_Premium_Luxury_V6_Automatic_3.0_Rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Jaguar_XF_Sportbrake_3.0_D-S_%28Facelift%29_%E2%80%93_Heckansicht%2C_21._April_2013%2C_M%C3%BCnster.jpg/1280px-Jaguar_XF_Sportbrake_3.0_D-S_%28Facelift%29_%E2%80%93_Heckansicht%2C_21._April_2013%2C_M%C3%BCnster.jpg"
+            ],
+            "description": {
+              "pl": "Pierwsza generacja Jaguara XF (X250) to punkt zwrotny w historii marki. Zastąpił styl retro nowoczesnym designem Iana Calluma i wprowadził słynne obrotowe pokrętło zmiany biegów.",
+              "en": "The first generation of the Jaguar XF (X250) is a turning point in the brand's history. It replaced the retro style with Ian Callum's modern design and introduced the famous rotary gearshift knob.",
+              "de": "Die erste Generation des Jaguar XF (X250) ist ein Wendepunkt in der Markengeschichte. Es ersetzte den Retro-Stil durch das moderne Design von Ian Callum und führte den berühmten Drehschaltknauf ein.",
+              "uk": "Перше покоління Jaguar XF (X250) стало поворотним моментом в історії бренду. Він замінив ретро-стиль сучасним дизайном Яна Каллума та представив знамениту поворотну ручку перемикання передач.",
+              "ru": "Первое поколение Jaguar XF (X250) — поворотный момент в истории бренда. Он заменил стиль ретро современным дизайном Яна Каллума и представил знаменитую поворотную ручку переключения передач.",
+              "zh": "第一代捷豹 XF (X250) 是该品牌历史上的一个转折点。它用 Ian Callum 的现代设计取代了复古风格，并引入了著名的旋转换档旋钮。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jaguar"
+              },
+              "okres produkcji": "2007–2015",
+              "segment": {
+                "pl": "Mid-size Luxury",
+                "en": "Mid-size Luxury",
+                "de": "Mittelklasse-Luxus",
+                "uk": "Розкіш середнього розміру",
+                "ru": "Среднеразмерный люкс",
+                "zh": "中型豪华车"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7a/p1/hwdj07gosksw08k0cs4c8/jaguar-xf-i-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 70,
+        "ModelID": 413702,
+        "Brand Name": "Jaguar",
+        "Model Name": "XF",
+        "Serie Name": "XF Gen 2 (X260)",
+        "Years": "2015 - 3000",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Mid-size Luxury",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L / 3.0L V6 / 2.0L - 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja XF (X260) jest lżejsza i bardziej przestronna dzięki aluminiowej konstrukcji. Łączy elegancję limuzyny ze sportowym prowadzeniem.",
+              "en": "The second generation XF (X260) is lighter and more spacious thanks to its aluminum construction. It combines the elegance of a limousine with sporty handling.",
+              "de": "Der XF der zweiten Generation (X260) ist dank seiner Aluminiumkonstruktion leichter und geräumiger. Er vereint die Eleganz einer Limousine mit sportlichem Handling.",
+              "uk": "XF другого покоління (X260) легший і просторіший завдяки своїй алюмінієвій конструкції. Він поєднує в собі елегантність лімузина зі спортивною керованістю.",
+              "ru": "Второе поколение XF (X260) легче и просторнее благодаря алюминиевой конструкции. Он сочетает в себе элегантность лимузина со спортивной управляемостью.",
+              "zh": "第二代 XF (X260) 采用铝制结构，更轻、更宽敞。它将豪华轿车的优雅与运动操控融为一体。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "JLR"
+              },
+              "okres produkcji": {
+                "pl": "od 2015",
+                "en": "from 2015",
+                "de": "ab 2015",
+                "uk": "з 2015 року",
+                "ru": "2015 года.",
+                "zh": "2015 年起"
+              },
+              "segment": {
+                "pl": "Mid-size Luxury",
+                "en": "Mid-size Luxury",
+                "de": "Mittelklasse-Luxus",
+                "uk": "Середньорозмірний Luxury",
+                "ru": "Среднеразмерная роскошь.",
+                "zh": "中型豪华车"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7a/p1/hwdj07gosksw08k0cs4c8/jaguar-xf-i-sedan.310.jpg"
+        }
+      }
+    ],
+    "XJ": [
+      {
+        "BrandID": 70,
+        "ModelID": 413703,
+        "Brand Name": "Jaguar",
+        "Model Name": "XJ",
+        "Serie Name": "XJ (X300)",
+        "Years": "1994 - 1997",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.2L - 6.0L V12",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Jaguar XJ (X300) to powrót do klasycznej linii nadwozia z zaokrąglonymi reflektorami. Ostatni XJ z legendarnym silnikiem V12 i pierwszy pod skrzydłami Forda.",
+              "en": "Jaguar XJ (X300) is a return to the classic body line with rounded headlights. The last XJ with the legendary V12 engine and the first under the wings of Ford.",
+              "de": "Der Jaguar XJ (X300) ist eine Rückkehr zur klassischen Karosserielinie mit abgerundeten Scheinwerfern. Der letzte XJ mit dem legendären V12-Motor und der erste unter den Fittichen von Ford.",
+              "uk": "Jaguar XJ (X300) — це повернення до класичної лінії кузова із закругленими фарами. Останній XJ з легендарним двигуном V12 і перший під крилами Ford.",
+              "ru": "Jaguar XJ (X300) — возвращение к классической линии кузова с закругленными фарами. Последний XJ с легендарным двигателем V12 и первый под крылом Ford.",
+              "zh": "捷豹 XJ (X300) 回归经典车身线条，配有圆形前灯。最后一款配备传奇 V12 发动机的 XJ，也是福特旗下的第一款 XJ。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jaguar"
+              },
+              "okres produkcji": "1994–1997",
+              "segment": {
+                "pl": "Full-size Luxury",
+                "en": "Full-size Luxury",
+                "de": "Luxus in Originalgröße",
+                "uk": "Повнорозмірний Luxury",
+                "ru": "Полноразмерная роскошь",
+                "zh": "全尺寸豪华"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7n/s0/13dufm04g88oso08400oc/jaguar-xj-viii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 70,
+        "ModelID": 413704,
+        "Brand Name": "Jaguar",
+        "Model Name": "XJ",
+        "Serie Name": "XJ (X308)",
+        "Years": "1997 - 2003",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.2L - 4.0L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Model XJ (X308) wizualnie przypomina X300, ale wprowadził nowe silniki V8 (AJ-V8) i zmodernizowane wnętrze, żegnając jednostki R6 i V12.",
+              "en": "The XJ (X308) is visually similar to the X300, but introduces new V8 engines (AJ-V8) and an updated interior, saying goodbye to the R6 and V12 engines.",
+              "de": "Der XJ (X308) ähnelt optisch dem X300, führt jedoch neue V8-Motoren (AJ-V8) und einen aktualisierten Innenraum ein und verabschiedet sich von den R6- und V12-Motoren.",
+              "uk": "XJ (X308) візуально схожий на X300, але представляє нові двигуни V8 (AJ-V8) і оновлений інтер’єр, попрощавшись з двигунами R6 і V12.",
+              "ru": "XJ (X308) визуально похож на X300, но имеет новые двигатели V8 (AJ-V8) и обновленный интерьер, попрощавшись с двигателями R6 и V12.",
+              "zh": "XJ（X308）在视觉上与X300相似，但引入了新的V8发动机（AJ-V8）和更新的内饰，告别了R6和V12发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jaguar"
+              },
+              "okres produkcji": "1997–2003",
+              "segment": {
+                "pl": "Full-size Luxury",
+                "en": "Full-size Luxury",
+                "de": "Luxus in Originalgröße",
+                "uk": "Повнорозмірний Luxury",
+                "ru": "Полноразмерная роскошь",
+                "zh": "全尺寸豪华"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7n/s0/13dufm04g88oso08400oc/jaguar-xj-viii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 70,
+        "ModelID": 413705,
+        "Brand Name": "Jaguar",
+        "Model Name": "XJ",
+        "Serie Name": "XJ (X350/X358)",
+        "Years": "2003 - 2009",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.0L V6 - 4.2L V8 / 2.7L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Rewolucyjny XJ (X350) z w pełni aluminiowym nadwoziem monocoque. Mimo klasycznego wyglądu, był lekki i nowoczesny technicznie.",
+              "en": "The revolutionary XJ (X350) with full aluminum monocoque. Despite its classic appearance, it was light and technically modern.",
+              "de": "Der revolutionäre XJ (X350) mit Vollaluminium-Monocoque. Trotz seines klassischen Aussehens war es leicht und technisch modern.",
+              "uk": "Революційний XJ (X350) з повністю алюмінієвим монококом. Незважаючи на класичний вигляд, він був легким і технічно сучасним.",
+              "ru": "Революционный XJ (X350) с полностью алюминиевым монококом. Несмотря на классический внешний вид, он был легким и технически современным.",
+              "zh": "革命性的 XJ (X350)，采用全铝制单体壳。尽管外观经典，但它很轻且技术现代。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jaguar"
+              },
+              "okres produkcji": "2003–2009",
+              "segment": {
+                "pl": "Full-size Luxury",
+                "en": "Full-size Luxury",
+                "de": "Luxus in Originalgröße",
+                "uk": "Повнорозмірний Luxury",
+                "ru": "Полноразмерная роскошь",
+                "zh": "全尺寸豪华"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7n/s0/13dufm04g88oso08400oc/jaguar-xj-viii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 70,
+        "ModelID": 413707,
+        "Brand Name": "Jaguar",
+        "Model Name": "XJ",
+        "Serie Name": "XJ (X351)",
+        "Years": "2010 - 2019",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 5.0L V8 / 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ostatni XJ (X351) zerwał z tradycją. Awangardowy design z czarnymi słupkami C i cyfrowym kokpitem uczynił go jedną z najbardziej wyrazistych limuzyn na rynku.",
+              "en": "The last XJ (X351) broke with tradition. The avant-garde design with black C-pillars and digital cockpit made it one of the most expressive limousines on the market.",
+              "de": "Der letzte XJ (X351) brach mit der Tradition. Das avantgardistische Design mit schwarzen C-Säulen und digitalem Cockpit machte ihn zu einer der ausdrucksstärksten Limousinen auf dem Markt.",
+              "uk": "Останній XJ (X351) порушив традицію. Авангардний дизайн із чорними центральними стійками та цифровим кокпітом зробив його одним із найвиразніших лімузинів на ринку.",
+              "ru": "Последний XJ (X351) нарушил традицию. Авангардный дизайн с черными задними стойками и цифровой кабиной сделал его одним из самых выразительных лимузинов на рынке.",
+              "zh": "最后的 XJ (X351) 打破了传统。黑色C柱和数字驾驶舱的前卫设计使其成为市场上最具表现力的豪华轿车之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "JLR"
+              },
+              "okres produkcji": "2010–2019",
+              "segment": {
+                "pl": "Full-size Luxury",
+                "en": "Full-size Luxury",
+                "de": "Luxus in Originalgröße",
+                "uk": "Повнорозмірний Luxury",
+                "ru": "Полноразмерная роскошь",
+                "zh": "全尺寸豪华"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7n/s0/13dufm04g88oso08400oc/jaguar-xj-viii.310.jpg"
+        }
+      }
+    ],
+    "XK": [
+      {
+        "BrandID": 70,
+        "ModelID": 413709,
+        "Brand Name": "Jaguar",
+        "Model Name": "XK",
+        "Serie Name": "XK Gen 1 (X100)",
+        "Years": "1996 - 2006",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Grand Tourer",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "4.0L - 4.2L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Jaguar XK8/XKR (X100) to piękny Grand Tourer, który zastąpił model XJS. Jego linie nawiązują do E-Type'a, a pod maską debiutował silnik V8.",
+              "en": "Jaguar XK8/XKR (X100) is a beautiful Grand Tourer that replaced the XJS model. Its lines refer to the E-Type, and a V8 engine debuted under the hood.",
+              "de": "Jaguar XK8/XKR (X100) ist ein wunderschöner Grand Tourer, der das XJS-Modell ersetzte. Seine Linien erinnern an den E-Type, und unter der Haube debütierte ein V8-Motor.",
+              "uk": "Jaguar XK8/XKR (X100) — прекрасний Grand Tourer, який прийшов на зміну моделі XJS. Його лінії відсилають до E-Type, а під капотом дебютував двигун V8.",
+              "ru": "Jaguar XK8/XKR (X100) — красивый Grand Tourer, пришедший на смену модели XJS. Его линии отсылают к E-Type, а под капотом дебютировал двигатель V8.",
+              "zh": "捷豹 XK8/XKR (X100) 是一款漂亮的 Grand Tourer，取代了 XJS 车型。它的线条参考了 E-Type，并且在引擎盖下首次亮相了 V8 发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jaguar"
+              },
+              "okres produkcji": "1996–2006",
+              "segment": {
+                "pl": "Grand Tourer",
+                "en": "Grand Tourer",
+                "de": "Grand Tourer",
+                "uk": "Grand Tourer",
+                "ru": "Grand Tourer",
+                "zh": "Grand Tourer"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5h/ba/fuigknockc0gs88c80kss/jaguar-xk-ii-coupe.310.jpg"
+        }
+      },
+      {
+        "BrandID": 70,
+        "ModelID": 413715,
+        "Brand Name": "Jaguar",
+        "Model Name": "XK",
+        "Serie Name": "XK Gen 2 (X150)",
+        "Years": "2006 - 2014",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Grand Tourer",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L - 5.0L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja XK (X150) zaprojektowana przez Iana Calluma. Zbudowana z aluminium, szybsza i bardziej nowoczesna, dostępna w potężnych wersjach XKR-S.",
+              "en": "Second generation XK (X150) designed by Ian Callum. Made of aluminum, faster and more modern, available in powerful XKR-S versions.",
+              "de": "XK der zweiten Generation (X150), entworfen von Ian Callum. Aus Aluminium, schneller und moderner, erhältlich in leistungsstarken XKR-S-Versionen.",
+              "uk": "Друге покоління XK (X150), розроблене Ієном Каллумом. Виготовлений з алюмінію, швидший і сучасніший, доступний у потужних версіях XKR-S.",
+              "ru": "XK второго поколения (X150), разработанный Яном Каллумом. Изготовлен из алюминия, более быстрый и современный, доступен в мощной версии XKR-S.",
+              "zh": "由 Ian Callum 设计的第二代 XK (X150)。由铝制成，更快、更现代，提供功能强大的 XKR-S 版本。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Jaguar"
+              },
+              "okres produkcji": "2006–2014",
+              "segment": {
+                "pl": "Grand Tourer",
+                "en": "Grand Tourer",
+                "de": "Grand Tourer",
+                "uk": "Grand Tourer",
+                "ru": "Гранд Турер",
+                "zh": "豪华旅行车"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5h/ba/fuigknockc0gs88c80kss/jaguar-xk-ii-coupe.310.jpg"
+        }
+      }
+    ]
+  }
+}

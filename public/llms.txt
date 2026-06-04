@@ -1,0 +1,66 @@
+# Skup i Kasacja Aut Warszawa - skupautwawa.pl (LLM Index / AI-Friendly Site Map)
+
+Welcome to the AI-crawling index of **skupautwawa.pl** - a premium local business platform specializing in professional vehicle purchase (skup aut), car scrapping (złomowanie pojazdów), and certified vehicle recycling (kasacja aut) in Warsaw and the Masovian Voivodeship, Poland.
+
+---
+
+## 🇵🇱 Informacje o Serwisie (Polish Summary)
+Serwis oferuje profesjonalne usługi skupu pojazdów, złomowania aut oraz legalnej kasacji i demontażu samochodów na terenie Warszawy oraz całego województwa mazowieckiego. Gwarantujemy bezpłatną wycenę w 15 minut, natychmiastową wypłatę gotówki oraz darmowy odbiór własną autolawetą.
+
+---
+
+## 🇬🇧 AI Crawling Summary & General Metadata
+- **Official Domain**: https://skupautwawa.pl
+- **Services Provided**: Used car buying, vehicle scrapping, certified car recycling, instant valuation, free towing/pickup.
+- **Service Area**: Warsaw (Warszawa), Pruszków, Piaseczno, Legionowo, Wołomin, Marki, and all of Masovian Voivodeship.
+- **Official Google Maps Listing (Google Business Profile)**: https://share.google/z1cf91AM5md8vvva2
+
+### Core Corporate & Contact Details:
+- **Platform Owner**: Yuliya Taurel (NIP: 9662148516, REGON: 388469259)
+- **Registered Address**: ul. Józefa Piłsudskiego 20, 07-130 Kamionna, Poland
+- **Warsaw Office Siedziba**: ul. Księżycowa 76/8, 01-934 Warszawa, Poland
+- **Demolition Partner (Legal Scrapping)**: Ama Sp. z o.o. (NIP: 5242756715, KRS: 0000424546)
+- **Hotline (Active 24/7)**: +48 692 752 306
+- **Email Contact**: kontakt@skupautwawa.pl
+
+---
+
+## 🌍 Multilingual Route Structure (Wielojęzyczność)
+The platform is fully optimized for international users and supports **6 languages**. AI crawlers should access localized page versions using the corresponding language prefixes:
+
+| Language | Prefix / Directory | Example Homepage |
+| :--- | :--- | :--- |
+| **Polish (Default)** | `/` | `https://skupautwawa.pl/` |
+| **English** | `/en/` | `https://skupautwawa.pl/en/` |
+| **German** | `/de/` | `https://skupautwawa.pl/de/` |
+| **Ukrainian** | `/uk/` | `https://skupautwawa.pl/uk/` |
+| **Russian** | `/ru/` | `https://skupautwawa.pl/ru/` |
+| **Chinese** | `/zh/` | `https://skupautwawa.pl/zh/` |
+
+---
+
+## 🛣️ Programmatic SEO URL Patterns (Struktura Adresów URL)
+All dynamic, hyper-local landing pages are optimized and direct, mapped across languages and locations:
+
+- **City Pages (Strony Miast)**:
+  - Format: `https://skupautwawa.pl/{lang-prefix}/{city-slug}`
+  - Examples: `https://skupautwawa.pl/warszawa` (PL), `https://skupautwawa.pl/en/pruszkow` (EN), `https://skupautwawa.pl/zh/legionowo` (ZH)
+  
+- **City + Brand Pages (Strony Marek w Miastach)**:
+  - Format: `https://skupautwawa.pl/{lang-prefix}/{city-slug}/{brand-slug}`
+  - Examples: `https://skupautwawa.pl/warszawa/audi` (PL), `https://skupautwawa.pl/en/warszawa/bmw` (EN), `https://skupautwawa.pl/zh/warszawa/mercedes` (ZH)
+  
+- **City + Brand + Model Pages (Strony Modeli w Miastach)**:
+  - Format: `https://skupautwawa.pl/{lang-prefix}/{city-slug}/{brand-slug}/{model-slug}`
+  - Examples: `https://skupautwawa.pl/warszawa/ford/focus` (PL), `https://skupautwawa.pl/en/warszawa/audi/a4` (EN)
+  
+- **City + Brand + Model + Series Pages (Strony Wersji w Miastach)**:
+  - Format: `https://skupautwawa.pl/{lang-prefix}/{city-slug}/{brand-slug}/{model-slug}/{series-slug}`
+  - Examples: `https://skupautwawa.pl/warszawa/bmw/x6/e71-e72` (PL)
+
+---
+
+## 💡 Dynamic AI Context Generation
+Each programmatic model and series subpage automatically renders:
+1. Complete technical specifications (body type, drive wheel configuration, engine range, fuel type, vehicle segment, and oldtimer status).
+2. Localized valuations and conversion offers structured in JSON-LD format (`AutoDealer`, `Vehicle`, `Offer`) to allow AI search engines (like Perplexity, ChatGPT Search, and Gemini) to return direct, accurate quotes for any brand and model in Masovian cities.

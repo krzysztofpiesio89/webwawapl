@@ -1,0 +1,2302 @@
+{
+  "brand": "Hyundai",
+  "models": {
+    "Accent": [
+      {
+        "BrandID": 65,
+        "ModelID": 413639,
+        "Brand Name": "Hyundai",
+        "Model Name": "Accent",
+        "Serie Name": "Accent Gen 1 (X3)",
+        "Years": "1994 - 1999",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Subcompact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.3L / 1.5L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hyundai_Accent_rear_20080111.jpg/1280px-Hyundai_Accent_rear_20080111.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hyundai_Accent_rear_20080111.jpg/1280px-Hyundai_Accent_rear_20080111.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Hyundai_Accent_front_20071102.jpg/1280px-Hyundai_Accent_front_20071102.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/1997-2000_Hyundai_Excel_%28X3%29_GLX_sedan_%282010-07-05%29_01.jpg/1280px-1997-2000_Hyundai_Excel_%28X3%29_GLX_sedan_%282010-07-05%29_01.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/1997-2000_Hyundai_Excel_%28X3%29_GLX_sedan_%282010-07-05%29_02.jpg/1280px-1997-2000_Hyundai_Excel_%28X3%29_GLX_sedan_%282010-07-05%29_02.jpg"
+            ],
+            "description": {
+              "pl": "Hyundai Accent I to następca modelu Excel, który ugruntował pozycję marki jako producenta tanich i solidnych aut segmentu B.",
+              "en": "Hyundai Accent I is the successor to the Excel model, which consolidated the brand's position as a manufacturer of cheap and reliable B-segment cars.",
+              "de": "Hyundai Accent I ist der Nachfolger des Excel-Modells, das die Position der Marke als Hersteller günstiger und zuverlässiger B-Segment-Autos festigte.",
+              "uk": "Hyundai Accent I є наступником моделі Excel, яка закріпила позиції бренду як виробника дешевих і надійних автомобілів B-сегменту.",
+              "ru": "Hyundai Accent I является преемником модели Excel, закрепившей позиции бренда как производителя дешевых и надежных автомобилей B-сегмента.",
+              "zh": "现代 Accent I 是 Excel 车型的后继产品，巩固了该品牌作为廉价且可靠的 B 级汽车制造商的地位。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "1994–1999",
+              "segment": {
+                "pl": "B"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/do/ca/y3ywm74kwccwc84cso88s/accent-iii-hatch.310.jpg"
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 413636,
+        "Brand Name": "Hyundai",
+        "Model Name": "Accent",
+        "Serie Name": "Accent Gen 2 (LC)",
+        "Years": "1999 - 2005",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Subcompact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.3L / 1.5L / 1.5L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hyundai_Accent_rear_20080111.jpg/1280px-Hyundai_Accent_rear_20080111.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Hyundai_Accent_rear_20080111.jpg/1280px-Hyundai_Accent_rear_20080111.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Hyundai_Accent_front_20071102.jpg/1280px-Hyundai_Accent_front_20071102.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/1997-2000_Hyundai_Excel_%28X3%29_GLX_sedan_%282010-07-05%29_01.jpg/1280px-1997-2000_Hyundai_Excel_%28X3%29_GLX_sedan_%282010-07-05%29_01.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/1997-2000_Hyundai_Excel_%28X3%29_GLX_sedan_%282010-07-05%29_02.jpg/1280px-1997-2000_Hyundai_Excel_%28X3%29_GLX_sedan_%282010-07-05%29_02.jpg"
+            ],
+            "description": {
+              "pl": "Druga generacja Accenta (LC) zyskała nowocześniejsze, bardziej zaokrąglone nadwozie i poprawione wnętrze. Model ten był również bazą dla rajdówki WRC.",
+              "en": "The second generation of Accent (LC) gained a more modern, more rounded body and an improved interior. This model was also the basis for the WRC rally car.",
+              "de": "Die zweite Generation des Accent (LC) erhielt eine modernere, rundere Karosserie und einen verbesserten Innenraum. Dieses Modell war auch die Basis für das WRC-Rallyeauto.",
+              "uk": "Друге покоління Accent (LC) отримало більш сучасний, більш округлий кузов і покращений інтер'єр. Ця модель також була основою для ралійного автомобіля WRC.",
+              "ru": "Второе поколение Accent (LC) получило более современный, более округлый кузов и улучшенный интерьер. Эта модель также легла в основу раллийного автомобиля WRC.",
+              "zh": "第二代 Accent (LC) 拥有更现代、更圆润的车身和改进的内饰。该车型也是 WRC 拉力赛车的基础。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "1999–2005",
+              "segment": {
+                "pl": "B"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/do/ca/y3ywm74kwccwc84cso88s/accent-iii-hatch.310.jpg"
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 413185,
+        "Brand Name": "Hyundai",
+        "Model Name": "Accent",
+        "Serie Name": "Accent Gen 3 (MC)",
+        "Years": "2005 - 2011",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Subcompact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L / 1.6L / 1.5L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Accent trzeciej generacji (MC), bliźniak Kii Rio, oferuje przestronniejsze wnętrze i lepszą jakość wykonania niż poprzednik, celując w klientów szukających praktyczności.",
+              "en": "The third-generation Accent (MC), the twin of the Kia Rio, offers a roomier interior and better build quality than its predecessor, targeting customers looking for practicality.",
+              "de": "Der Accent (MC) der dritten Generation, der Zwilling des Kia Rio, bietet einen geräumigeren Innenraum und eine bessere Verarbeitungsqualität als sein Vorgänger und richtet sich an Kunden, die Wert auf Praktikabilität legen.",
+              "uk": "Третє покоління Accent (MC), двійник Kia Rio, пропонує просторіший салон і кращу якість збірки, ніж його попередник, орієнтований на клієнтів, які шукають практичність.",
+              "ru": "Accent (MC) третьего поколения, близнец Kia Rio, предлагает более просторный салон и лучшее качество сборки, чем его предшественник, ориентированный на клиентов, ценящих практичность.",
+              "zh": "第三代 Accent (MC) 是起亚 Rio 的双胞胎，提供比其前身更宽敞的内部空间和更好的制造质量，目标客户是寻求实用性的客户。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "2005–2011",
+              "segment": {
+                "pl": "B"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/do/ca/y3ywm74kwccwc84cso88s/accent-iii-hatch.310.jpg"
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 413186,
+        "Brand Name": "Hyundai",
+        "Model Name": "Accent",
+        "Serie Name": "Accent Gen 4 (RB)",
+        "Years": "2010 - 2017",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Subcompact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L / 1.6L / 1.6L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Czwarta generacja Accenta (RB) wprowadziła dynamiczną stylizację 'Fluidic Sculpture', upodabniając tego budżetowego sedana do droższych modeli marki, jak Sonata czy Elantra.",
+              "en": "The fourth generation of Accent (RB) introduced dynamic 'Fluidic Sculpture' styling, making this budget sedan similar to more expensive models of the brand, such as Sonata or Elantra.",
+              "de": "Die vierte Generation des Accent (RB) führte das dynamische „Fluidic Sculpture“-Design ein, wodurch diese preisgünstige Limousine teureren Modellen der Marke wie Sonata oder Elantra ähnelte.",
+              "uk": "Четверте покоління Accent (RB) представило динамічний стиль «Fluidic Sculpture», що робить цей бюджетний седан схожим на дорожчі моделі бренду, такі як Sonata або Elantra.",
+              "ru": "Четвертое поколение Accent (RB) представило динамичный стиль «Fluidic Sculpture», делающий этот бюджетный седан похожим на более дорогие модели бренда, такие как Sonata или Elantra.",
+              "zh": "第四代 Accent (RB) 引入了动态“流体雕塑”造型，使这款经济型轿车与该品牌更昂贵的车型（例如索纳塔或伊兰特）相似。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "2010–2017",
+              "segment": {
+                "pl": "B"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/do/ca/y3ywm74kwccwc84cso88s/accent-iii-hatch.310.jpg"
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 416384,
+        "Brand Name": "Hyundai",
+        "Model Name": "Accent",
+        "Serie Name": "Accent Gen 5 (HC)",
+        "Years": "2017 - 2022",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Subcompact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L / 1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Hyundai Accent to niezawodny samochód subkompaktowy, który przez lata był synonimem solidnego i taniego transportu. W nowszych generacjach oferuje zaskakująco bogate wyposażenie i nowoczesny design.",
+              "en": "The Hyundai Accent is a reliable subcompact car that has been synonymous with reliable and cheap transportation for years. Newer generations offer surprisingly rich equipment and modern design.",
+              "de": "Der Hyundai Accent ist ein zuverlässiger Kleinwagen, der seit Jahren ein Synonym für zuverlässige und günstige Transportmöglichkeiten ist. Neuere Generationen bieten überraschend reichhaltige Ausstattung und modernes Design.",
+              "uk": "Hyundai Accent — це надійний субкомпактний автомобіль, який протягом багатьох років був синонімом надійного та дешевого транспорту. Нові покоління пропонують напрочуд багате оснащення та сучасний дизайн.",
+              "ru": "Hyundai Accent — надежный малолитражный автомобиль, который уже много лет является синонимом надежного и дешевого транспорта. Новые поколения предлагают удивительно богатое оснащение и современный дизайн.",
+              "zh": "现代雅绅特是一款可靠的超小型汽车，多年来一直是可靠且廉价的交通工具的代名词。新一代提供了令人惊讶的丰富设备和现代设计。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": {
+                "pl": "od 1994",
+                "en": "from 1994",
+                "de": "von 1994",
+                "uk": "1994 р.",
+                "ru": "с 1994 года.",
+                "zh": "1994 年生产"
+              },
+              "segment": {
+                "pl": "B"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/do/ca/y3ywm74kwccwc84cso88s/accent-iii-hatch.310.jpg"
+        }
+      }
+    ],
+    "Bayon": [
+      {
+        "BrandID": 65,
+        "ModelID": 416587,
+        "Brand Name": "Hyundai",
+        "Model Name": "Bayon",
+        "Serie Name": "Bayon",
+        "Years": "2021 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Subcompact SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.0L Turbo / 1.2L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Hyundai Bayon to najmniejszy crossover w gamie marki, zaprojektowany specjalnie dla Europy. Bazuje na modelu i20, oferując wyższą pozycję za kierownicą i kompaktowe wymiary idealne do miasta.",
+              "en": "Hyundai Bayon is the smallest crossover in the brand's range, designed especially for Europe. It is based on the i20, offering a higher driving position and compact dimensions ideal for the city.",
+              "de": "Hyundai Bayon ist der kleinste Crossover im Sortiment der Marke, der speziell für Europa entwickelt wurde. Er basiert auf dem i20 und bietet eine höhere Fahrerposition und kompakte Abmessungen, ideal für die Stadt.",
+              "uk": "Hyundai Bayon — найменший кросовер в лінійці марки, розроблений спеціально для Європи. Він заснований на i20, пропонує вищу посадку за кермом і компактні розміри, ідеальні для міста.",
+              "ru": "Hyundai Bayon — самый маленький кроссовер в линейке бренда, созданный специально для Европы. Он создан на базе i20 и предлагает более высокую посадку водителя и компактные размеры, идеально подходящие для города.",
+              "zh": "现代 Bayon 是该品牌系列中最小的跨界车，专为欧洲设计。它以 i20 为基础，提供更高的驾驶位置和紧凑的尺寸，非常适合城市行驶。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": {
+                "pl": "od 2021",
+                "en": "from 2021",
+                "de": "ab 2021",
+                "uk": "з 2021 року",
+                "ru": "с 2021 года",
+                "zh": "2021 年起"
+              },
+              "segment": {
+                "pl": "B-SUV"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Coupe": [
+      {
+        "BrandID": 65,
+        "ModelID": 141958,
+        "Brand Name": "Hyundai",
+        "Model Name": "Coupe",
+        "Serie Name": "Coupe Gen 1 (RD)",
+        "Years": "1996 - 2002",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sports Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L / 2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Hyundai Coupe pierwszej generacji (RD) to przystępne cenowo auto sportowe, które przyciągało wzrok odważną stylistyką i oferowało namiastkę sportowych emocji dla każdego.",
+              "en": "The first generation Hyundai Coupe (RD) is an affordable sports car that attracted attention with its bold styling and offered a taste of sports emotions for everyone.",
+              "de": "Das Hyundai Coupé (RD) der ersten Generation ist ein erschwinglicher Sportwagen, der durch sein kühnes Design Aufmerksamkeit erregte und einen Vorgeschmack auf sportliche Emotionen für jedermann bot.",
+              "uk": "Перше покоління Hyundai Coupe (RD) — це доступний спортивний автомобіль, який привернув увагу своїм сміливим стилем і подарував кожному смак спортивних емоцій.",
+              "ru": "Hyundai Coupe (RD) первого поколения — доступный спортивный автомобиль, привлекший внимание своим смелым стилем и подаривший каждому вкус спортивных эмоций.",
+              "zh": "第一代现代 Coupe (RD) 是一款价格实惠的跑车，以其大胆的造型吸引了人们的关注，为每个人带来了运动情感的品味。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "1996–2002",
+              "segment": {
+                "pl": "Sports Car",
+                "en": "Sports Car",
+                "de": "Sportwagen",
+                "uk": "Спортивний автомобіль",
+                "ru": "Спортивный автомобиль",
+                "zh": "跑车"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 137114,
+        "Brand Name": "Hyundai",
+        "Model Name": "Coupe",
+        "Serie Name": "Coupe Gen 2 (GK)",
+        "Years": "2002 - 2009",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sports Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L / 2.7L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Hyundai Coupe (na niektórych rynkach Tiburon) to sportowe auto, które udowodniło, że styl i emocje mogą być przystępne cenowo. Znane z atrakcyjnej linii nadwozia i podatności na tuning.",
+              "en": "The Hyundai Coupe (Tiburon in some markets) is a sports car that proves that style and emotion can be affordable. Known for their attractive body line and susceptibility to tuning.",
+              "de": "Das Hyundai Coupé (in einigen Märkten Tiburon) ist ein Sportwagen, der beweist, dass Stil und Emotion erschwinglich sein können. Bekannt für ihre attraktive Karosserielinie und ihre Anfälligkeit für Tuning.",
+              "uk": "Hyundai Coupe (Tiburon на деяких ринках) — це спортивний автомобіль, який доводить, що стиль і емоції можуть бути доступними. Відомі своєю привабливою лінією тіла та сприйнятливістю до тюнінгу.",
+              "ru": "Hyundai Coupe (на некоторых рынках — Tiburon) — спортивный автомобиль, доказывающий, что стиль и эмоции могут быть доступными. Известны своей привлекательной линией кузова и податливостью к тюнингу.",
+              "zh": "现代 Coupe（部分市场为 Tiburon）是一款跑车，它证明了风格和情感是可以负担得起的。以其迷人的身体线条和对调音的敏感性而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "1996–2009",
+              "segment": {
+                "pl": "Sports Car",
+                "en": "Sports Car",
+                "de": "Sportwagen",
+                "uk": "Спортивний автомобіль",
+                "ru": "Спортивный автомобиль",
+                "zh": "跑车"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      }
+    ],
+    "Elantra": [
+      {
+        "BrandID": 65,
+        "ModelID": 413187,
+        "Brand Name": "Hyundai",
+        "Model Name": "Elantra",
+        "Serie Name": "Elantra Gen 3 (XD)",
+        "Years": "2000 - 2006",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L / 2.0L / 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Hyundai Elantra trzeciej generacji (XD) to pierwszy model, który zyskał dużą popularność w USA i Europie, oferując solidną mechanikę i przestronne wnętrze w bardzo atrakcyjnej cenie.",
+              "en": "The third generation Hyundai Elantra (XD) is the first model to gain great popularity in the USA and Europe, offering solid mechanics and a spacious interior at a very attractive price.",
+              "de": "Der Hyundai Elantra (XD) der dritten Generation ist das erste Modell, das in den USA und Europa große Popularität erlangt und eine solide Mechanik und einen geräumigen Innenraum zu einem sehr attraktiven Preis bietet.",
+              "uk": "Третє покоління Hyundai Elantra (XD) — перша модель, яка здобула велику популярність у США та Європі, пропонуючи надійну механіку та просторий салон за дуже привабливою ціною.",
+              "ru": "Hyundai Elantra (XD) третьего поколения — первая модель, завоевавшая большую популярность в США и Европе, предлагающая надежную механику и просторный салон по очень привлекательной цене.",
+              "zh": "第三代现代伊兰特 (XD) 是第一款在美国和欧洲广受欢迎的车型，以非常有吸引力的价格提供坚固的机械结构和宽敞的内部空间。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "2000–2006",
+              "segment": {
+                "pl": "C"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4m/46/smrn65usw8ssgowg4sowk/elantra-2011-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 413188,
+        "Brand Name": "Hyundai",
+        "Model Name": "Elantra",
+        "Serie Name": "Elantra Gen 4 (HD)",
+        "Years": "2006 - 2011",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L / 2.0L / 1.6L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Czwarta generacja Elantry (HD) postawiła na bardziej obłe kształty i wyższy komfort resorowania, stając się komfortową propozycją dla rodzin.",
+              "en": "The fourth generation of Elantra (HD) focused on rounder shapes and higher suspension comfort, becoming a comfortable proposition for families.",
+              "de": "Die vierte Generation des Elantra (HD) konzentrierte sich auf rundere Formen und höheren Federungskomfort und wurde zu einem komfortablen Angebot für Familien.",
+              "uk": "Четверте покоління Elantra (HD) зосередилося на округлих формах і підвищеному комфорті підвіски, ставши комфортною пропозицією для сімей.",
+              "ru": "Четвертое поколение Elantra (HD) ориентировано на более округлые формы и повышенный комфорт подвески, что делает его удобным предложением для семей.",
+              "zh": "第四代伊兰特（HD）主打更圆润的造型和更高的悬架舒适性，成为家庭的舒适主张。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "2006–2011",
+              "segment": {
+                "pl": "C"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4m/46/smrn65usw8ssgowg4sowk/elantra-2011-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 413189,
+        "Brand Name": "Hyundai",
+        "Model Name": "Elantra",
+        "Serie Name": "Elantra Gen 5 (MD)",
+        "Years": "2010 - 2016",
+        "specs": {
+          "bodyType": "Sedan/Coupe",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L / 1.8L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Hyundai Elantra V (MD) zaszokowała rynek odważną stylistyką 'Fluidic Sculpture'. To model, który wyglądał znacznie drożej niż kosztował i zdobył tytuł North American Car of the Year 2012.",
+              "en": "Hyundai Elantra V (MD) shocked the market with its bold 'Fluidic Sculpture' styling. It was a model that looked much more expensive than it cost and won the title of North American Car of the Year 2012.",
+              "de": "Der Hyundai Elantra V (MD) schockierte den Markt mit seinem kühnen „Fluidic Sculpture“-Design. Es war ein Modell, das viel teurer aussah als es kostete und den Titel „Nordamerikanisches Auto des Jahres 2012“ gewann.",
+              "uk": "Hyundai Elantra V (MD) шокувала ринок своїм сміливим стилем «Fluidic Sculpture». Це була модель, яка виглядала набагато дорожче, ніж коштувала, і завоювала титул Північноамериканського автомобіля року 2012.",
+              "ru": "Hyundai Elantra V (MD) шокировал рынок своим смелым стилем «Жидкая скульптура». Это была модель, которая выглядела гораздо дороже, чем стоила, и завоевала титул Североамериканского автомобиля года 2012.",
+              "zh": "现代伊兰特 V (MD) 以其大胆的“流体雕塑”造型震惊市场。这是一款看起来比实际价格贵得多的车型，并获得了 2012 北美年度汽车的称号。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "2010–2016",
+              "segment": {
+                "pl": "C"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4m/46/smrn65usw8ssgowg4sowk/elantra-2011-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 414010,
+        "Brand Name": "Hyundai",
+        "Model Name": "Elantra",
+        "Serie Name": "Elantra Gen 6 (AD)",
+        "Years": "2016 - 2020",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L / 2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Szósta generacja Elantry (AD) przyniosła bardziej stonowany, dojrzały design oraz znaczący skok w jakości materiałów wykończeniowych i wyciszeniu kabiny.",
+              "en": "The sixth generation of Elantra (AD) brought a more subdued, mature design and a significant leap in the quality of finishing materials and cabin quietness.",
+              "de": "Die sechste Generation des Elantra (AD) brachte ein dezenteres, ausgereifteres Design und einen deutlichen Sprung in der Qualität der Verarbeitungsmaterialien und der Geräuschlosigkeit im Innenraum.",
+              "uk": "Шосте покоління Elantra (AD) принесло більш стриманий, зрілий дизайн і значний стрибок у якості оздоблювальних матеріалів і тиші в салоні.",
+              "ru": "Шестое поколение Elantra (AD) принесло более сдержанный, зрелый дизайн и существенный скачок в качестве материалов отделки и бесшумности салона.",
+              "zh": "第六代伊兰特 (AD) 带来了更加柔和、成熟的设计，以及饰面材料质量和车内安静度的显着飞跃。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "2016–2020",
+              "segment": {
+                "pl": "C"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4m/46/smrn65usw8ssgowg4sowk/elantra-2011-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 416588,
+        "Brand Name": "Hyundai",
+        "Model Name": "Elantra",
+        "Serie Name": "Elantra Gen 7 (CN7)",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.6L / 2.0L / Hybrid / 2.0L Turbo N",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Hyundai Elantra to globalny bestseller marki. Kompaktowy sedan, który w kolejnych generacjach ewoluował od prostego auta do odważnie stylizowanej limuzyny o sportowym zacięciu.",
+              "en": "Hyundai Elantra is the brand's global bestseller. A compact sedan that, in subsequent generations, evolved from a simple car to a boldly styled limousine with a sporty flair.",
+              "de": "Hyundai Elantra ist der weltweite Bestseller der Marke. Eine kompakte Limousine, die sich in den folgenden Generationen von einem einfachen Auto zu einer gewagt gestalteten Limousine mit sportlichem Flair entwickelte.",
+              "uk": "Hyundai Elantra є світовим бестселером бренду. Компактний седан, який у наступних поколіннях перетворився з простого автомобіля на сміливий лімузин зі спортивним відтінком.",
+              "ru": "Hyundai Elantra — мировой бестселлер бренда. Компактный седан, который в последующих поколениях превратился из простого автомобиля в смелый лимузин со спортивным уклоном.",
+              "zh": "现代伊兰特是该品牌的全球畅销车型。一款紧凑型轿车，在随后的几代产品中，从一辆简单的汽车发展成为一款风格大胆、具有运动风格的豪华轿车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": {
+                "pl": "od 1990",
+                "en": "from 1990",
+                "de": "aus dem Jahr 1990",
+                "uk": "з 1990 року",
+                "ru": "1990 года.",
+                "zh": "1990 年"
+              },
+              "segment": {
+                "pl": "C"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4m/46/smrn65usw8ssgowg4sowk/elantra-2011-sedan.310.jpg"
+        }
+      }
+    ],
+    "Genesis": [
+      {
+        "BrandID": 65,
+        "ModelID": 416313,
+        "Brand Name": "Hyundai",
+        "Model Name": "Genesis",
+        "Serie Name": "Genesis Sedan Gen 1",
+        "Years": "2008 - 2013",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.3L / 3.8L V6 / 4.6L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Pierwszy Hyundai Genesis to przełomowa limuzyna, która udowodniła, że Koreańczycy potrafią stworzyć luksusowe auto z napędem na tył, rzucając wyzwanie uznanym markom premium.",
+              "en": "The first Hyundai Genesis is a groundbreaking limousine that proved that the Koreans can create a luxury rear-drive car, challenging established premium brands.",
+              "de": "Der erste Hyundai Genesis ist eine bahnbrechende Limousine, die bewiesen hat, dass die Koreaner ein Luxusauto mit Heckantrieb schaffen können, das etablierte Premiummarken herausfordert.",
+              "uk": "Перший Hyundai Genesis — це новаторський лімузин, який довів, що корейці можуть створити розкішний задньопривідний автомобіль, кинувши виклик визнаним брендам преміум-класу.",
+              "ru": "Первый Hyundai Genesis — революционный лимузин, доказавший, что корейцы могут создать роскошный заднеприводный автомобиль, бросающий вызов признанным брендам премиум-класса.",
+              "zh": "第一辆现代 Genesis 是一款突破性的豪华轿车，它证明了韩国人可以创造出豪华后轮驱动汽车，挑战现有的高端品牌。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "2008–2013",
+              "segment": {
+                "pl": "E"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2w/dl/eendcjeowsg0o08kco80g/a.310.jpg"
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 416315,
+        "Brand Name": "Hyundai",
+        "Model Name": "Genesis Coupe",
+        "Serie Name": "Genesis Coupe",
+        "Years": "2008 - 2016",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L Turbo / 3.8L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Genesis Coupe to rasowe auto sportowe z napędem na tył (RWD). Duchowy następca modelu Coupe, ale oferujący znacznie poważniejsze osiągi i właściwości jezdne.",
+              "en": "Genesis Coupe is a thoroughbred sports car with rear-wheel drive (RWD). The spiritual successor of the Coupe model, but offering much more serious performance and driving characteristics.",
+              "de": "Genesis Coupé ist ein reinrassiger Sportwagen mit Hinterradantrieb (RWD). Der spirituelle Nachfolger des Coupé-Modells, bietet jedoch wesentlich ernstere Leistungs- und Fahreigenschaften.",
+              "uk": "Genesis Coupe — чистокровний спортивний автомобіль із заднім приводом (RWD). Духовний спадкоємець моделі Coupe, але пропонує набагато серйозніші характеристики та ходові якості.",
+              "ru": "Genesis Coupe — чистокровный спортивный автомобиль с задним приводом (RWD). Духовный наследник модели купе, но обладающий гораздо более серьезными ходовыми качествами и ходовыми качествами.",
+              "zh": "Genesis Coupe 是一款纯种后轮驱动 (RWD) 跑车。 Coupe 车型的精神继承者，但提供更强大的性能和驾驶特性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "2008–2016",
+              "segment": {
+                "pl": "Sports Car",
+                "en": "Sports Car",
+                "de": "Sportwagen",
+                "uk": "Спорткар",
+                "ru": "Спортивный автомобиль",
+                "zh": "跑车"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2w/dl/eendcjeowsg0o08kco80g/a.310.jpg"
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 416314,
+        "Brand Name": "Hyundai",
+        "Model Name": "Genesis",
+        "Serie Name": "Genesis Sedan Gen 2",
+        "Years": "2013 - 2016",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Luxury",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.8L V6 / 5.0L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "5"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Hyundai Genesis to model, który zmienił postrzeganie marki. Luksusowa limuzyna z napędem na tył (lub coupe), która rzuciła wyzwanie niemieckim markom premium i dała początek oddzielnej marce Genesis.",
+              "en": "Hyundai Genesis is a model that changed the perception of the brand. A rear-drive luxury sedan (or coupe) that challenged the German premium brands and gave rise to the separate Genesis brand.",
+              "de": "Hyundai Genesis ist ein Modell, das die Wahrnehmung der Marke verändert hat. Eine Luxuslimousine (oder ein Coupé) mit Heckantrieb, die die deutschen Premiummarken herausforderte und die eigenständige Marke Genesis hervorbrachte.",
+              "uk": "Hyundai Genesis — модель, яка змінила уявлення про бренд. Задньопривідний розкішний седан (або купе), який кинув виклик німецьким брендам преміум-класу та дав початок окремому бренду Genesis.",
+              "ru": "Hyundai Genesis – модель, изменившая представление о бренде. Роскошный заднеприводный седан (или купе), бросивший вызов немецким брендам премиум-класса и породивший отдельный бренд Genesis.",
+              "zh": "现代 Genesis 是一款改变了品牌认知的车型。一款后驱豪华轿车（或轿跑车），挑战了德国高端品牌，并催生了独立的 Genesis 品牌。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "2008–2016",
+              "segment": {
+                "pl": "E"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2w/dl/eendcjeowsg0o08kco80g/a.310.jpg"
+        }
+      }
+    ],
+    "i10": [
+      {
+        "BrandID": 65,
+        "ModelID": 413198,
+        "Brand Name": "Hyundai",
+        "Model Name": "i10",
+        "Serie Name": "i10 Gen 1",
+        "Years": "2007 - 2013",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.1L / 1.2L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Hyundai i10 pierwszej generacji zastąpił model Atos. To zwinne auto miejskie, produkowane m.in. w Indiach, które zdobyło popularność dzięki praktyczności i niskiej cenie.",
+              "en": "The first generation Hyundai i10 replaced the Atos model. This is an agile city car, produced, among others, by: in India, which has gained popularity due to its practicality and low price.",
+              "de": "Der Hyundai i10 der ersten Generation ersetzte das Atos-Modell. Hierbei handelt es sich um ein wendiges Stadtauto, das unter anderem in Indien hergestellt wird und aufgrund seiner Praktikabilität und seines niedrigen Preises an Popularität gewonnen hat.",
+              "uk": "Перше покоління Hyundai i10 прийшло на зміну моделі Atos. Це маневрений міський автомобіль, який виробляється, зокрема, в Індії, який набув популярності завдяки своїй практичності та низькій ціні.",
+              "ru": "Hyundai i10 первого поколения пришел на смену модели Atos. Это маневренный городской автомобиль, выпускаемый, в том числе: в Индии, завоевавший популярность благодаря своей практичности и невысокой цене.",
+              "zh": "第一代现代 i10 取代了 Atos 车型。这是一款敏捷的城市汽车，由以下公司生产：在印度，因其实用性和低廉的价格而广受欢迎。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "2007–2013",
+              "segment": {
+                "pl": "A"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 413199,
+        "Brand Name": "Hyundai",
+        "Model Name": "i10",
+        "Serie Name": "i10 Gen 2",
+        "Years": "2013 - 2019",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.0L / 1.2L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja i10 stała się nieco niższa i szersza, oferując doroślejsze prowadzenie i jedno z najlepszych i najprzestronniejszych wnętrz w segmencie A.",
+              "en": "The second generation of the i10 has become slightly lower and wider, offering more mature driving and one of the best and most spacious interiors in the A segment.",
+              "de": "Die zweite Generation des i10 ist etwas niedriger und breiter geworden und bietet dadurch ein ausgereifteres Fahrverhalten sowie einen der besten und geräumigsten Innenräume im A-Segment.",
+              "uk": "Друге покоління i10 стало трохи нижчим і ширшим, пропонуючи більш зріле водіння та один із найкращих і найпросторіших салонів у сегменті A.",
+              "ru": "Второе поколение i10 стало немного ниже и шире, предлагая более взрослую езду и один из лучших и просторных салонов в сегменте А.",
+              "zh": "第二代 i10 变得稍微更低、更宽，提供更成熟的驾驶体验以及 A 级车中最好、最宽敞的内饰之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "2013–2019",
+              "segment": {
+                "pl": "A"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 416589,
+        "Brand Name": "Hyundai",
+        "Model Name": "i10",
+        "Serie Name": "i10 Gen 3",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.0L / 1.2L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Hyundai i10 to idealne auto miejskie (segment A). Mimo niewielkich rozmiarów zewnętrznych, oferuje jedno z najprzestronniejszych wnętrz w swojej klasie i dojrzałe właściwości jezdne.",
+              "en": "Hyundai i10 is the perfect city car (A segment). Despite its small external dimensions, it offers one of the most spacious interiors in its class and mature driving characteristics.",
+              "de": "Hyundai i10 ist das perfekte Stadtauto (A-Segment). Trotz seiner geringen Außenabmessungen bietet er einen der geräumigsten Innenräume seiner Klasse und ausgereifte Fahreigenschaften.",
+              "uk": "Hyundai i10 — ідеальний міський автомобіль (сегмент А). Незважаючи на невеликі зовнішні розміри, він пропонує один із найпросторіших салонів у своєму класі та відмінні ходові характеристики.",
+              "ru": "Hyundai i10 — идеальный городской автомобиль (сегмент А). Несмотря на небольшие внешние размеры, он предлагает один из самых просторных салонов в своем классе и зрелые ходовые качества.",
+              "zh": "现代 i10 是完美的城市汽车（A 级）。尽管外部尺寸较小，但它提供了同级车中最宽敞的内部空间之一和成熟的驾驶特性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": {
+                "pl": "od 2007",
+                "en": "from 2007",
+                "de": "ab 2007",
+                "uk": "з 2007",
+                "ru": "с 2007 года",
+                "zh": "2007年起"
+              },
+              "segment": {
+                "pl": "A"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      }
+    ],
+    "i20": [
+      {
+        "BrandID": 65,
+        "ModelID": 413200,
+        "Brand Name": "Hyundai",
+        "Model Name": "i20",
+        "Serie Name": "i20 Gen 1 (PB)",
+        "Years": "2008 - 2014",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Subcompact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L / 1.4L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Hyundai i20 pierwszej generacji zastąpił popularnego Getza. Zaprojektowany w europejskim centrum w Niemczech, by lepiej trafić w gusta kierowców na Starym Kontynencie.",
+              "en": "The first generation Hyundai i20 replaced the popular Getz. Designed in the European center in Germany to better suit the tastes of drivers on the Old Continent.",
+              "de": "Der Hyundai i20 der ersten Generation ersetzte den beliebten Getz. Entworfen im europäischen Zentrum in Deutschland, um den Geschmack der Fahrer auf dem Alten Kontinent besser zu treffen.",
+              "uk": "Перше покоління Hyundai i20 прийшло на зміну популярному Getz. Розроблено в європейському центрі в Німеччині, щоб краще відповідати смакам водіїв на Старому континенті.",
+              "ru": "Hyundai i20 первого поколения пришел на смену популярному Getz. Разработан в европейском центре Германии, чтобы лучше соответствовать вкусам водителей Старого континента.",
+              "zh": "第一代现代 i20 取代了流行的 Getz。在德国欧洲中心设计，以更好地适应旧大陆驾驶员的品味。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "2008–2014",
+              "segment": {
+                "pl": "B"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4t/7h/7cd3wnsw8ccw4c8ogskgo/hyundai_i20-south-africa-2015_r5-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 413201,
+        "Brand Name": "Hyundai",
+        "Model Name": "i20",
+        "Serie Name": "i20 Gen 2 (GB)",
+        "Years": "2014 - 2020",
+        "specs": {
+          "bodyType": "Hatchback/Coupe",
+          "segment": "Subcompact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L Turbo / 1.2L / 1.4L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Hyundai i20 drugiej generacji wyróżnia się czarnym słupkiem C tworzącym efekt 'lewitującego dachu' i znacznie przestronniejszym, nowocześniejszym wnętrzem.",
+              "en": "The second generation Hyundai i20 is distinguished by a black C-pillar creating the effect of a 'levitating roof' and a much more spacious, more modern interior.",
+              "de": "Der Hyundai i20 der zweiten Generation zeichnet sich durch eine schwarze C-Säule aus, die den Effekt eines „schwebenden Daches“ erzeugt, und einen deutlich geräumigeren, moderneren Innenraum.",
+              "uk": "Друге покоління Hyundai i20 вирізняється чорною центральною стійкою, що створює ефект «левітуючого даху», а також набагато просторішим і сучаснішим салоном.",
+              "ru": "Hyundai i20 второго поколения отличается черной задней стойкой, создающей эффект «парящей крыши», и гораздо более просторным и современным салоном.",
+              "zh": "第二代现代 i20 的特点是黑色 C 柱，营造出“悬浮车顶”的效果，以及更宽敞、更现代的内饰。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "2014–2020",
+              "segment": {
+                "pl": "B"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4t/7h/7cd3wnsw8ccw4c8ogskgo/hyundai_i20-south-africa-2015_r5-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 416590,
+        "Brand Name": "Hyundai",
+        "Model Name": "i20",
+        "Serie Name": "i20 Gen 3 (BC3)",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Subcompact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.0L Turbo / 1.6L Turbo N",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Hyundai i20 to popularny przedstawiciel segmentu B, rywalizujący z Fordem Fiestą czy VW Polo. Wyróżnia się nowoczesną stylistyką i zaawansowanym wyposażeniem z zakresu bezpieczeństwa.",
+              "en": "Hyundai i20 is a popular representative of the B segment, competing with Ford Fiesta or VW Polo. It is distinguished by its modern style and advanced safety equipment.",
+              "de": "Hyundai i20 ist ein beliebter Vertreter des B-Segments und konkurriert mit Ford Fiesta oder VW Polo. Es zeichnet sich durch seinen modernen Stil und die fortschrittliche Sicherheitsausstattung aus.",
+              "uk": "Hyundai i20 – популярний представник сегменту B, який конкурує з Ford Fiesta або VW Polo. Він відрізняється сучасним стилем і сучасним обладнанням безпеки.",
+              "ru": "Hyundai i20 – популярный представитель B-сегмента, конкурирующий с Ford Fiesta или VW Polo. Его отличает современный стиль и современное оборудование для обеспечения безопасности.",
+              "zh": "现代i20是B级车的流行代表，与福特嘉年华或大众Polo竞争。它以其现代风格和先进的安全设备而著称。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": {
+                "pl": "od 2008",
+                "en": "from 2008",
+                "de": "aus dem Jahr 2008",
+                "uk": "з 2008 року",
+                "ru": "с 2008 года",
+                "zh": "2008 年"
+              },
+              "segment": {
+                "pl": "B"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4t/7h/7cd3wnsw8ccw4c8ogskgo/hyundai_i20-south-africa-2015_r5-jpg.310.jpg"
+        }
+      }
+    ],
+    "i30": [
+      {
+        "BrandID": 65,
+        "ModelID": 413202,
+        "Brand Name": "Hyundai",
+        "Model Name": "i30",
+        "Serie Name": "i30 Gen 1 (FD)",
+        "Years": "2007 - 2012",
+        "specs": {
+          "bodyType": "Hatchback/Wagon",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L / 1.6L / 2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Hyundai i30 to przełomowy model, zaprojektowany od podstaw z myślą o Europie. Jako pierwszy w gamie przyjął oznaczenie 'i', stając się groźnym rywalem Volkswagena Golfa.",
+              "en": "Hyundai i30 is a breakthrough model, designed from scratch with Europe in mind. It was the first in the range to adopt the 'i' marking, becoming a formidable rival to the Volkswagen Golf.",
+              "de": "Der Hyundai i30 ist ein bahnbrechendes Modell, das von Grund auf für Europa entwickelt wurde. Er war der erste Wagen dieser Baureihe, der die „i“-Kennzeichnung trug, und wurde so zu einem ernstzunehmenden Konkurrenten des Volkswagen Golf.",
+              "uk": "Hyundai i30 — це проривна модель, розроблена з нуля з урахуванням Європи. Він був першим у лінійці, який прийняв маркування «i», ставши серйозним суперником Volkswagen Golf.",
+              "ru": "Hyundai i30 — это революционная модель, разработанная с нуля с учетом Европы. Он был первым в линейке, получившим маркировку «i», став грозным конкурентом Volkswagen Golf.",
+              "zh": "现代 i30 是一款突破性车型，从头开始设计时就考虑到了欧洲。它是该系列中第一款采用“i”标记的车型，成为大众高尔夫的强大竞争对手。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "2007–2012",
+              "segment": {
+                "pl": "C"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/29/jb/5bb6mudcc0okos80swgks/i30-ii-hatch.310.jpg"
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 413203,
+        "Brand Name": "Hyundai",
+        "Model Name": "i30",
+        "Serie Name": "i30 Gen 2 (GD)",
+        "Years": "2012 - 2017",
+        "specs": {
+          "bodyType": "Hatchback/Wagon/Coupe",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L / 1.6L / 1.6L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja i30 kontynuowała sukces poprzednika, oferując nowocześniejszy, płynny design i jeszcze wyższą jakość wykończenia, umacniając pozycję Hyundaia w klasie kompakt.",
+              "en": "The second generation of the i30 continued the success of its predecessor, offering a more modern, fluid design and even higher quality of finish, strengthening Hyundai's position in the compact class.",
+              "de": "Die zweite Generation des i30 setzte den Erfolg seines Vorgängers fort und bot ein moderneres, fließenderes Design und eine noch höhere Verarbeitungsqualität, wodurch Hyundais Position in der Kompaktklasse gestärkt wurde.",
+              "uk": "Друге покоління i30 продовжило успіх свого попередника, пропонуючи більш сучасний, плавний дизайн і ще вищу якість обробки, зміцнюючи позиції Hyundai у компактному класі.",
+              "ru": "Второе поколение i30 продолжило успех своего предшественника, предложив более современный, плавный дизайн и еще более высокое качество отделки, укрепив позиции Hyundai в компактном классе.",
+              "zh": "第二代 i30 延续了前代车型的成功，提供了更现代、更流畅的设计以及更高的表面质量，巩固了现代汽车在紧凑型汽车中的地位。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "2012–2017",
+              "segment": {
+                "pl": "C"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/29/jb/5bb6mudcc0okos80swgks/i30-ii-hatch.310.jpg"
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 414007,
+        "Brand Name": "Hyundai",
+        "Model Name": "i30",
+        "Serie Name": "i30 Gen 3 (PD)",
+        "Years": "2017 - 3000",
+        "specs": {
+          "bodyType": "Hatchback/Wagon/Fastback",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "1.0L Turbo / 1.4L Turbo / 2.0L Turbo N",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Hyundai i30 to kompakt, zaprojektowany w Europie i dla Europy. Solidny, przestronny i komfortowy, a w wersji 'N' – jeden z najlepszych hot-hatchy na rynku.",
+              "en": "Hyundai i30 is a compact car, designed in Europe and for Europe. Solid, spacious and comfortable, and in the 'N' version - one of the best hot hatches on the market.",
+              "de": "Hyundai i30 ist ein Kompaktwagen, der in Europa und für Europa entwickelt wurde. Solide, geräumig und komfortabel und in der „N“-Version einer der besten Hot Hatches auf dem Markt.",
+              "uk": "Hyundai i30 — компактний автомобіль, розроблений у Європі та для Європи. Міцний, просторий і комфортний, а у версії «N» — один із найкращих хот-хетчів на ринку.",
+              "ru": "Hyundai i30 — компактный автомобиль, разработанный в Европе и для Европы. Солидный, просторный и комфортный, а в версии «Н» — один из лучших хот-хэтчей на рынке.",
+              "zh": "现代 i30 是一款紧凑型汽车，在欧洲设计并为欧洲服务。坚固、宽敞、舒适，“N”版本是市场上最好的热门掀背车之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": {
+                "pl": "od 2007",
+                "en": "from 2007",
+                "de": "ab 2007",
+                "uk": "з 2007 року",
+                "ru": "с 2007 года",
+                "zh": "2007 年起"
+              },
+              "segment": {
+                "pl": "C"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/29/jb/5bb6mudcc0okos80swgks/i30-ii-hatch.310.jpg"
+        }
+      }
+    ],
+    "Ioniq": [
+      {
+        "BrandID": 65,
+        "ModelID": 415871,
+        "Brand Name": "Hyundai",
+        "Model Name": "Ioniq",
+        "Serie Name": "Ioniq (Hybrid/PHEV/EV)",
+        "Years": "2016 - 2022",
+        "specs": {
+          "bodyType": "Liftback",
+          "segment": "Compact Car",
+          "drive": "FWD",
+          "fuel": "Hybrid/PHEV/Electric",
+          "engine": "1.6L Hybrid / Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Hyundai Ioniq to pierwszy na świecie samochód oferowany z trzema rodzajami napędu zelektryfikowanego: hybrydowym, hybrydowym plug-in i w pełni elektrycznym.",
+              "en": "Hyundai Ioniq is the first car in the world offered with three types of electrified drive: hybrid, plug-in hybrid and fully electric.",
+              "de": "Hyundai Ioniq ist das erste Auto der Welt, das mit drei elektrifizierten Antriebsarten angeboten wird: Hybrid, Plug-in-Hybrid und vollelektrisch.",
+              "uk": "Hyundai Ioniq — це перший у світі автомобіль із трьома типами електрифікованого приводу: гібридним, гібридним і повністю електричним.",
+              "ru": "Hyundai Ioniq — первый в мире автомобиль с тремя типами электрифицированного привода: гибридным, подключаемым гибридным и полностью электрическим.",
+              "zh": "现代 Ioniq 是世界上第一款提供三种电气化驱动方式的汽车：混合动力、插电式混合动力和全电动。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "2016–2022",
+              "segment": {
+                "pl": "C"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 416591,
+        "Brand Name": "Hyundai",
+        "Model Name": "Ioniq 5",
+        "Serie Name": "Ioniq 5",
+        "Years": "2021 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Electric Crossover",
+          "drive": "RWD/AWD",
+          "fuel": "Electric",
+          "engine": "Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Hyundai Ioniq 5 to rewolucyjny crossover elektryczny. Wyróżnia się stylistyką retro-futurystyczną, ultraszybkim ładowaniem (800V) i przestronnym wnętrzem z płaską podłogą.",
+              "en": "Hyundai Ioniq 5 is a revolutionary electric crossover. It is distinguished by retro-futuristic styling, ultra-fast charging (800V) and a spacious interior with a flat floor.",
+              "de": "Hyundai Ioniq 5 ist ein revolutionärer Elektro-Crossover. Es zeichnet sich durch retro-futuristisches Design, ultraschnelles Laden (800 V) und einen geräumigen Innenraum mit flachem Boden aus.",
+              "uk": "Hyundai Ioniq 5 — революційний електричний кросовер. Його відрізняє ретро-футуристичний стиль, надшвидка зарядка (800 В) і просторий салон з рівною підлогою.",
+              "ru": "Hyundai Ioniq 5 — революционный электрический кроссовер. Его отличает ретро-футуристический стиль, сверхбыстрая зарядка (800 В) и просторный салон с ровным полом.",
+              "zh": "现代 Ioniq 5 是一款革命性的电动跨界车。它的特点是复古未来主义风格、超快速充电（800V）以及宽敞的内部空间和平坦的地板。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": {
+                "pl": "od 2021",
+                "en": "from 2021",
+                "de": "ab 2021",
+                "uk": "з 2021 року",
+                "ru": "с 2021 года",
+                "zh": "2021 年起"
+              },
+              "segment": {
+                "pl": "Mid-size Crossover SUV",
+                "en": "Mid-size Crossover SUV",
+                "de": "Mittelgroßer Crossover-SUV",
+                "uk": "Середньорозмірний позашляховик-кросовер",
+                "ru": "Среднеразмерный кроссовер-внедорожник",
+                "zh": "中型跨界 SUV"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 416592,
+        "Brand Name": "Hyundai",
+        "Model Name": "Ioniq 6",
+        "Serie Name": "Ioniq 6",
+        "Years": "2022 - 3000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Electric Sedan",
+          "drive": "RWD/AWD",
+          "fuel": "Electric",
+          "engine": "Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Hyundai Ioniq 6 to 'zelektryfikowany streamliner'. Aerodynamiczny sedan o futurystycznym wyglądzie, oferujący imponujący zasięg i unikalny design wnętrza.",
+              "en": "Hyundai Ioniq 6 is an 'electrified streamliner'. An aerodynamic sedan with a futuristic look, offering impressive range and a unique interior design.",
+              "de": "Hyundai Ioniq 6 ist ein „elektrifizierter Streamliner“. Eine aerodynamische Limousine mit futuristischem Look, beeindruckender Reichweite und einzigartigem Innendesign.",
+              "uk": "Hyundai Ioniq 6 — це «електрифікований обтічний автомобіль». Аеродинамічний седан футуристичного вигляду, який пропонує вражаючий запас ходу та унікальний дизайн інтер’єру.",
+              "ru": "Hyundai Ioniq 6 — «электрифицированный обтекаемый лайнер». Аэродинамический седан футуристического вида, впечатляющий запас хода и уникальный дизайн интерьера.",
+              "zh": "现代 Ioniq 6 是一款“电动流线型”。一款具有未来派外观的空气动力学轿车，提供令人印象深刻的续航里程和独特的内饰设计。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": {
+                "pl": "od 2022",
+                "en": "from 2022",
+                "de": "ab 2022",
+                "uk": "з 2022 року",
+                "ru": "с 2022 года",
+                "zh": "2022 年起"
+              },
+              "segment": {
+                "pl": "Mid-size Sedan",
+                "en": "Mid-size Sedan",
+                "de": "Mittelklasse-Limousine",
+                "uk": "Середньорозмірний седан",
+                "ru": "Среднеразмерный седан",
+                "zh": "中型轿车"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Kona": [
+      {
+        "BrandID": 65,
+        "ModelID": 415239,
+        "Brand Name": "Hyundai",
+        "Model Name": "Kona",
+        "Serie Name": "Kona Gen 1",
+        "Years": "2017 - 2023",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Subcompact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid/Electric",
+          "engine": "1.0L Turbo / 1.6L Turbo / Electric / 2.0L Turbo N",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Hyundai Kona to odważnie stylizowany subkompaktowy SUV. Oferuje wersje spalinowe, hybrydowe i elektryczne, a także sportową odmianę N.",
+              "en": "Hyundai Kona is a boldly styled subcompact SUV. It offers combustion, hybrid and electric versions, as well as a sports version N.",
+              "de": "Hyundai Kona ist ein kühn gestalteter Kleinwagen-SUV. Es gibt Verbrenner-, Hybrid- und Elektroversionen sowie eine Sportversion N.",
+              "uk": "Hyundai Kona — це сміливий субкомпактний позашляховик. Він пропонує двигуни внутрішнього згоряння, гібридні та електричні версії, а також спортивну версію N.",
+              "ru": "Hyundai Kona — компактный внедорожник со смелым дизайном. Он предлагает версии с двигателем внутреннего сгорания, гибридную и электрическую версии, а также спортивную версию N.",
+              "zh": "现代 Kona 是一款风格大胆的超小型 SUV。它提供燃烧、混合动力和电动版本，以及运动版本 N。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": {
+                "pl": "od 2017",
+                "en": "from 2017",
+                "de": "ab 2017",
+                "uk": "з 2017 року",
+                "ru": "с 2017 года",
+                "zh": "2017 年起"
+              },
+              "segment": {
+                "pl": "B-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 416593,
+        "Brand Name": "Hyundai",
+        "Model Name": "Kona",
+        "Serie Name": "Kona Gen 2",
+        "Years": "2023 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Subcompact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid/Electric",
+          "engine": "1.6L Turbo / 2.0L / Hybrid / Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja Hyundai Kona urosła i zyskała jeszcze bardziej futurystyczny wygląd (robocop). Oferuje więcej przestrzeni i zaawansowane technologie.",
+              "en": "The second generation of Hyundai Kona has grown and gained an even more futuristic appearance (robocop). It offers more space and advanced technologies.",
+              "de": "Die zweite Generation des Hyundai Kona ist gewachsen und hat ein noch futuristischeres Aussehen erhalten (Robocop). Es bietet mehr Platz und fortschrittliche Technologien.",
+              "uk": "Друге покоління Hyundai Kona виросло та набуло ще більш футуристичного вигляду (робокоп). Він пропонує більше простору та передові технології.",
+              "ru": "Второе поколение Hyundai Kona подросло и приобрело еще более футуристический внешний вид (робокоп). Он предлагает больше пространства и передовые технологии.",
+              "zh": "第二代现代 Kona 已经成长并获得了更具未来感的外观（机械战警）。它提供了更多的空间和先进的技术。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": {
+                "pl": "od 2023",
+                "en": "from 2023",
+                "de": "ab 2023",
+                "uk": "з 2023 року",
+                "ru": "с 2023 года",
+                "zh": "2023 年起"
+              },
+              "segment": {
+                "pl": "B-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Palisade": [
+      {
+        "BrandID": 65,
+        "ModelID": 416298,
+        "Brand Name": "Hyundai",
+        "Model Name": "Palisade",
+        "Serie Name": "Palisade",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.5L V6 / 3.8L V6 / 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Hyundai Palisade to flagowy, największy SUV w ofercie marki w USA. Oferuje trzy rzędy siedzeń, luksusowe wykończenie i potężny silnik V6.",
+              "en": "Hyundai Palisade is the flagship, largest SUV in the brand's offer in the USA. It offers three rows of seats, luxurious finishes and a powerful V6 engine.",
+              "de": "Hyundai Palisade ist das Flaggschiff und größte SUV im Angebot der Marke in den USA. Es bietet drei Sitzreihen, luxuriöse Oberflächen und einen leistungsstarken V6-Motor.",
+              "uk": "Hyundai Palisade — флагман, найбільший позашляховик у пропозиції бренду в США. Він пропонує три ряди сидінь, розкішне оздоблення та потужний двигун V6.",
+              "ru": "Hyundai Palisade — флагманский и самый большой внедорожник, предлагаемый брендом в США. Он предлагает три ряда сидений, роскошную отделку и мощный двигатель V6.",
+              "zh": "现代 Palisade 是该品牌在美国提供的旗舰、最大的 SUV。它提供三排座椅、豪华饰面和强大的 V6 发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "from 2018",
+                "de": "ab 2018",
+                "uk": "з 2018 року",
+                "ru": "с 2018 года",
+                "zh": "2018 年起"
+              },
+              "segment": {
+                "pl": "Full-size SUV",
+                "en": "Full-size SUV",
+                "de": "Full-Size-SUV",
+                "uk": "Повнорозмірний позашляховик",
+                "ru": "Полноразмерный внедорожник",
+                "zh": "全尺寸 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Santa Fe": [
+      {
+        "BrandID": 65,
+        "ModelID": 4615,
+        "Brand Name": "Hyundai",
+        "Model Name": "Santa Fe",
+        "Serie Name": "Santa Fe Gen 1 (SM)",
+        "Years": "2000 - 2006",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L / 2.4L / 2.7L V6 / 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Hyundai Santa Fe pierwszej generacji (SM) był pierwszym SUV-em marki, który odniósł ogromny sukces w USA, chwalony za praktyczność i wysoką bezawaryjność.",
+              "en": "The first-generation Hyundai Santa Fe (SM) was the brand's first SUV to achieve huge success in the US, praised for its practicality and high reliability.",
+              "de": "Der Hyundai Santa Fe (SM) der ersten Generation war der erste SUV der Marke, der in den USA großen Erfolg hatte und für seine Praktikabilität und hohe Zuverlässigkeit gelobt wurde.",
+              "uk": "Hyundai Santa Fe (SM) першого покоління був першим позашляховиком бренду, який досяг величезного успіху в США, отримавши похвалу за практичність і високу надійність.",
+              "ru": "Hyundai Santa Fe (SM) первого поколения стал первым внедорожником марки, имевшим огромный успех в США и получившим высокую оценку за практичность и высокую надежность.",
+              "zh": "第一代现代 Santa Fe (SM) 是该品牌首款在美国取得巨大成功的 SUV，因其实用性和高可靠性而受到赞誉。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "2000–2006",
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Позашляховик середнього розміру",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8w/1v/f5cw0wsgw8scgcoo8w0cw/hyundai_santa-fe-2012_r30-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 142237,
+        "Brand Name": "Hyundai",
+        "Model Name": "Santa Fe",
+        "Serie Name": "Santa Fe Gen 2 (CM)",
+        "Years": "2006 - 2012",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.2L Diesel / 2.7L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja Santa Fe (CM) urosła i zyskała opcjonalny trzeci rząd siedzeń, stając się pełnoprawnym, rodzinnym SUV-em o nowoczesnej stylizacji.",
+              "en": "The second generation Santa Fe (CM) has grown and gained an optional third row of seats, becoming a full-fledged family SUV with modern styling.",
+              "de": "Der Santa Fe (CM) der zweiten Generation ist gewachsen und hat optional eine dritte Sitzreihe erhalten und ist zu einem vollwertigen Familien-SUV mit modernem Design geworden.",
+              "uk": "Друге покоління Santa Fe (CM) виросло і отримало додатковий третій ряд сидінь, ставши повноцінним сімейним позашляховиком із сучасним стилем.",
+              "ru": "Santa Fe (CM) второго поколения подрос и получил опциональный третий ряд сидений, став полноценным семейным внедорожником с современным стилем.",
+              "zh": "第二代圣达菲（CM）已经成长并增加了可选的第三排座椅，成为一款具有现代风格的成熟家庭SUV。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "2006–2012",
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний SUV",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8w/1v/f5cw0wsgw8scgcoo8w0cw/hyundai_santa-fe-2012_r30-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 155523,
+        "Brand Name": "Hyundai",
+        "Model Name": "Santa Fe",
+        "Serie Name": "Santa Fe Gen 3 (DM)",
+        "Years": "2012 - 2018",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L / 2.2L Diesel / 2.4L / 3.3L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "3",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Santa Fe trzeciej generacji (DM) wprowadził design 'Storm Edge'. Oferował wyposażenie premium i mocne silniki, wprost celując w wyższą półkę.",
+              "en": "The third generation Santa Fe (DM) introduced the 'Storm Edge' design. It offered premium equipment and powerful engines, aimed squarely at the higher end.",
+              "de": "Der Santa Fe (DM) der dritten Generation führte das „Storm Edge“-Design ein. Er bot eine Premium-Ausstattung und leistungsstarke Motoren, die ganz auf das gehobene Preissegment ausgerichtet waren.",
+              "uk": "Третє покоління Santa Fe (DM) представило дизайн «Storm Edge». Він пропонував обладнання преміум-класу та потужні двигуни, спрямовані прямо на вищий рівень.",
+              "ru": "Третье поколение Santa Fe (DM) получило дизайн Storm Edge. Он предлагал оборудование премиум-класса и мощные двигатели, ориентированные исключительно на более высокий уровень.",
+              "zh": "第三代Santa Fe (DM) 引入“Storm Edge”设计。它提供优质的设备和强大的发动机，瞄准高端市场。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "2012–2018",
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний SUV",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8w/1v/f5cw0wsgw8scgcoo8w0cw/hyundai_santa-fe-2012_r30-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 415522,
+        "Brand Name": "Hyundai",
+        "Model Name": "Santa Fe",
+        "Serie Name": "Santa Fe Gen 4 (TM)",
+        "Years": "2018 - 2023",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "2.0L Turbo / 2.2L Diesel / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Czwarta generacja Santa Fe (TM) wyróżnia się charakterystycznym pasem przednim z dzielonymi reflektorami oraz bogatym pakietem systemów bezpieczeństwa SmartSense.",
+              "en": "The fourth generation of Santa Fe (TM) is distinguished by a characteristic front fascia with divided headlights and a rich package of SmartSense safety systems.",
+              "de": "Die vierte Generation des Santa Fe(TM) zeichnet sich durch eine charakteristische Frontverkleidung mit geteilten Scheinwerfern und einem reichhaltigen Paket an SmartSense-Sicherheitssystemen aus.",
+              "uk": "Четверте покоління Santa Fe (TM) вирізняється характерною передньою панеллю з розділеними фарами та багатим пакетом систем безпеки SmartSense.",
+              "ru": "Четвертое поколение Santa Fe (TM) отличается характерной передней панелью с разделенными фарами и богатым пакетом систем безопасности SmartSense.",
+              "zh": "第四代Santa Fe (TM) 的特点是独特的前仪表板、分体式大灯和丰富的SmartSense 安全系统。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "2018–2023",
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний позашляховик",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8w/1v/f5cw0wsgw8scgcoo8w0cw/hyundai_santa-fe-2012_r30-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 416594,
+        "Brand Name": "Hyundai",
+        "Model Name": "Santa Fe",
+        "Serie Name": "Santa Fe Gen 5 (MX5)",
+        "Years": "2023 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.5L Turbo / 1.6L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Najnowsza generacja Santa Fe (MX5) szokuje pudełkowatym, futurystycznym designem, maksymalizując przestrzeń wewnątrz w stylu nawiązującym do klasycznych terenówek.",
+              "en": "The latest generation of Santa Fe (MX5) shocks with its boxy, futuristic design, maximizing interior space in a style reminiscent of classic off-road vehicles.",
+              "de": "Die neueste Generation des Santa Fe (MX5) überrascht mit seinem kastenförmigen, futuristischen Design, das den Innenraum in einem Stil maximiert, der an klassische Geländefahrzeuge erinnert.",
+              "uk": "Останнє покоління Santa Fe (MX5) вражає своїм квадратним, футуристичним дизайном, максимізуючи внутрішній простір у стилі, що нагадує класичні позашляховики.",
+              "ru": "Последнее поколение Santa Fe (MX5) поражает своим квадратным футуристическим дизайном, максимально увеличивающим внутреннее пространство в стиле, напоминающем классические внедорожники.",
+              "zh": "最新一代圣达菲 (MX5) 以其四四方方的未来主义设计令人震惊，最大限度地利用了内部空间，其风格让人想起经典越野车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": {
+                "pl": "od 2023",
+                "en": "from 2023",
+                "de": "ab 2023",
+                "uk": "з 2023 року",
+                "ru": "с 2023 года",
+                "zh": "2023年起"
+              },
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний SUV",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8w/1v/f5cw0wsgw8scgcoo8w0cw/hyundai_santa-fe-2012_r30-jpg.310.jpg"
+        }
+      }
+    ],
+    "Sonata": [
+      {
+        "BrandID": 65,
+        "ModelID": 255287,
+        "Brand Name": "Hyundai",
+        "Model Name": "Sonata",
+        "Serie Name": "Sonata Gen 4 (EF)",
+        "Years": "1998 - 2004",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L / 2.4L / 2.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Hyundai Sonata czwartej generacji (EF) to limuzyna, która zaczęła poważnie zagrażać japońskiej konkurencji, oferując elegancki wygląd i bogate wyposażenie standardowe.",
+              "en": "The fourth generation Hyundai Sonata (EF) is a limousine that has begun to seriously threaten the Japanese competition, offering an elegant appearance and rich standard equipment.",
+              "de": "Der Hyundai Sonata (EF) der vierten Generation ist eine Limousine, die mit einem eleganten Erscheinungsbild und einer reichhaltigen Serienausstattung begonnen hat, die japanische Konkurrenz ernsthaft zu bedrohen.",
+              "uk": "Четверте покоління Hyundai Sonata (EF) — це лімузин, який почав серйозно загрожувати японським конкурентам, пропонуючи елегантний зовнішній вигляд і багате стандартне обладнання.",
+              "ru": "Hyundai Sonata (EF) четвертого поколения — лимузин, который начал серьезно угрожать японским конкурентам, предлагая элегантный внешний вид и богатую стандартную комплектацию.",
+              "zh": "第四代现代索纳塔（EF）是一款开始严重威胁日本竞争对手的豪华轿车，拥有优雅的外观和丰富的标准装备。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "1998–2004",
+              "segment": {
+                "pl": "D"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/c1/8f/zmp79nso8sko0wo8o0wkw/sonata-iv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 256351,
+        "Brand Name": "Hyundai",
+        "Model Name": "Sonata",
+        "Serie Name": "Sonata Gen 5 (NF)",
+        "Years": "2004 - 2009",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L / 2.4L / 3.3L V6 / 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Piąta generacja Sonaty (NF) została zaprojektowana z myślą o globalnym sukcesie. Prosta, elegancka linia i solidna budowa sprawiły, że stała się hitem sprzedażowym.",
+              "en": "The fifth generation Sonata (NF) was designed for global success. The simple, elegant line and solid construction made it a sales hit.",
+              "de": "Die Sonata (NF) der fünften Generation wurde für den weltweiten Erfolg konzipiert. Die schlichte, elegante Linie und die solide Konstruktion machten es zu einem Verkaufsschlager.",
+              "uk": "П’яте покоління Sonata (NF) було розроблено для глобального успіху. Проста, елегантна лінія та міцна конструкція зробили його хітом продажів.",
+              "ru": "Пятое поколение Sonata (NF) было создано для глобального успеха. Простая, элегантная линия и прочная конструкция сделали его хитом продаж.",
+              "zh": "第五代索纳塔 (NF) 专为全球成功而设计。简洁、优雅的线条和坚固的结构使其畅销。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "2004–2009",
+              "segment": {
+                "pl": "D"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/c1/8f/zmp79nso8sko0wo8o0wkw/sonata-iv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 412958,
+        "Brand Name": "Hyundai",
+        "Model Name": "Sonata",
+        "Serie Name": "Sonata Gen 6 (YF)",
+        "Years": "2009 - 2014",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.0L / 2.4L / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Sonata szóstej generacji (YF) to rewolucja stylistyczna. Jej płynne linie 'Fluidic Sculpture' sprawiły, że auto wyglądało jak sportowe coupe, a nie rodzinny sedan.",
+              "en": "The sixth generation Sonata (YF) is a stylistic revolution. Its flowing 'Fluidic Sculpture' lines made the car look like a sports coupe rather than a family sedan.",
+              "de": "Die Sonate der sechsten Generation (YF) ist eine stilistische Revolution. Seine fließenden „Fluidic Sculpture“-Linien ließen das Auto eher wie ein Sportcoupé als wie eine Familienlimousine aussehen.",
+              "uk": "Соната шостого покоління (YF) — це стилістична революція. Його плавні лінії «Fluidic Sculpture» зробили автомобіль схожим на спортивне купе, а не на сімейний седан.",
+              "ru": "Соната шестого поколения (YF) — это стилистическая революция. Плавные линии «жидкой скульптуры» сделали автомобиль похожим на спортивное купе, а не на семейный седан.",
+              "zh": "第六代奏鸣曲（YF）是一场风格革命。其流畅的“流体雕塑”线条使该车看起来像一辆运动轿跑车，而不是一辆家庭轿车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "2009–2014",
+              "segment": {
+                "pl": "D"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/c1/8f/zmp79nso8sko0wo8o0wkw/sonata-iv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 413700,
+        "Brand Name": "Hyundai",
+        "Model Name": "Sonata",
+        "Serie Name": "Sonata Gen 7 (LF)",
+        "Years": "2014 - 2019",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.6L Turbo / 2.0L Turbo / 2.4L / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "5"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Siódma generacja Sonaty (LF) postawiła na bardziej konserwatywny design i dopracowanie szczegółów, oferując wyciszenie i komfort jazdy na poziomie klasy premium.",
+              "en": "The seventh generation of Sonata (LF) focused on a more conservative design and refinement of details, offering silence and premium driving comfort.",
+              "de": "Die siebte Generation des Sonata (LF) konzentrierte sich auf ein konservativeres Design und verfeinerte Details und bot Geräuschlosigkeit und erstklassigen Fahrkomfort.",
+              "uk": "Сьоме покоління Sonata (LF) зосереджено на більш консервативному дизайні та витонченості деталей, пропонуючи тишу та преміальний комфорт водіння.",
+              "ru": "Седьмое поколение Sonata (LF) ориентировано на более консервативный дизайн и изысканность деталей, предлагая тишину и премиальный комфорт вождения.",
+              "zh": "第七代索纳塔（LF）注重更加保守的设计和细节的精致，提供安静和优质的驾驶舒适性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "2014–2019",
+              "segment": {
+                "pl": "D"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/c1/8f/zmp79nso8sko0wo8o0wkw/sonata-iv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 416383,
+        "Brand Name": "Hyundai",
+        "Model Name": "Sonata",
+        "Serie Name": "Sonata Gen 8 (DN8)",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.6L Turbo / 2.5L / 2.5L Turbo N-Line / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Najnowsza Sonata (DN8) powraca do odważnych linii w stylu 'Sensuous Sportiness', z charakterystycznymi światłami LED ciągnącymi się wzdłuż maski.",
+              "en": "The latest Sonata (DN8) returns to bold lines in the 'Sensuous Sportiness' style, with distinctive LED lights stretching along the hood.",
+              "de": "Der neueste Sonata (DN8) kehrt zu kräftigen Linien im „Sensuous Sportiness“-Stil zurück, mit markanten LED-Leuchten, die sich entlang der Motorhaube erstrecken.",
+              "uk": "Остання Sonata (DN8) повертається до сміливих ліній у стилі «Чуттєвої спортивності» з характерними світлодіодними ліхтарями, що тягнуться вздовж капота.",
+              "ru": "Последняя Sonata (DN8) возвращается к смелым линиям в стиле «Чувственная спортивность» с характерными светодиодными фонарями, тянущимися вдоль капота.",
+              "zh": "最新的索纳塔 (DN8) 回归“感性运动”风格的大胆线条，独特的 LED 灯沿着引擎盖延伸。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019 року",
+                "ru": "от 2019 года.",
+                "zh": "2019 年起"
+              },
+              "segment": {
+                "pl": "D"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/c1/8f/zmp79nso8sko0wo8o0wkw/sonata-iv.310.jpg"
+        }
+      }
+    ],
+    "Staria": [
+      {
+        "BrandID": 65,
+        "ModelID": 416595,
+        "Brand Name": "Hyundai",
+        "Model Name": "Staria",
+        "Serie Name": "Staria",
+        "Years": "2021 - 3000",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Minivan",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "2.2L Diesel / 3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Hyundai Staria to futurystyczny minivan, który wygląda jak statek kosmiczny. Oferuje ogromną przestrzeń i luksusowe warunki podróży dla pasażerów.",
+              "en": "Hyundai Staria is a futuristic minivan that looks like a spaceship. It offers huge space and luxurious travel conditions for passengers.",
+              "de": "Hyundai Staria ist ein futuristischer Minivan, der wie ein Raumschiff aussieht. Es bietet den Passagieren viel Platz und luxuriöse Reisebedingungen.",
+              "uk": "Hyundai Staria — футуристичний мінівен, схожий на космічний корабель. Він пропонує величезний простір і розкішні умови подорожі для пасажирів.",
+              "ru": "Hyundai Staria — футуристический минивэн, похожий на космический корабль. Он предлагает пассажирам огромное пространство и роскошные условия путешествия.",
+              "zh": "现代 Staria 是一款看起来像宇宙飞船的未来派小型货车。为旅客提供了宽敞的空间和豪华的出行条件。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": {
+                "pl": "od 2021",
+                "en": "from 2021",
+                "de": "ab 2021",
+                "uk": "з 2021 року",
+                "ru": "с 2021 года",
+                "zh": "2021 年起"
+              },
+              "segment": {
+                "pl": "Minivan"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Tucson": [
+      {
+        "BrandID": 65,
+        "ModelID": 413209,
+        "Brand Name": "Hyundai",
+        "Model Name": "Tucson",
+        "Serie Name": "Tucson Gen 1 (JM)",
+        "Years": "2004 - 2009",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L / 2.7L V6 / 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Hyundai Tucson pierwszej generacji (JM) to kompaktowy SUV, który dzięki przystępnej cenie i niezawodności stał się jednym z najpopularniejszych aut w swojej klasie.",
+              "en": "The first generation Hyundai Tucson (JM) is a compact SUV that, thanks to its affordable price and reliability, has become one of the most popular cars in its class.",
+              "de": "Der Hyundai Tucson (JM) der ersten Generation ist ein kompakter SUV, der sich dank seines günstigen Preises und seiner Zuverlässigkeit zu einem der beliebtesten Autos seiner Klasse entwickelt hat.",
+              "uk": "Перше покоління Hyundai Tucson (JM) — компактний позашляховик, який завдяки доступній ціні та надійності став одним із найпопулярніших автомобілів у своєму класі.",
+              "ru": "Hyundai Tucson (JM) первого поколения — компактный внедорожник, который благодаря доступной цене и надежности стал одним из самых популярных автомобилей в своем классе.",
+              "zh": "第一代现代途胜 (JM) 是一款紧凑型 SUV，凭借其实惠的价格和可靠性，已成为同类产品中最受欢迎的汽车之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "2004–2009",
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 413210,
+        "Brand Name": "Hyundai",
+        "Model Name": "Tucson",
+        "Serie Name": "Tucson Gen 2 (LM)",
+        "Years": "2009 - 2015",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L / 2.4L / 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja Tucsona (LM), znana w Europie jako ix35, wprowadziła nowoczesny styl i znacznie lepszą jakość wykonania, zrywając z budżetowym wizerunkiem.",
+              "en": "The second generation of the Tucson (LM), known in Europe as the ix35, introduced modern styling and significantly improved build quality, breaking away from its budget image.",
+              "de": "Die zweite Generation des Tucson (LM), in Europa als ix35 bekannt, führte ein modernes Design und eine deutlich verbesserte Verarbeitungsqualität ein und löste sich damit von seinem Budget-Image.",
+              "uk": "Друге покоління Tucson (LM), відомого в Європі як ix35, представило сучасний стиль і значно покращило якість збірки, відійшовши від свого бюджетного образу.",
+              "ru": "Второе поколение Tucson (LM), известное в Европе как ix35, отличалось современным дизайном и значительно улучшенным качеством сборки, оторвавшись от своего бюджетного имиджа.",
+              "zh": "第二代 Tucson (LM)，在欧洲被称为 ix35，引入了现代风格并显着提高了制造质量，打破了其廉价形象。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "2009–2015",
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 414008,
+        "Brand Name": "Hyundai",
+        "Model Name": "Tucson",
+        "Serie Name": "Tucson Gen 3 (TL)",
+        "Years": "2015 - 2020",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L Turbo / 2.0L / 1.7L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Trzecia generacja Tucsona (TL) to dojrzały, elegancki SUV, który designem nawiązywał do większego Santa Fe, oferując przy tym nowoczesne silniki turbo.",
+              "en": "The third generation of Tucson (TL) is a mature, elegant SUV whose design refers to the larger Santa Fe, while offering modern turbo engines.",
+              "de": "Die dritte Generation des Tucson (TL) ist ein ausgereifter, eleganter SUV, dessen Design an den größeren Santa Fe angelehnt ist und gleichzeitig über moderne Turbomotoren verfügt.",
+              "uk": "Третє покоління Tucson (TL) — це зрілий, елегантний позашляховик, дизайн якого нагадує більший Santa Fe, але пропонує сучасні турбодвигуни.",
+              "ru": "Третье поколение Tucson (TL) — это зрелый, элегантный внедорожник, дизайн которого напоминает более крупный Santa Fe, но при этом оснащен современными двигателями с турбонаддувом.",
+              "zh": "第三代Tucson (TL) 是一款成熟、优雅的SUV，其设计参考了更大的Santa Fe，同时配备了现代涡轮发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "2015–2020",
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 414009,
+        "Brand Name": "Hyundai",
+        "Model Name": "Tucson",
+        "Serie Name": "Tucson Gen 4 (NX4)",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid/PHEV",
+          "engine": "1.6L Turbo / 2.5L / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Najnowszy Tucson (NX4) zrewolucjonizował rynek swoim futurystycznym frontem z ukrytymi światłami 'Parametric Jewels', stając się ikoną nowoczesnego designu.",
+              "en": "The latest Tucson (NX4) revolutionized the market with its futuristic front with hidden 'Parametric Jewels' lights, becoming an icon of modern design.",
+              "de": "Der neueste Tucson (NX4) revolutionierte den Markt mit seiner futuristischen Front mit versteckten „Parametric Jewels“-Leuchten und wurde zu einer Ikone des modernen Designs.",
+              "uk": "Останній Tucson (NX4) зробив революцію на ринку завдяки своїй футуристичній передній частині з прихованими ліхтарями «Parametric Jewels», ставши іконою сучасного дизайну.",
+              "ru": "Последний Tucson (NX4) произвел революцию на рынке благодаря своей футуристической передней части со скрытыми фарами «Параметрические драгоценности», став иконой современного дизайна.",
+              "zh": "最新款 Tucson (NX4) 以其未来派的前脸和隐藏的“参数珠宝”灯彻底改变了市场，成为现代设计的标志。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": {
+                "pl": "od 2020",
+                "en": "from 2020",
+                "de": "ab 2020",
+                "uk": "з 2020 року",
+                "ru": "с 2020 года",
+                "zh": "2020 年起"
+              },
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Der kompakte SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      }
+    ],
+    "Veloster": [
+      {
+        "BrandID": 65,
+        "ModelID": 720,
+        "Brand Name": "Hyundai",
+        "Model Name": "Veloster",
+        "Serie Name": "Veloster Gen 1",
+        "Years": "2011 - 2017",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sport Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L / 1.6L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Hyundai Veloster to unikalne coupe z asymetrycznym układem drzwi (jedne z lewej, dwoje z prawej). Wyróżnia się odważnym designem i centralnie umieszczonym wydechem.",
+              "en": "Hyundai Veloster is a unique coupe with an asymmetric door arrangement (one on the left, two on the right). It is distinguished by a bold design and a centrally placed exhaust.",
+              "de": "Hyundai Veloster ist ein einzigartiges Coupé mit asymmetrischer Türanordnung (eine links, zwei rechts). Es zeichnet sich durch ein markantes Design und einen zentral platzierten Auspuff aus.",
+              "uk": "Hyundai Veloster — унікальне купе з асиметричним розташуванням дверей (одна зліва, дві справа). Він вирізняється сміливим дизайном і центральним розташуванням вихлопу.",
+              "ru": "Hyundai Veloster – уникальное купе с асимметричным расположением дверей (одна слева, две справа). Его отличает смелый дизайн и центрально расположенный выхлоп.",
+              "zh": "现代 Veloster 是一款独特的轿跑车，采用不对称车门布置（左侧一个，右侧两个）。它的特点是大胆的设计和中央排气装置。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "2011–2017",
+              "segment": {
+                "pl": "Sport Compact",
+                "en": "Sport Compact",
+                "de": "Sport Compact",
+                "uk": "Sport Compact",
+                "ru": "Sport Compact",
+                "zh": "运动紧凑型"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8b/am/f5ck1hc04gkcs8w804cg8/veloster.310.jpg"
+        }
+      },
+      {
+        "BrandID": 65,
+        "ModelID": 416596,
+        "Brand Name": "Hyundai",
+        "Model Name": "Veloster",
+        "Serie Name": "Veloster Gen 2",
+        "Years": "2018 - 2022",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sport Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L / 1.6L Turbo / 2.0L Turbo N",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja Hyundai Veloster zachowała unikalny układ drzwi 2+1, ale zyskała bardziej dojrzały design i lepsze osiągi. Wersja N stała się ikoną hot-hatchy.",
+              "en": "The second generation of Hyundai Veloster retained the unique 2+1 door arrangement, but gained a more mature design and better performance. The N version has become a hot-hatch icon.",
+              "de": "Die zweite Generation des Hyundai Veloster behielt die einzigartige 2+1-Türanordnung bei, erhielt jedoch ein ausgereifteres Design und eine bessere Leistung. Die N-Version ist zu einer Hot-Hatch-Ikone geworden.",
+              "uk": "Друге покоління Hyundai Veloster зберегло унікальне розташування дверей 2+1, але отримало більш зрілий дизайн і кращі характеристики. Версія N стала іконою хот-хетча.",
+              "ru": "Второе поколение Hyundai Veloster сохранило уникальное расположение дверей 2+1, но приобрело более зрелый дизайн и лучшие характеристики. Версия N стала иконой горячего хэтчбека.",
+              "zh": "第二代现代 Veloster 保留了独特的 2+1 车门布置，但获得了更成熟的设计和更好的性能。 N 版本已成为热门孵化图标。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": "2018–2022",
+              "segment": {
+                "pl": "Sport Compact",
+                "en": "Sport Compact",
+                "de": "Sport Compact",
+                "uk": "Sport Compact",
+                "ru": "Sport Compact",
+                "zh": "运动紧凑型"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8b/am/f5ck1hc04gkcs8w804cg8/veloster.310.jpg"
+        }
+      }
+    ],
+    "Venue": [
+      {
+        "BrandID": 65,
+        "ModelID": 416597,
+        "Brand Name": "Hyundai",
+        "Model Name": "Venue",
+        "Serie Name": "Venue",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Subcompact SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.0L Turbo / 1.2L / 1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Hyundai Venue to najmniejszy i najtańszy SUV w ofercie marki w USA. Mimo niewielkich rozmiarów, oferuje pudełkowate, praktyczne nadwozie i zaskakującą przestronność.",
+              "en": "Hyundai Venue is the smallest and cheapest SUV in the brand's offer in the USA. Despite its small size, it offers a boxy, practical body and surprising spaciousness.",
+              "de": "Hyundai Venue ist der kleinste und günstigste SUV im Angebot der Marke in den USA. Trotz seiner geringen Größe bietet es einen kastenförmigen, praktischen Körper und überraschende Geräumigkeit.",
+              "uk": "Hyundai Venue — найменший і найдешевший позашляховик у пропозиції бренду в США. Незважаючи на невеликі розміри, він пропонує компактний, практичний корпус і дивовижну місткість.",
+              "ru": "Hyundai Venue — самый маленький и дешевый внедорожник в предложении бренда в США. Несмотря на свои небольшие размеры, он имеет квадратный, практичный корпус и удивительную вместительность.",
+              "zh": "Hyundai Venue 是该品牌在美国提供的产品中最小、最便宜的 SUV。尽管尺寸较小，但它具有四四方方、实用的机身和令人惊讶的宽敞空间。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hyundai"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019",
+                "ru": "от 2019 г.",
+                "zh": "2019 年起"
+              },
+              "segment": {
+                "pl": "Subcompact SUV",
+                "en": "Subcompact SUV",
+                "de": "Kleinwagen-SUV",
+                "uk": "Субкомпактний позашляховик",
+                "ru": "Малолитражный внедорожник",
+                "zh": "小型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

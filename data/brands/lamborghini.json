@@ -1,0 +1,439 @@
+{
+  "brand": "Lamborghini",
+  "models": {
+    "Aventador": [
+      {
+        "BrandID": 77,
+        "ModelID": 414413,
+        "Brand Name": "Lamborghini",
+        "Model Name": "Aventador",
+        "Serie Name": "Aventador",
+        "Years": "2011 - 2022",
+        "specs": {
+          "bodyType": "Coupe/Roadster",
+          "segment": "Supercar",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "6.5L V12",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lamborghini Aventador to flagowy model marki z silnikiem V12. Jego kosmiczny wygląd i osiągi czynią go ikoną współczesnych supersamochodów.",
+              "en": "Lamborghini Aventador is the brand's flagship model with a V12 engine. Its space-age appearance and performance make it an icon of modern supercars.",
+              "de": "Lamborghini Aventador ist das Flaggschiffmodell der Marke mit V12-Motor. Sein Aussehen und seine Leistung im Weltraumzeitalter machen ihn zu einer Ikone moderner Supersportwagen.",
+              "uk": "Lamborghini Aventador — флагманська модель бренду з двигуном V12. Його зовнішній вигляд і продуктивність космічного віку роблять його іконою сучасних суперкарів.",
+              "ru": "Lamborghini Aventador — флагманская модель бренда с двигателем V12. Его космический внешний вид и производительность делают его символом современных суперкаров.",
+              "zh": "兰博基尼 Aventador 是该品牌配备 V12 发动机的旗舰车型。其太空时代的外观和性能使其成为现代超级跑车的标志。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lamborghini"
+              },
+              "okres produkcji": "2011–2022",
+              "segment": {
+                "pl": "Supersamochód",
+                "en": "Supercar",
+                "de": "Supersportwagen",
+                "uk": "Суперкар",
+                "ru": "Суперкар",
+                "zh": "超级跑车"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7x/k5/pa2tknc40cscss0s44k8w/lamborghini-aventador-j-07.310.jpg"
+        }
+      }
+    ],
+    "Huracan": [
+      {
+        "BrandID": 77,
+        "ModelID": 416613,
+        "Brand Name": "Lamborghini",
+        "Model Name": "Huracan",
+        "Serie Name": "Huracan",
+        "Years": "2014 - 2024",
+        "specs": {
+          "bodyType": "Coupe/Roadster",
+          "segment": "Supercar",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "5.2L V10",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lamborghini Huracán to 'mniejszy' model w gamie, napędzany silnikiem V10. Oferuje niesamowitą precyzję prowadzenia i dźwięk.",
+              "en": "Lamborghini Huracán is the 'smaller' model in the range, powered by a V10 engine. It offers incredible driving precision and sound.",
+              "de": "Lamborghini Huracán ist das „kleinere“ Modell der Reihe, angetrieben von einem V10-Motor. Es bietet unglaubliche Fahrpräzision und Klang.",
+              "uk": "Lamborghini Huracán — «менша» модель у лінійці, оснащена двигуном V10. Він забезпечує неймовірну точність водіння та звук.",
+              "ru": "Lamborghini Huracán — «меньшая» модель в линейке, оснащенная двигателем V10. Он предлагает невероятную точность вождения и звук.",
+              "zh": "兰博基尼 Huracán 是该系列中“较小”的车型，由 V10 发动机提供动力。它提供令人难以置信的驾驶精度和声音。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lamborghini"
+              },
+              "okres produkcji": "2014–2024",
+              "segment": {
+                "pl": "Supersamochód",
+                "en": "Supercar",
+                "de": "Supersportwagen",
+                "uk": "Суперкар",
+                "ru": "Суперкар",
+                "zh": "超级跑车"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/dt/x0/hhmz0hkw8wg8w4wg4o8cg/lamborghini-huracan-lp610-4-lb724-18.310.jpg"
+        }
+      }
+    ],
+    "Urus": [
+      {
+        "BrandID": 77,
+        "ModelID": 416614,
+        "Brand Name": "Lamborghini",
+        "Model Name": "Urus",
+        "Serie Name": "Urus",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Super SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/PHEV",
+          "engine": "4.0L V8 Twin-Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lamborghini Urus to pierwszy 'Super SUV' świata, łączący osiągi supersamochodu z praktycznością SUV-a. Bestseller marki.",
+              "en": "Lamborghini Urus is the world's first 'Super SUV', combining the performance of a supercar with the practicality of an SUV. Brand bestseller.",
+              "de": "Lamborghini Urus ist der weltweit erste „Super-SUV“, der die Leistung eines Supersportwagens mit der Zweckmäßigkeit eines SUV kombiniert. Markenbestseller.",
+              "uk": "Lamborghini Urus — це перший у світі «супер позашляховик», який поєднує в собі продуктивність суперкара з практичністю позашляховика. Бестселер бренду.",
+              "ru": "Lamborghini Urus — первый в мире «супервнедорожник», сочетающий в себе производительность суперкара с практичностью внедорожника. Бестселлер бренда.",
+              "zh": "兰博基尼 Urus 是全球首款“超级 SUV”，将超级跑车的性能与 SUV 的实用性融为一体。品牌畅销书。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lamborghini"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "from 2018",
+                "de": "ab 2018",
+                "uk": "з 2018 року",
+                "ru": "с 2018 года.",
+                "zh": "2018 年起"
+              },
+              "segment": {
+                "pl": "F-SUV"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Gallardo": [
+      {
+        "BrandID": 77,
+        "ModelID": 414026,
+        "Brand Name": "Lamborghini",
+        "Model Name": "Gallardo",
+        "Serie Name": "Gallardo",
+        "Years": "2003 - 2013",
+        "specs": {
+          "bodyType": "Coupe/Spyder",
+          "segment": "Supercar",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "5.0L / 5.2L V10",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lamborghini Gallardo to najlepiej sprzedający się model marki do czasu debiutu Huracána. Wprowadził Lamborghini w nową erę pod skrzydłami Audi, oferując silnik V10 i napęd AWD.",
+              "en": "Lamborghini Gallardo is the brand's best-selling model until the debut of the Huracán. It introduced Lamborghini into a new era under the wings of Audi, offering a V10 engine and AWD drive.",
+              "de": "Lamborghini Gallardo ist bis zum Debüt des Huracán das meistverkaufte Modell der Marke. Mit einem V10-Motor und Allradantrieb eröffnete Lamborghini eine neue Ära unter den Fittichen von Audi.",
+              "uk": "Lamborghini Gallardo є бестселером бренду до дебюту Huracán. Він ввів Lamborghini в нову еру під крилами Audi, пропонуючи двигун V10 і повний привід.",
+              "ru": "Lamborghini Gallardo — самая продаваемая модель бренда до дебюта Huracán. Он открыл Lamborghini в новую эру под крылом Audi, предложив двигатель V10 и полный привод.",
+              "zh": "兰博基尼 Gallardo 是该品牌在 Huracán 首次亮相之前最畅销的车型。它将兰博基尼带入奥迪旗下的新时代，提供 V10 发动机和全轮驱动。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lamborghini"
+              },
+              "okres produkcji": "2003–2013",
+              "segment": {
+                "pl": "Supersamochód",
+                "en": "Supercar",
+                "de": "Supercar",
+                "uk": "Суперкар",
+                "ru": "Суперкар",
+                "zh": "超级跑车"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ds/1j/uqscepcss8s4kkogs8kc8/gallardo-coupe.310.jpg"
+        }
+      }
+    ],
+    "Murcielago": [
+      {
+        "BrandID": 77,
+        "ModelID": 414025,
+        "Brand Name": "Lamborghini",
+        "Model Name": "Murcielago",
+        "Serie Name": "Murcielago",
+        "Years": "2001 - 2010",
+        "specs": {
+          "bodyType": "Coupe/Roadster",
+          "segment": "Supercar",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "6.2L / 6.5L V12",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lamborghini Murciélago to potężny następca Diablo i ostatni model marki z legendarnym silnikiem V12 Bizzarrini. Jego nazwa pochodzi od byka, który przeżył 24 pchnięcia szpadą.",
+              "en": "Lamborghini Murciélago is the powerful successor to the Diablo and the last model of the brand with the legendary V12 Bizzarrini engine. Its name comes from a bull that survived 24 sword thrusts.",
+              "de": "Lamborghini Murciélago ist der leistungsstarke Nachfolger des Diablo und das letzte Modell der Marke mit dem legendären V12-Bizzarrini-Motor. Sein Name geht auf einen Stier zurück, der 24 Schwerthiebe überlebte.",
+              "uk": "Lamborghini Murciélago — потужний наступник Diablo та остання модель бренду з легендарним двигуном V12 Bizzarrini. Його назва походить від бика, який пережив 24 удари мечем.",
+              "ru": "Lamborghini Murciélago — мощный преемник Diablo и последняя модель бренда с легендарным двигателем V12 Bizzarrini. Его название происходит от быка, пережившего 24 удара мечом.",
+              "zh": "兰博基尼 Murciélago 是 Diablo 的强大后继车型，也是该品牌最后一款配备传奇 V12 Bizzarrini 发动机的车型。它的名字来源于一头在 24 次剑刺中幸存下来的公牛。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lamborghini"
+              },
+              "okres produkcji": "2001–2010",
+              "segment": {
+                "pl": "Supersamochód",
+                "en": "Supercar",
+                "de": "Supersportwagen",
+                "uk": "Суперкар",
+                "ru": "Суперкар",
+                "zh": "超级跑车"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7z/0x/e5cwws8wggwkws0sw0w4w/murcielago-spyder.310.jpg"
+        }
+      }
+    ],
+    "Diablo": [
+      {
+        "BrandID": 77,
+        "ModelID": 416615,
+        "Brand Name": "Lamborghini",
+        "Model Name": "Diablo",
+        "Serie Name": "Diablo",
+        "Years": "1990 - 2001",
+        "specs": {
+          "bodyType": "Coupe/Roadster",
+          "segment": "Supercar",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "5.7L / 6.0L V12",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lamborghini Diablo to ikona lat 90. Pierwsze Lamborghini zdolne przekroczyć 320 km/h. Jego surowy charakter i brak systemów wspomagających czynią go wyzwaniem dla kierowcy.",
+              "en": "Lamborghini Diablo is an icon of the 90s. The first Lamborghini capable of exceeding 320 km/h. Its raw nature and lack of assistance systems make it a challenge for the driver.",
+              "de": "Lamborghini Diablo ist eine Ikone der 90er Jahre. Der erste Lamborghini, der schneller als 320 km/h ist. Seine Rohheit und das Fehlen von Assistenzsystemen machen es zu einer Herausforderung für den Fahrer.",
+              "uk": "Lamborghini Diablo — ікона 90-х. Перший Lamborghini, здатний розвивати швидкість понад 320 км/год. Його грубий характер і відсутність систем допомоги роблять його викликом для водія.",
+              "ru": "Lamborghini Diablo – икона 90-х. Первый Lamborghini, способный развивать скорость более 320 км/ч. Его грубый характер и отсутствие вспомогательных систем делают его сложной задачей для водителя.",
+              "zh": "兰博基尼 Diablo 是 90 年代的标志。第一辆时速超过 320 公里的兰博基尼。它的原始性质和缺乏辅助系统使其对驾驶员来说是一个挑战。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lamborghini"
+              },
+              "okres produkcji": "1990–2001",
+              "segment": {
+                "pl": "Supersamochód",
+                "en": "Supercar",
+                "de": "Supersportwagen",
+                "uk": "Суперкар",
+                "ru": "Суперкар",
+                "zh": "超级跑车"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Countach": [
+      {
+        "BrandID": 77,
+        "ModelID": 416616,
+        "Brand Name": "Lamborghini",
+        "Model Name": "Countach",
+        "Serie Name": "Countach",
+        "Years": "1974 - 1990",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Supercar",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.9L - 5.2L V12",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lamborghini to włoski producent supersamochodów, znany z agresywnego designu i potężnych silników V10 i V12. Marzenie każdego fana motoryzacji.",
+              "en": "Lamborghini is an Italian supercar manufacturer, known for its aggressive design and powerful V10 and V12 engines. Every car fan's dream.",
+              "de": "Lamborghini ist ein italienischer Supersportwagenhersteller, der für sein aggressives Design und seine leistungsstarken V10- und V12-Motoren bekannt ist. Der Traum eines jeden Autofans.",
+              "uk": "Lamborghini — італійський виробник суперкарів, відомий своїм агресивним дизайном і потужними двигунами V10 і V12. Мрія кожного автолюбителя.",
+              "ru": "Lamborghini — итальянский производитель суперкаров, известный своим агрессивным дизайном и мощными двигателями V10 и V12. Мечта каждого автолюбителя.",
+              "zh": "兰博基尼是一家意大利超级跑车制造商，以其激进的设计和强大的 V10 和 V12 发动机而闻名。每个车迷的梦想。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Automobili Lamborghini",
+                "en": "Automobili Lamborghini",
+                "de": "Automobili Lamborghini",
+                "uk": "Automobili Lamborghini",
+                "ru": "Automobili Lamborghini",
+                "zh": "兰博基尼汽车"
+              },
+              "siedziba": {
+                "pl": "Sant'Agata Bolognese, Włochy",
+                "en": "Sant'Agata Bolognese, Italy",
+                "de": "Sant'Agata Bolognese, Italien",
+                "uk": "Сант'Агата-Болоньезе, Італія",
+                "ru": "Сант-Агата-Болоньезе, Италия",
+                "zh": "意大利圣阿加塔博洛涅塞"
+              },
+              "założona": "1963"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 77,
+        "ModelID": 416617,
+        "Brand Name": "Lamborghini",
+        "Model Name": "Countach",
+        "Serie Name": "Countach LPI 800-4",
+        "Years": "2021 - 2022",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Supercar",
+          "drive": "AWD",
+          "fuel": "Hybrid",
+          "engine": "6.5L V12 Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lamborghini Countach to samochód, który zdefiniował wygląd nowoczesnych supersamochodów dzięki drzwiom typu 'nożyce'. Model LPI 800-4 to nowoczesna hybrydowa interpretacja tej legendy.",
+              "en": "The Lamborghini Countach is the car that defined the look of modern supercars with its scissor doors. The LPI 800-4 model is a modern hybrid interpretation of this legend.",
+              "de": "Der Lamborghini Countach ist das Auto, das mit seinen Scherentüren das Aussehen moderner Supersportwagen prägte. Das Modell LPI 800-4 ist eine moderne Hybridinterpretation dieser Legende.",
+              "uk": "Lamborghini Countach — це автомобіль, який визначив зовнішній вигляд сучасних суперкарів завдяки своїм дверям-ножицям. Модель LPI 800-4 – сучасна гібридна інтерпретація цієї легенди.",
+              "ru": "Lamborghini Countach — это автомобиль, который определил внешний вид современных суперкаров благодаря своим ножничным дверям. Модель LPI 800-4 представляет собой современную гибридную интерпретацию этой легенды.",
+              "zh": "兰博基尼 Countach 是一款以其剪刀门定义了现代超级跑车外观的汽车。 LPI 800-4 型号是对这一传奇的现代混合诠释。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lamborghini"
+              },
+              "okres produkcji": {
+                "pl": "1974–1990 / 2021",
+                "en": "1974–1990 / 2021",
+                "de": "1974–1990 / 2021",
+                "uk": "1974–1990 / 2021",
+                "ru": "1974–1990 / 2021",
+                "zh": "1974–1990 / 2021"
+              },
+              "segment": {
+                "pl": "Supersamochód",
+                "en": "Supercar",
+                "de": "Supersportwagen",
+                "uk": "Суперкар",
+                "ru": "Суперкар",
+                "zh": "超级跑车"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Revuelto": [
+      {
+        "BrandID": 77,
+        "ModelID": 416618,
+        "Brand Name": "Lamborghini",
+        "Model Name": "Revuelto",
+        "Serie Name": "Revuelto",
+        "Years": "2023 - 3000",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Supercar",
+          "drive": "AWD",
+          "fuel": "PHEV",
+          "engine": "6.5L V12 PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lamborghini Revuelto to najnowszy flagowiec marki i jej pierwszy hybrydowy supersamochód (HPEV). Łączy potężne wolnossące V12 z trzema silnikami elektrycznymi o mocy ponad 1000 KM.",
+              "en": "Lamborghini Revuelto is the brand's latest flagship and its first hybrid supercar (HPEV). It combines a powerful naturally aspirated V12 with three electric motors with a power of over 1,000 HP.",
+              "de": "Lamborghini Revuelto ist das neueste Flaggschiff der Marke und ihr erster Hybrid-Supersportwagen (HPEV). Es kombiniert einen leistungsstarken V12-Saugmotor mit drei Elektromotoren mit einer Leistung von über 1.000 PS.",
+              "uk": "Lamborghini Revuelto — останній флагман бренду та його перший гібридний суперкар (HPEV). Він поєднує в собі потужний атмосферний V12 з трьома електродвигунами потужністю понад 1000 к. с.",
+              "ru": "Lamborghini Revuelto — новейший флагман бренда и его первый гибридный суперкар (HPEV). Он сочетает в себе мощный безнаддувный двигатель V12 с тремя электродвигателями мощностью более 1000 л.с.",
+              "zh": "兰博基尼 Revuelto 是该品牌的最新旗舰产品，也是其首款混合动力超级跑车 (HPEV)。它结合了强大的自然吸气 V12 发动机和三个电动机，功率超过 1,000 马力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lamborghini"
+              },
+              "okres produkcji": {
+                "pl": "od 2023",
+                "en": "from 2023",
+                "de": "ab 2023",
+                "uk": "з 2023",
+                "ru": "из 2023 года",
+                "zh": "2023 年起"
+              },
+              "segment": {
+                "pl": "Supersamochód Hybrid",
+                "en": "Hybrid supercar",
+                "de": "Hybrid-Supersportwagen",
+                "uk": "Гібридний суперкар",
+                "ru": "Гибридный суперкар",
+                "zh": "混合动力超级跑车"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

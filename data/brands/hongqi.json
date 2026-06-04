@@ -1,0 +1,203 @@
+{
+  "brand": "Hongqi",
+  "models": {
+    "H5": [
+      {
+        "BrandID": 304,
+        "ModelID": 500401,
+        "Brand Name": "Hongqi",
+        "Model Name": "H5",
+        "Serie Name": "H5 II",
+        "Years": "2022 - Present",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Luxury Sedan",
+          "drive": "FWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.5T / 2.0T / HEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "H9": [
+      {
+        "BrandID": 304,
+        "ModelID": 500402,
+        "Brand Name": "Hongqi",
+        "Model Name": "H9",
+        "Serie Name": "H9",
+        "Years": "2020 - Present",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury Sedan",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "2.0T / 3.0T V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Hongqi H9 to flagowa limuzyna marki, konkurująca z niemieckimi sedanami klasy premium. Wyróżnia się majestatycznym designem i bogatym wyposażeniem.",
+              "en": "Hongqi H9 is the brand's flagship limousine, competing with German premium sedans. It is distinguished by its majestic design and rich equipment.",
+              "de": "Hongqi H9 ist die Flaggschiff-Limousine der Marke und konkurriert mit deutschen Premium-Limousinen. Es zeichnet sich durch sein majestätisches Design und seine reichhaltige Ausstattung aus.",
+              "uk": "Hongqi H9 — флагманський лімузин бренду, який конкурує з німецькими седанами преміум-класу. Відрізняється величним дизайном і багатим оснащенням.",
+              "ru": "Hongqi H9 – флагманский лимузин марки, конкурирующий с немецкими седанами премиум-класса. Он отличается величественным дизайном и богатым оснащением.",
+              "zh": "红旗H9是该品牌的旗舰豪华轿车，与德系高档轿车竞争。它以其雄伟的设计和丰富的设备而著称。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "FAW Group",
+                "en": "FAW Group",
+                "de": "FAW-Gruppe",
+                "uk": "FAW Group",
+                "ru": "FAW Group",
+                "zh": "一汽集团"
+              },
+              "okres produkcji": {
+                "pl": "od 2020",
+                "en": "from 2020",
+                "de": "ab 2020",
+                "uk": "з 2020 року",
+                "ru": "с 2020 года",
+                "zh": "2020年起"
+              },
+              "segment": {
+                "pl": "F (Luksusowy)",
+                "en": "F (Luxury)",
+                "de": "F (Luxus)",
+                "uk": "F (Luxury)",
+                "ru": "F (Luxury)",
+                "zh": "F（豪华）"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "E-HS9": [
+      {
+        "BrandID": 304,
+        "ModelID": 500403,
+        "Brand Name": "Hongqi",
+        "Model Name": "E-HS9",
+        "Serie Name": "E-HS9",
+        "Years": "2020 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size Luxury SUV",
+          "drive": "AWD",
+          "fuel": "Electric",
+          "engine": "Dual Electric Motors",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Hongqi E-HS9 to luksusowy, w pełni elektryczny SUV, często nazywany 'chińskim Rolls-Roycem'. Oferuje najwyższy poziom komfortu i prestiżu.",
+              "en": "Hongqi E-HS9 is a luxury, fully electric SUV, often called the 'Chinese Rolls-Royce'. It offers the highest level of comfort and prestige.",
+              "de": "Hongqi E-HS9 ist ein luxuriöser, vollelektrischer SUV, der oft als „chinesischer Rolls-Royce“ bezeichnet wird. Es bietet ein Höchstmaß an Komfort und Prestige.",
+              "uk": "Hongqi E-HS9 — розкішний, повністю електричний позашляховик, який часто називають «китайським Rolls-Royce». Він пропонує найвищий рівень комфорту та престижу.",
+              "ru": "Hongqi E-HS9 — роскошный полностью электрический внедорожник, часто называемый «китайским Rolls-Royce». Он предлагает высочайший уровень комфорта и престижа.",
+              "zh": "红旗E-HS9是一款豪华全电动SUV，通常被称为“中国劳斯莱斯”。它提供最高水平的舒适度和声望。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "FAW Group",
+                "en": "FAW Group",
+                "de": "FAW-Gruppe",
+                "uk": "FAW Group",
+                "ru": "Группа FAW",
+                "zh": "一汽集团"
+              },
+              "okres produkcji": {
+                "pl": "od 2020",
+                "en": "from 2020",
+                "de": "ab 2020",
+                "uk": "з 2020 року",
+                "ru": "с 2020 года",
+                "zh": "2020年起"
+              },
+              "segment": {
+                "pl": "F-SUV (Luksusowy)",
+                "en": "F-SUV (Luxury)",
+                "de": "F-SUV (Luxus)",
+                "uk": "F-SUV (люкс)",
+                "ru": "F-SUV (Luxury)",
+                "zh": "F-SUV（豪华）"
+              },
+              "napęd": {
+                "pl": "AWD (Elektryczny)",
+                "en": "AWD (Electric)",
+                "de": "AWD (Elektro)",
+                "uk": "AWD (електричний)",
+                "ru": "AWD (электрический)",
+                "zh": "全轮驱动（电动）"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "HS5": [
+      {
+        "BrandID": 304,
+        "ModelID": 500404,
+        "Brand Name": "Hongqi",
+        "Model Name": "HS5",
+        "Serie Name": "HS5",
+        "Years": "2019 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0T",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Hongqi HS5 to luksusowy SUV średniej wielkości. Jest to pierwszy model marki w nowym języku stylistycznym, który odniósł duży sukces komercyjny.",
+              "en": "The Hongqi HS5 is a mid-size luxury SUV. This is the brand's first model in the new stylistic language, which achieved great commercial success.",
+              "de": "Der Hongqi HS5 ist ein mittelgroßer Luxus-SUV. Es handelt sich um das erste Modell der Marke in der neuen Stilsprache, das großen kommerziellen Erfolg erzielte.",
+              "uk": "Hongqi HS5 — це розкішний позашляховик середнього розміру. Це перша модель бренду в новій стилістичній мові, яка мала великий комерційний успіх.",
+              "ru": "Hongqi HS5 — роскошный внедорожник среднего размера. Это первая модель бренда на новом стилистическом языке, добившаяся большого коммерческого успеха.",
+              "zh": "红旗HS5是一款豪华中型SUV。这是该品牌首款采用新风格语言的车型，取得了巨大的商业成功。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "FAW Group",
+                "en": "FAW Group",
+                "de": "FAW-Gruppe",
+                "uk": "FAW Group",
+                "ru": "Группа FAW",
+                "zh": "一汽集团"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019 року",
+                "ru": "с 2019 года",
+                "zh": "2019年起"
+              },
+              "segment": {
+                "pl": "Mid-size Luxury SUV",
+                "en": "Mid-size Luxury SUV",
+                "de": "Mittelklasse-Luxus-SUV",
+                "uk": "Розкішний позашляховик середнього розміру",
+                "ru": "Роскошный внедорожник среднего размера",
+                "zh": "中型豪华SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

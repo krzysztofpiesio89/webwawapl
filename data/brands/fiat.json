@@ -1,0 +1,1625 @@
+{
+  "brand": "Fiat",
+  "models": {
+    "500": [
+      {
+        "BrandID": 46,
+        "ModelID": 453,
+        "Brand Name": "Fiat",
+        "Model Name": "500",
+        "Serie Name": "500",
+        "Years": "2007 - 3000",
+        "specs": {
+          "bodyType": "Hatchback/Convertible",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Hybrid/Electric",
+          "engine": "0.9L / 1.2L / 1.4L / Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Fiat 500 to ikona stylu, nowoczesna interpretacja klasyka z 1957 roku, idealna do miasta dzięki zwrotności i kompaktowym wymiarom.",
+              "en": "The Fiat 500 is an icon of style, a modern interpretation of the 1957 classic, perfect for the city thanks to its maneuverability and compact dimensions.",
+              "de": "Der Fiat 500 ist eine Stilikone, eine moderne Interpretation des Klassikers von 1957, perfekt für die Stadt dank seiner Wendigkeit und kompakten Abmessungen.",
+              "uk": "Fiat 500 — це ікона стилю, сучасна інтерпретація класики 1957 року, яка ідеально підходить для міста завдяки своїй маневреності та компактним розмірам.",
+              "ru": "Fiat 500 — икона стиля, современная интерпретация классики 1957 года, идеально подходящая для города благодаря своей маневренности и компактным размерам.",
+              "zh": "菲亚特 500 是时尚的象征，是对 1957 年经典车型的现代诠释，凭借其机动性和紧凑的尺寸，非常适合城市。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Fiat"
+              },
+              "okres produkcji": {
+                "pl": "od 2007",
+                "en": "from 2007",
+                "de": "ab 2007",
+                "uk": "з 2007 року",
+                "ru": "с 2007 года",
+                "zh": "2007 年生产"
+              },
+              "miejsce produkcji": {
+                "pl": "Tychy, Polska",
+                "en": "Tychy, Poland",
+                "de": "Tychy, Polen",
+                "uk": "Тихи, Польща",
+                "ru": "Тыхы, Польша",
+                "zh": "波兰蒂黑"
+              },
+              "platforma": {
+                "pl": "Fiat Mini",
+                "en": "Fiat Mini",
+                "de": "Fiat Mini",
+                "uk": "Fiat Mini",
+                "ru": "Фиат Мини",
+                "zh": "菲亚特 Mini"
+              },
+              "silnik": {
+                "pl": "0.9L - 1.4L / Electric",
+                "en": "0.9L - 1.4L / Electric",
+                "de": "0,9L - 1,4L / Elektro",
+                "uk": "0,9 л - 1,4 л / електричний",
+                "ru": "0,9–1,4 л/электрический",
+                "zh": "0.9L - 1.4L / 电动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ey/ad/h3eyxz404sggcks4000s0/500-hatch.310.jpg"
+        }
+      },
+      {
+        "BrandID": 46,
+        "ModelID": 416821,
+        "Brand Name": "Fiat",
+        "Model Name": "500",
+        "Serie Name": "500 (Classic)",
+        "Years": "1957 - 1975",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "City Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "0.5L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Fiat 500 (Nuova 500) to legendarny mikrosamochód, który zmotoryzował powojenne Włochy i stał się symbolem 'La Dolce Vita'.",
+              "en": "Fiat 500 (Nuova 500) is a legendary microcar that motorized post-war Italy and became the symbol of 'La Dolce Vita'.",
+              "de": "Fiat 500 (Nuova 500) ist ein legendärer Kleinstwagen, der das Nachkriegsitalien motorisierte und zum Symbol von „La Dolce Vita“ wurde.",
+              "uk": "Fiat 500 (Nuova 500) — це легендарний мікроавтомобіль, який привів у рух післявоєнну Італію та став символом «La Dolce Vita».",
+              "ru": "Fiat 500 (Nuova 500) — легендарный микроавтомобиль, который стал мотором послевоенной Италии и стал символом «Сладкой жизни».",
+              "zh": "菲亚特 500 (Nuova 500) 是一款传奇微型汽车，为战后意大利提供动力，并成为“甜蜜生活”的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Fiat"
+              },
+              "okres produkcji": "1957–1975",
+              "miejsce produkcji": {
+                "pl": "Turyn, Włochy",
+                "en": "Turin, Italy",
+                "de": "Turin, Italien",
+                "uk": "Турин, Італія",
+                "ru": "Турин, Италия",
+                "zh": "意大利都灵"
+              },
+              "platforma": {
+                "pl": "Fiat 110",
+                "en": "Fiat 110",
+                "de": "Fiat 110",
+                "uk": "Fiat 110",
+                "ru": "Фиат 110",
+                "zh": "菲亚特 110"
+              },
+              "silnik": {
+                "pl": "0.5L R2 Air-Cooled",
+                "en": "0.5L R2 Air-Cooled",
+                "de": "0,5 l R2 luftgekühlt",
+                "uk": "0,5 л R2 з повітряним охолодженням",
+                "ru": "0,5 л R2 с воздушным охлаждением",
+                "zh": "0.5L R2 风冷"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Fiat_Nuova_500_prima_serie.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/e/ed/Fiat_Nuova_500_prima_serie.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/1962_Fiat_500_--_2012_DC_2.JPG/1280px-1962_Fiat_500_--_2012_DC_2.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fiat_500_1970_%2814679070736%29.jpg/1280px-Fiat_500_1970_%2814679070736%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Fiat_500.JPG/1280px-Fiat_500.JPG"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ey/ad/h3eyxz404sggcks4000s0/500-hatch.310.jpg"
+        }
+      }
+    ],
+    "124 Spider": [
+      {
+        "BrandID": 46,
+        "ModelID": 414392,
+        "Brand Name": "Fiat",
+        "Model Name": "124 Spider",
+        "Serie Name": "124 Spider",
+        "Years": "2016 - 2020",
+        "specs": {
+          "bodyType": "Convertible",
+          "segment": "Roadster",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "1.4L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Fiat 124 Spider to powrót legendy, sportowy roadster dziedziczący platformę Mazdy MX-5, ale z włoskim stylem i silnikiem Turbo.",
+              "en": "The Fiat 124 Spider is the return of a legend, a sports roadster inheriting the Mazda MX-5 platform, but with Italian style and a Turbo engine.",
+              "de": "Der Fiat 124 Spider ist die Rückkehr einer Legende, ein Sport-Roadster, der die Mazda MX-5-Plattform erbt, aber mit italienischem Stil und einem Turbomotor.",
+              "uk": "Fiat 124 Spider — це повернення легенди, спортивний родстер, який успадкував платформу Mazda MX-5, але в італійському стилі та з двигуном Turbo.",
+              "ru": "Fiat 124 Spider — это возвращение легенды, спортивного родстера, унаследовавшего платформу Mazda MX-5, но в итальянском стиле и с двигателем Turbo.",
+              "zh": "菲亚特 124 Spider 是传奇的回归，一款继承马自达 MX-5 平台的运动跑车，但具有意大利风格和涡轮发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Fiat / Mazda",
+                "en": "Fiat / Mazda",
+                "de": "Fiat / Mazda",
+                "uk": "Fiat / Mazda",
+                "ru": "Фиат/Мазда",
+                "zh": "菲亚特 / 马自达"
+              },
+              "okres produkcji": "2016–2020",
+              "miejsce produkcji": {
+                "pl": "Hiroszima, Japonia",
+                "en": "Hiroshima, Japan",
+                "de": "Hiroshima, Japan",
+                "uk": "Хіросіма, Японія",
+                "ru": "Хиросима, Япония",
+                "zh": "日本广岛"
+              },
+              "platforma": {
+                "pl": "Mazda ND",
+                "en": "Mazda ND",
+                "de": "Mazda ND",
+                "uk": "Mazda ND",
+                "ru": "Мазда без даты",
+                "zh": "马自达 ND"
+              },
+              "silnik": {
+                "pl": "1.4L MultiAir Turbo",
+                "en": "1.4L MultiAir Turbo",
+                "de": "1.4L MultiAir Turbo",
+                "uk": "1.4L MultiAir Turbo",
+                "ru": "1,4 л МультиЭйр Турбо",
+                "zh": "1.4L MultiAir Turbo"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 46,
+        "ModelID": 416820,
+        "Brand Name": "Fiat",
+        "Model Name": "124 Spider",
+        "Serie Name": "124 Spider (Classic)",
+        "Years": "1966 - 1985",
+        "specs": {
+          "bodyType": "Convertible",
+          "segment": "Roadster",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "1.4L - 2.0L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Fiat 124 Sport Spider to klasyczny włoski roadster zaprojektowany przez Pininfarinę, znany z lekkiej konstrukcji i świetnego prowadzenia.",
+              "en": "The Fiat 124 Sport Spider is a classic Italian roadster designed by Pininfarina, known for its lightweight construction and great handling.",
+              "de": "Der Fiat 124 Sport Spider ist ein klassischer italienischer Roadster, der von Pininfarina entworfen wurde und für seine Leichtbauweise und sein hervorragendes Handling bekannt ist.",
+              "uk": "Fiat 124 Sport Spider — це класичний італійський родстер, розроблений Pininfarina, відомий своєю легкою конструкцією та чудовою керованістю.",
+              "ru": "Fiat 124 Sport Spider — классический итальянский родстер, разработанный компанией Pininfarina и известный своей легкой конструкцией и отличной управляемостью.",
+              "zh": "菲亚特 124 Sport Spider 是一款由 Pininfarina 设计的经典意大利跑车，以其轻质结构和出色的操控性而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Fiat / Pininfarina",
+                "en": "Fiat / Pininfarina",
+                "de": "Fiat / Pininfarina",
+                "uk": "Fiat / Pininfarina",
+                "ru": "Фиат/Пининфарина",
+                "zh": "菲亚特 / Pininfarina"
+              },
+              "okres produkcji": "1966–1985",
+              "miejsce produkcji": {
+                "pl": "Turyn, Włochy",
+                "en": "Turin, Italy",
+                "de": "Turin, Italien",
+                "uk": "Турин, Італія",
+                "ru": "Турин, Италия",
+                "zh": "意大利都灵"
+              },
+              "platforma": {
+                "pl": "Fiat 124",
+                "en": "Fiat 124",
+                "de": "Fiat 124",
+                "uk": "Fiat 124",
+                "ru": "Фиат 124",
+                "zh": "菲亚特 124"
+              },
+              "silnik": {
+                "pl": "1.4L - 2.0L Lampredi DOHC",
+                "en": "1.4L - 2.0L Lampredi DOHC",
+                "de": "1.4L - 2.0L Lampredi DOHC",
+                "uk": "1.4L - 2.0L Lampredi DOHC",
+                "ru": "1,4–2,0 л Лампреди DOHC",
+                "zh": "1.4L - 2.0L Lampredi DOHC"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/2016_Fiat_124_Spider_Lusso%2B_1.4_Rear.jpg/1280px-2016_Fiat_124_Spider_Lusso%2B_1.4_Rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/2016_Fiat_124_Spider_Lusso%2B_1.4_Rear.jpg/1280px-2016_Fiat_124_Spider_Lusso%2B_1.4_Rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/2018_Abarth_124_Spider_Multiair_1.4_Front.jpg/1280px-2018_Abarth_124_Spider_Multiair_1.4_Front.jpg"
+            ]
+          }
+        }
+      }
+    ],
+    "500L": [
+      {
+        "BrandID": 46,
+        "ModelID": 414140,
+        "Brand Name": "Fiat",
+        "Model Name": "500L",
+        "Serie Name": "500L",
+        "Years": "2012 - 2022",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Mini MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "0.9L / 1.4L / 1.3L dCi / 1.6L dCi",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Fiat 500L to rodzinny minivan o stylistyce nawiązującej do modelu 500, oferujący przestronne i modułowe wnętrze.",
+              "en": "The Fiat 500L is a family minivan with a style referring to the 500 model, offering a spacious and modular interior.",
+              "de": "Der Fiat 500L ist ein Familien-Minivan mit einem an das 500er-Modell angelehnten Stil und einem geräumigen und modularen Innenraum.",
+              "uk": "Fiat 500L — це сімейний мінівен зі стилем, що відсилає до моделі 500, із просторим і модульним салоном.",
+              "ru": "Fiat 500L — семейный минивэн, стиль которого похож на модель 500, с просторным и модульным салоном.",
+              "zh": "菲亚特 500L 是一款家庭小型货车，其风格参考 500 车型，提供宽敞且模块化的内部空间。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Fiat"
+              },
+              "okres produkcji": "2012–2022",
+              "miejsce produkcji": {
+                "pl": "Kragujevac, Serbia",
+                "en": "Kragujevac, Serbia",
+                "de": "Kragujevac, Serbien",
+                "uk": "Крагуєвац, Сербія",
+                "ru": "Крагуевац, Сербия",
+                "zh": "克拉古耶瓦茨，塞尔维亚"
+              },
+              "platforma": {
+                "pl": "GM Fiat Small Wide",
+                "en": "GM Fiat Small Wide",
+                "de": "GM Fiat Small Wide",
+                "uk": "GM Fiat Small Wide",
+                "ru": "GM Fiat Маленький Широкий",
+                "zh": "通用菲亚特小宽型"
+              },
+              "silnik": {
+                "pl": "0.9L - 1.6L",
+                "en": "0.9L - 1.6L",
+                "de": "0,9 l – 1,6 l",
+                "uk": "0,9 л - 1,6 л",
+                "ru": "0,9л - 1,6л",
+                "zh": "0.9L - 1.6L"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bi/eq/n04cp40kcogk4w0c80wcg/130218-f-500l-105cv-46.310.jpg"
+        }
+      }
+    ],
+    "500X": [
+      {
+        "BrandID": 46,
+        "ModelID": 414141,
+        "Brand Name": "Fiat",
+        "Model Name": "500X",
+        "Serie Name": "500X",
+        "Years": "2014 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Small SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L / 1.3L / 1.4L / 1.6L / 2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Fiat 500X to miejski crossover łączący styl rodziny 500 z funkcjonalnością SUV-a i opcjonalnym napędem 4x4.",
+              "en": "Fiat 500X is an urban crossover combining the style of the 500 family with the functionality of an SUV and optional 4x4 drive.",
+              "de": "Der Fiat 500X ist ein urbaner Crossover, der den Stil der 500-Familie mit der Funktionalität eines SUV und optionalem 4x4-Antrieb kombiniert.",
+              "uk": "Fiat 500X — міський кросовер, який поєднує в собі стиль сімейства 500 із функціональністю позашляховика та опціональним приводом 4x4.",
+              "ru": "Fiat 500X — городской кроссовер, сочетающий в себе стиль семейства 500 с функциональностью внедорожника и опциональным приводом 4x4.",
+              "zh": "菲亚特 500X 是一款城市跨界车，将 500 系列的风格与 SUV 的功能和可选的 4x4 驱动器相结合。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Fiat"
+              },
+              "okres produkcji": {
+                "pl": "od 2014",
+                "en": "from 2014",
+                "de": "von 2014",
+                "uk": "з 2014 року",
+                "ru": "с 2014 года",
+                "zh": "2014 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Melfi, Włochy",
+                "en": "Melfi, Italy",
+                "de": "Melfi, Italien",
+                "uk": "Мельфі, Італія",
+                "ru": "Мелфи, Италия",
+                "zh": "意大利梅尔菲"
+              },
+              "platforma": {
+                "pl": "GM Fiat Small Wide 4x4",
+                "en": "GM Fiat Small Wide 4x4",
+                "de": "GM Fiat Small Wide 4x4",
+                "uk": "GM Fiat Small Wide 4x4",
+                "ru": "GM Fiat Small Wide 4x4",
+                "zh": "GM Fiat Small Wide 4x4"
+              },
+              "silnik": {
+                "pl": "1.0L - 2.4L",
+                "en": "1.0L - 2.4L",
+                "de": "1,0 l – 2,4 l",
+                "uk": "1.0L - 2.4L",
+                "ru": "1,0–2,4 л",
+                "zh": "1.0L - 2.4L"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Barchetta": [
+      {
+        "BrandID": 46,
+        "ModelID": 458,
+        "Brand Name": "Fiat",
+        "Model Name": "Barchetta",
+        "Serie Name": "Barchetta",
+        "Years": "1995 - 2005",
+        "specs": {
+          "bodyType": "Convertible",
+          "segment": "Roadster",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.8L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Fiat Barchetta to stylowy, włoski roadster z przednim napędem, nawiązujący do klasycznych łodzi wyścigowych ('barchetta').",
+              "en": "Fiat Barchetta is a stylish, Italian roadster with front drive, referring to classic racing boats ('barchetta').",
+              "de": "Fiat Barchetta ist ein stilvoller, italienischer Roadster mit Frontantrieb, der an klassische Rennboote („Barchetta“) erinnert.",
+              "uk": "Fiat Barchetta — це стильний італійський родстер із переднім приводом, що відноситься до класичних гоночних човнів («barchetta»).",
+              "ru": "Fiat Barchetta — стильный итальянский родстер с передним приводом, отсылающий к классическим гоночным лодкам («барчетта»).",
+              "zh": "Fiat Barchetta 是一款时尚的意大利前驱跑车，指的是经典赛艇（“barchetta”）。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Fiat"
+              },
+              "okres produkcji": "1995–2005",
+              "miejsce produkcji": {
+                "pl": "Chivasso / Mirafiori, Włochy",
+                "en": "Chivasso / Mirafiori, Italy",
+                "de": "Chivasso / Mirafiori, Italien",
+                "uk": "Chivasso / Mirafiori, Італія",
+                "ru": "Кивассо / Мирафиори, Италия",
+                "zh": "Chivasso / Mirafiori，意大利"
+              },
+              "platforma": {
+                "pl": "Fiat Punto I",
+                "en": "Fiat Punto I",
+                "de": "Fiat Punto I",
+                "uk": "Fiat Punto I",
+                "ru": "Fiat Punto I",
+                "zh": "菲亚特 Punto I"
+              },
+              "silnik": {
+                "pl": "1.8L 16V",
+                "en": "1.8L 16V",
+                "de": "1,8L 16V",
+                "uk": "1.8L 16V",
+                "ru": "1.8L 16V",
+                "zh": "1.8L 16V"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4l/ck/rsbgwc8w4kgwocc04o004/barchetta.310.jpg"
+        }
+      }
+    ],
+    "Bravo": [
+      {
+        "BrandID": 46,
+        "ModelID": 131886,
+        "Brand Name": "Fiat",
+        "Model Name": "Bravo",
+        "Serie Name": "Bravo I",
+        "Years": "1995 - 2001",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 2.0L / 1.9L Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Fiat Bravo I (wraz z Bravą) to kompaktowy hatchback, który zdobył tytuł Car of the Year 1996 dzięki nowoczesnej stylistyce.",
+              "en": "Fiat Bravo I (together with Brava) is a compact hatchback that won the Car of the Year 1996 title thanks to its modern styling.",
+              "de": "Fiat Bravo I (zusammen mit Brava) ist ein kompaktes Fließheck, das dank seines modernen Designs den Titel „Auto des Jahres 1996“ gewann.",
+              "uk": "Fiat Bravo I (разом з Brava) — це компактний хетчбек, який отримав титул «Автомобіль року» 1996 завдяки своєму сучасному стилю.",
+              "ru": "Fiat Bravo I (вместе с Brava) — компактный хэтчбек, получивший титул «Автомобиль года 1996» благодаря своему современному дизайну.",
+              "zh": "菲亚特 Bravo I（与 Brava 一起）是一款紧凑型掀背车，凭借其现代风格赢得了 1996 年度汽车称号。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Fiat"
+              },
+              "okres produkcji": "1995–2001",
+              "miejsce produkcji": {
+                "pl": "Cassino, Włochy",
+                "en": "Cassino, Italy",
+                "de": "Cassino, Italien",
+                "uk": "Cassino, Італія",
+                "ru": "Кассино, Италия",
+                "zh": "意大利卡西诺"
+              },
+              "platforma": {
+                "pl": "Fiat Tipo Due",
+                "en": "Fiat Tipo Due",
+                "de": "Fiat Tipo fällig",
+                "uk": "Fiat Tipo Due",
+                "ru": "Fiat Tipo Due",
+                "zh": "Fiat Tipo Due"
+              },
+              "silnik": {
+                "pl": "1.4L - 2.0L R5",
+                "en": "1.4L - 2.0L R5",
+                "de": "1,4L - 2,0L R5",
+                "uk": "1.4L - 2.0L R5",
+                "ru": "1,4–2,0 л R5",
+                "zh": "1.4L - 2.0L R5"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Fiat_Bravo_GT.jpg/1280px-Fiat_Bravo_GT.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Fiat_Bravo_GT.jpg/1280px-Fiat_Bravo_GT.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fiat_Brava_rear_20080318.jpg/1280px-Fiat_Brava_rear_20080318.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Fiat_Bravo_SX.jpg/1280px-Logo_Fiat_Bravo_SX.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Fiat_Bravo_II_rear_20100328.jpg/1280px-Fiat_Bravo_II_rear_20100328.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cj/zp/t570shcsoow88kkgco0gc/bravo-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 46,
+        "ModelID": 133216,
+        "Brand Name": "Fiat",
+        "Model Name": "Bravo",
+        "Serie Name": "Bravo II",
+        "Years": "2007 - 2014",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L / 1.6L / 1.9L / 2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Fiat Bravo II to dynamicznie stylizowany kompakt, następca Stilo, oferujący mocne silniki T-Jet i MultiJet.",
+              "en": "Fiat Bravo II is a dynamically styled compact, the successor to the Stilo, offering powerful T-Jet and MultiJet engines.",
+              "de": "Der Fiat Bravo II ist ein dynamisch gestalteter Kompaktwagen, der Nachfolger des Stilo, mit leistungsstarken T-Jet- und MultiJet-Motoren.",
+              "uk": "Fiat Bravo II — це динамічний компактний автомобіль, наступник Stilo, який пропонує потужні двигуни T-Jet і MultiJet.",
+              "ru": "Fiat Bravo II — компактный автомобиль с динамичным дизайном, преемник Stilo, предлагающий мощные двигатели T-Jet и MultiJet.",
+              "zh": "Fiat Bravo II 是一款动态风格的紧凑型汽车，是 Stilo 的后继产品，提供强大的 T-Jet 和 MultiJet 发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Fiat"
+              },
+              "okres produkcji": "2007–2014",
+              "miejsce produkcji": {
+                "pl": "Cassino, Włochy",
+                "en": "Cassino, Italy",
+                "de": "Cassino, Italien",
+                "uk": "Cassino, Італія",
+                "ru": "Кассино, Италия",
+                "zh": "意大利卡西诺"
+              },
+              "platforma": {
+                "pl": "Fiat C2",
+                "en": "Fiat C2",
+                "de": "Fiat C2",
+                "uk": "Fiat C2",
+                "ru": "Fiat C2",
+                "zh": "菲亚特 C2"
+              },
+              "silnik": {
+                "pl": "1.4L T-Jet / 1.6L - 2.0L MultiJet",
+                "en": "1.4L T-Jet / 1.6L - 2.0L MultiJet",
+                "de": "1,4 l T-Jet / 1,6 l – 2,0 l MultiJet",
+                "uk": "1.4L T-Jet / 1.6L - 2.0L MultiJet",
+                "ru": "1,4 л T-Jet / 1,6–2,0 л MultiJet",
+                "zh": "1.4L T-Jet / 1.6L - 2.0L MultiJet"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Fiat_Bravo_GT.jpg/1280px-Fiat_Bravo_GT.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Fiat_Bravo_GT.jpg/1280px-Fiat_Bravo_GT.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fiat_Brava_rear_20080318.jpg/1280px-Fiat_Brava_rear_20080318.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_Fiat_Bravo_SX.jpg/1280px-Logo_Fiat_Bravo_SX.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Fiat_Bravo_II_rear_20100328.jpg/1280px-Fiat_Bravo_II_rear_20100328.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cj/zp/t570shcsoow88kkgco0gc/bravo-ii.310.jpg"
+        }
+      }
+    ],
+    "Coupe": [
+      {
+        "BrandID": 46,
+        "ModelID": 462,
+        "Brand Name": "Fiat",
+        "Model Name": "Coupe",
+        "Serie Name": "Coupe",
+        "Years": "1993 - 2000",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sports Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.8L / 2.0L Turbo",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Fiat Coupe to awangardowe sportowe coupe zaprojektowane przez Chrisa Bangle'a i Pininfarinę, znane jako 'Ferrari dla ubogich' w wersji Turbo.",
+              "en": "The Fiat Coupe is an avant-garde sports coupe designed by Chris Bangle and Pininfarina, known as the 'Poor man's Ferrari' in Turbo version.",
+              "de": "Das Fiat Coupé ist ein avantgardistisches Sportcoupé, das von Chris Armreif und Pininfarina entworfen wurde und in der Turboversion als „Ferrari des armen Mannes“ bekannt ist.",
+              "uk": "Fiat Coupe — це авангардне спортивне купе, розроблене Крісом Бенґлом і Пінінфаріною, відоме як «Феррарі бідняків» у версії Turbo.",
+              "ru": "Fiat Coupe — авангардное спортивное купе, разработанное Крисом Бэнглом и Pininfarina, известное как «Феррари для бедняков» в версии Turbo.",
+              "zh": "菲亚特 Coupe 是一款由 Chris Bangle 和 Pininfarina 设计的前卫运动轿跑车，涡轮增压版本被称为“穷人的法拉利”。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Fiat / Pininfarina",
+                "en": "Fiat / Pininfarina",
+                "de": "Fiat/Pininfarina",
+                "uk": "Fiat / Pininfarina",
+                "ru": "Fiat / Pininfarina",
+                "zh": "菲亚特 / Pininfarina"
+              },
+              "okres produkcji": "1993–2000",
+              "miejsce produkcji": {
+                "pl": "Turyn, Włochy",
+                "en": "Turin, Italy",
+                "de": "Turin, Italien",
+                "uk": "Турин, Італія",
+                "ru": "Турин, Италия",
+                "zh": "意大利都灵"
+              },
+              "platforma": {
+                "pl": "Fiat Tipo Due",
+                "en": "Fiat Tipo Due",
+                "de": "Fiat Tipo fällig",
+                "uk": "Fiat Tipo Due",
+                "ru": "Fiat Tipo Due",
+                "zh": "菲亚特 Tipo Due"
+              },
+              "silnik": {
+                "pl": "1.8L - 2.0L 20V Turbo",
+                "en": "1.8L - 2.0L 20V Turbo",
+                "de": "1,8 l – 2,0 l 20 V Turbo",
+                "uk": "1.8L - 2.0L 20V Turbo",
+                "ru": "1,8 л — 2,0 л 20V Turbo",
+                "zh": "1.8L - 2.0L 20V Turbo"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9u/zu/mlv02q04s0s0o4o8go8s0/coupe.310.jpg"
+        }
+      }
+    ],
+    "Croma": [
+      {
+        "BrandID": 46,
+        "ModelID": 413694,
+        "Brand Name": "Fiat",
+        "Model Name": "Croma",
+        "Serie Name": "Croma I",
+        "Years": "1985 - 1996",
+        "specs": {
+          "bodyType": "Liftback",
+          "segment": "Large Family Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.5L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {},
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/27/mi/o4yev9ogokccosg8gc004/croma-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 46,
+        "ModelID": 413695,
+        "Brand Name": "Fiat",
+        "Model Name": "Croma",
+        "Serie Name": "Croma II",
+        "Years": "2005 - 2010",
+        "specs": {
+          "bodyType": "Wagon",
+          "segment": "Large Family Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.8L / 2.2L / 1.9L - 2.4L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {},
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/27/mi/o4yev9ogokccosg8gc004/croma-ii.310.jpg"
+        }
+      }
+    ],
+    "Doblo": [
+      {
+        "BrandID": 46,
+        "ModelID": 413122,
+        "Brand Name": "Fiat",
+        "Model Name": "Doblo",
+        "Serie Name": "Doblo I",
+        "Years": "2000 - 2010",
+        "specs": {
+          "bodyType": "MPV/Van",
+          "segment": "Compact Van",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/CNG",
+          "engine": "1.2L - 1.9L",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fiat_Doblo_Cargo_SX_back.jpg/1280px-Fiat_Doblo_Cargo_SX_back.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fiat_Doblo_Cargo_SX_back.jpg/1280px-Fiat_Doblo_Cargo_SX_back.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fiat_Doblo_Facelift_20090712_front.JPG/1280px-Fiat_Doblo_Facelift_20090712_front.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Fiat_Doblo_Facelift_20090712_rear.JPG/1280px-Fiat_Doblo_Facelift_20090712_rear.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/2013_Fiat_Doblo_16V_Multijet_1.3_Rear.jpg/1280px-2013_Fiat_Doblo_16V_Multijet_1.3_Rear.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/41/87/39v8quck0gcs40oo4wkos/doblo-ii-furgon.310.jpg"
+        }
+      },
+      {
+        "BrandID": 46,
+        "ModelID": 413123,
+        "Brand Name": "Fiat",
+        "Model Name": "Doblo",
+        "Serie Name": "Doblo II",
+        "Years": "2010 - 2022",
+        "specs": {
+          "bodyType": "MPV/Van",
+          "segment": "Compact Van",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/CNG",
+          "engine": "1.4L / 1.3L - 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fiat_Doblo_Cargo_SX_back.jpg/1280px-Fiat_Doblo_Cargo_SX_back.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fiat_Doblo_Cargo_SX_back.jpg/1280px-Fiat_Doblo_Cargo_SX_back.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Fiat_Doblo_Facelift_20090712_front.JPG/1280px-Fiat_Doblo_Facelift_20090712_front.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Fiat_Doblo_Facelift_20090712_rear.JPG/1280px-Fiat_Doblo_Facelift_20090712_rear.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/2013_Fiat_Doblo_16V_Multijet_1.3_Rear.jpg/1280px-2013_Fiat_Doblo_16V_Multijet_1.3_Rear.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/41/87/39v8quck0gcs40oo4wkos/doblo-ii-furgon.310.jpg"
+        }
+      }
+    ],
+    "Ducato": [
+      {
+        "BrandID": 46,
+        "ModelID": 412896,
+        "Brand Name": "Fiat",
+        "Model Name": "Ducato",
+        "Serie Name": "Ducato I",
+        "Years": "1981 - 1993",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Light Commercial",
+          "drive": "FWD/AWD",
+          "fuel": "Diesel",
+          "engine": "1.8L - 2.5L Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Van",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Fiat_Ducato_I_rear_20100505.jpg/1280px-Fiat_Ducato_I_rear_20100505.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Fiat_Ducato_I_rear_20100505.jpg/1280px-Fiat_Ducato_I_rear_20100505.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Fiat_Ducato_Turbo_D_front.JPG/1280px-Fiat_Ducato_Turbo_D_front.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Fiat_Ducato_II_20090402_rear.JPG/1280px-Fiat_Ducato_II_20090402_rear.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fiat_Ducato_II_Facelift_front_20081227.jpg/1280px-Fiat_Ducato_II_Facelift_front_20081227.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/b8/cc/0ud6mjw4ocoooks848c88/ducato-iii-van.310.jpg"
+        }
+      },
+      {
+        "BrandID": 46,
+        "ModelID": 3578,
+        "Brand Name": "Fiat",
+        "Model Name": "Ducato",
+        "Serie Name": "Ducato II",
+        "Years": "1993 - 2006",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Light Commercial",
+          "drive": "FWD/AWD",
+          "fuel": "Diesel",
+          "engine": "1.9L - 2.8L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Fiat_Ducato_I_rear_20100505.jpg/1280px-Fiat_Ducato_I_rear_20100505.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Fiat_Ducato_I_rear_20100505.jpg/1280px-Fiat_Ducato_I_rear_20100505.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Fiat_Ducato_Turbo_D_front.JPG/1280px-Fiat_Ducato_Turbo_D_front.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Fiat_Ducato_II_20090402_rear.JPG/1280px-Fiat_Ducato_II_20090402_rear.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fiat_Ducato_II_Facelift_front_20081227.jpg/1280px-Fiat_Ducato_II_Facelift_front_20081227.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/b8/cc/0ud6mjw4ocoooks848c88/ducato-iii-van.310.jpg"
+        }
+      },
+      {
+        "BrandID": 46,
+        "ModelID": 139375,
+        "Brand Name": "Fiat",
+        "Model Name": "Ducato",
+        "Serie Name": "Ducato III",
+        "Years": "2006 - 3000",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Light Commercial",
+          "drive": "FWD/AWD",
+          "fuel": "Diesel/CNG/Electric",
+          "engine": "2.0L - 3.0L Diesel / Electric",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Fiat_Ducato_I_rear_20100505.jpg/1280px-Fiat_Ducato_I_rear_20100505.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Fiat_Ducato_I_rear_20100505.jpg/1280px-Fiat_Ducato_I_rear_20100505.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Fiat_Ducato_Turbo_D_front.JPG/1280px-Fiat_Ducato_Turbo_D_front.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Fiat_Ducato_II_20090402_rear.JPG/1280px-Fiat_Ducato_II_20090402_rear.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fiat_Ducato_II_Facelift_front_20081227.jpg/1280px-Fiat_Ducato_II_Facelift_front_20081227.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/b8/cc/0ud6mjw4ocoooks848c88/ducato-iii-van.310.jpg"
+        }
+      }
+    ],
+    "Fiorino": [
+      {
+        "BrandID": 46,
+        "ModelID": 468,
+        "Brand Name": "Fiat",
+        "Model Name": "Fiorino",
+        "Serie Name": "Fiorino",
+        "Years": "1977 - 3000",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Small Van",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/CNG",
+          "engine": "1.3L Diesel / 1.4L",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {},
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/au/if/deozi40s0okskckgog444/fiorino-ii-van.310.jpg"
+        }
+      }
+    ],
+    "Freemont": [
+      {
+        "BrandID": 46,
+        "ModelID": 414150,
+        "Brand Name": "Fiat",
+        "Model Name": "Freemont",
+        "Serie Name": "Freemont",
+        "Years": "2011 - 2016",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Crossover",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L Diesel / 2.4L / 3.6L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Fiat Freemont to przestronny SUV/crossover powstały we współpracy z Chryslerem (bliźniak Dodge'a Journey), idealny dla dużych rodzin.",
+              "en": "Fiat Freemont is a spacious SUV/crossover created in cooperation with Chrysler (twin of Dodge Journey), ideal for large families.",
+              "de": "Fiat Freemont ist ein geräumiger SUV/Crossover, der in Zusammenarbeit mit Chrysler (Zwilling des Dodge Journey) entwickelt wurde und sich ideal für große Familien eignet.",
+              "uk": "Fiat Freemont — просторий позашляховик/кросовер, створений у співпраці з Chrysler (двійник Dodge Journey), ідеальний для великих сімей.",
+              "ru": "Fiat Freemont — просторный внедорожник/кроссовер, созданный в сотрудничестве с Chrysler (близнец Dodge Journey), идеально подходящий для больших семей.",
+              "zh": "菲亚特 Freemont 是一款与克莱斯勒（道奇酷威的双胞胎）合作打造的宽敞 SUV/跨界车，非常适合大家庭。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Fiat"
+              },
+              "okres produkcji": "2011–2016",
+              "miejsce produkcji": {
+                "pl": "Toluca, Meksyk",
+                "en": "Toluca, Mexico",
+                "de": "Toluca, Mexiko",
+                "uk": "Толука, Мексика",
+                "ru": "Толука, Мексика",
+                "zh": "墨西哥托卢卡"
+              },
+              "platforma": {
+                "pl": "Chrysler JC",
+                "en": "Chrysler JC",
+                "de": "Chrysler J.C",
+                "uk": "Chrysler JC",
+                "ru": "Chrysler JC",
+                "zh": "克莱斯勒 JC"
+              },
+              "silnik": {
+                "pl": "2.0L MultiJet / 3.6L Pentastar",
+                "en": "2.0L MultiJet / 3.6L Pentastar",
+                "de": "2,0 l MultiJet / 3,6 l Pentastar",
+                "uk": "2.0L MultiJet / 3.6L Pentastar",
+                "ru": "2,0 л MultiJet / 3,6 л Pentastar",
+                "zh": "2.0L MultiJet / 3.6L Pentastar"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/75/7a/fsg8wfc4csk48scw48gg8/freemont.310.jpg"
+        }
+      }
+    ],
+    "Fullback": [
+      {
+        "BrandID": 46,
+        "ModelID": 416822,
+        "Brand Name": "Fiat",
+        "Model Name": "Fullback",
+        "Serie Name": "Fullback",
+        "Years": "2016 - 2019",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Mid-size Pickup",
+          "drive": "RWD/AWD",
+          "fuel": "Diesel",
+          "engine": "2.4L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {},
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7t/m4/6oxhrxssk08sgcw440g04/fiat-fullback-15.310.jpg"
+        }
+      }
+    ],
+    "Grande Punto": [
+      {
+        "BrandID": 46,
+        "ModelID": 469,
+        "Brand Name": "Fiat",
+        "Model Name": "Grande Punto",
+        "Serie Name": "Grande Punto",
+        "Years": "2005 - 2012",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Supermini",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L - 1.9L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Fiat Grande Punto to trzecia generacja popularnego modelu, wyróżniająca się stylistyką od Giugiaro przypominającą Maserati.",
+              "en": "Fiat Grande Punto is the third generation of the popular model, distinguished by a Giugiaro styling reminiscent of Maserati.",
+              "de": "Der Fiat Grande Punto ist die dritte Generation des beliebten Modells und zeichnet sich durch seinen Giugiaro-Stil aus, der an Maserati erinnert.",
+              "uk": "Fiat Grande Punto — третє покоління популярної моделі, вирізняється стилем Giugiaro, що нагадує Maserati.",
+              "ru": "Fiat Grande Punto — третье поколение популярной модели, отличающееся стилем Джуджаро, напоминающим Maserati.",
+              "zh": "菲亚特 Grande Punto 是流行车型的第三代，其特点是 Giugiaro 造型让人想起玛莎拉蒂。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Fiat"
+              },
+              "okres produkcji": "2005–2012",
+              "miejsce produkcji": {
+                "pl": "Melfi, Włochy",
+                "en": "Melfi, Italy",
+                "de": "Melfi, Italien",
+                "uk": "Мельфі, Італія",
+                "ru": "Мелфи, Италия",
+                "zh": "意大利梅尔菲"
+              },
+              "platforma": {
+                "pl": "GM Fiat Small",
+                "en": "GM Fiat Small",
+                "de": "GM Fiat Klein",
+                "uk": "GM Fiat Small",
+                "ru": "GM Fiat Small",
+                "zh": "通用菲亚特小型"
+              },
+              "silnik": {
+                "pl": "1.2L - 1.9L MultiJet",
+                "en": "1.2L - 1.9L MultiJet",
+                "de": "1,2 l – 1,9 l MultiJet",
+                "uk": "1.2L - 1.9L MultiJet",
+                "ru": "1,2–1,9 л MultiJet",
+                "zh": "1.2L - 1.9L MultiJet"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/14/h3/mjl89z34kcgsskkscwok4/grande-punto.310.jpg"
+        }
+      }
+    ],
+    "Multipla": [
+      {
+        "BrandID": 46,
+        "ModelID": 413124,
+        "Brand Name": "Fiat",
+        "Model Name": "Multipla",
+        "Serie Name": "Multipla",
+        "Years": "1998 - 2010",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/CNG",
+          "engine": "1.6L / 1.9L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Fiat Multipla to niezwykle praktyczny minivan o kontrowersyjnej, ale genialnej stylistyce i układzie siedzeń 3+3.",
+              "en": "Fiat Multipla is an extremely practical minivan with a controversial but brilliant style and a 3+3 seating arrangement.",
+              "de": "Der Fiat Multipla ist ein äußerst praktischer Minivan mit kontroversem, aber brillantem Stil und einer 3+3-Sitzanordnung.",
+              "uk": "Fiat Multipla — це надзвичайно практичний мінівен із суперечливим, але блискучим стилем і розташуванням сидінь 3+3.",
+              "ru": "Fiat Multipla — чрезвычайно практичный минивэн с противоречивым, но ярким стилем и расположением сидений 3+3.",
+              "zh": "菲亚特 Multipla 是一款极其实用的小型货车，具有争议但辉煌的风格和 3+3 座位安排。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Fiat"
+              },
+              "okres produkcji": "1998–2010",
+              "miejsce produkcji": {
+                "pl": "Turyn/Mediolan, Włochy",
+                "en": "Turin/Milan, Italy",
+                "de": "Turin/Mailand, Italien",
+                "uk": "Турин/Мілан, Італія",
+                "ru": "Турин/Милан, Италия",
+                "zh": "意大利都灵/米兰"
+              },
+              "platforma": {
+                "pl": "Fiat C1",
+                "en": "Fiat C1",
+                "de": "Fiat C1",
+                "uk": "Fiat C1",
+                "ru": "Fiat C1",
+                "zh": "菲亚特 C1"
+              },
+              "silnik": {
+                "pl": "1.6L / 1.9L JTD",
+                "en": "1.6L / 1.9L JTD",
+                "de": "1,6 l / 1,9 l JTD",
+                "uk": "1.6L / 1.9L JTD",
+                "ru": "1,6 л / 1,9 л JTD",
+                "zh": "1.6L / 1.9L JTD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bo/d7/8yc7ijso8sg8gscc488gs/multipla.310.jpg"
+        }
+      }
+    ],
+    "Panda": [
+      {
+        "BrandID": 46,
+        "ModelID": 414151,
+        "Brand Name": "Fiat",
+        "Model Name": "Panda",
+        "Serie Name": "Panda I",
+        "Years": "1980 - 2003",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "0.65L - 1.1L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Fiat Panda I to legenda motoryzacji, proste, tanie i niezawodne auto miejskie zaprojektowane przez Giugiaro.",
+              "en": "Fiat Panda I is an automotive legend, a simple, cheap and reliable city car designed by Giugiaro.",
+              "de": "Der Fiat Panda I ist eine Automobillegende, ein einfaches, günstiges und zuverlässiges Stadtauto, entworfen von Giugiaro.",
+              "uk": "Fiat Panda I — це автомобільна легенда, простий, дешевий і надійний міський автомобіль, розроблений Джуджаро.",
+              "ru": "Fiat Panda I — автомобильная легенда, простой, дешевый и надежный городской автомобиль, разработанный Джуджаро.",
+              "zh": "菲亚特 Panda I 是汽车传奇，是 Giugiaro 设计的一款简单、廉价且可靠的城市汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Fiat"
+              },
+              "okres produkcji": "1980–2003",
+              "miejsce produkcji": {
+                "pl": "Turyn, Włochy",
+                "en": "Turin, Italy",
+                "de": "Turin, Italien",
+                "uk": "Турин, Італія",
+                "ru": "Турин, Италия",
+                "zh": "意大利都灵"
+              },
+              "platforma": {
+                "pl": "Fiat 141",
+                "en": "Fiat 141",
+                "de": "Fiat 141",
+                "uk": "Fiat 141",
+                "ru": "Fiat 141",
+                "zh": "菲亚特 141"
+              },
+              "silnik": {
+                "pl": "0.65L - 1.1L",
+                "en": "0.65L - 1.1L",
+                "de": "0,65 l – 1,1 l",
+                "uk": "0,65 л – 1,1 л",
+                "ru": "0,65–1,1 л",
+                "zh": "0.65L - 1.1L"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5q/h1/bx9a5lgc4skgo8s00ww0w/panda-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 46,
+        "ModelID": 413126,
+        "Brand Name": "Fiat",
+        "Model Name": "Panda",
+        "Serie Name": "Panda II",
+        "Years": "2003 - 2012",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/CNG",
+          "engine": "1.1L - 1.4L / 1.3L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Fiat Panda II to nowoczesny, pudełkowaty samochód miejski, który zdobył tytuł Car of the Year 2004.",
+              "en": "Fiat Panda II is a modern, boxy city car that won the title of Car of the Year 2004.",
+              "de": "Der Fiat Panda II ist ein modernes, kastenförmiges Stadtauto, das 2004 den Titel „Auto des Jahres“ gewann.",
+              "uk": "Fiat Panda II — це сучасний компактний міський автомобіль, який отримав звання «Автомобіль року 2004».",
+              "ru": "Fiat Panda II — современный квадратный городской автомобиль, получивший титул «Автомобиль года 2004».",
+              "zh": "菲亚特 Panda II 是一款现代、四四方方的城市汽车，荣获 2004 年年度汽车称号。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Fiat"
+              },
+              "okres produkcji": "2003–2012",
+              "miejsce produkcji": {
+                "pl": "Tychy, Polska",
+                "en": "Tychy, Poland",
+                "de": "Tychy, Polen",
+                "uk": "Тихи, Польща",
+                "ru": "Тыхы, Польша",
+                "zh": "波兰蒂黑"
+              },
+              "platforma": {
+                "pl": "Fiat Mini",
+                "en": "Fiat Mini",
+                "de": "Fiat Mini",
+                "uk": "Fiat Mini",
+                "ru": "Fiat Mini",
+                "zh": "菲亚特 Mini"
+              },
+              "silnik": {
+                "pl": "1.1L - 1.4L / 1.3L MultiJet",
+                "en": "1.1L - 1.4L / 1.3L MultiJet",
+                "de": "1,1L - 1,4L / 1,3L MultiJet",
+                "uk": "1,1 л — 1,4 л / 1,3 л MultiJet",
+                "ru": "1,1 л — 1,4 л / 1,3 л MultiJet",
+                "zh": "1.1L - 1.4L / 1.3L MultiJet"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Fiat_Panda_front_20071205.jpg/1280px-Fiat_Panda_front_20071205.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Fiat_Panda_front_20071205.jpg/1280px-Fiat_Panda_front_20071205.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5q/h1/bx9a5lgc4skgo8s00ww0w/panda-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 46,
+        "ModelID": 413130,
+        "Brand Name": "Fiat",
+        "Model Name": "Panda",
+        "Serie Name": "Panda III",
+        "Years": "2011 - 3000",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid/CNG",
+          "engine": "0.9L / 1.0L / 1.2L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Fiat Panda III to ewolucja sprawdzonej koncepcji, oferująca więcej komfortu i nowoczesne silniki TwinAir.",
+              "en": "Fiat Panda III is an evolution of the proven concept, offering more comfort and modern TwinAir engines.",
+              "de": "Der Fiat Panda III ist eine Weiterentwicklung eines bewährten Konzepts und bietet mehr Komfort und moderne TwinAir-Motoren.",
+              "uk": "Fiat Panda III — це еволюція перевіреного концепція, що пропонує більше комфорту та сучасні двигуни TwinAir.",
+              "ru": "Fiat Panda III — это развитие проверенной концепции, предлагающее больше комфорта и современные двигатели TwinAir.",
+              "zh": "菲亚特 Panda III 是经过验证的概念的演变，提供更多的舒适度和现代双空气发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Fiat"
+              },
+              "okres produkcji": {
+                "pl": "od 2011",
+                "en": "from 2011",
+                "de": "seit 2011",
+                "uk": "з 2011 р.",
+                "ru": "с 2011 года",
+                "zh": "2011 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Pomigliano d'Arco, Włochy",
+                "en": "Pomigliano d'Arco, Italy",
+                "de": "Pomigliano d'Arco, Italien",
+                "uk": "Помільяно-д'Арко, Італія",
+                "ru": "Помильяно-д'Арко, Италия",
+                "zh": "意大利波米利亚诺达尔科"
+              },
+              "platforma": {
+                "pl": "Fiat Mini",
+                "en": "Fiat Mini",
+                "de": "Fiat Mini",
+                "uk": "Fiat Mini",
+                "ru": "Fiat Mini",
+                "zh": "菲亚特 Mini"
+              },
+              "silnik": {
+                "pl": "0.9L TwinAir - 1.2L",
+                "en": "0.9L TwinAir - 1.2L",
+                "de": "0,9 l TwinAir – 1,2 l",
+                "uk": "0,9 л TwinAir - 1,2 л",
+                "ru": "0,9 л TwinAir — 1,2 л",
+                "zh": "0.9L TwinAir - 1.2L"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5q/h1/bx9a5lgc4skgo8s00ww0w/panda-iii.310.jpg"
+        }
+      }
+    ],
+    "Punto": [
+      {
+        "BrandID": 46,
+        "ModelID": 412952,
+        "Brand Name": "Fiat",
+        "Model Name": "Punto",
+        "Serie Name": "Punto I",
+        "Years": "1993 - 1999",
+        "specs": {
+          "bodyType": "Hatchback/Convertible",
+          "segment": "Supermini",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.1L - 1.7L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {},
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7n/l2/8yl5n70o04gww0ws0sg8w/punto-iv-hatch.310.jpg"
+        }
+      },
+      {
+        "BrandID": 46,
+        "ModelID": 131990,
+        "Brand Name": "Fiat",
+        "Model Name": "Punto",
+        "Serie Name": "Punto II",
+        "Years": "1999 - 2010",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Supermini",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L - 1.9L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {},
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7n/l2/8yl5n70o04gww0ws0sg8w/punto-iv-hatch.310.jpg"
+        }
+      },
+      {
+        "BrandID": 46,
+        "ModelID": 132665,
+        "Brand Name": "Fiat",
+        "Model Name": "Punto",
+        "Serie Name": "Punto Evo / 2012",
+        "Years": "2009 - 2018",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Supermini",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "0.9L - 1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {},
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7n/l2/8yl5n70o04gww0ws0sg8w/punto-iv-hatch.310.jpg"
+        }
+      }
+    ],
+    "Qubo": [
+      {
+        "BrandID": 46,
+        "ModelID": 414152,
+        "Brand Name": "Fiat",
+        "Model Name": "Qubo",
+        "Serie Name": "Qubo",
+        "Years": "2008 - 3000",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Small MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.3L Diesel / 1.4L",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {}
+        }
+      }
+    ],
+    "Scudo": [
+      {
+        "BrandID": 46,
+        "ModelID": 413131,
+        "Brand Name": "Fiat",
+        "Model Name": "Scudo",
+        "Serie Name": "Scudo I",
+        "Years": "1996 - 2006",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Compact Van",
+          "drive": "FWD",
+          "fuel": "Diesel",
+          "engine": "1.9L - 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {},
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cy/g8/3az1qnsw0ogwskkc0c0k4/scudo-ii-furgon.310.jpg"
+        }
+      },
+      {
+        "BrandID": 46,
+        "ModelID": 413132,
+        "Brand Name": "Fiat",
+        "Model Name": "Scudo",
+        "Serie Name": "Scudo II",
+        "Years": "2007 - 2016",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Compact Van",
+          "drive": "FWD",
+          "fuel": "Diesel",
+          "engine": "1.6L - 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {},
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cy/g8/3az1qnsw0ogwskkc0c0k4/scudo-ii-furgon.310.jpg"
+        }
+      }
+    ],
+    "Sedici": [
+      {
+        "BrandID": 46,
+        "ModelID": 414144,
+        "Brand Name": "Fiat",
+        "Model Name": "Sedici",
+        "Serie Name": "Sedici",
+        "Years": "2006 - 2014",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Small SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L / 1.9L - 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {},
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/dt/6r/y2e0zzcowockwgogkw0oo/fiat-sedici-08.310.jpg"
+        }
+      }
+    ],
+    "Stilo": [
+      {
+        "BrandID": 46,
+        "ModelID": 487,
+        "Brand Name": "Fiat",
+        "Model Name": "Stilo",
+        "Serie Name": "Stilo",
+        "Years": "2001 - 2008",
+        "specs": {
+          "bodyType": "Hatchback/Wagon",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L - 2.4L / 1.9L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Fiat Stilo to ambitny kompakt Fiata, oferujący bogate wyposażenie i przestronne nadwozie, dostępny także jako kombi Multi Wagon.",
+              "en": "Fiat Stilo is an ambitious Fiat compact, offering rich equipment and a spacious body, also available as a Multi Wagon station wagon.",
+              "de": "Der Fiat Stilo ist ein ambitionierter Fiat-Kompaktwagen mit reichhaltiger Ausstattung und geräumiger Karosserie, der auch als Multi Wagon Kombi erhältlich ist.",
+              "uk": "Fiat Stilo — це амбітний компактний автомобіль Fiat, який пропонує багате обладнання та просторий кузов, також доступний як універсал Multi Wagon.",
+              "ru": "Fiat Stilo — амбициозный компактный Fiat, предлагающий богатое оснащение и просторный кузов, также доступный в виде универсала Multi Wagon.",
+              "zh": "菲亚特 Stilo 是一款雄心勃勃的菲亚特紧凑型车，提供丰富的装备和宽敞的车身，也可用作 Multi Wagon 旅行车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Fiat"
+              },
+              "okres produkcji": "2001–2008",
+              "miejsce produkcji": {
+                "pl": "Cassino, Włochy",
+                "en": "Cassino, Italy",
+                "de": "Cassino, Italien",
+                "uk": "Cassino, Італія",
+                "ru": "Кассино, Италия",
+                "zh": "意大利卡西诺"
+              },
+              "platforma": {
+                "pl": "Fiat C2",
+                "en": "Fiat C2",
+                "de": "Fiat C2",
+                "uk": "Fiat C2",
+                "ru": "Fiat C2",
+                "zh": "菲亚特 C2"
+              },
+              "silnik": {
+                "pl": "1.2L - 2.4L Abarth",
+                "en": "1.2L - 2.4L Abarth",
+                "de": "1,2 l – 2,4 l Abarth",
+                "uk": "1.2L - 2.4L Abarth",
+                "ru": "1,2 л — 2,4 л Abarth",
+                "zh": "1.2L - 2.4L Abarth"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7g/f0/k6v4frc408s0sscssk8cw/stilo-hatch.310.jpg"
+        }
+      }
+    ],
+    "Tipo": [
+      {
+        "BrandID": 46,
+        "ModelID": 492,
+        "Brand Name": "Fiat",
+        "Model Name": "Tipo",
+        "Serie Name": "Tipo (Classic)",
+        "Years": "1988 - 1995",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.1L - 2.0L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Fiat Tipo (1988) to innowacyjny kompakt, który zdobył tytuł Car of the Year 1989, znany z przestronności i ocynkowanego nadwozia.",
+              "en": "Fiat Tipo (1988) is an innovative compact that won the title of Car of the Year 1989, known for its spaciousness and galvanized body.",
+              "de": "Der Fiat Tipo (1988) ist ein innovativer Kompaktwagen, der 1989 den Titel „Auto des Jahres“ gewann und für sein Geräumigkeit und die verzinkte Karosserie bekannt ist.",
+              "uk": "Fiat Tipo (1988) — це інноваційний компактний автомобіль, який отримав титул «Автомобіль року 1989», відомий своєю місткістю та оцинкованим кузовом.",
+              "ru": "Fiat Tipo (1988 г.) — инновационный компактный автомобиль, завоевавший титул «Автомобиль года 1989 г.», известный своим вместительностью и оцинкованным кузовом.",
+              "zh": "Fiat Tipo (1988) 是一款创新紧凑型车，荣获 1989 年度汽车称号，以其宽敞的空间和镀锌车身而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Fiat"
+              },
+              "okres produkcji": "1988–1995",
+              "miejsce produkcji": {
+                "pl": "Cassino, Włochy",
+                "en": "Cassino, Italy",
+                "de": "Cassino, Italien",
+                "uk": "Кассіно, Італія",
+                "ru": "Кассино, Италия",
+                "zh": "意大利卡西诺"
+              },
+              "platforma": {
+                "pl": "Fiat Tipo Two",
+                "en": "Fiat Tipo Two",
+                "de": "Fiat Tipo Two",
+                "uk": "Fiat Tipo Two",
+                "ru": "Fiat Tipo Two",
+                "zh": "Fiat Tipo Two"
+              },
+              "silnik": {
+                "pl": "1.1L - 2.0L",
+                "en": "1.1L - 2.0L",
+                "de": "1,1 l – 2,0 l",
+                "uk": "1.1L - 2.0L",
+                "ru": "1,1–2,0 л",
+                "zh": "1.1L - 2.0L"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cr/t3/d36yj0o48kwwsgo8ws8os/fiat-tipo-10.310.jpg"
+        }
+      },
+      {
+        "BrandID": 46,
+        "ModelID": 416823,
+        "Brand Name": "Fiat",
+        "Model Name": "Tipo",
+        "Serie Name": "Tipo (Modern)",
+        "Years": "2015 - 3000",
+        "specs": {
+          "bodyType": "Sedan/Hatchback/Wagon",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "1.0L - 1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nowy Fiat Tipo to budżetowy kompakt oferujący znakomity stosunek ceny do wielkości i wyposażenia.",
+              "en": "The new Fiat Tipo is a budget compact offering an excellent price-to-size and equipment ratio.",
+              "de": "Der neue Fiat Tipo ist ein preisgünstiger Kompaktwagen mit einem hervorragenden Preis-Leistungs-Verhältnis.",
+              "uk": "Новий Fiat Tipo — це бюджетний компактний автомобіль із чудовим співвідношенням ціни та розміру та обладнання.",
+              "ru": "Новый Fiat Tipo — это бюджетный компактный автомобиль с отличным соотношением цены и размера, а также оснащения.",
+              "zh": "新款 Fiat Tipo 是一款经济型紧凑型车，具有出色的性价比和设备比。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Fiat"
+              },
+              "okres produkcji": {
+                "pl": "od 2015",
+                "en": "from 2015",
+                "de": "ab 2015",
+                "uk": "з 2015",
+                "ru": "с 2015 г.",
+                "zh": "2015 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Bursa, Turcja",
+                "en": "Bursa, Türkiye",
+                "de": "Bursa, Türkiye",
+                "uk": "Бурса, Туреччина",
+                "ru": "Бурса, Турция",
+                "zh": "土耳其布尔萨"
+              },
+              "platforma": {
+                "pl": "GM Fiat Small Wide",
+                "en": "GM Fiat Small Wide",
+                "de": "GM Fiat Small Wide",
+                "uk": "GM Fiat Small Wide",
+                "ru": "GM Fiat Small Wide",
+                "zh": "GM Fiat Small Wide"
+              },
+              "silnik": {
+                "pl": "1.0L - 1.6L",
+                "en": "1.0L - 1.6L",
+                "de": "1.0L - 1.6L",
+                "uk": "1.0L - 1.6L",
+                "ru": "1,0 л - 1,6 л",
+                "zh": "1.0L - 1.6L"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cr/t3/d36yj0o48kwwsgo8ws8os/fiat-tipo-10.310.jpg"
+        }
+      }
+    ],
+    "Ulysse": [
+      {
+        "BrandID": 46,
+        "ModelID": 136835,
+        "Brand Name": "Fiat",
+        "Model Name": "Ulysse",
+        "Serie Name": "Ulysse I",
+        "Years": "1994 - 2002",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Large MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.8L - 2.1L",
+          "isOldtimer": true,
+          "vehicleType": "Van",
+          "wiki": {},
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/68/p3/2ko8rr40480o40ckkcccg/ulysse-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 46,
+        "ModelID": 132443,
+        "Brand Name": "Fiat",
+        "Model Name": "Ulysse",
+        "Serie Name": "Ulysse II",
+        "Years": "2002 - 2011",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Large MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 3.0L",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {},
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/68/p3/2ko8rr40480o40ckkcccg/ulysse-ii.310.jpg"
+        }
+      }
+    ],
+    "Uno": [
+      {
+        "BrandID": 46,
+        "ModelID": 494,
+        "Brand Name": "Fiat",
+        "Model Name": "Uno",
+        "Serie Name": "Uno",
+        "Years": "1983 - 1995",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Supermini",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "0.9L - 1.4L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {},
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/44/t0/iwuqndc0c0cw0oc4wckkk/uno-ii.310.jpg"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "brand": "Geely",
+  "models": {
+    "Atlas": [
+      {
+        "BrandID": 51,
+        "ModelID": 413921,
+        "Brand Name": "Geely",
+        "Model Name": "Atlas",
+        "Serie Name": "Atlas (Boyue)",
+        "Years": "2016 - 2022",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "1.8L Turbo / 2.0L / 2.4L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Geely Atlas (znany też jako Boyue) to kompaktowy SUV, który odniósł sukces dzięki europejskiemu designowi (zaprojektowanemu przez Petera Horbury'ego) i bogatemu wyposażeniu.",
+              "en": "Geely Atlas (also known as Boyue) is a compact SUV that achieved success thanks to its European design (designed by Peter Horbury) and rich equipment.",
+              "de": "Geely Atlas (auch bekannt als Boyue) ist ein kompakter SUV, der dank seines europäischen Designs (entworfen von Peter Horbury) und seiner reichhaltigen Ausstattung Erfolg hatte.",
+              "uk": "Geely Atlas (також відомий як Boyue) — компактний позашляховик, який досяг успіху завдяки своєму європейському дизайну (від Пітера Хорбері) і багатому оснащенню.",
+              "ru": "Geely Atlas (также известный как Boyue) — компактный внедорожник, добившийся успеха благодаря европейскому дизайну (дизайн Питера Хорбери) и богатому оснащению.",
+              "zh": "吉利Atlas（又名博越）是一款紧凑型SUV，凭借欧洲设计（由Peter Horbury设计）和丰富的装备而取得成功。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Geely"
+              },
+              "okres produkcji": {
+                "pl": "od 2016",
+                "en": "from 2016",
+                "de": "ab 2016",
+                "uk": "з 2016 року",
+                "ru": "от 2016 года.",
+                "zh": "2016年起"
+              },
+              "segment": {
+                "pl": "C-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 51,
+        "ModelID": 415891,
+        "Brand Name": "Geely",
+        "Model Name": "Atlas",
+        "Serie Name": "Atlas Pro",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.5L Turbo MHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Geely Atlas (znany też jako Boyue) to kompaktowy SUV, który odniósł sukces dzięki europejskiemu designowi (zaprojektowanemu przez Petera Horbury'ego) i bogatemu wyposażeniu.",
+              "en": "Geely Atlas (also known as Boyue) is a compact SUV that achieved success thanks to its European design (designed by Peter Horbury) and rich equipment.",
+              "de": "Geely Atlas (auch bekannt als Boyue) ist ein kompakter SUV, der dank seines europäischen Designs (entworfen von Peter Horbury) und seiner reichhaltigen Ausstattung Erfolg hatte.",
+              "uk": "Geely Atlas (також відомий як Boyue) — компактний позашляховик, який досяг успіху завдяки європейському дизайну (від Пітера Хорбері) і багатому оснащенню.",
+              "ru": "Geely Atlas (также известный как Boyue) — компактный внедорожник, добившийся успеха благодаря европейскому дизайну (дизайн Питера Хорбери) и богатому оснащению.",
+              "zh": "吉利Atlas（又名博越）是一款紧凑型SUV，凭借欧洲设计（由Peter Horbury设计）和丰富的装备而取得成功。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Geely"
+              },
+              "okres produkcji": {
+                "pl": "od 2016",
+                "en": "from 2016",
+                "de": "ab 2016",
+                "uk": "з 2016 року",
+                "ru": "от 2016 года.",
+                "zh": "2016 年起"
+              },
+              "segment": {
+                "pl": "C-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Coolray": [
+      {
+        "BrandID": 51,
+        "ModelID": 415352,
+        "Brand Name": "Geely",
+        "Model Name": "Coolray",
+        "Serie Name": "Coolray (Binyue)",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Subcompact SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Geely Coolray to dynamiczny crossover segmentu B, skierowany do młodszych kierowców. Wyróżnia się sportową sylwetką i żwawym silnikiem turbo.",
+              "en": "Geely Coolray is a dynamic B-segment crossover aimed at younger drivers. It stands out with a sporty silhouette and a lively turbo engine.",
+              "de": "Geely Coolray ist ein dynamischer Crossover im B-Segment, der sich an jüngere Fahrer richtet. Er zeichnet sich durch eine sportliche Silhouette und einen spritzigen Turbomotor aus.",
+              "uk": "Geely Coolray — динамічний кросовер B-сегменту, призначений для молодих водіїв. Він виділяється спортивним силуетом і жвавим турбомотором.",
+              "ru": "Geely Coolray — динамичный кроссовер B-сегмента, ориентированный на молодых водителей. Он выделяется спортивным силуэтом и энергичным турбодвигателем.",
+              "zh": "吉利酷锐是一款针对年轻驾驶员的动感 B 级跨界车。它以运动的轮廓和充满活力的涡轮发动机而引人注目。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Geely"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "from 2018",
+                "de": "ab 2018",
+                "uk": "з 2018 року",
+                "ru": "от 2018 года.",
+                "zh": "2018 年起"
+              },
+              "segment": {
+                "pl": "B-SUV"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Emgrand": [
+      {
+        "BrandID": 51,
+        "ModelID": 415350,
+        "Brand Name": "Geely",
+        "Model Name": "Emgrand",
+        "Serie Name": "Emgrand EC7",
+        "Years": "2009 - 2017",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L / 1.8L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Geely Emgrand (wcześniej Emgrand EC7) to jeden z najlepiej sprzedających się chińskich sedanów. Oferuje solidną konstrukcję, przestronne wnętrze i bogate wyposażenie w przystępnej cenie, co uczyniło go hitem eksportowym.",
+              "en": "Geely Emgrand (formerly Emgrand EC7) is one of the best-selling Chinese sedans. It offers a solid structure, spacious interior and rich equipment at an affordable price, which made it an export hit.",
+              "de": "Geely Emgrand (ehemals Emgrand EC7) ist eine der meistverkauften chinesischen Limousinen. Er bietet eine solide Struktur, einen geräumigen Innenraum und eine reichhaltige Ausstattung zu einem erschwinglichen Preis, was ihn zu einem Exportschlager machte.",
+              "uk": "Geely Emgrand (раніше Emgrand EC7) — один із найбільш продаваних китайських седанів. Він пропонує міцну структуру, просторий салон і багате обладнання за доступною ціною, що зробило його експортним хітом.",
+              "ru": "Geely Emgrand (ранее Emgrand EC7) — один из самых продаваемых китайских седанов. Он предлагает прочную конструкцию, просторный салон и богатое оснащение по доступной цене, что сделало его экспортным хитом.",
+              "zh": "吉利帝豪（原帝豪 EC7）是中国最畅销的轿车之一。它结构坚固，内部空间宽敞，设备齐全，价格实惠，深受出口青睐。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Geely Auto",
+                "en": "Geely Auto",
+                "de": "Geely Auto",
+                "uk": "Geely Auto",
+                "ru": "Geely Auto",
+                "zh": "吉利汽车"
+              },
+              "okres produkcji": {
+                "pl": "od 2009",
+                "en": "from 2009",
+                "de": "ab 2009",
+                "uk": "з 2009 року",
+                "ru": "2009 г.",
+                "zh": "2009 年起"
+              },
+              "segment": {
+                "pl": "C (Kompakt)",
+                "en": "C (Kompakt)",
+                "de": "C (Kompakt)",
+                "uk": "C (Kompakt)",
+                "ru": "C (Компакт)",
+                "zh": "C (Kompakt)"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 51,
+        "ModelID": 416830,
+        "Brand Name": "Geely",
+        "Model Name": "Emgrand",
+        "Serie Name": "Emgrand 7 New",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nowa generacja Geely Emgrand kontynuuje sukces poprzednika, oferując nowocześniejszy design i lepsze materiały wykończeniowe. Bazuje na platformie BMA, współdzielonej z modelami Volvo.",
+              "en": "The new generation of Geely Emgrand continues the success of its predecessor, offering a more modern design and better finishing materials. It is based on the BMA platform, shared with Volvo models.",
+              "de": "Die neue Generation des Geely Emgrand setzt den Erfolg seines Vorgängers fort und bietet ein moderneres Design und bessere Verarbeitungsmaterialien. Es basiert auf der BMA-Plattform, die mit Volvo-Modellen geteilt wird.",
+              "uk": "Нове покоління Geely Emgrand продовжує успіх свого попередника, пропонуючи більш сучасний дизайн і кращі матеріали обробки. Він базується на платформі BMA, яка використовується спільно з моделями Volvo.",
+              "ru": "Новое поколение Geely Emgrand продолжает успех своего предшественника, предлагая более современный дизайн и лучшие материалы отделки. Он основан на платформе BMA, используемой в моделях Volvo.",
+              "zh": "新一代吉利帝豪延续了其前身的成功，提供了更现代的设计和更好的饰面材料。它基于BMA平台，与沃尔沃车型共享。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Geely Auto",
+                "en": "Geely Auto",
+                "de": "Geely Auto",
+                "uk": "Geely Auto",
+                "ru": "Geely Auto",
+                "zh": "吉利汽车"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "from 2018",
+                "de": "ab 2018",
+                "uk": "2018 року випуску",
+                "ru": "2018 года.",
+                "zh": "2018 年起"
+              },
+              "segment": {
+                "pl": "C (Kompakt)",
+                "en": "C (Kompakt)",
+                "de": "C (Kompakt)",
+                "uk": "C (Kompakt)",
+                "ru": "C (Компакт)",
+                "zh": "C (Kompakt)"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Emgrand GT": [
+      {
+        "BrandID": 51,
+        "ModelID": 415838,
+        "Brand Name": "Geely",
+        "Model Name": "Emgrand GT",
+        "Serie Name": "Emgrand GT (Borui)",
+        "Years": "2015 - 2020",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.8L Turbo / 2.4L / 3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Geely Emgrand GT (znany jako Borui) to flagowa limuzyna marki, często nazywana 'najpiękniejszym chińskim samochodem'. Zaprojektowana przez Petera Horbury'ego, oferuje komfort i technologie na poziomie marek premium.",
+              "en": "Geely Emgrand GT (known as Borui) is the brand's flagship limousine, often called 'the most beautiful Chinese car'. Designed by Peter Horbury, it offers comfort and technology at the level of premium brands.",
+              "de": "Geely Emgrand GT (bekannt als Borui) ist die Flaggschiff-Limousine der Marke und wird oft als „das schönste chinesische Auto“ bezeichnet. Es wurde von Peter Horbury entworfen und bietet Komfort und Technologie auf dem Niveau von Premiummarken.",
+              "uk": "Geely Emgrand GT (відомий як Borui) — флагманський лімузин бренду, який часто називають «найкрасивішим китайським автомобілем». Розроблений Пітером Хорбері, він пропонує комфорт і технології на рівні брендів преміум-класу.",
+              "ru": "Geely Emgrand GT (известный как Borui) — флагманский лимузин бренда, который часто называют «самым красивым китайским автомобилем». Разработанный Питером Хорбери, он предлагает комфорт и технологии на уровне премиальных брендов.",
+              "zh": "吉利帝豪 GT（博瑞）是该品牌的旗舰豪华轿车，通常被称为“最美的中国汽车”。它由 Peter Horbury 设计，提供优质品牌水平的舒适性和技术。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Geely Auto",
+                "en": "Geely Auto",
+                "de": "Geely Auto",
+                "uk": "Geely Auto",
+                "ru": "Geely Auto",
+                "zh": "吉利汽车"
+              },
+              "okres produkcji": "2015 - 2020",
+              "segment": {
+                "pl": "D (Klasa średnia)",
+                "en": "D (Middle class)",
+                "de": "D (Mittelklasse)",
+                "uk": "D (Середній клас)",
+                "ru": "D (Средний класс)",
+                "zh": "D（中级）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Emgrand X7": [
+      {
+        "BrandID": 51,
+        "ModelID": 415348,
+        "Brand Name": "Geely",
+        "Model Name": "Emgrand X7",
+        "Serie Name": "Emgrand X7",
+        "Years": "2011 - 2020",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.8L / 2.0L / 2.4L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Geely Emgrand X7 to pierwszy SUV marki, który zdobył popularność dzięki dobremu stosunkowi ceny do jakości. Zaprojektowany przez Giorgetto Giugiaro, oferuje przestronne wnętrze i solidne silniki.",
+              "en": "Geely Emgrand X7 is the first SUV of the brand that gained popularity thanks to its good price-quality ratio. Designed by Giorgetto Giugiaro, it offers a spacious interior and solid engines.",
+              "de": "Geely Emgrand X7 ist der erste SUV der Marke, der dank seines guten Preis-Leistungs-Verhältnisses an Popularität gewann. Es wurde von Giorgetto Giugiaro entworfen und bietet einen geräumigen Innenraum und solide Motoren.",
+              "uk": "Geely Emgrand X7 — перший позашляховик бренду, який завоював популярність завдяки гарному співвідношенню ціна-якість. Розроблений Джорджетто Джуджаро, він пропонує просторий салон і надійні двигуни.",
+              "ru": "Geely Emgrand X7 – первый внедорожник марки, завоевавший популярность благодаря хорошему соотношению цены и качества. Разработанный Джорджетто Джуджаро, он предлагает просторный салон и надежные двигатели.",
+              "zh": "吉利帝豪X7是该品牌首款SUV，凭借良好的性价比而受到青睐。它由 Giorgetto Giugiaro 设计，拥有宽敞的内部空间和坚固的发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Geely Auto",
+                "en": "Geely Auto",
+                "de": "Geely Auto",
+                "uk": "Geely Auto",
+                "ru": "Geely Auto",
+                "zh": "吉利汽车"
+              },
+              "okres produkcji": "2011 - 2020",
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型SUV"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Monjaro": [
+      {
+        "BrandID": 51,
+        "ModelID": 416831,
+        "Brand Name": "Geely",
+        "Model Name": "Monjaro",
+        "Serie Name": "Monjaro (Xingyue L)",
+        "Years": "2021 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Geely Monjaro (Xingyue L) to luksusowy SUV zbudowany na platformie CMA (wspólnej z Volvo XC40). Oferuje zaawansowane technologie, w tym systemy jazdy autonomicznej i potężne ekrany we wnętrzu.",
+              "en": "Geely Monjaro (Xingyue L) is a luxury SUV built on the CMA platform (shared with the Volvo XC40). It offers advanced technologies, including autonomous driving systems and powerful interior screens.",
+              "de": "Geely Monjaro (Xingyue L) ist ein Luxus-SUV, der auf der CMA-Plattform basiert (gemeinsam mit dem Volvo XC40). Es bietet fortschrittliche Technologien, darunter autonome Fahrsysteme und leistungsstarke Innenbildschirme.",
+              "uk": "Geely Monjaro (Xingyue L) — розкішний позашляховик, побудований на платформі CMA (спільно з Volvo XC40). Він пропонує передові технології, включаючи системи автономного водіння та потужні внутрішні екрани.",
+              "ru": "Geely Monjaro (Xingyue L) — роскошный внедорожник, построенный на платформе CMA (совместно с Volvo XC40). Он предлагает передовые технологии, в том числе системы автономного вождения и мощные внутренние экраны.",
+              "zh": "吉利Monjaro（星越L）是一款基于CMA平台（与沃尔沃XC40共用）打造的豪华SUV。它提供先进的技术，包括自动驾驶系统和强大的内部屏幕。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Geely Auto",
+                "en": "Geely Auto",
+                "de": "Geely Auto",
+                "uk": "Geely Auto",
+                "ru": "Geely Auto",
+                "zh": "吉利汽车"
+              },
+              "okres produkcji": {
+                "pl": "od 2021",
+                "en": "from 2021",
+                "de": "ab 2021",
+                "uk": "з 2021 року",
+                "ru": "с 2021 года.",
+                "zh": "2021 年起"
+              },
+              "segment": {
+                "pl": "D-SUV"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Okavango": [
+      {
+        "BrandID": 51,
+        "ModelID": 416832,
+        "Brand Name": "Geely",
+        "Model Name": "Okavango",
+        "Serie Name": "Okavango (Haoyue)",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L Turbo / 1.8L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Geely Okavango (Haoyue) to największy SUV w gamie, oferujący 7 miejsc i ogromną przestrzeń. Idealny dla dużych rodzin, łączy praktyczność vana ze stylem SUV-a.",
+              "en": "Geely Okavango (Haoyue) is the largest SUV in the range, offering 7 seats and huge space. Perfect for large families, it combines the practicality of a van with the style of an SUV.",
+              "de": "Geely Okavango (Haoyue) ist der größte SUV der Reihe und bietet 7 Sitze und viel Platz. Perfekt für große Familien, kombiniert er die Funktionalität eines Vans mit dem Stil eines SUV.",
+              "uk": "Geely Okavango (Haoyue) — найбільший позашляховик у лінійці, який пропонує 7 місць і величезний простір. Ідеально підходить для великих сімей, він поєднує в собі практичність фургона зі стилем позашляховика.",
+              "ru": "Geely Okavango (Haoyue) — самый большой внедорожник в линейке, предлагающий 7 мест и огромное пространство. Идеально подходит для больших семей, сочетает в себе практичность фургона и стиль внедорожника.",
+              "zh": "吉利奥卡万戈（豪越）是该系列中最大的 SUV，提供 7 个座位和宽敞的空间。它结合了货车的实用性和 SUV 的风格，非常适合大家庭。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Geely Auto",
+                "en": "Geely Auto",
+                "de": "Geely Auto",
+                "uk": "Джилі Авто",
+                "ru": "Джили Авто",
+                "zh": "吉利汽车"
+              },
+              "okres produkcji": {
+                "pl": "od 2020",
+                "en": "from 2020",
+                "de": "ab 2020",
+                "uk": "з 2020",
+                "ru": "с 2020 года",
+                "zh": "2020年起"
+              },
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний позашляховик",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型SUV"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Tugella": [
+      {
+        "BrandID": 51,
+        "ModelID": 415842,
+        "Brand Name": "Geely",
+        "Model Name": "Tugella",
+        "Serie Name": "Tugella (Xingyue)",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "SUV Coupe",
+          "segment": "Compact SUV Coupe",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Geely Tugella (Xingyue) to stylowy SUV Coupe o sportowym zacięciu. Oparty na platformie CMA, oferuje dynamiczne osiągi (silnik 2.0T z Volvo) i luksusowe wykończenie.",
+              "en": "Geely Tugella (Xingyue) is a stylish SUV Coupe with a sporty flair. Based on the CMA platform, it offers dynamic performance (2.0T engine from Volvo) and luxurious finish.",
+              "de": "Geely Tugella (Xingyue) ist ein stilvolles SUV-Coupé mit sportlichem Flair. Basierend auf der CMA-Plattform bietet es dynamische Leistung (2.0T-Motor von Volvo) und luxuriöse Verarbeitung.",
+              "uk": "Geely Tugella (Xingyue) — це стильний позашляховик-купе зі спортивним відтінком. Базований на платформі CMA, він пропонує динамічні характеристики (двигун 2.0T від Volvo) і розкішну обробку.",
+              "ru": "Geely Tugella (Xingyue) — стильный внедорожник-купе со спортивным оттенком. Основанный на платформе CMA, он предлагает динамичные характеристики (двигатель 2.0T от Volvo) и роскошную отделку.",
+              "zh": "吉利图盖拉（星越）是一款兼具运动风格的时尚轿跑SUV。基于CMA平台，提供动力性能（沃尔沃2.0T发动机）和豪华外观。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Geely Auto",
+                "en": "Geely Auto",
+                "de": "Geely Auto",
+                "uk": "Geely Auto",
+                "ru": "Geely Auto",
+                "zh": "吉利汽车"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019",
+                "ru": "2019 года",
+                "zh": "2019 年起"
+              },
+              "segment": {
+                "pl": "Compact SUV Coupe",
+                "en": "Compact SUV Coupe",
+                "de": "Kompakt-SUV-Coupé",
+                "uk": "Компактний SUV Coupe",
+                "ru": "Компактный внедорожник-купе",
+                "zh": "紧凑型 SUV 轿跑车"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

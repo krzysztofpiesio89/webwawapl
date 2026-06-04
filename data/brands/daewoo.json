@@ -1,0 +1,520 @@
+{
+  "brand": "Daewoo",
+  "models": {
+    "Chairman": [
+      {
+        "BrandID": 34,
+        "ModelID": 416710,
+        "Brand Name": "Daewoo",
+        "Model Name": "Chairman",
+        "Serie Name": "Chairman (H100)",
+        "Years": "1997 - 2014",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "2.3L - 3.2L I6 (Mercedes-Benz)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/av/vf/re0mz5csswscgs4oc8csw/chairman.310.jpg"
+        }
+      }
+    ],
+    "Espero": [
+      {
+        "BrandID": 34,
+        "ModelID": 358,
+        "Brand Name": "Daewoo",
+        "Model Name": "Espero",
+        "Serie Name": "Espero",
+        "Years": "1990 - 1999",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L - 2.0L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ew/pd/o0iibk00s8o8so4cgsooo/espero.310.jpg"
+        }
+      }
+    ],
+    "Evanda": [
+      {
+        "BrandID": 34,
+        "ModelID": 359,
+        "Brand Name": "Daewoo",
+        "Model Name": "Evanda",
+        "Serie Name": "Evanda",
+        "Years": "2000 - 2006",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L / 2.5L I6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "Gentra": [
+      {
+        "BrandID": 34,
+        "ModelID": 414108,
+        "Brand Name": "Daewoo",
+        "Model Name": "Gentra",
+        "Serie Name": "Gentra",
+        "Years": "2005 - 2011",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.2L - 1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      },
+      {
+        "BrandID": 34,
+        "ModelID": 414109,
+        "Brand Name": "Daewoo",
+        "Model Name": "Gentra",
+        "Serie Name": "Gentra X",
+        "Years": "2007 - 2011",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.2L - 1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "Kalos": [
+      {
+        "BrandID": 34,
+        "ModelID": 412921,
+        "Brand Name": "Daewoo",
+        "Model Name": "Kalos",
+        "Serie Name": "Kalos",
+        "Years": "2002 - 2007",
+        "specs": {
+          "bodyType": "Hatchback/Sedan",
+          "segment": "Small Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.2L - 1.5L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ce/zc/1bkeyhkcogsog4go4sswo/kalos-sedan.310.jpg"
+        }
+      }
+    ],
+    "Korando": [
+      {
+        "BrandID": 34,
+        "ModelID": 415829,
+        "Brand Name": "Daewoo",
+        "Model Name": "Korando",
+        "Serie Name": "Korando",
+        "Years": "1999 - 2001",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.3L / 3.2L / 2.9L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bo/68/l09j8lk4wskckkwgoso04/korando.310.jpg"
+        }
+      }
+    ],
+    "Lacetti": [
+      {
+        "BrandID": 34,
+        "ModelID": 360,
+        "Brand Name": "Daewoo",
+        "Model Name": "Lacetti",
+        "Serie Name": "Lacetti",
+        "Years": "2002 - 2008",
+        "specs": {
+          "bodyType": "Sedan/Hatchback/Wagon",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 1.8L / 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "Lanos": [
+      {
+        "BrandID": 34,
+        "ModelID": 413810,
+        "Brand Name": "Daewoo",
+        "Model Name": "Lanos",
+        "Serie Name": "Lanos (T100)",
+        "Years": "1997 - 2002",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.3L - 1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2p/fp/8mqvxvk0gkwss4okws040/lanos-sedab.310.jpg"
+        }
+      },
+      {
+        "BrandID": 34,
+        "ModelID": 413811,
+        "Brand Name": "Daewoo",
+        "Model Name": "Lanos",
+        "Serie Name": "Lanos (T150) / Sens",
+        "Years": "2002 - 2008",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.3L - 1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2p/fp/8mqvxvk0gkwss4okws040/lanos-sedab.310.jpg"
+        }
+      }
+    ],
+    "Leganza": [
+      {
+        "BrandID": 34,
+        "ModelID": 363,
+        "Brand Name": "Daewoo",
+        "Model Name": "Leganza",
+        "Serie Name": "Leganza",
+        "Years": "1997 - 2002",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.8L - 2.2L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/c3/aw/0v5wj3co88so4sg444sck/leganza.310.jpg"
+        }
+      }
+    ],
+    "Lublin": [
+      {
+        "BrandID": 34,
+        "ModelID": 415208,
+        "Brand Name": "Daewoo",
+        "Model Name": "Lublin",
+        "Serie Name": "Lublin 3",
+        "Years": "1999 - 2004",
+        "specs": {
+          "bodyType": "Van/Truck",
+          "segment": "Commercial Van",
+          "drive": "RWD",
+          "fuel": "Diesel",
+          "engine": "2.4L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Truck"
+        }
+      }
+    ],
+    "Magnus": [
+      {
+        "BrandID": 34,
+        "ModelID": 365,
+        "Brand Name": "Daewoo",
+        "Model Name": "Magnus",
+        "Serie Name": "Magnus",
+        "Years": "1999 - 2006",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L - 2.5L I6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "Matiz": [
+      {
+        "BrandID": 34,
+        "ModelID": 413813,
+        "Brand Name": "Daewoo",
+        "Model Name": "Matiz",
+        "Serie Name": "Matiz (M100)",
+        "Years": "1998 - 2000",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "0.8L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cx/bg/yqe43gg044880k008wg48/matiz.310.jpg"
+        }
+      },
+      {
+        "BrandID": 34,
+        "ModelID": 413812,
+        "Brand Name": "Daewoo",
+        "Model Name": "Matiz",
+        "Serie Name": "Matiz (M150)",
+        "Years": "2000 - 2005",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "0.8L / 1.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cx/bg/yqe43gg044880k008wg48/matiz.310.jpg"
+        }
+      },
+      {
+        "BrandID": 34,
+        "ModelID": 414110,
+        "Brand Name": "Daewoo",
+        "Model Name": "Matiz",
+        "Serie Name": "Matiz (M200)",
+        "Years": "2005 - 2009",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "0.8L / 1.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cx/bg/yqe43gg044880k008wg48/matiz.310.jpg"
+        }
+      },
+      {
+        "BrandID": 34,
+        "ModelID": 414112,
+        "Brand Name": "Daewoo",
+        "Model Name": "Matiz Creative",
+        "Serie Name": "Matiz Creative (M300)",
+        "Years": "2009 - 2011",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cx/bg/yqe43gg044880k008wg48/matiz.310.jpg"
+        }
+      }
+    ],
+    "Musso": [
+      {
+        "BrandID": 34,
+        "ModelID": 367,
+        "Brand Name": "Daewoo",
+        "Model Name": "Musso",
+        "Serie Name": "Musso",
+        "Years": "1999 - 2002",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.3L - 3.2L / 2.9L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/72/wa/510km4wso4oo4kk0co0kk/musso.310.jpg"
+        }
+      }
+    ],
+    "Nexia": [
+      {
+        "BrandID": 34,
+        "ModelID": 413817,
+        "Brand Name": "Daewoo",
+        "Model Name": "Nexia",
+        "Serie Name": "Nexia (N100)",
+        "Years": "1994 - 2008",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6j/8l/you65mo00000c0sgkcg48/nexia-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 34,
+        "ModelID": 413818,
+        "Brand Name": "Daewoo",
+        "Model Name": "Nexia",
+        "Serie Name": "Nexia (N150)",
+        "Years": "2008 - 2016",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L / 1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6j/8l/you65mo00000c0sgkcg48/nexia-sedan.310.jpg"
+        }
+      }
+    ],
+    "Nubira": [
+      {
+        "BrandID": 34,
+        "ModelID": 413819,
+        "Brand Name": "Daewoo",
+        "Model Name": "Nubira",
+        "Serie Name": "Nubira (J100)",
+        "Years": "1997 - 1999",
+        "specs": {
+          "bodyType": "Sedan/Wagon/Hatchback",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L - 2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/19/cl/oed3ql0k4gsow4ogk80gk/nubira-kombi.310.jpg"
+        }
+      },
+      {
+        "BrandID": 34,
+        "ModelID": 413820,
+        "Brand Name": "Daewoo",
+        "Model Name": "Nubira",
+        "Serie Name": "Nubira (J150)",
+        "Years": "1999 - 2003",
+        "specs": {
+          "bodyType": "Sedan/Wagon/Hatchback",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L - 2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/19/cl/oed3ql0k4gsow4ogk80gk/nubira-kombi.310.jpg"
+        }
+      },
+      {
+        "BrandID": 34,
+        "ModelID": 413821,
+        "Brand Name": "Daewoo",
+        "Model Name": "Nubira",
+        "Serie Name": "Nubira (J200)",
+        "Years": "2003 - 2008",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 1.8L / 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/19/cl/oed3ql0k4gsow4ogk80gk/nubira-kombi.310.jpg"
+        }
+      }
+    ],
+    "Prince": [
+      {
+        "BrandID": 34,
+        "ModelID": 415833,
+        "Brand Name": "Daewoo",
+        "Model Name": "Prince",
+        "Serie Name": "Prince",
+        "Years": "1991 - 1997",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "1.8L - 2.0L (Opel engine)",
+          "isOldtimer": true,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "Rezzo": [
+      {
+        "BrandID": 34,
+        "ModelID": 414113,
+        "Brand Name": "Daewoo",
+        "Model Name": "Rezzo",
+        "Serie Name": "Rezzo / Tacuma",
+        "Years": "2000 - 2008",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L - 2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Van"
+        }
+      }
+    ],
+    "Tico": [
+      {
+        "BrandID": 34,
+        "ModelID": 415879,
+        "Brand Name": "Daewoo",
+        "Model Name": "Tico",
+        "Serie Name": "Tico",
+        "Years": "1991 - 2001",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "0.8L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/97/oe/tx96bl8o4ow8k8woowksc/tico.310.jpg"
+        }
+      }
+    ],
+    "Winstorm": [
+      {
+        "BrandID": 34,
+        "ModelID": 416711,
+        "Brand Name": "Daewoo",
+        "Model Name": "Winstorm",
+        "Serie Name": "Winstorm",
+        "Years": "2006 - 2011",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Diesel",
+          "engine": "2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ]
+  }
+}

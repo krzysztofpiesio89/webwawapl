@@ -1,0 +1,437 @@
+{
+  "brand": "Isuzu",
+  "models": {
+    "Amigo": [
+      {
+        "BrandID": 67,
+        "ModelID": 732,
+        "Brand Name": "Isuzu",
+        "Model Name": "Amigo",
+        "Serie Name": "Amigo",
+        "Years": "1989 - 2002",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline",
+          "engine": "2.3L - 3.2L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Isuzu Amigo (znane też jako Rodeo Sport) to krótki, rekreacyjny SUV, często występujący w wersji z miękkim dachem. Idealny dla miłośników plażowego stylu życia.",
+              "en": "The Isuzu Amigo (also known as Rodeo Sport) is a short, recreational SUV, often available with a soft top. Perfect for lovers of the beach lifestyle.",
+              "de": "Der Isuzu Amigo (auch bekannt als Rodeo Sport) ist ein kurzer Freizeit-SUV, oft mit Stoffverdeck erhältlich. Perfekt für Liebhaber des Strandlebensstils.",
+              "uk": "Isuzu Amigo (також відомий як Rodeo Sport) — це короткий позашляховик для відпочинку, який часто випускається з м’яким верхом. Ідеально підходить для любителів пляжного способу життя.",
+              "ru": "Isuzu Amigo (также известный как Rodeo Sport) — это короткий внедорожник для отдыха, часто доступный с мягким верхом. Идеально подходит для любителей пляжного образа жизни.",
+              "zh": "五十铃 Amigo（也称为 Rodeo Sport）是一款短型休闲 SUV，通常配有软顶。非常适合海滩生活方式爱好者。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Isuzu"
+              },
+              "okres produkcji": "1989–2004",
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Axiom": [
+      {
+        "BrandID": 67,
+        "ModelID": 734,
+        "Brand Name": "Isuzu",
+        "Model Name": "Axiom",
+        "Serie Name": "Axiom",
+        "Years": "2001 - 2004",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Isuzu Axiom to futurystyczny SUV o ostrych liniach, który zadebiutował w filmie 'Mali Agenci'. Łączy technologię Trooper-a ze sportowym stylem.",
+              "en": "Isuzu Axiom is a futuristic SUV with sharp lines that debuted in the movie 'Little Agents'. It combines Trooper technology with a sporty style.",
+              "de": "Isuzu Axiom ist ein futuristischer SUV mit scharfen Linien, der im Film „Little Agents“ erstmals vorgestellt wurde. Es kombiniert Trooper-Technologie mit einem sportlichen Stil.",
+              "uk": "Isuzu Axiom — футуристичний позашляховик із гострими лініями, який дебютував у фільмі «Маленькі агенти». Він поєднує технологію Trooper зі спортивним стилем.",
+              "ru": "Isuzu Axiom — футуристический внедорожник с четкими линиями, дебютировавший в фильме «Маленькие агенты». Он сочетает в себе технологии Trooper и спортивный стиль.",
+              "zh": "五十铃Axiom 是一款线条锐利的未来SUV，在电影《小特工》中首次亮相。它将 Trooper 技术与运动风格融为一体。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Isuzu"
+              },
+              "okres produkcji": "2001–2004",
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний позашляховик",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型 SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "D-Max": [
+      {
+        "BrandID": 67,
+        "ModelID": 414044,
+        "Brand Name": "Isuzu",
+        "Model Name": "D-Max",
+        "Serie Name": "D-Max Gen 1",
+        "Years": "2002 - 2012",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Mid-size Pickup",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.5L Diesel / 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Isuzu_D-Max_%28first_generation%29_%28rear%29%2C_Serdang.jpg/1280px-Isuzu_D-Max_%28first_generation%29_%28rear%29%2C_Serdang.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Isuzu_D-Max_%28first_generation%29_%28rear%29%2C_Serdang.jpg/1280px-Isuzu_D-Max_%28first_generation%29_%28rear%29%2C_Serdang.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/2008_Isuzu_D-Max_LS-U_4-door_utility_03.jpg/1280px-2008_Isuzu_D-Max_LS-U_4-door_utility_03.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Isuzu_D-MAX.JPG/1280px-Isuzu_D-MAX.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ISUZU_D-MAX%2C_2nd_Gen%2C_Rear_Perspective_View.jpg/1280px-ISUZU_D-MAX%2C_2nd_Gen%2C_Rear_Perspective_View.jpg"
+            ],
+            "description": {
+              "pl": "Pierwsza generacja Isuzu D-Max to solidny wół roboczy, który ugruntował pozycję marki jako lidera w produkcji trwałych pickupów z oszczędnymi silnikami Diesla.",
+              "en": "The first generation Isuzu D-Max is a solid workhorse that has established the brand as a leader in the production of durable pickup trucks with fuel-efficient diesel engines.",
+              "de": "Der Isuzu D-Max der ersten Generation ist ein solides Arbeitstier, das die Marke als Marktführer in der Produktion langlebiger Pickup-Trucks mit kraftstoffeffizienten Dieselmotoren etabliert hat.",
+              "uk": "Isuzu D-Max першого покоління — це надійна робоча конячка, завдяки якій бренд став лідером у виробництві міцних пікапів із економічними дизельними двигунами.",
+              "ru": "Isuzu D-Max первого поколения — это надежная рабочая лошадка, которая утвердила бренд в качестве лидера в производстве надежных пикапов с экономичными дизельными двигателями.",
+              "zh": "第一代 Isuzu D-Max 是一款坚实的主力，使该品牌成为生产配备节能柴油发动机的耐用皮卡车的领导者。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Isuzu"
+              },
+              "okres produkcji": "2002–2012",
+              "segment": {
+                "pl": "Mid-size Pickup",
+                "en": "Mid-size Pickup",
+                "de": "Mittelklasse-Pickup",
+                "uk": "Пікап середнього розміру",
+                "ru": "Среднеразмерный пикап",
+                "zh": "中型皮卡"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      },
+      {
+        "BrandID": 67,
+        "ModelID": 416600,
+        "Brand Name": "Isuzu",
+        "Model Name": "D-Max",
+        "Serie Name": "D-Max Gen 2",
+        "Years": "2012 - 2019",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Mid-size Pickup",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.5L Diesel / 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja D-Maxa przyniosła bardziej nowoczesny design i poprawiony komfort, nie rezygnując z legendarnych zdolności terenowych i ładowności.",
+              "en": "The second generation of the D-Max brought a more modern design and improved comfort, without sacrificing legendary off-road capability and payload.",
+              "de": "Die zweite Generation des D-Max brachte ein moderneres Design und verbesserten Komfort, ohne auf die legendäre Geländetauglichkeit und Nutzlast zu verzichten.",
+              "uk": "Друге покоління D-Max принесло сучасніший дизайн і покращив комфорт, не жертвуючи легендарними позашляховими можливостями та корисним навантаженням.",
+              "ru": "Второе поколение D-Max отличается более современным дизайном и повышенным комфортом, не жертвуя при этом легендарными внедорожными качествами и грузоподъемностью.",
+              "zh": "第二代 D-Max 带来了更现代的设计和更高的舒适度，同时又不牺牲传奇的越野能力和有效载荷。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Isuzu"
+              },
+              "okres produkcji": "2012–2019",
+              "segment": {
+                "pl": "Mid-size Pickup",
+                "en": "Mid-size Pickup",
+                "de": "Mittelklasse-Pickup",
+                "uk": "Пікап середнього розміру",
+                "ru": "Среднеразмерный пикап",
+                "zh": "中型皮卡"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      },
+      {
+        "BrandID": 67,
+        "ModelID": 416601,
+        "Brand Name": "Isuzu",
+        "Model Name": "D-Max",
+        "Serie Name": "D-Max Gen 3",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Mid-size Pickup",
+          "drive": "RWD/4WD",
+          "fuel": "Diesel",
+          "engine": "1.9L Diesel / 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Najnowszy Isuzu D-Max to połączenie twardego charakteru z systemami bezpieczeństwa ADAS i komfortem samochodu osobowego. Gotowy do ciężkiej pracy i cywilnej jazdy.",
+              "en": "The latest Isuzu D-Max is a combination of tough character with ADAS safety systems and the comfort of a passenger car. Ready for hard work and civilian driving.",
+              "de": "Der neueste Isuzu D-Max ist eine Kombination aus robustem Charakter, ADAS-Sicherheitssystemen und dem Komfort eines Pkw. Bereit für harte Arbeit und ziviles Fahren.",
+              "uk": "Новітній Isuzu D-Max — це поєднання жорсткого характеру з системами безпеки ADAS і комфорту легкового автомобіля. Готовий до важкої роботи та цивільного водіння.",
+              "ru": "Новейший Isuzu D-Max представляет собой сочетание жесткого характера, систем безопасности ADAS и комфорта легкового автомобиля. Готов к тяжелой работе и гражданской езде.",
+              "zh": "最新的五十铃 D-Max 是硬朗性格与 ADAS 安全系统和乘用车舒适性的结合。为辛勤工作和民用驾驶做好准备。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Isuzu"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019 року",
+                "ru": "2019 года выпуска",
+                "zh": "2019 年起"
+              },
+              "segment": {
+                "pl": "Mid-size Pickup",
+                "en": "Mid-size Pickup",
+                "de": "Mittelklasse-Pickup",
+                "uk": "Середньорозмірний пікап",
+                "ru": "Среднеразмерный пикап",
+                "zh": "中型皮卡"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      }
+    ],
+    "Rodeo": [
+      {
+        "BrandID": 67,
+        "ModelID": 741,
+        "Brand Name": "Isuzu",
+        "Model Name": "Rodeo",
+        "Serie Name": "Rodeo",
+        "Years": "1990 - 2004",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline",
+          "engine": "3.2L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Isuzu Rodeo to jeden z najpopularniejszych SUV-ów lat 90., bliźniak Opla Frontery. Ceniony za prostą konstrukcję i dobre właściwości jezdne.",
+              "en": "Isuzu Rodeo is one of the most popular SUVs of the 1990s, a twin of the Opel Frontera. Appreciated for its simple design and good driving properties.",
+              "de": "Isuzu Rodeo ist einer der beliebtesten SUVs der 1990er Jahre, ein Zwilling des Opel Frontera. Geschätzt für sein schlichtes Design und seine guten Fahreigenschaften.",
+              "uk": "Isuzu Rodeo — один із найпопулярніших позашляховиків 1990-х років, двійник Opel Frontera. Цінується за простий дизайн і хороші ходові властивості.",
+              "ru": "Isuzu Rodeo — один из самых популярных внедорожников 1990-х годов, близнец Opel Frontera. Ценится за простую конструкцию и хорошие ходовые качества.",
+              "zh": "五十铃 Rodeo 是 20 世纪 90 年代最受欢迎的 SUV 之一，是欧宝 Frontera 的双胞胎。因其简单的设计和良好的驾驶性能而受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Isuzu"
+              },
+              "okres produkcji": "1989–2004",
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний позашляховик",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型 SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Trooper": [
+      {
+        "BrandID": 67,
+        "ModelID": 414043,
+        "Brand Name": "Isuzu",
+        "Model Name": "Trooper",
+        "Serie Name": "Trooper Gen 1",
+        "Years": "1981 - 1991",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.6L / 2.8L V6 / 2.2L Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Pierwszy Isuzu Trooper to kanciasta ikona off-roadu. Prosty, surowy i niezwykle dzielny w terenie, konkurował z mniejszymi Land Cruiserami.",
+              "en": "The first Isuzu Trooper is an angular off-road icon. Simple, raw and extremely brave off-road, it competed with smaller Land Cruisers.",
+              "de": "Der erste Isuzu Trooper ist eine eckige Offroad-Ikone. Einfach, roh und äußerst mutig im Gelände, konkurrierte er mit kleineren Land Cruisern.",
+              "uk": "Перший Isuzu Trooper — незграбний позашляховик. Простий, сирий і надзвичайно сміливий на бездоріжжі, він конкурував з меншими Land Cruiser.",
+              "ru": "Первый Isuzu Trooper — угловатый символ бездорожья. Простой, грубый и невероятно храбрый на бездорожье, он мог конкурировать с меньшими Land Cruiser.",
+              "zh": "首款五十铃 Trooper 是一款棱角分明的越野标志。简单、原始且极其勇敢的越野能力，它可以与小型陆地巡洋舰竞争。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Isuzu"
+              },
+              "okres produkcji": "1981–1991",
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний SUV",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/21/sf/kbtd1ztws04044wkk80go/trooper2.310.jpg"
+        }
+      },
+      {
+        "BrandID": 67,
+        "ModelID": 414041,
+        "Brand Name": "Isuzu",
+        "Model Name": "Trooper",
+        "Serie Name": "Trooper Gen 2",
+        "Years": "1991 - 2002",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.2L V6 / 3.5L V6 / 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja Troopera stała się większa i bardziej luksusowa, oferując mocne silniki V6 i przestronne wnętrze, zachowując ramową konstrukcję.",
+              "en": "The second generation of Trooper became larger and more luxurious, offering powerful V6 engines and a spacious interior, while maintaining the frame structure.",
+              "de": "Die zweite Generation des Trooper wurde größer und luxuriöser und bot leistungsstarke V6-Motoren und einen geräumigen Innenraum, während die Rahmenstruktur beibehalten wurde.",
+              "uk": "Друге покоління Trooper стало більшим і розкішнішим, пропонуючи потужні двигуни V6 і просторий салон, зберігаючи структуру рами.",
+              "ru": "Второе поколение Trooper стало крупнее и роскошнее, предлагая мощные двигатели V6 и просторный салон при сохранении рамной конструкции.",
+              "zh": "第二代Trooper变得更大、更豪华，在保持车架结构的同时，提供强劲的V6发动机和宽敞的内部空间。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Isuzu"
+              },
+              "okres produkcji": "1991–2002",
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний позашляховик",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/21/sf/kbtd1ztws04044wkk80go/trooper2.310.jpg"
+        }
+      }
+    ],
+    "VehiCROSS": [
+      {
+        "BrandID": 67,
+        "ModelID": 743,
+        "Brand Name": "Isuzu",
+        "Model Name": "VehiCROSS",
+        "Serie Name": "VehiCROSS",
+        "Years": "1997 - 2001",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline",
+          "engine": "3.2L V6 / 3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Isuzu VehiCROSS to unikalny 'pojazd koncepcyjny', który trafił do seryjnej produkcji. Jego awangardowy styl i sportowe zawieszenie zszokowały świat motoryzacji.",
+              "en": "Isuzu VehiCROSS is a unique 'concept vehicle' that has gone into mass production. Its avant-garde style and sports suspension shocked the automotive world.",
+              "de": "Isuzu VehiCROSS ist ein einzigartiges „Konzeptfahrzeug“, das in die Massenproduktion gegangen ist. Sein avantgardistischer Stil und sein Sportfahrwerk schockierten die Automobilwelt.",
+              "uk": "Isuzu VehiCROSS — унікальний «концептуальний автомобіль», який надійшов у масове виробництво. Його авангардний стиль і спортивна підвіска шокували автомобільний світ.",
+              "ru": "Isuzu VehiCROSS — уникальный «концептуальный автомобиль», запущенный в серийное производство. Его авангардный стиль и спортивная подвеска потрясли автомобильный мир.",
+              "zh": "五十铃VehiCROSS 是一款独特的“概念车”，已投入量产。其前卫的造型和运动悬架震惊了汽车界。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Isuzu"
+              },
+              "okres produkcji": "1997–2001",
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型SUV"
+              },
+              "napęd": {
+                "pl": "TOD 4WD",
+                "en": "TOD 4WD",
+                "de": "TOD 4WD",
+                "uk": "TOD 4WD",
+                "ru": "TOD 4WD",
+                "zh": "TOD 4WD"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

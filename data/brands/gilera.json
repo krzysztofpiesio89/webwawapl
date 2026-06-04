@@ -1,0 +1,90 @@
+{
+  "brand": "Gilera",
+  "models": {
+    "": [
+      {
+        "BrandID": 213,
+        "ModelID": "",
+        "Brand Name": "Gilera",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Gilera – włoski producent motorowerów i motocykli założony w Arcore w 1909 roku przez Giuseppe Gilera. Od 1969 roku firma należy do innej włoskiej korporacji - Piaggio Group. W 1993 roku ze względu na sytuację ekonomiczną zamknięto zakład w Arcore a całość produkcji przeniesiono do Pontedera. Firma jest popularna w Europie ze względu na wysoką jakość swoich produktów.",
+              "en": "Gilera - Italian manufacturer of mopeds and motorcycles founded in Arcore in 1909 by Giuseppe Gilera. Since 1969, the company has belonged to another Italian corporation - Piaggio Group. In 1993, due to the economic situation, the plant in Arcore was closed and all production was moved to Pontedera. The company is popular in Europe due to the high quality of its products.",
+              "de": "Gilera – Italienischer Hersteller von Mopeds und Motorrädern, 1909 von Giuseppe Gilera in Arcore gegründet. Seit 1969 gehört das Unternehmen zu einem anderen italienischen Konzern – der Piaggio Group. Aufgrund der wirtschaftlichen Lage wurde 1993 das Werk in Arcore geschlossen und die gesamte Produktion nach Pontedera verlagert. Das Unternehmen ist in Europa aufgrund der hohen Qualität seiner Produkte beliebt.",
+              "uk": "Gilera - італійський виробник мопедів і мотоциклів, заснований в Аркоре в 1909 році Джузеппе Гілерою. З 1969 року компанія належить іншій італійській корпорації - Piaggio Group. У 1993 році через економічну ситуацію завод в Аркоре було закрито, а все виробництво було перенесено до Понтедери. Компанія користується популярністю в Європі завдяки високій якості своєї продукції.",
+              "ru": "Gilera — итальянский производитель мопедов и мотоциклов, основанный в Аркоре в 1909 году Джузеппе Гилера. С 1969 года компания принадлежала другой итальянской корпорации — Piaggio Group. В 1993 году из-за экономической ситуации завод в Аркоре был закрыт, а все производство было перенесено в Понтедеру. Компания популярна в Европе благодаря высокому качеству своей продукции.",
+              "zh": "Gilera - 意大利轻便摩托车和摩托车制造商，由 Giuseppe Gilera 于 1909 年在阿尔科雷创立。自1969年以来，该公司隶属于另一家意大利公司——比亚乔集团。 1993年，由于经济形势，Arcore工厂关闭，所有生产转移到Pontedera。该公司因其产品的高品质而在欧洲广受欢迎。"
+            }
+          }
+        }
+      }
+    ],
+    "Fuoco": [
+      {
+        "BrandID": 213,
+        "ModelID": 416148,
+        "Brand Name": "Gilera",
+        "Model Name": "Fuoco",
+        "Serie Name": "Fuoco",
+        "Years": "2000 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Gilera Fuoco 500 to potężny trójkołowy skuter (maxi-skuter) o sportowym charakterze. Wyróżnia się agresywnym designem i świetną przyczepnością dzięki dwóm kołom z przodu.",
+              "en": "Gilera Fuoco 500 is a powerful three-wheeled scooter (maxi-scooter) with a sporty character. It is distinguished by an aggressive design and great traction thanks to two wheels at the front.",
+              "de": "Gilera Fuoco 500 ist ein leistungsstarker dreirädriger Roller (Maxi-Scooter) mit sportlichem Charakter. Er zeichnet sich durch ein aggressives Design und große Traktion dank zwei Rädern vorne aus.",
+              "uk": "Gilera Fuoco 500 - потужний триколісний скутер (максі-скутер) зі спортивним характером. Він відрізняється агресивним дизайном і відмінним зчепленням завдяки двом колесам спереду.",
+              "ru": "Gilera Fuoco 500 – мощный трехколесный самокат (макси-скутер) со спортивным характером. Его отличает агрессивный дизайн и отличная тяга благодаря двум колесам спереди.",
+              "zh": "Gilera Fuoco 500 是一款功能强大、具有运动特色的三轮踏板车（大型踏板车）。它的特点是激进的设计和前两个轮子带来的强大牵引力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Gilera (Piaggio)",
+                "en": "Gilera (Piaggio)",
+                "de": "Gilera (Piaggio)",
+                "uk": "Gilera (Piaggio)",
+                "ru": "Gilera (Piaggio)",
+                "zh": "Gilera（比亚乔）"
+              },
+              "okres produkcji": "2007–2013",
+              "segment": {
+                "pl": "Trójkołowy skuter",
+                "en": "Three-wheeled scooter",
+                "de": "Dreirädriger Roller",
+                "uk": "Триколісний скутер",
+                "ru": "Трехколесный самокат",
+                "zh": "三轮踏板车"
+              },
+              "napęd": {
+                "pl": "Pas napędowy",
+                "en": "Drive belt",
+                "de": "Antriebsriemen",
+                "uk": "Привідний ремінь",
+                "ru": "Приводной ремень",
+                "zh": "传动带"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

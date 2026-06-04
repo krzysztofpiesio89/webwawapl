@@ -1,0 +1,2690 @@
+{
+  "brand": "Mercedes",
+  "models": {
+    "A-Class": [
+      {
+        "BrandID": 90,
+        "ModelID": 380257,
+        "Brand Name": "Mercedes",
+        "Model Name": "A-Class",
+        "Serie Name": "W168",
+        "Years": "1997 - 2004",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Subcompact Luxury",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 2.1L / 1.7L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercedes Klasy A (W168) był rewolucyjnym, 'kanapkowym' projektem miejskiego auta premium. Mimo kontrowersyjnego debiutu, wprowadził markę w nowy segment z wysokim poziomem bezpieczeństwa.",
+              "en": "The Mercedes A-Class (W168) was a revolutionary, 'sandwich' design of a premium city car. Despite its controversial debut, it introduced the brand to a new segment with a high level of safety.",
+              "de": "Die Mercedes A-Klasse (W168) war ein revolutionäres „Sandwich“-Design eines Premium-Stadtautos. Trotz seines kontroversen Debüts eröffnete es der Marke ein neues Segment mit einem hohen Maß an Sicherheit.",
+              "uk": "Mercedes A-Class (W168) був революційним «сендвічем» дизайну преміального міського автомобіля. Незважаючи на неоднозначний дебют, він вивів бренд у новий сегмент із високим рівнем безпеки.",
+              "ru": "Mercedes A-Class (W168) представлял собой революционный «сэндвич»-дизайн городского автомобиля премиум-класса. Несмотря на свой неоднозначный дебют, он вывел бренд в новый сегмент с высоким уровнем безопасности.",
+              "zh": "梅赛德斯 A 级 (W168) 是一款革命性的“三明治”设计的高级城市汽车。尽管首次亮相颇受争议，但它将该品牌带入了一个具有高安全水平的新细分市场。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "okres produkcji": "1997–2004",
+              "segment": {
+                "pl": "A/B (Miejskie Premium)",
+                "en": "A/B (Miejskie Premium)",
+                "de": "A/B (Miejskie Premium)",
+                "uk": "A/B (Miejskie Premium)",
+                "ru": "A/B (Miejskie Premium)",
+                "zh": "A/B（城市高级）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 90,
+        "ModelID": 407681,
+        "Brand Name": "Mercedes",
+        "Model Name": "A-Class",
+        "Serie Name": "W169",
+        "Years": "2004 - 2012",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Subcompact Luxury",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.5L - 2.0L / 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Klasa A (W169) to ewolucja koncepcji poprzednika – oferowała znacznie lepszą jakość wykończenia i przestronność, pozostając jednym z najbardziej praktycznych aut w swojej klasie.",
+              "en": "The A-Class (W169) is an evolution of the predecessor's concept - it offered much better quality of finish and spaciousness, remaining one of the most practical cars in its class.",
+              "de": "Die A-Klasse (W169) ist eine Weiterentwicklung des Vorgängerkonzepts – sie bot eine viel bessere Verarbeitungsqualität und Geräumigkeit und blieb eines der praktischsten Autos seiner Klasse.",
+              "uk": "A-Class (W169) є еволюцією концепції попередника - він пропонував набагато кращу якість обробки та просторість, залишаючись одним із найпрактичніших автомобілів у своєму класі.",
+              "ru": "A-Класс (W169) представляет собой эволюцию концепции предшественника: он предлагал гораздо лучшее качество отделки и простор, оставаясь одним из самых практичных автомобилей в своем классе.",
+              "zh": "A 级 (W169) 是前身概念的演变 - 它提供了更好的饰面质量和宽敞的空间，仍然是同级别中最实用的汽车之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "okres produkcji": "2004–2012",
+              "segment": {
+                "pl": "B (Premium)",
+                "en": "B (Premium)",
+                "de": "B (Premium)",
+                "uk": "B (Premium)",
+                "ru": "B (Премиум)",
+                "zh": "B（高级）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 90,
+        "ModelID": 413332,
+        "Brand Name": "Mercedes",
+        "Model Name": "A-Class",
+        "Serie Name": "W176",
+        "Years": "2012 - 2018",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Compact Luxury",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.0L Turbo / 1.5L - 2.1L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Klasa A (W176) to radykalna zmiana kursu – z vana w kierunku sportowego hatchbacka. Dynamiczna sylwetka i nowoczesne wnętrze przyciągnęły do marki rzesze młodych klientów.",
+              "en": "The A-Class (W176) is a radical change of course - from a van towards a sports hatchback. The dynamic silhouette and modern interior attracted crowds of young customers to the brand.",
+              "de": "Die A-Klasse (W176) ist ein radikaler Kurswechsel – vom Van hin zum Sport-Fließheck. Die dynamische Silhouette und das moderne Interieur lockten viele junge Kunden auf die Marke.",
+              "uk": "A-Class (W176) — це радикальна зміна курсу — від фургона до спортивного хетчбека. Динамічний силует і сучасний інтер'єр привернули до бренду натовпи молодих клієнтів.",
+              "ru": "A-Класс (W176) — это радикальное изменение курса — от фургона к спортивному хэтчбеку. Динамичный силуэт и современный интерьер привлекли к бренду толпы молодых покупателей.",
+              "zh": "A-Class (W176) 当然是一个彻底的改变——从货车到运动掀背车。动感的轮廓和现代的内饰吸引了大批年轻顾客。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "okres produkcji": "2012–2018",
+              "segment": {
+                "pl": "C (Kompaktowe Premium)",
+                "en": "C (Compact Premium)",
+                "de": "C (Compact Premium)",
+                "uk": "C (Compact Premium)",
+                "ru": "C (Compact Premium)",
+                "zh": "C（紧凑型高级）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 90,
+        "ModelID": 414231,
+        "Brand Name": "Mercedes",
+        "Model Name": "A-Class",
+        "Serie Name": "W177",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "Hatchback/Sedan",
+          "segment": "Compact Luxury",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "1.3L - 2.0L Turbo / 1.5L - 2.0L Diesel / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Najnowsza Klasa A (W177) redefiniuje technologię w kompakcie dzięki systemowi MBUX i futurystycznemu wnętrzu, oferując komfort i systemy wsparcia znane z wyższej Klasy S.",
+              "en": "The latest A-Class (W177) redefines technology in the compact with the MBUX system and a futuristic interior, offering the comfort and support systems known from the higher S-Class.",
+              "de": "Die neueste A-Klasse (W177) definiert mit dem MBUX-System und einem futuristischen Innenraum die Technologie im Kompaktwagen neu und bietet die von der höheren S-Klasse bekannten Komfort- und Unterstützungssysteme.",
+              "uk": "Найновіший A-Class (W177) переосмислює технологію компактного автомобіля з системою MBUX і футуристичним інтер’єром, пропонуючи комфорт і системи підтримки, відомі від вищого S-Class.",
+              "ru": "Новейший A-Класс (W177) переосмысливает технологию компактного автомобиля благодаря системе MBUX и футуристическому интерьеру, предлагая системы комфорта и поддержки, известные по более высокому S-Классу.",
+              "zh": "最新的 A 级车 (W177) 通过 MBUX 和未来派内饰重新定义了紧凑型汽车的技术，提供了高级 S 级车所具有的舒适性和支撑系统。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "from 2018",
+                "de": "ab 2018",
+                "uk": "з 2018 року",
+                "ru": "с 2018 года.",
+                "zh": "2018年以来"
+              },
+              "segment": {
+                "pl": "C (Kompaktowe Premium)",
+                "en": "C (Compact Premium)",
+                "de": "C (Compact Premium)",
+                "uk": "C (Compact Premium)",
+                "ru": "C (Compact Premium)",
+                "zh": "C（紧凑型高级）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "C-Class": [
+      {
+        "BrandID": 90,
+        "ModelID": 412904,
+        "Brand Name": "Mercedes",
+        "Model Name": "C-Class",
+        "Serie Name": "190 (W201)",
+        "Years": "1982 - 1993",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Compact Executive",
+          "drive": "RWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.8L - 2.6L / 2.0L - 2.5L Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercedes Klasy C to jeden z filarów marki, kompaktowa limuzyna oferująca komfort i technologie z wyższych klas.",
+              "en": "The Mercedes C-Class is one of the pillars of the brand, a compact sedan offering comfort and technologies from higher classes.",
+              "de": "Die Mercedes C-Klasse ist eine der Säulen der Marke, eine kompakte Limousine mit Komfort und Technologien aus höheren Klassen.",
+              "uk": "Mercedes C-Class є одним із стовпів бренду, компактний седан, що пропонує комфорт і технології вищого класу.",
+              "ru": "Mercedes C-Class — один из столпов бренда, компактный седан, предлагающий комфорт и технологии более высоких классов.",
+              "zh": "梅赛德斯 C 级轿车是该品牌的支柱之一，是一款紧凑型豪华轿车，提供更高级别的舒适性和技术。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "okres produkcji": {
+                "pl": "od 1993",
+                "en": "since 1993",
+                "de": "seit 1993",
+                "uk": "з 1993 року",
+                "ru": "с 1993 года",
+                "zh": "自1993年以来"
+              },
+              "segment": {
+                "pl": "D (Premium)",
+                "en": "D (Premium)",
+                "de": "D (Premium)",
+                "uk": "D (Premium)",
+                "ru": "D (Премиум)",
+                "zh": "D（高级）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 90,
+        "ModelID": 3939,
+        "Brand Name": "Mercedes",
+        "Model Name": "C-Class",
+        "Serie Name": "W202",
+        "Years": "1993 - 2000",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Compact Executive",
+          "drive": "RWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.8L - 4.3L V8 / 2.0L - 2.5L Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercedes Klasy C to jeden z filarów marki, kompaktowa limuzyna oferująca komfort i technologie z wyższych klas.",
+              "en": "The Mercedes C-Class is one of the pillars of the brand, a compact limousine offering comfort and technologies from higher classes.",
+              "de": "Die Mercedes C-Klasse ist eine der Säulen der Marke, eine kompakte Limousine mit Komfort und Technologien höherer Klassen.",
+              "uk": "Mercedes C-Class є одним із стовпів бренду, компактний лімузин, що пропонує комфорт і технології вищого класу.",
+              "ru": "Mercedes C-Class — один из столпов бренда, компактный лимузин, предлагающий комфорт и технологии более высоких классов.",
+              "zh": "梅赛德斯 C 级轿车是该品牌的支柱之一，是一款紧凑型豪华轿车，提供更高级别的舒适性和技术。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "okres produkcji": {
+                "pl": "od 1993",
+                "en": "since 1993",
+                "de": "seit 1993",
+                "uk": "з 1993 року",
+                "ru": "с 1993 года",
+                "zh": "自1993年以来"
+              },
+              "segment": {
+                "pl": "D (Premium)",
+                "en": "D (Premium)",
+                "de": "D (Premium)",
+                "uk": "D (Premium)",
+                "ru": "D (Премиум)",
+                "zh": "D（高级）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 90,
+        "ModelID": 3940,
+        "Brand Name": "Mercedes",
+        "Model Name": "C-Class",
+        "Serie Name": "W203",
+        "Years": "2000 - 2007",
+        "specs": {
+          "bodyType": "Sedan/Wagon/Coupe",
+          "segment": "Compact Executive",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.8L - 5.4L V8 / 2.1L - 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercedes Klasy C to jeden z filarów marki, kompaktowa limuzyna oferująca komfort i technologie z wyższych klas.",
+              "en": "The Mercedes C-Class is one of the pillars of the brand, a compact limousine offering comfort and technologies from higher classes.",
+              "de": "Die Mercedes C-Klasse ist eine der Säulen der Marke, eine kompakte Limousine mit Komfort und Technologien höherer Klassen.",
+              "uk": "Mercedes C-Class є одним із стовпів бренду, компактний лімузин, що пропонує комфорт і технології вищого класу.",
+              "ru": "Mercedes C-Class — один из столпов бренда, компактный лимузин, предлагающий комфорт и технологии более высоких классов.",
+              "zh": "梅赛德斯 C 级轿车是该品牌的支柱之一，是一款紧凑型豪华轿车，提供更高级别的舒适性和技术。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "okres produkcji": {
+                "pl": "od 1993",
+                "en": "from 1993",
+                "de": "ab 1993",
+                "uk": "1993 р.",
+                "ru": "1993 г.",
+                "zh": "自1993年以来"
+              },
+              "segment": {
+                "pl": "D (Premium)",
+                "en": "D (Premium)",
+                "de": "D (Premium)",
+                "uk": "D (Преміум)",
+                "ru": "D (Премиум)",
+                "zh": "D（高级）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 90,
+        "ModelID": 3941,
+        "Brand Name": "Mercedes",
+        "Model Name": "C-Class",
+        "Serie Name": "W204",
+        "Years": "2007 - 2014",
+        "specs": {
+          "bodyType": "Sedan/Wagon/Coupe",
+          "segment": "Compact Executive",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 6.2L V8 / 2.1L - 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercedes Klasy C to jeden z filarów marki, kompaktowa limuzyna oferująca komfort i technologie z wyższych klas.",
+              "en": "The Mercedes C-Class is one of the pillars of the brand, a compact limousine offering comfort and technologies from higher classes.",
+              "de": "Die Mercedes C-Klasse ist eine der Säulen der Marke, eine kompakte Limousine mit Komfort und Technologien aus höheren Klassen.",
+              "uk": "The Mercedes C-Class is one of the pillars of the brand, a compact limousine offering comfort and technologies from higher classes.",
+              "ru": "Mercedes C-Class — один из столпов бренда, компактный лимузин, предлагающий комфорт и технологии более высоких классов.",
+              "zh": "梅赛德斯 C 级轿车是该品牌的支柱之一，是一款紧凑型豪华轿车，提供更高级别的舒适性和技术。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "projektant": {
+                "pl": "Karlheinz Bauer, Peter Pfeiffer",
+                "en": "Karlheinz Bauer, Peter Pfeiffer",
+                "de": "Karlheinz Bauer, Peter Pfeiffer",
+                "uk": "Karlheinz Bauer, Peter Pfeiffer",
+                "ru": "Карлхайнц Бауэр, Питер Пфайффер",
+                "zh": "卡尔海因茨·鲍尔、彼得·菲佛"
+              },
+              "premiera": "2007",
+              "okres produkcji": "2007–2014",
+              "miejsce produkcji": {
+                "pl": "Brema, Sindelfingen (Niemcy)",
+                "en": "Bremen, Sindelfingen (Germany)",
+                "de": "Bremen, Sindelfingen (Deutschland)",
+                "uk": "Бремен, Зіндельфінген (Німеччина)",
+                "ru": "Бремен, Зиндельфинген (Германия)",
+                "zh": "不来梅，辛德尔芬根（德国）"
+              },
+              "następca": {
+                "pl": "Mercedes Klasy C (W205)",
+                "en": "Mercedes C-Class (W205)",
+                "de": "Mercedes C-Klasse (W205)",
+                "uk": "Mercedes C-Class (W205)",
+                "ru": "Mercedes C-Class (W205)",
+                "zh": "梅赛德斯 C 级 (W205)"
+              },
+              "segment": {
+                "pl": "D (Klasa średnia Premium)",
+                "en": "D (Premium Mid-Class)",
+                "de": "D (Premium-Mittelklasse)",
+                "uk": "D (Преміум-середній клас)",
+                "ru": "D (премиум-средний класс)",
+                "zh": "D（优质中产阶级）"
+              },
+              "typy nadwozia": {
+                "pl": "Sedan\nKombi\nCoupé (od 2011)",
+                "en": "Sedan\nStation wagon\nCoupé (from 2011)",
+                "de": "Limousine\nKombi\nCoupé (ab 2011)",
+                "uk": "Седан\nУніверсал\nКупе (з 2011)",
+                "ru": "Седан\nУниверсал\nКупе (с 2011 г.)",
+                "zh": "轿车\n旅行车\n双门轿跑车（2011 年起）"
+              },
+              "skrzynia biegów": {
+                "pl": "6-bieg manualna\n5-bieg automatyczna (5G-Tronic)\n7-bieg automatyczna (7G-Tronic / Plus)",
+                "en": "6-speed manual\n5-speed automatic (5G-Tronic)\n7-speed automatic (7G-Tronic / Plus)",
+                "de": "6-Gang-Schaltgetriebe\n5-Gang-Automatik (5G-Tronic)\n7-Gang-Automatik (7G-Tronic / Plus)",
+                "uk": "6-ступ\n5-ступінчастий автомат (5G-Tronic)\n7-speed automatic (7G-Tronic / Plus)",
+                "ru": "6-ступенчатая механика\n5-ступенчатый автомат (5G-Tronic)\n7-ступенчатая автоматическая (7G-Tronic/Plus)",
+                "zh": "6速手动\n5 速自动（5G-Tronic）\n7 速自动变速箱（7G-Tronic / Plus）"
+              },
+              "rodzaj napędu": {
+                "pl": "tylny (RWD)\n4MATIC",
+                "en": "rear (RWD)\n4MATIC",
+                "de": "hinten (RWD)\n4MATIC",
+                "uk": "rear (RWD)\n4MATIC",
+                "ru": "задняя (RWD)\n4MATIC",
+                "zh": "后轮（后轮驱动）\n4MATIC"
+              },
+              "długość": {
+                "pl": "4581–4596 mm",
+                "en": "4581–4596 mm",
+                "de": "4581–4596 mm",
+                "uk": "4581–4596 mm",
+                "ru": "4581–4596 мм",
+                "zh": "4581–4596 毫米"
+              },
+              "szerokość": {
+                "pl": "1770 mm",
+                "en": "1770 mm",
+                "de": "1770 mm",
+                "uk": "1770 mm",
+                "ru": "1770 мм",
+                "zh": "1770毫米"
+              },
+              "wysokość": {
+                "pl": "1447 mm",
+                "en": "1447 mm",
+                "de": "1447 mm",
+                "uk": "1447 mm",
+                "ru": "1447 мм",
+                "zh": "1447毫米"
+              },
+              "rozstaw osi": {
+                "pl": "2760 mm",
+                "en": "2760 mm",
+                "de": "2760 mm",
+                "uk": "2760 mm",
+                "ru": "2760 мм",
+                "zh": "2760毫米"
+              },
+              "masa własna": {
+                "pl": "od 1485 kg",
+                "en": "from 1485 kg",
+                "de": "ab 1485 kg",
+                "uk": "from 1485 kg",
+                "ru": "от 1485 кг",
+                "zh": "1485公斤起"
+              },
+              "zbiornik paliwa": {
+                "pl": "59-66 l",
+                "en": "59-66 l",
+                "de": "59–66 l",
+                "uk": "59-66 l",
+                "ru": "59–66 л",
+                "zh": "59-66岁"
+              },
+              "liczba miejsc": {
+                "pl": "5 (Sedan/Kombi)\n4 (Coupé)",
+                "en": "5 (Sedan/Wagon)\n4 (Coupé)",
+                "de": "5 (Limousine/Kombi)\n4 (Coupé)",
+                "uk": "5 (Sedan/Wagon)\n4 (Купе)",
+                "ru": "5 (Седан/Универсал)\n4 (Купе)",
+                "zh": "5（轿车/旅行车）\n4（轿跑车）"
+              },
+              "gwiazdki euroncap": "5",
+              "pojemność bagażnika": {
+                "pl": "Sedan: 475 l\nKombi: 485 l\nCoupé: 450 l",
+                "en": "Sedan: 475 l\nStation wagon: 485 l\nCoupé: 450 l",
+                "de": "Limousine: 475 l\nKombi: 485 l\nCoupé: 450 l",
+                "uk": "Седан: 475 л\nУніверсал: 485 л\nCoupé: 450 l",
+                "ru": "Седан: 475 л\nУниверсал: 485 л.\nКупе: 450 л",
+                "zh": "轿车：475 升\n旅行车：485 升\n轿跑车：450 升"
+              },
+              "ładowność": {
+                "pl": "500-550 kg",
+                "en": "500-550 kg",
+                "de": "500-550 kg",
+                "uk": "500-550 kg",
+                "ru": "500–550 кг",
+                "zh": "500-550公斤"
+              },
+              "pokrewne": {
+                "pl": "Mercedes GLK (X204)\nMercedes Klasy E Coupé (C207)",
+                "en": "Mercedes GLK (X204)\nMercedes E-Class Coupé (C207)",
+                "de": "Mercedes GLK (X204)\nMercedes E-Klasse Coupé (C207)",
+                "uk": "Mercedes GLK (X204)\nMercedes E-Class Coupé (C207)",
+                "ru": "Mercedes GLK (X204)\nMercedes E-Класс купе (C207)",
+                "zh": "奔驰 GLK (X204)\n梅赛德斯 E 级双门轿跑车 (C207)"
+              },
+              "konkurencja": {
+                "pl": "Audi A4 (B8)\nBMW Serii 3 (E90)",
+                "en": "Audi A4 (B8)\nBMW 3 Series (E90)",
+                "de": "Audi A4 (B8)\nBMW 3er (E90)",
+                "uk": "Audi A4 (B8)\nBMW 3 Series (E90)",
+                "ru": "Audi A4 (B8)\nBMW 3 серии (E90)",
+                "zh": "奥迪A4(B8)\n宝马3系（E90）"
+              },
+              "commons": {
+                "pl": "Category:Mercedes-Benz W204",
+                "en": "Category:Mercedes-Benz W204",
+                "de": "Kategorie:Mercedes-Benz W204",
+                "uk": "Категорія:Mercedes-Benz W204",
+                "ru": "Категория:Mercedes-Benz W204",
+                "zh": "类别：奔驰W204"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 90,
+        "ModelID": 412972,
+        "Brand Name": "Mercedes",
+        "Model Name": "C-Class",
+        "Serie Name": "W205",
+        "Years": "2014 - 2021",
+        "specs": {
+          "bodyType": "Sedan/Wagon/Coupe/Convertible",
+          "segment": "Compact Executive",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "1.5L - 4.0L V8 / 1.6L - 2.1L Diesel / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Mercedes Klasy C to jeden z filarów marki, kompaktowa limuzyna oferująca komfort i technologie z wyższych klas.",
+              "en": "The Mercedes C-Class is one of the pillars of the brand, a compact limousine offering comfort and technologies from higher classes.",
+              "de": "Die Mercedes C-Klasse ist eine der Säulen der Marke, eine kompakte Limousine mit Komfort und Technologien aus höheren Klassen.",
+              "uk": "Mercedes C-Class є одним зі стовпів бренду, компактний лімузин, що пропонує комфорт і технології вищого класу.",
+              "ru": "Mercedes C-Class — один из столпов бренда, компактный лимузин, предлагающий комфорт и технологии более высокого класса.",
+              "zh": "梅赛德斯 C 级轿车是该品牌的支柱之一，是一款紧凑型豪华轿车，提供更高级别的舒适性和技术。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "projektant": {
+                "pl": "Robert Lešnik",
+                "en": "Robert Lešnik",
+                "de": "Robert Lešnik",
+                "uk": "Robert Lešnik",
+                "ru": "Роберт Лешник",
+                "zh": "罗伯特·莱斯尼克"
+              },
+              "premiera": "2014",
+              "okres produkcji": "2014–2021",
+              "miejsce produkcji": {
+                "pl": "Brema (Niemcy), Tuscaloosa (USA), RPA",
+                "en": "Bremen (Germany), Tuscaloosa (USA), South Africa",
+                "de": "Bremen (Deutschland), Tuscaloosa (USA), Südafrika",
+                "uk": "Bremen (Germany), Tuscaloosa (USA), South Africa",
+                "ru": "Бремен (Германия), Тускалуса (США), Южная Африка",
+                "zh": "不莱梅（德国）、塔斯卡卢萨（美国）、南非"
+              },
+              "następca": {
+                "pl": "Mercedes Klasy C (W206)",
+                "en": "Mercedes C-Class (W206)",
+                "de": "Mercedes C-Klasse (W206)",
+                "uk": "Mercedes C-Class (W206)",
+                "ru": "Мерседес С-Класс (W206)",
+                "zh": "梅赛德斯 C 级 (W206)"
+              },
+              "segment": {
+                "pl": "D (Klasa średnia Premium)",
+                "en": "D (Premium Mid-Class)",
+                "de": "D (Premium-Mittelklasse)",
+                "uk": "D (Premium Mid-Class)",
+                "ru": "D (Премиум-средний класс)",
+                "zh": "D（优质中产阶级）"
+              },
+              "typy nadwozia": {
+                "pl": "Sedan\nKombi\nCoupé\nKabriolet",
+                "en": "Sedan\nStation wagon\nCoupe\nConvertible",
+                "de": "Limousine\nKombi\nCoupé\nCabrio",
+                "uk": "Sedan\nУніверсал\nКупе\nКабріолет",
+                "ru": "Седан\nУниверсал\nКупе\nКабриолет",
+                "zh": "轿车\n旅行车\n轿跑车\n敞篷车"
+              },
+              "skrzynia biegów": {
+                "pl": "6-bieg manualna\n7-bieg automatyczna (7G-Tronic Plus)\n9-bieg automatyczna (9G-Tronic)",
+                "en": "6-speed manual\n7-speed automatic (7G-Tronic Plus)\n9-speed automatic (9G-Tronic)",
+                "de": "6-Gang-Schaltgetriebe\n7-Gang-Automatik (7G-Tronic Plus)\n9-Gang-Automatik (9G-Tronic)",
+                "uk": "6-ступінчаста механіка\n7-ступінчастий автомат (7G-Tronic Plus)\n9-ступінчастий автомат (9G-Tronic)",
+                "ru": "6-ступенчатая механическая\n7-ступенчатая автоматическая (7G-Tronic Plus)\n9-ступенчатый автомат (9G-Tronic)",
+                "zh": "6速手动\n7 速自动变速箱 (7G-Tronic Plus)\n9 速自动变速箱 (9G-Tronic)"
+              },
+              "rodzaj napędu": {
+                "pl": "tylny (RWD)\n4MATIC",
+                "en": "rear (RWD)\n4MATIC",
+                "de": "hinten (RWD)\n4MATIC",
+                "uk": "задній (RWD)\n4MATIC",
+                "ru": "задний (задний)\n4МАТИК",
+                "zh": "后轮（后轮驱动）\n4MATIC"
+              },
+              "długość": {
+                "pl": "4686 mm",
+                "en": "4686 mm",
+                "de": "4686 mm",
+                "uk": "4686 мм",
+                "ru": "4686 мм",
+                "zh": "4686毫米"
+              },
+              "szerokość": {
+                "pl": "1810 mm",
+                "en": "1810 mm",
+                "de": "1810 mm",
+                "uk": "1810 мм",
+                "ru": "1810 мм",
+                "zh": "1810毫米"
+              },
+              "wysokość": {
+                "pl": "1442 mm",
+                "en": "1442 mm",
+                "de": "1442 mm",
+                "uk": "1442 мм",
+                "ru": "1442 мм",
+                "zh": "1442毫米"
+              },
+              "rozstaw osi": {
+                "pl": "2840 mm",
+                "en": "2840 mm",
+                "de": "2840 mm",
+                "uk": "2840 мм",
+                "ru": "2840 мм",
+                "zh": "2840毫米"
+              },
+              "masa własna": {
+                "pl": "od 1400 kg",
+                "en": "from 1400 kg",
+                "de": "ab 1400 kg",
+                "uk": "від 1400 кг",
+                "ru": "от 1400 кг",
+                "zh": "1400公斤起"
+              },
+              "zbiornik paliwa": {
+                "pl": "41-66 l",
+                "en": "41-66 l",
+                "de": "41-66 l",
+                "uk": "41-66 л",
+                "ru": "41-66 лет"
+              },
+              "liczba miejsc": {
+                "pl": "5 (Sedan/Kombi)\n4 (Coupé/Cabrio)",
+                "en": "5 (Sedan/Estate)\n4 (Coupé/Cabrio)",
+                "de": "5 (Limousine/Kombi)\n4 (Coupé/Cabrio)",
+                "uk": "5 (Седан/Універсал)\n4 (Купе/Кабріо)",
+                "ru": "5 (Седан/Универсал)\n4 (Купе/Кабриолет)"
+              },
+              "gwiazdki euroncap": "5",
+              "pojemność bagażnika": {
+                "pl": "Sedan: 480 l\nKombi: 490 l",
+                "en": "Sedan: 480 l\nEstate: 490 l",
+                "de": "Limousine: 480 l\nKombi: 490 l",
+                "uk": "Седан: 480 л\nУніверсал: 490 л",
+                "ru": "Седан: 480 л\nУниверсал: 490 л."
+              },
+              "ładowność": {
+                "pl": "550-600 kg",
+                "en": "550-600 kg",
+                "de": "550-600 kg",
+                "uk": "550-600 кг",
+                "ru": "550-600 кг"
+              },
+              "pokrewne": {
+                "pl": "Mercedes GLC (X253)",
+                "en": "Mercedes GLC (X253)",
+                "de": "Mercedes GLC (X253)",
+                "uk": "Mercedes GLC (X253)",
+                "ru": "Мерседес ГЛЦ (X253)",
+                "zh": "奔驰 GLC (X253)"
+              },
+              "konkurencja": {
+                "pl": "Audi A4 (B9)\nBMW Serii 3 (F30/G20)",
+                "en": "Audi A4 (B9)\nBMW 3 Series (F30/G20)",
+                "de": "Audi A4 (B9)\nBMW 3er (F30/G20)",
+                "uk": "Audi A4 (B9)\nBMW 3 Series (F30/G20)",
+                "ru": "Ауди А4 (Б9)\nБМВ 3 серии (F30/G20)",
+                "zh": "奥迪A4(B9)\n宝马3系（F30/G20）"
+              },
+              "commons": {
+                "pl": "Category:Mercedes-Benz W205",
+                "en": "Category:Mercedes-Benz W205",
+                "de": "Kategorie:Mercedes-Benz W205",
+                "uk": "Категорія:Mercedes-Benz W205",
+                "ru": "Категория:Mercedes-Benz W205",
+                "zh": "类别：奔驰W205"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 90,
+        "ModelID": 416653,
+        "Brand Name": "Mercedes",
+        "Model Name": "C-Class",
+        "Serie Name": "W206",
+        "Years": "2021 - 3000",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Compact Executive",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "1.5L - 2.0L Turbo / 2.0L Diesel / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Mercedes Klasy C to jeden z filarów marki, kompaktowa limuzyna oferująca komfort i technologie z wyższych klas.",
+              "en": "The Mercedes C-Class is one of the pillars of the brand, a compact limousine offering comfort and technologies from higher classes.",
+              "de": "Die Mercedes C-Klasse ist eine der Säulen der Marke, eine kompakte Limousine mit Komfort und Technologien aus höheren Klassen.",
+              "uk": "Mercedes C-Class є одним із стовпів бренду, компактний лімузин, що пропонує комфорт і технології вищого класу.",
+              "ru": "Mercedes C-Class — один из столпов бренда, компактный лимузин, предлагающий комфорт и технологии более высоких классов.",
+              "zh": "梅赛德斯 C 级轿车是该品牌的支柱之一，是一款紧凑型豪华轿车，提供更高级别的舒适性和技术。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Мерседес-Бенц",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "okres produkcji": {
+                "pl": "od 1993",
+                "en": "from 1993",
+                "de": "von 1993",
+                "uk": "1993 р.",
+                "ru": "с 1993 года",
+                "zh": "自1993年以来"
+              },
+              "segment": {
+                "pl": "D (Premium)",
+                "en": "D (Premium)",
+                "de": "D (Premium)",
+                "uk": "D (Premium)",
+                "ru": "Д (Премиум)",
+                "zh": "D（高级）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "CLA-Class": [
+      {
+        "BrandID": 90,
+        "ModelID": 415001,
+        "Brand Name": "Mercedes",
+        "Model Name": "CLA-Class",
+        "Serie Name": "C117",
+        "Years": "2013 - 2019",
+        "specs": {
+          "bodyType": "Coupe/Shooting Brake",
+          "segment": "Subcompact Executive",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.0L Turbo / 1.5L - 2.1L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercedes CLA (C117) to czterodrzwiowe coupe, które podbiło rynek designem. Bazując na Klasie A, oferuje sportowy styl w kompaktowym formacie.",
+              "en": "Mercedes CLA (C117) is a four-door coupe that conquered the market with its design. Based on the A-Class, it offers sporty style in a compact format.",
+              "de": "Mercedes CLA (C117) ist ein viertüriges Coupé, das mit seinem Design den Markt eroberte. Basierend auf der A-Klasse bietet er sportlichen Stil im kompakten Format.",
+              "uk": "Mercedes CLA (C117) — чотиридверне купе, яке підкорило ринок своїм дизайном. Створений на основі A-класу, він пропонує спортивний стиль у компактному форматі.",
+              "ru": "Mercedes CLA (C117) – четырехдверное купе, покорившее рынок своим дизайном. Созданный на базе A-Класса, он предлагает спортивный стиль в компактном формате.",
+              "zh": "梅赛德斯 CLA (C117) 是一款以其设计征服市场的四门轿跑车。它以 A 级车为基础，以紧凑的形式提供运动风格。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Мерседес-Бенц",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "okres produkcji": "2013–2019",
+              "segment": {
+                "pl": "C (Kompaktowe Premium)",
+                "en": "C (Compact Premium)",
+                "de": "C (Compact Premium)",
+                "uk": "C (Compact Premium)",
+                "ru": "C (Компактный Премиум)",
+                "zh": "C（紧凑型高级）"
+              },
+              "napęd": {
+                "pl": "FWD/4MATIC"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mercedes-Benz_CLA_200_%28C_117%29_%E2%80%93_Heckansicht%2C_13._April_2013%2C_D%C3%BCsseldorf.jpg/1920px-Mercedes-Benz_CLA_200_%28C_117%29_%E2%80%93_Heckansicht%2C_13._April_2013%2C_D%C3%BCsseldorf.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mercedes-Benz_CLA_200_%28C_117%29_%E2%80%93_Heckansicht%2C_13._April_2013%2C_D%C3%BCsseldorf.jpg/1920px-Mercedes-Benz_CLA_200_%28C_117%29_%E2%80%93_Heckansicht%2C_13._April_2013%2C_D%C3%BCsseldorf.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2015_Mercedes-Benz_CLA_250_%28X_117%29_Sport_4MATIC_station_wagon_%282016-02-27%29_02.jpg/1280px-2015_Mercedes-Benz_CLA_250_%28X_117%29_Sport_4MATIC_station_wagon_%282016-02-27%29_02.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mercedes-Benz_CLA_200_%28C_117%29_%E2%80%93_Frontansicht%2C_13._April_2013%2C_D%C3%BCsseldorf.jpg/1920px-Mercedes-Benz_CLA_200_%28C_117%29_%E2%80%93_Frontansicht%2C_13._April_2013%2C_D%C3%BCsseldorf.jpg"
+            ]
+          }
+        }
+      },
+      {
+        "BrandID": 90,
+        "ModelID": 415002,
+        "Brand Name": "Mercedes",
+        "Model Name": "CLA-Class",
+        "Serie Name": "C118",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "Coupe/Shooting Brake",
+          "segment": "Subcompact Executive",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "1.3L - 2.0L Turbo / 2.0L Diesel / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja CLA (C118) jest dojrzalsza i bardziej technologiczna, zachowując charakterystyczną linię nadwozia 'baby CLS'.",
+              "en": "The second generation of the CLA (C118) is more mature and technological, retaining the characteristic 'baby CLS' body lines.",
+              "de": "Die zweite Generation des CLA (C118) ist ausgereifter und technologisch anspruchsvoller und behält die charakteristischen „Baby-CLS“-Karosserielinien bei.",
+              "uk": "Друге покоління CLA (C118) є більш зрілим і технологічним, зберігаючи характерні лінії кузова «дитячого CLS».",
+              "ru": "Второе поколение CLA (C118) является более зрелым и технологичным, сохраняя характерные линии кузова «детского CLS».",
+              "zh": "第二代CLA（C118）更加成熟和科技化，保留了“baby CLS”特有的车身线条。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019",
+                "ru": "2019 года.",
+                "zh": "2019年起"
+              },
+              "segment": {
+                "pl": "C (Kompaktowe Premium)",
+                "en": "C (Compact Premium)",
+                "de": "C (Compact Premium)",
+                "uk": "C (Compact Premium)",
+                "ru": "C (Compact Premium)",
+                "zh": "C（紧凑型高级）"
+              },
+              "napęd": {
+                "pl": "FWD/4MATIC"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "CLS-Class": [
+      {
+        "BrandID": 90,
+        "ModelID": 415101,
+        "Brand Name": "Mercedes",
+        "Model Name": "CLS-Class",
+        "Serie Name": "C219",
+        "Years": "2004 - 2010",
+        "specs": {
+          "bodyType": "Coupe (4-door)",
+          "segment": "Executive Car",
+          "drive": "RWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.0L - 6.2L V8 / 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercedes CLS (C219) zapoczątkował modę na 'czterodrzwiowe coupe'. Luksusowa baza Klasy E ubrana w sportowe, opływowe nadwozie.",
+              "en": "Mercedes CLS (C219) started the 'four-door coupe' fashion. The luxurious base of the E-Class dressed in a sporty, streamlined body.",
+              "de": "Mercedes CLS (C219) startete die Mode des „viertürigen Coupés“. Die luxuriöse Basis der E-Klasse gekleidet in eine sportliche, stromlinienförmige Karosserie.",
+              "uk": "Mercedes CLS (C219) започаткував моду на «чотиридверне купе». Розкішна база E-Class одягнена в спортивний, обтічний кузов.",
+              "ru": "Mercedes CLS (C219) положил начало моде на «четырехдверное купе». Роскошная база E-Класса облачена в спортивный обтекаемый кузов.",
+              "zh": "梅赛德斯CLS（C219）开启了“四门轿跑车”时尚。 E级车的豪华底座装扮成运动型流线型车身。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "okres produkcji": "2004–2010",
+              "segment": {
+                "pl": "E (Klasa wyższa)",
+                "en": "E (Upper class)",
+                "de": "E (Oberklasse)",
+                "uk": "E (вищий клас)",
+                "ru": "E (Высший класс)",
+                "zh": "E（上层阶级）"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Mercedes-Benz_CLS_500_%28C_219%29_%E2%80%93_Frontansicht%2C_5._Juli_2011%2C_W%C3%BClfrath.jpg/1280px-Mercedes-Benz_CLS_500_%28C_219%29_%E2%80%93_Frontansicht%2C_5._Juli_2011%2C_W%C3%BClfrath.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Mercedes-Benz_CLS_500_%28C_219%29_%E2%80%93_Frontansicht%2C_5._Juli_2011%2C_W%C3%BClfrath.jpg/1280px-Mercedes-Benz_CLS_500_%28C_219%29_%E2%80%93_Frontansicht%2C_5._Juli_2011%2C_W%C3%BClfrath.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mercedes-Benz_CLS_500_%28C_219%29_%E2%80%93_Heckansicht%2C_5._Juli_2011%2C_W%C3%BClfrath.jpg/1280px-Mercedes-Benz_CLS_500_%28C_219%29_%E2%80%93_Heckansicht%2C_5._Juli_2011%2C_W%C3%BClfrath.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/2007_Mercedes-Benz_CLS63_AMG.jpg/1280px-2007_Mercedes-Benz_CLS63_AMG.jpg"
+            ]
+          }
+        }
+      },
+      {
+        "BrandID": 90,
+        "ModelID": 415102,
+        "Brand Name": "Mercedes",
+        "Model Name": "CLS-Class",
+        "Serie Name": "C218",
+        "Years": "2011 - 2018",
+        "specs": {
+          "bodyType": "Coupe (4-door)/Shooting Brake",
+          "segment": "Executive Car",
+          "drive": "RWD/4Matic",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.1L - 5.5L V8 / 2.1L - 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja (C218) przyniosła bardziej muskularny design i wersję Shooting Brake. Technologicznie spokrewniony z Klasą E W212.",
+              "en": "The second generation (C218) brought a more muscular design and a Shooting Brake version. Technologically related to the E-Class W212.",
+              "de": "Die zweite Generation (C218) brachte ein muskulöseres Design und eine Shooting Brake-Version. Technologisch verwandt mit der E-Klasse W212.",
+              "uk": "Друге покоління (C218) принесло більш мускулистий дизайн і версію Shooting Brake. Технологічно пов'язаний з E-Class W212.",
+              "ru": "Второе поколение (C218) отличалось более мускулистым дизайном и версией Shooting Brake. Технологически связан с E-Class W212.",
+              "zh": "第二代（C218）带来了更具肌肉感的设计和Shooting Brake版本。技术上与 E 级 W212 相关。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "okres produkcji": "2011–2018",
+              "segment": {
+                "pl": "E (Klasa wyższa)",
+                "en": "E (Upper Class)",
+                "de": "E (Oberklasse)",
+                "uk": "E (вищий клас)",
+                "ru": "E (Высший класс)",
+                "zh": "E（上层阶级）"
+              },
+              "napęd": {
+                "pl": "RWD/4MATIC"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mercedes-Benz_CLS_350_CDI_BlueEFFICIENCY_%28C_218%29_%E2%80%93_Frontansicht%2C_28._Februar_2011%2C_Wuppertal.jpg/1280px-Mercedes-Benz_CLS_350_CDI_BlueEFFICIENCY_%28C_218%29_%E2%80%93_Frontansicht%2C_28._Februar_2011%2C_Wuppertal.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mercedes-Benz_CLS_350_CDI_BlueEFFICIENCY_%28C_218%29_%E2%80%93_Frontansicht%2C_28._Februar_2011%2C_Wuppertal.jpg/1280px-Mercedes-Benz_CLS_350_CDI_BlueEFFICIENCY_%28C_218%29_%E2%80%93_Frontansicht%2C_28._Februar_2011%2C_Wuppertal.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mercedes-Benz_CLS_350_CDI_BlueEFFICIENCY_%28C_218%29_%E2%80%93_Heckansicht%2C_28._Februar_2011%2C_Wuppertal.jpg/1280px-Mercedes-Benz_CLS_350_CDI_BlueEFFICIENCY_%28C_218%29_%E2%80%93_Heckansicht%2C_28._Februar_2011%2C_Wuppertal.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mercedes-Benz_CLS_350_CDI_Shooting_Brake_%28X_218%29_%E2%80%93_Frontansicht%2C_18._Mai_2013%2C_D%C3%BCsseldorf.jpg/1280px-Mercedes-Benz_CLS_350_CDI_Shooting_Brake_%28X_218%29_%E2%80%93_Frontansicht%2C_18._Mai_2013%2C_D%C3%BCsseldorf.jpg"
+            ]
+          }
+        }
+      },
+      {
+        "BrandID": 90,
+        "ModelID": 415103,
+        "Brand Name": "Mercedes",
+        "Model Name": "CLS-Class",
+        "Serie Name": "C257",
+        "Years": "2018 - 2023",
+        "specs": {
+          "bodyType": "Coupe (4-door)",
+          "segment": "Executive Car",
+          "drive": "RWD/4Matic",
+          "fuel": "Gasoline/Diesel/Mild Hybrid",
+          "engine": "2.0L - 3.0L I6 / 2.0L - 2.9L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Trzecia generacja (C257) powraca do gładkich linii oryginału. Wnętrze zdominowane przez szerokie ekrany i turbinowe nawiewy.",
+              "en": "The third generation (C257) returns to the smooth lines of the original. The interior is dominated by wide screens and turbine air vents.",
+              "de": "Die dritte Generation (C257) kehrt zu den glatten Linien des Originals zurück. Im Innenraum dominieren breite Bildschirme und Turbinenausströmer.",
+              "uk": "Третє покоління (C257) повертається до плавних ліній оригіналу. В інтер’єрі домінують широкі екрани та турбінні вентиляційні отвори.",
+              "ru": "Третье поколение (C257) возвращается к плавным линиям оригинала. В интерьере преобладают широкие экраны и дефлекторы турбин.",
+              "zh": "第三代（C257）回归了原版的流畅线条。内部以宽屏和涡轮通风口为主。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "okres produkcji": "2018–2023",
+              "segment": {
+                "pl": "E (Klasa wyższa)",
+                "en": "E (Upper class)",
+                "de": "E (Oberklasse)",
+                "uk": "E (Вищий клас)",
+                "ru": "E (Высший класс)",
+                "zh": "E（上层阶级）"
+              },
+              "napęd": {
+                "pl": "RWD/4MATIC"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Mercedes-Benz_C257_IMG_1513.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/6/6f/Mercedes-Benz_C257_IMG_1513.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/4/45/Mercedes-Benz_C257_IMG_1514.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/2/23/Mercedes-Benz_CLS_400_d_4MATIC_AMG_Line_%28C_257%29_%E2%80%93_Frontansicht%2C_20._Oktober_2018%2C_D%C3%BCsseldorf.jpg"
+            ]
+          }
+        }
+      }
+    ],
+    "E-Class": [
+      {
+        "BrandID": 90,
+        "ModelID": 412984,
+        "Brand Name": "Mercedes",
+        "Model Name": "E-Class",
+        "Serie Name": "W123",
+        "Years": "1976 - 1985",
+        "specs": {
+          "bodyType": "Sedan/Wagon/Coupe",
+          "segment": "Executive Car",
+          "drive": "RWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 2.8L / 2.0L - 3.0L Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercedes Klasy E to serce marki, limuzyna klasy wyższej wyznaczająca standardy komfortu, bezpieczeństwa i trwałości (słynne 'taksówki').",
+              "en": "Mercedes E-Class is the heart of the brand, an upper-class limousine setting standards for comfort, safety and durability (the famous 'taxis').",
+              "de": "Die Mercedes E-Klasse ist das Herzstück der Marke, eine Limousine der Oberklasse, die Maßstäbe für Komfort, Sicherheit und Langlebigkeit setzt (die berühmten „Taxis“).",
+              "uk": "Mercedes E-Class — це серце бренду, лімузин вищого класу, який встановлює стандарти комфорту, безпеки та довговічності (знамениті «таксі»).",
+              "ru": "Mercedes E-Class — сердце бренда, лимузин высшего класса, устанавливающий стандарты комфорта, безопасности и долговечности (знаменитое «такси»).",
+              "zh": "梅赛德斯 E 级轿车是该品牌的核心，是一款设定舒适性、安全性和耐用性标准的上层豪华轿车（著名的“出租车”）。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "okres produkcji": {
+                "pl": "od 1993 (jako E-klasa)",
+                "en": "since 1993 (as E-class)",
+                "de": "seit 1993 (als E-Klasse)",
+                "uk": "з 1993 року (як E-клас)",
+                "ru": "с 1993 года (как E-класс)",
+                "zh": "自 1993 年起（E 级）"
+              },
+              "segment": {
+                "pl": "E (Premium)",
+                "en": "E (Premium)",
+                "de": "E (Premium)",
+                "uk": "E (Преміум)",
+                "ru": "E (Премиум)",
+                "zh": "E（高级）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 90,
+        "ModelID": 412983,
+        "Brand Name": "Mercedes",
+        "Model Name": "E-Class",
+        "Serie Name": "W124",
+        "Years": "1984 - 1997",
+        "specs": {
+          "bodyType": "Sedan/Wagon/Coupe/Convertible",
+          "segment": "Executive Car",
+          "drive": "RWD/4Matic",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 6.0L V8 / 2.0L - 3.0L Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercedes Klasy E to serce marki, limuzyna klasy wyższej wyznaczająca standardy komfortu, bezpieczeństwa i trwałości (słynne 'taksówki').",
+              "en": "Mercedes E-Class is the heart of the brand, an upper-class limousine setting the standards of comfort, safety and durability (the famous 'taxis').",
+              "de": "Die Mercedes E-Klasse ist das Herzstück der Marke, eine Limousine der Oberklasse, die Maßstäbe in puncto Komfort, Sicherheit und Langlebigkeit setzt (die berühmten „Taxis“).",
+              "uk": "Mercedes E-Class — це серце бренду, лімузин вищого класу, що встановлює стандарти комфорту, безпеки та довговічності (знамениті «таксі»).",
+              "ru": "Mercedes E-Class — сердце бренда, лимузин высшего класса, задающий стандарты комфорта, безопасности и долговечности (знаменитое «такси»).",
+              "zh": "梅赛德斯 E 级轿车是该品牌的核心，是一款设定舒适性、安全性和耐用性标准的上层豪华轿车（著名的“出租车”）。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "okres produkcji": {
+                "pl": "od 1993 (jako E-klasa)",
+                "en": "since 1993 (as E-class)",
+                "de": "seit 1993 (als E-Klasse)",
+                "uk": "з 1993 року (як E-клас)",
+                "ru": "с 1993 года (как E-класс)",
+                "zh": "自 1993 年起（E 级）"
+              },
+              "segment": {
+                "pl": "E (Premium)",
+                "en": "E (Premium)",
+                "de": "E (Premium)",
+                "uk": "E (Преміум)",
+                "ru": "E (Премиум)",
+                "zh": "E（高级）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 90,
+        "ModelID": 3959,
+        "Brand Name": "Mercedes",
+        "Model Name": "E-Class",
+        "Serie Name": "W210",
+        "Years": "1995 - 2003",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Executive Car",
+          "drive": "RWD/4Matic",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 5.4L V8 / 2.2L - 3.2L Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercedes Klasy E to serce marki, limuzyna klasy wyższej wyznaczająca standardy komfortu, bezpieczeństwa i trwałości (słynne 'taksówki').",
+              "en": "Mercedes E-Class is the heart of the brand, an upper-class limousine setting the standards of comfort, safety and durability (the famous 'taxis').",
+              "de": "Die Mercedes E-Klasse ist das Herzstück der Marke, eine Limousine der Oberklasse, die Maßstäbe in puncto Komfort, Sicherheit und Langlebigkeit setzt (die berühmten „Taxis“).",
+              "uk": "Mercedes E-Class — це серце бренду, лімузин вищого класу, що встановлює стандарти комфорту, безпеки та довговічності (знамениті «таксі»).",
+              "ru": "Mercedes E-Class — сердце бренда, лимузин высшего класса, задающий стандарты комфорта, безопасности и долговечности (знаменитое «такси»).",
+              "zh": "梅赛德斯 E 级轿车是该品牌的核心，是一款设定舒适性、安全性和耐用性标准的上层豪华轿车（著名的“出租车”）。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "okres produkcji": {
+                "pl": "od 1993 (jako E-klasa)",
+                "en": "since 1993 (as E-class)",
+                "de": "seit 1993 (als E-Klasse)",
+                "uk": "з 1993 року (як E-клас)",
+                "ru": "с 1993 года (как E-класс)",
+                "zh": "自 1993 年起（E 级）"
+              },
+              "segment": {
+                "pl": "E (Premium)",
+                "en": "E (Premium)",
+                "de": "E (Premium)",
+                "uk": "E (Преміум)",
+                "ru": "E (Премиум)",
+                "zh": "E（高级）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 90,
+        "ModelID": 3960,
+        "Brand Name": "Mercedes",
+        "Model Name": "E-Class",
+        "Serie Name": "W211",
+        "Years": "2002 - 2009",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Executive Car",
+          "drive": "RWD/4Matic",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.8L - 6.2L V8 / 2.1L - 4.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercedes Klasy E to serce marki, limuzyna klasy wyższej wyznaczająca standardy komfortu, bezpieczeństwa i trwałości (słynne 'taksówki').",
+              "en": "Mercedes E-Class is the heart of the brand, an upper-class limousine setting the standards of comfort, safety and durability (the famous 'taxis').",
+              "de": "Die Mercedes E-Klasse ist das Herzstück der Marke, eine Limousine der Oberklasse, die Maßstäbe in puncto Komfort, Sicherheit und Langlebigkeit setzt (die berühmten „Taxis“).",
+              "uk": "Mercedes E-Class — це серце бренду, лімузин вищого класу, що встановлює стандарти комфорту, безпеки та довговічності (знамениті «таксі»).",
+              "ru": "Mercedes E-Class — сердце бренда, лимузин высшего класса, задающий стандарты комфорта, безопасности и долговечности (знаменитое «такси»).",
+              "zh": "梅赛德斯 E 级轿车是该品牌的核心，是一款设定舒适性、安全性和耐用性标准的上层豪华轿车（著名的“出租车”）。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "okres produkcji": {
+                "pl": "od 1993 (jako E-klasa)",
+                "en": "since 1993 (as E-Class)",
+                "de": "seit 1993 (als E-Klasse)",
+                "uk": "з 1993 року (як E-Class)",
+                "ru": "с 1993 года (как E-Класс)",
+                "zh": "自 1993 年起（E 级）"
+              },
+              "segment": {
+                "pl": "E (Premium)",
+                "en": "E (Premium)",
+                "de": "E (Premium)",
+                "uk": "E (Premium)",
+                "ru": "E (Премиум)",
+                "zh": "E（高级）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 90,
+        "ModelID": 3961,
+        "Brand Name": "Mercedes",
+        "Model Name": "E-Class",
+        "Serie Name": "W212",
+        "Years": "2009 - 2016",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Executive Car",
+          "drive": "RWD/4Matic",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "1.8L - 6.2L V8 / 2.1L - 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercedes Klasy E to serce marki, limuzyna klasy wyższej wyznaczająca standardy komfortu, bezpieczeństwa i trwałości (słynne 'taksówki').",
+              "en": "Mercedes E-Class is the heart of the brand, an upper-class limousine setting the standards of comfort, safety and durability (the famous 'taxis').",
+              "de": "Die Mercedes E-Klasse ist das Herzstück der Marke, eine Limousine der Oberklasse, die Maßstäbe in puncto Komfort, Sicherheit und Langlebigkeit setzt (die berühmten „Taxis“).",
+              "uk": "Mercedes E-Class — це серце бренду, лімузин вищого класу, що встановлює стандарти комфорту, безпеки та довговічності (знамениті «таксі»).",
+              "ru": "Mercedes E-Класс — сердце бренда, лимузин высшего класса, задающий стандарты комфорта, безопасности и долговечности (знаменитое «такси»).",
+              "zh": "梅赛德斯 E 级轿车是该品牌的核心，是一款设定舒适性、安全性和耐用性标准的上层豪华轿车（著名的“出租车”）。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "projektant": {
+                "pl": "Thomas Stopka",
+                "en": "Thomas Stopka",
+                "de": "Thomas Stopka",
+                "uk": "Thomas Stopka",
+                "ru": "Томас Стопка",
+                "zh": "托马斯·斯托普卡"
+              },
+              "premiera": "2009",
+              "okres produkcji": "2009–2016",
+              "miejsce produkcji": {
+                "pl": "Sindelfingen (Niemcy)",
+                "en": "Sindelfingen (Germany)",
+                "de": "Sindelfingen (Deutschland)",
+                "uk": "Зіндельфінген (Німеччина)",
+                "ru": "Зиндельфинген (Германия)",
+                "zh": "辛德尔芬根（德国）"
+              },
+              "następca": {
+                "pl": "Mercedes Klasy E (W213)",
+                "en": "Mercedes E-Class (W213)",
+                "de": "Mercedes E-Klasse (W213)",
+                "uk": "Mercedes E-Class (W213)",
+                "ru": "Mercedes E-Class (W213)",
+                "zh": "梅赛德斯 E 级 (W213)"
+              },
+              "segment": {
+                "pl": "E (Klasa wyższa)",
+                "en": "E (Upper Class)",
+                "de": "E (Oberklasse)",
+                "uk": "E (вищий клас)",
+                "ru": "E (высший класс)",
+                "zh": "E（上层阶级）"
+              },
+              "typy nadwozia": {
+                "pl": "Sedan\nKombi"
+              },
+              "skrzynia biegów": {
+                "pl": "6-bieg manualna\n5-bieg automat (5G-Tronic)\n7-bieg automat (7G-Tronic / Plus)\n9-bieg automat (9G-Tronic)",
+                "en": "6-speed manual\n5-speed automatic (5G-Tronic)\n7-speed automatic (7G-Tronic / Plus)\n9-speed automatic (9G-Tronic)",
+                "de": "6-Gang-Schaltgetriebe\n5-Gang-Automatik (5G-Tronic)\n7-Gang-Automatik (7G-Tronic / Plus)\n9-Gang-Automatik (9G-Tronic)",
+                "uk": "6-ступ.\n5-ступінчастий автомат (5G-Tronic)\n7-ступінчастий автомат (7G-Tronic / Plus)\n9-ступінчастий автомат (9G-Tronic)",
+                "ru": "6-ступенчатая механическая коробка передач\n5-ступенчатый автомат (5G-Tronic)\n7-ступенчатый автомат (7G-Tronic/Plus)\n9-ступенчатая автоматическая (9G-Tronic)",
+                "zh": "6速手动\n5 速自动（5G-Tronic）\n7 速自动变速箱（7G-Tronic / Plus）\n9 速自动变速箱 (9G-Tronic)"
+              },
+              "rodzaj napędu": {
+                "pl": "tylny (RWD)\n4MATIC",
+                "en": "rear (RWD)\n4MATIC",
+                "de": "hinten (RWD)\n4MATIC",
+                "uk": "задній (RWD)\n4MATIC",
+                "ru": "задняя (RWD)\n4MATIC",
+                "zh": "后轮（后轮驱动）\n4MATIC"
+              },
+              "długość": {
+                "pl": "4868 mm",
+                "en": "4868 mm",
+                "de": "4868 mm",
+                "uk": "4868 мм",
+                "ru": "4868 мм",
+                "zh": "4868毫米"
+              },
+              "szerokość": {
+                "pl": "1854 mm",
+                "en": "1854 mm",
+                "de": "1854 mm",
+                "uk": "1854 мм",
+                "ru": "1854 мм",
+                "zh": "1854毫米"
+              },
+              "wysokość": {
+                "pl": "1471 mm",
+                "en": "1471 mm",
+                "de": "1471 mm",
+                "uk": "1471 мм",
+                "ru": "1471 мм",
+                "zh": "1471 毫米"
+              },
+              "rozstaw osi": {
+                "pl": "2874 mm",
+                "en": "2874 mm",
+                "de": "2874 mm",
+                "uk": "2874 мм",
+                "ru": "2874 мм",
+                "zh": "2874 毫米"
+              },
+              "masa własna": {
+                "pl": "od 1600 kg",
+                "en": "from 1600 kg",
+                "de": "ab 1600 kg",
+                "uk": "від 1600 кг",
+                "ru": "от 1600 кг",
+                "zh": "1600公斤起"
+              },
+              "zbiornik paliwa": {
+                "pl": "59-80 l",
+                "en": "59-80 l",
+                "de": "59-80 l",
+                "uk": "59-80 л",
+                "ru": "59–80 л",
+                "zh": "59-80岁"
+              },
+              "liczba miejsc": "5",
+              "gwiazdki euroncap": "5",
+              "pojemność bagażnika": {
+                "pl": "Sedan: 540 l\nKombi: 695 l",
+                "en": "Sedan: 540 l\nEstate: 695 l",
+                "de": "Limousine: 540 l\nKombi: 695 l",
+                "uk": "Седан: 540 л\nУніверсал: 695 л",
+                "ru": "Седан: 540 л\nУниверсал: 695 л",
+                "zh": "轿车：540 升\n旅行车：695 升"
+              },
+              "ładowność": {
+                "pl": "600-700 kg",
+                "en": "600-700 kg",
+                "de": "600-700 kg",
+                "uk": "600-700 кг",
+                "ru": "600-700 кг",
+                "zh": "600-700公斤"
+              },
+              "pokrewne": {
+                "pl": "Mercedes CLS (C218)",
+                "en": "Mercedes CLS (C218)",
+                "de": "Mercedes CLS (C218)",
+                "uk": "Mercedes CLS (C218)",
+                "ru": "Mercedes CLS (C218)",
+                "zh": "奔驰CLS (C218)"
+              },
+              "konkurencja": {
+                "pl": "Audi A6 (C6/C7)\nBMW Serii 5 (F10)",
+                "en": "Audi A6 (C6/C7)\nBMW 5 Series (F10)",
+                "de": "Audi A6 (C6/C7)\nBMW 5er (F10)",
+                "uk": "Audi A6 (C6/C7)\nBMW 5 серії (F10)",
+                "ru": "Audi A6 (C6/C7)\nBMW 5 серии (F10)",
+                "zh": "奥迪A6（C6/C7）\n宝马5系（F10）"
+              },
+              "commons": {
+                "pl": "Category:Mercedes-Benz W212",
+                "en": "Category:Mercedes-Benz W212",
+                "de": "Kategorie: Mercedes-Benz W212",
+                "uk": "Категорія:Mercedes-Benz W212",
+                "ru": "Категория:Mercedes-Benz W212",
+                "zh": "类别：奔驰W212"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 90,
+        "ModelID": 414232,
+        "Brand Name": "Mercedes",
+        "Model Name": "E-Class",
+        "Serie Name": "W213",
+        "Years": "2016 - 2023",
+        "specs": {
+          "bodyType": "Sedan/Wagon/Coupe/Convertible",
+          "segment": "Executive Car",
+          "drive": "RWD/4Matic",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "2.0L - 4.0L V8 / 2.0L - 2.9L Diesel / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Mercedes Klasy E to serce marki, limuzyna klasy wyższej wyznaczająca standardy komfortu, bezpieczeństwa i trwałości (słynne 'taksówki').",
+              "en": "The Mercedes E-Class is the heart of the brand, an upper-class limousine setting the standards of comfort, safety and durability (the famous 'taxis').",
+              "de": "Die Mercedes E-Klasse ist das Herzstück der Marke, eine Limousine der Oberklasse, die Maßstäbe in puncto Komfort, Sicherheit und Langlebigkeit setzt (die berühmten „Taxis“).",
+              "uk": "Mercedes E-Class є серцем бренду, лімузин вищого класу, який встановлює стандарти комфорту, безпеки та довговічності (знамениті «таксі»).",
+              "ru": "Mercedes E-Class — сердце бренда, лимузин высшего класса, задающий стандарты комфорта, безопасности и долговечности (знаменитое «такси»).",
+              "zh": "梅赛德斯 E 级轿车是该品牌的核心，是一款设定舒适性、安全性和耐用性标准的上层豪华轿车（著名的“出租车”）。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "projektant": {
+                "pl": "Robert Lešnik",
+                "en": "Robert Lešnik",
+                "de": "Robert Lešnik",
+                "uk": "Роберт Лешник",
+                "ru": "Роберт Лешник",
+                "zh": "罗伯特·莱斯尼克"
+              },
+              "premiera": "2016",
+              "okres produkcji": "2016–2023",
+              "miejsce produkcji": {
+                "pl": "Sindelfingen (Niemcy)",
+                "en": "Sindelfingen (Germany)",
+                "de": "Sindelfingen (Deutschland)",
+                "uk": "Зіндельфінген (Німеччина)",
+                "ru": "Зиндельфинген (Германия)",
+                "zh": "辛德尔芬根（德国）"
+              },
+              "następca": {
+                "pl": "Mercedes Klasy E (W214)",
+                "en": "Mercedes E-Class (W214)",
+                "de": "Mercedes E-Klasse (W214)",
+                "uk": "Mercedes E-Class (W214)",
+                "ru": "Mercedes E-Class (W214)",
+                "zh": "梅赛德斯 E 级 (W214)"
+              },
+              "segment": {
+                "pl": "E (Klasa wyższa)",
+                "en": "E (Upper class)",
+                "de": "E (Oberklasse)",
+                "uk": "E (вищий клас)",
+                "ru": "E (Высший класс)",
+                "zh": "E（上层阶级）"
+              },
+              "typy nadwozia": {
+                "pl": "Sedan\nKombi\nCoupé\nKabriolet",
+                "en": "Sedan\nStation wagon\nCoupe\nConvertible",
+                "de": "Limousine\nKombi\nCoupé\nCabrio",
+                "uk": "Седан\nУніверсал\nКупе\nКабріолет",
+                "ru": "Седан\nУниверсал\nКупе\nКабриолет",
+                "zh": "轿车\n旅行车\n轿跑车\n敞篷车"
+              },
+              "skrzynia biegów": {
+                "pl": "9-bieg automatyczna (9G-Tronic)",
+                "en": "9-speed automatic (9G-Tronic)",
+                "de": "9-Gang-Automatik (9G-Tronic)",
+                "uk": "9-ступінчастий автомат (9G-Tronic)",
+                "ru": "9-ступенчатая автоматическая (9G-Tronic)",
+                "zh": "9 速自动变速箱 (9G-Tronic)"
+              },
+              "rodzaj napędu": {
+                "pl": "tylny (RWD)\n4MATIC",
+                "en": "rear (RWD)\n4MATIC",
+                "de": "hinten (RWD)\n4MATIC",
+                "uk": "задній (RWD)\n4MATIC",
+                "ru": "задний (RWD)\n4MATIC",
+                "zh": "后轮（后轮驱动）\n4MATIC"
+              },
+              "długość": {
+                "pl": "4923 mm",
+                "en": "4923 mm",
+                "de": "4923 mm",
+                "uk": "4923 мм",
+                "ru": "4923 мм",
+                "zh": "4923毫米"
+              },
+              "szerokość": {
+                "pl": "1852 mm",
+                "en": "1852 mm",
+                "de": "1852 mm",
+                "uk": "1852 мм",
+                "ru": "1852 мм",
+                "zh": "1852毫米"
+              },
+              "wysokość": {
+                "pl": "1468 mm",
+                "en": "1468 mm",
+                "de": "1468 mm",
+                "uk": "1468 мм",
+                "ru": "1468 мм",
+                "zh": "1468毫米"
+              },
+              "rozstaw osi": {
+                "pl": "2939 mm",
+                "en": "2939 mm",
+                "de": "2939 mm",
+                "uk": "2939 мм",
+                "ru": "2939 мм",
+                "zh": "2939 毫米"
+              },
+              "masa własna": {
+                "pl": "od 1600 kg",
+                "en": "from 1600 kg",
+                "de": "ab 1600 kg",
+                "uk": "від 1600 кг",
+                "ru": "от 1600 кг",
+                "zh": "1600公斤起"
+              },
+              "zbiornik paliwa": {
+                "pl": "50-66 l",
+                "en": "50-66 l",
+                "de": "50-66 l",
+                "uk": "50-66 л",
+                "ru": "50-66 л",
+                "zh": "50-66岁"
+              },
+              "liczba miejsc": {
+                "pl": "5 (Sedan/Kombi)\n4 (Coupé/Cabrio)",
+                "en": "5 (Sedan/Estate)\n4 (Coupé/Cabrio)",
+                "de": "5 (Limousine/Kombi)\n4 (Coupé/Cabrio)",
+                "uk": "5 (Седан/Універсал)\n4 (Купе/Кабріо)",
+                "ru": "5 (Седан/Универсал)\n4 (Купе/Кабриолет)",
+                "zh": "5（轿车/旅行车）\n4（轿跑车/敞篷车）"
+              },
+              "gwiazdki euroncap": "5",
+              "pojemność bagażnika": {
+                "pl": "Sedan: 540 l\nKombi: 640 l",
+                "en": "Sedan: 540 l\nEstate: 640 l",
+                "de": "Limousine: 540 l\nKombi: 640 l",
+                "uk": "Седан: 540 л\nУніверсал: 640 л",
+                "ru": "Седан: 540 л\nУниверсал: 640 л",
+                "zh": "轿车：540 升\n旅行车：640升"
+              },
+              "ładowność": {
+                "pl": "650-750 kg",
+                "en": "650-750 kg",
+                "de": "650-750 kg",
+                "uk": "650-750 кг",
+                "ru": "650-750 кг",
+                "zh": "650-750公斤"
+              },
+              "pokrewne": {
+                "pl": "Mercedes CLS (C257)",
+                "en": "Mercedes CLS (C257)",
+                "de": "Mercedes CLS (C257)",
+                "uk": "Mercedes CLS (C257)",
+                "ru": "Mercedes CLS (C257)",
+                "zh": "梅赛德斯 CLS (C257)"
+              },
+              "konkurencja": {
+                "pl": "Audi A6 (C8)\nBMW Serii 5 (G30)",
+                "en": "Audi A6 (C8)\nBMW 5 Series (G30)",
+                "de": "Audi A6 (C8)\nBMW 5er (G30)",
+                "uk": "Audi A6 (C8)\nBMW 5 Series (G30)",
+                "ru": "Audi A6 (C8)\nBMW 5 серии (G30)",
+                "zh": "奥迪A6(C8)\n宝马5系（G30）"
+              },
+              "commons": {
+                "pl": "Category:Mercedes-Benz W213",
+                "en": "Category:Mercedes-Benz W213",
+                "de": "Kategorie: Mercedes-Benz W213",
+                "uk": "Категорія:Mercedes-Benz W213",
+                "ru": "Категория:Mercedes-Benz W213",
+                "zh": "类别：奔驰W213"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "S-Class": [
+      {
+        "BrandID": 90,
+        "ModelID": 412999,
+        "Brand Name": "Mercedes",
+        "Model Name": "S-Class",
+        "Serie Name": "W126",
+        "Years": "1979 - 1991",
+        "specs": {
+          "bodyType": "Sedan/Coupe",
+          "segment": "Full-size Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.6L - 5.6L V8 / 3.0L - 3.5L Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercedes Klasy S to flagowa limuzyna, często nazywana 'najlepszym samochodem na świecie'. To w niej debiutują technologie, które później trafiają do innych aut.",
+              "en": "The Mercedes S-Class is the flagship limousine, often called 'the best car in the world'. This is where technologies that later find their way into other cars make their debut.",
+              "de": "Die Mercedes S-Klasse ist die Flaggschiff-Limousine und wird oft als „das beste Auto der Welt“ bezeichnet. Hier kommen Technologien zum Einsatz, die später auch in anderen Autos Einzug halten.",
+              "uk": "Mercedes S-Class — флагманський лімузин, який часто називають «найкращим автомобілем у світі». Саме тут дебютують технології, які пізніше потрапляють в інші автомобілі.",
+              "ru": "Mercedes S-Class — флагманский лимузин, который часто называют «лучшим автомобилем в мире». Именно здесь дебютируют технологии, которые позже внедряются в другие автомобили.",
+              "zh": "梅赛德斯 S 级是旗舰豪华轿车，通常被称为“世界上最好的汽车”。这就是后来应用于其他汽车的技术首次亮相的地方。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "okres produkcji": {
+                "pl": "od 1972",
+                "en": "from 1972",
+                "de": "von 1972",
+                "uk": "1972 р.",
+                "ru": "1972 года.",
+                "zh": "自1972年以来"
+              },
+              "segment": {
+                "pl": "F (Luksusowy)",
+                "en": "F (Luxury)",
+                "de": "F (Luxus)",
+                "uk": "F (Luxury)",
+                "ru": "F (Luxury)",
+                "zh": "F（豪华）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 90,
+        "ModelID": 412903,
+        "Brand Name": "Mercedes",
+        "Model Name": "S-Class",
+        "Serie Name": "W140",
+        "Years": "1991 - 1998",
+        "specs": {
+          "bodyType": "Sedan/Coupe",
+          "segment": "Full-size Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.8L - 6.0L V12 / 3.0L - 3.5L Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercedes Klasy S to flagowa limuzyna, często nazywana 'najlepszym samochodem na świecie'. To w niej debiutują technologie, które później trafiają do innych aut.",
+              "en": "The Mercedes S-Class is the flagship sedan, often called 'the best car in the world'. This is where technologies that later find their way into other cars make their debut.",
+              "de": "Die Mercedes S-Klasse ist die Flaggschiff-Limousine und wird oft als „das beste Auto der Welt“ bezeichnet. Hier kommen Technologien zum Einsatz, die später auch in anderen Autos Einzug halten.",
+              "uk": "Mercedes S-Class — флагманський седан, який часто називають «найкращим автомобілем у світі». Саме тут дебютують технології, які пізніше потрапляють в інші автомобілі.",
+              "ru": "Mercedes S-Class — флагманский седан, который часто называют «лучшим автомобилем в мире». Именно здесь дебютируют технологии, которые позже внедряются в другие автомобили.",
+              "zh": "梅赛德斯 S 级是旗舰豪华轿车，通常被称为“世界上最好的汽车”。这就是后来应用于其他汽车的技术首次亮相的地方。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "okres produkcji": {
+                "pl": "od 1972",
+                "en": "since 1972",
+                "de": "seit 1972",
+                "uk": "з 1972 року",
+                "ru": "с 1972 г.",
+                "zh": "自1972年以来"
+              },
+              "segment": {
+                "pl": "F (Luksusowy)",
+                "en": "F (Luxury)",
+                "de": "F (Luxus)",
+                "uk": "F (Luxury)",
+                "ru": "F (Роскошь)",
+                "zh": "F（豪华）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 90,
+        "ModelID": 3996,
+        "Brand Name": "Mercedes",
+        "Model Name": "S-Class",
+        "Serie Name": "W220",
+        "Years": "1998 - 2005",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "RWD/4Matic",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.8L - 6.0L V12 / 3.2L - 4.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercedes Klasy S to flagowa limuzyna, często nazywana 'najlepszym samochodem na świecie'. To w niej debiutują technologie, które później trafiają do innych aut.",
+              "en": "The Mercedes S-Class is the flagship sedan, often called 'the best car in the world'. This is where technologies that later find their way into other cars make their debut.",
+              "de": "Die Mercedes S-Klasse ist die Flaggschiff-Limousine und wird oft als „das beste Auto der Welt“ bezeichnet. Hier kommen Technologien zum Einsatz, die später auch in anderen Autos Einzug halten.",
+              "uk": "Mercedes S-Class — флагманський седан, який часто називають «найкращим автомобілем у світі». Саме тут дебютують технології, які пізніше потрапляють в інші автомобілі.",
+              "ru": "Mercedes S-Класс — флагманский седан, который часто называют «лучшим автомобилем в мире». Именно здесь дебютируют технологии, которые позже внедряются в другие автомобили.",
+              "zh": "梅赛德斯 S 级是旗舰豪华轿车，通常被称为“世界上最好的汽车”。这就是后来应用于其他汽车的技术首次亮相的地方。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "okres produkcji": {
+                "pl": "od 1972",
+                "en": "from 1972",
+                "de": "von 1972",
+                "uk": "1972 р.",
+                "ru": "1972 года.",
+                "zh": "自1972年以来"
+              },
+              "segment": {
+                "pl": "F (Luksusowy)",
+                "en": "F (Luxury)",
+                "de": "F (Luxus)",
+                "uk": "F (Luxury)",
+                "ru": "F (Luxury)",
+                "zh": "F（豪华）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 90,
+        "ModelID": 3997,
+        "Brand Name": "Mercedes",
+        "Model Name": "S-Class",
+        "Serie Name": "W221",
+        "Years": "2005 - 2013",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "RWD/4Matic",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "3.5L - 6.0L V12 / 2.1L - 4.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercedes Klasy S to flagowa limuzyna, często nazywana 'najlepszym samochodem na świecie'. To w niej debiutują technologie, które później trafiają do innych aut.",
+              "en": "The Mercedes S-Class is the flagship sedan, often called 'the best car in the world'. This is where technologies that later find their way into other cars make their debut.",
+              "de": "Die Mercedes S-Klasse ist die Flaggschiff-Limousine und wird oft als „das beste Auto der Welt“ bezeichnet. Hier kommen Technologien zum Einsatz, die später auch in anderen Autos Einzug halten.",
+              "uk": "Mercedes S-Class — флагманський седан, який часто називають «найкращим автомобілем у світі». Саме тут дебютують технології, які пізніше потрапляють в інші автомобілі.",
+              "ru": "Mercedes S-Class — флагманский седан, который часто называют «лучшим автомобилем в мире». Именно здесь дебютируют технологии, которые позже внедряются в другие автомобили.",
+              "zh": "梅赛德斯 S 级是旗舰豪华轿车，通常被称为“世界上最好的汽车”。这就是后来应用于其他汽车的技术首次亮相的地方。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "okres produkcji": {
+                "pl": "od 1972",
+                "en": "from 1972",
+                "de": "von 1972",
+                "uk": "1972 р.",
+                "ru": "1972 года.",
+                "zh": "自1972年以来"
+              },
+              "segment": {
+                "pl": "F (Luksusowy)",
+                "en": "F (Luxury)",
+                "de": "F (Luxus)",
+                "uk": "F (Luxury)",
+                "ru": "F (Luxury)",
+                "zh": "F（豪华）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 90,
+        "ModelID": 3998,
+        "Brand Name": "Mercedes",
+        "Model Name": "S-Class",
+        "Serie Name": "W222",
+        "Years": "2013 - 2020",
+        "specs": {
+          "bodyType": "Sedan/Coupe/Convertible",
+          "segment": "Full-size Luxury",
+          "drive": "RWD/4Matic",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "3.0L - 6.0L V12 / 3.0L Diesel / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Mercedes Klasy S to flagowa limuzyna, często nazywana 'najlepszym samochodem na świecie'. To w niej debiutują technologie, które później trafiają do innych aut.",
+              "en": "The Mercedes S-Class is the flagship sedan, often called 'the best car in the world'. This is where technologies that later find their way into other cars make their debut.",
+              "de": "Die Mercedes S-Klasse ist die Flaggschiff-Limousine und wird oft als „das beste Auto der Welt“ bezeichnet. Hier kommen Technologien zum Einsatz, die später auch in anderen Autos Einzug halten.",
+              "uk": "Mercedes S-Class — флагманський седан, який часто називають «найкращим автомобілем у світі». Саме тут дебютують технології, які пізніше потрапляють в інші автомобілі.",
+              "ru": "Mercedes S-Class — флагманский седан, который часто называют «лучшим автомобилем в мире». Именно здесь дебютируют технологии, которые позже внедряются в другие автомобили.",
+              "zh": "梅赛德斯 S 级是旗舰豪华轿车，通常被称为“世界上最好的汽车”。这就是后来应用于其他汽车的技术首次亮相的地方。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "okres produkcji": {
+                "pl": "od 1972",
+                "en": "from 1972",
+                "de": "von 1972",
+                "uk": "1972 р.",
+                "ru": "1972 года.",
+                "zh": "自1972年以来"
+              },
+              "segment": {
+                "pl": "F (Luksusowy)",
+                "en": "F (Luxury)",
+                "de": "F (Luxus)",
+                "uk": "F (Luxury)",
+                "ru": "F (Luxury)",
+                "zh": "F（豪华）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 90,
+        "ModelID": 416654,
+        "Brand Name": "Mercedes",
+        "Model Name": "S-Class",
+        "Serie Name": "W223",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "4Matic",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "3.0L I6 / 4.0L V8 / 6.0L V12 / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Mercedes Klasy S to flagowa limuzyna, często nazywana 'najlepszym samochodem na świecie'. To w niej debiutują technologie, które później trafiają do innych aut.",
+              "en": "The Mercedes S-Class is the flagship sedan, often called 'the best car in the world'. This is where technologies that later find their way into other cars make their debut.",
+              "de": "Die Mercedes S-Klasse ist die Flaggschiff-Limousine und wird oft als „das beste Auto der Welt“ bezeichnet. Hier kommen Technologien zum Einsatz, die später auch in anderen Autos Einzug halten.",
+              "uk": "Mercedes S-Class — флагманський седан, який часто називають «найкращим автомобілем у світі». Саме тут дебютують технології, які пізніше потрапляють в інші автомобілі.",
+              "ru": "Mercedes S-Class — флагманский седан, который часто называют «лучшим автомобилем в мире». Именно здесь дебютируют технологии, которые позже внедряются в другие автомобили.",
+              "zh": "梅赛德斯 S 级是旗舰豪华轿车，通常被称为“世界上最好的汽车”。这就是后来应用于其他汽车的技术首次亮相的地方。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "okres produkcji": {
+                "pl": "od 1972",
+                "en": "from 1972",
+                "de": "von 1972",
+                "uk": "1972 року",
+                "ru": "1972 года.",
+                "zh": "自1972年以来"
+              },
+              "segment": {
+                "pl": "F (Luksusowy)",
+                "en": "F (Luxury)",
+                "de": "F (Luxus)",
+                "uk": "F (Luxury)",
+                "ru": "F (Luxury)",
+                "zh": "F（豪华）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "G-Class": [
+      {
+        "BrandID": 90,
+        "ModelID": 3964,
+        "Brand Name": "Mercedes",
+        "Model Name": "G-Class",
+        "Serie Name": "W460/W461",
+        "Years": "1979 - 2001",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Off-Road Luxury",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 2.8L / 2.4L - 3.0L Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercedes Klasy G (Gelenda) to ikona. Kanciasta terenówka, która stała się luksusowym symbolem statusu, nie tracąc swoich możliwości off-roadowych.",
+              "en": "The Mercedes G-Class (Gelenda) is an icon. An angular off-roader that has become a luxurious status symbol without losing its off-road capabilities.",
+              "de": "Die Mercedes G-Klasse (Gelenda) ist eine Ikone. Ein kantiger Offroader, der zum luxuriösen Statussymbol avancierte, ohne seine Geländetauglichkeit einzubüßen.",
+              "uk": "Mercedes G-Class (Gelenda) — ікона. Кутастий позашляховик, який став символом розкішного статусу, але не втратив своїх позашляхових можливостей.",
+              "ru": "Mercedes G-Class (Gelenda) — это икона. Угловой внедорожник, ставший роскошным символом статуса, не потерявший при этом своих внедорожных возможностей.",
+              "zh": "梅赛德斯 G 级（Gelenda）是一个标志。一款棱角分明的越野车，在不失越野能力的同时，已成为豪华身份的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz / Magna Steyr",
+                "en": "Mercedes-Benz / Magna Steyr",
+                "de": "Mercedes-Benz / Magna Steyr",
+                "uk": "Mercedes-Benz / Magna Steyr",
+                "ru": "Mercedes-Benz / Magna Steyr",
+                "zh": "梅赛德斯-奔驰/麦格纳斯太尔"
+              },
+              "okres produkcji": {
+                "pl": "od 1979",
+                "en": "from 1979",
+                "de": "von 1979",
+                "uk": "1979 року",
+                "ru": "1979 года.",
+                "zh": "自1979年以来"
+              },
+              "segment": {
+                "pl": "Off-road SUV",
+                "en": "Off-road SUV",
+                "de": "Gelände-SUV",
+                "uk": "Позашляховик",
+                "ru": "Внедорожник.",
+                "zh": "越野SUV"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 90,
+        "ModelID": 3965,
+        "Brand Name": "Mercedes",
+        "Model Name": "G-Class",
+        "Serie Name": "W463",
+        "Years": "1990 - 2018",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Off-Road Luxury",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.2L - 6.0L V12 / 3.0L - 4.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercedes Klasy G (Gelenda) to ikona. Kanciasta terenówka, która stała się luksusowym symbolem statusu, nie tracąc swoich możliwości off-roadowych.",
+              "en": "The Mercedes G-Class (Gelenda) is an icon. An angular off-roader that has become a luxurious status symbol without losing its off-road capabilities.",
+              "de": "Die Mercedes G-Klasse (Gelenda) ist eine Ikone. Ein kantiger Offroader, der zum luxuriösen Statussymbol avancierte, ohne seine Geländetauglichkeit einzubüßen.",
+              "uk": "Mercedes G-Class (Gelenda) — ікона. Кутастий позашляховик, який став символом розкішного статусу, але не втратив своїх позашляхових можливостей.",
+              "ru": "Mercedes G-Class (Gelenda) – это икона. Угловой внедорожник, ставший роскошным символом статуса, не потерявший при этом своих внедорожных возможностей.",
+              "zh": "梅赛德斯 G 级（Gelenda）是一个标志。一款棱角分明的越野车，在不失越野能力的同时，已成为豪华身份的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz / Magna Steyr",
+                "en": "Mercedes-Benz / Magna Steyr",
+                "de": "Mercedes-Benz / Magna Steyr",
+                "uk": "Mercedes-Benz / Magna Steyr",
+                "ru": "Mercedes-Benz / Magna Steyr",
+                "zh": "梅赛德斯-奔驰/麦格纳斯太尔"
+              },
+              "okres produkcji": {
+                "pl": "od 1979",
+                "en": "from 1979",
+                "de": "ab 1979",
+                "uk": "1979 р.",
+                "ru": "1979 г.",
+                "zh": "自1979年以来"
+              },
+              "segment": {
+                "pl": "Off-road SUV",
+                "en": "Off-road SUV",
+                "de": "Gelände-SUV",
+                "uk": "Позашляховик",
+                "ru": "Внедорожник",
+                "zh": "越野SUV"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 90,
+        "ModelID": 416655,
+        "Brand Name": "Mercedes",
+        "Model Name": "G-Class",
+        "Serie Name": "W463 (2018+)",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Off-Road Luxury",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "4.0L V8 / 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Mercedes Klasy G (Gelenda) to ikona. Kanciasta terenówka, która stała się luksusowym symbolem statusu, nie tracąc swoich możliwości off-roadowych.",
+              "en": "The Mercedes G-Class (Gelenda) is an icon. An angular off-roader that has become a luxurious status symbol without losing its off-road capabilities.",
+              "de": "Die Mercedes G-Klasse (Gelenda) ist eine Ikone. Ein kantiger Offroader, der zum luxuriösen Statussymbol avancierte, ohne seine Geländetauglichkeit einzubüßen.",
+              "uk": "Mercedes G-Class (Gelenda) — ікона. Кутастий позашляховик, який став символом розкішного статусу, але не втратив своїх позашляхових можливостей.",
+              "ru": "Mercedes G-Class («Геленда») – это икона. Угловой внедорожник, ставший роскошным символом статуса, не потерявший при этом своих внедорожных возможностей.",
+              "zh": "梅赛德斯 G 级（Gelenda）是一个标志。一款棱角分明的越野车，在不失越野能力的同时，已成为豪华身份的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz / Magna Steyr",
+                "en": "Mercedes-Benz / Magna Steyr",
+                "de": "Mercedes-Benz / Magna Steyr",
+                "uk": "Mercedes-Benz / Magna Steyr",
+                "ru": "Mercedes-Benz / Magna Steyr",
+                "zh": "梅赛德斯-奔驰 / 麦格纳斯太尔"
+              },
+              "okres produkcji": {
+                "pl": "od 1979",
+                "en": "from 1979",
+                "de": "von 1979",
+                "uk": "1979 р.",
+                "ru": "1979 года выпуска",
+                "zh": "1979 年生产"
+              },
+              "segment": {
+                "pl": "Off-road SUV",
+                "en": "Off-road SUV",
+                "de": "Gelände-SUV",
+                "uk": "Позашляховик",
+                "ru": "Внедорожник",
+                "zh": "越野 SUV"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "GLA": [
+      {
+        "BrandID": 90,
+        "ModelID": 413342,
+        "Brand Name": "Mercedes",
+        "Model Name": "GLA",
+        "Serie Name": "X156",
+        "Years": "2013 - 2020",
+        "specs": {
+          "bodyType": "Crossover",
+          "segment": "Subcompact Luxury SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.0L Turbo / 1.5L - 2.1L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercedes GLA (X156) to kompaktowy crossover zbudowany na bazie Klasy A. Łączy zwinność hatchbacka z wyższym prześwitem i modnym, uterenowionym wyglądem.",
+              "en": "Mercedes GLA (X156) is a compact crossover based on the A-Class. It combines the agility of a hatchback with higher ground clearance and a fashionable, off-road look.",
+              "de": "Mercedes GLA (X156) ist ein kompakter Crossover auf Basis der A-Klasse. Es vereint die Agilität eines Fließheckmodells mit größerer Bodenfreiheit und einem modischen Offroad-Look.",
+              "uk": "Mercedes GLA (X156) — компактний кросовер на базі A-класу. Він поєднує в собі маневреність хетчбека з вищим дорожнім просвітом і модний позашляховий вигляд.",
+              "ru": "Mercedes GLA (X156) — компактный кроссовер на базе А-класса. Он сочетает в себе маневренность хэтчбека с увеличенным дорожным просветом и модным внедорожным внешним видом.",
+              "zh": "梅赛德斯 GLA (X156) 是一款基于 A 级车的紧凑型跨界车。它结合了掀背车的敏捷性、更高的离地间隙和时尚的越野外观。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "okres produkcji": "2013–2020",
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 90,
+        "ModelID": 416656,
+        "Brand Name": "Mercedes",
+        "Model Name": "GLA",
+        "Serie Name": "H247",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "Crossover",
+          "segment": "Subcompact Luxury SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "1.3L - 2.0L Turbo / 2.0L Diesel / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja GLA (H247) stała się pełnoprawnym SUV-em. Wyższa, bardziej przestronna i wyposażona w najnowsze multimedia, idealnie wpisuje się w potrzeby miejskich użytkowników.",
+              "en": "The second generation of GLA (H247) became a full-fledged SUV. Taller, more spacious and equipped with the latest multimedia, it perfectly meets the needs of urban users.",
+              "de": "Die zweite Generation des GLA (H247) wurde zu einem vollwertigen SUV. Höher, geräumiger und mit modernstem Multimedia ausgestattet, erfüllt es perfekt die Bedürfnisse urbaner Nutzer.",
+              "uk": "Друге покоління GLA (H247) стало повноцінним SUV. Більш високий, просторіший і оснащений новітньою мультимедіа, він ідеально відповідає потребам міських користувачів.",
+              "ru": "Второе поколение GLA (H247) стало полноценным внедорожником. Более высокий, просторный и оснащенный новейшими мультимедийными устройствами, он идеально отвечает потребностям городских пользователей.",
+              "zh": "第二代GLA（H247）成为一款成熟的SUV。更高、更宽敞并配备最新的多媒体，完美满足城市用户的需求。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "okres produkcji": {
+                "pl": "od 2020",
+                "en": "from 2020",
+                "de": "ab 2020",
+                "uk": "з 2020 року",
+                "ru": "2020 года",
+                "zh": "2020 年起"
+              },
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "GLC": [
+      {
+        "BrandID": 90,
+        "ModelID": 414234,
+        "Brand Name": "Mercedes",
+        "Model Name": "GLC",
+        "Serie Name": "X253/C253",
+        "Years": "2015 - 2022",
+        "specs": {
+          "bodyType": "SUV/Coupe",
+          "segment": "Compact Luxury SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "2.0L - 4.0L V8 / 2.1L - 3.0L Diesel / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercedes GLC to jeden z najlepiej sprzedających się modeli marki. Wyjątkowy balans między luksusem Klasy C a uniwersalnością SUV-a czyni go wyborem numer jeden dla wielu rodzin.",
+              "en": "Mercedes GLC is one of the brand's best-selling models. The unique balance between the luxury of the C-Class and the versatility of an SUV makes it the number one choice for many families.",
+              "de": "Mercedes GLC ist eines der meistverkauften Modelle der Marke. Die einzigartige Balance zwischen dem Luxus der C-Klasse und der Vielseitigkeit eines SUV macht sie für viele Familien zur ersten Wahl.",
+              "uk": "Mercedes GLC є однією з найбільш продаваних моделей бренду. Унікальний баланс між розкішшю C-класу та універсальністю SUV робить його вибором номер один для багатьох сімей.",
+              "ru": "Mercedes GLC — одна из самых продаваемых моделей бренда. Уникальный баланс между роскошью C-класса и универсальностью внедорожника делает его выбором номер один для многих семей.",
+              "zh": "梅赛德斯 GLC 是该品牌最畅销的车型之一。 C级车的豪华感和SUV的多功能性之间的独特平衡使其成为许多家庭的首选。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "okres produkcji": {
+                "pl": "od 2015",
+                "en": "from 2015",
+                "de": "ab 2015",
+                "uk": "з 2015 року",
+                "ru": "2015 г.",
+                "zh": "2015 年起"
+              },
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний позашляховик",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型 SUV"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 90,
+        "ModelID": 416657,
+        "Brand Name": "Mercedes",
+        "Model Name": "GLC",
+        "Serie Name": "X254/C254",
+        "Years": "2022 - 3000",
+        "specs": {
+          "bodyType": "SUV/Coupe",
+          "segment": "Compact Luxury SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "2.0L Turbo / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercedes GLC to jeden z najlepiej sprzedających się SUV-ów klasy premium. Łączy elegancję i komfort Klasy C z praktycznością i pewnością prowadzenia w każdych warunkach.",
+              "en": "Mercedes GLC is one of the best-selling premium SUVs. It combines the elegance and comfort of the C-Class with practicality and driving confidence in all conditions.",
+              "de": "Mercedes GLC ist einer der meistverkauften Premium-SUVs. Es vereint die Eleganz und den Komfort der C-Klasse mit Praktikabilität und Fahrsicherheit unter allen Bedingungen.",
+              "uk": "Mercedes GLC є одним із найбільш продаваних позашляховиків преміум-класу. Він поєднує в собі елегантність і комфорт C-класу з практичністю і впевненістю водіння за будь-яких умов.",
+              "ru": "Mercedes GLC — один из самых продаваемых внедорожников премиум-класса. Он сочетает в себе элегантность и комфорт C-Класса с практичностью и уверенностью в любых условиях.",
+              "zh": "梅赛德斯 GLC 是最畅销的高档 SUV 之一。它将 C 级轿车的优雅和舒适与各种条件下的实用性和驾驶信心融为一体。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "okres produkcji": {
+                "pl": "od 2015",
+                "en": "from 2015",
+                "de": "ab 2015",
+                "uk": "з 2015 року",
+                "ru": "2015 г.",
+                "zh": "2015 年起"
+              },
+              "segment": {
+                "pl": "Mid-size Luxury SUV",
+                "en": "Mid-size Luxury SUV",
+                "de": "Mittelklasse-Luxus-SUV",
+                "uk": "Середньорозмірний Luxury SUV",
+                "ru": "Среднеразмерный роскошный внедорожник",
+                "zh": "中型豪华 SUV"
+              },
+              "napęd": {
+                "pl": "AWD (4Matic)",
+                "en": "AWD (4Matic)",
+                "de": "AWD (4Matic)",
+                "uk": "AWD (4Matic)",
+                "ru": "AWD (4Matic)",
+                "zh": "AWD (4Matic)"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "GLE": [
+      {
+        "BrandID": 90,
+        "ModelID": 414235,
+        "Brand Name": "Mercedes",
+        "Model Name": "GLE",
+        "Serie Name": "W166/C292",
+        "Years": "2015 - 2019",
+        "specs": {
+          "bodyType": "SUV/Coupe",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "3.0L V6 - 5.5L V8 / 2.1L - 3.0L Diesel / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercedes GLE (W166/C292) to kontynuacja legendy Klasy ML. Oferuje potężne silniki, w tym wersje AMG, oraz luksusowe wnętrze, będąc wzorcem w swojej klasie.",
+              "en": "Mercedes GLE (W166/C292) is a continuation of the legend of the ML-Class. It offers powerful engines, including AMG versions, and a luxurious interior, being a benchmark in its class.",
+              "de": "Mercedes GLE (W166/C292) ist eine Fortsetzung der Legende der ML-Klasse. Er bietet leistungsstarke Motoren, darunter auch AMG-Versionen, und ein luxuriöses Interieur und setzt damit Maßstäbe in seiner Klasse.",
+              "uk": "Mercedes GLE (W166/C292) є продовженням легенди ML-Class. Він пропонує потужні двигуни, включно з версіями AMG, і розкішний салон, що є еталоном у своєму класі.",
+              "ru": "Mercedes GLE (W166/C292) — продолжение легенды ML-класса. Он предлагает мощные двигатели, включая версии AMG, и роскошный салон, являющийся эталоном в своем классе.",
+              "zh": "梅赛德斯 GLE (W166/C292) 是 ML 级传奇的延续。它提供强大的发动机（包括 AMG 版本）和豪华的内饰，成为同类产品中的标杆。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Mercedes-Benz",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "okres produkcji": "2015–2019",
+              "segment": {
+                "pl": "Mid-size Luxury SUV",
+                "en": "Mid-size Luxury SUV",
+                "de": "Mittelgroßer Luxus-SUV",
+                "uk": "Розкішний позашляховик середнього розміру",
+                "ru": "Роскошный внедорожник среднего размера",
+                "zh": "中型豪华SUV"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 90,
+        "ModelID": 416658,
+        "Brand Name": "Mercedes",
+        "Model Name": "GLE",
+        "Serie Name": "V167/C167",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "SUV/Coupe",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "2.0L - 4.0L V8 / 2.0L - 3.0L Diesel / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nowa generacja GLE (V167) wprowadziła rewolucyjne zawieszenie E-Active Body Control oraz najbardziej zaawansowane systemy multimedialne, definiując luksus na nowo.",
+              "en": "The new generation GLE (V167) introduced the revolutionary E-Active Body Control suspension and the most advanced multimedia systems, redefining luxury.",
+              "de": "Die neue Generation des GLE (V167) führte das revolutionäre E-Active Body Control-Fahrwerk und die fortschrittlichsten Multimediasysteme ein und definierte Luxus neu.",
+              "uk": "Нове покоління GLE (V167) представило революційну підвіску E-Active Body Control і найдосконаліші мультимедійні системи, переосмисливши розкіш.",
+              "ru": "Новое поколение GLE (V167) представило революционную подвеску E-Active Body Control и самые передовые мультимедийные системы, дающие новое определение роскоши.",
+              "zh": "全新一代GLE（V167）引入革命性的E-Active车身控制悬架和最先进的多媒体系统，重新定义豪华。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-Benz",
+                "en": "Mercedes-Benz",
+                "de": "Mercedes-Benz",
+                "uk": "Mercedes-Benz",
+                "ru": "Мерседес-Бенц",
+                "zh": "梅赛德斯-奔驰"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019 р.",
+                "ru": "с 2019 г.",
+                "zh": "2019 年起"
+              },
+              "segment": {
+                "pl": "Mid-size Luxury SUV",
+                "en": "Mid-size Luxury SUV",
+                "de": "Mittelklasse-Luxus-SUV",
+                "uk": "Розкішний позашляховик середнього розміру",
+                "ru": "Роскошный внедорожник среднего размера",
+                "zh": "中型豪华 SUV"
+              },
+              "napęd": {
+                "pl": "AWD (4Matic)",
+                "en": "AWD (4Matic)",
+                "de": "AWD (4Matic)",
+                "uk": "AWD (4Matic)",
+                "ru": "AWD (4Matic)",
+                "zh": "AWD (4Matic)"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "AMG GT": [
+      {
+        "BrandID": 90,
+        "ModelID": 414408,
+        "Brand Name": "Mercedes",
+        "Model Name": "AMG GT",
+        "Serie Name": "C190",
+        "Years": "2014 - 2021",
+        "specs": {
+          "bodyType": "Coupe/Roadster",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "4.0L V8 Twin-Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercedes-AMG GT to czysta sportowa krew. Zaprojektowany od podstaw przez inżynierów z Affalterbach, oferuje niesamowite osiągi i charakterystyczny ryk silnika V8.",
+              "en": "Mercedes-AMG GT is pure sports blood. Designed from the ground up by engineers from Affalterbach, it offers incredible performance and the distinctive roar of a V8 engine.",
+              "de": "Der Mercedes-AMG GT ist pures Sportblut. Von Grund auf von Ingenieuren aus Affalterbach entwickelt, bietet es unglaubliche Leistung und den unverwechselbaren Klang eines V8-Motors.",
+              "uk": "Mercedes-AMG GT — чиста спортивна кров. З нуля розроблений інженерами з Аффальтербаха, він пропонує неймовірну продуктивність і характерний рев двигуна V8.",
+              "ru": "Mercedes-AMG GT — это чистая спортивная кровь. Разработанный с нуля инженерами из Аффальтербаха, он предлагает невероятную производительность и характерный рев двигателя V8.",
+              "zh": "Mercedes-AMG GT 具有纯正的运动血统。它由 Affalterbach 的工程师从头开始设计，提供令人难以置信的性能和 V8 发动机独特的轰鸣声。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-AMG"
+              },
+              "okres produkcji": "2014–2021",
+              "segment": {
+                "pl": "Sports Car / Grand Tourer",
+                "en": "Sports Car / Grand Tourer",
+                "de": "Sportwagen / Grand Tourer",
+                "uk": "Спортивний автомобіль / Grand Tourer",
+                "ru": "Спортивный автомобиль/Grand Tourer",
+                "zh": "跑车/豪华旅行车"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 90,
+        "ModelID": 416659,
+        "Brand Name": "Mercedes",
+        "Model Name": "AMG GT",
+        "Serie Name": "4-Door Coupe (X290)",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Executive Car",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "3.0L I6 / 4.0L V8 / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mercedes-AMG GT 4-Door Coupe to najszybszy sposób na przewiezienie czterech osób. Łączy torowe osiągi z luksusem i prestiżem marki Mercedes-Benz.",
+              "en": "Mercedes-AMG GT 4-Door Coupe is the fastest way to transport four people. It combines track performance with the luxury and prestige of the Mercedes-Benz brand.",
+              "de": "Das Mercedes-AMG GT 4-Türer-Coupé ist die schnellste Möglichkeit, vier Personen zu transportieren. Es vereint Rennstreckenleistung mit dem Luxus und Prestige der Marke Mercedes-Benz.",
+              "uk": "Mercedes-AMG GT 4-Door Coupe — це найшвидший спосіб перевезення чотирьох людей. Він поєднує в собі характеристики на трасі з розкішшю та престижем бренду Mercedes-Benz.",
+              "ru": "Mercedes-AMG GT 4-дверное купе — самый быстрый способ перевозки четырех человек. Он сочетает в себе гоночные качества с роскошью и престижем бренда Mercedes-Benz.",
+              "zh": "Mercedes-AMG GT 4 门轿跑车是运送四人的最快方式。它将赛道性能与梅赛德斯-奔驰品牌的奢华和声誉融为一体。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mercedes-AMG"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "from 2018",
+                "de": "ab 2018",
+                "uk": "з 2018 року",
+                "ru": "с 2018 г.",
+                "zh": "2018 年起"
+              },
+              "segment": {
+                "pl": "Executive Car / Sports Sedan",
+                "en": "Executive Car / Sports Sedan",
+                "de": "Oberklassewagen / Sportlimousine",
+                "uk": "Представницький автомобіль / спортивний седан",
+                "ru": "Представительский автомобиль/спортивный седан",
+                "zh": "行政车/运动轿车"
+              },
+              "napęd": {
+                "pl": "AWD (4Matic+)",
+                "en": "AWD (4Matic+)",
+                "de": "AWD (4Matic+)",
+                "uk": "AWD (4Matic+)",
+                "ru": "AWD (4Matic+)",
+                "zh": "AWD (4Matic+)"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

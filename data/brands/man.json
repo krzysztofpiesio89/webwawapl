@@ -1,0 +1,701 @@
+{
+  "brand": "MAN",
+  "models": {
+    "8150": [
+      {
+        "BrandID": 180,
+        "ModelID": 415322,
+        "Brand Name": "MAN",
+        "Model Name": 8150,
+        "Serie Name": 8150,
+        "Years": "1990 - 2004",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "MAN to jeden z wiodących europejskich producentów pojazdów użytkowych, oferujący szeroką gamę ciężarówek i autobusów o wysokiej niezawodności.",
+              "en": "MAN is one of Europe's leading commercial vehicle manufacturers, offering a wide range of highly reliable trucks and buses.",
+              "de": "MAN ist einer der führenden Nutzfahrzeughersteller Europas und bietet eine breite Palette äußerst zuverlässiger Lkw und Busse.",
+              "uk": "MAN є одним із провідних європейських виробників комерційних автомобілів, що пропонує широкий асортимент високонадійних вантажівок і автобусів.",
+              "ru": "MAN – один из ведущих европейских производителей коммерческих автомобилей, предлагающий широкий ассортимент высоконадежных грузовых автомобилей и автобусов.",
+              "zh": "MAN 是欧洲领先的商用车制造商之一，提供各种高度可靠的卡车和公共汽车。"
+            }
+          }
+        }
+      }
+    ],
+    "8163": [
+      {
+        "BrandID": 180,
+        "ModelID": 415734,
+        "Brand Name": "MAN",
+        "Model Name": 8163,
+        "Serie Name": 8163,
+        "Years": "1997 - 2000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "MAN to jeden z wiodących europejskich producentów pojazdów użytkowych, oferujący szeroką gamę ciężarówek i autobusów o wysokiej niezawodności.",
+              "en": "MAN is one of the leading European manufacturers of commercial vehicles, offering a wide range of highly reliable trucks and buses.",
+              "de": "MAN ist einer der führenden europäischen Hersteller von Nutzfahrzeugen und bietet eine breite Palette äußerst zuverlässiger Lkw und Busse.",
+              "uk": "MAN є одним з провідних європейських виробників комерційних автомобілів, що пропонує широкий асортимент високонадійних вантажівок і автобусів.",
+              "ru": "MAN – один из ведущих европейских производителей коммерческого транспорта, предлагающий широкий ассортимент высоконадежных грузовых автомобилей и автобусов.",
+              "zh": "MAN 是欧洲领先的商用车制造商之一，提供各种高度可靠的卡车和公共汽车。"
+            }
+          }
+        }
+      }
+    ],
+    "10150": [
+      {
+        "BrandID": 180,
+        "ModelID": 415752,
+        "Brand Name": "MAN",
+        "Model Name": 10150,
+        "Serie Name": 10150,
+        "Years": "1980 - 2015",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "MAN to jeden z wiodących europejskich producentów pojazdów użytkowych, oferujący szeroką gamę ciężarówek i autobusów o wysokiej niezawodności.",
+              "en": "MAN is one of the leading European manufacturers of commercial vehicles, offering a wide range of highly reliable trucks and buses.",
+              "de": "MAN ist einer der führenden europäischen Hersteller von Nutzfahrzeugen und bietet eine breite Palette äußerst zuverlässiger Lkw und Busse.",
+              "uk": "MAN є одним з провідних європейських виробників комерційних автомобілів, що пропонує широкий асортимент високонадійних вантажівок і автобусів.",
+              "ru": "MAN – один из ведущих европейских производителей коммерческого транспорта, предлагающий широкий ассортимент высоконадежных грузовых автомобилей и автобусов.",
+              "zh": "MAN 是欧洲领先的商用车制造商之一，提供各种高度可靠的卡车和公共汽车。"
+            }
+          }
+        }
+      }
+    ],
+    "14232": [
+      {
+        "BrandID": 180,
+        "ModelID": 415742,
+        "Brand Name": "MAN",
+        "Model Name": 14232,
+        "Serie Name": 14232,
+        "Years": "1995 - 2015",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "MAN to jeden z wiodących europejskich producentów pojazdów użytkowych, oferujący szeroką gamę ciężarówek i autobusów o wysokiej niezawodności.",
+              "en": "MAN is one of the leading European manufacturers of commercial vehicles, offering a wide range of highly reliable trucks and buses.",
+              "de": "MAN ist einer der führenden europäischen Hersteller von Nutzfahrzeugen und bietet eine breite Palette äußerst zuverlässiger Lkw und Busse.",
+              "uk": "MAN є одним з провідних європейських виробників комерційних автомобілів, що пропонує широкий асортимент високонадійних вантажівок і автобусів.",
+              "ru": "MAN – один из ведущих европейских производителей коммерческого транспорта, предлагающий широкий ассортимент высоконадежных грузовых автомобилей и автобусов.",
+              "zh": "MAN 是欧洲领先的商用车制造商之一，提供各种高度可靠的卡车和公共汽车。"
+            }
+          }
+        }
+      }
+    ],
+    "14264": [
+      {
+        "BrandID": 180,
+        "ModelID": 415738,
+        "Brand Name": "MAN",
+        "Model Name": 14264,
+        "Serie Name": 14264,
+        "Years": "1990 - 2005",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "MAN to jeden z wiodących europejskich producentów pojazdów użytkowych, oferujący szeroką gamę ciężarówek i autobusów o wysokiej niezawodności.",
+              "en": "MAN is one of the leading European manufacturers of commercial vehicles, offering a wide range of highly reliable trucks and buses.",
+              "de": "MAN ist einer der führenden europäischen Hersteller von Nutzfahrzeugen und bietet eine breite Palette äußerst zuverlässiger Lkw und Busse.",
+              "uk": "MAN є одним з провідних європейських виробників комерційних автомобілів, що пропонує широкий асортимент високонадійних вантажівок і автобусів.",
+              "ru": "MAN – один из ведущих европейских производителей коммерческого транспорта, предлагающий широкий ассортимент высоконадежных грузовых автомобилей и автобусов.",
+              "zh": "MAN 是欧洲领先的商用车制造商之一，提供各种高度可靠的卡车和公共汽车。"
+            }
+          }
+        }
+      }
+    ],
+    "18272": [
+      {
+        "BrandID": 180,
+        "ModelID": 415740,
+        "Brand Name": "MAN",
+        "Model Name": 18272,
+        "Serie Name": 18272,
+        "Years": "1990 - 2005",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "MAN to jeden z wiodących europejskich producentów pojazdów użytkowych, oferujący szeroką gamę ciężarówek i autobusów o wysokiej niezawodności.",
+              "en": "MAN is one of the leading European manufacturers of commercial vehicles, offering a wide range of highly reliable trucks and buses.",
+              "de": "MAN ist einer der führenden europäischen Hersteller von Nutzfahrzeugen und bietet eine breite Palette äußerst zuverlässiger Lkw und Busse.",
+              "uk": "MAN є одним з провідних європейських виробників комерційних автомобілів, що пропонує широкий асортимент високонадійних вантажівок і автобусів.",
+              "ru": "MAN – один из ведущих европейских производителей коммерческого транспорта, предлагающий широкий ассортимент высоконадежных грузовых автомобилей и автобусов.",
+              "zh": "MAN 是欧洲领先的商用车制造商之一，提供各种高度可靠的卡车和公共汽车。"
+            }
+          }
+        }
+      }
+    ],
+    "18285": [
+      {
+        "BrandID": 180,
+        "ModelID": 415736,
+        "Brand Name": "MAN",
+        "Model Name": 18285,
+        "Serie Name": 18285,
+        "Years": "1990 - 2005",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "MAN to jeden z wiodących europejskich producentów pojazdów użytkowych, oferujący szeroką gamę ciężarówek i autobusów o wysokiej niezawodności.",
+              "en": "MAN is one of the leading European manufacturers of commercial vehicles, offering a wide range of highly reliable trucks and buses.",
+              "de": "MAN ist einer der führenden europäischen Hersteller von Nutzfahrzeugen und bietet eine breite Palette äußerst zuverlässiger Lkw und Busse.",
+              "uk": "MAN є одним з провідних європейських виробників комерційних автомобілів, що пропонує широкий асортимент високонадійних вантажівок і автобусів.",
+              "ru": "MAN – один из ведущих европейских производителей коммерческого транспорта, предлагающий широкий ассортимент высоконадежных грузовых автомобилей и автобусов.",
+              "zh": "MAN 是欧洲领先的商用车制造商之一，提供各种高度可靠的卡车和公共汽车。"
+            }
+          }
+        }
+      }
+    ],
+    "19364": [
+      {
+        "BrandID": 180,
+        "ModelID": 415374,
+        "Brand Name": "MAN",
+        "Model Name": 19364,
+        "Serie Name": 19364,
+        "Years": "1992 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "MAN to jeden z wiodących europejskich producentów pojazdów użytkowych, oferujący szeroką gamę ciężarówek i autobusów o wysokiej niezawodności.",
+              "en": "MAN is one of the leading European manufacturers of commercial vehicles, offering a wide range of highly reliable trucks and buses.",
+              "de": "MAN ist einer der führenden europäischen Hersteller von Nutzfahrzeugen und bietet eine breite Palette äußerst zuverlässiger Lkw und Busse.",
+              "uk": "MAN є одним з провідних європейських виробників комерційних автомобілів, що пропонує широкий асортимент високонадійних вантажівок і автобусів.",
+              "ru": "MAN – один из ведущих европейских производителей коммерческого транспорта, предлагающий широкий ассортимент высоконадежных грузовых автомобилей и автобусов.",
+              "zh": "MAN 是欧洲领先的商用车制造商之一，提供各种高度可靠的卡车和公共汽车。"
+            }
+          }
+        }
+      }
+    ],
+    "19372": [
+      {
+        "BrandID": 180,
+        "ModelID": 415376,
+        "Brand Name": "MAN",
+        "Model Name": 19372,
+        "Serie Name": 19372,
+        "Years": "1987 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "MAN to jeden z wiodących europejskich producentów pojazdów użytkowych, oferujący szeroką gamę ciężarówek i autobusów o wysokiej niezawodności.",
+              "en": "MAN is one of the leading European manufacturers of commercial vehicles, offering a wide range of highly reliable trucks and buses.",
+              "de": "MAN ist einer der führenden europäischen Hersteller von Nutzfahrzeugen und bietet eine breite Palette äußerst zuverlässiger Lkw und Busse.",
+              "uk": "MAN є одним з провідних європейських виробників комерційних автомобілів, що пропонує широкий асортимент високонадійних вантажівок і автобусів.",
+              "ru": "MAN – один из ведущих европейских производителей коммерческого транспорта, предлагающий широкий ассортимент высоконадежных грузовых автомобилей и автобусов.",
+              "zh": "MAN 是欧洲领先的商用车制造商之一，提供各种高度可靠的卡车和公共汽车。"
+            }
+          }
+        }
+      }
+    ],
+    "19403": [
+      {
+        "BrandID": 180,
+        "ModelID": 415754,
+        "Brand Name": "MAN",
+        "Model Name": 19403,
+        "Serie Name": 19403,
+        "Years": "1980 - 2015",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "MAN to jeden z wiodących europejskich producentów pojazdów użytkowych, oferujący szeroką gamę ciężarówek i autobusów o wysokiej niezawodności.",
+              "en": "MAN is one of the leading European manufacturers of commercial vehicles, offering a wide range of highly reliable trucks and buses.",
+              "de": "MAN ist einer der führenden europäischen Hersteller von Nutzfahrzeugen und bietet eine breite Palette äußerst zuverlässiger Lkw und Busse.",
+              "uk": "MAN є одним з провідних європейських виробників комерційних автомобілів, що пропонує широкий асортимент високонадійних вантажівок і автобусів.",
+              "ru": "MAN – один из ведущих европейских производителей коммерческого транспорта, предлагающий широкий ассортимент высоконадежных грузовых автомобилей и автобусов.",
+              "zh": "MAN 是欧洲领先的商用车制造商之一，提供各种高度可靠的卡车和公共汽车。"
+            }
+          }
+        }
+      }
+    ],
+    "19464": [
+      {
+        "BrandID": 180,
+        "ModelID": 415764,
+        "Brand Name": "MAN",
+        "Model Name": 19464,
+        "Serie Name": 19464,
+        "Years": "2000 - 2015",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "MAN to jeden z wiodących europejskich producentów pojazdów użytkowych, oferujący szeroką gamę ciężarówek i autobusów o wysokiej niezawodności.",
+              "en": "MAN is one of the leading European manufacturers of commercial vehicles, offering a wide range of highly reliable trucks and buses.",
+              "de": "MAN ist einer der führenden europäischen Hersteller von Nutzfahrzeugen und bietet eine breite Palette äußerst zuverlässiger Lkw und Busse.",
+              "uk": "MAN є одним з провідних європейських виробників комерційних автомобілів, що пропонує широкий асортимент високонадійних вантажівок і автобусів.",
+              "ru": "MAN – один из ведущих европейских производителей коммерческого транспорта, предлагающий широкий ассортимент высоконадежных грузовых автомобилей и автобусов.",
+              "zh": "MAN 是欧洲领先的商用车制造商之一，提供各种高度可靠的卡车和公共汽车。"
+            }
+          }
+        }
+      }
+    ],
+    "": [
+      {
+        "BrandID": 180,
+        "ModelID": "",
+        "Brand Name": "MAN",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "MAN to jeden z wiodących europejskich producentów pojazdów użytkowych, oferujący szeroką gamę ciężarówek i autobusów o wysokiej niezawodności.",
+              "en": "MAN is one of the leading European manufacturers of commercial vehicles, offering a wide range of highly reliable trucks and buses.",
+              "de": "MAN ist einer der führenden europäischen Hersteller von Nutzfahrzeugen und bietet eine breite Palette äußerst zuverlässiger Lkw und Busse.",
+              "uk": "MAN є одним з провідних європейських виробників комерційних автомобілів, що пропонує широкий асортимент високонадійних вантажівок і автобусів.",
+              "ru": "MAN – один из ведущих европейских производителей коммерческого транспорта, предлагающий широкий ассортимент высоконадежных грузовых автомобилей и автобусов.",
+              "zh": "MAN 是欧洲领先的商用车制造商之一，提供各种高度可靠的卡车和公共汽车。"
+            }
+          }
+        }
+      }
+    ],
+    "F2000": [
+      {
+        "BrandID": 180,
+        "ModelID": 415168,
+        "Brand Name": "MAN",
+        "Model Name": "F2000",
+        "Serie Name": "F2000",
+        "Years": "1994 - 2000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "MAN to jeden z wiodących europejskich producentów pojazdów użytkowych, oferujący szeroką gamę ciężarówek i autobusów o wysokiej niezawodności.",
+              "en": "MAN is one of the leading European manufacturers of commercial vehicles, offering a wide range of highly reliable trucks and buses.",
+              "de": "MAN ist einer der führenden europäischen Hersteller von Nutzfahrzeugen und bietet eine breite Palette äußerst zuverlässiger Lkw und Busse.",
+              "uk": "MAN є одним з провідних європейських виробників комерційних автомобілів, що пропонує широкий асортимент високонадійних вантажівок і автобусів.",
+              "ru": "MAN – один из ведущих европейских производителей коммерческого транспорта, предлагающий широкий ассортимент высоконадежных грузовых автомобилей и автобусов.",
+              "zh": "MAN 是欧洲领先的商用车制造商之一，提供各种高度可靠的卡车和公共汽车。"
+            }
+          }
+        }
+      }
+    ],
+    "F90": [
+      {
+        "BrandID": 180,
+        "ModelID": 415163,
+        "Brand Name": "MAN",
+        "Model Name": "F90",
+        "Serie Name": "F90",
+        "Years": "1986 - 1997",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "MAN to jeden z wiodących europejskich producentów pojazdów użytkowych, oferujący szeroką gamę ciężarówek i autobusów o wysokiej niezawodności.",
+              "en": "MAN is one of the leading European manufacturers of commercial vehicles, offering a wide range of highly reliable trucks and buses.",
+              "de": "MAN ist einer der führenden europäischen Hersteller von Nutzfahrzeugen und bietet eine breite Palette äußerst zuverlässiger Lkw und Busse.",
+              "uk": "MAN є одним з провідних європейських виробників комерційних автомобілів, що пропонує широкий асортимент високонадійних вантажівок і автобусів.",
+              "ru": "MAN – один из ведущих европейских производителей коммерческого транспорта, предлагающий широкий ассортимент высоконадежных грузовых автомобилей и автобусов.",
+              "zh": "MAN 是欧洲领先的商用车制造商之一，提供各种高度可靠的卡车和公共汽车。"
+            }
+          }
+        }
+      }
+    ],
+    "L 2000": [
+      {
+        "BrandID": 180,
+        "ModelID": 415170,
+        "Brand Name": "MAN",
+        "Model Name": "L 2000",
+        "Serie Name": "L 2000",
+        "Years": "1993 - 2005",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "MAN to jeden z wiodących europejskich producentów pojazdów użytkowych, oferujący szeroką gamę ciężarówek i autobusów o wysokiej niezawodności.",
+              "en": "MAN is one of the leading European manufacturers of commercial vehicles, offering a wide range of highly reliable trucks and buses.",
+              "de": "MAN ist einer der führenden europäischen Hersteller von Nutzfahrzeugen und bietet eine breite Palette äußerst zuverlässiger Lkw und Busse.",
+              "uk": "MAN є одним з провідних європейських виробників комерційних автомобілів, що пропонує широкий асортимент високонадійних вантажівок і автобусів.",
+              "ru": "MAN – один из ведущих европейских производителей коммерческого транспорта, предлагающий широкий ассортимент высоконадежных грузовых автомобилей и автобусов.",
+              "zh": "MAN 是欧洲领先的商用车制造商之一，提供各种高度可靠的卡车和公共汽车。"
+            }
+          }
+        }
+      }
+    ],
+    "Le": [
+      {
+        "BrandID": 180,
+        "ModelID": 415517,
+        "Brand Name": "MAN",
+        "Model Name": "LE",
+        "Serie Name": "Le",
+        "Years": "1994 - 2006",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "MAN to jeden z wiodących europejskich producentów pojazdów użytkowych, oferujący szeroką gamę ciężarówek i autobusów o wysokiej niezawodności.",
+              "en": "MAN is one of the leading European manufacturers of commercial vehicles, offering a wide range of highly reliable trucks and buses.",
+              "de": "MAN ist einer der führenden europäischen Hersteller von Nutzfahrzeugen und bietet eine breite Palette äußerst zuverlässiger Lkw und Busse.",
+              "uk": "MAN є одним з провідних європейських виробників комерційних автомобілів, що пропонує широкий асортимент високонадійних вантажівок і автобусів.",
+              "ru": "MAN – один из ведущих европейских производителей коммерческого транспорта, предлагающий широкий ассортимент высоконадежных грузовых автомобилей и автобусов.",
+              "zh": "MAN 是欧洲领先的商用车制造商之一，提供各种高度可靠的卡车和公共汽车。"
+            }
+          }
+        }
+      }
+    ],
+    "M90": [
+      {
+        "BrandID": 180,
+        "ModelID": 415758,
+        "Brand Name": "MAN",
+        "Model Name": "M90",
+        "Serie Name": "M90",
+        "Years": "1980 - 2005",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "MAN to jeden z wiodących europejskich producentów pojazdów użytkowych, oferujący szeroką gamę ciężarówek i autobusów o wysokiej niezawodności.",
+              "en": "MAN is one of the leading European manufacturers of commercial vehicles, offering a wide range of highly reliable trucks and buses.",
+              "de": "MAN ist einer der führenden europäischen Hersteller von Nutzfahrzeugen und bietet eine breite Palette äußerst zuverlässiger Lkw und Busse.",
+              "uk": "MAN є одним з провідних європейських виробників комерційних автомобілів, що пропонує широкий асортимент високонадійних вантажівок і автобусів.",
+              "ru": "MAN – один из ведущих европейских производителей коммерческого транспорта, предлагающий широкий ассортимент высоконадежных грузовых автомобилей и автобусов.",
+              "zh": "MAN 是欧洲领先的商用车制造商之一，提供各种高度可靠的卡车和公共汽车。"
+            }
+          }
+        }
+      }
+    ],
+    "NG": [
+      {
+        "BrandID": 180,
+        "ModelID": 415159,
+        "Brand Name": "MAN",
+        "Model Name": "NG",
+        "Serie Name": "NG",
+        "Years": "1992 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "MAN to jeden z wiodących europejskich producentów pojazdów użytkowych, oferujący szeroką gamę ciężarówek i autobusów o wysokiej niezawodności.",
+              "en": "MAN is one of the leading European manufacturers of commercial vehicles, offering a wide range of highly reliable trucks and buses.",
+              "de": "MAN ist einer der führenden europäischen Hersteller von Nutzfahrzeugen und bietet eine breite Palette äußerst zuverlässiger Lkw und Busse.",
+              "uk": "MAN є одним з провідних європейських виробників комерційних автомобілів, що пропонує широкий асортимент високонадійних вантажівок і автобусів.",
+              "ru": "MAN – один из ведущих европейских производителей коммерческого транспорта, предлагающий широкий ассортимент высоконадежных грузовых автомобилей и автобусов.",
+              "zh": "MAN 是欧洲领先的商用车制造商之一，提供各种高度可靠的卡车和公共汽车。"
+            }
+          }
+        }
+      }
+    ],
+    "TGA": [
+      {
+        "BrandID": 180,
+        "ModelID": 414432,
+        "Brand Name": "MAN",
+        "Model Name": "TGA",
+        "Serie Name": "TGA",
+        "Years": "2000 - 2008",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "MAN to jeden z wiodących europejskich producentów pojazdów użytkowych, oferujący szeroką gamę ciężarówek i autobusów o wysokiej niezawodności.",
+              "en": "MAN is one of the leading European manufacturers of commercial vehicles, offering a wide range of highly reliable trucks and buses.",
+              "de": "MAN ist einer der führenden europäischen Hersteller von Nutzfahrzeugen und bietet eine breite Palette äußerst zuverlässiger Lkw und Busse.",
+              "uk": "MAN є одним з провідних європейських виробників комерційних автомобілів, що пропонує широкий асортимент високонадійних вантажівок і автобусів.",
+              "ru": "MAN – один из ведущих европейских производителей коммерческого транспорта, предлагающий широкий ассортимент высоконадежных грузовых автомобилей и автобусов.",
+              "zh": "MAN 是欧洲领先的商用车制造商之一，提供各种高度可靠的卡车和公共汽车。"
+            }
+          }
+        }
+      }
+    ],
+    "TGE": [
+      {
+        "BrandID": 180,
+        "ModelID": 416289,
+        "Brand Name": "MAN",
+        "Model Name": "TGE",
+        "Serie Name": "TGE",
+        "Years": "2000 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "MAN to jeden z wiodących europejskich producentów pojazdów użytkowych, oferujący szeroką gamę ciężarówek i autobusów o wysokiej niezawodności.",
+              "en": "MAN is one of the leading European manufacturers of commercial vehicles, offering a wide range of highly reliable trucks and buses.",
+              "de": "MAN ist einer der führenden europäischen Hersteller von Nutzfahrzeugen und bietet eine breite Palette äußerst zuverlässiger Lkw und Busse.",
+              "uk": "MAN є одним з провідних європейських виробників комерційних автомобілів, що пропонує широкий асортимент високонадійних вантажівок і автобусів.",
+              "ru": "MAN – один из ведущих европейских производителей коммерческого транспорта, предлагающий широкий ассортимент высоконадежных грузовых автомобилей и автобусов.",
+              "zh": "MAN 是欧洲领先的商用车制造商之一，提供各种高度可靠的卡车和公共汽车。"
+            }
+          }
+        }
+      }
+    ],
+    "TGL": [
+      {
+        "BrandID": 180,
+        "ModelID": 414434,
+        "Brand Name": "MAN",
+        "Model Name": "TGL",
+        "Serie Name": "TGL",
+        "Years": "2005 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "MAN to jeden z wiodących europejskich producentów pojazdów użytkowych, oferujący szeroką gamę ciężarówek i autobusów o wysokiej niezawodności.",
+              "en": "MAN is one of the leading European manufacturers of commercial vehicles, offering a wide range of highly reliable trucks and buses.",
+              "de": "MAN ist einer der führenden europäischen Hersteller von Nutzfahrzeugen und bietet eine breite Palette äußerst zuverlässiger Lkw und Busse.",
+              "uk": "MAN є одним з провідних європейських виробників комерційних автомобілів, що пропонує широкий асортимент високонадійних вантажівок і автобусів.",
+              "ru": "MAN – один из ведущих европейских производителей коммерческого транспорта, предлагающий широкий ассортимент высоконадежных грузовых автомобилей и автобусов.",
+              "zh": "MAN 是欧洲领先的商用车制造商之一，提供各种高度可靠的卡车和公共汽车。"
+            }
+          }
+        }
+      }
+    ],
+    "TGM": [
+      {
+        "BrandID": 180,
+        "ModelID": 415593,
+        "Brand Name": "MAN",
+        "Model Name": "TGM",
+        "Serie Name": "TGM",
+        "Years": "2007 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "MAN to jeden z wiodących europejskich producentów pojazdów użytkowych, oferujący szeroką gamę ciężarówek i autobusów o wysokiej niezawodności.",
+              "en": "MAN is one of the leading European manufacturers of commercial vehicles, offering a wide range of highly reliable trucks and buses.",
+              "de": "MAN ist einer der führenden europäischen Hersteller von Nutzfahrzeugen und bietet eine breite Palette äußerst zuverlässiger Lkw und Busse.",
+              "uk": "MAN є одним з провідних європейських виробників комерційних автомобілів, що пропонує широкий асортимент високонадійних вантажівок і автобусів.",
+              "ru": "MAN – один из ведущих европейских производителей коммерческого транспорта, предлагающий широкий ассортимент высоконадежных грузовых автомобилей и автобусов.",
+              "zh": "MAN 是欧洲领先的商用车制造商之一，提供各种高度可靠的卡车和公共汽车。"
+            }
+          }
+        }
+      }
+    ],
+    "TGS": [
+      {
+        "BrandID": 180,
+        "ModelID": 414433,
+        "Brand Name": "MAN",
+        "Model Name": "TGS",
+        "Serie Name": "TGS",
+        "Years": "2007 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "MAN to jeden z wiodących europejskich producentów pojazdów użytkowych, oferujący szeroką gamę ciężarówek i autobusów o wysokiej niezawodności.",
+              "en": "MAN is one of the leading European manufacturers of commercial vehicles, offering a wide range of highly reliable trucks and buses.",
+              "de": "MAN ist einer der führenden europäischen Hersteller von Nutzfahrzeugen und bietet eine breite Palette äußerst zuverlässiger Lkw und Busse.",
+              "uk": "MAN є одним з провідних європейських виробників комерційних автомобілів, що пропонує широкий асортимент високонадійних вантажівок і автобусів.",
+              "ru": "MAN – один из ведущих европейских производителей коммерческого транспорта, предлагающий широкий ассортимент высоконадежных грузовых автомобилей и автобусов.",
+              "zh": "MAN 是欧洲领先的商用车制造商之一，提供各种高度可靠的卡车和公共汽车。"
+            }
+          }
+        }
+      }
+    ],
+    "TGX": [
+      {
+        "BrandID": 180,
+        "ModelID": 415161,
+        "Brand Name": "MAN",
+        "Model Name": "TGX",
+        "Serie Name": "TGX",
+        "Years": "2007 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "MAN to jeden z wiodących europejskich producentów pojazdów użytkowych, oferujący szeroką gamę ciężarówek i autobusów o wysokiej niezawodności.",
+              "en": "MAN is one of the leading European manufacturers of commercial vehicles, offering a wide range of highly reliable trucks and buses.",
+              "de": "MAN ist einer der führenden europäischen Hersteller von Nutzfahrzeugen und bietet eine breite Palette äußerst zuverlässiger Lkw und Busse.",
+              "uk": "MAN є одним з провідних європейських виробників комерційних автомобілів, що пропонує широкий асортимент високонадійних вантажівок і автобусів.",
+              "ru": "MAN – один из ведущих европейских производителей коммерческого транспорта, предлагающий широкий ассортимент высоконадежных грузовых автомобилей и автобусов.",
+              "zh": "MAN 是欧洲领先的商用车制造商之一，提供各种高度可靠的卡车和公共汽车。"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

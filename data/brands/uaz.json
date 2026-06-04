@@ -1,0 +1,420 @@
+{
+  "brand": "УАЗ",
+  "models": {
+    "452": [
+      {
+        "BrandID": 176,
+        "ModelID": "",
+        "Brand Name": "УАЗ",
+        "Model Name": 452,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "UAZ-452 'Bukhanka' (Bochenek) to kultowy mikrobus terenowy, produkowany niemal bez zmian od lat 60.",
+              "en": "UAZ-452 'Bukhanka' (Bochenek) is an iconic off-road microbus, produced almost unchanged since the 1960s",
+              "de": "UAZ-452 „Bukhanka“ (Bochenek) ist ein ikonischer Offroad-Mikrobus, der seit den 1960er Jahren nahezu unverändert produziert wird",
+              "uk": "УАЗ-452 «Буханка» (Bochenek) — культовий позашляховий мікроавтобус, виробляється майже без змін з 1960-х",
+              "ru": "УАЗ-452 «Буханка» — культовый микроавтобус повышенной проходимости, выпускаемый практически в неизменном виде с 1960-х годов.",
+              "zh": "UAZ-452“Bukhanka”（面包）是一款标志性的越野小客车，自 20 世纪 60 年代以来几乎没有生产过。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "UAZ"
+              },
+              "okres produkcji": {
+                "pl": "od 1965",
+                "en": "since 1965",
+                "de": "seit 1965",
+                "uk": "з 1965",
+                "ru": "с 1965 года",
+                "zh": "自1965年以来"
+              },
+              "silnik": {
+                "pl": "2.7L"
+              },
+              "napęd": {
+                "pl": "AWD (4x4)",
+                "en": "AWD (4x4)",
+                "de": "AWD (4x4)",
+                "uk": "AWD (4x4)",
+                "ru": "Полный привод (4x4)",
+                "zh": "全轮驱动（4x4）"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 176,
+        "ModelID": 415087,
+        "Brand Name": "УАЗ",
+        "Model Name": 452,
+        "Serie Name": 452,
+        "Years": "1965 - 3000",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "UAZ-452 'Bukhanka' (Bochenek) to kultowy mikrobus terenowy, produkowany niemal bez zmian od lat 60.",
+              "en": "UAZ-452 'Bukhanka' (Bochenek) is an iconic off-road microbus, produced almost unchanged since the 1960s",
+              "de": "UAZ-452 „Bukhanka“ (Bochenek) ist ein ikonischer Offroad-Mikrobus, der seit den 1960er Jahren nahezu unverändert produziert wird",
+              "uk": "УАЗ-452 «Буханка» (Bochenek) — культовий позашляховий мікроавтобус, що випускається майже без змін з 1960-х",
+              "ru": "УАЗ-452 «Буханка» — культовый микроавтобус повышенной проходимости, выпускаемый практически в неизменном виде с 1960-х годов.",
+              "zh": "UAZ-452“Bukhanka”（面包）是一款标志性的越野小客车，自 20 世纪 60 年代以来几乎没有生产过。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "UAZ"
+              },
+              "okres produkcji": {
+                "pl": "od 1965",
+                "en": "since 1965",
+                "de": "seit 1965",
+                "uk": "з 1965",
+                "ru": "с 1965 года",
+                "zh": "自1965年以来"
+              },
+              "silnik": {
+                "pl": "2.7L"
+              },
+              "napęd": {
+                "pl": "AWD (4x4)",
+                "en": "AWD (4x4)",
+                "de": "AWD (4x4)",
+                "uk": "AWD (4x4)",
+                "ru": "Полный привод (4x4)",
+                "zh": "全轮驱动（4x4）"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "459": [
+      {
+        "BrandID": 176,
+        "ModelID": "",
+        "Brand Name": "УАЗ",
+        "Model Name": 459,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger"
+        }
+      },
+      {
+        "BrandID": 176,
+        "ModelID": 415089,
+        "Brand Name": "УАЗ",
+        "Model Name": 459,
+        "Serie Name": 459,
+        "Years": "1971 - 1993",
+        "specs": {
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "469": [
+      {
+        "BrandID": 176,
+        "ModelID": "",
+        "Brand Name": "УАЗ",
+        "Model Name": 469,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "UAZ-469 to legendarny wojskowy samochód terenowy, znany z niezwykłej dzielności w terenie i prostej konstrukcji.",
+              "en": "UAZ-469 is a legendary military off-road vehicle, known for its extraordinary off-road performance and simple design.",
+              "de": "UAZ-469 ist ein legendäres militärisches Geländefahrzeug, das für seine außergewöhnliche Geländeleistung und sein schlichtes Design bekannt ist.",
+              "uk": "УАЗ-469 — легендарний військовий позашляховик, відомий своєю надзвичайною прохідністю та простою конструкцією.",
+              "ru": "УАЗ-469 – легендарный военный внедорожник, известный своими необыкновенными внедорожными качествами и простой конструкцией.",
+              "zh": "UAZ-469是一款传奇的军用越野车，以其非凡的越野性能和简洁的设计而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "UAZ"
+              },
+              "okres produkcji": {
+                "pl": "od 1972",
+                "en": "from 1972",
+                "de": "von 1972",
+                "uk": "з 1972 року",
+                "ru": "с 1972 года",
+                "zh": "自1972年以来"
+              },
+              "silnik": {
+                "pl": "2.4L / 2.7L",
+                "en": "2.4L / 2.7L",
+                "de": "2,4L / 2,7L",
+                "uk": "2.4L / 2.7L",
+                "ru": "2,4 л/2,7 л",
+                "zh": "2.4升/2.7升"
+              },
+              "napęd": {
+                "pl": "AWD (4x4)",
+                "en": "AWD (4x4)",
+                "de": "AWD (4x4)",
+                "uk": "AWD (4x4)",
+                "ru": "Полный привод (4x4)",
+                "zh": "全轮驱动（4x4）"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 176,
+        "ModelID": 416275,
+        "Brand Name": "УАЗ",
+        "Model Name": 469,
+        "Serie Name": 469,
+        "Years": "1990 - 2000",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "UAZ-469 to legendarny wojskowy samochód terenowy, znany z niezwykłej dzielności w terenie i prostej konstrukcji.",
+              "en": "UAZ-469 is a legendary military off-road vehicle, known for its extraordinary off-road performance and simple design.",
+              "de": "UAZ-469 ist ein legendäres militärisches Geländefahrzeug, das für seine außergewöhnliche Geländeleistung und sein schlichtes Design bekannt ist.",
+              "uk": "УАЗ-469 — легендарний військовий позашляховик, відомий своїми надзвичайними позашляховими характеристиками та простим дизайном.",
+              "ru": "УАЗ-469 – легендарный военный внедорожник, известный своими необыкновенными внедорожными качествами и простой конструкцией.",
+              "zh": "UAZ-469是一款传奇的军用越野车，以其非凡的越野性能和简洁的设计而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "UAZ"
+              },
+              "okres produkcji": {
+                "pl": "od 1972",
+                "en": "from 1972",
+                "de": "ab 1972",
+                "uk": "з 1972 року",
+                "ru": "с 1972 года",
+                "zh": "自1972年以来"
+              },
+              "silnik": {
+                "pl": "2.4L / 2.7L",
+                "en": "2.4L / 2.7L",
+                "de": "2,4L / 2,7L",
+                "uk": "2.4L / 2.7L",
+                "ru": "2,4 л/2,7 л",
+                "zh": "2.4升/2.7升"
+              },
+              "napęd": {
+                "pl": "AWD (4x4)",
+                "en": "AWD (4x4)",
+                "de": "AWD (4x4)",
+                "uk": "AWD (4x4)",
+                "ru": "Полный привод (4x4)",
+                "zh": "全轮驱动（4x4）"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "": [
+      {
+        "BrandID": 176,
+        "ModelID": "",
+        "Brand Name": "УАЗ",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "Hunter": [
+      {
+        "BrandID": 176,
+        "ModelID": "",
+        "Brand Name": "УАЗ",
+        "Model Name": "Hunter",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "UAZ Hunter to cywilna, zmodernizowana wersja modelu 469, oferująca nieco więcej komfortu przy zachowaniu właściwości terenowych.",
+              "en": "UAZ Hunter is a civilian, modernized version of the 469 model, offering slightly more comfort while maintaining off-road properties.",
+              "de": "UAZ Hunter ist eine zivile, modernisierte Version des Modells 469, die etwas mehr Komfort bietet und gleichzeitig die Offroad-Eigenschaften beibehält.",
+              "uk": "UAZ Hunter - це цивільна, модернізована версія моделі 469, яка пропонує трохи більше комфорту, зберігаючи властивості позашляховиків.",
+              "ru": "УАЗ Хантер — гражданская модернизированная версия модели 469, предлагающая чуть больший комфорт при сохранении внедорожных свойств.",
+              "zh": "UAZ Hunter 是 469 车型的民用现代化版本，在保持越野性能的同时提供稍微更高的舒适度。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "UAZ"
+              },
+              "okres produkcji": {
+                "pl": "od 2003",
+                "en": "from 2003",
+                "de": "ab 2003",
+                "uk": "з 2003 року",
+                "ru": "с 2003 года",
+                "zh": "自2003年以来"
+              },
+              "silnik": {
+                "pl": "2.7L"
+              },
+              "napęd": {
+                "pl": "AWD (4x4)",
+                "en": "AWD (4x4)",
+                "de": "AWD (4x4)",
+                "uk": "AWD (4x4)",
+                "ru": "Полный привод (4x4)",
+                "zh": "全轮驱动（4x4）"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 176,
+        "ModelID": 415096,
+        "Brand Name": "УАЗ",
+        "Model Name": "Hunter",
+        "Serie Name": "Hunter",
+        "Years": "1992 - 2019",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "UAZ Hunter to cywilna, zmodernizowana wersja modelu 469, oferująca nieco więcej komfortu przy zachowaniu właściwości terenowych.",
+              "en": "UAZ Hunter is a civilian, modernized version of the 469 model, offering a bit more comfort while maintaining off-road properties.",
+              "de": "UAZ Hunter ist eine zivile, modernisierte Version des 469-Modells, die etwas mehr Komfort bietet und gleichzeitig die Offroad-Eigenschaften beibehält.",
+              "uk": "UAZ Hunter - це цивільна, модернізована версія моделі 469, яка пропонує трохи більше комфорту при збереженні позашляхових властивостей.",
+              "ru": "УАЗ Хантер — гражданская модернизированная версия модели 469, предлагающая чуть больший комфорт при сохранении внедорожных свойств.",
+              "zh": "UAZ Hunter 是 469 车型的民用现代化版本，在保持越野性能的同时提供稍微更高的舒适度。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "UAZ"
+              },
+              "okres produkcji": {
+                "pl": "od 2003",
+                "en": "from 2003",
+                "de": "ab 2003",
+                "uk": "з 2003 року",
+                "ru": "с 2003 года",
+                "zh": "自2003年以来"
+              },
+              "silnik": {
+                "pl": "2.7L"
+              },
+              "napęd": {
+                "pl": "AWD (4x4)",
+                "en": "AWD (4x4)",
+                "de": "AWD (4x4)",
+                "uk": "AWD (4x4)",
+                "ru": "Полный привод (4x4)",
+                "zh": "全轮驱动（4x4）"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Patriot": [
+      {
+        "BrandID": 176,
+        "ModelID": "",
+        "Brand Name": "УАЗ",
+        "Model Name": "Patriot",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "UAZ Patriot to nowoczesny SUV, łączący możliwości terenowe z komfortem samochodu osobowego.",
+              "en": "UAZ Patriot is a modern SUV combining off-road capabilities with the comfort of a passenger car.",
+              "de": "UAZ Patriot ist ein moderner SUV, der Geländefähigkeiten mit dem Komfort eines Pkw kombiniert.",
+              "uk": "УАЗ Патріот - це сучасний позашляховик, який поєднує в собі бездоріжжя з комфортом легкового автомобіля.",
+              "ru": "УАЗ Патриот – современный внедорожник, сочетающий в себе внедорожные возможности с комфортом легкового автомобиля.",
+              "zh": "UAZ Patriot 是一款现代 SUV，它将越野能力与乘用车的舒适性融为一体。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "UAZ"
+              },
+              "okres produkcji": {
+                "pl": "od 2005",
+                "en": "from 2005",
+                "de": "ab 2005",
+                "uk": "з 2005 року",
+                "ru": "с 2005 года",
+                "zh": "自2005年以来"
+              },
+              "silnik": {
+                "pl": "2.7L"
+              },
+              "napęd": {
+                "pl": "AWD (4x4)",
+                "en": "AWD (4x4)",
+                "de": "AWD (4x4)",
+                "uk": "AWD (4x4)",
+                "ru": "Полный привод (4x4)",
+                "zh": "全轮驱动（4x4）"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 176,
+        "ModelID": 413854,
+        "Brand Name": "УАЗ",
+        "Model Name": "Patriot",
+        "Serie Name": "Patriot",
+        "Years": "2005 - 3000",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "UAZ Patriot to nowoczesny SUV, łączący możliwości terenowe z komfortem samochodu osobowego.",
+              "en": "UAZ Patriot is a modern SUV that combines off-road capabilities with the comfort of a passenger car.",
+              "de": "UAZ Patriot ist ein moderner SUV, der Geländetauglichkeit mit dem Komfort eines Pkw verbindet.",
+              "uk": "УАЗ Патріот - сучасний позашляховик, який поєднує в собі бездоріжжя з комфортом легкового автомобіля.",
+              "ru": "УАЗ Патриот – современный внедорожник, сочетающий в себе внедорожные возможности с комфортом легкового автомобиля.",
+              "zh": "UAZ Patriot 是一款现代 SUV，它将越野能力与乘用车的舒适性融为一体。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "UAZ"
+              },
+              "okres produkcji": {
+                "pl": "od 2005",
+                "en": "since 2005",
+                "de": "seit 2005",
+                "uk": "з 2005 року",
+                "ru": "с 2005 года",
+                "zh": "自2005年以来"
+              },
+              "silnik": {
+                "pl": "2.7L"
+              },
+              "napęd": {
+                "pl": "AWD (4x4)",
+                "en": "AWD (4x4)",
+                "de": "Allradantrieb (4x4)",
+                "uk": "AWD (4x4)",
+                "ru": "Полный привод (4x4)",
+                "zh": "全轮驱动（4x4）"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

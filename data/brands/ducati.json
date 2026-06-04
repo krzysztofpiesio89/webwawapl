@@ -1,0 +1,750 @@
+{
+  "brand": "Ducati",
+  "models": {
+    "750": [
+      {
+        "BrandID": 210,
+        "ModelID": 416249,
+        "Brand Name": "Ducati",
+        "Model Name": "750",
+        "Serie Name": "750 SS",
+        "Years": "1991 - 1998",
+        "specs": {
+          "bodyType": "Motorcycle",
+          "segment": "Sport",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "748cc V-Twin",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Ducati 750 SS to klasyczny sportowy motocykl z chłodzonym powietrzem silnikiem Desmodue, ceniony za lekkość i prowadzenie.",
+              "en": "The Ducati 750 SS is a classic sports motorcycle with an air-cooled Desmodue engine, appreciated for its lightness and handling.",
+              "de": "Die Ducati 750 SS ist ein klassisches Sportmotorrad mit luftgekühltem Desmodue-Motor, das für seine Leichtigkeit und sein Handling geschätzt wird.",
+              "uk": "Ducati 750 SS — класичний спортивний мотоцикл з двигуном Desmodue з повітряним охолодженням, який цінують за легкість і керованість.",
+              "ru": "Ducati 750 SS — классический спортивный мотоцикл с двигателем Desmodue с воздушным охлаждением, который ценится за легкость и управляемость.",
+              "zh": "杜卡迪 750 SS 是一款经典运动摩托车，配备风冷 Desmodue 发动机，因其轻便性和操控性而受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ducati"
+              },
+              "okres produkcji": "1991–1998",
+              "miejsce produkcji": {
+                "pl": "Bolonia, Włochy",
+                "en": "Bologna, Italy",
+                "de": "Bologna, Italien",
+                "uk": "Болонья, Італія",
+                "ru": "Болонья, Италия",
+                "zh": "意大利博洛尼亚"
+              },
+              "platforma": {
+                "pl": "SS Frame",
+                "en": "SS Frame",
+                "de": "SS-Rahmen",
+                "uk": "Каркас СС",
+                "ru": "Рама SS",
+                "zh": "不锈钢框架"
+              },
+              "silnik": {
+                "pl": "748cc V-Twin Air-Cooled",
+                "en": "748cc V-Twin Air-Cooled",
+                "de": "748 cm³ V-Twin, luftgekühlt",
+                "uk": "748cc V-Twin з повітряним охолодженням",
+                "ru": "748-кубовый двигатель V-Twin с воздушным охлаждением",
+                "zh": "748cc V 型双缸风冷"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "848": [
+      {
+        "BrandID": 210,
+        "ModelID": 416174,
+        "Brand Name": "Ducati",
+        "Model Name": "848",
+        "Serie Name": "848",
+        "Years": "2008 - 2013",
+        "specs": {
+          "bodyType": "Motorcycle",
+          "segment": "Superbike",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "849cc V-Twin",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Ducati 848 to 'mniejszy brat' modelu 1098, lżejszy i bardziej zwrotny, idealny zarówno na tor, jak i na drogę.",
+              "en": "The Ducati 848 is the 'little brother' of the 1098, lighter and more agile, perfect for both track and road.",
+              "de": "Die Ducati 848 ist der „kleine Bruder“ der 1098, leichter und agiler, perfekt für Rennstrecke und Straße.",
+              "uk": "Ducati 848 — це «молодший брат» моделі 1098, легший і спритніший, ідеальний як для треку, так і для дороги.",
+              "ru": "Ducati 848 — «младший брат» модели 1098, более легкий и маневренный, идеально подходящий как для трековых, так и для шоссейных дорог.",
+              "zh": "杜卡迪 848 是 1098 车型的“弟弟”，更轻、更敏捷，非常适合赛道和公路。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ducati"
+              },
+              "okres produkcji": "2008–2013",
+              "miejsce produkcji": {
+                "pl": "Bolonia, Włochy",
+                "en": "Bologna, Italy",
+                "de": "Bologna, Italien",
+                "uk": "Болонья, Італія",
+                "ru": "Болонья, Италия",
+                "zh": "意大利博洛尼亚"
+              },
+              "platforma": {
+                "pl": "Trellis Frame",
+                "en": "Trellis Frame",
+                "de": "Gitterrohrrahmen",
+                "uk": "Трельяжна рамка",
+                "ru": "Решетчатая рама",
+                "zh": "格子框架"
+              },
+              "silnik": {
+                "pl": "849cc V-Twin",
+                "en": "849cc V-Twin",
+                "de": "849 cm³ V-Twin",
+                "uk": "849cc V-Twin",
+                "ru": "Двигатель V-Twin объемом 849 куб.см",
+                "zh": "849cc V 型双缸"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "900": [
+      {
+        "BrandID": 210,
+        "ModelID": 416221,
+        "Brand Name": "Ducati",
+        "Model Name": "900",
+        "Serie Name": "900 SS",
+        "Years": "1990 - 2002",
+        "specs": {
+          "bodyType": "Motorcycle",
+          "segment": "Sport",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "904cc V-Twin",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Ducati 900 SS to legenda lat 90., łącząca klasyczny, ponadczasowy styl z charakterystycznym brzmieniem silnika V-Twin.",
+              "en": "Ducati 900 SS is a legend of the 90s, combining classic, timeless style with the characteristic sound of the V-Twin engine.",
+              "de": "Die Ducati 900 SS ist eine Legende der 90er Jahre und kombiniert klassischen, zeitlosen Stil mit dem charakteristischen Sound des V-Twin-Motors.",
+              "uk": "Ducati 900 SS — це легенда 90-х, яка поєднує в собі класичний позачасовий стиль із характерним звуком двигуна V-Twin.",
+              "ru": "Ducati 900 SS — легенда 90-х годов, сочетающая классический, неподвластный времени стиль с характерным звуком двигателя V-Twin.",
+              "zh": "杜卡迪 900 SS 是 90 年代的传奇，将经典、永恒的风格与 V-Twin 发动机特有的声音融为一体。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ducati"
+              },
+              "okres produkcji": "1990–2002",
+              "miejsce produkcji": {
+                "pl": "Bolonia, Włochy",
+                "en": "Bologna, Italy",
+                "de": "Bologna, Italien",
+                "uk": "Болонья, Італія",
+                "ru": "Болонья, Италия",
+                "zh": "意大利博洛尼亚"
+              },
+              "platforma": {
+                "pl": "SS Frame",
+                "en": "SS Frame",
+                "de": "SS-Rahmen",
+                "uk": "Каркас СС",
+                "ru": "Рама SS",
+                "zh": "不锈钢框架"
+              },
+              "silnik": {
+                "pl": "904cc V-Twin Air-Cooled",
+                "en": "904cc V-Twin Air-Cooled",
+                "de": "904-cm³-V-Twin mit Luftkühlung",
+                "uk": "904cc V-Twin з повітряним охолодженням",
+                "ru": "904-кубовый двигатель V-Twin с воздушным охлаждением",
+                "zh": "904cc V 型双缸风冷"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "1098": [
+      {
+        "BrandID": 210,
+        "ModelID": 416168,
+        "Brand Name": "Ducati",
+        "Model Name": "1098",
+        "Serie Name": "1098",
+        "Years": "2007 - 2009",
+        "specs": {
+          "bodyType": "Motorcycle",
+          "segment": "Superbike",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "1099cc V-Twin",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Ducati 1098 to powrót do korzeni marki, oferujący niesamowite osiągi i design nawiązujący do legendarnego modelu 916.",
+              "en": "Ducati 1098 is a return to the brand's roots, offering incredible performance and a design reminiscent of the legendary 916 model.",
+              "de": "Die Ducati 1098 ist eine Rückkehr zu den Wurzeln der Marke und bietet unglaubliche Leistung und ein Design, das an das legendäre Modell 916 erinnert.",
+              "uk": "Ducati 1098 - це повернення до витоків бренду, пропонуючи неймовірну продуктивність і дизайн, що відсилає до легендарної моделі 916.",
+              "ru": "Ducati 1098 — это возвращение к истокам бренда, предлагающее невероятную производительность и дизайн, напоминающий легендарную модель 916.",
+              "zh": "杜卡迪 1098 是对品牌根源的回归，提供令人难以置信的性能和参考传奇 916 车型的设计。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ducati"
+              },
+              "okres produkcji": "2007–2009",
+              "miejsce produkcji": {
+                "pl": "Bolonia, Włochy",
+                "en": "Bologna, Italy",
+                "de": "Bologna, Italien",
+                "uk": "Болонья, Італія",
+                "ru": "Болонья, Италия",
+                "zh": "意大利博洛尼亚"
+              },
+              "platforma": {
+                "pl": "Trellis Frame",
+                "en": "Trellis Frame",
+                "de": "Gitterrohrrahmen",
+                "uk": "Трельяжна рамка",
+                "ru": "Решетчатая рама",
+                "zh": "格子框架"
+              },
+              "silnik": {
+                "pl": "1099cc V-Twin (Testastretta)",
+                "en": "1099cc V-Twin (Testastretta)",
+                "de": "1099 cm³ V-Twin (Testastretta)",
+                "uk": "1099cc V-Twin (Testastretta)",
+                "ru": "V-Twin объемом 1099 куб.см (Testastretta)",
+                "zh": "1099cc V 型双缸 (Testastretta)"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "1198": [
+      {
+        "BrandID": 210,
+        "ModelID": 416237,
+        "Brand Name": "Ducati",
+        "Model Name": "1198",
+        "Serie Name": "1198",
+        "Years": "2009 - 2011",
+        "specs": {
+          "bodyType": "Motorcycle",
+          "segment": "Superbike",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "1198cc V-Twin",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Ducati 1198 to ewolucja modelu 1098, z mocniejszym silnikiem i zaawansowaną elektroniką, w tym systemem kontroli trakcji DTC.",
+              "en": "Ducati 1198 is an evolution of the 1098 model, with a more powerful engine and advanced electronics, including the DTC traction control system.",
+              "de": "Ducati 1198 ist eine Weiterentwicklung des Modells 1098, mit einem leistungsstärkeren Motor und fortschrittlicher Elektronik, einschließlich des DTC-Traktionskontrollsystems.",
+              "uk": "Ducati 1198 — це еволюція моделі 1098 із потужнішим двигуном і вдосконаленою електронікою, включаючи систему контролю тяги DTC.",
+              "ru": "Ducati 1198 — это эволюция модели 1098 с более мощным двигателем и усовершенствованной электроникой, включая систему контроля тяги DTC.",
+              "zh": "杜卡迪 1198 是 1098 车型的进化版，配备更强大的发动机和先进的电子设备，包括 DTC 牵引力控制系统。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ducati"
+              },
+              "okres produkcji": "2009–2011",
+              "miejsce produkcji": {
+                "pl": "Bolonia, Włochy",
+                "en": "Bologna, Italy",
+                "de": "Bologna, Italien",
+                "uk": "Болонья, Італія",
+                "ru": "Болонья, Италия",
+                "zh": "意大利博洛尼亚"
+              },
+              "platforma": {
+                "pl": "Trellis Frame",
+                "en": "Trellis Frame",
+                "de": "Gitterrohrrahmen",
+                "uk": "Трельяжна рамка",
+                "ru": "Решетчатая рама",
+                "zh": "格子框架"
+              },
+              "silnik": {
+                "pl": "1198cc V-Twin",
+                "en": "1198cc V-Twin",
+                "de": "1198 cm³ V-Twin",
+                "uk": "1198cc V-Twin",
+                "ru": "V-Twin объемом 1198 куб.см",
+                "zh": "1198cc V 型双缸"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "899 Panigale": [
+      {
+        "BrandID": 210,
+        "ModelID": 416132,
+        "Brand Name": "Ducati",
+        "Model Name": "Panigale",
+        "Serie Name": "899 Panigale",
+        "Years": "2013 - 2015",
+        "specs": {
+          "bodyType": "Motorcycle",
+          "segment": "Superbike",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "898cc V-Twin",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Ducati 899 Panigale to wstęp do świata superbike'ów Ducati, korzystający z ramy monocoque i silnika Superquadro.",
+              "en": "The Ducati 899 Panigale is an entry into the world of Ducati superbikes, using a monocoque frame and a Superquadro engine.",
+              "de": "Die Ducati 899 Panigale ist ein Einstieg in die Welt der Ducati-Superbikes mit einem Monocoque-Rahmen und einem Superquadro-Motor.",
+              "uk": "Ducati 899 Panigale — це вихід у світ супербайків Ducati, який використовує монококову раму та двигун Superquadro.",
+              "ru": "Ducati 899 Panigale — это представитель мира супербайков Ducati, использующий несущую раму и двигатель Superquadro.",
+              "zh": "杜卡迪 899 Panigale 是杜卡迪超级摩托车世界的入门之作，采用硬壳式车架和 Superquadro 发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ducati"
+              },
+              "okres produkcji": "2013–2015",
+              "miejsce produkcji": {
+                "pl": "Bolonia, Włochy",
+                "en": "Bologna, Italy",
+                "de": "Bologna, Italien",
+                "uk": "Болонья, Італія",
+                "ru": "Болонья, Италия",
+                "zh": "意大利博洛尼亚"
+              },
+              "platforma": {
+                "pl": "Monocoque"
+              },
+              "silnik": {
+                "pl": "898cc V-Twin",
+                "en": "898cc V-Twin",
+                "de": "898-cm³-V-Twin",
+                "uk": "898cc V-Twin",
+                "ru": "898-кубовый двигатель V-Twin",
+                "zh": "898cc V 型双缸"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Diavel": [
+      {
+        "BrandID": 210,
+        "ModelID": 416172,
+        "Brand Name": "Ducati",
+        "Model Name": "Diavel",
+        "Serie Name": "Diavel",
+        "Years": "2011 - 3000",
+        "specs": {
+          "bodyType": "Motorcycle",
+          "segment": "Cruiser",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "1198cc / 1262cc V-Twin / V4",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Ducati Diavel to potężny power cruiser, który łamie stereotypy, oferując osiągi superbike'a w wygodnej, miejskiej pozycji.",
+              "en": "The Ducati Diavel is a powerful power cruiser that breaks stereotypes by offering superbike performance in a comfortable urban stance.",
+              "de": "Die Ducati Diavel ist ein leistungsstarker Power-Cruiser, der mit Stereotypen bricht, indem er Superbike-Leistung in einem komfortablen Stadtstil bietet.",
+              "uk": "Ducati Diavel — потужний потужний круїзер, який ламає стереотипи, пропонуючи продуктивність супербайка в зручній міській посадці.",
+              "ru": "Ducati Diavel — мощный круизер, который ломает стереотипы, предлагая характеристики супербайка в комфортной городской посадке.",
+              "zh": "杜卡迪 Diavel 是一款强大的动力巡洋舰，以舒适的城市姿态提供超级摩托车性能，打破了刻板印象。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ducati"
+              },
+              "okres produkcji": {
+                "pl": "od 2011",
+                "en": "since 2011",
+                "de": "seit 2011",
+                "uk": "з 2011 року",
+                "ru": "с 2011 г.",
+                "zh": "自2011年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Bolonia, Włochy",
+                "en": "Bologna, Italy",
+                "de": "Bologna, Italien",
+                "uk": "Болонья, Італія",
+                "ru": "Болонья, Италия",
+                "zh": "意大利博洛尼亚"
+              },
+              "platforma": {
+                "pl": "Diavel Frame",
+                "en": "Diavel Frame",
+                "de": "Diavel-Rahmen",
+                "uk": "Diavel Frame",
+                "ru": "Диавел Рамка",
+                "zh": "迪亚维尔框架"
+              },
+              "silnik": {
+                "pl": "1198cc - 1262cc V-Twin / V4",
+                "en": "1198cc - 1262cc V-Twin / V4",
+                "de": "1198 cm³ – 1262 cm³ V-Twin / V4",
+                "uk": "1198cc - 1262cc V-Twin/V4",
+                "ru": "1198-1262 куб.см V-твин/V4",
+                "zh": "1198cc - 1262cc V 型双缸/V4"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Monster": [
+      {
+        "BrandID": 210,
+        "ModelID": 416130,
+        "Brand Name": "Ducati",
+        "Model Name": "Monster",
+        "Serie Name": "Monster",
+        "Years": "1993 - 3000",
+        "specs": {
+          "bodyType": "Motorcycle",
+          "segment": "Naked Bike",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "600cc - 1200cc V-Twin",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Ducati Monster to ikona segmentu naked bike, która uratowała markę w latach 90., łącząc minimalizm z włoskim stylem.",
+              "en": "Ducati Monster is an icon of the naked bike segment that saved the brand in the 1990s, combining minimalism with Italian style.",
+              "de": "Ducati Monster ist eine Ikone des Naked-Bike-Segments, das die Marke in den 1990er Jahren rettete und Minimalismus mit italienischem Stil verbindet.",
+              "uk": "Ducati Monster — ікона сегменту нейд-байків, яка врятувала бренд у 1990-х роках, поєднавши мінімалізм та італійський стиль.",
+              "ru": "Ducati Monster — икона сегмента нейкед-байков, которая спасла бренд в 1990-х годах, объединив минимализм с итальянским стилем.",
+              "zh": "杜卡迪 Monster 是裸车领域的标志，通过将极简主义与意大利风格相结合，在 20 世纪 90 年代拯救了该品牌。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ducati"
+              },
+              "okres produkcji": {
+                "pl": "od 1993",
+                "en": "from 1993",
+                "de": "ab 1993",
+                "uk": "з 1993 року",
+                "ru": "с 1993 года",
+                "zh": "自1993年以来"
+              },
+              "miejsce produkcji": {
+                "pl": "Bolonia, Włochy",
+                "en": "Bologna, Italy",
+                "de": "Bologna, Italien",
+                "uk": "Болонья, Італія",
+                "ru": "Болонья, Италия",
+                "zh": "意大利博洛尼亚"
+              },
+              "platforma": {
+                "pl": "Trellis / Front Frame",
+                "en": "Trellis / Front Frame",
+                "de": "Gitter / Vorderrahmen",
+                "uk": "Решітка/передня рама",
+                "ru": "Решетка/Передняя рама",
+                "zh": "格子/前框架"
+              },
+              "silnik": {
+                "pl": "600cc - 1200cc V-Twin",
+                "en": "600cc - 1200cc V-Twin",
+                "de": "600cc – 1200cc V-Twin",
+                "uk": "600cc - 1200cc V-Twin",
+                "ru": "600-1200 куб.см V-образный твин",
+                "zh": "600cc - 1200cc V 型双缸"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Multistrada": [
+      {
+        "BrandID": 210,
+        "ModelID": 416231,
+        "Brand Name": "Ducati",
+        "Model Name": "Multistrada",
+        "Serie Name": "Multistrada",
+        "Years": "2003 - 3000",
+        "specs": {
+          "bodyType": "Motorcycle",
+          "segment": "Adventure Touring",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "1000cc - 1260cc V-Twin / V4",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Ducati Multistrada to wszechstronny motocykl turystyczny typu '4 w 1', gotowy na każdą drogę, od autostrady po szuter.",
+              "en": "The Ducati Multistrada is a versatile 4-in-1 touring motorcycle, ready for any road, from highway to gravel.",
+              "de": "Die Ducati Multistrada ist ein vielseitiges 4-in-1-Tourenmotorrad, bereit für jede Straße, von der Autobahn bis zum Schotter.",
+              "uk": "Ducati Multistrada — це універсальний туристичний мотоцикл 4-в-1, готовий до будь-якої дороги, від шосе до гравію.",
+              "ru": "Ducati Multistrada — универсальный туристический мотоцикл 4-в-1, готовый к любой дороге, от шоссе до гравия.",
+              "zh": "杜卡迪 Multistrada 是一款多功能四合一旅行摩托车，适合从高速公路到碎石路的任何道路。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ducati"
+              },
+              "okres produkcji": {
+                "pl": "od 2003",
+                "en": "from 2003",
+                "de": "von 2003",
+                "uk": "з 2003 року",
+                "ru": "с 2003 года",
+                "zh": "自2003年以来"
+              },
+              "miejsce produkcji": {
+                "pl": "Bolonia, Włochy",
+                "en": "Bologna, Italy",
+                "de": "Bologna, Italien",
+                "uk": "Болонья, Італія",
+                "ru": "Болонья, Италия",
+                "zh": "意大利博洛尼亚"
+              },
+              "platforma": {
+                "pl": "Multistrada Frame",
+                "en": "Multistrada Frame",
+                "de": "Multistrada-Rahmen",
+                "uk": "Рамка Multistrada",
+                "ru": "Мультистрада Рамка",
+                "zh": "多层框架"
+              },
+              "silnik": {
+                "pl": "1000cc - 1260cc V-Twin / V4",
+                "en": "1000cc - 1260cc V-Twin / V4",
+                "de": "1000cc – 1260cc V-Twin / V4",
+                "uk": "1000cc - 1260cc V-Twin/V4",
+                "ru": "1000–1260 куб.см V-твин/V4",
+                "zh": "1000cc - 1260cc V 型双缸/V4"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Panigale V4": [
+      {
+        "BrandID": 210,
+        "ModelID": 416780,
+        "Brand Name": "Ducati",
+        "Model Name": "Panigale",
+        "Serie Name": "Panigale V4",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "Motorcycle",
+          "segment": "Superbike",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "1103cc V4",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Ducati Panigale V4 to pierwszy seryjny superbike Ducati z silnikiem V4, czerpiący technologię wprost z MotoGP.",
+              "en": "Ducati Panigale V4 is the first production Ducati superbike with a V4 engine, drawing technology directly from MotoGP.",
+              "de": "Ducati Panigale V4 ist das erste Serien-Ducati-Superbike mit einem V4-Motor, das Technologie direkt aus der MotoGP bezieht.",
+              "uk": "Ducati Panigale V4 — це перший серійний супербайк Ducati з двигуном V4, який запозичив технології безпосередньо з MotoGP.",
+              "ru": "Ducati Panigale V4 — первый серийный супербайк Ducati с двигателем V4, созданный непосредственно из MotoGP.",
+              "zh": "杜卡迪 Panigale V4 是第一款配备 V4 发动机的杜卡迪量产超级摩托车，直接借鉴 MotoGP 的技术。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ducati"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "from 2018",
+                "de": "ab 2018",
+                "uk": "з 2018 року",
+                "ru": "с 2018 года",
+                "zh": "2018年以来"
+              },
+              "miejsce produkcji": {
+                "pl": "Bolonia, Włochy",
+                "en": "Bologna, Italy",
+                "de": "Bologna, Italien",
+                "uk": "Болонья, Італія",
+                "ru": "Болонья, Италия",
+                "zh": "意大利博洛尼亚"
+              },
+              "platforma": {
+                "pl": "Front Frame",
+                "en": "Front Frame",
+                "de": "Vorderrahmen",
+                "uk": "Передня рама",
+                "ru": "Передняя рама",
+                "zh": "前框"
+              },
+              "silnik": {
+                "pl": "1103cc Desmosedici Stradale V4",
+                "en": "1103cc Desmosedici Stradale V4",
+                "de": "1103cc Desmosedici Stradale V4",
+                "uk": "1103cc Desmosedici Stradale V4",
+                "ru": "1103cc Десмоседичи Страдейл V4",
+                "zh": "1103cc 德斯莫塞迪奇 Stradale V4"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Scrambler": [
+      {
+        "BrandID": 210,
+        "ModelID": 416114,
+        "Brand Name": "Ducati",
+        "Model Name": "Scrambler",
+        "Serie Name": "Scrambler",
+        "Years": "2015 - 3000",
+        "specs": {
+          "bodyType": "Motorcycle",
+          "segment": "Modern Classic",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "400cc / 800cc / 1100cc V-Twin",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Ducati Scrambler to powrót do wolności i prostoty, motocykl lifestylowy inspirowany modelami z lat 60., z ogromnymi możliwościami personalizacji.",
+              "en": "Ducati Scrambler is a return to freedom and simplicity, a lifestyle motorcycle inspired by models from the 1960s, with huge personalization possibilities.",
+              "de": "Ducati Scrambler ist eine Rückkehr zu Freiheit und Einfachheit, ein Lifestyle-Motorrad, inspiriert von Modellen aus den 1960er Jahren, mit riesigen Personalisierungsmöglichkeiten.",
+              "uk": "Ducati Scrambler — це повернення до свободи та простоти, стильний мотоцикл, натхненний моделями 1960-х років, з величезними можливостями персоналізації.",
+              "ru": "Ducati Scrambler — это возвращение к свободе и простоте, стильный мотоцикл, вдохновленный моделями 1960-х годов, с огромными возможностями персонализации.",
+              "zh": "杜卡迪 Scrambler 是一款回归自由和简约的生活方式摩托车，其灵感源自 20 世纪 60 年代的车型，具有巨大的个性化可能性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ducati"
+              },
+              "okres produkcji": {
+                "pl": "od 2015",
+                "en": "from 2015",
+                "de": "ab 2015",
+                "uk": "з 2015 року",
+                "ru": "с 2015 года",
+                "zh": "自2015年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Bolonia, Włochy",
+                "en": "Bologna, Italy",
+                "de": "Bologna, Italien",
+                "uk": "Болонья, Італія",
+                "ru": "Болонья, Италия",
+                "zh": "意大利博洛尼亚"
+              },
+              "platforma": {
+                "pl": "Scrambler Frame",
+                "en": "Scrambler Frame",
+                "de": "Scrambler-Rahmen",
+                "uk": "Рамка скремблера",
+                "ru": "Рамка скремблера",
+                "zh": "扰频器帧"
+              },
+              "silnik": {
+                "pl": "400cc / 800cc / 1100cc V-Twin",
+                "en": "400cc / 800cc / 1100cc V-Twin",
+                "de": "400cc / 800cc / 1100cc V-Twin",
+                "uk": "400cc/800cc/1100cc V-Twin",
+                "ru": "400cc/800cc/1100cc V-твин",
+                "zh": "400cc/800cc/1100cc V型双缸"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Streetfighter": [
+      {
+        "BrandID": 210,
+        "ModelID": 416136,
+        "Brand Name": "Ducati",
+        "Model Name": "Streetfighter",
+        "Serie Name": "Streetfighter",
+        "Years": "2009 - 3000",
+        "specs": {
+          "bodyType": "Motorcycle",
+          "segment": "Naked Sport",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "848cc / 1098cc / V4",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Ducati Streetfighter to ekstremalny superbike bez owiewek, oferujący agresywny wygląd i dominację na ulicy.",
+              "en": "The Ducati Streetfighter is an extreme unfaired superbike, offering an aggressive look and domination on the street.",
+              "de": "Der Ducati Streetfighter ist ein extrem unfaires Superbike, das einen aggressiven Look und Dominanz auf der Straße bietet.",
+              "uk": "Ducati Streetfighter — екстремально несправедливий супербайк, що пропонує агресивний вигляд і панування на вулиці.",
+              "ru": "Ducati Streetfighter – это крайне несправедливый супербайк, предлагающий агрессивный внешний вид и доминирование на улицах.",
+              "zh": "杜卡迪街头霸王是一款极其不公平的超级摩托车，具有侵略性的外观和街头统治力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ducati"
+              },
+              "okres produkcji": {
+                "pl": "od 2009",
+                "en": "since 2009",
+                "de": "seit 2009",
+                "uk": "з 2009 року",
+                "ru": "с 2009 года",
+                "zh": "自2009年以来"
+              },
+              "miejsce produkcji": {
+                "pl": "Bolonia, Włochy",
+                "en": "Bologna, Italy",
+                "de": "Bologna, Italien",
+                "uk": "Болонья, Італія",
+                "ru": "Болонья, Италия",
+                "zh": "意大利博洛尼亚"
+              },
+              "platforma": {
+                "pl": "Trellis / Front Frame",
+                "en": "Trellis / Front Frame",
+                "de": "Gitter / Vorderrahmen",
+                "uk": "Решітка / передня рама",
+                "ru": "Решетка/передняя рама",
+                "zh": "格子/前车架"
+              },
+              "silnik": {
+                "pl": "848cc / 1098cc / V4",
+                "en": "848cc / 1098cc / V4",
+                "de": "848 cc / 1098 cc / V4",
+                "uk": "848cc / 1098cc / V4",
+                "ru": "848cc / 1098cc / V4",
+                "zh": "848cc / 1098cc / V4"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

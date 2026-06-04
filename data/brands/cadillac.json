@@ -1,0 +1,2031 @@
+{
+  "brand": "Cadillac",
+  "models": {
+    "ATS": [
+      {
+        "BrandID": 24,
+        "ModelID": 413982,
+        "Brand Name": "Cadillac",
+        "Model Name": "ATS",
+        "Serie Name": "ATS",
+        "Years": "2012 - 2019",
+        "specs": {
+          "bodyType": "Sedan/Coupe",
+          "segment": "Compact Executive",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L Turbo / 2.5L / 3.6L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Cadillac ATS to sportowy sedan, który rzucił wyzwanie BMW Serii 3. Lekka konstrukcja i świetne prowadzenie.",
+              "en": "Cadillac ATS is a sports sedan that challenged the BMW 3 Series. Light construction and great handling.",
+              "de": "Cadillac ATS ist eine Sportlimousine, die den BMW 3er herausforderte. Leichte Konstruktion und tolles Handling.",
+              "uk": "Cadillac ATS — спортивний седан, який кинув виклик BMW 3 серії. Легка конструкція та чудова керованість.",
+              "ru": "Cadillac ATS — спортивный седан, бросивший вызов BMW 3 серии. Легкая конструкция и отличная управляемость.",
+              "zh": "凯迪拉克ATS是一款挑战宝马3系的运动轿车。结构轻巧，操控性极佳。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cadillac",
+                "en": "Cadillac",
+                "de": "Cadillac",
+                "uk": "Cadillac",
+                "ru": "Cadillac"
+              },
+              "okres produkcji": {
+                "pl": "2012–2019",
+                "en": "2012–2019",
+                "de": "2012–2019",
+                "uk": "2012–2019",
+                "ru": "2012–2019"
+              },
+              "miejsce produkcji": {
+                "pl": "Lansing, USA",
+                "en": "Lansing, USA",
+                "de": "Lansing, USA",
+                "uk": "Лансінг, США",
+                "ru": "Лансинг, США",
+                "zh": "美国兰辛"
+              },
+              "platforma": {
+                "pl": "GM Alpha",
+                "en": "GM Alpha",
+                "de": "GM Alpha",
+                "uk": "GM Альфа",
+                "ru": "ГМ Альфа",
+                "zh": "GM Alpha"
+              },
+              "silnik": {
+                "pl": "2.0L Turbo / 2.5L / 3.6L V6",
+                "en": "2.0L Turbo / 2.5L / 3.6L V6",
+                "de": "2,0 l Turbo / 2,5 l / 3,6 l V6",
+                "uk": "2.0L Turbo / 2.5L / 3.6L V6",
+                "ru": "2,0 л турбо/2,5 л/3,6 л V6",
+                "zh": "2.0L Turbo / 2.5L / 3.6L V6"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "BLS": [
+      {
+        "BrandID": 24,
+        "ModelID": 413846,
+        "Brand Name": "Cadillac",
+        "Model Name": "BLS",
+        "Serie Name": "BLS",
+        "Years": "2006 - 2010",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Compact Executive",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.9L Diesel / 2.0L Turbo / 2.8L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Cadillac BLS to model opracowany specjalnie na rynek europejski. Bazował na Saabie 9-3 i był produkowany w Szwecji.",
+              "en": "Cadillac BLS is a model developed especially for the European market. It was based on the Saab 9-3 and was produced in Sweden.",
+              "de": "Cadillac BLS ist ein speziell für den europäischen Markt entwickeltes Modell. Es basierte auf dem Saab 9-3 und wurde in Schweden produziert.",
+              "uk": "Cadillac BLS - це модель, розроблена спеціально для європейського ринку. Його базували на Saab 9-3 і виробляли у Швеції.",
+              "ru": "Cadillac BLS – модель, разработанная специально для европейского рынка. Он был основан на Saab 9-3 и производился в Швеции.",
+              "zh": "凯迪拉克 BLS 是专为欧洲市场开发的车型。它以 Saab 9-3 为基础，在瑞典生产。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cadillac",
+                "en": "Cadillac",
+                "de": "Cadillac",
+                "uk": "Cadillac",
+                "ru": "Cadillac"
+              },
+              "okres produkcji": {
+                "pl": "2006–2010",
+                "en": "2006–2010",
+                "de": "2006–2010",
+                "uk": "2006–2010",
+                "ru": "2006–2010"
+              },
+              "miejsce produkcji": {
+                "pl": "Trollhättan, Szwecja",
+                "en": "Trollhättan, Sweden",
+                "de": "Trollhättan, Schweden",
+                "uk": "Трольхеттан, Швеція",
+                "ru": "Тролльхеттан, Швеция",
+                "zh": "瑞典特罗尔海坦"
+              },
+              "platforma": {
+                "pl": "GM Epsilon",
+                "en": "GM Epsilon",
+                "de": "GM Epsilon",
+                "uk": "Г. М. Епсилон",
+                "ru": "ГМ Эпсилон",
+                "zh": "GM Epsilon"
+              },
+              "silnik": {
+                "pl": "1.9L Diesel / 2.0L Turbo",
+                "en": "1.9L Diesel / 2.0L Turbo",
+                "de": "1,9 l Diesel / 2,0 l Turbo",
+                "uk": "1,9 л дизель / 2,0 л турбо",
+                "ru": "1,9 л дизель / 2,0 л турбо",
+                "zh": "1.9L 柴油/2.0L 涡轮增压"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/a1/w9/o304k4ggg0ckw0s4gg08g/cadillac-bls-kombi.310.jpg"
+        }
+      }
+    ],
+    "CT4": [
+      {
+        "BrandID": 24,
+        "ModelID": 416640,
+        "Brand Name": "Cadillac",
+        "Model Name": "CT4",
+        "Serie Name": "CT4",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Compact Executive",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L Turbo / 2.7L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Cadillac CT4 to następca modelu ATS. Kompaktowy sedan z napędem na tył, dostępny w sportowych wersjach V-Series.",
+              "en": "Cadillac CT4 is the successor to the ATS model. Compact rear-drive sedan, available in sporty V-Series versions.",
+              "de": "Cadillac CT4 ist der Nachfolger des ATS-Modells. Kompakte Limousine mit Heckantrieb, erhältlich in sportlichen V-Series-Versionen.",
+              "uk": "Cadillac CT4 є наступником моделі ATS. Компактний задньопривідний седан, доступний у спортивних версіях серії V.",
+              "ru": "Cadillac CT4 является преемником модели ATS. Компактный заднеприводный седан, доступный в спортивной версии V-Series.",
+              "zh": "凯迪拉克 CT4 是 ATS 车型的后继车型。紧凑型后驱轿车，提供运动型 V 系列版本。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cadillac",
+                "en": "Cadillac",
+                "de": "Cadillac",
+                "uk": "Cadillac",
+                "ru": "Cadillac"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019 року",
+                "ru": "с 2019 года",
+                "zh": "2019 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Lansing, USA",
+                "en": "Lansing, USA",
+                "de": "Lansing, USA",
+                "uk": "Лансінг, США",
+                "ru": "Лансинг, США",
+                "zh": "美国兰辛"
+              },
+              "platforma": {
+                "pl": "GM Alpha 2",
+                "en": "GM Alpha 2",
+                "de": "GM Alpha 2",
+                "uk": "GM Альфа 2",
+                "ru": "ГМ Альфа 2",
+                "zh": "GM Alpha 2"
+              },
+              "silnik": {
+                "pl": "2.0L Turbo / 2.7L Turbo",
+                "en": "2.0L Turbo / 2.7L Turbo",
+                "de": "2,0 l Turbo / 2,7 l Turbo",
+                "uk": "2.0L Turbo / 2.7L Turbo",
+                "ru": "2,0 л турбо / 2,7 л турбо",
+                "zh": "2.0L Turbo / 2.7L Turbo"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "CT5": [
+      {
+        "BrandID": 24,
+        "ModelID": 416641,
+        "Brand Name": "Cadillac",
+        "Model Name": "CT5",
+        "Serie Name": "CT5",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Luxury",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L Turbo / 3.0L Twin-Turbo V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Cadillac CT5 to dynamiczny sedan klasy średniej, zastępujący CTS. Agresywna stylistyka fastbacka i nowoczesne technologie.",
+              "en": "The Cadillac CT5 is a dynamic midsize sedan replacing the CTS. Aggressive fastback styling and modern technologies.",
+              "de": "Der Cadillac CT5 ist eine dynamische Mittelklasse-Limousine, die den CTS ersetzt. Aggressives Fastback-Design und moderne Technologien.",
+              "uk": "Cadillac CT5 — це динамічний седан середнього розміру, який замінив CTS. Агресивний фастбек і сучасні технології.",
+              "ru": "Cadillac CT5 — динамичный седан среднего размера, пришедший на смену CTS. Агрессивный стиль фастбэк и современные технологии.",
+              "zh": "凯迪拉克 CT5 是一款动感中型轿车，取代了 CTS。激进的溜背造型和现代技术。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cadillac",
+                "en": "Cadillac",
+                "de": "Cadillac",
+                "uk": "Cadillac",
+                "ru": "Cadillac"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019 року",
+                "ru": "с 2019 года",
+                "zh": "2019 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Lansing, USA",
+                "en": "Lansing, USA",
+                "de": "Lansing, USA",
+                "uk": "Лансінг, США",
+                "ru": "Лансинг, США",
+                "zh": "美国兰辛"
+              },
+              "platforma": {
+                "pl": "GM Alpha 2",
+                "en": "GM Alpha 2",
+                "de": "GM Alpha 2",
+                "uk": "GM Альфа 2",
+                "ru": "ГМ Альфа 2",
+                "zh": "GM Alpha 2"
+              },
+              "silnik": {
+                "pl": "2.0L Turbo / 3.0L V6",
+                "en": "2.0L Turbo/3.0L V6",
+                "de": "2,0 l Turbo/3,0 l V6",
+                "uk": "2.0L Turbo/3.0L V6",
+                "ru": "2,0 л турбо/3,0 л V6",
+                "zh": "2.0L Turbo / 3.0L V6"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "CT6": [
+      {
+        "BrandID": 24,
+        "ModelID": 413978,
+        "Brand Name": "Cadillac",
+        "Model Name": "CT6",
+        "Serie Name": "CT6",
+        "Years": "2016 - 2020",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.0L Turbo / 3.0L Twin-Turbo / 3.6L V6 / 4.2L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Cadillac CT6 to flagowa limuzyna marki. Innowacyjna konstrukcja Omega i zaawansowany system Super Cruise.",
+              "en": "Cadillac CT6 is the brand's flagship limousine. Innovative Omega design and advanced Super Cruise system.",
+              "de": "Cadillac CT6 ist die Flaggschiff-Limousine der Marke. Innovatives Omega-Design und fortschrittliches Super Cruise-System.",
+              "uk": "Cadillac CT6 – флагманський лімузин марки. Інноваційний дизайн Omega та передова система Super Cruise.",
+              "ru": "Cadillac CT6 – флагманский лимузин бренда. Инновационный дизайн Omega и усовершенствованная система Super Cruise.",
+              "zh": "凯迪拉克 CT6 是该品牌的旗舰豪华轿车。创新的欧米茄设计和先进的超级巡航系统。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cadillac",
+                "en": "Cadillac",
+                "de": "Cadillac",
+                "uk": "Cadillac",
+                "ru": "Cadillac"
+              },
+              "okres produkcji": {
+                "pl": "2016–2020",
+                "en": "2016–2020",
+                "de": "2016–2020",
+                "uk": "2016–2020",
+                "ru": "2016–2020"
+              },
+              "miejsce produkcji": {
+                "pl": "Detroit-Hamtramck, USA",
+                "en": "Detroit-Hamtramck, USA",
+                "de": "Detroit-Hamtramck, USA",
+                "uk": "Детройт-Хемтрамк, США",
+                "ru": "Детройт-Хамтрамк, США",
+                "zh": "美国底特律-哈姆特拉姆克"
+              },
+              "platforma": {
+                "pl": "GM Omega",
+                "en": "GM Omega",
+                "de": "GM Omega",
+                "uk": "GM Омега",
+                "ru": "ГМ Омега",
+                "zh": "GM Omega"
+              },
+              "silnik": {
+                "pl": "2.0L - 4.2L V8 Blackwing",
+                "en": "2.0L - 4.2L V8 Blackwing",
+                "de": "2,0 l–4,2 l V8 Blackwing",
+                "uk": "2,0-4,2 л V8 Blackwing",
+                "ru": "2,0–4,2 л V8 Блэквинг",
+                "zh": "2.0L - 4.2L V8 Blackwing"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "CTS": [
+      {
+        "BrandID": 24,
+        "ModelID": 413048,
+        "Brand Name": "Cadillac",
+        "Model Name": "CTS",
+        "Serie Name": "CTS (1st Gen)",
+        "Years": "2003 - 2007",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "2.8L / 3.2L / 3.6L / 5.7L V8 / 6.0L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Cadillac CTS (1. gen) zrewolucjonizował design marki stylem 'Art and Science'. Pojawienie się w filmie Matrix Reaktywacja.",
+              "en": "Cadillac CTS (1st generation) revolutionized the brand's design with its 'Art and Science' style. Appearance in the film The Matrix Reloaded.",
+              "de": "Cadillac CTS (1. Generation) revolutionierte das Design der Marke mit seinem „Art and Science“-Stil. Auftritt im Film The Matrix Reloaded.",
+              "uk": "Cadillac CTS (1-е покоління) зробив революцію в дизайні бренду завдяки стилю «мистецтво і наука». Поява у фільмі «Матриця: перезавантаження».",
+              "ru": "Cadillac CTS (1-го поколения) произвел революцию в дизайне бренда благодаря своему стилю «Искусство и наука». Появление в фильме «Матрица: Перезагрузка».",
+              "zh": "凯迪拉克 CTS（第一代）以“艺术与科学”风格彻底改变了品牌的设计。出现在电影《黑客帝国：重装上阵》中。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cadillac",
+                "en": "Cadillac",
+                "de": "Cadillac",
+                "uk": "Cadillac",
+                "ru": "Cadillac"
+              },
+              "okres produkcji": {
+                "pl": "2003–2007",
+                "en": "2003–2007",
+                "de": "2003–2007",
+                "uk": "2003–2007",
+                "ru": "2003–2007"
+              },
+              "miejsce produkcji": {
+                "pl": "Lansing, USA",
+                "en": "Lansing, USA",
+                "de": "Lansing, USA",
+                "uk": "Лансінг, США",
+                "ru": "Лансинг, США",
+                "zh": "兰辛，美国"
+              },
+              "platforma": {
+                "pl": "GM Sigma",
+                "en": "GM Sigma",
+                "de": "GM Sigma",
+                "uk": "GM Sigma",
+                "ru": "ГМ Сигма",
+                "zh": "GM Sigma"
+              },
+              "silnik": {
+                "pl": "2.8L - 6.0L V8",
+                "en": "2.8L - 6.0L V8",
+                "de": "2,8 l – 6,0 l V8",
+                "uk": "2,8 л - 6,0 л V8",
+                "ru": "2,8–6,0 л V8",
+                "zh": "2.8L - 6.0L V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2006_Cadillac_CTS_Sport_Luxury_Automatic_3.6_Rear.jpg/1280px-2006_Cadillac_CTS_Sport_Luxury_Automatic_3.6_Rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2006_Cadillac_CTS_Sport_Luxury_Automatic_3.6_Rear.jpg/1280px-2006_Cadillac_CTS_Sport_Luxury_Automatic_3.6_Rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/1st_Cadillac_CTS-V_--_12-08-2009.jpg/1280px-1st_Cadillac_CTS-V_--_12-08-2009.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cadillac_CTS_rear.JPG/1280px-Cadillac_CTS_rear.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2010_Cadillac_CTS_3.6_Wagon_in_Hagerty_parking_lot%2C_rear_6.1.19.jpg/1280px-2010_Cadillac_CTS_3.6_Wagon_in_Hagerty_parking_lot%2C_rear_6.1.19.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6n/cd/px1h2vc40g4sssw8o4ksc/cadillac-cts-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 24,
+        "ModelID": 413049,
+        "Brand Name": "Cadillac",
+        "Model Name": "CTS",
+        "Serie Name": "CTS (2nd Gen)",
+        "Years": "2008 - 2013",
+        "specs": {
+          "bodyType": "Sedan/Coupe/Wagon",
+          "segment": "Mid-size Luxury",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.0L / 3.6L / 6.2L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Cadillac CTS (2. gen) stał się większy i bardziej luksusowy. Wprowadzenie wersji Coupe i  Wagon oraz potężnego CTS-V.",
+              "en": "Cadillac CTS (2nd gen) has become larger and more luxurious. Introduction of Coupe and Wagon versions and the powerful CTS-V.",
+              "de": "Der Cadillac CTS (2. Generation) ist größer und luxuriöser geworden. Einführung der Coupé- und Wagon-Versionen sowie des leistungsstarken CTS-V.",
+              "uk": "Cadillac CTS (2nd gen) став більшим і розкішнішим. Представлення версій Coupe і Wagon і потужного CTS-V.",
+              "ru": "Cadillac CTS (2-го поколения) стал больше и роскошнее. Представление версий купе и универсал, а также мощного CTS-V.",
+              "zh": "凯迪拉克 CTS（第二代）变得更大、更豪华。推出轿跑车和旅行车版本以及功能强大的 CTS-V。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cadillac",
+                "en": "Cadillac",
+                "de": "Cadillac",
+                "uk": "Cadillac",
+                "ru": "Cadillac"
+              },
+              "okres produkcji": {
+                "pl": "2008–2013",
+                "en": "2008–2013",
+                "de": "2008–2013",
+                "uk": "2008–2013",
+                "ru": "2008–2013"
+              },
+              "miejsce produkcji": {
+                "pl": "Lansing, USA",
+                "en": "Lansing, USA",
+                "de": "Lansing, USA",
+                "uk": "Лансінг, США",
+                "ru": "Лансинг, США",
+                "zh": "美国兰辛"
+              },
+              "platforma": {
+                "pl": "GM Sigma II",
+                "en": "GM Sigma II",
+                "de": "GM Sigma II",
+                "uk": "GM Sigma II",
+                "ru": "ГМ Сигма II",
+                "zh": "GM Sigma II"
+              },
+              "silnik": {
+                "pl": "3.0L - 6.2L V8",
+                "en": "3.0L - 6.2L V8",
+                "de": "3,0 l – 6,2 l V8",
+                "uk": "3,0 л - 6,2 л V8",
+                "ru": "3,0–6,2 л V8",
+                "zh": "3.0L - 6.2L V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2006_Cadillac_CTS_Sport_Luxury_Automatic_3.6_Rear.jpg/1280px-2006_Cadillac_CTS_Sport_Luxury_Automatic_3.6_Rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2006_Cadillac_CTS_Sport_Luxury_Automatic_3.6_Rear.jpg/1280px-2006_Cadillac_CTS_Sport_Luxury_Automatic_3.6_Rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/1st_Cadillac_CTS-V_--_12-08-2009.jpg/1280px-1st_Cadillac_CTS-V_--_12-08-2009.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cadillac_CTS_rear.JPG/1280px-Cadillac_CTS_rear.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2010_Cadillac_CTS_3.6_Wagon_in_Hagerty_parking_lot%2C_rear_6.1.19.jpg/1280px-2010_Cadillac_CTS_3.6_Wagon_in_Hagerty_parking_lot%2C_rear_6.1.19.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6n/cd/px1h2vc40g4sssw8o4ksc/cadillac-cts-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 24,
+        "ModelID": 413050,
+        "Brand Name": "Cadillac",
+        "Model Name": "CTS",
+        "Serie Name": "CTS (3rd Gen)",
+        "Years": "2014 - 2019",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Luxury",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L Turbo / 3.6L V6 / 3.6L Twin-Turbo / 6.2L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Cadillac CTS (3. gen) urósł do pełnoprawnego konkurenta Serii 5. Lżejszy, sztywniejszy i jeszcze bardziej sportowy.",
+              "en": "The Cadillac CTS (3rd generation) has grown into a full-fledged competitor to the 5 Series. Lighter, stiffer and even sportier.",
+              "de": "Der Cadillac CTS (3. Generation) hat sich zu einem vollwertigen Konkurrenten der 5er-Reihe entwickelt. Leichter, steifer und noch sportlicher.",
+              "uk": "Cadillac CTS (3 покоління) виріс у повноцінного конкурента 5 серії. Легший, жорсткіший і навіть спортивніший.",
+              "ru": "Cadillac CTS (3-го поколения) превратился в полноценного конкурента 5-й серии. Легче, жестче и еще спортивнее.",
+              "zh": "凯迪拉克 CTS（第三代）已成长为 5 系列的成熟竞争对手。更轻、更坚固、甚至更具运动感。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cadillac",
+                "en": "Cadillac",
+                "de": "Cadillac",
+                "uk": "Cadillac",
+                "ru": "Cadillac"
+              },
+              "okres produkcji": {
+                "pl": "2014–2019",
+                "en": "2014–2019",
+                "de": "2014–2019",
+                "uk": "2014–2019",
+                "ru": "2014–2019"
+              },
+              "miejsce produkcji": {
+                "pl": "Lansing, USA",
+                "en": "Lansing, USA",
+                "de": "Lansing, USA",
+                "uk": "Лансінг, США",
+                "ru": "Лансинг, США",
+                "zh": "美国兰辛"
+              },
+              "platforma": {
+                "pl": "GM Alpha",
+                "en": "GM Alpha",
+                "de": "GM Alpha",
+                "uk": "GM Альфа",
+                "ru": "ГМ Альфа",
+                "zh": "GM Alpha"
+              },
+              "silnik": {
+                "pl": "2.0L - 6.2L V8",
+                "en": "2.0L - 6.2L V8",
+                "de": "2,0 l – 6,2 l V8",
+                "uk": "2,0 л - 6,2 л V8",
+                "ru": "2,0–6,2 л V8",
+                "zh": "2.0L - 6.2L V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2006_Cadillac_CTS_Sport_Luxury_Automatic_3.6_Rear.jpg/1280px-2006_Cadillac_CTS_Sport_Luxury_Automatic_3.6_Rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2006_Cadillac_CTS_Sport_Luxury_Automatic_3.6_Rear.jpg/1280px-2006_Cadillac_CTS_Sport_Luxury_Automatic_3.6_Rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/1st_Cadillac_CTS-V_--_12-08-2009.jpg/1280px-1st_Cadillac_CTS-V_--_12-08-2009.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cadillac_CTS_rear.JPG/1280px-Cadillac_CTS_rear.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2010_Cadillac_CTS_3.6_Wagon_in_Hagerty_parking_lot%2C_rear_6.1.19.jpg/1280px-2010_Cadillac_CTS_3.6_Wagon_in_Hagerty_parking_lot%2C_rear_6.1.19.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6n/cd/px1h2vc40g4sssw8o4ksc/cadillac-cts-ii.310.jpg"
+        }
+      }
+    ],
+    "DeVille": [
+      {
+        "BrandID": 24,
+        "ModelID": 413051,
+        "Brand Name": "Cadillac",
+        "Model Name": "DeVille",
+        "Serie Name": "DeVille (1994-1999)",
+        "Years": "1994 - 1999",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "4.6L Northstar V8 / 4.9L V8",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Cadillac DeVille (1994-1999) to klasyczny, duży amerykański krążownik szos z napędem na przód i mocnym silnikiem Northstar.",
+              "en": "Cadillac DeVille (1994-1999) is a classic, large American road cruiser with front drive and a powerful Northstar engine.",
+              "de": "Cadillac DeVille (1994–1999) ist ein klassischer, großer amerikanischer Straßenkreuzer mit Frontantrieb und einem leistungsstarken Northstar-Motor.",
+              "uk": "Cadillac DeVille (1994-1999) — класичний великий американський дорожній круїзер з переднім приводом і потужним двигуном Northstar.",
+              "ru": "Cadillac DeVille (1994–1999) — классический большой американский дорожный круизер с передним приводом и мощным двигателем Northstar.",
+              "zh": "凯迪拉克 DeVille (1994-1999) 是一款经典的大型美国公路巡洋舰，配有前轮驱动和强大的 Northstar 发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cadillac",
+                "en": "Cadillac",
+                "de": "Cadillac",
+                "uk": "Cadillac",
+                "ru": "Cadillac"
+              },
+              "okres produkcji": {
+                "pl": "1994–1999",
+                "en": "1994–1999",
+                "de": "1994–1999",
+                "uk": "1994–1999",
+                "ru": "1994–1999"
+              },
+              "miejsce produkcji": {
+                "pl": "Hamtramck, USA",
+                "en": "Hamtramck, USA",
+                "de": "Hamtramck, USA",
+                "uk": "Хамтрамк, США",
+                "ru": "Хамтрамк, США",
+                "zh": "Hamtramck，美国"
+              },
+              "platforma": {
+                "pl": "GM K",
+                "en": "GM K",
+                "de": "GM K",
+                "uk": "ГМ К",
+                "ru": "ГМ К",
+                "zh": "GM K"
+              },
+              "silnik": {
+                "pl": "4.6L V8 / 4.9L V8",
+                "en": "4.6L V8 / 4.9L V8",
+                "de": "4,6L V8 / 4,9L V8",
+                "uk": "4,6 л V8 / 4,9 л V8",
+                "ru": "4,6 л V8 / 4,9 л V8",
+                "zh": "4.6L V8 / 4.9L V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cadillac_Sedan_de_Ville_BW_2017-07-16_13-08-50.jpg/1280px-Cadillac_Sedan_de_Ville_BW_2017-07-16_13-08-50.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cadillac_Sedan_de_Ville_BW_2017-07-16_13-08-50.jpg/1280px-Cadillac_Sedan_de_Ville_BW_2017-07-16_13-08-50.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/1959_Cadillac_Coupe_de_Ville_%287435047234%29.jpg/1280px-1959_Cadillac_Coupe_de_Ville_%287435047234%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/1961_Cadillac_6-window_Sedan_Deville_%284%29.jpg/1280px-1961_Cadillac_6-window_Sedan_Deville_%284%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/1961_Cadillac_Coupe_Deville_%2803%29.jpg/1280px-1961_Cadillac_Coupe_Deville_%2803%29.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/68/p4/h9dtr0kks08wwsw444g4c/cadillac-deville.310.jpg"
+        }
+      },
+      {
+        "BrandID": 24,
+        "ModelID": 413052,
+        "Brand Name": "Cadillac",
+        "Model Name": "DeVille",
+        "Serie Name": "DeVille (2000-2005)",
+        "Years": "2000 - 2005",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "4.6L Northstar V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Cadillac DeVille (2000-2005) to ostatnia generacja modelu DeVille. Wprowadziła system Night Vision i bardziej opływowe nadwozie.",
+              "en": "Cadillac DeVille (2000-2005) is the last generation of the DeVille model. It introduced the Night Vision system and a more streamlined body.",
+              "de": "Cadillac DeVille (2000–2005) ist die letzte Generation des DeVille-Modells. Es wurden das Nachtsichtsystem und eine stromlinienförmigere Karosserie eingeführt.",
+              "uk": "Cadillac DeVille (2000-2005) - останнє покоління моделі DeVille. Він представив систему нічного бачення та більш обтічний корпус.",
+              "ru": "Cadillac DeVille (2000-2005) — последнее поколение модели DeVille. Он представил систему ночного видения и более обтекаемый корпус.",
+              "zh": "凯迪拉克 DeVille (2000-2005) 是最后一代 DeVille 车型。它引入了夜视系统和更流线型的机身。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cadillac",
+                "en": "Cadillac",
+                "de": "Cadillac",
+                "uk": "Cadillac",
+                "ru": "Cadillac"
+              },
+              "okres produkcji": {
+                "pl": "2000–2005",
+                "en": "2000–2005",
+                "de": "2000–2005",
+                "uk": "2000–2005",
+                "ru": "2000–2005"
+              },
+              "miejsce produkcji": {
+                "pl": "Hamtramck, USA",
+                "en": "Hamtramck, USA",
+                "de": "Hamtramck, USA",
+                "uk": "Хамтрамк, США",
+                "ru": "Хамтрамк, США",
+                "zh": "Hamtramck，美国"
+              },
+              "platforma": {
+                "pl": "GM K",
+                "en": "GM K",
+                "de": "GM K",
+                "uk": "ГМ К",
+                "ru": "ГМ К",
+                "zh": "GM K"
+              },
+              "silnik": {
+                "pl": "4.6L Northstar V8",
+                "en": "4.6L Northstar V8",
+                "de": "4,6 l Northstar V8",
+                "uk": "4.6L Northstar V8",
+                "ru": "4,6 л Нортстар V8",
+                "zh": "4.6L Northstar V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cadillac_Sedan_de_Ville_BW_2017-07-16_13-08-50.jpg/1280px-Cadillac_Sedan_de_Ville_BW_2017-07-16_13-08-50.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cadillac_Sedan_de_Ville_BW_2017-07-16_13-08-50.jpg/1280px-Cadillac_Sedan_de_Ville_BW_2017-07-16_13-08-50.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/1959_Cadillac_Coupe_de_Ville_%287435047234%29.jpg/1280px-1959_Cadillac_Coupe_de_Ville_%287435047234%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/1961_Cadillac_6-window_Sedan_Deville_%284%29.jpg/1280px-1961_Cadillac_6-window_Sedan_Deville_%284%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/1961_Cadillac_Coupe_Deville_%2803%29.jpg/1280px-1961_Cadillac_Coupe_Deville_%2803%29.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/68/p4/h9dtr0kks08wwsw444g4c/cadillac-deville.310.jpg"
+        }
+      }
+    ],
+    "DTS": [
+      {
+        "BrandID": 24,
+        "ModelID": 199,
+        "Brand Name": "Cadillac",
+        "Model Name": "DTS",
+        "Serie Name": "DTS",
+        "Years": "2006 - 2011",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "4.6L Northstar V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Cadillac DTS to bezpośredni następca DeVille. Konserwatywny styl i komfortowa, miękka charakterystyka zawieszenia.",
+              "en": "The Cadillac DTS is the direct successor to the DeVille. Conservative style and comfortable, soft suspension characteristics.",
+              "de": "Der Cadillac DTS ist der direkte Nachfolger des DeVille. Konservativer Stil und komfortable, weiche Federungseigenschaften.",
+              "uk": "Cadillac DTS є прямим наступником DeVille. Консервативний стиль і комфортна м'яка підвіска.",
+              "ru": "Cadillac DTS является прямым преемником DeVille. Консервативный стиль и комфортная, мягкая подвеска.",
+              "zh": "凯迪拉克 DTS 是 DeVille 的直接后继产品。保守的风格和舒适、柔软的悬架特点。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cadillac",
+                "en": "Cadillac",
+                "de": "Cadillac",
+                "uk": "Cadillac",
+                "ru": "Cadillac"
+              },
+              "okres produkcji": {
+                "pl": "2006–2011",
+                "en": "2006–2011",
+                "de": "2006–2011",
+                "uk": "2006–2011",
+                "ru": "2006–2011"
+              },
+              "miejsce produkcji": {
+                "pl": "Hamtramck, USA",
+                "en": "Hamtramck, USA",
+                "de": "Hamtramck, USA",
+                "uk": "Хамтрамк, США",
+                "ru": "Хамтрамк, США",
+                "zh": "美国哈姆特拉克"
+              },
+              "platforma": {
+                "pl": "GM G",
+                "en": "GM G",
+                "de": "GM G",
+                "uk": "GM Г",
+                "ru": "ГМ Г",
+                "zh": "GM G"
+              },
+              "silnik": {
+                "pl": "4.6L Northstar V8",
+                "en": "4.6L Northstar V8",
+                "de": "4,6 l Northstar V8",
+                "uk": "4.6L Northstar V8",
+                "ru": "4,6 л Нортстар V8",
+                "zh": "4.6L Northstar V8"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Eldorado": [
+      {
+        "BrandID": 24,
+        "ModelID": 413895,
+        "Brand Name": "Cadillac",
+        "Model Name": "Eldorado",
+        "Serie Name": "Eldorado",
+        "Years": "1992 - 2002",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Personal Luxury",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "4.6L Northstar V8 / 4.9L V8",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Cadillac Eldorado to legendarne personal luxury coupe. Ostatnia generacja łączyła klasyczny styl z nowoczesnym silnikiem Northstar.",
+              "en": "Cadillac Eldorado is a legendary personal luxury coupe. The last generation combined classic styling with the modern Northstar engine.",
+              "de": "Cadillac Eldorado ist ein legendäres persönliches Luxuscoupé. Die letzte Generation kombinierte klassisches Design mit dem modernen Northstar-Motor.",
+              "uk": "Cadillac Eldorado — легендарне персональне розкішне купе. Останнє покоління поєднало класичний стиль із сучасним двигуном Northstar.",
+              "ru": "Cadillac Eldorado – легендарное личное купе класса люкс. Последнее поколение сочетало классический стиль с современным двигателем Northstar.",
+              "zh": "凯迪拉克 Eldorado 是一款传奇的个人豪华轿跑车。最后一代将经典造型与现代北极星发动机相结合。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cadillac",
+                "en": "Cadillac",
+                "de": "Cadillac",
+                "uk": "Cadillac",
+                "ru": "Cadillac"
+              },
+              "okres produkcji": {
+                "pl": "1992–2002",
+                "en": "1992–2002",
+                "de": "1992–2002",
+                "uk": "1992–2002",
+                "ru": "1992–2002"
+              },
+              "miejsce produkcji": {
+                "pl": "Hamtramck, USA",
+                "en": "Hamtramck, USA",
+                "de": "Hamtramck, USA",
+                "uk": "Хамтрамк, США",
+                "ru": "Хамтрамк, США",
+                "zh": "哈姆特拉克，美国"
+              },
+              "platforma": {
+                "pl": "GM E",
+                "en": "GM E",
+                "de": "GM E",
+                "uk": "GM E",
+                "ru": "ГМ Э",
+                "zh": "GM E"
+              },
+              "silnik": {
+                "pl": "4.6L V8 / 4.9L V8",
+                "en": "4.6L V8 / 4.9L V8",
+                "de": "4,6L V8 / 4,9L V8",
+                "uk": "4,6 л V8 / 4,9 л V8",
+                "ru": "4,6 л V8 / 4,9 л V8",
+                "zh": "4.6L V8 / 4.9L V8"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/31/fd/q1nnlc8wwcwgcgs4gogks/cadillac-eldorado-ix-310.310.jpg"
+        }
+      }
+    ],
+    "Escalade": [
+      {
+        "BrandID": 24,
+        "ModelID": 413053,
+        "Brand Name": "Cadillac",
+        "Model Name": "Escalade",
+        "Serie Name": "Escalade (1st Gen)",
+        "Years": "1999 - 2000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size Luxury SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "5.7L V8",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Cadillac Escalade (1. gen) to pierwszy SUV marki, będący luksusową wersją GMC Yukon Denali. Wprowadzony jako odpowiedź na Lincolna Navigatora.",
+              "en": "The Cadillac Escalade (1st gen) is the brand's first SUV and is a luxury version of the GMC Yukon Denali. Introduced as a response to the Lincoln Navigator.",
+              "de": "Der Cadillac Escalade (1. Generation) ist das erste SUV der Marke und eine Luxusversion des GMC Yukon Denali. Eingeführt als Reaktion auf den Lincoln Navigator.",
+              "uk": "Cadillac Escalade (1-го покоління) є першим позашляховиком марки та є розкішною версією GMC Yukon Denali. Представлений як відповідь на Lincoln Navigator.",
+              "ru": "Cadillac Escalade (1-го поколения) — первый внедорожник бренда и роскошная версия GMC Yukon Denali. Представлен как ответ на Lincoln Navigator.",
+              "zh": "凯迪拉克凯雷德（第一代）是该品牌的第一款 SUV，是 GMC Yukon Denali 的豪华版。作为对林肯领航员的回应而推出。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cadillac",
+                "en": "Cadillac",
+                "de": "Cadillac",
+                "uk": "Cadillac",
+                "ru": "Cadillac"
+              },
+              "okres produkcji": {
+                "pl": "1999–2000",
+                "en": "1999–2000",
+                "de": "1999–2000",
+                "uk": "1999–2000",
+                "ru": "1999–2000"
+              },
+              "miejsce produkcji": {
+                "pl": "Arlington, USA",
+                "en": "Arlington, USA",
+                "de": "Arlington, USA",
+                "uk": "Арлінгтон, США",
+                "ru": "Арлингтон, США",
+                "zh": "美国阿灵顿"
+              },
+              "platforma": {
+                "pl": "GMT400",
+                "en": "GMT400",
+                "de": "GMT400",
+                "uk": "GMT400",
+                "ru": "GMT400"
+              },
+              "silnik": {
+                "pl": "5.7L V8",
+                "en": "5.7L V8",
+                "de": "5,7 l V8",
+                "uk": "5,7 л V8",
+                "ru": "5,7 л V8",
+                "zh": "5.7L V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2000_Cadillac_Escalade_Luxury_5.7L_L31%2C_rear_6.6.20.jpg/1280px-2000_Cadillac_Escalade_Luxury_5.7L_L31%2C_rear_6.6.20.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2000_Cadillac_Escalade_Luxury_5.7L_L31%2C_rear_6.6.20.jpg/1280px-2000_Cadillac_Escalade_Luxury_5.7L_L31%2C_rear_6.6.20.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Tuned_%2799-%2700_Cadillac_Escalade_%28Orange_Julep%29.JPG/1280px-Tuned_%2799-%2700_Cadillac_Escalade_%28Orange_Julep%29.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cadillac_escalade.jpg/1280px-Cadillac_escalade.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Cadillac_Escalade_ESV_--_12-05-2011.jpg/1280px-Cadillac_Escalade_ESV_--_12-05-2011.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/eu/vu/opuhqo84wo80cgws4wos4/cadillac-escalade-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 24,
+        "ModelID": 413054,
+        "Brand Name": "Cadillac",
+        "Model Name": "Escalade",
+        "Serie Name": "Escalade (2nd Gen)",
+        "Years": "2002 - 2006",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size Luxury SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "5.3L V8 / 6.0L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Cadillac Escalade (2. gen) zyskał swój własny, unikalny styl 'Art and Science'. Stał się ikoną popkultury i luksusu.",
+              "en": "The Cadillac Escalade (2nd gen) has gained its own unique 'Art and Science' style. He became an icon of pop culture and luxury.",
+              "de": "Der Cadillac Escalade (2. Generation) hat seinen eigenen, einzigartigen „Art and Science“-Stil erhalten. Er wurde zu einer Ikone der Popkultur und des Luxus.",
+              "uk": "Cadillac Escalade (2-го покоління) отримав власний унікальний стиль «мистецтво та наука». Він став іконою поп-культури та розкоші.",
+              "ru": "Cadillac Escalade (2-го поколения) приобрел свой уникальный стиль «Искусство и наука». Он стал иконой поп-культуры и роскоши.",
+              "zh": "凯迪拉克凯雷德（第二代）拥有自己独特的“艺术与科学”风格。他成为流行文化和奢华的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cadillac",
+                "en": "Cadillac",
+                "de": "Cadillac",
+                "uk": "Cadillac",
+                "ru": "Cadillac"
+              },
+              "okres produkcji": {
+                "pl": "2002–2006",
+                "en": "2002–2006",
+                "de": "2002–2006",
+                "uk": "2002–2006",
+                "ru": "2002–2006"
+              },
+              "miejsce produkcji": {
+                "pl": "Silao, Meksyk",
+                "en": "Silao, Mexico",
+                "de": "Silao, Mexiko",
+                "uk": "Сілао, Мексика",
+                "ru": "Силао, Мексика",
+                "zh": "墨西哥锡劳"
+              },
+              "platforma": {
+                "pl": "GMT800",
+                "en": "GMT800",
+                "de": "GMT800",
+                "uk": "GMT800",
+                "ru": "GMT800"
+              },
+              "silnik": {
+                "pl": "5.3L - 6.0L V8",
+                "en": "5.3L - 6.0L V8",
+                "de": "5,3 l – 6,0 l V8",
+                "uk": "5,3 л - 6,0 л V8",
+                "ru": "5,3–6,0 л V8",
+                "zh": "5.3L - 6.0L V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2000_Cadillac_Escalade_Luxury_5.7L_L31%2C_rear_6.6.20.jpg/1280px-2000_Cadillac_Escalade_Luxury_5.7L_L31%2C_rear_6.6.20.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2000_Cadillac_Escalade_Luxury_5.7L_L31%2C_rear_6.6.20.jpg/1280px-2000_Cadillac_Escalade_Luxury_5.7L_L31%2C_rear_6.6.20.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Tuned_%2799-%2700_Cadillac_Escalade_%28Orange_Julep%29.JPG/1280px-Tuned_%2799-%2700_Cadillac_Escalade_%28Orange_Julep%29.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cadillac_escalade.jpg/1280px-Cadillac_escalade.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Cadillac_Escalade_ESV_--_12-05-2011.jpg/1280px-Cadillac_Escalade_ESV_--_12-05-2011.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/eu/vu/opuhqo84wo80cgws4wos4/cadillac-escalade-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 24,
+        "ModelID": 413055,
+        "Brand Name": "Cadillac",
+        "Model Name": "Escalade",
+        "Serie Name": "Escalade (3rd Gen)",
+        "Years": "2007 - 2014",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size Luxury SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "6.2L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Cadillac Escalade (3. gen) przyniósł jeszcze więcej luksusu i mocy. Wnętrze wykonane z materiałów najwyższej jakości.",
+              "en": "The Cadillac Escalade (3rd gen) brought even more luxury and power. The interior is made of the highest quality materials.",
+              "de": "Der Cadillac Escalade (3. Generation) brachte noch mehr Luxus und Leistung. Der Innenraum besteht aus Materialien höchster Qualität.",
+              "uk": "Cadillac Escalade (3-го покоління) приніс ще більше розкоші та потужності. Інтер'єр виконаний з матеріалів найвищої якості.",
+              "ru": "Cadillac Escalade (3-го поколения) принес еще больше роскоши и мощи. Интерьер выполнен из материалов высочайшего качества.",
+              "zh": "凯迪拉克凯雷德（第三代）带来了更多的奢华和动力。内饰采用最优质的材料制成。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cadillac",
+                "en": "Cadillac",
+                "de": "Cadillac",
+                "uk": "Cadillac",
+                "ru": "Cadillac"
+              },
+              "okres produkcji": {
+                "pl": "2007–2014",
+                "en": "2007–2014",
+                "de": "2007–2014",
+                "uk": "2007–2014",
+                "ru": "2007–2014"
+              },
+              "miejsce produkcji": {
+                "pl": "Arlington, USA",
+                "en": "Arlington, USA",
+                "de": "Arlington, USA",
+                "uk": "Арлінгтон, США",
+                "ru": "Арлингтон, США",
+                "zh": "美国阿灵顿"
+              },
+              "platforma": {
+                "pl": "GMT900",
+                "en": "GMT900",
+                "de": "GMT900",
+                "uk": "GMT900",
+                "ru": "GMT900"
+              },
+              "silnik": {
+                "pl": "6.2L V8",
+                "en": "6.2L V8",
+                "de": "6,2 l V8",
+                "uk": "6,2 л V8",
+                "ru": "6,2 л V8",
+                "zh": "6.2L V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2000_Cadillac_Escalade_Luxury_5.7L_L31%2C_rear_6.6.20.jpg/1280px-2000_Cadillac_Escalade_Luxury_5.7L_L31%2C_rear_6.6.20.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2000_Cadillac_Escalade_Luxury_5.7L_L31%2C_rear_6.6.20.jpg/1280px-2000_Cadillac_Escalade_Luxury_5.7L_L31%2C_rear_6.6.20.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Tuned_%2799-%2700_Cadillac_Escalade_%28Orange_Julep%29.JPG/1280px-Tuned_%2799-%2700_Cadillac_Escalade_%28Orange_Julep%29.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cadillac_escalade.jpg/1280px-Cadillac_escalade.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Cadillac_Escalade_ESV_--_12-05-2011.jpg/1280px-Cadillac_Escalade_ESV_--_12-05-2011.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/eu/vu/opuhqo84wo80cgws4wos4/cadillac-escalade-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 24,
+        "ModelID": 413056,
+        "Brand Name": "Cadillac",
+        "Model Name": "Escalade",
+        "Serie Name": "Escalade (4th Gen)",
+        "Years": "2015 - 2020",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size Luxury SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "6.2L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "3"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Cadillac Escalade (4. gen) to kwintesencja amerykańskiego luksusu. Bardziej kanciasty design i zaawansowane systemy multimedialne.",
+              "en": "Cadillac Escalade (4th generation) is the quintessence of American luxury. More angular design and advanced multimedia systems.",
+              "de": "Cadillac Escalade (4. Generation) ist die Quintessenz amerikanischen Luxus. Eckigeres Design und fortschrittliche Multimedia-Systeme.",
+              "uk": "Cadillac Escalade (4 покоління) - це квінтесенція американської розкоші. Більш незграбний дизайн і просунуті мультимедійні системи.",
+              "ru": "Cadillac Escalade (4-е поколение) – квинтэссенция американской роскоши. Более угловатый дизайн и продвинутые мультимедийные системы.",
+              "zh": "凯迪拉克凯雷德（第四代）是美式奢华的精髓。更具棱角的设计和先进的多媒体系统。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cadillac",
+                "en": "Cadillac",
+                "de": "Cadillac",
+                "uk": "Cadillac",
+                "ru": "Cadillac"
+              },
+              "okres produkcji": {
+                "pl": "2015–2020",
+                "en": "2015–2020",
+                "de": "2015–2020",
+                "uk": "2015–2020",
+                "ru": "2015–2020"
+              },
+              "miejsce produkcji": {
+                "pl": "Arlington, USA",
+                "en": "Arlington, USA",
+                "de": "Arlington, USA",
+                "uk": "Арлінгтон, США",
+                "ru": "Арлингтон, США",
+                "zh": "美国阿灵顿"
+              },
+              "platforma": {
+                "pl": "GMT K2XL",
+                "en": "GMT K2XL",
+                "de": "GMT K2XL",
+                "uk": "GMT K2XL",
+                "ru": "Время по Гринвичу K2XL",
+                "zh": "GMT K2XL"
+              },
+              "silnik": {
+                "pl": "6.2L V8",
+                "en": "6.2L V8",
+                "de": "6,2 l V8",
+                "uk": "6,2 л V8",
+                "ru": "6,2 л V8",
+                "zh": "6.2L V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2000_Cadillac_Escalade_Luxury_5.7L_L31%2C_rear_6.6.20.jpg/1280px-2000_Cadillac_Escalade_Luxury_5.7L_L31%2C_rear_6.6.20.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2000_Cadillac_Escalade_Luxury_5.7L_L31%2C_rear_6.6.20.jpg/1280px-2000_Cadillac_Escalade_Luxury_5.7L_L31%2C_rear_6.6.20.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Tuned_%2799-%2700_Cadillac_Escalade_%28Orange_Julep%29.JPG/1280px-Tuned_%2799-%2700_Cadillac_Escalade_%28Orange_Julep%29.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cadillac_escalade.jpg/1280px-Cadillac_escalade.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Cadillac_Escalade_ESV_--_12-05-2011.jpg/1280px-Cadillac_Escalade_ESV_--_12-05-2011.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/eu/vu/opuhqo84wo80cgws4wos4/cadillac-escalade-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 24,
+        "ModelID": 416642,
+        "Brand Name": "Cadillac",
+        "Model Name": "Escalade",
+        "Serie Name": "Escalade (5th Gen)",
+        "Years": "2021 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size Luxury SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "6.2L V8 / 3.0L Diesel / 6.2L Supercharged V8 (V-Series)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "3"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Cadillac Escalade (5. gen) wprowadził rewolucyjny zakrzywiony ekran OLED. Niezależne zawieszenie z tyłu znacznie poprawiło komfort.",
+              "en": "The Cadillac Escalade (5th Gen) introduced a revolutionary curved OLED screen. Independent suspension at the rear significantly improved comfort.",
+              "de": "Der Cadillac Escalade (5. Generation) führte einen revolutionären gebogenen OLED-Bildschirm ein. Die Einzelradaufhängung hinten verbesserte den Komfort deutlich.",
+              "uk": "Cadillac Escalade (5-го покоління) представив революційний вигнутий OLED-екран. Незалежна підвіска ззаду значно підвищила комфорт.",
+              "ru": "Cadillac Escalade (5-го поколения) представил революционный изогнутый OLED-экран. Независимая подвеска сзади значительно повысила комфорт.",
+              "zh": "凯迪拉克凯雷德（第五代）推出了革命性的曲面 OLED 屏幕。后独立悬架显着提高了舒适性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cadillac",
+                "en": "Cadillac",
+                "de": "Cadillac",
+                "uk": "Cadillac",
+                "ru": "Cadillac"
+              },
+              "okres produkcji": {
+                "pl": "od 2021",
+                "en": "from 2021",
+                "de": "ab 2021",
+                "uk": "з 2021 року",
+                "ru": "с 2021 года",
+                "zh": "2021 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Arlington, USA",
+                "en": "Arlington, USA",
+                "de": "Arlington, USA",
+                "uk": "Арлінгтон, США",
+                "ru": "Арлингтон, США",
+                "zh": "美国阿灵顿"
+              },
+              "platforma": {
+                "pl": "GMT T1XX",
+                "en": "GMT T1XX",
+                "de": "GMT T1XX",
+                "uk": "GMT T1XX",
+                "ru": "Время по Гринвичу T1XX",
+                "zh": "GMT T1XX"
+              },
+              "silnik": {
+                "pl": "3.0L Diesel / 6.2L V8",
+                "en": "3.0L Diesel / 6.2L V8",
+                "de": "3,0 l Diesel / 6,2 l V8",
+                "uk": "3,0 л дизель / 6,2 л V8",
+                "ru": "3,0 л дизельный / 6,2 л V8",
+                "zh": "3.0L 柴油/6.2L V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2000_Cadillac_Escalade_Luxury_5.7L_L31%2C_rear_6.6.20.jpg/1280px-2000_Cadillac_Escalade_Luxury_5.7L_L31%2C_rear_6.6.20.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2000_Cadillac_Escalade_Luxury_5.7L_L31%2C_rear_6.6.20.jpg/1280px-2000_Cadillac_Escalade_Luxury_5.7L_L31%2C_rear_6.6.20.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Tuned_%2799-%2700_Cadillac_Escalade_%28Orange_Julep%29.JPG/1280px-Tuned_%2799-%2700_Cadillac_Escalade_%28Orange_Julep%29.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cadillac_escalade.jpg/1280px-Cadillac_escalade.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Cadillac_Escalade_ESV_--_12-05-2011.jpg/1280px-Cadillac_Escalade_ESV_--_12-05-2011.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/eu/vu/opuhqo84wo80cgws4wos4/cadillac-escalade-ii.310.jpg"
+        }
+      }
+    ],
+    "Seville": [
+      {
+        "BrandID": 24,
+        "ModelID": 413057,
+        "Brand Name": "Cadillac",
+        "Model Name": "Seville",
+        "Serie Name": "Seville (4th Gen)",
+        "Years": "1992 - 1997",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Luxury",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "4.6L Northstar V8 / 4.9L V8",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Cadillac Seville (4. gen) to sportowa limuzyna, która miała konkurować z autami europejskimi. Zdobywca tytułu Motor Trend Car of the Year.",
+              "en": "Cadillac Seville (4th generation) is a sports limousine that was intended to compete with European cars. Winner of the Motor Trend Car of the Year title.",
+              "de": "Cadillac Seville (4. Generation) ist eine Sportlimousine, die mit europäischen Autos konkurrieren sollte. Gewinner des Titels „Motor Trend Car of the Year“.",
+              "uk": "Cadillac Seville (4 покоління) - спортивний лімузин, який був покликаний конкурувати з європейськими автомобілями. Winner of the Motor Trend Car of the Year title.",
+              "ru": "Cadillac Seville (4 поколение) – спортивный лимузин, призванный составить конкуренцию европейским автомобилям. Обладатель титула «Автомобиль года» по версии Motor Trend.",
+              "zh": "凯迪拉克塞维利亚（第四代）是一款原本应该与欧洲汽车竞争的运动型豪华轿车。荣获《Motor Trend》年度汽车称号。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cadillac",
+                "en": "Cadillac",
+                "de": "Cadillac",
+                "uk": "Cadillac",
+                "ru": "Cadillac"
+              },
+              "okres produkcji": {
+                "pl": "1992–1997",
+                "en": "1992–1997",
+                "de": "1992–1997",
+                "uk": "1992–1997",
+                "ru": "1992–1997"
+              },
+              "miejsce produkcji": {
+                "pl": "Hamtramck, USA",
+                "en": "Hamtramck, USA",
+                "de": "Hamtramck, USA",
+                "uk": "Хамтрамк, США",
+                "ru": "Хамтрамк, США",
+                "zh": "Hamtramck，美国"
+              },
+              "platforma": {
+                "pl": "GM K",
+                "en": "GM K",
+                "de": "GM K",
+                "uk": "ГМ К",
+                "ru": "ГМ К",
+                "zh": "GM K"
+              },
+              "silnik": {
+                "pl": "4.6L V8 / 4.9L V8",
+                "en": "4.6L V8 / 4.9L V8",
+                "de": "4,6L V8 / 4,9L V8",
+                "uk": "4,6 л V8 / 4,9 л V8",
+                "ru": "4,6 л V8 / 4,9 л V8",
+                "zh": "4.6L V8 / 4.9L V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/1976_Cadillac_Seville_%2814686417607%29.jpg/1280px-1976_Cadillac_Seville_%2814686417607%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/1976_Cadillac_Seville_%2814686417607%29.jpg/1280px-1976_Cadillac_Seville_%2814686417607%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/1981_Cadillac_Seville_%2814302023179%29.jpg/1280px-1981_Cadillac_Seville_%2814302023179%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/f/fa/1990_STS_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/1992-1994_Cadillac_Seville_STS_%286247228257%29.jpg/1280px-1992-1994_Cadillac_Seville_STS_%286247228257%29.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cg/9m/48dgtw8c8soswwogo8cko/cadillac-seville.310.jpg"
+        }
+      },
+      {
+        "BrandID": 24,
+        "ModelID": 413058,
+        "Brand Name": "Cadillac",
+        "Model Name": "Seville",
+        "Serie Name": "Seville (5th Gen - STS/SLS)",
+        "Years": "1998 - 2004",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Luxury",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "4.6L Northstar V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Cadillac Seville (5. gen) to ostatnia generacja modelu przed zmianą na STS. Bardziej zaawansowana technicznie, z adaptacyjnym zawieszeniem.",
+              "en": "Cadillac Seville (5th generation) is the last generation of the model before the change to STS. More technically advanced, with adaptive suspension.",
+              "de": "Cadillac Seville (5. Generation) ist die letzte Generation des Modells vor dem Wechsel zu STS. Technisch fortschrittlicher, mit adaptivem Fahrwerk.",
+              "uk": "Cadillac Seville (5 покоління) - останнє покоління моделі до переходу на STS. Більш технічно просунутий, з адаптивною підвіскою.",
+              "ru": "Cadillac Seville (5-е поколение) — последнее поколение модели до перехода на STS. Более технологичный, с адаптивной подвеской.",
+              "zh": "凯迪拉克 Seville（第 5 代）是更改为 STS 之前的最后一代车型。技术更先进，具有自适应悬架。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cadillac",
+                "en": "Cadillac",
+                "de": "Cadillac",
+                "uk": "Cadillac",
+                "ru": "Cadillac"
+              },
+              "okres produkcji": {
+                "pl": "1998–2004",
+                "en": "1998–2004",
+                "de": "1998–2004",
+                "uk": "1998–2004",
+                "ru": "1998–2004"
+              },
+              "miejsce produkcji": {
+                "pl": "Hamtramck, USA",
+                "en": "Hamtramck, USA",
+                "de": "Hamtramck, USA",
+                "uk": "Хамтрамк, США",
+                "ru": "Хамтрамк, США",
+                "zh": "哈姆特拉克，美国"
+              },
+              "platforma": {
+                "pl": "GM K",
+                "en": "GM K",
+                "de": "GM K",
+                "uk": "ГМ К",
+                "ru": "ГМ К",
+                "zh": "GM K"
+              },
+              "silnik": {
+                "pl": "4.6L Northstar V8",
+                "en": "4.6L Northstar V8",
+                "de": "4,6 l Northstar V8",
+                "uk": "4.6L Northstar V8",
+                "ru": "4,6 л Нортстар V8",
+                "zh": "4.6L Northstar V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/1976_Cadillac_Seville_%2814686417607%29.jpg/1280px-1976_Cadillac_Seville_%2814686417607%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/1976_Cadillac_Seville_%2814686417607%29.jpg/1280px-1976_Cadillac_Seville_%2814686417607%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/1981_Cadillac_Seville_%2814302023179%29.jpg/1280px-1981_Cadillac_Seville_%2814302023179%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/f/fa/1990_STS_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/1992-1994_Cadillac_Seville_STS_%286247228257%29.jpg/1280px-1992-1994_Cadillac_Seville_STS_%286247228257%29.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cg/9m/48dgtw8c8soswwogo8cko/cadillac-seville.310.jpg"
+        }
+      }
+    ],
+    "SRX": [
+      {
+        "BrandID": 24,
+        "ModelID": 413059,
+        "Brand Name": "Cadillac",
+        "Model Name": "SRX",
+        "Serie Name": "SRX (1st Gen)",
+        "Years": "2004 - 2009",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.6L V6 / 4.6L Northstar V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Cadillac SRX (1. gen) to sportowy SUV oparty na platformie sedana CTS. Oferował świetne właściwości jezdne i opcjonalny 3. rząd siedzeń.",
+              "en": "The Cadillac SRX (1st gen) is a sports SUV based on the CTS sedan platform. It offered great driving characteristics and an optional 3rd row of seats.",
+              "de": "Der Cadillac SRX (1. Generation) ist ein Sport-SUV, der auf der CTS-Limousinenplattform basiert. Er bot hervorragende Fahreigenschaften und optional eine 3. Sitzreihe.",
+              "uk": "Cadillac SRX (1-е покоління) — спортивний позашляховик на базі платформи седан CTS. Він пропонував чудові ходові характеристики та додатковий 3-й ряд сидінь.",
+              "ru": "Cadillac SRX (1-го поколения) — спортивный внедорожник, созданный на платформе седана CTS. Он предлагал отличные ходовые качества и опциональный третий ряд сидений.",
+              "zh": "凯迪拉克 SRX（第一代）是一款基于 CTS 轿车平台的运动 SUV。它提供了出色的驾驶特性和可选的第三排座椅。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cadillac",
+                "en": "Cadillac",
+                "de": "Cadillac",
+                "uk": "Cadillac",
+                "ru": "Cadillac"
+              },
+              "okres produkcji": {
+                "pl": "2004–2009",
+                "en": "2004–2009",
+                "de": "2004–2009",
+                "uk": "2004–2009",
+                "ru": "2004–2009"
+              },
+              "miejsce produkcji": {
+                "pl": "Lansing, USA",
+                "en": "Lansing, USA",
+                "de": "Lansing, USA",
+                "uk": "Лансінг, США",
+                "ru": "Лансинг, США",
+                "zh": "美国兰辛"
+              },
+              "platforma": {
+                "pl": "GM Sigma",
+                "en": "GM Sigma",
+                "de": "GM Sigma",
+                "uk": "GM Sigma",
+                "ru": "ГМ Сигма",
+                "zh": "GM Sigma"
+              },
+              "silnik": {
+                "pl": "3.6L V6 / 4.6L V8",
+                "en": "3.6L V6 / 4.6L V8",
+                "de": "3,6L V6 / 4,6L V8",
+                "uk": "3,6 л V6 / 4,6 л V8",
+                "ru": "3,6 л V6 / 4,6 л V8",
+                "zh": "3.6L V6 / 4.6L V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cadillac_SRX_rear_20081204.jpg/1280px-Cadillac_SRX_rear_20081204.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cadillac_SRX_rear_20081204.jpg/1280px-Cadillac_SRX_rear_20081204.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cadillac_SRX_3.0_V6_AWD_Sport_Luxury_%28II%29_%E2%80%93_Heckansicht%2C_10._September_2011%2C_D%C3%BCsseldorf.jpg/1280px-Cadillac_SRX_3.0_V6_AWD_Sport_Luxury_%28II%29_%E2%80%93_Heckansicht%2C_10._September_2011%2C_D%C3%BCsseldorf.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2012_Cadillac_SRX_--_NHTSA.jpg/1280px-2012_Cadillac_SRX_--_NHTSA.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/d2/67/kgg7hd4o840sc88oc0kkw/cadillac-srxii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 24,
+        "ModelID": 413060,
+        "Brand Name": "Cadillac",
+        "Model Name": "SRX",
+        "Serie Name": "SRX (2nd Gen)",
+        "Years": "2010 - 2016",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.8L Turbo / 3.0L / 3.6L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Cadillac SRX (2. gen) stał się bestsellerem marki. Zmienił charakter na bardziej komfortowy crossover z napędem na przód lub AWD.",
+              "en": "Cadillac SRX (2nd generation) became the brand's bestseller. It changed its character to a more comfortable crossover with front drive or AWD.",
+              "de": "Der Cadillac SRX (2. Generation) wurde zum Bestseller der Marke. Es veränderte seinen Charakter zu einem komfortableren Crossover mit Frontantrieb oder Allradantrieb.",
+              "uk": "Бестселером марки став Cadillac SRX (2 покоління). Він змінив свій характер на більш комфортний кросовер з переднім або повним приводом.",
+              "ru": "Cadillac SRX (2-го поколения) стал бестселлером марки. Он сменил свой характер на более комфортабельный кроссовер с передним приводом или полным приводом.",
+              "zh": "凯迪拉克 SRX（第二代）成为该品牌的畅销车型。它改变了它的特性，成为一款更舒适的前驱或全轮驱动跨界车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cadillac",
+                "en": "Cadillac",
+                "de": "Cadillac",
+                "uk": "Cadillac",
+                "ru": "Cadillac"
+              },
+              "okres produkcji": {
+                "pl": "2010–2016",
+                "en": "2010–2016",
+                "de": "2010–2016",
+                "uk": "2010–2016",
+                "ru": "2010–2016"
+              },
+              "miejsce produkcji": {
+                "pl": "Ramos Arizpe, Meksyk",
+                "en": "Ramos Arizpe, Mexico",
+                "de": "Ramos Arizpe, Mexiko",
+                "uk": "Рамос Арізпе, Мексика",
+                "ru": "Рамос Ариспе, Мексика",
+                "zh": "Ramos Arizpe，墨西哥"
+              },
+              "platforma": {
+                "pl": "GM Theta Premium",
+                "en": "GM Theta Premium",
+                "de": "GM Theta Premium",
+                "uk": "GM Theta Premium",
+                "ru": "ГМ Тета Премиум",
+                "zh": "GM Theta Premium"
+              },
+              "silnik": {
+                "pl": "2.8L - 3.6L V6",
+                "en": "2.8L - 3.6L V6",
+                "de": "2,8 l – 3,6 l V6",
+                "uk": "2,8 л - 3,6 л V6",
+                "ru": "2,8–3,6 л V6",
+                "zh": "2.8L - 3.6L V6"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cadillac_SRX_rear_20081204.jpg/1280px-Cadillac_SRX_rear_20081204.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cadillac_SRX_rear_20081204.jpg/1280px-Cadillac_SRX_rear_20081204.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cadillac_SRX_3.0_V6_AWD_Sport_Luxury_%28II%29_%E2%80%93_Heckansicht%2C_10._September_2011%2C_D%C3%BCsseldorf.jpg/1280px-Cadillac_SRX_3.0_V6_AWD_Sport_Luxury_%28II%29_%E2%80%93_Heckansicht%2C_10._September_2011%2C_D%C3%BCsseldorf.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2012_Cadillac_SRX_--_NHTSA.jpg/1280px-2012_Cadillac_SRX_--_NHTSA.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/d2/67/kgg7hd4o840sc88oc0kkw/cadillac-srxii.310.jpg"
+        }
+      }
+    ],
+    "STS": [
+      {
+        "BrandID": 24,
+        "ModelID": 205,
+        "Brand Name": "Cadillac",
+        "Model Name": "STS",
+        "Serie Name": "STS",
+        "Years": "2005 - 2011",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Luxury",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.6L V6 / 4.4L Supercharged V8 / 4.6L Northstar V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Cadillac STS to sportowa limuzyna, która zastąpiła model Seville. Oferowała zaawansowany napęd AWD i magnetyczne zawieszenie.",
+              "en": "Cadillac STS is a sports limousine that replaced the Seville model. It offered an advanced AWD drive and magnetic suspension.",
+              "de": "Cadillac STS ist eine Sportlimousine, die das Modell Seville ersetzte. Es bot einen fortschrittlichen Allradantrieb und eine Magnetfederung.",
+              "uk": "Cadillac STS - спортивний лімузин, який прийшов на зміну моделі Seville. Він пропонував вдосконалений повний привід і магнітну підвіску.",
+              "ru": "Cadillac STS – спортивный лимузин, пришедший на смену модели «Севилья». Он предлагал усовершенствованный полный привод и магнитную подвеску.",
+              "zh": "凯迪拉克 STS 是一款取代 Seville 车型的运动轿车。它提供了先进的全轮驱动驱动和磁悬浮。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cadillac",
+                "en": "Cadillac",
+                "de": "Cadillac",
+                "uk": "Cadillac",
+                "ru": "Cadillac"
+              },
+              "okres produkcji": {
+                "pl": "2005–2011",
+                "en": "2005–2011",
+                "de": "2005–2011",
+                "uk": "2005–2011",
+                "ru": "2005–2011"
+              },
+              "miejsce produkcji": {
+                "pl": "Lansing, USA",
+                "en": "Lansing, USA",
+                "de": "Lansing, USA",
+                "uk": "Лансінг, США",
+                "ru": "Лансинг, США",
+                "zh": "美国兰辛"
+              },
+              "platforma": {
+                "pl": "GM Sigma",
+                "en": "GM Sigma",
+                "de": "GM Sigma",
+                "uk": "GM Sigma",
+                "ru": "ГМ Сигма",
+                "zh": "GM Sigma"
+              },
+              "silnik": {
+                "pl": "3.6L V6 / 4.6L V8",
+                "en": "3.6L V6 / 4.6L V8",
+                "de": "3,6L V6 / 4,6L V8",
+                "uk": "3,6 л V6 / 4,6 л V8",
+                "ru": "3,6 л V6 / 4,6 л V8",
+                "zh": "3.6L V6 / 4.6L V8"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9h/pb/yudlbk84ss84o80o4soo0/cadillac-sts.310.jpg"
+        }
+      }
+    ],
+    "XLR": [
+      {
+        "BrandID": 24,
+        "ModelID": 416643,
+        "Brand Name": "Cadillac",
+        "Model Name": "XLR",
+        "Serie Name": "XLR",
+        "Years": "2004 - 2009",
+        "specs": {
+          "bodyType": "Convertible",
+          "segment": "Luxury Roadster",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "4.4L Supercharged V8 / 4.6L Northstar V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Cadillac XLR to luksusowy roadster oparty na C6 Corvette. Unikalny styl, składany twardy dach i silnik Northstar.",
+              "en": "The Cadillac XLR is a luxury roadster based on the C6 Corvette. Unique styling, foldable hardtop and Northstar engine.",
+              "de": "Der Cadillac XLR ist ein Luxus-Roadster auf Basis der C6 Corvette. Einzigartiges Design, faltbares Hardtop und Northstar-Motor.",
+              "uk": "Cadillac XLR — це розкішний родстер на базі C6 Corvette. Унікальний стиль, складний жорсткий дах і двигун Northstar.",
+              "ru": "Cadillac XLR — роскошный родстер, созданный на базе C6 Corvette. Уникальный дизайн, складная жесткая крыша и двигатель Northstar.",
+              "zh": "凯迪拉克 XLR 是一款基于 C6 Corvette 的豪华跑车。独特的造型、可折叠硬顶和北极星发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cadillac",
+                "en": "Cadillac",
+                "de": "Cadillac",
+                "uk": "Cadillac",
+                "ru": "Cadillac"
+              },
+              "okres produkcji": {
+                "pl": "2004–2009",
+                "en": "2004–2009",
+                "de": "2004–2009",
+                "uk": "2004–2009",
+                "ru": "2004–2009"
+              },
+              "miejsce produkcji": {
+                "pl": "Bowling Green, USA",
+                "en": "Bowling Green, USA",
+                "de": "Bowling Green, USA",
+                "uk": "Боулінг Грін, США",
+                "ru": "Боулинг-Грин, США",
+                "zh": "美国鲍灵格林"
+              },
+              "platforma": {
+                "pl": "GM Y",
+                "en": "GM Y",
+                "de": "GM Y",
+                "uk": "GM Y",
+                "ru": "ГМ Ю",
+                "zh": "GM Y"
+              },
+              "silnik": {
+                "pl": "4.6L V8 / 4.4L Supercharged V8",
+                "en": "4.6L V8 / 4.4L Supercharged V8",
+                "de": "4,6-Liter-V8 / 4,4-Liter-V8 mit Kompressor",
+                "uk": "4,6 л V8 / 4,4 л з наддувом V8",
+                "ru": "4,6-литровый двигатель V8 / 4,4-литровый двигатель V8 с наддувом",
+                "zh": "4.6L V8 / 4.4L Supercharged V8"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/52/nz/4f5juqcc08sck8gcwoo4s/cadillac-xlr.310.jpg"
+        }
+      }
+    ],
+    "XT4": [
+      {
+        "BrandID": 24,
+        "ModelID": 416418,
+        "Brand Name": "Cadillac",
+        "Model Name": "XT4",
+        "Serie Name": "XT4",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact Luxury SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Cadillac XT4 to najmniejszy SUV marki, skierowany do młodszych klientów. Dynamiczny design i nowoczesne wnętrze.",
+              "en": "Cadillac XT4 is the brand's smallest SUV, aimed at younger customers. Dynamic design and modern interior.",
+              "de": "Cadillac XT4 ist der kleinste SUV der Marke und richtet sich an jüngere Kunden. Dynamisches Design und modernes Interieur.",
+              "uk": "Cadillac XT4 — найменший позашляховик бренду, орієнтований на молодих клієнтів. Динамічний дизайн і сучасний інтер'єр.",
+              "ru": "Cadillac XT4 — самый маленький внедорожник марки, ориентированный на молодых покупателей. Динамичный дизайн и современный интерьер.",
+              "zh": "凯迪拉克 XT4 是该品牌最小的 SUV，针对年轻客户。动态设计和现代内饰。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cadillac",
+                "en": "Cadillac",
+                "de": "Cadillac",
+                "uk": "Cadillac",
+                "ru": "Cadillac"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "since 2018",
+                "de": "seit 2018",
+                "uk": "з 2018 року",
+                "ru": "с 2018 года",
+                "zh": "2018 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Kansas City, USA",
+                "en": "Kansas City, USA",
+                "de": "Kansas City, USA",
+                "uk": "Канзас-Сіті, США",
+                "ru": "Канзас-Сити, США",
+                "zh": "美国堪萨斯城"
+              },
+              "platforma": {
+                "pl": "GM E2XX",
+                "en": "GM E2XX",
+                "de": "GM E2XX",
+                "uk": "GM E2XX",
+                "ru": "ГМ E2XX",
+                "zh": "GM E2XX"
+              },
+              "silnik": {
+                "pl": "2.0L Turbo",
+                "en": "2.0L Turbo",
+                "de": "2,0 l Turbo",
+                "uk": "2.0L Turbo",
+                "ru": "2,0 л турбо",
+                "zh": "2.0L Turbo"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "XT5": [
+      {
+        "BrandID": 24,
+        "ModelID": 413980,
+        "Brand Name": "Cadillac",
+        "Model Name": "XT5",
+        "Serie Name": "XT5",
+        "Years": "2017 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L Turbo / 3.6L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Cadillac XT5 to następca popularnego SRX. Nowoczesny, przestronny i wyposażony w najnowsze systemy bezpieczeństwa.",
+              "en": "Cadillac XT5 is the successor to the popular SRX. Modern, spacious and equipped with the latest security systems.",
+              "de": "Cadillac XT5 ist der Nachfolger des beliebten SRX. Modern, geräumig und mit den neuesten Sicherheitssystemen ausgestattet.",
+              "uk": "Cadillac XT5 є наступником популярного SRX. Сучасний, просторий та оснащений новітніми системами безпеки.",
+              "ru": "Cadillac XT5 является преемником популярного SRX. Современный, просторный и оборудованный новейшими системами безопасности.",
+              "zh": "凯迪拉克 XT5 是广受欢迎的 SRX 的后继产品。现代、宽敞并配备最新的安全系统。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cadillac",
+                "en": "Cadillac",
+                "de": "Cadillac",
+                "uk": "Cadillac",
+                "ru": "Cadillac"
+              },
+              "okres produkcji": {
+                "pl": "od 2016",
+                "en": "since 2016",
+                "de": "seit 2016",
+                "uk": "з 2016 року",
+                "ru": "с 2016 года",
+                "zh": "2016 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Spring Hill, USA",
+                "en": "Spring Hill, USA",
+                "de": "Spring Hill, USA",
+                "uk": "Спрінг Хілл, США",
+                "ru": "Спринг-Хилл, США",
+                "zh": "美国 Spring Hill"
+              },
+              "platforma": {
+                "pl": "GM C1XX",
+                "en": "GM C1XX",
+                "de": "GM C1XX",
+                "uk": "GM C1XX",
+                "ru": "ГМ C1XX",
+                "zh": "GM C1XX"
+              },
+              "silnik": {
+                "pl": "2.0L Turbo / 3.6L V6",
+                "en": "2.0L Turbo/3.6L V6",
+                "de": "2,0 l Turbo/3,6 l V6",
+                "uk": "2.0L Turbo/3.6L V6",
+                "ru": "2,0 л турбо/3,6 л V6",
+                "zh": "2.0L Turbo / 3.6L V6"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "XT6": [
+      {
+        "BrandID": 24,
+        "ModelID": 416300,
+        "Brand Name": "Cadillac",
+        "Model Name": "XT6",
+        "Serie Name": "XT6",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L Turbo / 3.6L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Cadillac XT6 to trzyrzędowy SUV wypełniający lukę między XT5 a Escalade. Komfortowy przewóz 7 osób w luksusowych warunkach.",
+              "en": "The Cadillac XT6 is a three-row SUV filling the gap between the XT5 and the Escalade. Comfortable transport of 7 people in luxurious conditions.",
+              "de": "Der Cadillac XT6 ist ein dreireihiger SUV, der die Lücke zwischen dem XT5 und dem Escalade füllt. Bequemer Transport von 7 Personen unter luxuriösen Bedingungen.",
+              "uk": "Cadillac XT6 — трирядний позашляховик, що заповнює прогалину між XT5 і Escalade. Комфортний транспорт 7 осіб в умовах класу люкс.",
+              "ru": "Cadillac XT6 — трехрядный внедорожник, заполняющий пробел между XT5 и Escalade. Комфортный транспорт 7 человек в роскошных условиях.",
+              "zh": "凯迪拉克 XT6 是一款三排 SUV，填补了 XT5 和凯雷德之间的空白。舒适的交通可容纳 7 人，条件豪华。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cadillac",
+                "en": "Cadillac",
+                "de": "Cadillac",
+                "uk": "Cadillac",
+                "ru": "Cadillac"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019 року",
+                "ru": "с 2019 года",
+                "zh": "2019 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Spring Hill, USA",
+                "en": "Spring Hill, USA",
+                "de": "Spring Hill, USA",
+                "uk": "Спрінг Хілл, США",
+                "ru": "Спринг-Хилл, США",
+                "zh": "美国 Spring Hill"
+              },
+              "platforma": {
+                "pl": "GM C1XX",
+                "en": "GM C1XX",
+                "de": "GM C1XX",
+                "uk": "GM C1XX",
+                "ru": "ГМ C1XX",
+                "zh": "GM C1XX"
+              },
+              "silnik": {
+                "pl": "2.0L Turbo / 3.6L V6",
+                "en": "2.0L Turbo/3.6L V6",
+                "de": "2,0 l Turbo/3,6 l V6",
+                "uk": "2.0L Turbo/3.6L V6",
+                "ru": "2,0 л турбо/3,6 л V6",
+                "zh": "2.0L Turbo / 3.6L V6"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "XTS": [
+      {
+        "BrandID": 24,
+        "ModelID": 415100,
+        "Brand Name": "Cadillac",
+        "Model Name": "XTS",
+        "Serie Name": "XTS",
+        "Years": "2013 - 2019",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.6L V6 / 3.6L Twin-Turbo V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Cadillac XTS to duży, komfortowy sedan, który zastąpił modele DTS i STS. Oferuje ogromną przestrzeń i klasyczny komfort jazdy.",
+              "en": "The Cadillac XTS is a large, comfortable sedan that replaced the DTS and STS models. It offers huge space and classic driving comfort.",
+              "de": "Der Cadillac XTS ist eine große, komfortable Limousine, die die Modelle DTS und STS ersetzte. Er bietet viel Platz und klassischen Fahrkomfort.",
+              "uk": "Cadillac XTS — великий комфортабельний седан, який прийшов на зміну моделям DTS і STS. Він пропонує величезний простір і класичний комфорт водіння.",
+              "ru": "Cadillac XTS — большой комфортабельный седан, пришедший на смену моделям DTS и STS. Он предлагает огромное пространство и классический комфорт вождения.",
+              "zh": "凯迪拉克 XTS 是一款大型舒适轿车，取代了 DTS 和 STS 车型。它提供了巨大的空间和经典的驾驶舒适性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cadillac",
+                "en": "Cadillac",
+                "de": "Cadillac",
+                "uk": "Cadillac",
+                "ru": "Cadillac"
+              },
+              "okres produkcji": {
+                "pl": "2013–2019",
+                "en": "2013–2019",
+                "de": "2013–2019",
+                "uk": "2013–2019",
+                "ru": "2013–2019"
+              },
+              "miejsce produkcji": {
+                "pl": "Oshawa, Kanada",
+                "en": "Oshawa, Canada",
+                "de": "Oshawa, Kanada",
+                "uk": "Ошава, Канада",
+                "ru": "Ошава, Канада",
+                "zh": "加拿大奥沙瓦"
+              },
+              "platforma": {
+                "pl": "GM Epsilon II",
+                "en": "GM Epsilon II",
+                "de": "GM Epsilon II",
+                "uk": "GM Epsilon II",
+                "ru": "ГМ Эпсилон II",
+                "zh": "GM Epsilon II"
+              },
+              "silnik": {
+                "pl": "3.6L V6",
+                "en": "3.6L V6",
+                "de": "3,6 l V6",
+                "uk": "3,6 л V6",
+                "ru": "3,6 л V6",
+                "zh": "3.6L V6"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

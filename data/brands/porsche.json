@@ -1,0 +1,1851 @@
+{
+  "brand": "Porsche",
+  "models": {
+    "911": [
+      {
+        "BrandID": 106,
+        "ModelID": 413918,
+        "Brand Name": "Porsche",
+        "Model Name": "911",
+        "Serie Name": "911 (964)",
+        "Years": "1989 - 1994",
+        "specs": {
+          "bodyType": "Coupe/Cabriolet/Targa",
+          "segment": "Sports Car",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.3L - 3.6L Turbo",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Nationale_oldtimerdag_Zandvoort_2010%2C_1972_PORSCHE_911_T%2C_DR-94-25_pic2.JPG/1280px-Nationale_oldtimerdag_Zandvoort_2010%2C_1972_PORSCHE_911_T%2C_DR-94-25_pic2.JPG",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Nationale_oldtimerdag_Zandvoort_2010%2C_1972_PORSCHE_911_T%2C_DR-94-25_pic2.JPG/1280px-Nationale_oldtimerdag_Zandvoort_2010%2C_1972_PORSCHE_911_T%2C_DR-94-25_pic2.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Porsche_Carrera_hl_white.jpg/1280px-Porsche_Carrera_hl_white.jpg"
+            ],
+            "description": {
+              "pl": "Porsche 911 to najbardziej rozpoznawalny samochód sportowy na świecie, ikona motoryzacji o niezmiennej od dekad sylwetce. Słynie z unikalnego układu z silnikiem umieszczonym z tyłu, oferując chirurgiczną precyzję prowadzenia i osiągi będące wzorcem dla konkurencji.",
+              "en": "Porsche 911 is the most recognizable sports car in the world, an automotive icon with a silhouette that has remained unchanged for decades. It is famous for its unique rear-engine layout, offering surgical precision in handling and performance that is a benchmark for the competition.",
+              "de": "Der Porsche 911 ist der bekannteste Sportwagen der Welt, eine Automobilikone mit einer seit Jahrzehnten unveränderten Silhouette. Es ist berühmt für sein einzigartiges Heckmotor-Layout und bietet chirurgische Präzision in der Handhabung und Leistung, die einen Maßstab für die Konkurrenz darstellt.",
+              "uk": "Porsche 911 — найвідоміший спортивний автомобіль у світі, автомобільна ікона, силует якого залишається незмінним протягом десятиліть. Він відомий своїм унікальним заднім розташуванням двигуна, що забезпечує хірургічну точність керування та продуктивність, яка є еталоном для конкурентів.",
+              "ru": "Porsche 911 – самый узнаваемый спортивный автомобиль в мире, автомобильная икона, силуэт которой остается неизменным на протяжении десятилетий. Он известен своей уникальной компоновкой с задним расположением двигателя, обеспечивающей хирургическую точность управления и производительность, что является эталоном среди конкурентов.",
+              "zh": "保时捷 911 是世界上最知名的跑车，是汽车标志，其轮廓几十年来一直保持不变。它以其独特的后置发动机布局而闻名，在操控和性能方面提供外科手术般的精确度，成为竞争的基准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Porsche"
+              },
+              "okres produkcji": {
+                "pl": "od 1963",
+                "en": "from 1963",
+                "de": "von 1963",
+                "uk": "з 1963 року",
+                "ru": "1963 года.",
+                "zh": "源自 1963 年"
+              },
+              "segment": {
+                "pl": "S (Samochód sportowy)",
+                "en": "S (Sports car)",
+                "de": "S (Sportwagen)",
+                "uk": "S (Спортивний автомобіль)",
+                "ru": "S (Спортивный автомобиль)",
+                "zh": "S（跑车）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/f4/j0/osp7dl44gkwcowsookgk8/911-991-cabrio.310.jpg"
+        }
+      },
+      {
+        "BrandID": 106,
+        "ModelID": 413919,
+        "Brand Name": "Porsche",
+        "Model Name": "911",
+        "Serie Name": "911 (993)",
+        "Years": "1994 - 1998",
+        "specs": {
+          "bodyType": "Coupe/Cabriolet/Targa",
+          "segment": "Sports Car",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.6L - 3.8L Turbo",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Porsche 911 to najbardziej rozpoznawalny samochód sportowy na świecie, ikona motoryzacji o niezmiennej od dekad sylwetce. Słynie z unikalnego układu z silnikiem umieszczonym z tyłu, oferując chirurgiczną precyzję prowadzenia i osiągi będące wzorcem dla konkurencji.",
+              "en": "Porsche 911 is the most recognizable sports car in the world, an automotive icon with a silhouette that has remained unchanged for decades. It is famous for its unique rear-engine layout, offering surgical precision in handling and performance that is a benchmark for the competition.",
+              "de": "Porsche 911 ist der bekannteste Sportwagen der Welt, eine Automobilikone mit einer seit Jahrzehnten unveränderten Silhouette. Es ist berühmt für sein einzigartiges Heckmotor-Layout und bietet chirurgische Präzision in der Handhabung und Leistung, die einen Maßstab für die Konkurrenz darstellt.",
+              "uk": "Porsche 911 — найвідоміший спортивний автомобіль у світі, автомобільна ікона із силуетом, який залишався незмінним протягом десятиліть. Він відомий своїм унікальним заднім розташуванням двигуна, що забезпечує хірургічну точність керування та продуктивність, яка є еталоном для конкурентів.",
+              "ru": "Porsche 911 — самый узнаваемый спортивный автомобиль в мире, автомобильная икона, силуэт которой остается неизменным на протяжении десятилетий. Он известен своей уникальной компоновкой с задним расположением двигателя, обеспечивающей хирургическую точность управления и производительность, что является эталоном среди конкурентов.",
+              "zh": "保时捷 911 是世界上最知名的跑车，是汽车标志，其轮廓几十年来一直保持不变。它以其独特的后置发动机布局而闻名，在操控和性能方面提供外科手术般的精确度，成为竞争的基准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Porsche"
+              },
+              "okres produkcji": {
+                "pl": "od 1963",
+                "en": "from 1963",
+                "de": "von 1963",
+                "uk": "з 1963 року",
+                "ru": "1963 года.",
+                "zh": "源自 1963 年"
+              },
+              "segment": {
+                "pl": "S (Samochód sportowy)",
+                "en": "S (Sports car)",
+                "de": "S (Sportwagen)",
+                "uk": "S (Спортивний автомобіль)",
+                "ru": "S (Спортивный автомобиль)",
+                "zh": "S（跑车）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Paris_-_Retromobile_2012_-_Porsche_911_Carrera_S_coup%C3%A9_-_2012_-_001.jpg/1280px-Paris_-_Retromobile_2012_-_Porsche_911_Carrera_S_coup%C3%A9_-_2012_-_001.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Paris_-_Retromobile_2012_-_Porsche_911_Carrera_S_coup%C3%A9_-_2012_-_001.jpg/1280px-Paris_-_Retromobile_2012_-_Porsche_911_Carrera_S_coup%C3%A9_-_2012_-_001.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/f4/j0/osp7dl44gkwcowsookgk8/911-991-cabrio.310.jpg"
+        }
+      },
+      {
+        "BrandID": 106,
+        "ModelID": 413454,
+        "Brand Name": "Porsche",
+        "Model Name": "911",
+        "Serie Name": "911 (996)",
+        "Years": "1997 - 2005",
+        "specs": {
+          "bodyType": "Coupe/Cabriolet/Targa",
+          "segment": "Sports Car",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.4L - 3.6L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Porsche 911 to najbardziej rozpoznawalny samochód sportowy na świecie, ikona motoryzacji o niezmiennej od dekad sylwetce. Słynie z unikalnego układu z silnikiem umieszczonym z tyłu, oferując chirurgiczną precyzję prowadzenia i osiągi będące wzorcem dla konkurencji.",
+              "en": "Porsche 911 is the most recognizable sports car in the world, an automotive icon with a silhouette that has remained unchanged for decades. It is famous for its unique rear-engine layout, offering surgical precision in handling and performance that is a benchmark for the competition.",
+              "de": "Porsche 911 ist der bekannteste Sportwagen der Welt, eine Automobilikone mit einer seit Jahrzehnten unveränderten Silhouette. Es ist berühmt für sein einzigartiges Heckmotor-Layout und bietet chirurgische Präzision in der Handhabung und Leistung, die einen Maßstab für die Konkurrenz darstellt.",
+              "uk": "Porsche 911 — найвідоміший спортивний автомобіль у світі, автомобільна ікона із силуетом, який залишався незмінним протягом десятиліть. Він відомий своїм унікальним заднім розташуванням двигуна, що забезпечує хірургічну точність керування та продуктивність, яка є еталоном для конкурентів.",
+              "ru": "Porsche 911 — самый узнаваемый спортивный автомобиль в мире, автомобильная икона, силуэт которой остается неизменным на протяжении десятилетий. Он известен своей уникальной компоновкой с задним расположением двигателя, обеспечивающей хирургическую точность управления и производительность, что является эталоном среди конкурентов.",
+              "zh": "保时捷 911 是世界上最知名的跑车，是汽车标志，其轮廓几十年来一直保持不变。它以其独特的后置发动机布局而闻名，在操控和性能方面提供外科手术般的精确度，成为竞争的基准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Porsche"
+              },
+              "okres produkcji": {
+                "pl": "od 1963",
+                "en": "from 1963",
+                "de": "von 1963",
+                "uk": "з 1963 року",
+                "ru": "1963 года.",
+                "zh": "源自 1963 年"
+              },
+              "segment": {
+                "pl": "S (Samochód sportowy)",
+                "en": "S (Sports car)",
+                "de": "S (Sportwagen)",
+                "uk": "S (Спортивний автомобіль)",
+                "ru": "S (Спортивный автомобиль)",
+                "zh": "S（跑车）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Paris_-_Retromobile_2012_-_Porsche_911_Carrera_S_coup%C3%A9_-_2012_-_001.jpg/1280px-Paris_-_Retromobile_2012_-_Porsche_911_Carrera_S_coup%C3%A9_-_2012_-_001.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Paris_-_Retromobile_2012_-_Porsche_911_Carrera_S_coup%C3%A9_-_2012_-_001.jpg/1280px-Paris_-_Retromobile_2012_-_Porsche_911_Carrera_S_coup%C3%A9_-_2012_-_001.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/f4/j0/osp7dl44gkwcowsookgk8/911-991-cabrio.310.jpg"
+        }
+      },
+      {
+        "BrandID": 106,
+        "ModelID": 413455,
+        "Brand Name": "Porsche",
+        "Model Name": "911",
+        "Serie Name": "911 (997)",
+        "Years": "2004 - 2012",
+        "specs": {
+          "bodyType": "Coupe/Cabriolet/Targa",
+          "segment": "Sports Car",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.6L - 3.8L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Porsche 911 to najbardziej rozpoznawalny samochód sportowy na świecie, ikona motoryzacji o niezmiennej od dekad sylwetce. Słynie z unikalnego układu z silnikiem umieszczonym z tyłu, oferując chirurgiczną precyzję prowadzenia i osiągi będące wzorcem dla konkurencji.",
+              "en": "Porsche 911 is the most recognizable sports car in the world, an automotive icon with a silhouette that has remained unchanged for decades. It is famous for its unique rear-engine layout, offering surgical precision in handling and performance that is a benchmark for the competition.",
+              "de": "Porsche 911 ist der bekannteste Sportwagen der Welt, eine Automobilikone mit einer seit Jahrzehnten unveränderten Silhouette. Es ist berühmt für sein einzigartiges Heckmotor-Layout und bietet chirurgische Präzision in der Handhabung und Leistung, die einen Maßstab für die Konkurrenz darstellt.",
+              "uk": "Porsche 911 — найвідоміший спортивний автомобіль у світі, автомобільна ікона із силуетом, який залишався незмінним протягом десятиліть. Він відомий своїм унікальним заднім розташуванням двигуна, що забезпечує хірургічну точність керування та продуктивність, яка є еталоном для конкурентів.",
+              "ru": "Porsche 911 — самый узнаваемый спортивный автомобиль в мире, автомобильная икона, силуэт которой остается неизменным на протяжении десятилетий. Он известен своей уникальной компоновкой с задним расположением двигателя, обеспечивающей хирургическую точность управления и производительность, что является эталоном среди конкурентов.",
+              "zh": "保时捷 911 是世界上最知名的跑车，是汽车标志，其轮廓几十年来一直保持不变。它以其独特的后置发动机布局而闻名，在操控和性能方面提供外科手术般的精确度，成为竞争的基准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Porsche"
+              },
+              "okres produkcji": {
+                "pl": "od 1963",
+                "en": "from 1963",
+                "de": "von 1963",
+                "uk": "з 1963 року",
+                "ru": "1963 года.",
+                "zh": "源自 1963 年"
+              },
+              "segment": {
+                "pl": "S (Samochód sportowy)",
+                "en": "S (Sports car)",
+                "de": "S (Sportwagen)",
+                "uk": "S (Спортивний автомобіль)",
+                "ru": "S (Спортивный автомобиль)",
+                "zh": "S（跑车）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Paris_-_Retromobile_2012_-_Porsche_911_Carrera_S_coup%C3%A9_-_2012_-_001.jpg/1280px-Paris_-_Retromobile_2012_-_Porsche_911_Carrera_S_coup%C3%A9_-_2012_-_001.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Paris_-_Retromobile_2012_-_Porsche_911_Carrera_S_coup%C3%A9_-_2012_-_001.jpg/1280px-Paris_-_Retromobile_2012_-_Porsche_911_Carrera_S_coup%C3%A9_-_2012_-_001.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/f4/j0/osp7dl44gkwcowsookgk8/911-991-cabrio.310.jpg"
+        }
+      },
+      {
+        "BrandID": 106,
+        "ModelID": 413456,
+        "Brand Name": "Porsche",
+        "Model Name": "911",
+        "Serie Name": "911 (991)",
+        "Years": "2011 - 2019",
+        "specs": {
+          "bodyType": "Coupe/Cabriolet/Targa",
+          "segment": "Sports Car",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.4L - 3.8L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Porsche 911 to najbardziej rozpoznawalny samochód sportowy na świecie, ikona motoryzacji o niezmiennej od dekad sylwetce. Słynie z unikalnego układu z silnikiem umieszczonym z tyłu, oferując chirurgiczną precyzję prowadzenia i osiągi będące wzorcem dla konkurencji.",
+              "en": "Porsche 911 is the most recognizable sports car in the world, an automotive icon with a silhouette that has remained unchanged for decades. It is famous for its unique rear-engine layout, offering surgical precision in handling and performance that is a benchmark for the competition.",
+              "de": "Porsche 911 ist der bekannteste Sportwagen der Welt, eine Automobilikone mit einer seit Jahrzehnten unveränderten Silhouette. Es ist berühmt für sein einzigartiges Heckmotor-Layout und bietet chirurgische Präzision in der Handhabung und Leistung, die einen Maßstab für die Konkurrenz darstellt.",
+              "uk": "Porsche 911 — найвідоміший спортивний автомобіль у світі, автомобільна ікона із силуетом, який залишався незмінним протягом десятиліть. Він відомий своїм унікальним заднім розташуванням двигуна, що забезпечує хірургічну точність керування та продуктивність, яка є еталоном для конкурентів.",
+              "ru": "Porsche 911 — самый узнаваемый спортивный автомобиль в мире, автомобильная икона, силуэт которой остается неизменным на протяжении десятилетий. Он известен своей уникальной компоновкой с задним расположением двигателя, обеспечивающей хирургическую точность управления и производительность, что является эталоном среди конкурентов.",
+              "zh": "保时捷 911 是世界上最知名的跑车，是汽车标志，其轮廓几十年来一直保持不变。它以其独特的后置发动机布局而闻名，在操控和性能方面提供外科手术般的精确度，成为竞争的基准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Porsche"
+              },
+              "projektant": {
+                "pl": "Michael Mauer",
+                "en": "Michael Mauer",
+                "de": "Michael Mauer",
+                "uk": "Міхаель Мауер",
+                "ru": "Михаэль Мауэр",
+                "zh": "Michael Mauer"
+              },
+              "premiera": "2011",
+              "okres produkcji": "2011–2019",
+              "miejsce produkcji": {
+                "pl": "Stuttgart-Zuffenhausen (Niemcy)",
+                "en": "Stuttgart-Zuffenhausen (Germany)",
+                "de": "Stuttgart-Zuffenhausen (Deutschland)",
+                "uk": "Штутгарт-Цуффенхаузен (Німеччина)",
+                "ru": "Штутгарт-Цуффенхаузен (Германия)",
+                "zh": "斯图加特-祖文豪森（德国）"
+              },
+              "następca": {
+                "pl": "Porsche 911 (992)",
+                "en": "Porsche 911 (992)",
+                "de": "Porsche 911 (992)",
+                "uk": "Porsche 911 (992)",
+                "ru": "Porsche 911 (992)",
+                "zh": "保时捷 911 (992)"
+              },
+              "segment": {
+                "pl": "S (Samochód sportowy)",
+                "en": "S (Sports car)",
+                "de": "S (Sportwagen)",
+                "uk": "S (Спорткар)",
+                "ru": "S (Спортивный автомобиль)",
+                "zh": "S（跑车）"
+              },
+              "typy nadwozia": {
+                "pl": "Coupe\nCabriolet\nTarga",
+                "en": "Coupe\nCabriolet\nTarga",
+                "de": "Coupé\nCabriolet\nTarga",
+                "uk": "Купе\nКабріолет\nTarga",
+                "ru": "Купе\nКабриолет\nТарга",
+                "zh": "轿跑车\n敞篷车\nTarga"
+              },
+              "skrzynia biegów": {
+                "pl": "7-bieg manualna\n7-bieg PDK",
+                "en": "7-speed manual\n7-speed PDK",
+                "de": "7-Gang-Schaltgetriebe\n7-Gang-PDK",
+                "uk": "7-ступ\n7-ступінчаста PDK",
+                "ru": "7-ступенчатая механика\n7-ступенчатая PDK",
+                "zh": "7 速手动\n7 速 PDK"
+              },
+              "rodzaj napędu": {
+                "pl": "tylny (RWD)\nwszystkie koła (AWD)",
+                "en": "rear (RWD)\nall wheels (AWD)",
+                "de": "hinten (RWD)\nAlle Räder (AWD)",
+                "uk": "задня (RWD)\nвсі колеса (AWD)",
+                "ru": "задняя (RWD)\nвсе колеса (AWD)",
+                "zh": "后（RWD）\n全轮（AWD）"
+              },
+              "długość": {
+                "pl": "4491–4507 mm",
+                "en": "4491–4507 mm",
+                "de": "4491–4507 mm",
+                "uk": "4491–4507 мм",
+                "ru": "4491–4507 мм",
+                "zh": "4491–4507 mm"
+              },
+              "szerokość": {
+                "pl": "1808–1880 mm",
+                "en": "1808–1880 mm",
+                "de": "1808–1880 mm",
+                "uk": "1808–1880 мм",
+                "ru": "1808–1880 мм",
+                "zh": "1808–1880 mm"
+              },
+              "wysokość": {
+                "pl": "1296–1303 mm",
+                "en": "1296–1303 mm",
+                "de": "1296–1303 mm",
+                "uk": "1296–1303 мм",
+                "ru": "1296–1303 мм",
+                "zh": "1296–1303 mm"
+              },
+              "rozstaw osi": {
+                "pl": "2450 mm",
+                "en": "2450 mm",
+                "de": "2450 mm",
+                "uk": "2450 мм",
+                "ru": "2450 мм",
+                "zh": "2450 mm"
+              },
+              "masa własna": {
+                "pl": "1395–1670 kg",
+                "en": "1395–1670 kg",
+                "de": "1395–1670 kg",
+                "uk": "1395–1670 кг",
+                "ru": "1395–1670 кг",
+                "zh": "1395–1670 kg"
+              },
+              "zbiornik paliwa": {
+                "pl": "64-90 l",
+                "en": "64-90 l",
+                "de": "64-90 l",
+                "uk": "64-90 л",
+                "ru": "64–90 л",
+                "zh": "64-90 l"
+              },
+              "liczba miejsc": {
+                "pl": "2+2"
+              },
+              "gwiazdki euroncap": "-",
+              "pojemność bagażnika": {
+                "pl": "135 l (przód) + 260 l (tylna ławka)",
+                "en": "135 l (front) + 260 l (rear bench)",
+                "de": "135 l (vorne) + 260 l (Rücksitzbank)",
+                "uk": "135 л (передній) + 260 л (задня лава)",
+                "ru": "135 л (спереди) + 260 л (сзади)",
+                "zh": "135 l（前排）+ 260 l（后排长凳）"
+              },
+              "ładowność": {
+                "pl": "300-400 kg",
+                "en": "300-400 kg",
+                "de": "300-400 kg",
+                "uk": "300-400 кг",
+                "ru": "300–400 кг",
+                "zh": "300-400 kg"
+              },
+              "pokrewne": {
+                "pl": "Porsche Boxster/Cayman (981)",
+                "en": "Porsche Boxster/Cayman (981)",
+                "de": "Porsche Boxster/Cayman (981)",
+                "uk": "Porsche Boxster/Cayman (981)",
+                "ru": "Porsche Boxster/Cayman (981)",
+                "zh": "保时捷 Boxster/Cayman (981)"
+              },
+              "konkurencja": {
+                "pl": "Audi R8, Mercedes-AMG GT, Jaguar F-Type",
+                "en": "Audi R8, Mercedes-AMG GT, Jaguar F-Type",
+                "de": "Audi R8, Mercedes-AMG GT, Jaguar F-Type",
+                "uk": "Audi R8, Mercedes-AMG GT, Jaguar F-Type",
+                "ru": "Audi R8, Mercedes-AMG GT, Jaguar F-Type",
+                "zh": "奥迪 R8、梅赛德斯-AMG GT、捷豹 F-Type"
+              },
+              "commons": {
+                "pl": "Category:Porsche 991",
+                "en": "Category:Porsche 991",
+                "de": "Kategorie: Porsche 991",
+                "uk": "Категорія:Porsche 991",
+                "ru": "Категория:Porsche 991",
+                "zh": "类别：保时捷 991"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Paris_-_Retromobile_2012_-_Porsche_911_Carrera_S_coup%C3%A9_-_2012_-_001.jpg/1280px-Paris_-_Retromobile_2012_-_Porsche_911_Carrera_S_coup%C3%A9_-_2012_-_001.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Paris_-_Retromobile_2012_-_Porsche_911_Carrera_S_coup%C3%A9_-_2012_-_001.jpg/1280px-Paris_-_Retromobile_2012_-_Porsche_911_Carrera_S_coup%C3%A9_-_2012_-_001.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/f4/j0/osp7dl44gkwcowsookgk8/911-991-cabrio.310.jpg"
+        }
+      },
+      {
+        "BrandID": 106,
+        "ModelID": 415369,
+        "Brand Name": "Porsche",
+        "Model Name": "911",
+        "Serie Name": "911 (992)",
+        "Years": "2019 - Present",
+        "specs": {
+          "bodyType": "Coupe/Cabriolet/Targa",
+          "segment": "Sports Car",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.0L Turbo - 3.7L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Porsche 911 to najbardziej rozpoznawalny samochód sportowy na świecie, ikona motoryzacji o niezmiennej od dekad sylwetce. Słynie z unikalnego układu z silnikiem umieszczonym z tyłu, oferując chirurgiczną precyzję prowadzenia i osiągi będące wzorcem dla konkurencji.",
+              "en": "Porsche 911 is the most recognizable sports car in the world, an automotive icon with a silhouette that has remained unchanged for decades. It is famous for its unique rear-engine layout, offering surgical precision in handling and performance that is a benchmark for the competition.",
+              "de": "Der Porsche 911 ist der bekannteste Sportwagen der Welt, eine Automobilikone mit einer seit langem unveränderten Silhouette Jahrzehnte. Es ist berühmt für sein einzigartiges Heckmotor-Layout und bietet chirurgische Präzision in der Handhabung und Leistung, die einen Maßstab für die Konkurrenz darstellt.",
+              "uk": "Porsche 911 є найбільш впізнаваним спортивний автомобіль у світі, автомобільна ікона із силуетом, який залишався незмінним протягом десятиліть. Він відомий своїм унікальним заднім розташуванням двигуна, що забезпечує хірургічну точність керування та продуктивність, яка є еталоном для конкурентів.",
+              "ru": "Porsche 911 — самый узнаваемый спортивный автомобиль в мире, автомобильная икона с силуэтом, который остался неизменным на протяжении десятилетий. Он известен своей уникальной компоновкой с задним расположением двигателя, обеспечивающей хирургическую точность управления и производительность, что является эталоном среди конкурентов.",
+              "zh": "保时捷 911 是世界上最知名的跑车，其轮廓至今仍是汽车标志几十年来不变。它以其独特的后置发动机布局而闻名，在操控和性能方面提供外科手术般的精确度，成为竞争的基准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Porsche"
+              },
+              "projektant": {
+                "pl": "Michael Mauer",
+                "en": "Michael Mauer",
+                "de": "Michael Mauer",
+                "uk": "Міхаель Мауер",
+                "ru": "Михаэль Мауэр",
+                "zh": "Michael Mauer"
+              },
+              "premiera": "2018",
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019",
+                "ru": "с 2019 года",
+                "zh": "2019 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Stuttgart-Zuffenhausen (Niemcy)",
+                "en": "Stuttgart-Zuffenhausen (Germany)",
+                "de": "Stuttgart-Zuffenhausen (Deutschland)",
+                "uk": "Штутгарт-Цуффенхаузен (Німеччина)",
+                "ru": "Штутгарт-Цуффенхаузен (Германия)",
+                "zh": "Stuttgart-Zuffenhausen（德国）"
+              },
+              "następca": "-",
+              "segment": {
+                "pl": "S (Samochód sportowy)",
+                "en": "S (Sports car)",
+                "de": "S (Sportwagen)",
+                "uk": "S (Спорткар)",
+                "ru": "S (Спортивный автомобиль)",
+                "zh": "S（跑车）"
+              },
+              "typy nadwozia": {
+                "pl": "Coupe\nCabriolet\nTarga",
+                "en": "Coupe\nCabriolet\nTarga",
+                "de": "Coupé\nCabriolet\nTarga",
+                "uk": "Купе\nКабріолет\nTarga",
+                "ru": "Купе\nКабриолет\nТарга",
+                "zh": "Coupe\n敞篷车\nTarga"
+              },
+              "skrzynia biegów": {
+                "pl": "7-bieg manualna\n8-bieg PDK",
+                "en": "7-speed manual\n8-speed PDK",
+                "de": "7-Gang-Schaltgetriebe\n8-Gang-PDK",
+                "uk": "7-ступ\n8-ступінчаста PDK",
+                "ru": "7-ступенчатая механика\n8-ступенчатая PDK",
+                "zh": "7 速手动\n8 速 PDK"
+              },
+              "rodzaj napędu": {
+                "pl": "tylny (RWD)\nwszystkie koła (AWD)",
+                "en": "rear (RWD)\nall wheels (AWD)",
+                "de": "hinten (RWD)\nAlle Räder (AWD)",
+                "uk": "задня (RWD)\nвсі колеса (AWD)",
+                "ru": "задняя (RWD)\nвсе колеса (AWD)",
+                "zh": "后轮（后轮驱动）\n全轮驱动 (AWD)"
+              },
+              "długość": {
+                "pl": "4519–4535 mm",
+                "en": "4519–4535 mm",
+                "de": "4519–4535 mm",
+                "uk": "4519–4535 мм",
+                "ru": "4519–4535 мм",
+                "zh": "4519–4535 mm"
+              },
+              "szerokość": {
+                "pl": "1852–1900 mm",
+                "en": "1852–1900 mm",
+                "de": "1852–1900 mm",
+                "uk": "1852–1900 мм",
+                "ru": "1852–1900 мм",
+                "zh": "1852–1900 mm"
+              },
+              "wysokość": {
+                "pl": "1298–1303 mm",
+                "en": "1298–1303 mm",
+                "de": "1298–1303 mm",
+                "uk": "1298–1303 мм",
+                "ru": "1298–1303 мм",
+                "zh": "1298–1303 mm"
+              },
+              "rozstaw osi": {
+                "pl": "2450 mm",
+                "en": "2450 mm",
+                "de": "2450 mm",
+                "uk": "2450 мм",
+                "ru": "2450 мм",
+                "zh": "2450 mm"
+              },
+              "masa własna": {
+                "pl": "1505–1710 kg",
+                "en": "1505–1710 kg",
+                "de": "1505–1710 kg",
+                "uk": "1505–1710 кг",
+                "ru": "1505–1710 кг",
+                "zh": "1505–1710 kg"
+              },
+              "zbiornik paliwa": {
+                "pl": "64-90 l",
+                "en": "64-90 l",
+                "de": "64–90 l",
+                "uk": "64-90 л",
+                "ru": "64–90 л",
+                "zh": "64-90 l"
+              },
+              "liczba miejsc": {
+                "pl": "2+2"
+              },
+              "gwiazdki euroncap": "-",
+              "pojemność bagażnika": {
+                "pl": "132 l (przód) + 264 l (tylna ławka)",
+                "en": "132 l (front) + 264 l (rear bench)",
+                "de": "132 l (vorne) + 264 l (Rücksitzbank)",
+                "uk": "132 л (спереду) + 264 л (задня лава)",
+                "ru": "132 л (передний) + 264 л (задний ряд)",
+                "zh": "132 l（前）+ 264 l（后长凳）"
+              },
+              "ładowność": {
+                "pl": "350-450 kg",
+                "en": "350-450 kg",
+                "de": "350–450 kg",
+                "uk": "350-450 кг",
+                "ru": "350–450 кг",
+                "zh": "350-450 kg"
+              },
+              "pokrewne": "-",
+              "konkurencja": {
+                "pl": "Audi R8, Mercedes-AMG GT, Aston Martin Vantage",
+                "en": "Audi R8, Mercedes-AMG GT, Aston Martin Vantage",
+                "de": "Audi R8, Mercedes-AMG GT, Aston Martin Vantage",
+                "uk": "Audi R8, Mercedes-AMG GT, Aston Martin Vantage",
+                "ru": "Audi R8, Mercedes-AMG GT, Aston Martin Vantage",
+                "zh": "奥迪 R8、梅赛德斯-AMG GT、阿斯顿·马丁 Vantage"
+              },
+              "commons": {
+                "pl": "Category:Porsche 992",
+                "en": "Category:Porsche 992",
+                "de": "Kategorie:Porsche 992",
+                "uk": "Категорія:Porsche 992",
+                "ru": "Категория:Porsche 992",
+                "zh": "类别：保时捷 992"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Paris_-_Retromobile_2012_-_Porsche_911_Carrera_S_coup%C3%A9_-_2012_-_001.jpg/1280px-Paris_-_Retromobile_2012_-_Porsche_911_Carrera_S_coup%C3%A9_-_2012_-_001.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Paris_-_Retromobile_2012_-_Porsche_911_Carrera_S_coup%C3%A9_-_2012_-_001.jpg/1280px-Paris_-_Retromobile_2012_-_Porsche_911_Carrera_S_coup%C3%A9_-_2012_-_001.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/f4/j0/osp7dl44gkwcowsookgk8/911-991-cabrio.310.jpg"
+        }
+      }
+    ],
+    "Boxster": [
+      {
+        "BrandID": 106,
+        "ModelID": 413457,
+        "Brand Name": "Porsche",
+        "Model Name": "Boxster",
+        "Serie Name": "Boxster (986)",
+        "Years": "1996 - 2004",
+        "specs": {
+          "bodyType": "Roadster",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "2.5L - 3.2L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Porsche Boxster to roadster, który przywrócił radość z otwartej jazdy w najlepszym wydaniu. Dzięki centralnie umieszczonemu silnikowi, oferuje idealne wyważenie i zwinność, stając się jednym z najlepiej prowadzących się aut w swojej klasie.",
+              "en": "Porsche Boxster is a roadster that brought back the joy of open driving at its best. Thanks to the centrally located engine, it offers perfect balance and agility, becoming one of the best-driving cars in its class.",
+              "de": "Porsche Boxster ist ein Roadster, der die Freude am offenen Fahren in seiner besten Form zurückbringt. Dank des zentral angeordneten Motors bietet er perfekte Balance und Agilität und wird zu einem der fahrstärksten Autos seiner Klasse.",
+              "uk": "Porsche Boxster — це родстер, який у найкращому вигляді повернув радість відкритого водіння. Завдяки центральному розміщенню двигуна, він пропонує ідеальний баланс і маневреність, ставши одним із найкращих автомобілів у своєму класі.",
+              "ru": "Porsche Boxster — родстер, который вернул радость открытой езды в лучшем виде. Благодаря центральному расположению двигателя он обеспечивает идеальный баланс и маневренность, становясь одним из лучших по управляемости автомобилей в своем классе.",
+              "zh": "保时捷 Boxster 是一款将开放式驾驶乐趣带回最佳状态的跑车。得益于位于中央的发动机，它提供了完美的平衡性和敏捷性，成为同类中驾驶性能最好的汽车之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Porsche"
+              },
+              "okres produkcji": {
+                "pl": "od 1996",
+                "en": "from 1996",
+                "de": "ab 1996",
+                "uk": "з 1996",
+                "ru": "с 1996 г.",
+                "zh": "自1996年以来"
+              },
+              "segment": {
+                "pl": "S (Kabriolet / Roadster)",
+                "en": "S (Cabriolet / Roadster)",
+                "de": "S (Cabriolet / Roadster)",
+                "uk": "S (Кабріолет / Родстер)",
+                "ru": "S (Кабриолет/Родстер)",
+                "zh": "S（敞篷车/敞篷跑车）"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7s/8h/wnbow9s0c8o8sws48gkws/boxter-981.310.jpg"
+        }
+      },
+      {
+        "BrandID": 106,
+        "ModelID": 413458,
+        "Brand Name": "Porsche",
+        "Model Name": "Boxster",
+        "Serie Name": "Boxster (987)",
+        "Years": "2004 - 2012",
+        "specs": {
+          "bodyType": "Roadster",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "2.7L - 3.4L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Porsche Boxster to roadster, który przywrócił radość z otwartej jazdy w najlepszym wydaniu. Dzięki centralnie umieszczonemu silnikowi, oferuje idealne wyważenie i zwinność, stając się jednym z najlepiej prowadzących się aut w swojej klasie.",
+              "en": "The Porsche Boxster is a roadster that brought back the joy of open driving at its best. Thanks to the centrally located engine, it offers perfect balance and agility, becoming one of the best-driving cars in its class.",
+              "de": "Der Porsche Boxster ist ein Roadster, der die Freude am offenen Fahren in seiner besten Form zurückbrachte. Dank des zentral angeordneten Motors bietet er perfekte Balance und Agilität und wird zu einem der fahrstärksten Autos seiner Klasse.",
+              "uk": "Porsche Boxster — це родстер, який повернув радість відкритого водіння у найкращому вигляді. Завдяки центральному розміщенню двигуна, він пропонує ідеальний баланс і маневреність, ставши одним із найкращих автомобілів у своєму класі.",
+              "ru": "Porsche Boxster — родстер, который вернул радость открытой езды в лучшем виде. Благодаря центральному расположению двигателя он обеспечивает идеальный баланс и маневренность, становясь одним из лучших по управляемости автомобилей в своем классе.",
+              "zh": "保时捷 Boxster 是一款将开放式驾驶乐趣带回最佳状态的跑车。得益于位于中央的发动机，它提供了完美的平衡性和敏捷性，成为同类中驾驶性能最好的汽车之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Porsche"
+              },
+              "okres produkcji": {
+                "pl": "od 1996",
+                "en": "from 1996",
+                "de": "ab 1996",
+                "uk": "з 1996 року",
+                "ru": "с 1996 года.",
+                "zh": "自1996年以来"
+              },
+              "segment": {
+                "pl": "S (Kabriolet / Roadster)",
+                "en": "S (Cabriolet / Roadster)",
+                "de": "S (Cabriolet / Roadster)",
+                "uk": "S (Кабріолет / Родстер)",
+                "ru": "S (Кабриолет/Родстер)",
+                "zh": "S（敞篷车/敞篷跑车）"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7s/8h/wnbow9s0c8o8sws48gkws/boxter-981.310.jpg"
+        }
+      },
+      {
+        "BrandID": 106,
+        "ModelID": 413459,
+        "Brand Name": "Porsche",
+        "Model Name": "Boxster",
+        "Serie Name": "Boxster (981)",
+        "Years": "2012 - 2016",
+        "specs": {
+          "bodyType": "Roadster",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "2.7L - 3.4L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Porsche Boxster to roadster, który przywrócił radość z otwartej jazdy w najlepszym wydaniu. Dzięki centralnie umieszczonemu silnikowi, oferuje idealne wyważenie i zwinność, stając się jednym z najlepiej prowadzących się aut w swojej klasie.",
+              "en": "The Porsche Boxster is a roadster that brought back the joy of open driving at its best. Thanks to the centrally located engine, it offers perfect balance and agility, becoming one of the best-driving cars in its class.",
+              "de": "Der Porsche Boxster ist ein Roadster, der die Freude am offenen Fahren in seiner besten Form zurückbrachte. Dank des zentral angeordneten Motors bietet er perfekte Balance und Agilität und wird zu einem der fahrstärksten Autos seiner Klasse.",
+              "uk": "Porsche Boxster — це родстер, який повернув радість відкритого водіння у найкращому вигляді. Завдяки центральному розміщенню двигуна, він пропонує ідеальний баланс і маневреність, ставши одним із найкращих автомобілів у своєму класі.",
+              "ru": "Porsche Boxster — родстер, который вернул радость открытой езды в лучшем виде. Благодаря центральному расположению двигателя он обеспечивает идеальный баланс и маневренность, становясь одним из лучших по управляемости автомобилей в своем классе.",
+              "zh": "保时捷 Boxster 是一款将开放式驾驶乐趣带回最佳状态的跑车。得益于位于中央的发动机，它提供了完美的平衡性和敏捷性，成为同类中驾驶性能最好的汽车之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Porsche"
+              },
+              "okres produkcji": {
+                "pl": "od 1996",
+                "en": "from 1996",
+                "de": "ab 1996",
+                "uk": "з 1996 року",
+                "ru": "с 1996 года.",
+                "zh": "自1996年以来"
+              },
+              "segment": {
+                "pl": "S (Kabriolet / Roadster)",
+                "en": "S (Cabriolet / Roadster)",
+                "de": "S (Cabriolet / Roadster)",
+                "uk": "S (Кабріолет / Родстер)",
+                "ru": "S (Кабриолет/Родстер)",
+                "zh": "S（敞篷车/敞篷跑车）"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7s/8h/wnbow9s0c8o8sws48gkws/boxter-981.310.jpg"
+        }
+      },
+      {
+        "BrandID": 106,
+        "ModelID": 415365,
+        "Brand Name": "Porsche",
+        "Model Name": "Boxster",
+        "Serie Name": "718 Boxster (982)",
+        "Years": "2016 - Present",
+        "specs": {
+          "bodyType": "Roadster",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L Turbo - 4.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Porsche Boxster to roadster, który przywrócił radość z otwartej jazdy w najlepszym wydaniu. Dzięki centralnie umieszczonemu silnikowi, oferuje idealne wyważenie i zwinność, stając się jednym z najlepiej prowadzących się aut w swojej klasie.",
+              "en": "The Porsche Boxster is a roadster that brought back the joy of open driving at its best. Thanks to the centrally located engine, it offers perfect balance and agility, becoming one of the best-driving cars in its class.",
+              "de": "Der Porsche Boxster ist ein Roadster, der die Freude am offenen Fahren in seiner besten Form zurückbrachte. Dank des zentral angeordneten Motors bietet er perfekte Balance und Agilität und wird zu einem der fahrstärksten Autos seiner Klasse.",
+              "uk": "Porsche Boxster — це родстер, який повернув радість відкритого водіння у найкращому вигляді. Завдяки центральному розміщенню двигуна, він пропонує ідеальний баланс і маневреність, ставши одним із найкращих автомобілів у своєму класі.",
+              "ru": "Porsche Boxster — родстер, который вернул радость открытой езды в лучшем виде. Благодаря центральному расположению двигателя он обеспечивает идеальный баланс и маневренность, становясь одним из лучших по управляемости автомобилей в своем классе.",
+              "zh": "保时捷 Boxster 是一款将开放式驾驶乐趣带回最佳状态的跑车。得益于位于中央的发动机，它提供了完美的平衡性和敏捷性，成为同类中驾驶性能最好的汽车之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Porsche"
+              },
+              "okres produkcji": {
+                "pl": "od 1996",
+                "en": "from 1996",
+                "de": "ab 1996",
+                "uk": "з 1996 року",
+                "ru": "от 1996 года.",
+                "zh": "自1996年以来"
+              },
+              "segment": {
+                "pl": "S (Kabriolet / Roadster)",
+                "en": "S (Cabriolet / Roadster)",
+                "de": "S (Cabriolet / Roadster)",
+                "uk": "S (Кабріолет / Родстер)",
+                "ru": "S (Кабриолет/Родстер)",
+                "zh": "S（敞篷车/敞篷跑车）"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7s/8h/wnbow9s0c8o8sws48gkws/boxter-981.310.jpg"
+        }
+      }
+    ],
+    "Cayman": [
+      {
+        "BrandID": 106,
+        "ModelID": 413472,
+        "Brand Name": "Porsche",
+        "Model Name": "Cayman",
+        "Serie Name": "Cayman (987)",
+        "Years": "2005 - 2013",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "2.7L - 3.4L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Porsche Cayman to zamknięta wersja Boxstera, uznawana za jedno z najbardziej precyzyjnych narzędzi do jazdy po torze i krętych drogach. Sztywność nadwozia i centralny silnik tworzą harmonijną całość, która zachwyca purystów motoryzacji.",
+              "en": "Porsche Cayman is a closed version of the Boxster, considered one of the most precise tools for driving on the track and winding roads. The rigidity of the body and the central engine create a harmonious whole that delights automotive purists.",
+              "de": "Porsche Cayman ist eine geschlossene Version des Boxster und gilt als eines der präzisesten Werkzeuge für das Fahren auf der Rennstrecke und auf kurvigen Straßen. Die Steifigkeit der Karosserie und der Zentralmotor ergeben ein harmonisches Ganzes, das automobile Puristen begeistert.",
+              "uk": "Porsche Cayman — це закрита версія Boxster, яка вважається одним із найточніших інструментів для їзди на трасі та звивистих дорогах. Жорсткість кузова та центральний двигун створюють гармонійне ціле, яке захоплює автомобільних пуристів.",
+              "ru": "Porsche Cayman — закрытая версия Boxster, считающаяся одним из самых точных инструментов для езды по трассе и извилистым дорогам. Жесткость кузова и центральный двигатель создают гармоничное целое, которое восхищает автомобильных пуристов.",
+              "zh": "保时捷 Cayman 是 Boxster 的封闭版本，被认为是在赛道和蜿蜒道路上行驶的最精确的工具之一。车身的刚性和中央发动机创造了一个和谐的整体，令汽车纯粹主义者感到高兴。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Porsche"
+              },
+              "okres produkcji": {
+                "pl": "od 2005",
+                "en": "from 2005",
+                "de": "ab 2005",
+                "uk": "з 2005 року",
+                "ru": "от 2005 года.",
+                "zh": "自2005年以来"
+              },
+              "segment": {
+                "pl": "S (Samochód sportowy / Coupe)",
+                "en": "S (Sports car / Coupe)",
+                "de": "S (Sportwagen / Coupé)",
+                "uk": "S (Спортивний автомобіль/купе)",
+                "ru": "S (Спорткар/Купе)",
+                "zh": "S（跑车/轿跑车）"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/dn/o7/akmm9pckgkooc4sscc4go/porsche-cayman-2013-r22-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 106,
+        "ModelID": 413471,
+        "Brand Name": "Porsche",
+        "Model Name": "Cayman",
+        "Serie Name": "Cayman (981)",
+        "Years": "2013 - 2016",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "2.7L - 3.4L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Porsche Cayman to zamknięta wersja Boxstera, uznawana za jedno z najbardziej precyzyjnych narzędzi do jazdy po torze i krętych drogach. Sztywność nadwozia i centralny silnik tworzą harmonijną całość, która zachwyca purystów motoryzacji.",
+              "en": "The Porsche Cayman is a closed version of the Boxster, considered one of the most precise tools for driving on the track and winding roads. The rigidity of the body and the central engine create a harmonious whole that delights automotive purists.",
+              "de": "Der Porsche Cayman ist eine geschlossene Version des Boxster und gilt als eines der präzisesten Werkzeuge für das Fahren auf der Rennstrecke und auf kurvigen Straßen. Die Steifigkeit der Karosserie und der Zentralmotor ergeben ein harmonisches Ganzes, das automobile Puristen begeistert.",
+              "uk": "Porsche Cayman — це закрита версія Boxster, яка вважається одним із найточніших інструментів для їзди на трасі та звивистих дорогах. Жорсткість кузова та центральний двигун створюють гармонійне ціле, яке захоплює автомобільних пуристів.",
+              "ru": "Porsche Cayman — закрытая версия Boxster, считающаяся одним из самых точных инструментов для езды по трассе и извилистым дорогам. Жесткость кузова и центральный двигатель создают гармоничное целое, которое восхищает автомобильных пуристов.",
+              "zh": "保时捷 Cayman 是 Boxster 的封闭版本，被认为是在赛道和蜿蜒道路上行驶的最精确的工具之一。车身的刚性和中央发动机创造了一个和谐的整体，令汽车纯粹主义者感到高兴。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Porsche"
+              },
+              "okres produkcji": {
+                "pl": "od 2005",
+                "en": "from 2005",
+                "de": "ab 2005",
+                "uk": "з 2005 року",
+                "ru": "от 2005 года.",
+                "zh": "自2005年以来"
+              },
+              "segment": {
+                "pl": "S (Samochód sportowy / Coupe)",
+                "en": "S (Sports car / Coupe)",
+                "de": "S (Sportwagen / Coupé)",
+                "uk": "S (Спортивний автомобіль/купе)",
+                "ru": "S (Спорткар/Купе)",
+                "zh": "S（跑车/轿跑车）"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/dn/o7/akmm9pckgkooc4sscc4go/porsche-cayman-2013-r22-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 106,
+        "ModelID": 415366,
+        "Brand Name": "Porsche",
+        "Model Name": "Cayman",
+        "Serie Name": "718 Cayman (982)",
+        "Years": "2016 - Present",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L Turbo - 4.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Porsche Cayman to zamknięta wersja Boxstera, uznawana za jedno z najbardziej precyzyjnych narzędzi do jazdy po torze i krętych drogach. Sztywność nadwozia i centralny silnik tworzą harmonijną całość, która zachwyca purystów motoryzacji.",
+              "en": "The Porsche Cayman is a closed version of the Boxster, considered one of the most precise tools for driving on the track and winding roads. The rigidity of the body and the central engine create a harmonious whole that delights automotive purists.",
+              "de": "Der Porsche Cayman ist eine geschlossene Version des Boxster und gilt als eines der präzisesten Werkzeuge für das Fahren auf der Rennstrecke und auf kurvigen Straßen. Die Steifigkeit der Karosserie und der Zentralmotor ergeben ein harmonisches Ganzes, das automobile Puristen begeistert.",
+              "uk": "Porsche Cayman — це закрита версія Boxster, яка вважається одним із найточніших інструментів для їзди на трасі та звивистих дорогах. Жорсткість кузова та центральний двигун створюють гармонійне ціле, яке захоплює автомобільних пуристів.",
+              "ru": "Porsche Cayman — закрытая версия Boxster, считающаяся одним из самых точных инструментов для езды по трассе и извилистым дорогам. Жесткость кузова и центральный двигатель создают гармоничное целое, которое восхищает автомобильных пуристов.",
+              "zh": "保时捷 Cayman 是 Boxster 的封闭版本，被认为是在赛道和蜿蜒道路上行驶的最精确的工具之一。车身的刚性和中央发动机创造了一个和谐的整体，令汽车纯粹主义者感到高兴。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Porsche"
+              },
+              "okres produkcji": {
+                "pl": "od 2005",
+                "en": "from 2005",
+                "de": "ab 2005",
+                "uk": "з 2005 року",
+                "ru": "с 2005 года.",
+                "zh": "自2005年以来"
+              },
+              "segment": {
+                "pl": "S (Samochód sportowy / Coupe)",
+                "en": "S (Sports car / Coupe)",
+                "de": "S (Sportwagen / Coupé)",
+                "uk": "S (спортивний автомобіль/купе)",
+                "ru": "S (Спортивный автомобиль/купе)",
+                "zh": "S（跑车/轿跑车）"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/dn/o7/akmm9pckgkooc4sscc4go/porsche-cayman-2013-r22-jpg.310.jpg"
+        }
+      }
+    ],
+    "Cayenne": [
+      {
+        "BrandID": 106,
+        "ModelID": 413468,
+        "Brand Name": "Porsche",
+        "Model Name": "Cayenne",
+        "Serie Name": "Cayenne I (9PA)",
+        "Years": "2002 - 2010",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment E-SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.2L V6 - 4.8L V8 Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Porsche Cayenne to model, który zdefiniował pojęcie sportowego SUV-a. Łączy luksus limuzyny z dzielnością terenową i dynamiką jazdy godną sportowego auta, będąc od lat kluczowym filarem sukcesu finansowego marki.",
+              "en": "Porsche Cayenne is the model that defined the concept of a sports SUV. It combines the luxury of a limousine with off-road capability and driving dynamics worthy of a sports car, and has been a key pillar of the brand's financial success for years.",
+              "de": "Porsche Cayenne ist das Modell, das das Konzept eines Sport-SUV definierte. Es vereint den Luxus einer Limousine mit Geländetauglichkeit und einer sportwagenwürdigen Fahrdynamik und ist seit Jahren ein wesentlicher Pfeiler des wirtschaftlichen Erfolgs der Marke.",
+              "uk": "Porsche Cayenne — це модель, яка визначила концепцію спортивного позашляховика. Він поєднує в собі розкіш лімузина з позашляховою здатністю та динамікою водіння, гідною спортивного автомобіля, і протягом багатьох років є ключовою опорою фінансового успіху бренду.",
+              "ru": "Porsche Cayenne — модель, определившая концепцию спортивного внедорожника. Он сочетает в себе роскошь лимузина с внедорожными возможностями и динамикой вождения, достойной спортивного автомобиля, и на протяжении многих лет является ключевым фактором финансового успеха бренда.",
+              "zh": "保时捷卡宴是定义运动 SUV 概念的车型。它将豪华轿车的奢华与跑车的越野能力和驾驶动力结合在一起，多年来一直是该品牌财务成功的关键支柱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Porsche"
+              },
+              "okres produkcji": {
+                "pl": "od 2002",
+                "en": "from 2002",
+                "de": "ab 2002",
+                "uk": "з 2002 року",
+                "ru": "с 2002 года.",
+                "zh": "自2002年以来"
+              },
+              "segment": {
+                "pl": "E-SUV / SUV Premium",
+                "en": "E-SUV / Premium SUV",
+                "de": "E-SUV / Premium-SUV",
+                "uk": "E-SUV / Premium SUV",
+                "ru": "E-SUV / Премиум-внедорожник.",
+                "zh": "电动SUV / 高级SUV"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ch/sz/iykff0o40ksw4csos0koo/cayenne-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 106,
+        "ModelID": 413470,
+        "Brand Name": "Porsche",
+        "Model Name": "Cayenne",
+        "Serie Name": "Cayenne II (92A)",
+        "Years": "2010 - 2017",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment E-SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "3.0L V6 - 4.8L V8 Turbo / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Porsche Cayenne to model, który zdefiniował pojęcie sportowego SUV-a. Łączy luksus limuzyny z dzielnością terenową i dynamiką jazdy godną sportowego auta, będąc od lat kluczowym filarem sukcesu finansowego marki.",
+              "en": "Porsche Cayenne is the model that defined the concept of a sports SUV. It combines the luxury of a limousine with off-road capability and driving dynamics worthy of a sports car, and has been a key pillar of the brand's financial success for years.",
+              "de": "Porsche Cayenne ist das Modell, das das Konzept eines Sport-SUV definierte. Es vereint den Luxus einer Limousine mit Geländetauglichkeit und einer sportwagenwürdigen Fahrdynamik und ist seit Jahren ein wesentlicher Pfeiler des wirtschaftlichen Erfolgs der Marke.",
+              "uk": "Porsche Cayenne — це модель, яка визначила концепцію спортивного SUV. Він поєднує в собі розкіш лімузина з позашляховою здатністю та динамікою водіння, гідною спортивного автомобіля, і протягом багатьох років є ключовою опорою фінансового успіху бренду.",
+              "ru": "Porsche Cayenne — модель, определившая концепцию спортивного внедорожника. Он сочетает в себе роскошь лимузина с внедорожными возможностями и динамикой вождения, достойной спортивного автомобиля, и на протяжении многих лет является ключевым фактором финансового успеха бренда.",
+              "zh": "保时捷卡宴是定义运动 SUV 概念的车型。它将豪华轿车的奢华与跑车的越野能力和驾驶动力结合在一起，多年来一直是该品牌财务成功的关键支柱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Porsche"
+              },
+              "projektant": {
+                "pl": "Mitja Borkert / Michael Mauer",
+                "en": "Mitja Borkert / Michael Mauer",
+                "de": "Mitja Borkert / Michael Mauer",
+                "uk": "Мітя Боркерт / Майкл Мауер",
+                "ru": "Митя Боркерт / Михаэль Мауэр",
+                "zh": "米贾·博克特 / 迈克尔·莫尔"
+              },
+              "premiera": "2010",
+              "okres produkcji": "2010–2017",
+              "miejsce produkcji": {
+                "pl": "Bratysława (Słowacja), Lipsk (Niemcy)",
+                "en": "Bratislava (Slovakia), Leipzig (Germany)",
+                "de": "Bratislava (Slowakei), Leipzig (Deutschland)",
+                "uk": "Братислава (Словаччина), Лейпциг (Німеччина)",
+                "ru": "Братислава (Словакия), Лейпциг (Германия)",
+                "zh": "布拉迪斯拉发（斯洛伐克）、莱比锡（德国）"
+              },
+              "następca": {
+                "pl": "Porsche Cayenne III (9YA)",
+                "en": "Porsche Cayenne III (9YA)",
+                "de": "Porsche Cayenne III (9YA)",
+                "uk": "Porsche Cayenne III (9YA)",
+                "ru": "Porsche Cayenne III (9YA)",
+                "zh": "保时捷卡宴 III (9YA)"
+              },
+              "segment": {
+                "pl": "E-SUV (Premium)",
+                "en": "E-SUV (Premium)",
+                "de": "E-SUV (Premium)",
+                "uk": "E-SUV (Premium)",
+                "ru": "E-SUV (Премиум)",
+                "zh": "电动SUV（高级）"
+              },
+              "typy nadwozia": {
+                "pl": "SUV"
+              },
+              "skrzynia biegów": {
+                "pl": "8-bieg Tiptronic S\n6-bieg manualna",
+                "en": "8-speed Tiptronic S\n6-speed manual",
+                "de": "8-Gang-Tiptronic S\n6-Gang-Schaltgetriebe",
+                "uk": "8-ступінчаста Tiptronic S\n6-ступінчаста механіка",
+                "ru": "8-ступенчатая коробка передач Tiptronic S\n6-ступенчатая МКПП",
+                "zh": "8 速 Tiptronic S\n6速手动"
+              },
+              "rodzaj napędu": {
+                "pl": "AWD (stały)",
+                "en": "AWD (permanent)",
+                "de": "AWD (permanent)",
+                "uk": "AWD (постійний)",
+                "ru": "Полный привод (постоянный)",
+                "zh": "全轮驱动（永久）"
+              },
+              "długość": {
+                "pl": "4846–4855 mm",
+                "en": "4846-4855 mm",
+                "de": "4846-4855 mm",
+                "uk": "4846-4855 мм",
+                "ru": "4846-4855 мм",
+                "zh": "4846–4855 毫米"
+              },
+              "szerokość": {
+                "pl": "1939 mm",
+                "en": "1939 mm",
+                "de": "1939 mm",
+                "uk": "1939 мм",
+                "ru": "1939 мм",
+                "zh": "1939毫米"
+              },
+              "wysokość": {
+                "pl": "1705 mm",
+                "en": "1705 mm",
+                "de": "1705 mm",
+                "uk": "1705 мм",
+                "ru": "1705 мм",
+                "zh": "1705毫米"
+              },
+              "rozstaw osi": {
+                "pl": "2895 mm",
+                "en": "2895 mm",
+                "de": "2895 mm",
+                "uk": "2895 мм",
+                "ru": "2895 мм",
+                "zh": "2895毫米"
+              },
+              "masa własna": {
+                "pl": "od 2040 kg",
+                "en": "from 2040 kg",
+                "de": "ab 2040 kg",
+                "uk": "від 2040 кг",
+                "ru": "от 2040 кг",
+                "zh": "2040公斤起"
+              },
+              "zbiornik paliwa": {
+                "pl": "85-100 l",
+                "en": "85-100 l",
+                "de": "85-100 l",
+                "uk": "85-100 л",
+                "ru": "85-100 л",
+                "zh": "85-100岁"
+              },
+              "liczba miejsc": "5",
+              "gwiazdki euroncap": "5",
+              "pojemność bagażnika": {
+                "pl": "670-1780 l (złożone fotele)",
+                "en": "670-1780 l (folded seats)",
+                "de": "670-1780 l (umgeklappte Sitze)",
+                "uk": "670-1780 л (складені сидіння)",
+                "ru": "670-1780 л (сложенные сиденья)",
+                "zh": "670-1780 升（折叠座椅）"
+              },
+              "ładowność": {
+                "pl": "600-800 kg",
+                "en": "600-800 kg",
+                "de": "600-800 kg",
+                "uk": "600-800 кг",
+                "ru": "600-800 кг",
+                "zh": "600-800公斤"
+              },
+              "pokrewne": {
+                "pl": "Volkswagen Touareg II, Audi Q7 (4L)",
+                "en": "Volkswagen Touareg II, Audi Q7 (4L)",
+                "de": "Volkswagen Touareg II, Audi Q7 (4L)",
+                "uk": "Volkswagen Touareg II, Audi Q7 (4L)",
+                "ru": "Volkswagen Touareg II, Audi Q7 (4L)",
+                "zh": "大众途锐II、奥迪Q7（4L）"
+              },
+              "konkurencja": {
+                "pl": "BMW X5 (F15), Mercedes GLE (W166)",
+                "en": "BMW X5 (F15), Mercedes GLE (W166)",
+                "de": "BMW X5 (F15), Mercedes GLE (W166)",
+                "uk": "BMW X5 (F15), Mercedes GLE (W166)",
+                "ru": "BMW X5 (F15), Mercedes GLE (W166)",
+                "zh": "宝马 X5 (F15)、奔驰 GLE (W166)"
+              },
+              "commons": {
+                "pl": "Category:Porsche Cayenne (958)",
+                "en": "Category:Porsche Cayenne (958)",
+                "de": "Kategorie: Porsche Cayenne (958)",
+                "uk": "Категорія:Porsche Cayenne (958)",
+                "ru": "Категория:Porsche Cayenne (958)",
+                "zh": "类别：保时捷卡宴 (958)"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ch/sz/iykff0o40ksw4csos0koo/cayenne-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 106,
+        "ModelID": 413986,
+        "Brand Name": "Porsche",
+        "Model Name": "Cayenne",
+        "Serie Name": "Cayenne III (9YA)",
+        "Years": "2017 - Present",
+        "specs": {
+          "bodyType": "SUV/Coupe SUV",
+          "segment": "Segment E-SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "3.0L V6 - 4.0L V8 Turbo / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Porsche Cayenne to model, który zdefiniował pojęcie sportowego SUV-a. Łączy luksus limuzyny z dzielnością terenową i dynamiką jazdy godną sportowego auta, będąc od lat kluczowym filarem sukcesu finansowego marki.",
+              "en": "Porsche Cayenne is a model that defined the concept of a sports SUV. It combines the luxury of a limousine with off-road capability and driving dynamics worthy of a sports car, and has been a key pillar of the brand's financial success for years.",
+              "de": "Porsche Cayenne ist ein Modell, das das Konzept eines Sport-SUV definierte. Es vereint den Luxus einer Limousine mit Geländetauglichkeit und einer sportwagenwürdigen Fahrdynamik und ist seit Jahren ein wesentlicher Pfeiler des wirtschaftlichen Erfolgs der Marke.",
+              "uk": "Porsche Cayenne — модель, яка визначила концепцію спортивного позашляховика. Він поєднує в собі розкіш лімузина з позашляховою здатністю та динамікою водіння, гідною спортивного автомобіля, і протягом багатьох років є ключовою опорою фінансового успіху бренду.",
+              "ru": "Porsche Cayenne — модель, определившая концепцию спортивного внедорожника. Он сочетает в себе роскошь лимузина с внедорожными возможностями и динамикой вождения, достойной спортивного автомобиля, и на протяжении многих лет является ключевым фактором финансового успеха бренда.",
+              "zh": "保时捷卡宴是定义运动 SUV 概念的车型。它将豪华轿车的奢华与跑车的越野能力和驾驶动力结合在一起，多年来一直是该品牌财务成功的关键支柱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Porsche"
+              },
+              "projektant": {
+                "pl": "Peter Varga (nadwozie) / Michael Mauer",
+                "en": "Peter Varga (body) / Michael Mauer",
+                "de": "Peter Varga (Karosserie) / Michael Mauer",
+                "uk": "Peter Varga (кузов) / Michael Mauer",
+                "ru": "Петер Варга (кузов) / Михаэль Мауэр",
+                "zh": "彼得·瓦尔加（车身）/迈克尔·莫尔"
+              },
+              "premiera": "2017",
+              "okres produkcji": {
+                "pl": "od 2017",
+                "en": "from 2017",
+                "de": "ab 2017",
+                "uk": "з 2017",
+                "ru": "с 2017 г.",
+                "zh": "2017年以来"
+              },
+              "miejsce produkcji": {
+                "pl": "Bratysława, Słowacja",
+                "en": "Bratislava, Slovakia",
+                "de": "Bratislava, Slowakei",
+                "uk": "Братислава, Словаччина",
+                "ru": "Братислава, Словакия",
+                "zh": "斯洛伐克布拉迪斯拉发"
+              },
+              "następca": "-",
+              "segment": {
+                "pl": "E-SUV (Premium)",
+                "en": "E-SUV (Premium)",
+                "de": "E-SUV (Premium)",
+                "uk": "E-SUV (Преміум)",
+                "ru": "E-SUV (Премиум)",
+                "zh": "电动SUV（高级）"
+              },
+              "typy nadwozia": {
+                "pl": "SUV\nCoupe SUV",
+                "en": "SUV\nCoupe SUV",
+                "de": "SUV\nCoupe SUV",
+                "uk": "SUV\nКупе SUV",
+                "ru": "Внедорожник\nКупе SUV",
+                "zh": "SUV\n轿跑车 SUV"
+              },
+              "skrzynia biegów": {
+                "pl": "8-bieg Tiptronic S",
+                "en": "8-speed Tiptronic S",
+                "de": "8-Gang Tiptronic S",
+                "uk": "8-ступінчаста Tiptronic S",
+                "ru": "8-ступенчатая Tiptronic S",
+                "zh": "8 速 Tiptronic S"
+              },
+              "rodzaj napędu": {
+                "pl": "AWD (stały)",
+                "en": "AWD (permanent)",
+                "de": "AWD (permanent)",
+                "uk": "AWD (постійний)",
+                "ru": "AWD (постоянный)",
+                "zh": "全轮驱动（永久）"
+              },
+              "długość": {
+                "pl": "4918 mm (SUV) / 4931 mm (Coupe)",
+                "en": "4,918 mm (SUV) / 4,931 mm (Coupe)",
+                "de": "4.918 mm (SUV) / 4.931 mm (Coupé)",
+                "uk": "4918 мм (SUV) / 4931 мм (купе)",
+                "ru": "4918 мм (внедорожник) / 4931 мм (купе)",
+                "zh": "4918 毫米（SUV）/4931 毫米（轿跑车）"
+              },
+              "szerokość": {
+                "pl": "1983 mm",
+                "en": "1983 mm",
+                "de": "1983 mm",
+                "uk": "1983 мм",
+                "ru": "1983 мм",
+                "zh": "1983毫米"
+              },
+              "wysokość": {
+                "pl": "1696 mm (SUV) / 1676 mm (Coupe)",
+                "en": "1696 mm (SUV) / 1676 mm (Coupe)",
+                "de": "1696 mm (SUV) / 1676 mm (Coupé)",
+                "uk": "1696 мм (позашляховик) / 1676 мм (купе)",
+                "ru": "1696 мм (внедорожник) / 1676 мм (купе)",
+                "zh": "1696 毫米（SUV）/ 1676 毫米（轿跑车）"
+              },
+              "rozstaw osi": {
+                "pl": "2895 mm",
+                "en": "2895 mm",
+                "de": "2895 mm",
+                "uk": "2895 мм",
+                "ru": "2895 мм",
+                "zh": "2895毫米"
+              },
+              "masa własna": {
+                "pl": "od 1985 kg",
+                "en": "from 1985 kg",
+                "de": "ab 1985 kg",
+                "uk": "від 1985 кг",
+                "ru": "с 1985 кг",
+                "zh": "1985公斤起"
+              },
+              "zbiornik paliwa": {
+                "pl": "75-90 l",
+                "en": "75-90 l",
+                "de": "75-90 Jahre alt",
+                "uk": "75-90 л",
+                "ru": "75–90 л",
+                "zh": "75-90岁"
+              },
+              "liczba miejsc": {
+                "pl": "4/5"
+              },
+              "gwiazdki euroncap": "5",
+              "pojemność bagażnika": {
+                "pl": "SUV: 770-1710 l\nCoupe: 625-1540 l",
+                "en": "SUV: 770-1710 l\nCoupe: 625-1540 l",
+                "de": "SUV: 770-1710 l\nCoupé: 625-1540 l",
+                "uk": "позашляховик: 770-1710 л\nКупе: 625-1540 л",
+                "ru": "внедорожник: 770–1710 л\nКупе: 625-1540 л",
+                "zh": "SUV：770-1710升\n轿跑车：625-1540 升"
+              },
+              "ładowność": {
+                "pl": "600-800 kg",
+                "en": "600-800 kg",
+                "de": "600-800 kg",
+                "uk": "600-800 кг",
+                "ru": "600-800 кг",
+                "zh": "600-800公斤"
+              },
+              "pokrewne": {
+                "pl": "Audi Q7/Q8, Volkswagen Touareg III, Lamborghini Urus",
+                "en": "Audi Q7/Q8, Volkswagen Touareg III, Lamborghini Urus",
+                "de": "Audi Q7/Q8, Volkswagen Touareg III, Lamborghini Urus",
+                "uk": "Audi Q7/Q8, Volkswagen Touareg III, Lamborghini Urus",
+                "ru": "Audi Q7/Q8, Volkswagen Touareg III, Lamborghini Urus",
+                "zh": "奥迪Q7/Q8、大众途锐III、兰博基尼Urus"
+              },
+              "konkurencja": {
+                "pl": "BMW X5/X6, Mercedes GLE/GLE Coupe",
+                "en": "BMW X5/X6, Mercedes GLE/GLE Coupe",
+                "de": "BMW X5/X6, Mercedes GLE/GLE Coupé",
+                "uk": "BMW X5/X6, Mercedes GLE/GLE Coupe",
+                "ru": "BMW X5/X6, Mercedes GLE/GLE Coupe",
+                "zh": "宝马X5/X6、奔驰GLE/GLE Coupe"
+              },
+              "commons": {
+                "pl": "Category:Porsche Cayenne (9YA)",
+                "en": "Category:Porsche Cayenne (9YA)",
+                "de": "Kategorie:Porsche Cayenne (9YA)",
+                "uk": "Категорія:Porsche Cayenne (9YA)",
+                "ru": "Категория:Porsche Cayenne (9YA)",
+                "zh": "类别：保时捷卡宴 (9YA)"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ch/sz/iykff0o40ksw4csos0koo/cayenne-ii.310.jpg"
+        }
+      }
+    ],
+    "Macan": [
+      {
+        "BrandID": 106,
+        "ModelID": 413984,
+        "Brand Name": "Porsche",
+        "Model Name": "Macan",
+        "Serie Name": "Macan I",
+        "Years": "2014 - 2018",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment D-SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L Turbo - 3.6L V6 Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Porsche Macan to kompaktowy SUV, który udowadnia, że praktyczne auto rodzinne może być też rasowym sportowcem. Dzięki zwartości i zaawansowanym systemom zawieszenia, oferuje wrażenia z jazdy niespotykane w swojej klasie.",
+              "en": "Porsche Macan is a compact SUV that proves that a practical family car can also be a thorough athlete. Thanks to its compactness and advanced suspension systems, it offers a driving experience unrivaled in its class.",
+              "de": "Der Porsche Macan ist ein Kompakt-SUV, der beweist, dass ein praktischer Familienwagen auch ein echter Sportler sein kann. Dank seiner Kompaktheit und fortschrittlichen Federungssysteme bietet er ein in seiner Klasse unübertroffenes Fahrerlebnis.",
+              "uk": "Porsche Macan — компактний позашляховик, який доводить, що практичний сімейний автомобіль також може бути ґрунтовний спортсмен. Завдяки своїй компактності та передовій системі підвіски він пропонує неперевершені враження від водіння у своєму класі.",
+              "ru": "Porsche Macan — компактный внедорожник, доказывающий, что практичный семейный автомобиль также может быть настоящим спортсменом. Благодаря своей компактности и передовым системам подвески он предлагает непревзойденные в своем классе впечатления от вождения.",
+              "zh": "保时捷 Macan 是一款紧凑型 SUV，它证明了实用的家庭用车也可以是彻底的运动员。凭借其紧凑性和先进的悬架系统，它提供了同类产品中无与伦比的驾驶体验。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Porsche"
+              },
+              "okres produkcji": {
+                "pl": "od 2014",
+                "en": "from 2014",
+                "de": "seit 2014",
+                "uk": "з 2014 року",
+                "ru": "2014 г.",
+                "zh": "自2014年起"
+              },
+              "segment": {
+                "pl": "D-SUV / Crossover Premium",
+                "en": "D-SUV / Crossover Premium",
+                "de": "D-SUV/Crossover Premium",
+                "uk": "D-SUV / кросовер преміум-класу",
+                "ru": "D-SUV / Crossover Premium",
+                "zh": "D-SUV/高级跨界车"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8t/ma/lyipwx8okcw4ckosgkogs/porsche-macan-turbo-2014-r6-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 106,
+        "ModelID": 413985,
+        "Brand Name": "Porsche",
+        "Model Name": "Macan",
+        "Serie Name": "Macan I Facelift",
+        "Years": "2018 - 2024",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment D-SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L Turbo - 2.9L V6 Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Porsche Macan to kompaktowy SUV, który udowadnia, że praktyczne auto rodzinne może być też rasowym sportowcem. Dzięki zwartości i zaawansowanym systemom zawieszenia, oferuje wrażenia z jazdy niespotykane w swojej klasie.",
+              "en": "Porsche Macan is a compact SUV that proves that a practical family car can also be a thorough athlete. Thanks to its compactness and advanced suspension systems, it offers a driving experience unrivaled in its class.",
+              "de": "Der Porsche Macan ist ein Kompakt-SUV, der beweist, dass ein praktischer Familienwagen auch ein echter Sportler sein kann. Dank seiner Kompaktheit und fortschrittlichen Federungssysteme bietet er ein in seiner Klasse unübertroffenes Fahrerlebnis.",
+              "uk": "Porsche Macan — це компактний позашляховик, який доводить, що практичний сімейний автомобіль також може бути справжнім спортсменом. Завдяки своїй компактності та передовій системі підвіски він пропонує неперевершені враження від водіння у своєму класі.",
+              "ru": "Porsche Macan — компактный внедорожник, доказывающий, что практичный семейный автомобиль также может быть настоящим спортсменом. Благодаря своей компактности и передовым системам подвески он предлагает непревзойденные в своем классе впечатления от вождения.",
+              "zh": "保时捷 Macan 是一款紧凑型 SUV，它证明了实用的家庭用车也可以是彻底的运动员。凭借其紧凑性和先进的悬架系统，它提供了同类产品中无与伦比的驾驶体验。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Porsche"
+              },
+              "okres produkcji": {
+                "pl": "od 2014",
+                "en": "from 2014",
+                "de": "seit 2014",
+                "uk": "з 2014 року",
+                "ru": "2014 г.",
+                "zh": "自2014年起"
+              },
+              "segment": {
+                "pl": "D-SUV / Crossover Premium",
+                "en": "D-SUV / Crossover Premium",
+                "de": "D-SUV/Crossover Premium",
+                "uk": "D-SUV / кросовер преміум-класу",
+                "ru": "D-SUV / Crossover Premium",
+                "zh": "D-SUV/高级跨界车"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8t/ma/lyipwx8okcw4ckosgkogs/porsche-macan-turbo-2014-r6-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 106,
+        "ModelID": 416569,
+        "Brand Name": "Porsche",
+        "Model Name": "Macan",
+        "Serie Name": "Macan Electric",
+        "Years": "2024 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment D-SUV",
+          "drive": "AWD",
+          "fuel": "Electric",
+          "engine": "Electric Motor 100kWh",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Porsche Macan to kompaktowy SUV, który udowadnia, że praktyczne auto rodzinne może być też rasowym sportowcem. Dzięki zwartości i zaawansowanym systemom zawieszenia, oferuje wrażenia z jazdy niespotykane w swojej klasie.",
+              "en": "Porsche Macan is a compact SUV that proves that a practical family car can also be a thorough athlete. Thanks to its compactness and advanced suspension systems, it offers a driving experience unrivaled in its class.",
+              "de": "Der Porsche Macan ist ein Kompakt-SUV, der beweist, dass ein praktischer Familienwagen auch ein echter Sportler sein kann. Dank seiner Kompaktheit und fortschrittlichen Federungssysteme bietet er ein in seiner Klasse unübertroffenes Fahrerlebnis.",
+              "uk": "Porsche Macan — це компактний позашляховик, який доводить, що практичний сімейний автомобіль також може бути справжнім спортсменом. Завдяки своїй компактності та передовій системі підвіски він пропонує неперевершені враження від водіння у своєму класі.",
+              "ru": "Porsche Macan — компактный внедорожник, доказывающий, что практичный семейный автомобиль также может быть настоящим спортсменом. Благодаря своей компактности и передовым системам подвески он предлагает непревзойденные в своем классе впечатления от вождения.",
+              "zh": "保时捷 Macan 是一款紧凑型 SUV，它证明了实用的家庭用车也可以是彻底的运动员。凭借其紧凑性和先进的悬架系统，它提供了同类产品中无与伦比的驾驶体验。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Porsche"
+              },
+              "okres produkcji": {
+                "pl": "od 2014",
+                "en": "from 2014",
+                "de": "seit 2014",
+                "uk": "з 2014 року",
+                "ru": "от 2014 года",
+                "zh": "自2014年起"
+              },
+              "segment": {
+                "pl": "D-SUV / Crossover Premium",
+                "en": "D-SUV / Crossover Premium",
+                "de": "D-SUV/Crossover Premium",
+                "uk": "D-SUV / Crossover Premium",
+                "ru": "D-SUV / Crossover Premium",
+                "zh": "D-SUV/高级跨界车"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8t/ma/lyipwx8okcw4ckosgkogs/porsche-macan-turbo-2014-r6-jpg.310.jpg"
+        }
+      }
+    ],
+    "Panamera": [
+      {
+        "BrandID": 106,
+        "ModelID": 413987,
+        "Brand Name": "Porsche",
+        "Model Name": "Panamera",
+        "Serie Name": "Panamera I (970)",
+        "Years": "2009 - 2016",
+        "specs": {
+          "bodyType": "Liftback",
+          "segment": "Segment F (Luxury)",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "3.0L V6 - 4.8L V8 Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Porsche Panamera to luksusowa limuzyna o sportowym sercu, stworzona dla tych, którzy nie chcą wybierać między komfortem klasy wyższej a osiągami 911. Oferuje przestronne wnętrze i innowacyjne napędy hybrydowe o potężnej mocy.",
+              "en": "Porsche Panamera is a luxury limousine with a sports heart, created for those who do not want to choose between the comfort of the upper class and the performance of a 911. It offers a spacious interior and innovative hybrid drives with powerful power.",
+              "de": "Porsche Panamera ist eine Luxuslimousine mit sportlichem Herzen, geschaffen für alle, die sich nicht zwischen dem Komfort der Oberklasse und der Leistung eines 911 entscheiden wollen. Er bietet einen geräumigen Innenraum und innovative Hybridantriebe mit kraftvoller Leistung.",
+              "uk": "Porsche Panamera — це розкішний лімузин зі спортивним серцем, створений для тих, хто не хоче вибирати між комфортом вищого класу та продуктивністю 911. Він пропонує просторий салон та інноваційні гібридні приводи з потужною потужністю.",
+              "ru": "Porsche Panamera — роскошный лимузин со спортивным сердцем, созданный для тех, кто не хочет выбирать между комфортом высшего класса и характеристиками 911. Он предлагает просторный салон и инновационные гибридные приводы с мощной мощностью.",
+              "zh": "保时捷 Panamera 是一款充满运动心的豪华轿车，专为那些不想在上层阶级的舒适性和 911 的性能之间做出选择的人们而设计。它提供宽敞的内部空间和动力强劲的创新混合动力驱动装置。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Porsche"
+              },
+              "okres produkcji": {
+                "pl": "od 2009",
+                "en": "from 2009",
+                "de": "seit 2009",
+                "uk": "з 2009 року",
+                "ru": "от 2009 года.",
+                "zh": "自2009年以来"
+              },
+              "segment": {
+                "pl": "F (Luksusowe / Sport Sedan)",
+                "en": "F (Luxury / Sport Sedan)",
+                "de": "F (Luxus-/Sportlimousine)",
+                "uk": "F (Luxury/Sport Sedan)",
+                "ru": "F (Luxury/Sport Sedan)",
+                "zh": "F（豪华/运动轿车）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1n/dt/hpxov2f40g4wok8ok4oog/panamera.310.jpg"
+        }
+      },
+      {
+        "BrandID": 106,
+        "ModelID": 413988,
+        "Brand Name": "Porsche",
+        "Model Name": "Panamera",
+        "Serie Name": "Panamera II (971)",
+        "Years": "2016 - 2023",
+        "specs": {
+          "bodyType": "Liftback/Wagon (Sport Turismo)",
+          "segment": "Segment F (Luxury)",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "2.9L V6 - 4.0L V8 Turbo / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Porsche Panamera to luksusowa limuzyna o sportowym sercu, stworzona dla tych, którzy nie chcą wybierać między komfortem klasy wyższej a osiągami 911. Oferuje przestronne wnętrze i innowacyjne napędy hybrydowe o potężnej mocy.",
+              "en": "Porsche Panamera is a luxury limousine with a sports heart, created for those who do not want to choose between the comfort of the upper class and the performance of a 911. It offers a spacious interior and innovative hybrid drives with powerful power.",
+              "de": "Porsche Panamera ist eine Luxuslimousine mit sportlichem Herzen, geschaffen für alle, die sich nicht zwischen dem Komfort der Oberklasse und der Leistung eines 911 entscheiden wollen. Er bietet einen geräumigen Innenraum und innovative Hybridantriebe mit kraftvoller Leistung.",
+              "uk": "Porsche Panamera — це розкішний лімузин зі спортивним серцем, створений для тих, хто не хоче вибирати між комфортом вищого класу та продуктивністю 911. Він пропонує просторий салон та інноваційні гібридні приводи з потужною потужністю.",
+              "ru": "Porsche Panamera — роскошный лимузин со спортивным сердцем, созданный для тех, кто не хочет выбирать между комфортом высшего класса и характеристиками 911. Он предлагает просторный салон и инновационные гибридные приводы с мощной мощностью.",
+              "zh": "保时捷 Panamera 是一款充满运动心的豪华轿车，专为那些不想在上层阶级的舒适性和 911 的性能之间做出选择的人们而设计。它提供宽敞的内部空间和动力强劲的创新混合动力驱动装置。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Porsche"
+              },
+              "okres produkcji": {
+                "pl": "od 2009",
+                "en": "from 2009",
+                "de": "seit 2009",
+                "uk": "з 2009",
+                "ru": "с 2009 г.",
+                "zh": "自2009年以来"
+              },
+              "segment": {
+                "pl": "F (Luksusowe / Sport Sedan)",
+                "en": "F (Luxury/Sport Sedan)",
+                "de": "F (Luxus-/Sportlimousine)",
+                "uk": "F (люкс/Спорт седан)",
+                "ru": "F (люксовый/спортивный седан)",
+                "zh": "F（豪华/运动轿车）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1n/dt/hpxov2f40g4wok8ok4oog/panamera.310.jpg"
+        }
+      },
+      {
+        "BrandID": 106,
+        "ModelID": 416570,
+        "Brand Name": "Porsche",
+        "Model Name": "Panamera",
+        "Serie Name": "Panamera III (972)",
+        "Years": "2023 - Present",
+        "specs": {
+          "bodyType": "Liftback",
+          "segment": "Segment F (Luxury)",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.9L V6 - 4.0L V8 PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Porsche Panamera to luksusowa limuzyna o sportowym sercu, stworzona dla tych, którzy nie chcą wybierać między komfortem klasy wyższej a osiągami 911. Oferuje przestronne wnętrze i innowacyjne napędy hybrydowe o potężnej mocy.",
+              "en": "Porsche Panamera is a luxury limousine with a sporty heart, created for those who do not want to choose between the comfort of the upper class and the performance of a 911. It offers a spacious interior and innovative hybrid drives with powerful power.",
+              "de": "Porsche Panamera ist eine Luxuslimousine mit sportlichem Herzen, geschaffen für alle, die sich nicht zwischen dem Komfort der Oberklasse und der Leistung eines 911 entscheiden wollen. Er bietet einen geräumigen Innenraum und innovative Hybridantriebe mit kraftvoller Leistung.",
+              "uk": "Porsche Panamera — це розкішний лімузин зі спортивним серцем, створений для тих, хто не хоче вибирати між комфортом вищого класу та продуктивністю 911. Він пропонує просторий салон та інноваційні гібридні приводи з потужною потужністю.",
+              "ru": "Porsche Panamera — роскошный лимузин со спортивным сердцем, созданный для тех, кто не хочет выбирать между комфортом высшего класса и характеристиками 911. Он предлагает просторный салон и инновационные гибридные приводы с мощной мощностью.",
+              "zh": "保时捷 Panamera 是一款充满运动心的豪华轿车，专为那些不想在上层阶级的舒适性和 911 的性能之间做出选择的人们而设计。它提供宽敞的内部空间和动力强劲的创新混合动力驱动装置。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Porsche"
+              },
+              "okres produkcji": {
+                "pl": "od 2009",
+                "en": "from 2009",
+                "de": "ab 2009",
+                "uk": "з 2009 року",
+                "ru": "с 2009 года.",
+                "zh": "2009 年起"
+              },
+              "segment": {
+                "pl": "F (Luksusowe / Sport Sedan)",
+                "en": "F (Luxury / Sport Sedan)",
+                "de": "F (Luxus-/Sportlimousine)",
+                "uk": "F (Luxury / Sport Sedan)",
+                "ru": "F (Luxury/Sport Sedan)",
+                "zh": "F（豪华/运动轿车）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1n/dt/hpxov2f40g4wok8ok4oog/panamera.310.jpg"
+        }
+      }
+    ],
+    "Taycan": [
+      {
+        "BrandID": 106,
+        "ModelID": 416302,
+        "Brand Name": "Porsche",
+        "Model Name": "Taycan",
+        "Serie Name": "Taycan",
+        "Years": "2019 - Present",
+        "specs": {
+          "bodyType": "Sedan/Wagon (Cross Turismo)",
+          "segment": "Segment E (Executive)",
+          "drive": "RWD/AWD",
+          "fuel": "Electric",
+          "engine": "Electric Motor 79kWh/93kWh",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Porsche Taycan to pierwszy w pełni elektryczny model marki, który przeniósł DNA Porsche w erę elektromobilności. Imponuje niesamowitym przyspieszeniem i innowacyjną instalacją 800V, wyznaczając standardy ładowania i osiągów dla aut EV.",
+              "en": "Porsche Taycan is the first fully electric model of the brand, which transferred the Porsche DNA into the era of electromobility. It impresses with incredible acceleration and an innovative 800V installation, setting charging and performance standards for EV cars.",
+              "de": "Porsche Taycan ist das erste vollelektrische Modell der Marke, das die Porsche-DNA in das Zeitalter der Elektromobilität überführte. Es beeindruckt mit unglaublicher Beschleunigung und einer innovativen 800-V-Installation, die Lade- und Leistungsstandards für Elektroautos setzt.",
+              "uk": "Porsche Taycan — перша повністю електрична модель бренду, яка перенесла ДНК Porsche в еру електромобільності. Він вражає неймовірним прискоренням та інноваційною установкою 800 В, що встановлює стандарти зарядки та продуктивності для електромобілів.",
+              "ru": "Porsche Taycan — первая полностью электрическая модель бренда, перенесшая ДНК Porsche в эпоху электромобильности. Он впечатляет невероятным ускорением и инновационной установкой на 800 В, устанавливая стандарты зарядки и производительности для электромобилей.",
+              "zh": "保时捷 Taycan 是该品牌的首款全电动车型，它将保时捷 DNA 带入了电动汽车时代。它具有令人难以置信的加速度和创新的 800V 安装，为电动汽车设定了充电和性能标准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Porsche"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019 року",
+                "ru": "от 2019 года.",
+                "zh": "2019 年起"
+              },
+              "segment": {
+                "pl": "E / F (Sport Sedan / EV)",
+                "en": "E / F (Sport Sedan / EV)",
+                "de": "E / F (Sportlimousine / EV)",
+                "uk": "E / F (Спортивний седан / EV)",
+                "ru": "E/F (Sport Sedan/EV)",
+                "zh": "E / F（运动轿车 / EV）"
+              },
+              "napęd": {
+                "pl": "AWD/RWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "918 Spyder": [
+      {
+        "BrandID": 106,
+        "ModelID": 414394,
+        "Brand Name": "Porsche",
+        "Model Name": "918 Spyder",
+        "Serie Name": "918 Spyder",
+        "Years": "2013 - 2015",
+        "specs": {
+          "bodyType": "Roadster",
+          "segment": "Hypercar",
+          "drive": "AWD",
+          "fuel": "Hybrid",
+          "engine": "4.6L V8 + Electric Motors",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Porsche 918 Spyder to technologiczne arcydzieło i jeden z trzech samochodów tworzących 'Świętą Trójcę' hipersamochodów. Hybrydowy napęd o oszałamiającej mocy udowodnił, że ekologia i ekstremalne osiągi mogą iść w parze.",
+              "en": "The Porsche 918 Spyder is a technological masterpiece and one of three cars forming the 'Holy Trinity' of hypercars. A hybrid drive with stunning power proved that ecology and extreme performance can go hand in hand.",
+              "de": "Der Porsche 918 Spyder ist ein technologisches Meisterwerk und eines von drei Autos, die die „Heilige Dreifaltigkeit“ der Hypercars bilden. Ein Hybridantrieb mit atemberaubender Leistung bewies, dass Ökologie und extreme Leistung Hand in Hand gehen können.",
+              "uk": "Porsche 918 Spyder — це технологічний шедевр і один із трьох автомобілів, які утворюють «Святу Трійцю» гіперкарів. Гібридний привід із приголомшливою потужністю довів, що екологія та надзвичайна продуктивність можуть іти рука об руку.",
+              "ru": "Porsche 918 Spyder — технологический шедевр и один из трех автомобилей, составляющих «Святую Троицу» гиперкаров. Гибридный привод потрясающей мощности доказал, что экология и высочайшая производительность могут идти рука об руку.",
+              "zh": "保时捷 918 Spyder 是一款技术杰作，也是构成超级跑车“三位一体”的三辆车之一。具有惊人动力的混合动力驱动证明了生态和极限性能可以齐头并进。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Porsche"
+              },
+              "okres produkcji": "2013–2015",
+              "segment": {
+                "pl": "Hypercar / Hybrid",
+                "en": "Hypercar / Hybrid",
+                "de": "Hypercar / Hybrid",
+                "uk": "Гіперкар/гібрид",
+                "ru": "Гиперкар / Гибрид",
+                "zh": "超级跑车/混合动力"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

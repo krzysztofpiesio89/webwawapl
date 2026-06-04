@@ -1,0 +1,273 @@
+{
+  "brand": "Tesla",
+  "models": {
+    "model S": [
+      {
+        "BrandID": 175,
+        "ModelID": 3530,
+        "Brand Name": "Tesla",
+        "Model Name": "model S",
+        "Serie Name": "Model S",
+        "Years": "2012 - Present",
+        "specs": {
+          "bodyType": "Liftback",
+          "segment": "Segment E (Executive)",
+          "drive": "RWD/AWD",
+          "fuel": "Electric",
+          "engine": "Electric Motor",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Tesla Model S to luksusowy liftback, który udowodnił, że samochód elektryczny może być szybszy, bezpieczniejszy i bardziej zaawansowany technologicznie od tradycyjnych limuzyn. Słynie z niesamowitych osiągów (wersja Plaid), minimalistycznego wnętrza z ogromnym ekranem oraz pionierskiego systemu Autopilot.",
+              "en": "Tesla Model S is a luxury liftback that proved that an electric car can be faster, safer and more technologically advanced than traditional limousines. It is famous for its incredible performance (Plaid version), minimalist interior with a huge screen and the pioneering Autopilot system.",
+              "de": "Das Tesla Model S ist ein Luxus-Liftback, das bewiesen hat, dass ein Elektroauto schneller, sicherer und technologisch fortschrittlicher sein kann als herkömmliche Limousinen. Es ist berühmt für seine unglaubliche Leistung (Plaid-Version), sein minimalistisches Interieur mit einem riesigen Bildschirm und das bahnbrechende Autopilot-System.",
+              "uk": "Tesla Model S — розкішний ліфтбек, який довів, що електромобіль може бути швидшим, безпечнішим і технологічнішим за традиційні лімузини. Він відомий своєю неймовірною продуктивністю (версія Plaid), мінімалістичним інтер’єром із величезним екраном і новаторською системою автопілота.",
+              "ru": "Tesla Model S — роскошный лифтбек, доказавший, что электромобиль может быть быстрее, безопаснее и технологичнее традиционных лимузинов. Он известен своими невероятными характеристиками (версия Plaid), минималистичным интерьером с огромным экраном и новаторской системой автопилота.",
+              "zh": "Tesla Model S 是一款豪华掀背车，它证明了电动汽车比传统豪华轿车更快、更安全、技术更先进。它以其令人难以置信的性能（格子版）、带有大屏幕的极简内饰和开创性的自动驾驶系统而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Tesla, Inc.",
+                "en": "Tesla, Inc.",
+                "de": "Tesla, Inc.",
+                "uk": "Tesla, Inc.",
+                "ru": "Tesla, Inc.",
+                "zh": "特斯拉公司"
+              },
+              "okres produkcji": {
+                "pl": "od 2012",
+                "en": "from 2012",
+                "de": "ab 2012",
+                "uk": "з 2012 р.",
+                "ru": "с 2012 года",
+                "zh": "自2012年起"
+              },
+              "segment": {
+                "pl": "E (Wyższa)",
+                "en": "E (Higher)",
+                "de": "E (höher)",
+                "uk": "E (вище)",
+                "ru": "E (Высший)",
+                "zh": "E（较高）"
+              },
+              "napęd": {
+                "pl": "RWD / Dual Motor (AWD)",
+                "en": "RWD / Dual Motor (AWD)",
+                "de": "RWD / Dual Motor (AWD)",
+                "uk": "RWD / Dual Motor (AWD)",
+                "ru": "RWD/Dual Motor (AWD)",
+                "zh": "后轮驱动 / 双电机 (AWD)"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "model 3": [
+      {
+        "BrandID": 175,
+        "ModelID": 414337,
+        "Brand Name": "Tesla",
+        "Model Name": "model 3",
+        "Serie Name": "Model 3",
+        "Years": "2017 - Present",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Segment D (Mid-size)",
+          "drive": "RWD/AWD",
+          "fuel": "Electric",
+          "engine": "Electric Motor",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Tesla Model 3 to najlepiej sprzedający się samochód elektryczny świata, który uczynił elektromobilność dostępną dla masowego odbiorcy. Oferuje wzorcową efektywność energetyczną, doskonałe prowadzenie i dostęp do globalnej sieci Superchargerów, czyniąc dalekie podróże bezstresowymi.",
+              "en": "Tesla Model 3 is the best-selling electric car in the world, which made electromobility available to mass consumers. It offers exemplary energy efficiency, excellent handling and access to a global network of Superchargers, making long journeys stress-free.",
+              "de": "Tesla Model 3 ist das meistverkaufte Elektroauto der Welt, das Elektromobilität dem Massenverbraucher zugänglich gemacht hat. Es bietet vorbildliche Energieeffizienz, hervorragendes Handling und Zugang zu einem globalen Netzwerk von Superchargern und macht so lange Reisen stressfrei.",
+              "uk": "Tesla Model 3 — це найбільш продаваний електромобіль у світі, який зробив електромобільність доступною для масових споживачів. Він пропонує взірцеву енергоефективність, відмінну керованість і доступ до глобальної мережі зарядних пристроїв, що робить далекі подорожі без стресу.",
+              "ru": "Tesla Model 3 — самый продаваемый электромобиль в мире, сделавший электромобильность доступной для массового потребителя. Он предлагает образцовую энергоэффективность, отличную управляемость и доступ к глобальной сети нагнетателей, что делает длительные поездки без стресса.",
+              "zh": "Tesla Model 3 是世界上最畅销的电动汽车，它使电动汽车走向大众。它提供堪称典范的能源效率、出色的操控性和全球超级充电站网络，让长途旅行毫无压力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Tesla, Inc.",
+                "en": "Tesla, Inc.",
+                "de": "Tesla, Inc.",
+                "uk": "Tesla, Inc.",
+                "ru": "Tesla, Inc.",
+                "zh": "特斯拉公司"
+              },
+              "okres produkcji": {
+                "pl": "od 2017",
+                "en": "from 2017",
+                "de": "ab 2017",
+                "uk": "з 2017 року",
+                "ru": "с 2017 г.",
+                "zh": "2017年以来"
+              },
+              "segment": {
+                "pl": "D (Klasa średnia)",
+                "en": "D (Middle Class)",
+                "de": "D (Mittelklasse)",
+                "uk": "D (середній клас)",
+                "ru": "D (средний класс)",
+                "zh": "D（中产阶级）"
+              },
+              "napęd": {
+                "pl": "RWD / Dual Motor (AWD)",
+                "en": "RWD / Dual Motor (AWD)",
+                "de": "RWD / Dual Motor (AWD)",
+                "uk": "RWD / Dual Motor (AWD)",
+                "ru": "RWD / Dual Motor (AWD)",
+                "zh": "后轮驱动 / 双电机 (AWD)"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "model X": [
+      {
+        "BrandID": 175,
+        "ModelID": 3531,
+        "Brand Name": "Tesla",
+        "Model Name": "model X",
+        "Serie Name": "Model X",
+        "Years": "2015 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment E-SUV",
+          "drive": "AWD",
+          "fuel": "Electric",
+          "engine": "Electric Motor",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Tesla Model X to futurystyczny SUV klasy wyższej, znany z charakterystycznych drzwi Falcon Wing i panoramicznej przedniej szyby. Łączy ogromną przestrzeń (nawet dla 7 osób) z osiągami hipersamochodów i najwyższym poziomem aktywnego bezpieczeństwa dzięki systemowi czujników i kamer.",
+              "en": "Tesla Model X is a futuristic executive SUV, known for its distinctive Falcon Wing doors and panoramic windshield. It combines huge space (for up to 7 people) with the performance of hypercars and the highest level of active safety thanks to a system of sensors and cameras.",
+              "de": "Tesla Model X ist ein futuristischer Executive-SUV, bekannt für seine markanten Falcon Wing-Türen und die Panorama-Windschutzscheibe. Es vereint enormes Platzangebot (für bis zu 7 Personen) mit der Leistung von Hypercars und einem Höchstmaß an aktiver Sicherheit dank eines Systems aus Sensoren und Kameras.",
+              "uk": "Tesla Model X — це футуристичний позашляховик представницького класу, відомий своїми характерними дверима Falcon Wing і панорамним лобовим склом. Він поєднує в собі величезний простір (до 7 осіб) з продуктивністю гіперкарів і найвищим рівнем активної безпеки завдяки системі датчиків і камер.",
+              "ru": "Tesla Model X — футуристический внедорожник представительского класса, известный своими характерными дверями Falcon Wing и панорамным лобовым стеклом. Он сочетает в себе огромное пространство (до 7 человек) с производительностью гиперкара и высочайшим уровнем активной безопасности благодаря системе датчиков и камер.",
+              "zh": "Tesla Model X 是一款未来派行政 SUV，以其独特的鹰翼门和全景挡风玻璃而闻名。它将巨大的空间（最多可容纳 7 人）与超级跑车的性能以及传感器和摄像头系统提供的最高水平的主动安全性结合在一起。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Tesla, Inc.",
+                "en": "Tesla, Inc.",
+                "de": "Tesla, Inc.",
+                "uk": "Tesla, Inc.",
+                "ru": "Tesla, Inc.",
+                "zh": "特斯拉公司"
+              },
+              "okres produkcji": {
+                "pl": "od 2015",
+                "en": "from 2015",
+                "de": "ab 2015",
+                "uk": "з 2015 року",
+                "ru": "с 2015 г.",
+                "zh": "自2015年起"
+              },
+              "segment": {
+                "pl": "E-SUV / Premium",
+                "en": "E-SUV / Premium",
+                "de": "E-SUV / Premium",
+                "uk": "E-SUV / Premium",
+                "ru": "E-SUV / Premium",
+                "zh": "电动SUV/高级车"
+              },
+              "napęd": {
+                "pl": "Dual Motor (AWD)",
+                "en": "Dual Motor (AWD)",
+                "de": "Dual Motor (AWD)",
+                "uk": "Подвійний двигун (AWD)",
+                "ru": "Dual Motor (AWD)",
+                "zh": "双电机（全轮驱动）"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "model Y": [
+      {
+        "BrandID": 175,
+        "ModelID": 415887,
+        "Brand Name": "Tesla",
+        "Model Name": "model Y",
+        "Serie Name": "Model Y",
+        "Years": "2020 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment D-SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Electric",
+          "engine": "Electric Motor",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "5"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Tesla Model Y to najpopularniejszy crossover elektryczny, będący praktyczniejszą i wyższą alternatywą dla Modelu 3. Wyznacza standardy w dziedzinie przestronności bagażowej i efektywności, będąc idealnym wyborem dla rodzin szukających nowoczesnego i ekonomicznego pojazdu na co dzień.",
+              "en": "Tesla Model Y is the most popular electric crossover, which is a more practical and higher alternative to the Model 3. It sets the standard in the field of luggage space and efficiency, being an ideal choice for families looking for a modern and economical everyday vehicle.",
+              "de": "Tesla Model Y ist der beliebteste Elektro-Crossover, der eine praktischere und höherwertige Alternative zum Model 3 darstellt. Es setzt Maßstäbe im Bereich Gepäckraum und Effizienz und ist eine ideale Wahl für Familien, die ein modernes und wirtschaftliches Alltagsfahrzeug suchen.",
+              "uk": "Tesla Model Y — найпопулярніший електричний кросовер, який є більш практичною та вищою альтернативою Model 3. Він встановлює стандарт у сфері багажного простору та ефективності, будучи ідеальним вибором для сімей, які шукають сучасний та економічний повсякденний автомобіль.",
+              "ru": "Tesla Model Y — самый популярный электрический кроссовер, который является более практичной и более высокой альтернативой Model 3. Он устанавливает стандарты в области багажного отделения и эффективности, являясь идеальным выбором для семей, которые ищут современный и экономичный повседневный автомобиль.",
+              "zh": "Tesla Model Y 是最受欢迎的电动跨界车，是 Model 3 的更实用、更高端的替代品。它在载货空间和效率方面树立了标准，是寻求现代、经济的日常用车的家庭的理想选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Tesla, Inc.",
+                "en": "Tesla, Inc.",
+                "de": "Tesla, Inc.",
+                "uk": "Tesla, Inc.",
+                "ru": "Tesla, Inc.",
+                "zh": "特斯拉公司"
+              },
+              "okres produkcji": {
+                "pl": "od 2020",
+                "en": "from 2020",
+                "de": "ab 2020",
+                "uk": "з 2020 року",
+                "ru": "с 2020 г.",
+                "zh": "2020年起"
+              },
+              "segment": {
+                "pl": "D-SUV / Crossover",
+                "en": "D-SUV / Crossover",
+                "de": "D-SUV / Crossover",
+                "uk": "D-SUV / кросовер",
+                "ru": "D-SUV/кроссовер",
+                "zh": "D-SUV/跨界车"
+              },
+              "napęd": {
+                "pl": "RWD / Dual Motor (AWD)",
+                "en": "RWD / Dual Motor (AWD)",
+                "de": "RWD / Dual Motor (AWD)",
+                "uk": "задньопривідний / подвійний двигун (AWD)",
+                "ru": "RWD/двухмоторный (AWD)",
+                "zh": "后轮驱动 / 双电机 (AWD)"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

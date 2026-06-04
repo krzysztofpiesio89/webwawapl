@@ -1,0 +1,149 @@
+{
+  "brand": "Voyah",
+  "models": {
+    "Free": [
+      {
+        "BrandID": 227,
+        "ModelID": 416628,
+        "Brand Name": "Voyah",
+        "Model Name": "Free",
+        "Serie Name": "Free",
+        "Years": "2021 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "AWD/RWD",
+          "fuel": "Electric/EREV",
+          "engine": "Electric Motor / Range Extender",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Voyah Free to luksusowy elektryczny SUV, zaprojektowany przez studio Italdesign. Oferuje imponujące osiągi i luksusowe wnętrze.",
+              "en": "Voyah Free is a luxury electric SUV designed by Italdesign studio. It offers impressive performance and a luxurious interior.",
+              "de": "Voyah Free ist ein luxuriöses Elektro-SUV, das vom Studio Italdesign entworfen wurde. Es bietet beeindruckende Leistung und ein luxuriöses Interieur.",
+              "uk": "Voyah Free — розкішний електричний позашляховик, розроблений студією Italdesign. Він пропонує вражаючі характеристики та розкішний інтер’єр.",
+              "ru": "Voyah Free — роскошный электрический внедорожник, разработанный студией Italdesign. Он предлагает впечатляющие характеристики и роскошный интерьер.",
+              "zh": "Voyah Free是一款由Italdesign工作室设计的豪华电动SUV。它提供令人印象深刻的性能和豪华的内饰。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Voyah"
+              },
+              "okres produkcji": {
+                "pl": "od 2021",
+                "en": "from 2021",
+                "de": "ab 2021",
+                "uk": "з 2021",
+                "ru": "с 2021 года",
+                "zh": "2021 年起"
+              },
+              "segment": {
+                "pl": "E-SUV"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Dream": [
+      {
+        "BrandID": 227,
+        "ModelID": 416629,
+        "Brand Name": "Voyah",
+        "Model Name": "Dream",
+        "Serie Name": "Dream",
+        "Years": "2022 - Present",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Large Luxury MPV",
+          "drive": "AWD",
+          "fuel": "Electric/PHEV",
+          "engine": "Electric Motor / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Voyah to marka premium koncernu Dongfeng, oferująca zaawansowane samochody elektryczne o futurystycznym designie i wysokich osiągach.",
+              "en": "Voyah is a premium brand of the Dongfeng concern, offering advanced electric cars with futuristic design and high performance.",
+              "de": "Voyah ist eine Premiummarke des Dongfeng-Konzerns und bietet fortschrittliche Elektroautos mit futuristischem Design und hoher Leistung.",
+              "uk": "Voyah — преміальний бренд концерну Dongfeng, що пропонує передові електромобілі з футуристичним дизайном і високою продуктивністю.",
+              "ru": "Voyah — премиальный бренд концерна Dongfeng, предлагающий передовые электромобили с футуристическим дизайном и высокими характеристиками.",
+              "zh": "Voyah 是东风集团旗下的高端品牌，提供具有未来设计和高性能的先进电动汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dongfeng Motor Corp.",
+                "en": "Dongfeng Motor Corp.",
+                "de": "Dongfeng Motor Corp.",
+                "uk": "Dongfeng Motor Corp.",
+                "ru": "Dongfeng Motor Corp.",
+                "zh": "东风汽车公司"
+              },
+              "siedziba": {
+                "pl": "Wuhan, Chiny",
+                "en": "Wuhan, China",
+                "de": "Wuhan, China",
+                "uk": "Ухань, Китай",
+                "ru": "Ухань, Китай",
+                "zh": "中国武汉"
+              },
+              "założona": "2020"
+            }
+          }
+        }
+      }
+    ],
+    "Passion": [
+      {
+        "BrandID": 227,
+        "ModelID": 416630,
+        "Brand Name": "Voyah",
+        "Model Name": "Passion",
+        "Serie Name": "Passion (Zhuiguang)",
+        "Years": "2023 - Present",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Luxury Sedan",
+          "drive": "AWD",
+          "fuel": "Electric/PHEV",
+          "engine": "Electric Motor / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Voyah to marka premium koncernu Dongfeng, oferująca zaawansowane samochody elektryczne o futurystycznym designie i wysokich osiągach.",
+              "en": "Voyah is a premium brand of the Dongfeng group, offering advanced electric cars with futuristic design and high performance.",
+              "de": "Voyah ist eine Premiummarke der Dongfeng-Gruppe und bietet fortschrittliche Elektroautos mit futuristischem Design und hoher Leistung.",
+              "uk": "Voyah — преміальний бренд групи Dongfeng, що пропонує передові електромобілі з футуристичним дизайном і високою продуктивністю.",
+              "ru": "Voyah — бренд премиум-класса группы Dongfeng, предлагающий передовые электромобили с футуристическим дизайном и высокими характеристиками.",
+              "zh": "Voyah 是东风集团的高端品牌，提供具有未来设计和高性能的先进电动汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dongfeng Motor Corp.",
+                "en": "Dongfeng Motor Corp.",
+                "de": "Dongfeng Motor Corp.",
+                "uk": "Dongfeng Motor Corp.",
+                "ru": "Dongfeng Motor Corp.",
+                "zh": "东风汽车公司"
+              },
+              "siedziba": {
+                "pl": "Wuhan, Chiny",
+                "en": "Wuhan, China",
+                "de": "Wuhan, China",
+                "uk": "Ухань, Китай",
+                "ru": "Ухань, Китай",
+                "zh": "中国武汉"
+              },
+              "założona": "2020"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

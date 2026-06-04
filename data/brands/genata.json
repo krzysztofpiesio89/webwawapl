@@ -1,0 +1,34 @@
+{
+  "brand": "Genata",
+  "models": {
+    "": [
+      {
+        "BrandID": 212,
+        "ModelID": "",
+        "Brand Name": "Genata",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Genata (Guangdong Genata) to chiński producent motocykli i quadów, eksportujący swoje pojazdy na rynki całego świata.",
+              "en": "Genata (Guangdong Genata) is a Chinese manufacturer of motorcycles and quads, exporting its vehicles to markets around the world.",
+              "de": "Genata (Guangdong Genata) ist ein chinesischer Hersteller von Motorrädern und Quads, der seine Fahrzeuge in Märkte auf der ganzen Welt exportiert.",
+              "uk": "Genata (Guangdong Genata) — китайський виробник мотоциклів і квадроциклів, який експортує свої автомобілі на ринки по всьому світу.",
+              "ru": "Genata (Гуандун Гената) — китайский производитель мотоциклов и квадроциклов, экспортирующий свою технику на рынки всего мира.",
+              "zh": "Genata（广东Genata）是一家中国摩托车和四轮驱动汽车制造商，其车辆出口到世界各地的市场。"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

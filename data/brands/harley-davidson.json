@@ -1,0 +1,281 @@
+{
+  "brand": "Harley-Davidson",
+  "models": {
+    "": [
+      {
+        "BrandID": 194,
+        "ModelID": "",
+        "Brand Name": "Harley-Davidson",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Harley-Davidson to legendarna amerykańska marka motocykli, symbol wolności i buntu. Słynie z ciężkich cruiserów i charakterystycznego dźwięku silników V-Twin.",
+              "en": "Harley-Davidson is a legendary American motorcycle brand, a symbol of freedom and rebellion. It is famous for its heavy cruisers and the characteristic sound of V-Twin engines.",
+              "de": "Harley-Davidson ist eine legendäre amerikanische Motorradmarke, ein Symbol für Freiheit und Rebellion. Es ist berühmt für seine schweren Cruiser und den charakteristischen Sound der V-Twin-Motoren.",
+              "uk": "Harley-Davidson — легендарний американський бренд мотоциклів, символ свободи та бунтарства. Він славиться своїми важкими крейсерами і характерним звуком двигунів V-Twin.",
+              "ru": "Harley-Davidson — легендарная американская мотоциклетная марка, символ свободы и бунтарства. Он славится своими тяжелыми крейсерами и характерным звуком двигателей V-Twin.",
+              "zh": "哈雷戴维森是美国传奇摩托车品牌，自由与叛逆的象征。它以其重型巡洋舰和 V 型双缸发动机特有的声音而闻名。"
+            }
+          }
+        }
+      }
+    ],
+    "dyna": [
+      {
+        "BrandID": 194,
+        "ModelID": "",
+        "Brand Name": "Harley-Davidson",
+        "Model Name": "dyna",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle"
+        }
+      }
+    ],
+    "Dyna": [
+      {
+        "BrandID": 194,
+        "ModelID": 415623,
+        "Brand Name": "Harley-Davidson",
+        "Model Name": "dyna",
+        "Serie Name": "Dyna",
+        "Years": "1984 - 2017",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle"
+        }
+      }
+    ],
+    "Electra Glide": [
+      {
+        "BrandID": 194,
+        "ModelID": 415625,
+        "Brand Name": "Harley-Davidson",
+        "Model Name": "Electra Glide",
+        "Serie Name": "Electra Glide",
+        "Years": "1967 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle"
+        }
+      }
+    ],
+    "Fat Boy": [
+      {
+        "BrandID": 194,
+        "ModelID": 415450,
+        "Brand Name": "Harley-Davidson",
+        "Model Name": "Fat Boy",
+        "Serie Name": "Fat Boy",
+        "Years": "1980 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle"
+        }
+      }
+    ],
+    "Road Glide": [
+      {
+        "BrandID": 194,
+        "ModelID": 415641,
+        "Brand Name": "Harley-Davidson",
+        "Model Name": "Road Glide",
+        "Serie Name": "Road Glide",
+        "Years": "1990 - 2017",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle"
+        }
+      }
+    ],
+    "Road King": [
+      {
+        "BrandID": 194,
+        "ModelID": 415627,
+        "Brand Name": "Harley-Davidson",
+        "Model Name": "Road King",
+        "Serie Name": "Road King",
+        "Years": "1993 - 2017",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle"
+        }
+      }
+    ],
+    "Softail": [
+      {
+        "BrandID": 194,
+        "ModelID": 415629,
+        "Brand Name": "Harley-Davidson",
+        "Model Name": "Softail",
+        "Serie Name": "Softail",
+        "Years": "1989 - 1999",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle"
+        }
+      }
+    ],
+    "Sportster": [
+      {
+        "BrandID": 194,
+        "ModelID": 415618,
+        "Brand Name": "Harley-Davidson",
+        "Model Name": "Sportster",
+        "Serie Name": "Sportster",
+        "Years": "1980 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle"
+        }
+      }
+    ],
+    "Street": [
+      {
+        "BrandID": 194,
+        "ModelID": 415631,
+        "Brand Name": "Harley-Davidson",
+        "Model Name": "Street",
+        "Serie Name": "Street",
+        "Years": "2013 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle"
+        }
+      }
+    ],
+    "Street Glide": [
+      {
+        "BrandID": 194,
+        "ModelID": 415633,
+        "Brand Name": "Harley-Davidson",
+        "Model Name": "Street Glide",
+        "Serie Name": "Street Glide",
+        "Years": "2000 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle"
+        }
+      }
+    ],
+    "Touring": [
+      {
+        "BrandID": 194,
+        "ModelID": 415635,
+        "Brand Name": "Harley-Davidson",
+        "Model Name": "Touring",
+        "Serie Name": "Touring",
+        "Years": "1980 - 3000",
+        "specs": {
+          "bodyType": "Station Wagon",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Van"
+        }
+      }
+    ],
+    "Trike": [
+      {
+        "BrandID": 194,
+        "ModelID": 415637,
+        "Brand Name": "Harley-Davidson",
+        "Model Name": "Trike",
+        "Serie Name": "Trike",
+        "Years": "1970 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle"
+        }
+      }
+    ],
+    "V-ROD": [
+      {
+        "BrandID": 194,
+        "ModelID": 415639,
+        "Brand Name": "Harley-Davidson",
+        "Model Name": "V-ROD",
+        "Serie Name": "V-ROD",
+        "Years": "2001 - 2017",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle"
+        }
+      }
+    ]
+  }
+}

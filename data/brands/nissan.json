@@ -1,0 +1,1753 @@
+{
+  "brand": "Nissan",
+  "models": {
+    "Qashqai": [
+      {
+        "BrandID": 96,
+        "ModelID": 1139,
+        "Brand Name": "Nissan",
+        "Model Name": "Qashqai",
+        "Serie Name": "Qashqai I (J10)",
+        "Years": "2007 - 2013",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment C-SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nissan Qashqai to model, który zdefiniował segment kompaktowych crossoverów w Europie. Łączy cechy hatchbacka z praktycznością SUV-a, będąc od lat filarem sprzedaży marki.",
+              "en": "Nissan Qashqai is the model that defined the compact crossover segment in Europe. It combines the features of a hatchback with the practicality of an SUV, and has been a sales pillar of the brand for years.",
+              "de": "Nissan Qashqai ist das Modell, das das Kompakt-Crossover-Segment in Europa definiert hat. Es vereint die Eigenschaften eines Fließheckmodells mit der Zweckmäßigkeit eines SUV und ist seit Jahren ein Verkaufspfeiler der Marke.",
+              "uk": "Nissan Qashqai — модель, яка визначила сегмент компактних кросоверів у Європі. Він поєднує в собі риси хетчбека з практичністю позашляховика та є опорою продажів бренду протягом багатьох років.",
+              "ru": "Nissan Qashqai – модель, определившая сегмент компактных кроссоверов в Европе. Он сочетает в себе черты хэтчбека с практичностью внедорожника и уже много лет является основой продаж бренда.",
+              "zh": "Nissan Qashqai 是定义欧洲紧凑型跨界车细分市场的车型。它结合了掀背车的特点和SUV的实用性，多年来一直是该品牌的销售支柱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": {
+                "pl": "od 2006",
+                "en": "from 2006",
+                "de": "ab 2006",
+                "uk": "з 2006 року",
+                "ru": "2006 года.",
+                "zh": "2006 年"
+              },
+              "segment": {
+                "pl": "C-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      },
+      {
+        "BrandID": 96,
+        "ModelID": 1140,
+        "Brand Name": "Nissan",
+        "Model Name": "Qashqai+2",
+        "Serie Name": "Qashqai+2 I (J10)",
+        "Years": "2008 - 2013",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment C-SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nissan Qashqai to model, który zdefiniował segment kompaktowych crossoverów w Europie. Łączy cechy hatchbacka z praktycznością SUV-a, będąc od lat filarem sprzedaży marki.",
+              "en": "Nissan Qashqai is the model that defined the compact crossover segment in Europe. It combines the features of a hatchback with the practicality of an SUV, and has been a sales pillar of the brand for years.",
+              "de": "Nissan Qashqai ist das Modell, das das Kompakt-Crossover-Segment in Europa definierte. Es vereint die Eigenschaften eines Fließheckmodells mit der Zweckmäßigkeit eines SUV und ist seit Jahren ein Verkaufspfeiler der Marke.",
+              "uk": "Nissan Qashqai — це модель, яка визначила сегмент компактних кросоверів у Європі. Він поєднує в собі риси хетчбека з практичністю позашляховика та є опорою продажів бренду протягом багатьох років.",
+              "ru": "Nissan Qashqai — модель, определившая сегмент компактных кроссоверов в Европе. Он сочетает в себе черты хэтчбека с практичностью внедорожника и уже много лет является основой продаж бренда.",
+              "zh": "Nissan Qashqai 是定义欧洲紧凑型跨界车细分市场的车型。它结合了掀背车的特点和SUV的实用性，多年来一直是该品牌的销售支柱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": {
+                "pl": "od 2006",
+                "en": "from 2006",
+                "de": "ab 2006",
+                "uk": "з 2006 року",
+                "ru": "2006 года.",
+                "zh": "2006 年"
+              },
+              "segment": {
+                "pl": "C-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      },
+      {
+        "BrandID": 96,
+        "ModelID": 413340,
+        "Brand Name": "Nissan",
+        "Model Name": "Qashqai",
+        "Serie Name": "Qashqai II (J11)",
+        "Years": "2013 - 2021",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment C-SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L Turbo - 1.6L dCi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nissan Qashqai to model, który zdefiniował segment kompaktowych crossoverów w Europie. Łączy cechy hatchbacka z praktycznością SUV-a, będąc od lat filarem sprzedaży marki.",
+              "en": "Nissan Qashqai is the model that defined the compact crossover segment in Europe. It combines the features of a hatchback with the practicality of an SUV, and has been a sales pillar of the brand for years.",
+              "de": "Nissan Qashqai ist das Modell, das das Kompakt-Crossover-Segment in Europa definierte. Es vereint die Eigenschaften eines Fließheckmodells mit der Zweckmäßigkeit eines SUV und ist seit Jahren ein Verkaufspfeiler der Marke.",
+              "uk": "Nissan Qashqai — це модель, яка визначила сегмент компактних кросоверів у Європі. Він поєднує в собі риси хетчбека з практичністю позашляховика та є опорою продажів бренду протягом багатьох років.",
+              "ru": "Nissan Qashqai — модель, определившая сегмент компактных кроссоверов в Европе. Он сочетает в себе черты хэтчбека с практичностью внедорожника и уже много лет является основой продаж бренда.",
+              "zh": "Nissan Qashqai 是定义欧洲紧凑型跨界车细分市场的车型。它结合了掀背车的特点和SUV的实用性，多年来一直是该品牌的销售支柱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": {
+                "pl": "od 2006",
+                "en": "from 2006",
+                "de": "ab 2006",
+                "uk": "з 2006 року",
+                "ru": "2006 года.",
+                "zh": "2006 年"
+              },
+              "segment": {
+                "pl": "C-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      },
+      {
+        "BrandID": 96,
+        "ModelID": 416041,
+        "Brand Name": "Nissan",
+        "Model Name": "Qashqai",
+        "Serie Name": "Qashqai III (J12)",
+        "Years": "2021 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment C-SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Hybrid (e-Power)",
+          "engine": "1.3L Mild Hybrid - 1.5L e-Power",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nissan Qashqai to model, który zdefiniował segment kompaktowych crossoverów w Europie. Łączy cechy hatchbacka z praktycznością SUV-a, będąc od lat filarem sprzedaży marki.",
+              "en": "Nissan Qashqai is the model that defined the compact crossover segment in Europe. It combines the features of a hatchback with the practicality of an SUV, and has been a sales pillar of the brand for years.",
+              "de": "Nissan Qashqai ist das Modell, das das Kompakt-Crossover-Segment in Europa definierte. Es vereint die Eigenschaften eines Fließheckmodells mit der Zweckmäßigkeit eines SUV und ist seit Jahren ein Verkaufspfeiler der Marke.",
+              "uk": "Nissan Qashqai — це модель, яка визначила сегмент компактних кросоверів у Європі. Він поєднує в собі риси хетчбека з практичністю позашляховика та є опорою продажів бренду протягом багатьох років.",
+              "ru": "Nissan Qashqai — модель, определившая сегмент компактных кроссоверов в Европе. Он сочетает в себе черты хэтчбека с практичностью внедорожника и уже много лет является основой продаж бренда.",
+              "zh": "Nissan Qashqai 是定义欧洲紧凑型跨界车细分市场的车型。它结合了掀背车的特点和SUV的实用性，多年来一直是该品牌的销售支柱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": {
+                "pl": "od 2006",
+                "en": "from 2006",
+                "de": "aus dem Jahr 2006",
+                "uk": "з 2006 року",
+                "ru": "2006 года выпуска.",
+                "zh": "2006 年"
+              },
+              "segment": {
+                "pl": "C-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      }
+    ],
+    "Juke": [
+      {
+        "BrandID": 96,
+        "ModelID": 1111,
+        "Brand Name": "Nissan",
+        "Model Name": "Juke",
+        "Serie Name": "Juke I (F15)",
+        "Years": "2010 - 2019",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment B-SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L Turbo - 1.6L Turbo (Nismo)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nissan Juke to awangardowy crossover, który zaszokował świat swoją odważną stylistyką. Wyznaczył standardy w segmencie miejskich aut o podwyższonym prześwicie i sportowym charakterze.",
+              "en": "Nissan Juke is an avant-garde crossover that shocked the world with its bold styling. It set standards in the segment of city cars with increased ground clearance and a sporty character.",
+              "de": "Der Nissan Juke ist ein avantgardistischer Crossover, der die Welt mit seinem kühnen Design schockierte. Mit erhöhter Bodenfreiheit und sportlichem Charakter setzte er Maßstäbe im Segment der Stadtwagen.",
+              "uk": "Nissan Juke — це авангардний кросовер, який шокував світ своїм сміливим стилем. Він встановив стандарти в сегменті міських автомобілів зі збільшеним кліренсом і спортивним характером.",
+              "ru": "Nissan Juke — авангардный кроссовер, потрясший мир своим смелым стилем. Он установил стандарты в сегменте городских автомобилей с увеличенным клиренсом и спортивным характером.",
+              "zh": "Nissan Juke 是一款前卫跨界车，以其大胆的造型震惊了世界。它为城市汽车领域树立了标准，具有更大的离地间隙和运动特性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": {
+                "pl": "od 2010",
+                "en": "from 2010",
+                "de": "aus dem Jahr 2010",
+                "uk": "з 2010 року",
+                "ru": "2010 года выпуска.",
+                "zh": "2010 年款"
+              },
+              "segment": {
+                "pl": "B-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/98/mz/rf1pg9c804so004c00kc0/a.310.jpg"
+        }
+      },
+      {
+        "BrandID": 96,
+        "ModelID": 415392,
+        "Brand Name": "Nissan",
+        "Model Name": "Juke",
+        "Serie Name": "Juke II (F16)",
+        "Years": "2019 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment B-SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.0L Turbo - 1.6L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nissan Juke to awangardowy crossover, który zaszokował świat swoją odważną stylistyką. Wyznaczył standardy w segmencie miejskich aut o podwyższonym prześwicie i sportowym charakterze.",
+              "en": "Nissan Juke is an avant-garde crossover that shocked the world with its bold styling. It set standards in the segment of city cars with increased ground clearance and a sporty character.",
+              "de": "Der Nissan Juke ist ein avantgardistischer Crossover, der die Welt mit seinem kühnen Design schockierte. Mit erhöhter Bodenfreiheit und sportlichem Charakter setzte er Maßstäbe im Segment der Stadtwagen.",
+              "uk": "Nissan Juke — це авангардний кросовер, який шокував світ своїм сміливим стилем. Він встановив стандарти в сегменті міських автомобілів зі збільшеним кліренсом і спортивним характером.",
+              "ru": "Nissan Juke — авангардный кроссовер, потрясший мир своим смелым стилем. Он установил стандарты в сегменте городских автомобилей с увеличенным клиренсом и спортивным характером.",
+              "zh": "Nissan Juke 是一款前卫跨界车，以其大胆的造型震惊了世界。它为城市汽车领域树立了标准，具有更大的离地间隙和运动特性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": {
+                "pl": "od 2010",
+                "en": "from 2010",
+                "de": "ab 2010",
+                "uk": "з 2010 року",
+                "ru": "от 2010 года.",
+                "zh": "2010 年起"
+              },
+              "segment": {
+                "pl": "B-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/98/mz/rf1pg9c804so004c00kc0/a.310.jpg"
+        }
+      }
+    ],
+    "X-Trail": [
+      {
+        "BrandID": 96,
+        "ModelID": 1162,
+        "Brand Name": "Nissan",
+        "Model Name": "X-Trail",
+        "Serie Name": "X-Trail I (T30)",
+        "Years": "2001 - 2007",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment C-SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 2.5L / 2.2L dCi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nissan X-Trail to wszechstronny SUV stworzony z myślą o rodzinnych wyprawach. Ewoluował od kanciastej terenówki do nowoczesnego, zaawansowanego technicznie pojazdu z napędem e-Power.",
+              "en": "Nissan X-Trail is a versatile SUV designed for family trips. It has evolved from a boxy off-roader to a modern, technically advanced vehicle with e-Power drive.",
+              "de": "Der Nissan X-Trail ist ein vielseitiger SUV für Familienausflüge. Er hat sich vom kastenförmigen Offroader zum modernen, technisch fortschrittlichen Fahrzeug mit e-Power-Antrieb entwickelt.",
+              "uk": "Nissan X-Trail — це універсальний позашляховик, створений для сімейних поїздок. Він еволюціонував від компактного позашляховика до сучасного технічно вдосконаленого автомобіля з приводом e-Power.",
+              "ru": "Nissan X-Trail — универсальный внедорожник, созданный для семейных поездок. Он превратился из квадратного внедорожника в современный, технически совершенный автомобиль с приводом e-Power.",
+              "zh": "Nissan X-Trail 是一款专为家庭旅行设计的多功能 SUV。它已经从一辆四四方方的越野车发展成为一款技术先进、配备电力驱动的现代车辆。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": {
+                "pl": "od 2000",
+                "en": "from 2000",
+                "de": "ab 2000",
+                "uk": "з 2000 року",
+                "ru": "от 2000 года.",
+                "zh": "2000 年起"
+              },
+              "segment": {
+                "pl": "SUV / Crossover (Segment D)",
+                "en": "SUV / Crossover (D Segment)",
+                "de": "SUV/Crossover (D-Segment)",
+                "uk": "Позашляховик / кросовер (сегмент D)",
+                "ru": "Внедорожник/Кроссовер (сегмент D)",
+                "zh": "SUV / 跨界车（D 段）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/a4/ws/ax0uv74sss0csoskwogoo/nissan_x-trail-south-africa-2014_r23-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 96,
+        "ModelID": 1163,
+        "Brand Name": "Nissan",
+        "Model Name": "X-Trail",
+        "Serie Name": "X-Trail II (T31)",
+        "Years": "2007 - 2014",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment C-SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 2.5L / 2.0L dCi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nissan X-Trail to wszechstronny SUV stworzony z myślą o rodzinnych wyprawach. Ewoluował od kanciastej terenówki do nowoczesnego, zaawansowanego technicznie pojazdu z napędem e-Power.",
+              "en": "Nissan X-Trail is a versatile SUV designed for family trips. It has evolved from a boxy off-roader to a modern, technically advanced vehicle with e-Power drive.",
+              "de": "Der Nissan X-Trail ist ein vielseitiger SUV für Familienausflüge. Er hat sich vom kastenförmigen Offroader zum modernen, technisch fortschrittlichen Fahrzeug mit e-Power-Antrieb entwickelt.",
+              "uk": "Nissan X-Trail — це універсальний позашляховик, створений для сімейних поїздок. Він еволюціонував від компактного позашляховика до сучасного технічно вдосконаленого автомобіля з приводом e-Power.",
+              "ru": "Nissan X-Trail — универсальный внедорожник, предназначенный для семейных поездок. Он превратился из квадратного внедорожника в современный, технически совершенный автомобиль с приводом e-Power.",
+              "zh": "Nissan X-Trail 是一款专为家庭旅行设计的多功能 SUV。它已经从一辆四四方方的越野车发展成为一款技术先进、配备电力驱动的现代车辆。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": {
+                "pl": "od 2000",
+                "en": "from 2000",
+                "de": "ab 2000",
+                "uk": "з 2000 року",
+                "ru": "от 2000 года.",
+                "zh": "2000 年起"
+              },
+              "segment": {
+                "pl": "SUV / Crossover (Segment D)",
+                "en": "SUV / Crossover (D Segment)",
+                "de": "SUV/Crossover (D-Segment)",
+                "uk": "Позашляховик / кросовер (сегмент D)",
+                "ru": "Внедорожник/Кроссовер (сегмент D)",
+                "zh": "SUV / 跨界车（D 段）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/a4/ws/ax0uv74sss0csoskwogoo/nissan_x-trail-south-africa-2014_r23-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 96,
+        "ModelID": 413341,
+        "Brand Name": "Nissan",
+        "Model Name": "X-Trail",
+        "Serie Name": "X-Trail III (T32)",
+        "Years": "2014 - 2021",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment C-SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nissan X-Trail to wszechstronny SUV stworzony z myślą o rodzinnych wyprawach. Ewoluował od kanciastej terenówki do nowoczesnego, zaawansowanego technicznie pojazdu z napędem e-Power.",
+              "en": "Nissan X-Trail is a versatile SUV designed for family trips. It has evolved from a boxy off-roader to a modern, technically advanced vehicle with e-Power drive.",
+              "de": "Der Nissan X-Trail ist ein vielseitiger SUV für Familienausflüge. Er hat sich vom kastenförmigen Offroader zum modernen, technisch fortschrittlichen Fahrzeug mit e-Power-Antrieb entwickelt.",
+              "uk": "Nissan X-Trail — це універсальний позашляховик, створений для сімейних поїздок. Він еволюціонував від компактного позашляховика до сучасного технічно вдосконаленого автомобіля з приводом e-Power.",
+              "ru": "Nissan X-Trail — универсальный внедорожник, предназначенный для семейных поездок. Он превратился из квадратного внедорожника в современный, технически совершенный автомобиль с приводом e-Power.",
+              "zh": "Nissan X-Trail 是一款专为家庭旅行设计的多功能 SUV。它已经从一辆四四方方的越野车发展成为一款技术先进、配备电力驱动的现代车辆。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": {
+                "pl": "od 2000",
+                "en": "from 2000",
+                "de": "ab 2000",
+                "uk": "з 2000 року",
+                "ru": "от 2000 года.",
+                "zh": "2000 年起"
+              },
+              "segment": {
+                "pl": "SUV / Crossover (Segment D)",
+                "en": "SUV / Crossover (D Segment)",
+                "de": "SUV/Crossover (D-Segment)",
+                "uk": "Позашляховик / кросовер (сегмент D)",
+                "ru": "Внедорожник/Кроссовер (сегмент D)",
+                "zh": "SUV / 跨界车（D 段）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/a4/ws/ax0uv74sss0csoskwogoo/nissan_x-trail-south-africa-2014_r23-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 96,
+        "ModelID": 416562,
+        "Brand Name": "Nissan",
+        "Model Name": "X-Trail",
+        "Serie Name": "X-Trail IV (T33)",
+        "Years": "2021 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment D-SUV",
+          "drive": "AWD",
+          "fuel": "Hybrid (e-Power)",
+          "engine": "1.5L e-Power",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nissan X-Trail to wszechstronny SUV stworzony z myślą o rodzinnych wyprawach. Ewoluował od kanciastej terenówki do nowoczesnego, zaawansowanego technicznie pojazdu z napędem e-Power.",
+              "en": "Nissan X-Trail is a versatile SUV designed for family trips. It has evolved from a boxy off-roader to a modern, technically advanced vehicle with e-Power drive.",
+              "de": "Der Nissan X-Trail ist ein vielseitiger SUV für Familienausflüge. Er hat sich vom kastenförmigen Offroader zum modernen, technisch fortschrittlichen Fahrzeug mit e-Power-Antrieb entwickelt.",
+              "uk": "Nissan X-Trail — це універсальний позашляховик, створений для сімейних поїздок. Він еволюціонував від компактного позашляховика до сучасного технічно вдосконаленого автомобіля з приводом e-Power.",
+              "ru": "Nissan X-Trail — универсальный внедорожник, предназначенный для семейных поездок. Он превратился из квадратного внедорожника в современный, технически совершенный автомобиль с приводом e-Power.",
+              "zh": "Nissan X-Trail 是一款专为家庭旅行设计的多功能 SUV。它已经从一辆四四方方的越野车发展成为一款技术先进、配备电力驱动的现代车辆。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": {
+                "pl": "od 2000",
+                "en": "from 2000",
+                "de": "ab 2000",
+                "uk": "з 2000 р.",
+                "ru": "с 2000 года.",
+                "zh": "2000 年起"
+              },
+              "segment": {
+                "pl": "SUV / Crossover (Segment D)",
+                "en": "SUV / Crossover (D Segment)",
+                "de": "SUV / Crossover (D-Segment)",
+                "uk": "Позашляховик / кросовер (сегмент D)",
+                "ru": "Внедорожник/кроссовер (сегмент D)",
+                "zh": "SUV/跨界车（D 级）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/a4/ws/ax0uv74sss0csoskwogoo/nissan_x-trail-south-africa-2014_r23-jpg.310.jpg"
+        }
+      }
+    ],
+    "Micra": [
+      {
+        "BrandID": 96,
+        "ModelID": 1115,
+        "Brand Name": "Nissan",
+        "Model Name": "Micra",
+        "Serie Name": "Micra K11",
+        "Years": "1992 - 2003",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L - 1.4L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nissan Micra to ikona segmentu B. Przez dekady kojarzona z niezawodnością i zwrotnością, w najnowszych odsłonach stała się stylowym, dynamicznym autem miejskim o europejskim charakterze.",
+              "en": "Nissan Micra is an icon of the B segment. For decades associated with reliability and maneuverability, in its latest versions it has become a stylish, dynamic city car with a European character.",
+              "de": "Nissan Micra ist eine Ikone des B-Segments. Seit Jahrzehnten mit Zuverlässigkeit und Manövrierfähigkeit verbunden, hat er sich in seinen neuesten Versionen zu einem stilvollen, dynamischen Stadtauto mit europäischem Charakter entwickelt.",
+              "uk": "Nissan Micra — ікона сегмента B. Десятиліттями асоціювався з надійністю і маневреністю, в останніх версіях він став стильним, динамічним міським автомобілем з європейським характером.",
+              "ru": "Nissan Micra — икона сегмента B. За десятилетия ассоциирующийся с надежностью и маневренностью, он в своих последних модификациях превратился в стильный, динамичный городской автомобиль с европейским характером.",
+              "zh": "Nissan Micra 是 B 级的标志。几十年来，它一直致力于可靠性和机动性，在其最新版本中，它已成为一款时尚、动感且具有欧洲特色的城市汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": {
+                "pl": "od 1982",
+                "en": "since 1982",
+                "de": "seit 1982",
+                "uk": "з 1982",
+                "ru": "с 1982 года",
+                "zh": "自1982年以来"
+              },
+              "segment": {
+                "pl": "B (Miejskie)",
+                "en": "B (City)",
+                "de": "B (Stadt)",
+                "uk": "B (місто)",
+                "ru": "B (Город)",
+                "zh": "B（城市）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/62/6j/dylq3ucco0w44848k40o8/micra-4.310.jpg"
+        }
+      },
+      {
+        "BrandID": 96,
+        "ModelID": 1116,
+        "Brand Name": "Nissan",
+        "Model Name": "Micra",
+        "Serie Name": "Micra K12",
+        "Years": "2003 - 2010",
+        "specs": {
+          "bodyType": "Hatchback/Convertible",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L - 1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nissan Micra to ikona segmentu B. Przez dekady kojarzona z niezawodnością i zwrotnością, w najnowszych odsłonach stała się stylowym, dynamicznym autem miejskim o europejskim charakterze.",
+              "en": "Nissan Micra is an icon of the B segment. For decades associated with reliability and maneuverability, in its latest versions it has become a stylish, dynamic city car with a European character.",
+              "de": "Nissan Micra ist eine Ikone des B-Segments. Seit Jahrzehnten mit Zuverlässigkeit und Manövrierfähigkeit verbunden, hat er sich in seinen neuesten Versionen zu einem stilvollen, dynamischen Stadtauto mit europäischem Charakter entwickelt.",
+              "uk": "Nissan Micra є іконою сегмента B. Десятиліттями асоціювався з надійністю і маневреністю, в останніх версіях він став стильним, динамічним міським автомобілем з європейським характером.",
+              "ru": "Nissan Micra является иконой сегмента B. За десятилетия ассоциирующийся с надежностью и маневренностью, он в своих последних модификациях превратился в стильный, динамичный городской автомобиль с европейским характером.",
+              "zh": "Nissan Micra 是 B 级车的标志。几十年来，它一直致力于可靠性和机动性，在其最新版本中，它已成为一款时尚、动感且具有欧洲特色的城市汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": {
+                "pl": "od 1982",
+                "en": "from 1982",
+                "de": "von 1982",
+                "uk": "з 1982 року",
+                "ru": "с 1982 года.",
+                "zh": "自1982年以来"
+              },
+              "segment": {
+                "pl": "B (Miejskie)",
+                "en": "B (City)",
+                "de": "B (Stadt)",
+                "uk": "B (місто)",
+                "ru": "B (Город)",
+                "zh": "B（城市）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/62/6j/dylq3ucco0w44848k40o8/micra-4.310.jpg"
+        }
+      },
+      {
+        "BrandID": 96,
+        "ModelID": 1117,
+        "Brand Name": "Nissan",
+        "Model Name": "Micra",
+        "Serie Name": "Micra K13",
+        "Years": "2010 - 2016",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.2L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nissan Micra to ikona segmentu B. Przez dekady kojarzona z niezawodnością i zwrotnością, w najnowszych odsłonach stała się stylowym, dynamicznym autem miejskim o europejskim charakterze.",
+              "en": "Nissan Micra is an icon of the B segment. For decades associated with reliability and maneuverability, in its latest versions it has become a stylish, dynamic city car with a European character.",
+              "de": "Nissan Micra ist eine Ikone des B-Segments. Seit Jahrzehnten mit Zuverlässigkeit und Manövrierfähigkeit verbunden, hat er sich in seinen neuesten Versionen zu einem stilvollen, dynamischen Stadtauto mit europäischem Charakter entwickelt.",
+              "uk": "Nissan Micra є іконою сегмента B. Десятиліттями асоціювався з надійністю і маневреністю, в останніх версіях він став стильним, динамічним міським автомобілем з європейським характером.",
+              "ru": "Nissan Micra – икона сегмента B. За десятилетия ассоциирующийся с надежностью и маневренностью, он в своих последних модификациях превратился в стильный, динамичный городской автомобиль с европейским характером.",
+              "zh": "Nissan Micra 是 B 级车的标志。几十年来，它一直致力于可靠性和机动性，在其最新版本中，它已成为一款时尚、动感且具有欧洲特色的城市汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": {
+                "pl": "od 1982",
+                "en": "from 1982",
+                "de": "von 1982",
+                "uk": "з 1982 року",
+                "ru": "с 1982 года.",
+                "zh": "自1982年以来"
+              },
+              "segment": {
+                "pl": "B (Miejskie)",
+                "en": "B (City)",
+                "de": "B (Stadt)",
+                "uk": "B (місто)",
+                "ru": "B (Город)",
+                "zh": "B（城市）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/62/6j/dylq3ucco0w44848k40o8/micra-4.310.jpg"
+        }
+      },
+      {
+        "BrandID": 96,
+        "ModelID": 413342,
+        "Brand Name": "Nissan",
+        "Model Name": "Micra",
+        "Serie Name": "Micra K14",
+        "Years": "2017 - Present",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "0.9L Turbo - 1.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nissan Micra to ikona segmentu B. Przez dekady kojarzona z niezawodnością i zwrotnością, w najnowszych odsłonach stała się stylowym, dynamicznym autem miejskim o europejskim charakterze.",
+              "en": "Nissan Micra is an icon of the B segment. For decades associated with reliability and maneuverability, in its latest versions it has become a stylish, dynamic city car with a European character.",
+              "de": "Nissan Micra ist eine Ikone des B-Segments. Seit Jahrzehnten mit Zuverlässigkeit und Manövrierfähigkeit verbunden, hat er sich in seinen neuesten Versionen zu einem stilvollen, dynamischen Stadtauto mit europäischem Charakter entwickelt.",
+              "uk": "Nissan Micra є іконою сегмента B. Десятиліттями асоціювався з надійністю і маневреністю, в останніх версіях він став стильним, динамічним міським автомобілем з європейським характером.",
+              "ru": "Nissan Micra – икона сегмента B. За десятилетия ассоциирующийся с надежностью и маневренностью, он в своих последних модификациях превратился в стильный, динамичный городской автомобиль с европейским характером.",
+              "zh": "Nissan Micra 是 B 级车的标志。几十年来，它一直致力于可靠性和机动性，在其最新版本中，它已成为一款时尚、动感且具有欧洲特色的城市汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": {
+                "pl": "od 1982",
+                "en": "from 1982",
+                "de": "von 1982",
+                "uk": "1982 р.",
+                "ru": "от 1982 года.",
+                "zh": "自1982年以来"
+              },
+              "segment": {
+                "pl": "B (Miejskie)",
+                "en": "B (City)",
+                "de": "B (Stadt)",
+                "uk": "B (місто)",
+                "ru": "B (Город)",
+                "zh": "B（城市）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/62/6j/dylq3ucco0w44848k40o8/micra-4.310.jpg"
+        }
+      }
+    ],
+    "Note": [
+      {
+        "BrandID": 96,
+        "ModelID": 1122,
+        "Brand Name": "Nissan",
+        "Model Name": "Note",
+        "Serie Name": "Note I (E11)",
+        "Years": "2005 - 2013",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Small MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Nissan Note to praktyczny mikrovan, który mistrzowsko wykorzystuje przestrzeń wewnątrz kabiny. Idealny dla rodzin szukających kompaktowych wymiarów połączonych z imponującą funkcjonalnością.",
+              "en": "Nissan Note is a practical microvan that masterfully uses the space inside the cabin. Perfect for families looking for compact dimensions combined with impressive functionality.",
+              "de": "Nissan Note ist ein praktischer Kleintransporter, der den Platz im Innenraum meisterhaft nutzt. Perfekt für Familien, die kompakte Abmessungen gepaart mit beeindruckender Funktionalität suchen.",
+              "uk": "Nissan Note — практичний мікровен, який віртуозно використовує простір усередині салону. Ідеально підходить для сімей, яким потрібні компактні розміри в поєднанні з вражаючою функціональністю.",
+              "ru": "Nissan Note — практичный микровэн, мастерски использующий пространство внутри салона. Идеально подходит для семей, которым нужны компактные размеры в сочетании с впечатляющей функциональностью.",
+              "zh": "Nissan Note 是一款巧妙利用车内空间的实用微型货车。非常适合寻求紧凑尺寸和令人印象深刻的功能的家庭。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": {
+                "pl": "2004–2020 (w Europie)",
+                "en": "2004–2020 (in Europe)",
+                "de": "2004–2020 (in Europa)",
+                "uk": "2004–2020 (в Європі)",
+                "ru": "2004–2020 (в Европе)",
+                "zh": "2004–2020（欧洲）"
+              },
+              "segment": {
+                "pl": "B-MPV / Microvan",
+                "en": "B-MPV / Microvan",
+                "de": "B-MPV / Microvan",
+                "uk": "B-MPV / Microvan",
+                "ru": "B-MPV/Микровэн",
+                "zh": "B-MPV/微型货车"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ct/t8/vam15q0w8s4k84wg4gkww/nissan-note-02.310.jpg"
+        }
+      },
+      {
+        "BrandID": 96,
+        "ModelID": 413343,
+        "Brand Name": "Nissan",
+        "Model Name": "Note",
+        "Serie Name": "Note II (E12)",
+        "Years": "2013 - 2017",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L - 1.5L dCi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nissan Note to praktyczny mikrovan, który mistrzowsko wykorzystuje przestrzeń wewnątrz kabiny. Idealny dla rodzin szukających kompaktowych wymiarów połączonych z imponującą funkcjonalnością.",
+              "en": "The Nissan Note is a practical microvan that masterfully uses the space inside the cabin. Perfect for families looking for compact dimensions combined with impressive functionality.",
+              "de": "Der Nissan Note ist ein praktischer Microvan, der den Platz im Innenraum gekonnt nutzt. Perfekt für Familien, die kompakte Abmessungen gepaart mit beeindruckender Funktionalität suchen.",
+              "uk": "Nissan Note — це практичний мікровен, який майстерно використовує простір у салоні. Ідеально підходить для сімей, яким потрібні компактні розміри в поєднанні з вражаючою функціональністю.",
+              "ru": "Nissan Note — практичный микровэн, мастерски использующий пространство внутри салона. Идеально подходит для семей, которым нужны компактные размеры в сочетании с впечатляющей функциональностью.",
+              "zh": "Nissan Note 是一款巧妙利用车内空间的实用微型货车。非常适合寻求紧凑尺寸和令人印象深刻的功能的家庭。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": {
+                "pl": "2004–2020 (w Europie)",
+                "en": "2004–2020 (in Europe)",
+                "de": "2004–2020 (in Europa)",
+                "uk": "2004–2020 (в Європі)",
+                "ru": "2004–2020 (в Европе)",
+                "zh": "2004–2020（欧洲）"
+              },
+              "segment": {
+                "pl": "B-MPV / Microvan",
+                "en": "B-MPV / Microvan",
+                "de": "B-MPV / Microvan",
+                "uk": "B-MPV / Microvan",
+                "ru": "B-MPV / Microvan",
+                "zh": "B-MPV/微型货车"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ct/t8/vam15q0w8s4k84wg4gkww/nissan-note-02.310.jpg"
+        }
+      }
+    ],
+    "Leaf": [
+      {
+        "BrandID": 96,
+        "ModelID": 1112,
+        "Brand Name": "Nissan",
+        "Model Name": "Leaf",
+        "Serie Name": "Leaf I (ZE0)",
+        "Years": "2010 - 2017",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Electric",
+          "engine": "Electric Motor 24kWh/30kWh",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nissan Leaf to światowy pionier masowej elektromobilności. Był pierwszym przystępnym cenowo, w pełni elektrycznym autem, które udowodniło, że przyszłość bez spalin jest możliwa.",
+              "en": "Nissan Leaf is a global pioneer of mass electromobility. It was the first affordable, fully electric car that proved that a future without exhaust gases was possible.",
+              "de": "Nissan Leaf ist ein weltweiter Pionier der Massenelektromobilität. Es war das erste erschwingliche, vollelektrische Auto, das bewies, dass eine Zukunft ohne Abgase möglich ist.",
+              "uk": "Nissan Leaf є світовим піонером масової електромобільності. Це був перший доступний, повністю електричний автомобіль, який довів, що майбутнє без вихлопних газів можливе.",
+              "ru": "Nissan Leaf — мировой пионер массовой электромобильности. Это был первый доступный полностью электрический автомобиль, доказавший, что будущее без выхлопных газов возможно.",
+              "zh": "Nissan Leaf 是大众电动汽车的全球先驱。这是第一辆价格实惠的全电动汽车，证明了没有废气的未来是可能的。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": {
+                "pl": "od 2010",
+                "en": "from 2010",
+                "de": "ab 2010",
+                "uk": "з 2010",
+                "ru": "с 2010 года.",
+                "zh": "自2010年以来"
+              },
+              "segment": {
+                "pl": "C (Kompaktowe / EV)",
+                "en": "C (Compact / EV)",
+                "de": "C (Compact / EV)",
+                "uk": "C (Compact / EV)",
+                "ru": "C (компактный / электромобиль)",
+                "zh": "C（紧凑型/电动车）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/uh/yf/4odbhjk8s4cokw4kgo8o/nissan-leaf.310.jpg"
+        }
+      },
+      {
+        "BrandID": 96,
+        "ModelID": 414263,
+        "Brand Name": "Nissan",
+        "Model Name": "Leaf",
+        "Serie Name": "Leaf II (ZE1)",
+        "Years": "2017 - Present",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Electric",
+          "engine": "Electric Motor 40kWh/62kWh",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nissan Leaf to światowy pionier masowej elektromobilności. Był pierwszym przystępnym cenowo, w pełni elektrycznym autem, które udowodniło, że przyszłość bez spalin jest możliwa.",
+              "en": "Nissan Leaf is a global pioneer of mass electromobility. It was the first affordable, fully electric car that proved that a future without exhaust gases was possible.",
+              "de": "Nissan Leaf ist ein weltweiter Pionier der Massenelektromobilität. Es war das erste erschwingliche, vollelektrische Auto, das bewies, dass eine Zukunft ohne Abgase möglich ist.",
+              "uk": "Nissan Leaf є світовим піонером масової електромобільності. Це був перший доступний, повністю електричний автомобіль, який довів, що майбутнє без вихлопних газів можливе.",
+              "ru": "Nissan Leaf — мировой пионер массовой электромобильности. Это был первый доступный полностью электрический автомобиль, доказавший, что будущее без выхлопных газов возможно.",
+              "zh": "Nissan Leaf 是大众电动汽车的全球先驱。这是第一辆价格实惠的全电动汽车，证明了没有废气的未来是可能的。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": {
+                "pl": "od 2010",
+                "en": "from 2010",
+                "de": "ab 2010",
+                "uk": "з 2010 року",
+                "ru": "от 2010 года.",
+                "zh": "自2010年以来"
+              },
+              "segment": {
+                "pl": "C (Kompaktowe / EV)",
+                "en": "C (Compact / EV)",
+                "de": "C (Compact / EV)",
+                "uk": "C (Compact / EV)",
+                "ru": "C (Compact/EV)",
+                "zh": "C（紧凑型/电动车）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/uh/yf/4odbhjk8s4cokw4kgo8o/nissan-leaf.310.jpg"
+        }
+      }
+    ],
+    "Navara": [
+      {
+        "BrandID": 96,
+        "ModelID": 1120,
+        "Brand Name": "Nissan",
+        "Model Name": "Navara",
+        "Serie Name": "Navara D22",
+        "Years": "1997 - 2004",
+        "specs": {
+          "bodyType": "Pickup",
+          "segment": "Mid-size Pickup",
+          "drive": "4WD",
+          "fuel": "Diesel",
+          "engine": "2.5L TD",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Nissan Navara to pickup, który udowodnił, że auto do ciężkiej pracy może być też komfortowe i stylowe. Słynie z solidnej konstrukcji, dużej ładowności i zaawansowanych systemów napędu 4x4.",
+              "en": "Nissan Navara is a pickup that proved that a car for hard work can also be comfortable and stylish. It is famous for its solid construction, high load capacity and advanced 4x4 drive systems.",
+              "de": "Nissan Navara ist ein Pickup, der bewiesen hat, dass ein Auto für harte Arbeit auch komfortabel und stilvoll sein kann. Es ist bekannt für seine solide Bauweise, hohe Tragfähigkeit und fortschrittliche 4x4-Antriebssysteme.",
+              "uk": "Nissan Navara — пікап, який довів, що автомобіль для важкої роботи також може бути комфортним і стильним. Він відомий своєю міцною конструкцією, високою вантажопідйомністю та вдосконаленою системою приводу 4x4.",
+              "ru": "Nissan Navara — пикап, доказавший, что автомобиль для тяжелой работы также может быть комфортным и стильным. Он известен своей прочной конструкцией, высокой грузоподъемностью и передовой системой привода 4х4.",
+              "zh": "日产 Navara 是一款皮卡，它证明了一辆适合艰苦工作的汽车也可以舒适而时尚。它以其坚固的结构、高负载能力和先进的 4x4 驱动系统而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": {
+                "pl": "od 1985 (jako D21)",
+                "en": "since 1985 (as D21)",
+                "de": "seit 1985 (als D21)",
+                "uk": "з 1985 (як D21)",
+                "ru": "с 1985 г. (как D21)",
+                "zh": "自 1985 年起（作为 D21）"
+              },
+              "segment": {
+                "pl": "Pickup"
+              },
+              "napęd": {
+                "pl": "FWD/4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/88/p4/23wvmqccwkw84k4o8scok/nissan-navara-7.310.jpg"
+        }
+      },
+      {
+        "BrandID": 96,
+        "ModelID": 1121,
+        "Brand Name": "Nissan",
+        "Model Name": "Navara",
+        "Serie Name": "Navara D40",
+        "Years": "2005 - 2015",
+        "specs": {
+          "bodyType": "Pickup",
+          "segment": "Mid-size Pickup",
+          "drive": "4WD",
+          "fuel": "Diesel",
+          "engine": "2.5L dCi - 3.0L V6 dCi",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Nissan Navara to pickup, który udowodnił, że auto do ciężkiej pracy może być też komfortowe i stylowe. Słynie z solidnej konstrukcji, dużej ładowności i zaawansowanych systemów napędu 4x4.",
+              "en": "Nissan Navara is a pickup that proved that a car for hard work can also be comfortable and stylish. It is famous for its solid construction, high load capacity and advanced 4x4 drive systems.",
+              "de": "Der Nissan Navara ist ein Pickup, der bewiesen hat, dass ein Auto für harte Arbeit auch komfortabel und stilvoll sein kann. Es ist bekannt für seine solide Bauweise, hohe Tragfähigkeit und fortschrittliche 4x4-Antriebssysteme.",
+              "uk": "Nissan Navara – пікап, який довів, що автомобіль для важкої роботи може бути комфортним і стильним. Він відомий своєю міцною конструкцією, високою вантажопідйомністю та вдосконаленою системою приводу 4x4.",
+              "ru": "Nissan Navara – пикап, доказавший, что автомобиль для тяжелой работы также может быть комфортным и стильным. Он известен своей прочной конструкцией, высокой грузоподъемностью и передовой системой привода 4х4.",
+              "zh": "日产 Navara 是一款皮卡，它证明了一辆适合艰苦工作的汽车也可以舒适而时尚。它以其坚固的结构、高负载能力和先进的 4x4 驱动系统而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": {
+                "pl": "od 1985 (jako D21)",
+                "en": "since 1985 (as D21)",
+                "de": "seit 1985 (als D21)",
+                "uk": "з 1985 року (як D21)",
+                "ru": "с 1985 года (как D21)",
+                "zh": "自 1985 年以来（作为 D21）"
+              },
+              "segment": {
+                "pl": "Pickup"
+              },
+              "napęd": {
+                "pl": "FWD/4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/88/p4/23wvmqccwkw84k4o8scok/nissan-navara-7.310.jpg"
+        }
+      },
+      {
+        "BrandID": 96,
+        "ModelID": 414264,
+        "Brand Name": "Nissan",
+        "Model Name": "Navara",
+        "Serie Name": "Navara NP300 (D23)",
+        "Years": "2015 - Present",
+        "specs": {
+          "bodyType": "Pickup",
+          "segment": "Mid-size Pickup",
+          "drive": "4WD",
+          "fuel": "Diesel",
+          "engine": "2.3L dCi Twin Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Nissan to jeden z największych japońskich producentów, pionier aut elektrycznych (Leaf) i twórca legendy GT-R. Partner Renault.",
+              "en": "Nissan is one of the largest Japanese manufacturers, a pioneer of electric cars (Leaf) and the creator of the GT-R legend. Renault partner.",
+              "de": "Nissan ist einer der größten japanischen Hersteller, ein Pionier der Elektroautos (Leaf) und der Schöpfer der GT-R-Legende. Renault-Partner.",
+              "uk": "Nissan — один із найбільших японських виробників, піонер електромобілів (Leaf) і творець легенди GT-R. Партнер Renault.",
+              "ru": "Nissan — один из крупнейших японских производителей, пионер электромобилей (Leaf) и создатель легенды GT-R. Партнер Рено.",
+              "zh": "日产是日本最大的制造商之一，电动汽车（Leaf）的先驱和 GT-R 传奇的创造者。雷诺合作伙伴。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan Motor Co.",
+                "en": "Nissan Motor Co.",
+                "de": "Nissan Motor Co.",
+                "uk": "Nissan Motor Co.",
+                "ru": "Nissan Motor Co.",
+                "zh": "日产汽车公司"
+              },
+              "siedziba": {
+                "pl": "Jokohama, Japonia",
+                "en": "Yokohama, Japan",
+                "de": "Yokohama, Japan",
+                "uk": "Йокогама, Японія",
+                "ru": "Иокогама, Япония",
+                "zh": "日本横滨"
+              },
+              "założona": "1933"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/88/p4/23wvmqccwkw84k4o8scok/nissan-navara-7.310.jpg"
+        }
+      }
+    ],
+    "Patrol": [
+      {
+        "BrandID": 96,
+        "ModelID": 1126,
+        "Brand Name": "Nissan",
+        "Model Name": "Patrol",
+        "Serie Name": "Patrol GR Y60",
+        "Years": "1987 - 1997",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size SUV",
+          "drive": "4WD",
+          "fuel": "Diesel",
+          "engine": "2.8L TD - 4.2L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nissan Patrol to potężna terenówka, legenda pustyni i bezdroży. Znany z niesamowitej wytrzymałości konstrukcji na ramie, stał się wyborem służb ratunkowych i miłośników ekstremalnego off-roadu na całym świecie.",
+              "en": "Nissan Patrol is a powerful off-road vehicle, a legend of the desert and wilderness. Known for the incredible durability of its frame-on-frame construction, it has become the choice of emergency services and extreme off-road enthusiasts around the world.",
+              "de": "Nissan Patrol ist ein leistungsstarkes Geländefahrzeug, eine Legende der Wüste und Wildnis. Bekannt für die unglaubliche Haltbarkeit seiner Rahmen-auf-Rahmen-Konstruktion, ist es zur ersten Wahl von Rettungsdiensten und Extrem-Offroad-Enthusiasten auf der ganzen Welt geworden.",
+              "uk": "Nissan Patrol — потужний позашляховик, легенда пустелі та дикої природи. Відомий неймовірною довговічністю своєї рамної конструкції, він став вибором екстрених служб і любителів екстремального бездоріжжя в усьому світі.",
+              "ru": "Nissan Patrol — мощный внедорожник, легенда пустыни и дикой природы. Известный своей невероятной прочностью рамной конструкции, он стал выбором экстренных служб и любителей экстремального бездорожья по всему миру.",
+              "zh": "Nissan Patrol 是一款强大的越野车，是沙漠和荒野的传奇。它以其框架结构的令人难以置信的耐用性而闻名，已成为世界各地紧急服务和极限越野爱好者的选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": {
+                "pl": "od 1951",
+                "en": "from 1951",
+                "de": "von 1951",
+                "uk": "з 1951 року",
+                "ru": "1951 года.",
+                "zh": "源自 1951 年"
+              },
+              "segment": {
+                "pl": "Full-size SUV / Off-road",
+                "en": "Full-size SUV / Off-road",
+                "de": "Full-Size-SUV / Geländewagen",
+                "uk": "Повнорозмірний позашляховик / позашляховик",
+                "ru": "Полноразмерный внедорожник/внедорожник",
+                "zh": "全尺寸 SUV/越野"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/em/e6/nirej2o8w0k44wsw4o0og/patrol-2.310.jpg"
+        }
+      },
+      {
+        "BrandID": 96,
+        "ModelID": 1127,
+        "Brand Name": "Nissan",
+        "Model Name": "Patrol",
+        "Serie Name": "Patrol GR Y61",
+        "Years": "1997 - 2010",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size SUV",
+          "drive": "4WD",
+          "fuel": "Diesel",
+          "engine": "2.8L - 3.0L Di",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nissan Patrol to potężna terenówka, legenda pustyni i bezdroży. Znany z niesamowitej wytrzymałości konstrukcji na ramie, stał się wyborem służb ratunkowych i miłośników ekstremalnego off-roadu na całym świecie.",
+              "en": "Nissan Patrol is a powerful off-road vehicle, a legend of the desert and wilderness. Known for the incredible durability of its frame-on-frame construction, it has become the choice of emergency services and extreme off-road enthusiasts around the world.",
+              "de": "Nissan Patrol ist ein leistungsstarkes Geländewagen, eine Legende der Wüste und Wildnis. Bekannt für die unglaubliche Haltbarkeit seiner Rahmen-auf-Rahmen-Konstruktion, ist es zur ersten Wahl von Rettungsdiensten und Extrem-Offroad-Enthusiasten auf der ganzen Welt geworden.",
+              "uk": "Nissan Patrol — потужний позашляховик, легенда пустелі та дикої природи. Відомий неймовірною довговічністю своєї рамної конструкції, він став вибором екстрених служб і любителів екстремального бездоріжжя в усьому світі.",
+              "ru": "Nissan Patrol — мощный внедорожник, легенда пустыни и дикой природы. Известный своей невероятной прочностью рамной конструкции, он стал выбором экстренных служб и любителей экстремального бездорожья по всему миру.",
+              "zh": "Nissan Patrol 是一款强大的越野车，沙漠和荒野的传奇。它以其框架结构的令人难以置信的耐用性而闻名，已成为世界各地紧急服务和极限越野爱好者的选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": {
+                "pl": "od 1951",
+                "en": "since 1951",
+                "de": "seit 1951",
+                "uk": "з 1951 року",
+                "ru": "с 1951 года.",
+                "zh": "自 1951 年以来"
+              },
+              "segment": {
+                "pl": "Full-size SUV / Off-road",
+                "en": "Full-size SUV / Off-road",
+                "de": "Full-Size-SUV / Offroad",
+                "uk": "Повнорозмірний позашляховик / позашляховик",
+                "ru": "Полноразмерный внедорожник/внедорожник",
+                "zh": "全尺寸 SUV/越野"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/em/e6/nirej2o8w0k44wsw4o0og/patrol-2.310.jpg"
+        }
+      }
+    ],
+    "Pathfinder": [
+      {
+        "BrandID": 96,
+        "ModelID": 1125,
+        "Brand Name": "Nissan",
+        "Model Name": "Pathfinder",
+        "Serie Name": "Pathfinder R50",
+        "Years": "1995 - 2004",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline",
+          "engine": "3.3L - 3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nissan Pathfinder to model, który ewoluował od surowej terenówki do luksusowego, rodzinnego SUV-a. Oferuje potężne silniki V6, przestronne wnętrze i pewność prowadzenia w każdych warunkach.",
+              "en": "Nissan Pathfinder is a model that has evolved from a raw off-roader to a luxurious family SUV. It offers powerful V6 engines, a spacious interior and confident driving in all conditions.",
+              "de": "Nissan Pathfinder ist ein Modell, das sich von einem rohen Offroader zu einem luxuriösen Familien-SUV entwickelt hat. Er bietet leistungsstarke V6-Motoren, einen geräumigen Innenraum und sicheres Fahren unter allen Bedingungen.",
+              "uk": "Nissan Pathfinder — це модель, яка еволюціонувала від сирого позашляховика до розкішного сімейного позашляховика. Він пропонує потужні двигуни V6, просторий салон і впевнену їзду в будь-яких умовах.",
+              "ru": "Nissan Pathfinder — модель, которая превратилась из сырого внедорожника в роскошный семейный внедорожник. Он предлагает мощные двигатели V6, просторный салон и уверенную езду в любых условиях.",
+              "zh": "Nissan Pathfinder 是一款从原始越野车演变为豪华家庭 SUV 的车型。它提供强大的 V6 发动机、宽敞的内部空间和在所有条件下自信的驾驶体验。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": {
+                "pl": "od 1985",
+                "en": "from 1985",
+                "de": "von 1985",
+                "uk": "з 1985 року",
+                "ru": "1985 года.",
+                "zh": "1985 年生产"
+              },
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний позашляховик",
+                "ru": "Среднеразмерный внедорожник.",
+                "zh": "中型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/36/je/janw0bgg0cc0w84wkccg8/pathfinder-r51.310.jpg"
+        }
+      },
+      {
+        "BrandID": 96,
+        "ModelID": 1124,
+        "Brand Name": "Nissan",
+        "Model Name": "Pathfinder",
+        "Serie Name": "Pathfinder R51",
+        "Years": "2005 - 2012",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "4WD",
+          "fuel": "Diesel/Gasoline",
+          "engine": "2.5L dCi - 4.0L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nissan Pathfinder to model, który ewoluował od surowej terenówki do luksusowego, rodzinnego SUV-a. Oferuje potężne silniki V6, przestronne wnętrze i pewność prowadzenia w każdych warunkach.",
+              "en": "Nissan Pathfinder is a model that has evolved from a raw off-roader to a luxurious family SUV. It offers powerful V6 engines, a spacious interior and confident driving in all conditions.",
+              "de": "Der Nissan Pathfinder ist ein Modell, das sich von einem rohen Offroader zu einem luxuriösen Familien-SUV entwickelt hat. Er bietet leistungsstarke V6-Motoren, einen geräumigen Innenraum und sicheres Fahren unter allen Bedingungen.",
+              "uk": "Nissan Pathfinder — це модель, яка еволюціонувала від сирого позашляховика до розкішного сімейного позашляховика. Він пропонує потужні двигуни V6, просторий салон і впевнену їзду в будь-яких умовах.",
+              "ru": "Nissan Pathfinder — модель, которая превратилась из простого внедорожника в роскошный семейный внедорожник. Он предлагает мощные двигатели V6, просторный салон и уверенную езду в любых условиях.",
+              "zh": "Nissan Pathfinder 是一款从原始越野车演变为豪华家庭 SUV 的车型。它提供强大的 V6 发动机、宽敞的内部空间和在所有条件下自信的驾驶体验。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": {
+                "pl": "od 1985",
+                "en": "since 1985",
+                "de": "seit 1985",
+                "uk": "з 1985 року",
+                "ru": "с 1985 года.",
+                "zh": "始于 1985 年"
+              },
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний SUV",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/36/je/janw0bgg0cc0w84wkccg8/pathfinder-r51.310.jpg"
+        }
+      },
+      {
+        "BrandID": 96,
+        "ModelID": 414265,
+        "Brand Name": "Nissan",
+        "Model Name": "Pathfinder",
+        "Serie Name": "Pathfinder R52",
+        "Years": "2013 - 2021",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Nissan to jeden z największych japońskich producentów, pionier aut elektrycznych (Leaf) i twórca legendy GT-R. Partner Renault.",
+              "en": "Nissan is one of the largest Japanese manufacturers, a pioneer of electric cars (Leaf) and the creator of the GT-R legend. Renault partner.",
+              "de": "Nissan ist einer der größten japanischen Hersteller, ein Pionier der Elektroautos (Leaf) und der Schöpfer der GT-R-Legende. Renault-Partner.",
+              "uk": "Nissan — один із найбільших японських виробників, піонер електромобілів (Leaf) і творець легенди GT-R. Партнер Renault.",
+              "ru": "Nissan — один из крупнейших японских производителей, пионер электромобилей (Leaf) и создатель легенды GT-R. Партнер Рено.",
+              "zh": "日产是日本最大的制造商之一、电动汽车（Leaf）的先驱和 GT-R 传奇的创造者。雷诺合作伙伴。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan Motor Co.",
+                "en": "Nissan Motor Co.",
+                "de": "Nissan Motor Co.",
+                "uk": "Nissan Motor Co.",
+                "ru": "Nissan Motor Co.",
+                "zh": "日产汽车公司"
+              },
+              "siedziba": {
+                "pl": "Jokohama, Japonia",
+                "en": "Yokohama, Japan",
+                "de": "Yokohama, Japan",
+                "uk": "Йокогама, Японія",
+                "ru": "Иокогама, Япония",
+                "zh": "日本横滨"
+              },
+              "założona": "1933"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/36/je/janw0bgg0cc0w84wkccg8/pathfinder-r51.310.jpg"
+        }
+      }
+    ],
+    "GT-R": [
+      {
+        "BrandID": 96,
+        "ModelID": 1109,
+        "Brand Name": "Nissan",
+        "Model Name": "GT-R",
+        "Serie Name": "GT-R (R35)",
+        "Years": "2007 - Present",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sports Car",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "3.8L V6 Twin Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nissan GT-R, znany jako 'Godzilla', to pogromca supersamochodów. Dzięki zaawansowanemu napędowi AWD i silnikowi V6 Twin Turbo, oferuje osiągi, które rzucają wyzwanie najdroższym egzotykom na świecie.",
+              "en": "The Nissan GT-R, known as 'Godzilla', is a supercar killer. Thanks to its advanced AWD drive and V6 Twin Turbo engine, it offers performance that challenges the most expensive exotics in the world.",
+              "de": "Der Nissan GT-R, bekannt als „Godzilla“, ist ein Supersportwagen-Killer. Dank seines fortschrittlichen Allradantriebs und des V6-Twin-Turbo-Motors bietet er eine Leistung, die die teuersten Exoten der Welt herausfordert.",
+              "uk": "Nissan GT-R, відомий як «Годзілла», — вбивця суперкарів. Завдяки вдосконаленому повному приводу та двигуну V6 Twin Turbo, він пропонує продуктивність, яка кидає виклик найдорожчим екзотикам у світі.",
+              "ru": "Nissan GT-R, известный как «Годзилла», — убийца суперкаров. Благодаря усовершенствованному приводу AWD и двигателю V6 Twin Turbo он предлагает производительность, которая бросает вызов самой дорогой экзотике в мире.",
+              "zh": "日产 GT-R，被称为“哥斯拉”，是超级跑车杀手。得益于其先进的全轮驱动驱动和 V6 双涡轮增压发动机，它提供的性能足以挑战世界上最昂贵的异国情调。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": {
+                "pl": "od 2007 (jako R35)",
+                "en": "from 2007 (as R35)",
+                "de": "ab 2007 (als R35)",
+                "uk": "з 2007 року (як R35)",
+                "ru": "2007 года (как R35)",
+                "zh": "2007 年起（如 R35）"
+              },
+              "segment": {
+                "pl": "Samochód sportowy / Supersamochód",
+                "en": "Sports car / Supercar",
+                "de": "Sportwagen / Supercar",
+                "uk": "Спортивний автомобіль/суперкар",
+                "ru": "Спортивный автомобиль/суперкар",
+                "zh": "跑车/超级跑车"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/d4/5g/j5stxzww8sk0s4kwk4osw/gt-r.310.jpg"
+        }
+      }
+    ],
+    "350Z": [
+      {
+        "BrandID": 96,
+        "ModelID": 1091,
+        "Brand Name": "Nissan",
+        "Model Name": "350Z",
+        "Serie Name": "350Z (Z33)",
+        "Years": "2002 - 2009",
+        "specs": {
+          "bodyType": "Coupe/Roadster",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nissan 350Z to powrót legendarnej serii Z w wielkim stylu. Klasyczny układ z silnikiem V6 z przodu i napędem na tył uczynił z niego ulubieńca drifterów i entuzjastów czystej radości z jazdy.",
+              "en": "The Nissan 350Z is the return of the legendary Z series in style. The classic V6 front-engine, rear-drive layout has made it a favorite of drifters and enthusiasts of pure driving fun.",
+              "de": "Der Nissan 350Z ist die stilvolle Rückkehr der legendären Z-Serie. Das klassische V6-Layout mit Frontmotor und Heckantrieb hat ihn zum Liebling von Driftern und Liebhabern puren Fahrspaßes gemacht.",
+              "uk": "Nissan 350Z — це стильне повернення легендарної серії Z. Класичне розташування двигуна V6 із заднім приводом зробило його фаворитом дрифтерів та ентузіастів чистого задоволення від водіння.",
+              "ru": "Nissan 350Z — это стильное возвращение легендарной серии Z. Классический V6 с передним расположением двигателя и задним приводом сделал его фаворитом дрифтеров и любителей чистого удовольствия от вождения.",
+              "zh": "Nissan 350Z 是传奇 Z 系列风格的回归。经典的V6前置后驱布局使其成为漂流者和纯粹驾驶乐趣爱好者的最爱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": "2002–2009",
+              "segment": {
+                "pl": "G (Samochód sportowy)",
+                "en": "G (Sports car)",
+                "de": "G (Sportwagen)",
+                "uk": "G (Спорткар)",
+                "ru": "G (Спортивный автомобиль)",
+                "zh": "G（跑车）"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "370Z": [
+      {
+        "BrandID": 96,
+        "ModelID": 1092,
+        "Brand Name": "Nissan",
+        "Model Name": "370Z",
+        "Serie Name": "370Z (Z34)",
+        "Years": "2009 - 2020",
+        "specs": {
+          "bodyType": "Coupe/Roadster",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.7L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nissan 370Z kontynuuje DNA swoich poprzedników, oferując jeszcze lepsze osiągi i dopracowane prowadzenie. To jeden z ostatnich przedstawicieli 'starej szkoły' aut sportowych z wolnossącym V6.",
+              "en": "The Nissan 370Z continues the DNA of its predecessors, offering even better performance and refined handling. This is one of the last representatives of the 'old school' sports cars with a naturally aspirated V6.",
+              "de": "Der Nissan 370Z setzt die DNA seiner Vorgänger fort und bietet noch bessere Leistung und verfeinertes Handling. Dies ist einer der letzten Vertreter der Sportwagen der „alten Schule“ mit einem V6-Saugmotor.",
+              "uk": "Nissan 370Z продовжує ДНК своїх попередників, пропонуючи ще кращу продуктивність і вишукану керованість. Це один з останніх представників спорткарів «старої школи» з атмосферним V6.",
+              "ru": "Nissan 370Z продолжает ДНК своих предшественников, предлагая еще лучшую производительность и улучшенное управление. Это один из последних представителей спорткаров «старой школы» с атмосферным двигателем V6.",
+              "zh": "Nissan 370Z 延续了其前辈的 DNA，提供更好的性能和精致的操控性。这是配备自然吸气 V6 发动机的“老派”跑车的最后代表之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": "2009–2020",
+              "segment": {
+                "pl": "G (Samochód sportowy)",
+                "en": "G (Sports car)",
+                "de": "G (Sportwagen)",
+                "uk": "G (Спорткар)",
+                "ru": "G (Спортивный автомобиль)",
+                "zh": "G（跑车）"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Almera": [
+      {
+        "BrandID": 96,
+        "ModelID": 413371,
+        "Brand Name": "Nissan",
+        "Model Name": "Almera",
+        "Serie Name": "Almera N15",
+        "Years": "1995 - 2000",
+        "specs": {
+          "bodyType": "Hatchback/Sedan",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 2.0L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nissan Almera (oraz Almera Tino) to solidny i bezproblemowy przedstawiciel klasy kompaktowej. Ceniony za trwałość mechaniczną i proste rozwiązania, przez lata był jednym z najchętniej wybieranych aut używanych w Polsce.",
+              "en": "Nissan Almera (and Almera Tino) is a solid and trouble-free representative of the compact class. Appreciated for its mechanical durability and simple solutions, for years it was one of the most frequently chosen used cars in Poland.",
+              "de": "Nissan Almera (und Almera Tino) ist ein solider und störungsfreier Vertreter der Kompaktklasse. Es wurde für seine mechanische Haltbarkeit und seine einfachen Lösungen geschätzt und war jahrelang einer der am häufigsten gewählten Gebrauchtwagen in Polen.",
+              "uk": "Nissan Almera (і Almera Tino) - солідний і безпроблемний представник компактного класу. Його цінували за його механічну міцність і прості рішення, протягом багатьох років він був одним із найбільш часто вибираних вживаних автомобілів у Польщі.",
+              "ru": "Nissan Almera (и Almera Tino) – добротный и безотказный представитель компактного класса. Ценимый за свою механическую прочность и простоту решений, в течение многих лет он был одним из наиболее часто выбираемых подержанных автомобилей в Польше.",
+              "zh": "Nissan Almera（和 Almera Tino）是紧凑型车中坚固且无故障的代表。因其机械耐用性和简单的解决方案而受到赞赏，多年来它一直是波兰最常选择使用的汽车之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": "1995–2006",
+              "segment": {
+                "pl": "C (Kompaktowe / MPV)",
+                "en": "C (Compact / MPV)",
+                "de": "C (Kompakt / MPV)",
+                "uk": "C (Compact / MPV)",
+                "ru": "C (компактный/MPV)",
+                "zh": "C（紧凑型/MPV）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/be/mh/kz3s03cwkk8ksogs4cc0o/almera-2-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 96,
+        "ModelID": 413372,
+        "Brand Name": "Nissan",
+        "Model Name": "Almera",
+        "Serie Name": "Almera N16",
+        "Years": "2000 - 2006",
+        "specs": {
+          "bodyType": "Hatchback/Sedan",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.5L - 2.2L dCi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nissan Almera (oraz Almera Tino) to solidny i bezproblemowy przedstawiciel klasy kompaktowej. Ceniony za trwałość mechaniczną i proste rozwiązania, przez lata był jednym z najchętniej wybieranych aut używanych w Polsce.",
+              "en": "Nissan Almera (and Almera Tino) is a solid and trouble-free representative of the compact class. Appreciated for its mechanical durability and simple solutions, for years it was one of the most frequently chosen used cars in Poland.",
+              "de": "Nissan Almera (und Almera Tino) ist ein solider und störungsfreier Vertreter der Kompaktklasse. Es wurde für seine mechanische Haltbarkeit und seine einfachen Lösungen geschätzt und war jahrelang einer der am häufigsten gewählten Gebrauchtwagen in Polen.",
+              "uk": "Nissan Almera (і Almera Tino) - солідний і безпроблемний представник компактного класу. Його цінували за його механічну міцність і прості рішення, протягом багатьох років він був одним із найбільш часто вибираних вживаних автомобілів у Польщі.",
+              "ru": "Nissan Almera (и Almera Tino) – добротный и безотказный представитель компактного класса. Ценимый за свою механическую прочность и простоту решений, в течение многих лет он был одним из наиболее часто выбираемых подержанных автомобилей в Польше.",
+              "zh": "Nissan Almera（和 Almera Tino）是紧凑型车中坚固且无故障的代表。因其机械耐用性和简单的解决方案而受到赞赏，多年来它一直是波兰最常选择使用的汽车之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": "1995–2006",
+              "segment": {
+                "pl": "C (Kompaktowe / MPV)",
+                "en": "C (Compact / MPV)",
+                "de": "C (Kompakt / MPV)",
+                "uk": "C (Compact / MPV)",
+                "ru": "C (компактный/MPV)",
+                "zh": "C（紧凑型/MPV）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/be/mh/kz3s03cwkk8ksogs4cc0o/almera-2-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 96,
+        "ModelID": 1094,
+        "Brand Name": "Nissan",
+        "Model Name": "Almera Tino",
+        "Serie Name": "Almera Tino",
+        "Years": "2000 - 2006",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.8L - 2.2L dCi",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Nissan Almera (oraz Almera Tino) to solidny i bezproblemowy przedstawiciel klasy kompaktowej. Ceniony za trwałość mechaniczną i proste rozwiązania, przez lata był jednym z najchętniej wybieranych aut używanych w Polsce.",
+              "en": "Nissan Almera (and Almera Tino) is a solid and trouble-free representative of the compact class. Appreciated for its mechanical durability and simple solutions, for years it was one of the most frequently chosen used cars in Poland.",
+              "de": "Nissan Almera (und Almera Tino) ist ein solider und störungsfreier Vertreter der Kompaktklasse. Es wurde für seine mechanische Haltbarkeit und seine einfachen Lösungen geschätzt und war jahrelang einer der am häufigsten gewählten Gebrauchtwagen in Polen.",
+              "uk": "Nissan Almera (і Almera Tino) - солідний і безпроблемний представник компактного класу. Його цінували за його механічну міцність і прості рішення, протягом багатьох років він був одним із найбільш часто вибираних вживаних автомобілів у Польщі.",
+              "ru": "Nissan Almera (и Almera Tino) – добротный и безотказный представитель компактного класса. Ценимый за свою механическую прочность и простоту решений, в течение многих лет он был одним из наиболее часто выбираемых подержанных автомобилей в Польше.",
+              "zh": "Nissan Almera（和 Almera Tino）是紧凑型车中坚固且无故障的代表。因其机械耐用性和简单的解决方案而受到赞赏，多年来它一直是波兰最常选择使用的汽车之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": "1995–2006",
+              "segment": {
+                "pl": "C (Kompaktowe / MPV)",
+                "en": "C (Compact / MPV)",
+                "de": "C (Kompakt-/MPV)",
+                "uk": "C (Compact/MPV)",
+                "ru": "C (компактный/MPV)",
+                "zh": "C（紧凑型/MPV）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/be/mh/kz3s03cwkk8ksogs4cc0o/almera-2-sedan.310.jpg"
+        }
+      }
+    ],
+    "Primera": [
+      {
+        "BrandID": 96,
+        "ModelID": 1133,
+        "Brand Name": "Nissan",
+        "Model Name": "Primera",
+        "Serie Name": "Primera P10",
+        "Years": "1990 - 1996",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.0L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nissan Primera to jeden z najlepiej prowadzących się sedanów klasy średniej swoich czasów. Słynący z innowacyjnego zawieszenia (P10/P11) i futurystycznego kokpitu (P12), łączył japońską niezawodność z europejską charakterystyką jazdy.",
+              "en": "The Nissan Primera is one of the best-handling midsize sedans of its time. Famous for its innovative suspension (P10/P11) and futuristic cockpit (P12), it combined Japanese reliability with European driving characteristics.",
+              "de": "Der Nissan Primera ist eine der handlichsten Mittelklasse-Limousinen seiner Zeit. Berühmt für sein innovatives Fahrwerk (P10/P11) und sein futuristisches Cockpit (P12), kombinierte es japanische Zuverlässigkeit mit europäischen Fahreigenschaften.",
+              "uk": "Nissan Primera — один із найкращих середніх седанів свого часу. Відомий своєю інноваційною підвіскою (P10/P11) і футуристичним кокпітом (P12), він поєднав у собі японську надійність і європейські ходові характеристики.",
+              "ru": "Nissan Primera — один из самых управляемых седанов среднего размера своего времени. Известный своей инновационной подвеской (P10/P11) и футуристической кабиной (P12), он сочетал в себе японскую надежность с европейскими ходовыми качествами.",
+              "zh": "Nissan Primera 是当时操控性最好的中型轿车之一。它以其创新的悬架 (P10/P11) 和未来派驾驶舱 (P12) 而闻名，它将日本的可靠性与欧洲的驾驶特性结合在一起。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": "1990–2008",
+              "segment": {
+                "pl": "D (Klasa średnia)",
+                "en": "D (Midsize)",
+                "de": "D (Mittelklasse)",
+                "uk": "D (середньорозмірний)",
+                "ru": "Д (Средний класс)",
+                "zh": "D（中产阶级）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5f/9m/nj6ieq88ws8o8osoc0kkg/primera-3-hatch.310.jpg"
+        }
+      },
+      {
+        "BrandID": 96,
+        "ModelID": 1134,
+        "Brand Name": "Nissan",
+        "Model Name": "Primera",
+        "Serie Name": "Primera P11",
+        "Years": "1996 - 2002",
+        "specs": {
+          "bodyType": "Sedan/Hatchback/Wagon",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.0L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nissan Primera to jeden z najlepiej prowadzących się sedanów klasy średniej swoich czasów. Słynący z innowacyjnego zawieszenia (P10/P11) i futurystycznego kokpitu (P12), łączył japońską niezawodność z europejską charakterystyką jazdy.",
+              "en": "The Nissan Primera is one of the best-handling midsize sedans of its time. Famous for its innovative suspension (P10/P11) and futuristic cockpit (P12), it combined Japanese reliability with European driving characteristics.",
+              "de": "Der Nissan Primera ist eine der handlichsten Mittelklasse-Limousinen seiner Zeit. Berühmt für sein innovatives Fahrwerk (P10/P11) und sein futuristisches Cockpit (P12), kombinierte es japanische Zuverlässigkeit mit europäischen Fahreigenschaften.",
+              "uk": "Nissan Primera — один із найкращих середніх седанів свого часу. Відомий своєю інноваційною підвіскою (P10/P11) і футуристичним кокпітом (P12), він поєднав у собі японську надійність і європейські ходові характеристики.",
+              "ru": "Nissan Primera — один из самых управляемых седанов среднего размера своего времени. Известный своей инновационной подвеской (P10/P11) и футуристической кабиной (P12), он сочетал в себе японскую надежность с европейскими ходовыми качествами.",
+              "zh": "Nissan Primera 是当时操控性最好的中型轿车之一。它以其创新的悬架 (P10/P11) 和未来派驾驶舱 (P12) 而闻名，它将日本的可靠性与欧洲的驾驶特性结合在一起。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": "1990–2008",
+              "segment": {
+                "pl": "D (Klasa średnia)",
+                "en": "D (Midsize)",
+                "de": "D (Mittelklasse)",
+                "uk": "D (середньорозмірний)",
+                "ru": "Д (Средний класс)",
+                "zh": "D（中产阶级）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5f/9m/nj6ieq88ws8o8osoc0kkg/primera-3-hatch.310.jpg"
+        }
+      },
+      {
+        "BrandID": 96,
+        "ModelID": 1135,
+        "Brand Name": "Nissan",
+        "Model Name": "Primera",
+        "Serie Name": "Primera P12",
+        "Years": "2002 - 2008",
+        "specs": {
+          "bodyType": "Sedan/Hatchback/Wagon",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.2L dCi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nissan Primera to jeden z najlepiej prowadzących się sedanów klasy średniej swoich czasów. Słynący z innowacyjnego zawieszenia (P10/P11) i futurystycznego kokpitu (P12), łączył japońską niezawodność z europejską charakterystyką jazdy.",
+              "en": "The Nissan Primera is one of the best-handling midsize sedans of its time. Famous for its innovative suspension (P10/P11) and futuristic cockpit (P12), it combined Japanese reliability with European driving characteristics.",
+              "de": "Der Nissan Primera ist eine der handlichsten Mittelklasse-Limousinen seiner Zeit. Berühmt für sein innovatives Fahrwerk (P10/P11) und sein futuristisches Cockpit (P12), kombinierte es japanische Zuverlässigkeit mit europäischen Fahreigenschaften.",
+              "uk": "Nissan Primera — один із найкращих середніх седанів свого часу. Відомий своєю інноваційною підвіскою (P10/P11) і футуристичним кокпітом (P12), він поєднав у собі японську надійність і європейські ходові характеристики.",
+              "ru": "Nissan Primera — один из самых управляемых седанов среднего размера своего времени. Известный своей инновационной подвеской (P10/P11) и футуристической кабиной (P12), он сочетал в себе японскую надежность с европейскими ходовыми качествами.",
+              "zh": "Nissan Primera 是当时操控性最好的中型轿车之一。它以其创新的悬架 (P10/P11) 和未来派驾驶舱 (P12) 而闻名，它将日本的可靠性与欧洲的驾驶特性结合在一起。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Nissan"
+              },
+              "okres produkcji": "1990–2008",
+              "segment": {
+                "pl": "D (Klasa średnia)",
+                "en": "D (Middle class)",
+                "de": "D (Mittelschicht)",
+                "uk": "D (середній клас)",
+                "ru": "Д (Средний класс)",
+                "zh": "D（中产阶级）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5f/9m/nj6ieq88ws8o8osoc0kkg/primera-3-hatch.310.jpg"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,3859 @@
+{
+  "brand": "Ford",
+  "models": {
+    "Bronco": [
+      {
+        "BrandID": 47,
+        "ModelID": 416550,
+        "Brand Name": "Ford",
+        "Model Name": "Bronco",
+        "Serie Name": "Bronco (Classic)",
+        "Years": "1966 - 1996",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Off-Road SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline",
+          "engine": "2.8L - 5.8L V8",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ford Bronco (Classic) to legendarna terenówka, która zdefiniowała segment SUV-ów, znana z trwałości i zdolności off-roadowych.",
+              "en": "The Ford Bronco (Classic) is a legendary off-roader that defined the SUV segment, known for its durability and off-road capabilities.",
+              "de": "Der Ford Bronco (Classic) ist ein legendärer Offroader, der das SUV-Segment definierte und für seine Langlebigkeit und Geländetauglichkeit bekannt ist.",
+              "uk": "Ford Bronco (Classic) — легендарний позашляховик, який визначив сегмент позашляховиків, відомий своєю довговічністю та позашляховими можливостями.",
+              "ru": "Ford Bronco (Classic) — легендарный внедорожник, определивший сегмент внедорожников, известный своей долговечностью и внедорожными возможностями.",
+              "zh": "福特 Bronco（经典）是一款传奇越野车，定义了 SUV 细分市场，以其耐用性和越野能力而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "1966–1996",
+              "miejsce produkcji": {
+                "pl": "Wayne, USA",
+                "en": "Wayne, USA",
+                "de": "Wayne, USA",
+                "uk": "Вейн, США",
+                "ru": "Уэйн, США",
+                "zh": "美国韦恩"
+              },
+              "platforma": {
+                "pl": "Ford Bronco",
+                "en": "Ford Bronco",
+                "de": "Ford Bronco",
+                "uk": "Ford Bronco",
+                "ru": "Ford Bronco",
+                "zh": "福特 Bronco"
+              },
+              "silnik": {
+                "pl": "2.8L - 5.8L V8",
+                "en": "2.8L - 5.8L V8",
+                "de": "2,8L - 5,8L V8",
+                "uk": "2,8-5,8 л V8",
+                "ru": "2,8 л — 5,8 л V8",
+                "zh": "2.8L - 5.8L V8"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 416551,
+        "Brand Name": "Ford",
+        "Model Name": "Bronco",
+        "Serie Name": "Bronco (Modern)",
+        "Years": "2021 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Off-Road SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline",
+          "engine": "2.3L EcoBoost / 2.7L EcoBoost / 3.0L EcoBoost",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "3"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Nowy Ford Bronco to powrót legendy, stworzony do ekstremalnego off-roadu, bezpośredni konkurent Jeepa Wranglera z drzwiami bez ramek.",
+              "en": "The new Ford Bronco is the return of a legend, created for extreme off-road, a direct competitor to the Jeep Wrangler with frameless doors.",
+              "de": "Der neue Ford Bronco ist die Rückkehr einer Legende, geschaffen für extremes Gelände, ein direkter Konkurrent des Jeep Wrangler mit rahmenlosen Türen.",
+              "uk": "Новий Ford Bronco — це повернення легенди, створений для екстремального бездоріжжя, прямий конкурент Jeep Wrangler із безрамними дверима.",
+              "ru": "Новый Ford Bronco — это возвращение легенды, созданной для экстремального бездорожья, прямой конкурент Jeep Wrangler с безрамными дверями.",
+              "zh": "新款福特 Bronco 是传奇的回归，专为极限越野而设计，是无框车门 Jeep 牧马人的直接竞争对手。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": {
+                "pl": "od 2021",
+                "en": "from 2021",
+                "de": "ab 2021",
+                "uk": "з 2021 р.",
+                "ru": "с 2021 года",
+                "zh": "2021 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Wayne, USA",
+                "en": "Wayne, USA",
+                "de": "Wayne, USA",
+                "uk": "Вейн, США",
+                "ru": "Уэйн, США",
+                "zh": "美国韦恩"
+              },
+              "platforma": {
+                "pl": "Ford T6",
+                "en": "Ford T6",
+                "de": "Ford T6",
+                "uk": "Ford T6",
+                "ru": "Ford T6",
+                "zh": "福特 T6"
+              },
+              "silnik": {
+                "pl": "2.3L - 3.0L EcoBoost",
+                "en": "2.3L - 3.0L EcoBoost",
+                "de": "2,3L – 3,0L EcoBoost",
+                "uk": "2,3 л - 3,0 л EcoBoost",
+                "ru": "2,3 л — 3,0 л EcoBoost",
+                "zh": "2.3L - 3.0L EcoBoost"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Bronco Sport": [
+      {
+        "BrandID": 47,
+        "ModelID": 416552,
+        "Brand Name": "Ford",
+        "Model Name": "Bronco Sport",
+        "Serie Name": "Bronco Sport",
+        "Years": "2021 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L EcoBoost / 2.0L EcoBoost",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Ford Bronco Sport to kompaktowy SUV o terenowym charakterze, 'mniejszy brat' Bronco, oparty na platformie Escape/Kuga.",
+              "en": "Ford Bronco Sport is a compact SUV with an off-road character, the 'smaller brother' of the Bronco, based on the Escape/Kuga platform.",
+              "de": "Ford Bronco Sport ist ein kompakter SUV mit Offroad-Charakter, der „kleinere Bruder“ des Bronco, basierend auf der Escape/Kuga-Plattform.",
+              "uk": "Ford Bronco Sport — компактний позашляховик із позашляховим характером, «менший брат» Bronco, заснований на платформі Escape/Kuga.",
+              "ru": "Ford Bronco Sport — компактный внедорожник с внедорожным характером, «младший брат» Bronco, созданный на платформе Escape/Kuga.",
+              "zh": "福特 Bronco Sport 是一款具有越野特性的紧凑型 SUV，是 Bronco 的“弟弟”，基于 Escape/Kuga 平台。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": {
+                "pl": "od 2021",
+                "en": "from 2021",
+                "de": "ab 2021",
+                "uk": "з 2021 року",
+                "ru": "с 2021 года",
+                "zh": "2021 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Hermosillo, Meksyk",
+                "en": "Hermosillo, Mexico",
+                "de": "Hermosillo, Mexiko",
+                "uk": "Ермосільо, Мексика",
+                "ru": "Эрмосильо, Мексика",
+                "zh": "墨西哥埃莫西约"
+              },
+              "platforma": {
+                "pl": "Ford C2",
+                "en": "Ford C2",
+                "de": "Ford C2",
+                "uk": "Ford C2",
+                "ru": "Ford C2",
+                "zh": "福特 C2"
+              },
+              "silnik": {
+                "pl": "1.5L / 2.0L EcoBoost",
+                "en": "1.5L / 2.0L EcoBoost",
+                "de": "1,5L / 2,0L EcoBoost",
+                "uk": "1.5L / 2.0L EcoBoost",
+                "ru": "1,5 л/2,0 л EcoBoost",
+                "zh": "1.5L / 2.0L EcoBoost"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "C-Max": [
+      {
+        "BrandID": 47,
+        "ModelID": 413134,
+        "Brand Name": "Ford",
+        "Model Name": "C-Max",
+        "Serie Name": "C-Max I",
+        "Years": "2003 - 2010",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "1.6L - 2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Ford C-Max I to kompaktowy minivan (MPV) zbudowany na płycie podłogowej Focusa, ceniony za świetne właściwości jezdne.",
+              "en": "Ford C-Max I is a compact minivan (MPV) built on the Focus platform, appreciated for its excellent driving characteristics.",
+              "de": "Ford C-Max I ist ein kompakter Minivan (MPV), der auf der Focus-Plattform basiert und für seine hervorragenden Fahreigenschaften geschätzt wird.",
+              "uk": "Ford C-Max I — це компактний мінівен (MPV), побудований на платформі Focus, який цінують за чудові ходові характеристики.",
+              "ru": "Ford C-Max I — компактный минивэн (MPV), построенный на платформе Focus, ценимый за отличные ходовые качества.",
+              "zh": "福特 C-Max I 是一款基于福克斯平台打造的紧凑型小型货车 (MPV)，因其卓越的驾驶特性而受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "2003–2010",
+              "miejsce produkcji": {
+                "pl": "Saarlouis, Niemcy",
+                "en": "Saarlouis, Germany",
+                "de": "Saarlouis, Deutschland",
+                "uk": "Саарлуїс, Німеччина",
+                "ru": "Саарлуи, Германия",
+                "zh": "德国萨尔路易斯"
+              },
+              "platforma": {
+                "pl": "Ford C1",
+                "en": "Ford C1",
+                "de": "Ford C1",
+                "uk": "Ford C1",
+                "ru": "Ford C1",
+                "zh": "福特 C1"
+              },
+              "silnik": {
+                "pl": "1.6L - 2.0L",
+                "en": "1.6L - 2.0L",
+                "de": "1,6 l – 2,0 l",
+                "uk": "1.6L - 2.0L",
+                "ru": "1,6–2,0 л",
+                "zh": "1.6L - 2.0L"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/2005_Ford_Focus_C-Max_Ghia_2.0_Rear.jpg/1280px-2005_Ford_Focus_C-Max_Ghia_2.0_Rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/2005_Ford_Focus_C-Max_Ghia_2.0_Rear.jpg/1280px-2005_Ford_Focus_C-Max_Ghia_2.0_Rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/2010_Ford_C-Max_Zetec_TD_115_1.8_Front.jpg/1280px-2010_Ford_C-Max_Zetec_TD_115_1.8_Front.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/2010_Ford_C-Max_Zetec_TD_115_1.8_Rear.jpg/1280px-2010_Ford_C-Max_Zetec_TD_115_1.8_Rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ford_C-Max_1.6_TDCi_Trend_%28II%29_%E2%80%93_Heckansicht_%281%29%2C_30._Juli_2011%2C_Mettmann.jpg/1280px-Ford_C-Max_1.6_TDCi_Trend_%28II%29_%E2%80%93_Heckansicht_%281%29%2C_30._Juli_2011%2C_Mettmann.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2f/94/nefqun8kkk8ss0kco8oks/c-max-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 413137,
+        "Brand Name": "Ford",
+        "Model Name": "C-Max",
+        "Serie Name": "C-Max II",
+        "Years": "2010 - 2019",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "1.0L EcoBoost - 2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Ford C-Max II to druga generacja funkcjonalnego minivana, oferująca nowoczesne systemy bezpieczeństwa i wersje hybrydowe (w USA).",
+              "en": "Ford C-Max II is the second generation of a functional minivan, offering modern safety systems and hybrid versions (in the USA).",
+              "de": "Ford C-Max II ist die zweite Generation eines funktionalen Minivans, der moderne Sicherheitssysteme und Hybridversionen (in den USA) bietet.",
+              "uk": "Ford C-Max II — друге покоління функціонального мінівена, що пропонує сучасні системи безпеки та гібридні версії (у США).",
+              "ru": "Ford C-Max II — второе поколение функционального минивэна, предлагающее современные системы безопасности и гибридные версии (в США).",
+              "zh": "福特 C-Max II 是第二代功能性小型货车，提供现代安全系统和混合动力版本（在美国）。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "2010–2019",
+              "miejsce produkcji": {
+                "pl": "Walencja, Hiszpania / Wayne, USA",
+                "en": "Valencia, Spain / Wayne, USA",
+                "de": "Valencia, Spanien / Wayne, USA",
+                "uk": "Валенсія, Іспанія / Вейн, США",
+                "ru": "Валенсия, Испания / Уэйн, США",
+                "zh": "西班牙巴伦西亚/美国韦恩"
+              },
+              "platforma": {
+                "pl": "Ford Global C",
+                "en": "Ford Global C",
+                "de": "Ford Global C",
+                "uk": "Ford Global C",
+                "ru": "Ford Global C",
+                "zh": "福特 Global C"
+              },
+              "silnik": {
+                "pl": "1.0L EcoBoost - 2.0L Hybrid",
+                "en": "1.0L EcoBoost - 2.0L Hybrid",
+                "de": "1.0L EcoBoost – 2.0L Hybrid",
+                "uk": "1.0L EcoBoost - 2.0L Hybrid",
+                "ru": "1,0 л EcoBoost — 2,0 л гибрид",
+                "zh": "1.0L EcoBoost - 2.0L 混合动力"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/2005_Ford_Focus_C-Max_Ghia_2.0_Rear.jpg/1280px-2005_Ford_Focus_C-Max_Ghia_2.0_Rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/2005_Ford_Focus_C-Max_Ghia_2.0_Rear.jpg/1280px-2005_Ford_Focus_C-Max_Ghia_2.0_Rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/2010_Ford_C-Max_Zetec_TD_115_1.8_Front.jpg/1280px-2010_Ford_C-Max_Zetec_TD_115_1.8_Front.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/2010_Ford_C-Max_Zetec_TD_115_1.8_Rear.jpg/1280px-2010_Ford_C-Max_Zetec_TD_115_1.8_Rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ford_C-Max_1.6_TDCi_Trend_%28II%29_%E2%80%93_Heckansicht_%281%29%2C_30._Juli_2011%2C_Mettmann.jpg/1280px-Ford_C-Max_1.6_TDCi_Trend_%28II%29_%E2%80%93_Heckansicht_%281%29%2C_30._Juli_2011%2C_Mettmann.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2f/94/nefqun8kkk8ss0kco8oks/c-max-ii.310.jpg"
+        }
+      }
+    ],
+    "EcoSport": [
+      {
+        "BrandID": 47,
+        "ModelID": 413932,
+        "Brand Name": "Ford",
+        "Model Name": "EcoSport",
+        "Serie Name": "EcoSport",
+        "Years": "2013 - 2022",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Subcompact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L EcoBoost / 1.5L / 2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ford EcoSport to miejski crossover, zwrotny i praktyczny, z charakterystycznym kołem zapasowym na tylnej klapie (w niektórych wersjach).",
+              "en": "Ford EcoSport is an urban crossover, agile and practical, with a distinctive spare wheel on the tailgate (on some versions).",
+              "de": "Ford EcoSport ist ein urbaner Crossover, wendig und praktisch, mit einem markanten Reserverad an der Heckklappe (bei einigen Versionen).",
+              "uk": "Ford EcoSport — це міський кросовер, маневрений і практичний, із характерним запасним колесом на дверях багажника (у деяких версіях).",
+              "ru": "Ford EcoSport — городской кроссовер, маневренный и практичный, с характерным запасным колесом на задней двери (в некоторых версиях).",
+              "zh": "福特 EcoSport 是一款城市跨界车，灵活实用，尾门上配有独特的备胎（某些版本）。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "2013–2022",
+              "miejsce produkcji": {
+                "pl": "Craiova, Rumunia i inne",
+                "en": "Craiova, Romania and others",
+                "de": "Craiova, Rumänien und andere",
+                "uk": "Крайова, Румунія та інші",
+                "ru": "Крайова, Румыния и другие",
+                "zh": "罗马尼亚克拉约瓦等"
+              },
+              "platforma": {
+                "pl": "Ford B3",
+                "en": "Ford B3",
+                "de": "Ford B3",
+                "uk": "Ford B3",
+                "ru": "Ford B3",
+                "zh": "福特 B3"
+              },
+              "silnik": {
+                "pl": "1.0L EcoBoost - 2.0L",
+                "en": "1.0L EcoBoost - 2.0L",
+                "de": "1,0 l EcoBoost – 2,0 l",
+                "uk": "1.0L EcoBoost - 2.0L",
+                "ru": "1,0 л EcoBoost — 2,0 л",
+                "zh": "1.0L EcoBoost - 2.0L"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Edge": [
+      {
+        "BrandID": 47,
+        "ModelID": 414170,
+        "Brand Name": "Ford",
+        "Model Name": "Edge",
+        "Serie Name": "Edge Gen 1",
+        "Years": "2006 - 2014",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6 / 3.7L V6 / 2.0L EcoBoost",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ford Edge I to średniej wielkości SUV, popularny w USA, oferujący komfort i przestronne wnętrze w amerykańskim stylu.",
+              "en": "Ford Edge I is a mid-size SUV, popular in the USA, offering comfort and a spacious interior in an American style.",
+              "de": "Der Ford Edge I ist ein in den USA beliebter Mittelklasse-SUV, der Komfort und einen geräumigen Innenraum im amerikanischen Stil bietet.",
+              "uk": "Ford Edge I — популярний у США позашляховик середнього розміру, який пропонує комфорт і просторий салон в американському стилі.",
+              "ru": "Ford Edge I — популярный в США внедорожник среднего размера, предлагающий комфорт и просторный салон в американском стиле.",
+              "zh": "Ford Edge I 是一款在美国流行的中型 SUV，提供舒适性和宽敞的美式内饰。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "2006–2014",
+              "miejsce produkcji": {
+                "pl": "Oakville, Kanada",
+                "en": "Oakville, Canada",
+                "de": "Oakville, Kanada",
+                "uk": "Оквіль, Канада",
+                "ru": "Оквилл, Канада",
+                "zh": "加拿大奥克维尔"
+              },
+              "platforma": {
+                "pl": "Ford CD3",
+                "en": "Ford CD3",
+                "de": "Ford CD3",
+                "uk": "Ford CD3",
+                "ru": "Ford CD3",
+                "zh": "福特 CD3"
+              },
+              "silnik": {
+                "pl": "3.5L V6 / 3.7L V6",
+                "en": "3.5L V6 / 3.7L V6",
+                "de": "3,5L V6 / 3,7L V6",
+                "uk": "3,5 л V6 / 3,7 л V6",
+                "ru": "3,5 л V6 / 3,7 л V6",
+                "zh": "3.5L V6 / 3.7L V6"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ford_Edge_2006-2011.jpg/1280px-Ford_Edge_2006-2011.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ford_Edge_2006-2011.jpg/1280px-Ford_Edge_2006-2011.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ford_Edge_SEL_2011_%2812446686885%29.jpg/1280px-Ford_Edge_SEL_2011_%2812446686885%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/8/8b/Rear_View_-_2012_Ford_Edge_%287549889324%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ford_2015_Edge_%2815766373368%29.jpg/1280px-Ford_2015_Edge_%2815766373368%29.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7d/6h/qvzdztogw4oosg88k8wgk/edge.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 414171,
+        "Brand Name": "Ford",
+        "Model Name": "Edge",
+        "Serie Name": "Edge Gen 2",
+        "Years": "2015 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L EcoBoost / 2.7L V6 / 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Ford Edge II to globalny SUV klasy premium, łączący amerykański komfort z europejskimi właściwościami jezdnymi.",
+              "en": "Ford Edge II is a global premium SUV, combining American comfort with European driving characteristics.",
+              "de": "Ford Edge II ist ein globales Premium-SUV, das amerikanischen Komfort mit europäischen Fahreigenschaften kombiniert.",
+              "uk": "Ford Edge II — це всесвітній позашляховик преміум-класу, який поєднує американський комфорт із європейськими ходовими характеристиками.",
+              "ru": "Ford Edge II — это глобальный внедорожник премиум-класса, сочетающий американский комфорт с европейскими ходовыми качествами.",
+              "zh": "福特 Edge II 是一款全球优质 SUV，将美式舒适性与欧洲驾驶特性融为一体。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": {
+                "pl": "od 2015",
+                "en": "from 2015",
+                "de": "ab 2015",
+                "uk": "з 2015 року",
+                "ru": "с 2015 года",
+                "zh": "2015 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Oakville, Kanada",
+                "en": "Oakville, Canada",
+                "de": "Oakville, Kanada",
+                "uk": "Оквіль, Канада",
+                "ru": "Оквилл, Канада",
+                "zh": "加拿大奥克维尔"
+              },
+              "platforma": {
+                "pl": "Ford CD4",
+                "en": "Ford CD4",
+                "de": "Ford CD4",
+                "uk": "Ford CD4",
+                "ru": "Ford CD4",
+                "zh": "福特 CD4"
+              },
+              "silnik": {
+                "pl": "2.0L EcoBoost - 2.7L V6",
+                "en": "2.0L EcoBoost - 2.7L V6",
+                "de": "2.0L EcoBoost – 2.7L V6",
+                "uk": "2.0L EcoBoost - 2.7L V6",
+                "ru": "2,0L EcoBoost — 2,7L V6",
+                "zh": "2.0L EcoBoost - 2.7L V6"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ford_Edge_2006-2011.jpg/1280px-Ford_Edge_2006-2011.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ford_Edge_2006-2011.jpg/1280px-Ford_Edge_2006-2011.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ford_Edge_SEL_2011_%2812446686885%29.jpg/1280px-Ford_Edge_SEL_2011_%2812446686885%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/8/8b/Rear_View_-_2012_Ford_Edge_%287549889324%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ford_2015_Edge_%2815766373368%29.jpg/1280px-Ford_2015_Edge_%2815766373368%29.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7d/6h/qvzdztogw4oosg88k8wgk/edge.310.jpg"
+        }
+      }
+    ],
+    "Escape": [
+      {
+        "BrandID": 47,
+        "ModelID": 413140,
+        "Brand Name": "Ford",
+        "Model Name": "Escape",
+        "Serie Name": "Escape Gen 1",
+        "Years": "2000 - 2007",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.0L / 3.0L V6 / 2.3L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ford Escape I (w Europie Maverick) to kompaktowy SUV o klasycznej sylwetce, opracowany wspólnie z Mazdą.",
+              "en": "Ford Escape I (Maverick in Europe) is a compact SUV with a classic silhouette, developed jointly with Mazda.",
+              "de": "Ford Escape I (Maverick in Europa) ist ein kompakter SUV mit klassischer Silhouette, der gemeinsam mit Mazda entwickelt wurde.",
+              "uk": "Ford Escape I (Maverick в Європі) — компактний позашляховик класичного силуету, розроблений спільно з Mazda.",
+              "ru": "Ford Escape I (Maverick в Европе) — компактный внедорожник классического силуэта, разработанный совместно с Mazda.",
+              "zh": "福特 Escape I（欧洲 Maverick）是一款与马自达联合开发的具有经典轮廓的紧凑型 SUV。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford / Mazda",
+                "en": "Ford / Mazda",
+                "de": "Ford / Mazda",
+                "uk": "Ford / Mazda",
+                "ru": "Ford / Mazda",
+                "zh": "福特/马自达"
+              },
+              "okres produkcji": "2000–2007",
+              "miejsce produkcji": {
+                "pl": "Kansas City, USA",
+                "en": "Kansas City, USA",
+                "de": "Kansas City, USA",
+                "uk": "Канзас-Сіті, США",
+                "ru": "Канзас-Сити, США",
+                "zh": "美国堪萨斯城"
+              },
+              "platforma": {
+                "pl": "Ford CD2",
+                "en": "Ford CD2",
+                "de": "Ford CD2",
+                "uk": "Ford CD2",
+                "ru": "Ford CD2",
+                "zh": "福特 CD2"
+              },
+              "silnik": {
+                "pl": "2.0L - 3.0L V6",
+                "en": "2.0L - 3.0L V6",
+                "de": "2.0L – 3.0L V6",
+                "uk": "2.0L - 3.0L V6",
+                "ru": "2,0–3,0 л V6",
+                "zh": "2.0L - 3.0L V6"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ford_Escape_%28first_generation%29_%28rear%29%2C_Serdang.jpg/1280px-Ford_Escape_%28first_generation%29_%28rear%29%2C_Serdang.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ford_Escape_%28first_generation%29_%28rear%29%2C_Serdang.jpg/1280px-Ford_Escape_%28first_generation%29_%28rear%29%2C_Serdang.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Ford_Maverick_front_20080625.jpg/1280px-Ford_Maverick_front_20080625.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/2007_Ford_Escape_%28ZC%29_XLS_wagon_%282011-04-22%29_01.jpg/1280px-2007_Ford_Escape_%28ZC%29_XLS_wagon_%282011-04-22%29_01.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/2009_Ford_Escape_%28ZD%29_2.3_wagon_%282018-11-02%29_01.jpg/1280px-2009_Ford_Escape_%28ZD%29_2.3_wagon_%282018-11-02%29_01.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bs/aw/5wdmcdcg08480kcgs00ks/escape-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 413141,
+        "Brand Name": "Ford",
+        "Model Name": "Escape",
+        "Serie Name": "Escape Gen 2",
+        "Years": "2007 - 2012",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.5L / 3.0L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ford Escape II to ewolucja pierwszej generacji, z bardziej kanciastą stylistyką i ulepszonymi układami napędowymi.",
+              "en": "The Ford Escape II is an evolution of the first generation, with more angular styling and improved powertrains.",
+              "de": "Der Ford Escape II ist eine Weiterentwicklung der ersten Generation, mit kantigerem Design und verbesserten Antriebssträngen.",
+              "uk": "Ford Escape II — це еволюція першого покоління з більш незграбним стилем і вдосконаленими силовими агрегатами.",
+              "ru": "Ford Escape II представляет собой эволюцию первого поколения с более угловатым дизайном и улучшенными силовыми агрегатами.",
+              "zh": "福特 Escape II 是第一代车型的演变，具有更多棱角造型和改进的动力系统。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "2007–2012",
+              "miejsce produkcji": {
+                "pl": "Kansas City, USA",
+                "en": "Kansas City, USA",
+                "de": "Kansas City, USA",
+                "uk": "Канзас-Сіті, США",
+                "ru": "Канзас-Сити, США",
+                "zh": "美国堪萨斯城"
+              },
+              "platforma": {
+                "pl": "Ford CD2",
+                "en": "Ford CD2",
+                "de": "Ford CD2",
+                "uk": "Ford CD2",
+                "ru": "Ford CD2",
+                "zh": "福特 CD2"
+              },
+              "silnik": {
+                "pl": "2.5L / 3.0L V6",
+                "en": "2.5L / 3.0L V6",
+                "de": "2,5 l / 3,0 l V6",
+                "uk": "2.5L / 3.0L V6",
+                "ru": "2,5 л/3,0 л V6",
+                "zh": "2.5L / 3.0L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bs/aw/5wdmcdcg08480kcgs00ks/escape-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 413142,
+        "Brand Name": "Ford",
+        "Model Name": "Escape",
+        "Serie Name": "Escape Gen 3",
+        "Years": "2012 - 2019",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L / 2.0L / 2.5L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "3",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "3"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Ford Escape III (w Europie Kuga II) to nowoczesny SUV oparty na Focusie, oferujący świetne prowadzenie i technologie EcoBoost.",
+              "en": "Ford Escape III (Kuga II in Europe) is a modern SUV based on the Focus, offering great handling and EcoBoost technologies.",
+              "de": "Ford Escape III (Kuga II in Europa) ist ein moderner SUV auf Basis des Focus, der hervorragendes Handling und EcoBoost-Technologien bietet.",
+              "uk": "Ford Escape III (Kuga II в Європі) — це сучасний позашляховик на базі Focus, який пропонує чудову керованість і технології EcoBoost.",
+              "ru": "Ford Escape III (Kuga II в Европе) — современный внедорожник на базе Focus, предлагающий отличную управляемость и технологии EcoBoost.",
+              "zh": "福特 Escape III（欧洲的 Kuga II）是一款基于福克斯的现代 SUV，提供出色的操控性和 EcoBoost 技术。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "2012–2019",
+              "miejsce produkcji": {
+                "pl": "Louisville, USA",
+                "en": "Louisville, USA",
+                "de": "Louisville, USA",
+                "uk": "Луїсвіль, США",
+                "ru": "Луисвилл, США",
+                "zh": "美国路易斯维尔"
+              },
+              "platforma": {
+                "pl": "Ford Global C",
+                "en": "Ford Global C",
+                "de": "Ford Global C",
+                "uk": "Ford Global C",
+                "ru": "Ford Global C",
+                "zh": "福特 Global C"
+              },
+              "silnik": {
+                "pl": "1.6L - 2.0L EcoBoost",
+                "en": "1.6L - 2.0L EcoBoost",
+                "de": "1.6L - 2.0L EcoBoost",
+                "uk": "1.6L - 2.0L EcoBoost",
+                "ru": "1,6–2,0 л EcoBoost",
+                "zh": "1.6L - 2.0L EcoBoost"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bs/aw/5wdmcdcg08480kcgs00ks/escape-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 416416,
+        "Brand Name": "Ford",
+        "Model Name": "Escape",
+        "Serie Name": "Escape Gen 4",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid/PHEV",
+          "engine": "1.5L / 2.0L / 2.5L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Ford Escape IV (w Europie Kuga III) to opływowy SUV z bogatą gamą napędów hybrydowych i najnowszymi systemami asystującymi.",
+              "en": "Ford Escape IV (Kuga III in Europe) is a streamlined SUV with a wide range of hybrid drives and the latest assistance systems.",
+              "de": "Ford Escape IV (Kuga III in Europa) ist ein stromlinienförmiger SUV mit einer breiten Palette an Hybridantrieben und neuesten Assistenzsystemen.",
+              "uk": "Ford Escape IV (Kuga III в Європі) — це обтічний позашляховик із широким набором гібридних приводів і найновішими системами допомоги.",
+              "ru": "Ford Escape IV (Kuga III в Европе) — это обтекаемый внедорожник с широким набором гибридных приводов и новейшими вспомогательными системами.",
+              "zh": "福特 Escape IV（欧洲的 Kuga III）是一款流线型 SUV，配备多种混合动力驱动系统和最新的辅助系统。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": {
+                "pl": "od 2020",
+                "en": "from 2020",
+                "de": "ab 2020",
+                "uk": "з 2020 року",
+                "ru": "с 2020 года",
+                "zh": "2020 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Louisville, USA",
+                "en": "Louisville, USA",
+                "de": "Louisville, USA",
+                "uk": "Луїсвіль, США",
+                "ru": "Луисвилл, США",
+                "zh": "美国路易斯维尔"
+              },
+              "platforma": {
+                "pl": "Ford C2",
+                "en": "Ford C2",
+                "de": "Ford C2",
+                "uk": "Ford C2",
+                "ru": "Ford C2",
+                "zh": "福特C2"
+              },
+              "silnik": {
+                "pl": "1.5L - 2.5L Hybrid",
+                "en": "1.5L - 2.5L Hybrid",
+                "de": "1,5L – 2,5L Hybrid",
+                "uk": "1.5L - 2.5L Hybrid",
+                "ru": "1,5 л — 2,5 л гибрид",
+                "zh": "1.5L - 2.5L 混合动力"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bs/aw/5wdmcdcg08480kcgs00ks/escape-ii.310.jpg"
+        }
+      }
+    ],
+    "Expedition": [
+      {
+        "BrandID": 47,
+        "ModelID": 414167,
+        "Brand Name": "Ford",
+        "Model Name": "Expedition",
+        "Serie Name": "Expedition Gen 1-3",
+        "Years": "1997 - 2017",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline",
+          "engine": "4.6L V8 / 5.4L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {},
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/94/gm/rscqyw4kko444804ko4kw/expedition-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 416553,
+        "Brand Name": "Ford",
+        "Model Name": "Expedition",
+        "Serie Name": "Expedition Gen 4",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline",
+          "engine": "3.5L EcoBoost V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {},
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/94/gm/rscqyw4kko444804ko4kw/expedition-iii.310.jpg"
+        }
+      }
+    ],
+    "Explorer": [
+      {
+        "BrandID": 47,
+        "ModelID": 413823,
+        "Brand Name": "Ford",
+        "Model Name": "Explorer",
+        "Serie Name": "Explorer Gen 1-4",
+        "Years": "1990 - 2010",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/4WD/AWD",
+          "fuel": "Gasoline",
+          "engine": "4.0L V6 / 4.6L V8 / 5.0L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {},
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/56/0s/y7rd40w0o4cg4sskksccw/explorer-iv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 413145,
+        "Brand Name": "Ford",
+        "Model Name": "Explorer",
+        "Serie Name": "Explorer Gen 5",
+        "Years": "2011 - 2019",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.3L / 3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {},
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/56/0s/y7rd40w0o4cg4sskksccw/explorer-iv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 416263,
+        "Brand Name": "Ford",
+        "Model Name": "Explorer",
+        "Serie Name": "Explorer Gen 6",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.3L / 3.0L / 3.3L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {},
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/56/0s/y7rd40w0o4cg4sskksccw/explorer-iv.310.jpg"
+        }
+      }
+    ],
+    "F-150": [
+      {
+        "BrandID": 47,
+        "ModelID": 518,
+        "Brand Name": "Ford",
+        "Model Name": "F-150",
+        "Serie Name": "F-150",
+        "Years": "1975 - 3000",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Full-size Pickup",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel/Hybrid/Electric",
+          "engine": "2.7L / 3.5L / 5.0L V8 / PowerBoost / Lightning",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Ford F-150 to najpopularniejszy pickup w USA, symbol amerykańskiej motoryzacji, łączący ogromną ładowność z komfortem osobówki.",
+              "en": "Ford F-150 is the most popular pickup in the USA, a symbol of American automotive industry, combining huge load capacity with the comfort of a passenger car.",
+              "de": "Der Ford F-150 ist der beliebteste Pickup in den USA, ein Symbol der amerikanischen Automobilindustrie und kombiniert enorme Ladekapazität mit dem Komfort eines Pkw.",
+              "uk": "Ford F-150 — найпопулярніший пікап у США, символ американської автомобільної промисловості, що поєднує в собі величезну вантажопідйомність із комфортом легкового автомобіля.",
+              "ru": "Ford F-150 — самый популярный пикап в США, символ американского автомобилестроения, сочетающий огромную грузоподъемность с комфортом легкового автомобиля.",
+              "zh": "福特 F-150 是美国最受欢迎的皮卡车，是美国汽车的象征，将巨大的负载能力与乘用车的舒适性融为一体。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "projektant": {
+                "pl": "Gordon Platto / Raleigh Haire",
+                "en": "Gordon Platto / Raleigh Haire",
+                "de": "Gordon Platto / Raleigh Haire",
+                "uk": "Gordon Platto / Raleigh Haire",
+                "ru": "Гордон Платто / Роли Хейр",
+                "zh": "戈登·普拉托/罗利·海尔"
+              },
+              "premiera": {
+                "pl": "1948 (seria F)",
+                "en": "1948 (F-series)",
+                "de": "1948 (F-Serie)",
+                "uk": "1948 (F-серія)",
+                "ru": "1948 г. (серия F)",
+                "zh": "1948（F系列）"
+              },
+              "okres produkcji": {
+                "pl": "od 2015 (Gen 13/14)",
+                "en": "from 2015 (Gen 13/14)",
+                "de": "ab 2015 (Gen 13/14)",
+                "uk": "з 2015 (Gen 13/14)",
+                "ru": "с 2015 г. (13/14 поколение)",
+                "zh": "自 2015 年起（第 13/14 代）"
+              },
+              "miejsce produkcji": {
+                "pl": "Dearborn / Kansas City (USA)",
+                "en": "Dearborn / Kansas City (USA)",
+                "de": "Dearborn / Kansas City (USA)",
+                "uk": "Дірборн / Канзас-Сіті (США)",
+                "ru": "Дирборн / Канзас-Сити (США)",
+                "zh": "迪尔伯恩/堪萨斯城（美国）"
+              },
+              "następca": "-",
+              "segment": {
+                "pl": "Full-size Pickup",
+                "en": "Full-size Pickup",
+                "de": "Full-Size-Pickup",
+                "uk": "Повнорозмірний пікап",
+                "ru": "Полноразмерный пикап",
+                "zh": "全尺寸皮卡"
+              },
+              "typy nadwozia": {
+                "pl": "Regular Cab\nSuperCab\nSuperCrew",
+                "en": "Regular Cab\nSuperCab\nSuperCrew",
+                "de": "Regular Cab\nSuperCab\nSuperCrew",
+                "uk": "Звичайна кабіна\nСуперкабіна\nSuperCrew",
+                "ru": "Обычная кабина\nСуперКаб\nSuperCrew",
+                "zh": "普通出租车\n超级出租车\n超级船员"
+              },
+              "skrzynia biegów": {
+                "pl": "6-bieg automatyczna\n10-bieg automatyczna (SelectShift)",
+                "en": "6-speed automatic\n10-speed automatic (SelectShift)",
+                "de": "6-Gang-Automatikgetriebe\n10-Gang-Automatik (SelectShift)",
+                "uk": "6-ступінчастий автомат\n10-ступінчаста автоматична (SelectShift)",
+                "ru": "6-ступенчатая автоматическая коробка передач\n10-ступенчатая автоматическая коробка передач (SelectShift)",
+                "zh": "6速自动\n10 速自动变速箱（SelectShift）"
+              },
+              "rodzaj napędu": {
+                "pl": "tylny (RWD)\n4WD",
+                "en": "rear (RWD)\n4WD",
+                "de": "hinten (RWD)\n4WD",
+                "uk": "задня (RWD)\n4WD",
+                "ru": "сзади (RWD)\nПолный привод",
+                "zh": "后轮（后轮驱动）\n四轮驱动"
+              },
+              "długość": {
+                "pl": "5316–6363 mm",
+                "en": "5316–6363 mm",
+                "de": "5316–6363 mm",
+                "uk": "5316–6363 мм",
+                "ru": "5316–6363 мм",
+                "zh": "5316–6363毫米"
+              },
+              "szerokość": {
+                "pl": "2029–2430 mm",
+                "en": "2029–2430 mm",
+                "de": "2029–2430 mm",
+                "uk": "2029–2430 мм",
+                "ru": "2029–2430 мм",
+                "zh": "2029–2430 毫米"
+              },
+              "wysokość": {
+                "pl": "1910–1960 mm",
+                "en": "1910–1960 mm",
+                "de": "1910–1960 mm",
+                "uk": "1910–1960 мм",
+                "ru": "1910–1960 мм",
+                "zh": "1910–1960 毫米"
+              },
+              "rozstaw osi": {
+                "pl": "3109–4168 mm",
+                "en": "3109–4168 mm",
+                "de": "3109–4168 mm",
+                "uk": "3109–4168 мм",
+                "ru": "3109–4168 мм",
+                "zh": "3109–4168 毫米"
+              },
+              "masa własna": {
+                "pl": "1840–2500 kg",
+                "en": "1840–2500 kg",
+                "de": "1840–2500 kg",
+                "uk": "1840–2500 кг",
+                "ru": "1840–2500 кг",
+                "zh": "1840–2500 公斤"
+              },
+              "zbiornik paliwa": {
+                "pl": "87-136 l",
+                "en": "87-136 l",
+                "de": "87–136 l",
+                "uk": "87-136 л",
+                "ru": "87–136 л",
+                "zh": "87-136岁"
+              },
+              "liczba miejsc": "2-6",
+              "gwiazdki euroncap": "-",
+              "pojemność bagażnika": {
+                "pl": "Paka: 1495-2190 l (zależnie od długości)",
+                "en": "Box: 1495-2190 l (depending on length)",
+                "de": "Box: 1495–2190 l (je nach Länge)",
+                "uk": "Ящик: 1495-2190 л (залежно від довжини)",
+                "ru": "Коробка: 1495–2190 л (в зависимости от длины)",
+                "zh": "箱：1495-2190升（取决于长度）"
+              },
+              "ładowność": {
+                "pl": "800-1500 kg",
+                "en": "800-1500 kg",
+                "de": "800-1500 kg",
+                "uk": "800-1500 кг",
+                "ru": "800-1500 кг",
+                "zh": "800-1500公斤"
+              },
+              "pokrewne": {
+                "pl": "Ford Expedition, Lincoln Navigator",
+                "en": "Ford Expedition, Lincoln Navigator",
+                "de": "Ford Expedition, Lincoln Navigator",
+                "uk": "Ford Expedition, Lincoln Navigator",
+                "ru": "Ford Expedition, Lincoln Navigator",
+                "zh": "福特探险者、林肯领航员"
+              },
+              "konkurencja": {
+                "pl": "Chevrolet Silverado, Ram 1500, Toyota Tundra",
+                "en": "Chevrolet Silverado, Ram 1500, Toyota Tundra",
+                "de": "Chevrolet Silverado, Ram 1500, Toyota Tundra",
+                "uk": "Chevrolet Silverado, Ram 1500, Toyota Tundra",
+                "ru": "Chevrolet Silverado, Ram 1500, Toyota Tundra",
+                "zh": "雪佛兰索罗德、Ram 1500、丰田坦途"
+              },
+              "commons": {
+                "pl": "Category:Ford F-Series",
+                "en": "Category:Ford F-Series",
+                "de": "Kategorie:Ford F-Serie",
+                "uk": "Категорія:Ford F-Series",
+                "ru": "Категория: Ford F-Series",
+                "zh": "类别：福特F系列"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "F-250": [
+      {
+        "BrandID": 47,
+        "ModelID": 519,
+        "Brand Name": "Ford",
+        "Model Name": "F-250",
+        "Serie Name": "F-250 Super Duty",
+        "Years": "1999 - 3000",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Heavy Duty Pickup",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "6.2L V8 / 6.7L Power Stroke / 7.3L V8",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {}
+        }
+      }
+    ],
+    "Fiesta": [
+      {
+        "BrandID": 47,
+        "ModelID": 414156,
+        "Brand Name": "Ford",
+        "Model Name": "Fiesta",
+        "Serie Name": "Fiesta (Classic)",
+        "Years": "1976 - 2008",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Supermini",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L - 1.6L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {},
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/52/e3/gr6fh0kk0cco8swg0kos/fiesta-vi-hatch.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 131975,
+        "Brand Name": "Ford",
+        "Model Name": "Fiesta",
+        "Serie Name": "Fiesta Mk6/Mk7",
+        "Years": "2008 - 2017",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Supermini",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L EcoBoost / 1.6L ST",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {},
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/52/e3/gr6fh0kk0cco8swg0kos/fiesta-vi-hatch.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 414425,
+        "Brand Name": "Ford",
+        "Model Name": "Fiesta",
+        "Serie Name": "Fiesta Mk8",
+        "Years": "2017 - 2023",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Supermini",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "1.0L EcoBoost / 1.5L ST",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/1989_Ford_Fiesta_XR2_1.6_Front.jpg/1280px-1989_Ford_Fiesta_XR2_1.6_Front.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/1989_Ford_Fiesta_XR2_1.6_Front.jpg/1280px-1989_Ford_Fiesta_XR2_1.6_Front.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/52/e3/gr6fh0kk0cco8swg0kos/fiesta-vi-hatch.310.jpg"
+        }
+      }
+    ],
+    "Focus": [
+      {
+        "BrandID": 47,
+        "ModelID": 131880,
+        "Brand Name": "Ford",
+        "Model Name": "Focus",
+        "Serie Name": "Focus Mk1",
+        "Years": "1998 - 2004",
+        "specs": {
+          "bodyType": "Hatchback/Sedan/Wagon",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 2.0L / RS / ST",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ford Focus Mk1 to rewolucyjny kompakt, który zdefiniował standardy prowadzenia w swojej klasie dzięki zawieszeniu Control Blade.",
+              "en": "Ford Focus Mk1 is a revolutionary compact that defined the handling standards in its class thanks to the Control Blade suspension.",
+              "de": "Der Ford Focus Mk1 ist ein revolutionärer Kompaktwagen, der dank der Control Blade-Federung die Handling-Maßstäbe seiner Klasse definiert hat.",
+              "uk": "Ford Focus Mk1 — це революційний компактний автомобіль, який визначив стандарти керованості у своєму класі завдяки підвісці Control Blade.",
+              "ru": "Ford Focus Mk1 — революционный компактный автомобиль, определивший стандарты управляемости в своем классе благодаря подвеске Control Blade.",
+              "zh": "福特福克斯 Mk1 是一款革命性的紧凑型车，凭借 Control Blade 悬架定义了同类驾驶标准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "1998–2004",
+              "miejsce produkcji": {
+                "pl": "Saarlouis, Niemcy / Wayne, USA",
+                "en": "Saarlouis, Germany / Wayne, USA",
+                "de": "Saarlouis, Deutschland / Wayne, USA",
+                "uk": "Саарлуїс, Німеччина / Вейн, США",
+                "ru": "Саарлуи, Германия / Уэйн, США",
+                "zh": "德国萨尔路易斯/美国韦恩"
+              },
+              "platforma": {
+                "pl": "Ford C170",
+                "en": "Ford C170",
+                "de": "Ford C170",
+                "uk": "Ford C170",
+                "ru": "Ford C170",
+                "zh": "福特 C170"
+              },
+              "silnik": {
+                "pl": "1.4L - 2.0L RS",
+                "en": "1.4L - 2.0L RS",
+                "de": "1.4L - 2.0L RS",
+                "uk": "1.4L - 2.0L RS",
+                "ru": "1,4–2,0 л RS",
+                "zh": "1.4L - 2.0L RS"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 131997,
+        "Brand Name": "Ford",
+        "Model Name": "Focus",
+        "Serie Name": "Focus Mk2",
+        "Years": "2004 - 2011",
+        "specs": {
+          "bodyType": "Hatchback/Sedan/Wagon/Convertible",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 2.5L Turbo (ST/RS)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ford Focus Mk2 to solidny kompakt o doskonałych właściwościach jezdnych, dzielący platformę z Volvo S40 i Mazdą 3.",
+              "en": "The Ford Focus Mk2 is a solid compact with excellent driving characteristics, sharing a platform with the Volvo S40 and Mazda 3.",
+              "de": "Der Ford Focus Mk2 ist ein solider Kompaktwagen mit hervorragenden Fahreigenschaften und teilt sich eine Plattform mit dem Volvo S40 und dem Mazda 3.",
+              "uk": "Ford Focus Mk2 — це солідний компактний автомобіль із чудовими ходовими характеристиками, який має спільну платформу з Volvo S40 і Mazda 3.",
+              "ru": "Ford Focus Mk2 — это прочный компактный автомобиль с превосходными ходовыми качествами, разделяющий платформу с Volvo S40 и Mazda 3.",
+              "zh": "福特福克斯 Mk2 是一款坚固的紧凑型车，具有出色的驾驶特性，与沃尔沃 S40 和马自达 3 共享平台。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "2004–2011",
+              "miejsce produkcji": {
+                "pl": "Saarlouis, Niemcy / Walencja, Hiszpania",
+                "en": "Saarlouis, Germany / Valencia, Spain",
+                "de": "Saarlouis, Deutschland / Valencia, Spanien",
+                "uk": "Саарлуїс, Німеччина/Валенсія, Іспанія",
+                "ru": "Саарлуи, Германия / Валенсия, Испания",
+                "zh": "德国萨尔路易斯 / 西班牙巴伦西亚"
+              },
+              "platforma": {
+                "pl": "Ford C1",
+                "en": "Ford C1",
+                "de": "Ford C1",
+                "uk": "Ford C1",
+                "ru": "Ford C1",
+                "zh": "福特 C1"
+              },
+              "silnik": {
+                "pl": "1.4L - 2.5L Turbo (ST/RS)",
+                "en": "1.4L - 2.5L Turbo (ST/RS)",
+                "de": "1.4L - 2.5L Turbo (ST/RS)",
+                "uk": "1.4L — 2.5L Turbo (ST/RS)",
+                "ru": "1,4–2,5 л Turbo (ST/RS)",
+                "zh": "1.4L - 2.5L Turbo (ST/RS)"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 143419,
+        "Brand Name": "Ford",
+        "Model Name": "Focus",
+        "Serie Name": "Focus Mk3",
+        "Years": "2011 - 2018",
+        "specs": {
+          "bodyType": "Hatchback/Sedan/Wagon",
+          "segment": "Compact",
+          "drive": "FWD/AWD (RS)",
+          "fuel": "Gasoline/Diesel/Electric",
+          "engine": "1.0L EcoBoost - 2.3L RS",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Ford Focus Mk3 to model globalny (One Ford), wprowadzający zaawansowane technologie asystujące i silniki EcoBoost.",
+              "en": "The Ford Focus Mk3 is a global model (One Ford), introducing advanced assistive technologies and EcoBoost engines.",
+              "de": "Der Ford Focus Mk3 ist ein globales Modell (One Ford), das fortschrittliche Assistenztechnologien und EcoBoost einführt Motoren.",
+              "uk": "Ford Focus Mk3 — глобальна модель (One) Ford), представляючи передові допоміжні технології та двигуни EcoBoost.",
+              "ru": "Ford Focus Mk3 — глобальная модель (One Ford), в которой представлены передовые вспомогательные технологии и Двигатели EcoBoost.",
+              "zh": "福特福克斯 Mk3 是一款全球车型 (One Ford)，引入了先进的辅助系统技术和 EcoBoost 发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "2011–2018",
+              "miejsce produkcji": {
+                "pl": "Saarlouis, Niemcy / Wayne, USA",
+                "en": "Saarlouis, Germany / Wayne, USA",
+                "de": "Saarlouis, Deutschland / Wayne, USA",
+                "uk": "Саарлуїс, Німеччина / Вейн, США",
+                "ru": "Саарлуи, Германия / Уэйн, США",
+                "zh": "德国萨尔路易斯/美国韦恩"
+              },
+              "platforma": {
+                "pl": "Ford Global C",
+                "en": "Ford Global C",
+                "de": "Ford Global C",
+                "uk": "Ford Global C",
+                "ru": "Ford Global C",
+                "zh": "福特 Global C"
+              },
+              "silnik": {
+                "pl": "1.0L EcoBoost - 2.3L RS",
+                "en": "1.0L EcoBoost - 2.3L RS",
+                "de": "1.0L EcoBoost – 2.3L RS",
+                "uk": "1.0L EcoBoost - 2.3L RS",
+                "ru": "1,0 л EcoBoost — 2,3 л RS",
+                "zh": "1.0L EcoBoost - 2.3L RS"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 415835,
+        "Brand Name": "Ford",
+        "Model Name": "Focus",
+        "Serie Name": "Focus Mk4",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "Hatchback/Sedan/Wagon",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "1.0L EcoBoost / 1.5L / 2.3L ST",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Ford Focus Mk4 to najnowocześniejsza generacja, oferująca większą przestrzeń, cyfrowe wnętrze i wersje Active oraz ST.",
+              "en": "Ford Focus Mk4 is the latest generation, offering more space, a digital interior and Active and ST versions.",
+              "de": "Ford Focus Mk4 ist die neueste Generation und bietet mehr Platz, einen digitalen Innenraum sowie Active- und ST-Versionen.",
+              "uk": "Ford Focus Mk4 — це останнє покоління, яке пропонує більше простору, цифровий салон і версії Active і ST.",
+              "ru": "Ford Focus Mk4 — последнее поколение, предлагающее больше места, цифровой салон, а также версии Active и ST.",
+              "zh": "福特福克斯 Mk4 是最新一代，提供更大的空间、数字内饰以及 Active 和 ST 版本。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "from 2018",
+                "de": "ab 2018",
+                "uk": "з 2018 р.",
+                "ru": "с 2018 года",
+                "zh": "2018 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Saarlouis, Niemcy",
+                "en": "Saarlouis, Germany",
+                "de": "Saarlouis, Deutschland",
+                "uk": "Саарлуїс, Німеччина",
+                "ru": "Саарлуи, Германия",
+                "zh": "德国萨尔路易斯"
+              },
+              "platforma": {
+                "pl": "Ford C2",
+                "en": "Ford C2",
+                "de": "Ford C2",
+                "uk": "Ford C2",
+                "ru": "Ford C2",
+                "zh": "福特 C2"
+              },
+              "silnik": {
+                "pl": "1.0L EcoBoost - 2.3L ST",
+                "en": "1.0L EcoBoost - 2.3L ST",
+                "de": "1.0L EcoBoost – 2.3L ST",
+                "uk": "1.0L EcoBoost - 2.3L ST",
+                "ru": "1,0 л EcoBoost — 2,3 л ST",
+                "zh": "1.0L EcoBoost - 2.3L ST"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      }
+    ],
+    "Fusion": [
+      {
+        "BrandID": 47,
+        "ModelID": 413824,
+        "Brand Name": "Ford",
+        "Model Name": "Fusion",
+        "Serie Name": "Fusion (EU - Mini MPV)",
+        "Years": "2002 - 2012",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Mini MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L / 1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Ford Fusion (EU) to podwyższone miejskie auto (mały minivan) oparte na Fieście, cenione za widoczność i łatwość wsiadania.",
+              "en": "Ford Fusion (EU) is an elevated city car (small minivan) based on the Fiesta, appreciated for its visibility and ease of entry.",
+              "de": "Ford Fusion (EU) ist ein höhergelegtes Stadtauto (kleiner Minivan) auf Basis des Fiesta, das für seine Sichtbarkeit und den einfachen Einstieg geschätzt wird.",
+              "uk": "Ford Fusion (ЄС) — міський автомобіль (маленький мінівен) на базі Fiesta, який цінується за оглядовість і легкість входу.",
+              "ru": "Ford Fusion (ЕС) — приподнятый городской автомобиль (небольшой минивэн) на базе Fiesta, ценимый за обзорность и удобство посадки.",
+              "zh": "福特 Fusion (EU) 是一款基于嘉年华的高架城市汽车（小型面包车），因其可视性和易于进入而受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "2002–2012",
+              "miejsce produkcji": {
+                "pl": "Kolonia, Niemcy",
+                "en": "Cologne, Germany",
+                "de": "Köln, Deutschland",
+                "uk": "Кельн, Німеччина",
+                "ru": "Кёльн, Германия",
+                "zh": "德国科隆"
+              },
+              "platforma": {
+                "pl": "Ford B3",
+                "en": "Ford B3",
+                "de": "Ford B3",
+                "uk": "Ford B3",
+                "ru": "Ford B3",
+                "zh": "福特 B3"
+              },
+              "silnik": {
+                "pl": "1.4L / 1.6L",
+                "en": "1.4L / 1.6L",
+                "de": "1,4L / 1,6L",
+                "uk": "1.4L / 1.6L",
+                "ru": "1,4 л/1,6 л",
+                "zh": "1.4L / 1.6L"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/68/qq/1h66fk84wc4ws8swkswsc/fusion-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 415873,
+        "Brand Name": "Ford",
+        "Model Name": "Fusion",
+        "Serie Name": "Fusion (US - Sedan)",
+        "Years": "2006 - 2020",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid/PHEV",
+          "engine": "1.5L / 2.0L / 2.5L / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ford Fusion (US) to popularny sedan klasy średniej w Ameryce Północnej, bliźniak europejskiego Mondeo Mk5.",
+              "en": "The Ford Fusion (US) is a popular mid-size sedan in North America, a twin of the European Mondeo Mk5.",
+              "de": "Der Ford Fusion (US) ist eine beliebte Mittelklasse-Limousine in Nordamerika, ein Zwilling des europäischen Mondeo Mk5.",
+              "uk": "Ford Fusion (США) — популярний середньорозмірний седан у Північній Америці, двійник європейського Mondeo Mk5.",
+              "ru": "Ford Fusion (США) — популярный в Северной Америке седан среднего размера, близнец европейского Mondeo Mk5.",
+              "zh": "福特 Fusion（美国）是北美流行的中型轿车，是欧洲蒙迪欧 Mk5 的双胞胎。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "2006–2020",
+              "miejsce produkcji": {
+                "pl": "Hermosillo, Meksyk",
+                "en": "Hermosillo, Mexico",
+                "de": "Hermosillo, Mexiko",
+                "uk": "Ермосільо, Мексика",
+                "ru": "Эрмосильо, Мексика",
+                "zh": "墨西哥埃莫西约"
+              },
+              "platforma": {
+                "pl": "Ford CD3 / CD4",
+                "en": "Ford CD3 / CD4",
+                "de": "Ford CD3 / CD4",
+                "uk": "Ford CD3 / CD4",
+                "ru": "Ford CD3 / CD4",
+                "zh": "福特 CD3 / CD4"
+              },
+              "silnik": {
+                "pl": "1.5L - 2.7L V6 / Hybrid",
+                "en": "1.5L - 2.7L V6 / Hybrid",
+                "de": "1,5 l – 2,7 l V6 / Hybrid",
+                "uk": "1.5L - 2.7L V6 / Hybrid",
+                "ru": "1,5–2,7 л V6 / гибрид",
+                "zh": "1.5L - 2.7L V6 / 混合动力"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/68/qq/1h66fk84wc4ws8swkswsc/fusion-sedan.310.jpg"
+        }
+      }
+    ],
+    "Galaxy": [
+      {
+        "BrandID": 47,
+        "ModelID": 131828,
+        "Brand Name": "Ford",
+        "Model Name": "Galaxy",
+        "Serie Name": "Galaxy Mk1/Mk2",
+        "Years": "1995 - 2006",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Large MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.9L TDI / 2.0L / 2.8L VR6",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Ford Galaxy Mk1/Mk2 to duży, 7-osobowy minivan opracowany wspólnie z Volkswagenem (Sharan) i Seatem (Alhambra).",
+              "en": "Ford Galaxy Mk1/Mk2 is a large, 7-seater minivan developed jointly with Volkswagen (Sharan) and Seat (Alhambra).",
+              "de": "Ford Galaxy Mk1/Mk2 ist ein großer 7-Sitzer-Minivan, der gemeinsam mit Volkswagen (Sharan) und Seat (Alhambra) entwickelt wurde.",
+              "uk": "Ford Galaxy Mk1/Mk2 — великий 7-місний мінівен, розроблений спільно з Volkswagen (Sharan) і Seat (Alhambra).",
+              "ru": "Ford Galaxy Mk1/Mk2 — большой 7-местный минивэн, разработанный совместно с Volkswagen (Sharan) и Seat (Alhambra).",
+              "zh": "福特 Galaxy Mk1/Mk2 是与大众（夏朗）和西雅特（Alhambra）联合开发的大型 7 座小型货车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford / VW",
+                "en": "Ford / VW",
+                "de": "Ford / VW",
+                "uk": "Ford / VW",
+                "ru": "Форд / Фольксваген",
+                "zh": "福特/大众"
+              },
+              "okres produkcji": "1995–2006",
+              "miejsce produkcji": {
+                "pl": "Palmela, Portugalia",
+                "en": "Palmela, Portugal",
+                "de": "Palmela, Portugal",
+                "uk": "Палмела, Португалія",
+                "ru": "Палмела, Португалия",
+                "zh": "葡萄牙帕尔梅拉"
+              },
+              "platforma": {
+                "pl": "B-VX62"
+              },
+              "silnik": {
+                "pl": "1.9L TDI / 2.8L VR6",
+                "en": "1.9L TDI / 2.8L VR6",
+                "de": "1,9 l TDI / 2,8 l VR6",
+                "uk": "1,9 л TDI / 2,8 л VR6",
+                "ru": "1,9 л TDI / 2,8 л VR6",
+                "zh": "1.9L TDI / 2.8L VR6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2h/iq/qpb48d2c0wcw808cwc4og/galaxy-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 132462,
+        "Brand Name": "Ford",
+        "Model Name": "Galaxy",
+        "Serie Name": "Galaxy Mk3/Mk4",
+        "Years": "2006 - 2023",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Large MPV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "2.0L TDCi / 2.0L EcoBoost / 2.5L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Ford Galaxy Mk3/Mk4 to samodzielna konstrukcja Forda, oferująca luksusowe warunki podróży dla 7 osób w kinowym stylu.",
+              "en": "Ford Galaxy Mk3/Mk4 is a stand-alone Ford design, offering luxurious travel conditions for 7 people in a cinematic style.",
+              "de": "Ford Galaxy Mk3/Mk4 ist ein eigenständiges Ford-Design, das luxuriöse Reisebedingungen für 7 Personen im Kinostil bietet.",
+              "uk": "Ford Galaxy Mk3/Mk4 — це окремий дизайн Ford, який пропонує розкішні умови подорожі для 7 осіб у кінематографічному стилі.",
+              "ru": "Ford Galaxy Mk3/Mk4 — это автономный автомобиль Ford, предлагающий роскошные условия путешествия для 7 человек в кинематографическом стиле.",
+              "zh": "福特 Galaxy Mk3/Mk4 是福特的独立设计，以电影风格为 7 人提供豪华的旅行条件。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "2006–2023",
+              "miejsce produkcji": {
+                "pl": "Genk, Belgia / Walencja, Hiszpania",
+                "en": "Genk, Belgium / Valencia, Spain",
+                "de": "Genk, Belgien / Valencia, Spanien",
+                "uk": "Генк, Бельгія / Валенсія, Іспанія",
+                "ru": "Генк, Бельгия / Валенсия, Испания",
+                "zh": "比利时亨克 / 西班牙巴伦西亚"
+              },
+              "platforma": {
+                "pl": "Ford EUCD / CD4",
+                "en": "Ford EUCD / CD4",
+                "de": "Ford EUCD / CD4",
+                "uk": "Ford EUCD / CD4",
+                "ru": "Ford EUCD / CD4",
+                "zh": "福特 EUCD / CD4"
+              },
+              "silnik": {
+                "pl": "2.0L TDCi / 2.5L Hybrid",
+                "en": "2.0L TDCi / 2.5L Hybrid",
+                "de": "2.0L TDCi / 2.5L Hybrid",
+                "uk": "2.0L TDCi / 2.5L Hybrid",
+                "ru": "2,0L TDCi / 2,5L Hybrid",
+                "zh": "2.0L TDCi / 2.5L Hybrid"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2h/iq/qpb48d2c0wcw808cwc4og/galaxy-iii.310.jpg"
+        }
+      }
+    ],
+    "GT": [
+      {
+        "BrandID": 47,
+        "ModelID": 416556,
+        "Brand Name": "Ford",
+        "Model Name": "GT",
+        "Serie Name": "GT",
+        "Years": "2005 - 2006",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Supercar",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "5.4L Supercharged V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ford GT (2005) to hołd dla legendarnego GT40, supersamochód w stylu retro z potężnym silnikiem V8 umieszczonym centralnie.",
+              "en": "Ford GT (2005) is a tribute to the legendary GT40, a retro supercar with a powerful mid-engine V8.",
+              "de": "Ford GT (2005) ist eine Hommage an den legendären GT40, einen Retro-Supersportwagen mit einem leistungsstarken Mittelmotor-V8.",
+              "uk": "Ford GT (2005) — це данина поваги легендарному GT40, ретро-суперкару з потужним центральним розташуванням двигуна V8.",
+              "ru": "Ford GT (2005) — дань уважения легендарному GT40, ретро-суперкару с мощным среднемоторным двигателем V8.",
+              "zh": "福特 GT (2005) 是对传奇 GT40 的致敬，这是一款配备强大中置 V8 发动机的复古超级跑车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "2005–2006",
+              "miejsce produkcji": {
+                "pl": "Wixom, USA",
+                "en": "Wixom, USA",
+                "de": "Wixom, USA",
+                "uk": "Віксом, США",
+                "ru": "Уиксом, США",
+                "zh": "美国威克瑟姆"
+              },
+              "platforma": {
+                "pl": "Ford GT",
+                "en": "Ford GT",
+                "de": "Ford GT",
+                "uk": "Ford GT",
+                "ru": "Ford GT",
+                "zh": "福特 GT"
+              },
+              "silnik": {
+                "pl": "5.4L Supercharged V8",
+                "en": "5.4L Supercharged V8",
+                "de": "5,4-Liter-V8-Kompressor",
+                "uk": "5,4-літровий V8 з наддувом",
+                "ru": "5,4-литровый двигатель V8 с турбонаддувом",
+                "zh": "5.4 升增压 V8"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 416557,
+        "Brand Name": "Ford",
+        "Model Name": "GT",
+        "Serie Name": "GT (New)",
+        "Years": "2016 - 2022",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Supercar",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L Twin-Turbo V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nowy Ford GT to wyścigowa maszyna dopuszczona do ruchu, z karbonowym nadwoziem i zaawansowaną aerodynamiką, zwycięzca Le Mans.",
+              "en": "The new Ford GT is a road-legal racing machine with a carbon body and advanced aerodynamics, a Le Mans winner.",
+              "de": "Der neue Ford GT ist eine straßenzugelassene Rennmaschine mit einer Karbonkarosserie und fortschrittlicher Aerodynamik, ein Le-Mans-Sieger.",
+              "uk": "Новий Ford GT — гоночна машина з карбоновим кузовом і вдосконаленою аеродинамікою, дозволена для дорожнього руху, переможець Ле-Ману.",
+              "ru": "Новый Ford GT — гоночная машина, разрешенная для дорожного движения, с карбоновым кузовом и усовершенствованной аэродинамикой, победитель Ле-Мана.",
+              "zh": "新款福特 GT 是一款可合法公路行驶的赛车，采用碳纤维车身，具有先进的空气动力学性能，是勒芒冠军。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford / Multimatic",
+                "en": "Ford / Multimatic",
+                "de": "Ford / Multimatic",
+                "uk": "Ford / Multimatic",
+                "ru": "Ford / Multimatic",
+                "zh": "福特 / Multimatic"
+              },
+              "okres produkcji": "2016–2022",
+              "miejsce produkcji": {
+                "pl": "Markham, Kanada",
+                "en": "Markham, Canada",
+                "de": "Markham, Kanada",
+                "uk": "Markham, Канада",
+                "ru": "Маркхэм, Канада",
+                "zh": "加拿大万锦市"
+              },
+              "platforma": {
+                "pl": "Carbon Fiber Monocoque",
+                "en": "Carbon Fiber Monocoque",
+                "de": "Kohlefaser-Monocoque",
+                "uk": "Carbon Fiber Monocoque",
+                "ru": "Карбоновый монокок",
+                "zh": "碳纤维单体壳"
+              },
+              "silnik": {
+                "pl": "3.5L Twin-Turbo V6 EcoBoost",
+                "en": "3.5L Twin-Turbo V6 EcoBoost",
+                "de": "3,5-Liter-Twin-Turbo-V6-EcoBoost",
+                "uk": "3,5L Twin-Turbo V6 EcoBoost",
+                "ru": "3,5-литровый двигатель Twin-Turbo V6 EcoBoost",
+                "zh": "3.5L 双涡轮增压 V6 EcoBoost"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "KA": [
+      {
+        "BrandID": 47,
+        "ModelID": 413148,
+        "Brand Name": "Ford",
+        "Model Name": "KA",
+        "Serie Name": "KA Mk1",
+        "Years": "1996 - 2008",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.3L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ford KA Mk1 to ikona stylu New Edge, małe i zwrotne auto miejskie o charakterystycznym, jajowatym kształcie.",
+              "en": "Ford KA Mk1 is an icon of the New Edge style, a small and agile city car with a characteristic, egg-shaped shape.",
+              "de": "Der Ford KA Mk1 ist eine Ikone des New Edge-Stils, ein kleines und agiles Stadtauto mit einer charakteristischen eiförmigen Form.",
+              "uk": "Ford KA Mk1 — це ікона стилю New Edge, маленький і маневрений міський автомобіль із характерною яйцеподібною формою.",
+              "ru": "Ford KA Mk1 — икона стиля New Edge, небольшой и маневренный городской автомобиль характерной яйцеобразной формы.",
+              "zh": "福特 KA Mk1 是 New Edge 风格的标志，是一款小巧灵活的城市汽车，具有独特的蛋形形状。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "1996–2008",
+              "miejsce produkcji": {
+                "pl": "Walencja, Hiszpania",
+                "en": "Valencia, Spain",
+                "de": "Valencia, Spanien",
+                "uk": "Валенсія, Іспанія",
+                "ru": "Валенсия, Испания",
+                "zh": "西班牙巴伦西亚"
+              },
+              "platforma": {
+                "pl": "Ford B3",
+                "en": "Ford B3",
+                "de": "Ford B3",
+                "uk": "Ford B3",
+                "ru": "Ford B3",
+                "zh": "福特 B3"
+              },
+              "silnik": {
+                "pl": "1.3L Endura-E / Duratec",
+                "en": "1.3L Endura-E / Duratec",
+                "de": "1.3L Endura-E / Duratec",
+                "uk": "1.3L Endura-E / Duratec",
+                "ru": "1,3 л Endura-E / Duratec",
+                "zh": "1.3L Endura-E / Duratec"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6h/le/jygfjqoskwo004c0w8ok8/ka-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 413149,
+        "Brand Name": "Ford",
+        "Model Name": "KA",
+        "Serie Name": "KA Mk2",
+        "Years": "2008 - 2016",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L / 1.3L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ford KA Mk2 to bliźniak Fiata 500, produkowany w Polsce, łączący włoską technikę ze stylizacją Kinetic Design.",
+              "en": "Ford KA Mk2 is a twin of the Fiat 500, produced in Poland, combining Italian technology with Kinetic Design styling.",
+              "de": "Ford KA Mk2 ist ein Zwilling des Fiat 500, hergestellt in Polen, der italienische Technologie mit Kinetic Design-Stil kombiniert.",
+              "uk": "Ford KA Mk2 — це двійник Fiat 500, вироблений у Польщі, який поєднує в собі італійські технології та стиль Kinetic Design.",
+              "ru": "Ford KA Mk2 — это близнец Fiat 500, производимый в Польше, сочетающий итальянские технологии со стилем Kinetic Design.",
+              "zh": "福特 KA Mk2 是菲亚特 500 的双胞胎，在波兰生产，将意大利技术与 Kinetic Design 造型相结合。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "2008–2016",
+              "miejsce produkcji": {
+                "pl": "Tychy, Polska",
+                "en": "Tychy, Poland",
+                "de": "Tychy, Polen",
+                "uk": "Тихи, Польща",
+                "ru": "Тыхы, Польша",
+                "zh": "蒂黑，波兰"
+              },
+              "platforma": {
+                "pl": "Fiat Mini",
+                "en": "Fiat Mini",
+                "de": "Fiat Mini",
+                "uk": "Fiat Mini",
+                "ru": "Fiat Mini",
+                "zh": "菲亚特 Mini"
+              },
+              "silnik": {
+                "pl": "1.2L / 1.3L TDCi",
+                "en": "1.2L / 1.3L TDCi",
+                "de": "1.2L / 1.3L TDCi",
+                "uk": "1.2L / 1.3L TDCi",
+                "ru": "1,2 л / 1,3 л TDCi",
+                "zh": "1.2L / 1.3L TDCi"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6h/le/jygfjqoskwo004c0w8ok8/ka-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 416558,
+        "Brand Name": "Ford",
+        "Model Name": "KA+",
+        "Serie Name": "KA+ (Mk3)",
+        "Years": "2016 - 2020",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L / 1.5L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ford KA+ to przestronny, budżetowy hatchback segmentu B, oferujący 5 drzwi i zaskakująco dużo miejsca wewnątrz.",
+              "en": "Ford KA+ is a spacious, budget B segment hatchback, offering 5 doors and a surprising amount of space inside.",
+              "de": "Der Ford KA+ ist ein geräumiges, preisgünstiges Fließheckmodell im B-Segment mit 5 Türen und überraschend viel Platz im Innenraum.",
+              "uk": "Ford KA+ — це просторий бюджетний хетчбек сегменту B, який пропонує 5 дверей і напрочуд багато місця всередині.",
+              "ru": "Ford KA+ — это просторный бюджетный хэтчбек B-сегмента, предлагающий 5 дверей и удивительно много места внутри.",
+              "zh": "福特 KA+ 是一款宽敞的经济型 B 级掀背车，提供 5 个门和令人惊讶的内部空间。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "2016–2020",
+              "miejsce produkcji": {
+                "pl": "Sanand, Indie",
+                "en": "Sanand, India",
+                "de": "Sanand, Indien",
+                "uk": "Сананд, Індія",
+                "ru": "Сананд, Индия",
+                "zh": "萨南德，印度"
+              },
+              "platforma": {
+                "pl": "Ford Global B",
+                "en": "Ford Global B",
+                "de": "Ford Global B",
+                "uk": "Ford Global B",
+                "ru": "Ford Global B",
+                "zh": "福特 Global B"
+              },
+              "silnik": {
+                "pl": "1.2L Ti-VCT",
+                "en": "1.2L Ti-VCT",
+                "de": "1.2L Ti-VCT",
+                "uk": "1.2L Ti-VCT",
+                "ru": "1.2L Ti-VCT",
+                "zh": "1.2L Ti-VCT"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6h/le/jygfjqoskwo004c0w8ok8/ka-ii.310.jpg"
+        }
+      }
+    ],
+    "Kuga": [
+      {
+        "BrandID": 47,
+        "ModelID": 413155,
+        "Brand Name": "Ford",
+        "Model Name": "Kuga",
+        "Serie Name": "Kuga Mk1",
+        "Years": "2008 - 2012",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L TDCi / 2.5L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ford Kuga Mk1 to pierwszy kompaktowy SUV Forda w Europie, chwalony za świetne właściwości jezdne i dynamiczny wygląd.",
+              "en": "Ford Kuga Mk1 is the first compact Ford SUV in Europe, praised for its great driving characteristics and dynamic appearance.",
+              "de": "Der Ford Kuga Mk1 ist der erste kompakte Ford-SUV in Europa, der für seine hervorragenden Fahreigenschaften und sein dynamisches Erscheinungsbild gelobt wird.",
+              "uk": "Ford Kuga Mk1 — це перший компактний позашляховик Ford у Європі, якого хвалять за чудові ходові характеристики та динамічний вигляд.",
+              "ru": "Ford Kuga Mk1 — первый компактный внедорожник Ford в Европе, получивший высокую оценку за отличные ходовые качества и динамичный внешний вид.",
+              "zh": "福特 Kuga Mk1 是欧洲首款紧凑型福特 SUV，因其出色的驾驶特性和动感外观而备受赞誉。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "2008–2012",
+              "miejsce produkcji": {
+                "pl": "Saarlouis, Niemcy",
+                "en": "Saarlouis, Germany",
+                "de": "Saarlouis, Deutschland",
+                "uk": "Саарлуїс, Німеччина",
+                "ru": "Саарлуи, Германия",
+                "zh": "德国萨尔路易斯"
+              },
+              "platforma": {
+                "pl": "Ford C1",
+                "en": "Ford C1",
+                "de": "Ford C1",
+                "uk": "Ford C1",
+                "ru": "Ford C1",
+                "zh": "福特 C1"
+              },
+              "silnik": {
+                "pl": "2.0L TDCi / 2.5L Turbo",
+                "en": "2.0L TDCi / 2.5L Turbo",
+                "de": "2.0L TDCi / 2.5L Turbo",
+                "uk": "2.0L TDCi / 2.5L Turbo",
+                "ru": "2,0 л TDCi / 2,5 л Turbo",
+                "zh": "2.0L TDCi / 2.5L Turbo"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4q/ab/gnie1la80scwcskwcco4g/kuga-i.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 413156,
+        "Brand Name": "Ford",
+        "Model Name": "Kuga",
+        "Serie Name": "Kuga Mk2",
+        "Years": "2012 - 2019",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.5L EcoBoost / 2.0L TDCi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ford Kuga Mk2 to globalny SUV (w USA Escape), większy i bardziej komfortowy, z inteligentnym napędem AWD.",
+              "en": "Ford Kuga Mk2 is a global SUV (Escape in the USA), larger and more comfortable, with intelligent AWD drive.",
+              "de": "Ford Kuga Mk2 ist ein globaler SUV (Escape in den USA), größer und komfortabler, mit intelligentem Allradantrieb.",
+              "uk": "Ford Kuga Mk2 — це глобальний позашляховик (Escape у США), більший і комфортабельніший, з інтелектуальним повним приводом.",
+              "ru": "Ford Kuga Mk2 — глобальный внедорожник (побег из США), более крупный и комфортабельный, с интеллектуальным полным приводом.",
+              "zh": "福特 Kuga Mk2 是一款全球 SUV（美国 Escape），更大、更舒适，具有智能全轮驱动。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "2012–2019",
+              "miejsce produkcji": {
+                "pl": "Walencja, Hiszpania",
+                "en": "Valencia, Spain",
+                "de": "Valencia, Spanien",
+                "uk": "Валенсія, Іспанія",
+                "ru": "Валенсия, Испания",
+                "zh": "西班牙巴伦西亚"
+              },
+              "platforma": {
+                "pl": "Ford Global C",
+                "en": "Ford Global C",
+                "de": "Ford Global C",
+                "uk": "Ford Global C",
+                "ru": "Ford Global C",
+                "zh": "福特 Global C"
+              },
+              "silnik": {
+                "pl": "1.5L EcoBoost / 2.0L TDCi",
+                "en": "1.5L EcoBoost / 2.0L TDCi",
+                "de": "1.5L EcoBoost / 2.0L TDCi",
+                "uk": "1.5L EcoBoost / 2.0L TDCi",
+                "ru": "1,5 л EcoBoost / 2,0 л TDCi",
+                "zh": "1.5L EcoBoost / 2.0L TDCi"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4q/ab/gnie1la80scwcskwcco4g/kuga-i.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 415510,
+        "Brand Name": "Ford",
+        "Model Name": "Kuga",
+        "Serie Name": "Kuga Mk3",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/Hybrid/PHEV",
+          "engine": "1.5L / 2.0L / 2.5L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ford Kuga Mk3 to nowoczesny SUV dostępny jako hybryda (PHEV, FHEV), oferujący elegancki design i przesesuwaną tylną kanapę.",
+              "en": "Ford Kuga Mk3 is a modern SUV available as a hybrid (PHEV, FHEV), offering an elegant design and a sliding rear seat.",
+              "de": "Ford Kuga Mk3 ist ein moderner SUV, der als Hybrid (PHEV, FHEV) erhältlich ist und ein elegantes Design und einen verschiebbaren Rücksitz bietet.",
+              "uk": "Ford Kuga Mk3 — це сучасний позашляховик, доступний як гібрид (PHEV, FHEV), з елегантним дизайном і розсувним заднім сидінням.",
+              "ru": "Ford Kuga Mk3 — современный внедорожник, доступный в гибридном исполнении (PHEV, FHEV), предлагающий элегантный дизайн и сдвижное заднее сиденье.",
+              "zh": "福特 Kuga Mk3 是一款现代 SUV，可作为混合动力（PHEV、FHEV）使用，设计优雅，后座可滑动。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019 р.",
+                "ru": "с 2019 года",
+                "zh": "2019 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Walencja, Hiszpania",
+                "en": "Valencia, Spain",
+                "de": "Valencia, Spanien",
+                "uk": "Валенсія, Іспанія",
+                "ru": "Валенсия, Испания",
+                "zh": "西班牙巴伦西亚"
+              },
+              "platforma": {
+                "pl": "Ford C2",
+                "en": "Ford C2",
+                "de": "Ford C2",
+                "uk": "Ford C2",
+                "ru": "Ford C2",
+                "zh": "福特 C2"
+              },
+              "silnik": {
+                "pl": "1.5L / 2.5L Hybrid",
+                "en": "1.5L / 2.5L Hybrid",
+                "de": "1,5L / 2,5L Hybrid",
+                "uk": "1,5 л / 2,5 л гібрид",
+                "ru": "1,5 л / 2,5 л гибридный",
+                "zh": "1.5L / 2.5L 混合动力"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4q/ab/gnie1la80scwcskwcco4g/kuga-i.310.jpg"
+        }
+      }
+    ],
+    "Maverick": [
+      {
+        "BrandID": 47,
+        "ModelID": 413827,
+        "Brand Name": "Ford",
+        "Model Name": "Maverick",
+        "Serie Name": "Maverick (SUV)",
+        "Years": "2000 - 2007",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L / 3.0L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ford Maverick (SUV) to solidny, kompaktowy model 4x4, bliźniak Mazdy Tribute, oferujący klasyczne właściwości terenowe.",
+              "en": "The Ford Maverick (SUV) is a rugged, compact 4x4 model, a twin of the Mazda Tribute, offering classic off-road capabilities.",
+              "de": "Der Ford Maverick (SUV) ist ein robustes, kompaktes 4x4-Modell, ein Zwilling des Mazda Tribute, der klassische Offroad-Fähigkeiten bietet.",
+              "uk": "Ford Maverick (SUV) — міцна, компактна модель 4x4, двійник Mazda Tribute, що пропонує класичні позашляхові можливості.",
+              "ru": "Ford Maverick (внедорожник) — прочная, компактная модель 4x4, близнец Mazda Tribute, предлагающая классические внедорожные возможности.",
+              "zh": "福特 Maverick (SUV) 是一款坚固、紧凑的 4x4 车型，是马自达 Tribute 的双胞胎，提供经典的越野能力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford / Mazda",
+                "en": "Ford / Mazda",
+                "de": "Ford / Mazda",
+                "uk": "Ford / Mazda",
+                "ru": "Ford / Mazda",
+                "zh": "福特/马自达"
+              },
+              "okres produkcji": "2000–2007",
+              "miejsce produkcji": {
+                "pl": "Kansas City, USA",
+                "en": "Kansas City, USA",
+                "de": "Kansas City, USA",
+                "uk": "Канзас-Сіті, США",
+                "ru": "Канзас-Сити, США",
+                "zh": "美国堪萨斯城"
+              },
+              "platforma": {
+                "pl": "Ford CD2",
+                "en": "Ford CD2",
+                "de": "Ford CD2",
+                "uk": "Ford CD2",
+                "ru": "Ford CD2",
+                "zh": "福特 CD2"
+              },
+              "silnik": {
+                "pl": "2.0L - 3.0L V6",
+                "en": "2.0L - 3.0L V6",
+                "de": "2.0L - 3.0L V6",
+                "uk": "2.0L - 3.0L V6",
+                "ru": "2,0 л — 3,0 л V6",
+                "zh": "2.0L - 3.0L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/11/09/nneco4iok0o4wgkc0s04o/maverick-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 416559,
+        "Brand Name": "Ford",
+        "Model Name": "Maverick",
+        "Serie Name": "Maverick (Pickup)",
+        "Years": "2021 - 3000",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Compact Pickup",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.0L EcoBoost / 2.5L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Ford Maverick (Pickup) to rewolucyjny, kompaktowy pickup z samonośnym nadwoziem i standardowym napędem hybrydowym (w USA).",
+              "en": "Ford Maverick (Pickup) is a revolutionary, compact pickup with a self-supporting body and a standard hybrid drive (in the USA).",
+              "de": "Ford Maverick (Pickup) ist ein revolutionärer, kompakter Pickup mit selbsttragender Karosserie und einem serienmäßigen Hybridantrieb (in den USA).",
+              "uk": "Ford Maverick (Pickup) — революційний, компактний пікап із самонесучим кузовом і стандартним гібридним приводом (у США).",
+              "ru": "Ford Maverick (Пикап) — революционный компактный пикап с самонесущим кузовом и стандартным гибридным приводом (в США).",
+              "zh": "福特 Maverick（皮卡）是一款革命性的紧凑型皮卡，具有自支撑车身和标准混合动力驱动器（在美国）。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": {
+                "pl": "od 2021",
+                "en": "from 2021",
+                "de": "ab 2021",
+                "uk": "з 2021",
+                "ru": "с 2021 г.",
+                "zh": "2021 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Hermosillo, Meksyk",
+                "en": "Hermosillo, Mexico",
+                "de": "Hermosillo, Mexiko",
+                "uk": "Ермосільо, Мексика",
+                "ru": "Эрмосильо, Мексика",
+                "zh": "墨西哥埃莫西约"
+              },
+              "platforma": {
+                "pl": "Ford C2",
+                "en": "Ford C2",
+                "de": "Ford C2",
+                "uk": "Ford C2",
+                "ru": "Ford C2",
+                "zh": "福特 C2"
+              },
+              "silnik": {
+                "pl": "2.5L Hybrid / 2.0L EcoBoost",
+                "en": "2.5L Hybrid / 2.0L EcoBoost",
+                "de": "2.5L Hybrid / 2.0L EcoBoost",
+                "uk": "2.5L Hybrid / 2.0L EcoBoost",
+                "ru": "2,5 л гибридный / 2,0 л EcoBoost",
+                "zh": "2.5L Hybrid / 2.0L EcoBoost"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/11/09/nneco4iok0o4wgkc0s04o/maverick-ii.310.jpg"
+        }
+      }
+    ],
+    "Mondeo": [
+      {
+        "BrandID": 47,
+        "ModelID": 133832,
+        "Brand Name": "Ford",
+        "Model Name": "Mondeo",
+        "Serie Name": "Mondeo Mk1/Mk2",
+        "Years": "1993 - 2000",
+        "specs": {
+          "bodyType": "Sedan/Liftback/Wagon",
+          "segment": "Mid-size",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.5L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ford Mondeo Mk1/Mk2 to 'auto światowe', które zastąpiło Sierrę, wprowadzając przedni napęd i nowoczesne standardy bezpieczeństwa.",
+              "en": "Ford Mondeo Mk1/Mk2 is a 'world car' that replaced the Sierra, introducing front-wheel drive and modern safety standards.",
+              "de": "Ford Mondeo Mk1/Mk2 ist ein „Weltauto“, das den Sierra ablöste und Frontantrieb und moderne Sicherheitsstandards einführte.",
+              "uk": "Ford Mondeo Mk1/Mk2 — це «світовий автомобіль», який прийшов на зміну Sierra, представивши передній привід і сучасні стандарти безпеки.",
+              "ru": "Ford Mondeo Mk1/Mk2 — «мировой автомобиль», пришедший на смену Sierra, представивший передний привод и современные стандарты безопасности.",
+              "zh": "福特蒙迪欧 Mk1/Mk2 是一款取代 Sierra 的“世界汽车”，引入了前轮驱动和现代安全标准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "1993–2000",
+              "miejsce produkcji": {
+                "pl": "Genk, Belgia",
+                "en": "Genk, Belgium",
+                "de": "Genk, Belgien",
+                "uk": "Генк, Бельгія",
+                "ru": "Генк, Бельгия",
+                "zh": "比利时亨克"
+              },
+              "platforma": {
+                "pl": "Ford CDW27",
+                "en": "Ford CDW27",
+                "de": "Ford CDW27",
+                "uk": "Ford CDW27",
+                "ru": "Ford CDW27",
+                "zh": "福特 CDW27"
+              },
+              "silnik": {
+                "pl": "1.6L - 2.5L V6",
+                "en": "1.6L - 2.5L V6",
+                "de": "1,6L - 2,5L V6",
+                "uk": "1.6L - 2.5L V6",
+                "ru": "1,6–2,5 л V6",
+                "zh": "1.6L - 2.5L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/18/m6/mvqa45foc88gc88kkwwsw/a.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 3601,
+        "Brand Name": "Ford",
+        "Model Name": "Mondeo",
+        "Serie Name": "Mondeo Mk3",
+        "Years": "2000 - 2007",
+        "specs": {
+          "bodyType": "Sedan/Liftback/Wagon",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.8L - 3.0L V6 ST220",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ford Mondeo Mk3 to model o znakomitym prowadzeniu, uznawany za wzór w klasie średniej, dostępny także w szybkiej wersji ST220.",
+              "en": "Ford Mondeo Mk3 is a model with excellent handling, considered a model in the mid-range class, also available in the fast ST220 version.",
+              "de": "Ford Mondeo Mk3 ist ein Modell mit hervorragendem Handling, gilt als Modell der Mittelklasse und ist auch in der schnellen ST220-Version erhältlich.",
+              "uk": "Ford Mondeo Mk3 — це модель із чудовою керованістю, яка вважається моделлю середнього класу, також доступна у швидкісній версії ST220.",
+              "ru": "Ford Mondeo Mk3 — модель с превосходной управляемостью, считается моделью среднего класса, также доступна в быстрой версии ST220.",
+              "zh": "福特蒙迪欧 Mk3 是一款操控性出色的车型，属于中档车型，还有快速 ST220 版本。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "2000–2007",
+              "miejsce produkcji": {
+                "pl": "Genk, Belgia",
+                "en": "Genk, Belgium",
+                "de": "Genk, Belgien",
+                "uk": "Генк, Бельгія",
+                "ru": "Генк, Бельгия",
+                "zh": "比利时亨克"
+              },
+              "platforma": {
+                "pl": "Ford CDW27",
+                "en": "Ford CDW27",
+                "de": "Ford CDW27",
+                "uk": "Ford CDW27",
+                "ru": "Ford CDW27",
+                "zh": "福特 CDW27"
+              },
+              "silnik": {
+                "pl": "1.8L - 3.0L V6",
+                "en": "1.8L - 3.0L V6",
+                "de": "1,8L - 3,0L V6",
+                "uk": "1.8L - 3.0L V6",
+                "ru": "1,8–3,0 л V6",
+                "zh": "1.8L - 3.0L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/18/m6/mvqa45foc88gc88kkwwsw/a.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 412858,
+        "Brand Name": "Ford",
+        "Model Name": "Mondeo",
+        "Serie Name": "Mondeo Mk4",
+        "Years": "2007 - 2014",
+        "specs": {
+          "bodyType": "Sedan/Liftback/Wagon",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.5L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ford Mondeo Mk4 to limuzyna w stylu Kinetic Design, duża, komfortowa i naszpikowana technologią, znana z filmu Casino Royale.",
+              "en": "Ford Mondeo Mk4 is a Kinetic Design limousine, large, comfortable and packed with technology, known from the movie Casino Royale.",
+              "de": "Ford Mondeo Mk4 ist eine Kinetic Design-Limousine, groß, komfortabel und voller Technologie, bekannt aus dem Film Casino Royale.",
+              "uk": "Ford Mondeo Mk4 — великий, комфортабельний лімузин Kinetic Design, наповнений технологіями, відомий із фільму «Казино Рояль».",
+              "ru": "Ford Mondeo Mk4 — лимузин Kinetic Design, большой, удобный и оснащенный технологиями, известный по фильму «Казино Рояль».",
+              "zh": "福特蒙迪欧 Mk4 是一款 Kinetic Design 豪华轿车，宽敞、舒适且技术先进，因电影《皇家赌场》而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "2007–2014",
+              "miejsce produkcji": {
+                "pl": "Genk, Belgia",
+                "en": "Genk, Belgium",
+                "de": "Genk, Belgien",
+                "uk": "Генк, Бельгія",
+                "ru": "Генк, Бельгия",
+                "zh": "比利时亨克"
+              },
+              "platforma": {
+                "pl": "Ford EUCD",
+                "en": "Ford EUCD",
+                "de": "Ford EUCD",
+                "uk": "Ford EUCD",
+                "ru": "Ford EUCD",
+                "zh": "福特 EUCD"
+              },
+              "silnik": {
+                "pl": "1.6L - 2.5L Turbo",
+                "en": "1.6L - 2.5L Turbo",
+                "de": "1,6 l – 2,5 l Turbo",
+                "uk": "1.6L - 2.5L Turbo",
+                "ru": "1,6–2,5 л Turbo",
+                "zh": "1.6L - 2.5L Turbo"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/18/m6/mvqa45foc88gc88kkwwsw/a.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 412954,
+        "Brand Name": "Ford",
+        "Model Name": "Mondeo",
+        "Serie Name": "Mondeo Mk5",
+        "Years": "2014 - 2022",
+        "specs": {
+          "bodyType": "Sedan/Liftback/Wagon",
+          "segment": "Mid-size",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "1.5L / 2.0L / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ford Mondeo Mk5 to globalny model (Fusion w USA) z charakterystycznym grillem w stylu Astona Martina i wersją hybrydową.",
+              "en": "Ford Mondeo Mk5 is a global model (Fusion in the USA) with a distinctive Aston Martin-style grille and a hybrid version.",
+              "de": "Ford Mondeo Mk5 ist ein globales Modell (Fusion in den USA) mit einem markanten Kühlergrill im Aston-Martin-Stil und einer Hybridversion.",
+              "uk": "Ford Mondeo Mk5 — глобальна модель (Fusion у США) з характерною решіткою радіатора в стилі Aston Martin і гібридною версією.",
+              "ru": "Ford Mondeo Mk5 — глобальная модель (Fusion в США) с характерной решеткой радиатора в стиле Aston Martin и гибридной версией.",
+              "zh": "福特蒙迪欧 Mk5 是一款全球车型（美国为 Fusion），具有独特的阿斯顿·马丁风格格栅和混合动力版本。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "2014–2022",
+              "miejsce produkcji": {
+                "pl": "Walencja, Hiszpania",
+                "en": "Valencia, Spain",
+                "de": "Valencia, Spanien",
+                "uk": "Валенсія, Іспанія",
+                "ru": "Валенсия, Испания",
+                "zh": "西班牙巴伦西亚"
+              },
+              "platforma": {
+                "pl": "Ford CD4",
+                "en": "Ford CD4",
+                "de": "Ford CD4",
+                "uk": "Ford CD4",
+                "ru": "Ford CD4",
+                "zh": "福特 CD4"
+              },
+              "silnik": {
+                "pl": "1.5L / 2.0L / Hybrid",
+                "en": "1.5L / 2.0L / Hybrid",
+                "de": "1,5 l / 2,0 l / Hybrid",
+                "uk": "1.5L / 2.0L / Hybrid",
+                "ru": "1,5 л / 2,0 л / гибрид",
+                "zh": "1.5L / 2.0L / 混合动力"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/18/m6/mvqa45foc88gc88kkwwsw/a.310.jpg"
+        }
+      }
+    ],
+    "Mustang": [
+      {
+        "BrandID": 47,
+        "ModelID": 414176,
+        "Brand Name": "Ford",
+        "Model Name": "Mustang",
+        "Serie Name": "Mustang (Classic/Early Modern)",
+        "Years": "1964 - 2004",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Muscle Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "V6 / V8",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Klasyczny Ford Mustang to ikona popkultury, twórca segmentu 'pony cars', symbol wolności i amerykańskiej mocy.",
+              "en": "The classic Ford Mustang is an icon of pop culture, the creator of the 'pony car' segment, a symbol of freedom and American power.",
+              "de": "Der klassische Ford Mustang ist eine Ikone der Popkultur, der Schöpfer des „Pony Car“-Segments, ein Symbol für Freiheit und amerikanische Macht.",
+              "uk": "Класичний Ford Mustang — ікона поп-культури, творець сегменту «поні-карів», символ свободи та американської могутності.",
+              "ru": "Классический Ford Mustang — икона поп-культуры, создатель сегмента «пони-каров», символ свободы и американской мощи.",
+              "zh": "经典福特野马是流行文化的象征，“小马车”细分市场的创造者，自由和美国力量的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "1964–2004",
+              "miejsce produkcji": {
+                "pl": "Dearborn / San Jose, USA",
+                "en": "Dearborn / San Jose, USA",
+                "de": "Dearborn / San Jose, USA",
+                "uk": "Дірборн / Сан-Хосе, США",
+                "ru": "Дирборн / Сан-Хосе, США",
+                "zh": "迪尔伯恩 / 圣何塞，美国"
+              },
+              "platforma": {
+                "pl": "Ford Falcon / Fox",
+                "en": "Ford Falcon / Fox",
+                "de": "Ford Falcon / Fox",
+                "uk": "Ford Falcon / Fox",
+                "ru": "Ford Falcon / Fox",
+                "zh": "福特猎鹰 / 福克斯"
+              },
+              "silnik": {
+                "pl": "V6 / V8",
+                "en": "V6 / V8",
+                "de": "V6 / V8",
+                "uk": "V6 / V8",
+                "ru": "V6 / V8",
+                "zh": "V6 / V8"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9x/ap/ts5to0wgowgcogg0ggk48/ford_mustang-ecoboost-coupe-2015_r7-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 413150,
+        "Brand Name": "Ford",
+        "Model Name": "Mustang",
+        "Serie Name": "Mustang S197",
+        "Years": "2005 - 2014",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Muscle Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "4.0L V6 / 4.6L V8 / 5.0L V8 / 5.4L/5.8L GT500",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ford Mustang S197 to powrót do korzeni ze stylistyką retro-futuryzmu, przywracający legendarny wygląd lat 60-tych.",
+              "en": "The Ford Mustang S197 is a return to the roots with retro-futurism styling, restoring the legendary look of the 1960s.",
+              "de": "Der Ford Mustang S197 ist eine Rückkehr zu den Wurzeln mit Retro-Futurismus-Stil und stellt den legendären Look der 1960er Jahre wieder her.",
+              "uk": "Ford Mustang S197 — це повернення до витоків із ретро-футуризмом, відновлюючи легендарний вигляд 1960-х років.",
+              "ru": "Ford Mustang S197 — это возвращение к истокам в стиле ретро-футуризма, восстанавливающее легендарный облик 1960-х годов.",
+              "zh": "福特野马 S197 以复古未来主义造型回归根源，还原 1960 年代的传奇外观。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "2005–2014",
+              "miejsce produkcji": {
+                "pl": "Flat Rock, USA",
+                "en": "Flat Rock, USA",
+                "de": "Flat Rock, USA",
+                "uk": "Флет-Рок, США",
+                "ru": "Флэт-Рок, США",
+                "zh": "美国弗拉特罗克"
+              },
+              "platforma": {
+                "pl": "Ford D2C",
+                "en": "Ford D2C",
+                "de": "Ford D2C",
+                "uk": "Ford D2C",
+                "ru": "Ford D2C",
+                "zh": "福特 D2C"
+              },
+              "silnik": {
+                "pl": "4.0L V6 - 5.8L V8",
+                "en": "4.0L V6 - 5.8L V8",
+                "de": "4,0 l V6 – 5,8 l V8",
+                "uk": "4,0 л V6 - 5,8 л V8",
+                "ru": "4,0 л V6 – 5,8 л V8",
+                "zh": "4.0L V6 - 5.8L V8"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9x/ap/ts5to0wgowgcogg0ggk48/ford_mustang-ecoboost-coupe-2015_r7-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 413151,
+        "Brand Name": "Ford",
+        "Model Name": "Mustang",
+        "Serie Name": "Mustang S550",
+        "Years": "2015 - 2023",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Muscle Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "2.3L EcoBoost / 3.7L V6 / 5.0L V8 / 5.2L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "5"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Ford Mustang S550 to pierwszy Mustang oferowany globalnie, z niezależnym zawieszeniem tylnym i nowoczesnym silnikiem EcoBoost.",
+              "en": "Ford Mustang S550 is the first Mustang offered globally, with independent rear suspension and a modern EcoBoost engine.",
+              "de": "Ford Mustang S550 ist der erste weltweit angebotene Mustang mit Einzelradaufhängung hinten und einem modernen EcoBoost-Motor.",
+              "uk": "Ford Mustang S550 — це перший Mustang, який пропонується в усьому світі, з незалежною задньою підвіскою та сучасним двигуном EcoBoost.",
+              "ru": "Ford Mustang S550 — первый автомобиль Mustang, предлагаемый в мире, с независимой задней подвеской и современным двигателем EcoBoost.",
+              "zh": "福特野马 S550 是全球第一款野马，配备独立后悬架和现代 EcoBoost 发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "projektant": {
+                "pl": "Kemal Curić (nadwozie) / Sewon Chun (wnętrze)",
+                "en": "Kemal Curić (exterior) / Sewon Chun (interior)",
+                "de": "Kemal Curić (außen) / Sewon Chun (innen)",
+                "uk": "Kemal Curić (зовнішній вигляд) / Sewon Chun (інтер’єр)",
+                "ru": "Кемаль Курич (экстерьер) / Севон Чун (интерьер)",
+                "zh": "Kemal Curić（外部）/ Sewon Chun（内部）"
+              },
+              "premiera": "2013",
+              "okres produkcji": "2015–2023",
+              "miejsce produkcji": {
+                "pl": "Flat Rock, USA",
+                "en": "Flat Rock, USA",
+                "de": "Flat Rock, USA",
+                "uk": "Flat Rock, США",
+                "ru": "Флэт-Рок, США",
+                "zh": "美国弗拉特罗克"
+              },
+              "następca": {
+                "pl": "Ford Mustang S650",
+                "en": "Ford Mustang S650",
+                "de": "Ford Mustang S650",
+                "uk": "Ford Mustang S650",
+                "ru": "Ford Mustang S650",
+                "zh": "福特野马 S650"
+              },
+              "segment": {
+                "pl": "G (Muscle Car / Sportowy)",
+                "en": "G (Muscle Car / Sports)",
+                "de": "G (Muscle Car / Sports)",
+                "uk": "G (Muscle Car / Sports)",
+                "ru": "G (Muscle Car / Sports)",
+                "zh": "G（肌肉车/运动型）"
+              },
+              "typy nadwozia": {
+                "pl": "Coupe (Fastback)\nKabriolet (Convertible)",
+                "en": "Coupe (Fastback)\nCabriolet (Convertible)",
+                "de": "Coupe (Fastback)\nCabriolet (Cabriolet)",
+                "uk": "Coupe (Fastback)\nКабріолет (Кабріолет)",
+                "ru": "Coupe (Fastback)\nКабриолет (кабриолет)",
+                "zh": "轿跑车（溜背式）\n敞篷车（敞篷车）"
+              },
+              "skrzynia biegów": {
+                "pl": "6-bieg manualna (Getrag/Tremec)\n6/10-bieg automatyczna",
+                "en": "6-speed manual (Getrag/Tremec)\n6/10-speed automatic",
+                "de": "6-Gang-Schaltgetriebe (Getrag/Tremec)\n6/10-Gang-Automatik",
+                "uk": "6-ступінчаста механіка (Getrag/Tremec)\n6/10-ступінчастий автомат",
+                "ru": "6-ступенчатая механическая коробка передач (Getrag/Tremec)\n6/10-ступенчатая автоматическая",
+                "zh": "6 速手动变速箱（Getrag/Tremec）\n6/10 速自动"
+              },
+              "rodzaj napędu": {
+                "pl": "tylny (RWD)",
+                "en": "rear (RWD)",
+                "de": "hinten (RWD)",
+                "uk": "задня (RWD)",
+                "ru": "задняя (RWD)",
+                "zh": "后轮（后轮驱动）"
+              },
+              "długość": {
+                "pl": "4784 mm",
+                "en": "4784 mm",
+                "de": "4784 mm",
+                "uk": "4784 мм",
+                "ru": "4784 мм",
+                "zh": "4784毫米"
+              },
+              "szerokość": {
+                "pl": "1916 mm",
+                "en": "1916 mm",
+                "de": "1916 mm",
+                "uk": "1916 мм",
+                "ru": "1916 мм",
+                "zh": "1916毫米"
+              },
+              "wysokość": {
+                "pl": "1381 mm",
+                "en": "1381 mm",
+                "de": "1381 mm",
+                "uk": "1381 мм",
+                "ru": "1381 мм",
+                "zh": "1381毫米"
+              },
+              "rozstaw osi": {
+                "pl": "2720 mm",
+                "en": "2720 mm",
+                "de": "2720 mm",
+                "uk": "2720 мм",
+                "ru": "2720 мм",
+                "zh": "2720毫米"
+              },
+              "masa własna": {
+                "pl": "1578–1818 kg",
+                "en": "1578–1818 kg",
+                "de": "1578–1818 kg",
+                "uk": "1578–1818 кг",
+                "ru": "1578–1818 кг",
+                "zh": "1578–1818 公斤"
+              },
+              "zbiornik paliwa": {
+                "pl": "59-61 l",
+                "en": "59-61 l",
+                "de": "59–61 l",
+                "uk": "59-61 л",
+                "ru": "59–61 л",
+                "zh": "59-61岁"
+              },
+              "liczba miejsc": {
+                "pl": "2+2"
+              },
+              "gwiazdki euroncap": "3",
+              "pojemność bagażnika": {
+                "pl": "Fastback: 408 l\nConvertible: 332 l",
+                "en": "Fastback: 408 l\nConvertible: 332 l",
+                "de": "Fastback: 408 l\nCabrio: 332 l",
+                "uk": "Фастбек: 408 л\nКабріолет: 332 л",
+                "ru": "Fastback: 408 л\nКабриолет: 332 л",
+                "zh": "溜背车：408 升\n敞篷车：332 升"
+              },
+              "ładowność": {
+                "pl": "350-420 kg",
+                "en": "350-420 kg",
+                "de": "350-420 kg",
+                "uk": "350-420 кг",
+                "ru": "350–420 кг",
+                "zh": "350-420公斤"
+              },
+              "pokrewne": {
+                "pl": "Shelby GT350/GT500",
+                "en": "Shelby GT350/GT500",
+                "de": "Shelby GT350/GT500",
+                "uk": "Shelby GT350/GT500",
+                "ru": "Shelby GT350/GT500",
+                "zh": "谢尔比 GT350/GT500"
+              },
+              "konkurencja": {
+                "pl": "Chevrolet Camaro, Dodge Challenger",
+                "en": "Chevrolet Camaro, Dodge Challenger",
+                "de": "Chevrolet Camaro, Dodge Challenger",
+                "uk": "Chevrolet Camaro, Dodge Challenger",
+                "ru": "Chevrolet Camaro, Dodge Challenger",
+                "zh": "雪佛兰科迈罗、道奇挑战者"
+              },
+              "commons": {
+                "pl": "Category:Ford Mustang (sixth generation)",
+                "en": "Category:Ford Mustang (sixth generation)",
+                "de": "Kategorie:Ford Mustang (sechste Generation)",
+                "uk": "Категорія: Ford Mustang (шосте покоління)",
+                "ru": "Категория: Ford Mustang (шестое поколение)",
+                "zh": "类别：福特野马（第六代）"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9x/ap/ts5to0wgowgcogg0ggk48/ford_mustang-ecoboost-coupe-2015_r7-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 416560,
+        "Brand Name": "Ford",
+        "Model Name": "Mustang",
+        "Serie Name": "Mustang S650",
+        "Years": "2024 - 3000",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Muscle Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "2.3L EcoBoost / 5.0L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "5"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Ford Mustang S650 to cyfrowa ewolucja ikony, zachowująca silnik V8, ale wprowadzająca kokpit inspirowany myśliwcami.",
+              "en": "The Ford Mustang S650 is a digital evolution of the icon, retaining the V8 engine but introducing a fighter-inspired cockpit.",
+              "de": "Der Ford Mustang S650 ist eine digitale Weiterentwicklung der Ikone, wobei der V8-Motor beibehalten wird, aber ein von Kämpfern inspiriertes Cockpit eingeführt wird.",
+              "uk": "Ford Mustang S650 — це цифрова еволюція ікони, яка зберігає двигун V8, але представляє винищувач. кабіна.",
+              "ru": "Ford Mustang S650 — это цифровая эволюция культового автомобиля, сохранившая двигатель V8, но представившая кабину, напоминающую истребитель.",
+              "zh": "福特野马 S650 是该标志的数字化进化版，保留了 V8 发动机，但引入了战斗机风格的驾驶舱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": {
+                "pl": "od 2024",
+                "en": "from 2024",
+                "de": "ab 2024",
+                "uk": "з 2024 року",
+                "ru": "с 2024 г.",
+                "zh": "2024年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Flat Rock, USA",
+                "en": "Flat Rock, USA",
+                "de": "Flat Rock, USA",
+                "uk": "Флет-Рок, США",
+                "ru": "Флэт-Рок, США",
+                "zh": "美国弗拉特罗克"
+              },
+              "platforma": {
+                "pl": "Ford S650",
+                "en": "Ford S650",
+                "de": "Ford S650",
+                "uk": "Ford S650",
+                "ru": "Ford S650",
+                "zh": "福特S650"
+              },
+              "silnik": {
+                "pl": "2.3L - 5.0L V8",
+                "en": "2.3L - 5.0L V8",
+                "de": "2,3L – 5,0L V8",
+                "uk": "2,3 л - 5,0 л V8",
+                "ru": "2,3–5,0 л V8",
+                "zh": "2.3L - 5.0L V8"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9x/ap/ts5to0wgowgcogg0ggk48/ford_mustang-ecoboost-coupe-2015_r7-jpg.310.jpg"
+        }
+      }
+    ],
+    "Mustang Mach-E": [
+      {
+        "BrandID": 47,
+        "ModelID": 416561,
+        "Brand Name": "Ford",
+        "Model Name": "Mustang Mach-E",
+        "Serie Name": "Mustang Mach-E",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Electric SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Electric",
+          "engine": "Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ford Mustang Mach-E to elektryczny SUV, który redefiniuje markę Mustang, oferując sportowe osiągi w rodzinnym wydaniu.",
+              "en": "Ford Mustang Mach-E is an electric SUV that redefines the Mustang brand, offering sporty performance in a family version.",
+              "de": "Ford Mustang Mach-E ist ein Elektro-SUV, der die Marke Mustang neu definiert und sportliche Leistung in einer Familienversion bietet.",
+              "uk": "Ford Mustang Mach-E — це електричний позашляховик, який переосмислює бренд Mustang, пропонуючи спортивну продуктивність у сімейній версії.",
+              "ru": "Ford Mustang Mach-E — электрический внедорожник, который переосмысливает бренд Mustang, предлагая спортивные характеристики в семейной версии.",
+              "zh": "福特野马 Mach-E 是一款电动 SUV，重新定义了野马品牌，在家庭版中提供运动性能。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": {
+                "pl": "od 2020",
+                "en": "from 2020",
+                "de": "ab 2020",
+                "uk": "з 2020 року",
+                "ru": "с 2020 года",
+                "zh": "2020年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Cuautitlán, Meksyk",
+                "en": "Cuautitlán, Mexico",
+                "de": "Cuautitlán, Mexiko",
+                "uk": "Куаутітлан, Мексика",
+                "ru": "Куаутитлан, Мексика",
+                "zh": "墨西哥库奥蒂特兰"
+              },
+              "platforma": {
+                "pl": "Ford GE1",
+                "en": "Ford GE1",
+                "de": "Ford GE1",
+                "uk": "Ford GE1",
+                "ru": "Ford GE1",
+                "zh": "福特 GE1"
+              },
+              "silnik": {
+                "pl": "Electric"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Puma": [
+      {
+        "BrandID": 47,
+        "ModelID": 548,
+        "Brand Name": "Ford",
+        "Model Name": "Puma",
+        "Serie Name": "Puma (Coupe)",
+        "Years": "1997 - 2002",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Small Sports Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.4L - 1.7L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ford Puma (1997) to małe, zwinne coupe oparte na Fieście, cenione przez entuzjastów za genialne prowadzenie i silniki Yamahy.",
+              "en": "The Ford Puma (1997) is a small, nimble Fiesta-based coupe appreciated by enthusiasts for its brilliant handling and Yamaha engines.",
+              "de": "Der Ford Puma (1997) ist ein kleines, wendiges Coupé auf Fiesta-Basis, das von Enthusiasten wegen seines hervorragenden Handlings und seiner Yamaha-Motoren geschätzt wird.",
+              "uk": "Ford Puma (1997) — це невелике, спритне купе на базі Fiesta, яке цінують ентузіасти за його блискучу керованість і двигуни Yamaha.",
+              "ru": "Ford Puma (1997 г.) — небольшое, маневренное купе на базе Fiesta, которое энтузиасты ценят за великолепную управляемость и двигатели Yamaha.",
+              "zh": "福特 Puma (1997) 是一款小型、灵活的基于嘉年华的轿跑车，因其出色的操控性和雅马哈发动机而受到爱好者的赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "1997–2002",
+              "miejsce produkcji": {
+                "pl": "Kolonia, Niemcy",
+                "en": "Cologne, Germany",
+                "de": "Köln, Deutschland",
+                "uk": "Кельн, Німеччина",
+                "ru": "Кёльн, Германия",
+                "zh": "德国科隆"
+              },
+              "platforma": {
+                "pl": "Ford B3",
+                "en": "Ford B3",
+                "de": "Ford B3",
+                "uk": "Ford B3",
+                "ru": "Ford B3",
+                "zh": "福特 B3"
+              },
+              "silnik": {
+                "pl": "1.4L - 1.7L VCT",
+                "en": "1.4L - 1.7L VCT",
+                "de": "1,4L – 1,7L VCT",
+                "uk": "1.4L - 1.7L VCT",
+                "ru": "1,4–1,7 л VCT",
+                "zh": "1.4L - 1.7L VCT"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/36/3z/esdkxem8wg0gw8kogooks/puma.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 416562,
+        "Brand Name": "Ford",
+        "Model Name": "Puma",
+        "Serie Name": "Puma (Crossover)",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Subcompact SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.0L EcoBoost / 1.5L ST",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nowy Ford Puma to stylowy crossover z największym w klasie bagażnikiem (MegaBox) i miękką hybrydą.",
+              "en": "The new Ford Puma is a stylish crossover with the largest trunk in its class (MegaBox) and a mild hybrid.",
+              "de": "Der neue Ford Puma ist ein stylischer Crossover mit dem größten Kofferraum seiner Klasse (MegaBox) und einem Mild-Hybrid.",
+              "uk": "Новий Ford Puma — це стильний кросовер із найбільшим багажником у своєму класі (MegaBox) і легкий гібрид.",
+              "ru": "Новый Ford Puma — это стильный кроссовер с самым большим багажником в своем классе (MegaBox) и мягкий гибрид.",
+              "zh": "新款福特 Puma 是一款时尚跨界车，拥有同类产品中最大的后备箱 (MegaBox) 和轻度混合动力车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019 р.",
+                "ru": "с 2019 года",
+                "zh": "2019 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Craiova, Rumunia",
+                "en": "Craiova, Romania",
+                "de": "Craiova, Rumänien",
+                "uk": "Крайова, Румунія",
+                "ru": "Крайова, Румыния",
+                "zh": "罗马尼亚克拉约瓦"
+              },
+              "platforma": {
+                "pl": "Ford B-Car",
+                "en": "Ford B-Car",
+                "de": "Ford B-Car",
+                "uk": "Ford B-Car",
+                "ru": "Ford B-Car",
+                "zh": "福特 B-Car"
+              },
+              "silnik": {
+                "pl": "1.0L EcoBoost Hybrid",
+                "en": "1.0L EcoBoost Hybrid",
+                "de": "1.0L EcoBoost Hybrid",
+                "uk": "1.0L EcoBoost Hybrid",
+                "ru": "1,0L EcoBoost Hybrid",
+                "zh": "1.0L EcoBoost 混合动力"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/36/3z/esdkxem8wg0gw8kogooks/puma.310.jpg"
+        }
+      }
+    ],
+    "Ranger": [
+      {
+        "BrandID": 47,
+        "ModelID": 414163,
+        "Brand Name": "Ford",
+        "Model Name": "Ranger",
+        "Serie Name": "Ranger (Older Gens)",
+        "Years": "1983 - 2011",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Compact Pickup",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "Various",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Ford Ranger (starsze generacje) to wół roboczy, kompaktowy pickup znany z trwałości i prostoty konstrukcji.",
+              "en": "Ford Ranger (older generations) is a workhorse, a compact pickup known for its durability and simplicity of design.",
+              "de": "Ford Ranger (ältere Generationen) ist ein Arbeitstier, ein kompakter Pickup, der für seine Haltbarkeit und sein schlichtes Design bekannt ist.",
+              "uk": "Ford Ranger (старші покоління) — це робоча конячка, компактний пікап, відомий своєю довговічністю та простотою конструкції.",
+              "ru": "Ford Ranger (старшие поколения) — рабочая лошадка, компактный пикап, известный своей долговечностью и простотой конструкции.",
+              "zh": "福特 Ranger（老一代）是一款主力车型，是一款以其耐用性和简单设计而闻名的紧凑型皮卡。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford / Mazda",
+                "en": "Ford / Mazda",
+                "de": "Ford / Mazda",
+                "uk": "Ford/Mazda",
+                "ru": "Ford / Mazda",
+                "zh": "福特/马自达"
+              },
+              "okres produkcji": "1998–2011",
+              "miejsce produkcji": {
+                "pl": "Tajlandia / RPA",
+                "en": "Thailand / South Africa",
+                "de": "Thailand / Südafrika",
+                "uk": "Таїланд/Південна Африка",
+                "ru": "Таиланд / Южная Африка",
+                "zh": "泰国/南非"
+              },
+              "platforma": {
+                "pl": "Ford/Mazda"
+              },
+              "silnik": {
+                "pl": "2.5L Diesel",
+                "en": "2.5L Diesel",
+                "de": "2,5-Liter-Diesel",
+                "uk": "2,5-літровий дизель",
+                "ru": "Дизельный двигатель 2,5 л",
+                "zh": "2.5L 柴油机"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5e/w2/u0ktnncwg4cwkc84884sk/ranger-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 413153,
+        "Brand Name": "Ford",
+        "Model Name": "Ranger",
+        "Serie Name": "Ranger T6",
+        "Years": "2011 - 2022",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Mid-size Pickup",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.2L / 3.2L Diesel / 2.3L EcoBoost",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "safety": {
+            "nhtsa": {
+              "overall": "2",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "3"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Ford Ranger T6 to globalny pickup, który wyznaczył standardy w klasie pod względem komfortu, bezpieczeństwa i zdolności terenowych.",
+              "en": "The Ford Ranger T6 is a global pickup that has set the standard in the class for comfort, safety and off-road capability.",
+              "de": "Der Ford Ranger T6 ist ein globaler Pickup, der in seiner Klasse den Maßstab für Komfort, Sicherheit und Geländetauglichkeit gesetzt hat.",
+              "uk": "Ford Ranger T6 — це пікап у всьому світі, який встановив стандарт у своєму класі щодо комфорту, безпеки та бездоріжжя.",
+              "ru": "Ford Ranger T6 — это глобальный пикап, установивший в своем классе стандарты комфорта, безопасности и внедорожных качеств.",
+              "zh": "福特 Ranger T6 是一款全球皮卡，在舒适性、安全性和越野能力方面树立了同级别标准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "2011–2022",
+              "miejsce produkcji": {
+                "pl": "RPA / Tajlandia / Argentyna",
+                "en": "South Africa / Thailand / Argentina",
+                "de": "Südafrika / Thailand / Argentinien",
+                "uk": "Південна Африка / Таїланд / Аргентина",
+                "ru": "Южная Африка / Таиланд / Аргентина",
+                "zh": "南非/泰国/阿根廷"
+              },
+              "platforma": {
+                "pl": "Ford T6",
+                "en": "Ford T6",
+                "de": "Ford T6",
+                "uk": "Ford T6",
+                "ru": "Ford T6",
+                "zh": "福特 T6"
+              },
+              "silnik": {
+                "pl": "2.2L - 3.2L Wildtrak",
+                "en": "2.2L - 3.2L Wildtrak",
+                "de": "2,2L – 3,2L Wildtrak",
+                "uk": "2.2L - 3.2L Wildtrak",
+                "ru": "2,2–3,2 л Wildtrak",
+                "zh": "2.2L - 3.2L Wildtrak"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5e/w2/u0ktnncwg4cwkc84884sk/ranger-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 416563,
+        "Brand Name": "Ford",
+        "Model Name": "Ranger",
+        "Serie Name": "Ranger (New)",
+        "Years": "2022 - 3000",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Mid-size Pickup",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L Diesel / 3.0L V6 Diesel / 3.0L V6 Gas (Raptor)",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Nowy Ford Ranger to 'najmądrzejszy' Ranger w historii, z cyfrowym wnętrzem i potężnym V6 w wersji Raptor.",
+              "en": "The new Ford Ranger is the 'smartest' Ranger ever, with a digital interior and a powerful V6 in the Raptor version.",
+              "de": "Der neue Ford Ranger ist der „intelligentste“ Ranger aller Zeiten, mit digitalem Innenraum und einem leistungsstarken V6 in der Raptor-Version.",
+              "uk": "Новий Ford Ranger є «найрозумнішим» Ranger з цифровим салоном і потужним V6 у версії Raptor.",
+              "ru": "Новый Ford Ranger — самый «умный» Ranger за всю историю, с цифровым салоном и мощным двигателем V6 в версии Raptor.",
+              "zh": "新款福特 Ranger 是有史以来“最智能”的 Ranger，配备数字内饰和猛禽版本中强大的 V6 发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": {
+                "pl": "od 2022",
+                "en": "from 2022",
+                "de": "ab 2022",
+                "uk": "з 2022 року",
+                "ru": "с 2022 года",
+                "zh": "2022 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "RPA / Tajlandia",
+                "en": "South Africa / Thailand",
+                "de": "Südafrika / Thailand",
+                "uk": "Південна Африка / Таїланд",
+                "ru": "Южная Африка/Таиланд",
+                "zh": "南非/泰国"
+              },
+              "platforma": {
+                "pl": "Ford T6.2",
+                "en": "Ford T6.2",
+                "de": "Ford T6.2",
+                "uk": "Ford T6.2",
+                "ru": "Ford T6.2",
+                "zh": "福特 T6.2"
+              },
+              "silnik": {
+                "pl": "2.0L - 3.0L V6",
+                "en": "2.0L - 3.0L V6",
+                "de": "2.0L - 3.0L V6",
+                "uk": "2.0L - 3.0L V6",
+                "ru": "2,0 л — 3,0 л V6",
+                "zh": "2.0L - 3.0L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5e/w2/u0ktnncwg4cwkc84884sk/ranger-iii.310.jpg"
+        }
+      }
+    ],
+    "S-Max": [
+      {
+        "BrandID": 47,
+        "ModelID": 413165,
+        "Brand Name": "Ford",
+        "Model Name": "S-Max",
+        "Serie Name": "S-Max Mk1",
+        "Years": "2006 - 2015",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Large MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L TDCi / 2.5L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Ford S-Max Mk1 to sportowy minivan (SAV), który udowodnił, że rodzinne auto może wyglądać dynamicznie i świetnie się prowadzić.",
+              "en": "Ford S-Max Mk1 is a sports minivan (SAV) that proved that a family car can look dynamic and drive great.",
+              "de": "Ford S-Max Mk1 ist ein Sport-Minivan (SAV), der bewiesen hat, dass ein Familienauto dynamisch aussehen und großartig fahren kann.",
+              "uk": "Ford S-Max Mk1 — це спортивний мінівен (SAV), який довів, що сімейний автомобіль може виглядати динамічно та чудово керувати.",
+              "ru": "Ford S-Max Mk1 — спортивный минивэн (SAV), доказавший, что семейный автомобиль может выглядеть динамично и отлично управляться.",
+              "zh": "福特 S-Max Mk1 是一款运动型小型货车 (SAV)，它证明了家庭用车可以看起来动感十足，驾驶起来也很棒。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "2006–2015",
+              "miejsce produkcji": {
+                "pl": "Genk, Belgia",
+                "en": "Genk, Belgium",
+                "de": "Genk, Belgien",
+                "uk": "Генк, Бельгія",
+                "ru": "Генк, Бельгия",
+                "zh": "比利时亨克"
+              },
+              "platforma": {
+                "pl": "Ford EUCD",
+                "en": "Ford EUCD",
+                "de": "Ford EUCD",
+                "uk": "Ford EUCD",
+                "ru": "Ford EUCD",
+                "zh": "福特 EUCD"
+              },
+              "silnik": {
+                "pl": "2.0L TDCi / 2.5L Turbo",
+                "en": "2.0L TDCi / 2.5L Turbo",
+                "de": "2.0L TDCi / 2.5L Turbo",
+                "uk": "2.0L TDCi / 2.5L Turbo",
+                "ru": "2.0L TDCi / 2.5L Turbo",
+                "zh": "2.0L TDCi / 2.5L Turbo"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/a6/f6/oye7ow00gg804ksok0gos/s-max.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 413166,
+        "Brand Name": "Ford",
+        "Model Name": "S-Max",
+        "Serie Name": "S-Max Mk2",
+        "Years": "2015 - 2023",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Large MPV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "2.0L / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Ford S-Max Mk2 to ewolucja koncepcji sportowego vana, oferująca napęd na 4 koła i luksusowe wyposażenie w wersji Vignale.",
+              "en": "Ford S-Max Mk2 is an evolution of the sports van concept, offering 4-wheel drive and luxurious equipment in the Vignale version.",
+              "de": "Der Ford S-Max Mk2 ist eine Weiterentwicklung des Sport-Van-Konzepts und bietet Allradantrieb und luxuriöse Ausstattung in der Vignale-Version.",
+              "uk": "Ford S-Max Mk2 — це еволюція концепції спортивного фургона, що пропонує повний привід і розкішне обладнання у версії Vignale.",
+              "ru": "Ford S-Max Mk2 — это эволюция концепции спортивного фургона, предлагающая полный привод и роскошное оснащение в версии Vignale.",
+              "zh": "福特 S-Max Mk2 是运动厢式货车概念的演变，在 Vignale 版本中提供 4 轮驱动和豪华装备。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "2015–2023",
+              "miejsce produkcji": {
+                "pl": "Walencja, Hiszpania",
+                "en": "Valencia, Spain",
+                "de": "Valencia, Spanien",
+                "uk": "Валенсія, Іспанія",
+                "ru": "Валенсия, Испания",
+                "zh": "西班牙巴伦西亚"
+              },
+              "platforma": {
+                "pl": "Ford CD4",
+                "en": "Ford CD4",
+                "de": "Ford CD4",
+                "uk": "Ford CD4",
+                "ru": "Ford CD4",
+                "zh": "福特 CD4"
+              },
+              "silnik": {
+                "pl": "2.0L / Hybrid",
+                "en": "2.0L / Hybrid",
+                "de": "2.0L / Hybrid",
+                "uk": "2.0L / Hybrid",
+                "ru": "2,0 л / гибрид",
+                "zh": "2.0L / 混合动力"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/a6/f6/oye7ow00gg804ksok0gos/s-max.310.jpg"
+        }
+      }
+    ],
+    "Taurus": [
+      {
+        "BrandID": 47,
+        "ModelID": 556,
+        "Brand Name": "Ford",
+        "Model Name": "Taurus",
+        "Serie Name": "Taurus",
+        "Years": "1986 - 2019",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.0L V6 / 3.5L V6 SHO",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ford Taurus to flagowa limuzyna Forda w USA, w wersji SHO oferująca osiągi sportowego sedana.",
+              "en": "Ford Taurus is Ford's flagship sedan in the US, in the SHO version offering the performance of a sports sedan.",
+              "de": "Ford Taurus ist Fords Flaggschiff-Limousine in den USA und bietet in der SHO-Version die Leistung einer Sportlimousine.",
+              "uk": "Ford Taurus — це флагманський седан Ford у США, у версії SHO, що пропонує характеристики спортивного седана.",
+              "ru": "Ford Taurus — флагманский седан Ford в США, в версии SHO обладающий характеристиками спортивного седана.",
+              "zh": "福特 Taurus 是福特在美国的旗舰轿车，SHO 版本提供运动轿车的性能。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": "1986–2019",
+              "miejsce produkcji": {
+                "pl": "Chicago, USA",
+                "en": "Chicago, USA",
+                "de": "Chicago, USA",
+                "uk": "Чикаго, США",
+                "ru": "Чикаго, США",
+                "zh": "美国芝加哥"
+              },
+              "platforma": {
+                "pl": "Ford D3",
+                "en": "Ford D3",
+                "de": "Ford D3",
+                "uk": "Ford D3",
+                "ru": "Ford D3",
+                "zh": "福特 D3"
+              },
+              "silnik": {
+                "pl": "3.5L V6 EcoBoost SHO",
+                "en": "3.5L V6 EcoBoost SHO",
+                "de": "3.5L V6 EcoBoost SHO",
+                "uk": "3.5L V6 EcoBoost SHO",
+                "ru": "3,5 л V6 EcoBoost SHO",
+                "zh": "3.5L V6 EcoBoost SHO"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/24/ac/lssjh668s00soo48gocw0/taurus-ii.310.jpg"
+        }
+      }
+    ],
+    "Tourneo": [
+      {
+        "BrandID": 47,
+        "ModelID": 415541,
+        "Brand Name": "Ford",
+        "Model Name": "Tourneo",
+        "Serie Name": "Tourneo Custom",
+        "Years": "2012 - 3000",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Passenger Van",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "2.0L EcoBlue / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Ford Tourneo Custom to luksusowy minibus, idealny dla VIP-ów i dużych rodzin, z elastycznym wnętrzem.",
+              "en": "Ford Tourneo Custom is a luxury minibus, ideal for VIPs and large families, with a flexible interior.",
+              "de": "Ford Tourneo Custom ist ein Luxus-Kleinbus, ideal für VIPs und große Familien, mit flexiblem Innenraum.",
+              "uk": "Ford Tourneo Custom — розкішний мікроавтобус, ідеальний для VIP-персон і великих сімей, із гнучким салоном.",
+              "ru": "Ford Tourneo Custom — это роскошный микроавтобус, идеально подходящий для VIP-персон и больших семей, с гибким салоном.",
+              "zh": "福特 Tourneo Custom 是一款豪华小巴，内部空间灵活，非常适合 VIP 和大家庭。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": {
+                "pl": "od 2012",
+                "en": "from 2012",
+                "de": "ab 2012",
+                "uk": "з 2012 р.",
+                "ru": "с 2012 года",
+                "zh": "2012 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Kocaeli, Turcja",
+                "en": "Kocaeli, Turkey",
+                "de": "Kocaeli, Türkei",
+                "uk": "Коджаелі, Туреччина",
+                "ru": "Коджаэли, Турция",
+                "zh": "土耳其科贾埃利"
+              },
+              "platforma": {
+                "pl": "Ford Transit Custom",
+                "en": "Ford Transit Custom",
+                "de": "Ford Transit Custom",
+                "uk": "Ford Transit Custom",
+                "ru": "Ford Transit Custom",
+                "zh": "福特 Transit Custom"
+              },
+              "silnik": {
+                "pl": "2.0L EcoBlue",
+                "en": "2.0L EcoBlue",
+                "de": "2.0L EcoBlue",
+                "uk": "2.0L EcoBlue",
+                "ru": "2.0L EcoBlue",
+                "zh": "2.0L EcoBlue"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 413138,
+        "Brand Name": "Ford",
+        "Model Name": "Tourneo",
+        "Serie Name": "Tourneo Connect",
+        "Years": "2002 - 3000",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.5L / 1.8L",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Ford Tourneo Connect to kombivan oferujący przestrzeń minivana i prowadzenie osobówki, idealny dla aktywnych.",
+              "en": "Ford Tourneo Connect is a station wagon offering the space of a minivan and the driving experience of a passenger car, ideal for active people.",
+              "de": "Ford Tourneo Connect ist ein Kombi, der den Platz eines Minivans und das Fahrerlebnis eines Pkw bietet, ideal für aktive Menschen.",
+              "uk": "Ford Tourneo Connect — це універсал, що пропонує простір мінівена та враження від водіння легкового автомобіля, ідеальний для активних людей.",
+              "ru": "Ford Tourneo Connect — универсал, сочетающий пространство минивэна и ощущения от вождения легкового автомобиля, идеально подходящий для активных людей.",
+              "zh": "福特 Tourneo Connect 是一款旅行车，提供小型货车的空间和乘用车的驾驶体验，非常适合活跃人士。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": {
+                "pl": "od 2002",
+                "en": "from 2002",
+                "de": "ab 2002",
+                "uk": "з 2002 р.",
+                "ru": "с 2002 г.",
+                "zh": "2002 年生产"
+              },
+              "miejsce produkcji": {
+                "pl": "Walencja, Hiszpania / Poznań, Polska",
+                "en": "Valencia, Spain / Poznań, Poland",
+                "de": "Valencia, Spanien / Poznań, Polen",
+                "uk": "Валенсія, Іспанія / Познань, Польща",
+                "ru": "Валенсия, Испания / Познань, Польша",
+                "zh": "西班牙巴伦西亚 / 波兰波兹南"
+              },
+              "platforma": {
+                "pl": "Ford C1 / VW MQB",
+                "en": "Ford C1 / VW MQB",
+                "de": "Ford C1 / VW MQB",
+                "uk": "Ford C1 / VW MQB",
+                "ru": "Ford C1 / VW MQB",
+                "zh": "福特 C1 / VW MQB"
+              },
+              "silnik": {
+                "pl": "1.5L / 2.0L Diesel",
+                "en": "1.5L / 2.0L Diesel",
+                "de": "1,5L / 2,0L Diesel",
+                "uk": "1,5 л / 2,0 л дизель",
+                "ru": "1,5 л / 2,0 л Дизель",
+                "zh": "1.5L / 2.0L 柴油机"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 416564,
+        "Brand Name": "Ford",
+        "Model Name": "Tourneo",
+        "Serie Name": "Tourneo Courier",
+        "Years": "2014 - 3000",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Small MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L EcoBoost / 1.5L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Ford Tourneo Courier to najmniejszy z rodziny, zwinny miejski kombivan o ogromnych możliwościach przewozowych.",
+              "en": "Ford Tourneo Courier is the smallest of the family, an agile city station wagon with huge transport capabilities.",
+              "de": "Ford Tourneo Courier ist der Kleinste der Familie, ein wendiger Stadtkombi mit enormen Transportmöglichkeiten.",
+              "uk": "Ford Tourneo Courier — найменший у сімействі, моторний міський універсал із величезними транспортними можливостями.",
+              "ru": "Ford Tourneo Courier — самый маленький представитель семейства, маневренный городской универсал с огромными транспортными возможностями.",
+              "zh": "福特 Tourneo Courier 是该系列中最小的一款，是一款敏捷的城市旅行车，具有强大的运输能力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": {
+                "pl": "od 2014",
+                "en": "from 2014",
+                "de": "ab 2014",
+                "uk": "з 2014",
+                "ru": "с 2014 г.",
+                "zh": "2014 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Kocaeli, Turcja / Craiova, Rumunia",
+                "en": "Kocaeli, Türkiye / Craiova, Romania",
+                "de": "Kocaeli, Türkiye / Craiova, Rumänien",
+                "uk": "Коджаелі, Туреччина / Крайова, Румунія",
+                "ru": "Коджаэли, Турция / Крайова, Румыния",
+                "zh": "土耳其科贾埃利 / 罗马尼亚克拉约瓦"
+              },
+              "platforma": {
+                "pl": "Ford B-Car",
+                "en": "Ford B-Car",
+                "de": "Ford B-Car",
+                "uk": "Ford B-Car",
+                "ru": "Ford B-Car",
+                "zh": "福特 B-Car"
+              },
+              "silnik": {
+                "pl": "1.0L EcoBoost",
+                "en": "1.0L EcoBoost",
+                "de": "1.0L EcoBoost",
+                "uk": "1.0L EcoBoost",
+                "ru": "1,0-литровый EcoBoost",
+                "zh": "1.0L EcoBoost"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Transit": [
+      {
+        "BrandID": 47,
+        "ModelID": 412929,
+        "Brand Name": "Ford",
+        "Model Name": "Transit",
+        "Serie Name": "Transit (Full Size)",
+        "Years": "1965 - 3000",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Full-size Van",
+          "drive": "FWD/RWD/AWD",
+          "fuel": "Gasoline/Diesel/Electric",
+          "engine": "2.0L EcoBlue / E-Transit",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Ford Transit to synonim auta dostawczego, 'kręgosłup biznesu', dostępny w nieskończonej liczbie konfiguracji.",
+              "en": "Ford Transit is a synonym for a delivery vehicle, the 'backbone of business', available in an infinite number of configurations.",
+              "de": "Ford Transit ist ein Synonym für ein Lieferfahrzeug, das „Rückgrat des Geschäfts“, das in unzähligen Konfigurationen erhältlich ist.",
+              "uk": "Ford Transit — це синонім автомобіля для доставки, «основи бізнесу», доступного в нескінченній кількості конфігурацій.",
+              "ru": "Ford Transit — это синоним автомобиля для доставки, «основа бизнеса», доступный в бесконечном количестве конфигураций.",
+              "zh": "福特全顺是送货车辆的同义词，是“业务的支柱”，有无限多种配置可供选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": {
+                "pl": "od 1965",
+                "en": "from 1965",
+                "de": "von 1965",
+                "uk": "з 1965 р.",
+                "ru": "с 1965 года",
+                "zh": "1965 年生产"
+              },
+              "miejsce produkcji": {
+                "pl": "Kocaeli, Turcja / Kansas City, USA",
+                "en": "Kocaeli, Turkey / Kansas City, USA",
+                "de": "Kocaeli, Türkei / Kansas City, USA",
+                "uk": "Коджаелі, Туреччина / Канзас-Сіті, США",
+                "ru": "Коджаэли, Турция/Канзас-Сити, США",
+                "zh": "土耳其科贾埃利 / 美国堪萨斯城"
+              },
+              "platforma": {
+                "pl": "Ford Transit",
+                "en": "Ford Transit",
+                "de": "Ford Transit",
+                "uk": "Ford Transit",
+                "ru": "Ford Transit",
+                "zh": "福特全顺"
+              },
+              "silnik": {
+                "pl": "2.0L EcoBlue / E-Transit",
+                "en": "2.0L EcoBlue / E-Transit",
+                "de": "2.0L EcoBlue / E-Transit",
+                "uk": "2.0L EcoBlue / E-Transit",
+                "ru": "2.0L EcoBlue / E-Transit",
+                "zh": "2.0L EcoBlue / E-Transit"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8a/m7/ty957vwowc48okk4cw40s/transit-vi-furgon.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 415421,
+        "Brand Name": "Ford",
+        "Model Name": "Transit Custom",
+        "Serie Name": "Transit Custom",
+        "Years": "2012 - 3000",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Medium Van",
+          "drive": "FWD/RWD/AWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "2.0L EcoBlue / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Ford Transit Custom to jednotonowy dostawczak o nowoczesnym designie i komforcie jazdy samochodu osobowego.",
+              "en": "Ford Transit Custom is a one-ton delivery van with a modern design and the driving comfort of a passenger car.",
+              "de": "Ford Transit Custom ist ein Ein-Tonnen-Lieferwagen mit modernem Design und dem Fahrkomfort eines Pkw.",
+              "uk": "Ford Transit Custom — це однотонний фургон із сучасним дизайном і комфортом водіння легкового автомобіля.",
+              "ru": "Ford Transit Custom — однотонный развозной фургон с современным дизайном и комфортом управления легковым автомобилем.",
+              "zh": "福特全顺 Custom 是一款一吨货车，具有现代设计和乘用车的驾驶舒适性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ford"
+              },
+              "okres produkcji": {
+                "pl": "od 2012",
+                "en": "from 2012",
+                "de": "ab 2012",
+                "uk": "з 2012",
+                "ru": "с 2012 года",
+                "zh": "2012 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Kocaeli, Turcja",
+                "en": "Kocaeli, Türkiye",
+                "de": "Kocaeli, Türkiye",
+                "uk": "Kocaeli, Туреччина",
+                "ru": "Коджаэли, Турция",
+                "zh": "土耳其科贾埃利"
+              },
+              "platforma": {
+                "pl": "Ford Transit Custom",
+                "en": "Ford Transit Custom",
+                "de": "Ford Transit Custom",
+                "uk": "Ford Transit Custom",
+                "ru": "Ford Transit Custom",
+                "zh": "Ford Transit Custom"
+              },
+              "silnik": {
+                "pl": "2.0L EcoBlue",
+                "en": "2.0L EcoBlue",
+                "de": "2.0L EcoBlue",
+                "uk": "2.0L EcoBlue",
+                "ru": "2.0L EcoBlue",
+                "zh": "2.0L EcoBlue"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8a/m7/ty957vwowc48okk4cw40s/transit-vi-furgon.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 414153,
+        "Brand Name": "Ford",
+        "Model Name": "Transit Connect",
+        "Serie Name": "Transit Connect",
+        "Years": "2002 - 3000",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Compact Van",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.5L / 1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {},
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8a/m7/ty957vwowc48okk4cw40s/transit-vi-furgon.310.jpg"
+        }
+      },
+      {
+        "BrandID": 47,
+        "ModelID": 416565,
+        "Brand Name": "Ford",
+        "Model Name": "Transit Courier",
+        "Serie Name": "Transit Courier",
+        "Years": "2014 - 3000",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Small Van",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L EcoBoost / 1.5L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {},
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8a/m7/ty957vwowc48okk4cw40s/transit-vi-furgon.310.jpg"
+        }
+      }
+    ]
+  }
+}

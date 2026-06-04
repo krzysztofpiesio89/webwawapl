@@ -1,0 +1,63 @@
+{
+  "brand": "Piaggio",
+  "models": {
+    "": [
+      {
+        "BrandID": 217,
+        "ModelID": "",
+        "Brand Name": "Piaggio",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Piaggio to włoski gigant motoryzacyjny, twórca kultowej Vespy i innowacyjnych skuterów trójkołowych.",
+              "en": "Piaggio is an Italian automotive giant, creator of the iconic Vespa and innovative three-wheeled scooters.",
+              "de": "Piaggio ist ein italienischer Automobilgigant, Hersteller der legendären Vespa und innovativer dreirädriger Motorroller.",
+              "uk": "Piaggio — італійський автомобільний гігант, творець культової Vespa та інноваційних триколісних скутерів.",
+              "ru": "Piaggio — итальянский автомобильный гигант, создатель культовой Vespa и инновационных трехколесных скутеров.",
+              "zh": "比亚乔是一家意大利汽车巨头，是标志性 Vespa 和创新三轮踏板车的创造者。"
+            }
+          }
+        }
+      }
+    ],
+    "MP3": [
+      {
+        "BrandID": 217,
+        "ModelID": 416122,
+        "Brand Name": "Piaggio",
+        "Model Name": "MP3",
+        "Serie Name": "MP3",
+        "Years": "2000 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Piaggio MP3 to rewolucyjny skuter trójkołowy, oferujący stabilność i bezpieczeństwo niedostępne dla tradycyjnych jednośladów.",
+              "en": "Piaggio MP3 is a revolutionary three-wheeled scooter, offering stability and safety unavailable to traditional two-wheelers.",
+              "de": "Piaggio MP3 ist ein revolutionärer dreirädriger Roller, der Stabilität und Sicherheit bietet, die herkömmliche Zweiräder nicht bieten können.",
+              "uk": "Piaggio MP3 — це революційний триколісний скутер, що забезпечує стабільність і безпеку, недоступну традиційним двоколісним автомобілям.",
+              "ru": "Piaggio MP3 — революционный трехколесный самокат, обеспечивающий устойчивость и безопасность, недоступные традиционным двухколесным средствам передвижения.",
+              "zh": "Piaggio MP3 是一款革命性的三轮踏板车，提供传统两轮车无法比拟的稳定性和安全性。"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

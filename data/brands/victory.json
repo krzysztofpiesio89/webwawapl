@@ -1,0 +1,43 @@
+{
+  "brand": "Victory",
+  "models": {
+    "": [
+      {
+        "BrandID": 220,
+        "ModelID": "",
+        "Brand Name": "Victory",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle"
+        }
+      }
+    ],
+    "Kingpin": [
+      {
+        "BrandID": 220,
+        "ModelID": 416245,
+        "Brand Name": "Victory",
+        "Model Name": "KINGPIN",
+        "Serie Name": "Kingpin",
+        "Years": "2000 - 2021",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle"
+        }
+      }
+    ]
+  }
+}

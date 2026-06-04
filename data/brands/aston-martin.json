@@ -1,0 +1,959 @@
+{
+  "brand": "Aston Martin",
+  "models": {
+    "DB7": [
+      {
+        "BrandID": 8,
+        "ModelID": 415262,
+        "Brand Name": "Aston Martin",
+        "Model Name": "DB7",
+        "Serie Name": "DB7",
+        "Years": "1994 - 2004",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Sport",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.2L I6 / 5.9L V12",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Aston Martin DB7 (1994-2004) to model, który uratował markę przed bankructwem. Zaprojektowany przez Iana Calluma, dostępny był z silnikami R6 i V12 (Vantage).",
+              "en": "Aston Martin DB7 (1994-2004) is the model that saved the brand from bankruptcy. Designed by Ian Callum, it was available with R6 and V12 (Vantage) engines.",
+              "de": "Der Aston Martin DB7 (1994–2004) ist das Modell, das die Marke vor dem Bankrott rettete. Der von Ian Callum entworfene Wagen war mit R6- und V12-Motoren (Vantage) erhältlich.",
+              "uk": "Aston Martin DB7 (1994-2004) – модель, яка врятувала бренд від банкрутства. Розроблений Яном Каллумом, він був доступний з двигунами R6 і V12 (Vantage).",
+              "ru": "Aston Martin DB7 (1994-2004 гг.) – модель, спасшая бренд от банкротства. Разработанный Яном Каллумом, он был доступен с двигателями R6 и V12 (Vantage).",
+              "zh": "阿斯顿·马丁 DB7（1994-2004）是使该品牌免于破产的车型。它由 Ian Callum 设计，配备 R6 和 V12 (Vantage) 发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Aston Martin",
+                "en": "AstonMartin",
+                "de": "AstonMartin",
+                "uk": "AstonMartin",
+                "ru": "АстонМартин",
+                "zh": "阿斯顿·马丁"
+              },
+              "okres produkcji": {
+                "pl": "1994–2004",
+                "en": "1994–2004",
+                "de": "1994–2004",
+                "uk": "1994–2004",
+                "ru": "1994–2004"
+              },
+              "miejsce produkcji": {
+                "pl": "Bloxham, Wielka Brytania",
+                "en": "Bloxham, UK",
+                "de": "Bloxham, Großbritannien",
+                "uk": "Блоксем, Великобританія",
+                "ru": "Блоксэм, Великобритания",
+                "zh": "英国布洛克瑟姆"
+              },
+              "projektant": {
+                "pl": "Ian Callum / Keith Helfet",
+                "en": "Ian Callum/Keith Helfet",
+                "de": "Ian Callum/Keith Helfet",
+                "uk": "Ян Каллум/Кейт Хелфет",
+                "ru": "Йен Каллум/Кит Хелфет",
+                "zh": "伊恩·卡勒姆/基思·赫尔菲特"
+              },
+              "silnik": {
+                "pl": "3.2L R6 / 5.9L V12",
+                "en": "3.2L R6 / 5.9L V12",
+                "de": "3,2 l R6 / 5,9 l V12",
+                "uk": "3,2 л R6 / 5,9 л V12",
+                "ru": "3,2 л R6 / 5,9 л V12",
+                "zh": "3.2L R6 / 5.9L V12"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "DB9": [
+      {
+        "BrandID": 8,
+        "ModelID": 413977,
+        "Brand Name": "Aston Martin",
+        "Model Name": "DB9",
+        "Serie Name": "DB9",
+        "Years": "2004 - 2016",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Sport",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "5.9L V12",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Aston Martin DB9 (2004-2016) to pierwszy model zbudowany na platformie VH. Uznawany za jeden z najpiękniejszych samochodów świata, napędzany wolnossącym V12.",
+              "en": "Aston Martin DB9 (2004-2016) is the first model built on the VH platform. Considered one of the most beautiful cars in the world, powered by a naturally aspirated V12.",
+              "de": "Der Aston Martin DB9 (2004–2016) ist das erste Modell, das auf der VH-Plattform gebaut wurde. Gilt als eines der schönsten Autos der Welt, angetrieben von einem V12-Saugmotor.",
+              "uk": "Aston Martin DB9 (2004-2016) - перша модель, побудована на платформі VH. Вважається одним із найкрасивіших автомобілів у світі, оснащений атмосферним двигуном V12.",
+              "ru": "Aston Martin DB9 (2004-2016) — первая модель, построенная на платформе VH. Считается одним из самых красивых автомобилей в мире, оснащенным атмосферным двигателем V12.",
+              "zh": "阿斯顿·马丁DB9​​（2004-2016）是第一款基于VH平台打造的车型。被认为是世界上最漂亮的汽车之一，由自然吸气 V12 发动机提供动力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Aston Martin",
+                "en": "AstonMartin",
+                "de": "AstonMartin",
+                "uk": "AstonMartin",
+                "ru": "АстонМартин",
+                "zh": "阿斯顿·马丁"
+              },
+              "okres produkcji": {
+                "pl": "2004–2016",
+                "en": "2004–2016",
+                "de": "2004–2016",
+                "uk": "2004–2016",
+                "ru": "2004–2016"
+              },
+              "miejsce produkcji": {
+                "pl": "Gaydon, Wielka Brytania",
+                "en": "Gaydon, UK",
+                "de": "Gaydon, Großbritannien",
+                "uk": "Гейдон, Великобританія",
+                "ru": "Гейдон, Великобритания",
+                "zh": "英国盖登"
+              },
+              "projektant": {
+                "pl": "Henrik Fisker / Ian Callum",
+                "en": "Henrik Fisker/Ian Callum",
+                "de": "Henrik Fisker/Ian Callum",
+                "uk": "Хенрік Фіскер/Іен Каллум",
+                "ru": "Хенрик Фискер/Йен Каллум",
+                "zh": "亨里克·菲斯克 / 伊恩·卡勒姆"
+              },
+              "platforma": {
+                "pl": "VH Generation I-II-III",
+                "en": "VH Generation I-II-III",
+                "de": "VH Generation I-II-III",
+                "uk": "VH покоління I-II-III",
+                "ru": "VH поколения I-II-III",
+                "zh": "VH I-II-III代"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/46/nl/00z1q9kw004wcgw04wckk/db9-coupe.310.jpg"
+        }
+      }
+    ],
+    "DB11": [
+      {
+        "BrandID": 8,
+        "ModelID": 414435,
+        "Brand Name": "Aston Martin",
+        "Model Name": "DB11",
+        "Serie Name": "DB11",
+        "Years": "2016 - 2023",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Sport",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "4.0L V8 / 5.2L V12",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Aston Martin DB11 (2016-2023) to pierwszy model nowej ery, wykorzystujący silniki V12 twin-turbo oraz V8 od AMG. Wprowadził nową stylistykę i aerodynamikę (Aeroblade).",
+              "en": "Aston Martin DB11 (2016-2023) is the first model of the new era, using V12 twin-turbo and V8 engines from AMG. It introduced new styling and aerodynamics (Aeroblade).",
+              "de": "Der Aston Martin DB11 (2016–2023) ist das erste Modell der neuen Ära, das V12-Biturbo- und V8-Motoren von AMG verwendet. Es führte ein neues Design und eine neue Aerodynamik ein (Aeroblade).",
+              "uk": "Aston Martin DB11 (2016-2023) — перша модель нової ери, в якій використовуються двигуни V12 twin-turbo і V8 від AMG. Він представив новий стиль і аеродинаміку (Aeroblade).",
+              "ru": "Aston Martin DB11 (2016-2023) — первая модель новой эпохи, использующая двигатели V12 твин-турбо и V8 от AMG. Он представил новый стиль и аэродинамику (Aeroblade).",
+              "zh": "阿斯顿·马丁DB11（2016-2023）是新时代的首款车型，采用来自AMG的V12双涡轮增压和V8发动机。它引入了新的造型和空气动力学（Aeroblade）。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Aston Martin",
+                "en": "AstonMartin",
+                "de": "AstonMartin",
+                "uk": "AstonMartin",
+                "ru": "АстонМартин",
+                "zh": "阿斯顿·马丁"
+              },
+              "okres produkcji": {
+                "pl": "2016–2023",
+                "en": "2016–2023",
+                "de": "2016–2023",
+                "uk": "2016–2023",
+                "ru": "2016–2023"
+              },
+              "miejsce produkcji": {
+                "pl": "Gaydon, Wielka Brytania",
+                "en": "Gaydon, UK",
+                "de": "Gaydon, Großbritannien",
+                "uk": "Гейдон, Великобританія",
+                "ru": "Гейдон, Великобритания",
+                "zh": "英国盖登"
+              },
+              "projektant": {
+                "pl": "Marek Reichman",
+                "en": "Marek Reichman",
+                "de": "Marek Reichmann",
+                "uk": "Марек Райхман",
+                "ru": "Марек Райхман",
+                "zh": "马雷克·雷克曼"
+              },
+              "platforma": {
+                "pl": "Second Century architecture",
+                "en": "Second Century architecture",
+                "de": "Architektur des zweiten Jahrhunderts",
+                "uk": "Архітектура другого століття",
+                "ru": "Архитектура второго века",
+                "zh": "二世纪建筑"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "DB12": [
+      {
+        "BrandID": 8,
+        "ModelID": 416610,
+        "Brand Name": "Aston Martin",
+        "Model Name": "DB12",
+        "Serie Name": "DB12",
+        "Years": "2023 - 3000",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Sport",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "4.0L Twin-Turbo V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Aston Martin DB12 (od 2023) to pierwszy na świecie 'Super Tourer', łączący luksus z osiągami supersamochodu. Napędzany mocno zmodyfikowanym V8 od AMG.",
+              "en": "Aston Martin DB12 (from 2023) is the world's first 'Super Tourer', combining luxury with supercar performance. Powered by a heavily modified V8 from AMG.",
+              "de": "Der Aston Martin DB12 (ab 2023) ist der weltweit erste „Super Tourer“, der Luxus mit der Leistung eines Supersportwagens kombiniert. Angetrieben von einem stark modifizierten V8 von AMG.",
+              "uk": "Aston Martin DB12 (з 2023 року) — це перший у світі «Super Tourer», який поєднує в собі розкіш і продуктивність суперкара. Працює на сильно модифікованому V8 від AMG.",
+              "ru": "Aston Martin DB12 (с 2023 г.) — первый в мире Super Tourer, сочетающий роскошь с характеристиками суперкара. Оснащен сильно модифицированным двигателем V8 от AMG.",
+              "zh": "阿斯顿·马丁 DB12（2023 年起）是世界上第一辆“超级旅行车”，将奢华与超级跑车性能融为一体。由 AMG 大幅改装的 V8 发动机提供动力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Aston Martin",
+                "en": "AstonMartin",
+                "de": "AstonMartin",
+                "uk": "AstonMartin",
+                "ru": "АстонМартин",
+                "zh": "阿斯顿·马丁"
+              },
+              "okres produkcji": {
+                "pl": "od 2023",
+                "en": "from 2023",
+                "de": "ab 2023",
+                "uk": "з 2023 року",
+                "ru": "с 2023 года",
+                "zh": "2023年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Gaydon, Wielka Brytania",
+                "en": "Gaydon, UK",
+                "de": "Gaydon, Großbritannien",
+                "uk": "Гейдон, Великобританія",
+                "ru": "Гейдон, Великобритания",
+                "zh": "英国盖登"
+              },
+              "tytuł": {
+                "pl": "Pierwszy Super Tourer",
+                "en": "The first Super Tourer",
+                "de": "Der erste Supertourer",
+                "uk": "Перший Super Tourer",
+                "ru": "Первый супертурер",
+                "zh": "第一辆超级旅行车"
+              },
+              "silnik": {
+                "pl": "4.0L V8 Twin-Turbo (680 KM)",
+                "en": "4.0L V8 Twin-Turbo (680 HP)",
+                "de": "4,0 l V8 Twin-Turbo (680 PS)",
+                "uk": "4.0L V8 Twin-Turbo (680 к.с.)",
+                "ru": "4,0-литровый двигатель V8 с двойным турбонаддувом (680 л.с.)",
+                "zh": "4.0L V8 双涡轮增压发动机（680 马力）"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "DBS": [
+      {
+        "BrandID": 8,
+        "ModelID": 416611,
+        "Brand Name": "Aston Martin",
+        "Model Name": "DBS",
+        "Serie Name": "DBS V12",
+        "Years": "2007 - 2012",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Sport",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "5.9L V12",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {},
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/30/4a/9zajiyiow40ww8c0sg0s8/dbs-cabrio.310.jpg"
+        }
+      },
+      {
+        "BrandID": 8,
+        "ModelID": 416612,
+        "Brand Name": "Aston Martin",
+        "Model Name": "DBS",
+        "Serie Name": "DBS Superleggera",
+        "Years": "2018 - 2024",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Sport",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "5.2L Twin-Turbo V12",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Aston Martin DBS (2007-2012) to usportowiona wersja DB9, rozsławiona przez filmy o Jamesie Bondzie (Casino Royale). Agresywniejsza stylistyka i więcej mocy.",
+              "en": "Aston Martin DBS (2007-2012) is a sporty version of the DB9, made famous by James Bond films (Casino Royale). More aggressive styling and more power.",
+              "de": "Der Aston Martin DBS (2007–2012) ist eine sportliche Version des DB9, bekannt geworden durch James-Bond-Filme (Casino Royale). Aggressiveres Styling und mehr Leistung.",
+              "uk": "Aston Martin DBS (2007-2012) — спортивна версія DB9, прославленого фільмами про Джеймса Бонда (Казино Рояль). Більш агресивний стиль і більше потужності.",
+              "ru": "Aston Martin DBS (2007–2012) — спортивная версия DB9, прославившаяся благодаря фильмам о Джеймсе Бонде («Казино Рояль»). Более агрессивный стиль и больше мощности.",
+              "zh": "阿斯顿·马丁 DBS（2007-2012）是 DB9 的运动版，因詹姆斯·邦德电影（皇家赌场）而闻名。更激进的造型和更强的力量。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Aston Martin",
+                "en": "AstonMartin",
+                "de": "AstonMartin",
+                "uk": "AstonMartin",
+                "ru": "АстонМартин",
+                "zh": "阿斯顿·马丁"
+              },
+              "okres produkcji": {
+                "pl": "2007–2012",
+                "en": "2007–2012",
+                "de": "2007–2012",
+                "uk": "2007–2012",
+                "ru": "2007–2012"
+              },
+              "miejsce produkcji": {
+                "pl": "Gaydon, Wielka Brytania",
+                "en": "Gaydon, UK",
+                "de": "Gaydon, Großbritannien",
+                "uk": "Гейдон, Великобританія",
+                "ru": "Гейдон, Великобритания",
+                "zh": "英国盖登"
+              },
+              "projektant": {
+                "pl": "Marek Reichman",
+                "en": "Marek Reichman",
+                "de": "Marek Reichmann",
+                "uk": "Марек Райхман",
+                "ru": "Марек Райхман",
+                "zh": "马雷克·雷克曼"
+              },
+              "silnik": {
+                "pl": "5.9L V12 (517 KM)",
+                "en": "5.9L V12 (517 HP)",
+                "de": "5,9 l V12 (517 PS)",
+                "uk": "5.9L V12 (517 HP)",
+                "ru": "5,9 л V12 (517 л.с.)",
+                "zh": "5.9升V12（517马力）"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/30/4a/9zajiyiow40ww8c0sg0s8/dbs-cabrio.310.jpg"
+        }
+      }
+    ],
+    "DBX": [
+      {
+        "BrandID": 8,
+        "ModelID": 416322,
+        "Brand Name": "Aston Martin",
+        "Model Name": "DBX",
+        "Serie Name": "DBX",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mainstream",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "4.0L V8 / 3.0L I6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Aston Martin DBX (od 2020) to pierwszy luksusowy SUV marki. Łączy przestronność z prowadzeniem godnym auta sportowego. Wersja DBX707 jest jednym z najszybszych SUV-ów świata.",
+              "en": "Aston Martin DBX (from 2020) is the brand's first luxury SUV. It combines spaciousness with handling worthy of a sports car. The DBX707 version is one of the fastest SUVs in the world.",
+              "de": "Aston Martin DBX (ab 2020) ist das erste Luxus-SUV der Marke. Er vereint Geräumigkeit mit einem sportwagenwürdigen Handling. Die DBX707-Version ist einer der schnellsten SUVs der Welt.",
+              "uk": "Aston Martin DBX (з 2020 року) – перший розкішний позашляховик марки. Він поєднує в собі просторість і керованість, гідну спортивного автомобіля. Версія DBX707 є одним із найшвидших позашляховиків у світі.",
+              "ru": "Aston Martin DBX (с 2020 г.) — первый внедорожник бренда класса люкс. Он сочетает в себе простор и управляемость, достойную спортивного автомобиля. Версия DBX707 — один из самых быстрых внедорожников в мире.",
+              "zh": "阿斯顿·马丁 DBX（2020 年起）是该品牌的首款豪华 SUV。它结合了宽敞的空间和跑车的操控性。 DBX707版本是世界上最快的SUV之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Aston Martin",
+                "en": "AstonMartin",
+                "de": "AstonMartin",
+                "uk": "AstonMartin",
+                "ru": "АстонМартин",
+                "zh": "阿斯顿·马丁"
+              },
+              "okres produkcji": {
+                "pl": "od 2020",
+                "en": "from 2020",
+                "de": "ab 2020",
+                "uk": "з 2020 року",
+                "ru": "с 2020 года",
+                "zh": "2020年起"
+              },
+              "miejsce produkcji": {
+                "pl": "St Athan, Walia",
+                "en": "St Athan, Wales",
+                "de": "St. Athan, Wales",
+                "uk": "Сент-Атан, Уельс",
+                "ru": "Сент-Атан, Уэльс",
+                "zh": "威尔士圣阿森"
+              },
+              "segment": {
+                "pl": "F-SUV",
+                "en": "F-SUV",
+                "de": "F-SUV",
+                "uk": "F-SUV",
+                "ru": "Ф-внедорожник"
+              },
+              "platforma": {
+                "pl": "DBX Platform",
+                "en": "DBX Platform",
+                "de": "DBX-Plattform",
+                "uk": "Платформа DBX",
+                "ru": "Платформа DBX",
+                "zh": "DBX平台"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Rapide": [
+      {
+        "BrandID": 8,
+        "ModelID": 416613,
+        "Brand Name": "Aston Martin",
+        "Model Name": "Rapide",
+        "Serie Name": "Rapide / Rapide S",
+        "Years": "2010 - 2020",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Sport",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "5.9L V12",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Aston Martin Rapide (2010-2020) to 4-drzwiowe coupe, będące 'najpiękniejszą limuzyną świata'. Oferuje osiągi DB9 z miejscem dla czterech osób.",
+              "en": "Aston Martin Rapide (2010-2020) is a 4-door coupe, which is 'the most beautiful limousine in the world'. It offers the performance of the DB9 with room for four.",
+              "de": "Aston Martin Rapide (2010–2020) ist ein viertüriges Coupé, das „die schönste Limousine der Welt“ ist. Es bietet die Leistung des DB9 mit Platz für vier Personen.",
+              "uk": "Aston Martin Rapide (2010-2020) — 4-дверне купе, яке є «найкрасивішим лімузином у світі». Він пропонує продуктивність DB9 з місцем для чотирьох.",
+              "ru": "Aston Martin Rapide (2010-2020) — 4-дверное купе, «самый красивый лимузин в мире». Он предлагает производительность DB9 с местом для четырех человек.",
+              "zh": "阿斯顿·马丁Rapide（2010-2020）是一款四门轿跑车，被誉为“世界上最美丽的豪华轿车”。它具有 DB9 的性能，可容纳四个人。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Aston Martin",
+                "en": "AstonMartin",
+                "de": "AstonMartin",
+                "uk": "AstonMartin",
+                "ru": "АстонМартин",
+                "zh": "阿斯顿·马丁"
+              },
+              "okres produkcji": {
+                "pl": "2010–2020",
+                "en": "2010–2020",
+                "de": "2010–2020",
+                "uk": "2010–2020",
+                "ru": "2010–2020"
+              },
+              "miejsce produkcji": {
+                "pl": "Graz, Austria / Gaydon, UK",
+                "en": "Graz, Austria / Gaydon, UK",
+                "de": "Graz, Österreich / Gaydon, Großbritannien",
+                "uk": "Грац, Австрія / Гейдон, Великобританія",
+                "ru": "Грац, Австрия / Гейдон, Великобритания",
+                "zh": "奥地利格拉茨/英国盖登"
+              },
+              "segment": {
+                "pl": "F",
+                "en": "F",
+                "de": "F",
+                "uk": "Ф",
+                "ru": "Ф"
+              },
+              "tytuł": {
+                "pl": "Najpiękniejsza limuzyna świata",
+                "en": "The most beautiful limousine in the world",
+                "de": "Die schönste Limousine der Welt",
+                "uk": "Найкрасивіший лімузин у світі",
+                "ru": "Самый красивый лимузин в мире",
+                "zh": "世界上最美丽的豪华轿车"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Aston_Martin_Rapide_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2811%29.jpg/1280px-Aston_Martin_Rapide_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2811%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Aston_Martin_Rapide_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2811%29.jpg/1280px-Aston_Martin_Rapide_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2811%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/2016_Aston_Martin_Rapide_S_V12_Automatic_6.0_Front.jpg/1280px-2016_Aston_Martin_Rapide_S_V12_Automatic_6.0_Front.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/2019_Aston_Martin_RapidE.jpg/1280px-2019_Aston_Martin_RapidE.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2019_Aston_Martin_Rapide_AMR_in_Stirling_Green%2C_front_left.jpg/1280px-2019_Aston_Martin_Rapide_AMR_in_Stirling_Green%2C_front_left.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cs/xx/mp3js4gkcwow8ggg8o44w/rapide.310.jpg"
+        }
+      }
+    ],
+    "Vantage": [
+      {
+        "BrandID": 8,
+        "ModelID": 416614,
+        "Brand Name": "Aston Martin",
+        "Model Name": "Vantage",
+        "Serie Name": "Vantage (VH)",
+        "Years": "2005 - 2017",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Sport",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "4.3L V8 / 4.7L V8 / 5.9L V12",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Aston Martin Vantage (2005-2017) to kompaktowy model sportowy, rywal Porsche 911. Ceniony za zwinność, piękny dźwięk silników V8/V12 i analogowy charakter.",
+              "en": "Aston Martin Vantage (2005-2017) is a compact sports model, a rival to the Porsche 911. Appreciated for its agility, beautiful sound of V8/V12 engines and analog character.",
+              "de": "Der Aston Martin Vantage (2005–2017) ist ein kompaktes Sportmodell, ein Konkurrent des Porsche 911. Geschätzt für seine Agilität, den schönen Sound der V8/V12-Motoren und seinen analogen Charakter.",
+              "uk": "Aston Martin Vantage (2005-2017) - компактна спортивна модель, суперник Porsche 911. Цінується за маневреність, красивий звук двигунів V8/V12 і аналоговий характер.",
+              "ru": "Aston Martin Vantage (2005-2017) — компактная спортивная модель, конкурент Porsche 911. Ценится за маневренность, красивый звук двигателей V8/V12 и аналоговый характер.",
+              "zh": "阿斯顿·马丁 Vantage（2005-2017）是一款紧凑型运动车型，是保时捷 911 的竞争对手。因其敏捷性、V8/V12 发动机的优美声音和模拟特性而受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Aston Martin",
+                "en": "AstonMartin",
+                "de": "AstonMartin",
+                "uk": "AstonMartin",
+                "ru": "АстонМартин",
+                "zh": "阿斯顿·马丁"
+              },
+              "okres produkcji": {
+                "pl": "2005–2017",
+                "en": "2005–2017",
+                "de": "2005–2017",
+                "uk": "2005–2017",
+                "ru": "2005–2017"
+              },
+              "miejsce produkcji": {
+                "pl": "Gaydon, Wielka Brytania",
+                "en": "Gaydon, UK",
+                "de": "Gaydon, Großbritannien",
+                "uk": "Гейдон, Великобританія",
+                "ru": "Гейдон, Великобритания",
+                "zh": "英国盖登"
+              },
+              "projektant": {
+                "pl": "Henrik Fisker",
+                "en": "Henrik Fisker",
+                "de": "Henrik Fisker",
+                "uk": "Хенрік Фіскер",
+                "ru": "Хенрик Фискер",
+                "zh": "亨里克·菲斯克"
+              },
+              "platforma": {
+                "pl": "VH Generation II",
+                "en": "VH Generation II",
+                "de": "VH Generation II",
+                "uk": "VH покоління II",
+                "ru": "VH поколение II",
+                "zh": "VH 第二代"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/f0/m4/xl2f3fw4cw84kokcocgsw/vantage-coupe.310.jpg"
+        }
+      },
+      {
+        "BrandID": 8,
+        "ModelID": 416615,
+        "Brand Name": "Aston Martin",
+        "Model Name": "Vantage",
+        "Serie Name": "Vantage (AM6)",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Sport",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "4.0L Twin-Turbo V8 / 5.2L V12",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Aston Martin Vantage (od 2018) to drapieżny samochód sportowy o śmiałej stylistyce czerpiącej z modelu Vulcan. Napędzany silnikiem V8 od AMG.",
+              "en": "Aston Martin Vantage (from 2018) is a predatory sports car with a bold style inspired by the Vulcan model. Powered by a V8 engine from AMG.",
+              "de": "Der Aston Martin Vantage (ab 2018) ist ein räuberischer Sportwagen mit einem kühnen Stil, der vom Vulcan-Modell inspiriert ist. Angetrieben von einem V8-Motor von AMG.",
+              "uk": "Aston Martin Vantage (з 2018 року) — хижий спортивний автомобіль зі сміливим стилем, навіяний моделлю Vulcan. Оснащений двигуном V8 від AMG.",
+              "ru": "Aston Martin Vantage (с 2018 года) — хищный спорткар со смелым стилем, вдохновленным моделью Vulcan. Оснащен двигателем V8 от AMG.",
+              "zh": "阿斯顿·马丁 Vantage（2018 年起）是一款掠夺性跑车，其大胆风格的灵感源自 Vulcan 车型。由 AMG 的 V8 发动机提供动力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Aston Martin",
+                "en": "AstonMartin",
+                "de": "AstonMartin",
+                "uk": "AstonMartin",
+                "ru": "АстонМартин",
+                "zh": "阿斯顿·马丁"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "since 2018",
+                "de": "seit 2018",
+                "uk": "з 2018 року",
+                "ru": "с 2018 года",
+                "zh": "2018年以来"
+              },
+              "miejsce produkcji": {
+                "pl": "Gaydon, Wielka Brytania",
+                "en": "Gaydon, UK",
+                "de": "Gaydon, Großbritannien",
+                "uk": "Гейдон, Великобританія",
+                "ru": "Гейдон, Великобритания",
+                "zh": "英国盖登"
+              },
+              "projektant": {
+                "pl": "Marek Reichman",
+                "en": "Marek Reichman",
+                "de": "Marek Reichmann",
+                "uk": "Марек Райхман",
+                "ru": "Марек Райхман",
+                "zh": "马雷克·雷克曼"
+              },
+              "silnik": {
+                "pl": "4.0L V8 Twin-Turbo",
+                "en": "4.0L V8 Twin-Turbo",
+                "de": "4,0 l V8-Twin-Turbo",
+                "uk": "4,0 л V8 з подвійним турбонаддувом",
+                "ru": "4,0-литровый двигатель V8 с двойным турбонаддувом",
+                "zh": "4.0L V8 双涡轮增压"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/f0/m4/xl2f3fw4cw84kokcocgsw/vantage-coupe.310.jpg"
+        }
+      }
+    ],
+    "Vanquish": [
+      {
+        "BrandID": 8,
+        "ModelID": 416616,
+        "Brand Name": "Aston Martin",
+        "Model Name": "Vanquish",
+        "Serie Name": "Vanquish (1st Gen)",
+        "Years": "2001 - 2007",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sport",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "5.9L V12",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Aston Martin Vanquish (2001-2007) to ostatni model produkowany w Newport Pagnell. Wystąpił w filmie 'Die another Day'. Posiadał innowacyjne podwozie klejone z aluminium.",
+              "en": "Aston Martin Vanquish (2001-2007) is the last model produced in Newport Pagnell. He appeared in the film 'Die another Day'. It had an innovative glued aluminum chassis.",
+              "de": "Der Aston Martin Vanquish (2001–2007) ist das letzte in Newport Pagnell produzierte Modell. Er trat im Film „Stirb an einem anderen Tag“ auf. Es verfügte über ein innovatives Chassis aus geklebtem Aluminium.",
+              "uk": "Aston Martin Vanquish (2001-2007) — остання модель, вироблена в Ньюпорт-Пагнеллі. Він з'явився у фільмі «Помри іншого дня». Він мав інноваційне клеєне алюмінієве шасі.",
+              "ru": "Aston Martin Vanquish (2001–2007) — последняя модель, выпускаемая в Ньюпорт-Пагнелле. Он появился в фильме «Умри, но не сейчас». Он имел инновационное клееное алюминиевое шасси.",
+              "zh": "阿斯顿·马丁 Vanquish（2001-2007）是纽波特帕格内尔生产的最后一款车型。他出现在电影《择日再死》中。它有一个创新的胶合铝制底盘。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Aston Martin",
+                "en": "AstonMartin",
+                "de": "AstonMartin",
+                "uk": "AstonMartin",
+                "ru": "АстонМартин",
+                "zh": "阿斯顿·马丁"
+              },
+              "okres produkcji": {
+                "pl": "2001–2007",
+                "en": "2001–2007",
+                "de": "2001–2007",
+                "uk": "2001–2007",
+                "ru": "2001–2007"
+              },
+              "miejsce produkcji": {
+                "pl": "Newport Pagnell, Wielka Brytania",
+                "en": "Newport Pagnell, UK",
+                "de": "Newport Pagnell, Großbritannien",
+                "uk": "Ньюпорт Пагнелл, Великобританія",
+                "ru": "Ньюпорт-Пагнелл, Великобритания",
+                "zh": "英国纽波特帕格内尔"
+              },
+              "projektant": {
+                "pl": "Ian Callum",
+                "en": "Ian Callum",
+                "de": "Ian Callum",
+                "uk": "Ян Каллум",
+                "ru": "Ян Каллум",
+                "zh": "伊恩·卡勒姆"
+              },
+              "silnik": {
+                "pl": "5.9L V12",
+                "en": "5.9L V12",
+                "de": "5,9 l V12",
+                "uk": "5,9 л V12",
+                "ru": "5,9 л V12",
+                "zh": "5.9升V12发动机"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Aston_Martin_Vanquish_%2814454077496%29.jpg/1280px-Aston_Martin_Vanquish_%2814454077496%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Aston_Martin_Vanquish_%2814454077496%29.jpg/1280px-Aston_Martin_Vanquish_%2814454077496%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Aston_Martin_Vanquish_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2813%29.jpg/1280px-Aston_Martin_Vanquish_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2813%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Aston_Martin_Vanquish_%282024%29_DSC_7890.jpg/1280px-Aston_Martin_Vanquish_%282024%29_DSC_7890.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Aston_Martin_Vanquish_Volante_%282025%29_Auto_Zuerich_2025_DSC_3388.jpg/1280px-Aston_Martin_Vanquish_Volante_%282025%29_Auto_Zuerich_2025_DSC_3388.jpg"
+            ]
+          }
+        }
+      },
+      {
+        "BrandID": 8,
+        "ModelID": 416617,
+        "Brand Name": "Aston Martin",
+        "Model Name": "Vanquish",
+        "Serie Name": "Vanquish (2nd Gen)",
+        "Years": "2012 - 2018",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Sport",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "5.9L V12",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Aston Martin Vanquish (2012-2018) to flagowe GT z nadwoziem wykonanym w całości z włókna węglowego. Następca modelu DBS.",
+              "en": "Aston Martin Vanquish (2012-2018) is a flagship GT with a full carbon fiber body. The successor of the DBS model.",
+              "de": "Der Aston Martin Vanquish (2012–2018) ist ein GT-Flaggschiff mit einer Karosserie aus Vollcarbon. Der Nachfolger des DBS-Modells.",
+              "uk": "Aston Martin Vanquish (2012-2018) — флагман GT з кузовом із повністю вуглецевого волокна. Наступник моделі DBS.",
+              "ru": "Aston Martin Vanquish (2012-2018) — флагманский GT с полностью карбоновым кузовом. Преемник модели DBS.",
+              "zh": "阿斯顿·马丁 Vanquish（2012-2018）是一款采用全碳纤维车身的旗舰 GT。 DBS 模式的后继者。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Aston Martin",
+                "en": "AstonMartin",
+                "de": "AstonMartin",
+                "uk": "AstonMartin",
+                "ru": "АстонМартин",
+                "zh": "阿斯顿·马丁"
+              },
+              "okres produkcji": {
+                "pl": "2012–2018",
+                "en": "2012–2018",
+                "de": "2012–2018",
+                "uk": "2012–2018",
+                "ru": "2012–2018"
+              },
+              "miejsce produkcji": {
+                "pl": "Gaydon, Wielka Brytania",
+                "en": "Gaydon, UK",
+                "de": "Gaydon, Großbritannien",
+                "uk": "Гейдон, Великобританія",
+                "ru": "Гейдон, Великобритания",
+                "zh": "英国盖登"
+              },
+              "projektant": {
+                "pl": "Marek Reichman",
+                "en": "Marek Reichman",
+                "de": "Marek Reichmann",
+                "uk": "Марек Райхман",
+                "ru": "Марек Райхман",
+                "zh": "马雷克·雷克曼"
+              },
+              "platforma": {
+                "pl": "VH Generation IV",
+                "en": "VH Generation IV",
+                "de": "VH Generation IV",
+                "uk": "VH покоління IV",
+                "ru": "VH поколение IV",
+                "zh": "VH 第四代"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Aston_Martin_Vanquish_%2814454077496%29.jpg/1280px-Aston_Martin_Vanquish_%2814454077496%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Aston_Martin_Vanquish_%2814454077496%29.jpg/1280px-Aston_Martin_Vanquish_%2814454077496%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Aston_Martin_Vanquish_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2813%29.jpg/1280px-Aston_Martin_Vanquish_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2813%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Aston_Martin_Vanquish_%282024%29_DSC_7890.jpg/1280px-Aston_Martin_Vanquish_%282024%29_DSC_7890.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Aston_Martin_Vanquish_Volante_%282025%29_Auto_Zuerich_2025_DSC_3388.jpg/1280px-Aston_Martin_Vanquish_Volante_%282025%29_Auto_Zuerich_2025_DSC_3388.jpg"
+            ]
+          }
+        }
+      }
+    ],
+    "Valhalla": [
+      {
+        "BrandID": 8,
+        "ModelID": 416618,
+        "Brand Name": "Aston Martin",
+        "Model Name": "Valhalla",
+        "Serie Name": "Valhalla",
+        "Years": "2024 - 3000",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Supercar",
+          "drive": "AWD",
+          "fuel": "Hybrid",
+          "engine": "4.0L V8 Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Aston Martin Valhalla (od 2024) to hybrydowy supersamochód z silnikiem centralnym, zaprojektowany przy współpracy z Red Bull Racing.",
+              "en": "The Aston Martin Valhalla (from 2024) is a mid-engine hybrid supercar designed in cooperation with Red Bull Racing.",
+              "de": "Der Aston Martin Valhalla (ab 2024) ist ein Mittelmotor-Hybrid-Supersportwagen, der in Zusammenarbeit mit Red Bull Racing entwickelt wurde.",
+              "uk": "Aston Martin Valhalla (з 2024 року) — це середньомоторний гібридний суперкар, розроблений у співпраці з Red Bull Racing.",
+              "ru": "Aston Martin Valhalla (с 2024 г.) — гибридный суперкар со средним расположением двигателя, разработанный в сотрудничестве с Red Bull Racing.",
+              "zh": "阿斯顿·马丁 Valhalla（2024 年起）是一款中置发动机混合动力超级跑车，与红牛车队合作设计。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Aston Martin",
+                "en": "AstonMartin",
+                "de": "AstonMartin",
+                "uk": "AstonMartin",
+                "ru": "АстонМартин",
+                "zh": "阿斯顿·马丁"
+              },
+              "okres produkcji": {
+                "pl": "od 2024",
+                "en": "from 2024",
+                "de": "ab 2024",
+                "uk": "з 2024 року",
+                "ru": "с 2024 года",
+                "zh": "2024年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Gaydon, Wielka Brytania",
+                "en": "Gaydon, UK",
+                "de": "Gaydon, Großbritannien",
+                "uk": "Гейдон, Великобританія",
+                "ru": "Гейдон, Великобритания",
+                "zh": "英国盖登"
+              },
+              "typ": {
+                "pl": "Supersamochód",
+                "en": "Supercar",
+                "de": "Supersportwagen",
+                "uk": "Суперкар",
+                "ru": "Суперкар",
+                "zh": "超级跑车"
+              },
+              "napęd": {
+                "pl": "4.0L V8 Twin-Turbo PHEV",
+                "en": "4.0L V8 Twin-Turbo PHEV",
+                "de": "4,0-Liter-V8-Twin-Turbo-PHEV",
+                "uk": "4.0L V8 Twin-Turbo PHEV",
+                "ru": "4,0-литровый двигатель V8 с двойным турбонаддувом (PHEV)",
+                "zh": "4.0L V8 双涡轮 PHEV"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Valkyrie": [
+      {
+        "BrandID": 8,
+        "ModelID": 416619,
+        "Brand Name": "Aston Martin",
+        "Model Name": "Valkyrie",
+        "Serie Name": "Valkyrie",
+        "Years": "2021 - 3000",
+        "specs": {
+          "bodyType": "Coupe/Spider",
+          "segment": "Hypercar",
+          "drive": "RWD",
+          "fuel": "Hybrid",
+          "engine": "6.5L V12 Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Aston Martin Valkyrie (od 2021) to ekstremalny hipersamochód stworzony przez Adriana Neweya. Technologia F1 przeniesiona na drogę, z wolnossącym V12 kręcącym się do 11 000 obr./min.",
+              "en": "The Aston Martin Valkyrie (from 2021) is an extreme hypercar created by Adrian Newey. F1 technology transferred to the road, with a naturally aspirated V12 revving to 11,000 rpm.",
+              "de": "Der Aston Martin Valkyrie (ab 2021) ist ein extremes Hypercar, das von Adrian Newey entwickelt wurde. F1-Technologie auf die Straße übertragen, mit einem V12-Saugmotor, der auf 11.000 U/min dreht.",
+              "uk": "Aston Martin Valkyrie (з 2021 року) — екстремальний гіперкар, створений Адріаном Ньюі. Технологія F1 перенесена на дорогу з атмосферним V12, що обертається до 11 000 об/хв.",
+              "ru": "Aston Martin Valkyrie (с 2021 года) — экстремальный гиперкар, созданный Адрианом Ньюи. Технология Формулы-1 перенесена на дороги: безнаддувный двигатель V12 раскручивается до 11 000 об/мин.",
+              "zh": "阿斯顿·马丁 Valkyrie（2021 年起）是阿德里安·纽维 (Adrian Newey) 打造的一款极限超级跑车。 F1 技术转移到公路上，自然吸气 V12 发动机转速高达 11,000 rpm。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Aston Martin",
+                "en": "AstonMartin",
+                "de": "AstonMartin",
+                "uk": "AstonMartin",
+                "ru": "АстонМартин",
+                "zh": "阿斯顿·马丁"
+              },
+              "okres produkcji": {
+                "pl": "od 2021",
+                "en": "from 2021",
+                "de": "ab 2021",
+                "uk": "з 2021 року",
+                "ru": "с 2021 года",
+                "zh": "2021年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Gaydon, Wielka Brytania",
+                "en": "Gaydon, UK",
+                "de": "Gaydon, Großbritannien",
+                "uk": "Гейдон, Великобританія",
+                "ru": "Гейдон, Великобритания",
+                "zh": "英国盖登"
+              },
+              "projektant": {
+                "pl": "Adrian Newey (Red Bull Racing)",
+                "en": "Adrian Newey (Red Bull Racing)",
+                "de": "Adrian Newey (Red Bull Racing)",
+                "uk": "Адріан Ньюі (Red Bull Racing)",
+                "ru": "Адриан Ньюи (Red Bull Racing)",
+                "zh": "阿德里安·纽维（红牛车队）"
+              },
+              "silnik": {
+                "pl": "6.5L V12 (1000+ KM)",
+                "en": "6.5L V12 (1000+ HP)",
+                "de": "6,5 l V12 (1000+ PS)",
+                "uk": "6,5 л V12 (1000+ HP)",
+                "ru": "6,5 л V12 (1000+ л.с.)",
+                "zh": "6.5升V12（1000+马力）"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

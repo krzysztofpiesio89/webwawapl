@@ -1,0 +1,157 @@
+{
+  "brand": "Scania",
+  "models": {
+    "113": [
+      {
+        "BrandID": 183,
+        "ModelID": 415768,
+        "Brand Name": "Scania",
+        "Model Name": 113,
+        "Serie Name": 113,
+        "Years": "1980 - 2020",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Truck"
+        }
+      }
+    ],
+    "114": [
+      {
+        "BrandID": 183,
+        "ModelID": 415678,
+        "Brand Name": "Scania",
+        "Model Name": 114,
+        "Serie Name": 114,
+        "Years": "1980 - 2020",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Truck"
+        }
+      }
+    ],
+    "124": [
+      {
+        "BrandID": 183,
+        "ModelID": 415680,
+        "Brand Name": "Scania",
+        "Model Name": 124,
+        "Serie Name": 124,
+        "Years": "1980 - 2020",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Truck"
+        }
+      }
+    ],
+    "144": [
+      {
+        "BrandID": 183,
+        "ModelID": 415682,
+        "Brand Name": "Scania",
+        "Model Name": 144,
+        "Serie Name": 144,
+        "Years": "1980 - 2020",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Truck"
+        }
+      }
+    ],
+    "": [
+      {
+        "BrandID": 183,
+        "ModelID": "",
+        "Brand Name": "Scania",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Truck"
+        }
+      }
+    ],
+    "5-series": [
+      {
+        "BrandID": 183,
+        "ModelID": 415885,
+        "Brand Name": "Scania",
+        "Model Name": "5-series",
+        "Serie Name": "5-series",
+        "Years": "2000 - 2021",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Truck"
+        }
+      }
+    ],
+    "P-series": [
+      {
+        "BrandID": 183,
+        "ModelID": 415221,
+        "Brand Name": "Scania",
+        "Model Name": "P-series",
+        "Serie Name": "P-series",
+        "Years": "2004 - 2019",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Truck"
+        }
+      }
+    ],
+    "R-series": [
+      {
+        "BrandID": 183,
+        "ModelID": 415186,
+        "Brand Name": "Scania",
+        "Model Name": "R-series",
+        "Serie Name": "R-series",
+        "Years": "2010 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Truck"
+        }
+      }
+    ]
+  }
+}

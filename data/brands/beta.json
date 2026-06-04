@@ -1,0 +1,287 @@
+{
+  "brand": "Beta",
+  "models": {
+    "RR": [
+      {
+        "BrandID": 206,
+        "ModelID": 416200,
+        "Brand Name": "Beta",
+        "Model Name": "RR",
+        "Serie Name": "RR 2T/4T",
+        "Years": "2005 - 3000",
+        "specs": {
+          "bodyType": "Enduro",
+          "segment": "Motorcycle",
+          "drive": "Chain",
+          "fuel": "Gasoline",
+          "engine": "125cc - 480cc",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Beta RR (2T/4T) to seria wyczynowych motocykli enduro, ceniona przez profesjonalistów. Wyróżnia się doskonałym prowadzeniem i włoskim designem.",
+              "en": "Beta RR (2T/4T) is a series of high-performance enduro motorcycles, appreciated by professionals. It stands out for its excellent handling and Italian design.",
+              "de": "Beta RR (2T/4T) ist eine Serie von Hochleistungs-Enduro-Motorrädern, die von Profis geschätzt werden. Es zeichnet sich durch hervorragende Handhabung und italienisches Design aus.",
+              "uk": "Beta RR (2T/4T) — серія високопродуктивних ендуро мотоциклів, які оцінили професіонали. Він виділяється чудовою керованістю та італійським дизайном.",
+              "ru": "Beta RR (2T/4T) — серия высокопроизводительных мотоциклов эндуро, оцененная профессионалами. Он выделяется превосходной управляемостью и итальянским дизайном.",
+              "zh": "Beta RR (2T/4T) 是一系列高性能耐力摩托车，深受专业人士的青睐。它以其出色的操控性和意大利设计而脱颖而出。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Betamotor S.p.A.",
+                "en": "Betamotor S.p.A.",
+                "de": "Betamotor S.p.A.",
+                "uk": "Betamotor S.p.A.",
+                "ru": "Бетамотор С.п.А.",
+                "zh": "Betamotor S.p.A."
+              },
+              "okres produkcji": {
+                "pl": "od 2005",
+                "en": "since 2005",
+                "de": "seit 2005",
+                "uk": "з 2005 року",
+                "ru": "с 2005 года",
+                "zh": "自2005年以来"
+              },
+              "miejsce produkcji": {
+                "pl": "Rignano sull'Arno, Włochy",
+                "en": "Rignano sull'Arno, Italy",
+                "de": "Rignano sull'Arno, Italien",
+                "uk": "Ріньяно-суль-Арно, Італія",
+                "ru": "Риньяно-суль-Арно, Италия",
+                "zh": "意大利里尼亚诺苏拉诺"
+              },
+              "typ": {
+                "pl": "Enduro",
+                "en": "Enduro",
+                "de": "Enduro",
+                "uk": "Ендуро",
+                "ru": "Эндуро"
+              },
+              "silnik": {
+                "pl": "125/200/250/300 (2T), 350/390/430/480 (4T)",
+                "en": "125/200/250/300 (2T), 350/390/430/480 (4T)",
+                "de": "125/200/250/300 (2T), 350/390/430/480 (4T)",
+                "uk": "125/200/250/300 (2T), 350/390/430/480 (4T)",
+                "ru": "125/200/250/300 (2Т), 350/390/430/480 (4Т)",
+                "zh": "125/200/250/300（2T）、350/390/430/480（4T）"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Xtrainer": [
+      {
+        "BrandID": 206,
+        "ModelID": 416201,
+        "Brand Name": "Beta",
+        "Model Name": "Xtrainer",
+        "Serie Name": "Xtrainer",
+        "Years": "2015 - 3000",
+        "specs": {
+          "bodyType": "Enduro",
+          "segment": "Motorcycle",
+          "drive": "Chain",
+          "fuel": "Gasoline",
+          "engine": "250cc / 300cc 2T",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Beta Xtrainer to motocykl enduro stworzony do ekstremalnego terenu (Hard Enduro). Lżejszy i mniejszy niż seria RR, idealny dla amatorów i do technicznej jazdy.",
+              "en": "Beta Xtrainer is an enduro motorcycle created for extreme terrain (Hard Enduro). Lighter and smaller than the RR series, ideal for amateurs and technical riding.",
+              "de": "Beta Xtrainer ist ein Enduro-Motorrad, das für extremes Gelände (Hard Enduro) entwickelt wurde. Leichter und kleiner als die RR-Serie, ideal für Amateure und technisches Fahren.",
+              "uk": "Beta Xtrainer — це мотоцикл ендуро, створений для екстремальної місцевості (Hard Enduro). Легший і менший, ніж серія RR, ідеальний для любителів і технічної їзди.",
+              "ru": "Beta Xtrainer — мотоцикл эндуро, созданный для экстремального бездорожья (Hard Enduro). Легче и меньше, чем серия RR, идеально подходит для любителей и техничной езды.",
+              "zh": "Beta Xtrainer 是一款专为极端地形（硬耐力赛）而设计的耐力摩托车。比 RR 系列更轻、更小，非常适合业余爱好者和技术骑行者。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Betamotor S.p.A.",
+                "en": "Betamotor S.p.A.",
+                "de": "Betamotor S.p.A.",
+                "uk": "Betamotor S.p.A.",
+                "ru": "Бетамотор С.п.А.",
+                "zh": "Betamotor S.p.A."
+              },
+              "okres produkcji": {
+                "pl": "od 2015",
+                "en": "since 2015",
+                "de": "seit 2015",
+                "uk": "з 2015 року",
+                "ru": "с 2015 года",
+                "zh": "自2015年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Rignano sull'Arno, Włochy",
+                "en": "Rignano sull'Arno, Italy",
+                "de": "Rignano sull'Arno, Italien",
+                "uk": "Ріньяно-суль-Арно, Італія",
+                "ru": "Риньяно-суль-Арно, Италия",
+                "zh": "意大利里尼亚诺苏拉诺"
+              },
+              "typ": {
+                "pl": "Hard Enduro / Playbike",
+                "en": "Hard Enduro/Playbike",
+                "de": "Hartes Enduro/Playbike",
+                "uk": "Hard Enduro/Playbike",
+                "ru": "Хард-эндуро/плейбайк",
+                "zh": "硬耐力赛/休闲自行车"
+              },
+              "silnik": {
+                "pl": "250/300 cc 2T",
+                "en": "250/300 cc 2T",
+                "de": "250/300 ccm 2T",
+                "uk": "250/300 куб.см 2Т",
+                "ru": "250/300 куб.см 2Т",
+                "zh": "250/300cc 2T"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Evo": [
+      {
+        "BrandID": 206,
+        "ModelID": 416202,
+        "Brand Name": "Beta",
+        "Model Name": "Evo",
+        "Serie Name": "Evo",
+        "Years": "2009 - 3000",
+        "specs": {
+          "bodyType": "Trial",
+          "segment": "Motorcycle",
+          "drive": "Chain",
+          "fuel": "Gasoline",
+          "engine": "125cc - 300cc",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Beta Evo to seria motocykli trialowych, dominująca w światowych zawodach. Niezwykle lekka konstrukcja i precyzyjne sterowanie.",
+              "en": "Beta Evo is a series of trial motorcycles dominating world competitions. Extremely light construction and precise control.",
+              "de": "Beta Evo ist eine Serie von Trial-Motorrädern, die weltweite Wettbewerbe dominieren. Extrem leichte Konstruktion und präzise Steuerung.",
+              "uk": "Beta Evo - це серія тріальних мотоциклів, які домінують на світових змаганнях. Надзвичайно легка конструкція та точне керування.",
+              "ru": "Beta Evo — серия триальных мотоциклов, доминирующих на мировых соревнованиях. Чрезвычайно легкая конструкция и точное управление.",
+              "zh": "Beta Evo 是一系列主宰世界比赛的试用摩托车。结构极其轻便，控制精确。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Betamotor S.p.A.",
+                "en": "Betamotor S.p.A.",
+                "de": "Betamotor S.p.A.",
+                "uk": "Betamotor S.p.A.",
+                "ru": "Бетамотор С.п.А.",
+                "zh": "Betamotor S.p.A."
+              },
+              "okres produkcji": {
+                "pl": "od 2009",
+                "en": "since 2009",
+                "de": "seit 2009",
+                "uk": "з 2009 року",
+                "ru": "с 2009 года",
+                "zh": "自2009年以来"
+              },
+              "miejsce produkcji": {
+                "pl": "Rignano sull'Arno, Włochy",
+                "en": "Rignano sull'Arno, Italy",
+                "de": "Rignano sull'Arno, Italien",
+                "uk": "Ріньяно-суль-Арно, Італія",
+                "ru": "Риньяно-суль-Арно, Италия",
+                "zh": "意大利里尼亚诺苏拉诺"
+              },
+              "typ": {
+                "pl": "Trial",
+                "en": "Trial",
+                "de": "Versuch",
+                "uk": "суд",
+                "ru": "Пробный"
+              },
+              "silnik": {
+                "pl": "80/125/250/300 (2T/4T)",
+                "en": "80/125/250/300 (2T/4T)",
+                "de": "80/125/250/300 (2T/4T)",
+                "uk": "80/125/250/300 (2T/4T)",
+                "ru": "80/125/250/300 (2Т/4Т)",
+                "zh": "80/125/250/300（2T/4T）"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Alp": [
+      {
+        "BrandID": 206,
+        "ModelID": 416203,
+        "Brand Name": "Beta",
+        "Model Name": "Alp",
+        "Serie Name": "Alp 200/4.0",
+        "Years": "2000 - 3000",
+        "specs": {
+          "bodyType": "Dual Sport",
+          "segment": "Motorcycle",
+          "drive": "Chain",
+          "fuel": "Gasoline",
+          "engine": "200cc / 350cc",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Beta Alp to wszechstronny motocykl typu dual-sport / soft-trial. Idealny do turystyki górskiej i codziennej jazdy, łączący cechy trialówki i enduro.",
+              "en": "The Beta Alp is a versatile dual-sport/soft-trial motorcycle. Perfect for mountain tourism and everyday riding, combining the features of a trial bike and enduro.",
+              "de": "Das Beta Alp ist ein vielseitiges Dual-Sport-/Soft-Trial-Motorrad. Perfekt für Bergtourismus und Alltagsfahrten, da es die Eigenschaften eines Trial-Bikes und eines Enduro-Bikes vereint.",
+              "uk": "Beta Alp — це універсальний мотоцикл для двох видів спорту та софт-тріалу. Ідеально підходить для гірського туризму та повсякденної їзди, поєднуючи в собі характеристики тріального велосипеда та ендуро.",
+              "ru": "Beta Alp — универсальный мотоцикл для двойного спорта и мягкого триала. Идеально подходит для горного туризма и повседневной езды, сочетая в себе особенности триального велосипеда и эндуро.",
+              "zh": "Beta Alp 是一款多功能双运动/软试验摩托车。非常适合山地旅游和日常骑行，结合了试用自行车和耐力赛的功能。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Betamotor S.p.A.",
+                "en": "Betamotor S.p.A.",
+                "de": "Betamotor S.p.A.",
+                "uk": "Betamotor S.p.A.",
+                "ru": "Бетамотор С.п.А.",
+                "zh": "Betamotor S.p.A."
+              },
+              "okres produkcji": {
+                "pl": "od 2000",
+                "en": "since 2000",
+                "de": "seit 2000",
+                "uk": "з 2000 року",
+                "ru": "с 2000 года",
+                "zh": "自2000年以来"
+              },
+              "miejsce produkcji": {
+                "pl": "Rignano sull'Arno, Włochy",
+                "en": "Rignano sull'Arno, Italy",
+                "de": "Rignano sull'Arno, Italien",
+                "uk": "Ріньяно-суль-Арно, Італія",
+                "ru": "Риньяно-суль-Арно, Италия",
+                "zh": "意大利里尼亚诺苏拉诺"
+              },
+              "typ": {
+                "pl": "Dual Sport / Soft Trial",
+                "en": "Dual Sport/Soft Trial",
+                "de": "Dual Sport/Soft Trial",
+                "uk": "Dual Sport/Soft Trial",
+                "ru": "Двойной спорт/мягкий триал",
+                "zh": "双重运动/软试验"
+              },
+              "silnik": {
+                "pl": "200 (Suzuki) / 4.0 (350cc Suzuki)",
+                "en": "200 (Suzuki) / 4.0 (350cc Suzuki)",
+                "de": "200 (Suzuki) / 4,0 (350cc Suzuki)",
+                "uk": "200 (Suzuki) / 4.0 (350cc Suzuki)",
+                "ru": "200 (Сузуки) / 4,0 (Сузуки 350 куб.см)",
+                "zh": "200（铃木）/ 4.0（350cc 铃木）"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,2542 @@
+{
+  "brand": "Chrysler",
+  "models": {
+    "200": [
+      {
+        "BrandID": 30,
+        "ModelID": 412950,
+        "Brand Name": "Chrysler",
+        "Model Name": "200",
+        "Serie Name": "200 (1st Gen)",
+        "Years": "2011 - 2014",
+        "specs": {
+          "bodyType": "Sedan/Convertible",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L / 3.6L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Chrysler 200 (1. gen) to zmodernizowany Sebring, oferujący wyższy komfort i lepsze materiały wykończeniowe.",
+              "en": "The Chrysler 200 (1st gen) is a modernized Sebring, offering greater comfort and better finishing materials.",
+              "de": "Der Chrysler 200 (1. Generation) ist ein modernisierter Sebring, der mehr Komfort und bessere Verarbeitungsmaterialien bietet.",
+              "uk": "Chrysler 200 (1-го покоління) — це модернізований Sebring, який пропонує більший комфорт і кращі матеріали обробки.",
+              "ru": "Chrysler 200 (1-го поколения) — это модернизированный Sebring, предлагающий больший комфорт и лучшие материалы отделки.",
+              "zh": "克莱斯勒 200（第一代）是一款现代化的 Sebring，提供更高的舒适度和更好的饰面材料。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "2010–2014",
+              "miejsce produkcji": {
+                "pl": "Sterling Heights, USA",
+                "en": "Sterling Heights, USA",
+                "de": "Sterling Heights, USA",
+                "uk": "Стерлінг Хайтс, США",
+                "ru": "Стерлинг-Хайтс, США",
+                "zh": "美国斯特林高地"
+              },
+              "platforma": {
+                "pl": "Chrysler JS",
+                "en": "Chrysler JS",
+                "de": "Chrysler JS",
+                "uk": "Chrysler JS",
+                "ru": "Крайслер Дж.С.",
+                "zh": "克莱斯勒 JS"
+              },
+              "silnik": {
+                "pl": "2.4L - 3.6L V6",
+                "en": "2.4L - 3.6L V6",
+                "de": "2,4 l – 3,6 l V6",
+                "uk": "2,4 л - 3,6 л V6",
+                "ru": "2,4–3,6 л V6",
+                "zh": "2.4L - 3.6L V6"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Chrysler_200_%28JS%29_sedan_IMG_3546.jpg/1280px-Chrysler_200_%28JS%29_sedan_IMG_3546.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Chrysler_200_%28JS%29_sedan_IMG_3546.jpg/1280px-Chrysler_200_%28JS%29_sedan_IMG_3546.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/2011_Chrysler_200_Convertible_at_Canadian_Auto_Show.jpg/1280px-2011_Chrysler_200_Convertible_at_Canadian_Auto_Show.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lancia_Flavia_2.4_16v_%E2%80%93_Frontansicht%2C_27._April_2014%2C_D%C3%BCsseldorf.jpg/1280px-Lancia_Flavia_2.4_16v_%E2%80%93_Frontansicht%2C_27._April_2014%2C_D%C3%BCsseldorf.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/2015_Chrysler_200_Limited_2.4L_rear_8.31.18.jpg/1280px-2015_Chrysler_200_Limited_2.4L_rear_8.31.18.jpg"
+            ]
+          }
+        }
+      },
+      {
+        "BrandID": 30,
+        "ModelID": 416675,
+        "Brand Name": "Chrysler",
+        "Model Name": "200",
+        "Serie Name": "200 (2nd Gen)",
+        "Years": "2015 - 2017",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L / 3.6L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Chrysler 200 (2. gen) to elegancki sedan klasy średniej o nowoczesnej stylistyce, rywalizujący z Fordem Fusion.",
+              "en": "The Chrysler 200 (2nd generation) is an elegant midsize sedan with modern styling that rivals the Ford Fusion.",
+              "de": "Der Chrysler 200 (2. Generation) ist eine elegante Mittelklasse-Limousine mit modernem Design, die dem Ford Fusion Konkurrenz macht.",
+              "uk": "Chrysler 200 (друге покоління) — це елегантний седан середнього розміру з сучасним стилем, який конкурує з Ford Fusion.",
+              "ru": "Chrysler 200 (2-е поколение) — элегантный седан среднего размера с современным дизайном, который может конкурировать с Ford Fusion.",
+              "zh": "克莱斯勒 200（第二代）是一款优雅的中型轿车，具有现代风格，可与福特 Fusion 相媲美。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "2014–2017",
+              "miejsce produkcji": {
+                "pl": "Sterling Heights, USA",
+                "en": "Sterling Heights, USA",
+                "de": "Sterling Heights, USA",
+                "uk": "Стерлінг Хайтс, США",
+                "ru": "Стерлинг-Хайтс, США",
+                "zh": "美国斯特林高地"
+              },
+              "platforma": {
+                "pl": "Fiat Compact",
+                "en": "Fiat Compact",
+                "de": "Fiat Kompakt",
+                "uk": "Фіат Компакт",
+                "ru": "Фиат Компакт",
+                "zh": "菲亚特紧凑型"
+              },
+              "silnik": {
+                "pl": "2.4L - 3.6L V6",
+                "en": "2.4L - 3.6L V6",
+                "de": "2,4 l – 3,6 l V6",
+                "uk": "2,4 л - 3,6 л V6",
+                "ru": "2,4–3,6 л V6",
+                "zh": "2.4L - 3.6L V6"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Chrysler_200_%28JS%29_sedan_IMG_3546.jpg/1280px-Chrysler_200_%28JS%29_sedan_IMG_3546.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Chrysler_200_%28JS%29_sedan_IMG_3546.jpg/1280px-Chrysler_200_%28JS%29_sedan_IMG_3546.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/2011_Chrysler_200_Convertible_at_Canadian_Auto_Show.jpg/1280px-2011_Chrysler_200_Convertible_at_Canadian_Auto_Show.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lancia_Flavia_2.4_16v_%E2%80%93_Frontansicht%2C_27._April_2014%2C_D%C3%BCsseldorf.jpg/1280px-Lancia_Flavia_2.4_16v_%E2%80%93_Frontansicht%2C_27._April_2014%2C_D%C3%BCsseldorf.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/2015_Chrysler_200_Limited_2.4L_rear_8.31.18.jpg/1280px-2015_Chrysler_200_Limited_2.4L_rear_8.31.18.jpg"
+            ]
+          }
+        }
+      }
+    ],
+    "300": [
+      {
+        "BrandID": 30,
+        "ModelID": 413088,
+        "Brand Name": "Chrysler",
+        "Model Name": "300",
+        "Serie Name": "300 (1st Gen)",
+        "Years": "2005 - 2010",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Full-size",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.7L V6 - 6.1L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler 300 (1. gen) to powrót do klasycznego amerykańskiego stylu z napędem na tył i potężnymi silnikami HEMI.",
+              "en": "Chrysler 300 (1st generation) is a return to the classic American style with rear drive and powerful HEMI engines.",
+              "de": "Der Chrysler 300 (1. Generation) ist eine Rückkehr zum klassischen amerikanischen Stil mit Heckantrieb und leistungsstarken HEMI-Motoren.",
+              "uk": "Chrysler 300 (1 покоління) - це повернення до класичного американського стилю з заднім приводом і потужними двигунами HEMI.",
+              "ru": "Chrysler 300 (1-го поколения) – это возвращение к классическому американскому стилю с задним приводом и мощными двигателями HEMI.",
+              "zh": "克莱斯勒 300（第一代）采用后轮驱动和强大的 HEMI 发动机，回归经典美式风格。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "2004–2010",
+              "miejsce produkcji": {
+                "pl": "Brampton, Kanada",
+                "en": "Brampton, Canada",
+                "de": "Brampton, Kanada",
+                "uk": "Брамптон, Канада",
+                "ru": "Брэмптон, Канада",
+                "zh": "加拿大布兰普顿"
+              },
+              "platforma": {
+                "pl": "Chrysler LX",
+                "en": "Chrysler LX",
+                "de": "Chrysler LX",
+                "uk": "Chrysler LX",
+                "ru": "Крайслер ЛХ",
+                "zh": "克莱斯勒 LX"
+              },
+              "silnik": {
+                "pl": "2.7L V6 - 6.1L V8",
+                "en": "2.7L V6 - 6.1L V8",
+                "de": "2,7 l V6 – 6,1 l V8",
+                "uk": "2,7 л V6 - 6,1 л V8",
+                "ru": "2,7 л V6 – 6,1 л V8",
+                "zh": "2.7L V6 - 6.1L V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chrysler_300C_20090301_rear.jpg/1280px-Chrysler_300C_20090301_rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chrysler_300C_20090301_rear.jpg/1280px-Chrysler_300C_20090301_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2010_Chrysler_300C_CRD_Automatic_3.0_Estate_Rear.jpg/1280px-2010_Chrysler_300C_CRD_Automatic_3.0_Estate_Rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/d/de/Chrysler--300.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2013_Chrysler_300_%28LX_MY13%29_Limited_sedan_%282018-07-30%29_02.jpg/1280px-2013_Chrysler_300_%28LX_MY13%29_Limited_sedan_%282018-07-30%29_02.jpg"
+            ]
+          }
+        }
+      },
+      {
+        "BrandID": 30,
+        "ModelID": 413089,
+        "Brand Name": "Chrysler",
+        "Model Name": "300",
+        "Serie Name": "300 (2nd Gen)",
+        "Years": "2011 - 2023",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.6L V6 / 5.7L V8 / 6.4L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Chrysler 300 (2. gen) kontynuuje tradycję luksusowego sedana, oferując nowocześniejsze wnętrze i 8-biegową skrzynię.",
+              "en": "The Chrysler 300 (2nd Gen) continues the luxury sedan tradition with a more modern interior and an 8-speed transmission.",
+              "de": "Der Chrysler 300 (2. Generation) setzt die Tradition der Luxuslimousine mit einem moderneren Innenraum und einem 8-Gang-Getriebe fort.",
+              "uk": "Chrysler 300 (2-е покоління) продовжує традицію розкішних седанів із сучаснішим інтер’єром і 8-ступінчастою коробкою передач.",
+              "ru": "Chrysler 300 (2-го поколения) продолжает традицию роскошного седана с более современным интерьером и 8-ступенчатой ​​коробкой передач.",
+              "zh": "克莱斯勒 300（第二代）延续了豪华轿车传统，拥有更现代的内饰和 8 速变速箱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "2011–2023",
+              "miejsce produkcji": {
+                "pl": "Brampton, Kanada",
+                "en": "Brampton, Canada",
+                "de": "Brampton, Kanada",
+                "uk": "Брамптон, Канада",
+                "ru": "Брэмптон, Канада",
+                "zh": "加拿大布兰普顿"
+              },
+              "platforma": {
+                "pl": "Chrysler LD",
+                "en": "Chrysler LD",
+                "de": "Chrysler LD",
+                "uk": "Chrysler LD",
+                "ru": "Крайслер ЛД",
+                "zh": "克莱斯勒 LD"
+              },
+              "silnik": {
+                "pl": "3.6L V6 - 6.4L V8",
+                "en": "3.6L V6 - 6.4L V8",
+                "de": "3,6 l V6 – 6,4 l V8",
+                "uk": "3,6 л V6 - 6,4 л V8",
+                "ru": "3,6 л V6 – 6,4 л V8",
+                "zh": "3.6L V6 - 6.4L V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chrysler_300C_20090301_rear.jpg/1280px-Chrysler_300C_20090301_rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chrysler_300C_20090301_rear.jpg/1280px-Chrysler_300C_20090301_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2010_Chrysler_300C_CRD_Automatic_3.0_Estate_Rear.jpg/1280px-2010_Chrysler_300C_CRD_Automatic_3.0_Estate_Rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/d/de/Chrysler--300.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2013_Chrysler_300_%28LX_MY13%29_Limited_sedan_%282018-07-30%29_02.jpg/1280px-2013_Chrysler_300_%28LX_MY13%29_Limited_sedan_%282018-07-30%29_02.jpg"
+            ]
+          }
+        }
+      },
+      {
+        "BrandID": 30,
+        "ModelID": 280,
+        "Brand Name": "Chrysler",
+        "Model Name": "300M",
+        "Serie Name": "300M",
+        "Years": "1999 - 2004",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler 300M to sportowa limuzyna serii LH, zaprojektowana z myślą o rynku europejskim (krótsza niż LHS).",
+              "en": "Chrysler 300M is a sports limousine of the LH series, designed for the European market (shorter than LHS).",
+              "de": "Chrysler 300M ist eine Sportlimousine der LH-Serie, die für den europäischen Markt entwickelt wurde (kürzer als LHS).",
+              "uk": "Chrysler 300M - спортивний лімузин серії LH, призначений для європейського ринку (коротше LHS).",
+              "ru": "Chrysler 300M — спортивный лимузин серии LH, предназначенный для европейского рынка (короче LHS).",
+              "zh": "克莱斯勒 300M 是 LH 系列的运动型豪华轿车，专为欧洲市场设计（比 LHS 短）。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "1998–2004",
+              "miejsce produkcji": {
+                "pl": "Brampton, Kanada",
+                "en": "Brampton, Canada",
+                "de": "Brampton, Kanada",
+                "uk": "Брамптон, Канада",
+                "ru": "Брэмптон, Канада",
+                "zh": "加拿大布兰普顿"
+              },
+              "platforma": {
+                "pl": "Chrysler LH",
+                "en": "Chrysler LH",
+                "de": "Chrysler LH",
+                "uk": "Chrysler LH",
+                "ru": "Крайслер ЛХ",
+                "zh": "克莱斯勒 LH"
+              },
+              "silnik": {
+                "pl": "3.5L V6",
+                "en": "3.5L V6",
+                "de": "3,5L V6",
+                "uk": "3,5 л V6",
+                "ru": "3,5 л V6",
+                "zh": "3.5L V6"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Aspen": [
+      {
+        "BrandID": 30,
+        "ModelID": 281,
+        "Brand Name": "Chrysler",
+        "Model Name": "Aspen",
+        "Serie Name": "Aspen",
+        "Years": "2007 - 2009",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "4.7L V8 / 5.7L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler Aspen to luksusowa wersja Dodge'a Durango, oferująca hybrydowy napęd i bogate wyposażenie.",
+              "en": "Chrysler Aspen is a luxurious version of the Dodge Durango, offering a hybrid drive and rich equipment.",
+              "de": "Chrysler Aspen ist eine luxuriöse Version des Dodge Durango und bietet einen Hybridantrieb und eine reichhaltige Ausstattung.",
+              "uk": "Chrysler Aspen - це розкішна версія Dodge Durango, що пропонує гібридний привід і багате оснащення.",
+              "ru": "Chrysler Aspen — роскошная версия Dodge Durango, предлагающая гибридный привод и богатое оснащение.",
+              "zh": "克莱斯勒 Aspen 是道奇 Durango 的豪华版，提供混合动力驱动和丰富的装备。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "2006–2009",
+              "miejsce produkcji": {
+                "pl": "Newark, USA",
+                "en": "Newark, USA",
+                "de": "Newark, USA",
+                "uk": "Ньюарк, США",
+                "ru": "Ньюарк, США",
+                "zh": "美国纽瓦克"
+              },
+              "platforma": {
+                "pl": "Chrysler HB",
+                "en": "Chrysler HB",
+                "de": "Chrysler HB",
+                "uk": "Chrysler HB",
+                "ru": "Крайслер ХБ",
+                "zh": "克莱斯勒 HB"
+              },
+              "silnik": {
+                "pl": "4.7L V8 - 5.7L V8",
+                "en": "4.7L V8 - 5.7L V8",
+                "de": "4,7 l V8 – 5,7 l V8",
+                "uk": "4,7 л V8 - 5,7 л V8",
+                "ru": "4,7 л V8 — 5,7 л V8",
+                "zh": "4.7L V8 - 5.7L V8"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/33/q7/pq2apzmssco44wog0ckok/aspen.310.jpg"
+        }
+      }
+    ],
+    "Cirrus": [
+      {
+        "BrandID": 30,
+        "ModelID": 282,
+        "Brand Name": "Chrysler",
+        "Model Name": "Cirrus",
+        "Serie Name": "Cirrus",
+        "Years": "1995 - 2000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L / 2.5L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler Cirrus to sedan typu 'cab-forward' z lat 90., znany z przestronnego wnętrza i dobrego prowadzenia.",
+              "en": "The Chrysler Cirrus is a 1990s cab-forward sedan known for its spacious interior and good handling.",
+              "de": "Der Chrysler Cirrus ist eine Cab-Forward-Limousine aus den 1990er-Jahren, die für ihren geräumigen Innenraum und ihr gutes Handling bekannt ist.",
+              "uk": "Chrysler Cirrus — це седан 1990-х років із кабіною вперед, відомий своїм просторим салоном і хорошою керованістю.",
+              "ru": "Chrysler Cirrus — седан 1990-х годов с выдвинутой вперед кабиной, известный своим просторным салоном и хорошей управляемостью.",
+              "zh": "克莱斯勒 Cirrus 是一款 20 世纪 90 年代的驾驶室前移轿车，以其宽敞的内部空间和良好的操控性而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "1994–2000",
+              "miejsce produkcji": {
+                "pl": "Sterling Heights, USA",
+                "en": "Sterling Heights, USA",
+                "de": "Sterling Heights, USA",
+                "uk": "Стерлінг Хайтс, США",
+                "ru": "Стерлинг-Хайтс, США",
+                "zh": "美国斯特林高地"
+              },
+              "platforma": {
+                "pl": "Chrysler JA",
+                "en": "Chrysler JA",
+                "de": "Chrysler JA",
+                "uk": "Chrysler JA",
+                "ru": "Крайслер Дж.А.",
+                "zh": "克莱斯勒 JA"
+              },
+              "silnik": {
+                "pl": "2.4L - 2.5L V6",
+                "en": "2.4L - 2.5L V6",
+                "de": "2,4 l – 2,5 l V6",
+                "uk": "2,4 л - 2,5 л V6",
+                "ru": "2,4–2,5 л V6",
+                "zh": "2.4L - 2.5L V6"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Concorde": [
+      {
+        "BrandID": 30,
+        "ModelID": 413090,
+        "Brand Name": "Chrysler",
+        "Model Name": "Concorde",
+        "Serie Name": "Concorde (1st Gen)",
+        "Years": "1993 - 1997",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "3.3L V6 / 3.5L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler Concorde (1. gen) to jeden z pierwszych modeli LH, definiujący stylistykę marki na lata 90.",
+              "en": "Chrysler Concorde (1st generation) is one of the first LH models, defining the brand's style for the 1990s.",
+              "de": "Chrysler Concorde (1. Generation) ist eines der ersten LH-Modelle und prägt den Stil der Marke in den 1990er Jahren.",
+              "uk": "Chrysler Concorde (1-е покоління) — одна з перших моделей LH, яка визначила стиль бренду 1990-х років.",
+              "ru": "Chrysler Concorde (1-го поколения) — одна из первых моделей LH, определяющая стиль бренда 1990-х годов.",
+              "zh": "克莱斯勒 Concorde（第一代）是首批 LH 车型之一，定义了 20 世纪 90 年代的品牌风格。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "1992–1997",
+              "miejsce produkcji": {
+                "pl": "Brampton, Kanada",
+                "en": "Brampton, Canada",
+                "de": "Brampton, Kanada",
+                "uk": "Брамптон, Канада",
+                "ru": "Брэмптон, Канада",
+                "zh": "加拿大布兰普顿"
+              },
+              "platforma": {
+                "pl": "Chrysler LH",
+                "en": "Chrysler LH",
+                "de": "Chrysler LH",
+                "uk": "Chrysler LH",
+                "ru": "Крайслер ЛХ",
+                "zh": "克莱斯勒 LH"
+              },
+              "silnik": {
+                "pl": "3.3L - 3.5L V6",
+                "en": "3.3L - 3.5L V6",
+                "de": "3,3 l–3,5 l V6",
+                "uk": "3,3 л - 3,5 л V6",
+                "ru": "3,3–3,5 л V6",
+                "zh": "3.3L - 3.5L V6"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/1996_Chrysler_Concorde_%2814647971085%29.jpg/1280px-1996_Chrysler_Concorde_%2814647971085%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/1996_Chrysler_Concorde_%2814647971085%29.jpg/1280px-1996_Chrysler_Concorde_%2814647971085%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/New_York_registered_imported_Chrysler_Concorde_LXi_in_Greece_%2810350063634%29.jpg/1280px-New_York_registered_imported_Chrysler_Concorde_LXi_in_Greece_%2810350063634%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Chrysler_Concorde_Limited.jpg/1280px-Chrysler_Concorde_Limited.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9g/1f/7kw5njswkgw4wsoock84s/concorde.310.jpg"
+        }
+      },
+      {
+        "BrandID": 30,
+        "ModelID": 413091,
+        "Brand Name": "Chrysler",
+        "Model Name": "Concorde",
+        "Serie Name": "Concorde (2nd Gen)",
+        "Years": "1998 - 2004",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.7L V6 / 3.2L V6 / 3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler Concorde (2. gen) zyskał bardziej opływowe nadwozie i nowoczesne silniki aluminiowe.",
+              "en": "Chrysler Concorde (2nd generation) gained a more streamlined body and modern aluminum engines.",
+              "de": "Chrysler Concorde (2. Generation) erhielt eine stromlinienförmigere Karosserie und moderne Aluminiummotoren.",
+              "uk": "Chrysler Concorde (2 покоління) отримав більш обтічний кузов і сучасні алюмінієві двигуни.",
+              "ru": "Chrysler Concorde (2-го поколения) получил более обтекаемый кузов и современные алюминиевые двигатели.",
+              "zh": "克莱斯勒协和式飞机（第二代）采用了更加流线型的车身和现代化的铝制发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "1997–2004",
+              "miejsce produkcji": {
+                "pl": "Brampton, Kanada",
+                "en": "Brampton, Canada",
+                "de": "Brampton, Kanada",
+                "uk": "Брамптон, Канада",
+                "ru": "Брэмптон, Канада",
+                "zh": "加拿大布兰普顿"
+              },
+              "platforma": {
+                "pl": "Chrysler LH",
+                "en": "Chrysler LH",
+                "de": "Chrysler LH",
+                "uk": "Chrysler LH",
+                "ru": "Крайслер ЛХ",
+                "zh": "克莱斯勒 LH"
+              },
+              "silnik": {
+                "pl": "2.7L - 3.5L V6",
+                "en": "2.7L - 3.5L V6",
+                "de": "2,7 l – 3,5 l V6",
+                "uk": "2,7 л - 3,5 л V6",
+                "ru": "2,7–3,5 л V6",
+                "zh": "2.7L - 3.5L V6"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/1996_Chrysler_Concorde_%2814647971085%29.jpg/1280px-1996_Chrysler_Concorde_%2814647971085%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/1996_Chrysler_Concorde_%2814647971085%29.jpg/1280px-1996_Chrysler_Concorde_%2814647971085%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/New_York_registered_imported_Chrysler_Concorde_LXi_in_Greece_%2810350063634%29.jpg/1280px-New_York_registered_imported_Chrysler_Concorde_LXi_in_Greece_%2810350063634%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Chrysler_Concorde_Limited.jpg/1280px-Chrysler_Concorde_Limited.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9g/1f/7kw5njswkgw4wsoock84s/concorde.310.jpg"
+        }
+      }
+    ],
+    "Crossfire": [
+      {
+        "BrandID": 30,
+        "ModelID": 284,
+        "Brand Name": "Chrysler",
+        "Model Name": "Crossfire",
+        "Serie Name": "Crossfire",
+        "Years": "2004 - 2008",
+        "specs": {
+          "bodyType": "Coupe/Roadster",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.2L V6 / 3.2L Supercharged V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler Crossfire to coupe/roadster zbudowany na podzespołach Mercedesa SLK (R170). Unikalny design.",
+              "en": "Chrysler Crossfire is a coupe/roadster built on Mercedes SLK (R170) components. Unique design.",
+              "de": "Chrysler Crossfire ist ein Coupé/Roadster, das auf Komponenten des Mercedes SLK (R170) basiert. Einzigartiges Design.",
+              "uk": "Chrysler Crossfire — купе/родстер, побудований на компонентах Mercedes SLK (R170). Унікальний дизайн.",
+              "ru": "Chrysler Crossfire — купе/родстер, построенный на компонентах Mercedes SLK (R170). Уникальный дизайн.",
+              "zh": "克莱斯勒 Crossfire 是一款基于梅赛德斯 SLK (R170) 组件打造的轿跑车/跑车。独特的设计。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "2003–2007",
+              "miejsce produkcji": {
+                "pl": "Osnabrück, Niemcy",
+                "en": "Osnabrück, Germany",
+                "de": "Osnabrück, Deutschland",
+                "uk": "Оснабрюк, Німеччина",
+                "ru": "Оснабрюк, Германия",
+                "zh": "德国奥斯纳布吕克"
+              },
+              "platforma": {
+                "pl": "Chrysler ZH",
+                "en": "Chrysler ZH",
+                "de": "Chrysler ZH",
+                "uk": "Chrysler ZH",
+                "ru": "Крайслер З.Х.",
+                "zh": "克莱斯勒 ZH"
+              },
+              "silnik": {
+                "pl": "3.2L V6 - 3.2L V6 Kompressor",
+                "en": "3.2L V6 - 3.2L V6 Kompressor",
+                "de": "3,2 l V6 – 3,2 l V6 Kompressor",
+                "uk": "3,2 л V6 - 3,2 л V6 Kompressor",
+                "ru": "3,2 л V6 - 3,2 л V6 Компрессор",
+                "zh": "3.2L V6 - 3.2L V6 Kompressor"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4j/6w/47wcz86c0ksww4sckcgw8/crossfire-roadster.310.jpg"
+        }
+      }
+    ],
+    "Grand Voyager": [
+      {
+        "BrandID": 30,
+        "ModelID": 413092,
+        "Brand Name": "Chrysler",
+        "Model Name": "Grand Voyager",
+        "Serie Name": "Grand Voyager (3rd Gen)",
+        "Years": "1996 - 2000",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Minivan",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.4L - 3.8L V6",
+          "isOldtimer": true,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler Grand Voyager (3. gen) to europejska wersja popularnego minivana z drzwiami przesuwnymi po obu stronach.",
+              "en": "The Chrysler Grand Voyager (3rd generation) is the European version of the popular minivan with sliding doors on both sides.",
+              "de": "Der Chrysler Grand Voyager (3. Generation) ist die europäische Version des beliebten Minivans mit beidseitigen Schiebetüren.",
+              "uk": "Chrysler Grand Voyager (3 покоління) - європейська версія популярного мінівена з розсувними дверима з обох сторін.",
+              "ru": "Chrysler Grand Voyager (3-е поколение) — европейская версия популярного минивэна с раздвижными дверями с обеих сторон.",
+              "zh": "克莱斯勒 Grand Voyager（第 3 代）是流行的两侧滑门小型货车的欧洲版本。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "1996–2000",
+              "miejsce produkcji": {
+                "pl": "Graz, Austria",
+                "en": "Graz, Austria",
+                "de": "Graz, Österreich",
+                "uk": "Грац, Австрія",
+                "ru": "Грац, Австрия",
+                "zh": "奥地利格拉茨"
+              },
+              "platforma": {
+                "pl": "Chrysler NS",
+                "en": "Chrysler NS",
+                "de": "Chrysler NS",
+                "uk": "Chrysler NS",
+                "ru": "Крайслер НС",
+                "zh": "克莱斯勒 NS"
+              },
+              "silnik": {
+                "pl": "2.4L - 3.8L V6",
+                "en": "2.4L - 3.8L V6",
+                "de": "2,4 l – 3,8 l V6",
+                "uk": "2,4-3,8 л V6",
+                "ru": "2,4–3,8 л V6",
+                "zh": "2.4L - 3.8L V6"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/VoyagerIEuropeBackside.jpg/1280px-VoyagerIEuropeBackside.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/VoyagerIEuropeBackside.jpg/1280px-VoyagerIEuropeBackside.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/8/88/1990_Chrysler_Town_%26_Country_minivan.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Chrysler_Voyager_rear_20081127.jpg/1280px-Chrysler_Voyager_rear_20081127.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Chrysler_Voyager_rear_20071015.jpg/1280px-Chrysler_Voyager_rear_20071015.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6m/jr/e8nq0hs00g8c0so80ookc/chrysler-grand-voyager-touring-2008.310.jpg"
+        }
+      },
+      {
+        "BrandID": 30,
+        "ModelID": 413093,
+        "Brand Name": "Chrysler",
+        "Model Name": "Grand Voyager",
+        "Serie Name": "Grand Voyager (4th Gen)",
+        "Years": "2001 - 2007",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Minivan",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.4L - 3.8L V6 / 2.5L Diesel / 2.8L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler Grand Voyager (4. gen) wprowadził system składania foteli Stow'n Go, rewolucjonizując funkcjonalność.",
+              "en": "The Chrysler Grand Voyager (4th generation) introduced the Stow'n Go seat folding system, revolutionizing functionality.",
+              "de": "Der Chrysler Grand Voyager (4. Generation) führte das Stow'n Go-Sitzklappsystem ein und revolutionierte damit die Funktionalität.",
+              "uk": "Chrysler Grand Voyager (4-е покоління) представив систему складання сидінь Stow'n Go, яка революціонізувала функціональність.",
+              "ru": "В Chrysler Grand Voyager (4-го поколения) появилась система складывания сидений Stow'n Go, которая произвела революцию в функциональности.",
+              "zh": "克莱斯勒 Grand Voyager（第四代）推出了 Stow'n Go 座椅折叠系统，彻底改变了功能。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "2001–2007",
+              "miejsce produkcji": {
+                "pl": "Graz, Austria",
+                "en": "Graz, Austria",
+                "de": "Graz, Österreich",
+                "uk": "Грац, Австрія",
+                "ru": "Грац, Австрия",
+                "zh": "奥地利格拉茨"
+              },
+              "platforma": {
+                "pl": "Chrysler RS",
+                "en": "Chrysler RS",
+                "de": "Chrysler RS",
+                "uk": "Chrysler RS",
+                "ru": "Крайслер РС",
+                "zh": "克莱斯勒 RS"
+              },
+              "silnik": {
+                "pl": "2.4L - 3.8L V6",
+                "en": "2.4L - 3.8L V6",
+                "de": "2,4 l – 3,8 l V6",
+                "uk": "2,4-3,8 л V6",
+                "ru": "2,4–3,8 л V6",
+                "zh": "2.4L - 3.8L V6"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/VoyagerIEuropeBackside.jpg/1280px-VoyagerIEuropeBackside.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/VoyagerIEuropeBackside.jpg/1280px-VoyagerIEuropeBackside.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/8/88/1990_Chrysler_Town_%26_Country_minivan.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Chrysler_Voyager_rear_20081127.jpg/1280px-Chrysler_Voyager_rear_20081127.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Chrysler_Voyager_rear_20071015.jpg/1280px-Chrysler_Voyager_rear_20071015.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6m/jr/e8nq0hs00g8c0so80ookc/chrysler-grand-voyager-touring-2008.310.jpg"
+        }
+      },
+      {
+        "BrandID": 30,
+        "ModelID": 413094,
+        "Brand Name": "Chrysler",
+        "Model Name": "Grand Voyager",
+        "Serie Name": "Grand Voyager (5th Gen)",
+        "Years": "2008 - 2016",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Minivan",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.8L V6 / 3.6L V6 / 2.8L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler Grand Voyager (5. gen) to luksusowy minivan z kanciastą stylistyką i systemem Swivel'n Go.",
+              "en": "The Chrysler Grand Voyager (5th generation) is a luxury minivan with angular styling and the Swivel'n Go system.",
+              "de": "Der Chrysler Grand Voyager (5. Generation) ist ein Luxus-Minivan mit eckigem Design und dem Swivel'n Go-System.",
+              "uk": "Chrysler Grand Voyager (5-е покоління) — це розкішний мінівен із незграбним дизайном і системою Swivel'n Go.",
+              "ru": "Chrysler Grand Voyager (5-е поколение) — роскошный минивэн с угловатым дизайном и системой Swivel’n Go.",
+              "zh": "克莱斯勒 Grand Voyager（第 5 代）是一款豪华小型货车，采用棱角分明的造型和 Swivel'n Go 系统。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "2008–2016",
+              "miejsce produkcji": {
+                "pl": "Windsor, Kanada",
+                "en": "Windsor, Canada",
+                "de": "Windsor, Kanada",
+                "uk": "Віндзор, Канада",
+                "ru": "Виндзор, Канада",
+                "zh": "加拿大温莎"
+              },
+              "platforma": {
+                "pl": "Chrysler RT",
+                "en": "Chrysler RT",
+                "de": "Chrysler RT",
+                "uk": "Chrysler RT",
+                "ru": "Крайслер РТ",
+                "zh": "克莱斯勒 RT"
+              },
+              "silnik": {
+                "pl": "2.8L Diesel - 4.0L V6",
+                "en": "2.8L Diesel - 4.0L V6",
+                "de": "2,8 l Diesel – 4,0 l V6",
+                "uk": "2,8 л дизель - 4,0 л V6",
+                "ru": "Дизель 2,8 л — V6 4,0 л",
+                "zh": "2.8L 柴油机 - 4.0L V6"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/VoyagerIEuropeBackside.jpg/1280px-VoyagerIEuropeBackside.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/VoyagerIEuropeBackside.jpg/1280px-VoyagerIEuropeBackside.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/8/88/1990_Chrysler_Town_%26_Country_minivan.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Chrysler_Voyager_rear_20081127.jpg/1280px-Chrysler_Voyager_rear_20081127.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Chrysler_Voyager_rear_20071015.jpg/1280px-Chrysler_Voyager_rear_20071015.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6m/jr/e8nq0hs00g8c0so80ookc/chrysler-grand-voyager-touring-2008.310.jpg"
+        }
+      }
+    ],
+    "Imperial": [
+      {
+        "BrandID": 30,
+        "ModelID": 416680,
+        "Brand Name": "Chrysler",
+        "Model Name": "Imperial",
+        "Serie Name": "Imperial (7th Gen)",
+        "Years": "1990 - 1993",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "3.3L V6 / 3.8L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler Imperial (7. gen) to próba powrotu do nazwy Imperial jako flagowej limuzyny na bazie platformy Y.",
+              "en": "The Chrysler Imperial (7th generation) is an attempt to return to the Imperial name as a flagship sedan based on the Y platform.",
+              "de": "Der Chrysler Imperial (7. Generation) ist ein Versuch, als Flaggschiff-Limousine auf Basis der Y-Plattform zum Namen Imperial zurückzukehren.",
+              "uk": "Chrysler Imperial (7 покоління) — це спроба повернутися до імені Imperial як флагманського седана на платформі Y.",
+              "ru": "Chrysler Imperial (7-е поколение) — это попытка вернуться к имени Imperial в качестве флагманского седана на платформе Y.",
+              "zh": "克莱斯勒 Imperial（第七代）是基于 Y 平台的旗舰豪华轿车回归 Imperial 名称的一次尝试。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "1990–1993",
+              "miejsce produkcji": {
+                "pl": "Belvidere, USA",
+                "en": "Belvidere, USA",
+                "de": "Belvidere, USA",
+                "uk": "Бельвідер, США",
+                "ru": "Белвидер, США",
+                "zh": "美国贝尔维代尔"
+              },
+              "platforma": {
+                "pl": "Chrysler Y",
+                "en": "Chrysler Y",
+                "de": "Chrysler Y",
+                "uk": "Крайслер Ю",
+                "ru": "Крайслер Ю",
+                "zh": "克莱斯勒 Y"
+              },
+              "silnik": {
+                "pl": "3.3L - 3.8L V6",
+                "en": "3.3L - 3.8L V6",
+                "de": "3,3 l–3,8 l V6",
+                "uk": "3,3 л - 3,8 л V6",
+                "ru": "3,3–3,8 л V6",
+                "zh": "3.3L - 3.8L V6"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Intrepid": [
+      {
+        "BrandID": 30,
+        "ModelID": 287,
+        "Brand Name": "Chrysler",
+        "Model Name": "Intrepid",
+        "Serie Name": "Intrepid",
+        "Years": "1993 - 2004",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.7L V6 - 3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler Intrepid to kanadyjska wersja Dodge'a Intrepid, dużego sedana o sportowym zacięciu.",
+              "en": "The Chrysler Intrepid is the Canadian version of the Dodge Intrepid, a large, sporty sedan.",
+              "de": "Der Chrysler Intrepid ist die kanadische Version des Dodge Intrepid, einer großen, sportlichen Limousine.",
+              "uk": "Chrysler Intrepid — це канадська версія Dodge Intrepid, великого спортивного седана.",
+              "ru": "Chrysler Intrepid — канадская версия Dodge Intrepid, большого спортивного седана.",
+              "zh": "克莱斯勒 Intrepid 是道奇 Intrepid 的加拿大版本，是一款具有运动风格的大型轿车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "1993–2004",
+              "miejsce produkcji": {
+                "pl": "Brampton, Kanada",
+                "en": "Brampton, Canada",
+                "de": "Brampton, Kanada",
+                "uk": "Брамптон, Канада",
+                "ru": "Брэмптон, Канада",
+                "zh": "加拿大布兰普顿"
+              },
+              "platforma": {
+                "pl": "Chrysler LH",
+                "en": "Chrysler LH",
+                "de": "Chrysler LH",
+                "uk": "Chrysler LH",
+                "ru": "Крайслер ЛХ",
+                "zh": "克莱斯勒 LH"
+              },
+              "silnik": {
+                "pl": "2.7L - 3.5L V6",
+                "en": "2.7L - 3.5L V6",
+                "de": "2,7 l – 3,5 l V6",
+                "uk": "2,7 л - 3,5 л V6",
+                "ru": "2,7–3,5 л V6",
+                "zh": "2.7L - 3.5L V6"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Lasers": [
+      {
+        "BrandID": 30,
+        "ModelID": 416681,
+        "Brand Name": "Chrysler",
+        "Model Name": "Laser",
+        "Serie Name": "Laser",
+        "Years": "1984 - 1986",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sport Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.2L / 2.5L / 2.2L Turbo",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler Laser to sportowe coupe, bliźniak Dodge'a Daytona, pierwszy przednionapędowy sportowy Chrysler.",
+              "en": "The Chrysler Laser is a sports coupe, a twin of the Dodge Daytona, the first front-wheel drive Chrysler sports car.",
+              "de": "Der Chrysler Laser ist ein Sportcoupé, ein Zwilling des Dodge Daytona, dem ersten Chrysler-Sportwagen mit Frontantrieb.",
+              "uk": "Chrysler Laser — спортивне купе, двійник Dodge Daytona, першого передньопривідного спортивного автомобіля Chrysler.",
+              "ru": "Chrysler Laser — спортивное купе, близнец Dodge Daytona, первого переднеприводного спортивного автомобиля Chrysler.",
+              "zh": "克莱斯勒 Laser 是一款运动轿跑车，是第一款前轮驱动运动型克莱斯勒道奇 Daytona 的双胞胎。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "1984–1986",
+              "miejsce produkcji": {
+                "pl": "St. Louis, USA",
+                "en": "St. Louis, USA",
+                "de": "St. Louis, USA",
+                "uk": "Сент-Луїс, США",
+                "ru": "Сент-Луис, США",
+                "zh": "美国圣路易斯"
+              },
+              "platforma": {
+                "pl": "Chrysler G",
+                "en": "Chrysler G",
+                "de": "Chrysler G",
+                "uk": "Крайслер Г",
+                "ru": "Крайслер Дж",
+                "zh": "克莱斯勒 G"
+              },
+              "silnik": {
+                "pl": "2.2L - 2.5L Turbo",
+                "en": "2.2L - 2.5L Turbo",
+                "de": "2,2 l – 2,5 l Turbo",
+                "uk": "2,2-2,5 л з турбонаддувом",
+                "ru": "2,2–2,5 л Турбо",
+                "zh": "2.2L - 2.5L Turbo"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "LeBaron": [
+      {
+        "BrandID": 30,
+        "ModelID": 415382,
+        "Brand Name": "Chrysler",
+        "Model Name": "LeBaron",
+        "Serie Name": "LeBaron",
+        "Years": "1987 - 1995",
+        "specs": {
+          "bodyType": "Coupe/Convertible/Sedan",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.2L Turbo / 2.5L / 3.0L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler LeBaron to rodzina modeli (coupe, kabriolet, sedan), która spopularyzowała kabriolety w USA w latach 80.",
+              "en": "The Chrysler LeBaron is a family of models (coupe, convertible, sedan) that popularized convertibles in the US in the 1980s.",
+              "de": "Der Chrysler LeBaron ist eine Modellfamilie (Coupé, Cabriolet, Limousine), die in den 1980er Jahren in den USA Cabriolets populär machte.",
+              "uk": "Chrysler LeBaron — це сімейство моделей (купе, кабріолет, седан), які популяризували кабріолети в США у 1980-х роках.",
+              "ru": "Chrysler LeBaron — семейство моделей (купе, кабриолет, седан), которые популяризировали кабриолеты в США в 1980-х годах.",
+              "zh": "克莱斯勒 LeBaron 是一个车型系列（轿跑车、敞篷车、轿车），在 20 世纪 80 年代在美国普及了敞篷车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "1987–1995",
+              "miejsce produkcji": {
+                "pl": "St. Louis, USA",
+                "en": "St. Louis, USA",
+                "de": "St. Louis, USA",
+                "uk": "Сент-Луїс, США",
+                "ru": "Сент-Луис, США",
+                "zh": "美国圣路易斯"
+              },
+              "platforma": {
+                "pl": "Chrysler J",
+                "en": "Chrysler J",
+                "de": "Chrysler J",
+                "uk": "Крайслер Дж",
+                "ru": "Крайслер Дж",
+                "zh": "克莱斯勒 J"
+              },
+              "silnik": {
+                "pl": "2.2L Turbo - 3.0L V6",
+                "en": "2.2L Turbo - 3.0L V6",
+                "de": "2,2 l Turbo – 3,0 l V6",
+                "uk": "2.2L Turbo - 3.0L V6",
+                "ru": "2,2 л турбо — 3,0 л V6",
+                "zh": "2.2L Turbo - 3.0L V6"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "LHS": [
+      {
+        "BrandID": 30,
+        "ModelID": 412914,
+        "Brand Name": "Chrysler",
+        "Model Name": "LHS",
+        "Serie Name": "LHS",
+        "Years": "1994 - 2001",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler LHS to luksusowa limuzyna o sportowym charakterze, plasowana powyżej Concorde i New Yorkera.",
+              "en": "Chrysler LHS is a luxury limousine with a sporty character, placed above Concorde and New Yorker.",
+              "de": "Chrysler LHS ist eine Luxuslimousine mit sportlichem Charakter, die über Concorde und New Yorker liegt.",
+              "uk": "Chrysler LHS - це розкішний лімузин зі спортивним характером, який стоїть вище Concorde і New Yorker.",
+              "ru": "Chrysler LHS – роскошный лимузин со спортивным характером, стоящий выше Concorde и New Yorker.",
+              "zh": "克莱斯勒 LHS 是一款具有运动特色的豪华轿车，位于协和式飞机和纽约客飞机之上。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "1994–2001",
+              "miejsce produkcji": {
+                "pl": "Brampton, Kanada",
+                "en": "Brampton, Canada",
+                "de": "Brampton, Kanada",
+                "uk": "Брамптон, Канада",
+                "ru": "Брэмптон, Канада",
+                "zh": "加拿大布兰普顿"
+              },
+              "platforma": {
+                "pl": "Chrysler LH",
+                "en": "Chrysler LH",
+                "de": "Chrysler LH",
+                "uk": "Chrysler LH",
+                "ru": "Крайслер ЛХ",
+                "zh": "克莱斯勒 LH"
+              },
+              "silnik": {
+                "pl": "3.5L V6",
+                "en": "3.5L V6",
+                "de": "3,5L V6",
+                "uk": "3,5 л V6",
+                "ru": "3,5 л V6",
+                "zh": "3.5L V6"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Neon": [
+      {
+        "BrandID": 30,
+        "ModelID": 413677,
+        "Brand Name": "Chrysler",
+        "Model Name": "Neon",
+        "Serie Name": "Neon (1st Gen)",
+        "Years": "1995 - 1999",
+        "specs": {
+          "bodyType": "Sedan/Coupe",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler Neon (1. gen) to kompaktowy sedan o odważnej stylistyce i dobrych osiągach, sprzedawany też jako Dodge i Plymouth.",
+              "en": "The Chrysler Neon (1st gen) is a compact sedan with bold styling and good performance, also sold as the Dodge and Plymouth.",
+              "de": "Der Chrysler Neon (1. Generation) ist eine kompakte Limousine mit markantem Design und guter Leistung, die auch als Dodge und Plymouth verkauft wird.",
+              "uk": "Chrysler Neon (1-го покоління) — це компактний седан зі сміливим стилем і хорошими характеристиками, також продається як Dodge і Plymouth.",
+              "ru": "Chrysler Neon (1-го поколения) — компактный седан со смелым дизайном и хорошими характеристиками, также продаваемый как Dodge и Plymouth.",
+              "zh": "克莱斯勒 Neon（第一代）是一款造型大胆、性能强劲的紧凑型轿车，也作为道奇和普利茅斯出售。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "1995–1999",
+              "miejsce produkcji": {
+                "pl": "Belvidere, USA",
+                "en": "Belvidere, USA",
+                "de": "Belvidere, USA",
+                "uk": "Бельвідер, США",
+                "ru": "Белвидер, США",
+                "zh": "贝尔维代尔，美国"
+              },
+              "platforma": {
+                "pl": "Chrysler PL",
+                "en": "Chrysler PL",
+                "de": "Chrysler PL",
+                "uk": "Chrysler PL",
+                "ru": "Крайслер ПЛ",
+                "zh": "克莱斯勒 PL"
+              },
+              "silnik": {
+                "pl": "2.0L",
+                "en": "2.0L",
+                "de": "2,0 l",
+                "uk": "2,0 л",
+                "ru": "2,0 л"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Abandoned_Neon.jpg/1280px-Abandoned_Neon.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Abandoned_Neon.jpg/1280px-Abandoned_Neon.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dodge_Neon_coupe_--_03-31-2011_1.jpg/1280px-Dodge_Neon_coupe_--_03-31-2011_1.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/1997_Chrysler_Neon_LX_Automatic_2.0_Front.jpg/1280px-1997_Chrysler_Neon_LX_Automatic_2.0_Front.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dodge_Neon_2.0i_SE_2000_%2814246172658%29.jpg/1280px-Dodge_Neon_2.0i_SE_2000_%2814246172658%29.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bf/ul/z0l8higoscksg08sgwo40/neon-2.310.jpg"
+        }
+      },
+      {
+        "BrandID": 30,
+        "ModelID": 413678,
+        "Brand Name": "Chrysler",
+        "Model Name": "Neon",
+        "Serie Name": "Neon (2nd Gen)",
+        "Years": "2000 - 2005",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler Neon (2. gen) stał się bardziej dojrzały i wyciszony, kontynuując sukces poprzednika.",
+              "en": "Chrysler Neon (2nd generation) became more mature and quiet, continuing the success of its predecessor.",
+              "de": "Chrysler Neon (2. Generation) wurde reifer und leiser und setzte den Erfolg seines Vorgängers fort.",
+              "uk": "Chrysler Neon (2 покоління) став більш зрілим і тихим, продовживши успіх свого попередника.",
+              "ru": "Chrysler Neon (2-го поколения) стал более зрелым и тихим, продолжив успех своего предшественника.",
+              "zh": "克莱斯勒 Neon（第二代）变得更加成熟和安静，延续了其前身的成功。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "2000–2005",
+              "miejsce produkcji": {
+                "pl": "Belvidere, USA",
+                "en": "Belvidere, USA",
+                "de": "Belvidere, USA",
+                "uk": "Бельвідер, США",
+                "ru": "Белвидер, США",
+                "zh": "美国贝尔维代尔"
+              },
+              "platforma": {
+                "pl": "Chrysler PL",
+                "en": "Chrysler PL",
+                "de": "Chrysler PL",
+                "uk": "Chrysler PL",
+                "ru": "Крайслер ПЛ",
+                "zh": "克莱斯勒 PL"
+              },
+              "silnik": {
+                "pl": "2.0L",
+                "en": "2.0L",
+                "de": "2,0 l",
+                "uk": "2,0 л",
+                "ru": "2,0 л"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Abandoned_Neon.jpg/1280px-Abandoned_Neon.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Abandoned_Neon.jpg/1280px-Abandoned_Neon.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dodge_Neon_coupe_--_03-31-2011_1.jpg/1280px-Dodge_Neon_coupe_--_03-31-2011_1.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/1997_Chrysler_Neon_LX_Automatic_2.0_Front.jpg/1280px-1997_Chrysler_Neon_LX_Automatic_2.0_Front.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dodge_Neon_2.0i_SE_2000_%2814246172658%29.jpg/1280px-Dodge_Neon_2.0i_SE_2000_%2814246172658%29.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bf/ul/z0l8higoscksg08sgwo40/neon-2.310.jpg"
+        }
+      }
+    ],
+    "New Yorker": [
+      {
+        "BrandID": 30,
+        "ModelID": 292,
+        "Brand Name": "Chrysler",
+        "Model Name": "New Yorker",
+        "Serie Name": "New Yorker",
+        "Years": "1988 - 1996",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "3.0L V6 - 3.5L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler New Yorker to legendarna nazwa dla luksusowych sedanów, w tej generacji oparta na platformie LH.",
+              "en": "The Chrysler New Yorker is a legendary name for luxury sedans, this generation based on the LH platform.",
+              "de": "Der Chrysler New Yorker ist ein legendärer Name für Luxuslimousinen, diese Generation basiert auf der LH-Plattform.",
+              "uk": "Chrysler New Yorker — легендарна назва розкішних седанів, це покоління базується на платформі LH.",
+              "ru": "Chrysler New Yorker — легендарное имя роскошных седанов этого поколения, основанных на платформе LH.",
+              "zh": "克莱斯勒纽约客是豪华轿车的传奇名称，这一代基于 LH 平台。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "1988–1996",
+              "miejsce produkcji": {
+                "pl": "Brampton, Kanada",
+                "en": "Brampton, Canada",
+                "de": "Brampton, Kanada",
+                "uk": "Брамптон, Канада",
+                "ru": "Брэмптон, Канада",
+                "zh": "加拿大布兰普顿"
+              },
+              "platforma": {
+                "pl": "Chrysler LH",
+                "en": "Chrysler LH",
+                "de": "Chrysler LH",
+                "uk": "Chrysler LH",
+                "ru": "Крайслер ЛХ",
+                "zh": "克莱斯勒 LH"
+              },
+              "silnik": {
+                "pl": "3.5L V6",
+                "en": "3.5L V6",
+                "de": "3,5L V6",
+                "uk": "3,5 л V6",
+                "ru": "3,5 л V6",
+                "zh": "3.5L V6"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Pacifica": [
+      {
+        "BrandID": 30,
+        "ModelID": 293,
+        "Brand Name": "Chrysler",
+        "Model Name": "Pacifica",
+        "Serie Name": "Pacifica (Crossover)",
+        "Years": "2004 - 2008",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Crossover",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6 / 3.8L V6 / 4.0L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler Pacifica (Crossover) to pierwszy crossover marki, łączący cechy minivana i SUV-a, produkowany wspólnie z Mercedesem.",
+              "en": "Chrysler Pacifica (Crossover) is the brand's first crossover, combining the features of a minivan and an SUV, produced jointly with Mercedes.",
+              "de": "Chrysler Pacifica (Crossover) ist der erste Crossover der Marke, der die Merkmale eines Minivans und eines SUV vereint und gemeinsam mit Mercedes produziert wird.",
+              "uk": "Chrysler Pacifica (Crossover) — перший кросовер марки, що поєднує в собі риси мінівена та позашляховика, вироблений спільно з Mercedes.",
+              "ru": "Chrysler Pacifica (Кроссовер) – первый кроссовер марки, сочетающий в себе черты минивэна и внедорожника, выпускаемый совместно с Mercedes.",
+              "zh": "克莱斯勒 Pacifica（Crossover）是该品牌的首款跨界车，结合了小型货车和 SUV 的特点，与梅赛德斯联合生产。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "2004–2008",
+              "miejsce produkcji": {
+                "pl": "Windsor, Kanada",
+                "en": "Windsor, Canada",
+                "de": "Windsor, Kanada",
+                "uk": "Віндзор, Канада",
+                "ru": "Виндзор, Канада",
+                "zh": "加拿大温莎"
+              },
+              "platforma": {
+                "pl": "Chrysler CS",
+                "en": "Chrysler CS",
+                "de": "Chrysler CS",
+                "uk": "Chrysler CS",
+                "ru": "Крайслер КС",
+                "zh": "克莱斯勒 CS"
+              },
+              "silnik": {
+                "pl": "3.5L V6 - 4.0L V6",
+                "en": "3.5L V6 - 4.0L V6",
+                "de": "3,5 l V6 – 4,0 l V6",
+                "uk": "3,5 л V6 - 4,0 л V6",
+                "ru": "3,5 л V6 - 4,0 л V6",
+                "zh": "3.5L V6 - 4.0L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7p/6s/lr6g8k4c0gk88w888o0o0/pacifica.310.jpg"
+        }
+      },
+      {
+        "BrandID": 30,
+        "ModelID": 415670,
+        "Brand Name": "Chrysler",
+        "Model Name": "Pacifica",
+        "Serie Name": "Pacifica (Minivan)",
+        "Years": "2017 - 3000",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Minivan",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "3.6L V6 / 3.6L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Chrysler Pacifica (Minivan) to nowoczesny następca Town & Country, oferujący napęd hybrydowy i futurystyczny design.",
+              "en": "Chrysler Pacifica (Minivan) is a modern successor to the Town & Country, offering a hybrid drive and a futuristic design.",
+              "de": "Chrysler Pacifica (Minivan) ist ein moderner Nachfolger des Town & Country und bietet einen Hybridantrieb und ein futuristisches Design.",
+              "uk": "Chrysler Pacifica (Minivan) — сучасний наступник Town & Country, який пропонує гібридний привід і футуристичний дизайн.",
+              "ru": "Chrysler Pacifica (Минивэн) — современный преемник Town & Country, предлагающий гибридный привод и футуристический дизайн.",
+              "zh": "克莱斯勒 Pacifica（小型货车）是 Town & Country 的现代继承者，提供混合动力驱动和未来派设计。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": {
+                "pl": "od 2017",
+                "en": "since 2017",
+                "de": "seit 2017",
+                "uk": "з 2017 року",
+                "ru": "с 2017 года",
+                "zh": "2017 年生产"
+              },
+              "miejsce produkcji": {
+                "pl": "Windsor, Kanada",
+                "en": "Windsor, Canada",
+                "de": "Windsor, Kanada",
+                "uk": "Віндзор, Канада",
+                "ru": "Виндзор, Канада",
+                "zh": "加拿大温莎"
+              },
+              "platforma": {
+                "pl": "Chrysler RU",
+                "en": "Chrysler RU",
+                "de": "Chrysler RU",
+                "uk": "Chrysler RU",
+                "ru": "Крайслер РУ",
+                "zh": "克莱斯勒 RU"
+              },
+              "silnik": {
+                "pl": "3.6L V6 / 3.6L Hybrid",
+                "en": "3.6L V6 / 3.6L Hybrid",
+                "de": "3,6 l V6 / 3,6 l Hybrid",
+                "uk": "3,6 л V6 / 3,6 л гібрид",
+                "ru": "3,6 л V6 / 3,6 л гибрид",
+                "zh": "3.6L V6 / 3.6L 混合动力"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7p/6s/lr6g8k4c0gk88w888o0o0/pacifica.310.jpg"
+        }
+      }
+    ],
+    "Prowler": [
+      {
+        "BrandID": 30,
+        "ModelID": 416682,
+        "Brand Name": "Chrysler",
+        "Model Name": "Prowler",
+        "Serie Name": "Prowler",
+        "Years": "2001 - 2002",
+        "specs": {
+          "bodyType": "Roadster",
+          "segment": "Retro Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler Prowler to unikalny hot rod w stylu retro, pierwotnie sprzedawany jako Plymouth. Ikona designu.",
+              "en": "The Chrysler Prowler is a unique retro-style hot rod originally sold as the Plymouth. Design icon.",
+              "de": "Der Chrysler Prowler ist ein einzigartiger Hot Rod im Retro-Stil, der ursprünglich als Plymouth verkauft wurde. Design-Ikone.",
+              "uk": "Chrysler Prowler — це унікальний хотрод у стилі ретро, ​​який спочатку продавався як Plymouth. Дизайн значок.",
+              "ru": "Chrysler Prowler — уникальный хот-род в стиле ретро, ​​первоначально продававшийся как Plymouth. Значок дизайна.",
+              "zh": "克莱斯勒 Prowler 是一款独特的复古风格热棒，最初作为普利茅斯出售。设计图标。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "2001–2002",
+              "miejsce produkcji": {
+                "pl": "Detroit, USA",
+                "en": "Detroit, USA",
+                "de": "Detroit, USA",
+                "uk": "Детройт, США",
+                "ru": "Детройт, США",
+                "zh": "美国底特律"
+              },
+              "platforma": {
+                "pl": "Chrysler PR",
+                "en": "Chrysler PR",
+                "de": "Chrysler PR",
+                "uk": "Chrysler PR",
+                "ru": "Крайслер PR",
+                "zh": "克莱斯勒 PR"
+              },
+              "silnik": {
+                "pl": "3.5L V6",
+                "en": "3.5L V6",
+                "de": "3,5L V6",
+                "uk": "3,5 л V6",
+                "ru": "3,5 л V6",
+                "zh": "3.5L V6"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "PT Cruiser": [
+      {
+        "BrandID": 30,
+        "ModelID": 413095,
+        "Brand Name": "Chrysler",
+        "Model Name": "PT Cruiser",
+        "Serie Name": "PT Cruiser",
+        "Years": "2001 - 2010",
+        "specs": {
+          "bodyType": "Hatchback/Convertible",
+          "segment": "Compact Retro",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.4L Turbo / 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler PT Cruiser to kompaktowy samochód w stylu retro, nawiązujący do lat 30. Niezwykle popularny w swoim czasie.",
+              "en": "The Chrysler PT Cruiser is a compact car in retro style, reminiscent of the 1930s. Extremely popular in its time.",
+              "de": "Der Chrysler PT Cruiser ist ein Kompaktwagen im Retro-Stil, der an die 1930er Jahre erinnert. Zu seiner Zeit äußerst beliebt.",
+              "uk": "Chrysler PT Cruiser — компактний автомобіль у стилі ретро, ​​що нагадує 1930-ті роки. Надзвичайно популярний свого часу.",
+              "ru": "Chrysler PT Cruiser – компактный автомобиль в стиле ретро, ​​напоминающий 1930-е годы. Чрезвычайно популярный в свое время.",
+              "zh": "克莱斯勒 PT Cruiser 是一款复古风格的紧凑型汽车，参考 1930 年代。在当时非常受欢迎。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "2001–2010",
+              "miejsce produkcji": {
+                "pl": "Toluca, Meksyk",
+                "en": "Toluca, Mexico",
+                "de": "Toluca, Mexiko",
+                "uk": "Толука, Мексика",
+                "ru": "Толука, Мексика",
+                "zh": "墨西哥托卢卡"
+              },
+              "platforma": {
+                "pl": "Chrysler PT",
+                "en": "Chrysler PT",
+                "de": "Chrysler PT",
+                "uk": "Chrysler PT",
+                "ru": "Крайслер ПТ",
+                "zh": "克莱斯勒 PT"
+              },
+              "silnik": {
+                "pl": "1.6L - 2.4L Turbo",
+                "en": "1.6L - 2.4L Turbo",
+                "de": "1,6 l – 2,4 l Turbo",
+                "uk": "1,6-2,4 л з турбонаддувом",
+                "ru": "1,6–2,4 л Турбо",
+                "zh": "1.6L - 2.4L 涡轮增压"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bp/ok/70wjubk0kk8ww0wkg08s8/pt-cruiser-hatch.310.jpg"
+        }
+      }
+    ],
+    "Sebring": [
+      {
+        "BrandID": 30,
+        "ModelID": 135473,
+        "Brand Name": "Chrysler",
+        "Model Name": "Sebring",
+        "Serie Name": "Sebring (1st Gen)",
+        "Years": "1995 - 2000",
+        "specs": {
+          "bodyType": "Convertible/Coupe",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L / 2.5L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler Sebring (1. gen) to elegancki kabriolet, który zdominował rynek aut z otwartym dachem w USA.",
+              "en": "The Chrysler Sebring (1st generation) is an elegant convertible that dominates the open-top car market in the US.",
+              "de": "Der Chrysler Sebring (1. Generation) ist ein elegantes Cabrio, das den Markt für offene Autos in den USA dominiert.",
+              "uk": "Chrysler Sebring (1-е покоління) — це елегантний кабріолет, який домінує на ринку автомобілів з відкритим верхом у США.",
+              "ru": "Chrysler Sebring (1-го поколения) — элегантный кабриолет, доминирующий на рынке автомобилей с открытым верхом в США.",
+              "zh": "克莱斯勒 Sebring（第一代）是一款优雅的敞篷车，在美国敞篷汽车市场上占据主导地位。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "1995–2000",
+              "miejsce produkcji": {
+                "pl": "Toluca, Meksyk",
+                "en": "Toluca, Mexico",
+                "de": "Toluca, Mexiko",
+                "uk": "Толука, Мексика",
+                "ru": "Толука, Мексика",
+                "zh": "墨西哥托卢卡"
+              },
+              "platforma": {
+                "pl": "Chrysler JX",
+                "en": "Chrysler JX",
+                "de": "Chrysler JX",
+                "uk": "Chrysler JX",
+                "ru": "Крайслер JX",
+                "zh": "克莱斯勒 JX"
+              },
+              "silnik": {
+                "pl": "2.4L - 2.5L V6",
+                "en": "2.4L - 2.5L V6",
+                "de": "2,4 l – 2,5 l V6",
+                "uk": "2,4 л - 2,5 л V6",
+                "ru": "2,4–2,5 л V6",
+                "zh": "2.4L - 2.5L V6"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chrysler_Sebring_Convertible_rear_20081218.jpg/1280px-Chrysler_Sebring_Convertible_rear_20081218.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chrysler_Sebring_Convertible_rear_20081218.jpg/1280px-Chrysler_Sebring_Convertible_rear_20081218.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Chrysler_Sebring_LX_%28JR%29_%E2%80%93_Heckansicht%2C_12._Juli_2014%2C_D%C3%BCsseldorf.jpg/1280px-Chrysler_Sebring_LX_%28JR%29_%E2%80%93_Heckansicht%2C_12._Juli_2014%2C_D%C3%BCsseldorf.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Chrysler_Sebring_Cabriolet_Limited_rear.jpg/1280px-Chrysler_Sebring_Cabriolet_Limited_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Wiki_cars_263.jpg/1280px-Wiki_cars_263.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1s/fq/0x36mau8cckocggwc4ss8/sebring-3-cabrio.310.jpg"
+        }
+      },
+      {
+        "BrandID": 30,
+        "ModelID": 132869,
+        "Brand Name": "Chrysler",
+        "Model Name": "Sebring",
+        "Serie Name": "Sebring (2nd Gen)",
+        "Years": "2001 - 2006",
+        "specs": {
+          "bodyType": "Sedan/Convertible/Coupe",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L / 2.7L V6 / 3.0L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler Sebring (2. gen) zyskał wersję sedan i odświeżony wygląd, stając się globalnym modelem marki.",
+              "en": "Chrysler Sebring (2nd generation) gained a sedan version and a refreshed appearance, becoming a global model of the brand.",
+              "de": "Chrysler Sebring (2. Generation) erhielt eine Limousinenversion und ein aufgefrischtes Erscheinungsbild und wurde zum globalen Modell der Marke.",
+              "uk": "Chrysler Sebring (2 покоління) отримав версію седан і оновлений зовнішній вигляд, ставши глобальною моделлю марки.",
+              "ru": "Chrysler Sebring (2-е поколение) обрел версию седана и обновленный внешний вид, став глобальной моделью бренда.",
+              "zh": "克莱斯勒 Sebring（第 2 代）获得轿车版本和焕然一新的外观，成为该品牌的全球车型。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "2001–2006",
+              "miejsce produkcji": {
+                "pl": "Sterling Heights, USA",
+                "en": "Sterling Heights, USA",
+                "de": "Sterling Heights, USA",
+                "uk": "Стерлінг Хайтс, США",
+                "ru": "Стерлинг-Хайтс, США",
+                "zh": "美国斯特林高地"
+              },
+              "platforma": {
+                "pl": "Chrysler JR",
+                "en": "Chrysler JR",
+                "de": "Chrysler JR",
+                "uk": "Chrysler JR",
+                "ru": "Крайслер младший",
+                "zh": "克莱斯勒 JR"
+              },
+              "silnik": {
+                "pl": "2.4L - 2.7L V6",
+                "en": "2.4L - 2.7L V6",
+                "de": "2,4L - 2,7L V6",
+                "uk": "2,4 л - 2,7 л V6",
+                "ru": "2,4–2,7 л V6",
+                "zh": "2.4L - 2.7L V6"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chrysler_Sebring_Convertible_rear_20081218.jpg/1280px-Chrysler_Sebring_Convertible_rear_20081218.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chrysler_Sebring_Convertible_rear_20081218.jpg/1280px-Chrysler_Sebring_Convertible_rear_20081218.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Chrysler_Sebring_LX_%28JR%29_%E2%80%93_Heckansicht%2C_12._Juli_2014%2C_D%C3%BCsseldorf.jpg/1280px-Chrysler_Sebring_LX_%28JR%29_%E2%80%93_Heckansicht%2C_12._Juli_2014%2C_D%C3%BCsseldorf.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Chrysler_Sebring_Cabriolet_Limited_rear.jpg/1280px-Chrysler_Sebring_Cabriolet_Limited_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Wiki_cars_263.jpg/1280px-Wiki_cars_263.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1s/fq/0x36mau8cckocggwc4ss8/sebring-3-cabrio.310.jpg"
+        }
+      },
+      {
+        "BrandID": 30,
+        "ModelID": 132809,
+        "Brand Name": "Chrysler",
+        "Model Name": "Sebring",
+        "Serie Name": "Sebring (3rd Gen)",
+        "Years": "2007 - 2010",
+        "specs": {
+          "bodyType": "Sedan/Convertible",
+          "segment": "Mid-size",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.4L / 2.7L V6 / 3.5L V6 / 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler Sebring (3. gen) charakteryzuje się stylistyką nawiązującą do Crossfire'a i opcjonalnym twardym dachem.",
+              "en": "The Chrysler Sebring (3rd gen) features Crossfire-like styling and an optional hardtop.",
+              "de": "Der Chrysler Sebring (3. Generation) verfügt über ein Crossfire-ähnliches Design und ein optionales Hardtop.",
+              "uk": "Chrysler Sebring (3-го покоління) має стиль Crossfire і додатковий жорсткий дах.",
+              "ru": "Chrysler Sebring (3-го поколения) отличается стилем Crossfire и опциональной жесткой крышей.",
+              "zh": "克莱斯勒 Sebring（第 3 代）采用 Crossfire 风格的造型和可选的硬顶。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "2007–2010",
+              "miejsce produkcji": {
+                "pl": "Sterling Heights, USA",
+                "en": "Sterling Heights, USA",
+                "de": "Sterling Heights, USA",
+                "uk": "Стерлінг Хайтс, США",
+                "ru": "Стерлинг-Хайтс, США",
+                "zh": "美国斯特林高地"
+              },
+              "platforma": {
+                "pl": "Chrysler JS",
+                "en": "Chrysler JS",
+                "de": "Chrysler JS",
+                "uk": "Chrysler JS",
+                "ru": "Крайслер Дж.С.",
+                "zh": "克莱斯勒 JS"
+              },
+              "silnik": {
+                "pl": "2.4L - 3.5L V6",
+                "en": "2.4L - 3.5L V6",
+                "de": "2,4L - 3,5L V6",
+                "uk": "2,4 л - 3,5 л V6",
+                "ru": "2,4–3,5 л V6",
+                "zh": "2.4L - 3.5L V6"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chrysler_Sebring_Convertible_rear_20081218.jpg/1280px-Chrysler_Sebring_Convertible_rear_20081218.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chrysler_Sebring_Convertible_rear_20081218.jpg/1280px-Chrysler_Sebring_Convertible_rear_20081218.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Chrysler_Sebring_LX_%28JR%29_%E2%80%93_Heckansicht%2C_12._Juli_2014%2C_D%C3%BCsseldorf.jpg/1280px-Chrysler_Sebring_LX_%28JR%29_%E2%80%93_Heckansicht%2C_12._Juli_2014%2C_D%C3%BCsseldorf.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Chrysler_Sebring_Cabriolet_Limited_rear.jpg/1280px-Chrysler_Sebring_Cabriolet_Limited_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Wiki_cars_263.jpg/1280px-Wiki_cars_263.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1s/fq/0x36mau8cckocggwc4ss8/sebring-3-cabrio.310.jpg"
+        }
+      }
+    ],
+    "Stratus": [
+      {
+        "BrandID": 30,
+        "ModelID": 413802,
+        "Brand Name": "Chrysler",
+        "Model Name": "Stratus",
+        "Serie Name": "Stratus (1st Gen)",
+        "Years": "1995 - 2000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L / 2.4L / 2.5L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler Stratus (1. gen) to sedan typu 'cab-forward', następca modelu LeBaron, znany w Europie jako Chrysler Stratus.",
+              "en": "The Chrysler Stratus (1st generation) is a cab-forward sedan, the successor to the LeBaron model, known in Europe as the Chrysler Stratus.",
+              "de": "Der Chrysler Stratus (1. Generation) ist eine Cab-Forward-Limousine, der Nachfolger des LeBaron-Modells, in Europa als Chrysler Stratus bekannt.",
+              "uk": "Chrysler Stratus (1-е покоління) — седан з кабіною вперед, наступник моделі LeBaron, відомої в Європі як Chrysler Stratus.",
+              "ru": "Chrysler Stratus (1-е поколение) — седан с выдвинутой вперед кабиной, преемник модели LeBaron, известной в Европе как Chrysler Stratus.",
+              "zh": "克莱斯勒 Stratus（第一代）是一款“驾驶室前移”轿车，是 LeBaron 车型的后继车型，在欧洲被称为克莱斯勒 Stratus。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "1995–2000",
+              "miejsce produkcji": {
+                "pl": "Sterling Heights, USA",
+                "en": "Sterling Heights, USA",
+                "de": "Sterling Heights, USA",
+                "uk": "Стерлінг Хайтс, США",
+                "ru": "Стерлинг-Хайтс, США",
+                "zh": "美国斯特林高地"
+              },
+              "platforma": {
+                "pl": "Chrysler JA",
+                "en": "Chrysler JA",
+                "de": "Chrysler JA",
+                "uk": "Chrysler JA",
+                "ru": "Крайслер Дж.А.",
+                "zh": "克莱斯勒 JA"
+              },
+              "silnik": {
+                "pl": "2.0L - 2.5L V6",
+                "en": "2.0L - 2.5L V6",
+                "de": "2,0 l–2,5 l V6",
+                "uk": "2,0 л - 2,5 л V6",
+                "ru": "2,0–2,5 л V6",
+                "zh": "2.0L - 2.5L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9r/0p/b9awxxwc4ks884gks8o84/stratus-cabrio.310.jpg"
+        }
+      },
+      {
+        "BrandID": 30,
+        "ModelID": 413803,
+        "Brand Name": "Chrysler",
+        "Model Name": "Stratus",
+        "Serie Name": "Stratus (Coupe)",
+        "Years": "2001 - 2005",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L / 3.0L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler Stratus (Coupe) to sportowe coupe oparte na platformie Mitsubishi Eclipse, produkowane w USA.",
+              "en": "The Chrysler Stratus (Coupe) is a sports coupe based on the Mitsubishi Eclipse platform, produced in the USA.",
+              "de": "Der Chrysler Stratus (Coupé) ist ein Sportcoupé auf Basis der Mitsubishi Eclipse-Plattform, das in den USA hergestellt wird.",
+              "uk": "Chrysler Stratus (Coupe) — спортивне купе на платформі Mitsubishi Eclipse, що випускається в США.",
+              "ru": "Chrysler Stratus (Купе) — спортивное купе на платформе Mitsubishi Eclipse, выпускаемое в США.",
+              "zh": "克莱斯勒 Stratus（轿跑车）是一款基于三菱 Eclipse 平台的运动轿跑车，在美国生产。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "2001–2005",
+              "miejsce produkcji": {
+                "pl": "Normal, USA",
+                "en": "Normal, USA",
+                "de": "Normal, USA",
+                "uk": "Нормальний, США",
+                "ru": "Нормал, США",
+                "zh": "普通，美国"
+              },
+              "platforma": {
+                "pl": "Mitsubishi PS",
+                "en": "Mitsubishi P.S",
+                "de": "Mitsubishi P.S",
+                "uk": "Mitsubishi P.S",
+                "ru": "Митсубиси П.С.",
+                "zh": "三菱 PS"
+              },
+              "silnik": {
+                "pl": "2.4L - 3.0L V6",
+                "en": "2.4L - 3.0L V6",
+                "de": "2,4 l – 3,0 l V6",
+                "uk": "2,4 л - 3,0 л V6",
+                "ru": "2,4–3,0 л V6",
+                "zh": "2.4L - 3.0L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9r/0p/b9awxxwc4ks884gks8o84/stratus-cabrio.310.jpg"
+        }
+      }
+    ],
+    "TC by Maserati": [
+      {
+        "BrandID": 30,
+        "ModelID": 416683,
+        "Brand Name": "Chrysler",
+        "Model Name": "TC by Maserati",
+        "Serie Name": "TC",
+        "Years": "1989 - 1991",
+        "specs": {
+          "bodyType": "Convertible",
+          "segment": "Luxury Grand Tourer",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.2L Turbo / 3.0L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler TC by Maserati to luksusowy kabriolet powstały we współpracy z włoską marką. Rzadki i kolekcjonerski.",
+              "en": "Chrysler TC by Maserati is a luxurious convertible created in cooperation with the Italian brand. Rare and collectible.",
+              "de": "Der Chrysler TC von Maserati ist ein luxuriöses Cabriolet, das in Zusammenarbeit mit der italienischen Marke entwickelt wurde. Selten und sammelwürdig.",
+              "uk": "Chrysler TC від Maserati - розкішний кабріолет, створений у співпраці з італійським брендом. Рідкісні та колекційні.",
+              "ru": "Chrysler TC от Maserati — роскошный кабриолет, созданный в сотрудничестве с итальянским брендом. Редкий и коллекционный.",
+              "zh": "玛莎拉蒂克莱斯勒 TC 是与意大利品牌合作打造的豪华敞篷车。稀有且具有收藏价值。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler / Maserati",
+                "en": "Chrysler/Maserati",
+                "de": "Chrysler/Maserati",
+                "uk": "Chrysler/Maserati",
+                "ru": "Крайслер/Мазерати",
+                "zh": "克莱斯勒/玛莎拉蒂"
+              },
+              "okres produkcji": "1989–1991",
+              "miejsce produkcji": {
+                "pl": "Mediolan, Włochy",
+                "en": "Milan, Italy",
+                "de": "Mailand, Italien",
+                "uk": "Мілан, Італія",
+                "ru": "Милан, Италия",
+                "zh": "意大利米兰"
+              },
+              "platforma": {
+                "pl": "Chrysler Q",
+                "en": "Chrysler Q",
+                "de": "Chrysler Q",
+                "uk": "Chrysler Q",
+                "ru": "Крайслер Кью",
+                "zh": "克莱斯勒 Q"
+              },
+              "silnik": {
+                "pl": "2.2L Turbo / 3.0L V6",
+                "en": "2.2L Turbo/3.0L V6",
+                "de": "2,2 l Turbo/3,0 l V6",
+                "uk": "2.2L Turbo/3.0L V6",
+                "ru": "2,2 л турбо/3,0 л V6",
+                "zh": "2.2L Turbo / 3.0L V6"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Town & Country": [
+      {
+        "BrandID": 30,
+        "ModelID": 413097,
+        "Brand Name": "Chrysler",
+        "Model Name": "Town & Country",
+        "Serie Name": "Town & Country (3rd Gen)",
+        "Years": "1996 - 2000",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Minivan",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.3L V6 / 3.8L V6",
+          "isOldtimer": true,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler Town & Country (3. gen) to luksusowa wersja Voyagera, definiująca segment premium wśród minivanów.",
+              "en": "Chrysler Town & Country (3rd generation) is a luxurious version of Voyager, defining the premium segment among minivans.",
+              "de": "Chrysler Town & Country (3. Generation) ist eine luxuriöse Version des Voyager und definiert das Premiumsegment unter den Minivans.",
+              "uk": "Chrysler Town & Country (3 покоління) - розкішна версія Voyager, що визначає преміальний сегмент серед мінівенів.",
+              "ru": "Chrysler Town & Country (3-е поколение) — роскошная версия Voyager, определяющая премиальный сегмент среди минивэнов.",
+              "zh": "克莱斯勒 Town & Country（第三代）是 Voyager 的豪华版本，定义了小型货车中的高端细分市场。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "1996–2000",
+              "miejsce produkcji": {
+                "pl": "St. Louis, USA",
+                "en": "St. Louis, USA",
+                "de": "St. Louis, USA",
+                "uk": "Сент-Луїс, США",
+                "ru": "Сент-Луис, США",
+                "zh": "美国圣路易斯"
+              },
+              "platforma": {
+                "pl": "Chrysler NS",
+                "en": "Chrysler NS",
+                "de": "Chrysler NS",
+                "uk": "Chrysler NS",
+                "ru": "Крайслер НС",
+                "zh": "克莱斯勒 NS"
+              },
+              "silnik": {
+                "pl": "3.3L - 3.8L V6",
+                "en": "3.3L - 3.8L V6",
+                "de": "3,3 l–3,8 l V6",
+                "uk": "3,3 л - 3,8 л V6",
+                "ru": "3,3–3,8 л V6",
+                "zh": "3.3L - 3.8L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/et/d2/novjtv4s4wg0ogwos888w/town-5.310.jpg"
+        }
+      },
+      {
+        "BrandID": 30,
+        "ModelID": 413098,
+        "Brand Name": "Chrysler",
+        "Model Name": "Town & Country",
+        "Serie Name": "Town & Country (4th Gen)",
+        "Years": "2001 - 2007",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Minivan",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.3L V6 / 3.8L V6",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler Town & Country (4. gen) wprowadził elektrycznie otwieraną klapę bagażnika i drzwi boczne.",
+              "en": "Chrysler Town & Country (4th gen) introduced power liftgate and side doors.",
+              "de": "Chrysler Town & Country (4. Generation) führte elektrische Heckklappe und Seitentüren ein.",
+              "uk": "Chrysler Town & Country (4-го покоління) представив двері підйому та бічні двері з електроприводом.",
+              "ru": "Chrysler Town & Country (4-го поколения) представил заднюю дверь с электроприводом и боковые двери.",
+              "zh": "克莱斯勒 Town & Country（第四代）推出电动行李箱盖和侧门。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "2001–2007",
+              "miejsce produkcji": {
+                "pl": "St. Louis, USA",
+                "en": "St. Louis, USA",
+                "de": "St. Louis, USA",
+                "uk": "Сент-Луїс, США",
+                "ru": "Сент-Луис, США",
+                "zh": "美国圣路易斯"
+              },
+              "platforma": {
+                "pl": "Chrysler RS",
+                "en": "Chrysler RS",
+                "de": "Chrysler RS",
+                "uk": "Chrysler RS",
+                "ru": "Крайслер РС",
+                "zh": "克莱斯勒 RS"
+              },
+              "silnik": {
+                "pl": "3.3L - 3.8L V6",
+                "en": "3.3L - 3.8L V6",
+                "de": "3,3 l–3,8 l V6",
+                "uk": "3,3 л - 3,8 л V6",
+                "ru": "3,3–3,8 л V6",
+                "zh": "3.3L - 3.8L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/et/d2/novjtv4s4wg0ogwos888w/town-5.310.jpg"
+        }
+      },
+      {
+        "BrandID": 30,
+        "ModelID": 413099,
+        "Brand Name": "Chrysler",
+        "Model Name": "Town & Country",
+        "Serie Name": "Town & Country (5th Gen)",
+        "Years": "2008 - 2016",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Minivan",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "3.3L V6 - 4.0L V6",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler Town & Country (5. gen) to ostatnia generacja przed następcą Pacifica, oferująca system Swivel'n Go.",
+              "en": "Chrysler Town & Country (5th generation) is the last generation before the successor Pacifica, offering the Swivel'n Go system.",
+              "de": "Chrysler Town & Country (5. Generation) ist die letzte Generation vor dem Nachfolger Pacifica und bietet das Swivel'n Go-System.",
+              "uk": "Chrysler Town & Country (5 покоління) є останнім поколінням перед наступником Pacifica, що пропонує систему Swivel'n Go.",
+              "ru": "Chrysler Town & Country (5-е поколение) - последнее поколение перед преемником Pacifica, предлагающее систему Swivel'n Go.",
+              "zh": "克莱斯勒 Town & Country（第 5 代）是继任者 Pacifica 之前的最后一代，提供 Swivel'n Go 系统。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "2008–2016",
+              "miejsce produkcji": {
+                "pl": "Windsor, Kanada",
+                "en": "Windsor, Canada",
+                "de": "Windsor, Kanada",
+                "uk": "Віндзор, Канада",
+                "ru": "Виндзор, Канада",
+                "zh": "加拿大温莎"
+              },
+              "platforma": {
+                "pl": "Chrysler RT",
+                "en": "Chrysler RT",
+                "de": "Chrysler RT",
+                "uk": "Chrysler RT",
+                "ru": "Крайслер РТ",
+                "zh": "克莱斯勒 RT"
+              },
+              "silnik": {
+                "pl": "3.3L - 4.0L V6",
+                "en": "3.3L - 4.0L V6",
+                "de": "3,3 l – 4,0 l V6",
+                "uk": "3,3 л - 4,0 л V6",
+                "ru": "3,3–4,0 л V6",
+                "zh": "3.3L - 4.0L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/et/d2/novjtv4s4wg0ogwos888w/town-5.310.jpg"
+        }
+      }
+    ],
+    "Vision": [
+      {
+        "BrandID": 30,
+        "ModelID": 415378,
+        "Brand Name": "Chrysler",
+        "Model Name": "Vision",
+        "Serie Name": "Vision",
+        "Years": "1993 - 1997",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler Vision to europejska wersja modelu Eagle Vision, sportowego sedana na platformie LH.",
+              "en": "Chrysler Vision is the European version of the Eagle Vision, a sports sedan on the LH platform.",
+              "de": "Chrysler Vision ist die europäische Version des Eagle Vision, einer Sportlimousine auf der LH-Plattform.",
+              "uk": "Chrysler Vision — європейська версія спортивного седана Eagle Vision на платформі LH.",
+              "ru": "Chrysler Vision — европейская версия Eagle Vision, спортивного седана на платформе LH.",
+              "zh": "克莱斯勒 Vision 是 Eagle Vision 的欧洲版本，是 LH 平台上的运动轿车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "1993–1997",
+              "miejsce produkcji": {
+                "pl": "Brampton, Kanada",
+                "en": "Brampton, Canada",
+                "de": "Brampton, Kanada",
+                "uk": "Брамптон, Канада",
+                "ru": "Брэмптон, Канада",
+                "zh": "加拿大布兰普顿"
+              },
+              "platforma": {
+                "pl": "Chrysler LH",
+                "en": "Chrysler LH",
+                "de": "Chrysler LH",
+                "uk": "Chrysler LH",
+                "ru": "Крайслер ЛХ",
+                "zh": "克莱斯勒 LH"
+              },
+              "silnik": {
+                "pl": "3.5L V6",
+                "en": "3.5L V6",
+                "de": "3,5L V6",
+                "uk": "3,5 л V6",
+                "ru": "3,5 л V6",
+                "zh": "3.5L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/c4/qk/7f174vcoosko8c44k0k0k/vision.310.jpg"
+        }
+      }
+    ],
+    "Voyager": [
+      {
+        "BrandID": 30,
+        "ModelID": 414087,
+        "Brand Name": "Chrysler",
+        "Model Name": "Voyager",
+        "Serie Name": "Voyager (1st-3rd Gen)",
+        "Years": "1984 - 2000",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Minivan",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.2L - 3.8L V6",
+          "isOldtimer": true,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler Voyager (1-3 gen) to pionier segmentu minivanów w Europie, oferujący przestronność i komfort.",
+              "en": "Chrysler Voyager (1-3 gen) is a pioneer of the minivan segment in Europe, offering space and comfort.",
+              "de": "Chrysler Voyager (1.-3. Generation) ist ein Pionier des Minivan-Segments in Europa und bietet Platz und Komfort.",
+              "uk": "Chrysler Voyager (1-3 покоління) є піонером сегменту мінівенів у Європі, що пропонує простір і комфорт.",
+              "ru": "Chrysler Voyager (1-3 поколения) — пионер сегмента минивэнов в Европе, предлагающий простор и комфорт.",
+              "zh": "克莱斯勒 Voyager（第 1-3 代）是欧洲小型货车市场的先驱，提供空间和舒适性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "1984–2000",
+              "miejsce produkcji": {
+                "pl": "Graz, Austria",
+                "en": "Graz, Austria",
+                "de": "Graz, Österreich",
+                "uk": "Грац, Австрія",
+                "ru": "Грац, Австрия",
+                "zh": "奥地利格拉茨"
+              },
+              "platforma": {
+                "pl": "Chrysler S/AS/NS",
+                "en": "Chrysler S/AS/NS",
+                "de": "Chrysler S/AS/NS",
+                "uk": "Chrysler S/AS/NS",
+                "ru": "Крайслер С/АС/НС",
+                "zh": "克莱斯勒 S/AS/NS"
+              },
+              "silnik": {
+                "pl": "2.2L - 3.8L V6",
+                "en": "2.2L - 3.8L V6",
+                "de": "2,2 l – 3,8 l V6",
+                "uk": "2,2-3,8 л V6",
+                "ru": "2,2–3,8 л V6",
+                "zh": "2.2L - 3.8L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9x/mn/dxuvh8o4c88w8kwgwc0w0/town-4.310.jpg"
+        }
+      },
+      {
+        "BrandID": 30,
+        "ModelID": 413100,
+        "Brand Name": "Chrysler",
+        "Model Name": "Voyager",
+        "Serie Name": "Voyager (4th-5th Gen)",
+        "Years": "2001 - 2016",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Minivan",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.4L - 3.8L V6 / 2.5L-2.8L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Chrysler Voyager (4-5 gen) kontynuował sukces w Europie, oferując silniki diesla VM Motori.",
+              "en": "The Chrysler Voyager (4-5 gen) continued its success in Europe with VM Motori diesel engines.",
+              "de": "Der Chrysler Voyager (4.-5. Generation) setzte seinen Erfolg in Europa mit Dieselmotoren von VM Motori fort.",
+              "uk": "Chrysler Voyager (4-5 покоління) продовжив свій успіх у Європі з дизельними двигунами VM Motori.",
+              "ru": "Chrysler Voyager (4-5 поколения) продолжил свой успех в Европе с дизельными двигателями VM Motori.",
+              "zh": "克莱斯勒 Voyager（第 4-5 代）凭借 VM Motori 柴油发动机继续在欧洲取得成功。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": "2001–2016",
+              "miejsce produkcji": {
+                "pl": "Graz, Austria",
+                "en": "Graz, Austria",
+                "de": "Graz, Österreich",
+                "uk": "Грац, Австрія",
+                "ru": "Грац, Австрия",
+                "zh": "奥地利格拉茨"
+              },
+              "platforma": {
+                "pl": "Chrysler RS/RT",
+                "en": "Chrysler RS/RT",
+                "de": "Chrysler RS/RT",
+                "uk": "Chrysler RS/RT",
+                "ru": "Крайслер РС/РТ",
+                "zh": "克莱斯勒 RS/RT"
+              },
+              "silnik": {
+                "pl": "2.5L Diesel - 3.8L V6",
+                "en": "2.5L Diesel - 3.8L V6",
+                "de": "2,5 l Diesel – 3,8 l V6",
+                "uk": "2,5 л дизель - 3,8 л V6",
+                "ru": "Дизель 2,5 л — V6 3,8 л",
+                "zh": "2.5L 柴油机 - 3.8L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9x/mn/dxuvh8o4c88w8kwgwc0w0/town-4.310.jpg"
+        }
+      },
+      {
+        "BrandID": 30,
+        "ModelID": 416685,
+        "Brand Name": "Chrysler",
+        "Model Name": "Voyager",
+        "Serie Name": "Voyager (6th Gen)",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Minivan",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "3.6L V6",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Chrysler Voyager (6. gen) to budżetowa wersja modelu Pacifica, skierowana do flot i rodzin szukających oszczędności.",
+              "en": "Chrysler Voyager (6th generation) is a budget version of the Pacifica, aimed at fleets and families looking for savings.",
+              "de": "Chrysler Voyager (6. Generation) ist eine Budgetversion des Pacifica, die sich an Flotten und Familien richtet, die auf der Suche nach Ersparnissen sind.",
+              "uk": "Chrysler Voyager (6-е покоління) — це бюджетна версія Pacifica, призначена для автопарків і сімей, які шукають економії.",
+              "ru": "Chrysler Voyager (6-е поколение) — бюджетная версия Pacifica, предназначенная для автопарков и семей, стремящихся сэкономить.",
+              "zh": "克莱斯勒 Voyager（第 6 代）是 Pacifica 的经济型版本，针对寻求节省的车队和家庭。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chrysler",
+                "en": "Chrysler",
+                "de": "Chrysler",
+                "uk": "Chrysler",
+                "ru": "Крайслер"
+              },
+              "okres produkcji": {
+                "pl": "od 2020",
+                "en": "from 2020",
+                "de": "ab 2020",
+                "uk": "з 2020 року",
+                "ru": "с 2020 года",
+                "zh": "2020 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Windsor, Kanada",
+                "en": "Windsor, Canada",
+                "de": "Windsor, Kanada",
+                "uk": "Віндзор, Канада",
+                "ru": "Виндзор, Канада",
+                "zh": "加拿大温莎"
+              },
+              "platforma": {
+                "pl": "Chrysler RU",
+                "en": "Chrysler RU",
+                "de": "Chrysler RU",
+                "uk": "Chrysler RU",
+                "ru": "Крайслер РУ",
+                "zh": "克莱斯勒 RU"
+              },
+              "silnik": {
+                "pl": "3.6L V6",
+                "en": "3.6L V6",
+                "de": "3,6 l V6",
+                "uk": "3,6 л V6",
+                "ru": "3,6 л V6",
+                "zh": "3.6L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9x/mn/dxuvh8o4c88w8kwgwc0w0/town-4.310.jpg"
+        }
+      }
+    ]
+  }
+}

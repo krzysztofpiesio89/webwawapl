@@ -1,0 +1,98 @@
+{
+  "brand": "Dennis",
+  "models": {
+    "Eagle": [
+      {
+        "BrandID": 198,
+        "ModelID": 415811,
+        "Brand Name": "Dennis",
+        "Model Name": "Eagle",
+        "Serie Name": "Eagle",
+        "Years": "2000 - 3000",
+        "specs": {
+          "bodyType": "Truck",
+          "segment": "Refuse Truck",
+          "drive": "RWD",
+          "fuel": "Diesel/CNG/Electric",
+          "engine": "Diesel / Electric",
+          "isOldtimer": false,
+          "vehicleType": "Truck"
+        }
+      }
+    ],
+    "Elite": [
+      {
+        "BrandID": 198,
+        "ModelID": 415620,
+        "Brand Name": "Dennis",
+        "Model Name": "Elite",
+        "Serie Name": "Elite 2",
+        "Years": "2003 - 2010",
+        "specs": {
+          "bodyType": "Truck",
+          "segment": "Refuse Truck",
+          "drive": "RWD",
+          "fuel": "Diesel",
+          "engine": "Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Truck"
+        }
+      },
+      {
+        "BrandID": 198,
+        "ModelID": 416750,
+        "Brand Name": "Dennis",
+        "Model Name": "Elite",
+        "Serie Name": "Elite 6",
+        "Years": "2013 - 3000",
+        "specs": {
+          "bodyType": "Truck",
+          "segment": "Refuse Truck",
+          "drive": "RWD",
+          "fuel": "Diesel/CNG",
+          "engine": "Diesel / CNG",
+          "isOldtimer": false,
+          "vehicleType": "Truck"
+        }
+      }
+    ],
+    "Javelin": [
+      {
+        "BrandID": 198,
+        "ModelID": 416751,
+        "Brand Name": "Dennis",
+        "Model Name": "Javelin",
+        "Serie Name": "Javelin",
+        "Years": "1987 - 2005",
+        "specs": {
+          "bodyType": "Bus",
+          "segment": "Coach/Bus",
+          "drive": "RWD",
+          "fuel": "Diesel",
+          "engine": "Cummins Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "Dart": [
+      {
+        "BrandID": 198,
+        "ModelID": 416752,
+        "Brand Name": "Dennis",
+        "Model Name": "Dart",
+        "Serie Name": "Dart SLF",
+        "Years": "1993 - 2007",
+        "specs": {
+          "bodyType": "Bus",
+          "segment": "City Bus",
+          "drive": "RWD",
+          "fuel": "Diesel",
+          "engine": "Cummins Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Passenger"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "brand": "Omoda",
+  "models": {
+    "Omoda 5": [
+      {
+        "BrandID": 300,
+        "ModelID": 500001,
+        "Brand Name": "Omoda",
+        "Model Name": "Omoda 5",
+        "Serie Name": "Omoda 5",
+        "Years": "2022 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Electric",
+          "engine": "1.5T / 1.6T / EV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Omoda 5 to futurystyczny SUV crossover, który łączy odważny design z zaawansowaną technologią. Model ten jest częścią ekspansji koncernu Chery na rynki globalne.",
+              "en": "Omoda 5 is a futuristic crossover SUV that combines bold design with advanced technology. This model is part of Chery's expansion into global markets.",
+              "de": "Omoda 5 ist ein futuristischer Crossover-SUV, der kühnes Design mit fortschrittlicher Technologie verbindet. Dieses Modell ist Teil von Cherys Expansion in globale Märkte.",
+              "uk": "Omoda 5 — це футуристичний позашляховик-кросовер, який поєднує в собі сміливий дизайн із передовими технологіями. Ця модель є частиною експансії Chery на світові ринки.",
+              "ru": "Omoda 5 — футуристический кроссовер-внедорожник, сочетающий в себе смелый дизайн и передовые технологии. Эта модель является частью экспансии Chery на мировые рынки.",
+              "zh": "Omoda 5是一款未来派跨界SUV，将大胆的设计与先进的技术相结合。该车型是奇瑞进军全球市场的一部分。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chery"
+              },
+              "okres produkcji": {
+                "pl": "od 2022",
+                "en": "from 2022",
+                "de": "ab 2022",
+                "uk": "з 2022 року",
+                "ru": "с 2022 года",
+                "zh": "2022 年起"
+              },
+              "segment": {
+                "pl": "C-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Omoda E5": [
+      {
+        "BrandID": 300,
+        "ModelID": 500002,
+        "Brand Name": "Omoda",
+        "Model Name": "Omoda E5",
+        "Serie Name": "Omoda E5",
+        "Years": "2023 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD",
+          "fuel": "Electric",
+          "engine": "Electric Motor 150kW",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Omoda E5 to w pełni elektryczna wersja crossovera Omoda 5, oferująca zasięg ponad 400 km i nowoczesne systemy wspomagania kierowcy.",
+              "en": "Omoda E5 is a fully electric version of the Omoda 5 crossover, offering a range of over 400 km and modern driver assistance systems.",
+              "de": "Omoda E5 ist eine vollelektrische Version des Omoda 5 Crossovers, die eine Reichweite von über 400 km und moderne Fahrerassistenzsysteme bietet.",
+              "uk": "Omoda E5 — це повністю електрична версія кросовера Omoda 5 із запасом ходу понад 400 км і сучасними системами допомоги водієві.",
+              "ru": "Omoda E5 — полностью электрическая версия кроссовера Omoda 5, предлагающая запас хода более 400 км и современные системы помощи водителю.",
+              "zh": "Omoda E5 是 Omoda 5 跨界车的全电动版本，续航里程超过 400 公里，并配备现代驾驶员辅助系统。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chery"
+              },
+              "okres produkcji": {
+                "pl": "od 2023",
+                "en": "from 2023",
+                "de": "ab 2023",
+                "uk": "з 2023 року",
+                "ru": "с 2023 года",
+                "zh": "2023 年起"
+              },
+              "silnik": {
+                "pl": "Elektryczny"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

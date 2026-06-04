@@ -1,0 +1,324 @@
+{
+  "brand": "Lifan",
+  "models": {
+    "": [
+      {
+        "BrandID": 178,
+        "ModelID": "",
+        "Brand Name": "Lifan",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lifan to chiński producent samochodów i motocykli, oferujący niedrogie pojazdy miejskie i SUV-y.",
+              "en": "Lifan is a Chinese car and motorcycle manufacturer offering affordable city vehicles and SUVs.",
+              "de": "Lifan ist ein chinesischer Auto- und Motorradhersteller, der erschwingliche Stadtfahrzeuge und SUVs anbietet.",
+              "uk": "Lifan — китайський виробник автомобілів і мотоциклів, що пропонує доступні міські автомобілі та позашляховики.",
+              "ru": "Lifan — китайский производитель автомобилей и мотоциклов, предлагающий доступные городские автомобили и внедорожники.",
+              "zh": "力帆是一家中国汽车和摩托车制造商，提供价格实惠的城市车辆和 SUV。"
+            }
+          }
+        }
+      }
+    ],
+    "Breez": [
+      {
+        "BrandID": 178,
+        "ModelID": 413882,
+        "Brand Name": "Lifan",
+        "Model Name": "Breez",
+        "Serie Name": "Breez",
+        "Years": "2006 - 2014",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lifan Breez (520) to pierwszy samochód osobowy marki, kompaktowy sedan o prostej konstrukcji.",
+              "en": "Lifan Breez (520) is the brand's first passenger car, a compact sedan with a simple design.",
+              "de": "Lifan Breez (520) ist der erste Pkw der Marke, eine kompakte Limousine mit schlichtem Design.",
+              "uk": "Lifan Breez (520) — перший легковий автомобіль марки, компактний седан із простим дизайном.",
+              "ru": "Lifan Breez (520) — первый легковой автомобиль марки, компактный седан с простым дизайном.",
+              "zh": "力帆Breez（520）是该品牌的首款乘用车，一款设计简约的紧凑型轿车。"
+            }
+          }
+        }
+      }
+    ],
+    "Cebrium": [
+      {
+        "BrandID": 178,
+        "ModelID": 415270,
+        "Brand Name": "Lifan",
+        "Model Name": "Cebrium",
+        "Serie Name": "Cebrium",
+        "Years": "2012 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lifan Cebrium (720) to sedan klasy średniej, oferujący przestronne wnętrze w niskiej cenie.",
+              "en": "Lifan Cebrium (720) is a mid-class sedan offering a spacious interior at a low price.",
+              "de": "Lifan Cebrium (720) ist eine Mittelklasselimousine, die einen geräumigen Innenraum zu einem günstigen Preis bietet.",
+              "uk": "Lifan Cebrium (720) — седан середнього класу з просторим салоном за невисоку ціну.",
+              "ru": "Lifan Cebrium (720) — седан среднего класса, предлагающий просторный салон по невысокой цене.",
+              "zh": "力帆Cebrium（720）是一款中级轿车，内部空间宽敞，价格低廉。"
+            }
+          }
+        }
+      }
+    ],
+    "Murman": [
+      {
+        "BrandID": 178,
+        "ModelID": 415200,
+        "Brand Name": "Lifan",
+        "Model Name": "Murman",
+        "Serie Name": "Murman",
+        "Years": "2015 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lifan Murman (820) to flagowa limuzyna marki, aspirująca do segmentu biznesowego.",
+              "en": "Lifan Murman (820) is the brand's flagship limousine, aspiring to the business segment.",
+              "de": "Lifan Murman (820) ist die Flaggschiff-Limousine der Marke und strebt das Business-Segment an.",
+              "uk": "Lifan Murman (820) — флагманський лімузин бренду, що прагне до бізнес-сегменту.",
+              "ru": "Lifan Murman (820) – флагманский лимузин бренда, стремящийся в бизнес-сегмент.",
+              "zh": "力帆Murman（820）是该品牌的旗舰豪华轿车，致力于进军商务领域。"
+            }
+          }
+        }
+      }
+    ],
+    "Myway": [
+      {
+        "BrandID": 178,
+        "ModelID": 414228,
+        "Brand Name": "Lifan",
+        "Model Name": "Myway",
+        "Serie Name": "Myway",
+        "Years": "2016 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lifan Myway to 7-osobowy SUV z napędem na tylną oś, popularny na rynkach wschodzących.",
+              "en": "Lifan Myway is a 7-seater rear-wheel drive SUV popular in emerging markets.",
+              "de": "Lifan Myway ist ein 7-Sitzer-SUV mit Hinterradantrieb, der in Schwellenländern beliebt ist.",
+              "uk": "Lifan Myway — 7-місний позашляховик із заднім приводом, популярний на ринках, що розвиваються.",
+              "ru": "Lifan Myway — 7-местный заднеприводный внедорожник, популярный на развивающихся рынках.",
+              "zh": "力帆Myway是一款深受新兴市场欢迎的7座后轮驱动SUV。"
+            }
+          }
+        }
+      }
+    ],
+    "Smily": [
+      {
+        "BrandID": 178,
+        "ModelID": 414227,
+        "Brand Name": "Lifan",
+        "Model Name": "Smily",
+        "Serie Name": "Smily",
+        "Years": "1980 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lifan Smily (320) to małe auto miejskie, którego stylistyka nawiązuje do modelu MINI Cooper.",
+              "en": "Lifan Smily (320) is a small city car whose style refers to the MINI Cooper model.",
+              "de": "Lifan Smily (320) ist ein kleines Stadtauto, dessen Stil sich an das MINI Cooper-Modell erinnert.",
+              "uk": "Lifan Smily (320) — невеликий міський автомобіль, стиль якого відсилає до моделі MINI Cooper.",
+              "ru": "Lifan Smily (320) — небольшой городской автомобиль, стиль которого отсылает к модели MINI Cooper.",
+              "zh": "力帆Smily（320）是一款小型城市汽车，其风格参考了MINI Cooper车型。"
+            }
+          }
+        }
+      }
+    ],
+    "Solano": [
+      {
+        "BrandID": 178,
+        "ModelID": 414226,
+        "Brand Name": "Lifan",
+        "Model Name": "Solano",
+        "Serie Name": "Solano",
+        "Years": "1980 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lifan Solano (620) to popularny sedan kompaktowy, często wykorzystywany jako taksówka w Rosji i Chinach.",
+              "en": "Lifan Solano (620) is a popular compact sedan, often used as a taxi in Russia and China.",
+              "de": "Lifan Solano (620) ist eine beliebte Kompaktlimousine, die in Russland und China häufig als Taxi eingesetzt wird.",
+              "uk": "Lifan Solano (620) - популярний компактний седан, часто використовується в якості таксі в Росії і Китаї.",
+              "ru": "Lifan Solano (620) — популярный компактный седан, часто используемый в качестве такси в России и Китае.",
+              "zh": "力帆 Solano (620) 是一款流行的紧凑型轿车，在俄罗斯和中国经常用作出租车。"
+            }
+          }
+        }
+      }
+    ],
+    "X50": [
+      {
+        "BrandID": 178,
+        "ModelID": 414224,
+        "Brand Name": "Lifan",
+        "Model Name": "X50",
+        "Serie Name": "X50",
+        "Years": "2016 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Segment E-SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lifan X50 to miejski crossover o podwyższonym zawieszeniu i dynamicznej sylwetce.",
+              "en": "Lifan X50 is an urban crossover with raised suspension and a dynamic silhouette.",
+              "de": "Lifan X50 ist ein urbaner Crossover mit erhöhter Federung und dynamischer Silhouette.",
+              "uk": "Lifan X50 — міський кросовер із піднятою підвіскою та динамічним силуетом.",
+              "ru": "Lifan X50 — городской кроссовер с приподнятой подвеской и динамичным силуэтом.",
+              "zh": "力帆X50是一款城市跨界车，具有升高的悬架和动感的轮廓。"
+            }
+          }
+        }
+      }
+    ],
+    "x60": [
+      {
+        "BrandID": 178,
+        "ModelID": 414225,
+        "Brand Name": "Lifan",
+        "Model Name": "x60",
+        "Serie Name": "x60",
+        "Years": "1980 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Segment E-SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lifan X60 to najpopularniejszy SUV marki, oferujący przestronne wnętrze i dobrą widoczność.",
+              "en": "Lifan X60 is the brand's most popular SUV, offering a spacious interior and good visibility.",
+              "de": "Der Lifan X60 ist der beliebteste SUV der Marke und bietet einen geräumigen Innenraum und gute Sicht.",
+              "uk": "Lifan X60 — найпопулярніший позашляховик марки, який пропонує просторий салон і гарну оглядовість.",
+              "ru": "Lifan X60 — самый популярный внедорожник марки, предлагающий просторный салон и хорошую обзорность.",
+              "zh": "力帆X60是该品牌最受欢迎的SUV，拥有宽敞的内部空间和良好的视野。"
+            }
+          }
+        }
+      }
+    ],
+    "X70": [
+      {
+        "BrandID": 178,
+        "ModelID": 415113,
+        "Brand Name": "Lifan",
+        "Model Name": "X70",
+        "Serie Name": "X70",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Segment F-SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lifan X70 to następca modelu X60, nowocześniejszy i lepiej wyposażony kompaktowy SUV.",
+              "en": "Lifan X70 is the successor to the X60 model, a more modern and better-equipped compact SUV.",
+              "de": "Lifan X70 ist der Nachfolger des X60-Modells, eines moderneren und besser ausgestatteten Kompakt-SUV.",
+              "uk": "Lifan X70 є наступником моделі X60, більш сучасним і краще оснащеним компактним SUV.",
+              "ru": "Lifan X70 — преемник модели X60, более современный и лучше оснащенный компактный внедорожник.",
+              "zh": "力帆X70是X60车型的后继车型，是一款更现代、装备更精良的紧凑型SUV。"
+            }
+          }
+        }
+      }
+    ],
+    "Сelliya": [
+      {
+        "BrandID": 178,
+        "ModelID": 414223,
+        "Brand Name": "Lifan",
+        "Model Name": "Сelliya",
+        "Serie Name": "Сelliya",
+        "Years": "2014 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lifan Celliya (530) to sedan segmentu B, następcą modelu Breez.",
+              "en": "Lifan Celliya (530) is a B-segment sedan, the successor to the Breez model.",
+              "de": "Lifan Celliya (530) ist eine B-Segment-Limousine, der Nachfolger des Breez-Modells.",
+              "uk": "Lifan Celliya (530) — седан B-сегменту, спадкоємець моделі Breez.",
+              "ru": "Lifan Celliya (530) — седан B-сегмента, преемник модели Breez.",
+              "zh": "力帆Celliya（530）是一款B级轿车，是Breez车型的后继产品。"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

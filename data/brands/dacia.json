@@ -1,0 +1,1297 @@
+{
+  "brand": "Dacia",
+  "models": {
+    "1300": [
+      {
+        "BrandID": 32,
+        "ModelID": 416700,
+        "Brand Name": "Dacia",
+        "Model Name": "1300",
+        "Serie Name": "1300",
+        "Years": "1969 - 1984",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Classic Family Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.3L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dacia 1300 to licencyjna wersja Renault 12, produkowana przez dekady. Symbol motoryzacji w Rumunii w czasach komunizmu.",
+              "en": "The Dacia 1300 is a licensed version of the Renault 12, produced for decades. A symbol of motorization in Romania during communism.",
+              "de": "Der Dacia 1300 ist eine lizenzierte Version des Renault 12, die seit Jahrzehnten produziert wird. Ein Symbol der Motorisierung in Rumänien während des Kommunismus.",
+              "uk": "Dacia 1300 — це ліцензійна версія Renault 12, яка випускалася десятиліттями. Символ автомобілізації в Румунії під час комунізму.",
+              "ru": "Dacia 1300 — это лицензионная версия Renault 12, выпускаемая десятилетиями. Символ автомобилизации в Румынии во времена коммунизма.",
+              "zh": "Dacia 1300 是雷诺 12 的授权版本，已生产数十年。共产主义时期罗马尼亚机动化的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dacia",
+                "en": "Dacia",
+                "de": "Dacia",
+                "uk": "Дачія",
+                "ru": "Дакия"
+              },
+              "okres produkcji": "1969–1984",
+              "miejsce produkcji": {
+                "pl": "Mioveni, Rumunia",
+                "en": "Mioveni, Romania",
+                "de": "Mioveni, Rumänien",
+                "uk": "Міовені, Румунія",
+                "ru": "Миовень, Румыния",
+                "zh": "Mioveni，罗马尼亚"
+              },
+              "platforma": {
+                "pl": "Renault 12",
+                "en": "Renault 12",
+                "de": "Renault 12",
+                "uk": "Рено 12",
+                "ru": "Рено 12",
+                "zh": "雷诺 12"
+              },
+              "silnik": {
+                "pl": "1.3L",
+                "en": "1.3L",
+                "de": "1,3 l",
+                "uk": "1,3 л",
+                "ru": "1,3 л"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "1310": [
+      {
+        "BrandID": 32,
+        "ModelID": 416701,
+        "Brand Name": "Dacia",
+        "Model Name": "1310",
+        "Serie Name": "1310",
+        "Years": "1984 - 2004",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Classic Family Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.3L - 1.6L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dacia 1310 to zmodernizowana wersja modelu 1300, z charakterystycznymi czterema reflektorami i plastikowymi zderzakami.",
+              "en": "Dacia 1310 is a modernized version of the 1300 model, with characteristic four headlights and plastic bumpers.",
+              "de": "Dacia 1310 ist eine modernisierte Version des Modells 1300 mit charakteristischen vier Scheinwerfern und Kunststoffstoßstangen.",
+              "uk": "Dacia 1310 - модернізована версія моделі 1300, з характерними чотирма фарами і пластиковими бамперами.",
+              "ru": "Dacia 1310 – модернизированная версия модели 1300, с характерными четырьмя фарами и пластиковыми бамперами.",
+              "zh": "Dacia 1310 是 1300 车型的现代化版本，具有特色的四个前灯和塑料保险杠。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dacia",
+                "en": "Dacia",
+                "de": "Dacia",
+                "uk": "Дачія",
+                "ru": "Дакия"
+              },
+              "okres produkcji": "1984–2004",
+              "miejsce produkcji": {
+                "pl": "Mioveni, Rumunia",
+                "en": "Mioveni, Romania",
+                "de": "Mioveni, Rumänien",
+                "uk": "Міовені, Румунія",
+                "ru": "Миовень, Румыния",
+                "zh": "Mioveni，罗马尼亚"
+              },
+              "platforma": {
+                "pl": "Renault 12",
+                "en": "Renault 12",
+                "de": "Renault 12",
+                "uk": "Рено 12",
+                "ru": "Рено 12",
+                "zh": "雷诺 12"
+              },
+              "silnik": {
+                "pl": "1.3L - 1.6L",
+                "en": "1.3L - 1.6L",
+                "de": "1,3 l – 1,6 l",
+                "uk": "1,3 л - 1,6 л",
+                "ru": "1,3 л - 1,6 л",
+                "zh": "1.3L - 1.6L"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3v/ol/lsujm4kk8ss84kk48k48g/dacia-1310-1979.310.jpg"
+        }
+      }
+    ],
+    "Dokker": [
+      {
+        "BrandID": 32,
+        "ModelID": 414102,
+        "Brand Name": "Dacia",
+        "Model Name": "Dokker",
+        "Serie Name": "Dokker",
+        "Years": "2012 - 2021",
+        "specs": {
+          "bodyType": "MPV/Van",
+          "segment": "Small Van",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/LPG",
+          "engine": "1.6L / 1.2L TCe / 1.5L dCi",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Dacia Dokker to praktyczny kombivan oferujący ogromną przestrzeń bagażową w niskiej cenie. Idealny dla małych firm.",
+              "en": "Dacia Dokker is a practical station wagon offering huge luggage space at a low price. Perfect for small businesses.",
+              "de": "Dacia Dokker ist ein praktischer Kombi, der viel Gepäckraum zu einem günstigen Preis bietet. Perfekt für kleine Unternehmen.",
+              "uk": "Dacia Dokker — це практичний універсал із величезним багажним простором за низькою ціною. Ідеально підходить для малого бізнесу.",
+              "ru": "Dacia Dokker — практичный универсал, предлагающий огромное пространство для багажа по невысокой цене. Идеально подходит для малого бизнеса.",
+              "zh": "Dacia Dokker 是一款实用的旅行车，以低廉的价格提供巨大的行李空间。非常适合小型企业。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dacia",
+                "en": "Dacia",
+                "de": "Dacia",
+                "uk": "Дачія",
+                "ru": "Дакия"
+              },
+              "okres produkcji": "2012–2021",
+              "miejsce produkcji": {
+                "pl": "Tanger, Maroko",
+                "en": "Tangier, Morocco",
+                "de": "Tanger, Marokko",
+                "uk": "Танжер, Марокко",
+                "ru": "Танжер, Марокко",
+                "zh": "摩洛哥丹吉尔"
+              },
+              "platforma": {
+                "pl": "Dacia M0",
+                "en": "Dacia M0",
+                "de": "Dacia M0",
+                "uk": "Дачія М0",
+                "ru": "Дачия М0",
+                "zh": "Dacia M0"
+              },
+              "silnik": {
+                "pl": "1.6L / 1.2L TCe / 1.5L dCi",
+                "en": "1.6L / 1.2L TCe / 1.5L dCi",
+                "de": "1,6 l / 1,2 l TCe / 1,5 l dCi",
+                "uk": "1,6 л / 1,2 л TCe / 1,5 л dCi",
+                "ru": "1,6 л/1,2 л TCe/1,5 л dCi",
+                "zh": "1.6L / 1.2L TCe / 1.5L dCi"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/34/1d/ty8ijtq8co40og4gk8o0s/dacia-dokker.310.jpg"
+        }
+      }
+    ],
+    "Duster": [
+      {
+        "BrandID": 32,
+        "ModelID": 413689,
+        "Brand Name": "Dacia",
+        "Model Name": "Duster",
+        "Serie Name": "Duster (1st Gen)",
+        "Years": "2010 - 2017",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/LPG",
+          "engine": "1.6L / 1.2L TCe / 1.5L dCi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dacia Duster (I) zrewolucjonizowała rynek tanich SUV-ów, oferując sprawdzone napędy 4x4 od Nissana.",
+              "en": "Dacia Duster (I) revolutionized the cheap SUV market by offering proven 4x4 drives from Nissan.",
+              "de": "Dacia Duster (I) revolutionierte den Billig-SUV-Markt, indem er bewährte 4x4-Antriebe von Nissan anbot.",
+              "uk": "Dacia Duster (I) зробив революцію на ринку дешевих позашляховиків, запропонувавши перевірені приводи 4x4 від Nissan.",
+              "ru": "Dacia Duster (I) произвела революцию на рынке дешевых внедорожников, предложив проверенные приводы 4x4 от Nissan.",
+              "zh": "Dacia Duster (I) 通过提供经过验证的日产 4x4 驱动器，彻底改变了廉价 SUV 市场。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dacia",
+                "en": "Dacia",
+                "de": "Dacia",
+                "uk": "Дачія",
+                "ru": "Дакия"
+              },
+              "okres produkcji": "2010–2017",
+              "miejsce produkcji": {
+                "pl": "Mioveni, Rumunia",
+                "en": "Mioveni, Romania",
+                "de": "Mioveni, Rumänien",
+                "uk": "Міовені, Румунія",
+                "ru": "Миовень, Румыния",
+                "zh": "Mioveni，罗马尼亚"
+              },
+              "platforma": {
+                "pl": "Dacia B0",
+                "en": "Dacia B0",
+                "de": "Dacia B0",
+                "uk": "Дачія В0",
+                "ru": "Дачия Б0",
+                "zh": "Dacia B0"
+              },
+              "silnik": {
+                "pl": "1.6L / 1.5L dCi",
+                "en": "1.6L / 1.5L dCi",
+                "de": "1,6 l / 1,5 l dCi",
+                "uk": "1,6 л / 1,5 л dCi",
+                "ru": "1,6 л / 1,5 л дСи",
+                "zh": "1.6L / 1.5L dCi"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Dacia_Duster_105_4x4_Prestige_%E2%80%93_Heckansicht%2C_31._Juli_2012%2C_Heiligenhaus.jpg/1280px-Dacia_Duster_105_4x4_Prestige_%E2%80%93_Heckansicht%2C_31._Juli_2012%2C_Heiligenhaus.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Dacia_Duster_105_4x4_Prestige_%E2%80%93_Heckansicht%2C_31._Juli_2012%2C_Heiligenhaus.jpg/1280px-Dacia_Duster_105_4x4_Prestige_%E2%80%93_Heckansicht%2C_31._Juli_2012%2C_Heiligenhaus.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2017_Dacia_Duster_Ambiance_DCi_4X2_1.5_Front.jpg/1280px-2017_Dacia_Duster_Ambiance_DCi_4X2_1.5_Front.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/2017_Dacia_Duster_Ambiance_DCi_4X2_1.5_Rear.jpg/1280px-2017_Dacia_Duster_Ambiance_DCi_4X2_1.5_Rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Renault_Duster_1.6_Expression_2013_%2814221778259%29.jpg/1280px-Renault_Duster_1.6_Expression_2013_%2814221778259%29.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/85/fu/uqp2q740sgk8wk8k8wo4o/dacia_duster-2014_r2-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 32,
+        "ModelID": 413690,
+        "Brand Name": "Dacia",
+        "Model Name": "Duster",
+        "Serie Name": "Duster (2nd Gen)",
+        "Years": "2017 - 2024",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/LPG",
+          "engine": "1.0L TCe / 1.3L TCe / 1.5L BlueHDi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dacia Duster (II) zyskała nowocześniejszy wygląd, lepsze wyciszenie i wyposażenie, zachowując terenowe zdolności.",
+              "en": "Dacia Duster (II) has a more modern look, better soundproofing and equipment, while maintaining off-road capabilities.",
+              "de": "Dacia Duster (II) hat ein moderneres Aussehen, eine bessere Schalldämmung und Ausstattung und behält gleichzeitig die Geländetauglichkeit bei.",
+              "uk": "Dacia Duster (II) має більш сучасний вигляд, кращу шумоізоляцію та оснащення, зберігаючи при цьому позашляхові якості.",
+              "ru": "Dacia Duster (II) имеет более современный вид, лучшую шумоизоляцию и оснащение, сохраняя при этом внедорожные возможности.",
+              "zh": "Dacia Duster (II) 拥有更现代的外观、更好的隔音和设备，同时保留越野能力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dacia",
+                "en": "Dacia",
+                "de": "Dacia",
+                "uk": "Дачія",
+                "ru": "Дакия"
+              },
+              "okres produkcji": "2017–2024",
+              "miejsce produkcji": {
+                "pl": "Mioveni, Rumunia",
+                "en": "Mioveni, Romania",
+                "de": "Mioveni, Rumänien",
+                "uk": "Міовені, Румунія",
+                "ru": "Миовень, Румыния",
+                "zh": "Mioveni，罗马尼亚"
+              },
+              "platforma": {
+                "pl": "Dacia B0+",
+                "en": "Dacia B0+",
+                "de": "Dacia B0+",
+                "uk": "Dacia B0+",
+                "ru": "Дачия B0+",
+                "zh": "Dacia B0+"
+              },
+              "silnik": {
+                "pl": "1.0L TCe - 1.5L BlueHDi",
+                "en": "1.0L TCe - 1.5L BlueHDi",
+                "de": "1,0 l TCe – 1,5 l BlueHDi",
+                "uk": "1,0 л TCe - 1,5 л BlueHDi",
+                "ru": "1,0 л TCe — 1,5 л BlueHDi",
+                "zh": "1.0L TCe - 1.5L BlueHDi"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Dacia_Duster_105_4x4_Prestige_%E2%80%93_Heckansicht%2C_31._Juli_2012%2C_Heiligenhaus.jpg/1280px-Dacia_Duster_105_4x4_Prestige_%E2%80%93_Heckansicht%2C_31._Juli_2012%2C_Heiligenhaus.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Dacia_Duster_105_4x4_Prestige_%E2%80%93_Heckansicht%2C_31._Juli_2012%2C_Heiligenhaus.jpg/1280px-Dacia_Duster_105_4x4_Prestige_%E2%80%93_Heckansicht%2C_31._Juli_2012%2C_Heiligenhaus.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2017_Dacia_Duster_Ambiance_DCi_4X2_1.5_Front.jpg/1280px-2017_Dacia_Duster_Ambiance_DCi_4X2_1.5_Front.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/2017_Dacia_Duster_Ambiance_DCi_4X2_1.5_Rear.jpg/1280px-2017_Dacia_Duster_Ambiance_DCi_4X2_1.5_Rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Renault_Duster_1.6_Expression_2013_%2814221778259%29.jpg/1280px-Renault_Duster_1.6_Expression_2013_%2814221778259%29.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/85/fu/uqp2q740sgk8wk8k8wo4o/dacia_duster-2014_r2-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 32,
+        "ModelID": 416702,
+        "Brand Name": "Dacia",
+        "Model Name": "Duster",
+        "Serie Name": "Duster (3rd Gen)",
+        "Years": "2024 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid/LPG",
+          "engine": "1.0L TCe / 1.2L TCe / 1.6L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dacia Duster (III) to nowa generacja o surowym, nowoczesnym designie, zbudowana na platformie CMF-B.",
+              "en": "Dacia Duster (III) is a new generation with a raw, modern design, built on the CMF-B platform.",
+              "de": "Dacia Duster (III) ist eine neue Generation mit einem rohen, modernen Design, aufgebaut auf der CMF-B-Plattform.",
+              "uk": "Dacia Duster (III) — це нове покоління з сирим сучасним дизайном, побудоване на платформі CMF-B.",
+              "ru": "Dacia Duster (III) — новое поколение с сырым современным дизайном, построенное на платформе CMF-B.",
+              "zh": "Dacia Duster (III) 是新一代，采用原始、现代的设计，建立在 CMF-B 平台上。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dacia",
+                "en": "Dacia",
+                "de": "Dacia",
+                "uk": "Дачія",
+                "ru": "Дакия"
+              },
+              "okres produkcji": {
+                "pl": "od 2024",
+                "en": "from 2024",
+                "de": "ab 2024",
+                "uk": "з 2024 року",
+                "ru": "с 2024 года",
+                "zh": "2024 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Mioveni, Rumunia",
+                "en": "Mioveni, Romania",
+                "de": "Mioveni, Rumänien",
+                "uk": "Міовені, Румунія",
+                "ru": "Миовень, Румыния",
+                "zh": "罗马尼亚米奥韦尼"
+              },
+              "platforma": {
+                "pl": "CMF-B",
+                "en": "CMF-B",
+                "de": "CMF-B",
+                "uk": "CMF-B",
+                "ru": "ЦМФ-Б"
+              },
+              "silnik": {
+                "pl": "1.0L TCe - 1.6L Hybrid",
+                "en": "1.0L TCe - 1.6L Hybrid",
+                "de": "1,0 l TCe – 1,6 l Hybrid",
+                "uk": "1.0L TCe - 1.6L Hybrid",
+                "ru": "1,0 л TCe — 1,6 л гибрид",
+                "zh": "1.0L TCe - 1.6L Hybrid"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Dacia_Duster_105_4x4_Prestige_%E2%80%93_Heckansicht%2C_31._Juli_2012%2C_Heiligenhaus.jpg/1280px-Dacia_Duster_105_4x4_Prestige_%E2%80%93_Heckansicht%2C_31._Juli_2012%2C_Heiligenhaus.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Dacia_Duster_105_4x4_Prestige_%E2%80%93_Heckansicht%2C_31._Juli_2012%2C_Heiligenhaus.jpg/1280px-Dacia_Duster_105_4x4_Prestige_%E2%80%93_Heckansicht%2C_31._Juli_2012%2C_Heiligenhaus.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2017_Dacia_Duster_Ambiance_DCi_4X2_1.5_Front.jpg/1280px-2017_Dacia_Duster_Ambiance_DCi_4X2_1.5_Front.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/2017_Dacia_Duster_Ambiance_DCi_4X2_1.5_Rear.jpg/1280px-2017_Dacia_Duster_Ambiance_DCi_4X2_1.5_Rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Renault_Duster_1.6_Expression_2013_%2814221778259%29.jpg/1280px-Renault_Duster_1.6_Expression_2013_%2814221778259%29.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/85/fu/uqp2q740sgk8wk8k8wo4o/dacia_duster-2014_r2-jpg.310.jpg"
+        }
+      }
+    ],
+    "Jogger": [
+      {
+        "BrandID": 32,
+        "ModelID": 416703,
+        "Brand Name": "Dacia",
+        "Model Name": "Jogger",
+        "Serie Name": "Jogger",
+        "Years": "2022 - 3000",
+        "specs": {
+          "bodyType": "Wagon/MPV",
+          "segment": "Compact Family Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Hybrid/LPG",
+          "engine": "1.0L TCe / 1.6L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Dacia Jogger to uniwersalne auto rodzinne, zastępujące Logana MCV i Lodgy, dostępne w wersji 7-osobowej.",
+              "en": "Dacia Jogger is a universal family car, replacing Logan MCV and Lodgy, available in a 7-seater version.",
+              "de": "Dacia Jogger ist ein universelles Familienauto, das Logan MCV und Lodgy ersetzt und in einer 7-Sitzer-Version erhältlich ist.",
+              "uk": "Dacia Jogger — універсальний сімейний автомобіль, що замінює Logan MCV і Lodgy, доступний у 7-місній версії.",
+              "ru": "Dacia Jogger — универсальный семейный автомобиль, пришедший на смену Logan MCV и Lodgy, доступный в 7-местной версии.",
+              "zh": "Dacia Jogger 是一款通用家庭用车，取代 Logan MCV 和 Lodgy，提供 7 座版本。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dacia",
+                "en": "Dacia",
+                "de": "Dacia",
+                "uk": "Дачія",
+                "ru": "Дакия"
+              },
+              "okres produkcji": {
+                "pl": "od 2022",
+                "en": "from 2022",
+                "de": "ab 2022",
+                "uk": "з 2022 року",
+                "ru": "с 2022 года",
+                "zh": "2022 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Mioveni, Rumunia",
+                "en": "Mioveni, Romania",
+                "de": "Mioveni, Rumänien",
+                "uk": "Міовені, Румунія",
+                "ru": "Миовень, Румыния",
+                "zh": "罗马尼亚米奥韦尼"
+              },
+              "platforma": {
+                "pl": "CMF-B",
+                "en": "CMF-B",
+                "de": "CMF-B",
+                "uk": "CMF-B",
+                "ru": "ЦМФ-Б"
+              },
+              "silnik": {
+                "pl": "1.0L TCe / 1.6L Hybrid",
+                "en": "1.0L TCe / 1.6L Hybrid",
+                "de": "1,0 l TCe / 1,6 l Hybrid",
+                "uk": "1.0L TCe / 1.6L Hybrid",
+                "ru": "1,0 л TCe / 1,6 л гибрид",
+                "zh": "1.0L TCe / 1.6L Hybrid"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Lodgy": [
+      {
+        "BrandID": 32,
+        "ModelID": 415823,
+        "Brand Name": "Dacia",
+        "Model Name": "Lodgy",
+        "Serie Name": "Lodgy",
+        "Years": "2012 - 2022",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/LPG",
+          "engine": "1.6L / 1.2L TCe / 1.5L dCi",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Dacia Lodgy to minivan oferujący bezkonkurencyjną przestrzeń dla 7 osób w tej klasie cenowej.",
+              "en": "Dacia Lodgy is a minivan offering unrivaled space for 7 people in this price class.",
+              "de": "Der Dacia Lodgy ist ein Minivan, der in dieser Preisklasse unübertroffenen Platz für 7 Personen bietet.",
+              "uk": "Dacia Lodgy — мінівен, що пропонує неперевершений простір для 7 осіб у цьому ціновому класі.",
+              "ru": "Dacia Lodgy — это минивэн, предлагающий непревзойденное место для 7 человек в этом ценовом классе.",
+              "zh": "Dacia Lodgy 是一款小型货车，可在同价位中为 7 人提供无与伦比的空间。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dacia",
+                "en": "Dacia",
+                "de": "Dacia",
+                "uk": "Дачія",
+                "ru": "Дакия"
+              },
+              "okres produkcji": "2012–2022",
+              "miejsce produkcji": {
+                "pl": "Tanger, Maroko",
+                "en": "Tangier, Morocco",
+                "de": "Tanger, Marokko",
+                "uk": "Танжер, Марокко",
+                "ru": "Танжер, Марокко",
+                "zh": "摩洛哥丹吉尔"
+              },
+              "platforma": {
+                "pl": "Dacia M0",
+                "en": "Dacia M0",
+                "de": "Dacia M0",
+                "uk": "Дачія М0",
+                "ru": "Дачия М0",
+                "zh": "Dacia M0"
+              },
+              "silnik": {
+                "pl": "1.6L / 1.5L dCi",
+                "en": "1.6L / 1.5L dCi",
+                "de": "1,6 l / 1,5 l dCi",
+                "uk": "1,6 л / 1,5 л dCi",
+                "ru": "1,6 л / 1,5 л дСи",
+                "zh": "1.6L / 1.5L dCi"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9f/80/3j65qhgc0sw4o4gc0skgk/dacia-lodgy.310.jpg"
+        }
+      }
+    ],
+    "Logan": [
+      {
+        "BrandID": 32,
+        "ModelID": 413685,
+        "Brand Name": "Dacia",
+        "Model Name": "Logan",
+        "Serie Name": "Logan (1st Gen)",
+        "Years": "2004 - 2012",
+        "specs": {
+          "bodyType": "Sedan/Wagon/Pickup",
+          "segment": "Compact Budget",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L / 1.6L / 1.5L dCi",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Dacia Logan (I) to 'samochód za 5000 euro', który odniósł globalny sukces dzięki prostocie i niezawodności.",
+              "en": "Dacia Logan (I) is a '5,000 euro car' that has achieved global success thanks to its simplicity and reliability.",
+              "de": "Dacia Logan (I) ist ein „5.000-Euro-Auto“, das dank seiner Einfachheit und Zuverlässigkeit weltweiten Erfolg hat.",
+              "uk": "Dacia Logan (I) – це «автомобіль за 5000 євро», який досяг світового успіху завдяки своїй простоті та надійності.",
+              "ru": "Dacia Logan (I) — «автомобиль за 5000 евро», добившийся мирового успеха благодаря своей простоте и надежности.",
+              "zh": "Dacia Logan (I) 是一款“5,000 欧元汽车”，凭借其简单性和可靠性而在全球取得了成功。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dacia",
+                "en": "Dacia",
+                "de": "Dacia",
+                "uk": "Дачія",
+                "ru": "Дакия"
+              },
+              "okres produkcji": "2004–2012",
+              "miejsce produkcji": {
+                "pl": "Mioveni, Rumunia",
+                "en": "Mioveni, Romania",
+                "de": "Mioveni, Rumänien",
+                "uk": "Міовені, Румунія",
+                "ru": "Миовень, Румыния",
+                "zh": "Mioveni，罗马尼亚"
+              },
+              "platforma": {
+                "pl": "Dacia B0",
+                "en": "Dacia B0",
+                "de": "Dacia B0",
+                "uk": "Дачія В0",
+                "ru": "Дачия Б0",
+                "zh": "Dacia B0"
+              },
+              "silnik": {
+                "pl": "1.4L - 1.6L / 1.5L dCi",
+                "en": "1.4L - 1.6L / 1.5L dCi",
+                "de": "1,4 l – 1,6 l / 1,5 l dCi",
+                "uk": "1,4 л - 1,6 л / 1,5 л dCi",
+                "ru": "1,4–1,6 л/1,5 л постоянного тока",
+                "zh": "1.4L - 1.6L / 1.5L dCi"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Dacia_Logan_rear_20070611.jpg/1280px-Dacia_Logan_rear_20070611.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Dacia_Logan_rear_20070611.jpg/1280px-Dacia_Logan_rear_20070611.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dacia_Logan_1.4_MPI_%28Facelift%29_%E2%80%93_Frontansicht%2C_19._Juni_2012%2C_Heiligenhaus.jpg/1280px-Dacia_Logan_1.4_MPI_%28Facelift%29_%E2%80%93_Frontansicht%2C_19._Juni_2012%2C_Heiligenhaus.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dacia_Logan_1.4_MPI_%28Facelift%29_%E2%80%93_Heckansicht%2C_19._Juni_2012%2C_Heiligenhaus.jpg/1280px-Dacia_Logan_1.4_MPI_%28Facelift%29_%E2%80%93_Heckansicht%2C_19._Juni_2012%2C_Heiligenhaus.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/9/9f/Renault_Logan.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1m/3u/9cc162lco84ksk0swg88g/dacia-43718-global-en.310.jpg"
+        }
+      },
+      {
+        "BrandID": 32,
+        "ModelID": 413687,
+        "Brand Name": "Dacia",
+        "Model Name": "Logan",
+        "Serie Name": "Logan (2nd Gen)",
+        "Years": "2012 - 2020",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Compact Budget",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/LPG",
+          "engine": "0.9L TCe / 1.2L / 1.5L dCi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dacia Logan (II) stała się bardziej atrakcyjna wizualnie i lepiej wyposażona, oferując m.in. nawigację Media Nav.",
+              "en": "Dacia Logan (II) has become more visually attractive and better equipped, offering, among others: Media Nav navigation.",
+              "de": "Der Dacia Logan (II) ist optisch ansprechender und besser ausgestattet und bietet unter anderem: Media Nav-Navigation.",
+              "uk": "Dacia Logan (II) став візуально привабливішим і краще оснащеним, пропонуючи, серед іншого: навігацію Media Nav.",
+              "ru": "Dacia Logan (II) стала визуально привлекательнее и лучше оснащена, предлагая, среди прочего: навигацию Media Nav.",
+              "zh": "Dacia Logan (II) 变得更具视觉吸引力和更好的装备，除其他外还提供：媒体导航。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dacia",
+                "en": "Dacia",
+                "de": "Dacia",
+                "uk": "Дачія",
+                "ru": "Дакия"
+              },
+              "okres produkcji": "2012–2020",
+              "miejsce produkcji": {
+                "pl": "Mioveni, Rumunia",
+                "en": "Mioveni, Romania",
+                "de": "Mioveni, Rumänien",
+                "uk": "Міовені, Румунія",
+                "ru": "Миовень, Румыния",
+                "zh": "罗马尼亚米奥韦尼"
+              },
+              "platforma": {
+                "pl": "Dacia M0",
+                "en": "Dacia M0",
+                "de": "Dacia M0",
+                "uk": "Дачія М0",
+                "ru": "Дачия М0",
+                "zh": "Dacia M0"
+              },
+              "silnik": {
+                "pl": "0.9L TCe - 1.5L dCi",
+                "en": "0.9L TCe - 1.5L dCi",
+                "de": "0,9 l TCe – 1,5 l dCi",
+                "uk": "0,9 л TCe - 1,5 л dCi",
+                "ru": "0,9 л TCe — 1,5 л dCi",
+                "zh": "0.9L TCe - 1.5L dCi"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Dacia_Logan_rear_20070611.jpg/1280px-Dacia_Logan_rear_20070611.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Dacia_Logan_rear_20070611.jpg/1280px-Dacia_Logan_rear_20070611.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dacia_Logan_1.4_MPI_%28Facelift%29_%E2%80%93_Frontansicht%2C_19._Juni_2012%2C_Heiligenhaus.jpg/1280px-Dacia_Logan_1.4_MPI_%28Facelift%29_%E2%80%93_Frontansicht%2C_19._Juni_2012%2C_Heiligenhaus.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dacia_Logan_1.4_MPI_%28Facelift%29_%E2%80%93_Heckansicht%2C_19._Juni_2012%2C_Heiligenhaus.jpg/1280px-Dacia_Logan_1.4_MPI_%28Facelift%29_%E2%80%93_Heckansicht%2C_19._Juni_2012%2C_Heiligenhaus.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/9/9f/Renault_Logan.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1m/3u/9cc162lco84ksk0swg88g/dacia-43718-global-en.310.jpg"
+        }
+      },
+      {
+        "BrandID": 32,
+        "ModelID": 416704,
+        "Brand Name": "Dacia",
+        "Model Name": "Logan",
+        "Serie Name": "Logan (3rd Gen)",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Compact Budget",
+          "drive": "FWD",
+          "fuel": "Gasoline/LPG",
+          "engine": "1.0L SCe / 1.0L TCe",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dacia Logan (III) to nowoczesny sedan oparty na płycie podłogowej nowego Clio, oferujący wyższy komfort i bezpieczeństwo.",
+              "en": "Dacia Logan (III) is a modern sedan based on the new Clio platform, offering higher comfort and safety.",
+              "de": "Dacia Logan (III) ist eine moderne Limousine auf Basis der neuen Clio-Plattform, die mehr Komfort und Sicherheit bietet.",
+              "uk": "Dacia Logan (III) – це сучасний седан на новій платформі Clio, який пропонує підвищений комфорт і безпеку.",
+              "ru": "Dacia Logan (III) — современный седан на новой платформе Clio, предлагающий повышенный комфорт и безопасность.",
+              "zh": "Dacia Logan (III) 是一款基于全新 Clio 平台的现代轿车，提供更高的舒适性和安全性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dacia",
+                "en": "Dacia",
+                "de": "Dacia",
+                "uk": "Дачія",
+                "ru": "Дакия"
+              },
+              "okres produkcji": {
+                "pl": "od 2020",
+                "en": "from 2020",
+                "de": "ab 2020",
+                "uk": "з 2020 року",
+                "ru": "с 2020 года",
+                "zh": "2020 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Mioveni, Rumunia",
+                "en": "Mioveni, Romania",
+                "de": "Mioveni, Rumänien",
+                "uk": "Міовені, Румунія",
+                "ru": "Миовень, Румыния",
+                "zh": "罗马尼亚米奥韦尼"
+              },
+              "platforma": {
+                "pl": "CMF-B",
+                "en": "CMF-B",
+                "de": "CMF-B",
+                "uk": "CMF-B",
+                "ru": "ЦМФ-Б"
+              },
+              "silnik": {
+                "pl": "1.0L TCe",
+                "en": "1.0L TCe",
+                "de": "1,0 l TCe",
+                "uk": "1,0 л TCe",
+                "ru": "1,0 л ТСе",
+                "zh": "1.0L TCe"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Dacia_Logan_rear_20070611.jpg/1280px-Dacia_Logan_rear_20070611.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Dacia_Logan_rear_20070611.jpg/1280px-Dacia_Logan_rear_20070611.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dacia_Logan_1.4_MPI_%28Facelift%29_%E2%80%93_Frontansicht%2C_19._Juni_2012%2C_Heiligenhaus.jpg/1280px-Dacia_Logan_1.4_MPI_%28Facelift%29_%E2%80%93_Frontansicht%2C_19._Juni_2012%2C_Heiligenhaus.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dacia_Logan_1.4_MPI_%28Facelift%29_%E2%80%93_Heckansicht%2C_19._Juni_2012%2C_Heiligenhaus.jpg/1280px-Dacia_Logan_1.4_MPI_%28Facelift%29_%E2%80%93_Heckansicht%2C_19._Juni_2012%2C_Heiligenhaus.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/9/9f/Renault_Logan.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1m/3u/9cc162lco84ksk0swg88g/dacia-43718-global-en.310.jpg"
+        }
+      }
+    ],
+    "Sandero": [
+      {
+        "BrandID": 32,
+        "ModelID": 413808,
+        "Brand Name": "Dacia",
+        "Model Name": "Sandero",
+        "Serie Name": "Sandero (1st Gen)",
+        "Years": "2008 - 2012",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Small Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/LPG",
+          "engine": "1.2L / 1.4L / 1.6L / 1.5L dCi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dacia Sandero (I) to hatchback oparty na Loganie, oferujący sprawdzoną technikę Renault w atrakcyjnej cenie.",
+              "en": "The Dacia Sandero (I) is a hatchback based on the Logan, offering proven Renault technology at an attractive price.",
+              "de": "Der Dacia Sandero (I) ist ein Fließheckmodell auf Basis des Logan und bietet bewährte Renault-Technologie zu einem attraktiven Preis.",
+              "uk": "Dacia Sandero (I) — це хетчбек на базі Logan, який пропонує перевірені технології Renault за привабливою ціною.",
+              "ru": "Dacia Sandero (I) — хэтчбек на базе Logan, предлагающий проверенные технологии Renault по привлекательной цене.",
+              "zh": "Dacia Sandero (I) 是一款基于 Logan 的掀背车，以极具吸引力的价格提供成熟的雷诺技术。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dacia",
+                "en": "Dacia",
+                "de": "Dacia",
+                "uk": "Дачія",
+                "ru": "Дакия"
+              },
+              "okres produkcji": "2008–2012",
+              "miejsce produkcji": {
+                "pl": "Mioveni, Rumunia",
+                "en": "Mioveni, Romania",
+                "de": "Mioveni, Rumänien",
+                "uk": "Міовені, Румунія",
+                "ru": "Миовень, Румыния",
+                "zh": "Mioveni，罗马尼亚"
+              },
+              "platforma": {
+                "pl": "Dacia B0",
+                "en": "Dacia B0",
+                "de": "Dacia B0",
+                "uk": "Дачія В0",
+                "ru": "Дачия Б0",
+                "zh": "Dacia B0"
+              },
+              "silnik": {
+                "pl": "1.2L - 1.6L",
+                "en": "1.2L - 1.6L",
+                "de": "1,2 l – 1,6 l",
+                "uk": "1,2 л - 1,6 л",
+                "ru": "1,2 л - 1,6 л",
+                "zh": "1.2L - 1.6L"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dacia_Sandero_20090614_rear.JPG/1280px-Dacia_Sandero_20090614_rear.JPG",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dacia_Sandero_20090614_rear.JPG/1280px-Dacia_Sandero_20090614_rear.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Renault_Sandero_1.6_GT_Line_2013_%288366544982%29.jpg/1280px-Renault_Sandero_1.6_GT_Line_2013_%288366544982%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Dacia_Sandero_TCe_90_eco%C2%B2_Laur%C3%A9ate_%28II%29_%E2%80%93_Heckansicht%2C_21._April_2013%2C_M%C3%BCnster.jpg/1280px-Dacia_Sandero_TCe_90_eco%C2%B2_Laur%C3%A9ate_%28II%29_%E2%80%93_Heckansicht%2C_21._April_2013%2C_M%C3%BCnster.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/2017_Dacia_Sandero_Ambiance_SCE_facelift_1.0_Front.jpg/1280px-2017_Dacia_Sandero_Ambiance_SCE_facelift_1.0_Front.jpg"
+            ]
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      },
+      {
+        "BrandID": 32,
+        "ModelID": 413809,
+        "Brand Name": "Dacia",
+        "Model Name": "Sandero",
+        "Serie Name": "Sandero (2nd Gen)",
+        "Years": "2012 - 2020",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Small Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/LPG",
+          "engine": "0.9L TCe / 1.2L / 1.5L dCi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dacia Sandero (II) stała się jednym z najlepiej sprzedających się aut w Europie dzięki bezkonkurencyjnemu stosunkowi ceny do jakości.",
+              "en": "Dacia Sandero (II) has become one of the best-selling cars in Europe thanks to its unrivaled price-quality ratio.",
+              "de": "Dank seines unübertroffenen Preis-Leistungs-Verhältnisses hat sich der Dacia Sandero (II) zu einem der meistverkauften Autos in Europa entwickelt.",
+              "uk": "Dacia Sandero (II) стала одним із найбільш продаваних автомобілів у Європі завдяки неперевершеному співвідношенню ціни та якості.",
+              "ru": "Dacia Sandero (II) стала одним из самых продаваемых автомобилей в Европе благодаря непревзойденному соотношению цены и качества.",
+              "zh": "Dacia Sandero (II) 凭借其无与伦比的性价比成为欧洲最畅销的汽车之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dacia",
+                "en": "Dacia",
+                "de": "Dacia",
+                "uk": "Дачія",
+                "ru": "Дакия"
+              },
+              "okres produkcji": "2012–2020",
+              "miejsce produkcji": {
+                "pl": "Mioveni, Rumunia",
+                "en": "Mioveni, Romania",
+                "de": "Mioveni, Rumänien",
+                "uk": "Міовені, Румунія",
+                "ru": "Миовень, Румыния",
+                "zh": "米奥韦尼，罗马尼亚"
+              },
+              "platforma": {
+                "pl": "Dacia M0",
+                "en": "Dacia M0",
+                "de": "Dacia M0",
+                "uk": "Дачія М0",
+                "ru": "Дачия М0",
+                "zh": "达契亚 M0"
+              },
+              "silnik": {
+                "pl": "0.9L TCe - 1.5L dCi",
+                "en": "0.9L TCe - 1.5L dCi",
+                "de": "0,9 l TCe – 1,5 l dCi",
+                "uk": "0,9 л TCe - 1,5 л dCi",
+                "ru": "0,9 л TCe — 1,5 л dCi",
+                "zh": "0.9L TCe - 1.5L dCi"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dacia_Sandero_20090614_rear.JPG/1280px-Dacia_Sandero_20090614_rear.JPG",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dacia_Sandero_20090614_rear.JPG/1280px-Dacia_Sandero_20090614_rear.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Renault_Sandero_1.6_GT_Line_2013_%288366544982%29.jpg/1280px-Renault_Sandero_1.6_GT_Line_2013_%288366544982%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Dacia_Sandero_TCe_90_eco%C2%B2_Laur%C3%A9ate_%28II%29_%E2%80%93_Heckansicht%2C_21._April_2013%2C_M%C3%BCnster.jpg/1280px-Dacia_Sandero_TCe_90_eco%C2%B2_Laur%C3%A9ate_%28II%29_%E2%80%93_Heckansicht%2C_21._April_2013%2C_M%C3%BCnster.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/2017_Dacia_Sandero_Ambiance_SCE_facelift_1.0_Front.jpg/1280px-2017_Dacia_Sandero_Ambiance_SCE_facelift_1.0_Front.jpg"
+            ]
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      },
+      {
+        "BrandID": 32,
+        "ModelID": 416705,
+        "Brand Name": "Dacia",
+        "Model Name": "Sandero",
+        "Serie Name": "Sandero (3rd Gen)",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Small Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/LPG",
+          "engine": "1.0L SCe / 1.0L TCe",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dacia Sandero (III) to skok jakościowy marki, oferujący nowoczesne technologie, LED-owe światła i dynamiczny design.",
+              "en": "Dacia Sandero (III) is a qualitative leap for the brand, offering modern technologies, LED lights and dynamic design.",
+              "de": "Dacia Sandero (III) ist ein qualitativer Sprung für die Marke und bietet moderne Technologien, LED-Leuchten und dynamisches Design.",
+              "uk": "Dacia Sandero (III) – це якісний стрибок для бренду, який пропонує сучасні технології, світлодіодні фари та динамічний дизайн.",
+              "ru": "Dacia Sandero (III) — это качественный скачок для бренда, предлагающий современные технологии, светодиодные фонари и динамичный дизайн.",
+              "zh": "Dacia Sandero (III) 是该品牌质的飞跃，提供现代技术、LED 灯和动态设计。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dacia",
+                "en": "Dacia",
+                "de": "Dacia",
+                "uk": "Дачія",
+                "ru": "Дакия"
+              },
+              "okres produkcji": {
+                "pl": "od 2020",
+                "en": "from 2020",
+                "de": "ab 2020",
+                "uk": "з 2020 року",
+                "ru": "с 2020 года",
+                "zh": "2020 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Mioveni, Rumunia",
+                "en": "Mioveni, Romania",
+                "de": "Mioveni, Rumänien",
+                "uk": "Міовені, Румунія",
+                "ru": "Миовень, Румыния",
+                "zh": "罗马尼亚米奥韦尼"
+              },
+              "platforma": {
+                "pl": "CMF-B",
+                "en": "CMF-B",
+                "de": "CMF-B",
+                "uk": "CMF-B",
+                "ru": "ЦМФ-Б"
+              },
+              "silnik": {
+                "pl": "1.0L SCe / TCe",
+                "en": "1.0L SCe/TCe",
+                "de": "1,0 l SCe/TCe",
+                "uk": "1,0 л SCe/TCe",
+                "ru": "1,0 л SCe/TCe",
+                "zh": "1.0L SCe / TCe"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dacia_Sandero_20090614_rear.JPG/1280px-Dacia_Sandero_20090614_rear.JPG",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dacia_Sandero_20090614_rear.JPG/1280px-Dacia_Sandero_20090614_rear.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Renault_Sandero_1.6_GT_Line_2013_%288366544982%29.jpg/1280px-Renault_Sandero_1.6_GT_Line_2013_%288366544982%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Dacia_Sandero_TCe_90_eco%C2%B2_Laur%C3%A9ate_%28II%29_%E2%80%93_Heckansicht%2C_21._April_2013%2C_M%C3%BCnster.jpg/1280px-Dacia_Sandero_TCe_90_eco%C2%B2_Laur%C3%A9ate_%28II%29_%E2%80%93_Heckansicht%2C_21._April_2013%2C_M%C3%BCnster.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/2017_Dacia_Sandero_Ambiance_SCE_facelift_1.0_Front.jpg/1280px-2017_Dacia_Sandero_Ambiance_SCE_facelift_1.0_Front.jpg"
+            ]
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      }
+    ],
+    "Sandero Stepway": [
+      {
+        "BrandID": 32,
+        "ModelID": 415825,
+        "Brand Name": "Dacia",
+        "Model Name": "Sandero Stepway",
+        "Serie Name": "Sandero Stepway (1st Gen)",
+        "Years": "2009 - 2012",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Small Crossover",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L / 1.5L dCi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dacia Sandero Stepway (I) to uterenowiona wersja hatchbacka, która podbiła serca klientów stylem crossovera.",
+              "en": "Dacia Sandero Stepway (I) is an off-road version of the hatchback that won the hearts of customers with its crossover style.",
+              "de": "Dacia Sandero Stepway (I) ist eine Offroad-Version des Fließheckmodells, das mit seinem Crossover-Stil die Herzen der Kunden eroberte.",
+              "uk": "Dacia Sandero Stepway (I) — позашляхова версія хетчбека, яка підкорила серця покупців своїм стилем кросовера.",
+              "ru": "Dacia Sandero Stepway (I) – внедорожная версия хэтчбека, покорившая сердца покупателей своим кроссоверным стилем.",
+              "zh": "Dacia Sandero Stepway (I) 是掀背车的越野版本，以其跨界风格赢得了客户的心。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dacia",
+                "en": "Dacia",
+                "de": "Dacia",
+                "uk": "Дачія",
+                "ru": "Дакия"
+              },
+              "okres produkcji": "2009–2012",
+              "miejsce produkcji": {
+                "pl": "Mioveni, Rumunia",
+                "en": "Mioveni, Romania",
+                "de": "Mioveni, Rumänien",
+                "uk": "Міовені, Румунія",
+                "ru": "Миовень, Румыния",
+                "zh": "Mioveni，罗马尼亚"
+              },
+              "platforma": {
+                "pl": "Dacia B0",
+                "en": "Dacia B0",
+                "de": "Dacia B0",
+                "uk": "Дачія В0",
+                "ru": "Дачия Б0",
+                "zh": "Dacia B0"
+              },
+              "silnik": {
+                "pl": "1.6L / 1.5L dCi",
+                "en": "1.6L / 1.5L dCi",
+                "de": "1,6 l / 1,5 l dCi",
+                "uk": "1,6 л / 1,5 л dCi",
+                "ru": "1,6 л / 1,5 л дСи",
+                "zh": "1.6L / 1.5L dCi"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 32,
+        "ModelID": 415826,
+        "Brand Name": "Dacia",
+        "Model Name": "Sandero Stepway",
+        "Serie Name": "Sandero Stepway (2nd Gen)",
+        "Years": "2012 - 2020",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Small Crossover",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/LPG",
+          "engine": "0.9L TCe / 1.5L dCi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dacia Sandero Stepway (II) zyskała jeszcze bardziej terenowy charakter dzięki relingom dachowym i plastikowym osłonom.",
+              "en": "Dacia Sandero Stepway (II) has gained an even more off-road character thanks to roof rails and plastic covers.",
+              "de": "Dank Dachreling und Kunststoffabdeckungen erhält der Dacia Sandero Stepway (II) einen noch stärkeren Offroad-Charakter.",
+              "uk": "Dacia Sandero Stepway (II) набула ще більшого позашляхового характеру завдяки рейлінгам і пластиковим чохлам.",
+              "ru": "Dacia Sandero Stepway (II) приобрела еще более внедорожный характер благодаря рейлингам на крыше и пластиковым накладкам.",
+              "zh": "Dacia Sandero Stepway (II) 凭借车顶纵梁和塑料盖获得了更加越野的特性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dacia",
+                "en": "Dacia",
+                "de": "Dacia",
+                "uk": "Дачія",
+                "ru": "Дакия"
+              },
+              "okres produkcji": "2012–2020",
+              "miejsce produkcji": {
+                "pl": "Mioveni, Rumunia",
+                "en": "Mioveni, Romania",
+                "de": "Mioveni, Rumänien",
+                "uk": "Міовені, Румунія",
+                "ru": "Миовень, Румыния",
+                "zh": "Mioveni，罗马尼亚"
+              },
+              "platforma": {
+                "pl": "Dacia M0",
+                "en": "Dacia M0",
+                "de": "Dacia M0",
+                "uk": "Дачія М0",
+                "ru": "Дачия М0",
+                "zh": "Dacia M0"
+              },
+              "silnik": {
+                "pl": "0.9L TCe / 1.5L dCi",
+                "en": "0.9L TCe / 1.5L dCi",
+                "de": "0,9 l TCe / 1,5 l dCi",
+                "uk": "0,9 л TCe / 1,5 л dCi",
+                "ru": "0,9 л TCe / 1,5 л dCi",
+                "zh": "0.9L TCe / 1.5L dCi"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 32,
+        "ModelID": 416706,
+        "Brand Name": "Dacia",
+        "Model Name": "Sandero Stepway",
+        "Serie Name": "Sandero Stepway (3rd Gen)",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Small Crossover",
+          "drive": "FWD",
+          "fuel": "Gasoline/LPG",
+          "engine": "1.0L TCe",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dacia Sandero Stepway (III) to bestseller marki, oferujący wygląd SUV-a i praktyczność hatchbacka.",
+              "en": "Dacia Sandero Stepway (III) is the brand's bestseller, offering the appearance of an SUV and the practicality of a hatchback.",
+              "de": "Dacia Sandero Stepway (III) ist der Bestseller der Marke und bietet das Aussehen eines SUV und die Funktionalität eines Fließheckmodells.",
+              "uk": "Dacia Sandero Stepway (III) – бестселер бренду, який пропонує зовнішній вигляд позашляховика та практичність хетчбека.",
+              "ru": "Dacia Sandero Stepway (III) — бестселлер марки, сочетающий в себе внешний вид внедорожника и практичность хэтчбека.",
+              "zh": "Dacia Sandero Stepway (III) 是该品牌的畅销产品，兼具 SUV 的外观和掀背车的实用性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dacia",
+                "en": "Dacia",
+                "de": "Dacia",
+                "uk": "Дачія",
+                "ru": "Дакия"
+              },
+              "okres produkcji": {
+                "pl": "od 2020",
+                "en": "from 2020",
+                "de": "ab 2020",
+                "uk": "з 2020 року",
+                "ru": "с 2020 года",
+                "zh": "2020 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Mioveni, Rumunia",
+                "en": "Mioveni, Romania",
+                "de": "Mioveni, Rumänien",
+                "uk": "Міовені, Румунія",
+                "ru": "Миовень, Румыния",
+                "zh": "罗马尼亚米奥韦尼"
+              },
+              "platforma": {
+                "pl": "CMF-B",
+                "en": "CMF-B",
+                "de": "CMF-B",
+                "uk": "CMF-B",
+                "ru": "ЦМФ-Б"
+              },
+              "silnik": {
+                "pl": "1.0L TCe",
+                "en": "1.0L TCe",
+                "de": "1,0 l TCe",
+                "uk": "1,0 л TCe",
+                "ru": "1,0 л ТСе",
+                "zh": "1.0L TCe"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Solenza": [
+      {
+        "BrandID": 32,
+        "ModelID": 414106,
+        "Brand Name": "Dacia",
+        "Model Name": "Solenza",
+        "Serie Name": "Solenza",
+        "Years": "2003 - 2005",
+        "specs": {
+          "bodyType": "Liftback",
+          "segment": "Compact Budget",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L / 1.9L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dacia Solenza to model przejściowy między SuperNovą a Loganem, wyposażony w silniki Renault.",
+              "en": "Dacia Solenza is a transitional model between SuperNova and Logan, equipped with Renault engines.",
+              "de": "Dacia Solenza ist ein Übergangsmodell zwischen SuperNova und Logan, ausgestattet mit Renault-Motoren.",
+              "uk": "Dacia Solenza - перехідна модель між SuperNova і Logan, оснащена двигунами Renault.",
+              "ru": "Dacia Solenza — переходная модель между SuperNova и Logan, оснащенная двигателями Renault.",
+              "zh": "Dacia Solenza 是 SuperNova 和 Logan 之间的过渡车型，配备雷诺发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dacia",
+                "en": "Dacia",
+                "de": "Dacia",
+                "uk": "Дачія",
+                "ru": "Дакия"
+              },
+              "okres produkcji": "2003–2005",
+              "miejsce produkcji": {
+                "pl": "Mioveni, Rumunia",
+                "en": "Mioveni, Romania",
+                "de": "Mioveni, Rumänien",
+                "uk": "Міовені, Румунія",
+                "ru": "Миовень, Румыния",
+                "zh": "Mioveni，罗马尼亚"
+              },
+              "platforma": {
+                "pl": "Dacia Nova",
+                "en": "Dacia Nova",
+                "de": "Dacia Nova",
+                "uk": "Дачія Нова",
+                "ru": "Дачия Нова",
+                "zh": "Dacia Nova"
+              },
+              "silnik": {
+                "pl": "1.4L / 1.9L Diesel",
+                "en": "1.4L / 1.9L Diesel",
+                "de": "1,4 l / 1,9 l Diesel",
+                "uk": "1,4 л / 1,9 л дизель",
+                "ru": "1,4 л/1,9 л Дизель",
+                "zh": "1.4L / 1.9L 柴油"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Spring": [
+      {
+        "BrandID": 32,
+        "ModelID": 416707,
+        "Brand Name": "Dacia",
+        "Model Name": "Spring",
+        "Serie Name": "Spring",
+        "Years": "2021 - 3000",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Electric City Car",
+          "drive": "FWD",
+          "fuel": "Electric",
+          "engine": "Electric (45-65 hp)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dacia Spring to najtańsze auto elektryczne w Europie, idealne do miasta, produkowane w Chinach.",
+              "en": "Dacia Spring is the cheapest electric car in Europe, perfect for the city, manufactured in China.",
+              "de": "Dacia Spring ist das günstigste Elektroauto Europas, perfekt für die Stadt, hergestellt in China.",
+              "uk": "Dacia Spring – найдешевший електромобіль в Європі, ідеальний для міста, виготовлений у Китаї.",
+              "ru": "Dacia Spring — самый дешевый электромобиль в Европе, идеальный для города, производится в Китае.",
+              "zh": "Dacia Spring 是欧洲最便宜的电动汽车，非常适合城市，在中国制造。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dacia",
+                "en": "Dacia",
+                "de": "Dacia",
+                "uk": "Дачія",
+                "ru": "Дакия"
+              },
+              "okres produkcji": {
+                "pl": "od 2021",
+                "en": "from 2021",
+                "de": "ab 2021",
+                "uk": "з 2021 року",
+                "ru": "с 2021 года",
+                "zh": "2021 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Shiyan, Chiny",
+                "en": "Shiyan, China",
+                "de": "Shiyan, China",
+                "uk": "Шиян, Китай",
+                "ru": "Шиян, Китай",
+                "zh": "中国十堰"
+              },
+              "platforma": {
+                "pl": "CMF-A EV",
+                "en": "CMF-A EV",
+                "de": "CMF-A EV",
+                "uk": "CMF-A EV",
+                "ru": "CMF-A EV",
+                "zh": "CMF-A EV"
+              },
+              "silnik": {
+                "pl": "Electric (45-65 KM)",
+                "en": "Electric (45-65 HP)",
+                "de": "Elektrisch (45-65 PS)",
+                "uk": "Електричний (45-65 к. с.)",
+                "ru": "Электрический (45-65 л.с.)",
+                "zh": "电动（45-65 马力）"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

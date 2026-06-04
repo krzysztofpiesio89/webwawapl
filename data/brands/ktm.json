@@ -1,0 +1,309 @@
+{
+  "brand": "KTM",
+  "models": {
+    "505": [
+      {
+        "BrandID": 222,
+        "ModelID": 416144,
+        "Brand Name": "KTM",
+        "Model Name": 505,
+        "Serie Name": 505,
+        "Years": "1990 - 3000",
+        "specs": {
+          "bodyType": "Motorcycle",
+          "segment": "Mainstream",
+          "drive": "Chain",
+          "fuel": "Gasoline",
+          "engine": "510cc 1-cyl",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "KTM 505 to potężny czterosuwowy silnik i maszyna stworzona do rywalizacji w klasie MX lub jako silnik do wyczynowych quadów (SX). Słynie z bezkompromisowej mocy.",
+              "en": "The KTM 505 is a powerful four-stroke engine and machine designed to compete in the MX class or as a performance quad (SX) engine. It is famous for its uncompromising power.",
+              "de": "Die KTM 505 ist ein leistungsstarker Viertaktmotor und eine Maschine, die für den Wettbewerb in der MX-Klasse oder als Performance-Quad-Motor (SX) konzipiert ist. Es ist berühmt für seine kompromisslose Kraft.",
+              "uk": "KTM 505 — це потужний чотиритактний двигун і машина, розроблена для змагань у класі MX або як потужний квадроцикл (SX). Він славиться своєю безкомпромісною силою.",
+              "ru": "KTM 505 — это мощный четырехтактный двигатель, предназначенный для соревнований в классе MX или в качестве высокопроизводительного четырехтактного двигателя (SX). Он славится своей бескомпромиссной силой.",
+              "zh": "KTM 505 是一款功能强大的四冲程发动机和机器，旨在参加 MX 级别比赛或作为高性能四冲程 (SX) 发动机。它以其不妥协的力量而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "KTM"
+              },
+              "klasa": {
+                "pl": "Motocross / Engine",
+                "en": "Motocross / Engine",
+                "de": "Motocross / Motor",
+                "uk": "Мотокрос / Двигун",
+                "ru": "Мотокросс/Двигатель",
+                "zh": "越野摩托车/发动机"
+              },
+              "silnik": {
+                "pl": "510 cm³ 1-cyl",
+                "en": "510 cm³ 1-cyl",
+                "de": "510 cm³ 1-Zyl.",
+                "uk": "1-циліндровий об’ємом 510 см³",
+                "ru": "510 см³ 1-цилиндровый",
+                "zh": "510 cm3 1 缸"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "": [
+      {
+        "BrandID": 222,
+        "ModelID": "",
+        "Brand Name": "KTM",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "KTM to austriacki producent motocykli, dominujący w świecie off-roadu i rajdów, ale oferujący też świetne maszyny szosowe.",
+              "en": "KTM is an Austrian motorcycle manufacturer, dominating the world of off-road and rallying, but also offering great road machines.",
+              "de": "KTM ist ein österreichischer Motorradhersteller, der die Welt des Offroad- und Rallyesports dominiert, aber auch großartige Straßenmaschinen anbietet.",
+              "uk": "KTM — австрійський виробник мотоциклів, який домінує у світі бездоріжжя та ралі, а також пропонує чудові дорожні машини.",
+              "ru": "KTM — австрийский производитель мотоциклов, доминирующий в мире бездорожья и ралли, но также предлагающий отличные дорожные машины.",
+              "zh": "KTM 是一家奥地利摩托车制造商，主导越野和拉力赛世界，同时也提供出色的公路机器。"
+            }
+          }
+        }
+      }
+    ],
+    "Adventure": [
+      {
+        "BrandID": 222,
+        "ModelID": 416128,
+        "Brand Name": "KTM",
+        "Model Name": "Adventure",
+        "Serie Name": "Adventure",
+        "Years": "1990 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Seria KTM Adventure to wyznacznik standardów w segmencie motocykli wyprawowych. Łączą rajdowy rodowód (Dakar) z komfortem dalekich podróży po asfalcie i piachu.",
+              "en": "The KTM Adventure series is the benchmark in the expedition motorcycle segment. They combine rally pedigree (Dakar) with the comfort of long journeys on asphalt and sand.",
+              "de": "Die KTM Adventure-Serie ist der Maßstab im Segment der Expeditionsmotorräder. Sie vereinen Rallye-Erfahrung (Dakar) mit dem Komfort langer Fahrten auf Asphalt und Sand.",
+              "uk": "Серія KTM Adventure є еталоном у сегменті експедиційних мотоциклів. Вони поєднують ралійний родовід (Дакар) з комфортом довгих подорожей по асфальту та піску.",
+              "ru": "Серия KTM Adventure является эталоном в сегменте экспедиционных мотоциклов. Они сочетают в себе раллийную родословную (Дакар) с комфортом длительных поездок по асфальту и песку.",
+              "zh": "KTM Adventure 系列是探险摩托车领域的标杆。它们将拉力赛血统（达喀尔）与沥青和沙地长途旅行的舒适性结合在一起。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "KTM"
+              },
+              "klasa": {
+                "pl": "Travel / Adventure",
+                "en": "Travel / Adventure",
+                "de": "Reisen / Abenteuer",
+                "uk": "Подорожі / Пригоди",
+                "ru": "Путешествия/Приключения",
+                "zh": "旅行/冒险"
+              },
+              "rodzina": {
+                "pl": "Adventure"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Duke": [
+      {
+        "BrandID": 222,
+        "ModelID": 416126,
+        "Brand Name": "KTM",
+        "Model Name": "Duke",
+        "Serie Name": "Duke",
+        "Years": "1990 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "KTM Duke to seria motocykli typu naked bike, które zrewolucjonizowały klasę lekkich i średnich maszyn szosowych. Słyną z lekkości, 'ostrego' prowadzenia i silników o dużym momencie.",
+              "en": "KTM Duke is a series of naked bike motorcycles that revolutionized the class of light and medium road machines. They are famous for their lightness, sharp handling and high-torque engines.",
+              "de": "KTM Duke ist eine Serie von Naked-Bike-Motorrädern, die die Klasse der leichten und mittelschweren Straßenmaschinen revolutioniert hat. Sie sind berühmt für ihr geringes Gewicht, ihr scharfes Handling und ihre drehmomentstarken Motoren.",
+              "uk": "KTM Duke — це серія мотоциклів Naked Bike, які зробили революцію в класі легких і середніх дорожніх машин. Вони славляться своєю легкістю, гострою керованістю та потужними двигунами.",
+              "ru": "KTM Duke — серия нейкедов, совершившая революцию в классе легких и средних дорожных машин. Они славятся своей легкостью, острой управляемостью и тяговитыми двигателями.",
+              "zh": "KTM Duke 是一系列裸车摩托车，彻底改变了轻型和中型公路摩托车的类型。它们以轻便、操控灵敏和高扭矩发动机而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "KTM"
+              },
+              "klasa": {
+                "pl": "Naked bike",
+                "en": "Naked bike",
+                "de": "Naked Bike",
+                "uk": "Naked bike",
+                "ru": "Голый велосипед",
+                "zh": "Naked bike"
+              },
+              "rodzina": {
+                "pl": "Duke"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Hard Enduro": [
+      {
+        "BrandID": 222,
+        "ModelID": 416227,
+        "Brand Name": "KTM",
+        "Model Name": "Hard Enduro",
+        "Serie Name": "Hard Enduro",
+        "Years": "2000 - 2020",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Modele KTM Hard Enduro (EXC) to najbardziej utytułowane maszyny w świecie rajdów terenowych i zawodów typu extreme enduro. Lekkość i wytrzymałość to ich drugie imię.",
+              "en": "KTM Hard Enduro (EXC) models are the most successful machines in the world of off-road rallies and extreme enduro competitions. Lightness and durability are their middle names.",
+              "de": "KTM Hard Enduro (EXC)-Modelle sind die erfolgreichsten Maschinen in der Welt der Offroad-Rallyes und extremen Enduro-Wettbewerbe. Leichtigkeit und Haltbarkeit sind ihre zweiten Vornamen.",
+              "uk": "Моделі KTM Hard Enduro (EXC) — найуспішніші машини у світі позашляхових ралі та змагань з екстремального ендуро. Легкість і довговічність - їх друге ім'я.",
+              "ru": "Модели KTM Hard Enduro (EXC) — самые успешные машины в мире ралли по бездорожью и соревнований экстремального эндуро. Легкость и долговечность – их вторые имена.",
+              "zh": "KTM Hard Enduro (EXC) 型号是越野拉力赛和极限耐力赛领域最成功的机器。轻盈和耐用是它们的中间名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "KTM"
+              },
+              "klasa": {
+                "pl": "Enduro"
+              },
+              "silnik": {
+                "pl": "2-suw / 4-suw",
+                "en": "2-stroke / 4-stroke",
+                "de": "2-Takt / 4-Takt",
+                "uk": "2-тактний / 4-тактний",
+                "ru": "2-тактный / 4-тактный",
+                "zh": "二冲程/四冲程"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Superbike": [
+      {
+        "BrandID": 222,
+        "ModelID": 416219,
+        "Brand Name": "KTM",
+        "Model Name": "Superbike",
+        "Serie Name": "Superbike",
+        "Years": "2000 - 2015",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "KTM RC8 i inne sportowe modele marki to bezkompromisowe maszyny wyścigowe o unikalnej konstrukcji kratownicowej i potężnych silnikach V-twin.",
+              "en": "KTM RC8 and other sports models of the brand are uncompromising racing machines with a unique truss structure and powerful V-twin engines.",
+              "de": "KTM RC8 und andere Sportmodelle der Marke sind kompromisslose Rennmaschinen mit einer einzigartigen Fachwerkstruktur und leistungsstarken V-Twin-Motoren.",
+              "uk": "KTM RC8 та інші спортивні моделі бренду – безкомпромісні гоночні машини з унікальною фермовою конструкцією та потужними двигунами V-twin.",
+              "ru": "KTM RC8 и другие спортивные модели марки — бескомпромиссные гоночные машины с уникальной ферменной конструкцией и мощными V-образными двигателями.",
+              "zh": "KTM RC8 和该品牌的其他运动车型是不妥协的赛车机器，拥有独特的桁架结构和强大的 V 型双缸发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "KTM"
+              },
+              "klasa": {
+                "pl": "Superbike / Sport",
+                "en": "Superbike / Sport",
+                "de": "Superbike / Sport",
+                "uk": "Superbike / Sport",
+                "ru": "Супербайк / Спорт",
+                "zh": "超级摩托车/运动"
+              },
+              "rama": {
+                "pl": "Kratownicowa"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Supermoto": [
+      {
+        "BrandID": 222,
+        "ModelID": 416124,
+        "Brand Name": "KTM",
+        "Model Name": "Supermoto",
+        "Serie Name": "Supermoto",
+        "Years": "1990 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Segment A (City Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "KTM Supermoto (m.in. 690 SMC R) to motocykle łączące zwinność maszyny motocrossowej z przyczepnością opon szosowych. Stworzone do zabawy i dynamicznej jazdy miejskiej.",
+              "en": "KTM Supermoto (including 690 SMC R) are motorcycles that combine the agility of a motocross machine with the grip of road tires. Designed for fun and dynamic city driving.",
+              "de": "KTM Supermoto (einschließlich 690 SMC R) sind Motorräder, die die Agilität einer Motocross-Maschine mit dem Grip von Straßenreifen kombinieren. Entwickelt für Spaß und dynamisches Fahren in der Stadt.",
+              "uk": "KTM Supermoto (включаючи 690 SMC R) — це мотоцикли, які поєднують в собі маневреність мотокросової машини та зчеплення дорожніх шин. Створений для веселої та динамічної міської їзди.",
+              "ru": "KTM Supermoto (включая 690 SMC R) — мотоциклы, сочетающие в себе маневренность машины для мотокросса и сцепление дорожных шин. Создан для увлекательной и динамичной езды по городу.",
+              "zh": "KTM Supermoto（包括 690 SMC R）是结合了越野摩托车的敏捷性和公路轮胎的抓地力的摩托车。专为充满乐趣和活力的城市驾驶而设计。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "KTM"
+              },
+              "klasa": {
+                "pl": "Supermoto"
+              },
+              "silnik": {
+                "pl": "LC4 (1-cyl)",
+                "en": "LC4 (1-cyl)",
+                "de": "LC4 (1-Zyl)",
+                "uk": "LC4 (1-цил.)",
+                "ru": "LC4 (1-цилиндровый)",
+                "zh": "LC4（1-环）"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

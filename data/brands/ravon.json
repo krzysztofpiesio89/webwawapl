@@ -1,0 +1,150 @@
+{
+  "brand": "Ravon",
+  "models": {
+    "": [
+      {
+        "BrandID": 187,
+        "ModelID": "",
+        "Brand Name": "Ravon",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ravon to uzbecka marka, następca UzDaewoo, oferująca sprawdzone modele Chevroleta w przystępnych cenach.",
+              "en": "Ravon is an Uzbek brand, the successor to UzDaewoo, offering proven Chevrolet models at affordable prices.",
+              "de": "Ravon ist eine usbekische Marke, der Nachfolger von UzDaewoo, die bewährte Chevrolet-Modelle zu erschwinglichen Preisen anbietet.",
+              "uk": "Ravon - узбецький бренд, спадкоємець UzDaewoo, що пропонує перевірені моделі Chevrolet за доступними цінами.",
+              "ru": "Ravon – узбекский бренд, преемник UzDaewoo, предлагающий проверенные модели Chevrolet по доступным ценам.",
+              "zh": "Ravon 是乌兹别克斯坦品牌，是 UzDaewoo 的后继者，以实惠的价格提供经过验证的雪佛兰车型。"
+            }
+          }
+        }
+      }
+    ],
+    "Gentra": [
+      {
+        "BrandID": 187,
+        "ModelID": 416359,
+        "Brand Name": "Ravon",
+        "Model Name": "Gentra",
+        "Serie Name": "Gentra",
+        "Years": "2005 - 2015",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ravon Gentra to zmodernizowana wersja Chevroleta Lacetti, ceniona za prostotę i trwałość.",
+              "en": "Ravon Gentra is a modernized version of the Chevrolet Lacetti, appreciated for its simplicity and durability.",
+              "de": "Ravon Gentra ist eine modernisierte Version des Chevrolet Lacetti, die für ihre Einfachheit und Haltbarkeit geschätzt wird.",
+              "uk": "Ravon Gentra — модернізована версія Chevrolet Lacetti, яку цінують за її простоту та довговічність.",
+              "ru": "Ravon Gentra – это модернизированная версия Chevrolet Lacetti, ценящаяся за простоту и долговечность.",
+              "zh": "Ravon Gentra 是雪佛兰 Lacetti 的现代化版本，因其简单性和耐用性而受到赞赏。"
+            }
+          }
+        }
+      }
+    ],
+    "Matiz": [
+      {
+        "BrandID": 187,
+        "ModelID": 416361,
+        "Brand Name": "Ravon",
+        "Model Name": "Matiz",
+        "Serie Name": "Matiz",
+        "Years": "2005 - 2020",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Segment A (City Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ravon Matiz to popularne auto miejskie, znane ze swojej zwrotności i niskiego spalania.",
+              "en": "Ravon Matiz is a popular city car, known for its maneuverability and low fuel consumption.",
+              "de": "Ravon Matiz ist ein beliebtes Stadtauto, das für seine Manövrierfähigkeit und seinen geringen Kraftstoffverbrauch bekannt ist.",
+              "uk": "Ravon Matiz — популярний міський автомобіль, відомий своєю маневреністю та низьким споживанням палива.",
+              "ru": "Равон Матиз – популярный городской автомобиль, известный своей маневренностью и низким расходом топлива.",
+              "zh": "Ravon Matiz 是一款受欢迎的城市汽车，以其机动性和低油耗而闻名。"
+            }
+          }
+        }
+      }
+    ],
+    "R2": [
+      {
+        "BrandID": 187,
+        "ModelID": 415272,
+        "Brand Name": "Ravon",
+        "Model Name": "R2",
+        "Serie Name": "R2",
+        "Years": "2016 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ravon R2 to licencyjna wersja Chevroleta Sparka, jedno z najtańszych aut z automatyczną skrzynią biegów.",
+              "en": "Ravon R2 is a licensed version of the Chevrolet Spark, one of the cheapest cars with an automatic transmission.",
+              "de": "Ravon R2 ist eine lizenzierte Version des Chevrolet Spark, eines der günstigsten Autos mit Automatikgetriebe.",
+              "uk": "Ravon R2 — ліцензійна версія Chevrolet Spark, одного з найдешевших автомобілів з автоматичною коробкою передач.",
+              "ru": "Ravon R2 — лицензионная версия Chevrolet Spark, одного из самых дешевых автомобилей с автоматической коробкой передач.",
+              "zh": "Ravon R2 是雪佛兰 Spark 的授权版本，雪佛兰 Spark 是最便宜的自动变速箱汽车之一。"
+            }
+          }
+        }
+      }
+    ],
+    "R4": [
+      {
+        "BrandID": 187,
+        "ModelID": 415274,
+        "Brand Name": "Ravon",
+        "Model Name": "R4",
+        "Serie Name": "R4",
+        "Years": "2016 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ravon R4 (Chevrolet Cobalt) to przestronny sedan budżetowy, idealny dla rodzin i taksówkarzy.",
+              "en": "The Ravon R4 (Chevrolet Cobalt) is a spacious budget sedan, perfect for families and taxi drivers.",
+              "de": "Der Ravon R4 (Chevrolet Cobalt) ist eine geräumige Budget-Limousine, perfekt für Familien und Taxifahrer.",
+              "uk": "Ravon R4 (Chevrolet Cobalt) — це просторий бюджетний седан, ідеальний для сімей і водіїв таксі.",
+              "ru": "Ravon R4 (Chevrolet Cobalt) — просторный бюджетный седан, идеально подходящий для семей и водителей такси.",
+              "zh": "Ravon R4（雪佛兰 Cobalt）是一款宽敞的经济型轿车，非常适合家庭和出租车司机。"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

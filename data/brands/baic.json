@@ -1,0 +1,81 @@
+{
+  "brand": "BAIC",
+  "models": {
+    "Beijing X3": [
+      {
+        "BrandID": 302,
+        "ModelID": 500201,
+        "Brand Name": "BAIC",
+        "Model Name": "Beijing X3",
+        "Serie Name": "Beijing X3 (Senova X35)",
+        "Years": "2019 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L / 1.5T",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "Beijing X55": [
+      {
+        "BrandID": 302,
+        "ModelID": 500202,
+        "Brand Name": "BAIC",
+        "Model Name": "Beijing X55",
+        "Serie Name": "Beijing X55 II",
+        "Years": "2022 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5T",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "Beijing X7": [
+      {
+        "BrandID": 302,
+        "ModelID": 500203,
+        "Brand Name": "BAIC",
+        "Model Name": "Beijing X7",
+        "Serie Name": "Beijing X7",
+        "Years": "2020 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline/PHEV",
+          "engine": "1.5T / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "BJ40": [
+      {
+        "BrandID": 302,
+        "ModelID": 500204,
+        "Brand Name": "BAIC",
+        "Model Name": "BJ40",
+        "Serie Name": "BJ40 Plus",
+        "Years": "2013 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Off-road SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0T / 2.3T",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ]
+  }
+}

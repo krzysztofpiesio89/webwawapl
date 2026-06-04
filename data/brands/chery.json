@@ -1,0 +1,191 @@
+{
+  "brand": "Chery",
+  "models": {
+    "Amulet": [
+      {
+        "BrandID": 28,
+        "ModelID": 211,
+        "Brand Name": "Chery",
+        "Model Name": "Amulet",
+        "Serie Name": "A15",
+        "Years": "2003 - 2012",
+        "specs": {
+          "bodyType": "Liftback",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "Tiggo": [
+      {
+        "BrandID": 28,
+        "ModelID": 413967,
+        "Brand Name": "Chery",
+        "Model Name": "Tiggo",
+        "Serie Name": "Tiggo (T11)",
+        "Years": "2005 - 2013",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L - 2.4L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "Tiggo 2": [
+      {
+        "BrandID": 28,
+        "ModelID": 413969,
+        "Brand Name": "Chery",
+        "Model Name": "Tiggo 2",
+        "Serie Name": "Tiggo 2 / 3X",
+        "Years": "2016 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Subcompact SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "Tiggo 4": [
+      {
+        "BrandID": 28,
+        "ModelID": 416370,
+        "Brand Name": "Chery",
+        "Model Name": "Tiggo 4",
+        "Serie Name": "Tiggo 4 / 5X",
+        "Years": "2017 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L / 1.5L Turbo / 2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "Tiggo 7": [
+      {
+        "BrandID": 28,
+        "ModelID": 416371,
+        "Brand Name": "Chery",
+        "Model Name": "Tiggo 7",
+        "Serie Name": "Tiggo 7",
+        "Years": "2016 - 2020",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L Turbo / 2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      },
+      {
+        "BrandID": 28,
+        "ModelID": 416351,
+        "Brand Name": "Chery",
+        "Model Name": "Tiggo 7",
+        "Serie Name": "Tiggo 7 Pro",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L Turbo / 1.6L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "Tiggo 8": [
+      {
+        "BrandID": 28,
+        "ModelID": 416372,
+        "Brand Name": "Chery",
+        "Model Name": "Tiggo 8",
+        "Serie Name": "Tiggo 8",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L Turbo / 2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      },
+      {
+        "BrandID": 28,
+        "ModelID": 416352,
+        "Brand Name": "Chery",
+        "Model Name": "Tiggo 8",
+        "Serie Name": "Tiggo 8 Pro",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.6L Turbo / 2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "QQ": [
+      {
+        "BrandID": 28,
+        "ModelID": 415567,
+        "Brand Name": "Chery",
+        "Model Name": "QQ",
+        "Serie Name": "QQ3",
+        "Years": "2003 - 2015",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "0.8L / 1.1L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "Arrizo 8": [
+      {
+        "BrandID": 28,
+        "ModelID": 416655,
+        "Brand Name": "Chery",
+        "Model Name": "Arrizo 8",
+        "Serie Name": "Arrizo 8",
+        "Years": "2022 - 3000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ]
+  }
+}

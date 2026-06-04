@@ -1,0 +1,195 @@
+{
+  "brand": "Datsun",
+  "models": {
+    "240Z": [
+      {
+        "BrandID": 203,
+        "ModelID": 416730,
+        "Brand Name": "Datsun",
+        "Model Name": "240Z",
+        "Serie Name": "240Z (S30)",
+        "Years": "1969 - 1973",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L I6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "260Z": [
+      {
+        "BrandID": 203,
+        "ModelID": 416731,
+        "Brand Name": "Datsun",
+        "Model Name": "260Z",
+        "Serie Name": "260Z (S30)",
+        "Years": "1974 - 1978",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "2.6L I6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "280Z": [
+      {
+        "BrandID": 203,
+        "ModelID": 416732,
+        "Brand Name": "Datsun",
+        "Model Name": "280Z",
+        "Serie Name": "280Z (S30)",
+        "Years": "1975 - 1978",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "2.8L I6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "280ZX": [
+      {
+        "BrandID": 203,
+        "ModelID": 416733,
+        "Brand Name": "Datsun",
+        "Model Name": "280ZX",
+        "Serie Name": "280ZX (S130)",
+        "Years": "1978 - 1983",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "2.8L I6 / 2.8L Turbo",
+          "isOldtimer": true,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "510": [
+      {
+        "BrandID": 203,
+        "ModelID": 416734,
+        "Brand Name": "Datsun",
+        "Model Name": "510",
+        "Serie Name": "510",
+        "Years": "1968 - 1973",
+        "specs": {
+          "bodyType": "Sedan/Wagon/Coupe",
+          "segment": "Compact",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "GO": [
+      {
+        "BrandID": 203,
+        "ModelID": 416735,
+        "Brand Name": "Datsun",
+        "Model Name": "GO",
+        "Serie Name": "GO",
+        "Years": "2014 - 2022",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.2L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "GO+": [
+      {
+        "BrandID": 203,
+        "ModelID": 416736,
+        "Brand Name": "Datsun",
+        "Model Name": "GO+",
+        "Serie Name": "GO+",
+        "Years": "2014 - 2022",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.2L",
+          "isOldtimer": false,
+          "vehicleType": "Van"
+        }
+      }
+    ],
+    "mi-DO": [
+      {
+        "BrandID": 203,
+        "ModelID": 415857,
+        "Brand Name": "Datsun",
+        "Model Name": "mi-DO",
+        "Serie Name": "mi-DO",
+        "Years": "2014 - 2020",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Subcompact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "on-DO": [
+      {
+        "BrandID": 203,
+        "ModelID": 415855,
+        "Brand Name": "Datsun",
+        "Model Name": "on-DO",
+        "Serie Name": "on-DO",
+        "Years": "2014 - 2020",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Subcompact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "redi-GO": [
+      {
+        "BrandID": 203,
+        "ModelID": 416737,
+        "Brand Name": "Datsun",
+        "Model Name": "redi-GO",
+        "Serie Name": "redi-GO",
+        "Years": "2016 - 2022",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "0.8L / 1.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ]
+  }
+}

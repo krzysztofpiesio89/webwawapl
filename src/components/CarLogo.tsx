@@ -1,0 +1,48 @@
+export default function CarLogo({ className = "h-12 w-auto" }: { className?: string }) {
+  return (
+    <svg 
+      viewBox="0 0 100 100" 
+      className={className}
+      fill="none" 
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      {/* Car Body */}
+      <path 
+        d="M10 50C10 40 20 35 50 35C80 35 90 40 90 50V75C90 80 85 85 80 85H20C15 85 10 80 10 75V50Z" 
+        fill="#fbbf24" 
+      />
+      <path 
+        d="M20 35C20 25 30 20 50 20C70 20 80 25 80 35H20Z" 
+        fill="#1e293b" 
+      />
+      
+      {/* Windshield */}
+      <path 
+        d="M25 35C25 28 32 25 50 25C68 25 75 28 75 35H25Z" 
+        fill="#94a3b8" 
+        opacity="0.5" 
+      />
+
+      {/* Eyes (Headlights) */}
+      <circle cx="30" cy="55" r="10" fill="white" />
+      <circle cx="30" cy="55" r="5" fill="#1e293b" />
+      <circle cx="30" cy="53" r="2" fill="white" />
+
+      <circle cx="70" cy="55" r="10" fill="white" />
+      <circle cx="70" cy="55" r="5" fill="#1e293b" />
+      <circle cx="70" cy="53" r="2" fill="white" />
+
+      {/* Smile (Grille) */}
+      <path 
+        d="M35 72C40 75 60 75 65 72" 
+        stroke="#1e293b" 
+        strokeWidth="3" 
+        strokeLinecap="round" 
+      />
+
+      {/* Wheels */}
+      <rect x="15" y="80" width="15" height="10" rx="4" fill="#1e293b" />
+      <rect x="70" y="80" width="15" height="10" rx="4" fill="#1e293b" />
+    </svg>
+  );
+}

@@ -1,0 +1,3820 @@
+{
+  "brand": "VW",
+  "models": {
+    "Amarok": [
+      {
+        "BrandID": 143,
+        "ModelID": 1619,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Amarok",
+        "Serie Name": "Amarok I",
+        "Years": "2010 - 2022",
+        "specs": {
+          "bodyType": "Pickup",
+          "segment": "Mid-size Pickup",
+          "drive": "RWD/4MOTION",
+          "fuel": "Diesel/Gasoline",
+          "engine": "2.0 TDI - 3.0 V6 TDI",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Volkswagen Amarok to potężny pickup, który udowodnił, że auto do ciężkiej pracy może być jednocześnie komfortowe i zaawansowane technologicznie. Ceniony za luksusowe wnętrze i doskonałe właściwości jezdne.",
+              "en": "The Volkswagen Amarok is a powerful pickup that proved that a car for hard work can be comfortable and technologically advanced at the same time. Appreciated for its luxurious interior and excellent driving characteristics.",
+              "de": "Der Volkswagen Amarok ist ein leistungsstarker Pickup, der bewiesen hat, dass ein Auto für harte Arbeit gleichzeitig komfortabel und technologisch fortschrittlich sein kann. Geschätzt für sein luxuriöses Interieur und seine hervorragenden Fahreigenschaften.",
+              "uk": "Volkswagen Amarok — потужний пікап, який довів, що автомобіль для важкої роботи може бути комфортним і технологічним водночас. Цінується за розкішний салон і відмінні ходові якості.",
+              "ru": "Volkswagen Amarok – мощный пикап, доказавший, что автомобиль для тяжелой работы может быть одновременно комфортным и технологичным. Ценится за роскошный салон и отличные ходовые качества.",
+              "zh": "大众 Amarok 是一款功能强大的皮卡，它证明了一辆适合艰苦工作的汽车可以同时提供舒适性和先进的技术。因其豪华的内饰和出色的驾驶特性而受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": {
+                "pl": "od 2010",
+                "en": "from 2010",
+                "de": "ab 2010",
+                "uk": "з 2010 року",
+                "ru": "с 2010 года.",
+                "zh": "自2010年以来"
+              },
+              "segment": {
+                "pl": "Pickup klasy średniej",
+                "en": "Mid-range pickup",
+                "de": "Mittelklasse-Pickup",
+                "uk": "Пікап середнього класу",
+                "ru": "Пикап среднего класса",
+                "zh": "中档拾音器"
+              },
+              "napęd": {
+                "pl": "4Motion"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 416613,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Amarok",
+        "Serie Name": "Amarok II",
+        "Years": "2022 - Present",
+        "specs": {
+          "bodyType": "Pickup",
+          "segment": "Mid-size Pickup",
+          "drive": "RWD/4MOTION",
+          "fuel": "Diesel/Gasoline",
+          "engine": "2.0 TDI - 3.0 V6 TDI",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja Amaroka, opracowana we współpracy z Fordem, łączy legendarną trwałość Volkswagena z najnowocześniejszymi systemami wsparcia kierowcy i jeszcze większymi możliwościami transportowymi.",
+              "en": "The second generation of the Amarok, developed in cooperation with Ford, combines legendary Volkswagen durability with state-of-the-art driver assistance systems and even greater transport capabilities.",
+              "de": "Die in Zusammenarbeit mit Ford entwickelte zweite Generation des Amarok verbindet die legendäre Volkswagen Langlebigkeit mit modernsten Fahrerassistenzsystemen und noch größeren Transportfähigkeiten.",
+              "uk": "Друге покоління Amarok, розроблене у співпраці з компанією Ford, поєднує в собі легендарну довговічність Volkswagen із найсучаснішими системами допомоги водієві та ще більшими транспортними можливостями.",
+              "ru": "Второе поколение Amarok, разработанное в сотрудничестве с Ford, сочетает в себе легендарную долговечность Volkswagen с современными системами помощи водителю и еще более широкими транспортными возможностями.",
+              "zh": "第二代 Amarok 与福特合作开发，将大众汽车传奇的耐用性与最先进的驾驶员辅助系统以及更强大的运输能力结合在一起。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen / Ford",
+                "en": "Volkswagen / Ford",
+                "de": "Volkswagen / Ford",
+                "uk": "Volkswagen / Ford",
+                "ru": "Volkswagen / Ford",
+                "zh": "大众/福特"
+              },
+              "okres produkcji": {
+                "pl": "od 2022",
+                "en": "from 2022",
+                "de": "ab 2022",
+                "uk": "з 2022 року",
+                "ru": "с 2022 года.",
+                "zh": "2022年起"
+              },
+              "segment": {
+                "pl": "Pickup klasy średniej",
+                "en": "Mid-range pickup",
+                "de": "Mittelklasse-Pickup",
+                "uk": "Пікап середнього класу",
+                "ru": "Пикап среднего класса",
+                "zh": "中档拾音器"
+              },
+              "napęd": {
+                "pl": "4Motion"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Arteon": [
+      {
+        "BrandID": 143,
+        "ModelID": 415875,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Arteon",
+        "Serie Name": "Arteon",
+        "Years": "2017 - Present",
+        "specs": {
+          "bodyType": "Fastback/Shooting Brake",
+          "segment": "Segment E (Executive)",
+          "drive": "FWD/4MOTION",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "1.5 TSI - 2.0 TSI / 2.0 TDI / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volkswagen Arteon to flagowy model typu fastback, który łączy elegancję limuzyny ze sportową sylwetką coupe. Wyróżnia się bezramkowymi oknami i niezwykle luksusowym wykończeniem wnętrza.",
+              "en": "Volkswagen Arteon is the flagship fastback model that combines the elegance of a limousine with the sporty silhouette of a coupe. It is distinguished by frameless windows and an extremely luxurious interior finish.",
+              "de": "Volkswagen Arteon ist das Flaggschiff-Fastback-Modell, das die Eleganz einer Limousine mit der sportlichen Silhouette eines Coupés verbindet. Es zeichnet sich durch rahmenlose Fenster und eine äußerst luxuriöse Innenausstattung aus.",
+              "uk": "Volkswagen Arteon — це флагманська модель фастбек, яка поєднує в собі елегантність лімузина зі спортивним силуетом купе. Його відрізняють безрамні вікна та надзвичайно розкішна внутрішня обробка.",
+              "ru": "Volkswagen Arteon — флагманская модель в стиле фастбэк, сочетающая в себе элегантность лимузина со спортивным силуэтом купе. Его отличают безрамные окна и чрезвычайно роскошная внутренняя отделка.",
+              "zh": "大众 Arteon 是旗舰级溜背车型，融合了豪华轿车的优雅与轿跑车的运动轮廓。它的特点是无框窗户和极其豪华的室内装饰。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": {
+                "pl": "od 2017",
+                "en": "from 2017",
+                "de": "ab 2017",
+                "uk": "з 2017 року",
+                "ru": "от 2017 года.",
+                "zh": "2017年以来"
+              },
+              "segment": {
+                "pl": "E (Executive)",
+                "en": "E (Executive)",
+                "de": "E (Executive)",
+                "uk": "E (Executive)",
+                "ru": "E (Executive)",
+                "zh": "E（行政）"
+              },
+              "typ nadwozia": {
+                "pl": "Fastback / Shooting Brake",
+                "en": "Fastback / Shooting Brake",
+                "de": "Fastback / Shooting Brake",
+                "uk": "Fastback / Shooting Brake",
+                "ru": "Fastback / Shooting Brake",
+                "zh": "快背/射击刹车"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Beetle": [
+      {
+        "BrandID": 143,
+        "ModelID": 413599,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Beetle",
+        "Serie Name": "New Beetle (9C)",
+        "Years": "1997 - 2011",
+        "specs": {
+          "bodyType": "Hatchback/Convertible",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 3.2L RSi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "New Beetle to nowoczesna interpretacja kultowego Garbusa, która w 1997 roku zapoczątkowała modę na styl retro w motoryzacji. Auto łączy sympatyczną stylistykę z niezawodną technologią Golfa.",
+              "en": "New Beetle is a modern interpretation of the iconic Beetle, which in 1997 started the fashion for retro style in the automotive industry. The car combines nice styling with reliable Golf technology.",
+              "de": "New Beetle ist eine moderne Interpretation des ikonischen Käfers, der 1997 den Trend zum Retro-Stil in der Automobilindustrie einläutete. Das Auto kombiniert schönes Design mit zuverlässiger Golf-Technologie.",
+              "uk": "New Beetle — це сучасна інтерпретація культового Beetle, який у 1997 році започаткував моду на ретро-стиль в автомобільній промисловості. Автомобіль поєднує приємний стиль із надійною технологією Golf.",
+              "ru": "New Beetle — современная интерпретация культового Beetle, который в 1997 году положил начало моде на ретро-стиль в автомобильной индустрии. Автомобиль сочетает в себе приятный стиль и надежные технологии Golf.",
+              "zh": "新甲壳虫是对标志性甲壳虫的现代诠释，甲壳虫于 1997 年开启了汽车行业的复古风格时尚。该车结合了精美的造型和可靠的高尔夫技术。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "1997–2011",
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (Compact)",
+                "ru": "C (Компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "styl": {
+                "pl": "Retro-design"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 413600,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Beetle",
+        "Serie Name": "Beetle (A5)",
+        "Years": "2011 - 2019",
+        "specs": {
+          "bodyType": "Hatchback/Convertible",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2 TSI - 2.0 TSI",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ostatnia generacja Beetle to bardziej dojrzały i sportowy model, który złożył hołd oryginalnemu Garbusowi, oferując jednocześnie nowoczesne osiągi i dynamiczne prowadzenie.",
+              "en": "The latest generation Beetle is a more mature and sporty model that pays homage to the original Beetle while offering modern performance and dynamic handling.",
+              "de": "Der Beetle der neuesten Generation ist ein ausgereifteres und sportlicheres Modell, das eine Hommage an den ursprünglichen Beetle darstellt und gleichzeitig moderne Leistung und dynamisches Handling bietet.",
+              "uk": "Beetle останнього покоління — це більш зріла та спортивна модель, яка віддає данину поваги оригінальному Beetle, водночас пропонуючи сучасні характеристики та динамічне керування.",
+              "ru": "Beetle последнего поколения — это более зрелая и спортивная модель, которая отдает дань уважения оригинальному Beetle, предлагая при этом современные характеристики и динамичное управление.",
+              "zh": "最新一代甲壳虫是一款更加成熟和运动的车型，向原版甲壳虫致敬，同时提供现代性能和动态操控。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "2011–2019",
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (Compact)",
+                "ru": "C (Компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "platforma": {
+                "pl": "PQ35"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Bora": [
+      {
+        "BrandID": 143,
+        "ModelID": 1627,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Bora",
+        "Serie Name": "Bora (1J)",
+        "Years": "1998 - 2005",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD/4MOTION",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 2.8L VR6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Vw_jetta_1_h_sst.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/8/81/Vw_jetta_1_h_sst.jpg"
+            ]
+          }
+        }
+      }
+    ],
+    "Caddy": [
+      {
+        "BrandID": 143,
+        "ModelID": 415460,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Caddy",
+        "Serie Name": "Caddy I (14)",
+        "Years": "1979 - 1996",
+        "specs": {
+          "bodyType": "Pickup/Van",
+          "segment": "Compact Van",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.5L - 1.8L",
+          "isOldtimer": true,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Pierwsza generacja Caddy to kultowy model użytkowy oparty na Golfie I. Początkowo projektowany jako pickup, stał się synonimem wszechstronności i trwałości w segmencie małych aut dostawczych.",
+              "en": "The first generation Caddy is an iconic utility model based on the Golf I. Initially designed as a pickup truck, it has become synonymous with versatility and durability in the small delivery van segment.",
+              "de": "Der Caddy der ersten Generation ist ein ikonisches Gebrauchsmodell auf Basis des Golf I. Ursprünglich als Pickup konzipiert, ist er zum Synonym für Vielseitigkeit und Langlebigkeit im Segment der kleinen Lieferwagen geworden.",
+              "uk": "Перше покоління Caddy — це культова корисна модель на основі Golf I. Спочатку розроблена як пікап, вона стала синонімом універсальності та довговічності в сегменті невеликих фургонів.",
+              "ru": "Caddy первого поколения — культовая полезная модель, созданная на базе Golf I. Первоначально спроектированный как пикап, он стал синонимом универсальности и долговечности в сегменте небольших фургонов.",
+              "zh": "第一代 Caddy 是基于 Golf I 的标志性实用车型。最初设计为皮卡，现已成为小型货车领域多功能性和耐用性的代名词。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "1979–1996",
+              "segment": {
+                "pl": "Kompaktowy van / Pickup",
+                "en": "Compact van / Pickup",
+                "de": "Kompaktvan / Pickup",
+                "uk": "Компактний фургон/пікап",
+                "ru": "Компактный фургон/пикап",
+                "zh": "紧凑型货车/皮卡"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 138962,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Caddy",
+        "Serie Name": "Caddy II (9K/9U)",
+        "Years": "1995 - 2004",
+        "specs": {
+          "bodyType": "Van/Picup",
+          "segment": "Compact Van",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 1.9 TDI",
+          "isOldtimer": true,
+          "vehicleType": "Van",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/1988_Volkswagen_Caddy_%28Type_148%29_utility_%2827473696625%29.jpg/1280px-1988_Volkswagen_Caddy_%28Type_148%29_utility_%2827473696625%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/1988_Volkswagen_Caddy_%28Type_148%29_utility_%2827473696625%29.jpg/1280px-1988_Volkswagen_Caddy_%28Type_148%29_utility_%2827473696625%29.jpg"
+            ]
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 132288,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Caddy",
+        "Serie Name": "Caddy III (2K)",
+        "Years": "2004 - 2015",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Compact Van",
+          "drive": "FWD/4MOTION",
+          "fuel": "Gasoline/Diesel/CNG",
+          "engine": "1.2 TSI - 2.0 TDI",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Caddy trzeciej generacji to kamień milowy w segmencie kombivanów, łączący funkcjonalność auta dostawczego z komfortem minivana. Model ten zyskał ogromną popularność zarówno wśród firm, jak i rodzin.",
+              "en": "The third generation Caddy is a milestone in the station wagon segment, combining the functionality of a delivery car with the comfort of a minivan. This model has gained enormous popularity among both companies and families.",
+              "de": "Der Caddy der dritten Generation ist ein Meilenstein im Kombi-Segment und vereint die Funktionalität eines Lieferwagens mit dem Komfort eines Minivans. Dieses Modell erfreut sich sowohl bei Unternehmen als auch bei Familien enormer Beliebtheit.",
+              "uk": "Третє покоління Caddy є віхою в сегменті універсалів, поєднуючи функціональність автомобіля для доставки з комфортом мінівена. Ця модель завоювала величезну популярність як серед компаній, так і серед сімей.",
+              "ru": "Caddy третьего поколения является важной вехой в сегменте универсалов, сочетая в себе функциональность развозного автомобиля с комфортом минивэна. Эта модель завоевала огромную популярность как среди компаний, так и среди семей.",
+              "zh": "第三代 Caddy 是旅行车领域的里程碑，它将送货车的功能与小型货车的舒适性结合在一起。这种模式在公司和家庭中都广受欢迎。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "2004–2015",
+              "segment": {
+                "pl": "Kompaktowy van",
+                "en": "The compact van",
+                "de": "Der Kompaktvan",
+                "uk": "Компактний фургон",
+                "ru": "Компактный фургон",
+                "zh": "紧凑型货车"
+              },
+              "platforma": {
+                "pl": "PQ35"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 414356,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Caddy",
+        "Serie Name": "Caddy IV (SA)",
+        "Years": "2015 - 2020",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Compact Van",
+          "drive": "FWD/4MOTION",
+          "fuel": "Gasoline/Diesel/CNG",
+          "engine": "1.0 TSI - 2.0 TDI",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Caddy IV to ewolucja sprawdzonej konstrukcji, wprowadzająca zaawansowane systemy bezpieczeństwa i bardziej ekologiczne jednostki napędowe, przy zachowaniu wzorcowej przestrzeni ładunkowej.",
+              "en": "Caddy IV is an evolution of a proven design, introducing advanced safety systems and more ecological drive units, while maintaining exemplary cargo space.",
+              "de": "Caddy IV ist eine Weiterentwicklung eines bewährten Designs, das fortschrittliche Sicherheitssysteme und umweltfreundlichere Antriebseinheiten einführt und gleichzeitig einen vorbildlichen Laderaum bietet.",
+              "uk": "Caddy IV — це еволюція перевіреного дизайну, що включає передові системи безпеки та більш екологічні агрегати приводу, зберігаючи зразковий вантажний простір.",
+              "ru": "Caddy IV представляет собой эволюцию проверенной конструкции, в которой представлены усовершенствованные системы безопасности и более экологичные приводы, сохраняя при этом образцовое грузовое пространство.",
+              "zh": "Caddy IV 是经过验证的设计的演变，引入了先进的安全系统和更环保的驱动装置，同时保持了典范的载货空间。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "2015–2020",
+              "segment": {
+                "pl": "Kompaktowy van",
+                "en": "Compact van",
+                "de": "Kompaktvan",
+                "uk": "Компактвен",
+                "ru": "Компактный фургон",
+                "zh": "紧凑型货车"
+              },
+              "standardy": {
+                "pl": "Euro 6",
+                "en": "Euro 6",
+                "de": "Euro 6",
+                "uk": "Євро 6",
+                "ru": "Евро 6",
+                "zh": "欧6"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 416369,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Caddy",
+        "Serie Name": "Caddy V (SB)",
+        "Years": "2020 - Present",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Compact Van",
+          "drive": "FWD/4MOTION",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.5 TSI - 2.0 TDI",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Najnowsza odsłona Caddy, oparta na platformie MQB, to samochód całkowicie cyfrowy i niezwykle komfortowy. Wyznacza nowe standardy w segmencie pod względem technologii i jakości prowadzenia.",
+              "en": "The latest version of Caddy, based on the MQB platform, is a completely digital and extremely comfortable car. It sets new standards in the segment in terms of technology and driving quality.",
+              "de": "Die neueste Version des Caddy, basierend auf der MQB-Plattform, ist ein komplett digitales und äußerst komfortables Auto. Es setzt neue Maßstäbe im Segment hinsichtlich Technologie und Fahrqualität.",
+              "uk": "Остання версія Caddy, заснована на платформі MQB, є повністю цифровим і надзвичайно комфортним автомобілем. Він встановлює нові стандарти в сегменті з точки зору технологій і якості водіння.",
+              "ru": "Последняя версия Caddy, основанная на платформе MQB, представляет собой полностью цифровой и чрезвычайно комфортный автомобиль. Он устанавливает новые стандарты в сегменте с точки зрения технологий и качества вождения.",
+              "zh": "最新版本的Caddy基于MQB平台，是一款完全数字化且极其舒适的汽车。它在技术和驾驶质量方面树立了该领域的新标准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": {
+                "pl": "od 2020",
+                "en": "from 2020",
+                "de": "ab 2020",
+                "uk": "з 2020",
+                "ru": "с 2020 г.",
+                "zh": "2020年起"
+              },
+              "segment": {
+                "pl": "Kompaktowy van",
+                "en": "Compact van",
+                "de": "Kompaktvan",
+                "uk": "Компактний фургон",
+                "ru": "Компактный фургон",
+                "zh": "紧凑型货车"
+              },
+              "platforma": {
+                "pl": "MQB"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Corrado": [
+      {
+        "BrandID": 143,
+        "ModelID": 1633,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Corrado",
+        "Serie Name": "Corrado",
+        "Years": "1988 - 1995",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sports Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.8L G60 - 2.9L VR6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volkswagen Corrado to legendarne sportowe coupe, które do dziś uchodzi za jedno z najlepiej prowadzących się aut z przednim napędem. Ikona techniki z aktywnym tylnym spojlerem i silnikami VR6.",
+              "en": "Volkswagen Corrado is a legendary sports coupe that is still considered one of the best-driving front-wheel drive cars. Technical icon with active rear spoiler and VR6 engines.",
+              "de": "Volkswagen Corrado ist ein legendäres Sportcoupé, das immer noch als eines der am besten fahrenden Autos mit Frontantrieb gilt. Technische Ikone mit aktivem Heckspoiler und VR6-Motoren.",
+              "uk": "Volkswagen Corrado — легендарне спортивне купе, яке досі вважається одним із найкращих передньопривідних автомобілів. Технічна ікона з активним заднім спойлером і двигунами VR6.",
+              "ru": "Volkswagen Corrado – легендарное спортивное купе, которое до сих пор считается одним из самых ходовых переднеприводных автомобилей. Технический значок с активным задним спойлером и двигателями VR6.",
+              "zh": "大众 Corrado 是一款传奇的运动轿跑车，至今仍被认为是驾驶性能最佳的前轮驱动汽车之一。带有主动后扰流板和 VR6 发动机的技术图标。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "1988–1995",
+              "segment": {
+                "pl": "User/Sportowe",
+                "en": "User/Sport",
+                "de": "User/Sport",
+                "uk": "Користувач/Спорт",
+                "ru": "Пользователь/Спорт",
+                "zh": "用户/运动"
+              },
+              "cecha": {
+                "pl": "Aktywny spojler",
+                "en": "Active spoiler",
+                "de": "Aktiver Spoiler",
+                "uk": "Активний спойлер",
+                "ru": "Активный спойлер",
+                "zh": "主动扰流板"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Crafter": [
+      {
+        "BrandID": 143,
+        "ModelID": 413603,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Crafter",
+        "Serie Name": "Crafter I",
+        "Years": "2006 - 2017",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Large Van",
+          "drive": "RWD",
+          "fuel": "Diesel",
+          "engine": "2.0 TDI - 2.5 TDI",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Pierwsza generacja Craftera, zbudowana we współpracy z Mercedesem, to potężny samochód dostawczy stworzony do najtrudniejszych zadań transportowych, oferujący ogromne możliwości konfiguracji.",
+              "en": "The first generation of Crafter, built in cooperation with Mercedes, is a powerful delivery vehicle created for the most difficult transport tasks, offering enormous configuration possibilities.",
+              "de": "Der in Zusammenarbeit mit Mercedes gebaute Crafter der ersten Generation ist ein leistungsstarkes Lieferfahrzeug für schwierigste Transportaufgaben mit enormen Konfigurationsmöglichkeiten.",
+              "uk": "Перше покоління Crafter, створене у співпраці з Mercedes, є потужним транспортним засобом, створеним для найскладніших транспортних завдань, що пропонує величезні можливості конфігурації.",
+              "ru": "Первое поколение Crafter, созданное в сотрудничестве с Mercedes, представляет собой мощный развозной автомобиль, созданный для самых сложных транспортных задач и предлагающий огромные возможности комплектации.",
+              "zh": "与梅赛德斯合作打造的第一代 Crafter 是一款功能强大的运载工具，专为最困难的运输任务而设计，提供了巨大的配置可能性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen / Mercedes",
+                "en": "Volkswagen / Mercedes",
+                "de": "Volkswagen / Mercedes",
+                "uk": "Volkswagen / Mercedes",
+                "ru": "Фольксваген/Мерседес",
+                "zh": "大众/奔驰"
+              },
+              "okres produkcji": "2006–2017",
+              "segment": {
+                "pl": "Duży van",
+                "en": "Large van",
+                "de": "Großer Transporter",
+                "uk": "Великий фургон",
+                "ru": "Большой фургон",
+                "zh": "大货车"
+              },
+              "ładowność": {
+                "pl": "do 5t",
+                "en": "up to 5t",
+                "de": "bis 5 t",
+                "uk": "до 5 т",
+                "ru": "до 5т",
+                "zh": "最大 5 吨"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 413604,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Crafter",
+        "Serie Name": "Crafter II",
+        "Years": "2017 - Present",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Large Van",
+          "drive": "FWD/RWD/4MOTION",
+          "fuel": "Diesel/Electric",
+          "engine": "2.0 TDI / e-Crafter",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Crafter drugiej generacji to samodzielna konstrukcja Volkswagena, która zdobyła tytuł International Van of the Year. Wyróżnia się niespotykaną w tej klasie ergonomią i nowoczesnymi systemami asystującymi.",
+              "en": "The second generation Crafter is an independent Volkswagen design that won the International Van of the Year title. It is distinguished by unique ergonomics and modern assistance systems.",
+              "de": "Der Crafter der zweiten Generation ist ein eigenständiges Volkswagen-Design, das den Titel „International Van of the Year“ gewonnen hat. Es zeichnet sich durch einzigartige Ergonomie und moderne Assistenzsysteme aus.",
+              "uk": "Друге покоління Crafter — це незалежний дизайн Volkswagen, який отримав титул Міжнародний фургон року. Його відрізняє унікальна ергономіка та сучасні системи допомоги.",
+              "ru": "Crafter второго поколения — это отдельная разработка Volkswagen, завоевавшая титул «Международный фургон года». Его отличает уникальная эргономика и современные системы помощи.",
+              "zh": "第二代 Crafter 是大众汽车的独立设计，荣获国际年度货车称号。它以独特的人体工程学设计和现代辅助系统而著称。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": {
+                "pl": "od 2017",
+                "en": "from 2017",
+                "de": "ab 2017",
+                "uk": "з 2017 року",
+                "ru": "с 2017 года",
+                "zh": "2017年以来"
+              },
+              "segment": {
+                "pl": "Duży van",
+                "en": "Large van",
+                "de": "Großer Transporter",
+                "uk": "Великий фургон",
+                "ru": "Большой фургон",
+                "zh": "大货车"
+              },
+              "miejsce produkcji": {
+                "pl": "Września, Polska",
+                "en": "Września, Poland",
+                "de": "Września, Polen",
+                "uk": "Września, Poland",
+                "ru": "Сентябрь, Польша",
+                "zh": "九月，波兰"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Eos": [
+      {
+        "BrandID": 143,
+        "ModelID": 1639,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Eos",
+        "Serie Name": "Eos",
+        "Years": "2006 - 2015",
+        "specs": {
+          "bodyType": "Convertible",
+          "segment": "Compact Convertible",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4 TSI - 3.6 V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volkswagen Eos to unikalny kabriolet z twardym składanym dachem (CSC), który jako jedyny na rynku posiadał wbudowane szklane okno dachowe. Idealne połączenie elegancji i letniej swobody.",
+              "en": "Volkswagen Eos is a unique convertible with a hard foldable roof (CSC), which was the only one on the market with a built-in glass sunroof. The perfect combination of elegance and summer freedom.",
+              "de": "Volkswagen Eos ist ein einzigartiges Cabriolet mit einem hart faltbaren Dach (CSC), das als einziges auf dem Markt über ein eingebautes Glasschiebedach verfügte. Die perfekte Kombination aus Eleganz und sommerlicher Freiheit.",
+              "uk": "Volkswagen Eos — унікальний кабріолет із жорстким складним дахом (CSC), який єдиний на ринку мав вбудований скляний люк. Ідеальне поєднання елегантності та літньої свободи.",
+              "ru": "Volkswagen Eos — уникальный кабриолет с откидной жесткой крышей (CSC), единственный на рынке со встроенным стеклянным люком. Идеальное сочетание элегантности и летней свободы.",
+              "zh": "大众 Eos 是一款独特的敞篷车，配备敞篷硬顶 (CSC)，这是市场上唯一一款配备内置玻璃天窗的车型。优雅与夏日自由的完美结合。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "2006–2015",
+              "segment": {
+                "pl": "Kompaktowy kabriolet",
+                "en": "Compact convertible",
+                "de": "Kompaktes Cabriolet",
+                "uk": "Компактний кабріолет",
+                "ru": "Компактный кабриолет",
+                "zh": "紧凑型敞篷车"
+              },
+              "dach": {
+                "pl": "Hardtop CSC",
+                "en": "Hardtop CSC",
+                "de": "Hardtop CSC",
+                "uk": "Hardtop CSC",
+                "ru": "CSC Хардтоп",
+                "zh": "CSC硬顶"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Fox": [
+      {
+        "BrandID": 143,
+        "ModelID": 1640,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Fox",
+        "Serie Name": "Fox",
+        "Years": "2003 - 2011",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment A (City Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L - 1.4 TDI",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volkswagen Fox to zwinne i oszczędne miejskie auto, zaprojektowane z myślą o maksymalnej praktyczności w zatłoczonych metropoliach. Prosta budowa i wysokie wnętrze to jego główne atuty.",
+              "en": "Volkswagen Fox is an agile and fuel-efficient city car, designed for maximum practicality in crowded metropolises. Simple construction and high interior are its main advantages.",
+              "de": "Volkswagen Fox ist ein agiles und sparsames Stadtauto, das für maximale Praktikabilität in überfüllten Metropolen konzipiert ist. Die einfache Konstruktion und der hohe Innenraum sind seine Hauptvorteile.",
+              "uk": "Volkswagen Fox — це маневрений і економічний міський автомобіль, розроблений для максимальної практичності в багатолюдних мегаполісах. Проста конструкція і високий внутрішній простір - його головні переваги.",
+              "ru": "Volkswagen Fox — маневренный и экономичный городской автомобиль, созданный для максимальной практичности в многолюдных мегаполисах. Простая конструкция и высокое внутреннее пространство – его основные преимущества.",
+              "zh": "大众福克斯是一款灵活且省油的城市汽车，专为在拥挤的大都市中提供最大的实用性而设计。结构简单、内饰高是其主要优点。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "2003–2011",
+              "segment": {
+                "pl": "A (Miejskie)",
+                "en": "A (City)",
+                "de": "A (Stadt)",
+                "uk": "A (місто)",
+                "ru": "А (Городской)",
+                "zh": "A（城市）"
+              },
+              "miejsce produkcji": {
+                "pl": "Brazylia"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Golf": [
+      {
+        "BrandID": 143,
+        "ModelID": 415521,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Golf",
+        "Serie Name": "Golf I",
+        "Years": "1974 - 1983",
+        "specs": {
+          "bodyType": "Hatchback/Convertible",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.1L - 1.8L GTI",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volkswagen Golf I to samochód, który zrewolucjonizował klasę kompaktową i uratował koncern VW, wprowadzając napęd na przednią oś i poprzecznie montowany silnik. Następca Garbusa, który sam stał się legendą.",
+              "en": "Volkswagen Golf I is a car that revolutionized the compact class and saved the VW concern by introducing front-wheel drive and a transversely mounted engine. The successor of the Beetle, which became a legend itself.",
+              "de": "Volkswagen Golf I ist ein Auto, das die Kompaktklasse revolutionierte und den VW-Konzern durch die Einführung des Frontantriebs und eines quer eingebauten Motors rettete. Der Nachfolger des Käfers, der selbst zur Legende wurde.",
+              "uk": "Volkswagen Golf I — це автомобіль, який зробив революцію в компактному класі та врятував концерн VW, представивши передній привід і поперечно встановлений двигун. Наступник Жука, який сам став легендою.",
+              "ru": "Volkswagen Golf I – автомобиль, который произвел революцию в компактном классе и спас концерн VW, представив передний привод и поперечно расположенный двигатель. Преемник Жука, ставшего легендой.",
+              "zh": "大众高尔夫 I 是一款彻底改变了紧凑型汽车的汽车，通过引入前轮驱动和横向安装的发动机，挽救了大众汽车的担忧。甲壳虫的继承者，本身就成为一个传奇。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "1974–1983",
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (Compact)",
+                "ru": "С (компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "projektant": {
+                "pl": "Giorgetto Giugiaro",
+                "en": "Giorgetto Giugiaro",
+                "de": "Giorgetto Giugiaro",
+                "uk": "Giorgetto Giugiaro",
+                "ru": "Джорджетто Джуджаро",
+                "zh": "乔治亚罗"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 141148,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Golf",
+        "Serie Name": "Golf II",
+        "Years": "1983 - 1992",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.3L - 1.8L G60",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja Golfa urosła i stała się jeszcze bardziej solidna, cementując pozycję modelu jako lidera segmentu. Wprowadziła zaawansowane jak na tamte czasy systemy, jak napęd na cztery koła Syncro w wersji Country.",
+              "en": "The second generation of the Golf has grown and become even more robust, cementing the model's position as the segment leader. It introduced advanced systems at that time, such as Syncro four-wheel drive in the Country version.",
+              "de": "Die zweite Generation des Golf ist gewachsen und noch robuster geworden und festigt damit die Position des Modells als Segmentführer. Damals wurden fortschrittliche Systeme eingeführt, wie zum Beispiel der Syncro-Allradantrieb in der Country-Version.",
+              "uk": "Друге покоління Golf виросло та стало ще міцнішим, закріпивши позицію моделі як лідера сегменту. Він представив передові на той час системи, такі як повний привід Syncro у версії Country.",
+              "ru": "Второе поколение Golf выросло и стало еще солиднее, укрепив позиции модели как лидера сегмента. В то время он представил передовые системы, такие как полный привод Syncro в версии Country.",
+              "zh": "第二代高尔夫已经发展壮大，变得更加坚固，巩固了该车型作为细分市场领导者的地位。它引入了当时先进的系统，例如乡村版的Syncro四轮驱动。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "1983–1992",
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (Compact)",
+                "ru": "С (компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "wersja kultowa": {
+                "pl": "GTI / G60",
+                "en": "GTI / G60",
+                "de": "GTI / G60",
+                "uk": "GTI / G60",
+                "ru": "ГТИ/G60",
+                "zh": "GTI/G60"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 141149,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Golf",
+        "Serie Name": "Golf III",
+        "Years": "1991 - 1999",
+        "specs": {
+          "bodyType": "Hatchback/Variant/Convertible",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 2.9 VR6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/VW_Golf_I_front_20080930.jpg/1280px-VW_Golf_I_front_20080930.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/VW_Golf_I_front_20080930.jpg/1280px-VW_Golf_I_front_20080930.jpg"
+            ]
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 3613,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Golf",
+        "Serie Name": "Golf IV",
+        "Years": "1997 - 2006",
+        "specs": {
+          "bodyType": "Hatchback/Variant",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD/4MOTION",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 3.2 R32",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Golf IV zdefiniował pojęcie jakości premium w klasie kompaktowej, wprowadzając standardy wykończenia wnętrza znane z wyższych segmentów. Model ten stał się wzorcem trwałości i ponadczasowego designu.",
+              "en": "Golf IV defined the concept of premium quality in the compact class, introducing interior finishing standards known from higher segments. This model has become a model of durability and timeless design.",
+              "de": "Golf IV definierte das Konzept der Premiumqualität in der Kompaktklasse und führte Standards bei der Innenausstattung ein, die aus höheren Segmenten bekannt sind. Dieses Modell ist zu einem Musterbeispiel für Langlebigkeit und zeitloses Design geworden.",
+              "uk": "Golf IV визначив концепцію преміальної якості в компактному класі, запровадивши стандарти внутрішньої обробки, відомі з вищих сегментів. Ця модель стала зразком довговічності та позачасового дизайну.",
+              "ru": "Golf IV определил концепцию премиум-качества в компактном классе, представив стандарты внутренней отделки, известные в более высоких сегментах. Эта модель стала образцом долговечности и вневременного дизайна.",
+              "zh": "高尔夫 IV 定义了紧凑型车中的优质概念，引入了高端细分市场所熟知的内饰标准。该型号已成为耐用性和永恒设计的典范。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "1997–2006",
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (Compact)",
+                "ru": "С (компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "platforma": {
+                "pl": "PQ34"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 137902,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Golf",
+        "Serie Name": "Golf V",
+        "Years": "2003 - 2009",
+        "specs": {
+          "bodyType": "Hatchback/Variant",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD/4MOTION",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4 TSI - 3.2 R32",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Piąta generacja Golfa wprowadziła przełomowe wielowahaczowe zawieszenie tylnej osi, co znacząco poprawiło prowadzenie. To w tej generacji zadebiutowała również szybka i wydajna skrzynia biegów DSG.",
+              "en": "The fifth generation of the Golf introduced a groundbreaking multi-link rear axle suspension, which significantly improved handling. It was in this generation that the fast and efficient DSG gearbox also debuted.",
+              "de": "Die fünfte Generation des Golf führte eine bahnbrechende Mehrlenker-Hinterachsaufhängung ein, die das Fahrverhalten deutlich verbesserte. In dieser Generation debütierte auch das schnelle und effiziente DSG-Getriebe.",
+              "uk": "П’яте покоління Golf представило революційну багатоважільну підвіску задньої осі, яка значно покращила керованість. Саме в цьому поколінні також дебютувала швидка та ефективна коробка передач DSG.",
+              "ru": "Пятое поколение Golf представило революционную многорычажную подвеску задней оси, которая значительно улучшила управляемость. Именно в этом поколении дебютировала и быстрая и эффективная коробка передач DSG.",
+              "zh": "第五代高尔夫引入了突破性的多连杆后桥悬架，显着改善了操控性。正是在这一代，快速高效的 DSG 变速箱也首次亮相。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "2003–2009",
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (Compact)",
+                "ru": "С (компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "technologia": {
+                "pl": "Zawieszenie Multi-link",
+                "en": "Multi-link suspension",
+                "de": "Mehrlenkerfederung",
+                "uk": "Багатоважільна підвіска",
+                "ru": "Многорычажная подвеска",
+                "zh": "多连杆悬架"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 146555,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Golf",
+        "Serie Name": "Golf VI",
+        "Years": "2008 - 2013",
+        "specs": {
+          "bodyType": "Hatchback/Variant/Convertible",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD/4MOTION",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2 TSI - 2.0 R",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Golf VI to dopracowana w każdym calu ewolucja poprzednika, skupiona na wyciszeniu wnętrza i komforcie podróżowania. Wyznaczał standardy bezpieczeństwa, co potwierdziły najwyższe oceny w testach zderzeniowych.",
+              "en": "Golf VI is an evolution of its predecessor, refined in every detail, focused on quiet interior and travel comfort. It set safety standards, which was confirmed by the highest ratings in crash tests.",
+              "de": "Der Golf VI ist eine Weiterentwicklung seines Vorgängers, bis ins kleinste Detail verfeinert, mit Fokus auf ruhigen Innenraum und Reisekomfort. Es setzte Sicherheitsstandards, was durch höchste Bewertungen bei Crashtests bestätigt wurde.",
+              "uk": "Golf VI — це еволюція свого попередника, вишукана в кожній деталі, зосереджена на тихому салоні та комфорті подорожі. Він встановив стандарти безпеки, що було підтверджено найвищими оцінками в краш-тестах.",
+              "ru": "Golf VI — это эволюция своего предшественника, изысканная в каждой детали, ориентированная на тихий салон и комфорт путешествия. Он установил стандарты безопасности, что подтвердили самые высокие оценки в краш-тестах.",
+              "zh": "高尔夫 VI 是其前身的演变，在每个细节上都精益求精，专注于安静的内饰和旅行舒适性。它设定了安全标准，并在碰撞测试中得到了最高评级的证实。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "2008–2013",
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (компактний)",
+                "ru": "С (компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "tytuł": {
+                "pl": "World Car of the Year 2009",
+                "en": "World Car of the Year 2009",
+                "de": "Weltauto des Jahres 2009",
+                "uk": "Всесвітній автомобіль року 2009",
+                "ru": "Мировой автомобиль года 2009",
+                "zh": "2009 年世界年度汽车"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 155004,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Golf",
+        "Serie Name": "Golf VII",
+        "Years": "2012 - 2020",
+        "specs": {
+          "bodyType": "Hatchback/Variant",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD/4MOTION",
+          "fuel": "Gasoline/Diesel/Hybrid/Electric",
+          "engine": "1.0 TSI - 2.0 R / e-Golf",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Zbudowany na modułowej platformie MQB, Golf VII stał się lżejszy i bardziej oszczędny. Wprowadził szeroką gamę napędów, od silników TSI i TDI, przez hybrydowe GTE, aż po w pełni elektrycznego e-Golfa.",
+              "en": "Built on the modular MQB platform, the Golf VII has become lighter and more fuel-efficient. It introduced a wide range of drives, from TSI and TDI engines, through hybrid GTE, to the fully electric e-Golf.",
+              "de": "Der auf der modularen MQB-Plattform basierende Golf VII ist leichter und sparsamer geworden. Es stellte eine breite Palette von Antrieben vor, von TSI- und TDI-Motoren über Hybrid-GTE bis hin zum vollelektrischen E-Golf.",
+              "uk": "Побудований на модульній платформі MQB, Golf VII став легшим і економнішим. Він представив широкий спектр приводів, від двигунів TSI і TDI, гібридного GTE до повністю електричного e-Golf.",
+              "ru": "Построенный на модульной платформе MQB, Golf VII стал легче и экономичнее. Он представил широкий спектр приводов: от двигателей TSI и TDI до гибридного GTE и полностью электрического e-Golf.",
+              "zh": "基于模块化 MQB 平台打造的高尔夫 VII 变得更轻、更省油。它推出了广泛的驱动装置，从 TSI 和 TDI 发动机，到混合动力 GTE，再到全电动 e-Golf。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "2012–2020",
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (Compact)",
+                "ru": "С (компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "platforma": {
+                "pl": "MQB"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 414427,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Golf",
+        "Serie Name": "Golf VIII",
+        "Years": "2019 - Present",
+        "specs": {
+          "bodyType": "Hatchback/Variant",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD/4MOTION",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "1.0 TSI - 2.0 R / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Golf VIII to generacja cyfrowa, która zastąpiła większość fizycznych przycisków panelami dotykowymi i zaawansowanym systemem multimediów. Oferuje najnowocześniejsze systemy wsparcia kierowcy Travel Assist.",
+              "en": "Golf VIII is a digital generation that replaced most of the physical buttons with touch panels and an advanced multimedia system. It offers state-of-the-art Travel Assist driver support systems.",
+              "de": "Golf VIII ist eine digitale Generation, die die meisten physischen Tasten durch Touchpanels und ein fortschrittliches Multimediasystem ersetzt hat. Es bietet modernste Fahrerassistenzsysteme „Travel Assist“.",
+              "uk": "Golf VIII — це цифрове покоління, яке замінило більшість фізичних кнопок сенсорними панелями та передовою мультимедійною системою. Він пропонує найсучасніші системи підтримки водія Travel Assist.",
+              "ru": "Golf VIII — цифровое поколение, заменившее большую часть физических кнопок сенсорными панелями и продвинутой мультимедийной системой. Он предлагает современные системы поддержки водителя Travel Assist.",
+              "zh": "Golf VIII 是数字一代，用触摸屏和先进的多媒体系统取代了大部分物理按钮。它提供最先进的旅行辅助驾驶员支持系统。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019 року",
+                "ru": "с 2019 года",
+                "zh": "2019年起"
+              },
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (компактний)",
+                "ru": "С (компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "wnętrze": {
+                "pl": "Innovision Cockpit",
+                "en": "Innovision Cockpit",
+                "de": "Innovision Cockpit",
+                "uk": "Innovision Cockpit",
+                "ru": "Инновижн Кокпит",
+                "zh": "创视驾驶舱"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Golf Plus": [
+      {
+        "BrandID": 143,
+        "ModelID": 414360,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Golf Plus",
+        "Serie Name": "Golf Plus I",
+        "Years": "2005 - 2009",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 2.0 TDI",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Golf Plus to podwyższona wersja Golfa, oferująca więcej miejsca nad głowami i wyższą pozycję za kierownicą. Idealny wybór dla osób szukających kompaktowych wymiarów z funkcjonalnością zbliżoną do minivana.",
+              "en": "Golf Plus is a raised version of the Golf, offering more headroom and a higher driving position. An ideal choice for people looking for compact dimensions with functionality similar to a minivan.",
+              "de": "Golf Plus ist eine erhöhte Version des Golf und bietet mehr Kopffreiheit und eine höhere Fahrposition. Eine ideale Wahl für Menschen, die kompakte Abmessungen mit einer Funktionalität ähnlich einem Minivan suchen.",
+              "uk": "Golf Plus — це піднята версія Golf, яка пропонує більше простору для голови та вищу посадку за кермом. Ідеальний вибір для людей, які шукають компактні розміри з функціональністю, схожою на мінівен.",
+              "ru": "Golf Plus — это более совершенная версия Golf, предлагающая больше места для головы и более высокую посадку водителя. Идеальный выбор для людей, ищущих компактные размеры и функциональность, аналогичную минивэну.",
+              "zh": "Golf Plus 是 Golf 的更高版本，提供更多的头部空间和更高的驾驶位置。对于寻求紧凑尺寸且功能类似于小型货车的人们来说，这是一个理想的选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "2005–2009",
+              "segment": {
+                "pl": "Kompaktowy MPV",
+                "en": "Compact MPV",
+                "de": "Kompakter MPV",
+                "uk": "Компактний MPV",
+                "ru": "Компактный минивэн",
+                "zh": "紧凑型MPV"
+              },
+              "nadwozie": {
+                "pl": "Hatchback High-roof",
+                "en": "High-roof Hatchback",
+                "de": "Hochdach-Schrägheck",
+                "uk": "Хетчбек з високим дахом",
+                "ru": "Хэтчбек с высокой крышей",
+                "zh": "高顶掀背车"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 414361,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Golf Plus",
+        "Serie Name": "Golf Plus II",
+        "Years": "2009 - 2014",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2 TSI - 2.0 TDI",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Druga odsłona Golfa Plus kontynuowała sprawdzoną formułę, oferując jeszcze lepsze materiały i odświeżony design zgodny z linią Golfa VI. Praktyczny towarzysz codziennych podróży.",
+              "en": "The second version of the Golf Plus continued the proven formula, offering even better materials and a refreshed design consistent with the Golf VI line. A practical companion for everyday travel.",
+              "de": "Die zweite Version des Golf Plus setzte die bewährte Formel fort und bot noch bessere Materialien und ein aufgefrischtes Design im Einklang mit der Golf VI-Linie. Ein praktischer Begleiter für den Reisealltag.",
+              "uk": "Друга версія Golf Plus продовжила перевірену формулу, пропонуючи ще кращі матеріали та оновлений дизайн, що відповідає лінії Golf VI. Практичний компаньйон для щоденних подорожей.",
+              "ru": "Вторая версия Golf Plus продолжила проверенную формулу, предложив еще лучшие материалы и обновленный дизайн, соответствующий линии Golf VI. Практичный спутник для ежедневных путешествий.",
+              "zh": "Golf Plus 的第二个版本延续了经过验证的配方，提供了更好的材料和与 Golf VI 系列一致的更新设计。日常旅行的实用伴侣。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "2009–2014",
+              "segment": {
+                "pl": "Kompaktowy MPV",
+                "en": "Compact MPV",
+                "de": "Kompakter MPV",
+                "uk": "Компактний MPV",
+                "ru": "Компактный минивэн",
+                "zh": "紧凑型MPV"
+              },
+              "baza": {
+                "pl": "Golf VI",
+                "en": "Golf VI",
+                "de": "Golf VI",
+                "uk": "Golf VI",
+                "ru": "Гольф VI",
+                "zh": "高尔夫六号"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Golf Sportsvan": [
+      {
+        "BrandID": 143,
+        "ModelID": 416408,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Golf Sportsvan",
+        "Serie Name": "Golf Sportsvan",
+        "Years": "2014 - 2020",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0 TSI - 2.0 TDI",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volkswagen Golf Sportsvan zastąpił model Plus, oferując znacznie większy rozstaw osi i ogromną przestrzeń we wnętrzu przy zachowaniu dynamiki prowadzenia Golfa VII. Wzorzec ergonomii i widoczności.",
+              "en": "Volkswagen Golf Sportsvan replaced the Plus model, offering a much longer wheelbase and huge interior space while maintaining the driving dynamics of the Golf VII. A benchmark in ergonomics and visibility.",
+              "de": "Volkswagen Golf Sportsvan ersetzte das Plus-Modell und bot einen deutlich längeren Radstand und einen riesigen Innenraum, während die Fahrdynamik des Golf VII erhalten blieb. Ein Maßstab in Ergonomie und Sicht.",
+              "uk": "Volkswagen Golf Sportsvan замінив модель Plus, запропонувавши набагато довший колісну базу та величезний внутрішній простір, зберігаючи при цьому динаміку руху Golf VII. Еталон ергономіки та видимості.",
+              "ru": "Volkswagen Golf Sportsvan пришел на смену модели Plus, предлагая гораздо более длинную колесную базу и огромное внутреннее пространство, сохраняя при этом динамику движения Golf VII. Эталон эргономики и обзорности.",
+              "zh": "大众高尔夫 Sportsvan 取代了 Plus 车型，提供更长的轴距和更大的内部空间，同时保持了高尔夫 VII 的驾驶动力。人体工程学和可视性的基准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "2014–2020",
+              "segment": {
+                "pl": "Kompaktowy MPV",
+                "en": "Compact MPV",
+                "de": "Kompakter MPV",
+                "uk": "Компактний MPV",
+                "ru": "Компактный минивэн",
+                "zh": "紧凑型MPV"
+              },
+              "rozstaw osi": {
+                "pl": "2685 mm",
+                "en": "2685 mm",
+                "de": "2685 mm",
+                "uk": "2685 мм",
+                "ru": "2685 мм",
+                "zh": "2685毫米"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "ID.3": [
+      {
+        "BrandID": 143,
+        "ModelID": 415788,
+        "Brand Name": "Volkswagen",
+        "Model Name": "ID.3",
+        "Serie Name": "ID.3",
+        "Years": "2019 - Present",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment C (Electric)",
+          "drive": "RWD",
+          "fuel": "Electric",
+          "engine": "Electric Motor 45-77kWh",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volkswagen ID.3 to pierwszy model z nowej, w pełni elektrycznej rodziny ID, zbudowany na dedykowanej platformie MEB. To auto, które otwiera trzeci wielki rozdział w historii marki, po Garbusie i Golfie.",
+              "en": "Volkswagen ID.3 is the first model from the new, fully electric ID family, built on a dedicated MEB platform. This is a car that opens the third great chapter in the brand's history, after the Beetle and Golf.",
+              "de": "Volkswagen ID.3 ist das erste Modell aus der neuen, vollelektrischen ID-Familie, aufgebaut auf einer dedizierten MEB-Plattform. Es ist ein Auto, das nach Käfer und Golf das dritte große Kapitel in der Geschichte der Marke aufschlägt.",
+              "uk": "Volkswagen ID.3 — це перша модель із нового, повністю електричного сімейства ID, побудованого на спеціальній платформі MEB. Це автомобіль, який відкриває третю велику главу в історії бренду після Beetle і Golf.",
+              "ru": "Volkswagen ID.3 — первая модель нового полностью электрического семейства ID, построенная на специальной платформе MEB. Это автомобиль, открывающий третью великую главу в истории бренда после Beetle и Golf.",
+              "zh": "大众 ID.3 是全新全电动 ID 系列的首款车型，基于专用 MEB 平台构建。这是继甲壳虫和高尔夫之后，这款汽车开启了该品牌历史上的第三个伟大篇章。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019 року",
+                "ru": "с 2019 года",
+                "zh": "2019年起"
+              },
+              "segment": {
+                "pl": "Elektryczny kompakt (C)",
+                "en": "Electric compact (C)",
+                "de": "Elektro-Kompaktwagen (C)",
+                "uk": "Електричний компакт (C)",
+                "ru": "Электрический компактный (С)",
+                "zh": "电动紧凑型 (C)"
+              },
+              "platforma": {
+                "pl": "MEB"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "ID.4": [
+      {
+        "BrandID": 143,
+        "ModelID": 415791,
+        "Brand Name": "Volkswagen",
+        "Model Name": "ID.4",
+        "Serie Name": "ID.4",
+        "Years": "2020 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment C-SUV (Electric)",
+          "drive": "RWD/AWD",
+          "fuel": "Electric",
+          "engine": "Electric Motor 52-77kWh",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volkswagen ID.4 to globalny elektryczny SUV, który łączy wszechstronność rodzinnego auta z ekologicznym napędem. Zdobywca tytułu World Car of the Year 2021, oferujący duży zasięg i przestronne, minimalistyczne wnętrze.",
+              "en": "Volkswagen ID.4 is a global electric SUV that combines the versatility of a family car with an ecological drive. Winner of the 2021 World Car of the Year title, it offers long range and a spacious, minimalist interior.",
+              "de": "Volkswagen ID.4 ist ein globaler Elektro-SUV, der die Vielseitigkeit eines Familienautos mit einem ökologischen Antrieb verbindet. Als Gewinner des Titels „Weltauto des Jahres 2021“ bietet es eine große Reichweite und einen geräumigen, minimalistischen Innenraum.",
+              "uk": "Volkswagen ID.4 — це глобальний електричний позашляховик, який поєднує в собі універсальність сімейного автомобіля з екологічним приводом. Володар титулу «Всесвітній автомобіль року 2021» пропонує великий запас ходу та просторий мінімалістичний салон.",
+              "ru": "Volkswagen ID.4 — глобальный электрический внедорожник, сочетающий в себе универсальность семейного автомобиля с экологичностью. Обладатель титула «Всемирный автомобиль года 2021 года», он предлагает большой запас хода и просторный минималистичный салон.",
+              "zh": "大众 ID.4 是一款全球电动 SUV，将家庭用车的多功能性与生态驱动力相结合。它荣获 2021 年世界年度汽车称号，续航里程长，内饰宽敞简约。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": {
+                "pl": "od 2020",
+                "en": "from 2020",
+                "de": "ab 2020",
+                "uk": "з 2020 року",
+                "ru": "с 2020 года",
+                "zh": "2020年起"
+              },
+              "segment": {
+                "pl": "Elektryczny C-SUV",
+                "en": "Electric C-SUV",
+                "de": "Elektro-C-SUV",
+                "uk": "Електричний C-SUV",
+                "ru": "Электрический C-SUV",
+                "zh": "电动C级SUV"
+              },
+              "tytuł": {
+                "pl": "World Car of the Year 2021",
+                "en": "World Car of the Year 2021",
+                "de": "Weltauto des Jahres 2021",
+                "uk": "Всесвітній автомобіль року 2021",
+                "ru": "World Car of the Year 2021",
+                "zh": "2021 年世界年度汽车"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "ID.5": [
+      {
+        "BrandID": 143,
+        "ModelID": 416614,
+        "Brand Name": "Volkswagen",
+        "Model Name": "ID.5",
+        "Serie Name": "ID.5",
+        "Years": "2021 - Present",
+        "specs": {
+          "bodyType": "SUV Coupe",
+          "segment": "Segment C-SUV (Electric)",
+          "drive": "RWD/AWD",
+          "fuel": "Electric",
+          "engine": "Electric Motor 77kWh",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volkswagen ID.5 to stylowa odmiana ID.4 z nadwoziem typu SUV Coupe. Łączy dynamiczną linię dachu z wydajnym napędem elektrycznym, oferując sportowy wygląd bez rezygnacji z walorów użytkowych.",
+              "en": "Volkswagen ID.5 is a stylish variant of the ID.4 with an SUV Coupe body. It combines a dynamic roofline with an efficient electric drive, offering a sporty look without sacrificing utility values.",
+              "de": "Volkswagen ID.5 ist eine stilvolle Variante des ID.4 mit einer SUV-Coupé-Karosserie. Es kombiniert eine dynamische Dachlinie mit einem effizienten Elektroantrieb und bietet eine sportliche Optik ohne Einbußen bei den Nutzwerten.",
+              "uk": "Volkswagen ID.5 – це стильний варіант ID.4 з кузовом SUV Coupe. Він поєднує в собі динамічну лінію даху з ефективним електричним приводом, пропонуючи спортивний вигляд без шкоди для корисності.",
+              "ru": "Volkswagen ID.5 — стильный вариант ID.4 с кузовом внедорожника-купе. Он сочетает в себе динамичную линию крыши с эффективным электроприводом, придавая спортивный вид без ущерба для практичности.",
+              "zh": "大众 ID.5 是 ID.4 的时尚变体，采用 SUV Coupe 车身。它将动态车顶线与高效电力驱动相结合，在不牺牲实用价值的情况下提供运动外观。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": {
+                "pl": "od 2021",
+                "en": "from 2021",
+                "de": "ab 2021",
+                "uk": "з 2021 року",
+                "ru": "с 2021 года.",
+                "zh": "2021年起"
+              },
+              "segment": {
+                "pl": "Elektryczny SUV Coupe",
+                "en": "Electric SUV Coupe",
+                "de": "Elektro-SUV-Coupé",
+                "uk": "Електричний SUV Coupe",
+                "ru": "Электрический внедорожник-купе.",
+                "zh": "电动 SUV 轿跑车"
+              },
+              "wersja sportowa": {
+                "pl": "GTX"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "ID.Buzz": [
+      {
+        "BrandID": 143,
+        "ModelID": 416615,
+        "Brand Name": "Volkswagen",
+        "Model Name": "ID.Buzz",
+        "Serie Name": "ID.Buzz",
+        "Years": "2022 - Present",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "MPV (Electric)",
+          "drive": "RWD",
+          "fuel": "Electric",
+          "engine": "Electric Motor 77kWh",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Volkswagen ID.Buzz to nowoczesna reinkarnacja kultowego 'Bulli'. Ten w pełni elektryczny van łączy nostalgiczny design z najnowocześniejszą technologią, budząc pozytywne emocje na każdej drodze.",
+              "en": "Volkswagen ID.Buzz is a modern reincarnation of the iconic 'Bulli'. This fully electric van combines nostalgic design with cutting-edge technology, evoking positive emotions on every road.",
+              "de": "Volkswagen ID.Buzz ist eine moderne Reinkarnation des ikonischen „Bulli“. Dieser vollelektrische Van vereint nostalgisches Design mit modernster Technologie und weckt positive Emotionen auf jeder Straße.",
+              "uk": "Volkswagen ID.Buzz — це сучасна реінкарнація культового «Bulli». Цей повністю електричний фургон поєднує ностальгічний дизайн із передовими технологіями, викликаючи позитивні емоції на кожній дорозі.",
+              "ru": "Volkswagen ID.Buzz — это современная реинкарнация культового Bulli. Этот полностью электрический фургон сочетает в себе ностальгический дизайн и передовые технологии, вызывая положительные эмоции на каждой дороге.",
+              "zh": "大众 ID.Buzz 是标志性“Bulli”的现代转世。这款全电动货车将怀旧设计与尖端技术相结合，在每条道路上唤起积极情绪。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": {
+                "pl": "od 2022",
+                "en": "from 2022",
+                "de": "ab 2022",
+                "uk": "з 2022 року",
+                "ru": "с 2022 года",
+                "zh": "2022年起"
+              },
+              "segment": {
+                "pl": "Elektryczny MPV / Van",
+                "en": "Electric MPV / Van",
+                "de": "Elektro-MPV/Van",
+                "uk": "Електричний мінівен / фургон",
+                "ru": "Электрический минивэн/фургон",
+                "zh": "电动MPV/厢式车"
+              },
+              "inspiracja": {
+                "pl": "VW T1",
+                "en": "VW T1",
+                "de": "VW T1",
+                "uk": "VW T1",
+                "ru": "VW T1",
+                "zh": "大众T1"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Jetta": [
+      {
+        "BrandID": 143,
+        "ModelID": 413673,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Jetta",
+        "Serie Name": "Jetta II",
+        "Years": "1984 - 1992",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.3L - 1.8L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VW_Jetta_I_rear_20080315.jpg/1280px-VW_Jetta_I_rear_20080315.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VW_Jetta_I_rear_20080315.jpg/1280px-VW_Jetta_I_rear_20080315.jpg"
+            ]
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 413605,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Jetta",
+        "Serie Name": "Jetta V",
+        "Years": "2005 - 2011",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4 TSI - 2.5L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VW_Jetta_rear_20080514.jpg/1280px-VW_Jetta_rear_20080514.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VW_Jetta_rear_20080514.jpg/1280px-VW_Jetta_rear_20080514.jpg"
+            ]
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 413607,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Jetta",
+        "Serie Name": "Jetta VI",
+        "Years": "2010 - 2018",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "1.2 TSI - 2.5L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Jetta szóstej generacji to elegancki sedan, który w tej odsłonie został wyraźniej oddzielony konstrukcyjnie od Golfa, oferując większy komfort i przestrzeń na nogi dla pasażerów z tyłu.",
+              "en": "The sixth generation Jetta is an elegant sedan, which in this version has been more clearly separated from the Golf in terms of design, offering greater comfort and legroom for rear passengers.",
+              "de": "Der Jetta der sechsten Generation ist eine elegante Limousine, die sich in dieser Version gestalterisch deutlicher vom Golf absetzt und den Fondpassagieren mehr Komfort und Beinfreiheit bietet.",
+              "uk": "Шосте покоління Jetta — це елегантний седан, який у цій версії більш чітко відділений від Golf з точки зору дизайну, пропонуючи більший комфорт і простір для ніг задніх пасажирів.",
+              "ru": "Jetta шестого поколения — элегантный седан, который в этой версии более четко отделен от Golf с точки зрения дизайна, предлагая больший комфорт и пространство для ног задним пассажирам.",
+              "zh": "第六代捷达是一款优雅的轿车，在设计上与高尔夫的区别更加明显，为后排乘客提供了更大的舒适度和腿部空间。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "2010–2018",
+              "segment": {
+                "pl": "C (Kompaktowy sedan)",
+                "en": "C (Compact sedan)",
+                "de": "C (Kompaktlimousine)",
+                "uk": "C (компактний седан)",
+                "ru": "C (Компактный седан)",
+                "zh": "C（紧凑型轿车）"
+              },
+              "nadwozie": {
+                "pl": "Sedan"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 415426,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Jetta",
+        "Serie Name": "Jetta VII",
+        "Years": "2018 - Present",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.4 TSI - 2.0 TSI (GLI)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VW_Jetta_I_rear_20080315.jpg/1280px-VW_Jetta_I_rear_20080315.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VW_Jetta_I_rear_20080315.jpg/1280px-VW_Jetta_I_rear_20080315.jpg"
+            ]
+          }
+        }
+      }
+    ],
+    "Lupo": [
+      {
+        "BrandID": 143,
+        "ModelID": 1653,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Lupo",
+        "Serie Name": "Lupo",
+        "Years": "1998 - 2005",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment A (City Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L - 1.6L GTI / 1.2 TDI 3L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volkswagen Lupo to niezwykle oszczędne miejskie auto, które przeszło do historii dzięki wersji '3L' – pierwszym seryjnym samochodem spalającym średnio tylko 3 litry oleju napędowego na 100 km.",
+              "en": "Volkswagen Lupo is an extremely fuel-efficient city car that made history thanks to the '3L' version - the first production car that consumed on average only 3 liters of diesel fuel per 100 km.",
+              "de": "Volkswagen Lupo ist ein äußerst sparsames Stadtauto, das dank der „3L“-Version Geschichte schrieb – dem ersten Serienauto, das durchschnittlich nur 3 Liter Dieselkraftstoff pro 100 km verbrauchte.",
+              "uk": "Volkswagen Lupo — надзвичайно економічний міський автомобіль, який увійшов в історію завдяки версії «3L» — першій серійній машині, яка споживала в середньому лише 3 літри дизельного палива на 100 км.",
+              "ru": "Volkswagen Lupo — чрезвычайно экономичный городской автомобиль, вошедший в историю благодаря версии «3L» — первому серийному автомобилю, который потреблял в среднем всего 3 литра дизельного топлива на 100 км.",
+              "zh": "大众 Lupo 是一款极其节能的城市汽车，凭借“3L”版本创造了历史——第一款每 100 公里平均仅消耗 3 升柴油的量产车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "1998–2005",
+              "segment": {
+                "pl": "A (Miejskie)",
+                "en": "A (City)",
+                "de": "A (Stadt)",
+                "uk": "A (City)",
+                "ru": "A (Город)",
+                "zh": "A（城市）"
+              },
+              "wersja specjalna": {
+                "pl": "Lupo 3L / GTI",
+                "en": "Lupo 3L / GTI",
+                "de": "Lupo 3L / GTI",
+                "uk": "Lupo 3L / GTI",
+                "ru": "Lupo 3L / GTI",
+                "zh": "路波3L/GTI"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Passat": [
+      {
+        "BrandID": 143,
+        "ModelID": 412970,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Passat",
+        "Serie Name": "Passat B2",
+        "Years": "1981 - 1988",
+        "specs": {
+          "bodyType": "Sedan/Wagon/Hatchback",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.3L - 2.2L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Passat B2 to ikona trwałości i przestronności lat 80. Dostępny jako sedan (Santana), hatchback i niezwykle popularny kombi (Variant), stał się podstawą sukcesu Volkswagena w klasie średniej.",
+              "en": "Passat B2 is an icon of durability and spaciousness of the 1980s. Available as a sedan (Santana), hatchback and an extremely popular station wagon (Variant), it became the basis of Volkswagen's success in the middle class.",
+              "de": "Der Passat B2 ist eine Ikone der Langlebigkeit und Geräumigkeit der 1980er Jahre. Erhältlich als Limousine (Santana), Fließheck und als äußerst beliebter Kombi (Variant) wurde er zur Grundlage für den Erfolg von Volkswagen in der Mittelklasse.",
+              "uk": "Passat B2 — ікона міцності та простору 1980-х років. Доступний як седан (Santana), хетчбек і надзвичайно популярний універсал (Variant), він став основою успіху Volkswagen у середньому класі.",
+              "ru": "Passat B2 — икона прочности и простора 1980-х годов. Доступный в версиях седан (Santana), хэтчбек и чрезвычайно популярный универсал (Variant), он стал основой успеха Volkswagen в среднем классе.",
+              "zh": "帕萨特 B2 是 20 世纪 80 年代耐用性和宽敞性的象征。它有轿车（桑塔纳）、掀背车和极受欢迎的旅行车（变体）等多种形式，成为大众汽车在中产阶级中取得成功的基础。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "1981–1988",
+              "segment": {
+                "pl": "D (Klasa średnia)",
+                "en": "D (Middle class)",
+                "de": "D (Mittelklasse)",
+                "uk": "D (Середній клас)",
+                "ru": "D (Средний класс)",
+                "zh": "D（中产阶级）"
+              },
+              "napęd": {
+                "pl": "Syncro (opcja)",
+                "en": "Syncro (optional)",
+                "de": "Syncro (optional)",
+                "uk": "Syncro (опція)",
+                "ru": "Syncro (опция)",
+                "zh": "同步（可选）"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 412915,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Passat",
+        "Serie Name": "Passat B3",
+        "Years": "1988 - 1993",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.8 VR6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Passat B3 przyniósł rewolucyjną stylistykę bez klasycznego grilla chłodnicy i poprzeczne ustawienie silnika, co drastycznie zwiększyło ilość miejsca w środku. Model ten wyznaczył standardy funkcjonalności.",
+              "en": "Passat B3 brought revolutionary styling without the classic radiator grill and transverse engine positioning, which drastically increased the amount of space inside. This model set the standard for functionality.",
+              "de": "Der Passat B3 brachte ein revolutionäres Design ohne den klassischen Kühlergrill und die querliegende Motoranordnung, was das Platzangebot im Innenraum drastisch vergrößerte. Dieses Modell setzte Maßstäbe in Sachen Funktionalität.",
+              "uk": "Passat B3 приніс революційний стиль без класичної решітки радіатора та поперечного розташування двигуна, що різко збільшило простір усередині. Ця модель задала еталон функціональності.",
+              "ru": "Passat B3 привнес революционный стиль без классической решетки радиатора и поперечного расположения двигателя, что резко увеличило пространство внутри. Эта модель установила стандарт функциональности.",
+              "zh": "帕萨特 B3 带来了革命性的造型，取消了经典的散热器格栅和横向发动机位置，从而大大增加了内部空间。该模型设定了功能标准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "1988–1993",
+              "segment": {
+                "pl": "D (Klasa średnia)",
+                "en": "D (Middle class)",
+                "de": "D (Mittelklasse)",
+                "uk": "D (Середній клас)",
+                "ru": "D (Средний класс)",
+                "zh": "D（中产阶级）"
+              },
+              "cecha": {
+                "pl": "Brak atrapy chłodnicy",
+                "en": "No radiator grille",
+                "de": "Kein Kühlergrill",
+                "uk": "Без решітки радіатора",
+                "ru": "Без решетки радиатора",
+                "zh": "散热器格栅缺失"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 412907,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Passat",
+        "Serie Name": "Passat B4",
+        "Years": "1993 - 1997",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.9 VR6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/1980_Volkswagen_Passat_LS_Wagon_%2816153576349%29.jpg/1280px-1980_Volkswagen_Passat_LS_Wagon_%2816153576349%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/1980_Volkswagen_Passat_LS_Wagon_%2816153576349%29.jpg/1280px-1980_Volkswagen_Passat_LS_Wagon_%2816153576349%29.jpg"
+            ]
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 131803,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Passat",
+        "Serie Name": "Passat B5",
+        "Years": "1996 - 2005",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD/4MOTION",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 4.0 W8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Passat B5 to model, który podniósł poprzeczkę w klasie średniej do poziomu premium. Dzięki ocynkowanemu nadwoziu i zaawansowanemu zawieszeniu, do dziś cieszy się opinią jednego z najsolidniejszych aut na rynku.",
+              "en": "Passat B5 is a model that has raised the bar in the middle class to the premium level. Thanks to its galvanized body and advanced suspension, it is still considered one of the most solid cars on the market.",
+              "de": "Der Passat B5 ist ein Modell, das die Messlatte in der Mittelklasse auf das Premium-Niveau gehoben hat. Dank seiner verzinkten Karosserie und der fortschrittlichen Federung gilt er immer noch als eines der solidesten Autos auf dem Markt.",
+              "uk": "Passat B5 - модель, яка підняла планку середнього класу до рівня преміум. Завдяки оцинкованому кузову та вдосконаленій підвісці він досі вважається одним із найміцніших автомобілів на ринку.",
+              "ru": "Passat B5 – модель, поднявшая планку среднего класса до уровня премиум-класса. Благодаря оцинкованному кузову и усовершенствованной подвеске он до сих пор считается одним из самых надежных автомобилей на рынке.",
+              "zh": "帕萨特B5是一款将中档车的标准提升至高端车的车型。由于其镀锌车身和先进的悬架，它仍然被认为是市场上最坚固的汽车之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "1996–2005",
+              "segment": {
+                "pl": "D (Klasa średnia)",
+                "en": "D (Middle class)",
+                "de": "D (Mittelklasse)",
+                "uk": "D (Середній клас)",
+                "ru": "D (Средний класс)",
+                "zh": "D（中产阶级）"
+              },
+              "platforma": {
+                "pl": "PL45 (Audi A4)",
+                "en": "PL45 (Audi A4)",
+                "de": "PL45 (Audi A4)",
+                "uk": "PL45 (Audi A4)",
+                "ru": "PL45 (Audi A4)",
+                "zh": "PL45（奥迪A4）"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 131916,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Passat",
+        "Serie Name": "Passat B6",
+        "Years": "2005 - 2010",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD/4MOTION",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4 TSI - 3.6 R36",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Szósta generacja Passata powróciła do poprzecznego silnika i wprowadziła nowoczesny design. Model B6 był pionierem w stosowaniu dwusprzęgłowych skrzyń biegów DSG i systemów Common Rail w dieslach TDI.",
+              "en": "The sixth generation of Passat returned to the transverse engine and introduced a modern design. The B6 was a pioneer in the use of DSG dual-clutch gearboxes and common rail systems in TDI diesels.",
+              "de": "Die sechste Generation des Passat kehrte zum Quermotor zurück und führte ein modernes Design ein. Der B6 war ein Pionier beim Einsatz von DSG-Doppelkupplungsgetrieben und Common-Rail-Systemen in TDI-Dieselmotoren.",
+              "uk": "Шосте покоління Passat повернулося до поперечного розташування двигуна та представило сучасний дизайн. B6 був піонером у використанні коробок передач DSG з подвійним зчепленням і системи Common Rail у дизелях TDI.",
+              "ru": "Шестое поколение Passat вернулось к поперечному расположению двигателя и представило современный дизайн. B6 был пионером в использовании коробки передач DSG с двойным сцеплением и системы Common Rail в дизелях TDI.",
+              "zh": "第六代帕萨特回归了横置发动机，并引入了现代化的设计。 B6 是在 TDI 柴油机中使用 DSG 双离合变速箱和共轨系统的先驱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "2005–2010",
+              "segment": {
+                "pl": "D (Klasa średnia)",
+                "en": "D (Middle class)",
+                "de": "D (Mittelschicht)",
+                "uk": "D (середній клас)",
+                "ru": "D (Средний класс)",
+                "zh": "D（中产阶级）"
+              },
+              "technologia": {
+                "pl": "DSG / Common Rail",
+                "en": "DSG / Common Rail",
+                "de": "DSG / Common Rail",
+                "uk": "DSG / Common Rail",
+                "ru": "ДСГ/Коммон Рейл",
+                "zh": "DSG/共轨"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 163928,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Passat",
+        "Serie Name": "Passat B7",
+        "Years": "2010 - 2015",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD/4MOTION",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4 TSI - 3.6 V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Passat B7 to gruntownie zmodernizowana wersja B6, skupiona na poprawie jakości materiałów i wyciszenia. Wprowadziła szereg inteligentnych systemów asystujących, podnosząc komfort i bezpieczeństwo podróży.",
+              "en": "Passat B7 is a thoroughly modernized version of the B6, focused on improving the quality of materials and soundproofing. It has introduced a number of intelligent assistance systems, improving travel comfort and safety.",
+              "de": "Passat B7 ist eine gründlich modernisierte Version des B6, bei der der Schwerpunkt auf der Verbesserung der Materialqualität und der Schalldämmung liegt. Es wurden eine Reihe intelligenter Assistenzsysteme eingeführt, die den Reisekomfort und die Sicherheit verbessern.",
+              "uk": "Passat B7 - це ґрунтовно модернізована версія B6, орієнтована на поліпшення якості матеріалів і звукоізоляції. Він представив низку інтелектуальних систем допомоги, що покращує комфорт і безпеку подорожі.",
+              "ru": "Passat B7 — основательно модернизированная версия B6, ориентированная на улучшение качества материалов и шумоизоляции. Он внедрил ряд интеллектуальных вспомогательных систем, повышающих комфорт и безопасность поездки.",
+              "zh": "帕萨特 B7 是 B6 的彻底现代化版本，专注于提高材料质量和隔音性能。引入多项智能辅助系统，提升出行舒适性和安全性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "2010–2015",
+              "segment": {
+                "pl": "D (Klasa średnia)",
+                "en": "D (Middle class)",
+                "de": "D (Mittelklasse)",
+                "uk": "D (Середній клас)",
+                "ru": "Д (Средний класс)",
+                "zh": "D（中产阶级）"
+              },
+              "standard": {
+                "pl": "Premium Quality",
+                "en": "Premium Quality",
+                "de": "Premium-Qualität",
+                "uk": "Premium Quality",
+                "ru": "Премиальное качество",
+                "zh": "优质品质"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 412917,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Passat",
+        "Serie Name": "Passat B8",
+        "Years": "2014 - 2023",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD/4MOTION",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "1.4 TSI - 2.0 BiTDI / GTE",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Passat B8, oparty na platformie MQB, stał się lżejszy i bardziej zaawansowany dynamicznie. Model ten wprowadził wirtualny kokpit i innowacyjny napęd hybrydowy typu plug-in GTE, stając się liderem swojej klasy.",
+              "en": "Passat B8, based on the MQB platform, has become lighter and more dynamically advanced. This model introduced a virtual cockpit and an innovative GTE plug-in hybrid drive, becoming a leader in its class.",
+              "de": "Der auf der MQB-Plattform basierende Passat B8 ist leichter und dynamischer geworden. Dieses Modell führte ein virtuelles Cockpit und einen innovativen GTE-Plug-in-Hybridantrieb ein und wurde zum Spitzenreiter seiner Klasse.",
+              "uk": "Passat B8 на платформі MQB став легшим і динамічнішим. Ця модель представила віртуальну кабіну та інноваційний гібридний привід GTE, ставши лідером у своєму класі.",
+              "ru": "Passat B8, созданный на платформе MQB, стал легче и динамичнее. Эта модель представила виртуальную кабину и инновационный подключаемый гибридный привод GTE, став лидером в своем классе.",
+              "zh": "基于MQB平台的帕萨特B8变得更轻、更动态先进。该车型引入了虚拟驾驶舱和创新的GTE插电式混合动力驱动器，成为同级车型中的佼佼者。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "2014–2023",
+              "segment": {
+                "pl": "D (Klasa średnia)",
+                "en": "D (Middle class)",
+                "de": "D (Mittelklasse)",
+                "uk": "D (Середній клас)",
+                "ru": "Д (Средний класс)",
+                "zh": "D（中产阶级）"
+              },
+              "wersja": {
+                "pl": "GTE / Alltrack",
+                "en": "GTE / Alltrack",
+                "de": "GTE / Alltrack",
+                "uk": "GTE / Alltrack",
+                "ru": "ГТЭ/Оллтрек",
+                "zh": "GTE/全轨"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 416616,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Passat",
+        "Serie Name": "Passat B9",
+        "Years": "2023 - Present",
+        "specs": {
+          "bodyType": "Wagon",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD/4MOTION",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "1.5 TSI - 2.0 TDI / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Najnowsza generacja Passata (B9) jest dostępna wyłącznie jako kombi (Variant), co podkreśla jej rolę jako idealnego auta biznesowego i rodzinnego. Oferuje rekordową przestrzeń bagażową i luksus godny limuzyn.",
+              "en": "The latest generation of Passat (B9) is available only as a station wagon (Variant), which emphasizes its role as an ideal business and family car. It offers record-breaking luggage space and luxury worthy of limousines.",
+              "de": "Die neueste Generation des Passat (B9) ist nur als Kombi (Variant) erhältlich, was seine Rolle als ideales Geschäfts- und Familienauto unterstreicht. Es bietet rekordverdächtigen Gepäckraum und Luxus, der einer Limousine würdig ist.",
+              "uk": "Останнє покоління Passat (B9) доступне лише у кузові універсал (Variant), що підкреслює його роль як ідеального бізнес- та сімейного автомобіля. Він пропонує рекордний простір для багажу та розкіш, гідну лімузинів.",
+              "ru": "Последнее поколение Passat (B9) доступно только в кузове универсал (Variant), что подчеркивает его роль идеального делового и семейного автомобиля. Он предлагает рекордное пространство для багажа и роскошь, достойную лимузинов.",
+              "zh": "最新一代帕萨特（B9）仅作为旅行车（Variant）提供，强调其作为理想商务和家庭用车的作用。它提供破纪录的行李空间和豪华轿车般的奢华。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": {
+                "pl": "od 2023",
+                "en": "from 2023",
+                "de": "ab 2023",
+                "uk": "з 2023 р.",
+                "ru": "с 2023 года",
+                "zh": "2023年起"
+              },
+              "segment": {
+                "pl": "D (Klasa średnia)",
+                "en": "D (Middle class)",
+                "de": "D (Mittelklasse)",
+                "uk": "D (середній клас)",
+                "ru": "Д (Средний класс)",
+                "zh": "D（中产阶级）"
+              },
+              "nadwozie": {
+                "pl": "Variant (Kombi)",
+                "en": "Variant (Estate)",
+                "de": "Variant (Kombi)",
+                "uk": "Variant (універсал)",
+                "ru": "Вариант (Поместье)",
+                "zh": "变体（庄园）"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Passat CC": [
+      {
+        "BrandID": 143,
+        "ModelID": 164732,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Passat CC",
+        "Serie Name": "Passat CC / CC",
+        "Years": "2008 - 2017",
+        "specs": {
+          "bodyType": "Sedan Coupe",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD/4MOTION",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4 TSI - 3.6 V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Passat CC (później po prostu CC) to czterodrzwiowe coupe o niezwykle smukłej i eleganckiej sylwetce. Model ten udowodnił, że Volkswagen potrafi tworzyć auta o wysokim ładunku emocjonalnym i prestiżowym charakterze.",
+              "en": "Passat CC (later simply CC) is a four-door coupe with an extremely slim and elegant silhouette. This model proved that Volkswagen can create cars with a high emotional charge and a prestigious character.",
+              "de": "Passat CC (später einfach CC) ist ein viertüriges Coupé mit einer extrem schlanken und eleganten Silhouette. Dieses Modell bewies, dass Volkswagen Autos mit hoher emotionaler Ladung und prestigeträchtigem Charakter schaffen kann.",
+              "uk": "Passat CC (пізніше просто CC) — чотиридверне купе з надзвичайно тонким і елегантним силуетом. Ця модель довела, що Volkswagen може створювати автомобілі з високим емоційним зарядом і престижним характером.",
+              "ru": "Passat CC (позже просто CC) — четырехдверное купе с чрезвычайно тонким и элегантным силуэтом. Эта модель доказала, что Volkswagen может создавать автомобили с высоким эмоциональным зарядом и престижным характером.",
+              "zh": "帕萨特 CC（后来简称 CC）是一款四门轿跑车，具有极其纤薄和优雅的轮廓。该车型证明了大众汽车能够制造出具有高度情感和声望的汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "2008–2017",
+              "segment": {
+                "pl": "D (Luksusowy sedan coupe)",
+                "en": "D (Luxury sedan coupe)",
+                "de": "D (Luxuslimousinen-Coupé)",
+                "uk": "D (розкішний седан-купе)",
+                "ru": "D (Роскошный седан-купе)",
+                "zh": "D（豪华轿车轿跑车）"
+              },
+              "styl": {
+                "pl": "Comfort Coupe",
+                "en": "Comfort Coupe",
+                "de": "Komfort-Coupé",
+                "uk": "Comfort Coupe",
+                "ru": "Комфорт-купе",
+                "zh": "舒适轿跑车"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Phaeton": [
+      {
+        "BrandID": 143,
+        "ModelID": 1660,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Phaeton",
+        "Serie Name": "Phaeton",
+        "Years": "2002 - 2016",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Segment F (Luxury)",
+          "drive": "4MOTION",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.0 TDI - 6.0 W12",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volkswagen Phaeton to popis inżynieryjnych możliwości marki, luksusowa limuzyna zbudowana bez żadnych kompromisów. Auto legendarne ze względu na swoją niezwykłą sztywność nadwozia i zaawansowaną technologię W12.",
+              "en": "Volkswagen Phaeton is a showcase of the brand's engineering capabilities, a luxury limousine built without any compromises. A legendary car due to its extraordinary body stiffness and advanced W12 technology.",
+              "de": "Der Volkswagen Phaeton ist ein Paradebeispiel für die Ingenieurskunst der Marke, eine Luxuslimousine, die ohne Kompromisse gebaut wurde. Ein legendäres Auto aufgrund seiner außergewöhnlichen Karosseriesteifigkeit und der fortschrittlichen W12-Technologie.",
+              "uk": "Volkswagen Phaeton — це демонстрація інженерних можливостей бренду, розкішний лімузин, створений без жодних компромісів. Легендарний автомобіль завдяки надзвичайній жорсткості кузова та передовій технології W12.",
+              "ru": "Volkswagen Phaeton – это витрина инженерных возможностей бренда, роскошный лимузин, построенный без каких-либо компромиссов. Легендарный автомобиль благодаря необычайной жесткости кузова и передовой технологии W12.",
+              "zh": "大众辉腾是该品牌工程能力的展示，是一款不做任何妥协的豪华轿车。因其非凡的车身刚度和先进的 W12 技术而成为一款传奇汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "2002–2016",
+              "segment": {
+                "pl": "F (Luksusowe)",
+                "en": "F (Luxury)",
+                "de": "F (Luxus)",
+                "uk": "F (Luxury)",
+                "ru": "Ф (Люкс)",
+                "zh": "F（豪华）"
+              },
+              "napęd": {
+                "pl": "4Motion / Silnik W12",
+                "en": "4Motion / W12 engine",
+                "de": "4Motion / W12-Motor",
+                "uk": "Двигун 4Motion / W12",
+                "ru": "4Motion / двигатель W12",
+                "zh": "4Motion/W12发动机"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Polo": [
+      {
+        "BrandID": 143,
+        "ModelID": 414365,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Polo",
+        "Serie Name": "Polo II (86C)",
+        "Years": "1981 - 1994",
+        "specs": {
+          "bodyType": "Hatchback/Coupe",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L - 1.4L G40",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja Polo (86C) to symbol trwałości i praktyczności lat 80. i 90. Ceniona za proste rozwiązania techniczne i ogromną przestrzeń bagażową w wersji Coupe oraz Fox.",
+              "en": "The second generation of Polo (86C) is a symbol of durability and practicality of the 1980s and 1990s. Appreciated for its simple technical solutions and huge luggage space in the Coupe and Fox versions.",
+              "de": "Die zweite Generation des Polo (86C) ist ein Symbol für Langlebigkeit und Praktikabilität der 1980er und 1990er Jahre. Geschätzt für seine einfachen technischen Lösungen und den großen Gepäckraum in den Versionen Coupé und Fox.",
+              "uk": "Друге покоління Polo (86C) є символом міцності та практичності 1980-1990-х років. Цінують за прості технічні рішення та величезний багажний простір у версіях Coupe та Fox.",
+              "ru": "Второе поколение Polo (86C) – символ долговечности и практичности 1980-х и 1990-х годов. Ценится за простые технические решения и огромное багажное отделение в версиях Coupe и Fox.",
+              "zh": "第二代Polo（86C）是20世纪80年代和90年代耐用性和实用性的象征。因其 Coupe 和 Fox 版本的简单技术解决方案和巨大的行李空间而受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "1981–1994",
+              "segment": {
+                "pl": "B (Małe auta)",
+                "en": "B (Small cars)",
+                "de": "B (Kleinwagen)",
+                "uk": "B (Малі автомобілі)",
+                "ru": "Б (маленькие автомобили)",
+                "zh": "B（小型车）"
+              },
+              "wersja": {
+                "pl": "Coupe / Fox / G40",
+                "en": "Coupe / Fox / G40",
+                "de": "Coupé / Fox / G40",
+                "uk": "Coupe / Fox / G40",
+                "ru": "Купе/Фокс/G40",
+                "zh": "轿跑车/福克斯/G40"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 253227,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Polo",
+        "Serie Name": "Polo III (6N)",
+        "Years": "1994 - 2002",
+        "specs": {
+          "bodyType": "Hatchback/Variant",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L - 1.6L GTI",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Polo III przyniosło nowoczesny design i wysoki poziom bezpieczeństwa do klasy aut miejskich. Model ten był dostępny w wielu wariantach, w tym jako praktyczne kombi (Variant) i sportowe GTI.",
+              "en": "Polo III brought modern design and a high level of safety to the class of city cars. This model was available in many variants, including a practical station wagon (Variant) and a sporty GTI.",
+              "de": "Polo III brachte modernes Design und ein hohes Maß an Sicherheit in die Klasse der Stadtautos. Dieses Modell war in vielen Varianten erhältlich, darunter als praktischer Kombi (Variant) und als sportlicher GTI.",
+              "uk": "Polo III приніс сучасний дизайн і високий рівень безпеки в клас міських автомобілів. Ця модель була доступна в багатьох варіантах, включаючи практичний універсал (Variant) і спортивний GTI.",
+              "ru": "Polo III привнес в класс городских автомобилей современный дизайн и высокий уровень безопасности. Эта модель была доступна во многих вариантах, включая практичный универсал (Variant) и спортивный GTI.",
+              "zh": "Polo III 为城市汽车带来了现代设计和高水平的安全性。该车型有多种型号可供选择，包括实用旅行车（Variant）和运动型 GTI。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "1994–2002",
+              "segment": {
+                "pl": "B (Małe auta)",
+                "en": "B (Small cars)",
+                "de": "B (Kleinwagen)",
+                "uk": "B (Малі автомобілі)",
+                "ru": "Б (маленькие автомобили)",
+                "zh": "B（小型车）"
+              },
+              "cecha": {
+                "pl": "Wysoki poziom bezpieczeństwa",
+                "en": "High level of safety",
+                "de": "Hohes Maß an Sicherheit",
+                "uk": "Високий рівень безпеки",
+                "ru": "Высокий уровень безопасности",
+                "zh": "高安全级别"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 252334,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Polo",
+        "Serie Name": "Polo IV (9N)",
+        "Years": "2001 - 2009",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L - 1.9 TDI / 1.8 GTI",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/1987_Volkswagen_Polo_CL_Coup%C3%A9%2C_silver_-_rear_right.jpg/1280px-1987_Volkswagen_Polo_CL_Coup%C3%A9%2C_silver_-_rear_right.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/1987_Volkswagen_Polo_CL_Coup%C3%A9%2C_silver_-_rear_right.jpg/1280px-1987_Volkswagen_Polo_CL_Coup%C3%A9%2C_silver_-_rear_right.jpg"
+            ]
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 256033,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Polo",
+        "Serie Name": "Polo V (6R/6C)",
+        "Years": "2009 - 2017",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0 MPI - 1.8 TSI GTI",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volkswagen Polo V to model, który w 2010 roku zdobył tytuły Europejskiego i Światowego Samochodu Roku. Wyróżnia się ponadczasową stylistyką i jakością wykonania zbliżoną do Golfa.",
+              "en": "Volkswagen Polo V is a model that won the titles of European and World Car of the Year in 2010. It is distinguished by its timeless style and workmanship quality similar to the Golf.",
+              "de": "Der Volkswagen Polo V ist ein Modell, das 2010 den Titel „Europa- und Weltauto des Jahres“ gewann. Er zeichnet sich durch seinen zeitlosen Stil und die Verarbeitungsqualität ähnlich dem Golf aus.",
+              "uk": "Volkswagen Polo V – це модель, яка отримала звання «Автомобіль року в Європі» та «Світ» у 2010 році. Її вирізняє позачасовий стиль і якість виготовлення, подібна до Golf.",
+              "ru": "Volkswagen Polo V — модель, завоевавшая титулы «Автомобиль года» в Европе и мире в 2010 году. Ее отличает неподвластный времени стиль и качество изготовления, аналогичное Golf.",
+              "zh": "大众Polo V是一款荣获2010年欧洲和世界年度汽车称号的车型。它以其永恒的风格和类似于高尔夫的工艺品质而著称。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "2009–2017",
+              "segment": {
+                "pl": "B (Małe auta)",
+                "en": "B (Small cars)",
+                "de": "B (Kleinwagen)",
+                "uk": "B (Малі автомобілі)",
+                "ru": "Б (маленькие автомобили)",
+                "zh": "B（小型车）"
+              },
+              "tytuł": {
+                "pl": "World Car of the Year 2010",
+                "en": "World Car of the Year 2010",
+                "de": "Weltauto des Jahres 2010",
+                "uk": "Всесвітній автомобіль року 2010",
+                "ru": "Мировой автомобиль года 2010",
+                "zh": "2010 年世界年度汽车"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 414364,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Polo",
+        "Serie Name": "Polo VI (AW)",
+        "Years": "2017 - Present",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/CNG",
+          "engine": "1.0 TSI - 2.0 TSI GTI",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Najnowsza generacja Polo to w pełni dojrzałe technicznie auto, oferujące przestrzeń i technologie znane z klasy wyższej. Cyfrowe zegary i systemy asystujące czynią z niego lidera segmentu miejskich hatchbacków.",
+              "en": "The latest generation of Polo is a fully technically mature car, offering space and technologies known from the upper class. Digital clocks and assistance systems make it a leader in the city hatchback segment.",
+              "de": "Die neueste Generation des Polo ist ein technisch ausgereiftes Auto, das Platz und Technologien bietet, die aus der Oberklasse bekannt sind. Digitale Uhren und Assistenzsysteme machen ihn zum Spitzenreiter im Segment der City-Fließhecklimousine.",
+              "uk": "Останнє покоління Polo — це повністю технічно зрілий автомобіль, який пропонує простір і технології, відомі у вищому класі. Цифрові годинники та системи допомоги роблять його лідером у сегменті міських хетчбеків.",
+              "ru": "Последнее поколение Polo — это полностью технически совершенный автомобиль, предлагающий простор и технологии, известные из высшего класса. Цифровые часы и системы помощи делают его лидером в сегменте городских хэтчбеков.",
+              "zh": "最新一代Polo是一款技术完全成熟的汽车，提供上流社会所熟知的空间和技术。数字时钟和辅助系统使其成为城市掀背车领域的领导者。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": {
+                "pl": "od 2017",
+                "en": "from 2017",
+                "de": "ab 2017",
+                "uk": "з 2017 року",
+                "ru": "с 2017 года",
+                "zh": "2017年以来"
+              },
+              "segment": {
+                "pl": "B (Małe auta)",
+                "en": "B (Small cars)",
+                "de": "B (Kleinwagen)",
+                "uk": "B (Малі автомобілі)",
+                "ru": "B (Малогабаритные автомобили)",
+                "zh": "B（小型车）"
+              },
+              "platforma": {
+                "pl": "MQB A0",
+                "en": "MQB A0",
+                "de": "MQB A0",
+                "uk": "MQB A0",
+                "ru": "MQB A0",
+                "zh": "MQB A0"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Scirocco": [
+      {
+        "BrandID": 143,
+        "ModelID": 416617,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Scirocco",
+        "Serie Name": "Scirocco I/II",
+        "Years": "1974 - 1992",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sports Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.1L - 1.8L 16V",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Pierwsze dwie generacje Scirocco to stylowe, sportowe coupe oparte na technice Golfa, zaprojektowane przez legendarnego Giorgetto Giugiaro. Ikony stylu lat 70. i 80.",
+              "en": "The first two generations of Scirocco are a stylish, sports coupe based on Golf technology, designed by the legendary Giorgetto Giugiaro. Style icons of the 70s and 80s",
+              "de": "Die ersten beiden Generationen des Scirocco sind ein stilvolles Sportcoupé auf Basis der Golf-Technologie, entworfen vom legendären Giorgetto Giugiaro. Stilikonen der 70er und 80er Jahre",
+              "uk": "Перші два покоління Scirocco — це стильне спортивне купе на основі технологій Golf, розроблене легендарним Джорджетто Джуджаро. Ікони стилю 70-х і 80-х",
+              "ru": "Первые два поколения Scirocco — это стильное спортивное купе на базе технологий Golf, разработанное легендарным Джорджетто Джуджаро. Иконы стиля 70-х и 80-х годов",
+              "zh": "前两代 Scirocco 是一款基于 Golf 技术的时尚运动轿跑车，由传奇人物 Giorgetto Giugiaro 设计。 70 年代和 80 年代的风格偶像。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "1974–1992",
+              "segment": {
+                "pl": "Sportowe Coupe",
+                "en": "Sports Coupe",
+                "de": "Sportcoupé",
+                "uk": "Sports Coupe",
+                "ru": "Спортивное купе",
+                "zh": "运动轿跑车"
+              },
+              "projektant": {
+                "pl": "Giugiaro (Gen I)",
+                "en": "Giugiaro (Gen I)",
+                "de": "Giugiaro (Gen I)",
+                "uk": "Giugiaro (Gen I)",
+                "ru": "Джуджаро (Gen I)",
+                "zh": "乔治亚罗（第一代）"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 1664,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Scirocco",
+        "Serie Name": "Scirocco III",
+        "Years": "2008 - 2017",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sports Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4 TSI - 2.0 TSI R",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Trzecia odsłona Scirocco to powrót legendarnej nazwy w nowoczesnej, agresywnej formie. Szerokie nadwozie i niska linia dachu sprawiają, że auto do dziś prezentuje się niezwykle dynamicznie.",
+              "en": "The third version of Scirocco is the return of the legendary name in a modern, aggressive form. The wide body and low roofline make the car look extremely dynamic to this day.",
+              "de": "Die dritte Version des Scirocco ist die Rückkehr des legendären Namens in einer modernen, aggressiven Form. Die breite Karosserie und die niedrige Dachlinie lassen das Auto bis heute äußerst dynamisch wirken.",
+              "uk": "Третя версія Scirocco — це повернення легендарної назви в сучасній, агресивній формі. Широкий кузов і низька лінія даху роблять автомобіль надзвичайно динамічним і донині.",
+              "ru": "Третья версия Scirocco – это возвращение легендарного имени в современной, агрессивной форме. Широкий кузов и низкая линия крыши и по сей день делают автомобиль чрезвычайно динамичным.",
+              "zh": "Scirocco 的第三个版本是这个传奇名字以现代、激进的形式回归。宽大的车身和低矮的车顶线使该车至今仍显得极具动感。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "2008–2017",
+              "segment": {
+                "pl": "Sportowe Coupe",
+                "en": "Sports Coupe",
+                "de": "Sportcoupé",
+                "uk": "Sports Coupe",
+                "ru": "Спортивное купе",
+                "zh": "运动轿跑车"
+              },
+              "wersja topowa": {
+                "pl": "Scirocco R",
+                "en": "Scirocco R",
+                "de": "Scirocco R",
+                "uk": "Scirocco R",
+                "ru": "Scirocco R",
+                "zh": "尚酷R"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Sharan": [
+      {
+        "BrandID": 143,
+        "ModelID": 137511,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Sharan",
+        "Serie Name": "Sharan I (7M)",
+        "Years": "1995 - 2010",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Large MPV",
+          "drive": "FWD/4MOTION",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.8T - 2.8 VR6 / 1.9 TDI",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Volkswagen Sharan to definicja klasycznego, dużego vana, stworzonego do komfortowego przewozu siedmiu osób. Owoc współpracy z Fordem, który stał się synonimem rodzinnej wszechstronności.",
+              "en": "Volkswagen Sharan is the definition of a classic, large van, designed to comfortably transport seven people. The result of cooperation with Ford that has become synonymous with family versatility.",
+              "de": "Volkswagen Sharan ist die Definition eines klassischen, großen Vans, der für den bequemen Transport von sieben Personen konzipiert ist. Das Ergebnis der Zusammenarbeit mit Ford, das zum Synonym für familiäre Vielseitigkeit geworden ist.",
+              "uk": "Volkswagen Sharan — це визначення класичного великого фургона, призначеного для комфортного перевезення семи осіб. Результат співпраці з компанією Ford, яка стала синонімом сімейної універсальності.",
+              "ru": "Volkswagen Sharan — это классический большой фургон, предназначенный для комфортной перевозки семи человек. Результат сотрудничества с Ford, ставший синонимом семейной универсальности.",
+              "zh": "大众夏朗是经典大型货车的定义，旨在舒适地运送七人。与福特合作的成果，已成为家庭多功能性的代名词。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "1995–2010",
+              "segment": {
+                "pl": "Duży MPV",
+                "en": "Large MPV",
+                "de": "Großer MPV",
+                "uk": "Великий MPV",
+                "ru": "Большой минивэн",
+                "zh": "大型MPV"
+              },
+              "układ foteli": {
+                "pl": "2+3+2"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 159440,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Sharan",
+        "Serie Name": "Sharan II (7N)",
+        "Years": "2010 - 2022",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Large MPV",
+          "drive": "FWD/4MOTION",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4 TSI - 2.0 TDI",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja Sharana wprowadziła praktyczne przesuwne drzwi i nowoczesne systemy multimedialne. Idealne auto dla dużych rodzin, oferujące niespotykany poziom komfortu i bezpieczeństwa.",
+              "en": "The second generation of Sharan introduced practical sliding doors and modern multimedia systems. The perfect car for large families, offering an unprecedented level of comfort and safety.",
+              "de": "Die zweite Generation des Sharan führte praktische Schiebetüren und moderne Multimediasysteme ein. Das perfekte Auto für große Familien, das ein beispielloses Maß an Komfort und Sicherheit bietet.",
+              "uk": "Друге покоління Sharan представило практичні розсувні двері та сучасні мультимедійні системи. Ідеальний автомобіль для великих сімей, що пропонує безпрецедентний рівень комфорту та безпеки.",
+              "ru": "Второе поколение Sharan представило практичные раздвижные двери и современные мультимедийные системы. Идеальный автомобиль для большой семьи, предлагающий беспрецедентный уровень комфорта и безопасности.",
+              "zh": "第二代夏朗引入了实用的推拉门和现代多媒体系统。适合大家庭的完美汽车，提供前所未有的舒适性和安全性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "2010–2022",
+              "segment": {
+                "pl": "Duży MPV",
+                "en": "Large MPV",
+                "de": "Großer MPV",
+                "uk": "Великий MPV",
+                "ru": "Большой минивэн",
+                "zh": "大型MPV"
+              },
+              "drzwi": {
+                "pl": "Przesuwne boczne",
+                "en": "Side sliders",
+                "de": "Seitenschieber",
+                "uk": "Бічні слайдери",
+                "ru": "Боковые слайдеры",
+                "zh": "侧滑"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "T-Roc": [
+      {
+        "BrandID": 143,
+        "ModelID": 414426,
+        "Brand Name": "Volkswagen",
+        "Model Name": "T-Roc",
+        "Serie Name": "T-Roc",
+        "Years": "2017 - Present",
+        "specs": {
+          "bodyType": "Crossover",
+          "segment": "Segment C-SUV",
+          "drive": "FWD/4MOTION",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0 TSI - 2.0 TSI R",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volkswagen T-Roc to przebój rynkowy, który łączy atuty SUV-a z dynamiką kompaktowego hatchbacka. Odważna stylistyka i szerokie możliwości personalizacji to jego znaki rozpoznawcze.",
+              "en": "Volkswagen T-Roc is a market hit that combines the advantages of an SUV with the dynamics of a compact hatchback. Bold styling and extensive personalization options are its hallmarks.",
+              "de": "Der Volkswagen T-Roc ist ein Markthit, der die Vorteile eines SUV mit der Dynamik eines kompakten Fließheckmodells verbindet. Mutiges Design und umfangreiche Personalisierungsmöglichkeiten sind seine Markenzeichen.",
+              "uk": "Volkswagen T-Roc — це хіт ринку, який поєднує в собі переваги позашляховика з динамікою компактного хетчбека. Його відмінними рисами є сміливий стиль і широкі можливості персоналізації.",
+              "ru": "Volkswagen T-Roc – хит рынка, сочетающий в себе преимущества внедорожника с динамикой компактного хэтчбека. Его отличительными чертами являются смелый стиль и широкие возможности персонализации.",
+              "zh": "大众 T-Roc 融合了 SUV 的优势和紧凑型掀背车的动力，深受市场欢迎。大胆的造型和广泛的个性化选项是其标志。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": {
+                "pl": "od 2017",
+                "en": "from 2017",
+                "de": "ab 2017",
+                "uk": "з 2017 року",
+                "ru": "с 2017 года",
+                "zh": "2017年以来"
+              },
+              "segment": {
+                "pl": "Kompaktowy Crossover",
+                "en": "Compact Crossover",
+                "de": "Kompakter Crossover",
+                "uk": "Компактний кросовер",
+                "ru": "Компактный кроссовер",
+                "zh": "紧凑型跨界车"
+              },
+              "warianty": {
+                "pl": "R / Cabriolet",
+                "en": "R / Cabriolet",
+                "de": "R / Cabriolet",
+                "uk": "R/Cabriolet",
+                "ru": "R / Кабриолет",
+                "zh": "R/敞篷车"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 416618,
+        "Brand Name": "Volkswagen",
+        "Model Name": "T-Roc Cabriolet",
+        "Serie Name": "T-Roc Cabriolet",
+        "Years": "2019 - Present",
+        "specs": {
+          "bodyType": "Convertible",
+          "segment": "Segment C-SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.0 TSI - 1.5 TSI",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Unikalny na rynku T-Roc Cabriolet to połączenie crossovera z kabrioletem. Idealne auto dla osób ceniących wolność i wiatr we włosach, bez rezygnacji z podwyższonej pozycji za kierownicą.",
+              "en": "Unique on the market, the T-Roc Cabriolet is a combination of a crossover and a convertible. The perfect car for people who value freedom and the wind in their hair, without giving up a higher driving position.",
+              "de": "Einzigartig auf dem Markt ist das T-Roc Cabriolet eine Kombination aus Crossover und Cabriolet. Das perfekte Auto für Menschen, die Freiheit und den Wind in ihren Haaren schätzen, ohne auf eine höhere Sitzposition zu verzichten.",
+              "uk": "Унікальний на ринку T-Roc Cabriolet — це поєднання кросовера та кабріолета. Ідеальний автомобіль для людей, які цінують свободу та вітер у волоссі, не відмовляючись від вищої посади водія.",
+              "ru": "Единственный на рынке кабриолет T-Roc представляет собой комбинацию кроссовера и кабриолета. Идеальный автомобиль для людей, которые ценят свободу и ветер в волосах, не отказываясь при этом от более высокой посадки водителя.",
+              "zh": "市场上独一无二的 T-Roc 敞篷车是跨界车和敞篷车的结合体。对于那些重视自由和风吹拂头发的人来说，这是一款完美的汽车，同时又不放弃更高的驾驶位置。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019 року",
+                "ru": "с 2019 года.",
+                "zh": "2019年起"
+              },
+              "segment": {
+                "pl": "Crossover Kabriolet",
+                "en": "Crossover Cabriolet",
+                "de": "Crossover Cabriolet",
+                "uk": "Кросовер-кабріолет",
+                "ru": "Кроссовер-кабриолет.",
+                "zh": "跨界敞篷车"
+              },
+              "dach": {
+                "pl": "Miękki, składany elektrycznie",
+                "en": "Soft, electrically foldable",
+                "de": "Weich, elektrisch faltbar",
+                "uk": "М’який, електрично складаний",
+                "ru": "Мягкий, складной с электроприводом.",
+                "zh": "柔软、电动可折叠"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "T-Cross": [
+      {
+        "BrandID": 143,
+        "ModelID": 415440,
+        "Brand Name": "Volkswagen",
+        "Model Name": "T-Cross",
+        "Serie Name": "T-Cross",
+        "Years": "2018 - Present",
+        "specs": {
+          "bodyType": "Crossover",
+          "segment": "Segment B-SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0 TSI - 1.5 TSI",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volkswagen T-Cross to najbardziej wszechstronny model w klasie małych SUV-ów. Dzięki przesuwnej tylnej kanapie oferuje elastyczność wnętrza godną większych samochodów.",
+              "en": "Volkswagen T-Cross is the most versatile model in the small SUV class. Thanks to the sliding rear seat, it offers interior flexibility worthy of larger cars.",
+              "de": "Volkswagen T-Cross ist das vielseitigste Modell in der Klasse der kleinen SUV. Dank der verschiebbaren Rücksitzbank bietet er eine Innenraumflexibilität, die größeren Autos würdig ist.",
+              "uk": "Volkswagen T-Cross — найуніверсальніша модель у класі малих SUV. Завдяки розсувному задньому сидінню він пропонує гнучкість салону, гідну більших автомобілів.",
+              "ru": "Volkswagen T-Cross — самая универсальная модель в классе небольших внедорожников. Благодаря сдвижному заднему сиденью он обеспечивает гибкость салона, достойную больших автомобилей.",
+              "zh": "大众 T-Cross 是小型 SUV 级别中功能最齐全的车型。得益于可滑动的后座，它提供了与大型汽车相媲美的内部灵活性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "from 2018",
+                "de": "ab 2018",
+                "uk": "з 2018 року",
+                "ru": "с 2018 года",
+                "zh": "2018年起"
+              },
+              "segment": {
+                "pl": "Miejski Crossover",
+                "en": "Urban Crossover",
+                "de": "Urban Crossover",
+                "uk": "Міський кросовер",
+                "ru": "Urban Crossover",
+                "zh": "Urban Crossover"
+              },
+              "atut": {
+                "pl": "Przesuwna tylna kanapa",
+                "en": "Sliding rear seat",
+                "de": "Verschiebbare Rücksitzbank",
+                "uk": "Розсувне заднє сидіння",
+                "ru": "Сдвижное заднее сиденье",
+                "zh": "后排滑动座椅"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Taigo": [
+      {
+        "BrandID": 143,
+        "ModelID": 416619,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Taigo",
+        "Serie Name": "Taigo",
+        "Years": "2021 - Present",
+        "specs": {
+          "bodyType": "Crossover Coupe",
+          "segment": "Segment B-SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.0 TSI - 1.5 TSI",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volkswagen Taigo to pierwszy model typu SUV Coupe w segmencie B. Łączy modną, opadającą linię dachu z praktycznością i nowoczesnymi technologiami znanymi z modelu Polo.",
+              "en": "Volkswagen Taigo is the first SUV Coupe model in the B segment. It combines a fashionable, sloping roofline with practicality and modern technologies known from the Polo model.",
+              "de": "Volkswagen Taigo ist das erste SUV-Coupé-Modell im B-Segment. Es verbindet eine modische, abfallende Dachlinie mit der vom Polo-Modell bekannten Funktionalität und modernen Technologien.",
+              "uk": "Volkswagen Taigo — перша модель SUV Coupe у сегменті B. Він поєднує в собі модну похилу лінію даху з практичністю та сучасними технологіями, відомими з моделі Polo.",
+              "ru": "Volkswagen Taigo — первая модель внедорожника-купе в сегменте B. Он сочетает в себе модную покатую линию крыши с практичностью и современными технологиями, известными по модели Polo.",
+              "zh": "大众Taigo是B级车中首款SUV Coupe车型。它将时尚的倾斜车顶线与 Polo 车型所熟知的实用性和现代技术融为一体。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": {
+                "pl": "od 2021",
+                "en": "from 2021",
+                "de": "ab 2021",
+                "uk": "з 2021 року",
+                "ru": "с 2021 года",
+                "zh": "2021 年起"
+              },
+              "segment": {
+                "pl": "Miejski SUV Coupe",
+                "en": "City SUV Coupe",
+                "de": "City-SUV-Coupé",
+                "uk": "City SUV Coupe",
+                "ru": "City SUV Coupe",
+                "zh": "城市 SUV Coupe"
+              },
+              "nadwozie": {
+                "pl": "SUV Coupe",
+                "en": "SUV Coupe",
+                "de": "SUV-Coupé",
+                "uk": "SUV Coupe",
+                "ru": "SUV Coupe",
+                "zh": "SUV Coupe"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Tiguan": [
+      {
+        "BrandID": 143,
+        "ModelID": 414370,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Tiguan",
+        "Serie Name": "Tiguan I (5N)",
+        "Years": "2007 - 2016",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment C-SUV",
+          "drive": "FWD/4MOTION",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4 TSI - 2.0 TDI",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Tiguan pierwszej generacji to model, który wprowadził Volkswagena do niezwykle konkurencyjnego segmentu kompaktowych SUV-ów. Solidna technika i wysoka wartość rezydualna uczyniły go hitem.",
+              "en": "The first generation Tiguan is the model that introduced Volkswagen to the extremely competitive compact SUV segment. Solid technique and high residual value made it a hit.",
+              "de": "Der Tiguan der ersten Generation ist das Modell, das Volkswagen in das äußerst wettbewerbsintensive Segment der kompakten SUV einführte. Solide Technik und hoher Restwert machten es zum Volltreffer.",
+              "uk": "Перше покоління Tiguan — це модель, яка ввела Volkswagen у надзвичайно конкурентоспроможний сегмент компактних SUV. Надійна техніка та висока залишкова вартість зробили його хітом.",
+              "ru": "Tiguan первого поколения — это модель, которая представила Volkswagen в чрезвычайно конкурентоспособном сегменте компактных внедорожников. Надежная техника и высокая остаточная стоимость сделали его хитом.",
+              "zh": "第一代 Tiguan 是将大众汽车引入竞争极其激烈的紧凑型 SUV 领域的车型。扎实的技术和极高的残值使其一炮而红。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "2007–2016",
+              "segment": {
+                "pl": "C-SUV"
+              },
+              "napęd": {
+                "pl": "4Motion (opcja)",
+                "en": "4Motion (optional)",
+                "de": "4Motion (optional)",
+                "uk": "4Motion (опція)",
+                "ru": "4Motion (опция)",
+                "zh": "4Motion（选装）"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 414372,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Tiguan",
+        "Serie Name": "Tiguan II (AD/BW)",
+        "Years": "2016 - 2023",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment C-SUV",
+          "drive": "FWD/4MOTION",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "1.4 TSI - 2.0 TDI / eHybrid / R",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Druga generacja Tiguana to ogromny skok technologiczny i stylistyczny. Stał się większy, bardziej luksusowy i wprowadził wersję Allspace z siedmioma miejscami, cementując swoją pozycję jako jednego z najpopularniejszych SUV-ów na świecie.",
+              "en": "The second generation of Tiguan is a huge technological and stylistic leap. It became larger, more luxurious and introduced a seven-seat Allspace version, cementing its position as one of the most popular SUVs in the world.",
+              "de": "Die zweite Generation des Tiguan ist ein großer technologischer und stilistischer Sprung. Er wurde größer, luxuriöser und führte eine siebensitzige Allspace-Version ein, was seine Position als eines der beliebtesten SUVs der Welt festigte.",
+              "uk": "Друге покоління Tiguan — це величезний технологічний і стилістичний стрибок. Він став більшим, розкішнішим і представив семимісну версію Allspace, закріпивши свою позицію одного з найпопулярніших позашляховиків у світі.",
+              "ru": "Второе поколение Tiguan – это огромный технологический и стилистический скачок. Он стал больше, роскошнее и представил семиместную версию Allspace, укрепив свои позиции одного из самых популярных внедорожников в мире.",
+              "zh": "第二代Tiguan是技术和风格上的巨大飞跃。它变得更大、更豪华，并推出了七座 Allspace 版本，巩固了其作为世界上最受欢迎的 SUV 之一的地位。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "2016–2023",
+              "segment": {
+                "pl": "C-SUV"
+              },
+              "wersja": {
+                "pl": "Standard / Allspace",
+                "en": "Standard / Allspace",
+                "de": "Standard / Allspace",
+                "uk": "Standard / Allspace",
+                "ru": "Standard / Allspace",
+                "zh": "标准/全空间"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 416620,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Tiguan",
+        "Serie Name": "Tiguan III",
+        "Years": "2023 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment C-SUV",
+          "drive": "FWD/4MOTION",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "1.5 TSI - 2.0 TDI / eHybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Najnowszy Tiguan III to SUV ery cyfrowej, wyposażony w najnowocześniejsze systemy oświetlenia IQ.Light i zaawansowane napędy hybrydowe plug-in o dużym zasięgu elektrycznym. Wyznacza nowe standardy komfortu w swojej klasie.",
+              "en": "The latest Tiguan III is an SUV of the digital era, equipped with the latest IQ.Light lighting systems and advanced plug-in hybrid drives with a long electric range. It sets new comfort standards in its class.",
+              "de": "Der neueste Tiguan III ist ein SUV des digitalen Zeitalters, ausgestattet mit den neuesten IQ.Light-Lichtsystemen und fortschrittlichen Plug-in-Hybridantrieben mit großer elektrischer Reichweite. Er setzt neue Komfortmaßstäbe in seiner Klasse.",
+              "uk": "Найновіший Tiguan III — позашляховик цифрової ери, оснащений новітніми системами освітлення IQ.Light і вдосконаленими гібридними приводами, що підключаються до електромережі, із великим запасом ходу на електротягі. Він встановлює нові стандарти комфорту у своєму класі.",
+              "ru": "Новейший Tiguan III — внедорожник цифровой эпохи, оснащенный новейшими системами освещения IQ.Light и усовершенствованными подключаемыми гибридными приводами с большим запасом хода на электротяге. Он устанавливает новые стандарты комфорта в своем классе.",
+              "zh": "最新的 Tiguan III 是一款数字时代的 SUV，配备了最新的 IQ.Light 照明系统和先进的插电式混合动力驱动器，具有较长的电动续航里程。它在同类产品中树立了新的舒适标准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": {
+                "pl": "od 2023",
+                "en": "from 2023",
+                "de": "ab 2023",
+                "uk": "з 2023 року",
+                "ru": "с 2023 года",
+                "zh": "2023 年起"
+              },
+              "segment": {
+                "pl": "C-SUV"
+              },
+              "oświetlenie": {
+                "pl": "IQ.Light HD Matrix",
+                "en": "IQ.Light HD Matrix",
+                "de": "IQ.Light HD Matrix",
+                "uk": "IQ.Light HD Matrix",
+                "ru": "IQ.Light HD Matrix",
+                "zh": "IQ.Light 高清矩阵"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Touareg": [
+      {
+        "BrandID": 143,
+        "ModelID": 413610,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Touareg",
+        "Serie Name": "Touareg I (7L)",
+        "Years": "2002 - 2010",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Large SUV",
+          "drive": "4MOTION",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.5 TDI - 6.0 W12",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volkswagen Touareg I to luksusowy SUV, który udowodnił, że auto o wysokim prestiżu może posiadać wybitne właściwości terenowe. Opracowany wspólnie z Porsche, oferował mocarne silniki V10 TDI i W12.",
+              "en": "Volkswagen Touareg I is a luxury SUV that proved that a car with high prestige can have outstanding off-road properties. Developed together with Porsche, it offered powerful V10 TDI and W12 engines.",
+              "de": "Volkswagen Touareg I ist ein Luxus-SUV, der bewiesen hat, dass ein Auto mit hohem Prestige über hervorragende Offroad-Eigenschaften verfügen kann. Gemeinsam mit Porsche entwickelt, bot er leistungsstarke V10-TDI- und W12-Motoren.",
+              "uk": "Volkswagen Touareg I — розкішний позашляховик, який довів, що автомобіль з високим престижем може мати видатні позашляхові якості. Розроблений спільно з Porsche, він пропонував потужні двигуни V10 TDI та W12.",
+              "ru": "Volkswagen Touareg I — роскошный внедорожник, доказавший, что престижный автомобиль может обладать выдающимися внедорожными качествами. Разработанный совместно с Porsche, он предлагал мощные двигатели V10 TDI и W12.",
+              "zh": "大众途锐 I 是一款豪华 SUV，证明了高威望的汽车也能拥有出色的越野性能。它与保时捷共同开发，提供强大的 V10 TDI 和 W12 发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "2002–2010",
+              "segment": {
+                "pl": "Large SUV",
+                "en": "Large SUV",
+                "de": "Großes SUV",
+                "uk": "Великий позашляховик",
+                "ru": "Большой внедорожник",
+                "zh": "大型SUV"
+              },
+              "silnik flagowy": {
+                "pl": "5.0 V10 TDI / 6.0 W12",
+                "en": "5.0 V10 TDI / 6.0 W12",
+                "de": "5.0 V10 TDI / 6.0 W12",
+                "uk": "5.0 V10 TDI / 6.0 W12",
+                "ru": "5.0 V10 TDI / 6.0 W12",
+                "zh": "5.0 V10 TDI / 6.0 W12"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 413611,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Touareg",
+        "Serie Name": "Touareg II (7P)",
+        "Years": "2010 - 2018",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Large SUV",
+          "drive": "4MOTION",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "3.0 V6 TDI - 4.2 V8 TDI / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Touareg drugiej generacji stał się lżejszy i bardziej oszczędny, kładąc większy nacisk na komfort drogowy i nowoczesne systemy wsparcia. Wprowadził pierwszy w historii marki napęd hybrydowy w klasie SUV.",
+              "en": "The second generation Touareg has become lighter and more fuel-efficient, placing greater emphasis on road comfort and modern support systems. It introduced the first hybrid drive in the SUV class in the brand's history.",
+              "de": "Der Touareg der zweiten Generation ist leichter und sparsamer geworden und legt mehr Wert auf Fahrkomfort und moderne Unterstützungssysteme. Es stellte den ersten Hybridantrieb in der SUV-Klasse in der Markengeschichte vor.",
+              "uk": "Друге покоління Touareg стало легшим і економнішим, приділяючи більше уваги комфорту на дорозі та сучасним системам підтримки. Він представив перший гібридний привід у класі SUV в історії бренду.",
+              "ru": "Touareg второго поколения стал легче и экономичнее, сделав больший акцент на дорожном комфорте и современных вспомогательных системах. Он представил первый в истории бренда гибридный привод в классе внедорожников.",
+              "zh": "第二代途锐变得更轻、更省油，更加注重道路舒适性和现代化的支持系统。它推出了该品牌历史上首款 SUV 级别的混合动力驱动系统。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "2010–2018",
+              "segment": {
+                "pl": "Large SUV",
+                "en": "Large SUV",
+                "de": "Großer SUV",
+                "uk": "Великий позашляховик",
+                "ru": "Большой внедорожник",
+                "zh": "大型 SUV"
+              },
+              "napęd": {
+                "pl": "4Motion / Hybrid",
+                "en": "4Motion / Hybrid",
+                "de": "4Motion / Hybrid",
+                "uk": "4Motion / Hybrid",
+                "ru": "4Motion / Hybrid",
+                "zh": "4Motion / Hybrid"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 414373,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Touareg",
+        "Serie Name": "Touareg III (CR)",
+        "Years": "2018 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Large SUV",
+          "drive": "4MOTION",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "3.0 V6 TDI - 4.0 V8 TDI / eHybrid R",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Touareg III to flagowy model Volkswagena, naszpikowany innowacjami takimi jak system Night Vision czy skrętna tylna oś. Jego cyfrowe wnętrze 'Innovision Cockpit' definiuje na nowo pojęcie luksusu w wydaniu VW.",
+              "en": "Touareg III is the flagship model of Volkswagen, packed with innovations such as the Night Vision system and a steered rear axle. Its 'Innovision Cockpit' digital interior redefines the concept of VW luxury.",
+              "de": "Touareg III ist das Flaggschiffmodell von Volkswagen, vollgepackt mit Innovationen wie dem Night Vision System und einer gelenkten Hinterachse. Sein digitales Interieur „Innovision Cockpit“ definiert das Konzept von VW-Luxus neu.",
+              "uk": "Touareg III — це флагманська модель Volkswagen, оснащена такими інноваціями, як система нічного бачення та керована задня вісь. Його цифровий інтер’єр «Innovision Cockpit» переосмислює концепцію розкоші VW.",
+              "ru": "Touareg III — флагманская модель Volkswagen, оснащенная такими инновациями, как система ночного видения и управляемый задний мост. Цифровой интерьер Innovision Cockpit переопределяет концепцию роскоши VW.",
+              "zh": "途锐 III 是大众汽车的旗舰车型，配备了夜视系统和转向后桥等创新技术。其“Innovision Cockpit”数字内饰重新定义了大众豪华的概念。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "from 2018",
+                "de": "ab 2018",
+                "uk": "з 2018 року",
+                "ru": "с 2018 года",
+                "zh": "2018 年起"
+              },
+              "segment": {
+                "pl": "Large SUV / Premium",
+                "en": "Large SUV / Premium",
+                "de": "Großer SUV / Premium",
+                "uk": "Великий позашляховик / Преміум",
+                "ru": "Большой внедорожник/премиум",
+                "zh": "大型 SUV/高级"
+              },
+              "technologia": {
+                "pl": "Innovision Cockpit",
+                "en": "Innovision Cockpit",
+                "de": "Innovision Cockpit",
+                "uk": "Innovision Cockpit",
+                "ru": "Innovision Cockpit",
+                "zh": "Innovision 驾驶舱"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Touran": [
+      {
+        "BrandID": 143,
+        "ModelID": 413612,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Touran",
+        "Serie Name": "Touran I (1T)",
+        "Years": "2003 - 2015",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/CNG",
+          "engine": "1.4 TSI - 2.0 TDI",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Volkswagen Touran I to niezwykle przemyślany, kompaktowy van oparty na technice Golfa. Oferuje genialny system aranżacji wnętrza i ogromny bagażnik, będąc jednym z ulubionych aut rodzinnych w Europie.",
+              "en": "Volkswagen Touran I is an extremely well-thought-out, compact van based on Golf technology. It offers a brilliant interior arrangement system and a huge trunk, making it one of the favorite family cars in Europe.",
+              "de": "Volkswagen Touran I ist ein äußerst durchdachter, kompakter Van auf Basis der Golf-Technologie. Er bietet ein brillantes Innenaufteilungssystem und einen riesigen Kofferraum, was ihn zu einem der beliebtesten Familienautos in Europa macht.",
+              "uk": "Volkswagen Touran I — надзвичайно добре продуманий компактний фургон на основі технологій Golf. Він пропонує блискучу систему облаштування салону та величезний багажник, що робить його одним із улюблених сімейних автомобілів у Європі.",
+              "ru": "Volkswagen Touran I — чрезвычайно продуманный компактный фургон, созданный на базе технологий Golf. Он предлагает блестящую систему компоновки салона и огромный багажник, что делает его одним из любимых семейных автомобилей в Европе.",
+              "zh": "大众途安 I 是一款经过深思熟虑的紧凑型货车，基于高尔夫技术。它拥有出色的内饰系统和巨大的后备箱，使其成为欧洲最受欢迎的家庭汽车之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "2003–2015",
+              "segment": {
+                "pl": "Kompaktowy MPV",
+                "en": "Compact MPV",
+                "de": "Kompakter MPV",
+                "uk": "Компактний MPV",
+                "ru": "Компактвэн",
+                "zh": "紧凑型MPV"
+              },
+              "system siedzeń": {
+                "pl": "FoldFlat"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 414374,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Touran",
+        "Serie Name": "Touran II (5T)",
+        "Years": "2015 - Present",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0 TSI - 2.0 TDI",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Druga odsłona Tourana, zbudowana na platformie MQB, stała się jeszcze bardziej przestronna i bezpieczna. To jeden z ostatnich klasycznych minivanów na rynku, który wciąż zachwyca ergonomią i funkcjonalnością.",
+              "en": "The second version of Touran, built on the MQB platform, has become even more spacious and safe. This is one of the last classic minivans on the market that still impresses with its ergonomics and functionality.",
+              "de": "Die zweite Version des Touran, basierend auf der MQB-Plattform, ist noch geräumiger und sicherer geworden. Dies ist einer der letzten klassischen Minivans auf dem Markt, der noch durch Ergonomie und Funktionalität überzeugt.",
+              "uk": "Друга версія Touran, побудована на платформі MQB, стала ще просторішою та безпечнішою. Це один з останніх класичних мінівенів на ринку, який досі вражає своєю ергономікою та функціональністю.",
+              "ru": "Вторая версия Touran, построенная на платформе MQB, стала еще просторнее и безопаснее. Это один из последних классических минивэнов на рынке, который до сих пор впечатляет своей эргономикой и функциональностью.",
+              "zh": "基于MQB平台打造的途安第二款车型，空间更加宽敞、安全。这是市场上最后的经典小型货车之一，其人体工程学和功能仍然令人印象深刻。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": {
+                "pl": "od 2015",
+                "en": "from 2015",
+                "de": "ab 2015",
+                "uk": "з 2015 року",
+                "ru": "с 2015 года.",
+                "zh": "2015 年起"
+              },
+              "segment": {
+                "pl": "Kompaktowy MPV",
+                "en": "Compact MPV",
+                "de": "Kompakter MPV",
+                "uk": "Компактний MPV",
+                "ru": "Компактвэн",
+                "zh": "紧凑型 MPV"
+              },
+              "bagażnik": {
+                "pl": "Do 1980 litrów",
+                "en": "Up to 1,980 liters",
+                "de": "Bis zu 1.980 Liter",
+                "uk": "До 1980 літрів",
+                "ru": "До 1980 литров",
+                "zh": "最大 1,980 升"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Transporter": [
+      {
+        "BrandID": 143,
+        "ModelID": 413646,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Transporter",
+        "Serie Name": "Transporter T3",
+        "Years": "1979 - 1992",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Mid-size Van",
+          "drive": "RWD/Syncro (4WD)",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.1L",
+          "isOldtimer": true,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Transporter T3 to ostatnia generacja z silnikiem montowanym z tyłu, co czyni ją kultowym wyborem wśród fanów klasycznych vanów i kamperów. Niezwykle odporna konstrukcja, dostępna również z napędem Syncro.",
+              "en": "The Transporter T3 is the last generation with a rear-mounted engine, making it an iconic choice among fans of classic vans and campers. Extremely resistant construction, also available with Syncro drive.",
+              "de": "Der Transporter T3 ist die letzte Generation mit Heckmotor und damit eine ikonische Wahl für Fans klassischer Vans und Camper. Extrem widerstandsfähige Konstruktion, auch mit Syncro-Antrieb erhältlich.",
+              "uk": "Transporter T3 — це останнє покоління із заднім розташуванням двигуна, що робить його культовим вибором серед шанувальників класичних фургонів і кемперів. Надзвичайно міцна конструкція, також доступна з приводом Syncro.",
+              "ru": "Transporter T3 — последнее поколение с задним расположением двигателя, что делает его культовым выбором среди любителей классических фургонов и кемперов. Чрезвычайно прочная конструкция, также доступна с приводом Syncro.",
+              "zh": "Transporter T3 是最后一代配备后置发动机的车型，使其成为经典货车和露营车爱好者的标志性选择。极其坚固的结构，也可配备 Syncro 驱动器。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "1979–1992",
+              "segment": {
+                "pl": "Van / LCV",
+                "en": "Van / LCV",
+                "de": "Van / LCV",
+                "uk": "Фургон / LCV",
+                "ru": "Van / LCV",
+                "zh": "厢式车/轻型商用车"
+              },
+              "układ": {
+                "pl": "RWD / Silnik z tyłu",
+                "en": "RWD / Rear engine",
+                "de": "RWD / Heckmotor",
+                "uk": "Заднепривідний / задній двигун",
+                "ru": "RWD / Rear engine",
+                "zh": "后轮驱动/后置发动机"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 132762,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Transporter",
+        "Serie Name": "Transporter T4",
+        "Years": "1990 - 2003",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Mid-size Van",
+          "drive": "FWD/Syncro (4WD)",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.9 TDI - 2.8 VR6",
+          "isOldtimer": true,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "T4 był przełomem, wprowadzając silnik z przodu i napęd na przednie koła, co zrewolucjonizowało przestrzeń ładunkową i komfort jazdy. Model ten stał się fundamentem nowoczesnych vanów Volkswagena.",
+              "en": "The T4 was a breakthrough, introducing a front engine and front-wheel drive, which revolutionized cargo space and driving comfort. This model became the foundation of modern Volkswagen vans.",
+              "de": "Der T4 war ein Durchbruch, denn er führte einen Frontmotor und einen Vorderradantrieb ein, was den Laderaum und den Fahrkomfort revolutionierte. Dieses Modell wurde zur Grundlage moderner Volkswagen-Transporter.",
+              "uk": "T4 став проривом, представивши передній двигун і передній привід, що революціонізувало вантажний простір і комфорт водіння. Ця модель стала основою сучасних фургонів Volkswagen.",
+              "ru": "The T4 was a breakthrough, introducing a front engine and front-wheel drive, which revolutionized cargo space and driving comfort. Эта модель стала основой современных фургонов Volkswagen.",
+              "zh": "T4 是一项突破，引入了前置发动机和前轮驱动，彻底改变了载货空间和驾驶舒适性。该车型成为现代大众货车的基础。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "1990–2003",
+              "segment": {
+                "pl": "Van / LCV",
+                "en": "Van / LCV",
+                "de": "Van / LCV",
+                "uk": "Фургон / LCV",
+                "ru": "Фургон / LCV",
+                "zh": "货车/轻型商用车"
+              },
+              "przełom": {
+                "pl": "Silnik z przodu",
+                "en": "Front engine",
+                "de": "Frontmotor",
+                "uk": "Передній двигун",
+                "ru": "Передний двигатель",
+                "zh": "前置发动机"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 132149,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Transporter",
+        "Serie Name": "Transporter T5",
+        "Years": "2003 - 2015",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Mid-size Van",
+          "drive": "FWD/4MOTION",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.9 TDI - 2.5 TDI / 2.0 TDI",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Transporter T5 to ewolucja doskonałości, oferująca jeszcze większą różnorodność wersji nadwoziowych i nowoczesne diesle TDI. Wyznaczył standardy w segmencie aut dostawczych i osobowych vanów.",
+              "en": "The Transporter T5 is an evolution of perfection, offering an even greater variety of body versions and modern TDI diesel engines. It set standards in the segment of commercial vehicles and passenger vans.",
+              "de": "Der Transporter T5 ist eine Weiterentwicklung der Perfektion und bietet eine noch größere Vielfalt an Karosserievarianten und modernen TDI-Dieselmotoren. Es setzte Maßstäbe im Segment der Nutzfahrzeuge und Personentransporter.",
+              "uk": "Transporter T5 — це еволюція досконалості, яка пропонує ще більшу різноманітність версій кузова та сучасних дизельних двигунів TDI. Він встановив стандарти в сегменті комерційних автомобілів і пасажирських фургонів.",
+              "ru": "Transporter T5 — это эволюция совершенства, предлагающая еще большее разнообразие вариантов кузова и современные дизельные двигатели TDI. Он установил стандарты в сегменте коммерческих автомобилей и пассажирских фургонов.",
+              "zh": "Transporter T5 是完美的进化，提供更多种类的车身版本和现代 TDI 柴油发动机。它为商用车和客车领域设定了标准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "2003–2015",
+              "segment": {
+                "pl": "Van / LCV",
+                "en": "Van / LCV",
+                "de": "Van / LCV",
+                "uk": "Van / LCV",
+                "ru": "Фургон / LCV",
+                "zh": "厢式货车 / LCV"
+              },
+              "wersje": {
+                "pl": "Transporter / Caravelle / Multivan",
+                "en": "Transporter / Caravelle / Multivan",
+                "de": "Transporter / Caravelle / Multivan",
+                "uk": "Transporter / Caravelle / Multivan",
+                "ru": "Transporter / Caravelle / Multivan",
+                "zh": "Transporter / Caravelle / Multivan"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 414375,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Transporter",
+        "Serie Name": "Transporter T6",
+        "Years": "2015 - Present",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Mid-size Van",
+          "drive": "FWD/4MOTION",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0 TSI / 2.0 TDI",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "T6 to dopracowana w każdym szczególe edycja legendy, łącząca tradycyjną formę z najnowocześniejszymi systemami bezpieczeństwa i multimediami. Ikona stylu, która idealnie odnajduje się w biznesie i turystyce.",
+              "en": "T6 is an edition of the legend refined in every detail, combining a traditional form with the most modern security systems and multimedia. A style icon that is perfect for business and tourism.",
+              "de": "T6 ist eine bis ins Detail verfeinerte Edition der Legende, die eine traditionelle Form mit modernsten Sicherheitssystemen und Multimedia kombiniert. Eine Stilikone, die perfekt für Business und Tourismus geeignet ist.",
+              "uk": "T6 - це видання легенди, вишукане в кожній деталі, поєднуючи традиційну форму з найсучаснішими системами безпеки та мультимедіа. Ікона стилю, яка ідеально підходить для бізнесу та туризму.",
+              "ru": "T6 — это версия легенды, изысканная в каждой детали, сочетающая традиционную форму с самыми современными системами безопасности и мультимедиа. Икона стиля, идеально подходящая для бизнеса и туризма.",
+              "zh": "T6 是一款在每个细节上都精益求精的传奇版本，将传统形式与最现代的安全系统和多媒体相结合。非常适合商务和旅游的时尚偶像。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": {
+                "pl": "od 2015",
+                "en": "from 2015",
+                "de": "ab 2015",
+                "uk": "з 2015 року",
+                "ru": "с 2015 года",
+                "zh": "2015 年起"
+              },
+              "segment": {
+                "pl": "Van / LCV",
+                "en": "Van / LCV",
+                "de": "Van / LCV",
+                "uk": "Van / LCV",
+                "ru": "Фургон/LCV",
+                "zh": "厢式车/轻型商用车"
+              },
+              "standard": {
+                "pl": "Euro 6",
+                "en": "Euro 6",
+                "de": "Euro 6",
+                "uk": "Euro 6",
+                "ru": "Евро 6",
+                "zh": "欧 6"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 416621,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Transporter",
+        "Serie Name": "Transporter T7",
+        "Years": "2024 - Present",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Mid-size Van",
+          "drive": "FWD/AWD",
+          "fuel": "Diesel/PHEV/Electric",
+          "engine": "2.0 TDI / PHEV / EV",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/1973-1980_Volkswagen_Kombi_%28T2%29_van_01.jpg/1280px-1973-1980_Volkswagen_Kombi_%28T2%29_van_01.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/1973-1980_Volkswagen_Kombi_%28T2%29_van_01.jpg/1280px-1973-1980_Volkswagen_Kombi_%28T2%29_van_01.jpg"
+            ]
+          }
+        }
+      }
+    ],
+    "Multivan": [
+      {
+        "BrandID": 143,
+        "ModelID": 414363,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Multivan",
+        "Serie Name": "Multivan T3",
+        "Years": "1979 - 1992",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Mid-size Van",
+          "drive": "RWD/Syncro",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.1L",
+          "isOldtimer": true,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Multivan T3 to luksusowa odmiana Transportera, która stworzyła segment prestiżowych vanów do użytku prywatnego. Oferował obracane fotele, stolik i rozkładaną kanapę, stając się idealnym towarzyszem podróży.",
+              "en": "Multivan T3 is a luxurious version of the Transporter, which created a segment of prestigious vans for private use. It offered swivel chairs, a table and a fold-out sofa, making it an ideal travel companion.",
+              "de": "Der Multivan T3 ist eine luxuriöse Version des Transporters, der ein Segment prestigeträchtiger Transporter für den privaten Gebrauch geschaffen hat. Er verfügte über Drehstühle, einen Tisch und ein ausklappbares Sofa und war damit ein idealer Reisebegleiter.",
+              "uk": "Multivan T3 - це розкішна версія Transporter, яка створила сегмент престижних фургонів для приватного використання. У ньому були крісла, що обертаються, стіл і розкладний диван, що робило його ідеальним супутником для подорожей.",
+              "ru": "Multivan T3 — роскошная версия Transporter, создавшая сегмент престижных фургонов для частного использования. В нем были вращающиеся стулья, стол и раскладной диван, что делало его идеальным спутником в путешествии.",
+              "zh": "Multivan T3 是 Transporter 的豪华版本，创造了一系列享有盛誉的私人货车。配有转椅、桌子和折叠沙发，是理想的旅行伴侣。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "1979–1992",
+              "segment": {
+                "pl": "Lifestyle MPV",
+                "en": "Lifestyle MPV",
+                "de": "Lifestyle-MPV",
+                "uk": "Lifestyle MPV",
+                "ru": "Lifestyle MPV",
+                "zh": "生活方式 MPV"
+              },
+              "wyposażenie": {
+                "pl": "Wersje Joker / Bluestar",
+                "en": "Joker / Bluestar versions",
+                "de": "Joker-/Bluestar-Versionen",
+                "uk": "Версії Joker / Bluestar",
+                "ru": "Версии Joker/Bluestar",
+                "zh": "Joker / Bluestar 版本"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 413608,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Multivan",
+        "Serie Name": "Multivan T4",
+        "Years": "1990 - 2003",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Mid-size Van",
+          "drive": "FWD/Syncro",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.9 TDI - 2.8 VR6",
+          "isOldtimer": true,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Multivan T4 przyniósł komfort jazdy samochodem osobowym do świata vanów. Ceniony za niezniszczalne silniki 2.5 TDI i VR6, stał się marzeniem wielu rodzin i symbolem wolności lat 90.",
+              "en": "Multivan T4 brought the comfort of driving a passenger car to the world of vans. Appreciated for its indestructible 2.5 TDI and VR6 engines, it became the dream of many families and a symbol of freedom in the 1990s.",
+              "de": "Der Multivan T4 brachte den Komfort eines Pkw in die Welt der Transporter. Geschätzt für seine unverwüstlichen 2,5 TDI- und VR6-Motoren wurde er in den 1990er-Jahren zum Traum vieler Familien und zum Symbol der Freiheit.",
+              "uk": "Multivan T4 переніс комфорт водіння легкового автомобіля у світ фургонів. Його цінували за його непорушні двигуни 2.5 TDI та VR6, він став мрією багатьох родин і символом свободи в 1990-х роках.",
+              "ru": "Multivan T4 привнес комфорт вождения легкового автомобиля в мир фургонов. Ценимый за свои несокрушимые двигатели 2.5 TDI и VR6, он стал мечтой многих семей и символом свободы 1990-х годов.",
+              "zh": "Multivan T4 将驾驶客车的舒适感带​​入了货车世界。它因其坚不可摧的2.5 TDI和VR6发动机而受到赞赏，成为许多家庭的梦想，也是20世纪90年代自由的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "1990–2003",
+              "segment": {
+                "pl": "Lifestyle MPV",
+                "en": "Lifestyle MPV",
+                "de": "Lifestyle MPV",
+                "uk": "Lifestyle MPV",
+                "ru": "Lifestyle MPV",
+                "zh": "生活方式MPV"
+              },
+              "silniki": {
+                "pl": "2.5 TDI / 2.8 VR6",
+                "en": "2.5 TDI / 2.8 VR6",
+                "de": "2.5 TDI / 2.8 VR6",
+                "uk": "2.5 TDI / 2.8 VR6",
+                "ru": "2.5 TDI / 2.8 VR6",
+                "zh": "2.5 TDI / 2.8 VR6"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 413609,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Multivan",
+        "Serie Name": "Multivan T5",
+        "Years": "2003 - 2015",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Mid-size Van",
+          "drive": "FWD/4MOTION",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0 TSI - 2.5 TDI",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "W piątej generacji Multivan stał się prawdziwym biurem na kołach i luksusowym transporterem VIP. Wprowadził system szyn w podłodze, umożliwiający dowolną aranżację wnętrza i luksusowe wykończenie.",
+              "en": "In the fifth generation, the Multivan became a real office on wheels and a luxurious VIP transporter. He introduced a system of rails in the floor, enabling any interior arrangement and luxurious finish.",
+              "de": "In der fünften Generation wurde der Multivan zum echten Büro auf Rädern und zum luxuriösen VIP-Transporter. Er führte ein Schienensystem im Boden ein, das eine beliebige Inneneinrichtung und luxuriöse Ausstattung ermöglichte.",
+              "uk": "У п'ятому поколінні Multivan став справжнім офісом на колесах і розкішним VIP-транспортером. Він запровадив систему рейок у підлозі, що дозволило будь-яке внутрішнє облаштування та розкішне оздоблення.",
+              "ru": "В пятом поколении Multivan стал настоящим офисом на колесах и роскошным VIP-транспортером. Он представил систему реек в полу, обеспечивающую любое внутреннее расположение и роскошную отделку.",
+              "zh": "第五代Multivan 成为真正的带轮办公室和豪华VIP 运输车。他在地板上引入了导轨系统，可实现任何室内布置和豪华饰面。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "2003–2015",
+              "segment": {
+                "pl": "Lifestyle MPV",
+                "en": "Lifestyle MPV",
+                "de": "Lifestyle MPV",
+                "uk": "Lifestyle MPV",
+                "ru": "Стиль жизни MPV",
+                "zh": "生活方式MPV"
+              },
+              "system": {
+                "pl": "Szyny podłogowe",
+                "en": "Floor rails",
+                "de": "Bodenschienen",
+                "uk": "Рейлінги",
+                "ru": "Рейлинги на полу",
+                "zh": "地板导轨"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 414362,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Multivan",
+        "Serie Name": "Multivan T6",
+        "Years": "2015 - 2021",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Mid-size Van",
+          "drive": "FWD/4MOTION",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0 TSI / 2.0 TDI",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Multivan T6 to połączenie tradycji z nowoczesnością. Oferuje najwyższy poziom wyciszenia i komfortu resorowania, pozostając niedoścignionym wzorcem w klasie dużych vanów premium.",
+              "en": "Multivan T6 is a combination of tradition and modernity. It offers the highest level of quietness and suspension comfort, remaining an unrivaled benchmark in the class of large premium vans.",
+              "de": "Der Multivan T6 ist eine Kombination aus Tradition und Moderne. Er bietet ein Höchstmaß an Laufruhe und Federungskomfort und bleibt ein konkurrenzloser Maßstab in der Klasse der großen Premium-Vans.",
+              "uk": "Multivan T6 — це поєднання традицій і сучасності. Він пропонує найвищий рівень тиші та комфорту підвіски, залишаючись неперевершеним еталоном у класі великих фургонів преміум-класу.",
+              "ru": "Multivan T6 — это сочетание традиций и современности. Он предлагает высочайший уровень бесшумности и комфорта подвески, оставаясь непревзойденным эталоном в классе больших фургонов премиум-класса.",
+              "zh": "Multivan T6 是传统与现代的结合。它提供最高水平的安静性和悬架舒适性，在大型高档货车中保持着无与伦比的基准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "2015–2021",
+              "segment": {
+                "pl": "Lifestyle MPV",
+                "en": "Lifestyle MPV",
+                "de": "Lifestyle-MPV",
+                "uk": "Lifestyle MPV",
+                "ru": "Стиль жизни MPV",
+                "zh": "生活方式MPV"
+              },
+              "edycja": {
+                "pl": "Generation SIX",
+                "en": "Generation SIX",
+                "de": "Generation SIX",
+                "uk": "ШОСТЕ ПОКОЛІННЯ",
+                "ru": "Шестое поколение",
+                "zh": "第六代"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 143,
+        "ModelID": 416622,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Multivan",
+        "Serie Name": "Multivan T7",
+        "Years": "2021 - Present",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "1.5 TSI - 2.0 TDI / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Najnowszy Multivan T7 to rewolucja – zbudowany na platformie MQB, oferuje prowadzenie i technologie rodem z Golfa. Po raz pierwszy dostępny jako hybryda plug-in, definiuje przyszłość rodzinnych vanów.",
+              "en": "The latest Multivan T7 is a revolution - built on the MQB platform, it offers handling and technologies straight from the Golf. Available for the first time as a plug-in hybrid, it defines the future of family vans.",
+              "de": "Der neueste Multivan T7 ist eine Revolution – er basiert auf der MQB-Plattform und bietet Handling und Technologien direkt vom Golf. Erstmals als Plug-in-Hybrid erhältlich, definiert er die Zukunft der Familien-Vans.",
+              "uk": "Останній Multivan T7 — це революція — побудований на платформі MQB, він пропонує керованість і технології, які були безпосередньо з Golf. Вперше доступний як плагін-гібрид, він визначає майбутнє сімейних фургонів.",
+              "ru": "Последний Multivan T7 — это революция: он построен на платформе MQB, предлагает управляемость и технологии прямо из Golf. Впервые доступный в виде подключаемого гибрида, он определяет будущее семейных фургонов.",
+              "zh": "最新的 Multivan T7 是一场革命 - 基于 MQB 平台打造，它提供直接源自高尔夫的操控性和技术。它首次作为插电式混合动力车型推出，定义了家庭货车的未来。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": {
+                "pl": "od 2021",
+                "en": "from 2021",
+                "de": "ab 2021",
+                "uk": "з 2021 року",
+                "ru": "с 2021 г.",
+                "zh": "2021年起"
+              },
+              "segment": {
+                "pl": "MPV"
+              },
+              "napęd": {
+                "pl": "eHybrid (PHEV)",
+                "en": "eHybrid (PHEV)",
+                "de": "eHybrid (PHEV)",
+                "uk": "eHybrid (PHEV)",
+                "ru": "eHybrid (PHEV)",
+                "zh": "电动混合动力 (PHEV)"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Up": [
+      {
+        "BrandID": 143,
+        "ModelID": 414376,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Up",
+        "Serie Name": "Up!",
+        "Years": "2011 - 2023",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment A (City Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/CNG/Electric",
+          "engine": "1.0 MPI - 1.0 TSI GTI / e-Up!",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volkswagen Up! to genialny w swojej prostocie samochód miejski, który udowodnił, że małe auto może być bezpieczne, stabilne i zaskakująco przestronne. Mistrz parkowania w ciasnych miastach.",
+              "en": "Volkswagen Up! It's a city car that's brilliant in its simplicity and proves that a small car can be safe, stable and surprisingly spacious. Master of parking in tight cities.",
+              "de": "Volkswagen Up! Es ist ein Stadtauto, das durch seine Einfachheit glänzt und beweist, dass ein Kleinwagen sicher, stabil und überraschend geräumig sein kann. Meister des Parkens in engen Städten.",
+              "uk": "Volkswagen Up! Це міський автомобіль, який є блискучим у своїй простоті та доводить, що маленький автомобіль може бути безпечним, стабільним і напрочуд просторим. Майстер паркування в тісних містах.",
+              "ru": "Volkswagen Up! Это городской автомобиль, блестящий своей простотой и доказывающий, что маленький автомобиль может быть безопасным, устойчивым и удивительно просторным. Мастер парковки в тесных городах.",
+              "zh": "大众汽车起来！这是一款简洁而出色的城市汽车，证明了小型汽车也可以安全、稳定且宽敞。狭窄城市的停车大师。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "2011–2023",
+              "segment": {
+                "pl": "A (Miejskie)",
+                "en": "A (City)",
+                "de": "A (Stadt)",
+                "uk": "A (місто)",
+                "ru": "A (Город)",
+                "zh": "A（城市）"
+              },
+              "wersje": {
+                "pl": "3-drzwiowy / 5-drzwiowy / e-Up!",
+                "en": "3-door / 5-door / e-Up!",
+                "de": "3-Türer / 5-Türer / e-Up!",
+                "uk": "3-дверний / 5-дверний / e-Up!",
+                "ru": "3-дверный/5-дверный/e-Up!",
+                "zh": "3门/5门/e-Up！"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Vento": [
+      {
+        "BrandID": 143,
+        "ModelID": 1680,
+        "Brand Name": "Volkswagen",
+        "Model Name": "Vento",
+        "Serie Name": "Vento (1H)",
+        "Years": "1992 - 1999",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.8 VR6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Volkswagen Vento to elegancka odmiana Golfa III z nadwoziem typu sedan. Oferował znacznie większy bagażnik i bardziej klasyczny wygląd, będąc cenionym wyborem dla osób szukających tradycyjnej limuzyny w formacie kompaktowym.",
+              "en": "Volkswagen Vento is an elegant version of the Golf III with a sedan body. It offered a much larger trunk and a more classic look, being a valued choice for people looking for a traditional limousine in a compact format.",
+              "de": "Volkswagen Vento ist eine elegante Version des Golf III mit Limousinenkarosserie. Er bot einen viel größeren Kofferraum und ein klassischeres Aussehen und war eine geschätzte Wahl für Leute, die eine traditionelle Limousine im kompakten Format suchten.",
+              "uk": "Volkswagen Vento — елегантна версія Golf III з кузовом седан. Він пропонував набагато більший багажник і більш класичний вигляд, будучи цінним вибором для людей, які шукають традиційний лімузин компактного формату.",
+              "ru": "Volkswagen Vento — элегантная версия Golf III с кузовом седан. Он предлагал гораздо больший багажник и более классический вид, что было ценным выбором для людей, ищущих традиционный лимузин компактного формата.",
+              "zh": "大众 Vento 是高尔夫 III 的优雅版本，采用轿车车身。它提供了更大的后备箱和更经典的外观，对于寻求紧凑型传统豪华轿车的人们来说是一个有价值的选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Volkswagen"
+              },
+              "okres produkcji": "1992–1999",
+              "segment": {
+                "pl": "C (Kompaktowy sedan)",
+                "en": "C (Compact sedan)",
+                "de": "C (Kompaktlimousine)",
+                "uk": "C (компактний седан)",
+                "ru": "C (Компактный седан)",
+                "zh": "C（紧凑型轿车）"
+              },
+              "bagażnik": {
+                "pl": "550 litrów",
+                "en": "550 liters",
+                "de": "550 Liter",
+                "uk": "550 л",
+                "ru": "550 литров",
+                "zh": "550升"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

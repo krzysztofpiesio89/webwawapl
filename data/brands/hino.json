@@ -1,0 +1,53 @@
+{
+  "brand": "Hino",
+  "models": {
+    "": [
+      {
+        "BrandID": 193,
+        "ModelID": "",
+        "Brand Name": "Hino",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Hino Motors to japoński producent samochodów ciężarowych i autobusów, należący do grupy Toyota. Jest jednym z liderów rynku pojazdów użytkowych w Azji.",
+              "en": "Hino Motors is a Japanese manufacturer of trucks and buses, part of the Toyota group. It is one of the leaders in the commercial vehicle market in Asia.",
+              "de": "Hino Motors ist ein japanischer Hersteller von Lastkraftwagen und Bussen, der zum Toyota-Konzern gehört. Es ist einer der Marktführer im Nutzfahrzeugmarkt in Asien.",
+              "uk": "Hino Motors — японський виробник вантажівок і автобусів, що входить до групи Toyota. Це один з лідерів на ринку комерційних автомобілів в Азії.",
+              "ru": "Hino Motors — японский производитель грузовых автомобилей и автобусов, входящий в группу Toyota. Это один из лидеров рынка коммерческого транспорта в Азии.",
+              "zh": "日野汽车是一家日本卡车和公共汽车制造商，隶属于丰田集团。它是亚洲商用车市场的领导者之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Hino Motors",
+                "en": "Hino Motors",
+                "de": "Hino Motors",
+                "uk": "Hino Motors",
+                "ru": "Hino Motors",
+                "zh": "Hino Motors"
+              },
+              "siedziba": {
+                "pl": "Hino, Japonia",
+                "en": "Hino, Japan",
+                "de": "Hino, Japan",
+                "uk": "Hino, Японія",
+                "ru": "Hino, Япония",
+                "zh": "Hino, Japan"
+              },
+              "założona": "1942"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

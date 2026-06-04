@@ -1,0 +1,681 @@
+{
+  "brand": "Lada",
+  "models": {
+    "Niva": [
+      {
+        "BrandID": 161,
+        "ModelID": 1798,
+        "Brand Name": "Lada",
+        "Model Name": "Niva",
+        "Serie Name": "Niva Legend (4x4)",
+        "Years": "1977 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Off-Road",
+          "drive": "4WD",
+          "fuel": "Gasoline",
+          "engine": "1.6L / 1.7L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/1987_Lada_Niva_1600_rear.jpg/1280px-1987_Lada_Niva_1600_rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/1987_Lada_Niva_1600_rear.jpg/1280px-1987_Lada_Niva_1600_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lada_Niva_front_20080228.jpg/1280px-Lada_Niva_front_20080228.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Lada_Niva_rear_20080228.jpg/1280px-Lada_Niva_rear_20080228.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/2016_Lada_Niva_Urban_%28Sweden%29%2C_front_right.jpg/1280px-2016_Lada_Niva_Urban_%28Sweden%29%2C_front_right.jpg"
+            ],
+            "description": {
+              "pl": "Łada Niva (4x4) to legenda off-roadu. Produkowana od lat 70. niemal bez zmian, oferuje stały napęd 4x4 i reduktor w samonośnym nadwoziu.",
+              "en": "Lada Niva (4x4) is an off-road legend. Produced almost unchanged since the 1970s, it offers permanent 4x4 drive and a reducer in a self-supporting body.",
+              "de": "Der Lada Niva (4x4) ist eine Offroad-Legende. Es wird seit den 1970er Jahren nahezu unverändert produziert und bietet einen permanenten 4x4-Antrieb und ein Untersetzungsgetriebe in einer selbsttragenden Karosserie.",
+              "uk": "Lada Niva (4x4) - легенда позашляховиків. Виробляється майже без змін з 1970-х років, він пропонує постійний привід 4x4 і редуктор у самонесучому кузові.",
+              "ru": "Лада Нива (4х4) – легенда бездорожья. Выпускаемый практически без изменений с 1970-х годов, он предлагает постоянный привод 4x4 и редуктор в самонесущем кузове.",
+              "zh": "Lada Niva（4x4）是越野传奇。自 20 世纪 70 年代以来生产几乎没有变化，它在自支撑车身中提供永久 4x4 驱动器和减速器。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "AvtoVAZ"
+              },
+              "okres produkcji": {
+                "pl": "od 1977",
+                "en": "from 1977",
+                "de": "von 1977",
+                "uk": "1977 р.",
+                "ru": "с 1977 года",
+                "zh": "自1977年以来"
+              },
+              "segment": {
+                "pl": "Off-road SUV",
+                "en": "Off-road SUV",
+                "de": "Gelände-SUV",
+                "uk": "Позашляховик",
+                "ru": "Внедорожный внедорожник",
+                "zh": "越野SUV"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7y/57/bzvt02gwc0ow48swoo0w4/niva.310.jpg"
+        }
+      },
+      {
+        "BrandID": 161,
+        "ModelID": 415091,
+        "Brand Name": "Lada",
+        "Model Name": "Niva",
+        "Serie Name": "Niva Travel (2123)",
+        "Years": "1998 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline",
+          "engine": "1.7L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/1987_Lada_Niva_1600_rear.jpg/1280px-1987_Lada_Niva_1600_rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/1987_Lada_Niva_1600_rear.jpg/1280px-1987_Lada_Niva_1600_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Lada_Niva_front_20080228.jpg/1280px-Lada_Niva_front_20080228.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Lada_Niva_rear_20080228.jpg/1280px-Lada_Niva_rear_20080228.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/2016_Lada_Niva_Urban_%28Sweden%29%2C_front_right.jpg/1280px-2016_Lada_Niva_Urban_%28Sweden%29%2C_front_right.jpg"
+            ],
+            "description": {
+              "pl": "Łada Niva (4x4) to legenda off-roadu. Projektowana jako 'Renault 5 na podwoziu Land Rovera', oferuje stały napęd 4x4, blokadę mechanizmu różnicowego i reduktor, co czyni ją niezwykle skuteczną w terenie.",
+              "en": "Lada Niva (4x4) is an off-road legend. Designed as a 'Renault 5 on a Land Rover chassis', it offers permanent 4x4 drive, differential lock and reduction gear, making it extremely effective off-road.",
+              "de": "Lada Niva (4x4) ist eine Offroad-Legende. Konzipiert als „Renault 5 auf Land Rover-Chassis“, bietet er permanenten Allradantrieb, Differenzialsperre und Untersetzungsgetriebe und ist damit äußerst effektiv im Gelände.",
+              "uk": "Lada Niva (4x4) — легенда бездоріжжя. Розроблений як «Renault 5 на шасі Land Rover», він пропонує постійний привід 4x4, блокування диференціала та редуктор, що робить його надзвичайно ефективним на бездоріжжі.",
+              "ru": "Лада Нива (4х4) – легенда бездорожья. Разработанный как «Renault 5 на шасси Land Rover», он предлагает постоянный привод 4x4, блокировку дифференциала и понижающую передачу, что делает его чрезвычайно эффективным на бездорожье.",
+              "zh": "Lada Niva（4x4）是越野传奇。它被设计为“路虎底盘上的雷诺 5”，提供永久 4x4 驱动、差速锁和减速齿轮，使其在越野时极其有效。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "AvtoVAZ"
+              },
+              "okres produkcji": {
+                "pl": "od 1977",
+                "en": "from 1977",
+                "de": "von 1977",
+                "uk": "з 1977 року",
+                "ru": "с 1977 года",
+                "zh": "自1977年以来"
+              },
+              "klasa": {
+                "pl": "Terenowy"
+              },
+              "napęd": {
+                "pl": "4WD (stały)",
+                "en": "4WD (permanent)",
+                "de": "4WD (permanent)",
+                "uk": "4WD (постійний)",
+                "ru": "4WD (постоянный)",
+                "zh": "四轮驱动（永久）"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7y/57/bzvt02gwc0ow48swoo0w4/niva.310.jpg"
+        }
+      }
+    ],
+    "Granta": [
+      {
+        "BrandID": 161,
+        "ModelID": 1789,
+        "Brand Name": "Lada",
+        "Model Name": "Granta",
+        "Serie Name": "Granta",
+        "Years": "2011 - 3000",
+        "specs": {
+          "bodyType": "Sedan/Liftback/Wagon",
+          "segment": "Subcompact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Łada Granta to budżetowy bestseller, który zastąpił starsze modele Klasyki i Samarę. Prosta technicznie, tania w utrzymaniu i dostępna w wielu wariantach nadwozia.",
+              "en": "Lada Granta is a budget bestseller that replaced the older Classic and Samara models. Technically simple, cheap to maintain and available in many body variants.",
+              "de": "Lada Granta ist ein preisgünstiger Bestseller, der die älteren Modelle Classic und Samara ersetzte. Technisch einfach, günstig im Unterhalt und in vielen Karosserievarianten erhältlich.",
+              "uk": "Lada Granta — бюджетний бестселер, який прийшов на зміну старшим моделям Classic і Samara. Технічно простий, дешевий в обслуговуванні та доступний у багатьох варіантах кузова.",
+              "ru": "Lada Granta – бюджетный бестселлер, пришедший на смену старшим моделям Classic и Samara. Технически прост, дешев в обслуживании и доступен во многих вариантах кузова.",
+              "zh": "Lada Granta 是一款经济型畅销车型，取代了旧款 Classic 和 Samara 车型。技术简单，维护成本低，并且有多种车身型号可供选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "AvtoVAZ"
+              },
+              "okres produkcji": {
+                "pl": "od 2011",
+                "en": "from 2011",
+                "de": "ab 2011",
+                "uk": "з 2011 року",
+                "ru": "с 2011 года",
+                "zh": "自2011年起"
+              },
+              "segment": {
+                "pl": "B (Subcompact)",
+                "en": "B (Subcompact)",
+                "de": "B (Kleinwagen)",
+                "uk": "B (Subcompact)",
+                "ru": "Б (Субкомпактный)",
+                "zh": "B（超小型）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Vesta": [
+      {
+        "BrandID": 161,
+        "ModelID": 413789,
+        "Brand Name": "Lada",
+        "Model Name": "Vesta",
+        "Serie Name": "Vesta",
+        "Years": "2015 - 3000",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Compact Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/CNG",
+          "engine": "1.6L / 1.8L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Łada Vesta to model, który wprowadził markę w XXI wiek. Zaprojektowana pod okiem Steve'a Mattina (byłego designera Volvo), dzieli technologię z grupą Renault-Nissan.",
+              "en": "Lada Vesta is the model that brought the brand into the 21st century. Designed under the supervision of Steve Mattin (former Volvo designer), it shares technology with the Renault-Nissan group.",
+              "de": "Lada Vesta ist das Modell, das die Marke ins 21. Jahrhundert brachte. Es wurde unter der Aufsicht von Steve Mattin (ehemaliger Volvo-Designer) entworfen und teilt die Technologie mit der Renault-Nissan-Gruppe.",
+              "uk": "Lada Vesta — це модель, яка перенесла бренд у 21 століття. Розроблений під наглядом Стіва Маттіна (колишнього дизайнера Volvo), він ділиться технологіями з групою Renault-Nissan.",
+              "ru": "Лада Веста – модель, которая перенесла бренд в 21 век. Разработанный под руководством Стива Маттина (бывшего дизайнера Volvo), он использует технологии группы Renault-Nissan.",
+              "zh": "Lada Vesta 是将品牌带入 21 世纪的车型。它是在史蒂夫·马丁（前沃尔沃设计师）的监督下设计的，与雷诺-日产集团共享技术。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "AvtoVAZ"
+              },
+              "okres produkcji": {
+                "pl": "od 2015",
+                "en": "from 2015",
+                "de": "ab 2015",
+                "uk": "з 2015 року",
+                "ru": "с 2015 года",
+                "zh": "自2015年起"
+              },
+              "segment": {
+                "pl": "C (Compact car)",
+                "en": "C (Compact car)",
+                "de": "C (Kompaktwagen)",
+                "uk": "C (компактний автомобіль)",
+                "ru": "C (Компактный автомобиль)",
+                "zh": "C（紧凑型车）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "XRAY": [
+      {
+        "BrandID": 161,
+        "ModelID": 413790,
+        "Brand Name": "Lada",
+        "Model Name": "XRAY",
+        "Serie Name": "XRAY",
+        "Years": "2015 - 2022",
+        "specs": {
+          "bodyType": "Hatchback/Crossover",
+          "segment": "Subcompact Crossover",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L / 1.8L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Łada XRAY to kompaktowy crossover zbudowany na platformie B0 (wspólnej z Dacią Sandero Stepway). Łączy cechy miejskiego hatchbacka z wyższym prześwitem.",
+              "en": "Lada XRAY is a compact crossover built on the B0 platform (shared with Dacia Sandero Stepway). It combines the features of a city hatchback with higher ground clearance.",
+              "de": "Lada XRAY ist ein kompakter Crossover, der auf der B0-Plattform basiert (gemeinsam mit Dacia Sandero Stepway). Es vereint die Merkmale eines City-Fließheckmodells mit größerer Bodenfreiheit.",
+              "uk": "Lada XRAY — компактний кросовер, побудований на платформі B0 (спільно з Dacia Sandero Stepway). Він поєднує риси міського хетчбека з підвищеним кліренсом.",
+              "ru": "Lada XRAY — компактный кроссовер, построенный на платформе B0 (совместно с Dacia Sandero Stepway). Он сочетает в себе черты городского хэтчбека с увеличенным дорожным просветом.",
+              "zh": "Lada XRAY 是一款基于 B0 平台（与 Dacia Sandero Stepway 共享）的紧凑型跨界车。它结合了城市掀背车的特点和更高的离地间隙。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "AvtoVAZ"
+              },
+              "okres produkcji": "2015–2022",
+              "segment": {
+                "pl": "Subcompact Crossover",
+                "en": "Subcompact Crossover",
+                "de": "Subcompact Crossover",
+                "uk": "Субкомпактний кросовер",
+                "ru": "Субкомпактный кроссовер",
+                "zh": "超小型跨界车"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Largus": [
+      {
+        "BrandID": 161,
+        "ModelID": 3572,
+        "Brand Name": "Lada",
+        "Model Name": "Largus",
+        "Serie Name": "Largus",
+        "Years": "2012 - 3000",
+        "specs": {
+          "bodyType": "Wagon/Van",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/CNG",
+          "engine": "1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Łada Largus to rosyjska wersja pierwszej generacji Dacii Logan MCV. Niezwykle praktyczne auto, dostępne jako 7-osobowe kombi oraz furgon dostawczy.",
+              "en": "Lada Largus is the Russian version of the first generation Dacia Logan MCV. An extremely practical car, available as a 7-seater station wagon and a delivery van.",
+              "de": "Lada Largus ist die russische Version des Dacia Logan MCV der ersten Generation. Ein äußerst praktisches Auto, erhältlich als 7-Sitzer-Kombi und als Lieferwagen.",
+              "uk": "Lada Largus — російська версія Dacia Logan MCV першого покоління. Надзвичайно практичний автомобіль, доступний як 7-місний універсал і фургон.",
+              "ru": "Лада Ларгус — российская версия Dacia Logan MCV первого поколения. Чрезвычайно практичный автомобиль, доступный как в 7-местном универсале, так и в кузове развозного фургона.",
+              "zh": "Lada Largus是第一代Dacia Logan MCV的俄罗斯版本。一款非常实用的汽车，可用作 7 座旅行车和送货车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "AvtoVAZ"
+              },
+              "okres produkcji": {
+                "pl": "od 2012",
+                "en": "from 2012",
+                "de": "ab 2012",
+                "uk": "з 2012 року",
+                "ru": "с 2012 года",
+                "zh": "自2012年起"
+              },
+              "segment": {
+                "pl": "M (Multi-purpose vehicle)",
+                "en": "M (Multi-purpose vehicle)",
+                "de": "M (Mehrzweckfahrzeug)",
+                "uk": "M (Багатоцільовий автомобіль)",
+                "ru": "М (Многоцелевой автомобиль)",
+                "zh": "M（多用途车）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Kalina": [
+      {
+        "BrandID": 161,
+        "ModelID": 413948,
+        "Brand Name": "Lada",
+        "Model Name": "Kalina",
+        "Serie Name": "Kalina 1",
+        "Years": "2004 - 2013",
+        "specs": {
+          "bodyType": "Hatchback/Sedan/Wagon",
+          "segment": "Subcompact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.4L / 1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Łada to rosyjska marka samochodów, znana z prostoty i wytrzymałości. Jej modele zmotoryzowały Związek Radziecki i były popularne w bloku wschodnim.",
+              "en": "Lada is a Russian car brand, known for its simplicity and durability. Its models became motorized in the Soviet Union and were popular in the Eastern Bloc.",
+              "de": "Lada ist eine russische Automarke, die für ihre Einfachheit und Langlebigkeit bekannt ist. Seine Modelle wurden in der Sowjetunion motorisiert und erfreuten sich im Ostblock großer Beliebtheit.",
+              "uk": "Лада - російська марка автомобілів, відома своєю простотою і довговічністю. Його моделі стали моторизованими в Радянському Союзі та були популярними в Східному блоці.",
+              "ru": "Лада — российская автомобильная марка, известная своей простотой и долговечностью. Его модели стали моторизованными в Советском Союзе и пользовались популярностью в Восточном блоке.",
+              "zh": "拉达是俄罗斯汽车品牌，以简洁耐用而闻名。它的模型在苏联实现机动化，并在东欧集团流行。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "AvtoVAZ"
+              },
+              "siedziba": {
+                "pl": "Togliatti, Rosja",
+                "en": "Togliatti, Russia",
+                "de": "Togliatti, Russland",
+                "uk": "Тольятті, Росія",
+                "ru": "Тольятти, Россия",
+                "zh": "俄罗斯陶里亚蒂"
+              },
+              "założona": "1966"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 161,
+        "ModelID": 413949,
+        "Brand Name": "Lada",
+        "Model Name": "Kalina",
+        "Serie Name": "Kalina 2",
+        "Years": "2013 - 2018",
+        "specs": {
+          "bodyType": "Hatchback/Wagon",
+          "segment": "Subcompact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Łada Kalina to nowoczesna seria aut miejskich, która pomogła AwtoWAZ wyjść z ery przestarzałych konstrukcji. Oferowała przyzwoity komfort i lepsze standardy bezpieczeństwa.",
+              "en": "Lada Kalina is a modern series of city cars that helped AvtoVAZ leave the era of outdated designs. It offered decent comfort and better safety standards.",
+              "de": "Lada Kalina ist eine moderne Serie von Stadtautos, die AvtoVAZ dabei geholfen hat, die Ära veralteter Designs zu verlassen. Es bot ordentlichen Komfort und bessere Sicherheitsstandards.",
+              "uk": "Lada Kalina — сучасна серія міських автомобілів, яка допомогла АвтоВАЗу вийти з епохи застарілих дизайнів. Він пропонував гідний комфорт і кращі стандарти безпеки.",
+              "ru": "Lada Kalina — современная серия городских автомобилей, которая помогла АвтоВАЗу выйти из эпохи устаревших конструкций. Он предлагал достойный комфорт и более высокие стандарты безопасности.",
+              "zh": "Lada Kalina是现代城市汽车系列，帮助AvtoVAZ告别了过时的设计时代。它提供了不错的舒适度和更好的安全标准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "AvtoVAZ"
+              },
+              "okres produkcji": "2004–2018",
+              "segment": {
+                "pl": "B (Subcompact)",
+                "en": "B (Subcompact)",
+                "de": "B (Kleinwagen)",
+                "uk": "B (Subcompact)",
+                "ru": "Б (Субкомпактный)",
+                "zh": "B（超小型）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Priora": [
+      {
+        "BrandID": 161,
+        "ModelID": 1803,
+        "Brand Name": "Lada",
+        "Model Name": "Priora",
+        "Serie Name": "Priora",
+        "Years": "2007 - 2018",
+        "specs": {
+          "bodyType": "Sedan/Hatchback/Wagon",
+          "segment": "Compact Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L / 1.8L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Łada Priora to głęboka modernizacja modelu 2110. Przez lata była najpopularniejszym nowym samochodem w Rosji, ceniona za tanie części i dynamikę silników 16V.",
+              "en": "Lada Priora is a deep modernization of the 2110 model. For years it was the most popular new car in Russia, valued for its cheap parts and the dynamics of 16V engines.",
+              "de": "Lada Priora ist eine tiefgreifende Modernisierung des Modells 2110. Es war jahrelang das beliebteste Neuwagen in Russland und wurde für seine günstigen Teile und die Dynamik der 16-V-Motoren geschätzt.",
+              "uk": "Lada Priora - глибока модернізація моделі 2110. Протягом багатьох років це був найпопулярніший новий автомобіль у Росії, який цінували за дешеві запчастини та динаміку двигунів 16V.",
+              "ru": "Лада Приора – это глубокая модернизация модели 2110. В течение многих лет это был самый популярный новый автомобиль в России, который ценился за дешевые детали и динамику двигателей 16V.",
+              "zh": "Lada Priora 是 2110 车型的深度现代化版本。多年来，它一直是俄罗斯最受欢迎的新车，因其廉价的零部件和 16V 发动机的动力而受到重视。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "AvtoVAZ"
+              },
+              "okres produkcji": "2007–2018",
+              "segment": {
+                "pl": "Compact car",
+                "en": "Compact car",
+                "de": "Kompaktwagen",
+                "uk": "Компактний автомобіль",
+                "ru": "Компактный автомобиль",
+                "zh": "紧凑型车"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/eq/44/xq1kpqg448swc4w0w8cgc/priora-kombi.310.jpg"
+        }
+      }
+    ],
+    "Classic": [
+      {
+        "BrandID": 161,
+        "ModelID": 1761,
+        "Brand Name": "Lada",
+        "Model Name": "Classic",
+        "Serie Name": "2101/2102/2103",
+        "Years": "1970 - 1988",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Compact Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "1.2L - 1.6L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Łada to rosyjska marka samochodów, znana z prostoty i wytrzymałości. Jej modele zmotoryzowały Związek Radziecki i były popularne w bloku wschodnim.",
+              "en": "Lada is a Russian car brand, known for its simplicity and durability. Its models became motorized in the Soviet Union and were popular in the Eastern Bloc.",
+              "de": "Lada ist eine russische Automarke, die für ihre Einfachheit und Langlebigkeit bekannt ist. Seine Modelle wurden in der Sowjetunion motorisiert und erfreuten sich im Ostblock großer Beliebtheit.",
+              "uk": "Лада - російська марка автомобілів, відома своєю простотою і довговічністю. Його моделі стали моторизованими в Радянському Союзі та були популярними в Східному блоці.",
+              "ru": "Лада — российская автомобильная марка, известная своей простотой и долговечностью. Его модели стали моторизованными в Советском Союзе и пользовались популярностью в Восточном блоке.",
+              "zh": "拉达是俄罗斯汽车品牌，以简洁耐用而闻名。它的模型在苏联实现机动化，并在东欧集团流行。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "AvtoVAZ"
+              },
+              "siedziba": {
+                "pl": "Togliatti, Rosja",
+                "en": "Togliatti, Russia",
+                "de": "Togliatti, Russland",
+                "uk": "Тольятті, Росія",
+                "ru": "Тольятти, Россия",
+                "zh": "俄罗斯陶里亚蒂"
+              },
+              "założona": "1966"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 161,
+        "ModelID": 1776,
+        "Brand Name": "Lada",
+        "Model Name": "Classic",
+        "Serie Name": "2104/2105/2107",
+        "Years": "1980 - 2012",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Compact Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "1.2L - 1.7L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Łada to rosyjska marka samochodów, znana z prostoty i wytrzymałości. Jej modele zmotoryzowały Związek Radziecki i były popularne w bloku wschodnim.",
+              "en": "Lada is a Russian car brand, known for its simplicity and durability. Its models became motorized in the Soviet Union and were popular in the Eastern Bloc.",
+              "de": "Lada ist eine russische Automarke, die für ihre Einfachheit und Langlebigkeit bekannt ist. Seine Modelle wurden in der Sowjetunion motorisiert und erfreuten sich im Ostblock großer Beliebtheit.",
+              "uk": "Лада - російська марка автомобілів, відома своєю простотою і довговічністю. Його моделі стали моторизованими в Радянському Союзі та були популярними в Східному блоці.",
+              "ru": "Лада — российская автомобильная марка, известная своей простотой и долговечностью. Его модели стали моторизованными в Советском Союзе и пользовались популярностью в Восточном блоке.",
+              "zh": "拉达是俄罗斯汽车品牌，以简洁耐用而闻名。它的模型在苏联实现机动化，并在东欧集团流行。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "AvtoVAZ"
+              },
+              "siedziba": {
+                "pl": "Togliatti, Rosja",
+                "en": "Togliatti, Russia",
+                "de": "Togliatti, Russland",
+                "uk": "Тольятті, Росія",
+                "ru": "Тольятти, Россия",
+                "zh": "俄罗斯陶里亚蒂"
+              },
+              "założona": "1966"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 161,
+        "ModelID": 1772,
+        "Brand Name": "Lada",
+        "Model Name": "Classic",
+        "Serie Name": "2106",
+        "Years": "1976 - 2006",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Compact Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "1.3L - 1.6L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Klasyczna seria Łady (Żyguli) oparta na licencji Fiata 124. Te kanciaste sedany i kombi z napędem na tył zdefiniowały motoryzację bloku wschodniego na kilka dekad.",
+              "en": "Classic Lada (Zhiguli) series based on the Fiat 124 license. These angular sedans and rear-drive station wagons defined the Eastern Bloc motoring for several decades.",
+              "de": "Klassische Lada (Zhiguli)-Serie basierend auf der Fiat 124-Lizenz. Diese kantigen Limousinen und Kombis mit Heckantrieb prägten mehrere Jahrzehnte lang den Automobilsport im Ostblock.",
+              "uk": "Класична серія Lada (Жигулі) на основі ліцензії Fiat 124. Ці кутасті седани та задньопривідні універсали визначали автомобілебудування Східного блоку протягом кількох десятиліть.",
+              "ru": "Серия Лада (Жигули) Классик на базе лицензии Fiat 124. Эти угловатые седаны и заднеприводные универсалы определяли автомобильный стиль Восточного блока на протяжении нескольких десятилетий.",
+              "zh": "基于菲亚特 124 许可证的经典拉达 (Zhiguli) 系列。这些棱角分明的轿车和后轮驱动旅行车几十年来定义了东欧集团的汽车业。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "AvtoVAZ"
+              },
+              "okres produkcji": "1970–2012",
+              "klasa": {
+                "pl": "Compact sedans",
+                "en": "Compact sedans",
+                "de": "Kompaktlimousinen",
+                "uk": "Компактні седани",
+                "ru": "Компактные седаны",
+                "zh": "紧凑型轿车"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Samara": [
+      {
+        "BrandID": 161,
+        "ModelID": 1808,
+        "Brand Name": "Lada",
+        "Model Name": "Samara",
+        "Serie Name": "Samara 1 (2108/2109)",
+        "Years": "1984 - 2013",
+        "specs": {
+          "bodyType": "Hatchback/Sedan",
+          "segment": "Compact Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.1L - 1.6L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Łada to rosyjska marka samochodów, znana z prostoty i wytrzymałości. Jej modele zmotoryzowały Związek Radziecki i były popularne w bloku wschodnim.",
+              "en": "Lada is a Russian car brand, known for its simplicity and durability. Its models became motorized in the Soviet Union and were popular in the Eastern Bloc.",
+              "de": "Lada ist eine russische Automarke, die für ihre Einfachheit und Langlebigkeit bekannt ist. Seine Modelle wurden in der Sowjetunion motorisiert und erfreuten sich im Ostblock großer Beliebtheit.",
+              "uk": "Lada — російська марка автомобілів, відома своєю простотою і довговічністю. Його моделі стали моторизованими в Радянському Союзі та були популярними в Східному блоці.",
+              "ru": "Lada — российская автомобильная марка, известная своей простотой и долговечностью. Его модели стали моторизованными в Советском Союзе и пользовались популярностью в Восточном блоке.",
+              "zh": "拉达 (Lada) 是俄罗斯汽车品牌，以其简洁耐用而闻名。它的模型在苏联实现机动化，并在东欧集团流行。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "AvtoVAZ"
+              },
+              "siedziba": {
+                "pl": "Togliatti, Rosja",
+                "en": "Togliatti, Russia",
+                "de": "Togliatti, Russland",
+                "uk": "Тольятті, Росія",
+                "ru": "Тольятти, Россия",
+                "zh": "Togliatti，俄罗斯"
+              },
+              "założona": "1966"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6b/4p/9acwxww8s8w0844g4sk00/samara-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 161,
+        "ModelID": 1813,
+        "Brand Name": "Lada",
+        "Model Name": "Samara",
+        "Serie Name": "Samara 2 (2113/2114/2115)",
+        "Years": "1997 - 2013",
+        "specs": {
+          "bodyType": "Hatchback/Sedan",
+          "segment": "Compact Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L - 1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Łada Samara (Sputnik) była pierwszą serią marki z przednim napędem. Opracowana przy współpracy z inżynierami Porsche, oferowała znacznie lepsze prowadzenie niż 'Klasyka'.",
+              "en": "Lada Samara (Sputnik) was the brand's first front-wheel drive series. Developed in cooperation with Porsche engineers, it offered much better handling than the 'Classic'.",
+              "de": "Lada Samara (Sputnik) war die erste Serie mit Frontantrieb der Marke. In Zusammenarbeit mit Porsche-Ingenieuren entwickelt, bot er ein deutlich besseres Fahrverhalten als der „Classic“.",
+              "uk": "Lada Samara (Sputnik) була першою передньопривідною серією марки. Розроблений у співпраці з інженерами Porsche, він запропонував набагато кращу керованість, ніж «Classic».",
+              "ru": "Lada Samara (Спутник) была первой переднеприводной серией бренда. Разработанный в сотрудничестве с инженерами Porsche, он предлагал гораздо лучшую управляемость, чем Classic.",
+              "zh": "Lada Samara (Sputnik) 是该品牌的第一个前轮驱动系列。它是与保时捷工程师合作开发的，提供比“经典”更好的操控性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "AvtoVAZ"
+              },
+              "okres produkcji": "1984–2013",
+              "klasa": {
+                "pl": "Compact car",
+                "en": "Compact car",
+                "de": "Kompaktwagen",
+                "uk": "Компактний автомобіль",
+                "ru": "Компактный автомобиль",
+                "zh": "紧凑型车"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6b/4p/9acwxww8s8w0844g4sk00/samara-sedan.310.jpg"
+        }
+      }
+    ]
+  }
+}

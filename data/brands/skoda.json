@@ -1,0 +1,1174 @@
+{
+  "brand": "Skoda",
+  "models": {
+    "Fabia": [
+      {
+        "BrandID": 121,
+        "ModelID": 3593,
+        "Brand Name": "Skoda",
+        "Model Name": "Fabia",
+        "Serie Name": "Fabia I",
+        "Years": "1999 - 2007",
+        "specs": {
+          "bodyType": "Hatchback/Sedan/Wagon",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L - 1.9L TDI RS",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Škoda to czeska marka o wieloletniej tradycji, obecnie część grupy VW. Słynie z praktycznych rozwiązań 'Simply Clever' i świetnego stosunku jakości do ceny.",
+              "en": "Škoda is a Czech brand with a long tradition, currently part of the VW group. It is famous for its practical 'Simply Clever' solutions and great value for money.",
+              "de": "Škoda ist eine tschechische Marke mit langer Tradition, derzeit Teil des VW-Konzerns. Es ist bekannt für seine praktischen „Simply Clever“-Lösungen und sein gutes Preis-Leistungs-Verhältnis.",
+              "uk": "Škoda — це чеська марка з давніми традиціями, яка наразі входить до концерну VW. Він відомий своїми практичними рішеннями «Simply Clever» і чудовим співвідношенням ціни та якості.",
+              "ru": "Škoda — чешский бренд с давними традициями, в настоящее время входящий в группу VW. Он известен своими практичными «просто умными» решениями и отличным соотношением цены и качества.",
+              "zh": "斯柯达是一个有着悠久传统的捷克品牌，目前隶属于大众集团。它以其实用的“Simply Clever”解决方案和物超所值而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Škoda Auto",
+                "en": "Škoda Auto",
+                "de": "Škoda Auto",
+                "uk": "Škoda Auto",
+                "ru": "Škoda Auto",
+                "zh": "斯柯达汽车"
+              },
+              "siedziba": {
+                "pl": "Mladá Boleslav, Czechy",
+                "en": "Mladá Boleslav, Czech Republic",
+                "de": "Mladá Boleslav, Tschechische Republik",
+                "uk": "Млада-Болеслав, Чехія",
+                "ru": "Млада-Болеслав, Чехия",
+                "zh": "Mladá Boleslav，捷克共和国"
+              },
+              "założona": "1895"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5m/fg/xuker1wcswgk884c8c8s4/skoda_fabia-2015_r8-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 121,
+        "ModelID": 134166,
+        "Brand Name": "Skoda",
+        "Model Name": "Fabia",
+        "Serie Name": "Fabia II",
+        "Years": "2007 - 2014",
+        "specs": {
+          "bodyType": "Hatchback/Wagon",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L HTP - 1.4L TSI RS",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Škoda to czeska marka o wieloletniej tradycji, obecnie część grupy VW. Słynie z praktycznych rozwiązań 'Simply Clever' i świetnego stosunku jakości do ceny.",
+              "en": "Škoda is a Czech brand with a long tradition, currently part of the VW group. It is famous for its practical 'Simply Clever' solutions and great value for money.",
+              "de": "Škoda ist eine tschechische Marke mit langer Tradition, derzeit Teil des VW-Konzerns. Es ist bekannt für seine praktischen „Simply Clever“-Lösungen und sein gutes Preis-Leistungs-Verhältnis.",
+              "uk": "Škoda — це чеська марка з давніми традиціями, яка наразі є частиною групи VW. Він відомий своїми практичними рішеннями «Simply Clever» і чудовим співвідношенням ціни та якості.",
+              "ru": "Škoda — чешская марка с давними традициями, в настоящее время являющаяся частью группы VW. Он известен своими практичными «просто умными» решениями и отличным соотношением цены и качества.",
+              "zh": "斯柯达是一个具有悠久传统的捷克品牌，目前隶属于大众集团。它以其实用的“Simply Clever”解决方案和物超所值而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Škoda Auto",
+                "en": "Škoda Auto",
+                "de": "Škoda Auto",
+                "uk": "Škoda Auto",
+                "ru": "Škoda Auto",
+                "zh": "斯柯达汽车"
+              },
+              "siedziba": {
+                "pl": "Mladá Boleslav, Czechy",
+                "en": "Mladá Boleslav, Czech Republic",
+                "de": "Mladá Boleslav, Tschechische Republik",
+                "uk": "Млада-Болеслав, Чехія",
+                "ru": "Млада-Болеслав, Чехия",
+                "zh": "Mladá Boleslav，捷克共和国"
+              },
+              "założona": "1895"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5m/fg/xuker1wcswgk884c8c8s4/skoda_fabia-2015_r8-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 121,
+        "ModelID": 414316,
+        "Brand Name": "Skoda",
+        "Model Name": "Fabia",
+        "Serie Name": "Fabia III",
+        "Years": "2014 - 2021",
+        "specs": {
+          "bodyType": "Hatchback/Wagon",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L MPI - 1.4L TDI",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Škoda to czeska marka o wieloletniej tradycji, obecnie część grupy VW. Słynie z praktycznych rozwiązań 'Simply Clever' i świetnego stosunku jakości do ceny.",
+              "en": "Škoda is a Czech brand with a long tradition, currently part of the VW group. It is famous for its practical 'Simply Clever' solutions and great value for money.",
+              "de": "Škoda ist eine tschechische Marke mit langer Tradition, derzeit Teil des VW-Konzerns. Es ist bekannt für seine praktischen „Simply Clever“-Lösungen und sein gutes Preis-Leistungs-Verhältnis.",
+              "uk": "Škoda — це чеська марка з давніми традиціями, яка наразі є частиною групи VW. Він відомий своїми практичними рішеннями «Simply Clever» і чудовим співвідношенням ціни та якості.",
+              "ru": "Škoda — чешская марка с давними традициями, в настоящее время являющаяся частью группы VW. Он известен своими практичными «просто умными» решениями и отличным соотношением цены и качества.",
+              "zh": "斯柯达是一个具有悠久传统的捷克品牌，目前隶属于大众集团。它以其实用的“Simply Clever”解决方案和物超所值而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Škoda Auto",
+                "en": "Škoda Auto",
+                "de": "Škoda Auto",
+                "uk": "Škoda Auto",
+                "ru": "Škoda Auto",
+                "zh": "斯柯达汽车"
+              },
+              "siedziba": {
+                "pl": "Mladá Boleslav, Czechy",
+                "en": "Mladá Boleslav, Czech Republic",
+                "de": "Mladá Boleslav, Tschechische Republik",
+                "uk": "Млада-Болеслав, Чеська Республіка",
+                "ru": "Млада-Болеслав, Чехия",
+                "zh": "姆拉达博莱斯拉夫，捷克共和国"
+              },
+              "założona": "1895"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5m/fg/xuker1wcswgk884c8c8s4/skoda_fabia-2015_r8-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 121,
+        "ModelID": 416580,
+        "Brand Name": "Skoda",
+        "Model Name": "Fabia",
+        "Serie Name": "Fabia IV",
+        "Years": "2021 - Present",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.0L MPI - 1.5L TSI",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Škoda Fabia to jeden z najchętniej wybieranych samochodów miejskich, ceniony za ponadprzeciętną funkcjonalność i przemyślane rozwiązania. Od pierwszej generacji wyznacza standardy w swojej klasie pod względem ilości miejsca i ergonomii, będąc idealnym kompanem do codziennej jazdy.",
+              "en": "Škoda Fabia is one of the most frequently chosen city cars, valued for its above-average functionality and well-thought-out solutions. Since its first generation, it has set the standards in its class in terms of space and ergonomics, being the perfect companion for everyday driving.",
+              "de": "Škoda Fabia ist eines der am häufigsten gewählten Stadtautos und wird für seine überdurchschnittliche Funktionalität und durchdachten Lösungen geschätzt. Seit seiner ersten Generation setzt er in puncto Platzangebot und Ergonomie Maßstäbe in seiner Klasse und ist der perfekte Begleiter für den Alltag.",
+              "uk": "Škoda Fabia — один із найбільш часто вибираних міських автомобілів, цінний за його функціональність вище середнього та продумані рішення. Починаючи з першого покоління, він встановлює стандарти у своєму класі щодо простору та ергономіки, будучи ідеальним компаньйоном для щоденної їзди.",
+              "ru": "Škoda Fabia — один из наиболее часто выбираемых городских автомобилей, который ценится за функциональность выше среднего и продуманные решения. Начиная с первого поколения, он задает стандарты в своем классе с точки зрения пространства и эргономики, став идеальным компаньоном для повседневной езды.",
+              "zh": "斯柯达晶锐是最常被选择的城市汽车之一，因其高于平均水平的功能和深思熟虑的解决方案而受到重视。自第一代以来，它就在空间和人体工程学方面树立了同级车的标准，成为日常驾驶的完美伴侣。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Škoda Auto",
+                "en": "Škoda Auto",
+                "de": "Škoda Auto",
+                "uk": "Škoda Auto",
+                "ru": "Škoda Auto",
+                "zh": "斯柯达汽车"
+              },
+              "okres produkcji": {
+                "pl": "od 1999",
+                "en": "from 1999",
+                "de": "von 1999",
+                "uk": "1999 р.",
+                "ru": "1999 года.",
+                "zh": "1999 年"
+              },
+              "segment": {
+                "pl": "B (Miejskie)",
+                "en": "B (City)",
+                "de": "B (Stadt)",
+                "uk": "B (місто)",
+                "ru": "B (Город)",
+                "zh": "B（城市）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5m/fg/xuker1wcswgk884c8c8s4/skoda_fabia-2015_r8-jpg.310.jpg"
+        }
+      }
+    ],
+    "Octavia": [
+      {
+        "BrandID": 121,
+        "ModelID": 132028,
+        "Brand Name": "Skoda",
+        "Model Name": "Octavia",
+        "Serie Name": "Octavia I",
+        "Years": "1996 - 2010",
+        "specs": {
+          "bodyType": "Liftback/Wagon",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 1.8L Turbo vRS",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Škoda Octavia to bestseller marki, kompakt o rozmiarach klasy średniej z ogromnym bagażnikiem. Ulubieniec rodzin i flot.",
+              "en": "Škoda Octavia is the brand's bestseller, a mid-size compact with a huge trunk. A favorite with families and fleets.",
+              "de": "Škoda Octavia ist der Bestseller der Marke, ein Mittelklasse-Kompaktwagen mit riesigem Kofferraum. Ein Favorit bei Familien und Flotten.",
+              "uk": "Škoda Octavia — бестселер бренду, компактний автомобіль середнього розміру з величезним багажником. Улюблений серед сімей і автопарків.",
+              "ru": "Škoda Octavia — бестселлер марки, компактный автомобиль среднего размера с огромным багажником. Любимец семей и флотов.",
+              "zh": "斯柯达 Octavia 是该品牌的畅销产品，是一款带有巨大后备箱的中型紧凑型汽车。深受家庭和车队的喜爱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Škoda"
+              },
+              "okres produkcji": {
+                "pl": "od 1996",
+                "en": "since 1996",
+                "de": "seit 1996",
+                "uk": "з 1996 року",
+                "ru": "с 1996 года.",
+                "zh": "自 1996 年以来"
+              },
+              "segment": {
+                "pl": "C/D"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4i/80/7mx182kg0wk0cso8s0owk/nowa-skoda-octavia-main.310.jpg"
+        }
+      },
+      {
+        "BrandID": 121,
+        "ModelID": 132014,
+        "Brand Name": "Skoda",
+        "Model Name": "Octavia",
+        "Serie Name": "Octavia II",
+        "Years": "2004 - 2013",
+        "specs": {
+          "bodyType": "Liftback/Wagon",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L TSI - 2.0L TFSI vRS",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Škoda Octavia to bestseller marki, kompakt o rozmiarach klasy średniej z ogromnym bagażnikiem. Ulubieniec rodzin i flot.",
+              "en": "Škoda Octavia is the brand's bestseller, a mid-size compact with a huge trunk. A favorite with families and fleets.",
+              "de": "Škoda Octavia ist der Bestseller der Marke, ein mittelgroßer Kompaktwagen mit riesigem Kofferraum. Ein Favorit bei Familien und Flotten.",
+              "uk": "Škoda Octavia — бестселер бренду, компактний автомобіль середнього розміру з величезним багажником. Улюблений серед сімей і автопарків.",
+              "ru": "Škoda Octavia — бестселлер марки, компактный автомобиль среднего размера с огромным багажником. Любимец семей и флотов.",
+              "zh": "斯柯达明锐是该品牌的畅销产品，是一款带有巨大后备箱的中型紧凑型汽车。深受家庭和车队的喜爱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Škoda"
+              },
+              "okres produkcji": {
+                "pl": "od 1996",
+                "en": "since 1996",
+                "de": "seit 1996",
+                "uk": "з 1996 року",
+                "ru": "с 1996 года.",
+                "zh": "自 1996 年以来"
+              },
+              "segment": {
+                "pl": "C/D"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4i/80/7mx182kg0wk0cso8s0owk/nowa-skoda-octavia-main.310.jpg"
+        }
+      },
+      {
+        "BrandID": 121,
+        "ModelID": 413490,
+        "Brand Name": "Skoda",
+        "Model Name": "Octavia",
+        "Serie Name": "Octavia III",
+        "Years": "2013 - 2020",
+        "specs": {
+          "bodyType": "Liftback/Wagon",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L TSI - 2.0L TSI vRS",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Škoda Octavia to bestseller marki, kompakt o rozmiarach klasy średniej z ogromnym bagażnikiem. Ulubieniec rodzin i flot.",
+              "en": "Škoda Octavia is the brand's bestseller, a mid-size compact with a huge trunk. A favorite with families and fleets.",
+              "de": "Škoda Octavia ist der Bestseller der Marke, ein mittelgroßer Kompaktwagen mit riesigem Kofferraum. Ein Favorit bei Familien und Flotten.",
+              "uk": "Škoda Octavia — бестселер бренду, компактний автомобіль середнього розміру з величезним багажником. Улюблений серед сімей і автопарків.",
+              "ru": "Škoda Octavia — бестселлер марки, компактный автомобиль среднего размера с огромным багажником. Любимец семей и флотов.",
+              "zh": "斯柯达明锐是该品牌的畅销产品，是一款带有巨大后备箱的中型紧凑型汽车。深受家庭和车队的喜爱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Škoda"
+              },
+              "okres produkcji": {
+                "pl": "od 1996",
+                "en": "since 1996",
+                "de": "seit 1996",
+                "uk": "з 1996 року",
+                "ru": "с 1996 года.",
+                "zh": "自 1996 年以来"
+              },
+              "segment": {
+                "pl": "C/D"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4i/80/7mx182kg0wk0cso8s0owk/nowa-skoda-octavia-main.310.jpg"
+        }
+      },
+      {
+        "BrandID": 121,
+        "ModelID": 414428,
+        "Brand Name": "Skoda",
+        "Model Name": "Octavia",
+        "Serie Name": "Octavia IV",
+        "Years": "2020 - Present",
+        "specs": {
+          "bodyType": "Liftback/Wagon",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "1.0L TSI - 2.0L TSI vRS / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Škoda Octavia to absolutny bestseller i ikona marki, która zdominowała europejskie drogi łącząc cechy auta kompaktowego z przestronnością klasy średniej. Słynie z ogromnego bagażnika, wysokiego komfortu oraz szerokiej gamy wersji, w tym sportowych RS i uterenowionych Scout.",
+              "en": "Škoda Octavia is an absolute bestseller and an icon of the brand that dominated European roads, combining the features of a compact car with the spaciousness of the middle class. It is famous for its huge trunk, high comfort and a wide range of versions, including the sporty RS and off-road Scout.",
+              "de": "Der Škoda Octavia ist ein absoluter Bestseller und eine Ikone der Marke, die die europäischen Straßen dominierte und die Merkmale eines Kompaktwagens mit dem Platzangebot der Mittelklasse vereint. Er ist bekannt für seinen riesigen Kofferraum, hohen Komfort und eine große Auswahl an Versionen, darunter den sportlichen RS und den Offroad-Scout.",
+              "uk": "Škoda Octavia є абсолютним бестселером і іконою бренду, який домінував на європейських дорогах, поєднуючи риси компактного автомобіля з простором середнього класу. Він славиться своїм величезним багажником, високим комфортом і широкою гамою версій, включаючи спортивну RS і позашляхову Scout.",
+              "ru": "Škoda Octavia — абсолютный бестселлер и икона бренда, доминировавшего на европейских дорогах, сочетающего в себе черты компактного автомобиля с вместительностью среднего класса. Он славится огромным багажником, высоким комфортом и широким набором модификаций, включая спортивный RS и внедорожный Scout.",
+              "zh": "斯柯达明锐绝对是畅销车，也是主导欧洲道路的品牌标志，将紧凑型汽车的特点与中产阶级的宽敞空间融为一体。它以其巨大的后备箱、高舒适度和广泛的版本而闻名，其中包括运动型RS和越野Scout。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Škoda Auto",
+                "en": "Škoda Auto",
+                "de": "Škoda Auto",
+                "uk": "Škoda Auto",
+                "ru": "Škoda Auto",
+                "zh": "斯柯达汽车"
+              },
+              "okres produkcji": {
+                "pl": "od 1996",
+                "en": "since 1996",
+                "de": "seit 1996",
+                "uk": "з 1996 року",
+                "ru": "с 1996 года.",
+                "zh": "自 1996 年以来"
+              },
+              "segment": {
+                "pl": "C/D (Kompaktowe / Klasa średnia)",
+                "en": "C/D (Compact / Middle class)",
+                "de": "C/D (Kompakt-/Mittelklasse)",
+                "uk": "C/D (компактний / середній клас)",
+                "ru": "C/D (компактный / средний класс)",
+                "zh": "C/D（紧凑型/中级）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4i/80/7mx182kg0wk0cso8s0owk/nowa-skoda-octavia-main.310.jpg"
+        }
+      }
+    ],
+    "SuperB": [
+      {
+        "BrandID": 121,
+        "ModelID": 413491,
+        "Brand Name": "Skoda",
+        "Model Name": "SuperB",
+        "Serie Name": "Superb I",
+        "Years": "2001 - 2008",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.8L Turbo - 2.8L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Škoda to czeska marka o wieloletniej tradycji, obecnie część grupy VW. Słynie z praktycznych rozwiązań 'Simply Clever' i świetnego stosunku jakości do ceny.",
+              "en": "Škoda is a Czech brand with a long tradition, currently part of the VW group. It is famous for its practical 'Simply Clever' solutions and great value for money.",
+              "de": "Škoda ist eine tschechische Marke mit langer Tradition, derzeit Teil des VW-Konzerns. Es ist bekannt für seine praktischen „Simply Clever“-Lösungen und sein gutes Preis-Leistungs-Verhältnis.",
+              "uk": "Škoda — це чеська марка з давніми традиціями, яка наразі є частиною групи VW. Він відомий своїми практичними рішеннями «Simply Clever» і чудовим співвідношенням ціни та якості.",
+              "ru": "Škoda — чешская марка с давними традициями, в настоящее время входит в группу VW. Он известен своими практичными «просто умными» решениями и отличным соотношением цены и качества.",
+              "zh": "斯柯达是一个具有悠久传统的捷克品牌，目前隶属于大众集团。它以其实用的“Simply Clever”解决方案和物超所值而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Škoda Auto",
+                "en": "Škoda Auto",
+                "de": "Škoda Auto",
+                "uk": "Шкода Авто",
+                "ru": "Шкода Авто",
+                "zh": "斯柯达汽车"
+              },
+              "siedziba": {
+                "pl": "Mladá Boleslav, Czechy",
+                "en": "Mladá Boleslav, Czech Republic",
+                "de": "Mladá Boleslav, Tschechische Republik",
+                "uk": "Млада-Болеслав, Чеська Республіка",
+                "ru": "Млада Болеслав, Чехия",
+                "zh": "Mladá Boleslav，捷克共和国"
+              },
+              "założona": "1895"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/av/lh/94huiygwksks84o8csokk/skoda_superb-2015_r18-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 121,
+        "ModelID": 413492,
+        "Brand Name": "Skoda",
+        "Model Name": "SuperB",
+        "Serie Name": "Superb II",
+        "Years": "2008 - 2015",
+        "specs": {
+          "bodyType": "Liftback/Wagon",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L TSI - 3.6L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Škoda to czeska marka o wieloletniej tradycji, obecnie część grupy VW. Słynie z praktycznych rozwiązań 'Simply Clever' i świetnego stosunku jakości do ceny.",
+              "en": "Škoda is a Czech brand with a long tradition, currently part of the VW group. It is famous for its practical 'Simply Clever' solutions and great value for money.",
+              "de": "Škoda ist eine tschechische Marke mit langer Tradition, derzeit Teil des VW-Konzerns. Es ist bekannt für seine praktischen „Simply Clever“-Lösungen und sein gutes Preis-Leistungs-Verhältnis.",
+              "uk": "Škoda — це чеська марка з давніми традиціями, яка наразі є частиною групи VW. Він відомий своїми практичними рішеннями «Simply Clever» і чудовим співвідношенням ціни та якості.",
+              "ru": "Škoda — чешская марка с давними традициями, в настоящее время являющаяся частью группы VW. Он известен своими практичными «просто умными» решениями и отличным соотношением цены и качества.",
+              "zh": "斯柯达是一个具有悠久传统的捷克品牌，目前隶属于大众集团。它以其实用的“Simply Clever”解决方案和物超所值而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Škoda Auto",
+                "en": "Škoda Auto",
+                "de": "Škoda Auto",
+                "uk": "Škoda Auto",
+                "ru": "Škoda Auto",
+                "zh": "斯柯达汽车"
+              },
+              "siedziba": {
+                "pl": "Mladá Boleslav, Czechy",
+                "en": "Mladá Boleslav, Czech Republic",
+                "de": "Mladá Boleslav, Tschechische Republik",
+                "uk": "Млада-Болеслав, Чехія",
+                "ru": "Млада-Болеслав, Чехия",
+                "zh": "Mladá Boleslav，捷克共和国"
+              },
+              "założona": "1895"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/av/lh/94huiygwksks84o8csokk/skoda_superb-2015_r18-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 121,
+        "ModelID": 413493,
+        "Brand Name": "Skoda",
+        "Model Name": "SuperB",
+        "Serie Name": "Superb III",
+        "Years": "2015 - 2023",
+        "specs": {
+          "bodyType": "Liftback/Wagon",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "1.4L TSI - 2.0L TSI / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Škoda to czeska marka o wieloletniej tradycji, obecnie część grupy VW. Słynie z praktycznych rozwiązań 'Simply Clever' i świetnego stosunku jakości do ceny.",
+              "en": "Škoda is a Czech brand with a long tradition, currently part of the VW group. It is famous for its practical 'Simply Clever' solutions and great value for money.",
+              "de": "Škoda ist eine tschechische Marke mit langer Tradition, derzeit Teil des VW-Konzerns. Es ist bekannt für seine praktischen „Simply Clever“-Lösungen und sein gutes Preis-Leistungs-Verhältnis.",
+              "uk": "Škoda — це чеська марка з давніми традиціями, яка наразі є частиною групи VW. Він відомий своїми практичними рішеннями «Simply Clever» і чудовим співвідношенням ціни та якості.",
+              "ru": "Škoda — чешская марка с давними традициями, в настоящее время являющаяся частью группы VW. Он известен своими практичными «просто умными» решениями и отличным соотношением цены и качества.",
+              "zh": "斯柯达是一个具有悠久传统的捷克品牌，目前隶属于大众集团。它以其实用的“Simply Clever”解决方案和物超所值而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Škoda Auto",
+                "en": "Škoda Auto",
+                "de": "Škoda Auto",
+                "uk": "Škoda Auto",
+                "ru": "Škoda Auto",
+                "zh": "斯柯达汽车"
+              },
+              "siedziba": {
+                "pl": "Mladá Boleslav, Czechy",
+                "en": "Mladá Boleslav, Czech Republic",
+                "de": "Mladá Boleslav, Tschechische Republik",
+                "uk": "Млада-Болеслав, Чехія",
+                "ru": "Млада-Болеслав, Чехия",
+                "zh": "姆拉达博莱斯拉夫，捷克共和国"
+              },
+              "założona": "1895"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/av/lh/94huiygwksks84o8csokk/skoda_superb-2015_r18-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 121,
+        "ModelID": 416581,
+        "Brand Name": "Skoda",
+        "Model Name": "SuperB",
+        "Serie Name": "Superb IV",
+        "Years": "2023 - Present",
+        "specs": {
+          "bodyType": "Liftback/Wagon",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "1.5L TSI - 2.0L TSI / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Škoda Superb to flagowa limuzyna marki, która redefiniuje pojęcie luksusu i przestrzeni w swoim segmencie. Oferując rekordową ilość miejsca na nogi i nowoczesne systemy wspomagania, jest wyborem dla osób szukających elegancji i komfortu na najwyższym poziomie.",
+              "en": "Škoda Superb is the flagship limousine of the brand that redefines the concept of luxury and space in its segment. Offering a record amount of legroom and modern support systems, it is the choice for people looking for elegance and comfort at the highest level.",
+              "de": "Škoda Superb ist die Flaggschiff-Limousine der Marke, die das Konzept von Luxus und Platz in ihrem Segment neu definiert. Mit seiner rekordverdächtigen Beinfreiheit und modernen Stützsystemen ist er die Wahl für Menschen, die Eleganz und Komfort auf höchstem Niveau suchen.",
+              "uk": "Škoda Superb — це флагманський лімузин бренду, який переосмислює концепцію розкоші та простору у своєму сегменті. Пропонуючи рекордну кількість простору для ніг і сучасні системи підтримки, це вибір для людей, які шукають елегантність і комфорт на найвищому рівні.",
+              "ru": "Škoda Superb — флагманский лимузин бренда, который переопределяет концепцию роскоши и пространства в своем сегменте. Предлагая рекордное пространство для ног и современные системы поддержки, это выбор для людей, которые ищут элегантность и комфорт на самом высоком уровне.",
+              "zh": "斯柯达 Superb 是该品牌的旗舰豪华轿车，重新定义了该细分市场的豪华和空间概念。它提供创纪录的腿部空间和现代化的支撑系统，是寻求最高水平优雅和舒适的人们的选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Škoda Auto",
+                "en": "Škoda Auto",
+                "de": "Škoda Auto",
+                "uk": "Škoda Auto",
+                "ru": "Škoda Auto",
+                "zh": "Škoda Auto"
+              },
+              "okres produkcji": {
+                "pl": "od 2001",
+                "en": "from 2001",
+                "de": "ab 2001",
+                "uk": "з 2001 р.",
+                "ru": "2001 года выпуска.",
+                "zh": "2001 年生产"
+              },
+              "segment": {
+                "pl": "D (Klasa średnia premium / Executive)",
+                "en": "D (Premium middle class / Executive)",
+                "de": "D (Premium-Mittelklasse / Executive)",
+                "uk": "D (Преміум середнього класу / Представницький)",
+                "ru": "D (Премиум-средний класс / Представительский)",
+                "zh": "D（高级中产阶级/行政级）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/av/lh/94huiygwksks84o8csokk/skoda_superb-2015_r18-jpg.310.jpg"
+        }
+      }
+    ],
+    "Kodiaq": [
+      {
+        "BrandID": 121,
+        "ModelID": 413955,
+        "Brand Name": "Skoda",
+        "Model Name": "Kodiaq",
+        "Serie Name": "Kodiaq I",
+        "Years": "2016 - 2024",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment D-SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L TSI - 2.0L BiTDI RS",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Škoda Kodiaq to duży, rodzinny SUV, który może przewieźć 7 osób. Łączy funkcjonalność z nowoczesnym designem.",
+              "en": "Škoda Kodiaq is a large, family SUV that can carry 7 people. It combines functionality with modern design.",
+              "de": "Škoda Kodiaq ist ein großer Familien-SUV, der 7 Personen befördern kann. Es vereint Funktionalität mit modernem Design.",
+              "uk": "Škoda Kodiaq — великий сімейний позашляховик, який може перевозити 7 осіб. Він поєднує в собі функціональність і сучасний дизайн.",
+              "ru": "Škoda Kodiaq — большой семейный внедорожник, вмещающий 7 человек. Он сочетает в себе функциональность и современный дизайн.",
+              "zh": "Škoda Kodiaq 是一款大型家庭 SUV，可容纳 7 人。它将功能性与现代设计相结合。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Škoda"
+              },
+              "okres produkcji": {
+                "pl": "od 2016",
+                "en": "from 2016",
+                "de": "ab 2016",
+                "uk": "з 2016 року",
+                "ru": "с 2016 года",
+                "zh": "2016 年起"
+              },
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний позашляховик",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 121,
+        "ModelID": 416582,
+        "Brand Name": "Skoda",
+        "Model Name": "Kodiaq",
+        "Serie Name": "Kodiaq II",
+        "Years": "2024 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment D-SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "1.5L TSI - PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Škoda Kodiaq to potężny rodzinny SUV, który wprowadził markę w świat dużych aut rekreacyjnych. Oferując miejsce dla siedmiu osób, zaawansowany napęd 4x4 i mnóstwo praktycznych rozwiązań, stał się wzorcem funkcjonalnego SUV-a dla wymagających rodzin.",
+              "en": "Škoda Kodiaq is a powerful family SUV that introduced the brand to the world of large recreational cars. Offering space for seven people, advanced 4x4 drive and plenty of practical solutions, it has become a model of a functional SUV for demanding families.",
+              "de": "Škoda Kodiaq ist ein leistungsstarker Familien-SUV, der die Marke in die Welt der großen Freizeitautos einführte. Mit Platz für sieben Personen, fortschrittlichem 4x4-Antrieb und vielen praktischen Lösungen ist er zum Modell eines funktionalen SUV für anspruchsvolle Familien geworden.",
+              "uk": "Škoda Kodiaq — це потужний сімейний позашляховик, який ввів бренд у світ великих автомобілів для відпочинку. Пропонуючи місце для семи осіб, вдосконалений привод 4x4 і безліч практичних рішень, він став зразком функціонального SUV для вимогливих сімей.",
+              "ru": "Škoda Kodiaq — мощный семейный внедорожник, который представил бренд в мире больших автомобилей для отдыха. Предлагая место для семи человек, усовершенствованный привод 4x4 и множество практичных решений, он стал моделью функционального внедорожника для требовательных семей.",
+              "zh": "斯柯达 Kodiaq 是一款功能强大的家庭 SUV，将该品牌引入大型休闲车领域。七人乘坐空间、先进的4x4驱动以及丰富的实用解决方案，使其成为满足高要求家庭需求的功能型SUV的典范。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Škoda Auto",
+                "en": "Škoda Auto",
+                "de": "Škoda Auto",
+                "uk": "Škoda Auto",
+                "ru": "Škoda Auto",
+                "zh": "斯柯达汽车"
+              },
+              "okres produkcji": {
+                "pl": "od 2016",
+                "en": "from 2016",
+                "de": "ab 2016",
+                "uk": "з 2016 року",
+                "ru": "2016 года.",
+                "zh": "2016 年款"
+              },
+              "segment": {
+                "pl": "D-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Karoq": [
+      {
+        "BrandID": 121,
+        "ModelID": 414317,
+        "Brand Name": "Skoda",
+        "Model Name": "Karoq",
+        "Serie Name": "Karoq",
+        "Years": "2017 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment C-SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L TSI - 2.0L TSI",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Škoda Karoq to kompaktowy SUV, który idealnie łączy zwrotność z przestronnością. Dzięki systemowi VarioFlex i nowoczesnym napędom, oferuje bezkonkurencyjną elastyczność wnętrza, sprawdzając się zarówno w mieście, jak i podczas wakacyjnych wypraw.",
+              "en": "Škoda Karoq is a compact SUV that perfectly combines maneuverability with spaciousness. Thanks to the VarioFlex system and modern drives, it offers unrivaled interior flexibility, perfect both in the city and during holiday trips.",
+              "de": "Škoda Karoq ist ein kompakter SUV, der Wendigkeit und Geräumigkeit perfekt vereint. Dank VarioFlex-System und modernen Antrieben bietet er eine unübertroffene Innenraumflexibilität, perfekt sowohl in der Stadt als auch auf Urlaubsreisen.",
+              "uk": "Škoda Karoq — компактний позашляховик, який ідеально поєднує в собі маневреність і місткість. Завдяки системі VarioFlex і сучасним приводам він пропонує неперевершену гнучкість салону, ідеальну як у місті, так і під час відпустки.",
+              "ru": "Škoda Karoq — компактный внедорожник, идеально сочетающий в себе маневренность и вместительность. Благодаря системе VarioFlex и современным приводам он предлагает непревзойденную внутреннюю гибкость, идеальную как в городе, так и во время поездок на отдых.",
+              "zh": "斯柯达 Karoq 是一款紧凑型 SUV，完美结合了操控性和宽敞性。得益于 VarioFlex 系统和现代驱动器，它提供了无与伦比的内部灵活性，无论是在城市还是在度假旅行期间都是完美的选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Škoda Auto",
+                "en": "Škoda Auto",
+                "de": "Škoda Auto",
+                "uk": "Škoda Auto",
+                "ru": "Škoda Auto",
+                "zh": "斯柯达汽车"
+              },
+              "okres produkcji": {
+                "pl": "od 2017",
+                "en": "from 2017",
+                "de": "ab 2017",
+                "uk": "з 2017 року",
+                "ru": "2017 года.",
+                "zh": "2017 年起"
+              },
+              "segment": {
+                "pl": "C-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Kamiq": [
+      {
+        "BrandID": 121,
+        "ModelID": 416583,
+        "Brand Name": "Skoda",
+        "Model Name": "Kamiq",
+        "Serie Name": "Kamiq",
+        "Years": "2019 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment B-SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/CNG",
+          "engine": "1.0L TSI - 1.5L TSI",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Škoda Kamiq to najmniejszy SUV w gamie, który łączy zalety crossovera ze zwinnością auta miejskiego. Jego nowoczesna stylistyka i podwyższone nadwozie sprawiają, że jest idealnym wyborem dla osób ceniących łatwość parkowania i dobrą widoczność.",
+              "en": "Škoda Kamiq is the smallest SUV in the range that combines the advantages of a crossover with the agility of a city car. Its modern style and raised body make it an ideal choice for people who value easy parking and good visibility.",
+              "de": "Škoda Kamiq ist das kleinste SUV der Baureihe, das die Vorteile eines Crossovers mit der Agilität eines Stadtautos vereint. Sein moderner Stil und die erhöhte Karosserie machen ihn zur idealen Wahl für Menschen, die Wert auf einfaches Parken und gute Sicht legen.",
+              "uk": "Škoda Kamiq — це найменший позашляховик у лінійці, який поєднує в собі переваги кросовера з маневреністю міського автомобіля. Його сучасний стиль і піднятий кузов роблять його ідеальним вибором для людей, які цінують легке паркування та гарну видимість.",
+              "ru": "Škoda Kamiq — самый маленький внедорожник в линейке, сочетающий в себе преимущества кроссовера с маневренностью городского автомобиля. Современный стиль и приподнятый кузов делают его идеальным выбором для людей, которые ценят удобство парковки и хорошую обзорность.",
+              "zh": "斯柯达卡米克是该系列中最小的 SUV，结合了跨界车的优势和城市汽车的敏捷性。其现代风格和凸起的车身使其成为重视停车方便和视野良好的人们的理想选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Škoda Auto",
+                "en": "Škoda Auto",
+                "de": "Škoda Auto",
+                "uk": "Škoda Auto",
+                "ru": "Škoda Auto",
+                "zh": "斯柯达汽车"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019 року",
+                "ru": "2019 года.",
+                "zh": "2019 年起"
+              },
+              "segment": {
+                "pl": "B-SUV"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Scala": [
+      {
+        "BrandID": 121,
+        "ModelID": 416584,
+        "Brand Name": "Skoda",
+        "Model Name": "Scala",
+        "Serie Name": "Scala",
+        "Years": "2019 - Present",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/CNG",
+          "engine": "1.0L TSI - 1.5L TSI",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Škoda Scala to nowoczesny hatchback klasy kompaktowej, który oferuje mnóstwo przestrzeni dla pasażerów i jeden z największych bagażników w swojej klasie. Wyróżnia się elegancką sylwetką i zaawansowanymi technologiami bezpieczeństwa prosto z wyższych segmentów.",
+              "en": "Škoda Scala is a modern compact class hatchback that offers plenty of space for passengers and one of the largest trunks in its class. It stands out with its elegant silhouette and advanced safety technologies straight from higher segments.",
+              "de": "Škoda Scala ist ein modernes Kompaktklasse-Fließheck, das viel Platz für Passagiere und einen der größten Kofferräume seiner Klasse bietet. Es zeichnet sich durch seine elegante Silhouette und fortschrittliche Sicherheitstechnologien aus höheren Segmenten aus.",
+              "uk": "Škoda Scala — це сучасний хетчбек компактного класу, який пропонує багато місця для пасажирів і один із найбільших багажників у своєму класі. Він виділяється своїм елегантним силуетом і передовими технологіями безпеки прямо з вищих сегментів.",
+              "ru": "Škoda Scala — современный хэтчбек компактного класса, предлагающий много места для пассажиров и один из самых больших багажников в своем классе. Он выделяется элегантным силуэтом и передовыми технологиями безопасности прямо из более высокого сегмента.",
+              "zh": "斯柯达 Scala 是一款现代紧凑型掀背车，为乘客提供充足的空间，并拥有同类产品中最大的后备箱之一。它以其优雅的轮廓和来自更高细分市场的先进安全技术而脱颖而出。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Škoda Auto",
+                "en": "Škoda Auto",
+                "de": "Škoda Auto",
+                "uk": "Шкода Авто",
+                "ru": "Шкода Авто",
+                "zh": "斯柯达汽车"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019",
+                "ru": "с 2019 г.",
+                "zh": "2019年起"
+              },
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (Compact)",
+                "ru": "C (Compact)",
+                "zh": "C（紧凑型）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Rapid": [
+      {
+        "BrandID": 121,
+        "ModelID": 3533,
+        "Brand Name": "Skoda",
+        "Model Name": "Rapid",
+        "Serie Name": "Rapid",
+        "Years": "2012 - 2019",
+        "specs": {
+          "bodyType": "Liftback/Hatchback (Spaceback)",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L TSI - 1.6L TDI",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Škoda to czeska marka o wieloletniej tradycji, obecnie część grupy VW. Słynie z praktycznych rozwiązań 'Simply Clever' i świetnego stosunku jakości do ceny.",
+              "en": "Škoda is a Czech brand with a long tradition, currently part of the VW group. It is famous for its practical 'Simply Clever' solutions and great value for money.",
+              "de": "Škoda ist eine tschechische Marke mit langer Tradition, derzeit Teil des VW-Konzerns. Es ist bekannt für seine praktischen „Simply Clever“-Lösungen und sein gutes Preis-Leistungs-Verhältnis.",
+              "uk": "Škoda — це чеська марка з давніми традиціями, яка наразі входить до групи VW. Він відомий своїми практичними рішеннями «Simply Clever» і чудовим співвідношенням ціни та якості.",
+              "ru": "Škoda — чешский бренд с давними традициями, в настоящее время входит в состав группы VW. Он известен своими практичными «просто умными» решениями и отличным соотношением цены и качества.",
+              "zh": "斯柯达是一个有着悠久传统的捷克品牌，目前隶属于大众集团。它以其实用的“Simply Clever”解决方案和物超所值而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Škoda Auto",
+                "en": "Škoda Auto",
+                "de": "Škoda Auto",
+                "uk": "Škoda Auto",
+                "ru": "Škoda Auto",
+                "zh": "斯柯达汽车"
+              },
+              "siedziba": {
+                "pl": "Mladá Boleslav, Czechy",
+                "en": "Mladá Boleslav, Czech Republic",
+                "de": "Mladá Boleslav, Tschechische Republik",
+                "uk": "Млада-Болеслав, Чехія",
+                "ru": "Млада-Болеслав, Чехия",
+                "zh": "姆拉达·博莱斯拉夫，捷克共和国"
+              },
+              "założona": "1895"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/dv/0o/uaalpy0ccwwcgkwk4ssk4/skoda-rapid-12.310.jpg"
+        }
+      }
+    ],
+    "Yeti": [
+      {
+        "BrandID": 121,
+        "ModelID": 1455,
+        "Brand Name": "Skoda",
+        "Model Name": "Yeti",
+        "Serie Name": "Yeti",
+        "Years": "2009 - 2017",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment C-SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L TSI - 2.0L TDI",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Škoda Yeti to model, który stał się legendą dzięki swoim unikalnym zdolnościom terenowym i niepowtarzalnej sylwetce. Wyjątkowo praktyczny i zwinny, do dziś jest ceniony za dzielność off-roadową i niesamowitą funkcjonalność wnętrza.",
+              "en": "Škoda Yeti is a model that has become a legend thanks to its unique off-road capabilities and unique silhouette. Extremely practical and agile, it is still appreciated for its off-road prowess and incredible interior functionality.",
+              "de": "Škoda Yeti ist ein Modell, das dank seiner einzigartigen Geländefähigkeiten und seiner einzigartigen Silhouette zur Legende geworden ist. Er ist äußerst praktisch und wendig und wird immer noch für seine Geländetauglichkeit und seine unglaubliche Funktionalität im Innenraum geschätzt.",
+              "uk": "Škoda Yeti — це модель, яка стала легендою завдяки своїм унікальним позашляховим можливостям і унікальному силуету. Надзвичайно практичний і маневрений, він досі цінується за його бездоріжжя та неймовірну функціональність салону.",
+              "ru": "Škoda Yeti — модель, ставшая легендой благодаря своим уникальным внедорожным возможностям и неповторимому силуэту. Чрезвычайно практичный и маневренный, он до сих пор ценится за внедорожные качества и невероятную функциональность интерьера.",
+              "zh": "斯柯达 Yeti 凭借其独特的越野能力和独特的轮廓而成为传奇。它极其实用和敏捷，仍然因其越野能力和令人难以置信的内部功能而受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Škoda Auto",
+                "en": "Škoda Auto",
+                "de": "Škoda Auto",
+                "uk": "Škoda Auto",
+                "ru": "Škoda Auto",
+                "zh": "斯柯达汽车"
+              },
+              "okres produkcji": "2009–2017",
+              "segment": {
+                "pl": "C-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5a/lk/krknf8wswwskk8kwccoks/yeti.310.jpg"
+        }
+      }
+    ],
+    "Roomster": [
+      {
+        "BrandID": 121,
+        "ModelID": 1452,
+        "Brand Name": "Skoda",
+        "Model Name": "Roomster",
+        "Serie Name": "Roomster",
+        "Years": "2006 - 2015",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L - 1.9L TDI",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Škoda to czeska marka o wieloletniej tradycji, obecnie część grupy VW. Słynie z praktycznych rozwiązań 'Simply Clever' i świetnego stosunku jakości do ceny.",
+              "en": "Škoda is a Czech brand with a long tradition, currently part of the VW group. It is famous for its practical 'Simply Clever' solutions and great value for money.",
+              "de": "Škoda ist eine tschechische Marke mit langer Tradition, derzeit Teil des VW-Konzerns. Es ist bekannt für seine praktischen „Simply Clever“-Lösungen und sein gutes Preis-Leistungs-Verhältnis.",
+              "uk": "Škoda — це чеська марка з давніми традиціями, яка наразі входить до групи VW. Він відомий своїми практичними рішеннями «Simply Clever» і чудовим співвідношенням ціни та якості.",
+              "ru": "Škoda — чешская марка с давними традициями, в настоящее время являющаяся частью группы VW. Он известен своими практичными «просто умными» решениями и отличным соотношением цены и качества.",
+              "zh": "斯柯达是一个有着悠久传统的捷克品牌，目前隶属于大众集团。它以其实用的“Simply Clever”解决方案和物超所值而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Škoda Auto",
+                "en": "Škoda Auto",
+                "de": "Škoda Auto",
+                "uk": "Škoda Auto",
+                "ru": "Škoda Auto",
+                "zh": "斯柯达汽车"
+              },
+              "siedziba": {
+                "pl": "Mladá Boleslav, Czechy",
+                "en": "Mladá Boleslav, Czech Republic",
+                "de": "Mladá Boleslav, Tschechische Republik",
+                "uk": "Млада-Болеслав, Чехія",
+                "ru": "Млада-Болеслав, Чехия",
+                "zh": "姆拉达·博莱斯拉夫，捷克共和国"
+              },
+              "założona": "1895"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9h/2c/dmt1ut4w8w0oo4owswo4k/roomster.310.jpg"
+        }
+      }
+    ],
+    "Citigo": [
+      {
+        "BrandID": 121,
+        "ModelID": 414315,
+        "Brand Name": "Skoda",
+        "Model Name": "Citigo",
+        "Serie Name": "Citigo",
+        "Years": "2011 - 2020",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment A (City Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Electric",
+          "engine": "1.0L / Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Škoda to czeska marka o wieloletniej tradycji, obecnie część grupy VW. Słynie z praktycznych rozwiązań 'Simply Clever' i świetnego stosunku jakości do ceny.",
+              "en": "Škoda is a Czech brand with a long tradition, currently part of the VW group. It is famous for its practical 'Simply Clever' solutions and great value for money.",
+              "de": "Škoda ist eine tschechische Marke mit langer Tradition, derzeit Teil des VW-Konzerns. Es ist bekannt für seine praktischen „Simply Clever“-Lösungen und sein gutes Preis-Leistungs-Verhältnis.",
+              "uk": "Škoda — це чеська марка з давніми традиціями, яка наразі є частиною групи VW. Він відомий своїми практичними рішеннями «Simply Clever» і чудовим співвідношенням ціни та якості.",
+              "ru": "Škoda — чешская марка с давними традициями, в настоящее время являющаяся частью группы VW. Он известен своими практичными «просто умными» решениями и отличным соотношением цены и качества.",
+              "zh": "斯柯达是一个有着悠久传统的捷克品牌，目前隶属于大众集团。它以其实用的“Simply Clever”解决方案和物超所值而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Škoda Auto",
+                "en": "Škoda Auto",
+                "de": "Škoda Auto",
+                "uk": "Škoda Auto",
+                "ru": "Škoda Auto",
+                "zh": "斯柯达汽车"
+              },
+              "siedziba": {
+                "pl": "Mladá Boleslav, Czechy",
+                "en": "Mladá Boleslav, Czech Republic",
+                "de": "Mladá Boleslav, Tschechische Republik",
+                "uk": "Млада-Болеслав, Чехія",
+                "ru": "Млада-Болеслав, Чехия",
+                "zh": "姆拉达·博莱斯拉夫，捷克共和国"
+              },
+              "założona": "1895"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2b/1n/gjc4g36s08kc8g4000k04/citigo.310.jpg"
+        }
+      }
+    ],
+    "Felicia": [
+      {
+        "BrandID": 121,
+        "ModelID": 1445,
+        "Brand Name": "Skoda",
+        "Model Name": "Felicia",
+        "Serie Name": "Felicia",
+        "Years": "1994 - 2001",
+        "specs": {
+          "bodyType": "Hatchback/Wagon/Pickup",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.3L - 1.9L D",
+          "isOldtimer": true,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Škoda to czeska marka o wieloletniej tradycji, obecnie część grupy VW. Słynie z praktycznych rozwiązań 'Simply Clever' i świetnego stosunku jakości do ceny.",
+              "en": "Škoda is a Czech brand with a long tradition, currently part of the VW group. It is famous for its practical 'Simply Clever' solutions and great value for money.",
+              "de": "Škoda ist eine tschechische Marke mit langer Tradition, derzeit Teil des VW-Konzerns. Es ist bekannt für seine praktischen „Simply Clever“-Lösungen und sein gutes Preis-Leistungs-Verhältnis.",
+              "uk": "Škoda — це чеська марка з давніми традиціями, яка наразі є частиною групи VW. Він відомий своїми практичними рішеннями «Simply Clever» і чудовим співвідношенням ціни та якості.",
+              "ru": "Škoda — чешская марка с давними традициями, в настоящее время являющаяся частью группы VW. Он известен своими практичными «просто умными» решениями и отличным соотношением цены и качества.",
+              "zh": "斯柯达是一个有着悠久传统的捷克品牌，目前隶属于大众集团。它以其实用的“Simply Clever”解决方案和物超所值而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Škoda Auto",
+                "en": "Škoda Auto",
+                "de": "Škoda Auto",
+                "uk": "Škoda Auto",
+                "ru": "Škoda Auto",
+                "zh": "斯柯达汽车"
+              },
+              "siedziba": {
+                "pl": "Mladá Boleslav, Czechy",
+                "en": "Mladá Boleslav, Czech Republic",
+                "de": "Mladá Boleslav, Tschechische Republik",
+                "uk": "Млада-Болеслав, Чехія",
+                "ru": "Млада-Болеслав, Чехия",
+                "zh": "姆拉达·博莱斯拉夫，捷克共和国"
+              },
+              "założona": "1895"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ev/9z/yyiclk0gsgwc4wsw88ww4/felicia-hathc.310.jpg"
+        }
+      }
+    ],
+    "Enyaq": [
+      {
+        "BrandID": 121,
+        "ModelID": 416585,
+        "Brand Name": "Skoda",
+        "Model Name": "Enyaq",
+        "Serie Name": "Enyaq iV",
+        "Years": "2020 - Present",
+        "specs": {
+          "bodyType": "SUV/Coupe SUV",
+          "segment": "Segment D-SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Electric",
+          "engine": "Electric Motor 52kWh/77kWh",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Škoda Enyaq to pierwszy w pełni elektryczny SUV marki, zbudowany na platformie MEB. Łączy futurystyczny design z tradycyjnymi zaletami Skody – ogromną przestrzenią i przemyślanymi rozwiązaniami, wprowadzając markę w erę zrównoważonej mobilności.",
+              "en": "Škoda Enyaq is the brand's first fully electric SUV, built on the MEB platform. It combines futuristic design with the traditional advantages of Skoda - huge space and well-thought-out solutions, introducing the brand into the era of sustainable mobility.",
+              "de": "Škoda Enyaq ist das erste vollelektrische SUV der Marke, gebaut auf der MEB-Plattform. Es vereint futuristisches Design mit den traditionellen Vorteilen von Skoda – riesiges Platzangebot und durchdachte Lösungen – und führt die Marke in das Zeitalter der nachhaltigen Mobilität ein.",
+              "uk": "Škoda Enyaq — це перший повністю електричний позашляховик марки, побудований на платформі MEB. Він поєднує в собі футуристичний дизайн з традиційними перевагами Skoda - величезним простором і продуманими рішеннями, вводячи бренд в еру стійкої мобільності.",
+              "ru": "Škoda Enyaq — первый полностью электрический внедорожник бренда, построенный на платформе MEB. Он сочетает в себе футуристический дизайн с традиционными преимуществами Skoda – огромным пространством и продуманными решениями, вводящими бренд в эпоху устойчивой мобильности.",
+              "zh": "斯柯达Enyaq是该品牌首款全电动SUV，基于MEB平台打造。它将未来主义设计与斯柯达的传统优势——巨大的空间和深思熟虑的解决方案相结合，将品牌带入可持续移动时代。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Škoda Auto",
+                "en": "Škoda Auto",
+                "de": "Škoda Auto",
+                "uk": "Škoda Auto",
+                "ru": "Škoda Auto",
+                "zh": "斯柯达汽车"
+              },
+              "okres produkcji": {
+                "pl": "od 2020",
+                "en": "from 2020",
+                "de": "ab 2020",
+                "uk": "з 2020 р.",
+                "ru": "с 2020 года",
+                "zh": "2020年起"
+              },
+              "segment": {
+                "pl": "D-SUV (EV)",
+                "en": "D-SUV (EV)",
+                "de": "D-SUV (EV)",
+                "uk": "D-SUV (EV)",
+                "ru": "D-SUV (EV)",
+                "zh": "D-SUV（电动）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

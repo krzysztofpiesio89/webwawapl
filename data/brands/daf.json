@@ -1,0 +1,248 @@
+{
+  "brand": "DAF",
+  "models": {
+    "33": [
+      {
+        "BrandID": 184,
+        "ModelID": 416715,
+        "Brand Name": "DAF",
+        "Model Name": "33",
+        "Serie Name": "33",
+        "Years": "1967 - 1974",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Classic City Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "0.7L Two-Cylinder Boxer",
+          "isOldtimer": true,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "44": [
+      {
+        "BrandID": 184,
+        "ModelID": 416716,
+        "Brand Name": "DAF",
+        "Model Name": "44",
+        "Serie Name": "44",
+        "Years": "1966 - 1974",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Classic Small Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "0.8L Two-Cylinder Boxer",
+          "isOldtimer": true,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "45": [
+      {
+        "BrandID": 184,
+        "ModelID": 415104,
+        "Brand Name": "DAF",
+        "Model Name": "45",
+        "Serie Name": "45 Series",
+        "Years": "1991 - 2000",
+        "specs": {
+          "bodyType": "Truck",
+          "segment": "Light Truck",
+          "drive": "RWD",
+          "fuel": "Diesel",
+          "engine": "5.9L Cummins Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Truck"
+        }
+      }
+    ],
+    "46": [
+      {
+        "BrandID": 184,
+        "ModelID": 416717,
+        "Brand Name": "DAF",
+        "Model Name": "46",
+        "Serie Name": "46",
+        "Years": "1974 - 1976",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Classic Small Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "0.8L Two-Cylinder Boxer",
+          "isOldtimer": true,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "55": [
+      {
+        "BrandID": 184,
+        "ModelID": 416718,
+        "Brand Name": "DAF",
+        "Model Name": "55",
+        "Serie Name": "55",
+        "Years": "1967 - 1972",
+        "specs": {
+          "bodyType": "Sedan/Coupe/Wagon",
+          "segment": "Classic Compact",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "1.1L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "66": [
+      {
+        "BrandID": 184,
+        "ModelID": 416719,
+        "Brand Name": "DAF",
+        "Model Name": "66",
+        "Serie Name": "66",
+        "Years": "1972 - 1976",
+        "specs": {
+          "bodyType": "Sedan/Coupe/Wagon",
+          "segment": "Classic Compact",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "1.1L / 1.3L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "95": [
+      {
+        "BrandID": 184,
+        "ModelID": 415882,
+        "Brand Name": "DAF",
+        "Model Name": "95",
+        "Serie Name": "95 Series",
+        "Years": "1987 - 1997",
+        "specs": {
+          "bodyType": "Truck",
+          "segment": "Heavy Truck",
+          "drive": "RWD",
+          "fuel": "Diesel",
+          "engine": "11.6L Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Truck"
+        }
+      }
+    ],
+    "400": [
+      {
+        "BrandID": 184,
+        "ModelID": 415102,
+        "Brand Name": "DAF",
+        "Model Name": "400",
+        "Serie Name": "400 Series",
+        "Years": "1989 - 1993",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Commercial Van",
+          "drive": "RWD",
+          "fuel": "Diesel",
+          "engine": "2.5L Diesel (Peugeot)",
+          "isOldtimer": true,
+          "vehicleType": "Van"
+        }
+      }
+    ],
+    "CF": [
+      {
+        "BrandID": 184,
+        "ModelID": 415109,
+        "Brand Name": "DAF",
+        "Model Name": "CF",
+        "Serie Name": "CF Series",
+        "Years": "1998 - 3000",
+        "specs": {
+          "bodyType": "Truck",
+          "segment": "Medium/Heavy Truck",
+          "drive": "RWD",
+          "fuel": "Diesel",
+          "engine": "6.7L - 12.9L PACCAR MX",
+          "isOldtimer": false,
+          "vehicleType": "Truck"
+        }
+      }
+    ],
+    "LF": [
+      {
+        "BrandID": 184,
+        "ModelID": 415111,
+        "Brand Name": "DAF",
+        "Model Name": "LF",
+        "Serie Name": "LF Series",
+        "Years": "2001 - 3000",
+        "specs": {
+          "bodyType": "Truck",
+          "segment": "Light/Medium Truck",
+          "drive": "RWD",
+          "fuel": "Diesel/Electric",
+          "engine": "4.5L - 6.7L PACCAR PX / Electric",
+          "isOldtimer": false,
+          "vehicleType": "Truck"
+        }
+      }
+    ],
+    "XF": [
+      {
+        "BrandID": 184,
+        "ModelID": 415529,
+        "Brand Name": "DAF",
+        "Model Name": "XF",
+        "Serie Name": "XF 95",
+        "Years": "1997 - 2006",
+        "specs": {
+          "bodyType": "Truck",
+          "segment": "Heavy Truck",
+          "drive": "RWD",
+          "fuel": "Diesel",
+          "engine": "12.6L",
+          "isOldtimer": false,
+          "vehicleType": "Truck"
+        }
+      },
+      {
+        "BrandID": 184,
+        "ModelID": 415529,
+        "Brand Name": "DAF",
+        "Model Name": "XF",
+        "Serie Name": "XF 105",
+        "Years": "2005 - 2013",
+        "specs": {
+          "bodyType": "Truck",
+          "segment": "Heavy Truck",
+          "drive": "RWD",
+          "fuel": "Diesel",
+          "engine": "12.9L PACCAR MX",
+          "isOldtimer": false,
+          "vehicleType": "Truck"
+        }
+      },
+      {
+        "BrandID": 184,
+        "ModelID": 415530,
+        "Brand Name": "DAF",
+        "Model Name": "XF",
+        "Serie Name": "XF (Euro 6)",
+        "Years": "2013 - 3000",
+        "specs": {
+          "bodyType": "Truck",
+          "segment": "Heavy Truck",
+          "drive": "RWD",
+          "fuel": "Diesel",
+          "engine": "10.8L - 12.9L PACCAR MX",
+          "isOldtimer": false,
+          "vehicleType": "Truck"
+        }
+      }
+    ]
+  }
+}

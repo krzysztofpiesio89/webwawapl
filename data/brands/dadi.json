@@ -1,0 +1,62 @@
+{
+  "brand": "Dadi",
+  "models": {
+    "Smoothing": [
+      {
+        "BrandID": 226,
+        "ModelID": 416393,
+        "Brand Name": "Dadi",
+        "Model Name": "Smoothing",
+        "Serie Name": "Smoothing",
+        "Years": "2006 - 2009",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.2L / 2.8L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "Shuttle": [
+      {
+        "BrandID": 226,
+        "ModelID": 416394,
+        "Brand Name": "Dadi",
+        "Model Name": "Shuttle",
+        "Serie Name": "Shuttle",
+        "Years": "2005 - 2009",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.2L / 2.8L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "City Steed": [
+      {
+        "BrandID": 226,
+        "ModelID": 416395,
+        "Brand Name": "Dadi",
+        "Model Name": "City Steed",
+        "Serie Name": "City Steed",
+        "Years": "2006 - 2009",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Mid-size Pickup",
+          "drive": "RWD/AWD",
+          "fuel": "Diesel",
+          "engine": "2.8L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Truck"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,598 @@
+{
+  "brand": "ГАЗ",
+  "models": {
+    "12": [
+      {
+        "BrandID": 163,
+        "ModelID": "",
+        "Brand Name": "ГАЗ",
+        "Model Name": 12,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "GAZ-12 ZIM to luksusowy sedan produkowany w latach 1950-1960. Był to pierwszy reprezentacyjny samochód marki GAZ, przeznaczony dla średniego szczebla partyjnego.",
+              "en": "GAZ-12 ZIM is a luxury sedan produced in 1950-1960. It was the first representative car of the GAZ brand, intended for the middle party level.",
+              "de": "GAZ-12 ZIM ist eine Luxuslimousine, die zwischen 1950 und 1960 hergestellt wurde. Es war das erste repräsentative Auto der Marke GAZ, das für die mittlere Parteiebene bestimmt war.",
+              "uk": "ГАЗ-12 ЗІМ - седан класу люкс, випускався в 1950-1960 роках. Це був перший представницький автомобіль марки ГАЗ, призначений для середнього партійного рівня.",
+              "ru": "ГАЗ-12 ЗИМ — седан класса люкс, выпускавшийся в 1950-1960 годах. Это был первый представительский автомобиль марки ГАЗ, предназначенный для среднего партийного уровня.",
+              "zh": "GAZ-12 ZIM是1950-1960年生产的豪华轿车。这是GAZ品牌的第一款代表车，面向中层人士。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "GAZ"
+              },
+              "okres produkcji": "1950–1960",
+              "silnik": {
+                "pl": "3.5L R6",
+                "en": "3.5L R6",
+                "de": "3,5L R6",
+                "uk": "3.5L R6",
+                "ru": "3,5 л Р6",
+                "zh": "3.5L R6"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 163,
+        "ModelID": 1818,
+        "Brand Name": "ГАЗ",
+        "Model Name": 12,
+        "Serie Name": 12,
+        "Years": "0000 - 0000",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "GAZ-12 ZIM to luksusowy sedan produkowany w latach 1950-1960. Był to pierwszy reprezentacyjny samochód marki GAZ, przeznaczony dla średniego szczebla partyjnego.",
+              "en": "GAZ-12 ZIM is a luxury sedan produced in 1950-1960. It was the first representative car of the GAZ brand, intended for the middle party level.",
+              "de": "GAZ-12 ZIM ist eine Luxuslimousine, die zwischen 1950 und 1960 hergestellt wurde. Es war das erste repräsentative Auto der Marke GAZ, das für die mittlere Parteiebene bestimmt war.",
+              "uk": "ГАЗ-12 ЗІМ — седан класу люкс 1950-1960 років випуску. Це був перший представницький автомобіль марки ГАЗ, призначений для середнього партійного рівня.",
+              "ru": "ГАЗ-12 ЗИМ — седан класса люкс, выпускавшийся в 1950-1960 годах. Это был первый представительский автомобиль марки ГАЗ, предназначенный для среднего партийного уровня.",
+              "zh": "GAZ-12 ZIM 是一款 1950-1960 年间生产的豪华轿车。这是GAZ品牌的第一款代表车，面向中层人士。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "GAZ"
+              },
+              "okres produkcji": "1950–1960",
+              "silnik": {
+                "pl": "3.5L R6",
+                "en": "3.5L R6",
+                "de": "3,5L R6",
+                "uk": "3.5L R6",
+                "ru": "3,5 л Р6",
+                "zh": "3.5L R6"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "21": [
+      {
+        "BrandID": 163,
+        "ModelID": "",
+        "Brand Name": "ГАЗ",
+        "Model Name": 21,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "GAZ-21 Wołga to kultowy radziecki samochód osobowy klasy średniej, produkowany w latach 1956-1970. Symbol motoryzacji ZSRR.",
+              "en": "GAZ-21 Volga is an iconic Soviet middle-class passenger car, produced in 1956-1970. Symbol of the automotive industry of the USSR.",
+              "de": "GAZ-21 Wolga ist ein ikonischer sowjetischer Mittelklasse-Pkw, der zwischen 1956 und 1970 hergestellt wurde. Symbol der Automobilindustrie der UdSSR.",
+              "uk": "ГАЗ-21 Волга — культовий радянський легковий автомобіль середнього класу, випускався в 1956-1970 роках. Символ автомобільної промисловості СРСР.",
+              "ru": "ГАЗ-21 «Волга» — культовый советский легковой автомобиль среднего класса, выпускавшийся в 1956–1970 годах. Символ автомобильной промышленности СССР.",
+              "zh": "GAZ-21 Volga 是一款标志性的苏联中级乘用车，生产于 1956-1970 年。苏联汽车工业的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "GAZ"
+              },
+              "okres produkcji": "1956–1970",
+              "silnik": {
+                "pl": "2.4L R4",
+                "en": "2.4L R4",
+                "de": "2.4L R4",
+                "uk": "2.4L R4",
+                "ru": "2,4 л Р4",
+                "zh": "2.4L R4"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 163,
+        "ModelID": 1822,
+        "Brand Name": "ГАЗ",
+        "Model Name": 21,
+        "Serie Name": 21,
+        "Years": "1960 - 2000",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "GAZ-21 Wołga to kultowy radziecki samochód osobowy klasy średniej, produkowany w latach 1956-1970. Symbol motoryzacji ZSRR.",
+              "en": "GAZ-21 Volga is an iconic Soviet middle-class passenger car, produced in 1956-1970. Symbol of the automotive industry of the USSR.",
+              "de": "GAZ-21 Wolga ist ein ikonischer sowjetischer Mittelklasse-Pkw, der zwischen 1956 und 1970 hergestellt wurde. Symbol der Automobilindustrie der UdSSR.",
+              "uk": "ГАЗ-21 Волга — культовий радянський легковий автомобіль середнього класу, випускався в 1956-1970 роках. Символ автомобільної промисловості СРСР.",
+              "ru": "ГАЗ-21 «Волга» — культовый советский легковой автомобиль среднего класса, выпускавшийся в 1956–1970 годах. Символ автомобильной промышленности СССР.",
+              "zh": "GAZ-21 Volga 是一款标志性的苏联中级乘用车，生产于 1956-1970 年。苏联汽车工业的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "GAZ"
+              },
+              "okres produkcji": "1956–1970",
+              "silnik": {
+                "pl": "2.4L R4",
+                "en": "2.4L R4",
+                "de": "2.4L R4",
+                "uk": "2.4L R4",
+                "ru": "2,4 л Р4",
+                "zh": "2.4L R4"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "22": [
+      {
+        "BrandID": 163,
+        "ModelID": "",
+        "Brand Name": "ГАЗ",
+        "Model Name": 22,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger"
+        }
+      },
+      {
+        "BrandID": 163,
+        "ModelID": 1823,
+        "Brand Name": "ГАЗ",
+        "Model Name": 22,
+        "Serie Name": 22,
+        "Years": "1960 - 2000",
+        "specs": {
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "24": [
+      {
+        "BrandID": 163,
+        "ModelID": "",
+        "Brand Name": "ГАЗ",
+        "Model Name": 24,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "GAZ-24 Wołga to następca modelu 21, produkowany masowo w latach 1967-1985. Przez lata podstawowy samochód służbowy i taksówka w bloku wschodnim.",
+              "en": "GAZ-24 Volga is the successor of the 21 model, mass-produced in 1967-1985. For years, the basic company car and taxi in the Eastern Bloc.",
+              "de": "GAZ-24 Wolga ist der Nachfolger des Modells 21, das zwischen 1967 und 1985 in Massenproduktion hergestellt wurde. Seit Jahren das Standard-Firmenauto und -Taxi im Ostblock.",
+              "uk": "ГАЗ-24 Волга є наступником 21 моделі, що випускалася серійно в 1967-1985 роках. Роками основний службовий автомобіль і таксі в Східному блоці.",
+              "ru": "ГАЗ-24 «Волга» является преемником модели 21, выпускавшейся серийно в 1967-1985 годах. В течение многих лет основной служебный автомобиль и такси в Восточном блоке.",
+              "zh": "GAZ-24 Volga 是 21 车型的后继车型，于 1967-1985 年批量生产。多年来，东欧集团的基本公司汽车和出租车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "GAZ"
+              },
+              "okres produkcji": "1967–1985",
+              "silnik": {
+                "pl": "2.4L R4",
+                "en": "2.4L R4",
+                "de": "2.4L R4",
+                "uk": "2.4L R4",
+                "ru": "2,4 л Р4",
+                "zh": "2.4L R4"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 163,
+        "ModelID": 1826,
+        "Brand Name": "ГАЗ",
+        "Model Name": 24,
+        "Serie Name": 24,
+        "Years": "1960 - 2000",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "GAZ-24 Wołga to następca modelu 21, produkowany masowo w latach 1967-1985. Przez lata podstawowy samochód służbowy i taksówka w bloku wschodnim.",
+              "en": "GAZ-24 Volga is the successor of the 21 model, mass-produced in 1967-1985. For years, the basic company car and taxi in the Eastern Bloc.",
+              "de": "GAZ-24 Wolga ist der Nachfolger des Modells 21, das zwischen 1967 und 1985 in Massenproduktion hergestellt wurde. Seit Jahren das Standard-Firmenauto und -Taxi im Ostblock.",
+              "uk": "ГАЗ-24 Волга є наступником 21 моделі, що випускалася серійно в 1967-1985 роках. Роками основний службовий автомобіль і таксі в Східному блоці.",
+              "ru": "ГАЗ-24 «Волга» является преемником модели 21, выпускавшейся серийно в 1967-1985 годах. В течение многих лет основной служебный автомобиль и такси в Восточном блоке.",
+              "zh": "GAZ-24 Volga 是 21 车型的后继车型，于 1967-1985 年批量生产。多年来，东欧集团的基本公司汽车和出租车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "GAZ"
+              },
+              "okres produkcji": "1967–1985",
+              "silnik": {
+                "pl": "2.4L R4",
+                "en": "2.4L R4",
+                "de": "2.4L R4",
+                "uk": "2.4L R4",
+                "ru": "2,4 л Р4",
+                "zh": "2.4L R4"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "2705": [
+      {
+        "BrandID": 163,
+        "ModelID": "",
+        "Brand Name": "ГАЗ",
+        "Model Name": 2705,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger"
+        }
+      },
+      {
+        "BrandID": 163,
+        "ModelID": 415665,
+        "Brand Name": "ГАЗ",
+        "Model Name": 2705,
+        "Serie Name": 2705,
+        "Years": "1980 - 3000",
+        "specs": {
+          "vehicleType": "Van"
+        }
+      }
+    ],
+    "3110": [
+      {
+        "BrandID": 163,
+        "ModelID": "",
+        "Brand Name": "ГАЗ",
+        "Model Name": 3110,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "GAZ-3110 Wołga to zmodernizowana wersja modelu 31029, produkowana w latach 1997-2005. Oferowała nowsze silniki i poprawione wnętrze.",
+              "en": "GAZ-3110 Volga is a modernized version of the 31029 model, produced in 1997-2005. It offered newer engines and an improved interior.",
+              "de": "GAZ-3110 Wolga ist eine modernisierte Version des Modells 31029, hergestellt in den Jahren 1997–2005. Es bot neuere Motoren und einen verbesserten Innenraum.",
+              "uk": "ГАЗ-3110 Волга - модернізована версія моделі 31029, випускалася в 1997-2005 роках. Він пропонував новіші двигуни та покращений інтер’єр.",
+              "ru": "ГАЗ-3110 «Волга» — модернизированная версия модели 31029, выпускавшаяся в 1997-2005 годах. Он предлагал более новые двигатели и улучшенный интерьер.",
+              "zh": "GAZ-3110 Volga 是 31029 型号的现代化版本，生产于 1997-2005 年。它提供了更新的发动机和改进的内饰。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "GAZ"
+              },
+              "okres produkcji": "1997–2005",
+              "silnik": {
+                "pl": "2.3L R4 / 2.5L R4",
+                "en": "2.3L R4 / 2.5L R4",
+                "de": "2.3L R4 / 2.5L R4",
+                "uk": "2.3L R4 / 2.5L R4",
+                "ru": "2,3 л Р4 / 2,5 л Р4",
+                "zh": "2.3L R4 / 2.5L R4"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 163,
+        "ModelID": 414419,
+        "Brand Name": "ГАЗ",
+        "Model Name": 3110,
+        "Serie Name": 3110,
+        "Years": "1997 - 2008",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "GAZ-3110 Wołga to zmodernizowana wersja modelu 31029, produkowana w latach 1997-2005. Oferowała nowsze silniki i poprawione wnętrze.",
+              "en": "GAZ-3110 Volga is a modernized version of the 31029 model, produced in 1997-2005. It offered newer engines and an improved interior.",
+              "de": "GAZ-3110 Volga ist eine modernisierte Version des Modells 31029, hergestellt in den Jahren 1997–2005. Es bot neuere Motoren und einen verbesserten Innenraum.",
+              "uk": "ГАЗ-3110 Волга - модернізована версія моделі 31029, випускалася в 1997-2005 роках. Він пропонував новіші двигуни та покращений інтер’єр.",
+              "ru": "ГАЗ-3110 «Волга» — модернизированная версия модели 31029, выпускавшаяся в 1997-2005 годах. Он предлагал более новые двигатели и улучшенный интерьер.",
+              "zh": "GAZ-3110 Volga 是 31029 型号的现代化版本，于 1997-2005 年生产。它提供了更新的发动机和改进的内饰。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "GAZ"
+              },
+              "okres produkcji": "1997–2005",
+              "silnik": {
+                "pl": "2.3L R4 / 2.5L R4",
+                "en": "2.3L R4 / 2.5L R4",
+                "de": "2,3L R4 / 2,5L R4",
+                "uk": "2,3 л R4 / 2,5 л R4",
+                "ru": "2,3 л Р4 / 2,5 л Р4",
+                "zh": "2.3L R4 / 2.5L R4"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "3221": [
+      {
+        "BrandID": 163,
+        "ModelID": "",
+        "Brand Name": "ГАЗ",
+        "Model Name": 3221,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger"
+        }
+      },
+      {
+        "BrandID": 163,
+        "ModelID": 415250,
+        "Brand Name": "ГАЗ",
+        "Model Name": 3221,
+        "Serie Name": 3221,
+        "Years": "1996 - 2010",
+        "specs": {
+          "vehicleType": "Van"
+        }
+      }
+    ],
+    "3302": [
+      {
+        "BrandID": 163,
+        "ModelID": "",
+        "Brand Name": "ГАЗ",
+        "Model Name": 3302,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger"
+        }
+      },
+      {
+        "BrandID": 163,
+        "ModelID": 414420,
+        "Brand Name": "ГАЗ",
+        "Model Name": 3302,
+        "Serie Name": 3302,
+        "Years": "2000 - 2019",
+        "specs": {
+          "vehicleType": "Truck"
+        }
+      }
+    ],
+    "31029": [
+      {
+        "BrandID": 163,
+        "ModelID": "",
+        "Brand Name": "ГАЗ",
+        "Model Name": 31029,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger"
+        }
+      },
+      {
+        "BrandID": 163,
+        "ModelID": 415485,
+        "Brand Name": "ГАЗ",
+        "Model Name": 31029,
+        "Serie Name": 31029,
+        "Years": "1960 - 2000",
+        "specs": {
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "": [
+      {
+        "BrandID": 163,
+        "ModelID": "",
+        "Brand Name": "ГАЗ",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "Volga Siber": [
+      {
+        "BrandID": 163,
+        "ModelID": "",
+        "Brand Name": "ГАЗ",
+        "Model Name": "Volga Siber",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger"
+        }
+      },
+      {
+        "BrandID": 163,
+        "ModelID": 416365,
+        "Brand Name": "ГАЗ",
+        "Model Name": "Volga Siber",
+        "Serie Name": "Volga Siber",
+        "Years": "2008 - 2010",
+        "specs": {
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "Валдай": [
+      {
+        "BrandID": 163,
+        "ModelID": "",
+        "Brand Name": "ГАЗ",
+        "Model Name": "Валдай",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger"
+        }
+      },
+      {
+        "BrandID": 163,
+        "ModelID": 415497,
+        "Brand Name": "ГАЗ",
+        "Model Name": "Валдай",
+        "Serie Name": "Валдай",
+        "Years": "1960 - 2020",
+        "specs": {
+          "vehicleType": "Truck"
+        }
+      }
+    ],
+    "Газель": [
+      {
+        "BrandID": 163,
+        "ModelID": "",
+        "Brand Name": "ГАЗ",
+        "Model Name": "Газель",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger"
+        }
+      },
+      {
+        "BrandID": 163,
+        "ModelID": 415478,
+        "Brand Name": "ГАЗ",
+        "Model Name": "Газель",
+        "Serie Name": "Газель",
+        "Years": "1991 - 2010",
+        "specs": {
+          "vehicleType": "Van"
+        }
+      }
+    ],
+    "Газель next": [
+      {
+        "BrandID": 163,
+        "ModelID": "",
+        "Brand Name": "ГАЗ",
+        "Model Name": "Газель next",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger"
+        }
+      },
+      {
+        "BrandID": 163,
+        "ModelID": 1836,
+        "Brand Name": "ГАЗ",
+        "Model Name": "Газель next",
+        "Serie Name": "Газель next",
+        "Years": "1999 - 3000",
+        "specs": {
+          "vehicleType": "Van"
+        }
+      }
+    ],
+    "ГАЗЕЛЬ Бизнес": [
+      {
+        "BrandID": 163,
+        "ModelID": "",
+        "Brand Name": "ГАЗ",
+        "Model Name": "ГАЗЕЛЬ Бизнес",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "Газель Бизнес": [
+      {
+        "BrandID": 163,
+        "ModelID": 415495,
+        "Brand Name": "ГАЗ",
+        "Model Name": "ГАЗЕЛЬ Бизнес",
+        "Serie Name": "Газель Бизнес",
+        "Years": "1980 - 2020",
+        "specs": {
+          "vehicleType": "Van"
+        }
+      }
+    ],
+    "Соболь": [
+      {
+        "BrandID": 163,
+        "ModelID": "",
+        "Brand Name": "ГАЗ",
+        "Model Name": "Соболь",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "Газель Соболь": [
+      {
+        "BrandID": 163,
+        "ModelID": 1863,
+        "Brand Name": "ГАЗ",
+        "Model Name": "Соболь",
+        "Serie Name": "Газель Соболь",
+        "Years": "1999 - 3000",
+        "specs": {
+          "vehicleType": "Van"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,659 @@
+{
+  "brand": "Bentley",
+  "models": {
+    "Arnage": [
+      {
+        "BrandID": 15,
+        "ModelID": 413902,
+        "Brand Name": "Bentley",
+        "Model Name": "Arnage",
+        "Serie Name": "Arnage",
+        "Years": "1998 - 2009",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "4.4L V8 / 6.75L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Bentley Arnage (1998-2009) to luksusowa limuzyna, będąca bliźniaczym modelem Rolls-Royce Silver Seraph. Wyróżnia się arystokratycznym stylem i potężnym silnikiem V8 (wersja Red Label), który stał się wizytówką modelu.",
+              "en": "Bentley Arnage (1998-2009) is a luxury limousine, a twin of the Rolls-Royce Silver Seraph. It is distinguished by its aristocratic style and powerful V8 engine (Red Label version), which has become the model's showcase.",
+              "de": "Bentley Arnage (1998–2009) ist eine Luxuslimousine, ein Zwilling des Rolls-Royce Silver Seraph. Es zeichnet sich durch seinen aristokratischen Stil und den leistungsstarken V8-Motor (Red-Label-Version) aus, der zum Aushängeschild des Modells geworden ist.",
+              "uk": "Bentley Arnage (1998-2009) - розкішний лімузин, двійник Rolls-Royce Silver Seraph. Його вирізняє аристократичний стиль і потужний двигун V8 (версія Red Label), який став візитівкою моделі.",
+              "ru": "Bentley Arnage (1998-2009) — роскошный лимузин, близнец Rolls-Royce Silver Seraph. Его отличает аристократический стиль и мощный двигатель V8 (версия Red Label), ставший визитной карточкой модели.",
+              "zh": "Bentley Arnage（1998-2009）是一款豪华轿车，是劳斯莱斯 Silver Seraph 的双胞胎。它以其贵族风格和强大的V8发动机（红标版）而著称，成为该车型的展示品。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Bentley Motors",
+                "en": "Bentley Motors",
+                "de": "Bentley-Motoren",
+                "uk": "Bentley Motors",
+                "ru": "Бентли Моторс",
+                "zh": "宾利汽车"
+              },
+              "okres produkcji": {
+                "pl": "1998–2009",
+                "en": "1998–2009",
+                "de": "1998–2009",
+                "uk": "1998–2009",
+                "ru": "1998–2009"
+              },
+              "miejsce produkcji": {
+                "pl": "Crewe, Wielka Brytania",
+                "en": "Crewe, UK",
+                "de": "Crewe, Großbritannien",
+                "uk": "Крю, Великобританія",
+                "ru": "Крю, Великобритания",
+                "zh": "英国克鲁"
+              },
+              "klasa": {
+                "pl": "Samochód luksusowy",
+                "en": "Luxury car",
+                "de": "Luxusauto",
+                "uk": "Розкішний автомобіль",
+                "ru": "Роскошный автомобиль",
+                "zh": "豪华车"
+              },
+              "silnik": {
+                "pl": "4.4L V8 (BMW) / 6.75L V8 (Bentley)",
+                "en": "4.4L V8 (BMW) / 6.75L V8 (Bentley)",
+                "de": "4,4 l V8 (BMW) / 6,75 l V8 (Bentley)",
+                "uk": "4,4 л V8 (BMW) / 6,75 л V8 (Bentley)",
+                "ru": "4,4 л V8 (BMW) / 6,75 л V8 (Bentley)",
+                "zh": "4.4L V8（宝马）/6.75L V8（宾利）"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/er/w6/jr0yilko0kk4kw80gss4o/arnage.310.jpg"
+        }
+      }
+    ],
+    "Bentayga": [
+      {
+        "BrandID": 15,
+        "ModelID": 413900,
+        "Brand Name": "Bentley",
+        "Model Name": "BENTAYGA",
+        "Serie Name": "Bentayga",
+        "Years": "2015 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Luxury SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "4.0L V8 / 6.0L W12 / 3.0L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Bentley Bentayga (od 2015) to pierwszy SUV marki, łączący ekstremalny luksus z możliwościami terenowymi i osiągami supersamochodu. Dostępny z silnikami V8, W12 oraz hybrydą plug-in.",
+              "en": "The Bentley Bentayga (from 2015) is the brand's first SUV, combining extreme luxury with off-road capabilities and supercar performance. Available with V8, W12 engines and a plug-in hybrid.",
+              "de": "Der Bentley Bentayga (ab 2015) ist das erste SUV der Marke und kombiniert extremen Luxus mit Geländetauglichkeit und Supersportwagen-Leistung. Erhältlich mit V8-, W12-Motoren und einem Plug-in-Hybrid.",
+              "uk": "Bentley Bentayga (з 2015 року) — перший позашляховик марки, який поєднує в собі надзвичайну розкіш із позашляховими можливостями та характеристиками суперкара. Доступний з двигунами V8, W12 і гібридом, що підзаряджається.",
+              "ru": "Bentley Bentayga (с 2015 г.) — первый внедорожник бренда, сочетающий в себе чрезвычайную роскошь, внедорожные возможности и характеристики суперкара. Доступен с двигателями V8, W12 и подключаемым гибридом.",
+              "zh": "宾利添越（2015 年起）是该品牌的首款 SUV，将极致奢华与越野能力和超级跑车性能融为一体。提供 V8、W12 发动机和插电式混合动力车型。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Bentley Motors",
+                "en": "Bentley Motors",
+                "de": "Bentley-Motoren",
+                "uk": "Bentley Motors",
+                "ru": "Бентли Моторс",
+                "zh": "宾利汽车"
+              },
+              "okres produkcji": {
+                "pl": "od 2015",
+                "en": "since 2015",
+                "de": "seit 2015",
+                "uk": "з 2015 року",
+                "ru": "с 2015 года",
+                "zh": "自2015年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Crewe, Wielka Brytania",
+                "en": "Crewe, UK",
+                "de": "Crewe, Großbritannien",
+                "uk": "Крю, Великобританія",
+                "ru": "Крю, Великобритания",
+                "zh": "英国克鲁"
+              },
+              "segment": {
+                "pl": "F-SUV",
+                "en": "F-SUV",
+                "de": "F-SUV",
+                "uk": "F-SUV",
+                "ru": "Ф-внедорожник"
+              },
+              "platforma": {
+                "pl": "MLB Evo",
+                "en": "MLB Evo",
+                "de": "MLB Evo",
+                "uk": "MLB Evo",
+                "ru": "МЛБ Эво",
+                "zh": "美国职业棒球大联盟埃沃"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Continental": [
+      {
+        "BrandID": 15,
+        "ModelID": 414066,
+        "Brand Name": "Bentley",
+        "Model Name": "Continental",
+        "Serie Name": "Continental R/S/T",
+        "Years": "1991 - 2003",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "6.75L V8 Turbo",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Bentley Continental R/S/T (1991-2003) to potężne coupe, które przywróciło sportowego ducha marce. Pierwszy Bentley od lat z unikalnym nadwoziem nie dzielonym z Rolls-Roycem.",
+              "en": "Bentley Continental R/S/T (1991-2003) is a powerful coupe that restored the sporty spirit of the brand. The first Bentley in years with a unique body not shared with Rolls-Royce.",
+              "de": "Der Bentley Continental R/S/T (1991–2003) ist ein leistungsstarkes Coupé, das den sportlichen Geist der Marke wiederherstellte. Der erste Bentley seit Jahren mit einer einzigartigen Karosserie, die nicht mit Rolls-Royce geteilt wird.",
+              "uk": "Bentley Continental R/S/T (1991-2003) - потужне купе, яке відновило спортивний дух марки. Перший за багато років Bentley з унікальним кузовом, який не ділився з Rolls-Royce.",
+              "ru": "Bentley Continental R/S/T (1991-2003) – мощное купе, возродившее спортивный дух марки. Первый за последние годы Bentley с уникальным кузовом, которого не было у Rolls-Royce.",
+              "zh": "宾利欧陆 R/S/T（1991-2003）是一款功能强大的轿跑车，恢复了该品牌的运动精神。宾利多年来第一款拥有与劳斯莱斯不同的独特车身。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Bentley Motors",
+                "en": "Bentley Motors",
+                "de": "Bentley-Motoren",
+                "uk": "Bentley Motors",
+                "ru": "Бентли Моторс",
+                "zh": "宾利汽车"
+              },
+              "okres produkcji": {
+                "pl": "1991–2003",
+                "en": "1991–2003",
+                "de": "1991–2003",
+                "uk": "1991–2003",
+                "ru": "1991–2003"
+              },
+              "miejsce produkcji": {
+                "pl": "Crewe, Wielka Brytania",
+                "en": "Crewe, UK",
+                "de": "Crewe, Großbritannien",
+                "uk": "Крю, Великобританія",
+                "ru": "Крю, Великобритания",
+                "zh": "英国克鲁"
+              },
+              "projektant": {
+                "pl": "John Heffernan / Ken Greenley",
+                "en": "John Heffernan/Ken Greenley",
+                "de": "John Heffernan/Ken Greenley",
+                "uk": "Джон Хеффернан/Кен Грінлі",
+                "ru": "Джон Хеффернан/Кен Гринли",
+                "zh": "约翰·赫夫南 / 肯·格林利"
+              },
+              "silnik": {
+                "pl": "6.75L V8 Turbo",
+                "en": "6.75L V8 Turbo",
+                "de": "6,75 l V8-Turbo",
+                "uk": "6,75 л V8 Turbo",
+                "ru": "6,75 л V8 турбо",
+                "zh": "6.75升V8涡轮增压发动机"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/1973_Bentley_Corniche_%2821720902389%29.jpg/1280px-1973_Bentley_Corniche_%2821720902389%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/1973_Bentley_Corniche_%2821720902389%29.jpg/1280px-1973_Bentley_Corniche_%2821720902389%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/1987_Bentley_Continental_convertible_in_black%2C_front_left.jpg/1280px-1987_Bentley_Continental_convertible_in_black%2C_front_left.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/1988_Bentley_Continental_in_green.jpg/1280px-1988_Bentley_Continental_in_green.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/d3/6q/4zk4tfk0080kws4wo08k4/continental-gt-coupe.310.jpg"
+        }
+      },
+      {
+        "BrandID": 15,
+        "ModelID": 414042,
+        "Brand Name": "Bentley",
+        "Model Name": "Continental",
+        "Serie Name": "Continental GT (1st Gen)",
+        "Years": "2003 - 2011",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Luxury",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "6.0L W12",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Bentley Continental GT I (2003-2011) to rewolucyjne coupe, które zapoczątkowało nową erę pod skrzydłami VW. Napędzany silnikiem W12 twin-turbo, łączy osiągi z luksusem.",
+              "en": "Bentley Continental GT I (2003-2011) is a revolutionary coupe that initiated a new era under the wings of VW. Powered by a W12 twin-turbo engine, it combines performance with luxury.",
+              "de": "Der Bentley Continental GT I (2003–2011) ist ein revolutionäres Coupé, das unter den Fittichen von VW eine neue Ära einleitete. Angetrieben von einem W12-Twin-Turbo-Motor kombiniert er Leistung mit Luxus.",
+              "uk": "Bentley Continental GT I (2003-2011) – революційне купе, яке започаткувало нову еру під крилами VW. Оснащений двигуном W12 з подвійним турбонаддувом, він поєднує продуктивність і розкіш.",
+              "ru": "Bentley Continental GT I (2003-2011) — революционное купе, положившее начало новой эре под крылом VW. Оснащенный двигателем W12 с двойным турбонаддувом, он сочетает в себе производительность и роскошь.",
+              "zh": "宾利欧陆 GT I（2003-2011）是一款革命性的轿跑车，在大众汽车的羽翼下开创了一个新时代。它由 W12 双涡轮发动机提供动力，将性能与豪华融为一体。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Bentley Motors",
+                "en": "Bentley Motors",
+                "de": "Bentley-Motoren",
+                "uk": "Bentley Motors",
+                "ru": "Бентли Моторс",
+                "zh": "宾利汽车"
+              },
+              "okres produkcji": {
+                "pl": "2003–2011",
+                "en": "2003–2011",
+                "de": "2003–2011",
+                "uk": "2003–2011",
+                "ru": "2003–2011"
+              },
+              "miejsce produkcji": {
+                "pl": "Crewe, Wielka Brytania",
+                "en": "Crewe, UK",
+                "de": "Crewe, Großbritannien",
+                "uk": "Крю, Великобританія",
+                "ru": "Крю, Великобритания",
+                "zh": "英国克鲁"
+              },
+              "projektant": {
+                "pl": "Dirk van Braeckel",
+                "en": "Dirk van Braeckel",
+                "de": "Dirk van Braeckel",
+                "uk": "Дірк ван Бракель",
+                "ru": "Дирк ван Брекель",
+                "zh": "德克·范·布雷克尔"
+              },
+              "platforma": {
+                "pl": "Volkswagen D1",
+                "en": "Volkswagen D1",
+                "de": "Volkswagen D1",
+                "uk": "Volkswagen D1",
+                "ru": "Фольксваген Д1",
+                "zh": "大众D1"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/1973_Bentley_Corniche_%2821720902389%29.jpg/1280px-1973_Bentley_Corniche_%2821720902389%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/1973_Bentley_Corniche_%2821720902389%29.jpg/1280px-1973_Bentley_Corniche_%2821720902389%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/1987_Bentley_Continental_convertible_in_black%2C_front_left.jpg/1280px-1987_Bentley_Continental_convertible_in_black%2C_front_left.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/1988_Bentley_Continental_in_green.jpg/1280px-1988_Bentley_Continental_in_green.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/d3/6q/4zk4tfk0080kws4wo08k4/continental-gt-coupe.310.jpg"
+        }
+      },
+      {
+        "BrandID": 15,
+        "ModelID": 413872,
+        "Brand Name": "Bentley",
+        "Model Name": "Continental",
+        "Serie Name": "Continental GT (2nd Gen)",
+        "Years": "2011 - 2018",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Luxury",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "4.0L V8 / 6.0L W12",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Bentley Continental GT II (2011-2018) to ewolucja bestsellera. Lżejszy, mocniejszy i bardziej oszczędny, z opcjonalnym silnikiem V8 od Audi.",
+              "en": "The Bentley Continental GT II (2011-2018) is the evolution of the bestseller. Lighter, more powerful and more fuel-efficient, with an optional V8 engine from Audi.",
+              "de": "Der Bentley Continental GT II (2011–2018) ist die Weiterentwicklung des Bestsellers. Leichter, leistungsstärker und sparsamer, optional mit V8-Motor von Audi.",
+              "uk": "Bentley Continental GT II (2011-2018) - це еволюція бестселера. Легший, потужніший і економніший з додатковим двигуном V8 від Audi.",
+              "ru": "Bentley Continental GT II (2011-2018) — эволюция бестселлера. Легче, мощнее и экономичнее, с опциональным двигателем V8 от Audi.",
+              "zh": "宾利欧陆 GT II（2011-2018 年）是畅销车型的进化版。可选配奥迪 V8 发动机，更轻、更强大、更省油。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Bentley Motors",
+                "en": "Bentley Motors",
+                "de": "Bentley-Motoren",
+                "uk": "Bentley Motors",
+                "ru": "Бентли Моторс",
+                "zh": "宾利汽车"
+              },
+              "okres produkcji": {
+                "pl": "2011–2018",
+                "en": "2011–2018",
+                "de": "2011–2018",
+                "uk": "2011–2018",
+                "ru": "2011–2018"
+              },
+              "miejsce produkcji": {
+                "pl": "Crewe, Wielka Brytania",
+                "en": "Crewe, UK",
+                "de": "Crewe, Großbritannien",
+                "uk": "Крю, Великобританія",
+                "ru": "Крю, Великобритания",
+                "zh": "英国克鲁"
+              },
+              "projektant": {
+                "pl": "Dirk van Braeckel",
+                "en": "Dirk van Braeckel",
+                "de": "Dirk van Braeckel",
+                "uk": "Дірк ван Бракель",
+                "ru": "Дирк ван Брекель",
+                "zh": "德克·范·布雷克尔"
+              },
+              "platforma": {
+                "pl": "Volkswagen D1 (zmodernizowana)",
+                "en": "Volkswagen D1 (modernized)",
+                "de": "Volkswagen D1 (modernisiert)",
+                "uk": "Volkswagen D1 (модернізований)",
+                "ru": "Фольксваген Д1 (модернизированный)",
+                "zh": "大众 D1（现代化）"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/1973_Bentley_Corniche_%2821720902389%29.jpg/1280px-1973_Bentley_Corniche_%2821720902389%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/1973_Bentley_Corniche_%2821720902389%29.jpg/1280px-1973_Bentley_Corniche_%2821720902389%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/1987_Bentley_Continental_convertible_in_black%2C_front_left.jpg/1280px-1987_Bentley_Continental_convertible_in_black%2C_front_left.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/1988_Bentley_Continental_in_green.jpg/1280px-1988_Bentley_Continental_in_green.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/d3/6q/4zk4tfk0080kws4wo08k4/continental-gt-coupe.310.jpg"
+        }
+      },
+      {
+        "BrandID": 15,
+        "ModelID": 413873,
+        "Brand Name": "Bentley",
+        "Model Name": "Continental",
+        "Serie Name": "Continental GT (3rd Gen)",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Luxury",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "4.0L V8 / 6.0L W12",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Bentley Continental GT III (od 2018) to technologiczny majstersztyk oparty na platformie Porsche Panamera. Uznawany za najlepsze Gran Turismo na świecie.",
+              "en": "The Bentley Continental GT III (from 2018) is a technological masterpiece based on the Porsche Panamera platform. Considered the best Gran Turismo in the world.",
+              "de": "Der Bentley Continental GT III (ab 2018) ist ein technologisches Meisterwerk auf Basis der Porsche Panamera-Plattform. Gilt als das beste Gran Turismo der Welt.",
+              "uk": "Bentley Continental GT III (випуск 2018 року) — технологічний шедевр на платформі Porsche Panamera. Вважається найкращим Gran Turismo у світі.",
+              "ru": "Bentley Continental GT III (с 2018 года) — технологический шедевр, созданный на платформе Porsche Panamera. Считается лучшим Gran Turismo в мире.",
+              "zh": "宾利欧陆 GT III（2018 年起）是基于保时捷 Panamera 平台的技术杰作。被认为是世界上最好的 Gran Turismo。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Bentley Motors",
+                "en": "Bentley Motors",
+                "de": "Bentley-Motoren",
+                "uk": "Bentley Motors",
+                "ru": "Бентли Моторс",
+                "zh": "宾利汽车"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "since 2018",
+                "de": "seit 2018",
+                "uk": "з 2018 року",
+                "ru": "с 2018 года",
+                "zh": "2018年以来"
+              },
+              "miejsce produkcji": {
+                "pl": "Crewe, Wielka Brytania",
+                "en": "Crewe, UK",
+                "de": "Crewe, Großbritannien",
+                "uk": "Крю, Великобританія",
+                "ru": "Крю, Великобритания",
+                "zh": "英国克鲁"
+              },
+              "projektant": {
+                "pl": "Stefan Sielaff",
+                "en": "Stefan Sielaff",
+                "de": "Stefan Sielaff",
+                "uk": "Стефан Сілафф",
+                "ru": "Стефан Силафф",
+                "zh": "斯特凡·西拉夫"
+              },
+              "platforma": {
+                "pl": "MSB Platform",
+                "en": "MSB Platform",
+                "de": "MSB-Plattform",
+                "uk": "Платформа MSB",
+                "ru": "Платформа MSB",
+                "zh": "移动宽带平台"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/1973_Bentley_Corniche_%2821720902389%29.jpg/1280px-1973_Bentley_Corniche_%2821720902389%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/1973_Bentley_Corniche_%2821720902389%29.jpg/1280px-1973_Bentley_Corniche_%2821720902389%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/1987_Bentley_Continental_convertible_in_black%2C_front_left.jpg/1280px-1987_Bentley_Continental_convertible_in_black%2C_front_left.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/1988_Bentley_Continental_in_green.jpg/1280px-1988_Bentley_Continental_in_green.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/d3/6q/4zk4tfk0080kws4wo08k4/continental-gt-coupe.310.jpg"
+        }
+      }
+    ],
+    "Flying Spur": [
+      {
+        "BrandID": 15,
+        "ModelID": 413901,
+        "Brand Name": "Bentley",
+        "Model Name": "FLYING SPUR",
+        "Serie Name": "Flying Spur (2nd Gen)",
+        "Years": "2013 - 2019",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Luxury",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "4.0L V8 / 6.0L W12",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Bentley Flying Spur (2013-2019) to 4-drzwiowa wersja Continentala GT. Oferuje komfort limuzyny z osiągami auta sportowego, osiągając prędkość ponad 320 km/h.",
+              "en": "Bentley Flying Spur (2013-2019) is a 4-door version of the Continental GT. It offers the comfort of a limousine with the performance of a sports car, reaching speeds of over 320 km/h.",
+              "de": "Bentley Flying Spur (2013–2019) ist eine viertürige Version des Continental GT. Er bietet den Komfort einer Limousine mit der Leistung eines Sportwagens und erreicht Geschwindigkeiten von über 320 km/h.",
+              "uk": "Bentley Flying Spur (2013-2019) — 4-дверна версія Continental GT. Він пропонує комфорт лімузина з характеристиками спортивного автомобіля, який розвиває швидкість понад 320 км/год.",
+              "ru": "Bentley Flying Spur (2013-2019) — 4-дверная версия Continental GT. Он сочетает в себе комфорт лимузина с характеристиками спортивного автомобиля и развивает скорость более 320 км/ч.",
+              "zh": "宾利飞驰（2013-2019）是欧陆 GT 的 4 门版本。它提供豪华轿车的舒适性和跑车的性能，速度可达 320 公里/小时以上。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Bentley Motors",
+                "en": "Bentley Motors",
+                "de": "Bentley-Motoren",
+                "uk": "Bentley Motors",
+                "ru": "Бентли Моторс",
+                "zh": "宾利汽车"
+              },
+              "okres produkcji": {
+                "pl": "2013–2019",
+                "en": "2013–2019",
+                "de": "2013–2019",
+                "uk": "2013–2019",
+                "ru": "2013–2019"
+              },
+              "miejsce produkcji": {
+                "pl": "Crewe, Wielka Brytania",
+                "en": "Crewe, UK",
+                "de": "Crewe, Großbritannien",
+                "uk": "Крю, Великобританія",
+                "ru": "Крю, Великобритания",
+                "zh": "英国克鲁"
+              },
+              "projektant": {
+                "pl": "Dirk van Braeckel",
+                "en": "Dirk van Braeckel",
+                "de": "Dirk van Braeckel",
+                "uk": "Дірк ван Бракель",
+                "ru": "Дирк ван Брекель",
+                "zh": "德克·范·布雷克尔"
+              },
+              "platforma": {
+                "pl": "Volkswagen D1",
+                "en": "Volkswagen D1",
+                "de": "Volkswagen D1",
+                "uk": "Volkswagen D1",
+                "ru": "Фольксваген Д1",
+                "zh": "大众D1"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 15,
+        "ModelID": 416620,
+        "Brand Name": "Bentley",
+        "Model Name": "FLYING SPUR",
+        "Serie Name": "Flying Spur (3rd Gen)",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Luxury",
+          "drive": "AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "4.0L V8 / 6.0L W12 / 2.9L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Bentley Flying Spur III (od 2019) to luksusowa limuzyna o sportowym zacięciu. Wyróżnia się trójwymiarową atrapą chłodnicy i chowanym emblematem 'Flying B'.",
+              "en": "Bentley Flying Spur III (from 2019) is a luxurious limousine with a sporty flair. It is distinguished by a three-dimensional radiator grille and a retractable 'Flying B' emblem.",
+              "de": "Der Bentley Flying Spur III (ab 2019) ist eine luxuriöse Limousine mit sportlichem Flair. Es zeichnet sich durch einen dreidimensionalen Kühlergrill und ein versenkbares „Flying B“-Emblem aus.",
+              "uk": "Bentley Flying Spur III (з 2019 року) – це розкішний лімузин зі спортивною ноткою. Він вирізняється тривимірною решіткою радіатора та висувною емблемою «Flying B».",
+              "ru": "Bentley Flying Spur III (с 2019 г.) — роскошный лимузин со спортивным уклоном. Его отличают объемная решетка радиатора и выдвижная эмблема Flying B.",
+              "zh": "宾利飞驰 III（2019 年起）是一款具有运动风格的豪华轿车。它的特点是三维散热器格栅和可伸缩的“Flying B”标志。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Bentley Motors",
+                "en": "Bentley Motors",
+                "de": "Bentley-Motoren",
+                "uk": "Bentley Motors",
+                "ru": "Бентли Моторс",
+                "zh": "宾利汽车"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019 року",
+                "ru": "с 2019 года",
+                "zh": "2019年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Crewe, Wielka Brytania",
+                "en": "Crewe, UK",
+                "de": "Crewe, Großbritannien",
+                "uk": "Крю, Великобританія",
+                "ru": "Крю, Великобритания",
+                "zh": "英国克鲁"
+              },
+              "projektant": {
+                "pl": "Stefan Sielaff",
+                "en": "Stefan Sielaff",
+                "de": "Stefan Sielaff",
+                "uk": "Стефан Сілафф",
+                "ru": "Стефан Силафф",
+                "zh": "斯特凡·西拉夫"
+              },
+              "platforma": {
+                "pl": "MSB Platform",
+                "en": "MSB Platform",
+                "de": "MSB-Plattform",
+                "uk": "Платформа MSB",
+                "ru": "Платформа MSB",
+                "zh": "移动宽带平台"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Mulsanne": [
+      {
+        "BrandID": 15,
+        "ModelID": 415230,
+        "Brand Name": "Bentley",
+        "Model Name": "Mulsanne",
+        "Serie Name": "Mulsanne",
+        "Years": "2010 - 2020",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "6.75L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Bentley Mulsanne (2010-2020) to flagowa limuzyna marki, ręcznie budowana w Crewe. Napędzana legendarnym silnikiem 6.75L V8, będącym symbolem tradycji Bentleya.",
+              "en": "The Bentley Mulsanne (2010-2020) is the brand's flagship limousine, hand-built in Crewe. Powered by the legendary 6.75L V8 engine, a symbol of Bentley tradition.",
+              "de": "Der Bentley Mulsanne (2010–2020) ist die Flaggschiff-Limousine der Marke, handgefertigt in Crewe. Angetrieben vom legendären 6,75-Liter-V8-Motor, einem Symbol der Bentley-Tradition.",
+              "uk": "Bentley Mulsanne (2010-2020) — флагманський лімузин марки, виготовлений вручну в Крю. Працює на легендарному двигуні V8 об’ємом 6,75 л, який є символом традицій Bentley.",
+              "ru": "Bentley Mulsanne (2010–2020 гг.) — флагманский лимузин бренда, собранный вручную в Крю. Оснащен легендарным двигателем V8 объемом 6,75 л, символом традиций Bentley.",
+              "zh": "宾利 Mulsanne（2010-2020 年）是该品牌的旗舰豪华轿车，在克鲁手工制造。搭载传奇的 6.75L V8 发动机，这是宾利传统的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Bentley Motors",
+                "en": "Bentley Motors",
+                "de": "Bentley-Motoren",
+                "uk": "Bentley Motors",
+                "ru": "Бентли Моторс",
+                "zh": "宾利汽车"
+              },
+              "okres produkcji": {
+                "pl": "2010–2020",
+                "en": "2010–2020",
+                "de": "2010–2020",
+                "uk": "2010–2020",
+                "ru": "2010–2020"
+              },
+              "miejsce produkcji": {
+                "pl": "Crewe, Wielka Brytania",
+                "en": "Crewe, UK",
+                "de": "Crewe, Großbritannien",
+                "uk": "Крю, Великобританія",
+                "ru": "Крю, Великобритания",
+                "zh": "英国克鲁"
+              },
+              "projektant": {
+                "pl": "Dirk van Braeckel",
+                "en": "Dirk van Braeckel",
+                "de": "Dirk van Braeckel",
+                "uk": "Дірк ван Бракель",
+                "ru": "Дирк ван Брекель",
+                "zh": "德克·范·布雷克尔"
+              },
+              "silnik": {
+                "pl": "6.75L V8 Twin-Turbo",
+                "en": "6.75L V8 Twin-Turbo",
+                "de": "6,75 l V8-Twin-Turbo",
+                "uk": "6,75 л V8 з подвійним турбонаддувом",
+                "ru": "6,75-литровый двигатель V8 с двойным турбонаддувом",
+                "zh": "6.75L V8 双涡轮增压"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3f/9l/tk4ym6ios0g8s8cs84s0w/mulsanne.310.jpg"
+        }
+      }
+    ]
+  }
+}

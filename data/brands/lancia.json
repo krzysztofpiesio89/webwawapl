@@ -1,0 +1,577 @@
+{
+  "brand": "Lancia",
+  "models": {
+    "Ypsilon": [
+      {
+        "BrandID": 78,
+        "ModelID": 413258,
+        "Brand Name": "Lancia",
+        "Model Name": "Ypsilon",
+        "Serie Name": "Ypsilon Gen 1",
+        "Years": "1995 - 2003",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.1L - 1.4L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Lancia_Y_1.2_Fire_rear.JPG/1280px-Lancia_Y_1.2_Fire_rear.JPG",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Lancia_Y_1.2_Fire_rear.JPG/1280px-Lancia_Y_1.2_Fire_rear.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/%22_08_-_the_Netherlands_-_Lancia_Ypsilon_%2203_-_white_hatchback.jpeg/1280px-%22_08_-_the_Netherlands_-_Lancia_Ypsilon_%2203_-_white_hatchback.jpeg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Lancia_Ypsilon_Facelift_front.JPG/1280px-Lancia_Ypsilon_Facelift_front.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Lancia_Ypsilon_Facelift_rear.JPG/1280px-Lancia_Ypsilon_Facelift_rear.JPG"
+            ],
+            "description": {
+              "pl": "Lancia to włoska marka o wielkich tradycjach, pionier wielu rozwiązań technicznych. Królowa rajdów z modelem Delta Integrale.",
+              "en": "Lancia is an Italian brand with great traditions, a pioneer of many technical solutions. Rally queen with the Delta Integrale model.",
+              "de": "Lancia ist eine italienische Marke mit großer Tradition und Pionier vieler technischer Lösungen. Rallye-Königin mit dem Modell Delta Integrale.",
+              "uk": "Lancia – італійський бренд з великими традиціями, піонер багатьох технічних рішень. Королева ралі з моделлю Delta Integrale.",
+              "ru": "Lancia – итальянский бренд с большими традициями, пионер многих технических решений. Королева ралли с моделью Delta Integrale.",
+              "zh": "蓝旗亚是一个具有悠久传统的意大利品牌，是许多技术解决方案的先驱。 Delta Integrale 车型的拉力女王。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lancia"
+              },
+              "siedziba": {
+                "pl": "Turyn, Włochy",
+                "en": "Turin, Italy",
+                "de": "Turin, Italien",
+                "uk": "Турин, Італія",
+                "ru": "Турин, Италия",
+                "zh": "意大利都灵"
+              },
+              "założona": "1906"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9y/sq/zto4e4w8sokg4408o0g4k/lancia-ypsilon-iv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 78,
+        "ModelID": 413259,
+        "Brand Name": "Lancia",
+        "Model Name": "Ypsilon",
+        "Serie Name": "Ypsilon Gen 2",
+        "Years": "2003 - 2011",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L - 1.4L / 1.3L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lancia to włoska marka o wielkich tradycjach, pionier wielu rozwiązań technicznych. Królowa rajdów z modelem Delta Integrale.",
+              "en": "Lancia is an Italian brand with great traditions, a pioneer of many technical solutions. Rally queen with the Delta Integrale model.",
+              "de": "Lancia ist eine italienische Marke mit großen Traditionen, ein Pionier vieler technischer Lösungen. Rallye-Königin mit dem Modell Delta Integrale.",
+              "uk": "Lancia — італійський бренд із великими традиціями, піонер багатьох технічних рішень. Королева ралі з моделлю Delta Integrale.",
+              "ru": "Lancia — итальянская марка с великими традициями, пионер многих технических решений. Королева ралли с моделью Delta Integrale.",
+              "zh": "蓝旗亚是一个具有悠久传统的意大利品牌，是许多技术解决方案的先驱。 Delta Integrale 车型的拉力女王。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lancia"
+              },
+              "siedziba": {
+                "pl": "Turyn, Włochy",
+                "en": "Turin, Italy",
+                "de": "Turin, Italien",
+                "uk": "Турин, Італія",
+                "ru": "Турин, Италия",
+                "zh": "意大利都灵"
+              },
+              "założona": "1906"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9y/sq/zto4e4w8sokg4408o0g4k/lancia-ypsilon-iv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 78,
+        "ModelID": 413260,
+        "Brand Name": "Lancia",
+        "Model Name": "Ypsilon",
+        "Serie Name": "Ypsilon Gen 3",
+        "Years": "2011 - 2024",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "0.9L Turbo / 1.2L / 1.3L Diesel / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lancia to włoska marka o wielkich tradycjach, pionier wielu rozwiązań technicznych. Królowa rajdów z modelem Delta Integrale.",
+              "en": "Lancia is an Italian brand with great traditions, a pioneer of many technical solutions. Rally queen with the Delta Integrale model.",
+              "de": "Lancia ist eine italienische Marke mit großen Traditionen, ein Pionier vieler technischer Lösungen. Rallye-Königin mit dem Modell Delta Integrale.",
+              "uk": "Lancia — італійський бренд із великими традиціями, піонер багатьох технічних рішень. Королева ралі з моделлю Delta Integrale.",
+              "ru": "Lancia — итальянская марка с великими традициями, пионер многих технических решений. Королева ралли с моделью Delta Integrale.",
+              "zh": "蓝旗亚是一个具有悠久传统的意大利品牌，是许多技术解决方案的先驱。 Delta Integrale 车型的拉力女王。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lancia"
+              },
+              "siedziba": {
+                "pl": "Turyn, Włochy",
+                "en": "Turin, Italy",
+                "de": "Turin, Italien",
+                "uk": "Турин, Італія",
+                "ru": "Турин, Италия",
+                "zh": "意大利都灵"
+              },
+              "założona": "1906"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9y/sq/zto4e4w8sokg4408o0g4k/lancia-ypsilon-iv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 78,
+        "ModelID": 416619,
+        "Brand Name": "Lancia",
+        "Model Name": "Ypsilon",
+        "Serie Name": "Ypsilon Gen 4",
+        "Years": "2024 - 3000",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Subcompact",
+          "drive": "FWD",
+          "fuel": "Hybrid/Electric",
+          "engine": "1.2L Hybrid / Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lancia Ypsilon to małe, ale niezwykle eleganckie auto miejskie, które przez lata było synonimem włoskiego stylu i klasy w segmencie B. Nowa generacja otwiera erę elektryfikacji marki.",
+              "en": "Lancia Ypsilon is a small but extremely elegant city car that for years has been synonymous with Italian style and class in the B segment. The new generation opens the era of electrification of the brand.",
+              "de": "Lancia Ypsilon ist ein kleines, aber äußerst elegantes Stadtauto, das seit Jahren als Synonym für italienischen Stil und Klasse im B-Segment gilt. Die neue Generation eröffnet die Ära der Elektrifizierung der Marke.",
+              "uk": "Lancia Ypsilon — це невеликий, але надзвичайно елегантний міський автомобіль, який протягом багатьох років був синонімом італійського стилю та класу в сегменті B. Нове покоління відкриває еру електрифікації бренду.",
+              "ru": "Lancia Ypsilon — небольшой, но чрезвычайно элегантный городской автомобиль, который на протяжении многих лет является синонимом итальянского стиля и класса в сегменте B. Новое поколение открывает эпоху электрификации бренда.",
+              "zh": "Lancia Ypsilon 是一款小型但极其优雅的城市汽车，多年来一直是 B 级意大利风格和级别的代名词。新一代开启了品牌的电动化时代。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lancia (Stellantis)",
+                "en": "Lancia (Stellantis)",
+                "de": "Lancia (Stellantis)",
+                "uk": "Lancia (Stellantis)",
+                "ru": "Lancia (Stellantis)",
+                "zh": "蓝旗亚（Stellantis）"
+              },
+              "okres produkcji": {
+                "pl": "od 1995",
+                "en": "from 1995",
+                "de": "von 1995",
+                "uk": "з 1995 року",
+                "ru": "1995 года.",
+                "zh": "自1995年以来"
+              },
+              "segment": {
+                "pl": "B-segment"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9y/sq/zto4e4w8sokg4408o0g4k/lancia-ypsilon-iv.310.jpg"
+        }
+      }
+    ],
+    "Delta": [
+      {
+        "BrandID": 78,
+        "ModelID": 416620,
+        "Brand Name": "Lancia",
+        "Model Name": "Delta",
+        "Serie Name": "Delta Gen 1",
+        "Years": "1979 - 1994",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Compact Car",
+          "drive": "FWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.3L - 2.0L Turbo",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lancia Delta to model, który w wersji Integrale zdominował rajdy WRC pod koniec lat 80. Ikona hot-hatchy.",
+              "en": "Lancia Delta is a model that, in the Integrale version, dominated WRC rallies in the late 1980s. An icon of hot-hatches.",
+              "de": "Lancia Delta ist ein Modell, das in der Integrale-Version Ende der 1980er Jahre die WRC-Rallyes dominierte. Eine Ikone der Hot-Hatches.",
+              "uk": "Lancia Delta — це модель, яка у версії Integrale домінувала на ралі WRC наприкінці 1980-х років. Значок гарячих люків.",
+              "ru": "Lancia Delta — модель, которая в версии Integrale доминировала на ралли WRC в конце 1980-х годов. Иконка хот-хэтчей.",
+              "zh": "Lancia Delta 是一款在 20 世纪 80 年代末以 Integrale 版本主导 WRC 拉力赛的车型。热舱口的图标。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lancia"
+              },
+              "okres produkcji": {
+                "pl": "1979–1999 (I gen)",
+                "en": "1979–1999 (1st generation)",
+                "de": "1979–1999 (1. Generation)",
+                "uk": "1979–1999 (1-е покоління)",
+                "ru": "1979–1999 (1-е поколение)",
+                "zh": "1979–1999（第一代）"
+              },
+              "segment": {
+                "pl": "C"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/be/04/3q2pbxw8888ckw8ow48wk/lancia-delta-iii-hat.310.jpg"
+        }
+      },
+      {
+        "BrandID": 78,
+        "ModelID": 413256,
+        "Brand Name": "Lancia",
+        "Model Name": "Delta",
+        "Serie Name": "Delta Gen 2",
+        "Years": "1993 - 1999",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Compact Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.0L Turbo / 1.9L Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lancia Delta to model, który w wersji Integrale zdominował rajdy WRC pod koniec lat 80. Ikona hot-hatchy.",
+              "en": "Lancia Delta is a model that, in the Integrale version, dominated WRC rallies in the late 1980s. An icon of hot-hatches.",
+              "de": "Lancia Delta ist ein Modell, das in der Integrale-Version Ende der 1980er Jahre die WRC-Rallyes dominierte. Eine Ikone der Hot-Hatches.",
+              "uk": "Lancia Delta — це модель, яка у версії Integrale домінувала на ралі WRC наприкінці 1980-х років. Значок гарячих люків.",
+              "ru": "Lancia Delta — модель, которая в версии Integrale доминировала на ралли WRC в конце 1980-х годов. Иконка хот-хэтчей.",
+              "zh": "Lancia Delta 是一款在 20 世纪 80 年代末以 Integrale 版本主导 WRC 拉力赛的车型。热舱口的图标。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lancia"
+              },
+              "okres produkcji": {
+                "pl": "1979–1999 (I gen)",
+                "en": "1979–1999 (1st generation)",
+                "de": "1979–1999 (1. Generation)",
+                "uk": "1979–1999 (1-е покоління)",
+                "ru": "1979–1999 (1-е поколение)",
+                "zh": "1979–1999（第一代）"
+              },
+              "segment": {
+                "pl": "C"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/be/04/3q2pbxw8888ckw8ow48wk/lancia-delta-iii-hat.310.jpg"
+        }
+      },
+      {
+        "BrandID": 78,
+        "ModelID": 413257,
+        "Brand Name": "Lancia",
+        "Model Name": "Delta",
+        "Serie Name": "Delta Gen 3",
+        "Years": "2008 - 2014",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Compact Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L Turbo / 1.8L Turbo / 1.6L - 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lancia Delta to samochód, którego historia dzieli się na rajdową legendę (I generacja) oraz luksusowy charakter premium nowszych wersji. Zawsze wyróżniała się na tle konkurencji formą i detalami.",
+              "en": "Lancia Delta is a car whose history is divided into a rally legend (1st generation) and the luxurious, premium character of newer versions. It has always stood out from the competition with its form and details.",
+              "de": "Lancia Delta ist ein Auto, dessen Geschichte in eine Rallye-Legende (1. Generation) und den luxuriösen Premium-Charakter neuerer Versionen unterteilt ist. Es hat sich schon immer durch seine Form und Details von der Konkurrenz abgehoben.",
+              "uk": "Lancia Delta — це автомобіль, історія якого ділиться на легенду ралі (1-е покоління) і розкішний, преміальний характер нових версій. Він завжди виділявся на тлі конкурентів своєю формою та деталями.",
+              "ru": "Lancia Delta — автомобиль, история которого разделена на раллийную легенду (1-е поколение) и роскошный, премиальный характер более новых версий. Он всегда выделялся на фоне конкурентов своей формой и деталями.",
+              "zh": "Lancia Delta 是一款汽车，其历史分为拉力传奇（第一代）和新版本的豪华高级特征。它始终以其形式和细节在竞争中脱颖而出。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lancia"
+              },
+              "okres produkcji": {
+                "pl": "1979–1999 / 2008–2014",
+                "en": "1979–1999 / 2008–2014",
+                "de": "1979–1999 / 2008–2014",
+                "uk": "1979–1999 / 2008–2014",
+                "ru": "1979–1999 / 2008–2014 гг.",
+                "zh": "1979–1999 / 2008–2014"
+              },
+              "segment": {
+                "pl": "C (Compact)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (Compact)",
+                "ru": "C (Compact)",
+                "zh": "C（紧凑型）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/be/04/3q2pbxw8888ckw8ow48wk/lancia-delta-iii-hat.310.jpg"
+        }
+      }
+    ],
+    "Thema": [
+      {
+        "BrandID": 78,
+        "ModelID": 828,
+        "Brand Name": "Lancia",
+        "Model Name": "Thema",
+        "Serie Name": "Thema Gen 1",
+        "Years": "1984 - 1994",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Executive Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 3.0L V6 / 2.5L Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lancia to włoska marka o wielkich tradycjach, pionier wielu rozwiązań technicznych. Królowa rajdów z modelem Delta Integrale.",
+              "en": "Lancia is an Italian brand with great traditions, a pioneer of many technical solutions. Rally queen with the Delta Integrale model.",
+              "de": "Lancia ist eine italienische Marke mit großen Traditionen, ein Pionier vieler technischer Lösungen. Rallye-Königin mit dem Modell Delta Integrale.",
+              "uk": "Lancia — італійський бренд із великими традиціями, піонер багатьох технічних рішень. Королева ралі з моделлю Delta Integrale.",
+              "ru": "Lancia — итальянская марка с большими традициями, пионер многих технических решений. Королева ралли с моделью Delta Integrale.",
+              "zh": "蓝旗亚是一个具有悠久传统的意大利品牌，是许多技术解决方案的先驱。 Delta Integrale 车型的拉力女王。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lancia"
+              },
+              "siedziba": {
+                "pl": "Turyn, Włochy",
+                "en": "Turin, Italy",
+                "de": "Turin, Italien",
+                "uk": "Турин, Італія",
+                "ru": "Турин, Италия",
+                "zh": "意大利都灵"
+              },
+              "założona": "1906"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2a/8f/e1fi3btws0wwk4kw48ks0/lancia-thema-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 78,
+        "ModelID": 416621,
+        "Brand Name": "Lancia",
+        "Model Name": "Thema",
+        "Serie Name": "Thema Gen 2 (Chrysler 300)",
+        "Years": "2011 - 2014",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Executive Car",
+          "drive": "RWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.6L V6 / 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Lancia Thema to limuzyna klasy wyższej. Pierwsza generacja była technologicznym majstersztykiem (m.in. silnik Ferrari w 8.32), natomiast druga to owoc współpracy z Chryslerem, oferujący potężne rozmiary i komfort.",
+              "en": "Lancia Thema is a premium class limousine. The first generation was a technological masterpiece (including the Ferrari engine in the 8.32), while the second was the result of cooperation with Chrysler, offering huge dimensions and comfort.",
+              "de": "Lancia Thema ist eine Limousine der Premiumklasse. Die erste Generation war ein technologisches Meisterwerk (einschließlich des Ferrari-Motors im 8.32), während die zweite das Ergebnis einer Zusammenarbeit mit Chrysler war und enorme Abmessungen und Komfort bot.",
+              "uk": "Lancia Thema — лімузин преміум класу. Перше покоління було технологічним шедевром (включно з двигуном Ferrari у 8.32), тоді як друге було результатом співпраці з Chrysler, пропонуючи величезні розміри та комфорт.",
+              "ru": "Lancia Thema — лимузин премиум-класса. Первое поколение было технологическим шедевром (включая двигатель Ferrari 8.32), а второе было результатом сотрудничества с Chrysler, предлагая огромные размеры и комфорт.",
+              "zh": "Lancia Thema 是一款高级豪华轿车。第一代是技术杰作（包括 8.32 中的法拉利发动机），而第二代是与克莱斯勒合作的成果，提供了巨大的尺寸和舒适性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lancia"
+              },
+              "okres produkcji": {
+                "pl": "1984–1994 / 2011–2014",
+                "en": "1984–1994 / 2011–2014",
+                "de": "1984–1994 / 2011–2014",
+                "uk": "1984–1994 / 2011–2014",
+                "ru": "1984–1994 / 2011–2014 гг.",
+                "zh": "1984–1994 / 2011–2014"
+              },
+              "segment": {
+                "pl": "E (Executive car)",
+                "en": "E (Executive car)",
+                "de": "E (Executive Car)",
+                "uk": "E (представницький автомобіль)",
+                "ru": "E (Представительский автомобиль)",
+                "zh": "E（行政车）"
+              },
+              "napęd": {
+                "pl": "FWD/RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2a/8f/e1fi3btws0wwk4kw48ks0/lancia-thema-ii.310.jpg"
+        }
+      }
+    ],
+    "Voyager": [
+      {
+        "BrandID": 78,
+        "ModelID": 416622,
+        "Brand Name": "Lancia",
+        "Model Name": "Voyager",
+        "Serie Name": "Voyager (Chrysler Town & Country)",
+        "Years": "2011 - 2015",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Minivan",
+          "drive": "FWD",
+          "fuel": "Diesel",
+          "engine": "2.8L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Lancia Voyager to luksusowa interpretacja kultowego amerykańskiego minivana. Oferuje bezkonkurencyjną przestrzeń i system siedzeń Stow 'n Go, opakowane we włoską elegancję.",
+              "en": "Lancia Voyager is a luxurious interpretation of the iconic American minivan. It offers unrivaled space and the Stow 'n Go seating system, wrapped in Italian elegance.",
+              "de": "Lancia Voyager ist eine luxuriöse Interpretation des legendären amerikanischen Minivans. Es bietet unvergleichlichen Platz und das Stow 'n Go-Sitzsystem, gehüllt in italienische Eleganz.",
+              "uk": "Lancia Voyager — це розкішна інтерпретація культового американського мінівена. Він пропонує неперевершений простір і систему сидінь Stow 'n Go, оповиту італійською елегантністю.",
+              "ru": "Lancia Voyager — роскошная интерпретация культового американского минивэна. Он предлагает непревзойденное пространство и систему сидений Stow 'n Go, окутанную итальянской элегантностью.",
+              "zh": "Lancia Voyager 是对标志性美国小型货车的豪华诠释。它提供无与伦比的空间和 Stow 'n Go 座椅系统，充满意大利优雅气息。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lancia"
+              },
+              "okres produkcji": "2011–2015",
+              "segment": {
+                "pl": "Large MPV",
+                "en": "Large MPV",
+                "de": "Großer MPV",
+                "uk": "Великий MPV",
+                "ru": "Большой минивэн",
+                "zh": "大型MPV"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8s/uw/ucfwjj8k80gokssw8wswk/lancia-voyager-i-van.310.jpg"
+        }
+      }
+    ],
+    "Musa": [
+      {
+        "BrandID": 78,
+        "ModelID": 825,
+        "Brand Name": "Lancia",
+        "Model Name": "Musa",
+        "Serie Name": "Musa",
+        "Years": "2004 - 2012",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Mini MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L / 1.3L - 1.9L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Lancia Musa to 'mała luksusowa limuzyna' w nadwoziu MPV. Bazując na podzespołach Fiata, oferowała znacznie wyższy standard wykończenia i unikalny, włoski design.",
+              "en": "Lancia Musa is a 'small luxury limousine' in an MPV body. Based on Fiat components, it offered a much higher standard of finishing and a unique Italian design.",
+              "de": "Lancia Musa ist eine „kleine Luxuslimousine“ in einer MPV-Karosserie. Basierend auf Fiat-Komponenten bot es einen viel höheren Verarbeitungsstandard und ein einzigartiges italienisches Design.",
+              "uk": "Lancia Musa — це «маленький розкішний лімузин» у кузові MPV. Базований на компонентах Fiat, він запропонував набагато вищий стандарт обробки та унікальний італійський дизайн.",
+              "ru": "Lancia Musa — «маленький роскошный лимузин» в кузове MPV. Основанный на компонентах Fiat, он предлагал гораздо более высокий уровень отделки и уникальный итальянский дизайн.",
+              "zh": "Lancia Musa 是一款采用 MPV 车身的“小型豪华轿车”。它基于菲亚特组件，提供了更高标准的精加工和独特的意大利设计。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lancia"
+              },
+              "okres produkcji": "2004–2012",
+              "segment": {
+                "pl": "Mini MPV",
+                "en": "Mini MPV",
+                "de": "Mini-MPV",
+                "uk": "Міні MPV",
+                "ru": "Минивэн",
+                "zh": "迷你MPV"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2l/f6/qhbkqgo4o4g0w8wwc4soo/lancia-musa-i-hatch.310.jpg"
+        }
+      }
+    ],
+    "Phedra": [
+      {
+        "BrandID": 78,
+        "ModelID": 826,
+        "Brand Name": "Lancia",
+        "Model Name": "Phedra",
+        "Serie Name": "Phedra",
+        "Years": "2002 - 2010",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Large MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 3.0L V6 / 2.0L - 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Lancia Phedra to komfortowy van zbudowany w ramach projektu Eurovan. Wyróżniała się luksusowym wnętrzem wykończonym Alcantarą i bogatym wyposażeniem seryjnym.",
+              "en": "Lancia Phedra is a comfortable van built as part of the Eurovan project. It was distinguished by a luxurious interior finished with Alcantara and rich standard equipment.",
+              "de": "Lancia Phedra ist ein komfortabler Transporter, der im Rahmen des Eurovan-Projekts gebaut wurde. Es zeichnete sich durch ein luxuriöses Interieur mit Alcantara und eine reichhaltige Serienausstattung aus.",
+              "uk": "Lancia Phedra – комфортабельний фургон, створений у рамках проекту Eurovan. Він відрізнявся розкішним салоном, обробленим алькантарою, і багатим стандартним обладнанням.",
+              "ru": "Lancia Phedra — комфортабельный фургон, построенный в рамках проекта Eurovan. Его отличал роскошный салон, отделанный алькантарой, и богатая базовая комплектация.",
+              "zh": "Lancia Phedra 是一款舒适的货车，是 Eurovan 项目的一部分。它的特点是采用 Alcantara 制成的豪华内饰和丰富的标准设备。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Lancia"
+              },
+              "okres produkcji": "2002–2010",
+              "segment": {
+                "pl": "Large MPV",
+                "en": "Large MPV",
+                "de": "Großer MPV",
+                "uk": "Великий MPV",
+                "ru": "Большой минивэн",
+                "zh": "大型MPV"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/11/53/6ckgh6o004g0s48ks08c0/lancia-phedra-i-van.310.jpg"
+        }
+      }
+    ]
+  }
+}

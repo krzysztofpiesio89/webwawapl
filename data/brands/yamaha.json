@@ -1,0 +1,1981 @@
+{
+  "brand": "YAMAHA",
+  "models": {
+    "": [
+      {
+        "BrandID": 201,
+        "ModelID": "",
+        "Brand Name": "YAMAHA",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Yamaha Motor Company to japoński gigant motoryzacyjny, słynący z produkcji motocykli, quadów, skuterów wodnych i silników zaburtowych. Marka jest synonimem innowacji i sportowych osiągów, wielokrotnie zdobywając tytuły mistrzowskie w MotoGP.",
+              "en": "Yamaha Motor Company is a Japanese automotive giant, famous for the production of motorcycles, quads, jet skis and outboard engines. The brand is synonymous with innovation and sporting performance, having won multiple championship titles in MotoGP.",
+              "de": "Yamaha Motor Company ist ein japanischer Automobilriese, der für die Produktion von Motorrädern, Quads, Jetskis und Außenbordmotoren bekannt ist. Die Marke ist ein Synonym für Innovation und sportliche Leistung und hat mehrere Meistertitel in der MotoGP gewonnen.",
+              "uk": "Yamaha Motor Company - японський автомобільний гігант, відомий виробництвом мотоциклів, квадроциклів, водних мотоциклів і човнових двигунів. Бренд є синонімом інновацій та спортивних результатів, вигравши кілька чемпіонських титулів у MotoGP.",
+              "ru": "Yamaha Motor Company — японский автомобильный гигант, известный производством мотоциклов, квадроциклов, гидроциклов и подвесных двигателей. Этот бренд является синонимом инноваций и спортивных достижений, поскольку он выиграл несколько чемпионских титулов в MotoGP.",
+              "zh": "雅马哈汽车公司是日本汽车巨头，以生产摩托车、四轮摩托车、摩托艇和舷外发动机而闻名。该品牌是创新和运动性能的代名词，曾多次赢得 MotoGP 冠军头衔。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha Motor Company",
+                "en": "Yamaha Motor Company",
+                "de": "Yamaha Motor Company",
+                "uk": "Yamaha Motor Company",
+                "ru": "Yamaha Motor Company",
+                "zh": "雅马哈汽车公司"
+              },
+              "siedziba": {
+                "pl": "Iwata, Japonia",
+                "en": "Iwata, Japan",
+                "de": "Iwata, Japan",
+                "uk": "Івата, Японія",
+                "ru": "Ивата, Япония",
+                "zh": "日本岩田"
+              },
+              "założona": "1955",
+              "branża": {
+                "pl": "Motocykle, Silniki",
+                "en": "Motorcycles, Engines",
+                "de": "Motorräder, Motoren",
+                "uk": "Мотоцикли, двигуни",
+                "ru": "Мотоциклы, двигатели",
+                "zh": "摩托车、发动机"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "FJ": [
+      {
+        "BrandID": 201,
+        "ModelID": 415713,
+        "Brand Name": "YAMAHA",
+        "Model Name": "FJ",
+        "Serie Name": "FJ",
+        "Years": "1986 - 1996",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Yamaha FJ to legendarny motocykl sportowo-turystyczny, ceniony za swoją pancerną konstrukcję i potężny silnik chłodzony powietrzem. Przez lata uchodził za wzorzec maszyny do pokonywania dalekich dystansów w szybkim tempie.",
+              "en": "The Yamaha FJ is a legendary sports-touring motorcycle, appreciated for its armored construction and powerful air-cooled engine. For years, it was considered a model for a machine for covering long distances at a fast pace.",
+              "de": "Die Yamaha FJ ist ein legendäres Sporttourenmotorrad, das für seine gepanzerte Konstruktion und den leistungsstarken luftgekühlten Motor geschätzt wird. Es galt jahrelang als Vorbild für eine Maschine, mit der man weite Strecken schnell zurücklegen konnte.",
+              "uk": "Yamaha FJ — це легендарний спортивно-туристичний мотоцикл, який цінують за свою броньовану конструкцію та потужний двигун з повітряним охолодженням. Роками він вважався зразком машини для подолання великих дистанцій у швидкому темпі.",
+              "ru": "Yamaha FJ — легендарный спортивно-туристический мотоцикл, известный своей бронированной конструкцией и мощным двигателем воздушного охлаждения. В течение многих лет он считался образцом машины для быстрого преодоления больших расстояний.",
+              "zh": "雅马哈 FJ 是一款传奇的运动旅行摩托车，因其装甲结构和强大的风冷发动机而受到赞赏。多年来，它一直被认为是能够快速长距离行驶的机器的典范。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": "1984–1996",
+              "typ": {
+                "pl": "Sportowo-turystyczny",
+                "en": "Sport-touring",
+                "de": "Sporttouring",
+                "uk": "Спортивний",
+                "ru": "Спортивно-туристический",
+                "zh": "运动旅行车"
+              },
+              "silnik": {
+                "pl": "R4, chłodzony powietrzem",
+                "en": "R4, air-cooled",
+                "de": "R4, luftgekühlt",
+                "uk": "R4, повітряне охолодження",
+                "ru": "R4, с воздушным охлаждением",
+                "zh": "R4，风冷"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "FJR": [
+      {
+        "BrandID": 201,
+        "ModelID": 415717,
+        "Brand Name": "YAMAHA",
+        "Model Name": "FJR",
+        "Serie Name": "FJR",
+        "Years": "2001 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Yamaha FJR to jedna z najlepszych maszyn w klasie dużych motocykli turystycznych (Touring). Wyposażona w mocny silnik o pojemności 1300 cm³ i wał kardana, oferuje luksusowe warunki podróży i doskonałą osłonę przed wiatrem.",
+              "en": "Yamaha FJR is one of the best machines in the class of large touring motorcycles. Equipped with a powerful 1300 cm³ engine and cardan shaft, it offers luxurious travel conditions and excellent wind protection.",
+              "de": "Yamaha FJR ist eine der besten Maschinen in der Klasse der großen Tourenmotorräder. Ausgestattet mit einem leistungsstarken 1300-cm³-Motor und Kardanwelle bietet es luxuriöse Fahrbedingungen und hervorragenden Windschutz.",
+              "uk": "Yamaha FJR одна з кращих машин у класі великих туристичних мотоциклів. Оснащений потужним двигуном об’ємом 1300 см³ і карданним валом, він пропонує розкішні умови подорожі та чудовий захист від вітру.",
+              "ru": "Yamaha FJR — одна из лучших машин в классе больших туристических мотоциклов. Оснащенный мощным двигателем объемом 1300 см³ и карданным валом, он обеспечивает роскошные условия движения и отличную защиту от ветра.",
+              "zh": "雅马哈 FJR 是大型旅行摩托车中最好的机器之一。配备强大的 1300 cm³ 发动机和万向轴，提供豪华的旅行条件和出色的防风性能。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": {
+                "pl": "od 2001",
+                "en": "from 2001",
+                "de": "ab 2001",
+                "uk": "з 2001 р.",
+                "ru": "с 2001 года.",
+                "zh": "2001 年生产"
+              },
+              "typ": {
+                "pl": "Touring"
+              },
+              "napęd": {
+                "pl": "Wał napędowy (Kardan)",
+                "en": "Drive shaft (Kardan)",
+                "de": "Antriebswelle (Kardan)",
+                "uk": "Привідний вал (кардан)",
+                "ru": "Приводной вал (Кардан)",
+                "zh": "传动轴 (Kardan)"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "FZ": [
+      {
+        "BrandID": 201,
+        "ModelID": 415719,
+        "Brand Name": "YAMAHA",
+        "Model Name": "FZ",
+        "Serie Name": "FZ",
+        "Years": "2001 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Seria FZ to uniwersalne motocykle typu naked i sport-touring, znane ze świetnego balansu między osiągami a codzienną użytecznością. Modele takie jak FZ6 czy FZ1 stały się rynkowymi hitami dzięki swojej niezawodności.",
+              "en": "The FZ series are universal naked and sport-touring motorcycles, known for their great balance between performance and everyday usability. Models such as FZ6 and FZ1 have become market hits thanks to their reliability.",
+              "de": "Die FZ-Serie sind universelle Naked- und Sporttouring-Motorräder, die für ihre hervorragende Balance zwischen Leistung und Alltagstauglichkeit bekannt sind. Modelle wie FZ6 und FZ1 sind dank ihrer Zuverlässigkeit zu Markthits geworden.",
+              "uk": "Серія FZ — це універсальні мотоцикли для нейкидів і спортивних туристичних мотоциклів, відомі своїм чудовим балансом між продуктивністю та зручністю для щоденного використання. Такі моделі, як FZ6 і FZ1 стали хітами ринку завдяки своїй надійності.",
+              "ru": "Серия FZ — это универсальные нейкеды и спортивно-туристические мотоциклы, известные своим отличным балансом между производительностью и удобством повседневного использования. Такие модели, как FZ6 и FZ1, стали хитами рынка благодаря своей надежности.",
+              "zh": "FZ 系列是通用裸车和运动旅行摩托车，以其性能和日常可用性之间的完美平衡而闻名。 FZ6、FZ1等车型因其可靠性而受到市场欢迎。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": {
+                "pl": "od 2001",
+                "en": "from 2001",
+                "de": "ab 2001",
+                "uk": "з 2001 року",
+                "ru": "2001 года.",
+                "zh": "from 2001"
+              },
+              "typ": {
+                "pl": "Naked / Street",
+                "en": "Naked / Street",
+                "de": "Naked / Street",
+                "uk": "Naked / Street",
+                "ru": "Naked/Street",
+                "zh": "Naked / Street"
+              },
+              "charakter": {
+                "pl": "Uniwersalny"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "FZR": [
+      {
+        "BrandID": 201,
+        "ModelID": 415721,
+        "Brand Name": "YAMAHA",
+        "Model Name": "FZR",
+        "Serie Name": "FZR",
+        "Years": "2001 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Yamaha FZR to rodzina kultowych motocykli sportowych, które w latach 80. i 90. wyznaczały standardy na torach wyścigowych. Wyposażone w innowacyjne głowice pięciozaworowe Genesis, stały się obiektem pożądania fanów prędkości.",
+              "en": "Yamaha FZR is a family of iconic sports motorcycles that set standards on race tracks in the 1980s and 1990s. Equipped with innovative Genesis five-valve heads, they have become an object of desire for speed fans.",
+              "de": "Yamaha FZR ist eine Familie ikonischer Sportmotorräder, die in den 1980er und 1990er Jahren Maßstäbe auf Rennstrecken setzten. Ausgestattet mit innovativen Genesis-Fünfventilköpfen sind sie zum Objekt der Begierde für Geschwindigkeitsfans geworden.",
+              "uk": "Yamaha FZR — це сімейство культових спортивних мотоциклів, які встановлювали стандарти на гоночних треках у 1980-х і 1990-х роках. Оснащені інноваційними п'ятиклапанними головками Genesis, вони стали об'єктом жадання любителів швидкості.",
+              "ru": "Yamaha FZR — семейство культовых спортивных мотоциклов, устанавливавших стандарты на гоночных трассах 1980-х и 1990-х годов. Оснащенные инновационными пятиклапанными головками Genesis, они стали объектом вожделения любителей скорости.",
+              "zh": "Yamaha FZR 是一个标志性运动摩托车系列，为 20 世纪 80 年代和 1990 年代的赛道树立了标准。配备创新的 Genesis 五气门缸盖，它们已成为速度迷们渴望的对象。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": "1987–1999",
+              "typ": {
+                "pl": "Sportowy"
+              },
+              "technologia": {
+                "pl": "Genesis 5-valve",
+                "en": "Genesis 5-valve",
+                "de": "Genesis 5-Ventil",
+                "uk": "Genesis 5-valve",
+                "ru": "Genesis 5-клапанный",
+                "zh": "Genesis 5 气门"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "FZS": [
+      {
+        "BrandID": 201,
+        "ModelID": 415723,
+        "Brand Name": "YAMAHA",
+        "Model Name": "FZS",
+        "Serie Name": "FZS",
+        "Years": "2001 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Yamaha FZS (Fazer) to motocykle, które zrewolucjonizowały rynek, łącząc sportowe silniki z modelu YZF-R6 i YZF-R1 z wygodniejszą ergonoimią. To idealne maszyny dla osób szukających emocji w cywilizowanym wydaniu.",
+              "en": "Yamaha FZS (Fazer) are motorcycles that revolutionized the market by combining sports engines from the YZF-R6 and YZF-R1 models with more comfortable ergonomics. These are perfect machines for people looking for civilized excitement.",
+              "de": "Yamaha FZS (Fazer) sind Motorräder, die den Markt revolutionierten, indem sie Sportmotoren der Modelle YZF-R6 und YZF-R1 mit komfortablerer Ergonomie kombinierten. Dies sind perfekte Maschinen für Leute, die zivilisierte Spannung suchen.",
+              "uk": "Yamaha FZS (Fazer) — це мотоцикли, які зробили революцію на ринку, поєднавши спортивні двигуни моделей YZF-R6 і YZF-R1 із більш зручною ергономікою. Це ідеальні машини для людей, які шукають цивілізованих розваг.",
+              "ru": "Yamaha FZS (Fazer) — мотоциклы, которые произвели революцию на рынке, объединив спортивные двигатели от моделей YZF-R6 и YZF-R1 с более комфортной эргономикой. Это идеальные машины для людей, ищущих цивилизованного отдыха.",
+              "zh": "Yamaha FZS (Fazer) 是将 YZF-R6 和 YZF-R1 型号的运动型发动机与更舒适的人体工程学相结合，彻底改变了市场。对于寻求文明刺激的人们来说，这些是完美的机器。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": "1998–2004",
+              "typ": {
+                "pl": "Sport-Touring",
+                "en": "Sport-Touring",
+                "de": "Sport-Touring",
+                "uk": "Sport-Touring",
+                "ru": "Sport-Touring",
+                "zh": "运动旅行车"
+              },
+              "silnik": {
+                "pl": "Pochodny z serii R",
+                "en": "R-series derivative",
+                "de": "R-Serie-Derivat",
+                "uk": "Похідна серія R",
+                "ru": "Модификация R-серии",
+                "zh": "R 系列衍生产品"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "JOG": [
+      {
+        "BrandID": 201,
+        "ModelID": 416170,
+        "Brand Name": "YAMAHA",
+        "Model Name": "JOG",
+        "Serie Name": "JOG",
+        "Years": "2001 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Yamaha JOG to jeden z najpopularniejszych skuterów miejskich na świecie. Ceniony za lekkość, zwrotność i ogromny potencjał tuningowy, od dekad dominuje na ulicach miast jako idealny środek transportu.",
+              "en": "Yamaha JOG is one of the most popular city scooters in the world. Appreciated for its lightness, maneuverability and enormous tuning potential, it has dominated city streets for decades as an ideal means of transport.",
+              "de": "Yamaha JOG ist einer der beliebtesten Stadtroller der Welt. Geschätzt für seine Leichtigkeit, Wendigkeit und sein enormes Tuning-Potenzial dominiert es seit Jahrzehnten als ideales Fortbewegungsmittel die Straßen der Stadt.",
+              "uk": "Yamaha JOG є одним із найпопулярніших міських скутерів у світі. Цінований за його легкість, маневреність і величезний потенціал налаштування, він десятиліттями домінував на міських вулицях як ідеальний транспортний засіб.",
+              "ru": "Yamaha JOG — один из самых популярных городских скутеров в мире. Ценимый за свою легкость, маневренность и огромный потенциал для тюнинга, он на протяжении десятилетий доминировал на городских улицах как идеальное средство передвижения.",
+              "zh": "Yamaha JOG 是世界上最受欢迎的城市踏板车之一。它因其轻便性、机动性和巨大的改装潜力而受到赞赏，数十年来一直作为理想的交通工具在城市街道上占据主导地位。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": {
+                "pl": "od 1983",
+                "en": "from 1983",
+                "de": "von 1983",
+                "uk": "з 1983 року",
+                "ru": "1983 года выпуска",
+                "zh": "1983 年生产"
+              },
+              "typ": {
+                "pl": "Skuter miejski",
+                "en": "City scooter",
+                "de": "Stadtroller",
+                "uk": "Міський скутер",
+                "ru": "Городской скутер",
+                "zh": "城市踏板车"
+              },
+              "atut": {
+                "pl": "Zwrotność i niskie spalanie",
+                "en": "Maneuverability and low fuel consumption",
+                "de": "Wendigkeit und geringer Kraftstoffverbrauch",
+                "uk": "Маневреність і низька витрата палива",
+                "ru": "Маневренность и низкий расход топлива",
+                "zh": "机动性和低油耗"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Majesty": [
+      {
+        "BrandID": 201,
+        "ModelID": 415955,
+        "Brand Name": "YAMAHA",
+        "Model Name": "Majesty",
+        "Serie Name": "Majesty",
+        "Years": "1996 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Yamaha Majesty to luksusowy skuter typu Maxi, który oferuje komfort podróży porównywalny z klasą wyższą. Duża przestrzeń ładunkowa, wygodna kanapa i dobra osłona przed wiatrem czynią go idealnym na dłuższe dojazdy.",
+              "en": "Yamaha Majesty is a luxurious Maxi scooter that offers travel comfort comparable to the higher class. Large cargo space, comfortable seat and good wind protection make it perfect for longer commutes.",
+              "de": "Yamaha Majesty ist ein luxuriöser Maxi-Roller, der einen mit der Oberklasse vergleichbaren Reisekomfort bietet. Der große Laderaum, der bequeme Sitz und der gute Windschutz machen ihn perfekt für längere Fahrten.",
+              "uk": "Yamaha Majesty — це розкішний максі-скутер, який пропонує комфорт подорожі, який можна порівняти з вищим класом. Великий вантажний простір, зручне сидіння та хороший захист від вітру роблять його ідеальним для тривалих поїздок.",
+              "ru": "Yamaha Majesty — роскошный скутер Maxi, обеспечивающий комфорт передвижения, сравнимый с высшим классом. Большое грузовое пространство, удобное сиденье и хорошая защита от ветра делают его идеальным для длительных поездок на работу.",
+              "zh": "Yamaha Majesty 是一款豪华 Maxi 踏板车，提供可与高级别的踏板车相媲美的旅行舒适度。宽敞的载货空间、舒适的座椅和良好的防风性能使其非常适合长途通勤。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": {
+                "pl": "od 1995",
+                "en": "since 1995",
+                "de": "seit 1995",
+                "uk": "з 1995",
+                "ru": "с 1995 года.",
+                "zh": "自 1995 年以来"
+              },
+              "typ": {
+                "pl": "Maxi-skuter"
+              },
+              "komfort": {
+                "pl": "Wysoki"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "MT": [
+      {
+        "BrandID": 201,
+        "ModelID": 415957,
+        "Brand Name": "YAMAHA",
+        "Model Name": "MT",
+        "Serie Name": "MT",
+        "Years": "2006 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Seria MT (Master of Torque) to agresywne motocykle typu hyper-naked, które zdefiniowały nowy styl jazdy miejskiej. Charakteryzują się potężnym momentem obrotowym, futurystycznym designem i zwinnością, za co pokochały je miliony motocyklistów.",
+              "en": "The MT (Master of Torque) series are aggressive hyper-naked motorcycles that defined a new style of urban riding. They are characterized by powerful torque, futuristic design and agility, which is why millions of motorcyclists love them.",
+              "de": "Die MT-Serie (Master of Torque) sind aggressive Hyper-Naked-Motorräder, die einen neuen Stil des urbanen Fahrens definierten. Sie zeichnen sich durch kraftvolles Drehmoment, futuristisches Design und Agilität aus, weshalb sie von Millionen Motorradfahrern geliebt werden.",
+              "uk": "Серія MT (Master of Torque) — це агресивні гіпернейкйд мотоцикли, які визначили новий стиль міської їзди. Вони відрізняються потужним крутним моментом, футуристичним дизайном і маневреністю, за що їх люблять мільйони мотоциклістів.",
+              "ru": "Серия MT (Master of Torque) — агрессивные гипернейкеды, определившие новый стиль городской езды. Они характеризуются мощным крутящим моментом, футуристическим дизайном и маневренностью, за что их любят миллионы мотоциклистов.",
+              "zh": "MT（扭矩大师）系列是激进的超裸摩托车，定义了城市骑行的新风格。它们的特点是强大的扭矩、未来派的设计和敏捷性，这就是数百万摩托车手喜爱它们的原因。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": {
+                "pl": "od 2005",
+                "en": "from 2005",
+                "de": "ab 2005",
+                "uk": "з 2005 р.",
+                "ru": "с 2005 года",
+                "zh": "自2005年以来"
+              },
+              "typ": {
+                "pl": "Hyper-Naked"
+              },
+              "filozofia": {
+                "pl": "Dark Side of Japan",
+                "en": "Dark Side of Japan",
+                "de": "Dark Side of Japan",
+                "uk": "Темна сторона Японії",
+                "ru": "Темная сторона Японии",
+                "zh": "日本的阴暗面"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Neos": [
+      {
+        "BrandID": 201,
+        "ModelID": 416176,
+        "Brand Name": "YAMAHA",
+        "Model Name": "Neos",
+        "Serie Name": "Neos",
+        "Years": "1990 - 2021",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Yamaha Neos to przyjazny dla środowiska i stylowy skuter miejski, dostępny zarówno w wersjach spalinowych, jak i w pełni elektrycznych. Jego minimalistyczny design i łatwość obsługi czynią go idealnym wyborem dla początkujących.",
+              "en": "Yamaha Neos is an environmentally friendly and stylish city scooter, available in both combustion and fully electric versions. Its minimalist design and ease of use make it an ideal choice for beginners.",
+              "de": "Yamaha Neos ist ein umweltfreundlicher und stilvoller Stadtroller, der sowohl als Verbrennungs- als auch als vollelektrische Version erhältlich ist. Sein minimalistisches Design und seine einfache Bedienung machen es zur idealen Wahl für Einsteiger.",
+              "uk": "Yamaha Neos — це екологічно чистий і стильний міський скутер, доступний як у версіях з двигуном згоряння, так і в повністю електричній версії. Його мінімалістичний дизайн і простота використання роблять його ідеальним вибором для новачків.",
+              "ru": "Yamaha Neos — экологически чистый и стильный городской скутер, доступный как в версии с двигателем внутреннего сгорания, так и в полностью электрической версии. Минималистичный дизайн и простота использования делают его идеальным выбором для новичков.",
+              "zh": "雅马哈 Neos 是一款环保、时尚的城市踏板车，有燃烧版本和全电动版本。其简约的设计和易用性使其成为初学者的理想选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": {
+                "pl": "od 1997",
+                "en": "from 1997",
+                "de": "ab 1997",
+                "uk": "з 1997 року",
+                "ru": "с 1997 года",
+                "zh": "自1997年以来"
+              },
+              "typ": {
+                "pl": "Skuter miejski",
+                "en": "City scooter",
+                "de": "Stadtroller",
+                "uk": "Міський скутер",
+                "ru": "Городской скутер",
+                "zh": "城市代步车"
+              },
+              "wersja": {
+                "pl": "Spalinowa / elektryczna",
+                "en": "Combustion / electric",
+                "de": "Verbrenner / Elektro",
+                "uk": "Згоряння / електричний",
+                "ru": "Бензин/электрический",
+                "zh": "汽油/电动"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "NSS": [
+      {
+        "BrandID": 201,
+        "ModelID": 416178,
+        "Brand Name": "YAMAHA",
+        "Model Name": "NSS",
+        "Serie Name": "NSS",
+        "Years": "2010 - 2021",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Seria NSS obejmuje zaawansowane skutery Yamaha o zróżnicowanej charakterystyce, od ekonomicznych modeli miejskich po luksusowe wersje o podwyższonym standardzie wyposażenia, zapewniające komfort na każdym kilometrze.",
+              "en": "The NSS series includes advanced Yamaha scooters with various characteristics, from economical city models to luxurious versions with a higher standard of equipment, ensuring comfort at every kilometer.",
+              "de": "Die NSS-Serie umfasst fortschrittliche Yamaha-Roller mit unterschiedlichen Eigenschaften, von sparsamen Stadtmodellen bis hin zu luxuriösen Versionen mit gehobenem Ausstattungsstandard, die Komfort auf jedem Kilometer gewährleisten.",
+              "uk": "Серія NSS включає вдосконалені скутери Yamaha з різними характеристиками, від економічних міських моделей до розкішних версій з вищим стандартом обладнання, що забезпечує комфорт на кожному кілометрі.",
+              "ru": "В серию NSS вошли передовые скутеры Yamaha с различными характеристиками: от экономичных городских моделей до роскошных версий с более высоким стандартом оснащения, обеспечивающим комфорт на каждом километре пути.",
+              "zh": "NSS系列包括具有各种特性的先进雅马哈踏板车，从经济型城市车型到装备更高标准的豪华版本，确保每一公里的舒适性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": {
+                "pl": "od 2010",
+                "en": "from 2010",
+                "de": "ab 2010",
+                "uk": "з 2010 року",
+                "ru": "с 2010 года",
+                "zh": "自2010年以来"
+              },
+              "typ": {
+                "pl": "Skuter"
+              },
+              "przeznaczenie": {
+                "pl": "Miejskie / Turystyczne",
+                "en": "City / Tourist",
+                "de": "City / Tourist",
+                "uk": "Міський / Туристичний",
+                "ru": "Город / Турист",
+                "zh": "城市/旅游"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Road Star": [
+      {
+        "BrandID": 201,
+        "ModelID": 415959,
+        "Brand Name": "YAMAHA",
+        "Model Name": "Road Star",
+        "Serie Name": "Road Star",
+        "Years": "1999 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Yamaha Road Star to potężny cruiser w starym, dobrym stylu. Wyposażony w ogromny, klasyczny silnik V-twin chłodzony powietrzem i napęd pasem, jest jedną z najbardziej wdzięcznych baz do budowy motocykli typu custom.",
+              "en": "Yamaha Road Star is a powerful cruiser in the good old style. Equipped with a huge, classic air-cooled V-twin engine and a belt drive, it is one of the most suitable bases for building custom motorcycles.",
+              "de": "Yamaha Road Star ist ein leistungsstarker Cruiser im guten alten Stil. Ausgestattet mit einem riesigen, klassischen luftgekühlten V-Twin-Motor und Riemenantrieb ist es eine der am besten geeigneten Grundlagen für den Bau von Custom-Motorrädern.",
+              "uk": "Yamaha Road Star — потужний круїзер у старому доброму стилі. Оснащений величезним класичним V-подібним двигуном з повітряним охолодженням і ремінною передачею, він є однією з найбільш підходящих баз для виготовлення нестандартних мотоциклів.",
+              "ru": "Yamaha Road Star — мощный круизер в старом добром стиле. Оснащенный огромным классическим V-образным двигателем с воздушным охлаждением и ременной передачей, он является одной из наиболее подходящих баз для создания кастомных мотоциклов.",
+              "zh": "雅马哈 Road Star 是一款具有良好老式风格的强大巡洋舰。它配备了巨大的经典风冷 V 型双缸发动机和皮带传动装置，是制造定制摩托车最合适的基地之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": "1999–2014",
+              "typ": {
+                "pl": "Cruiser"
+              },
+              "silnik": {
+                "pl": "V-Twin (OHV)",
+                "en": "V-Twin (OHV)",
+                "de": "V-Twin (OHV)",
+                "uk": "V-Twin (OHV)",
+                "ru": "V-твин (OHV)",
+                "zh": "V 型双缸 (OHV)"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "RSV": [
+      {
+        "BrandID": 201,
+        "ModelID": 415961,
+        "Brand Name": "YAMAHA",
+        "Model Name": "RSV",
+        "Serie Name": "RSV",
+        "Years": "1990 - 2021",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Yamaha RSV (Royal Star Venture) to luksusowy krążownik szos, zaprojektowany z myślą o pokonywaniu bezkresnych autostrad w iście królewskich warunkach. Posiada unikalny silnik V4 pochodzący z modelu V-MAX.",
+              "en": "Yamaha RSV (Royal Star Venture) is a luxurious road cruiser, designed to overcome endless highways in truly royal conditions. It has a unique V4 engine from the V-MAX model.",
+              "de": "Yamaha RSV (Royal Star Venture) ist ein luxuriöser Straßenkreuzer, der dafür konzipiert ist, endlose Autobahnen unter wirklich königlichen Bedingungen zu überwinden. Es verfügt über einen einzigartigen V4-Motor aus dem V-MAX-Modell.",
+              "uk": "Yamaha RSV (Royal Star Venture) — розкішний шосейний круїзер, створений для подолання нескінченних магістралей у воістину королівських умовах. Має унікальний двигун V4 від моделі V-MAX.",
+              "ru": "Yamaha RSV (Royal Star Venture) — роскошный дорожный круизер, созданный для покорения бескрайних автомагистралей в поистине королевских условиях. Он оснащен уникальным двигателем V4 от модели V-MAX.",
+              "zh": "雅马哈 RSV（皇家之星冒险）是一款豪华公路巡洋舰，旨在在真正的皇家条件下征服无尽的高速公路。它拥有 V-MAX 车型中独特的 V4 发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": "1999–2013",
+              "typ": {
+                "pl": "Grand Touring",
+                "en": "Grand Touring",
+                "de": "Grand Touring",
+                "uk": "Grand Touring",
+                "ru": "Гранд Туринг",
+                "zh": "大型旅行"
+              },
+              "silnik": {
+                "pl": "V4, chłodzony cieczą",
+                "en": "V4, liquid-cooled",
+                "de": "V4, flüssigkeitsgekühlt",
+                "uk": "V4, рідинне охолодження",
+                "ru": "V4, жидкостное охлаждение",
+                "zh": "V4，液冷"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Stryker": [
+      {
+        "BrandID": 201,
+        "ModelID": 415963,
+        "Brand Name": "YAMAHA",
+        "Model Name": "Stryker",
+        "Serie Name": "Stryker",
+        "Years": "2008 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Yamaha Stryker to nowoczesny chopper o agresywnej geometrii z mocno wysuniętym przednim widelcem. Łączy buntowniczy styl z nowoczesną techniką i mocnym silnikiem V-twin chłodzonym cieczą.",
+              "en": "Yamaha Stryker is a modern chopper with aggressive geometry and a strongly extended front fork. It combines rebellious style with modern technology and a powerful liquid-cooled V-twin engine.",
+              "de": "Yamaha Stryker ist ein moderner Chopper mit aggressiver Geometrie und einer stark verlängerten Vordergabel. Es kombiniert rebellischen Stil mit moderner Technologie und einem leistungsstarken flüssigkeitsgekühlten V-Twin-Motor.",
+              "uk": "Yamaha Stryker — це сучасний чоппер з агресивною геометрією та сильно розширеною передньою вилкою. Він поєднує бунтарський стиль із сучасними технологіями та потужним V-подібним двигуном з рідинним охолодженням.",
+              "ru": "Yamaha Stryker — современный чоппер с агрессивной геометрией и сильно вытянутой передней вилкой. Он сочетает в себе мятежный стиль с современными технологиями и мощным V-образным двигателем жидкостного охлаждения.",
+              "zh": "雅马哈 Stryker 是一款现代斩波器，具有激进的几何形状和强力延伸的前叉。它将叛逆风格与现代技术以及强大的液冷 V 型双缸发动机相结合。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": "2011–2017",
+              "typ": {
+                "pl": "Chopper / Custom",
+                "en": "Chopper / Custom",
+                "de": "Chopper / Custom",
+                "uk": "Chopper / Custom",
+                "ru": "Чоппер/Пользовательский",
+                "zh": "斩波器/定制"
+              },
+              "silnik": {
+                "pl": "V-Twin, SOHC",
+                "en": "V-Twin, SOHC",
+                "de": "V-Twin, SOHC",
+                "uk": "V-Twin, SOHC",
+                "ru": "V-твин, SOHC",
+                "zh": "V型双缸、SOHC"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "TDM": [
+      {
+        "BrandID": 201,
+        "ModelID": 415965,
+        "Brand Name": "YAMAHA",
+        "Model Name": "TDM",
+        "Serie Name": "TDM",
+        "Years": "1991 - 2010",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Yamaha TDM to prekursor dzisiejszych motocykli typu crossover. Dzięki unikalnemu połączeniu ramy sportowej i zawieszenia o skoku terenowym, TDM stała się niezwykle wszechstronną maszyną do turystyki i jazdy na co dzień.",
+              "en": "The Yamaha TDM is the forerunner of today's crossover motorcycles. Thanks to the unique combination of a sports frame and off-road suspension, the TDM has become an extremely versatile machine for touring and everyday driving.",
+              "de": "Die Yamaha TDM ist der Vorläufer der heutigen Crossover-Motorräder. Dank der einzigartigen Kombination aus Sportrahmen und Offroad-Federung ist das TDM zu einer äußerst vielseitigen Maschine für Touren und Alltagsfahrten geworden.",
+              "uk": "Yamaha TDM є попередником сучасних кросоверних мотоциклів. Завдяки унікальному поєднанню спортивної рами та позашляхової підвіски, TDM став надзвичайно універсальною машиною для туристичних поїздок і повсякденного водіння.",
+              "ru": "Yamaha TDM — предшественник современных мотоциклов-кроссоверов. Благодаря уникальному сочетанию спортивной рамы и внедорожной подвески TDM стал чрезвычайно универсальной машиной для туризма и повседневной езды.",
+              "zh": "雅马哈 TDM 是当今跨界摩托车的先驱。得益于运动车架和越野悬架的独特组合，TDM 已成为一款适合旅行和日常驾驶的多功能机器。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": "1991–2011",
+              "typ": {
+                "pl": "Sport-touring / Crossover",
+                "en": "Sport-touring / Crossover",
+                "de": "Sporttouring / Crossover",
+                "uk": "Спортивний туристичний / кросовер",
+                "ru": "Спорт-турист/Кроссовер",
+                "zh": "运动旅行/跨界车"
+              },
+              "silnik": {
+                "pl": "R2 (Parallel-twin)",
+                "en": "R2 (Parallel-twin)",
+                "de": "R2 (Parallel-Twin)",
+                "uk": "R2 (паралельний твін)",
+                "ru": "R2 (параллельный сдвоенный)",
+                "zh": "R2（并联双）"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "TDR": [
+      {
+        "BrandID": 201,
+        "ModelID": 415967,
+        "Brand Name": "YAMAHA",
+        "Model Name": "TDR",
+        "Serie Name": "TDR",
+        "Years": "1988 - 1995",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Yamaha TDR to unikatowy motocykl typu 'dual-sport', który połączył silnik dwusuwowy z modelu TZR z podwoziem typu enduro. To niezwykle lekka i zrywna maszyna, która do dziś uchodzi za jeden z najbardziej ekscytujących motocykli o małej pojemności.",
+              "en": "Yamaha TDR is a unique 'dual-sport' motorcycle that combines the two-stroke engine from the TZR model with an enduro chassis. It is an extremely light and agile machine that is still considered one of the most exciting small-displacement motorcycles.",
+              "de": "Yamaha TDR ist ein einzigartiges „Dual-Sport“-Motorrad, das den Zweitaktmotor des TZR-Modells mit einem Enduro-Chassis kombiniert. Es ist eine extrem leichte und wendige Maschine, die immer noch als eines der aufregendsten Motorräder mit kleinem Hubraum gilt.",
+              "uk": "Yamaha TDR — це унікальний «подвійний спортивний» мотоцикл, який поєднує в собі двотактний двигун від моделі TZR і шасі ендуро. Це надзвичайно легка та маневрена машина, яка досі вважається одним із найцікавіших мотоциклів малого об’єму.",
+              "ru": "Yamaha TDR — уникальный мотоцикл двойного назначения, сочетающий в себе двухтактный двигатель модели TZR и шасси эндуро. Это чрезвычайно легкая и маневренная машина, которая до сих пор считается одним из самых захватывающих мотоциклов с малым объемом двигателя.",
+              "zh": "雅马哈 TDR 是一款独特的“双运动”摩托车，将 TZR 车型的二冲程发动机与耐力赛底盘相结合。它是一款极其轻便灵活的机器，至今仍被认为是最令人兴奋的小排量摩托车之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": "1988–2002",
+              "typ": {
+                "pl": "Dual-sport / Supermoto",
+                "en": "Dual-sport / Supermoto",
+                "de": "Dual-Sport / Supermoto",
+                "uk": "Dual-sport / Supermoto",
+                "ru": "Двойной спорт / Супермото",
+                "zh": "双重运动/超级摩托车"
+              },
+              "silnik": {
+                "pl": "Dwusuwowy (2-stroke)",
+                "en": "Two-stroke (2-stroke)",
+                "de": "Zweitakt (2-Takt)",
+                "uk": "Двотактний (2-тактний)",
+                "ru": "Двухтактный (2-тактный)",
+                "zh": "二冲程（2冲程）"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "TMAX": [
+      {
+        "BrandID": 201,
+        "ModelID": 416110,
+        "Brand Name": "YAMAHA",
+        "Model Name": "TMAX",
+        "Serie Name": "TMAX",
+        "Years": "2000 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Yamaha TMAX to król sportowych skuterów, który zatarł granicę między skuterem a motocyklem. Dzięki silnikowi zamontowanemu w ramie i doskonałemu zawieszeniu, oferuje osiągi i prowadzenie, które zawstydzają wiele motocykli sportowych.",
+              "en": "Yamaha TMAX is the king of sports scooters that blurred the line between a scooter and a motorcycle. With an in-frame engine and excellent suspension, it offers performance and handling that puts many sports bikes to shame.",
+              "de": "Yamaha TMAX ist der König der Sportroller, der die Grenze zwischen einem Roller und einem Motorrad verwischt. Mit einem Rahmenmotor und einer hervorragenden Federung bietet es eine Leistung und ein Handling, das viele Sportmotorräder in den Schatten stellt.",
+              "uk": "Yamaha TMAX — король спортивних скутерів, який стер межу між скутером і мотоциклом. Завдяки вбудованому в раму двигуну та чудовій підвісці він пропонує продуктивність і керованість, які соромлять багато спортивних мотоциклів.",
+              "ru": "Yamaha TMAX — король спортивных скутеров, стирающий грань между скутером и мотоциклом. Благодаря рамному двигателю и превосходной подвеске он обеспечивает производительность и управляемость, которые могут посрамить многие спортивные мотоциклы.",
+              "zh": "雅马哈 TMAX 是运动踏板车之王，模糊了踏板车和摩托车之间的界限。凭借框架内发动机和出色的悬架，它提供的性能和操控性令许多运动自行车相形见绌。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": {
+                "pl": "od 2001",
+                "en": "since 2001",
+                "de": "seit 2001",
+                "uk": "з 2001 року",
+                "ru": "с 2001 года",
+                "zh": "自2001年以来"
+              },
+              "typ": {
+                "pl": "Sport-maxi-skuter",
+                "en": "Sport-maxi-scooter",
+                "de": "Sport-Maxi-Scooter",
+                "uk": "Спорт-максі-скутер",
+                "ru": "Спорт-макси-скутер",
+                "zh": "运动型大型踏板车"
+              },
+              "pozycja rynkowa": {
+                "pl": "Lider segmentu",
+                "en": "Segment leader",
+                "de": "Segmentführer",
+                "uk": "Лідер сегмента",
+                "ru": "Лидер сегмента",
+                "zh": "细分市场领导者"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "TZR": [
+      {
+        "BrandID": 201,
+        "ModelID": 416215,
+        "Brand Name": "YAMAHA",
+        "Model Name": "TZR",
+        "Serie Name": "TZR",
+        "Years": "2000 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Seria TZR to sportowe motocykle o małych pojemnościach, które były przepustką do świata wyścigów dla wielu pokoleń motocyklistów. Ich stylistyka nawiązująca do modeli z serii R i świetne prowadzenie czynią z nich legendy segmentu 50/125 cm³.",
+              "en": "The TZR series are sports motorcycles with small capacities, which were a ticket to the world of racing for many generations of motorcyclists. Their styling reminiscent of the R series models and great handling make them legends of the 50/125 cm³ segment.",
+              "de": "Die TZR-Serie sind Sportmotorräder mit kleinem Hubraum, die für viele Generationen von Motorradfahrern eine Eintrittskarte in die Welt des Rennsports waren. Ihr an die R-Serien-Modelle erinnerndes Design und ihr tolles Handling machen sie zu Legenden im 50/125-cm³-Segment.",
+              "uk": "Серія TZR - це спортивні мотоцикли невеликої потужності, які були квитком у світ гонок для багатьох поколінь мотоциклістів. Їхній стиль, що нагадує моделі серії R, і чудова керованість роблять їх легендами сегмента 50/125 см³.",
+              "ru": "Серия TZR – это спортивные мотоциклы небольшой мощности, ставшие пропуском в мир гонок для многих поколений мотоциклистов. Их стиль напоминает модели серии R, а отличная управляемость делает их легендами сегмента 50/125 см³.",
+              "zh": "TZR 系列是小容量运动摩托车，是许多代摩托车手进入赛车世界的门票。它们的造型让人想起 R 系列车型，出色的操控性使它们成为 50/125 cm³ 细分市场的传奇。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": {
+                "pl": "od 1986",
+                "en": "from 1986",
+                "de": "von 1986",
+                "uk": "з 1986 року",
+                "ru": "1986 года.",
+                "zh": "1986 年生产"
+              },
+              "typ": {
+                "pl": "Sportowy (Mała pojemność)",
+                "en": "Sporty (Small capacity)",
+                "de": "Sportlich (geringe Kapazität)",
+                "uk": "Спортивний (мала місткість)",
+                "ru": "Спортивный (малой вместимости)",
+                "zh": "运动型（小容量）"
+              },
+              "stylistyka": {
+                "pl": "R-series look",
+                "en": "R-series look",
+                "de": "R-Serien-Look",
+                "uk": "Зовнішній вигляд серії R",
+                "ru": "Внешний вид R-серии.",
+                "zh": "R 系列外观"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Virago": [
+      {
+        "BrandID": 201,
+        "ModelID": 415972,
+        "Brand Name": "YAMAHA",
+        "Model Name": "Virago",
+        "Serie Name": "Virago",
+        "Years": "1986 - 2000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Yamaha Virago to rodzina klasycznych cruiserów, które stały się jednymi z najpopularniejszych motocykli w swojej klasie. Cenione za elegancką linię, niską kanapę i wyjątkowo trwałe silniki V-twin, są idealne zarówno dla początkujących, jak i doświadczonych jeźdźców.",
+              "en": "Yamaha Virago is a family of classic cruisers that have become one of the most popular motorcycles in their class. Appreciated for their elegant lines, low seat and exceptionally durable V-twin engines, they are perfect for both beginners and experienced riders.",
+              "de": "Yamaha Virago ist eine Familie klassischer Cruiser, die zu einem der beliebtesten Motorräder ihrer Klasse geworden ist. Sie werden für ihre eleganten Linien, den niedrigen Sitz und die außergewöhnlich langlebigen V-Twin-Motoren geschätzt und eignen sich sowohl für Anfänger als auch für erfahrene Fahrer.",
+              "uk": "Yamaha Virago — це сімейство класичних круїзерів, які стали одними з найпопулярніших мотоциклів у своєму класі. Їх цінують за елегантні лінії, низьке сидіння та надзвичайно міцні V-подібні двигуни, тому вони ідеально підходять як для новачків, так і для досвідчених райдерів.",
+              "ru": "Yamaha Virago — семейство классических круизеров, ставших одними из самых популярных мотоциклов в своем классе. Ценимые за элегантные линии, низкое сиденье и исключительно прочные V-образные двухцилиндровые двигатели, они идеально подходят как новичкам, так и опытным гонщикам.",
+              "zh": "Yamaha Virago 是一个经典巡洋舰家族，已成为同类中最受欢迎的摩托车之一。它们因其优雅的线条、低座椅和极其耐用的 V 型双缸发动机而受到赞赏，非常适合初学者和经验丰富的骑手。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": "1981–2007",
+              "typ": {
+                "pl": "Cruiser"
+              },
+              "cecha": {
+                "pl": "Klasyczna linia V-twin",
+                "en": "Classic V-twin line",
+                "de": "Klassische V-Twin-Linie",
+                "uk": "Класична лінія V-twin",
+                "ru": "Классический V-образный двухцилиндровый двигатель.",
+                "zh": "经典 V 型双缸系列"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "VMAX": [
+      {
+        "BrandID": 201,
+        "ModelID": 415974,
+        "Brand Name": "YAMAHA",
+        "Model Name": "VMAX",
+        "Serie Name": "VMAX",
+        "Years": "2008 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Yamaha VMAX to bezkompromisowy 'power cruiser', który zyskał status legendy dzięki swojemu monstrualnemu silnikowi V4 i brutalnemu przyspieszeniu. To maszyna stworzona do dominacji na prostej, budząca respekt swoim wyglądem i dźwiękiem.",
+              "en": "The Yamaha VMAX is an uncompromising power cruiser that has gained legendary status thanks to its monstrous V4 engine and brutal acceleration. This is a machine designed to dominate in a straight line, inspiring respect with its appearance and sound.",
+              "de": "Die Yamaha VMAX ist ein kompromissloser Power-Cruiser, der dank seines monströsen V4-Motors und seiner brutalen Beschleunigung legendären Status erlangt hat. Dies ist eine Maschine, die so konzipiert ist, dass sie in einer geraden Linie dominiert und durch ihr Aussehen und ihren Klang Respekt einflößt.",
+              "uk": "Yamaha VMAX — це безкомпромісний потужний крейсер, який отримав легендарний статус завдяки своєму чудовому двигуну V4 і жорстокому прискоренню. Це машина, створена для домінування на прямій лінії, викликаючи повагу своїм виглядом і звуком.",
+              "ru": "Yamaha VMAX — бескомпромиссный мощный круизер, завоевавший легендарный статус благодаря чудовищному двигателю V4 и невероятному ускорению. Это машина, созданная для доминирования на прямой, внушающая уважение своим внешним видом и звуком.",
+              "zh": "雅马哈 VMAX 是一款毫不妥协的动力巡洋舰，凭借其巨大的 V4 发动机和残酷的加速能力而获得了传奇地位。这是一款专为直线行驶而设计的机器，其外观和声音令人尊敬。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": "1985–2020",
+              "typ": {
+                "pl": "Power Cruiser / Muscle Bike",
+                "en": "Power Cruiser / Muscle Bike",
+                "de": "Power Cruiser / Muscle Bike",
+                "uk": "Power Cruiser / Muscle Bike",
+                "ru": "Power Cruiser / Muscle Bike",
+                "zh": "动力巡洋舰/肌肉自行车"
+              },
+              "silnik": {
+                "pl": "V4, ogromna moc",
+                "en": "V4, enormous power",
+                "de": "V4, enorme Power",
+                "uk": "V4, величезна потужність",
+                "ru": "V4, огромная мощность",
+                "zh": "V4，巨大动力"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "VX": [
+      {
+        "BrandID": 201,
+        "ModelID": 415953,
+        "Brand Name": "YAMAHA",
+        "Model Name": "VX",
+        "Serie Name": "VX",
+        "Years": "2006 - 2021",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Seria VX to wszechstronne i niezawodne skutery wodne (WaveRunner), które zrewolucjonizowały rekreację na wodzie. Łączą w sobie doskonałą stabilność, oszczędne silniki i łatwość obsługi, będąc najchętniej wybieranymi jednostkami na świecie.",
+              "en": "The VX series are versatile and reliable water scooters (WaveRunner) that have revolutionized recreation on the water. They combine excellent stability, fuel-efficient engines and ease of operation, making them the most frequently chosen units in the world.",
+              "de": "Die VX-Serie sind vielseitige und zuverlässige Wasserscooter (WaveRunner), die die Freizeitgestaltung auf dem Wasser revolutioniert haben. Sie vereinen hervorragende Stabilität, sparsame Motoren und einfache Bedienung und sind damit die am häufigsten gewählten Geräte weltweit.",
+              "uk": "Серія VX — це універсальні та надійні водні скутери (WaveRunner), які зробили революцію у відпочинку на воді. Вони поєднують у собі чудову стабільність, економічні двигуни та простоту керування, що робить їх найбільш часто вибираними агрегатами у світі.",
+              "ru": "Серия VX — это универсальные и надежные водные скутеры (WaveRunner), которые произвели революцию в отдыхе на воде. Они сочетают в себе превосходную стабильность, экономичные двигатели и простоту управления, что делает их наиболее часто выбираемыми агрегатами в мире.",
+              "zh": "VX 系列是多功能且可靠的水上摩托车 (WaveRunner)，彻底改变了水上娱乐活动。它们结合了卓越的稳定性、燃油效率高的发动机和易于操作的特点，使其成为世界上最常被选择的装置。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": {
+                "pl": "od 2005",
+                "en": "from 2005",
+                "de": "ab 2005",
+                "uk": "з 2005 р.",
+                "ru": "2005 г.",
+                "zh": "2005 年起"
+              },
+              "typ": {
+                "pl": "Skuter wodny (WaveRunner)",
+                "en": "Water scooter (WaveRunner)",
+                "de": "Wasserscooter (WaveRunner)",
+                "uk": "Водний скутер (WaveRunner)",
+                "ru": "Водный скутер (WaveRunner)",
+                "zh": "水上摩托车 (WaveRunner)"
+              },
+              "zastosowanie": {
+                "pl": "Rekreacja / Sport",
+                "en": "Recreation / Sports",
+                "de": "Freizeit / Sport",
+                "uk": "Відпочинок / Спорт",
+                "ru": "Отдых/Спорт",
+                "zh": "休闲/运动"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "WR": [
+      {
+        "BrandID": 201,
+        "ModelID": 415976,
+        "Brand Name": "YAMAHA",
+        "Model Name": "WR",
+        "Serie Name": "WR",
+        "Years": "2001 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Seria WR (Wide Ratio) to wyczynowe i rekreacyjne motocykle enduro, znane ze swojej niesamowitej wytrzymałości i doskonałych właściwości terenowych. Modele WR zainspirowały rzesze fanów off-roadu do odkrywania nieznanych ścieżek.",
+              "en": "The WR (Wide Ratio) series are high-performance and recreational enduro motorcycles, known for their incredible durability and excellent off-road properties. WR models have inspired crowds of off-road fans to explore unknown paths.",
+              "de": "Bei der WR-Serie (Wide Ratio) handelt es sich um Hochleistungs- und Freizeit-Enduro-Motorräder, die für ihre unglaubliche Haltbarkeit und hervorragende Offroad-Eigenschaften bekannt sind. WR-Modelle haben Scharen von Offroad-Fans dazu inspiriert, unbekannte Wege zu erkunden.",
+              "uk": "Серія WR (Wide Ratio) — це високопродуктивні та розважальні ендуро-мотоцикли, відомі своєю неймовірною довговічністю та відмінними позашляховими якостями. Моделі WR надихнули натовпи шанувальників бездоріжжя на дослідження незвіданих шляхів.",
+              "ru": "Серия WR (Wide Ratio) — это высокопроизводительные мотоциклы эндуро для отдыха и развлечений, известные своей невероятной долговечностью и отличными внедорожными свойствами. Модели WR вдохновили толпы любителей бездорожья исследовать неизведанные тропы.",
+              "zh": "WR（宽速比）系列是高性能和休闲耐力摩托车，以其令人难以置信的耐用性和出色的越野性能而闻名。 WR 车型激发了大批越野爱好者探索未知的道路。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": {
+                "pl": "od 1991",
+                "en": "from 1991",
+                "de": "ab 1991",
+                "uk": "з 1991 року",
+                "ru": "с 1991 года.",
+                "zh": "源自 1991 年"
+              },
+              "typ": {
+                "pl": "Enduro / Off-road",
+                "en": "Enduro / Off-road",
+                "de": "Enduro / Offroad",
+                "uk": "Ендуро / Позашляховий",
+                "ru": "Эндуро / Off-road",
+                "zh": "耐力赛/越野"
+              },
+              "skrzynia biegów": {
+                "pl": "Wide ratio (szerokie przełożenia)",
+                "en": "Wide ratio",
+                "de": "Großes Übersetzungsverhältnis",
+                "uk": "Широке передаточне число",
+                "ru": "Широкое передаточное число",
+                "zh": "宽速比"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "X-MAX": [
+      {
+        "BrandID": 201,
+        "ModelID": 416243,
+        "Brand Name": "YAMAHA",
+        "Model Name": "X-MAX",
+        "Serie Name": "X-MAX",
+        "Years": "2000 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Yamaha X-MAX to seria skuterów premium, które łączą praktyczność z dynamicznym prowadzeniem. Dzięki dużej przestrzeni pod siedzeniem, oświetleniu LED i systemom takim jak kontrola trakcji, X-MAX jest wzorcem w klasie średniej skuterów.",
+              "en": "Yamaha X-MAX is a series of premium scooters that combine practicality with dynamic handling. With plenty of space under the seat, LED lighting and systems such as traction control, the X-MAX is a benchmark in the mid-range scooter class.",
+              "de": "Yamaha X-MAX ist eine Serie von Premium-Rollern, die Praktikabilität mit dynamischem Handling verbinden. Mit viel Platz unter dem Sitz, LED-Beleuchtung und Systemen wie der Traktionskontrolle ist der X-MAX ein Maßstab in der Mittelklasse-Rollerklasse.",
+              "uk": "Yamaha X-MAX — це серія скутерів преміум-класу, які поєднують практичність із динамічною керованістю. Завдяки достатньому простору під сидінням, світлодіодним освітленням і таким системам, як контроль тяги, X-MAX є еталоном у класі скутерів середнього класу.",
+              "ru": "Yamaha X-MAX — серия скутеров премиум-класса, сочетающих в себе практичность и динамичную управляемость. Благодаря большому пространству под сиденьем, светодиодному освещению и таким системам, как антипробуксовочная система, X-MAX является эталоном в классе скутеров среднего класса.",
+              "zh": "雅马哈 X-MAX 是一系列优质踏板车，将实用性与动态操控性相结合。 X-MAX 拥有充足的座椅下方空间、LED 照明和牵引力控制等系统，是中档踏板车级别的标杆。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": {
+                "pl": "od 2006",
+                "en": "from 2006",
+                "de": "ab 2006",
+                "uk": "з 2006 року",
+                "ru": "от 2006 года",
+                "zh": "2006 年起"
+              },
+              "typ": {
+                "pl": "Sport-maxi-skuter",
+                "en": "Sport-maxi-scooter",
+                "de": "Sport-Maxi-Scooter",
+                "uk": "Спорт-максі-скутер",
+                "ru": "Спорт-макси-скутер",
+                "zh": "运动型大型踏板车"
+              },
+              "segment": {
+                "pl": "Premium"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "XJ": [
+      {
+        "BrandID": 201,
+        "ModelID": 415725,
+        "Brand Name": "YAMAHA",
+        "Model Name": "XJ",
+        "Serie Name": "XJ",
+        "Years": "1985 - 2000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Segment F (Luxury)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Seria XJ to uniwersalne motocykle szosowe, które przez dekady zaskarbiały sobie sympatię użytkowników swoją niezawodnością i niskimi kosztami eksploatacji. To klasyczne 'konie robocze', które świetnie sprawdzają się w każdych warunkach.",
+              "en": "The XJ series are universal road motorcycles that have won the sympathy of users for decades with their reliability and low operating costs. These are classic 'workhorses' that perform great in all conditions.",
+              "de": "Die XJ-Serie sind universelle Straßenmotorräder, die seit Jahrzehnten durch ihre Zuverlässigkeit und niedrigen Betriebskosten die Sympathie der Nutzer gewinnen. Dies sind klassische „Arbeitspferde“, die unter allen Bedingungen hervorragende Leistungen erbringen.",
+              "uk": "Серія XJ - це універсальні шосейні мотоцикли, які десятиліттями завойовують симпатії користувачів своєю надійністю та низькими експлуатаційними витратами. Це класичні «робочі конячки», які чудово працюють у будь-яких умовах.",
+              "ru": "Серия XJ — универсальные дорожные мотоциклы, десятилетиями завоевывающие симпатии пользователей своей надежностью и невысокими эксплуатационными расходами. Это классические «рабочие лошадки», которые отлично работают в любых условиях.",
+              "zh": "XJ 系列是通用公路摩托车，数十年来以其可靠性和低运营成本赢得了用户的同情。这些是经典的“主力”，在所有条件下都表现出色。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": "1980–2016",
+              "typ": {
+                "pl": "Naked / Street",
+                "en": "Naked / Street",
+                "de": "Nackt / Straße",
+                "uk": "Naked / Street",
+                "ru": "Голый/Уличный",
+                "zh": "裸露/街头"
+              },
+              "cecha": {
+                "pl": "Wysoka niezawodność",
+                "en": "High reliability",
+                "de": "Hohe Zuverlässigkeit",
+                "uk": "Висока надійність",
+                "ru": "Высокая надежность",
+                "zh": "高可靠性"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "XJR": [
+      {
+        "BrandID": 201,
+        "ModelID": 415979,
+        "Brand Name": "YAMAHA",
+        "Model Name": "XJR",
+        "Serie Name": "XJR",
+        "Years": "1998 - 2021",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Segment F (Luxury)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Yamaha XJR to legenda w klasie dużych, klasycznych motocykli typu naked. Z potężnym silnikiem chłodzonym powietrzem i muskularną sylwetką, XJR jest hołdem dla 'złotej ery' motocyklizmu i czystej mechaniki.",
+              "en": "The Yamaha XJR is a legend in the class of large, classic naked motorcycles. With a powerful air-cooled engine and a muscular silhouette, the XJR is a tribute to the 'golden age' of motorcycling and pure mechanics.",
+              "de": "Die Yamaha XJR ist eine Legende in der Klasse der großen, klassischen Naked-Motorräder. Mit einem leistungsstarken, luftgekühlten Motor und einer muskulösen Silhouette ist die XJR eine Hommage an das „goldene Zeitalter“ des Motorradfahrens und der reinen Mechanik.",
+              "uk": "Yamaha XJR - це легенда в класі великих класичних мотоциклів Naked. Завдяки потужному двигуну з повітряним охолодженням і м’язистому силуету XJR є даниною «золотого віку» мотоциклів і чистої механіки.",
+              "ru": "Yamaha XJR — легенда в классе больших классических мотоциклов нейкед. XJR с мощным двигателем воздушного охлаждения и мускулистым силуэтом является данью «золотому веку» мотоциклов и чистой механики.",
+              "zh": "雅马哈 XJR 是大型经典裸露摩托车领域的传奇。 XJR 拥有强大的风冷发动机和肌肉感十足的轮廓，是对摩托车和纯机械“黄金时代”的致敬。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": "1994–2016",
+              "typ": {
+                "pl": "Classic Naked",
+                "en": "Classic Naked",
+                "de": "Classic Naked",
+                "uk": "Classic Naked",
+                "ru": "Классический голый",
+                "zh": "Classic Naked"
+              },
+              "silnik": {
+                "pl": "R4, chłodzony powietrzem",
+                "en": "R4, air-cooled",
+                "de": "R4, luftgekühlt",
+                "uk": "R4, з повітряним охолодженням",
+                "ru": "R4, с воздушным охлаждением",
+                "zh": "R4，风冷"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "XSR": [
+      {
+        "BrandID": 201,
+        "ModelID": 416134,
+        "Brand Name": "YAMAHA",
+        "Model Name": "XSR",
+        "Serie Name": "XSR",
+        "Years": "2000 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Seria XSR (Faster Sons) to nowoczesne motocykle w stylu retro, które łączą dziedzictwo klasycznych modeli Yamahy z najnowocześniejszą technologią ram i silników z serii MT. To idealny wybór dla miłośników stylu vintage i współczesnych osiągów.",
+              "en": "The XSR (Faster Sons) series are modern retro-style motorcycles that combine the heritage of classic Yamaha models with the latest frame and engine technology from the MT series. It's the perfect choice for lovers of vintage style and modern performance.",
+              "de": "Die XSR-Serie (Faster Sons) sind moderne Motorräder im Retro-Stil, die das Erbe klassischer Yamaha-Modelle mit der neuesten Rahmen- und Motortechnologie der MT-Serie kombinieren. Es ist die perfekte Wahl für Liebhaber von Vintage-Stil und moderner Leistung.",
+              "uk": "Серія XSR (Faster Sons) — це сучасні мотоцикли в стилі ретро, ​​які поєднують спадщину класичних моделей Yamaha з новітньою технологією рами та двигуна серії MT. Це ідеальний вибір для любителів вінтажного стилю та сучасного виконання.",
+              "ru": "Серия XSR (Faster Sons) — это современные мотоциклы в стиле ретро, ​​сочетающие в себе наследие классических моделей Yamaha с новейшими технологиями рамы и двигателя серии MT. Это идеальный выбор для любителей винтажного стиля и современного исполнения.",
+              "zh": "XSR（Faster Sons）系列是现代复古风格摩托车，将经典雅马哈车型的传统与 MT 系列的最新车架和发动机技术相结合。它是复古风格和现代性能爱好者的完美选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": {
+                "pl": "od 2016",
+                "en": "from 2016",
+                "de": "ab 2016",
+                "uk": "з 2016 року",
+                "ru": "с 2016 года",
+                "zh": "2016 年起"
+              },
+              "typ": {
+                "pl": "Heritage / Neo-Retro",
+                "en": "Heritage / Neo-Retro",
+                "de": "Heritage / Neo-Retro",
+                "uk": "Heritage / Neo-Retro",
+                "ru": "Наследие/Нео-Ретро",
+                "zh": "传统 / 新复古"
+              },
+              "koncepcja": {
+                "pl": "Faster Sons",
+                "en": "Faster Sons",
+                "de": "Faster Sons",
+                "uk": "Faster Sons",
+                "ru": "Быстрые сыновья",
+                "zh": "Faster Sons"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "XT": [
+      {
+        "BrandID": 201,
+        "ModelID": 415981,
+        "Brand Name": "YAMAHA",
+        "Model Name": "XT",
+        "Serie Name": "XT",
+        "Years": "2005 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Yamaha XT to jedna z najważniejszych linii motocykli w historii, która zapoczątkowała modę na maszyny typu adventure. Od pierwszego XT500, który wygrywał rajd Paryż-Dakar, po nowoczesne wersje, XT jest symbolem wolności i przygody.",
+              "en": "Yamaha XT is one of the most important lines of motorcycles in history, which started the fashion for adventure machines. From the first XT500 that won the Paris-Dakar Rally to modern versions, the XT is a symbol of freedom and adventure.",
+              "de": "Yamaha XT ist eine der wichtigsten Motorradlinien in der Geschichte, mit der die Mode für Abenteuermaschinen begann. Von der ersten XT500, die die Rallye Paris-Dakar gewann, bis hin zu modernen Versionen ist die XT ein Symbol für Freiheit und Abenteuer.",
+              "uk": "Yamaha XT — одна з найважливіших ліній мотоциклів в історії, яка поклала початок моді на пригодницькі машини. Від першого XT500, який виграв ралі Париж-Дакар, до сучасних версій, XT є символом свободи та пригод.",
+              "ru": "Yamaha XT — одна из важнейших линеек мотоциклов в истории, положившая начало моде на приключенческие машины. От первого XT500, выигравшего ралли Париж-Дакар, до современных версий, XT является символом свободы и приключений.",
+              "zh": "雅马哈 XT 是历史上最重要的摩托车系列之一，它开启了冒险机的时尚。从第一款赢得巴黎达喀尔拉力赛冠军的 XT500 到现代版本，XT 一直是自由和冒险的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": {
+                "pl": "od 1976",
+                "en": "since 1976",
+                "de": "seit 1976",
+                "uk": "з 1976",
+                "ru": "с 1976 года",
+                "zh": "自 1976 年以来"
+              },
+              "typ": {
+                "pl": "Enduro / Adventure",
+                "en": "Enduro / Adventure",
+                "de": "Enduro / Abenteuer",
+                "uk": "Enduro / Adventure",
+                "ru": "Эндуро/Приключение",
+                "zh": "耐力赛 / 冒险"
+              },
+              "legenda": {
+                "pl": "Pionier rajdów pustynnych",
+                "en": "Pioneer of desert rallies",
+                "de": "Pionier der Wüstenrallyes",
+                "uk": "Піонер пустельних ралі",
+                "ru": "Пионер митингов в пустыне",
+                "zh": "沙漠拉力赛的先驱"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "XTZ": [
+      {
+        "BrandID": 201,
+        "ModelID": 415983,
+        "Brand Name": "YAMAHA",
+        "Model Name": "XTZ",
+        "Serie Name": "XTZ",
+        "Years": "1991 - 2015",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Seria XTZ (Tenere) to motocykle stworzone do najtrudniejszych wypraw na krańce świata. Nazwane na cześć pustynnego regionu, oferują niebywałą dzielność terenową, trwałość i zasięg, których wymagają prawdziwi podróżnicy.",
+              "en": "The XTZ (Tenere) series are motorcycles created for the most difficult expeditions to the ends of the world. Named after the desert region, they offer the incredible off-road capability, durability and range that true travelers demand.",
+              "de": "Die XTZ (Tenere)-Serie sind Motorräder, die für die schwierigsten Expeditionen bis ans Ende der Welt entwickelt wurden. Sie sind nach der Wüstenregion benannt und bieten die unglaubliche Geländetauglichkeit, Haltbarkeit und Reichweite, die echte Reisende verlangen.",
+              "uk": "Серія XTZ (Tenere) — це мотоцикли, створені для найскладніших експедицій на кінці світу. Названі на честь пустельного регіону, вони пропонують неймовірну бездоріжжя, довговічність і запас ходу, які потрібні справжнім мандрівникам.",
+              "ru": "Серия XTZ (Тенере) — мотоциклы, созданные для самых сложных экспедиций на край света. Названные в честь пустынного региона, они предлагают невероятную проходимость, долговечность и запас хода, необходимые истинным путешественникам.",
+              "zh": "XTZ (Tenere) 系列是专为最艰难的世界尽头探险而设计的摩托车。它们以沙漠地区命名，提供真正旅行者所需的令人难以置信的越野能力、耐用性和续航里程。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": {
+                "pl": "od 1983",
+                "en": "from 1983",
+                "de": "von 1983",
+                "uk": "з 1983 року",
+                "ru": "с 1983 года",
+                "zh": "来自 1983 年"
+              },
+              "typ": {
+                "pl": "Adventure / Rally Raid",
+                "en": "Adventure / Rally Raid",
+                "de": "Adventure / Rally Raid",
+                "uk": "Adventure / Rally Raid",
+                "ru": "Приключение/Ралли-рейд",
+                "zh": "Adventure / Rally Raid"
+              },
+              "model flagowy": {
+                "pl": "Super Tenere / Tenere 700",
+                "en": "Super Tenere / Tenere 700",
+                "de": "Super Tenere / Tenere 700",
+                "uk": "Super Tenere / Tenere 700",
+                "ru": "Супер Тенере / Тенере 700",
+                "zh": "Super Tenere / Tenere 700"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "XV": [
+      {
+        "BrandID": 201,
+        "ModelID": 415985,
+        "Brand Name": "YAMAHA",
+        "Model Name": "XV",
+        "Serie Name": "XV",
+        "Years": "1999 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Yamaha XV to rodzina klasycznych cruiserów i chopperów, znanych jako Virago czy Bolt. Ich sercem są zawsze charakterystycznie brzmiące silniki V-twin, które w połączeniu z niską linią nadwozia zapewniają niepowtarzalny klimat jazdy.",
+              "en": "Yamaha XV is a family of classic cruisers and choppers, known as Virago or Bolt. Their heart is always the characteristic-sounding V-twin engines, which, combined with the low body line, provide a unique driving atmosphere.",
+              "de": "Yamaha XV ist eine Familie klassischer Cruiser und Chopper, bekannt als Virago oder Bolt. Ihr Herzstück sind stets die charakteristisch klingenden V-Twin-Motoren, die in Kombination mit der niedrigen Karosserielinie für eine einzigartige Fahratmosphäre sorgen.",
+              "uk": "Yamaha XV — це сімейство класичних круїзерів і чоперів, відомих як Virago або Bolt. Їхнім серцем завжди є V-подібні двигуни з характерним звучанням, які в поєднанні з низькою лінією кузова створюють унікальну атмосферу водіння.",
+              "ru": "Yamaha XV — семейство классических круизеров и чопперов, известных как Virago или Bolt. Их сердцем всегда являются характерно звучащие двигатели V-twin, которые в сочетании с низкой линией кузова создают уникальную атмосферу вождения.",
+              "zh": "Yamaha XV 是一个经典巡洋舰和直升机家族，被称为 Virago 或 Bolt。他们的核心始终是具有特色的 V 型双缸发动机，与低车身线条相结合，提供了独特的驾驶氛围。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": {
+                "pl": "od 1981",
+                "en": "from 1981",
+                "de": "von 1981",
+                "uk": "з 1981 року",
+                "ru": "с 1981 года",
+                "zh": "源自 1981 年"
+              },
+              "typ": {
+                "pl": "Cruiser / Chopper",
+                "en": "Cruiser / Chopper",
+                "de": "Cruiser / Chopper",
+                "uk": "Cruiser / Chopper",
+                "ru": "Крейсер/Чоппер",
+                "zh": "Cruiser / Chopper"
+              },
+              "silnik": {
+                "pl": "V-Twin"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "XVS": [
+      {
+        "BrandID": 201,
+        "ModelID": 415987,
+        "Brand Name": "YAMAHA",
+        "Model Name": "XVS",
+        "Serie Name": "XVS",
+        "Years": "1999 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Yamaha XVS (DragStar / V-Star) to jedna z najbardziej udanych serii cruiserów w historii. Łączy klasyczny wygląd z nowoczesną niezawodnością i niskim środkiem ciężkości, co czyni te motocykle niezwykle łatwymi w prowadzeniu nawet dla początkujących.",
+              "en": "Yamaha XVS (DragStar / V-Star) is one of the most successful cruiser series in history. It combines classic looks with modern reliability and a low center of gravity, making these bikes incredibly easy to ride, even for beginners.",
+              "de": "Yamaha XVS (DragStar / V-Star) ist eine der erfolgreichsten Cruiser-Serien der Geschichte. Es kombiniert klassisches Aussehen mit moderner Zuverlässigkeit und einem niedrigen Schwerpunkt und macht diese Fahrräder auch für Einsteiger unglaublich einfach zu fahren.",
+              "uk": "Yamaha XVS (DragStar / V-Star) — одна з найуспішніших серій круїзерів в історії. Він поєднує в собі класичний вигляд із сучасною надійністю та низьким центром тяжіння, що робить ці велосипеди неймовірно легкими у їзді навіть для новачків.",
+              "ru": "Yamaha XVS (DragStar/V-Star) — одна из самых успешных серий круизеров в истории. Он сочетает в себе классический внешний вид с современной надежностью и низким центром тяжести, что делает управление этими велосипедами невероятно простыми даже для новичков.",
+              "zh": "Yamaha XVS（DragStar / V-Star）是历史上最成功的巡洋舰系列之一。它将经典外观与现代可靠性和低重心结合在一起，使这些自行车即使对于初学者来说也非常容易骑行。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": {
+                "pl": "od 1996",
+                "en": "from 1996",
+                "de": "ab 1996",
+                "uk": "з 1996",
+                "ru": "с 1996 года",
+                "zh": "1996 年生产"
+              },
+              "typ": {
+                "pl": "Cruiser"
+              },
+              "cecha": {
+                "pl": "Niski środek ciężkości",
+                "en": "Low center of gravity",
+                "de": "Niedriger Schwerpunkt",
+                "uk": "Низький центр ваги",
+                "ru": "Низкий центр тяжести",
+                "zh": "低重心"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "XVZ": [
+      {
+        "BrandID": 201,
+        "ModelID": 415989,
+        "Brand Name": "YAMAHA",
+        "Model Name": "XVZ",
+        "Serie Name": "XVZ",
+        "Years": "1983 - 1993",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Seria XVZ (Royal Star) to potężne motocykle typu touring, które wprowadziły silnik V4 do świata cruiserów. Zapewniają one niespotykany standard komfortu pasażera i kierowcy, będąc jednymi z najbardziej majestatycznych maszyn w ofercie Yamahy.",
+              "en": "The XVZ (Royal Star) series are powerful touring motorcycles that introduced the V4 engine to the world of cruisers. They provide an unprecedented standard of passenger and rider comfort, being some of the most majestic machines in Yamaha's lineup.",
+              "de": "Die XVZ-Serie (Royal Star) sind leistungsstarke Tourenmotorräder, die den V4-Motor in die Welt der Cruiser einführten. Sie bieten einen beispiellosen Standard an Fahrgast- und Fahrerkomfort und gehören zu den majestätischsten Maschinen in Yamahas Produktpalette.",
+              "uk": "Серія XVZ (Royal Star) — це потужні туристичні мотоцикли, які представили двигун V4 у світі круїзерів. Вони забезпечують безпрецедентний рівень комфорту для пасажирів і водіїв, будучи одними з найвеличніших машин у лінійці Yamaha.",
+              "ru": "Серия XVZ (Royal Star) представляла собой мощные туристические мотоциклы, которые познакомили мир круизеров с двигателем V4. Они обеспечивают беспрецедентный уровень комфорта пассажиров и водителя и являются одними из самых величественных машин в линейке Yamaha.",
+              "zh": "XVZ（皇家之星）系列是强大的旅行摩托车，将 V4 发动机引入巡洋舰世界。它们提供了前所未有的乘客和骑手舒适度标准，是雅马哈产品线中最宏伟的机器之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": "1983–2013",
+              "typ": {
+                "pl": "Luxury Cruiser / Touring",
+                "en": "Luxury Cruiser / Touring",
+                "de": "Luxuskreuzer / Touring",
+                "uk": "Luxury Cruiser / Touring",
+                "ru": "Роскошный круизер/турист",
+                "zh": "豪华巡洋舰/旅行车"
+              },
+              "silnik": {
+                "pl": "V4"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "YBR": [
+      {
+        "BrandID": 201,
+        "ModelID": 415991,
+        "Brand Name": "YAMAHA",
+        "Model Name": "YBR",
+        "Serie Name": "YBR",
+        "Years": "2004 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Yamaha YBR to synonim niezawodności i ekonomii w klasie lekkich motocykli miejskich. Dzięki prostej konstrukcji i genialnej zwinności, YBR jest najczęstszym wyborem dla szkół nauki jazdy oraz osób szukających taniego transportu.",
+              "en": "Yamaha YBR is synonymous with reliability and economy in the class of light city motorcycles. Thanks to its simple design and brilliant agility, the YBR is the most common choice for driving schools and people looking for cheap transport.",
+              "de": "Yamaha YBR ist ein Synonym für Zuverlässigkeit und Wirtschaftlichkeit in der Klasse der leichten Stadtmotorräder. Dank seines einfachen Designs und seiner hervorragenden Agilität ist der YBR die häufigste Wahl für Fahrschulen und Menschen, die einen günstigen Transport suchen.",
+              "uk": "Yamaha YBR є синонімом надійності та економічності в класі легких міських мотоциклів. Завдяки своїй простій конструкції та блискучій маневреності YBR є найпоширенішим вибором для автошкіл і людей, які шукають дешевий транспорт.",
+              "ru": "Yamaha YBR – синоним надежности и экономичности в классе легких городских мотоциклов. Благодаря простоте конструкции и великолепной маневренности YBR является наиболее распространенным выбором автошкол и людей, ищущих дешевый транспорт.",
+              "zh": "雅马哈 YBR 是轻型城市摩托车中可靠性和经济性的代名词。由于其简单的设计和卓越的灵活性，YBR 成为驾校和寻找廉价交通工具的人们最常见的选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": {
+                "pl": "od 2004",
+                "en": "since 2004",
+                "de": "seit 2004",
+                "uk": "з 2004 року",
+                "ru": "с 2004 года",
+                "zh": "自 2004 年"
+              },
+              "typ": {
+                "pl": "Commuter / Street",
+                "en": "Commuter / Street",
+                "de": "Pendler / Straße",
+                "uk": "Приміська/вул",
+                "ru": "Пригородный / Улица",
+                "zh": "通勤/街道"
+              },
+              "atut": {
+                "pl": "Legendarna niezawodność",
+                "en": "Legendary Reliability",
+                "de": "Legendäre Zuverlässigkeit",
+                "uk": "Легендарна надійність",
+                "ru": "Легендарная надежность",
+                "zh": "传奇的可靠性"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "YFZ": [
+      {
+        "BrandID": 201,
+        "ModelID": 415993,
+        "Brand Name": "YAMAHA",
+        "Model Name": "YFZ",
+        "Serie Name": "YFZ",
+        "Years": "2000 - 2009",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Seria YFZ to wyczynowe quady sportowe, które zdominowały zawody typu motocross i wyścigi pustynne. Wykorzystują technologie z silników motocyklowych serii YZ, oferując bezkonkurencyjny stosunek mocy do masy.",
+              "en": "The YFZ series are high-performance sports quads that have dominated motocross and desert racing. They use technology from YZ series motorcycle engines, offering an unrivaled power-to-weight ratio.",
+              "de": "Die YFZ-Serie sind leistungsstarke Sport-Quads, die Motocross und Wüstenrennen dominiert haben. Sie nutzen die Technologie von Motorradmotoren der YZ-Serie und bieten ein unübertroffenes Leistungsgewicht.",
+              "uk": "Серія YFZ — це високопродуктивні спортивні квадроцикли, які домінували в змаганнях з мотокросу та гонок по пустелі. Вони використовують технологію мотоциклетних двигунів серії YZ, що забезпечує неперевершене співвідношення потужності та ваги.",
+              "ru": "Серия YFZ — это высокопроизводительные спортивные квадроциклы, доминировавшие в мотокроссе и гонках по пустыне. В них используются технологии мотоциклетных двигателей серии YZ, обеспечивающие непревзойденное соотношение мощности и веса.",
+              "zh": "YFZ 系列是高性能运动四轮摩托车，在越野摩托车和沙漠赛车中占据主导地位。它们采用 YZ 系列摩托车发动机技术，提供无与伦比的功率重量比。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": {
+                "pl": "od 2004",
+                "en": "from 2004",
+                "de": "ab 2004",
+                "uk": "з 2004 року",
+                "ru": "2004 года.",
+                "zh": "2004 年生产"
+              },
+              "typ": {
+                "pl": "Sportowy Quad (ATV)",
+                "en": "Sports Quad (ATV)",
+                "de": "Sports Quad (ATV)",
+                "uk": "Спортивний квадроцикл (квадроцикл)",
+                "ru": "Sports Quad (ATV)",
+                "zh": "运动四轮摩托车 (ATV)"
+              },
+              "zastosowanie": {
+                "pl": "Wyczynowe / Sportowe",
+                "en": "Performance / Sports",
+                "de": "Leistung / Sport",
+                "uk": "Виступ / Спорт",
+                "ru": "Performance/Sports",
+                "zh": "性能/运动"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "YS": [
+      {
+        "BrandID": 201,
+        "ModelID": 416138,
+        "Brand Name": "YAMAHA",
+        "Model Name": "YS",
+        "Serie Name": "YS",
+        "Years": "1990 - 2021",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Yamaha YS to linia praktycznych motocykli miejskich, będąca ewolucją popularnej serii YBR. Oferuje nowoczesny design, niskie zużycie paliwa i ergonomiczną pozycję, co czyni ją idealnym narzędziem do codziennego przemieszczania się.",
+              "en": "Yamaha YS is a line of practical city motorcycles, an evolution of the popular YBR series. It offers a modern design, low fuel consumption and an ergonomic position, making it an ideal tool for everyday mobility.",
+              "de": "Yamaha YS ist eine Reihe praktischer Stadtmotorräder, eine Weiterentwicklung der beliebten YBR-Serie. Es bietet ein modernes Design, einen geringen Kraftstoffverbrauch und eine ergonomische Position und ist damit ein ideales Werkzeug für die alltägliche Mobilität.",
+              "uk": "Yamaha YS — лінійка практичних міських мотоциклів, еволюція популярної серії YBR. Він пропонує сучасний дизайн, низьке споживання палива та ергономічне положення, що робить його ідеальним інструментом для повсякденної мобільності.",
+              "ru": "Yamaha YS — линейка практичных городских мотоциклов, развитие популярной серии YBR. Он отличается современным дизайном, низким расходом топлива и эргономичным положением, что делает его идеальным инструментом для повседневной мобильности.",
+              "zh": "雅马哈 YS 是实用的城市摩托车系列，是流行的 YBR 系列的演变。它具有现代设计、低油耗和符合人体工程学的位置，使其成为日常出行的理想工具。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": {
+                "pl": "od 2017",
+                "en": "from 2017",
+                "de": "ab 2017",
+                "uk": "з 2017 року",
+                "ru": "с 2017 года",
+                "zh": "2017 年起"
+              },
+              "typ": {
+                "pl": "Commuter / City",
+                "en": "Commuter / City",
+                "de": "Commuter / City",
+                "uk": "Приміський/міський",
+                "ru": "Пригородный / Городской",
+                "zh": "通勤/城市"
+              },
+              "silnik": {
+                "pl": "125 ccm",
+                "en": "125 ccm",
+                "de": "125 ccm",
+                "uk": "125cc",
+                "ru": "125 куб. см",
+                "zh": "125 ccm"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "YX": [
+      {
+        "BrandID": 201,
+        "ModelID": 416225,
+        "Brand Name": "YAMAHA",
+        "Model Name": "YX",
+        "Serie Name": "YX",
+        "Years": "1980 - 1995",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Seria YX (Radian) to unikatowe połączenie stylu cruiser z osiągami motocykla naked. Te 'muscle bikes' o mniejszej pojemności oferowały ekscytujące przyspieszenia i nietuzinkową sylwetkę, wyróżniającą się na drodze.",
+              "en": "The YX (Radian) series is a unique combination of cruiser style with the performance of a naked motorcycle. These smaller capacity 'muscle bikes' offered exciting acceleration and a unique silhouette that stood out on the road.",
+              "de": "Die YX (Radian)-Serie ist eine einzigartige Kombination aus Cruiser-Stil mit der Leistung eines Naked-Motorrads. Diese „Muscle-Bikes“ mit kleinerem Hubraum boten aufregende Beschleunigung und eine einzigartige Silhouette, die auf der Straße hervorstach.",
+              "uk": "Серія YX (Radian) - це унікальне поєднання круїзерного стилю та продуктивності гоночного мотоцикла. Ці «м'язові велосипеди» меншої місткості забезпечували захоплююче прискорення та унікальний силует, який виділявся на дорозі.",
+              "ru": "Серия YX (Radian) представляет собой уникальное сочетание круизерного стиля с характеристиками мотоцикла «нейкед». Эти «мускульные велосипеды» меньшей вместимости предлагали захватывающее ускорение и уникальный силуэт, выделявшийся на дороге.",
+              "zh": "YX（弧度）系列是巡洋舰风格与裸摩托车性能的独特结合。这些容量较小的“肌肉自行车”提供了令人兴奋的加速度和在道路上脱颖而出的独特轮廓。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": "1986–1990",
+              "typ": {
+                "pl": "Sport-Cruiser / Naked",
+                "en": "Sport-Cruiser / Naked",
+                "de": "Sport-Cruiser / Naked",
+                "uk": "Спорт-Круїзер/Голий",
+                "ru": "Sport-Cruiser / Naked",
+                "zh": "Sport-Cruiser / Naked"
+              },
+              "charakter": {
+                "pl": "Street-rod"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "YZ": [
+      {
+        "BrandID": 201,
+        "ModelID": 415995,
+        "Brand Name": "YAMAHA",
+        "Model Name": "YZ",
+        "Serie Name": "YZ",
+        "Years": "1976 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Seria YZ to absolutna elita w świecie wyścigowego motocrossu. Od legendarnego XT500 po dzisiejsze YZ450F, te maszyny są synonimem sukcesów w zawodach MXGP i AMA Supercross, oferując zawodowcom technologię prosto z podium.",
+              "en": "The YZ series is the absolute elite in the world of racing motocross. From the legendary XT500 to today's YZ450F, these machines are synonymous with success in MXGP and AMA Supercross competition, offering professionals straight from the podium technology.",
+              "de": "Die YZ-Serie ist die absolute Elite in der Welt des Renn-Motocross. Von der legendären XT500 bis zur heutigen YZ450F sind diese Maschinen ein Synonym für Erfolg im MXGP- und AMA-Supercross-Wettbewerb und bieten Profis direkt auf dem Podium Technologie.",
+              "uk": "Серія YZ - це абсолютна еліта в світі гоночного мотокросу. Від легендарного XT500 до сьогоднішнього YZ450F, ці машини є синонімами успіху в змаганнях MXGP і AMA Supercross, пропонуючи професіоналам технології прямо з подіуму.",
+              "ru": "Серия YZ — абсолютная элита в мире гоночного мотокросса. От легендарного XT500 до сегодняшнего YZ450F — эти машины являются синонимом успеха в соревнованиях MXGP и AMA Supercross, предлагая профессионалам прямо с подиума технологии.",
+              "zh": "YZ系列是越野摩托车界的绝对精英。从传奇的 XT500 到今天的 YZ450F，这些机器是 MXGP 和 AMA Supercross 比赛中成功的代名词，为专业人士提供直接登上领奖台的技术。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": {
+                "pl": "od 1974",
+                "en": "since 1974",
+                "de": "seit 1974",
+                "uk": "з 1974 року",
+                "ru": "с 1974 года",
+                "zh": "自 1974 年以来"
+              },
+              "typ": {
+                "pl": "Motocross / MX",
+                "en": "Motocross / MX",
+                "de": "Motocross / MX",
+                "uk": "Мотокрос/MX",
+                "ru": "Мотокросс / MX",
+                "zh": "越野摩托车 / MX"
+              },
+              "seria": {
+                "pl": "Competition only",
+                "en": "Competition only",
+                "de": "Nur Wettbewerb",
+                "uk": "Тільки конкуренція",
+                "ru": "Только для соревнований",
+                "zh": "仅限比赛"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "YZF": [
+      {
+        "BrandID": 201,
+        "ModelID": 415997,
+        "Brand Name": "YAMAHA",
+        "Model Name": "YZF",
+        "Serie Name": "YZF",
+        "Years": "1997 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Yamaha YZF (seria R) to najbardziej zaawansowane motocykle supersportowe na świecie. Modele R1 i R6 stały się ikonami dzięki wybitnym osiągom, aerodynamicznej sylwetce i technologiom przeniesionym prosto z serii MotoGP (Crossplane).",
+              "en": "Yamaha YZF (R series) are the most advanced super sports motorcycles in the world. The R1 and R6 models have become icons thanks to their outstanding performance, aerodynamic silhouette and technologies taken straight from the MotoGP (Crossplane) series.",
+              "de": "Yamaha YZF (R-Serie) sind die fortschrittlichsten Supersportmotorräder der Welt. Die R1- und R6-Modelle sind dank ihrer herausragenden Leistung, aerodynamischen Silhouette und Technologien, die direkt aus der MotoGP-Serie (Crossplane) übernommen wurden, zu Ikonen geworden.",
+              "uk": "Yamaha YZF (серія R) — найдосконаліші суперспортивні мотоцикли у світі. Моделі R1 і R6 стали іконами завдяки своїм видатним характеристикам, аеродинамічному силуету та технологіям, взятим прямо з серії MotoGP (Crossplane).",
+              "ru": "Yamaha YZF (серия R) — самые совершенные суперспортивные мотоциклы в мире. Модели R1 и R6 стали культовыми благодаря своим выдающимся характеристикам, аэродинамическому силуэту и технологиям, заимствованным непосредственно из серии MotoGP (Crossplane).",
+              "zh": "雅马哈 YZF（R 系列）是世界上最先进的超级运动摩托车。 R1 和 R6 车型凭借出色的性能、空气动力学轮廓以及直接取自 MotoGP（Crossplane）系列的技术而成为标志。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Yamaha"
+              },
+              "okres produkcji": {
+                "pl": "od 1998",
+                "en": "from 1998",
+                "de": "ab 1998",
+                "uk": "з 1998 року",
+                "ru": "с 1998 г.",
+                "zh": "1998 年起"
+              },
+              "typ": {
+                "pl": "Supersport / Superbike",
+                "en": "Supersport / Superbike",
+                "de": "Supersport / Superbike",
+                "uk": "Суперспорт / Супербайк",
+                "ru": "Supersport / Superbike",
+                "zh": "超级运动/超级摩托车"
+              },
+              "technologia": {
+                "pl": "Crossplane (CP4/CP3)",
+                "en": "Crossplane (CP4/CP3)",
+                "de": "Crossplane (CP4/CP3)",
+                "uk": "Crossplane (CP4/CP3)",
+                "ru": "Crossplane (CP4/CP3)",
+                "zh": "Crossplane (CP4/CP3)"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

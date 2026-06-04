@@ -1,0 +1,34 @@
+{
+  "brand": "PGO",
+  "models": {
+    "": [
+      {
+        "BrandID": 216,
+        "ModelID": "",
+        "Brand Name": "PGO",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "PGO Automobiles to francuski producent ekskluzywnych samochodów sportowych w stylu retro, nawiązujących do klasycznych Porsche.",
+              "en": "PGO Automobiles is a French manufacturer of exclusive retro sports cars, reminiscent of classic Porsches.",
+              "de": "PGO Automobiles ist ein französischer Hersteller exklusiver Retro-Sportwagen, die an klassische Porsche erinnern.",
+              "uk": "PGO Automobiles — французький виробник ексклюзивних ретро-спортивних автомобілів, що нагадують класичні Porsche.",
+              "ru": "PGO Automobiles — французский производитель эксклюзивных ретро-спортивных автомобилей, напоминающих классические Porsche.",
+              "zh": "PGO Automobiles 是一家法国制造商，生产独特的复古跑车，让人想起经典的保时捷。"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,541 @@
+{
+  "brand": "Maserati",
+  "models": {
+    "Ghibli": [
+      {
+        "BrandID": 86,
+        "ModelID": 413941,
+        "Brand Name": "Maserati",
+        "Model Name": "Ghibli",
+        "Serie Name": "Ghibli (M157)",
+        "Years": "2013 - 2024",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Executive Luxury",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "2.0L Hybrid / 3.0L V6 / 3.8L V8 / 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Maserati Ghibli to sportowy sedan, który wprowadził markę do segmentu E. Łączy włoski styl z codzienną użytecznością.",
+              "en": "Maserati Ghibli is a sports sedan that introduced the brand to the E segment. It combines Italian style with everyday usability.",
+              "de": "Maserati Ghibli ist eine Sportlimousine, die die Marke in das E-Segment einführte. Es vereint italienischen Stil mit Alltagstauglichkeit.",
+              "uk": "Maserati Ghibli - спортивний седан, який ввів бренд в сегмент E. Він поєднує в собі італійський стиль і повсякденне використання.",
+              "ru": "Maserati Ghibli — спортивный седан, представивший бренд в сегменте E. Он сочетает в себе итальянский стиль и повседневное удобство использования.",
+              "zh": "玛莎拉蒂 Ghibli 是一款将该品牌引入 E 级细分市场的运动轿车。它结合了意大利风格和日常实用性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Maserati"
+              },
+              "okres produkcji": "2013–2024",
+              "segment": {
+                "pl": "E (Premium)",
+                "en": "E (Premium)",
+                "de": "E (Premium)",
+                "uk": "E (Преміум)",
+                "ru": "E (Премиум)",
+                "zh": "E (Premium)"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7h/08/m4rtzgg0g04ckkcww08gk/maserati-ghibli-02.310.jpg"
+        }
+      }
+    ],
+    "Levante": [
+      {
+        "BrandID": 86,
+        "ModelID": 413957,
+        "Brand Name": "Maserati",
+        "Model Name": "Levante",
+        "Serie Name": "Levante (M161)",
+        "Years": "2016 - 2024",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "2.0L Hybrid / 3.0L V6 / 3.8L V8 / 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Maserati Levante to pierwszy SUV marki, niosący ducha Maserati w nadwoziu uterenowionym.",
+              "en": "Maserati Levante is the brand's first SUV, carrying the spirit of Maserati in an off-road body.",
+              "de": "Maserati Levante ist der erste SUV der Marke, der den Geist von Maserati in einer Offroad-Karosserie trägt.",
+              "uk": "Maserati Levante — перший позашляховик бренду, що несе дух Maserati в позашляховому кузові.",
+              "ru": "Maserati Levante — первый внедорожник бренда, несущий дух Maserati во внедорожном кузове.",
+              "zh": "玛莎拉蒂Levante是该品牌的首款SUV，以越野车身承载着玛莎拉蒂的精神。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Maserati"
+              },
+              "okres produkcji": {
+                "pl": "od 2016",
+                "en": "from 2016",
+                "de": "ab 2016",
+                "uk": "з 2016 року",
+                "ru": "с 2016 года.",
+                "zh": "2016 年起"
+              },
+              "segment": {
+                "pl": "E-SUV (Premium)",
+                "en": "E-SUV (Premium)",
+                "de": "E-SUV (Premium)",
+                "uk": "E-SUV (преміум)",
+                "ru": "E-SUV (Premium)",
+                "zh": "E-SUV (Premium)"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Quattroporte": [
+      {
+        "BrandID": 86,
+        "ModelID": 886,
+        "Brand Name": "Maserati",
+        "Model Name": "Quattroporte",
+        "Serie Name": "Quattroporte V (M139)",
+        "Years": "2003 - 2012",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "4.2L / 4.7L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Maserati Quattroporte to definicja luksusowego sportowego sedana. Piąta generacja (M139) z silnikiem V8 o rodowodzie Ferrari i designem Pininfariny stała się ikoną elegancji i brzmienia.",
+              "en": "Maserati Quattroporte is the definition of a luxury sports sedan. The fifth generation (M139) with a V8 engine of Ferrari origin and Pininfarina design has become an icon of elegance and sound.",
+              "de": "Maserati Quattroporte ist die Definition einer Luxus-Sportlimousine. Die fünfte Generation (M139) mit einem V8-Motor Ferrari-Ursprungs und Pininfarina-Design ist zu einer Ikone der Eleganz und des Klangs geworden.",
+              "uk": "Maserati Quattroporte — це визначення розкішного спортивного седана. П'яте покоління (M139) з двигуном V8 виробництва Ferrari та дизайном Pininfarina стало іконою елегантності та звуку.",
+              "ru": "Maserati Quattroporte — это воплощение роскошного спортивного седана. Пятое поколение (M139) с двигателем V8 производства Ferrari и дизайном Pininfarina стало иконой элегантности и звука.",
+              "zh": "玛莎拉蒂 Quattroporte 是豪华运动轿车的定义。第五代 (M139) 配备法拉利 V8 发动机和宾尼法利纳 (Pininfarina) 设计，已成为优雅和声音的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Maserati"
+              },
+              "okres produkcji": {
+                "pl": "od 1963 (V gen: 2003–2012)",
+                "en": "from 1963 (5th generation: 2003–2012)",
+                "de": "ab 1963 (5. Generation: 2003–2012)",
+                "uk": "з 1963 року (5-е покоління: 2003–2012)",
+                "ru": "1963 г. (5-е поколение: 2003–2012 гг.)",
+                "zh": "源自 1963 年（第五代：2003–2012）"
+              },
+              "segment": {
+                "pl": "F (Luxury Sedan)",
+                "en": "F (Luxury Sedan)",
+                "de": "F (Luxuslimousine)",
+                "uk": "F (седан класу люкс)",
+                "ru": "F (Роскошный седан)",
+                "zh": "F（豪华轿车）"
+              },
+              "napęd": {
+                "pl": "RWD / AWD",
+                "en": "RWD / AWD",
+                "de": "RWD / AWD",
+                "uk": "RWD / AWD",
+                "ru": "RWD/AWD",
+                "zh": "RWD / AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/db/0t/e1yrtu040k8kowkskg4k0/1.310.jpg"
+        }
+      },
+      {
+        "BrandID": 86,
+        "ModelID": 416640,
+        "Brand Name": "Maserati",
+        "Model Name": "Quattroporte",
+        "Serie Name": "Quattroporte VI (M156)",
+        "Years": "2013 - 2024",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.0L V6 / 3.8L V8 / 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Maserati_Quattroporte_III_%281986%29_%2815799410840%29.jpg/1280px-Maserati_Quattroporte_III_%281986%29_%2815799410840%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Maserati_Quattroporte_III_%281986%29_%2815799410840%29.jpg/1280px-Maserati_Quattroporte_III_%281986%29_%2815799410840%29.jpg"
+            ],
+            "description": {
+              "pl": "Maserati Quattroporte VI to ewolucja flagowca w stronę większego komfortu i nowoczesności. Wprowadziła silniki Twin-Turbo oraz napęd na wszystkie koła Q4, zachowując przy tym unikalny, włoski charakter.",
+              "en": "Maserati Quattroporte VI is the evolution of the flagship towards greater comfort and modernity. It introduced Twin-Turbo engines and Q4 all-wheel drive, while maintaining its unique Italian character.",
+              "de": "Maserati Quattroporte VI ist die Weiterentwicklung des Flaggschiffs hin zu mehr Komfort und Modernität. Er führte Twin-Turbo-Motoren und Q4-Allradantrieb ein und behielt dabei seinen einzigartigen italienischen Charakter bei.",
+              "uk": "Maserati Quattroporte VI — це еволюція флагмана до більшого комфорту та сучасності. Він представив двигуни Twin-Turbo та повний привід Q4, зберігаючи при цьому свій унікальний італійський характер.",
+              "ru": "Maserati Quattroporte VI — это эволюция флагмана в сторону большего комфорта и современности. Он представил двигатели Twin-Turbo и полный привод Q4, сохранив при этом свой уникальный итальянский характер.",
+              "zh": "玛莎拉蒂 Quattroporte VI 是旗舰车型向更高舒适性和现代性的演变。它引入了双涡轮发动机和 Q4 全轮驱动，同时保持了其独特的意大利特色。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Maserati"
+              },
+              "okres produkcji": "2013–2024",
+              "segment": {
+                "pl": "F (Luxury Sedan)",
+                "en": "F (Luxury Sedan)",
+                "de": "F (Luxuslimousine)",
+                "uk": "F (Luxury Sedan)",
+                "ru": "F (Роскошный седан)",
+                "zh": "F（豪华轿车）"
+              },
+              "napęd": {
+                "pl": "RWD / AWD",
+                "en": "RWD / AWD",
+                "de": "RWD / AWD",
+                "uk": "RWD / AWD",
+                "ru": "RWD/AWD",
+                "zh": "RWD / AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/db/0t/e1yrtu040k8kowkskg4k0/1.310.jpg"
+        }
+      }
+    ],
+    "GranTurismo": [
+      {
+        "BrandID": 86,
+        "ModelID": 885,
+        "Brand Name": "Maserati",
+        "Model Name": "GranTurismo",
+        "Serie Name": "GranTurismo (M145)",
+        "Years": "2007 - 2019",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Grand Tourer",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "4.2L / 4.7L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Maserati GranTurismo to jedno z najpiękniejszych coupe XXI wieku. Model M145 słynie z wolnossącego V8 stworzonego wspólnie z Ferrari, oferując emocje i dźwięk, których nie da się pomylić z niczym innym.",
+              "en": "Maserati GranTurismo is one of the most beautiful coupes of the 21st century. The M145 is famous for its naturally aspirated V8 developed jointly with Ferrari, offering emotions and sound that cannot be confused with anything else.",
+              "de": "Maserati GranTurismo ist eines der schönsten Coupés des 21. Jahrhunderts. Der M145 ist berühmt für seinen gemeinsam mit Ferrari entwickelten V8-Saugmotor, der Emotionen und Sound bietet, die mit nichts anderem zu verwechseln sind.",
+              "uk": "Maserati GranTurismo — одне з найкрасивіших купе 21 століття. M145 славиться своїм безнаддувним V8, розробленим спільно з Ferrari, який пропонує емоції та звук, які неможливо сплутати ні з чим іншим.",
+              "ru": "Maserati GranTurismo — одно из самых красивых купе 21 века. M145 славится своим безнаддувным двигателем V8, разработанным совместно с Ferrari, предлагающим эмоции и звук, которые невозможно спутать ни с чем другим.",
+              "zh": "玛莎拉蒂 GranTurismo 是 21 世纪最美丽的轿跑车之一。 M145 以其与法拉利联合开发的自然吸气 V8 发动机而闻名，它所带来的情感和声音无法与其他任何东西混淆。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Maserati"
+              },
+              "okres produkcji": {
+                "pl": "od 2007",
+                "en": "from 2007",
+                "de": "ab 2007",
+                "uk": "з 2007 року",
+                "ru": "с 2007 года",
+                "zh": "2007 年款"
+              },
+              "segment": {
+                "pl": "Grand Tourer",
+                "en": "Grand Tourer",
+                "de": "Grand Tourer",
+                "uk": "Grand Tourer",
+                "ru": "Grand Tourer",
+                "zh": "Grand Tourer"
+              },
+              "napęd": {
+                "pl": "RWD / AWD",
+                "en": "RWD / AWD",
+                "de": "RWD / AWD",
+                "uk": "RWD / AWD",
+                "ru": "RWD/AWD",
+                "zh": "RWD / AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3q/io/rr9p518gscwkwcokcw4oo/maserati-grandturismo.310.jpg"
+        }
+      },
+      {
+        "BrandID": 86,
+        "ModelID": 416641,
+        "Brand Name": "Maserati",
+        "Model Name": "GranTurismo",
+        "Serie Name": "GranTurismo (M189)",
+        "Years": "2023 - 3000",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Grand Tourer",
+          "drive": "AWD",
+          "fuel": "Gasoline/Electric",
+          "engine": "3.0L V6 Nettuno / Electric (Folgore)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nowe Maserati GranTurismo (M189) kontynuuje tradycję pięknych GT, wprowadzając rewolucyjny silnik Nettuno V6 oraz w pełni elektryczną wersję Folgore, wyznaczając nowy kierunek dla marki.",
+              "en": "The new Maserati GranTurismo (M189) continues the tradition of beautiful GTs, introducing the revolutionary Nettuno V6 engine and the fully electric Folgore version, marking a new direction for the brand.",
+              "de": "Der neue Maserati GranTurismo (M189) setzt die Tradition schöner GTs fort und führt den revolutionären Nettuno V6-Motor und die vollelektrische Folgore-Version ein und markiert damit eine neue Richtung für die Marke.",
+              "uk": "Новий Maserati GranTurismo (M189) продовжує традиції красивих GT, представляючи революційний двигун Nettuno V6 і повністю електричну версію Folgore, що позначає новий напрямок для бренду.",
+              "ru": "Новый Maserati GranTurismo (M189) продолжает традицию прекрасных GT, представляя революционный двигатель Nettuno V6 и полностью электрическую версию Folgore, отмечая новое направление развития бренда.",
+              "zh": "新款玛莎拉蒂 GranTurismo (M189) 延续了美丽 GT 的传统，推出革命性的 Nettuno V6 发动机和全电动 Folgore 版本，标志着品牌的新方向。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Maserati"
+              },
+              "okres produkcji": {
+                "pl": "od 2023",
+                "en": "from 2023",
+                "de": "ab 2023",
+                "uk": "з 2023 року",
+                "ru": "с 2023 года.",
+                "zh": "2023 年起"
+              },
+              "segment": {
+                "pl": "Grand Tourer",
+                "en": "Grand Tourer",
+                "de": "Grand Tourer",
+                "uk": "Grand Tourer",
+                "ru": "Grand Tourer",
+                "zh": "Grand Tourer"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3q/io/rr9p518gscwkwcokcw4oo/maserati-grandturismo.310.jpg"
+        }
+      }
+    ],
+    "GranCabrio": [
+      {
+        "BrandID": 86,
+        "ModelID": 413946,
+        "Brand Name": "Maserati",
+        "Model Name": "GranCabrio",
+        "Serie Name": "GranCabrio (M145)",
+        "Years": "2010 - 2019",
+        "specs": {
+          "bodyType": "Convertible",
+          "segment": "Grand Tourer",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "4.7L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Maserati GranCabrio to otwarta wersja modelu GranTurismo, oferująca cztery pełnowymiarowe miejsca i niezapomniane wrażenia z jazdy pod gołym niebem przy akompaniamencie silnika V8.",
+              "en": "Maserati GranCabrio is an open version of the GranTurismo model, offering four full-size seats and an unforgettable experience of driving under the open sky accompanied by a V8 engine.",
+              "de": "Maserati GranCabrio ist eine offene Version des GranTurismo-Modells und bietet vier vollwertige Sitze und ein unvergessliches Fahrerlebnis unter freiem Himmel, begleitet von einem V8-Motor.",
+              "uk": "Maserati GranCabrio — це відкрита версія моделі GranTurismo, яка пропонує чотири повнорозмірних сидіння та незабутні враження від водіння під відкритим небом у супроводі двигуна V8.",
+              "ru": "Maserati GranCabrio — открытая версия модели GranTurismo, предлагающая четыре полноразмерных сиденья и незабываемые впечатления от езды под открытым небом в сопровождении двигателя V8.",
+              "zh": "玛莎拉蒂 GranCabrio 是 GranTurismo 车型的开放版本，提供四个全尺寸座椅，在 V8 发动机的陪伴下，在开阔的天空下驾驶带来难忘的体验。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Maserati"
+              },
+              "okres produkcji": {
+                "pl": "od 2010",
+                "en": "from 2010",
+                "de": "ab 2010",
+                "uk": "з 2010 року",
+                "ru": "с 2010 года",
+                "zh": "2010 年款"
+              },
+              "segment": {
+                "pl": "Grand Tourer",
+                "en": "Grand Tourer",
+                "de": "Grand Tourer",
+                "uk": "Grand Tourer",
+                "ru": "Grand Tourer",
+                "zh": "Grand Tourer"
+              },
+              "napęd": {
+                "pl": "RWD / AWD",
+                "en": "RWD / AWD",
+                "de": "RWD / AWD",
+                "uk": "RWD / AWD",
+                "ru": "RWD/AWD",
+                "zh": "RWD / AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/62/rm/948x67wgowc8wwkksk8k8/maserati-grandcabrio.310.jpg"
+        }
+      },
+      {
+        "BrandID": 86,
+        "ModelID": 416642,
+        "Brand Name": "Maserati",
+        "Model Name": "GranCabrio",
+        "Serie Name": "GranCabrio (M189)",
+        "Years": "2024 - 3000",
+        "specs": {
+          "bodyType": "Convertible",
+          "segment": "Grand Tourer",
+          "drive": "AWD",
+          "fuel": "Gasoline/Electric",
+          "engine": "3.0L V6 Nettuno / Electric (Folgore)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Maserati GranCabrio (M189) to luksusowy kabriolet nowej ery, łączący najnowszą technologię z niesamowitymi osiągami silnika Nettuno, zapewniając szczytową formę włoskiego dolce vita.",
+              "en": "The Maserati GranCabrio (M189) is a new era luxury convertible, combining the latest technology with the incredible performance of the Nettuno engine, ensuring the pinnacle of Italian dolce vita.",
+              "de": "Der Maserati GranCabrio (M189) ist ein Luxus-Cabriolet der neuen Ära, das die neueste Technologie mit der unglaublichen Leistung des Nettuno-Motors kombiniert und so den Höhepunkt des italienischen Dolce Vita gewährleistet.",
+              "uk": "Maserati GranCabrio (M189) — це розкішний кабріолет нової ери, який поєднує новітні технології з неймовірною продуктивністю двигуна Nettuno, забезпечуючи вершину італійського dolce vita.",
+              "ru": "Maserati GranCabrio (M189) — роскошный кабриолет новой эпохи, сочетающий в себе новейшие технологии с невероятной производительностью двигателя Nettuno, являющийся вершиной итальянской сладкой жизни.",
+              "zh": "玛莎拉蒂 GranCabrio (M189) 是一款新时代的豪华敞篷车，将最新技术与 Nettuno 发动机的令人难以置信的性能相结合，确保了意大利甜蜜生活的巅峰。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Maserati"
+              },
+              "okres produkcji": {
+                "pl": "od 2024",
+                "en": "from 2024",
+                "de": "ab 2024",
+                "uk": "з 2024 року",
+                "ru": "с 2024 года",
+                "zh": "2024 年起"
+              },
+              "segment": {
+                "pl": "Grand Tourer",
+                "en": "The Grand Tourer",
+                "de": "Der Grand Tourer",
+                "uk": "Grand Tourer",
+                "ru": "Grand Tourer",
+                "zh": "Grand Tourer"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/62/rm/948x67wgowc8wwkksk8k8/maserati-grandcabrio.310.jpg"
+        }
+      }
+    ],
+    "Grecale": [
+      {
+        "BrandID": 86,
+        "ModelID": 416643,
+        "Brand Name": "Maserati",
+        "Model Name": "Grecale",
+        "Serie Name": "Grecale",
+        "Years": "2022 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact Luxury SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Hybrid/Electric",
+          "engine": "2.0L Hybrid / 3.0L V6 / Electric (Folgore)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Maserati Grecale to dynamiczny, kompaktowy luksusowy SUV, który oferuje idealny balans między sportowymi osiągami a codziennym komfortem, dostępny także w potężnej wersji Trofeo.",
+              "en": "Maserati Grecale is a dynamic, compact luxury SUV that offers the perfect balance between sporty performance and everyday comfort, also available in the powerful Trofeo version.",
+              "de": "Maserati Grecale ist ein dynamischer, kompakter Luxus-SUV, der die perfekte Balance zwischen sportlicher Leistung und Alltagskomfort bietet, auch in der leistungsstarken Trofeo-Version erhältlich.",
+              "uk": "Maserati Grecale — це динамічний, компактний розкішний позашляховик, який пропонує ідеальний баланс між спортивними характеристиками та щоденним комфортом, також доступний у потужній версії Trofeo.",
+              "ru": "Maserati Grecale — динамичный, компактный роскошный внедорожник, предлагающий идеальный баланс между спортивными характеристиками и повседневным комфортом. Он также доступен в мощной версии Trofeo.",
+              "zh": "玛莎拉蒂 Grecale 是一款动感十足的紧凑型豪华 SUV，在运动性能和日常舒适性之间实现了完美平衡，同时还提供强大的 Trofeo 版本。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Maserati"
+              },
+              "okres produkcji": {
+                "pl": "od 2022",
+                "en": "from 2022",
+                "de": "ab 2022",
+                "uk": "з 2022 року",
+                "ru": "с 2022 года.",
+                "zh": "2022 年起"
+              },
+              "segment": {
+                "pl": "Compact Luxury SUV",
+                "en": "Compact Luxury SUV",
+                "de": "Kompakter Luxus-SUV",
+                "uk": "Компактний розкішний позашляховик",
+                "ru": "Компактный роскошный внедорожник.",
+                "zh": "紧凑型豪华 SUV"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "MC20": [
+      {
+        "BrandID": 86,
+        "ModelID": 416644,
+        "Brand Name": "Maserati",
+        "Model Name": "MC20",
+        "Serie Name": "MC20",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Supercar",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.0L V6 Nettuno",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Maserati MC20 to supersamochód, który oznacza powrót marki do jej wyścigowych korzeni. Wyposażony w innowacyjny silnik Nettuno V6 z technologią Formuły 1, osadzony w lekkim nadwoziu z włókna węglowego.",
+              "en": "Maserati MC20 is a supercar that marks the brand's return to its racing roots. Equipped with an innovative Nettuno V6 engine with Formula 1 technology, embedded in a lightweight carbon fiber body.",
+              "de": "Maserati MC20 ist ein Supersportwagen, der die Rückkehr der Marke zu ihren Rennsportwurzeln markiert. Ausgestattet mit einem innovativen Nettuno V6-Motor mit Formel-1-Technologie, eingebettet in eine leichte Kohlefaserkarosserie.",
+              "uk": "Maserati MC20 — це суперкар, який знаменує повернення бренду до його гоночних витоків. Оснащений інноваційним двигуном Nettuno V6 з технологією Формули 1, вбудованим у легкий корпус з вуглецевого волокна.",
+              "ru": "Maserati MC20 — суперкар, знаменующий возвращение бренда к своим гоночным корням. Оснащен инновационным двигателем Nettuno V6 с технологией Формулы 1, встроенным в легкий кузов из углеродного волокна.",
+              "zh": "玛莎拉蒂 MC20 是一款超级跑车，标志着该品牌回归赛车根源。配备采用一级方程式技术的创新 Nettuno V6 发动机，嵌入轻质碳纤维车身中。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Maserati"
+              },
+              "okres produkcji": {
+                "pl": "od 2020",
+                "en": "from 2020",
+                "de": "ab 2020",
+                "uk": "з 2020 року",
+                "ru": "с 2020 года",
+                "zh": "2020 年起"
+              },
+              "segment": {
+                "pl": "Supercar"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

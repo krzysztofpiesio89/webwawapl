@@ -1,0 +1,765 @@
+{
+  "brand": "SsangYong",
+  "models": {
+    "Rexton": [
+      {
+        "BrandID": 126,
+        "ModelID": 413501,
+        "Brand Name": "SsangYong",
+        "Model Name": "Rexton",
+        "Serie Name": "Rexton I",
+        "Years": "2001 - 2006",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "AWD",
+          "fuel": "Diesel/Gasoline",
+          "engine": "2.7L XDi - 3.2L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2003_SsangYong_Rexton_%28Y200%29_RX290_wagon_%282015-07-14%29_02.jpg/1280px-2003_SsangYong_Rexton_%28Y200%29_RX290_wagon_%282015-07-14%29_02.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2003_SsangYong_Rexton_%28Y200%29_RX290_wagon_%282015-07-14%29_02.jpg/1280px-2003_SsangYong_Rexton_%28Y200%29_RX290_wagon_%282015-07-14%29_02.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/SsangYong_Rexton_RX270_XDi_Facelift.JPG/1280px-SsangYong_Rexton_RX270_XDi_Facelift.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/SsangYong_Rexton_RX270XDI_postfacelift_backleft_2008-06-21_U.jpg/1280px-SsangYong_Rexton_RX270XDI_postfacelift_backleft_2008-06-21_U.jpg"
+            ],
+            "description": {
+              "pl": "SsangYong Rexton to duży SUV na ramie, oferujący solidne właściwości terenowe i duży uciąg. Alternatywa dla droższych terenówek.",
+              "en": "The SsangYong Rexton is a large body-on-frame SUV with rugged off-road capabilities and plenty of towing capacity. An alternative to more expensive off-road vehicles.",
+              "de": "Der SsangYong Rexton ist ein großer SUV mit Karosserie, robuster Geländetauglichkeit und ausreichend Anhängelast. Eine Alternative zu teureren Geländefahrzeugen.",
+              "uk": "SsangYong Rexton — це великий рамний позашляховик із надійними позашляховими можливостями та великою можливістю буксирування. Альтернатива більш дорогим позашляховикам.",
+              "ru": "SsangYong Rexton — это большой рамный внедорожник с прочными внедорожными возможностями и большой буксировочной способностью. Альтернатива более дорогим внедорожникам.",
+              "zh": "双龙 Rexton 是一款大型非承载式 SUV，具有坚固的越野能力和充足的牵引能力。更昂贵的越野车的替代品。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "SsangYong"
+              },
+              "okres produkcji": {
+                "pl": "od 2001",
+                "en": "from 2001",
+                "de": "ab 2001",
+                "uk": "з 2001 р.",
+                "ru": "с 2001 года.",
+                "zh": "2001 年生产"
+              },
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Позашляховик середнього розміру",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型 SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5p/g1/5thfm70g0gwoo4s8ow8og/ssangyong-rexton-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 126,
+        "ModelID": 413502,
+        "Brand Name": "SsangYong",
+        "Model Name": "Rexton",
+        "Serie Name": "Rexton II",
+        "Years": "2006 - 2012",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "AWD",
+          "fuel": "Diesel/Gasoline",
+          "engine": "2.7L XVT - 3.2L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "SsangYong Rexton to duży SUV na ramie, oferujący solidne właściwości terenowe i duży uciąg. Alternatywa dla droższych terenówek.",
+              "en": "The SsangYong Rexton is a large body-on-frame SUV with rugged off-road capabilities and high towing capacity. An alternative to more expensive off-road vehicles.",
+              "de": "Der SsangYong Rexton ist ein großer SUV mit Karosserie und Rahmen, robuster Geländetauglichkeit und hoher Anhängelast. Eine Alternative zu teureren Geländefahrzeugen.",
+              "uk": "SsangYong Rexton — це великий позашляховик із кузовом на рамі, що володіє надійними позашляховими можливостями та високою тяговою здатністю. Альтернатива більш дорогим позашляховикам.",
+              "ru": "SsangYong Rexton — это большой рамный внедорожник с прочными внедорожными возможностями и высокой буксировочной способностью. Альтернатива более дорогим внедорожникам.",
+              "zh": "双龙 Rexton 是一款大型非承载式 SUV，具有坚固的越野能力和高牵引能力。更昂贵的越野车的替代品。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "SsangYong"
+              },
+              "okres produkcji": {
+                "pl": "od 2001",
+                "en": "from 2001",
+                "de": "ab 2001",
+                "uk": "з 2001 р.",
+                "ru": "с 2001 года.",
+                "zh": "2001 年生产"
+              },
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Позашляховик середнього розміру",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型 SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5p/g1/5thfm70g0gwoo4s8ow8og/ssangyong-rexton-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 126,
+        "ModelID": 413503,
+        "Brand Name": "SsangYong",
+        "Model Name": "Rexton",
+        "Serie Name": "Rexton W",
+        "Years": "2012 - 2017",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "AWD",
+          "fuel": "Diesel",
+          "engine": "2.0L - 2.2L e-XDi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "SsangYong Rexton to duży SUV na ramie, oferujący solidne właściwości terenowe i duży uciąg. Alternatywa dla droższych terenówek.",
+              "en": "The SsangYong Rexton is a large body-on-frame SUV with rugged off-road capabilities and high towing capacity. An alternative to more expensive off-road vehicles.",
+              "de": "Der SsangYong Rexton ist ein großer SUV mit Karosserie und Rahmen, robuster Geländetauglichkeit und hoher Anhängelast. Eine Alternative zu teureren Geländefahrzeugen.",
+              "uk": "SsangYong Rexton — це великий позашляховик із кузовом на рамі, що володіє надійними позашляховими можливостями та високою тяговою здатністю. Альтернатива більш дорогим позашляховикам.",
+              "ru": "SsangYong Rexton — это большой рамный внедорожник с прочными внедорожными возможностями и высокой буксировочной способностью. Альтернатива более дорогим внедорожникам.",
+              "zh": "双龙 Rexton 是一款大型非承载式 SUV，具有坚固的越野能力和高牵引能力。更昂贵的越野车的替代品。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "SsangYong"
+              },
+              "okres produkcji": {
+                "pl": "od 2001",
+                "en": "from 2001",
+                "de": "von 2001",
+                "uk": "з 2001 року",
+                "ru": "2001 года.",
+                "zh": "2001 年生产"
+              },
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний позашляховик",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型 SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5p/g1/5thfm70g0gwoo4s8ow8og/ssangyong-rexton-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 126,
+        "ModelID": 416588,
+        "Brand Name": "SsangYong",
+        "Model Name": "Rexton",
+        "Serie Name": "Rexton G4",
+        "Years": "2017 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "AWD",
+          "fuel": "Diesel/Gasoline",
+          "engine": "2.2L e-XDi - 2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "SsangYong Rexton to flagowy SUV marki, zbudowany na solidnej ramie pomocniczej, co czyni go jednym z niewielu prawdziwych aut terenowych w swojej klasie. Słynie z potężnego uciągu (do 3,5 tony) oraz luksusowego wnętrza, stanowiąc doskonałą alternatywę dla osób szukających dzielności terenowej bez rezygnacji z komfortu.",
+              "en": "SsangYong Rexton is the brand's flagship SUV, built on a solid subframe, making it one of the few true off-road vehicles in its class. It is famous for its powerful towing capacity (up to 3.5 tons) and luxurious interior, constituting an excellent alternative for people looking for off-road capability without sacrificing comfort.",
+              "de": "SsangYong Rexton ist das Flaggschiff-SUV der Marke, gebaut auf einem soliden Hilfsrahmen, was ihn zu einem der wenigen echten Geländewagen seiner Klasse macht. Er ist bekannt für seine starke Anhängelast (bis zu 3,5 Tonnen) und sein luxuriöses Interieur und stellt eine hervorragende Alternative für Menschen dar, die Geländetauglichkeit suchen, ohne auf Komfort zu verzichten.",
+              "uk": "SsangYong Rexton — флагманський позашляховик бренду, побудований на міцному підрамнику, що робить його одним із небагатьох справжніх позашляховиків у своєму класі. Він славиться своєю потужною буксирною здатністю (до 3,5 тонн) і розкішним салоном, що є чудовою альтернативою для людей, які шукають бездоріжжя без шкоди для комфорту.",
+              "ru": "SsangYong Rexton — флагманский внедорожник бренда, построенный на прочном подрамнике, что делает его одним из немногих настоящих внедорожников в своем классе. Он славится своей мощной буксировочной способностью (до 3,5 тонн) и роскошным салоном, являясь отличной альтернативой для людей, ищущих внедорожные возможности без ущерба для комфорта.",
+              "zh": "双龙 Rexton 是该品牌的旗舰 SUV，采用坚固的副车架打造，使其成为同类产品中为数不多的真正越野车之一。它以其强大的牵引能力（高达3.5吨）和豪华的内饰而闻名，是寻求越野能力而又不牺牲舒适性的人们的绝佳选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "SsangYong (KG Mobility)",
+                "en": "SsangYong (KG Mobility)",
+                "de": "SsangYong (KG Mobility)",
+                "uk": "SsangYong (KG Mobility)",
+                "ru": "SsangYong (KG Mobility)",
+                "zh": "SsangYong（KG Mobility）"
+              },
+              "okres produkcji": {
+                "pl": "od 2001",
+                "en": "since 2001",
+                "de": "seit 2001",
+                "uk": "з 2001 р.",
+                "ru": "с 2001 г.",
+                "zh": "自 2001 年起"
+              },
+              "segment": {
+                "pl": "E-SUV / Terenowe",
+                "en": "E-SUV / Off-road",
+                "de": "E-SUV / Geländewagen",
+                "uk": "E-SUV / Off-road",
+                "ru": "E-SUV / Off-road",
+                "zh": "E-SUV / 越野"
+              },
+              "napęd": {
+                "pl": "4WD (dołączany/stały)",
+                "en": "4WD (attachable/permanent)",
+                "de": "Allradantrieb (anbaubar/permanent)",
+                "uk": "4WD (приставний/постійний)",
+                "ru": "4WD (присоединяемый/постоянный)",
+                "zh": "4WD（可连接/永久）"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5p/g1/5thfm70g0gwoo4s8ow8og/ssangyong-rexton-ii.310.jpg"
+        }
+      }
+    ],
+    "Korando": [
+      {
+        "BrandID": 126,
+        "ModelID": 1474,
+        "Brand Name": "SsangYong",
+        "Model Name": "Korando",
+        "Serie Name": "Korando II",
+        "Years": "1996 - 2006",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "AWD",
+          "fuel": "Diesel/Gasoline",
+          "engine": "2.3L - 3.2L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "SsangYong (obecnie KG Mobility) to najstarszy koreański producent samochodów, specjalizujący się w SUV-ach i autach terenowych.",
+              "en": "SsangYong (now KG Mobility) is the oldest Korean car manufacturer, specializing in SUVs and off-road vehicles.",
+              "de": "SsangYong (jetzt KG Mobility) ist der älteste koreanische Automobilhersteller, der sich auf SUVs und Geländefahrzeuge spezialisiert hat.",
+              "uk": "SsangYong (тепер KG Mobility) — найстаріший корейський виробник автомобілів, що спеціалізується на позашляховиках і позашляховиках.",
+              "ru": "SsangYong (теперь KG Mobility) — старейший корейский производитель автомобилей, специализирующийся на внедорожниках и внедорожниках.",
+              "zh": "SsangYong（现为 KG Mobility）是韩国历史最悠久的汽车制造商，专门生产 SUV 和越野车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "KG Mobility",
+                "en": "KG Mobility",
+                "de": "KG Mobility",
+                "uk": "KG Mobility",
+                "ru": "KG Mobility",
+                "zh": "KG Mobility"
+              },
+              "siedziba": {
+                "pl": "Pyeongtaek, Korea Południowa",
+                "en": "Pyeongtaek, South Korea",
+                "de": "Pyeongtaek, Südkorea",
+                "uk": "Pyeongtaek, Південна Корея",
+                "ru": "Пхёнтэк, Южная Корея",
+                "zh": "韩国平泽"
+              },
+              "założona": "1954"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/a6/zv/wl586ps0s8ocgkss8cgsc/ssangyong-korando-iii-suv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 126,
+        "ModelID": 416589,
+        "Brand Name": "SsangYong",
+        "Model Name": "Korando",
+        "Serie Name": "Korando C200",
+        "Years": "2010 - 2019",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Diesel/Gasoline",
+          "engine": "2.0L - 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "SsangYong (obecnie KG Mobility) to najstarszy koreański producent samochodów, specjalizujący się w SUV-ach i autach terenowych.",
+              "en": "SsangYong (now KG Mobility) is the oldest Korean car manufacturer, specializing in SUVs and off-road vehicles.",
+              "de": "SsangYong (jetzt KG Mobility) ist der älteste koreanische Automobilhersteller, der sich auf SUVs und Geländefahrzeuge spezialisiert hat.",
+              "uk": "SsangYong (тепер KG Mobility) — найстаріший корейський виробник автомобілів, що спеціалізується на позашляховиках і позашляховиках.",
+              "ru": "SsangYong (ныне KG Mobility) — старейший корейский производитель автомобилей, специализирующийся на внедорожниках и внедорожниках.",
+              "zh": "双龙（现为 KG Mobility）是韩国历史最悠久的汽车制造商，专门生产 SUV 和越野车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "KG Mobility",
+                "en": "KG Mobility",
+                "de": "KG Mobility",
+                "uk": "KG Mobility",
+                "ru": "KG Mobility",
+                "zh": "KG Mobility"
+              },
+              "siedziba": {
+                "pl": "Pyeongtaek, Korea Południowa",
+                "en": "Pyeongtaek, South Korea",
+                "de": "Pyeongtaek, Südkorea",
+                "uk": "Pyeongtaek, Південна Корея",
+                "ru": "Пхёнтэк, Южная Корея",
+                "zh": "韩国平泽"
+              },
+              "założona": "1954"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/a6/zv/wl586ps0s8ocgkss8cgsc/ssangyong-korando-iii-suv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 126,
+        "ModelID": 416590,
+        "Brand Name": "SsangYong",
+        "Model Name": "Korando",
+        "Serie Name": "Korando C300",
+        "Years": "2019 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/Electric",
+          "engine": "1.5L Turbo - Electric (Korando e-Motion)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "SsangYong Korando to jeden z najstarszych i najbardziej rozpoznawalnych modeli w historii koreańskiej motoryzacji. Ewoluował od surowej terenówki po nowoczesny, bezpieczny i komfortowy kompaktowy SUV, który w swojej najnowszej odsłonie wprowadził markę w erę elektromobilności modelem e-Motion.",
+              "en": "SsangYong Korando is one of the oldest and most recognizable models in the history of Korean motoring. It has evolved from a raw off-road vehicle to a modern, safe and comfortable compact SUV, which in its latest version has introduced the brand into the era of electromobility with the e-Motion model.",
+              "de": "SsangYong Korando ist eines der ältesten und bekanntesten Modelle in der Geschichte des koreanischen Automobils. Er hat sich vom rohen Geländewagen zum modernen, sicheren und komfortablen Kompakt-SUV entwickelt, der in seiner neuesten Version mit dem Modell e-Motion die Marke in das Zeitalter der Elektromobilität einführte.",
+              "uk": "SsangYong Korando — одна з найстаріших і найвідоміших моделей в історії корейського автомобілебудування. Він еволюціонував від необробленого позашляховика до сучасного, безпечного та комфортного компактного SUV, який у своїй останній версії ввів бренд в еру електромобільності з моделлю e-Motion.",
+              "ru": "SsangYong Korando — одна из старейших и наиболее узнаваемых моделей в истории корейского автомобилестроения. Из сырого внедорожника он превратился в современный, безопасный и комфортабельный компактный внедорожник, который в своей последней версии ввёл бренд в эпоху электромобильности с моделью e-Motion.",
+              "zh": "双龙 Korando 是韩国汽车史上最古老、最知名的车型之一。它已经从一款原始的越野车发展成为一款现代、安全、舒适的紧凑型 SUV，其最新版本的 e-Motion 车型将该品牌带入了电动汽车时代。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "SsangYong (KG Mobility)",
+                "en": "SsangYong (KG Mobility)",
+                "de": "SsangYong (KG Mobility)",
+                "uk": "SsangYong (KG Mobility)",
+                "ru": "SsangYong (KG Mobility)",
+                "zh": "SsangYong (KG Mobility)"
+              },
+              "okres produkcji": {
+                "pl": "od 1983",
+                "en": "since 1983",
+                "de": "seit 1983",
+                "uk": "з 1983 року",
+                "ru": "с 1983 года.",
+                "zh": "自 1983 年以来"
+              },
+              "segment": {
+                "pl": "C-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/a6/zv/wl586ps0s8ocgkss8cgsc/ssangyong-korando-iii-suv.310.jpg"
+        }
+      }
+    ],
+    "Tivoli": [
+      {
+        "BrandID": 126,
+        "ModelID": 414323,
+        "Brand Name": "SsangYong",
+        "Model Name": "Tivoli",
+        "Serie Name": "Tivoli",
+        "Years": "2015 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment B-SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L Turbo - 1.6L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "SsangYong Tivoli to stylowy i zwinny miejski crossover, który zrewolucjonizował wizerunek marki na rynkach światowych. Oferuje bogate wyposażenie z zakresu bezpieczeństwa, przestronną kabinę oraz wyrazisty design, będąc jedną z najciekawszych propozycji w segmencie B-SUV.",
+              "en": "SsangYong Tivoli is a stylish and agile urban crossover that revolutionized the brand's image on global markets. It offers extensive safety equipment, a spacious cabin and a distinctive design, being one of the most interesting propositions in the B-SUV segment.",
+              "de": "SsangYong Tivoli ist ein stilvoller und agiler urbaner Crossover, der das Image der Marke auf den globalen Märkten revolutioniert hat. Er bietet umfangreiche Sicherheitsausstattung, eine geräumige Kabine und ein markantes Design und ist damit eines der interessantesten Angebote im B-SUV-Segment.",
+              "uk": "SsangYong Tivoli — це стильний і маневрений міський кросовер, який змінив імідж бренду на світових ринках. Він пропонує широке обладнання для безпеки, простору кабіну та характерний дизайн, будучи однією з найцікавіших пропозицій у сегменті B-SUV.",
+              "ru": "SsangYong Tivoli — стильный и маневренный городской кроссовер, который произвел революцию в имидже бренда на мировых рынках. Он предлагает обширное оборудование для обеспечения безопасности, просторный салон и характерный дизайн, что делает его одним из самых интересных предложений в сегменте B-SUV.",
+              "zh": "SsangYong Tivoli 是一款时尚、敏捷的城市跨界车，彻底改变了该品牌在全球市场上的形象。它提供广泛的安全设备、宽敞的驾驶室和独特的设计，是 B-SUV 细分市场中最有趣的产品之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "SsangYong (KG Mobility)",
+                "en": "SsangYong (KG Mobility)",
+                "de": "SsangYong (KG Mobility)",
+                "uk": "SsangYong (KG Mobility)",
+                "ru": "SsangYong (KG Mobility)",
+                "zh": "双龙 (KG Mobility)"
+              },
+              "okres produkcji": {
+                "pl": "od 2015",
+                "en": "from 2015",
+                "de": "ab 2015",
+                "uk": "з 2015 року",
+                "ru": "с 2015 года",
+                "zh": "自2015年起"
+              },
+              "segment": {
+                "pl": "B-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/90/ko/ytxvxrswwgscgsgw0oss4/ssangyong-tivoli-1.310.jpg"
+        }
+      }
+    ],
+    "Musso": [
+      {
+        "BrandID": 126,
+        "ModelID": 1477,
+        "Brand Name": "SsangYong",
+        "Model Name": "Musso",
+        "Serie Name": "Musso",
+        "Years": "1993 - 2005",
+        "specs": {
+          "bodyType": "SUV/Pickup",
+          "segment": "Mid-size SUV",
+          "drive": "AWD",
+          "fuel": "Diesel/Gasoline",
+          "engine": "2.3L - 3.2L",
+          "isOldtimer": true,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "SsangYong Musso to solidny pickup, dzielący technikę z modelem Rexton. Oferuje komfort SUV-a i użyteczności ciężarówki.",
+              "en": "SsangYong Musso is a solid pickup truck, sharing technology with the Rexton model. It offers the comfort of an SUV and the utility of a truck.",
+              "de": "SsangYong Musso ist ein solider Pickup, der die Technologie mit dem Rexton-Modell teilt. Es bietet den Komfort eines SUV und den Nutzen eines LKW.",
+              "uk": "SsangYong Musso — це солідний пікап, який використовує спільну технологію з моделлю Rexton. Він пропонує комфорт позашляховика та корисність вантажівки.",
+              "ru": "SsangYong Musso — солидный пикап, использующий технологию, аналогичную модели Rexton. Он сочетает в себе комфорт внедорожника и практичность грузовика.",
+              "zh": "双龙 Musso 是一款坚固的皮卡，与 Rexton 车型共享技术。它提供了 SUV 的舒适性和卡车的实用性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "SsangYong"
+              },
+              "okres produkcji": {
+                "pl": "od 2018 (Grand Musso)",
+                "en": "from 2018 (Grand Musso)",
+                "de": "ab 2018 (Grand Musso)",
+                "uk": "з 2018 року (Grand Musso)",
+                "ru": "2018 года (Grand Musso)",
+                "zh": "2018年起（大穆索）"
+              },
+              "segment": {
+                "pl": "Pickup"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2t/3y/bof8o604wooss88ws8gsg/musso-1993.310.jpg"
+        }
+      },
+      {
+        "BrandID": 126,
+        "ModelID": 416591,
+        "Brand Name": "SsangYong",
+        "Model Name": "Musso",
+        "Serie Name": "Musso Grand",
+        "Years": "2018 - Present",
+        "specs": {
+          "bodyType": "Pickup",
+          "segment": "Mid-size Pickup",
+          "drive": "AWD",
+          "fuel": "Diesel",
+          "engine": "2.2L e-XDi",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "SsangYong Musso to wytrzymały pickup, który łączy luksus i komfort modelu Rexton z ogromnymi możliwościami przewozowymi. Wyposażony w mocne silniki Diesla i zaawansowany napęd 4x4, jest idealnym narzędziem do ciężkiej pracy i dalekich wypraw w trudnym terenie.",
+              "en": "SsangYong Musso is a durable pickup that combines the luxury and comfort of the Rexton with enormous transport capacity. Equipped with powerful diesel engines and an advanced 4x4 drive, it is an ideal tool for hard work and long expeditions in difficult terrain.",
+              "de": "SsangYong Musso ist ein langlebiger Pickup, der den Luxus und Komfort des Rexton mit enormer Transportkapazität verbindet. Ausgestattet mit leistungsstarken Dieselmotoren und einem fortschrittlichen 4x4-Antrieb ist es ein ideales Werkzeug für harte Arbeit und lange Expeditionen in schwierigem Gelände.",
+              "uk": "SsangYong Musso — це міцний пікап, який поєднує в собі розкіш і комфорт Rexton з величезною транспортною здатністю. Оснащений потужними дизельними двигунами та вдосконаленим приводом 4x4, він є ідеальним інструментом для важкої роботи та тривалих експедицій у складній місцевості.",
+              "ru": "SsangYong Musso — прочный пикап, сочетающий в себе роскошь и комфорт Rexton с огромной транспортной вместимостью. Оснащенный мощными дизельными двигателями и усовершенствованным приводом 4x4, он является идеальным инструментом для тяжелой работы и длительных экспедиций по труднопроходимой местности.",
+              "zh": "双龙 Musso 是一款耐用的皮卡，将 Rexton 的豪华舒适性与巨大的运输能力结合在一起。它配备强大的柴油发动机和先进的 4x4 驱动装置，是在困难地形中艰苦工作和长途探险的理想工具。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "SsangYong (KG Mobility)",
+                "en": "SsangYong (KG Mobility)",
+                "de": "SsangYong (KG Mobility)",
+                "uk": "SsangYong (KG Mobility)",
+                "ru": "SsangYong (KG Mobility)",
+                "zh": "双龙 (KG Mobility)"
+              },
+              "okres produkcji": {
+                "pl": "od 1993",
+                "en": "since 1993",
+                "de": "seit 1993",
+                "uk": "з 1993 року",
+                "ru": "с 1993 года.",
+                "zh": "自1993年以来"
+              },
+              "segment": {
+                "pl": "Pickup"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2t/3y/bof8o604wooss88ws8gsg/musso-1993.310.jpg"
+        }
+      }
+    ],
+    "Actyon": [
+      {
+        "BrandID": 126,
+        "ModelID": 413499,
+        "Brand Name": "SsangYong",
+        "Model Name": "Actyon",
+        "Serie Name": "Actyon",
+        "Years": "2005 - 2011",
+        "specs": {
+          "bodyType": "SUV/Pickup (Actyon Sports)",
+          "segment": "Compact SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Diesel/Gasoline",
+          "engine": "2.0L Diesel - 2.3L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "SsangYong Actyon to model, który wyprzedził swoje czasy, wprowadzając linię SUV-a Coupe na lata przed popularyzacją tego segmentu. W wersji Sports stał się unikalnym, lifestylowym pickupem, łączącym odważną stylistykę z solidną techniką napędu na cztery koła.",
+              "en": "The SsangYong Actyon was a model that was ahead of its time, introducing the Coupe SUV line years before the segment became popular. In the Sports version, it has become a unique, lifestyle pickup, combining bold styling with solid four-wheel drive technology.",
+              "de": "Der SsangYong Actyon war ein Modell, das seiner Zeit voraus war und die Coupé-SUV-Linie Jahre vor der Popularität dieses Segments einführte. In der Sportversion ist er zu einem einzigartigen Lifestyle-Pickup geworden, der kühnes Design mit solider Allradantriebstechnologie kombiniert.",
+              "uk": "SsangYong Actyon був моделлю, яка випередила свій час, представивши лінійку позашляховиків Coupe за роки до того, як сегмент став популярним. У спортивній версії він став унікальним пікапом у стилі життя, який поєднує сміливий стиль із надійною технологією повного приводу.",
+              "ru": "SsangYong Actyon был моделью, опередившей свое время, представив линейку внедорожников-купе за несколько лет до того, как этот сегмент стал популярным. В спортивной версии он стал уникальным пикапом, сочетающим в себе смелый стиль и надежную технологию полного привода.",
+              "zh": "双龙 Actyon 走在了时代的前面，在 Coupe SUV 车型流行之前几年就推出了该系列。在运动版中，它已成为一款独特的生活方式皮卡，将大胆的造型与扎实的四轮驱动技术相结合。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "SsangYong"
+              },
+              "okres produkcji": "2005–2011",
+              "segment": {
+                "pl": "C-SUV / Pickup",
+                "en": "C-SUV / Pickup",
+                "de": "C-SUV / Pickup",
+                "uk": "C-SUV / Pickup",
+                "ru": "C-SUV/Пикап",
+                "zh": "C-SUV/皮卡"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/49/sh/jqyndgg08kwgw40cw00go/ssangyong-actyon-ii-sport.310.jpg"
+        }
+      }
+    ],
+    "Kyron": [
+      {
+        "BrandID": 126,
+        "ModelID": 1475,
+        "Brand Name": "SsangYong",
+        "Model Name": "Kyron",
+        "Serie Name": "Kyron",
+        "Years": "2005 - 2014",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Diesel/Gasoline",
+          "engine": "2.0L - 2.7L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "SsangYong Kyron to wszechstronny SUV klasy średniej, który wyróżniał się unikalnym designem i wykorzystaniem technologii Mercedes-Benz w układach napędowych. Oferuje dużą przestrzeń i solidność, która sprawia, że do dziś jest ceniony przez fanów off-roadu.",
+              "en": "SsangYong Kyron is a versatile mid-class SUV that stood out for its unique design and the use of Mercedes-Benz technology in the drive systems. It offers plenty of space and solidity, which makes it still appreciated by off-road fans.",
+              "de": "SsangYong Kyron ist ein vielseitiger Mittelklasse-SUV, der sich durch sein einzigartiges Design und den Einsatz von Mercedes-Benz-Technologie in den Antriebssystemen auszeichnete. Er bietet viel Platz und Stabilität, weshalb er auch heute noch von Offroad-Fans geschätzt wird.",
+              "uk": "SsangYong Kyron — це універсальний позашляховик середнього класу, який вирізнявся своїм унікальним дизайном і використанням технологій Mercedes-Benz у системах приводу. Він пропонує багато простору та міцність, тому його досі цінують шанувальники бездоріжжя.",
+              "ru": "SsangYong Kyron — универсальный внедорожник среднего класса, выделявшийся уникальным дизайном и использованием технологий Mercedes-Benz в системах привода. Он предлагает много места и солидности, что делает его по-прежнему ценным для любителей бездорожья.",
+              "zh": "双龙Kyron是一款多功能中型SUV，以其独特的设计和在动力总成中使用梅赛德斯-奔驰技术而脱颖而出。它提供了充足的空间和坚固性，这使得它仍然受到越野爱好者的赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "SsangYong"
+              },
+              "okres produkcji": "2005–2014",
+              "segment": {
+                "pl": "D-SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bx/44/7a6sip4ossssosgoooowc/kyron-2007.310.jpg"
+        }
+      }
+    ],
+    "Rodius": [
+      {
+        "BrandID": 126,
+        "ModelID": 413504,
+        "Brand Name": "SsangYong",
+        "Model Name": "Rodius",
+        "Serie Name": "Rodius I",
+        "Years": "2004 - 2013",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Large MPV",
+          "drive": "RWD/AWD",
+          "fuel": "Diesel",
+          "engine": "2.7L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "SsangYong (obecnie KG Mobility) to najstarszy koreański producent samochodów, specjalizujący się w SUV-ach i autach terenowych.",
+              "en": "SsangYong (currently KG Mobility) is the oldest Korean car manufacturer specializing in SUVs and off-road vehicles.",
+              "de": "SsangYong (derzeit KG Mobility) ist der älteste koreanische Automobilhersteller, der sich auf SUVs und Geländefahrzeuge spezialisiert hat.",
+              "uk": "SsangYong (наразі KG Mobility) — найстаріший корейський виробник автомобілів, що спеціалізується на позашляховиках і позашляховиках.",
+              "ru": "SsangYong (в настоящее время KG Mobility) — старейший корейский производитель автомобилей, специализирующийся на внедорожниках и внедорожниках.",
+              "zh": "双龙（现 KG Mobility）是韩国历史最悠久的汽车制造商，专门生产 SUV 和越野车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "KG Mobility",
+                "en": "KG Mobility",
+                "de": "KG Mobility",
+                "uk": "KG Mobility",
+                "ru": "KG Mobility",
+                "zh": "公斤流动性"
+              },
+              "siedziba": {
+                "pl": "Pyeongtaek, Korea Południowa",
+                "en": "Pyeongtaek, South Korea",
+                "de": "Pyeongtaek, Südkorea",
+                "uk": "Pyeongtaek, Південна Корея",
+                "ru": "Пхёнтэк, Южная Корея",
+                "zh": "韩国 平泽"
+              },
+              "założona": "1954"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/91/nh/o5lwhjoc4gkwk8ckgwooc/ssangyong-rodius-4.310.jpg"
+        }
+      },
+      {
+        "BrandID": 126,
+        "ModelID": 413505,
+        "Brand Name": "SsangYong",
+        "Model Name": "Rodius",
+        "Serie Name": "Rodius II (Turismo)",
+        "Years": "2013 - 2019",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Large MPV",
+          "drive": "RWD/AWD",
+          "fuel": "Diesel",
+          "engine": "2.0L - 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "SsangYong Rodius to gigant segmentu MPV, oferujący niespotykaną przestrzeń (nawet do 11 osób) i opcjonalny napęd na cztery koła. Choć budził kontrowersje designem pierwszej generacji, zyskał uznanie jako wyjątkowo funkcjonalny transporter rodzinny i biznesowy.",
+              "en": "SsangYong Rodius is a giant of the MPV segment, offering unprecedented space (up to 11 people) and optional four-wheel drive. Although it was controversial with its first-generation design, it gained recognition as an exceptionally functional family and business transporter.",
+              "de": "SsangYong Rodius ist ein Gigant im MPV-Segment und bietet beispiellosen Platz (bis zu 11 Personen) und optionalen Allradantrieb. Obwohl das Design der ersten Generation umstritten war, erlangte es Anerkennung als außergewöhnlich funktionaler Familien- und Geschäftstransporter.",
+              "uk": "SsangYong Rodius — це гігант сегменту MPV, який пропонує безпрецедентний простір (до 11 осіб) і опціональний повний привід. Незважаючи на те, що його дизайн першого покоління викликав суперечки, він отримав визнання як винятково функціональний сімейний і бізнес-транспортер.",
+              "ru": "SsangYong Rodius — гигант сегмента MPV, предлагающий беспрецедентное пространство (до 11 человек) и опциональный полный привод. Хотя дизайн первого поколения вызывал споры, он получил признание как исключительно функциональный семейный и деловой транспортер.",
+              "zh": "双龙Rodius是MPV领域的巨头，提供前所未有的空间（最多可容纳11人）和可选的四轮驱动。尽管它的第一代设计存在争议，但它作为一款功能卓越的家庭和商业运输工具获得了认可。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "SsangYong"
+              },
+              "okres produkcji": "2004–2019",
+              "segment": {
+                "pl": "L-MPV"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/91/nh/o5lwhjoc4gkwk8ckgwooc/ssangyong-rodius-4.310.jpg"
+        }
+      }
+    ],
+    "Torres": [
+      {
+        "BrandID": 126,
+        "ModelID": 416592,
+        "Brand Name": "SsangYong",
+        "Model Name": "Torres",
+        "Serie Name": "Torres",
+        "Years": "2022 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Electric",
+          "engine": "1.5L Turbo / Electric (EVX)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "SsangYong Torres to przełomowy model marki (już pod marką KG Mobility), który nawiązuje do klasycznych aut terenowych swoim surowym i nowoczesnym designem Adventure. Łączy zaawansowaną technologię, w tym wersję w pełni elektryczną EVX, z dużą dzielnością i wytrzymałością.",
+              "en": "SsangYong Torres is a breakthrough model of the brand (already under the KG Mobility brand), which refers to classic off-road cars with its raw and modern Adventure design. It combines advanced technology, including the fully electric EVX version, with high agility and durability.",
+              "de": "SsangYong Torres ist ein bahnbrechendes Modell der Marke (bereits unter der Marke KG Mobility), das mit seinem rohen und modernen Adventure-Design an klassische Geländewagen erinnert. Es kombiniert fortschrittliche Technologie, einschließlich der vollelektrischen EVX-Version, mit hoher Agilität und Langlebigkeit.",
+              "uk": "SsangYong Torres — це проривна модель бренду (вже під брендом KG Mobility), яка відноситься до класичних позашляховиків із сирим і сучасним дизайном Adventure. Він поєднує передові технології, включаючи повністю електричну версію EVX, з високою маневреністю та довговічністю.",
+              "ru": "SsangYong Torres — прорывная модель бренда (уже под брендом KG Mobility), которая отсылает к классическим внедорожникам с сырым и современным дизайном Adventure. Он сочетает в себе передовые технологии, в том числе полностью электрическую версию EVX, с высокой маневренностью и долговечностью.",
+              "zh": "双龙托雷斯是该品牌的突破性车型（已属于 KG Mobility 品牌），该品牌指的是具有原始和现代冒险设计的经典越野汽车。它将先进技术（包括全电动 EVX 版本）与高灵活性和耐用性相结合。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "KG Mobility (SsangYong)",
+                "en": "KG Mobility (SsangYong)",
+                "de": "KG Mobility (SsangYong)",
+                "uk": "KG Mobility (SsangYong)",
+                "ru": "KG Mobility (SsangYong)",
+                "zh": "KG Mobility（双龙）"
+              },
+              "okres produkcji": {
+                "pl": "od 2022",
+                "en": "from 2022",
+                "de": "ab 2022",
+                "uk": "з 2022 року",
+                "ru": "с 2022 г.",
+                "zh": "2022年起"
+              },
+              "segment": {
+                "pl": "D-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

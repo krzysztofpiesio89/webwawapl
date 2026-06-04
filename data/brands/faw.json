@@ -1,0 +1,577 @@
+{
+  "brand": "FAW",
+  "models": {
+    "Besturn B50": [
+      {
+        "BrandID": 43,
+        "ModelID": 414139,
+        "Brand Name": "FAW",
+        "Model Name": "Besturn B50",
+        "Serie Name": "Besturn B50",
+        "Years": "2009 - 2016",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Compact Sedan",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "FAW Besturn B50 to kompaktowy sedan oparty na zmodyfikowanej platformie Mazdy 6 (I generacji), oferujący sprawdzone rozwiązania w atrakcyjnej cenie.",
+              "en": "FAW Besturn B50 is a compact sedan based on the modified Mazda 6 platform (1st generation), offering proven solutions at an attractive price.",
+              "de": "FAW Besturn B50 ist eine kompakte Limousine auf Basis der modifizierten Mazda 6-Plattform (1. Generation) und bietet bewährte Lösungen zu einem attraktiven Preis.",
+              "uk": "FAW Besturn B50 — компактний седан на модифікованій платформі Mazda 6 (1-го покоління), що пропонує перевірені рішення за привабливою ціною.",
+              "ru": "FAW Besturn B50 — компактный седан на модифицированной платформе Mazda 6 (1-го поколения), предлагающий проверенные решения по привлекательной цене.",
+              "zh": "一汽奔腾B50是一款基于改良马自达6平台（第一代）的紧凑型轿车，以极具吸引力的价格提供成熟的解决方案。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "FAW Car Company",
+                "en": "FAW Car Company",
+                "de": "FAW Car Company",
+                "uk": "FAW Car Company",
+                "ru": "FAW Car Company",
+                "zh": "一汽轿车公司"
+              },
+              "okres produkcji": "2009–2016",
+              "miejsce produkcji": {
+                "pl": "Changchun, Chiny",
+                "en": "Changchun, China",
+                "de": "Changchun, China",
+                "uk": "Чанчунь, Китай",
+                "ru": "Чанчунь, Китай",
+                "zh": "中国长春"
+              },
+              "platforma": {
+                "pl": "Mazda CD3",
+                "en": "Mazda CD3",
+                "de": "Mazda CD3",
+                "uk": "Mazda CD3",
+                "ru": "Mazda CD3",
+                "zh": "马自达 CD3"
+              },
+              "silnik": {
+                "pl": "1.6L (VW) / 1.8L",
+                "en": "1.6L (VW) / 1.8L",
+                "de": "1.6L (VW) / 1.8L",
+                "uk": "1.6L (VW) / 1.8L",
+                "ru": "1.6L (VW) / 1.8L",
+                "zh": "1.6L（大众）/1.8L"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Besturn B70": [
+      {
+        "BrandID": 43,
+        "ModelID": 416790,
+        "Brand Name": "FAW",
+        "Model Name": "Besturn B70",
+        "Serie Name": "Besturn B70",
+        "Years": "2006 - 3000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Sedan",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.8L / 2.0L / 2.3L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "FAW Besturn B70 to sedan klasy średniej, będący pierwszym modelem marki Besturn, technicznie bliźniaczy z Mazdą 6.",
+              "en": "FAW Besturn B70 is a mid-class sedan, which is the first model of the Besturn brand, technically a twin to the Mazda 6.",
+              "de": "FAW Besturn B70 ist eine Mittelklasselimousine, das erste Modell der Marke Besturn, technisch gesehen ein Zwilling des Mazda 6.",
+              "uk": "FAW Besturn B70 — це седан середнього класу, який є першою моделлю бренду Besturn, технічно близнюком Mazda 6.",
+              "ru": "FAW Besturn B70 — седан среднего класса, который является первой моделью бренда Besturn, технически близнецом Mazda 6.",
+              "zh": "一汽奔腾 B70 是一款中级轿车，是奔腾品牌的第一款车型，技术上与马自达 6 是双胞胎。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "FAW Car Company",
+                "en": "FAW Car Company",
+                "de": "FAW Car Company",
+                "uk": "FAW Car Company",
+                "ru": "FAW Car Company",
+                "zh": "一汽轿车公司"
+              },
+              "okres produkcji": {
+                "pl": "od 2006",
+                "en": "since 2006",
+                "de": "seit 2006",
+                "uk": "з 2006",
+                "ru": "с 2006 года",
+                "zh": "自 2006 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Changchun, Chiny",
+                "en": "Changchun, China",
+                "de": "Changchun, China",
+                "uk": "Чанчунь, Китай",
+                "ru": "Чанчунь, Китай",
+                "zh": "中国长春"
+              },
+              "platforma": {
+                "pl": "Mazda GG",
+                "en": "Mazda GG",
+                "de": "Mazda GG",
+                "uk": "Mazda GG",
+                "ru": "Mazda GG",
+                "zh": "马自达GG"
+              },
+              "silnik": {
+                "pl": "1.8L / 2.0L / 2.3L",
+                "en": "1.8L / 2.0L / 2.3L",
+                "de": "1,8 l / 2,0 l / 2,3 l",
+                "uk": "1.8L / 2.0L / 2.3L",
+                "ru": "1.8L / 2.0L / 2.3L",
+                "zh": "1.8L / 2.0L / 2.3L"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Besturn X40": [
+      {
+        "BrandID": 43,
+        "ModelID": 416791,
+        "Brand Name": "FAW",
+        "Model Name": "Besturn X40",
+        "Serie Name": "Besturn X40",
+        "Years": "2016 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Small SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "FAW Besturn X40 to miejski SUV wyposażony w zaawansowany system multimedialny D-Life, popularny wśród młodszych kierowców.",
+              "en": "FAW Besturn X40 is an urban SUV equipped with the advanced D-Life multimedia system, popular among younger drivers.",
+              "de": "FAW Besturn X40 ist ein Stadt-SUV, der mit dem fortschrittlichen D-Life-Multimediasystem ausgestattet ist, das bei jüngeren Fahrern beliebt ist.",
+              "uk": "FAW Besturn X40 — міський позашляховик, оснащений передовою мультимедійною системою D-Life, популярною серед молодих водіїв.",
+              "ru": "FAW Besturn X40 — городской внедорожник, оснащенный продвинутой мультимедийной системой D-Life, популярной среди молодых водителей.",
+              "zh": "一汽奔腾X40是一款城市SUV，配备了先进的D-Life多媒体系统，深受年轻驾驶者的喜爱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "FAW Car Company",
+                "en": "FAW Car Company",
+                "de": "FAW Car Company",
+                "uk": "FAW Car Company",
+                "ru": "FAW Car Company",
+                "zh": "一汽轿车公司"
+              },
+              "okres produkcji": "2016–2019",
+              "miejsce produkcji": {
+                "pl": "Changchun, Chiny",
+                "en": "Changchun, China",
+                "de": "Changchun, China",
+                "uk": "Чанчунь, Китай",
+                "ru": "Чанчунь, Китай",
+                "zh": "中国长春"
+              },
+              "platforma": {
+                "pl": "FAW A-Class",
+                "en": "FAW A-Class",
+                "de": "FAW A-Klasse",
+                "uk": "FAW A-Class",
+                "ru": "FAW A-Class",
+                "zh": "一汽A级"
+              },
+              "silnik": {
+                "pl": "1.6L"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Besturn X80": [
+      {
+        "BrandID": 43,
+        "ModelID": 416792,
+        "Brand Name": "FAW",
+        "Model Name": "Besturn X80",
+        "Serie Name": "Besturn X80",
+        "Years": "2013 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L / 2.3L / 1.8L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "FAW Besturn X80 to pierwszy SUV marki, zbudowany na platformie Mazdy 6, oferujący dobre właściwości jezdne i przestronne wnętrze.",
+              "en": "FAW Besturn X80 is the brand's first SUV, built on the Mazda 6 platform, offering good driving characteristics and a spacious interior.",
+              "de": "FAW Besturn X80 ist der erste SUV der Marke, der auf der Mazda 6-Plattform basiert und gute Fahreigenschaften und einen geräumigen Innenraum bietet.",
+              "uk": "FAW Besturn X80 — перший позашляховик марки, побудований на платформі Mazda 6, який пропонує хороші ходові якості та просторий салон.",
+              "ru": "FAW Besturn X80 — первый внедорожник марки, построенный на платформе Mazda 6, предлагающий хорошие ходовые качества и просторный салон.",
+              "zh": "一汽奔腾X80是该品牌首款SUV，基于马自达6平台打造，具有良好的驾驶特性和宽敞的内部空间。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "FAW Car Company",
+                "en": "FAW Car Company",
+                "de": "FAW Car Company",
+                "uk": "FAW Car Company",
+                "ru": "FAW Car Company",
+                "zh": "一汽汽车公司"
+              },
+              "okres produkcji": "2013–2018",
+              "miejsce produkcji": {
+                "pl": "Changchun, Chiny",
+                "en": "Changchun, China",
+                "de": "Changchun, China",
+                "uk": "Чанчунь, Китай",
+                "ru": "Чанчунь, Китай",
+                "zh": "中国长春"
+              },
+              "platforma": {
+                "pl": "Mazda CD3",
+                "en": "Mazda CD3",
+                "de": "Mazda CD3",
+                "uk": "Mazda CD3",
+                "ru": "Mazda CD3",
+                "zh": "马自达 CD3"
+              },
+              "silnik": {
+                "pl": "2.0L / 2.3L / 1.8L Turbo",
+                "en": "2.0L / 2.3L / 1.8L Turbo",
+                "de": "2.0L / 2.3L / 1.8L Turbo",
+                "uk": "2.0L / 2.3L / 1.8L Turbo",
+                "ru": "2.0L / 2.3L / 1.8L Turbo",
+                "zh": "2.0L / 2.3L / 1.8L 涡轮增压"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Hongqi H5": [
+      {
+        "BrandID": 43,
+        "ModelID": 416793,
+        "Brand Name": "FAW",
+        "Model Name": "Hongqi H5",
+        "Serie Name": "Hongqi H5",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Luxury Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L Turbo / 1.8L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Hongqi H5 to luksusowa limuzyna klasy średniej, łącząca sportową stylistykę z prestiżem marki 'Czerwona Flaga'.",
+              "en": "Hongqi H5 is a luxury mid-class limousine, combining sporty styling with the prestige of the 'Red Flag' brand.",
+              "de": "Hongqi H5 ist eine luxuriöse Mittelklasselimousine, die sportliches Design mit dem Prestige der Marke „Red Flag“ verbindet.",
+              "uk": "Hongqi H5 — це розкішний лімузин середнього класу, який поєднує в собі спортивний стиль і престиж бренду Red Flag.",
+              "ru": "Hongqi H5 — роскошный лимузин среднего класса, сочетающий в себе спортивный стиль и престиж бренда «Red Flag».",
+              "zh": "红旗 H5 是一款豪华中级轿车，将运动风格与“红旗”品牌的声誉相结合。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "FAW Hongqi",
+                "en": "FAW Hongqi",
+                "de": "FAW Hongqi",
+                "uk": "FAW Hongqi",
+                "ru": "FAW Hongqi",
+                "zh": "一汽红旗"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "from 2018",
+                "de": "ab 2018",
+                "uk": "з 2018 р.",
+                "ru": "2018 г.",
+                "zh": "2018 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Changchun, Chiny",
+                "en": "Changchun, China",
+                "de": "Changchun, China",
+                "uk": "Чанчунь, Китай",
+                "ru": "Чанчунь, Китай",
+                "zh": "中国长春"
+              },
+              "platforma": {
+                "pl": "Mazda GJ",
+                "en": "Mazda GJ",
+                "de": "Mazda GJ",
+                "uk": "Mazda GJ",
+                "ru": "Mazda GJ",
+                "zh": "马自达 GJ"
+              },
+              "silnik": {
+                "pl": "1.5L Turbo / 1.8L Turbo",
+                "en": "1.5L Turbo / 1.8L Turbo",
+                "de": "1,5L Turbo / 1,8L Turbo",
+                "uk": "1,5 л з турбонаддувом / 1,8 л з турбонаддувом",
+                "ru": "1,5 л Turbo / 1,8 л Turbo",
+                "zh": "1.5L Turbo / 1.8L Turbo"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Hongqi H9": [
+      {
+        "BrandID": 43,
+        "ModelID": 416794,
+        "Brand Name": "FAW",
+        "Model Name": "Hongqi H9",
+        "Serie Name": "Hongqi H9",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Luxury Full-size",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L Turbo / 3.0L V6 Supercharged",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Hongqi H9 to flagowa limuzyna o majestatycznym wyglądzie, często porównywana do Rolls-Royce'a, oferująca najwyższy komfort i luksus.",
+              "en": "The Hongqi H9 is a flagship sedan with a majestic appearance, often compared to a Rolls-Royce, offering the highest comfort and luxury.",
+              "de": "Der Hongqi H9 ist eine Flaggschiff-Limousine mit majestätischem Aussehen, die oft mit einem Rolls-Royce verglichen wird und höchsten Komfort und Luxus bietet.",
+              "uk": "Hongqi H9 — це флагманський седан із величним зовнішнім виглядом, який часто порівнюють із Rolls-Royce, що пропонує найвищий комфорт і розкіш.",
+              "ru": "Hongqi H9 — флагманский седан с величественным внешним видом, который часто сравнивают с Rolls-Royce, предлагающий высочайший комфорт и роскошь.",
+              "zh": "红旗H9是一款旗舰轿车，外观雄伟，经常与劳斯莱斯相媲美，提供最高的舒适度和豪华感。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "FAW Hongqi",
+                "en": "FAW Hongqi",
+                "de": "FAW Hongqi",
+                "uk": "FAW Hongqi",
+                "ru": "FAW Hongqi",
+                "zh": "一汽红旗"
+              },
+              "okres produkcji": {
+                "pl": "od 2020",
+                "en": "from 2020",
+                "de": "ab 2020",
+                "uk": "з 2020 року",
+                "ru": "с 2020 года",
+                "zh": "2020 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Changchun, Chiny",
+                "en": "Changchun, China",
+                "de": "Changchun, China",
+                "uk": "Чанчунь, Китай",
+                "ru": "Чанчунь, Китай",
+                "zh": "中国长春"
+              },
+              "platforma": {
+                "pl": "FAW H",
+                "en": "FAW H",
+                "de": "FAW H",
+                "uk": "FAW H",
+                "ru": "FAW H",
+                "zh": "一汽 H"
+              },
+              "silnik": {
+                "pl": "2.0L Turbo / 3.0L V6 SC",
+                "en": "2.0L Turbo / 3.0L V6 SC",
+                "de": "2.0L Turbo / 3.0L V6 SC",
+                "uk": "2.0L Turbo / 3.0L V6 SC",
+                "ru": "2.0L Turbo / 3.0L V6 SC",
+                "zh": "2.0L Turbo / 3.0L V6 SC"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Oley": [
+      {
+        "BrandID": 43,
+        "ModelID": 416795,
+        "Brand Name": "FAW",
+        "Model Name": "Oley",
+        "Serie Name": "Oley",
+        "Years": "2012 - 2015",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Subcompact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "FAW Oley to budżetowy sedan o kontrowersyjnej stylistyce, zbudowany na zmodyfikowanej platformie VW Jetta A2.",
+              "en": "FAW Oley is a budget sedan with controversial styling, built on a modified VW Jetta A2 platform.",
+              "de": "FAW Oley ist eine preisgünstige Limousine mit kontroversem Design, die auf einer modifizierten VW Jetta A2-Plattform basiert.",
+              "uk": "FAW Oley — це бюджетний седан із суперечливим стилем, побудований на модифікованій платформі VW Jetta A2.",
+              "ru": "FAW Oley — бюджетный седан спорного стиля, построенный на модифицированной платформе VW Jetta A2.",
+              "zh": "FAW Oley 是一款造型颇具争议的经济型轿车，基于大众捷达 A2 平台改装而成。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "FAW Car Company",
+                "en": "FAW Car Company",
+                "de": "FAW Car Company",
+                "uk": "FAW Car Company",
+                "ru": "FAW Car Company",
+                "zh": "一汽汽车公司"
+              },
+              "okres produkcji": "2012–2015",
+              "miejsce produkcji": {
+                "pl": "Changchun, Chiny",
+                "en": "Changchun, China",
+                "de": "Changchun, China",
+                "uk": "Чанчунь, Китай",
+                "ru": "Чанчунь, Китай",
+                "zh": "中国长春"
+              },
+              "platforma": {
+                "pl": "VW PQ32",
+                "en": "VW PQ32",
+                "de": "VW PQ32",
+                "uk": "VW PQ32",
+                "ru": "VW PQ32",
+                "zh": "大众 PQ32"
+              },
+              "silnik": {
+                "pl": "1.5L"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "V2": [
+      {
+        "BrandID": 43,
+        "ModelID": 416796,
+        "Brand Name": "FAW",
+        "Model Name": "V2",
+        "Serie Name": "V2",
+        "Years": "2010 - 2016",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.3L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "FAW V2 to mały samochód miejski, będący lokalną interpretacją Daihatsu Cuore, ceniony za niską cenę i ekonomię.",
+              "en": "FAW V2 is a small city car, a local interpretation of the Daihatsu Cuore, appreciated for its low price and economy.",
+              "de": "FAW V2 ist ein kleines Stadtauto, eine lokale Interpretation des Daihatsu Cuore, das für seinen niedrigen Preis und seine Wirtschaftlichkeit geschätzt wird.",
+              "uk": "FAW V2 — маленький міський автомобіль, місцева інтерпретація Daihatsu Cuore, яку цінують за низьку ціну та економічність.",
+              "ru": "FAW V2 — небольшой городской автомобиль, местная интерпретация Daihatsu Cuore, ценимый за низкую цену и экономичность.",
+              "zh": "一汽 V2 是一款小型城市汽车，是大发 Cuore 的本土化诠释，因其低廉的价格和经济性而受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "FAW Tianjin",
+                "en": "FAW Tianjin",
+                "de": "FAW Tianjin",
+                "uk": "FAW Tianjin",
+                "ru": "FAW Тяньцзинь",
+                "zh": "天津一汽"
+              },
+              "okres produkcji": "2010–2016",
+              "miejsce produkcji": {
+                "pl": "Tiencin, Chiny",
+                "en": "Tianjin, China",
+                "de": "Tianjin, China",
+                "uk": "Тяньцзінь, Китай",
+                "ru": "Тяньцзинь, Китай",
+                "zh": "中国，天津"
+              },
+              "platforma": {
+                "pl": "Daihatsu"
+              },
+              "silnik": {
+                "pl": "1.3L"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "V5": [
+      {
+        "BrandID": 43,
+        "ModelID": 414031,
+        "Brand Name": "FAW",
+        "Model Name": "V5",
+        "Serie Name": "Weizhi V5",
+        "Years": "2012 - 2019",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "FAW V5 (Weizhi V5) to ekonomiczny sedan, popularny w Chinach i na rynkach eksportowych, bazujący na technologii Toyoty.",
+              "en": "FAW V5 (Weizhi V5) is an economical sedan, popular in China and export markets, based on Toyota technology.",
+              "de": "FAW V5 (Weizhi V5) ist eine sparsame Limousine, die in China und auf Exportmärkten beliebt ist und auf Toyota-Technologie basiert.",
+              "uk": "FAW V5 (Weizhi V5) — економічний седан, популярний у Китаї та на експортних ринках, створений на основі технологій Toyota.",
+              "ru": "FAW V5 (Weizhi V5) — экономичный седан, популярный в Китае и на экспортных рынках, созданный на базе технологий Toyota.",
+              "zh": "一汽 V5（威志 V5）是一款基于丰田技术的经济型轿车，在中国和出口市场上广受欢迎。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "FAW Tianjin",
+                "en": "FAW Tianjin",
+                "de": "FAW Tianjin",
+                "uk": "FAW Tianjin",
+                "ru": "FAW Тяньцзинь",
+                "zh": "天津一汽"
+              },
+              "okres produkcji": "2012–2019",
+              "miejsce produkcji": {
+                "pl": "Tiencin, Chiny",
+                "en": "Tianjin, China",
+                "de": "Tianjin, China",
+                "uk": "Тяньцзінь, Китай",
+                "ru": "Тяньцзинь, Китай",
+                "zh": "中国天津"
+              },
+              "platforma": {
+                "pl": "Toyota NBC",
+                "en": "Toyota NBC",
+                "de": "Toyota NBC",
+                "uk": "Toyota NBC",
+                "ru": "Toyota NBC",
+                "zh": "丰田 NBC"
+              },
+              "silnik": {
+                "pl": "1.5L"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

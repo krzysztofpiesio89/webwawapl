@@ -1,0 +1,1897 @@
+{
+  "brand": "Mitsubishi",
+  "models": {
+    "ASX": [
+      {
+        "BrandID": 94,
+        "ModelID": 414235,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "ASX",
+        "Serie Name": "ASX I",
+        "Years": "2010 - 2012",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment C-SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/ASX_001.jpg/1244px-ASX_001.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/ASX_001.jpg/1244px-ASX_001.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mitsubishi_ASX_%28MSP15%29.JPG/1280px-Mitsubishi_ASX_%28MSP15%29.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/2017_Mitsubishi_ASX_2_1.6.jpg/1280px-2017_Mitsubishi_ASX_2_1.6.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Mitsubishi_ASX_1.8_DI-D%2B_ClearTec_Edition_%E2%80%93_Heckansicht%2C_1._April_2012%2C_Essen.jpg/1280px-Mitsubishi_ASX_1.8_DI-D%2B_ClearTec_Edition_%E2%80%93_Heckansicht%2C_1._April_2012%2C_Essen.jpg"
+            ],
+            "description": {
+              "pl": "Mitsubishi ASX to jeden z najpopularniejszych miejskich crossoverów. Ceniony za prostotę konstrukcji, wysoką pozycję za kierownicą i uniwersalność w codziennym użytkowaniu.",
+              "en": "Mitsubishi ASX is one of the most popular urban crossovers. Appreciated for its simplicity of design, high driving position and versatility in everyday use.",
+              "de": "Mitsubishi ASX ist einer der beliebtesten urbanen Crossover. Geschätzt für sein schlichtes Design, seine hohe Fahrposition und seine Vielseitigkeit im täglichen Gebrauch.",
+              "uk": "Mitsubishi ASX - один з найпопулярніших міських кросоверів. Цінується за простоту конструкції, високу посадку за кермом і універсальність у щоденному використанні.",
+              "ru": "Mitsubishi ASX – один из самых популярных городских кроссоверов. Ценится за простоту конструкции, высокую посадку водителя и универсальность в повседневном использовании.",
+              "zh": "三菱 ASX 是最受欢迎的城市跨界车之一。因其简单的设计、较高的驾驶位置和日常使用的多功能性而受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi Motors",
+                "en": "Mitsubishi Motors",
+                "de": "Mitsubishi Motors",
+                "uk": "Mitsubishi Motors",
+                "ru": "Mitsubishi Motors",
+                "zh": "三菱汽车"
+              },
+              "okres produkcji": {
+                "pl": "od 2010",
+                "en": "from 2010",
+                "de": "ab 2010",
+                "uk": "з 2010 року",
+                "ru": "2010 г.",
+                "zh": "2010 年起"
+              },
+              "segment": {
+                "pl": "B-SUV / Compact Crossover",
+                "en": "B-SUV / Compact Crossover",
+                "de": "B-SUV / Compact Crossover",
+                "uk": "B-SUV / Компактний кросовер",
+                "ru": "B-SUV / Компактный кроссовер",
+                "zh": "B-SUV / 紧凑型跨界车"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/c4/cg/pknb8jk0s4k0cg4so04cc/asx.310.jpg"
+        }
+      },
+      {
+        "BrandID": 94,
+        "ModelID": 414236,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "ASX",
+        "Serie Name": "ASX I Facelift",
+        "Years": "2012 - 2016",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment C-SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.2L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/ASX_001.jpg/1244px-ASX_001.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/ASX_001.jpg/1244px-ASX_001.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mitsubishi_ASX_%28MSP15%29.JPG/1280px-Mitsubishi_ASX_%28MSP15%29.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/2017_Mitsubishi_ASX_2_1.6.jpg/1280px-2017_Mitsubishi_ASX_2_1.6.jpg"
+            ],
+            "description": {
+              "pl": "Mitsubishi ASX to jeden z najpopularniejszych miejskich crossoverów. Ceniony za prostotę konstrukcji, wysoką pozycję za kierownicą i uniwersalność w codziennym użytkowaniu.",
+              "en": "Mitsubishi ASX is one of the most popular urban crossovers. Appreciated for its simplicity of design, high driving position and versatility in everyday use.",
+              "de": "Mitsubishi ASX ist einer der beliebtesten urbanen Crossover. Geschätzt für sein schlichtes Design, seine hohe Fahrposition und seine Vielseitigkeit im täglichen Gebrauch.",
+              "uk": "Mitsubishi ASX — один із найпопулярніших міських кросоверів. Цінується за простоту конструкції, високу посадку за кермом і універсальність у щоденному використанні.",
+              "ru": "Mitsubishi ASX — один из самых популярных городских кроссоверов. Ценится за простоту конструкции, высокую посадку водителя и универсальность в повседневном использовании.",
+              "zh": "三菱 ASX 是最受欢迎的城市跨界车之一。因其简单的设计、较高的驾驶位置和日常使用的多功能性而受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi Motors",
+                "en": "Mitsubishi Motors",
+                "de": "Mitsubishi Motors",
+                "uk": "Mitsubishi Motors",
+                "ru": "Mitsubishi Motors",
+                "zh": "三菱汽车"
+              },
+              "okres produkcji": {
+                "pl": "od 2010",
+                "en": "from 2010",
+                "de": "ab 2010",
+                "uk": "з 2010 року",
+                "ru": "2010 г.",
+                "zh": "2010 年起"
+              },
+              "segment": {
+                "pl": "B-SUV / Compact Crossover",
+                "en": "B-SUV / Compact Crossover",
+                "de": "B-SUV / Compact Crossover",
+                "uk": "B-SUV / Компактний кросовер",
+                "ru": "B-SUV / Компактный кроссовер",
+                "zh": "B-SUV / 紧凑型跨界车"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/c4/cg/pknb8jk0s4k0cg4so04cc/asx.310.jpg"
+        }
+      },
+      {
+        "BrandID": 94,
+        "ModelID": 414237,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "ASX",
+        "Serie Name": "ASX I Facelift 2",
+        "Years": "2016 - 2019",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment C-SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi ASX to jeden z najpopularniejszych miejskich crossoverów. Ceniony za prostotę konstrukcji, wysoką pozycję za kierownicą i uniwersalność w codziennym użytkowaniu.",
+              "en": "Mitsubishi ASX is one of the most popular urban crossovers. Appreciated for its simplicity of design, high driving position and versatility in everyday use.",
+              "de": "Mitsubishi ASX ist einer der beliebtesten urbanen Crossover. Geschätzt für sein schlichtes Design, seine hohe Fahrposition und seine Vielseitigkeit im täglichen Gebrauch.",
+              "uk": "Mitsubishi ASX — один із найпопулярніших міських кросоверів. Цінується за простоту конструкції, високу посадку за кермом і універсальність у щоденному використанні.",
+              "ru": "Mitsubishi ASX — один из самых популярных городских кроссоверов. Ценится за простоту конструкции, высокую посадку водителя и универсальность в повседневном использовании.",
+              "zh": "三菱 ASX 是最受欢迎的城市跨界车之一。因其简单的设计、较高的驾驶位置和日常使用的多功能性而受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi Motors",
+                "en": "Mitsubishi Motors",
+                "de": "Mitsubishi Motors",
+                "uk": "Mitsubishi Motors",
+                "ru": "Mitsubishi Motors",
+                "zh": "三菱汽车"
+              },
+              "okres produkcji": {
+                "pl": "od 2010",
+                "en": "from 2010",
+                "de": "ab 2010",
+                "uk": "з 2010 року",
+                "ru": "2010 г.",
+                "zh": "2010 年起"
+              },
+              "segment": {
+                "pl": "B-SUV / Compact Crossover",
+                "en": "B-SUV / Compact Crossover",
+                "de": "B-SUV / Compact Crossover",
+                "uk": "B-SUV / Компактний кросовер",
+                "ru": "B-SUV / Компактный кроссовер",
+                "zh": "B-SUV / 紧凑型跨界车"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/c4/cg/pknb8jk0s4k0cg4so04cc/asx.310.jpg"
+        }
+      },
+      {
+        "BrandID": 94,
+        "ModelID": 414238,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "ASX",
+        "Serie Name": "ASX I Facelift 3",
+        "Years": "2019 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment C-SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi ASX to jeden z najpopularniejszych miejskich crossoverów. Ceniony za prostotę konstrukcji, wysoką pozycję za kierownicą i uniwersalność w codziennym użytkowaniu.",
+              "en": "Mitsubishi ASX is one of the most popular urban crossovers. Appreciated for its simplicity of design, high driving position and versatility in everyday use.",
+              "de": "Mitsubishi ASX ist einer der beliebtesten urbanen Crossover. Geschätzt für sein schlichtes Design, seine hohe Fahrposition und seine Vielseitigkeit im täglichen Gebrauch.",
+              "uk": "Mitsubishi ASX — один із найпопулярніших міських кросоверів. Цінується за простоту конструкції, високу посадку за кермом і універсальність у щоденному використанні.",
+              "ru": "Mitsubishi ASX — один из самых популярных городских кроссоверов. Ценится за простоту конструкции, высокую посадку водителя и универсальность в повседневном использовании.",
+              "zh": "三菱 ASX 是最受欢迎的城市跨界车之一。因其简单的设计、较高的驾驶位置和日常使用的多功能性而受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi Motors",
+                "en": "Mitsubishi Motors",
+                "de": "Mitsubishi Motors",
+                "uk": "Mitsubishi Motors",
+                "ru": "Mitsubishi Motors",
+                "zh": "三菱汽车"
+              },
+              "okres produkcji": {
+                "pl": "od 2010",
+                "en": "from 2010",
+                "de": "ab 2010",
+                "uk": "з 2010 року",
+                "ru": "2010 г.",
+                "zh": "2010 年起"
+              },
+              "segment": {
+                "pl": "B-SUV / Compact Crossover",
+                "en": "B-SUV / Compact Crossover",
+                "de": "B-SUV / Compact Crossover",
+                "uk": "B-SUV / Компактний кросовер",
+                "ru": "B-SUV / Компактный кроссовер",
+                "zh": "B-SUV / 紧凑型跨界车"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/c4/cg/pknb8jk0s4k0cg4so04cc/asx.310.jpg"
+        }
+      },
+      {
+        "BrandID": 94,
+        "ModelID": 414239,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "ASX",
+        "Serie Name": "ASX II",
+        "Years": "2023 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment B-SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.0L - 1.6L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi ASX to jeden z najpopularniejszych miejskich crossoverów. Ceniony za prostotę konstrukcji, wysoką pozycję za kierownicą i uniwersalność w codziennym użytkowaniu.",
+              "en": "Mitsubishi ASX is one of the most popular urban crossovers. Appreciated for its simplicity of design, high driving position and versatility in everyday use.",
+              "de": "Mitsubishi ASX ist einer der beliebtesten urbanen Crossover. Geschätzt für sein schlichtes Design, seine hohe Fahrposition und seine Vielseitigkeit im täglichen Gebrauch.",
+              "uk": "Mitsubishi ASX — один із найпопулярніших міських кросоверів. Цінується за простоту конструкції, високу посадку за кермом і універсальність у щоденному використанні.",
+              "ru": "Mitsubishi ASX — один из самых популярных городских кроссоверов. Ценится за простоту конструкции, высокую посадку водителя и универсальность в повседневном использовании.",
+              "zh": "三菱 ASX 是最受欢迎的城市跨界车之一。因其简单的设计、较高的驾驶位置和日常使用的多功能性而受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi Motors",
+                "en": "Mitsubishi Motors",
+                "de": "Mitsubishi Motors",
+                "uk": "Mitsubishi Motors",
+                "ru": "Mitsubishi Motors",
+                "zh": "三菱汽车"
+              },
+              "okres produkcji": {
+                "pl": "od 2010",
+                "en": "from 2010",
+                "de": "ab 2010",
+                "uk": "з 2010 року",
+                "ru": "с 2010 г.",
+                "zh": "2010 年起"
+              },
+              "segment": {
+                "pl": "B-SUV / Compact Crossover",
+                "en": "B-SUV / Compact Crossover",
+                "de": "B-SUV / Compact Crossover",
+                "uk": "B-SUV / Компактний кросовер",
+                "ru": "B-SUV / Компактный кроссовер",
+                "zh": "B-SUV / 紧凑型跨界车"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/c4/cg/pknb8jk0s4k0cg4so04cc/asx.310.jpg"
+        }
+      }
+    ],
+    "Colt": [
+      {
+        "BrandID": 94,
+        "ModelID": 131818,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "Colt",
+        "Serie Name": "Colt V (CJ0)",
+        "Years": "1995 - 2003",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.3L - 1.6L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi Colt to kompaktowy hatchback, który przez lata oferował japońską precyzję i zwrotność. Kolejne generacje ewoluowały od klasycznego kompaktu po wszechstronne auto miejskie.",
+              "en": "The Mitsubishi Colt is a compact hatchback that has offered Japanese precision and maneuverability for years. Subsequent generations have evolved from a classic compact to a versatile city car.",
+              "de": "Der Mitsubishi Colt ist ein kompaktes Fließheck, das seit Jahren japanische Präzision und Manövrierfähigkeit bietet. Nachfolgende Generationen haben sich vom klassischen Kompaktwagen zum vielseitigen Stadtauto entwickelt.",
+              "uk": "Mitsubishi Colt — це компактний хетчбек, який протягом багатьох років демонструє японську точність і маневреність. Наступні покоління еволюціонували від класичного компактного автомобіля до універсального міського автомобіля.",
+              "ru": "Mitsubishi Colt — компактный хэтчбек, который на протяжении многих лет предлагает японскую точность и маневренность. Последующие поколения прошли путь от классического компактного автомобиля до универсального городского автомобиля.",
+              "zh": "三菱 Colt 是一款紧凑型掀背车，多年来一直提供日本的精确度和机动性。随后的几代汽车已经从经典的紧凑型汽车发展成为多功能的城市汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi"
+              },
+              "okres produkcji": {
+                "pl": "1962–2012 / od 2023",
+                "en": "1962–2012 / from 2023",
+                "de": "1962–2012 / ab 2023",
+                "uk": "1962–2012 / з 2023",
+                "ru": "1962–2012 / с 2023 г.",
+                "zh": "1962–2012 / 从 2023 年开始"
+              },
+              "segment": {
+                "pl": "B (Miejskie)",
+                "en": "B (City)",
+                "de": "B (Stadt)",
+                "uk": "B (місто)",
+                "ru": "B (Город)",
+                "zh": "B（城市）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/nx/b2/bpdkr7kwc800skc8cgkk/colt-vi.310.jpg"
+        }
+      },
+      {
+        "BrandID": 94,
+        "ModelID": 132183,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "Colt",
+        "Serie Name": "Colt VI (Z30)",
+        "Years": "2004 - 2008",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.1L - 1.5L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi Colt to kompaktowy hatchback, który przez lata oferował japońską precyzję i zwrotność. Kolejne generacje ewoluowały od klasycznego kompaktu po wszechstronne auto miejskie.",
+              "en": "Mitsubishi Colt is a compact hatchback that has offered Japanese precision and maneuverability for years. Subsequent generations have evolved from a classic compact to a versatile city car.",
+              "de": "Mitsubishi Colt ist ein kompaktes Fließheckmodell, das seit Jahren japanische Präzision und Manövrierfähigkeit bietet. Nachfolgende Generationen haben sich vom klassischen Kompaktwagen zum vielseitigen Stadtauto entwickelt.",
+              "uk": "Mitsubishi Colt — це компактний хетчбек, який протягом багатьох років пропонує японську точність і маневреність. Наступні покоління еволюціонували від класичного компактного автомобіля до універсального міського автомобіля.",
+              "ru": "Mitsubishi Colt — компактный хэтчбек, который на протяжении многих лет предлагал японскую точность и маневренность. Последующие поколения прошли путь от классического компактного автомобиля до универсального городского автомобиля.",
+              "zh": "三菱 Colt 是一款紧凑型掀背车，多年来一直提供日本的精确度和机动性。随后的几代汽车已经从经典的紧凑型汽车发展成为多功能的城市汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi"
+              },
+              "okres produkcji": {
+                "pl": "1962–2012 / od 2023",
+                "en": "1962–2012 / from 2023",
+                "de": "1962–2012 / ab 2023",
+                "uk": "1962–2012 / з 2023р",
+                "ru": "1962–2012 / с 2023 г.",
+                "zh": "1962–2012 / 2023 年起"
+              },
+              "segment": {
+                "pl": "B (Miejskie)",
+                "en": "B (City)",
+                "de": "B (Stadt)",
+                "uk": "B (місто)",
+                "ru": "B (Город)",
+                "zh": "B（城市）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/nx/b2/bpdkr7kwc800skc8cgkk/colt-vi.310.jpg"
+        }
+      },
+      {
+        "BrandID": 94,
+        "ModelID": 415532,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "Colt",
+        "Serie Name": "Colt VI Facelift",
+        "Years": "2008 - 2012",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.1L - 1.5L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi Colt to kompaktowy hatchback, który przez lata oferował japońską precyzję i zwrotność. Kolejne generacje ewoluowały od klasycznego kompaktu po wszechstronne auto miejskie.",
+              "en": "Mitsubishi Colt is a compact hatchback that has offered Japanese precision and maneuverability for years. Subsequent generations have evolved from a classic compact to a versatile city car.",
+              "de": "Mitsubishi Colt ist ein kompaktes Fließheck, das seit Jahren japanische Präzision und Manövrierfähigkeit bietet. Nachfolgende Generationen haben sich vom klassischen Kompaktwagen zum vielseitigen Stadtauto entwickelt.",
+              "uk": "Mitsubishi Colt — компактний хетчбек, який протягом багатьох років пропонує японську точність і маневреність. Наступні покоління еволюціонували від класичного компактного автомобіля до універсального міського автомобіля.",
+              "ru": "Mitsubishi Colt — компактный хэтчбек, который на протяжении многих лет предлагает японскую точность и маневренность. Последующие поколения прошли путь от классического компактного автомобиля до универсального городского автомобиля.",
+              "zh": "三菱 Colt 是一款紧凑型掀背车，多年来一直提供日本的精确度和机动性。随后的几代汽车已经从经典的紧凑型汽车发展成为多功能的城市汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi"
+              },
+              "okres produkcji": {
+                "pl": "1962–2012 / od 2023",
+                "en": "1962–2012 / from 2023",
+                "de": "1962–2012 / ab 2023",
+                "uk": "1962–2012 / з 2023",
+                "ru": "1962–2012 / с 2023 г.",
+                "zh": "1962–2012 / 2023 年起"
+              },
+              "segment": {
+                "pl": "B (Miejskie)",
+                "en": "B (City)",
+                "de": "B (Stadt)",
+                "uk": "B (місто)",
+                "ru": "B (Город)",
+                "zh": "B（城市）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/nx/b2/bpdkr7kwc800skc8cgkk/colt-vi.310.jpg"
+        }
+      },
+      {
+        "BrandID": 94,
+        "ModelID": 415533,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "Colt",
+        "Serie Name": "Colt VII",
+        "Years": "2023 - Present",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.0L - 1.6L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi Colt to kompaktowy hatchback, który przez lata oferował japońską precyzję i zwrotność. Kolejne generacje ewoluowały od klasycznego kompaktu po wszechstronne auto miejskie.",
+              "en": "Mitsubishi Colt is a compact hatchback that has offered Japanese precision and maneuverability for years. Subsequent generations have evolved from a classic compact to a versatile city car.",
+              "de": "Mitsubishi Colt ist ein kompaktes Fließheckmodell, das seit Jahren japanische Präzision und Manövrierfähigkeit bietet. Nachfolgende Generationen haben sich vom klassischen Kompaktwagen zum vielseitigen Stadtauto entwickelt.",
+              "uk": "Mitsubishi Colt — це компактний хетчбек, який протягом багатьох років пропонує японську точність і маневреність. Наступні покоління еволюціонували від класичного компактного автомобіля до універсального міського автомобіля.",
+              "ru": "Mitsubishi Colt — компактный хэтчбек, который на протяжении многих лет предлагал японскую точность и маневренность. Последующие поколения прошли путь от классического компактного автомобиля до универсального городского автомобиля.",
+              "zh": "三菱 Colt 是一款紧凑型掀背车，多年来一直提供日本的精确度和机动性。随后的几代汽车已经从经典的紧凑型汽车发展成为多功能的城市汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi"
+              },
+              "okres produkcji": {
+                "pl": "1962–2012 / od 2023",
+                "en": "1962–2012 / from 2023",
+                "de": "1962–2012 / ab 2023",
+                "uk": "1962–2012 / з 2023",
+                "ru": "1962–2012 / с 2023 г.",
+                "zh": "1962–2012 / 2023 年起"
+              },
+              "segment": {
+                "pl": "B (Miejskie)",
+                "en": "B (City)",
+                "de": "B (Stadt)",
+                "uk": "B (City)",
+                "ru": "B (Город)",
+                "zh": "B（城市）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/nx/b2/bpdkr7kwc800skc8cgkk/colt-vi.310.jpg"
+        }
+      }
+    ],
+    "Eclipse Cross": [
+      {
+        "BrandID": 94,
+        "ModelID": 415258,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "Eclipse Cross",
+        "Serie Name": "Eclipse Cross",
+        "Years": "2017 - 2020",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment C-SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.5L Turbo - 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi Eclipse Cross to stylowy SUV o linii coupe, który wyróżnia się awangardową stylistyką i zaawansowanym napędem 4x4 S-AWC, zapewniającym świetne prowadzenie.",
+              "en": "Mitsubishi Eclipse Cross is a stylish SUV with a coupe line, which is distinguished by avant-garde styling and advanced S-AWC 4x4 drive, ensuring excellent driving.",
+              "de": "Mitsubishi Eclipse Cross ist ein stilvoller SUV mit Coupé-Linie, der sich durch avantgardistisches Design und fortschrittlichen S-AWC 4x4-Antrieb auszeichnet und hervorragende Fahreigenschaften gewährleistet.",
+              "uk": "Mitsubishi Eclipse Cross — стильний позашляховик з лінійкою купе, який вирізняється авангардним стилем і вдосконаленим приводом S-AWC 4x4, що забезпечує відмінне водіння.",
+              "ru": "Mitsubishi Eclipse Cross — стильный внедорожник линейки купе, отличающийся авангардным стилем и усовершенствованным приводом S-AWC 4x4, обеспечивающим отличную езду.",
+              "zh": "三菱Eclipse Cross是一款具有轿跑车路线的时尚SUV，以前卫的造型和先进的S-AWC 4x4驱动器为特色，确保出色的驾驶体验。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi"
+              },
+              "okres produkcji": {
+                "pl": "od 2017",
+                "en": "from 2017",
+                "de": "ab 2017",
+                "uk": "з 2017 року",
+                "ru": "от 2017 года.",
+                "zh": "2017年以来"
+              },
+              "segment": {
+                "pl": "C-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 94,
+        "ModelID": 415259,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "Eclipse Cross",
+        "Serie Name": "Eclipse Cross Facelift (PHEV)",
+        "Years": "2021 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment C-SUV",
+          "drive": "AWD",
+          "fuel": "Hybrid",
+          "engine": "2.4L PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi Eclipse Cross to stylowy SUV o linii coupe, który wyróżnia się awangardową stylistyką i zaawansowanym napędem 4x4 S-AWC, zapewniającym świetne prowadzenie.",
+              "en": "Mitsubishi Eclipse Cross is a stylish SUV with a coupe line, which is distinguished by avant-garde styling and advanced S-AWC 4x4 drive, ensuring great driving.",
+              "de": "Mitsubishi Eclipse Cross ist ein stilvoller SUV mit Coupé-Linie, der sich durch avantgardistisches Design und fortschrittlichen S-AWC 4x4-Antrieb auszeichnet, der für großartiges Fahren sorgt.",
+              "uk": "Mitsubishi Eclipse Cross — це стильний позашляховик з лінійкою купе, який вирізняється авангардним стилем і вдосконаленим приводом S-AWC 4x4, що забезпечує чудове водіння.",
+              "ru": "Mitsubishi Eclipse Cross — стильный внедорожник линейки купе, отличающийся авангардным стилем и усовершенствованным приводом S-AWC 4x4, обеспечивающим отличное вождение.",
+              "zh": "三菱Eclipse Cross是一款具有轿跑车路线的时尚SUV，以前卫的造型和先进的S-AWC 4x4驱动器为特色，确保出色的驾驶体验。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi"
+              },
+              "okres produkcji": {
+                "pl": "od 2017",
+                "en": "from 2017",
+                "de": "ab 2017",
+                "uk": "з 2017 року",
+                "ru": "от 2017 года.",
+                "zh": "2017年以来"
+              },
+              "segment": {
+                "pl": "C-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "L200": [
+      {
+        "BrandID": 94,
+        "ModelID": 414243,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "L200",
+        "Serie Name": "L200 III (K74)",
+        "Years": "1996 - 2006",
+        "specs": {
+          "bodyType": "Pickup",
+          "segment": "Mid-size Pickup",
+          "drive": "4WD",
+          "fuel": "Diesel",
+          "engine": "2.5L TD",
+          "isOldtimer": true,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi L200 (znane również jako Triton) to prawdziwy 'wół roboczy'. Ten legendarny pickup łączy ogromną dzielność w terenie z ładownością, której można ufać.",
+              "en": "The Mitsubishi L200 (also known as Triton) is a real workhorse. This legendary pickup combines great off-road capability with payload you can trust.",
+              "de": "Der Mitsubishi L200 (auch bekannt als Triton) ist ein echtes Arbeitstier. Dieser legendäre Pickup vereint großartige Geländetauglichkeit mit einer Nutzlast, der Sie vertrauen können.",
+              "uk": "Mitsubishi L200 (також відомий як Triton) — справжня робоча конячка. Цей легендарний пікап поєднує в собі чудові позашляхові можливості та корисне навантаження, якому можна довіряти.",
+              "ru": "Mitsubishi L200 (также известный как Triton) — настоящая рабочая лошадка. Этот легендарный пикап сочетает в себе отличные внедорожные качества и грузоподъемность, которой можно доверять.",
+              "zh": "三菱 L200（也称为 Triton）是真正的主力。这款传奇皮卡结合了强大的越野能力和值得信赖的有效负载。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi"
+              },
+              "okres produkcji": {
+                "pl": "od 1978",
+                "en": "from 1978",
+                "de": "ab 1978",
+                "uk": "з 1978 року",
+                "ru": "1978 года выпуска.",
+                "zh": "自1978年以来"
+              },
+              "segment": {
+                "pl": "Pickup"
+              },
+              "napęd": {
+                "pl": "AWD (Super Select)",
+                "en": "AWD (Super Select)",
+                "de": "AWD (Super Select)",
+                "uk": "AWD (Super Select)",
+                "ru": "AWD (Super Select)",
+                "zh": "全轮驱动（超级选择）"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 94,
+        "ModelID": 414244,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "L200",
+        "Serie Name": "L200 IV (KB4)",
+        "Years": "2006 - 2015",
+        "specs": {
+          "bodyType": "Pickup",
+          "segment": "Mid-size Pickup",
+          "drive": "4WD",
+          "fuel": "Diesel",
+          "engine": "2.5L DI-D",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi L200 (znane również jako Triton) to prawdziwy 'wół roboczy'. Ten legendarny pickup łączy ogromną dzielność w terenie z ładownością, której można ufać.",
+              "en": "The Mitsubishi L200 (also known as Triton) is a real workhorse. This legendary pickup combines great off-road capability with payload you can trust.",
+              "de": "Der Mitsubishi L200 (auch bekannt als Triton) ist ein echtes Arbeitstier. Dieser legendäre Pickup vereint großartige Geländetauglichkeit mit einer Nutzlast, der Sie vertrauen können.",
+              "uk": "Mitsubishi L200 (також відомий як Triton) — справжня робоча конячка. Цей легендарний пікап поєднує в собі чудові позашляхові можливості та корисне навантаження, якому можна довіряти.",
+              "ru": "Mitsubishi L200 (также известный как Triton) — настоящая рабочая лошадка. Этот легендарный пикап сочетает в себе отличные внедорожные качества и грузоподъемность, которой можно доверять.",
+              "zh": "三菱 L200（也称为 Triton）是真正的主力。这款传奇皮卡结合了强大的越野能力和值得信赖的有效负载。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi"
+              },
+              "okres produkcji": {
+                "pl": "od 1978",
+                "en": "from 1978",
+                "de": "ab 1978",
+                "uk": "з 1978 року",
+                "ru": "1978 года выпуска.",
+                "zh": "自1978年以来"
+              },
+              "segment": {
+                "pl": "Pickup"
+              },
+              "napęd": {
+                "pl": "AWD (Super Select)",
+                "en": "AWD (Super Select)",
+                "de": "AWD (Super Select)",
+                "uk": "AWD (Super Select)",
+                "ru": "AWD (Super Select)",
+                "zh": "全轮驱动（超级选择）"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 94,
+        "ModelID": 414245,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "L200",
+        "Serie Name": "L200 V (KJ)",
+        "Years": "2015 - 2019",
+        "specs": {
+          "bodyType": "Pickup",
+          "segment": "Mid-size Pickup",
+          "drive": "4WD",
+          "fuel": "Diesel",
+          "engine": "2.4L DI-D",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi L200 (znane również jako Triton) to prawdziwy 'wół roboczy'. Ten legendarny pickup łączy ogromną dzielność w terenie z ładownością, której można ufać.",
+              "en": "The Mitsubishi L200 (also known as Triton) is a real workhorse. This legendary pickup combines great off-road capability with payload you can trust.",
+              "de": "Der Mitsubishi L200 (auch bekannt als Triton) ist ein echtes Arbeitstier. Dieser legendäre Pickup vereint großartige Geländetauglichkeit mit einer Nutzlast, der Sie vertrauen können.",
+              "uk": "Mitsubishi L200 (також відомий як Triton) — справжня робоча конячка. Цей легендарний пікап поєднує в собі чудові позашляхові можливості та корисне навантаження, якому можна довіряти.",
+              "ru": "Mitsubishi L200 (также известный как Triton) — настоящая рабочая лошадка. Этот легендарный пикап сочетает в себе отличные внедорожные качества и грузоподъемность, которой можно доверять.",
+              "zh": "三菱 L200（也称为 Triton）是真正的主力。这款传奇皮卡结合了强大的越野能力和值得信赖的有效负载。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi"
+              },
+              "okres produkcji": {
+                "pl": "od 1978",
+                "en": "from 1978",
+                "de": "ab 1978",
+                "uk": "з 1978 року",
+                "ru": "1978 года выпуска.",
+                "zh": "自1978年以来"
+              },
+              "segment": {
+                "pl": "Pickup"
+              },
+              "napęd": {
+                "pl": "AWD (Super Select)",
+                "en": "AWD (Super Select)",
+                "de": "AWD (Super Select)",
+                "uk": "AWD (Super Select)",
+                "ru": "AWD (Super Select)",
+                "zh": "全轮驱动（超级选择）"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 94,
+        "ModelID": 414246,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "L200",
+        "Serie Name": "L200 VI",
+        "Years": "2019 - Present",
+        "specs": {
+          "bodyType": "Pickup",
+          "segment": "Mid-size Pickup",
+          "drive": "4WD",
+          "fuel": "Diesel",
+          "engine": "2.2L - 2.4L DI-D",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi L200 (znane również jako Triton) to prawdziwy 'wół roboczy'. Ten legendarny pickup łączy ogromną dzielność w terenie z ładownością, której można ufać.",
+              "en": "The Mitsubishi L200 (also known as Triton) is a real workhorse. This legendary pickup combines great off-road capability with payload you can trust.",
+              "de": "Der Mitsubishi L200 (auch bekannt als Triton) ist ein echtes Arbeitstier. Dieser legendäre Pickup vereint großartige Geländetauglichkeit mit einer Nutzlast, der Sie vertrauen können.",
+              "uk": "Mitsubishi L200 (також відомий як Triton) — справжня робоча конячка. Цей легендарний пікап поєднує в собі чудові позашляхові можливості та корисне навантаження, якому можна довіряти.",
+              "ru": "Mitsubishi L200 (также известный как Triton) — настоящая рабочая лошадка. Этот легендарный пикап сочетает в себе отличные внедорожные качества и грузоподъемность, которой можно доверять.",
+              "zh": "三菱 L200（也称为 Triton）是真正的主力。这款传奇皮卡结合了强大的越野能力和值得信赖的有效负载。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi"
+              },
+              "okres produkcji": {
+                "pl": "od 1978",
+                "en": "from 1978",
+                "de": "ab 1978",
+                "uk": "з 1978 року",
+                "ru": "1978 года выпуска.",
+                "zh": "自1978年以来"
+              },
+              "segment": {
+                "pl": "Pickup"
+              },
+              "napęd": {
+                "pl": "AWD (Super Select)",
+                "en": "AWD (Super Select)",
+                "de": "AWD (Super Select)",
+                "uk": "AWD (Super Select)",
+                "ru": "AWD (Super Select)",
+                "zh": "全轮驱动（超级选择）"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Lancer": [
+      {
+        "BrandID": 94,
+        "ModelID": 1051,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "Lancer",
+        "Serie Name": "Lancer VI",
+        "Years": "1995 - 2003",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "1.3L - 2.0L (Evo)",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi Lancer to legendarne auto kompaktowe. Choć znane głównie z wersji rajdowych, w cywilnych odmianach oferowało trwałość i komfort potrzebny w codziennej eksploatacji.",
+              "en": "Mitsubishi Lancer is a legendary compact car. Although known mainly from rally versions, in civilian versions it offered durability and comfort needed in everyday use.",
+              "de": "Mitsubishi Lancer ist ein legendärer Kompaktwagen. Obwohl es vor allem aus Rallye-Versionen bekannt war, bot es in zivilen Versionen Haltbarkeit und Komfort, die im täglichen Gebrauch erforderlich sind.",
+              "uk": "Mitsubishi Lancer — легендарний компактний автомобіль. Хоча відомий переважно з ралійних версій, у цивільних версіях він пропонував довговічність і комфорт, необхідні в щоденному використанні.",
+              "ru": "Mitsubishi Lancer — легендарный компактный автомобиль. Хотя он известен в основном по раллийным версиям, в гражданских версиях он обеспечивает долговечность и комфорт, необходимые в повседневном использовании.",
+              "zh": "三菱蓝瑟是一款传奇的紧凑型汽车。虽然主要以拉力版本闻名，但在民用版本中，它提供了日常使用所需的耐用性和舒适性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi"
+              },
+              "okres produkcji": "1973–2017",
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (kompakt)",
+                "uk": "C (компактний)",
+                "ru": "C (Компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/b5/vv/xyej7go4ogg48gwckowok/viii-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 94,
+        "ModelID": 1052,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "Lancer",
+        "Serie Name": "Lancer VII",
+        "Years": "2003 - 2008",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "1.3L - 2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi Lancer to legendarne auto kompaktowe. Choć znane głównie z wersji rajdowych, w cywilnych odmianach oferowało trwałość i komfort potrzebny w codziennej eksploatacji.",
+              "en": "Mitsubishi Lancer is a legendary compact car. Although known mainly from rally versions, in civilian versions it offered durability and comfort needed in everyday use.",
+              "de": "Mitsubishi Lancer ist ein legendärer Kompaktwagen. Obwohl es vor allem aus Rallye-Versionen bekannt war, bot es in zivilen Versionen Haltbarkeit und Komfort, die im täglichen Gebrauch erforderlich sind.",
+              "uk": "Mitsubishi Lancer - легендарний компактний автомобіль. Хоча відомий переважно з ралійних версій, у цивільних версіях він пропонував довговічність і комфорт, необхідні в щоденному використанні.",
+              "ru": "Mitsubishi Lancer – легендарный компактный автомобиль. Хотя он известен в основном по раллийным версиям, в гражданских версиях он обеспечивает долговечность и комфорт, необходимые в повседневном использовании.",
+              "zh": "三菱蓝瑟是一款传奇的紧凑型汽车。虽然主要以拉力版本闻名，但在民用版本中，它提供了日常使用所需的耐用性和舒适性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi"
+              },
+              "okres produkcji": "1973–2017",
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (Compact)",
+                "ru": "C (Компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/b5/vv/xyej7go4ogg48gwckowok/viii-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 94,
+        "ModelID": 414247,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "Lancer",
+        "Serie Name": "Lancer VIII",
+        "Years": "2007 - 2017",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.5L - 2.0L Turbo (Evo X)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi Lancer to legendarne auto kompaktowe. Choć znane głównie z wersji rajdowych, w cywilnych odmianach oferowało trwałość i komfort potrzebny w codziennej eksploatacji.",
+              "en": "Mitsubishi Lancer is a legendary compact car. Although known mainly from rally versions, in civilian versions it offered durability and comfort needed in everyday use.",
+              "de": "Mitsubishi Lancer ist ein legendärer Kompaktwagen. Obwohl es vor allem aus Rallye-Versionen bekannt war, bot es in zivilen Versionen Haltbarkeit und Komfort, die im täglichen Gebrauch erforderlich sind.",
+              "uk": "Mitsubishi Lancer — легендарний компактний автомобіль. Хоча відомий переважно з ралійних версій, у цивільних версіях він пропонував довговічність і комфорт, необхідні в щоденному використанні.",
+              "ru": "Mitsubishi Lancer — легендарный компактный автомобиль. Хотя он известен в основном по раллийным версиям, в гражданских версиях он обеспечивает долговечность и комфорт, необходимые в повседневном использовании.",
+              "zh": "三菱蓝瑟是一款传奇的紧凑型汽车。虽然主要以拉力版本闻名，但在民用版本中，它提供了日常使用所需的耐用性和舒适性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi"
+              },
+              "okres produkcji": "1973–2017",
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (Compact)",
+                "ru": "C (Компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/b5/vv/xyej7go4ogg48gwckowok/viii-sedan.310.jpg"
+        }
+      }
+    ],
+    "Lancer Evolution": [
+      {
+        "BrandID": 94,
+        "ModelID": 414248,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "Lancer Evolution",
+        "Serie Name": "Evo VII-IX",
+        "Years": "2001 - 2007",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Sports Car",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi Lancer Evolution to ikona rajdów WRC i marzenie entuzjastów motoryzacji. System S-AWC oraz turbodoładowane silniki uczyniły z niego zabójczo szybką maszynę na każdą nawierzchnię.",
+              "en": "Mitsubishi Lancer Evolution is an icon of WRC rallies and a dream of automotive enthusiasts. The S-AWC system and turbocharged engines make it a devastatingly fast machine for any surface.",
+              "de": "Mitsubishi Lancer Evolution ist eine Ikone der WRC-Rallyes und ein Traum von Automobil-Enthusiasten. Das S-AWC-System und die Turbomotoren machen ihn zu einer umwerfend schnellen Maschine für jeden Untergrund.",
+              "uk": "Mitsubishi Lancer Evolution — ікона ралі WRC і мрія автомобільних ентузіастів. Система S-AWC і двигуни з турбонаддувом роблять його неймовірно швидкою машиною для будь-якої поверхні.",
+              "ru": "Mitsubishi Lancer Evolution — символ ралли WRC и мечта автолюбителей. Система S-AWC и двигатели с турбонаддувом делают эту машину невероятно быстрой на любой поверхности.",
+              "zh": "三菱 Lancer Evolution 是 WRC 拉力赛的标志，也是汽车爱好者的梦想。 S-AWC 系统和涡轮增压发动机使其成为适用于任何路面的极速机器。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi"
+              },
+              "okres produkcji": "1992–2016",
+              "segment": {
+                "pl": "Sports Sedan",
+                "en": "Sports Sedan",
+                "de": "Sportlimousine",
+                "uk": "Спортивний седан",
+                "ru": "Спортивный седан",
+                "zh": "运动轿车"
+              },
+              "napęd": {
+                "pl": "AWD (S-AWC)",
+                "en": "AWD (S-AWC)",
+                "de": "AWD (S-AWC)",
+                "uk": "AWD (S-AWC)",
+                "ru": "AWD (S-AWC)",
+                "zh": "全轮驱动 (S-AWC)"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 94,
+        "ModelID": 414249,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "Lancer Evolution",
+        "Serie Name": "Evo X",
+        "Years": "2007 - 2016",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Sports Car",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi Lancer Evolution to ikona rajdów WRC i marzenie entuzjastów motoryzacji. System S-AWC oraz turbodoładowane silniki uczyniły z niego zabójczo szybką maszynę na każdą nawierzchnię.",
+              "en": "Mitsubishi Lancer Evolution is an icon of WRC rallies and a dream of automotive enthusiasts. The S-AWC system and turbocharged engines make it a devastatingly fast machine for any surface.",
+              "de": "Mitsubishi Lancer Evolution ist eine Ikone der WRC-Rallyes und ein Traum von Automobil-Enthusiasten. Das S-AWC-System und die Turbomotoren machen ihn zu einer umwerfend schnellen Maschine für jeden Untergrund.",
+              "uk": "Mitsubishi Lancer Evolution — ікона ралі WRC і мрія автомобільних ентузіастів. Система S-AWC і двигуни з турбонаддувом роблять його неймовірно швидкою машиною для будь-якої поверхні.",
+              "ru": "Mitsubishi Lancer Evolution — символ ралли WRC и мечта автолюбителей. Система S-AWC и двигатели с турбонаддувом делают эту машину невероятно быстрой на любой поверхности.",
+              "zh": "三菱 Lancer Evolution 是 WRC 拉力赛的标志，也是汽车爱好者的梦想。 S-AWC 系统和涡轮增压发动机使其成为适用于任何路面的极速机器。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi"
+              },
+              "okres produkcji": "1992–2016",
+              "segment": {
+                "pl": "Sports Sedan",
+                "en": "Sports Sedan",
+                "de": "Sportlimousine",
+                "uk": "Спортивний седан",
+                "ru": "Спортивный седан",
+                "zh": "运动轿车"
+              },
+              "napęd": {
+                "pl": "AWD (S-AWC)",
+                "en": "AWD (S-AWC)",
+                "de": "AWD (S-AWC)",
+                "uk": "AWD (S-AWC)",
+                "ru": "AWD (S-AWC)",
+                "zh": "全轮驱动 (S-AWC)"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Outlander": [
+      {
+        "BrandID": 94,
+        "ModelID": 1057,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "Outlander",
+        "Serie Name": "Outlander I",
+        "Years": "2003 - 2006",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment C-SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L - 2.4L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi Outlander to wszechstronny, rodzinny SUV. Model ten spopularyzował technologię hybrydową Plug-in (PHEV), stając się jednym z pionierów ekologicznego napędu w tym segmencie.",
+              "en": "Mitsubishi Outlander is a versatile family SUV. This model popularized Plug-in hybrid technology (PHEV), becoming one of the pioneers of ecological drive in this segment.",
+              "de": "Mitsubishi Outlander ist ein vielseitiger Familien-SUV. Dieses Modell machte die Plug-in-Hybrid-Technologie (PHEV) populär und wurde zu einem der Pioniere des ökologischen Antriebs in diesem Segment.",
+              "uk": "Mitsubishi Outlander — це універсальний сімейний позашляховик. Ця модель популяризувала технологію Plug-in Hybrid (PHEV), ставши одним із піонерів екологічного приводу в цьому сегменті.",
+              "ru": "Mitsubishi Outlander — универсальный семейный внедорожник. Эта модель популяризировала гибридную технологию Plug-in (PHEV), став одним из пионеров экологического движения в этом сегменте.",
+              "zh": "三菱欧蓝德是一款多功能家庭 SUV。该车型普及了插电式混合动力技术（PHEV），成为该细分市场生态驱动的先驱之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi"
+              },
+              "okres produkcji": {
+                "pl": "od 2001",
+                "en": "from 2001",
+                "de": "ab 2001",
+                "uk": "з 2001 року",
+                "ru": "2001 года выпуска.",
+                "zh": "自2001年以来"
+              },
+              "segment": {
+                "pl": "D-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9b/92/vjta6eoswkoog0ogo0csg/mitsubishi-outlander-phev-02.310.jpg"
+        }
+      },
+      {
+        "BrandID": 94,
+        "ModelID": 413348,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "Outlander",
+        "Serie Name": "Outlander II (CW_W)",
+        "Years": "2006 - 2012",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment D-SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 2.4L / 2.0L - 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi Outlander to wszechstronny, rodzinny SUV. Model ten spopularyzował technologię hybrydową Plug-in (PHEV), stając się jednym z pionierów ekologicznego napędu w tym segmencie.",
+              "en": "Mitsubishi Outlander is a versatile, family SUV. This model popularized Plug-in hybrid technology (PHEV), becoming one of the pioneers of ecological drive in this segment.",
+              "de": "Mitsubishi Outlander ist ein vielseitiger Familien-SUV. Dieses Modell machte die Plug-in-Hybrid-Technologie (PHEV) populär und wurde zu einem der Pioniere des ökologischen Antriebs in diesem Segment.",
+              "uk": "Mitsubishi Outlander — це універсальний сімейний позашляховик. Ця модель популяризувала технологію Plug-in Hybrid (PHEV), ставши одним із піонерів екологічного приводу в цьому сегменті.",
+              "ru": "Mitsubishi Outlander — универсальный семейный внедорожник. Эта модель популяризировала гибридную технологию Plug-in (PHEV), став одним из пионеров экологического движения в этом сегменте.",
+              "zh": "三菱欧蓝德是一款多功能家庭 SUV。该车型普及了插电式混合动力技术（PHEV），成为该细分市场生态驱动的先驱之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi"
+              },
+              "okres produkcji": {
+                "pl": "od 2001",
+                "en": "from 2001",
+                "de": "ab 2001",
+                "uk": "з 2001 року",
+                "ru": "2001 года выпуска.",
+                "zh": "自2001年以来"
+              },
+              "segment": {
+                "pl": "D-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9b/92/vjta6eoswkoog0ogo0csg/mitsubishi-outlander-phev-02.310.jpg"
+        }
+      },
+      {
+        "BrandID": 94,
+        "ModelID": 413349,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "Outlander",
+        "Serie Name": "Outlander III",
+        "Years": "2012 - 2015",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment D-SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "2.0L - 2.2L / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi Outlander to wszechstronny, rodzinny SUV. Model ten spopularyzował technologię hybrydową Plug-in (PHEV), stając się jednym z pionierów ekologicznego napędu w tym segmencie.",
+              "en": "Mitsubishi Outlander is a versatile, family SUV. This model popularized Plug-in hybrid technology (PHEV), becoming one of the pioneers of ecological drive in this segment.",
+              "de": "Mitsubishi Outlander ist ein vielseitiger Familien-SUV. Dieses Modell machte die Plug-in-Hybrid-Technologie (PHEV) populär und wurde zu einem der Pioniere des ökologischen Antriebs in diesem Segment.",
+              "uk": "Mitsubishi Outlander — це універсальний сімейний позашляховик. Ця модель популяризувала технологію Plug-in Hybrid (PHEV), ставши одним із піонерів екологічного приводу в цьому сегменті.",
+              "ru": "Mitsubishi Outlander — универсальный семейный внедорожник. Эта модель популяризировала гибридную технологию Plug-in (PHEV), став одним из пионеров экологического движения в этом сегменте.",
+              "zh": "三菱欧蓝德是一款多功能家庭 SUV。该车型普及了插电式混合动力技术（PHEV），成为该细分市场生态驱动的先驱之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi"
+              },
+              "okres produkcji": {
+                "pl": "od 2001",
+                "en": "from 2001",
+                "de": "ab 2001",
+                "uk": "з 2001 року",
+                "ru": "2001 года выпуска.",
+                "zh": "自2001年以来"
+              },
+              "segment": {
+                "pl": "D-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9b/92/vjta6eoswkoog0ogo0csg/mitsubishi-outlander-phev-02.310.jpg"
+        }
+      },
+      {
+        "BrandID": 94,
+        "ModelID": 414250,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "Outlander",
+        "Serie Name": "Outlander III Facelift",
+        "Years": "2015 - 2021",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment D-SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/PHEV",
+          "engine": "2.0L - 2.4L PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi Outlander to wszechstronny, rodzinny SUV. Model ten spopularyzował technologię hybrydową Plug-in (PHEV), stając się jednym z pionierów ekologicznego napędu w tym segmencie.",
+              "en": "Mitsubishi Outlander is a versatile, family SUV. This model popularized Plug-in hybrid technology (PHEV), becoming one of the pioneers of ecological drive in this segment.",
+              "de": "Mitsubishi Outlander ist ein vielseitiger Familien-SUV. Dieses Modell machte die Plug-in-Hybrid-Technologie (PHEV) populär und wurde zu einem der Pioniere des ökologischen Antriebs in diesem Segment.",
+              "uk": "Mitsubishi Outlander — це універсальний сімейний позашляховик. Ця модель популяризувала технологію Plug-in Hybrid (PHEV), ставши одним із піонерів екологічного приводу в цьому сегменті.",
+              "ru": "Mitsubishi Outlander — универсальный семейный внедорожник. Эта модель популяризировала гибридную технологию Plug-in (PHEV), став одним из пионеров экологического движения в этом сегменте.",
+              "zh": "三菱欧蓝德是一款多功能家庭 SUV。该车型普及了插电式混合动力技术（PHEV），成为该细分市场生态驱动的先驱之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi"
+              },
+              "okres produkcji": {
+                "pl": "od 2001",
+                "en": "from 2001",
+                "de": "ab 2001",
+                "uk": "з 2001 року",
+                "ru": "2001 года выпуска.",
+                "zh": "自2001年以来"
+              },
+              "segment": {
+                "pl": "D-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9b/92/vjta6eoswkoog0ogo0csg/mitsubishi-outlander-phev-02.310.jpg"
+        }
+      },
+      {
+        "BrandID": 94,
+        "ModelID": 414251,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "Outlander",
+        "Serie Name": "Outlander IV",
+        "Years": "2021 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment D-SUV",
+          "drive": "AWD",
+          "fuel": "PHEV",
+          "engine": "2.5L / 2.4L PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi Outlander to wszechstronny, rodzinny SUV. Model ten spopularyzował technologię hybrydową Plug-in (PHEV), stając się jednym z pionierów ekologicznego napędu w tym segmencie.",
+              "en": "Mitsubishi Outlander is a versatile, family SUV. This model popularized Plug-in hybrid technology (PHEV), becoming one of the pioneers of ecological drive in this segment.",
+              "de": "Mitsubishi Outlander ist ein vielseitiger Familien-SUV. Dieses Modell machte die Plug-in-Hybrid-Technologie (PHEV) populär und wurde zu einem der Pioniere des ökologischen Antriebs in diesem Segment.",
+              "uk": "Mitsubishi Outlander — це універсальний сімейний позашляховик. Ця модель популяризувала технологію Plug-in Hybrid (PHEV), ставши одним із піонерів екологічного приводу в цьому сегменті.",
+              "ru": "Mitsubishi Outlander — универсальный семейный внедорожник. Эта модель популяризировала гибридную технологию Plug-in (PHEV), став одним из пионеров экологического движения в этом сегменте.",
+              "zh": "三菱欧蓝德是一款多功能家庭 SUV。该车型普及了插电式混合动力技术（PHEV），成为该细分市场生态驱动的先驱之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi"
+              },
+              "okres produkcji": {
+                "pl": "od 2001",
+                "en": "since 2001",
+                "de": "seit 2001",
+                "uk": "з 2001 року",
+                "ru": "с 2001 года.",
+                "zh": "自2001年以来"
+              },
+              "segment": {
+                "pl": "D-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9b/92/vjta6eoswkoog0ogo0csg/mitsubishi-outlander-phev-02.310.jpg"
+        }
+      }
+    ],
+    "Pajero": [
+      {
+        "BrandID": 94,
+        "ModelID": 414252,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "Pajero",
+        "Serie Name": "Pajero II (V20)",
+        "Years": "1991 - 1999",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.0L - 3.5L / 2.5L - 2.8L Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi Pajero to legenda rajdu Dakar. Ten model udowodnił, że prawdziwe auto terenowe może być też cywilizowane, oferując niesamowitą dzielność poza utwardzonym szlakiem.",
+              "en": "Mitsubishi Pajero is the legend of the Dakar Rally. This model proved that a real off-road vehicle can also be civilized, offering incredible performance off the paved trail.",
+              "de": "Mitsubishi Pajero ist die Legende der Rallye Dakar. Dieses Modell bewies, dass ein echter Geländewagen auch zivilisiert sein kann und abseits befestigter Wege eine unglaubliche Leistung bietet.",
+              "uk": "Mitsubishi Pajero — легенда ралі Дакар. Ця модель довела, що справжній позашляховик також може бути цивілізованим, пропонуючи неймовірну продуктивність поза асфальтованими трасами.",
+              "ru": "Mitsubishi Pajero — легенда ралли «Дакар». Эта модель доказала, что настоящий внедорожник тоже может быть цивилизованным, предлагая невероятные характеристики вне дорог с твердым покрытием.",
+              "zh": "三菱帕杰罗是达喀尔拉力赛的传奇。该模型证明了真正的越野车也可以文明行驶，在铺砌的道路上提供令人难以置信的性能。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi"
+              },
+              "okres produkcji": "1981–2021",
+              "segment": {
+                "pl": "Off-road SUV",
+                "en": "Off-road SUV",
+                "de": "Gelände-SUV",
+                "uk": "Позашляховик",
+                "ru": "Внедорожник",
+                "zh": "越野SUV"
+              },
+              "napęd": {
+                "pl": "AWD (Super Select)",
+                "en": "AWD (Super Select)",
+                "de": "AWD (Super Select)",
+                "uk": "AWD (Super Select)",
+                "ru": "AWD (Super Select)",
+                "zh": "全轮驱动（超级选择）"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/48/6o/b7z3dpgkkss8484kc8wsg/pajero-iv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 94,
+        "ModelID": 413350,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "Pajero",
+        "Serie Name": "Pajero III (V60)",
+        "Years": "2000 - 2006",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.5L GDI / 3.2L DI-D",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi Pajero to legenda rajdu Dakar. Ten model udowodnił, że prawdziwe auto terenowe może być też cywilizowane, oferując niesamowitą dzielność poza utwardzonym szlakiem.",
+              "en": "Mitsubishi Pajero is the legend of the Dakar Rally. This model proved that a real off-road vehicle can also be civilized, offering incredible performance off the paved trail.",
+              "de": "Mitsubishi Pajero ist die Legende der Rallye Dakar. Dieses Modell bewies, dass ein echter Geländewagen auch zivilisiert sein kann und abseits befestigter Wege eine unglaubliche Leistung bietet.",
+              "uk": "Mitsubishi Pajero — легенда ралі Дакар. Ця модель довела, що справжній позашляховик також може бути цивілізованим, пропонуючи неймовірну продуктивність поза асфальтованими трасами.",
+              "ru": "Mitsubishi Pajero — легенда ралли «Дакар». Эта модель доказала, что настоящий внедорожник тоже может быть цивилизованным, предлагая невероятные характеристики вне дорог с твердым покрытием.",
+              "zh": "三菱帕杰罗是达喀尔拉力赛的传奇。该模型证明了真正的越野车也可以文明行驶，在铺砌的道路上提供令人难以置信的性能。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi"
+              },
+              "okres produkcji": "1981–2021",
+              "segment": {
+                "pl": "Off-road SUV",
+                "en": "Off-road SUV",
+                "de": "Gelände-SUV",
+                "uk": "Позашляховик",
+                "ru": "Внедорожный внедорожник",
+                "zh": "越野SUV"
+              },
+              "napęd": {
+                "pl": "AWD (Super Select)",
+                "en": "AWD (Super Select)",
+                "de": "AWD (Super Select)",
+                "uk": "AWD (Super Select)",
+                "ru": "AWD (Super Select)",
+                "zh": "全轮驱动（超级选择）"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/48/6o/b7z3dpgkkss8484kc8wsg/pajero-iv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 94,
+        "ModelID": 413351,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "Pajero",
+        "Serie Name": "Pajero IV (V80)",
+        "Years": "2006 - 2018",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size SUV",
+          "drive": "4WD",
+          "fuel": "Diesel",
+          "engine": "3.2L DI-D",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi Pajero to legenda rajdu Dakar. Ten model udowodnił, że prawdziwe auto terenowe może być też cywilizowane, oferując niesamowitą dzielność poza utwardzonym szlakiem.",
+              "en": "Mitsubishi Pajero is the legend of the Dakar Rally. This model proved that a real off-road vehicle can also be civilized, offering incredible performance off the paved trail.",
+              "de": "Mitsubishi Pajero ist die Legende der Rallye Dakar. Dieses Modell bewies, dass ein echter Geländewagen auch zivilisiert sein kann und abseits befestigter Wege eine unglaubliche Leistung bietet.",
+              "uk": "Mitsubishi Pajero — легенда ралі Дакар. Ця модель довела, що справжній позашляховик також може бути цивілізованим, пропонуючи неймовірну продуктивність поза асфальтованими трасами.",
+              "ru": "Mitsubishi Pajero — легенда ралли «Дакар». Эта модель доказала, что настоящий внедорожник тоже может быть цивилизованным, предлагая невероятные характеристики вне дорог с твердым покрытием.",
+              "zh": "三菱帕杰罗是达喀尔拉力赛的传奇。该模型证明了真正的越野车也可以文明行驶，在铺砌的道路上提供令人难以置信的性能。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi"
+              },
+              "okres produkcji": "1981–2021",
+              "segment": {
+                "pl": "Off-road SUV",
+                "en": "Off-road SUV",
+                "de": "Gelände-SUV",
+                "uk": "Позашляховик",
+                "ru": "Внедорожник",
+                "zh": "越野SUV"
+              },
+              "napęd": {
+                "pl": "AWD (Super Select)",
+                "en": "AWD (Super Select)",
+                "de": "AWD (Super Select)",
+                "uk": "AWD (Super Select)",
+                "ru": "AWD (Super Select)",
+                "zh": "全轮驱动（超级选择）"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/48/6o/b7z3dpgkkss8484kc8wsg/pajero-iv.310.jpg"
+        }
+      }
+    ],
+    "Pajero Sport": [
+      {
+        "BrandID": 94,
+        "ModelID": 1059,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "Pajero Sport",
+        "Serie Name": "Pajero Sport I (K90)",
+        "Years": "1996 - 2008",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "4WD",
+          "fuel": "Diesel",
+          "engine": "2.5L TD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi Pajero Sport to bardziej dynamiczna, oparta na ramie pickupów wersja legendarnego SUV-a. Łączy surowe możliwości terenowe z komfortem nowoczesnego auta rodzinnego.",
+              "en": "Mitsubishi Pajero Sport is a more dynamic version of the legendary SUV based on a pickup frame. It combines rugged off-road capabilities with the comfort of a modern family car.",
+              "de": "Mitsubishi Pajero Sport ist eine dynamischere Version des legendären SUV auf Basis eines Pickup-Rahmens. Es vereint robuste Geländetauglichkeit mit dem Komfort eines modernen Familienautos.",
+              "uk": "Mitsubishi Pajero Sport — більш динамічна версія легендарного позашляховика на базі рами пікапа. Він поєднує в собі міцні позашляхові можливості з комфортом сучасного сімейного автомобіля.",
+              "ru": "Mitsubishi Pajero Sport — более динамичная версия легендарного внедорожника на базе рамы пикапа. Он сочетает в себе внедорожные качества с комфортом современного семейного автомобиля.",
+              "zh": "三菱帕杰罗运动版是一款基于皮卡车架的传奇 SUV 的更具动感的版本。它结合了坚固的越野能力和现代家庭汽车的舒适性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi"
+              },
+              "okres produkcji": {
+                "pl": "od 1996",
+                "en": "from 1996",
+                "de": "ab 1996",
+                "uk": "з 1996",
+                "ru": "с 1996 года.",
+                "zh": "自1996年以来"
+              },
+              "segment": {
+                "pl": "Mid-size SUV (Body-on-frame)",
+                "en": "Mid-size SUV (Body-on-frame)",
+                "de": "Mittelklasse-SUV (Body-on-Frame)",
+                "uk": "Середньорозмірний SUV (Body-on-frame)",
+                "ru": "Среднеразмерный внедорожник (Кузов на раме)",
+                "zh": "中型SUV（非承载式车身）"
+              },
+              "napęd": {
+                "pl": "AWD (Super Select)",
+                "en": "AWD (Super Select)",
+                "de": "AWD (Super Select)",
+                "uk": "AWD (Super Select)",
+                "ru": "AWD (Super Select)",
+                "zh": "全轮驱动（超级选择）"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 94,
+        "ModelID": 414253,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "Pajero Sport",
+        "Serie Name": "Pajero Sport II (KH)",
+        "Years": "2008 - 2016",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "4WD",
+          "fuel": "Diesel",
+          "engine": "2.5L DI-D / 3.0L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi Motors to japoński producent o bogatych tradycjach rajdowych (wielokrotny zwycięzca Dakaru). Znany z technologii 4x4 i modelu Pajero.",
+              "en": "Mitsubishi Motors is a Japanese manufacturer with rich rally traditions (multiple winner of the Dakar). Known for its 4x4 technology and the Pajero model.",
+              "de": "Mitsubishi Motors ist ein japanischer Hersteller mit langer Rallye-Tradition (mehrfacher Gewinner der Dakar). Bekannt für seine 4x4-Technologie und das Pajero-Modell.",
+              "uk": "Mitsubishi Motors — японський виробник з багатими ралійними традиціями (багаторазовий переможець Дакара). Відомий своєю технологією 4x4 і моделлю Pajero.",
+              "ru": "Mitsubishi Motors — японский производитель с богатыми раллийными традициями (многократный победитель «Дакара»). Известен своей технологией 4x4 и моделью Pajero.",
+              "zh": "三菱汽车是一家拥有丰富拉力传统的​​日本制造商（多次获得达喀尔拉力赛冠军）。以其 4x4 技术和帕杰罗车型而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi Motors",
+                "en": "Mitsubishi Motors",
+                "de": "Mitsubishi Motors",
+                "uk": "Mitsubishi Motors",
+                "ru": "Mitsubishi Motors",
+                "zh": "三菱汽车"
+              },
+              "siedziba": {
+                "pl": "Tokio, Japonia",
+                "en": "Tokyo, Japan",
+                "de": "Tokio, Japan",
+                "uk": "Токіо, Японія",
+                "ru": "Токио, Япония",
+                "zh": "日本东京"
+              },
+              "założona": "1970"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 94,
+        "ModelID": 414254,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "Pajero Sport",
+        "Serie Name": "Pajero Sport III (QE)",
+        "Years": "2016 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "4WD",
+          "fuel": "Diesel",
+          "engine": "2.4L DI-D",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi Motors to japoński producent o bogatych tradycjach rajdowych (wielokrotny zwycięzca Dakaru). Znany z technologii 4x4 i modelu Pajero.",
+              "en": "Mitsubishi Motors is a Japanese manufacturer with rich rally traditions (multiple winner of the Dakar). Known for its 4x4 technology and the Pajero model.",
+              "de": "Mitsubishi Motors ist ein japanischer Hersteller mit langer Rallye-Tradition (mehrfacher Gewinner der Dakar). Bekannt für seine 4x4-Technologie und das Pajero-Modell.",
+              "uk": "Mitsubishi Motors — японський виробник з багатими ралійними традиціями (багаторазовий переможець Дакара). Відомий своєю технологією 4x4 і моделлю Pajero.",
+              "ru": "Mitsubishi Motors — японский производитель с богатыми раллийными традициями (многократный победитель «Дакара»). Известен своей технологией 4x4 и моделью Pajero.",
+              "zh": "三菱汽车是一家拥有丰富拉力传统的​​日本制造商（多次获得达喀尔拉力赛冠军）。以其 4x4 技术和帕杰罗车型而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi Motors",
+                "en": "Mitsubishi Motors",
+                "de": "Mitsubishi Motors",
+                "uk": "Mitsubishi Motors",
+                "ru": "Mitsubishi Motors",
+                "zh": "三菱汽车"
+              },
+              "siedziba": {
+                "pl": "Tokio, Japonia",
+                "en": "Tokyo, Japan",
+                "de": "Tokio, Japan",
+                "uk": "Токіо, Японія",
+                "ru": "Токио, Япония",
+                "zh": "日本东京"
+              },
+              "założona": "1970"
+            }
+          }
+        }
+      }
+    ],
+    "Space Star": [
+      {
+        "BrandID": 94,
+        "ModelID": 1063,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "Space Star",
+        "Serie Name": "Space Star (MPV)",
+        "Years": "1998 - 2005",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.3L - 1.9L DI-D",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi Motors to japoński producent o bogatych tradycjach rajdowych (wielokrotny zwycięzca Dakaru). Znany z technologii 4x4 i modelu Pajero.",
+              "en": "Mitsubishi Motors is a Japanese manufacturer with rich rally traditions (multiple winner of the Dakar). Known for its 4x4 technology and the Pajero model.",
+              "de": "Mitsubishi Motors ist ein japanischer Hersteller mit langer Rallye-Tradition (mehrfacher Gewinner der Dakar). Bekannt für seine 4x4-Technologie und das Pajero-Modell.",
+              "uk": "Mitsubishi Motors — японський виробник з багатими ралійними традиціями (багаторазовий переможець Дакара). Відомий своєю технологією 4x4 і моделлю Pajero.",
+              "ru": "Mitsubishi Motors — японский производитель с богатыми раллийными традициями (многократный победитель «Дакара»). Известен своей технологией 4x4 и моделью Pajero.",
+              "zh": "三菱汽车是一家拥有丰富拉力传统的​​日本制造商（多次获得达喀尔拉力赛冠军）。以其 4x4 技术和帕杰罗车型而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi Motors",
+                "en": "Mitsubishi Motors",
+                "de": "Mitsubishi Motors",
+                "uk": "Mitsubishi Motors",
+                "ru": "Mitsubishi Motors",
+                "zh": "三菱汽车"
+              },
+              "siedziba": {
+                "pl": "Tokio, Japonia",
+                "en": "Tokyo, Japan",
+                "de": "Tokio, Japan",
+                "uk": "Токіо, Японія",
+                "ru": "Токио, Япония",
+                "zh": "日本东京"
+              },
+              "założona": "1970"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3d/on/og3s5t2cw4k4gw0cos00o/mitsubishi_space-star-2013_r17-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 94,
+        "ModelID": 414169,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "Space Star",
+        "Serie Name": "Space Star (Mirage)",
+        "Years": "2012 - Present",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment A/B",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.0L - 1.2L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi Motors to japoński producent o bogatych tradycjach rajdowych (wielokrotny zwycięzca Dakaru). Znany z technologii 4x4 i modelu Pajero.",
+              "en": "Mitsubishi Motors is a Japanese manufacturer with rich rally traditions (multiple winner of the Dakar). Known for its 4x4 technology and the Pajero model.",
+              "de": "Mitsubishi Motors ist ein japanischer Hersteller mit langer Rallye-Tradition (mehrfacher Gewinner der Dakar). Bekannt für seine 4x4-Technologie und das Pajero-Modell.",
+              "uk": "Mitsubishi Motors — японський виробник з багатими ралійними традиціями (багаторазовий переможець Дакара). Відомий своєю технологією 4x4 і моделлю Pajero.",
+              "ru": "Mitsubishi Motors — японский производитель с богатыми раллийными традициями (многократный победитель «Дакара»). Известен своей технологией 4x4 и моделью Pajero.",
+              "zh": "三菱汽车是一家拥有丰富拉力传统的​​日本制造商（多次获得达喀尔拉力赛冠军）。以其 4x4 技术和帕杰罗车型而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi Motors",
+                "en": "Mitsubishi Motors",
+                "de": "Mitsubishi Motors",
+                "uk": "Mitsubishi Motors",
+                "ru": "Mitsubishi Motors",
+                "zh": "三菱汽车"
+              },
+              "siedziba": {
+                "pl": "Tokio, Japonia",
+                "en": "Tokyo, Japan",
+                "de": "Tokio, Japan",
+                "uk": "Токіо, Японія",
+                "ru": "Токио, Япония",
+                "zh": "日本东京"
+              },
+              "założona": "1970"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3d/on/og3s5t2cw4k4gw0cos00o/mitsubishi_space-star-2013_r17-jpg.310.jpg"
+        }
+      }
+    ],
+    "Grandis": [
+      {
+        "BrandID": 94,
+        "ModelID": 1048,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "Grandis",
+        "Serie Name": "Grandis",
+        "Years": "2003 - 2011",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Large MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.4L / 2.0L DI-D",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi Motors to japoński producent o bogatych tradycjach rajdowych (wielokrotny zwycięzca Dakaru). Znany z technologii 4x4 i modelu Pajero.",
+              "en": "Mitsubishi Motors is a Japanese manufacturer with rich rally traditions (multiple winner of the Dakar). Known for its 4x4 technology and the Pajero model.",
+              "de": "Mitsubishi Motors ist ein japanischer Hersteller mit langer Rallye-Tradition (mehrfacher Gewinner der Dakar). Bekannt für seine 4x4-Technologie und das Pajero-Modell.",
+              "uk": "Mitsubishi Motors — японський виробник з багатими ралійними традиціями (багаторазовий переможець Дакара). Відомий своєю технологією 4x4 і моделлю Pajero.",
+              "ru": "Mitsubishi Motors — японский производитель с богатыми раллийными традициями (многократный победитель «Дакара»). Известен своей технологией 4x4 и моделью Pajero.",
+              "zh": "三菱汽车是一家拥有丰富拉力传统的​​日本制造商（多次获得达喀尔拉力赛冠军）。以其 4x4 技术和帕杰罗车型而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi Motors",
+                "en": "Mitsubishi Motors",
+                "de": "Mitsubishi Motors",
+                "uk": "Mitsubishi Motors",
+                "ru": "Mitsubishi Motors",
+                "zh": "三菱汽车"
+              },
+              "siedziba": {
+                "pl": "Tokio, Japonia",
+                "en": "Tokyo, Japan",
+                "de": "Tokio, Japan",
+                "uk": "Токіо, Японія",
+                "ru": "Токио, Япония",
+                "zh": "日本东京"
+              },
+              "założona": "1970"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/83/n4/4word30g8scs8gggssk0c/grandis.310.jpg"
+        }
+      }
+    ],
+    "Galant": [
+      {
+        "BrandID": 94,
+        "ModelID": 413346,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "Galant",
+        "Serie Name": "Galant VIII",
+        "Years": "1996 - 2003",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 2.5L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi Motors to japoński producent o bogatych tradycjach rajdowych (wielokrotny zwycięzca Dakaru). Znany z technologii 4x4 i modelu Pajero.",
+              "en": "Mitsubishi Motors is a Japanese manufacturer with rich rally traditions (multiple winner of the Dakar). Known for its 4x4 technology and the Pajero model.",
+              "de": "Mitsubishi Motors ist ein japanischer Hersteller mit langer Rallye-Tradition (mehrfacher Gewinner der Dakar). Bekannt für seine 4x4-Technologie und das Pajero-Modell.",
+              "uk": "Mitsubishi Motors — японський виробник з багатими ралійними традиціями (багаторазовий переможець Дакара). Відомий своєю технологією 4x4 і моделлю Pajero.",
+              "ru": "Mitsubishi Motors — японский производитель с богатыми раллийными традициями (многократный победитель «Дакара»). Известен своей технологией 4x4 и моделью Pajero.",
+              "zh": "三菱汽车是一家拥有丰富拉力传统的​​日本制造商（多次获得达喀尔拉力赛冠军）。以其 4x4 技术和帕杰罗车型而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi Motors",
+                "en": "Mitsubishi Motors",
+                "de": "Mitsubishi Motors",
+                "uk": "Mitsubishi Motors",
+                "ru": "Мицубиси Моторс",
+                "zh": "三菱汽车"
+              },
+              "siedziba": {
+                "pl": "Tokio, Japonia",
+                "en": "Tokyo, Japan",
+                "de": "Tokio, Japan",
+                "uk": "Токіо, Японія",
+                "ru": "Токио, Япония",
+                "zh": "日本东京"
+              },
+              "założona": "1970"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2t/n6/7cbzmjwgcs408wkks08w8/galant-ix-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 94,
+        "ModelID": 413347,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "Galant",
+        "Serie Name": "Galant IX",
+        "Years": "2003 - 2012",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L - 3.8L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi Motors to japoński producent o bogatych tradycjach rajdowych (wielokrotny zwycięzca Dakaru). Znany z technologii 4x4 i modelu Pajero.",
+              "en": "Mitsubishi Motors is a Japanese manufacturer with rich rally traditions (multiple winner of the Dakar). Known for its 4x4 technology and the Pajero model.",
+              "de": "Mitsubishi Motors ist ein japanischer Hersteller mit langer Rallye-Tradition (mehrfacher Gewinner der Dakar). Bekannt für seine 4x4-Technologie und das Pajero-Modell.",
+              "uk": "Mitsubishi Motors — японський виробник з багатими ралійними традиціями (багаторазовий переможець Дакара). Відомий своєю технологією 4x4 і моделлю Pajero.",
+              "ru": "Mitsubishi Motors — японский производитель с богатыми раллийными традициями (многократный победитель «Дакара»). Известен своей технологией 4x4 и моделью Pajero.",
+              "zh": "三菱汽车是一家拥有丰富拉力传统的​​日本制造商（多次获得达喀尔拉力赛冠军）。以其 4x4 技术和帕杰罗车型而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi Motors",
+                "en": "Mitsubishi Motors",
+                "de": "Mitsubishi Motors",
+                "uk": "Mitsubishi Motors",
+                "ru": "Mitsubishi Motors",
+                "zh": "三菱汽车"
+              },
+              "siedziba": {
+                "pl": "Tokio, Japonia",
+                "en": "Tokyo, Japan",
+                "de": "Tokio, Japan",
+                "uk": "Токіо, Японія",
+                "ru": "Токио, Япония",
+                "zh": "日本东京"
+              },
+              "założona": "1970"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2t/n6/7cbzmjwgcs408wkks08w8/galant-ix-sedan.310.jpg"
+        }
+      }
+    ],
+    "3000 GT": [
+      {
+        "BrandID": 94,
+        "ModelID": 1032,
+        "Brand Name": "Mitsubishi",
+        "Model Name": "3000 GT",
+        "Serie Name": "3000 GT",
+        "Years": "1990 - 2000",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sports Car",
+          "drive": "AWD/FWD",
+          "fuel": "Gasoline",
+          "engine": "3.0L V6 Twin Turbo",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Mitsubishi Motors to japoński producent o bogatych tradycjach rajdowych (wielokrotny zwycięzca Dakaru). Znany z technologii 4x4 i modelu Pajero.",
+              "en": "Mitsubishi Motors is a Japanese manufacturer with rich rally traditions (multiple winner of the Dakar). Known for its 4x4 technology and the Pajero model.",
+              "de": "Mitsubishi Motors ist ein japanischer Hersteller mit langer Rallye-Tradition (mehrfacher Gewinner der Dakar). Bekannt für seine 4x4-Technologie und das Pajero-Modell.",
+              "uk": "Mitsubishi Motors — японський виробник з багатими ралійними традиціями (багаторазовий переможець Дакара). Відомий своєю технологією 4x4 і моделлю Pajero.",
+              "ru": "Mitsubishi Motors — японский производитель с богатыми раллийными традициями (многократный победитель «Дакара»). Известен своей технологией 4x4 и моделью Pajero.",
+              "zh": "三菱汽车是一家拥有丰富拉力传统的​​日本制造商（多次获得达喀尔拉力赛冠军）。以其 4x4 技术和帕杰罗车型而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Mitsubishi Motors",
+                "en": "Mitsubishi Motors",
+                "de": "Mitsubishi Motors",
+                "uk": "Mitsubishi Motors",
+                "ru": "Mitsubishi Motors",
+                "zh": "Mitsubishi Motors"
+              },
+              "siedziba": {
+                "pl": "Tokio, Japonia",
+                "en": "Tokyo, Japan",
+                "de": "Tokio, Japan",
+                "uk": "Токіо, Японія",
+                "ru": "Токио, Япония",
+                "zh": "Tokyo, Japan"
+              },
+              "założona": "1970"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5s/f7/aty9ui4o080gws8g88k40/3000-gt.310.jpg"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "brand": "Changan",
+  "models": {
+    "CS35": [
+      {
+        "BrandID": 190,
+        "ModelID": 415342,
+        "Brand Name": "Changan",
+        "Model Name": "CS35",
+        "Serie Name": "CS35",
+        "Years": "2012 - 2018",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      },
+      {
+        "BrandID": 190,
+        "ModelID": 416645,
+        "Brand Name": "Changan",
+        "Model Name": "CS35",
+        "Serie Name": "CS35 Plus",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L / 1.4L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "CS75": [
+      {
+        "BrandID": 190,
+        "ModelID": 415425,
+        "Brand Name": "Changan",
+        "Model Name": "CS75",
+        "Serie Name": "CS75",
+        "Years": "2014 - 2018",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "1.8L Turbo / 2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      },
+      {
+        "BrandID": 190,
+        "ModelID": 416646,
+        "Brand Name": "Changan",
+        "Model Name": "CS75",
+        "Serie Name": "CS75 Plus",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L Turbo / 2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "UNI-K": [
+      {
+        "BrandID": 190,
+        "ModelID": 416647,
+        "Brand Name": "Changan",
+        "Model Name": "UNI-K",
+        "Serie Name": "UNI-K",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "UNI-T": [
+      {
+        "BrandID": 190,
+        "ModelID": 416648,
+        "Brand Name": "Changan",
+        "Model Name": "UNI-T",
+        "Serie Name": "UNI-T",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ]
+  }
+}

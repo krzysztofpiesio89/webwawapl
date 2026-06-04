@@ -1,0 +1,158 @@
+{
+  "brand": "Bestune",
+  "models": {
+    "T77": [
+      {
+        "BrandID": 305,
+        "ModelID": 500501,
+        "Brand Name": "Bestune",
+        "Model Name": "T77",
+        "Serie Name": "T77 Pro",
+        "Years": "2018 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5T",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bestune_T77_IMG003.jpg/1280px-Bestune_T77_IMG003.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Bestune_T77_IMG003.jpg/1280px-Bestune_T77_IMG003.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bestune_T77_facelift_001.jpg/1280px-Bestune_T77_facelift_001.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bestune_T77_facelift_002.jpg/1280px-Bestune_T77_facelift_002.jpg"
+            ],
+            "description": {
+              "pl": "Bestune T77 to nowoczesny kompaktowy SUV od FAW Group, charakteryzujący się dynamiczną sylwetką i inteligentnymi systemami multimedialnymi.",
+              "en": "Bestune T77 is a modern compact SUV from FAW Group, characterized by a dynamic silhouette and intelligent multimedia systems.",
+              "de": "Bestune T77 ist ein moderner Kompakt-SUV der FAW Group, der sich durch eine dynamische Silhouette und intelligente Multimediasysteme auszeichnet.",
+              "uk": "Bestune T77 — сучасний компактний позашляховик від FAW Group, який характеризується динамічним силуетом і інтелектуальними мультимедійними системами.",
+              "ru": "Bestune T77 — современный компактный внедорожник от FAW Group, отличающийся динамичным силуэтом и интеллектуальными мультимедийными системами.",
+              "zh": "奔腾T77是一汽集团的一款现代紧凑型SUV，具有动感的轮廓和智能多媒体系统。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "FAW Group",
+                "en": "FAW Group",
+                "de": "FAW-Gruppe",
+                "uk": "Група FAW",
+                "ru": "Группа ФАВ",
+                "zh": "一汽集团"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "since 2018",
+                "de": "seit 2018",
+                "uk": "з 2018 року",
+                "ru": "с 2018 года",
+                "zh": "2018年以来"
+              },
+              "segment": {
+                "pl": "C-SUV",
+                "en": "C-SUV",
+                "de": "C-SUV",
+                "uk": "C-SUV",
+                "ru": "C-внедорожник"
+              },
+              "napęd": {
+                "pl": "FWD",
+                "en": "FWD",
+                "de": "FWD",
+                "uk": "FWD",
+                "ru": "вперед"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "T99": [
+      {
+        "BrandID": 305,
+        "ModelID": 500502,
+        "Brand Name": "Bestune",
+        "Model Name": "T99",
+        "Serie Name": "T99",
+        "Years": "2019 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.0T",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {}
+        }
+      }
+    ],
+    "B70": [
+      {
+        "BrandID": 305,
+        "ModelID": 500503,
+        "Brand Name": "Bestune",
+        "Model Name": "B70",
+        "Serie Name": "B70 III",
+        "Years": "2020 - Present",
+        "specs": {
+          "bodyType": "Sedan/Liftback",
+          "segment": "Mid-size Sedan",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5T / 2.0T",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bestune_B70_III_010.jpg/1280px-Bestune_B70_III_010.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Bestune_B70_III_010.jpg/1280px-Bestune_B70_III_010.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/0/06/2025_Bestune_B70_FL.png"
+            ],
+            "description": {
+              "pl": "Bestune B70 to elegancki sedan/liftback klasy średniej, oferujący przestronne wnętrze i nowoczesny design.",
+              "en": "Bestune B70 is an elegant mid-class sedan/liftback, offering a spacious interior and modern design.",
+              "de": "Bestune B70 ist eine elegante Mittelklasse-Limousine/Liftback mit geräumigem Innenraum und modernem Design.",
+              "uk": "Bestune B70 — це елегантний седан/ліфтбек середнього класу з просторим салоном і сучасним дизайном.",
+              "ru": "Bestune B70 — элегантный седан/лифтбек среднего класса, предлагающий просторный салон и современный дизайн.",
+              "zh": "奔腾B70是一款优雅的中级轿车/掀背车，拥有宽敞的内部空间和现代设计。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "FAW Group",
+                "en": "FAW Group",
+                "de": "FAW-Gruppe",
+                "uk": "Група FAW",
+                "ru": "Группа ФАВ",
+                "zh": "一汽集团"
+              },
+              "okres produkcji": {
+                "pl": "od 2020 (3. gen)",
+                "en": "from 2020 (3rd generation)",
+                "de": "ab 2020 (3. Generation)",
+                "uk": "з 2020 (3 покоління)",
+                "ru": "с 2020 года (3-е поколение)",
+                "zh": "2020 年起（第三代）"
+              },
+              "segment": {
+                "pl": "D",
+                "en": "D",
+                "de": "D",
+                "uk": "Д",
+                "ru": "Д"
+              },
+              "napęd": {
+                "pl": "FWD",
+                "en": "FWD",
+                "de": "FWD",
+                "uk": "FWD",
+                "ru": "вперед"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

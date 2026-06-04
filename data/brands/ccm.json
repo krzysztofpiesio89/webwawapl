@@ -1,0 +1,43 @@
+{
+  "brand": "CCM",
+  "models": {
+    "Spitfire": [
+      {
+        "BrandID": 208,
+        "ModelID": 416220,
+        "Brand Name": "CCM",
+        "Model Name": "Spitfire",
+        "Serie Name": "Spitfire",
+        "Years": "2017 - 3000",
+        "specs": {
+          "bodyType": "Naked Bike",
+          "segment": "Motorcycle",
+          "drive": "Chain",
+          "fuel": "Gasoline",
+          "engine": "600cc Single",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle"
+        }
+      }
+    ],
+    "GP450": [
+      {
+        "BrandID": 208,
+        "ModelID": 416221,
+        "Brand Name": "CCM",
+        "Model Name": "GP450",
+        "Serie Name": "GP450 Adventure",
+        "Years": "2013 - 2017",
+        "specs": {
+          "bodyType": "Adventure",
+          "segment": "Motorcycle",
+          "drive": "Chain",
+          "fuel": "Gasoline",
+          "engine": "450cc Single",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle"
+        }
+      }
+    ]
+  }
+}

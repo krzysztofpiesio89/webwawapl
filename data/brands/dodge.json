@@ -1,0 +1,2424 @@
+{
+  "brand": "Dodge",
+  "models": {
+    "Avenger": [
+      {
+        "BrandID": 40,
+        "ModelID": 414124,
+        "Brand Name": "Dodge",
+        "Model Name": "Avenger",
+        "Serie Name": "Avenger Coupe",
+        "Years": "1994 - 2000",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L / 2.5L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Avenger Coupe to sportowe coupe oparte na Mitsubishi Eclipse, oferujące agresywny wygląd i rozsądną cenę.",
+              "en": "The Dodge Avenger Coupe is a sports coupe based on the Mitsubishi Eclipse, offering aggressive looks and a reasonable price.",
+              "de": "Das Dodge Avenger Coupé ist ein Sportcoupé auf Basis des Mitsubishi Eclipse und bietet ein aggressives Aussehen und einen angemessenen Preis.",
+              "uk": "Dodge Avenger Coupe — це спортивне купе на базі Mitsubishi Eclipse, яке пропонує агресивний зовнішній вигляд і розумну ціну.",
+              "ru": "Dodge Avenger Coupe — спортивное купе на базе Mitsubishi Eclipse, предлагающее агрессивный внешний вид и разумную цену.",
+              "zh": "道奇 Avenger Coupe 是一款基于三菱 Eclipse 的运动轿跑车，具有侵略性的外观和合理的价格。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "1994–2000",
+              "miejsce produkcji": {
+                "pl": "Normal, USA",
+                "en": "Normal, USA",
+                "de": "Normal, USA",
+                "uk": "Нормальний, США",
+                "ru": "Нормал, США",
+                "zh": "普通，美国"
+              },
+              "platforma": {
+                "pl": "Mitsubishi PJ",
+                "en": "Mitsubishi PJ",
+                "de": "Mitsubishi PJ",
+                "uk": "Mitsubishi PJ",
+                "ru": "Митсубиси ПиДжей",
+                "zh": "三菱 PJ"
+              },
+              "silnik": {
+                "pl": "2.0L / 2.5L V6",
+                "en": "2.0L/2.5L V6",
+                "de": "2,0 l/2,5 l V6",
+                "uk": "2,0 л/2,5 л V6",
+                "ru": "2,0 л/2,5 л V6",
+                "zh": "2.0L / 2.5L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/co/in/wrm7iaogcwkkg08ksgw84/avenger.310.jpg"
+        }
+      },
+      {
+        "BrandID": 40,
+        "ModelID": 414125,
+        "Brand Name": "Dodge",
+        "Model Name": "Avenger",
+        "Serie Name": "Avenger Sedan",
+        "Years": "2007 - 2014",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L / 2.7L / 3.5L / 3.6L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Avenger Sedan to muscle car w ciele rodzinnego sedana, wyróżniający się muskularną sylwetką i dostępnym napędem AWD.",
+              "en": "The Dodge Avenger Sedan is a muscle car in the body of a family sedan, distinguished by its muscular silhouette and available AWD drive.",
+              "de": "Der Dodge Avenger Sedan ist ein Muscle-Car in der Karosserie einer Familienlimousine, das sich durch seine muskulöse Silhouette und den verfügbaren Allradantrieb auszeichnet.",
+              "uk": "Dodge Avenger Sedan — маслкар у кузові сімейного седана, який вирізняється мускулистим силуетом і доступним повним приводом.",
+              "ru": "Dodge Avenger Sedan — маслкар в кузове семейного седана, отличающийся мускулистым силуэтом и доступным полным приводом.",
+              "zh": "Dodge Avenger Sedan 是一款具有家庭轿车车身的肌肉车，以肌肉感十足的轮廓和可用的全轮驱动系统而著称。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "2007–2014",
+              "miejsce produkcji": {
+                "pl": "Sterling Heights, USA",
+                "en": "Sterling Heights, USA",
+                "de": "Sterling Heights, USA",
+                "uk": "Стерлінг Хайтс, США",
+                "ru": "Стерлинг-Хайтс, США",
+                "zh": "美国斯特林高地"
+              },
+              "platforma": {
+                "pl": "Chrysler JS",
+                "en": "Chrysler JS",
+                "de": "Chrysler JS",
+                "uk": "Chrysler JS",
+                "ru": "Крайслер Дж.С.",
+                "zh": "克莱斯勒 JS"
+              },
+              "silnik": {
+                "pl": "2.4L - 3.6L V6",
+                "en": "2.4L - 3.6L V6",
+                "de": "2,4 l – 3,6 l V6",
+                "uk": "2,4 л - 3,6 л V6",
+                "ru": "2,4–3,6 л V6",
+                "zh": "2.4L - 3.6L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/co/in/wrm7iaogcwkkg08ksgw84/avenger.310.jpg"
+        }
+      }
+    ],
+    "Caliber": [
+      {
+        "BrandID": 40,
+        "ModelID": 402,
+        "Brand Name": "Dodge",
+        "Model Name": "Caliber",
+        "Serie Name": "Caliber",
+        "Years": "2006 - 2012",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Compact",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.8L - 2.4L / 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Caliber to kompaktowy hatchback o stylistyce crossovera, który zastąpił model Neon, oferując wyższą pozycję za kierownicą.",
+              "en": "The Dodge Caliber is a compact hatchback with crossover styling that replaces the Neon model, offering a higher driving position.",
+              "de": "Der Dodge Caliber ist ein kompaktes Fließheckmodell im Crossover-Stil, das das Neon-Modell ersetzt und eine höhere Fahrerposition bietet.",
+              "uk": "Dodge Caliber — це компактний хетчбек у кросоверному стилі, який замінює модель Neon, пропонуючи вищу позицію за кермом.",
+              "ru": "Dodge Caliber — компактный хэтчбек в стиле кроссовера, пришедший на смену модели Neon и предлагающий более высокую посадку водителя.",
+              "zh": "道奇 Calibre 是一款采用跨界风格的紧凑型掀背车，取代了 Neon 车型，提供了更高的驾驶位置。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "2006–2012",
+              "miejsce produkcji": {
+                "pl": "Belvidere, USA",
+                "en": "Belvidere, USA",
+                "de": "Belvidere, USA",
+                "uk": "Бельвідер, США",
+                "ru": "Белвидер, США",
+                "zh": "美国贝尔维代尔"
+              },
+              "platforma": {
+                "pl": "Chrysler PM/MK",
+                "en": "Chrysler PM/MK",
+                "de": "Chrysler PM/MK",
+                "uk": "Chrysler PM/MK",
+                "ru": "Крайслер ПМ/МК",
+                "zh": "克莱斯勒 PM/MK"
+              },
+              "silnik": {
+                "pl": "1.8L - 2.4L Turbo",
+                "en": "1.8L - 2.4L Turbo",
+                "de": "1,8 l – 2,4 l Turbo",
+                "uk": "1,8-2,4 л з турбонаддувом",
+                "ru": "1,8–2,4 л Турбо",
+                "zh": "1.8L - 2.4L Turbo"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1o/mt/e9db1m4kgk8okwcw04c0o/caliber.310.jpg"
+        }
+      }
+    ],
+    "Caravan": [
+      {
+        "BrandID": 40,
+        "ModelID": 414126,
+        "Brand Name": "Dodge",
+        "Model Name": "Caravan",
+        "Serie Name": "Caravan Gen 1-2",
+        "Years": "1984 - 1995",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Minivan",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.2L - 3.3L",
+          "isOldtimer": true,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Caravan to pionier segmentu minivanów, który zmienił sposób podróżowania amerykańskich rodzin.",
+              "en": "The Dodge Caravan is a pioneer in the minivan segment that changed the way American families travel.",
+              "de": "Der Dodge Caravan ist ein Pionier im Minivan-Segment, der die Art und Weise, wie amerikanische Familien reisen, verändert hat.",
+              "uk": "Dodge Caravan — піонер у сегменті мінівенів, який змінив спосіб подорожей американських сімей.",
+              "ru": "Dodge Caravan — пионер в сегменте минивэнов, изменивший способ путешествий американских семей.",
+              "zh": "Dodge Caravan 是小型货车领域的先驱，改变了美国家庭的出行方式。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "1984–1995",
+              "miejsce produkcji": {
+                "pl": "Windsor, Kanada",
+                "en": "Windsor, Canada",
+                "de": "Windsor, Kanada",
+                "uk": "Віндзор, Канада",
+                "ru": "Виндзор, Канада",
+                "zh": "加拿大温莎"
+              },
+              "platforma": {
+                "pl": "Chrysler S/AS",
+                "en": "Chrysler S/AS",
+                "de": "Chrysler S/AS",
+                "uk": "Chrysler S/AS",
+                "ru": "Крайслер С/АС",
+                "zh": "克莱斯勒 S/AS"
+              },
+              "silnik": {
+                "pl": "2.2L - 3.3L V6",
+                "en": "2.2L - 3.3L V6",
+                "de": "2,2 l – 3,3 l V6",
+                "uk": "2,2 л - 3,3 л V6",
+                "ru": "2,2–3,3 л V6",
+                "zh": "2.2L - 3.3L V6"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dodge_Caravan_SE_2.5_Turbo_1989_%2815470607321%29.jpg/1280px-Dodge_Caravan_SE_2.5_Turbo_1989_%2815470607321%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dodge_Caravan_SE_2.5_Turbo_1989_%2815470607321%29.jpg/1280px-Dodge_Caravan_SE_2.5_Turbo_1989_%2815470607321%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/87-90_Dodge_Grand_Caravan.jpg/1280px-87-90_Dodge_Grand_Caravan.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/f/f6/OldDodgeVan.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2nd_Dodge_Grand_Caravan.jpg/1280px-2nd_Dodge_Grand_Caravan.jpg"
+            ]
+          }
+        }
+      },
+      {
+        "BrandID": 40,
+        "ModelID": 413109,
+        "Brand Name": "Dodge",
+        "Model Name": "Caravan",
+        "Serie Name": "Caravan Gen 3",
+        "Years": "1996 - 2000",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Minivan",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L - 3.8L",
+          "isOldtimer": true,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Caravan (3. gen) wprowadził opływowe kształty i drugie drzwi przesuwne, rewolucjonizując rynek.",
+              "en": "Dodge Caravan (3rd generation) introduced streamlined shapes and second sliding doors, revolutionizing the market.",
+              "de": "Der Dodge Caravan (3. Generation) führte stromlinienförmige Formen und zweite Schiebetüren ein und revolutionierte damit den Markt.",
+              "uk": "Dodge Caravan (3-е покоління) представив обтічні форми та другі розсувні двері, зробивши революцію на ринку.",
+              "ru": "Dodge Caravan (3-е поколение) представил обтекаемые формы и вторые раздвижные двери, произведя революцию на рынке.",
+              "zh": "道奇 Caravan（第三代）推出流线型造型和第二个滑动门，彻底改变了市场。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "1996–2000",
+              "miejsce produkcji": {
+                "pl": "Windsor, Kanada",
+                "en": "Windsor, Canada",
+                "de": "Windsor, Kanada",
+                "uk": "Віндзор, Канада",
+                "ru": "Виндзор, Канада",
+                "zh": "加拿大温莎"
+              },
+              "platforma": {
+                "pl": "Chrysler NS",
+                "en": "Chrysler NS",
+                "de": "Chrysler NS",
+                "uk": "Chrysler NS",
+                "ru": "Крайслер НС",
+                "zh": "克莱斯勒 NS"
+              },
+              "silnik": {
+                "pl": "2.4L - 3.8L V6",
+                "en": "2.4L - 3.8L V6",
+                "de": "2,4 l – 3,8 l V6",
+                "uk": "2,4 л - 3,8 л V6",
+                "ru": "2,4–3,8 л V6",
+                "zh": "2.4L - 3.8L V6"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dodge_Caravan_SE_2.5_Turbo_1989_%2815470607321%29.jpg/1280px-Dodge_Caravan_SE_2.5_Turbo_1989_%2815470607321%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dodge_Caravan_SE_2.5_Turbo_1989_%2815470607321%29.jpg/1280px-Dodge_Caravan_SE_2.5_Turbo_1989_%2815470607321%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/87-90_Dodge_Grand_Caravan.jpg/1280px-87-90_Dodge_Grand_Caravan.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/f/f6/OldDodgeVan.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2nd_Dodge_Grand_Caravan.jpg/1280px-2nd_Dodge_Grand_Caravan.jpg"
+            ]
+          }
+        }
+      },
+      {
+        "BrandID": 40,
+        "ModelID": 413110,
+        "Brand Name": "Dodge",
+        "Model Name": "Caravan",
+        "Serie Name": "Caravan Gen 4",
+        "Years": "2001 - 2007",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Minivan",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L - 3.8L",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Caravan (4. gen) kontynuował sukces poprzedników, będąc jednym z najpopularniejszych minivanów w USA.",
+              "en": "The Dodge Caravan (4th generation) continued the success of its predecessors, being one of the most popular minivans in the USA.",
+              "de": "Der Dodge Caravan (4. Generation) setzte den Erfolg seiner Vorgänger fort und war einer der beliebtesten Minivans in den USA.",
+              "uk": "Dodge Caravan (4 покоління) продовжив успіх своїх попередників, ставши одним з найпопулярніших мінівенів в США.",
+              "ru": "Dodge Caravan (4-е поколение) продолжил успех своих предшественников, став одним из самых популярных минивэнов в США.",
+              "zh": "道奇 Caravan（第四代）延续了其前辈的成功，成为美国最受欢迎的小型货车之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "2001–2007",
+              "miejsce produkcji": {
+                "pl": "Windsor, Kanada",
+                "en": "Windsor, Canada",
+                "de": "Windsor, Kanada",
+                "uk": "Віндзор, Канада",
+                "ru": "Виндзор, Канада",
+                "zh": "加拿大温莎"
+              },
+              "platforma": {
+                "pl": "Chrysler RS",
+                "en": "Chrysler RS",
+                "de": "Chrysler RS",
+                "uk": "Chrysler RS",
+                "ru": "Крайслер РС",
+                "zh": "克莱斯勒 RS"
+              },
+              "silnik": {
+                "pl": "2.4L - 3.8L V6",
+                "en": "2.4L - 3.8L V6",
+                "de": "2,4 l – 3,8 l V6",
+                "uk": "2,4 л - 3,8 л V6",
+                "ru": "2,4–3,8 л V6",
+                "zh": "2.4L - 3.8L V6"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dodge_Caravan_SE_2.5_Turbo_1989_%2815470607321%29.jpg/1280px-Dodge_Caravan_SE_2.5_Turbo_1989_%2815470607321%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dodge_Caravan_SE_2.5_Turbo_1989_%2815470607321%29.jpg/1280px-Dodge_Caravan_SE_2.5_Turbo_1989_%2815470607321%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/87-90_Dodge_Grand_Caravan.jpg/1280px-87-90_Dodge_Grand_Caravan.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/f/f6/OldDodgeVan.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2nd_Dodge_Grand_Caravan.jpg/1280px-2nd_Dodge_Grand_Caravan.jpg"
+            ]
+          }
+        }
+      }
+    ],
+    "Challenger": [
+      {
+        "BrandID": 40,
+        "ModelID": 416760,
+        "Brand Name": "Dodge",
+        "Model Name": "Challenger",
+        "Serie Name": "Challenger (Classic)",
+        "Years": "1970 - 1974",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Muscle Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "V8 Hemi / I6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Challenger (1. gen) to ikona muscle carów, rywal Mustanga i Camaro, znany z potężnych silników HEMI.",
+              "en": "The Dodge Challenger (1st gen) is a muscle car icon, a rival to the Mustang and Camaro, known for its powerful HEMI engines.",
+              "de": "Der Dodge Challenger (1. Generation) ist eine Muscle-Car-Ikone, ein Konkurrent des Mustang und Camaro, bekannt für seine leistungsstarken HEMI-Motoren.",
+              "uk": "Dodge Challenger (1-го покоління) — ікона масл-кара, суперник Mustang і Camaro, відомий своїми потужними двигунами HEMI.",
+              "ru": "Dodge Challenger (1-го поколения) — культовый маслкар, конкурент Mustang и Camaro, известный своими мощными двигателями HEMI.",
+              "zh": "道奇挑战者（第一代）是肌肉车的标志，是野马和科迈罗的竞争对手，以其强大的 HEMI 发动机而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "1970–1974",
+              "miejsce produkcji": {
+                "pl": "Hamtramck, USA",
+                "en": "Hamtramck, USA",
+                "de": "Hamtramck, USA",
+                "uk": "Hamtramck, США",
+                "ru": "Хамтрамк, США",
+                "zh": "美国 Hamtramck"
+              },
+              "platforma": {
+                "pl": "Chrysler E",
+                "en": "Chrysler E",
+                "de": "Chrysler E",
+                "uk": "Chrysler E",
+                "ru": "Chrysler E",
+                "zh": "克莱斯勒 E"
+              },
+              "silnik": {
+                "pl": "3.2L I6 - 7.0L Hemi V8",
+                "en": "3.2L I6 - 7.0L Hemi V8",
+                "de": "3.2L I6 - 7.0L Hemi V8",
+                "uk": "3.2L I6 - 7.0L Hemi V8",
+                "ru": "3,2 л I6 — 7,0 л Hemi V8",
+                "zh": "3.2L I6 - 7.0L Hemi V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Dodge_Challenger_1971_RT_LRear_Lake_Mirror_Cassic_16Oct2010_%2814690577110%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/4/47/Dodge_Challenger_1971_RT_LRear_Lake_Mirror_Cassic_16Oct2010_%2814690577110%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/1973_Dodge_Challenger_%2826663107492%29.jpg/1280px-1973_Dodge_Challenger_%2826663107492%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/1973_Dodge_Challenger_%2826483672520%29.jpg/1280px-1973_Dodge_Challenger_%2826483672520%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/1981_Dodge_Challenger_X%2C_rear_left.jpg/1280px-1981_Dodge_Challenger_X%2C_rear_left.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7u/z2/t4hp4u80gscsc8o0sws48/challenger-3.310.jpg"
+        }
+      },
+      {
+        "BrandID": 40,
+        "ModelID": 413112,
+        "Brand Name": "Dodge",
+        "Model Name": "Challenger",
+        "Serie Name": "Challenger (Modern)",
+        "Years": "2008 - 2023",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Muscle Car",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L / 3.6L / 5.7L / 6.1L / 6.2L / 6.4L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Challenger (3. gen) to współczesne wcielenie legendy, wierne stylistyce retro, z potężnymi wersjami Hellcat i Demon.",
+              "en": "Dodge Challenger (3rd gen) is a modern incarnation of the legend, faithful to retro styling, with powerful Hellcat and Demon versions.",
+              "de": "Dodge Challenger (3. Generation) ist eine moderne Inkarnation der Legende, getreu dem Retro-Stil, mit leistungsstarken Hellcat- und Demon-Versionen.",
+              "uk": "Dodge Challenger (3-е покоління) — це сучасне втілення легенди, вірне ретро-стилю, з потужними версіями Hellcat і Demon.",
+              "ru": "Dodge Challenger (3-го поколения) — современное воплощение легенды, верное ретро-стилю, с мощными версиями Hellcat и Demon.",
+              "zh": "道奇挑战者（第 3 代）是传奇人物的现代化身，忠实于复古造型，拥有强大的 Hellcat 和 Demon 版本。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "2008–2023",
+              "miejsce produkcji": {
+                "pl": "Brampton, Kanada",
+                "en": "Brampton, Canada",
+                "de": "Brampton, Kanada",
+                "uk": "Бремптон, Канада",
+                "ru": "Брамптон, Канада",
+                "zh": "加拿大布兰普顿"
+              },
+              "platforma": {
+                "pl": "Chrysler LA",
+                "en": "Chrysler LA",
+                "de": "Chrysler LA",
+                "uk": "Chrysler LA",
+                "ru": "Chrysler LA",
+                "zh": "克莱斯勒 LA"
+              },
+              "silnik": {
+                "pl": "3.6L V6 - 6.2L Hemi V8 SC",
+                "en": "3.6L V6 - 6.2L Hemi V8 SC",
+                "de": "3,6 l V6 – 6,2 l Hemi V8 SC",
+                "uk": "3.6L V6 - 6.2L Hemi V8 SC",
+                "ru": "3.6L V6 — 6.2L Hemi V8 SC",
+                "zh": "3.6L V6 - 6.2L Hemi V8 SC"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Dodge_Challenger_1971_RT_LRear_Lake_Mirror_Cassic_16Oct2010_%2814690577110%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/4/47/Dodge_Challenger_1971_RT_LRear_Lake_Mirror_Cassic_16Oct2010_%2814690577110%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/1973_Dodge_Challenger_%2826663107492%29.jpg/1280px-1973_Dodge_Challenger_%2826663107492%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/1973_Dodge_Challenger_%2826483672520%29.jpg/1280px-1973_Dodge_Challenger_%2826483672520%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/1981_Dodge_Challenger_X%2C_rear_left.jpg/1280px-1981_Dodge_Challenger_X%2C_rear_left.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7u/z2/t4hp4u80gscsc8o0sws48/challenger-3.310.jpg"
+        }
+      }
+    ],
+    "Charger": [
+      {
+        "BrandID": 40,
+        "ModelID": 416761,
+        "Brand Name": "Dodge",
+        "Model Name": "Charger",
+        "Serie Name": "Charger (Classic)",
+        "Years": "1966 - 1978",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Muscle Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "V8 Hemi / V8 Magnum / I6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Charger (Classic) to jeden z najsłynniejszych muscle carów, gwiazda kina (Bullitt, Diukowie Hazzardu).",
+              "en": "Dodge Charger (Classic) is one of the most famous muscle cars, a movie star (Bullitt, Dukes of Hazzard).",
+              "de": "Dodge Charger (Classic) ist eines der berühmtesten Muscle-Cars, ein Filmstar (Bullitt, Dukes of Hazzard).",
+              "uk": "Dodge Charger (Classic) — один із найвідоміших масл-карів, кінозірка (Буллітт, Герцоги Хаззарда).",
+              "ru": "Dodge Charger (Classic) — один из самых известных маслкаров, кинозвезда (Буллит, Придурки из Хаззарда).",
+              "zh": "道奇 Charger（经典）是最著名的肌肉车之一，电影明星（布利特、哈扎德公爵）。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "1966–1978",
+              "miejsce produkcji": {
+                "pl": "Hamtramck, USA",
+                "en": "Hamtramck, USA",
+                "de": "Hamtramck, USA",
+                "uk": "Hamtramck, США",
+                "ru": "Хамтрамк, США",
+                "zh": "Hamtramck，美国"
+              },
+              "platforma": {
+                "pl": "Chrysler B",
+                "en": "Chrysler B",
+                "de": "Chrysler B",
+                "uk": "Chrysler B",
+                "ru": "Chrysler B",
+                "zh": "克莱斯勒 B"
+              },
+              "silnik": {
+                "pl": "5.2L - 7.2L V8",
+                "en": "5.2L - 7.2L V8",
+                "de": "5,2 l – 7,2 l V8",
+                "uk": "5.2L - 7.2L V8",
+                "ru": "5,2–7,2 л V8",
+                "zh": "5.2L - 7.2L V8"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cy/nh/faox0eo8owws0sgsg44oo/charger-2010.310.jpg"
+        }
+      },
+      {
+        "BrandID": 40,
+        "ModelID": 413113,
+        "Brand Name": "Dodge",
+        "Model Name": "Charger",
+        "Serie Name": "Charger (LX)",
+        "Years": "2006 - 2010",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Sedan",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.7L / 3.5L / 5.7L / 6.1L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Charger (LX) powrócił jako czterodrzwiowy sedan o agresywnej stylistyce, łączący osiągi z funkcjonalnością.",
+              "en": "The Dodge Charger (LX) returns as a four-door sedan with aggressive styling that combines performance with functionality.",
+              "de": "Der Dodge Charger (LX) kehrt als viertürige Limousine mit aggressivem Design zurück, die Leistung mit Funktionalität verbindet.",
+              "uk": "Dodge Charger (LX) повертається як чотиридверний седан з агресивним стилем, який поєднує продуктивність із функціональністю.",
+              "ru": "Dodge Charger (LX) возвращается в виде четырехдверного седана с агрессивным стилем, сочетающим в себе производительность и функциональность.",
+              "zh": "道奇 Charger (LX) 作为一款四门轿车回归，造型激进，将性能与功能融为一体。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "2006–2010",
+              "miejsce produkcji": {
+                "pl": "Brampton, Kanada",
+                "en": "Brampton, Canada",
+                "de": "Brampton, Kanada",
+                "uk": "Бремптон, Канада",
+                "ru": "Брамптон, Канада",
+                "zh": "加拿大布兰普顿"
+              },
+              "platforma": {
+                "pl": "Chrysler LX",
+                "en": "Chrysler LX",
+                "de": "Chrysler LX",
+                "uk": "Chrysler LX",
+                "ru": "Chrysler LX",
+                "zh": "克莱斯勒 LX"
+              },
+              "silnik": {
+                "pl": "2.7L V6 - 6.1L Hemi V8",
+                "en": "2.7L V6 - 6.1L Hemi V8",
+                "de": "2,7 l V6 – 6,1 l Hemi V8",
+                "uk": "2,7 л V6 - 6,1 л Hemi V8",
+                "ru": "2,7 л V6 — 6,1 л Hemi V8",
+                "zh": "2.7L V6 - 6.1L Hemi V8"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cy/nh/faox0eo8owws0sgsg44oo/charger-2010.310.jpg"
+        }
+      },
+      {
+        "BrandID": 40,
+        "ModelID": 413114,
+        "Brand Name": "Dodge",
+        "Model Name": "Charger",
+        "Serie Name": "Charger (LD)",
+        "Years": "2011 - 2023",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Sedan",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.6L / 5.7L / 6.2L / 6.4L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Dodge Charger (LD) to zmodernizowana wersja sedana, z charakterystycznymi tylnymi światłami LED 'Racetrack' i wersją Hellcat.",
+              "en": "The Dodge Charger (LD) is an updated version of the sedan, with distinctive 'Racetrack' LED taillights and a Hellcat version.",
+              "de": "Der Dodge Charger (LD) ist eine aktualisierte Version der Limousine mit markanten „Racetrack“-LED-Rücklichtern und einer Hellcat-Version.",
+              "uk": "Dodge Charger (LD) — це оновлена ​​версія седана з характерними світлодіодними задніми ліхтарями Racetrack і версією Hellcat.",
+              "ru": "Dodge Charger (LD) — это обновленная версия седана с характерными светодиодными задними фонарями Racetrack и версией Hellcat.",
+              "zh": "Dodge Charger (LD) 是轿车的更新版本，具有独特的“Racetrack”LED 尾灯和 Hellcat 版本。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "2011–2023",
+              "miejsce produkcji": {
+                "pl": "Brampton, Kanada",
+                "en": "Brampton, Canada",
+                "de": "Brampton, Kanada",
+                "uk": "Бремптон, Канада",
+                "ru": "Брамптон, Канада",
+                "zh": "加拿大布兰普顿"
+              },
+              "platforma": {
+                "pl": "Chrysler LD",
+                "en": "Chrysler LD",
+                "de": "Chrysler LD",
+                "uk": "Chrysler LD",
+                "ru": "Chrysler LD",
+                "zh": "克莱斯勒 LD"
+              },
+              "silnik": {
+                "pl": "3.6L V6 - 6.2L Hemi V8 SC",
+                "en": "3.6L V6 - 6.2L Hemi V8 SC",
+                "de": "3,6 l V6 – 6,2 l Hemi V8 SC",
+                "uk": "3,6 л V6 - 6,2 л Hemi V8 SC",
+                "ru": "3,6 л V6 — 6,2 л Hemi V8 SC",
+                "zh": "3.6L V6 - 6.2L Hemi V8 SC"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cy/nh/faox0eo8owws0sgsg44oo/charger-2010.310.jpg"
+        }
+      }
+    ],
+    "Dakota": [
+      {
+        "BrandID": 40,
+        "ModelID": 414127,
+        "Brand Name": "Dodge",
+        "Model Name": "Dakota",
+        "Serie Name": "Dakota Gen 1-2",
+        "Years": "1987 - 2004",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Mid-size Pickup",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline",
+          "engine": "2.5L - 5.9L V8",
+          "isOldtimer": true,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Dakota to pierwszy średniej wielkości pickup z opcjonalnym silnikiem V8, łączący ładowność z osiągami.",
+              "en": "The Dodge Dakota is the first mid-size pickup with an optional V8 engine, combining cargo capacity with performance.",
+              "de": "Der Dodge Dakota ist der erste mittelgroße Pickup mit einem optionalen V8-Motor, der Ladekapazität mit Leistung kombiniert.",
+              "uk": "Dodge Dakota — це перший пікап середнього розміру з додатковим двигуном V8, який поєднує вантажопідйомність із потужністю.",
+              "ru": "Dodge Dakota — это первый пикап среднего размера с дополнительным двигателем V8, сочетающий в себе грузоподъемность и производительность.",
+              "zh": "道奇 Dakota 是首款配备可选 V8 发动机的中型皮卡，将载货能力与性能融为一体。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "1987–2004",
+              "miejsce produkcji": {
+                "pl": "Warren, USA",
+                "en": "Warren, USA",
+                "de": "Warren, USA",
+                "uk": "Warren, США",
+                "ru": "Уоррен, США",
+                "zh": "美国沃伦"
+              },
+              "platforma": {
+                "pl": "Chrysler N",
+                "en": "Chrysler N",
+                "de": "Chrysler N",
+                "uk": "Chrysler N",
+                "ru": "Chrysler N",
+                "zh": "克莱斯勒 N"
+              },
+              "silnik": {
+                "pl": "2.5L - 5.9L V8",
+                "en": "2.5L - 5.9L V8",
+                "de": "2,5L – 5,9L V8",
+                "uk": "2.5L - 5.9L V8",
+                "ru": "2,5 л — 5,9 л V8",
+                "zh": "2.5L - 5.9L V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/1990_Dodge_Dakota_LE_3.9_rear.jpg/1280px-1990_Dodge_Dakota_LE_3.9_rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/1990_Dodge_Dakota_LE_3.9_rear.jpg/1280px-1990_Dodge_Dakota_LE_3.9_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/1/13/Dodge_Dakota_1994_SLT.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Yvdak_2b_%2826824959400%29.jpg/1280px-Yvdak_2b_%2826824959400%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/%2797-%2799_Dodge_Dakota_Sport_Regular_Cab_V6.JPG/1280px-%2797-%2799_Dodge_Dakota_Sport_Regular_Cab_V6.JPG"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1c/tn/rfawpvusc08ooww4gco80/dakota4.310.jpg"
+        }
+      },
+      {
+        "BrandID": 40,
+        "ModelID": 414128,
+        "Brand Name": "Dodge",
+        "Model Name": "Dakota",
+        "Serie Name": "Dakota Gen 3",
+        "Years": "2005 - 2011",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Mid-size Pickup",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline",
+          "engine": "3.7L V6 / 4.7L V8",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Dakota (3. gen) stała się większa i bardziej kanciasta, dzieląc platformę z modelem Durango.",
+              "en": "Dodge Dakota (3rd generation) became larger and more angular, sharing the platform with the Durango model.",
+              "de": "Dodge Dakota (3. Generation) wurde größer und kantiger und teilte sich die Plattform mit dem Durango-Modell.",
+              "uk": "Dodge Dakota (3-е покоління) став більшим і кутастішим, розділивши платформу з моделлю Durango.",
+              "ru": "Dodge Dakota (3-е поколение) стал крупнее и угловатее, разделив платформу с моделью Durango.",
+              "zh": "道奇 Dakota（第三代）变得更大、更有棱角，与 Durango 车型共享平台。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "2005–2011",
+              "miejsce produkcji": {
+                "pl": "Warren, USA",
+                "en": "Warren, USA",
+                "de": "Warren, USA",
+                "uk": "Уоррен, США",
+                "ru": "Уоррен, США",
+                "zh": "沃伦，美国"
+              },
+              "platforma": {
+                "pl": "Chrysler ND",
+                "en": "Chrysler ND",
+                "de": "Chrysler ND",
+                "uk": "Chrysler ND",
+                "ru": "Chrysler ND",
+                "zh": "克莱斯勒 ND"
+              },
+              "silnik": {
+                "pl": "3.7L V6 - 4.7L V8",
+                "en": "3.7L V6 - 4.7L V8",
+                "de": "3,7L V6 - 4,7L V8",
+                "uk": "3,7 л V6 - 4,7 л V8",
+                "ru": "3,7 л V6 — 4,7 л V8",
+                "zh": "3.7L V6 - 4.7L V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/1990_Dodge_Dakota_LE_3.9_rear.jpg/1280px-1990_Dodge_Dakota_LE_3.9_rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/1990_Dodge_Dakota_LE_3.9_rear.jpg/1280px-1990_Dodge_Dakota_LE_3.9_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/1/13/Dodge_Dakota_1994_SLT.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Yvdak_2b_%2826824959400%29.jpg/1280px-Yvdak_2b_%2826824959400%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/%2797-%2799_Dodge_Dakota_Sport_Regular_Cab_V6.JPG/1280px-%2797-%2799_Dodge_Dakota_Sport_Regular_Cab_V6.JPG"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1c/tn/rfawpvusc08ooww4gco80/dakota4.310.jpg"
+        }
+      }
+    ],
+    "Dart": [
+      {
+        "BrandID": 40,
+        "ModelID": 416762,
+        "Brand Name": "Dodge",
+        "Model Name": "Dart",
+        "Serie Name": "Dart (Classic)",
+        "Years": "1960 - 1976",
+        "specs": {
+          "bodyType": "Sedan/Coupe/Wagon",
+          "segment": "Compact",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "I6 / V8",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Dart (Classic) to niezwykle trwały i popularny kompakt lat 60. i 70., dostępny w wielu wersjach nadwoziowych.",
+              "en": "Dodge Dart (Classic) is an extremely durable and popular compact car of the 1960s and 1970s, available in many body styles.",
+              "de": "Dodge Dart (Classic) ist ein äußerst langlebiger und beliebter Kompaktwagen der 1960er und 1970er Jahre, der in vielen Karosserievarianten erhältlich ist.",
+              "uk": "Dodge Dart (Classic) — надзвичайно міцний і популярний компактний автомобіль 1960-х і 1970-х років, доступний у багатьох варіантах кузова.",
+              "ru": "Dodge Dart (Classic) — чрезвычайно прочный и популярный компактный автомобиль 1960-х и 1970-х годов, доступный во многих вариантах кузова.",
+              "zh": "Dodge Dart（经典）是 20 世纪 60 年代和 1970 年代一款极其耐用且流行的紧凑型汽车，有多种车身样式可供选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "1960–1976",
+              "miejsce produkcji": {
+                "pl": "Hamtramck, USA",
+                "en": "Hamtramck, USA",
+                "de": "Hamtramck, USA",
+                "uk": "Hamtramck, США",
+                "ru": "Хамтрамк, США",
+                "zh": "Hamtramck，美国"
+              },
+              "platforma": {
+                "pl": "Chrysler A",
+                "en": "Chrysler A",
+                "de": "Chrysler A",
+                "uk": "Chrysler A",
+                "ru": "Chrysler A",
+                "zh": "克莱斯勒 A"
+              },
+              "silnik": {
+                "pl": "2.8L I6 - 7.2L V8",
+                "en": "2.8L I6 - 7.2L V8",
+                "de": "2,8 l I6 – 7,2 l V8",
+                "uk": "2.8L I6 - 7.2L V8",
+                "ru": "2,8 л I6 — 7,2 л V8",
+                "zh": "2.8L I6 - 7.2L V8"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 40,
+        "ModelID": 414129,
+        "Brand Name": "Dodge",
+        "Model Name": "Dart",
+        "Serie Name": "Dart (PF)",
+        "Years": "2013 - 2016",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.4L Turbo / 2.0L / 2.4L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Dodge Dart (PF) to nowoczesny sedan oparty na Alfie Romeo Giulietta, próbujący wskrzesić legendarną nazwę.",
+              "en": "Dodge Dart (PF) is a modern sedan based on the Alfa Romeo Giulietta, trying to resurrect the legendary name.",
+              "de": "Dodge Dart (PF) ist eine moderne Limousine auf Basis des Alfa Romeo Giulietta, die versucht, den legendären Namen wiederzubeleben.",
+              "uk": "Dodge Dart (PF) — сучасний седан на базі Alfa Romeo Giulietta, який намагається воскресити легендарну назву.",
+              "ru": "Dodge Dart (PF) — современный седан на базе Alfa Romeo Giulietta, пытающийся возродить легендарное имя.",
+              "zh": "道奇 Dart (PF) 是一款基于阿尔法罗密欧 Giulietta 的现代轿车，试图复活这个传奇名字。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "2013–2016",
+              "miejsce produkcji": {
+                "pl": "Belvidere, USA",
+                "en": "Belvidere, USA",
+                "de": "Belvidere, USA",
+                "uk": "Belvidere, США",
+                "ru": "Белвидер, США",
+                "zh": "美国 Belvidere"
+              },
+              "platforma": {
+                "pl": "Fiat Compact",
+                "en": "Fiat Compact",
+                "de": "Fiat Compact",
+                "uk": "Fiat Compact",
+                "ru": "Fiat Compact",
+                "zh": "菲亚特紧凑型"
+              },
+              "silnik": {
+                "pl": "1.4L Turbo - 2.4L",
+                "en": "1.4L Turbo - 2.4L",
+                "de": "1,4 l Turbo – 2,4 l",
+                "uk": "1.4L Turbo - 2.4L",
+                "ru": "1,4 л Turbo — 2,4 л",
+                "zh": "1.4L 涡轮增压 - 2.4L"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Durango": [
+      {
+        "BrandID": 40,
+        "ModelID": 413116,
+        "Brand Name": "Dodge",
+        "Model Name": "Durango",
+        "Serie Name": "Durango Gen 1",
+        "Years": "1998 - 2003",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline",
+          "engine": "3.9L - 5.9L V8",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Durango (1. gen) to SUV oparty na pickupie Dakota, oferujący 7 miejsc i potężne silniki V8.",
+              "en": "Dodge Durango (1st generation) is an SUV based on the Dakota pickup, offering 7 seats and powerful V8 engines.",
+              "de": "Dodge Durango (1. Generation) ist ein SUV auf Basis des Dakota-Pickups mit 7 Sitzen und leistungsstarken V8-Motoren.",
+              "uk": "Dodge Durango (1-го покоління) — це позашляховик на базі пікапа Dakota, який пропонує 7 місць і потужні двигуни V8.",
+              "ru": "Dodge Durango (1-го поколения) — внедорожник на базе пикапа Dakota, предлагающий 7 мест и мощные двигатели V8.",
+              "zh": "道奇 Durango（第一代）是一款基于 Dakota 皮卡的 SUV，提供 7 个座位和强大的 V8 发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "1998–2003",
+              "miejsce produkcji": {
+                "pl": "Newark, USA",
+                "en": "Newark, USA",
+                "de": "Newark, USA",
+                "uk": "Ньюарк, США",
+                "ru": "Ньюарк, США",
+                "zh": "美国纽瓦克"
+              },
+              "platforma": {
+                "pl": "Chrysler DN",
+                "en": "Chrysler DN",
+                "de": "Chrysler DN",
+                "uk": "Chrysler DN",
+                "ru": "Chrysler DN",
+                "zh": "克莱斯勒 DN"
+              },
+              "silnik": {
+                "pl": "3.9L V6 - 5.9L V8",
+                "en": "3.9L V6 - 5.9L V8",
+                "de": "3,9 l V6 – 5,9 l V8",
+                "uk": "3,9 л V6 - 5,9 л V8",
+                "ru": "3,9 л V6 – 5,9 л V8",
+                "zh": "3.9L V6 - 5.9L V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/2001_Dodge_Durango_Sport_--_NHTSA_02.jpg/1280px-2001_Dodge_Durango_Sport_--_NHTSA_02.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/2001_Dodge_Durango_Sport_--_NHTSA_02.jpg/1280px-2001_Dodge_Durango_Sport_--_NHTSA_02.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/2003_dodge_durango_rt_001.jpg/1280px-2003_dodge_durango_rt_001.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Dodge_Durango_SLT_%28II%2C_Facelift%29_%E2%80%93_h_19042021.jpg/1280px-Dodge_Durango_SLT_%28II%2C_Facelift%29_%E2%80%93_h_19042021.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dodge_Durango_SLT_%28II%2C_Facelift%29_%E2%80%93_f_19042021.jpg/1280px-Dodge_Durango_SLT_%28II%2C_Facelift%29_%E2%80%93_f_19042021.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7s/cg/ka4hk7ksso4wgkswwoo4g/durango2.310.jpg"
+        }
+      },
+      {
+        "BrandID": 40,
+        "ModelID": 413117,
+        "Brand Name": "Dodge",
+        "Model Name": "Durango",
+        "Serie Name": "Durango Gen 2",
+        "Years": "2004 - 2009",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.7L - 5.7L Hemi V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Durango (2. gen) urósł do rozmiarów full-size, oferując silnik HEMI i luksusowe wyposażenie.",
+              "en": "The Dodge Durango (2nd gen) has grown to full-size size, offering a HEMI engine and luxury features.",
+              "de": "Der Dodge Durango (2. Generation) ist zur Originalgröße gewachsen und bietet einen HEMI-Motor und Luxusfunktionen.",
+              "uk": "Dodge Durango (2-го покоління) виріс до повнорозмірного розміру, пропонуючи двигун HEMI та розкішні функції.",
+              "ru": "Dodge Durango (2-го поколения) вырос до полноразмерных размеров, предлагая двигатель HEMI и роскошные функции.",
+              "zh": "道奇 Durango（第二代）已发展到全尺寸，提供 HEMI 发动机和豪华功能。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "2004–2009",
+              "miejsce produkcji": {
+                "pl": "Newark, USA",
+                "en": "Newark, USA",
+                "de": "Newark, USA",
+                "uk": "Ньюарк, США",
+                "ru": "Ньюарк, США",
+                "zh": "美国纽瓦克"
+              },
+              "platforma": {
+                "pl": "Chrysler HB",
+                "en": "Chrysler HB",
+                "de": "Chrysler HB",
+                "uk": "Chrysler HB",
+                "ru": "Chrysler HB",
+                "zh": "克莱斯勒 HB"
+              },
+              "silnik": {
+                "pl": "3.7L V6 - 5.7L Hemi V8",
+                "en": "3.7L V6 - 5.7L Hemi V8",
+                "de": "3,7L V6 – 5,7L Hemi V8",
+                "uk": "3,7 л V6 - 5,7 л Hemi V8",
+                "ru": "3,7 л V6 — 5,7 л Hemi V8",
+                "zh": "3.7L V6 - 5.7L Hemi V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/2001_Dodge_Durango_Sport_--_NHTSA_02.jpg/1280px-2001_Dodge_Durango_Sport_--_NHTSA_02.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/2001_Dodge_Durango_Sport_--_NHTSA_02.jpg/1280px-2001_Dodge_Durango_Sport_--_NHTSA_02.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/2003_dodge_durango_rt_001.jpg/1280px-2003_dodge_durango_rt_001.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Dodge_Durango_SLT_%28II%2C_Facelift%29_%E2%80%93_h_19042021.jpg/1280px-Dodge_Durango_SLT_%28II%2C_Facelift%29_%E2%80%93_h_19042021.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dodge_Durango_SLT_%28II%2C_Facelift%29_%E2%80%93_f_19042021.jpg/1280px-Dodge_Durango_SLT_%28II%2C_Facelift%29_%E2%80%93_f_19042021.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7s/cg/ka4hk7ksso4wgkswwoo4g/durango2.310.jpg"
+        }
+      },
+      {
+        "BrandID": 40,
+        "ModelID": 413118,
+        "Brand Name": "Dodge",
+        "Model Name": "Durango",
+        "Serie Name": "Durango Gen 3",
+        "Years": "2011 - 2024",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.6L V6 / 5.7L / 6.4L / 6.2L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Dodge Durango (3. gen) dzieli platformę z Jeepem Grand Cherokee, łącząc sportowe właściwości jezdne z praktycznością.",
+              "en": "Dodge Durango (3rd gen) shares its platform with the Jeep Grand Cherokee, combining sporty driving characteristics with practicality.",
+              "de": "Dodge Durango (3. Generation) teilt seine Plattform mit dem Jeep Grand Cherokee und kombiniert sportliche Fahreigenschaften mit Praktikabilität.",
+              "uk": "Dodge Durango (3-го покоління) має спільну платформу з Jeep Grand Cherokee, поєднуючи спортивні характеристики водіння з практичністю.",
+              "ru": "Dodge Durango (3-го поколения) разделяет платформу с Jeep Grand Cherokee, сочетая спортивные ходовые качества с практичностью.",
+              "zh": "道奇 Durango（第三代）与吉普大切诺基共享平台，将运动驾驶特性与实用性结合在一起。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": {
+                "pl": "od 2011",
+                "en": "from 2011",
+                "de": "ab 2011",
+                "uk": "з 2011 року",
+                "ru": "с 2011 г.",
+                "zh": "2011 年生产"
+              },
+              "miejsce produkcji": {
+                "pl": "Detroit, USA",
+                "en": "Detroit, USA",
+                "de": "Detroit, USA",
+                "uk": "Детройт, США",
+                "ru": "Детройт, США",
+                "zh": "美国底特律"
+              },
+              "platforma": {
+                "pl": "Chrysler WD",
+                "en": "Chrysler WD",
+                "de": "Chrysler WD",
+                "uk": "Chrysler WD",
+                "ru": "Chrysler WD",
+                "zh": "克莱斯勒 WD"
+              },
+              "silnik": {
+                "pl": "3.6L V6 - 6.2L Hemi V8",
+                "en": "3.6L V6 - 6.2L Hemi V8",
+                "de": "3,6 l V6 – 6,2 l Hemi V8",
+                "uk": "3,6 л V6 - 6,2 л Hemi V8",
+                "ru": "3,6 л V6 — 6,2 л Hemi V8",
+                "zh": "3.6L V6 - 6.2L Hemi V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/2001_Dodge_Durango_Sport_--_NHTSA_02.jpg/1280px-2001_Dodge_Durango_Sport_--_NHTSA_02.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/2001_Dodge_Durango_Sport_--_NHTSA_02.jpg/1280px-2001_Dodge_Durango_Sport_--_NHTSA_02.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/2003_dodge_durango_rt_001.jpg/1280px-2003_dodge_durango_rt_001.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Dodge_Durango_SLT_%28II%2C_Facelift%29_%E2%80%93_h_19042021.jpg/1280px-Dodge_Durango_SLT_%28II%2C_Facelift%29_%E2%80%93_h_19042021.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dodge_Durango_SLT_%28II%2C_Facelift%29_%E2%80%93_f_19042021.jpg/1280px-Dodge_Durango_SLT_%28II%2C_Facelift%29_%E2%80%93_f_19042021.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7s/cg/ka4hk7ksso4wgkswwoo4g/durango2.310.jpg"
+        }
+      }
+    ],
+    "Grand Caravan": [
+      {
+        "BrandID": 40,
+        "ModelID": 413119,
+        "Brand Name": "Dodge",
+        "Model Name": "Grand Caravan",
+        "Serie Name": "Grand Caravan Gen 3-4",
+        "Years": "1996 - 2007",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Minivan",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L - 3.8L",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Grand Caravan to przedłużona wersja Caravana, oferująca jeszcze więcej miejsca i system Stow'n Go.",
+              "en": "Dodge Grand Caravan is an extended version of the Caravan, offering even more space and the Stow'n Go system.",
+              "de": "Dodge Grand Caravan ist eine erweiterte Version des Caravan, die noch mehr Platz und das Stow'n Go-System bietet.",
+              "uk": "Dodge Grand Caravan — це розширена версія Caravan, що пропонує ще більше простору та систему Stow'n Go.",
+              "ru": "Dodge Grand Caravan — это расширенная версия Caravan, предлагающая еще больше места и систему Stow'n Go.",
+              "zh": "道奇 Grand Caravan 是 Caravan 的加长版，提供更多空间和 Stow'n Go 系统。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "1996–2007",
+              "miejsce produkcji": {
+                "pl": "Windsor, Kanada",
+                "en": "Windsor, Canada",
+                "de": "Windsor, Kanada",
+                "uk": "Віндзор, Канада",
+                "ru": "Виндзор, Канада",
+                "zh": "加拿大温莎"
+              },
+              "platforma": {
+                "pl": "Chrysler RS",
+                "en": "Chrysler RS",
+                "de": "Chrysler RS",
+                "uk": "Chrysler RS",
+                "ru": "Крайслер РС",
+                "zh": "克莱斯勒 RS"
+              },
+              "silnik": {
+                "pl": "2.4L - 3.8L V6",
+                "en": "2.4L - 3.8L V6",
+                "de": "2,4 l – 3,8 l V6",
+                "uk": "2,4 л - 3,8 л V6",
+                "ru": "2,4–3,8 л V6",
+                "zh": "2.4L - 3.8L V6"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dodge_Caravan_SE_2.5_Turbo_1989_%2815470607321%29.jpg/1280px-Dodge_Caravan_SE_2.5_Turbo_1989_%2815470607321%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dodge_Caravan_SE_2.5_Turbo_1989_%2815470607321%29.jpg/1280px-Dodge_Caravan_SE_2.5_Turbo_1989_%2815470607321%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/87-90_Dodge_Grand_Caravan.jpg/1280px-87-90_Dodge_Grand_Caravan.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/f/f6/OldDodgeVan.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2nd_Dodge_Grand_Caravan.jpg/1280px-2nd_Dodge_Grand_Caravan.jpg"
+            ]
+          }
+        }
+      },
+      {
+        "BrandID": 40,
+        "ModelID": 413121,
+        "Brand Name": "Dodge",
+        "Model Name": "Grand Caravan",
+        "Serie Name": "Grand Caravan Gen 5",
+        "Years": "2008 - 2020",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Minivan",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "3.3L - 4.0L V6",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Grand Caravan (5. gen) to ostatnia generacja modelu, znana z pudełkowatego kształtu i ogromnej funkcjonalności.",
+              "en": "Dodge Grand Caravan (5th generation) is the last generation of the model, known for its boxy shape and great functionality.",
+              "de": "Der Dodge Grand Caravan (5. Generation) ist die letzte Generation des Modells, das für seine kastenförmige Form und große Funktionalität bekannt ist.",
+              "uk": "Dodge Grand Caravan (5 покоління) - останнє покоління моделі, відоме своєю квадратною формою і великою функціональністю.",
+              "ru": "Dodge Grand Caravan (5-е поколение) – последнее поколение модели, известной своей квадратной формой и великолепной функциональностью.",
+              "zh": "道奇 Grand Caravan（第 5 代）是该车型的最后一代，以其四四方方的外形和强大的功能而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "2008–2020",
+              "miejsce produkcji": {
+                "pl": "Windsor, Kanada",
+                "en": "Windsor, Canada",
+                "de": "Windsor, Kanada",
+                "uk": "Віндзор, Канада",
+                "ru": "Виндзор, Канада",
+                "zh": "加拿大温莎"
+              },
+              "platforma": {
+                "pl": "Chrysler RT",
+                "en": "Chrysler RT",
+                "de": "Chrysler RT",
+                "uk": "Chrysler RT",
+                "ru": "Крайслер РТ",
+                "zh": "克莱斯勒 RT"
+              },
+              "silnik": {
+                "pl": "3.3L - 4.0L V6",
+                "en": "3.3L - 4.0L V6",
+                "de": "3,3 l – 4,0 l V6",
+                "uk": "3,3 л - 4,0 л V6",
+                "ru": "3,3–4,0 л V6",
+                "zh": "3.3L - 4.0L V6"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dodge_Caravan_SE_2.5_Turbo_1989_%2815470607321%29.jpg/1280px-Dodge_Caravan_SE_2.5_Turbo_1989_%2815470607321%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dodge_Caravan_SE_2.5_Turbo_1989_%2815470607321%29.jpg/1280px-Dodge_Caravan_SE_2.5_Turbo_1989_%2815470607321%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/87-90_Dodge_Grand_Caravan.jpg/1280px-87-90_Dodge_Grand_Caravan.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/f/f6/OldDodgeVan.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2nd_Dodge_Grand_Caravan.jpg/1280px-2nd_Dodge_Grand_Caravan.jpg"
+            ]
+          }
+        }
+      }
+    ],
+    "Hornet": [
+      {
+        "BrandID": 40,
+        "ModelID": 416763,
+        "Brand Name": "Dodge",
+        "Model Name": "Hornet",
+        "Serie Name": "Hornet",
+        "Years": "2023 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact Crossover",
+          "drive": "AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.0L Turbo / 1.3L PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Dodge Hornet to kompaktowy SUV o sportowym charakterze, dzielący technikę z Alfą Romeo Tonale, dostępny jako hybryda PHEV.",
+              "en": "The Dodge Hornet is a compact SUV with a sporty character, sharing technology with the Alfa Romeo Tonale, available as a PHEV hybrid.",
+              "de": "Der Dodge Hornet ist ein kompakter SUV mit sportlichem Charakter, der die Technologie mit dem Alfa Romeo Tonale teilt und als PHEV-Hybrid erhältlich ist.",
+              "uk": "Dodge Hornet — це компактний позашляховик зі спортивним характером, який використовує спільні технології з Alfa Romeo Tonale, доступний як гібрид PHEV.",
+              "ru": "Dodge Hornet — компактный внедорожник со спортивным характером, использующий технологии Alfa Romeo Tonale, доступный в виде гибрида PHEV.",
+              "zh": "道奇大黄蜂是一款具有运动特性的紧凑型 SUV，与阿尔法罗密欧 Tonale 共享技术，可作为 PHEV 混合动力车型提供。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": {
+                "pl": "od 2023",
+                "en": "from 2023",
+                "de": "ab 2023",
+                "uk": "з 2023 року",
+                "ru": "с 2023 года",
+                "zh": "2023 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Pomigliano d'Arco, Włochy",
+                "en": "Pomigliano d'Arco, Italy",
+                "de": "Pomigliano d'Arco, Italien",
+                "uk": "Помільяно д'Арко, Італія",
+                "ru": "Помильяно-д'Арко, Италия",
+                "zh": "意大利波米利亚诺达科"
+              },
+              "platforma": {
+                "pl": "FCA Small Wide",
+                "en": "FCA Small Wide",
+                "de": "FCA Small Wide",
+                "uk": "FCA Small Wide",
+                "ru": "FCA Маленький Широкий",
+                "zh": "FCA Small Wide"
+              },
+              "silnik": {
+                "pl": "2.0L Turbo / 1.3L PHEV",
+                "en": "2.0L Turbo / 1.3L PHEV",
+                "de": "2,0 l Turbo / 1,3 l PHEV",
+                "uk": "2.0L Turbo / 1.3L PHEV",
+                "ru": "2,0 л турбо / 1,3 л PHEV",
+                "zh": "2.0L Turbo / 1.3L PHEV"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Intrepid": [
+      {
+        "BrandID": 40,
+        "ModelID": 413,
+        "Brand Name": "Dodge",
+        "Model Name": "Intrepid",
+        "Serie Name": "Intrepid",
+        "Years": "1993 - 2004",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Sedan",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.7L - 3.5L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Intrepid to aerodynamiczny sedan z ery 'Cab Forward', oferujący przestronne wnętrze i nowoczesny design.",
+              "en": "The Dodge Intrepid is an aerodynamic sedan from the 'Cab Forward' era, offering a spacious interior and modern design.",
+              "de": "Der Dodge Intrepid ist eine aerodynamische Limousine aus der „Cab Forward“-Ära, die einen geräumigen Innenraum und modernes Design bietet.",
+              "uk": "Dodge Intrepid — це аеродинамічний седан епохи «Cab Forward», який пропонує просторий салон і сучасний дизайн.",
+              "ru": "Dodge Intrepid — аэродинамический седан эпохи Cab Forward, предлагающий просторный салон и современный дизайн.",
+              "zh": "Dodge Intrepid 是一款来自“Cab Forward”时代的空气动力学轿车，提供宽敞的内部空间和现代设计。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "1993–2004",
+              "miejsce produkcji": {
+                "pl": "Brampton, Kanada",
+                "en": "Brampton, Canada",
+                "de": "Brampton, Kanada",
+                "uk": "Брамптон, Канада",
+                "ru": "Брэмптон, Канада",
+                "zh": "加拿大布兰普顿"
+              },
+              "platforma": {
+                "pl": "Chrysler LH",
+                "en": "Chrysler LH",
+                "de": "Chrysler LH",
+                "uk": "Chrysler LH",
+                "ru": "Крайслер ЛХ",
+                "zh": "克莱斯勒 LH"
+              },
+              "silnik": {
+                "pl": "2.7L - 3.5L V6",
+                "en": "2.7L - 3.5L V6",
+                "de": "2,7 l – 3,5 l V6",
+                "uk": "2,7 л - 3,5 л V6",
+                "ru": "2,7–3,5 л V6",
+                "zh": "2.7L - 3.5L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/dt/ha/frjag34s4osko044c8o8s/intrepid-2.310.jpg"
+        }
+      }
+    ],
+    "Journey": [
+      {
+        "BrandID": 40,
+        "ModelID": 414130,
+        "Brand Name": "Dodge",
+        "Model Name": "Journey",
+        "Serie Name": "Journey",
+        "Years": "2009 - 2020",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Crossover",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L / 3.5L / 3.6L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Journey to wszechstronny crossover, który łączy cechy minivana i SUV-a, popularny dzięki niskiej cenie i 7 miejscom.",
+              "en": "The Dodge Journey is a versatile crossover that combines the features of a minivan and an SUV, popular thanks to its low price and 7 seats.",
+              "de": "Der Dodge Journey ist ein vielseitiger Crossover, der die Eigenschaften eines Minivans und eines SUV vereint und aufgrund seines niedrigen Preises und seiner 7 Sitzplätze beliebt ist.",
+              "uk": "Dodge Journey — універсальний кросовер, що поєднує в собі риси мінівена та позашляховика, популярний завдяки невисокій ціні та 7-місцевості.",
+              "ru": "Dodge Journey — универсальный кроссовер, сочетающий в себе черты минивэна и внедорожника, популярный благодаря невысокой цене и 7-местности.",
+              "zh": "道奇 Journey 是一款多功能跨界车，结合了小型货车和 SUV 的特点，因其低廉的价格和 7 个座位而广受欢迎。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "2009–2020",
+              "miejsce produkcji": {
+                "pl": "Toluca, Meksyk",
+                "en": "Toluca, Mexico",
+                "de": "Toluca, Mexiko",
+                "uk": "Толука, Мексика",
+                "ru": "Толука, Мексика",
+                "zh": "墨西哥托卢卡"
+              },
+              "platforma": {
+                "pl": "Chrysler JC",
+                "en": "Chrysler J.C",
+                "de": "Chrysler J.C",
+                "uk": "Chrysler J.C",
+                "ru": "Крайслер Дж.С.",
+                "zh": "克莱斯勒 JC"
+              },
+              "silnik": {
+                "pl": "2.4L / 3.6L V6",
+                "en": "2.4L/3.6L V6",
+                "de": "2,4 l/3,6 l V6",
+                "uk": "2,4 л/3,6 л V6",
+                "ru": "2,4 л/3,6 л V6",
+                "zh": "2.4L / 3.6L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bv/n2/zvteq3w4o8s8kgg0g8k84/journey.310.jpg"
+        }
+      }
+    ],
+    "Magnum": [
+      {
+        "BrandID": 40,
+        "ModelID": 415,
+        "Brand Name": "Dodge",
+        "Model Name": "Magnum",
+        "Serie Name": "Magnum",
+        "Years": "2005 - 2008",
+        "specs": {
+          "bodyType": "Wagon",
+          "segment": "Full-size Wagon",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.7L - 6.1L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Magnum to potężne kombi o sportowej sylwetce, oparte na modelu Charger, oferujące silniki HEMI.",
+              "en": "Dodge Magnum is a powerful station wagon with a sporty silhouette, based on the Charger model, offering HEMI engines.",
+              "de": "Dodge Magnum ist ein leistungsstarker Kombi mit sportlicher Silhouette, der auf dem Charger-Modell basiert und HEMI-Motoren bietet.",
+              "uk": "Dodge Magnum — потужний універсал зі спортивним силуетом, створений на базі моделі Charger з двигунами HEMI.",
+              "ru": "Dodge Magnum — мощный универсал спортивного силуэта, созданный на базе модели Charger и оснащенный двигателями HEMI.",
+              "zh": "Dodge Magnum 是一款动力强劲的旅行车，具有运动型轮廓，基于 Charger 车型，配备 HEMI 发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "2005–2008",
+              "miejsce produkcji": {
+                "pl": "Brampton, Kanada",
+                "en": "Brampton, Canada",
+                "de": "Brampton, Kanada",
+                "uk": "Брамптон, Канада",
+                "ru": "Брэмптон, Канада",
+                "zh": "加拿大布兰普顿"
+              },
+              "platforma": {
+                "pl": "Chrysler LX",
+                "en": "Chrysler LX",
+                "de": "Chrysler LX",
+                "uk": "Chrysler LX",
+                "ru": "Крайслер ЛХ",
+                "zh": "克莱斯勒 LX"
+              },
+              "silnik": {
+                "pl": "2.7L V6 - 6.1L Hemi V8",
+                "en": "2.7L V6 - 6.1L Hemi V8",
+                "de": "2,7 l V6 – 6,1 l Hemi-V8",
+                "uk": "2,7 л V6 - 6,1 л Hemi V8",
+                "ru": "2,7 л V6 — 6,1 л Hemi V8",
+                "zh": "2.7L V6 - 6.1L Hemi V8"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/g0/s8/5ew33k84sg48ckwww4ws/magnum.310.jpg"
+        }
+      }
+    ],
+    "Neon": [
+      {
+        "BrandID": 40,
+        "ModelID": 414132,
+        "Brand Name": "Dodge",
+        "Model Name": "Neon",
+        "Serie Name": "Neon Gen 1",
+        "Years": "1995 - 1999",
+        "specs": {
+          "bodyType": "Sedan/Coupe",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Neon (1. gen) to sympatyczny kompakt 'Hi.', który zaskoczył rynek przestronnością i osiągami wersji R/T.",
+              "en": "Dodge Neon (1st gen) is a nice 'Hi.' compact that surprised the market with the spaciousness and performance of the R/T version.",
+              "de": "Dodge Neon (1. Generation) ist ein nettes „Hallo“. kompakt, der den Markt mit dem Platzangebot und der Leistung der R/T-Version überraschte.",
+              "uk": "Dodge Neon (1-го покоління) — це гарний «Привіт». компактний, який здивував ринок місткістю та продуктивністю версії R/T.",
+              "ru": "Dodge Neon (1-го поколения) — приятный привет. компактный, удививший рынок вместительностью и производительностью версии R/T.",
+              "zh": "道奇 Neon（第一代）是一个不错的“嗨”。 R/T 版本的宽敞性和性能令市场感到惊讶。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "1995–1999",
+              "miejsce produkcji": {
+                "pl": "Belvidere, USA",
+                "en": "Belvidere, USA",
+                "de": "Belvidere, USA",
+                "uk": "Бельвідер, США",
+                "ru": "Белвидер, США",
+                "zh": "贝尔维代尔，美国"
+              },
+              "platforma": {
+                "pl": "Chrysler PL",
+                "en": "The Chrysler PL",
+                "de": "Chrysler PL",
+                "uk": "Chrysler PL",
+                "ru": "Chrysler PL",
+                "zh": "克莱斯勒 PL"
+              },
+              "silnik": {
+                "pl": "2.0L"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4k/lg/nhsnxtkwgw48kgg40g0wg/neon2.310.jpg"
+        }
+      },
+      {
+        "BrandID": 40,
+        "ModelID": 414133,
+        "Brand Name": "Dodge",
+        "Model Name": "Neon",
+        "Serie Name": "Neon Gen 2",
+        "Years": "2000 - 2005",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L / 2.4L Turbo (SRT-4)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Neon (2. gen) stał się bardziej dojrzały, a wersja SRT-4 z turbodoładowaniem zyskała status legendy street racingu.",
+              "en": "Dodge Neon (2nd gen) became more mature, and the turbocharged SRT-4 version gained the status of a street racing legend.",
+              "de": "Der Dodge Neon (2. Generation) wurde ausgereifter und die turbogeladene SRT-4-Version erlangte den Status einer Straßenrennlegende.",
+              "uk": "Dodge Neon (2nd gen) став більш зрілим, а версія SRT-4 з турбонаддувом отримала статус легенди вуличних гонок.",
+              "ru": "Dodge Neon (2-го поколения) стал более зрелым, а турбированная версия SRT-4 обрела статус легенды уличных гонок.",
+              "zh": "Dodge Neon（第二代）变得更加成熟，涡轮增压 SRT-4 版本获得了街头赛车传奇的地位。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "2000–2005",
+              "miejsce produkcji": {
+                "pl": "Belvidere, USA",
+                "en": "Belvidere, USA",
+                "de": "Belvidere, USA",
+                "uk": "Бельвідер, США",
+                "ru": "Белвидер, США",
+                "zh": "美国 Belvidere"
+              },
+              "platforma": {
+                "pl": "Chrysler PL",
+                "en": "Chrysler PL",
+                "de": "Chrysler PL",
+                "uk": "Chrysler PL",
+                "ru": "Chrysler PL",
+                "zh": "克莱斯勒 PL"
+              },
+              "silnik": {
+                "pl": "2.0L / 2.4L Turbo",
+                "en": "2.0L / 2.4L Turbo",
+                "de": "2,0 l / 2,4 l Turbo",
+                "uk": "2.0L / 2.4L Turbo",
+                "ru": "2,0 л / 2,4 л Turbo",
+                "zh": "2.0L / 2.4L Turbo"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4k/lg/nhsnxtkwgw48kgg40g0wg/neon2.310.jpg"
+        }
+      }
+    ],
+    "Nitro": [
+      {
+        "BrandID": 40,
+        "ModelID": 417,
+        "Brand Name": "Dodge",
+        "Model Name": "Nitro",
+        "Serie Name": "Nitro",
+        "Years": "2007 - 2011",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.7L / 4.0L / 2.8L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Nitro to kompaktowy SUV o surowym, kanciastym wyglądzie, dzielący platformę z Jeepem Liberty.",
+              "en": "The Dodge Nitro is a compact SUV with a raw, angular look, sharing a platform with the Jeep Liberty.",
+              "de": "Der Dodge Nitro ist ein kompakter SUV mit robustem, kantigem Aussehen, der seine Plattform mit dem Jeep Liberty teilt.",
+              "uk": "Dodge Nitro — це компактний позашляховик із сирим незграбним виглядом, який має спільну платформу з Jeep Liberty.",
+              "ru": "Dodge Nitro — компактный внедорожник с грубым угловатым внешним видом, разделяющий платформу с Jeep Liberty.",
+              "zh": "道奇 Nitro 是一款紧凑型 SUV，外观原始、棱角分明，与 Jeep Liberty 共享平台。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "2007–2011",
+              "miejsce produkcji": {
+                "pl": "Toledo, USA",
+                "en": "Toledo, USA",
+                "de": "Toledo, USA",
+                "uk": "Толедо, США",
+                "ru": "Толедо, США",
+                "zh": "美国托莱多"
+              },
+              "platforma": {
+                "pl": "Chrysler KA",
+                "en": "Chrysler KA",
+                "de": "Chrysler KA",
+                "uk": "Chrysler KA",
+                "ru": "Chrysler KA",
+                "zh": "克莱斯勒 KA"
+              },
+              "silnik": {
+                "pl": "3.7L / 4.0L V6",
+                "en": "3.7L / 4.0L V6",
+                "de": "3,7 l/4,0 l V6",
+                "uk": "3.7L / 4.0L V6",
+                "ru": "3,7 л / 4,0 л V6",
+                "zh": "3.7L / 4.0L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cb/xz/xukol9cg48cwso8kskc8k/nitro.310.jpg"
+        }
+      }
+    ],
+    "RAM": [
+      {
+        "BrandID": 40,
+        "ModelID": 415594,
+        "Brand Name": "Dodge",
+        "Model Name": "RAM",
+        "Serie Name": "RAM Gen 2",
+        "Years": "1994 - 2001",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Full-size Truck",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.9L - 8.0L V10 / 5.9L Cummins",
+          "isOldtimer": true,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Ram (2. gen) zrewolucjonizował wygląd pickupów swoim designem 'big rig' z ogromną atrapą chłodnicy.",
+              "en": "Dodge Ram (2nd generation) revolutionized the appearance of pickup trucks with its 'big rig' design with a huge radiator grille.",
+              "de": "Der Dodge Ram (2. Generation) revolutionierte das Erscheinungsbild von Pickup-Trucks mit seinem „Big Rig“-Design mit riesigem Kühlergrill.",
+              "uk": "Dodge Ram (2-е покоління) революціонізував зовнішній вигляд пікапів завдяки своєму «великому» дизайну з величезною решіткою радіатора.",
+              "ru": "Dodge Ram (2-го поколения) произвел революцию во внешнем виде пикапов своим дизайном «большой машины» с огромной решеткой радиатора.",
+              "zh": "道奇公羊（第二代）以其带有巨大散热器格栅的“大装备”设计彻底改变了皮卡车的外观。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "1994–2001",
+              "miejsce produkcji": {
+                "pl": "Warren, USA",
+                "en": "Warren, USA",
+                "de": "Warren, USA",
+                "uk": "Уоррен, США",
+                "ru": "Уоррен, США",
+                "zh": "美国沃伦"
+              },
+              "platforma": {
+                "pl": "Chrysler BR/BE",
+                "en": "Chrysler BR/BE",
+                "de": "Chrysler BR/BE",
+                "uk": "Chrysler BR/BE",
+                "ru": "Chrysler BR/BE",
+                "zh": "克莱斯勒 BR/BE"
+              },
+              "silnik": {
+                "pl": "3.9L V6 - 8.0L V10",
+                "en": "3.9L V6 - 8.0L V10",
+                "de": "3,9 l V6 – 8,0 l V10",
+                "uk": "3,9 л V6 - 8,0 л V10",
+                "ru": "3,9 л V6 – 8,0 л V10",
+                "zh": "3.9L V6 - 8.0L V10"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/hd/h3/xb79qdk4s88s0c084ko0/ram4.310.jpg"
+        }
+      },
+      {
+        "BrandID": 40,
+        "ModelID": 414134,
+        "Brand Name": "Dodge",
+        "Model Name": "RAM",
+        "Serie Name": "RAM Gen 3",
+        "Years": "2002 - 2008",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Full-size Truck",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.7L / 4.7L / 5.7L Hemi / 5.9L/6.7L Cummins",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Ram (3. gen) kontynuował sukces poprzednika, wprowadzając silnik HEMI i kabinę Mega Cab.",
+              "en": "Dodge Ram (3rd gen) continued the success of its predecessor with the introduction of the HEMI engine and Mega Cab.",
+              "de": "Der Dodge Ram (3. Generation) setzte den Erfolg seines Vorgängers mit der Einführung des HEMI-Motors und des Mega Cab fort.",
+              "uk": "Dodge Ram (3-го покоління) продовжив успіх свого попередника, представивши двигун HEMI та Mega Cab.",
+              "ru": "Dodge Ram (3-го поколения) продолжил успех своего предшественника, представив двигатель HEMI и кабину Mega Cab.",
+              "zh": "Dodge Ram（第三代）通过引入 HEMI 发动机和 Mega Cab 延续了其前身的成功。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "2002–2008",
+              "miejsce produkcji": {
+                "pl": "Warren, USA",
+                "en": "Warren, USA",
+                "de": "Warren, USA",
+                "uk": "Уоррен, США",
+                "ru": "Уоррен, США",
+                "zh": "美国沃伦"
+              },
+              "platforma": {
+                "pl": "Chrysler DR/DH",
+                "en": "Chrysler DR/DH",
+                "de": "Chrysler DR/DH",
+                "uk": "Chrysler DR/DH",
+                "ru": "Chrysler DR/DH",
+                "zh": "克莱斯勒 DR/DH"
+              },
+              "silnik": {
+                "pl": "3.7L V6 - 8.3L V10",
+                "en": "3.7L V6 - 8.3L V10",
+                "de": "3,7 l V6 – 8,3 l V10",
+                "uk": "3,7 л V6 - 8,3 л V10",
+                "ru": "3,7 л V6 — 8,3 л V10",
+                "zh": "3.7L V6 - 8.3L V10"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/hd/h3/xb79qdk4s88s0c084ko0/ram4.310.jpg"
+        }
+      },
+      {
+        "BrandID": 40,
+        "ModelID": 414135,
+        "Brand Name": "Dodge",
+        "Model Name": "RAM",
+        "Serie Name": "RAM Gen 4",
+        "Years": "2009 - 2010",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Full-size Truck",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.7L - 5.7L Hemi / 6.7L Cummins",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Ram (4. gen) wprowadził tylne zawieszenie sprężynowe, oferując komfort jazdy niespotykany dotąd w pickupach.",
+              "en": "Dodge Ram (4th generation) introduced a rear spring suspension, offering ride comfort never before seen in pickup trucks.",
+              "de": "Der Dodge Ram (4. Generation) führte eine hintere Federung ein, die einen noch nie dagewesenen Fahrkomfort bei Pickup-Trucks bietet.",
+              "uk": "Dodge Ram (4-е покоління) представив задню пружинну підвіску, що забезпечує комфорт їзди, якого раніше не бачили в пікапах.",
+              "ru": "Dodge Ram (4-е поколение) представил заднюю рессорную подвеску, обеспечивающую комфорт езды, никогда ранее не встречавшийся в пикапах.",
+              "zh": "Dodge Ram（第四代）推出后弹簧悬架，提供皮卡车中前所未有的乘坐舒适性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "2009–2010",
+              "miejsce produkcji": {
+                "pl": "Warren, USA",
+                "en": "Warren, USA",
+                "de": "Warren, USA",
+                "uk": "Уоррен, США",
+                "ru": "Уоррен, США",
+                "zh": "美国沃伦"
+              },
+              "platforma": {
+                "pl": "Chrysler DS",
+                "en": "Chrysler DS",
+                "de": "Chrysler DS",
+                "uk": "Chrysler DS",
+                "ru": "Chrysler DS",
+                "zh": "克莱斯勒 DS"
+              },
+              "silnik": {
+                "pl": "3.7L V6 - 6.7L Cummins",
+                "en": "3.7L V6 - 6.7L Cummins",
+                "de": "3,7 l V6 – 6,7 l Cummins",
+                "uk": "3,7 л V6 - 6,7 л Cummins",
+                "ru": "3,7 л V6 — 6,7 л Cummins",
+                "zh": "3.7L V6 - 6.7L 康明斯"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/hd/h3/xb79qdk4s88s0c084ko0/ram4.310.jpg"
+        }
+      }
+    ],
+    "Ram Van": [
+      {
+        "BrandID": 40,
+        "ModelID": 421,
+        "Brand Name": "Dodge",
+        "Model Name": "Ram Van",
+        "Serie Name": "Ram Van (B-Series)",
+        "Years": "1971 - 2003",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Full-size Map",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.9L V6 / 5.2L / 5.9L V8",
+          "isOldtimer": true,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Ram Van to wół roboczy amerykańskich dróg, produkowany przez 32 lata bez większych zmian konstrukcyjnych.",
+              "en": "Dodge Ram Van is the workhorse of American roads, produced for 32 years without major design changes.",
+              "de": "Der Dodge Ram Van ist das Arbeitstier auf den amerikanischen Straßen und wurde 32 Jahre lang ohne größere Designänderungen produziert.",
+              "uk": "Dodge Ram Van — це робоча конячка американських доріг, яка випускалася 32 роки без серйозних змін у конструкції.",
+              "ru": "Dodge Ram Van — рабочая лошадка американских дорог, выпускавшаяся на протяжении 32 лет без серьезных изменений конструкции.",
+              "zh": "Dodge Ram Van 是美国道路上的主力车，生产了 32 年，没有进行重大设计变更。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "1971–2003",
+              "miejsce produkcji": {
+                "pl": "Windsor, Kanada",
+                "en": "Windsor, Canada",
+                "de": "Windsor, Kanada",
+                "uk": "Віндзор, Канада",
+                "ru": "Виндзор, Канада",
+                "zh": "加拿大温莎"
+              },
+              "platforma": {
+                "pl": "Chrysler B-van",
+                "en": "Chrysler B-van",
+                "de": "Chrysler B-Van",
+                "uk": "Chrysler B-van",
+                "ru": "Chrysler B-фургон",
+                "zh": "克莱斯勒 B 型货车"
+              },
+              "silnik": {
+                "pl": "3.9L V6 - 5.9L V8",
+                "en": "3.9L V6 - 5.9L V8",
+                "de": "3,9 l V6 – 5,9 l V8",
+                "uk": "3,9 л V6 - 5,9 л V8",
+                "ru": "3,9 л V6 – 5,9 л V8",
+                "zh": "3.9L V6 - 5.9L V8"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Sprinter": [
+      {
+        "BrandID": 40,
+        "ModelID": 415805,
+        "Brand Name": "Dodge",
+        "Model Name": "Sprinter",
+        "Serie Name": "Sprinter",
+        "Years": "2003 - 2009",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Commercial Van",
+          "drive": "RWD",
+          "fuel": "Diesel",
+          "engine": "2.7L / 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Sprinter to rebadgowany Mercedes-Benz Sprinter, który wprowadził europejskie standardy do segmentu aut dostawczych w USA.",
+              "en": "The Dodge Sprinter is a rebadged Mercedes-Benz Sprinter, which introduced European standards to the commercial vehicle segment in the USA.",
+              "de": "Der Dodge Sprinter ist ein neu gestalteter Mercedes-Benz Sprinter, der in den USA europäische Standards im Nutzfahrzeugsegment einführte.",
+              "uk": "Dodge Sprinter — це оновлений бренд Mercedes-Benz Sprinter, який запровадив європейські стандарти в сегмент комерційних автомобілів у США.",
+              "ru": "Dodge Sprinter — это Mercedes-Benz Sprinter под новым брендом, который представил европейские стандарты в сегменте коммерческих автомобилей в США.",
+              "zh": "道奇 Sprinter 是一款重新贴牌的梅赛德斯-奔驰 Sprinter，它将欧洲标准引入了美国的商用车领域。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "2003–2009",
+              "miejsce produkcji": {
+                "pl": "Düsseldorf, Niemcy",
+                "en": "Düsseldorf, Germany",
+                "de": "Düsseldorf, Deutschland",
+                "uk": "Дюссельдорф, Німеччина",
+                "ru": "Дюссельдорф, Германия",
+                "zh": "德国杜塞尔多夫"
+              },
+              "platforma": {
+                "pl": "Mercedes T1N/NCV3",
+                "en": "Mercedes T1N/NCV3",
+                "de": "Mercedes T1N/NCV3",
+                "uk": "Mercedes T1N/NCV3",
+                "ru": "Mercedes T1N/NCV3",
+                "zh": "梅赛德斯 T1N/NCV3"
+              },
+              "silnik": {
+                "pl": "2.7L / 3.0L Diesel",
+                "en": "2.7L / 3.0L Diesel",
+                "de": "2,7L / 3,0L Diesel",
+                "uk": "2.7L / 3.0L Diesel",
+                "ru": "2,7 л/3,0 л Дизель",
+                "zh": "2.7L / 3.0L 柴油机"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Stealth": [
+      {
+        "BrandID": 40,
+        "ModelID": 424,
+        "Brand Name": "Dodge",
+        "Model Name": "Stealth",
+        "Serie Name": "Stealth",
+        "Years": "1991 - 1996",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sports Car",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.0L V6 / Twin Turbo",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Stealth to zaawansowane technologicznie coupe sportowe, bliźniak Mitsubishi 3000GT, z aktywną aerodynamiką i skrętną tylną osią.",
+              "en": "Dodge Stealth is a technologically advanced sports coupe, a twin of the Mitsubishi 3000GT, with active aerodynamics and a steered rear axle.",
+              "de": "Dodge Stealth ist ein technologisch fortschrittliches Sportcoupé, ein Zwilling des Mitsubishi 3000GT, mit aktiver Aerodynamik und einer gelenkten Hinterachse.",
+              "uk": "Dodge Stealth — це технологічно просунуте спортивне купе, двійник Mitsubishi 3000GT, з активною аеродинамікою та керованою задньою віссю.",
+              "ru": "Dodge Stealth — технологичное спортивное купе, близнец Mitsubishi 3000GT, с активной аэродинамикой и управляемым задним мостом.",
+              "zh": "Dodge Stealth 是一款技术先进的运动轿跑车，是三菱 3000GT 的双胞胎，具有主动空气动力学特性和转向后轴。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "1991–1996",
+              "miejsce produkcji": {
+                "pl": "Nagoya, Japonia",
+                "en": "Nagoya, Japan",
+                "de": "Nagoya, Japan",
+                "uk": "Нагоя, Японія",
+                "ru": "Нагоя, Япония",
+                "zh": "日本名古屋"
+              },
+              "platforma": {
+                "pl": "Mitsubishi Z16A",
+                "en": "Mitsubishi Z16A",
+                "de": "Mitsubishi Z16A",
+                "uk": "Mitsubishi Z16A",
+                "ru": "Mitsubishi Z16A",
+                "zh": "三菱 Z16A"
+              },
+              "silnik": {
+                "pl": "3.0L V6 / Twin Turbo",
+                "en": "3.0L V6 / Twin Turbo",
+                "de": "3,0 l V6 / Twin Turbo",
+                "uk": "3.0L V6 / Twin Turbo",
+                "ru": "3,0 л V6 / Twin Turbo",
+                "zh": "3.0L V6 / 双涡轮增压"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5k/zp/jt1424w8kww0kg0sws8s4/stealth.310.jpg"
+        }
+      }
+    ],
+    "Stratus": [
+      {
+        "BrandID": 40,
+        "ModelID": 414137,
+        "Brand Name": "Dodge",
+        "Model Name": "Stratus",
+        "Serie Name": "Stratus Gen 1",
+        "Years": "1995 - 2000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L / 2.4L / 2.5L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Stratus (1. gen) to nowoczesny sedan klasy średniej, chwalony za przestronność i prowadzenie.",
+              "en": "The Dodge Stratus (1st gen) is a modern midsize sedan praised for its space and handling.",
+              "de": "Der Dodge Stratus (1. Generation) ist eine moderne Mittelklasse-Limousine, die für ihr Platzangebot und ihr Handling gelobt wird.",
+              "uk": "Dodge Stratus (1-го покоління) — це сучасний седан середнього розміру, який хвалять за просторість і керованість.",
+              "ru": "Dodge Stratus (1-го поколения) — современный седан среднего размера, который хвалят за его простор и управляемость.",
+              "zh": "道奇 Stratus（第一代）是一款现代中型轿车，因其空间和操控性而受到好评。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "1995–2000",
+              "miejsce produkcji": {
+                "pl": "Sterling Heights, USA",
+                "en": "Sterling Heights, USA",
+                "de": "Sterling Heights, USA",
+                "uk": "Стерлінг-Хайтс, США",
+                "ru": "Стерлинг-Хайтс, США",
+                "zh": "美国斯特林高地"
+              },
+              "platforma": {
+                "pl": "Chrysler JA",
+                "en": "Chrysler JA",
+                "de": "Chrysler JA",
+                "uk": "Chrysler JA",
+                "ru": "Chrysler JA",
+                "zh": "克莱斯勒 JA"
+              },
+              "silnik": {
+                "pl": "2.0L - 2.5L V6",
+                "en": "2.0L - 2.5L V6",
+                "de": "2,0 l – 2,5 l V6",
+                "uk": "2.0L - 2.5L V6",
+                "ru": "2,0–2,5 л V6",
+                "zh": "2.0L - 2.5L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4h/ga/51nmuem88wk0s88k4wo4w/stratus2-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 40,
+        "ModelID": 414138,
+        "Brand Name": "Dodge",
+        "Model Name": "Stratus",
+        "Serie Name": "Stratus Gen 2",
+        "Years": "2001 - 2006",
+        "specs": {
+          "bodyType": "Sedan/Coupe",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L / 2.7L / 3.0L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Stratus (2. gen) był dostępny również jako coupe (zbudowane przez Mitsubishi), oferując sportowy styl.",
+              "en": "The Dodge Stratus (2nd gen) was also available as a coupe (built by Mitsubishi), offering a sporty style.",
+              "de": "Der Dodge Stratus (2. Generation) war auch als Coupé (gebaut von Mitsubishi) erhältlich und bot einen sportlichen Stil.",
+              "uk": "Dodge Stratus (2-го покоління) також був доступний у вигляді купе (створеного Mitsubishi), пропонуючи спортивний стиль.",
+              "ru": "Dodge Stratus (2-го поколения) также был доступен в виде купе (производства Mitsubishi) в спортивном стиле.",
+              "zh": "道奇 Stratus（第二代）也可作为轿跑车（由三菱制造）提供运动风格。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "2001–2006",
+              "miejsce produkcji": {
+                "pl": "Sterling Heights, USA",
+                "en": "Sterling Heights, USA",
+                "de": "Sterling Heights, USA",
+                "uk": "Стерлінг-Хайтс, США",
+                "ru": "Стерлинг-Хайтс, США",
+                "zh": "斯特林高地，美国"
+              },
+              "platforma": {
+                "pl": "Chrysler JR",
+                "en": "Chrysler JR",
+                "de": "Chrysler JR",
+                "uk": "Chrysler JR",
+                "ru": "Chrysler JR",
+                "zh": "克莱斯勒 JR"
+              },
+              "silnik": {
+                "pl": "2.4L - 3.0L V6",
+                "en": "2.4L - 3.0L V6",
+                "de": "2,4L - 3,0L V6",
+                "uk": "2.4L - 3.0L V6",
+                "ru": "2,4–3,0 л V6",
+                "zh": "2.4L - 3.0L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4h/ga/51nmuem88wk0s88k4wo4w/stratus2-sedan.310.jpg"
+        }
+      }
+    ],
+    "Viper": [
+      {
+        "BrandID": 40,
+        "ModelID": 415667,
+        "Brand Name": "Dodge",
+        "Model Name": "Viper",
+        "Serie Name": "Viper (SR I/II)",
+        "Years": "1992 - 2002",
+        "specs": {
+          "bodyType": "Roadster/Coupe",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "8.0L V10",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Viper (SR I/II) to brutalny roadster bez systemów wspomagających, napędzany potężnym silnikiem V10 z ciężarówki.",
+              "en": "Dodge Viper (SR I/II) is a brutal roadster without assistance systems, powered by a powerful V10 engine from a truck.",
+              "de": "Dodge Viper (SR I/II) ist ein brutaler Roadster ohne Assistenzsysteme, angetrieben von einem leistungsstarken V10-Motor aus einem LKW.",
+              "uk": "Dodge Viper (SR I/II) — брутальний родстер без систем допомоги, що працює від потужного двигуна V10 від вантажівки.",
+              "ru": "Dodge Viper (SR I/II) — брутальный родстер без вспомогательных систем, оснащенный мощным двигателем V10 от грузовика.",
+              "zh": "道奇 Viper (SR I/II) 是一款没有辅助系统的残酷跑车，由卡车上强大的 V10 发动机提供动力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "1992–2002",
+              "miejsce produkcji": {
+                "pl": "Detroit, USA",
+                "en": "Detroit, USA",
+                "de": "Detroit, USA",
+                "uk": "Детройт, США",
+                "ru": "Детройт, США",
+                "zh": "美国底特律"
+              },
+              "platforma": {
+                "pl": "Chrysler SR",
+                "en": "Chrysler SR",
+                "de": "Chrysler SR",
+                "uk": "Chrysler SR",
+                "ru": "Chrysler SR",
+                "zh": "克莱斯勒 SR"
+              },
+              "silnik": {
+                "pl": "8.0L V10 (400 KM)",
+                "en": "8.0L V10 (400 HP)",
+                "de": "8.0L V10 (400 PS)",
+                "uk": "8.0L V10 (400 HP)",
+                "ru": "8.0L V10 (400 л.с.)",
+                "zh": "8.0L V10 (400 HP)"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      },
+      {
+        "BrandID": 40,
+        "ModelID": 416764,
+        "Brand Name": "Dodge",
+        "Model Name": "Viper",
+        "Serie Name": "Viper (ZB I)",
+        "Years": "2003 - 2006",
+        "specs": {
+          "bodyType": "Roadster/Coupe",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "8.3L V10",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Viper (ZB I) stał się nieco bardziej cywilizowany, ale wciąż oferował surowe doznania i jeszcze większą moc.",
+              "en": "Dodge Viper (ZB I) became a bit more civilized, but still offered raw sensations and even more power.",
+              "de": "Dodge Viper (ZB I) wurde etwas zivilisierter, bot aber immer noch rohe Sensationen und noch mehr Leistung.",
+              "uk": "Dodge Viper (ZB I) став трохи цивілізованішим, але все ще пропонував сирі відчуття та ще більше потужності.",
+              "ru": "Dodge Viper (ZB I) стал немного более цивилизованным, но по-прежнему предлагал грубые ощущения и еще больше мощности.",
+              "zh": "道奇 Viper (ZB I) 变得更加文明，但仍然提供原始的感觉和更多的动力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "2003–2006",
+              "miejsce produkcji": {
+                "pl": "Detroit, USA",
+                "en": "Detroit, USA",
+                "de": "Detroit, USA",
+                "uk": "Детройт, США",
+                "ru": "Детройт, США",
+                "zh": "美国底特律"
+              },
+              "platforma": {
+                "pl": "Chrysler ZB",
+                "en": "Chrysler ZB",
+                "de": "Chrysler ZB",
+                "uk": "Chrysler ZB",
+                "ru": "Chrysler ZB",
+                "zh": "克莱斯勒 ZB"
+              },
+              "silnik": {
+                "pl": "8.3L V10 (500 KM)",
+                "en": "8.3L V10 (500 HP)",
+                "de": "8,3L V10 (500 PS)",
+                "uk": "8,3 л V10 (500 к. с.)",
+                "ru": "8,3 л V10 (500 л.с.)",
+                "zh": "8.3L V10 (500 HP)"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      },
+      {
+        "BrandID": 40,
+        "ModelID": 416765,
+        "Brand Name": "Dodge",
+        "Model Name": "Viper",
+        "Serie Name": "Viper (ZB II)",
+        "Years": "2008 - 2010",
+        "specs": {
+          "bodyType": "Roadster/Coupe",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "8.4L V10",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Viper (ZB II) to ewolucja modelu, z silnikiem powiększonym do 8.4L i mocą 600 KM, dostępna jako ACR.",
+              "en": "Dodge Viper (ZB II) is an evolution of the model, with an engine enlarged to 8.4L and 600 HP, available as ACR.",
+              "de": "Dodge Viper (ZB II) ist eine Weiterentwicklung des Modells, mit einem auf 8,4L vergrößerten Motor und 600 PS, erhältlich als ACR.",
+              "uk": "Dodge Viper (ZB II) — це еволюція моделі зі збільшеним двигуном до 8,4 л і потужністю 600 к. с., доступним як ACR.",
+              "ru": "Dodge Viper (ZB II) — это эволюция модели с увеличенным до 8,4 л двигателем и мощностью 600 л.с., доступная как ACR.",
+              "zh": "Dodge Viper (ZB II) 是该车型的改进版，发动机排量扩大至 8.4L 和 600 HP，以 ACR 形式提供。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "2008–2010",
+              "miejsce produkcji": {
+                "pl": "Detroit, USA",
+                "en": "Detroit, USA",
+                "de": "Detroit, USA",
+                "uk": "Детройт, США",
+                "ru": "Детройт, США",
+                "zh": "美国底特律"
+              },
+              "platforma": {
+                "pl": "Chrysler ZB",
+                "en": "Chrysler ZB",
+                "de": "Chrysler ZB",
+                "uk": "Chrysler ZB",
+                "ru": "Chrysler ZB",
+                "zh": "克莱斯勒 ZB"
+              },
+              "silnik": {
+                "pl": "8.4L V10 (600 KM)",
+                "en": "8.4L V10 (600 HP)",
+                "de": "8,4L V10 (600 PS)",
+                "uk": "8.4L V10 (600 к.с.)",
+                "ru": "8.4L V10 (600 л.с.)",
+                "zh": "8.4L V10 (600 HP)"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      },
+      {
+        "BrandID": 40,
+        "ModelID": 416766,
+        "Brand Name": "Dodge",
+        "Model Name": "Viper",
+        "Serie Name": "Viper (VX)",
+        "Years": "2013 - 2017",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "8.4L V10",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Dodge Viper (VX) to ostatnia generacja legendy, łącząca luksusowe wnętrze z torem wyścigowym (rekordy torowe wersji ACR).",
+              "en": "Dodge Viper (VX) is the last generation of the legend, combining a luxurious interior with the race track (track records of the ACR version).",
+              "de": "Dodge Viper (VX) ist die letzte Generation der Legende und kombiniert ein luxuriöses Interieur mit der Rennstrecke (Streckenrekorde der ACR-Version).",
+              "uk": "Dodge Viper (VX) останнє покоління легенди, що поєднує в собі розкішний салон і гоночний трек (рекорди версії ACR).",
+              "ru": "Dodge Viper (VX) — последнее поколение легенды, сочетающее роскошный салон с гоночной трассой (послужной список версии ACR).",
+              "zh": "道奇 Viper (VX) 是最后一代的传奇车型，将豪华内饰与赛道融为一体（ACR 版本的赛道记录）。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Dodge"
+              },
+              "okres produkcji": "2013–2017",
+              "miejsce produkcji": {
+                "pl": "Detroit, USA",
+                "en": "Detroit, USA",
+                "de": "Detroit, USA",
+                "uk": "Детройт, США",
+                "ru": "Детройт, США",
+                "zh": "美国底特律"
+              },
+              "platforma": {
+                "pl": "Chrysler VX",
+                "en": "Chrysler VX",
+                "de": "Chrysler VX",
+                "uk": "Chrysler VX",
+                "ru": "Chrysler VX",
+                "zh": "克莱斯勒 VX"
+              },
+              "silnik": {
+                "pl": "8.4L V10 (640 KM)",
+                "en": "8.4L V10 (640 HP)",
+                "de": "8,4L V10 (640 PS)",
+                "uk": "8.4L V10 (640 HP)",
+                "ru": "8,4 л V10 (640 л.с.)",
+                "zh": "8.4L V10 (640 HP)"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      }
+    ]
+  }
+}

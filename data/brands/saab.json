@@ -1,0 +1,552 @@
+{
+  "brand": "Saab",
+  "models": {
+    "900": [
+      {
+        "BrandID": 112,
+        "ModelID": 1397,
+        "Brand Name": "Saab",
+        "Model Name": "900",
+        "Serie Name": "900 (Classic)",
+        "Years": "1978 - 1993",
+        "specs": {
+          "bodyType": "Hatchback/Convertible/Sedan",
+          "segment": "Compact Executive",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L - 2.1L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/1992_Saab_900_S_Turbo_2.0_Rear.jpg/1280px-1992_Saab_900_S_Turbo_2.0_Rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/1992_Saab_900_S_Turbo_2.0_Rear.jpg/1280px-1992_Saab_900_S_Turbo_2.0_Rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Saab_900_S_%2844204109542%29.jpg/1280px-Saab_900_S_%2844204109542%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Saab_900i_Sedan_%2844549900662%29.jpg/1280px-Saab_900i_Sedan_%2844549900662%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/1987_Saab_900_Turbo_convertible_%2824228948971%29.jpg/1280px-1987_Saab_900_Turbo_convertible_%2824228948971%29.jpg"
+            ],
+            "description": {
+              "pl": "Saab 900 to jedna z najbardziej charakterystycznych ikon motoryzacji, łącząca lotnicze dziedzictwo marki z unikalnym designem. Słynął z niespotykanej ergonomii, przedniej szyby o dużym promieniu krzywizny oraz pionierskiego zastosowania turbodoładowania w autach seryjnych.",
+              "en": "Saab 900 is one of the most distinctive automotive icons, combining the brand's aviation heritage with a unique design. It was famous for its unprecedented ergonomics, a windshield with a large radius of curvature and the pioneering use of turbocharging in production cars.",
+              "de": "Der Saab 900 ist eine der markantesten Automobilikonen und vereint das Luftfahrterbe der Marke mit einem einzigartigen Design. Es war berühmt für seine beispiellose Ergonomie, eine Windschutzscheibe mit großem Krümmungsradius und den bahnbrechenden Einsatz der Turboaufladung in Serienfahrzeugen.",
+              "uk": "Saab 900 є однією з найвідоміших автомобільних ікон, що поєднує в собі авіаційну спадщину бренду з унікальним дизайном. Він був відомий своєю безпрецедентною ергономікою, лобовим склом із великим радіусом кривизни та новаторським використанням турбонаддуву в серійних автомобілях.",
+              "ru": "Saab 900 — одна из самых выдающихся автомобильных икон, сочетающая в себе авиационное наследие бренда с уникальным дизайном. Он славился беспрецедентной эргономикой, лобовым стеклом с большим радиусом кривизны и новаторским применением турбонаддува в серийных автомобилях.",
+              "zh": "Saab 900 是最具特色的汽车标志之一，将品牌的航空传统与独特的设计相结合。它以其前所未有的人体工程学设计、大曲率半径的挡风玻璃以及在量产车中率先使用涡轮增压技术而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Saab Automobile",
+                "en": "Saab Automobile",
+                "de": "Saab Automobile",
+                "uk": "Saab Automobile",
+                "ru": "Saab Automobile",
+                "zh": "萨博汽车"
+              },
+              "okres produkcji": "1978–1998",
+              "segment": {
+                "pl": "D (Klasa średnia premium)",
+                "en": "D (Premium mid-range)",
+                "de": "D (Premium-Mittelklasse)",
+                "uk": "D (Преміум середнього класу)",
+                "ru": "D (Премиум среднего класса)",
+                "zh": "D（高级中档）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/41/tx/1xg2ksg0g8cck0c048o80/saab-900-1994-coupe.310.jpg"
+        }
+      },
+      {
+        "BrandID": 112,
+        "ModelID": 414266,
+        "Brand Name": "Saab",
+        "Model Name": "900",
+        "Serie Name": "900 (NG)",
+        "Years": "1994 - 1998",
+        "specs": {
+          "bodyType": "Hatchback/Convertible/Coupe",
+          "segment": "Compact Executive",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L - 2.5L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/1992_Saab_900_S_Turbo_2.0_Rear.jpg/1280px-1992_Saab_900_S_Turbo_2.0_Rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/1992_Saab_900_S_Turbo_2.0_Rear.jpg/1280px-1992_Saab_900_S_Turbo_2.0_Rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Saab_900_S_%2844204109542%29.jpg/1280px-Saab_900_S_%2844204109542%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Saab_900i_Sedan_%2844549900662%29.jpg/1280px-Saab_900i_Sedan_%2844549900662%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/1987_Saab_900_Turbo_convertible_%2824228948971%29.jpg/1280px-1987_Saab_900_Turbo_convertible_%2824228948971%29.jpg"
+            ],
+            "description": {
+              "pl": "Saab 900 (generacja NG) kontynuował tradycję modelu, wprowadzając nowoczesne standardy bezpieczeństwa i komfortu pod skrzydłami GM. Zachował jednak swój indywidualny styl, w tym charakterystyczny kokpit zorientowany na kierowcę i stacyjkę umieszczoną między fotelami.",
+              "en": "Saab 900 (NG generation) continued the tradition of the model, introducing modern standards of safety and comfort under the wings of GM. However, it retained its individual style, including the characteristic driver-oriented cockpit and the ignition located between the seats.",
+              "de": "Saab 900 (NG-Generation) setzte die Tradition des Modells fort und führte unter den Fittichen von GM moderne Standards für Sicherheit und Komfort ein. Allerdings behielt er seinen individuellen Stil bei, einschließlich des charakteristischen fahrerorientierten Cockpits und der zwischen den Sitzen platzierten Zündung.",
+              "uk": "Saab 900 (покоління NG) продовжив традиції моделі, представивши сучасні стандарти безпеки та комфорту під крилом GM. Однак він зберіг свій індивідуальний стиль, включаючи характерну кабіну, орієнтовану на водія, і запалювання, розташоване між сидіннями.",
+              "ru": "Saab 900 (поколение NG) продолжил традиции модели, представив под крылом GM современные стандарты безопасности и комфорта. Однако он сохранил свой индивидуальный стиль, в том числе характерную кабину, ориентированную на водителя, и замок зажигания, расположенный между сиденьями.",
+              "zh": "萨博 900（NG 代）延续了该车型的传统，在通用汽车旗下引入了现代安全性和舒适性标准。然而，它保留了其独特的风格，包括以驾驶员为导向的驾驶舱和位于座椅之间的点火装置。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Saab Automobile",
+                "en": "Saab Automobile",
+                "de": "Saab Automobile",
+                "uk": "Saab Automobile",
+                "ru": "Saab Automobile",
+                "zh": "Saab 汽车"
+              },
+              "okres produkcji": "1994–1998",
+              "segment": {
+                "pl": "D (Klasa średnia premium)",
+                "en": "D (Premium middle class)",
+                "de": "D (Premium-Mittelklasse)",
+                "uk": "D (Преміум середнього класу)",
+                "ru": "D (Премиум-средний класс)",
+                "zh": "D（高级中产阶级）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/41/tx/1xg2ksg0g8cck0c048o80/saab-900-1994-coupe.310.jpg"
+        }
+      }
+    ],
+    "9000": [
+      {
+        "BrandID": 112,
+        "ModelID": 1398,
+        "Brand Name": "Saab",
+        "Model Name": "9000",
+        "Serie Name": "9000",
+        "Years": "1984 - 1998",
+        "specs": {
+          "bodyType": "Liftback/Sedan",
+          "segment": "Executive Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L - 3.0L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Saab 9000 był pierwszym wejściem marki w segment aut luksusowych, stworzonym w ramach projektu Type Four. Oferował ogromną przestrzeń wnętrza, jedne z najwygodniejszych foteli w historii motoryzacji oraz potężne silniki turbo, które czyniły go mistrzem autostrad.",
+              "en": "Saab 9000 was the brand's first entry into the luxury car segment, created as part of the Type Four project. It offered enormous interior space, some of the most comfortable seats in automotive history, and powerful turbo engines that made it a highway champion.",
+              "de": "Der Saab 9000 war der erste Einstieg der Marke in das Luxusautosegment und wurde im Rahmen des Type Four-Projekts entwickelt. Er bot einen enormen Innenraum, einige der bequemsten Sitze in der Automobilgeschichte und leistungsstarke Turbomotoren, die ihn zu einem Champion auf der Autobahn machten.",
+              "uk": "Saab 9000 був першим входом марки в сегмент розкішних автомобілів, створеним у рамках проекту Type Four. Він пропонував величезний внутрішній простір, одні з найзручніших сидінь в історії автомобілебудування та потужні двигуни з турбонаддувом, які зробили його чемпіоном на шосе.",
+              "ru": "Saab 9000 стал первым автомобилем бренда в сегменте автомобилей класса люкс, созданным в рамках проекта Type Four. Он предлагал огромное внутреннее пространство, одни из самых удобных сидений в истории автомобилестроения и мощные турбодвигатели, которые сделали его чемпионом по шоссейным дорогам.",
+              "zh": "Saab 9000 是该品牌首款进入豪华汽车领域的车型，是作为 Type Four 项目的一部分而创建的。它提供了巨大的内部空间、汽车历史上最舒适的座椅以及强大的涡轮发动机，使其成为高速公路冠军。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Saab Automobile",
+                "en": "Saab Automobile",
+                "de": "Saab Automobile",
+                "uk": "Saab Automobile",
+                "ru": "Saab Automobile",
+                "zh": "Saab 汽车"
+              },
+              "okres produkcji": "1984–1998",
+              "segment": {
+                "pl": "E (Klasa wyższa)",
+                "en": "E (Upper Class)",
+                "de": "E (Oberklasse)",
+                "uk": "E (вищий клас)",
+                "ru": "E (Высший класс)",
+                "zh": "E（高档）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2w/1t/lc1lqmo0w04wgwsg4g4ks/saab-9000-sedan.310.jpg"
+        }
+      }
+    ],
+    "9-3": [
+      {
+        "BrandID": 112,
+        "ModelID": 145965,
+        "Brand Name": "Saab",
+        "Model Name": "9-3",
+        "Serie Name": "9-3 Gen 1",
+        "Years": "1998 - 2003",
+        "specs": {
+          "bodyType": "Hatchback/Convertible/Coupe",
+          "segment": "Compact Executive",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L Turbo - 2.2L TiD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/1999_Saab_9-3_S_2.0_Rear.jpg/1280px-1999_Saab_9-3_S_2.0_Rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/1999_Saab_9-3_S_2.0_Rear.jpg/1280px-1999_Saab_9-3_S_2.0_Rear.jpg"
+            ],
+            "description": {
+              "pl": "Saab 9-3 pierwszej generacji to bezpośredni następca modelu 900, który udoskonalił szwedzki przepis na sportowego sedana. Wersja Viggen, inspirowana myśliwcem, stała się legendą dzięki swoim bezkompromisowym osiągom i charakterystycznemu stylowi.",
+              "en": "The first generation Saab 9-3 is a direct successor to the 900 model, which perfected the Swedish recipe for a sports sedan. Inspired by a fighter jet, the Viggen version has become a legend thanks to its uncompromising performance and distinctive style.",
+              "de": "Der Saab 9-3 der ersten Generation ist ein direkter Nachfolger des Modells 900, das das schwedische Rezept für eine Sportlimousine perfektionierte. Die von einem Kampfjet inspirierte Viggen-Version ist dank ihrer kompromisslosen Leistung und ihrem unverwechselbaren Stil zu einer Legende geworden.",
+              "uk": "Перше покоління Saab 9-3 є прямим наступником моделі 900, яка вдосконалила шведський рецепт спортивного седана. Натхненний винищувачем, версія Viggen стала легендою завдяки своїй безкомпромісній продуктивності та характерному стилю.",
+              "ru": "Первое поколение Saab 9-3 является прямым преемником модели 900, которая усовершенствовала шведский рецепт спортивного седана. Вдохновленная реактивным истребителем, версия Viggen стала легендой благодаря своим бескомпромиссным характеристикам и неповторимому стилю.",
+              "zh": "第一代 Saab 9-3 是 900 车型的直接后继车型，完善了瑞典运动型轿车的配方。受到战斗机的启发，Viggen 版本凭借其不妥协的性能和独特的风格而成为传奇。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Saab Automobile",
+                "en": "Saab Automobile",
+                "de": "Saab Automobile",
+                "uk": "Saab Automobile",
+                "ru": "Saab Automobile",
+                "zh": "萨博汽车"
+              },
+              "okres produkcji": "1998–2003",
+              "segment": {
+                "pl": "D (Klasa średnia premium)",
+                "en": "D (Premium mid-range)",
+                "de": "D (Premium-Mittelklasse)",
+                "uk": "D (преміум середнього класу)",
+                "ru": "D (средний класс премиум-класса)",
+                "zh": "D（高级中档）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      },
+      {
+        "BrandID": 112,
+        "ModelID": 148848,
+        "Brand Name": "Saab",
+        "Model Name": "9-3",
+        "Serie Name": "9-3 Gen 2",
+        "Years": "2003 - 2014",
+        "specs": {
+          "bodyType": "Sedan/Wagon/Convertible",
+          "segment": "Compact Executive",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/BioPower",
+          "engine": "1.8L - 2.8L V6 Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Saab_9-3_rear_20080521.jpg/1280px-Saab_9-3_rear_20080521.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Saab_9-3_rear_20080521.jpg/1280px-Saab_9-3_rear_20080521.jpg"
+            ],
+            "description": {
+              "pl": "Saab 9-3 (generacja SportSedan) przesunął markę w stronę bardziej dynamicznego prowadzenia, nie rezygnując z kluczowych innowacji jak system osi skrętnej ReAxs. Do dziś jest ceniony za ponadczasowy design i wysoki poziom bezpieczeństwa czynnego.",
+              "en": "Saab 9-3 (SportSedan generation) moved the brand towards more dynamic handling, without sacrificing key innovations such as the ReAxs steering axle system. It is still appreciated for its timeless design and high level of active safety.",
+              "de": "Saab 9-3 (SportSedan-Generation) hat die Marke in Richtung dynamischeres Fahrverhalten geführt, ohne auf wichtige Innovationen wie das ReAxs-Lenkachssystem zu verzichten. Noch immer wird er für sein zeitloses Design und seine hohe aktive Sicherheit geschätzt.",
+              "uk": "Saab 9-3 (покоління SportSedan) просунув бренд до більш динамічної керованості, не жертвуючи ключовими інноваціями, такими як система рульового керування ReAxs. Його досі цінують за позачасовий дизайн і високий рівень активної безпеки.",
+              "ru": "Saab 9-3 (поколение SportSedan) продвинул бренд в сторону более динамичного управления, не жертвуя при этом ключевыми инновациями, такими как система рулевого моста ReAxs. Его до сих пор ценят за неподвластный времени дизайн и высокий уровень активной безопасности.",
+              "zh": "萨博 9-3（运动型轿车一代）将品牌推向更动态的操控，同时又不牺牲 ReAxs 转向轴系统等关键创新。它仍然因其永恒的设计和高水平的主动安全性而受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Saab Automobile",
+                "en": "Saab Automobile",
+                "de": "Saab Automobile",
+                "uk": "Saab Automobile",
+                "ru": "Saab Automobile",
+                "zh": "萨博汽车"
+              },
+              "okres produkcji": "2002–2011",
+              "segment": {
+                "pl": "D (Klasa średnia premium)",
+                "en": "D (Premium middle class)",
+                "de": "D (Premium-Mittelklasse)",
+                "uk": "D (Преміум середнього класу)",
+                "ru": "D (Премиум-средний класс)",
+                "zh": "D（高级中级）"
+              },
+              "napęd": {
+                "pl": "FWD/XWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      }
+    ],
+    "9-5": [
+      {
+        "BrandID": 112,
+        "ModelID": 413484,
+        "Brand Name": "Saab",
+        "Model Name": "9-5",
+        "Serie Name": "9-5 Gen 1",
+        "Years": "1997 - 2010",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Executive Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/BioPower",
+          "engine": "2.0L Turbo - 3.0L V6 Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Saab_9.5_%2831603165027%29.jpg/1280px-Saab_9.5_%2831603165027%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Saab_9.5_%2831603165027%29.jpg/1280px-Saab_9.5_%2831603165027%29.jpg"
+            ],
+            "description": {
+              "pl": "Saab 9-5 pierwszej generacji to wzorzec komfortowej i bezpiecznej limuzyny, która wprowadziła aktywne zagłówki SAHR. Wersja Aero stała się symbolem dyskretnej mocy, oferując niesamowitą elastyczność i wygodę na najdłuższych trasach.",
+              "en": "The first generation Saab 9-5 is a model of a comfortable and safe limousine that introduced SAHR active headrests. The Aero version has become a symbol of discreet power, offering incredible flexibility and comfort on the longest routes.",
+              "de": "Der Saab 9-5 der ersten Generation ist ein Modell einer komfortablen und sicheren Limousine, die aktive SAHR-Kopfstützen eingeführt hat. Die Aero-Version ist zum Symbol diskreter Kraft geworden und bietet unglaubliche Flexibilität und Komfort auf den längsten Strecken.",
+              "uk": "Перше покоління Saab 9-5 — це модель комфортабельного та безпечного лімузина з активними підголівниками SAHR. Версія Aero стала символом непомітної потужності, пропонуючи неймовірну гнучкість і комфорт на найдовших маршрутах.",
+              "ru": "Saab 9-5 первого поколения — модель комфортабельного и безопасного лимузина, в котором внедрены активные подголовники SAHR. Версия Aero стала символом сдержанной мощи, предлагая невероятную гибкость и комфорт на самых длинных маршрутах.",
+              "zh": "第一代萨博9-5是一款舒适安全的高级轿车，引入了SAHR主动头枕。 Aero 版本已成为谨慎力量的象征，在最长的路线上提供令人难以置信的灵活性和舒适性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Saab Automobile",
+                "en": "Saab Automobile",
+                "de": "Saab Automobile",
+                "uk": "Saab Automobile",
+                "ru": "Saab Automobile",
+                "zh": "Saab 汽车"
+              },
+              "okres produkcji": "1997–2010",
+              "segment": {
+                "pl": "E (Klasa wyższa)",
+                "en": "E (Upper class)",
+                "de": "E (Oberklasse)",
+                "uk": "E (вищий клас)",
+                "ru": "E (Высший класс)",
+                "zh": "E（高档）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cz/3q/31r9eugogk8s84gssgkgo/saab-9-5-sedan-2010.310.jpg"
+        }
+      },
+      {
+        "BrandID": 112,
+        "ModelID": 413485,
+        "Brand Name": "Saab",
+        "Model Name": "9-5",
+        "Serie Name": "9-5 Gen 2",
+        "Years": "2010 - 2012",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Executive Car",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L Turbo - 2.8L V6 Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Saab 9-5 (generacja YS3G) to łabędzi śpiew marki – potężna, awangardowa limuzyna o unikalnym designie inspirowanym konceptem Aero-X. Wyposażona w zaawansowany napęd XWD i wyświetlacz Head-Up, pozostaje jednym z najbardziej poszukiwanych modeli Saab na rynku wtórnym.",
+              "en": "Saab 9-5 (YS3G generation) is the brand's swan song - a powerful, avant-garde limousine with a unique design inspired by the Aero-X concept. Equipped with advanced XWD and a Head-Up display, it remains one of the most sought-after Saab models on the secondary market.",
+              "de": "Saab 9-5 (YS3G-Generation) ist der Abgesang der Marke – eine kraftvolle, avantgardistische Limousine mit einem einzigartigen Design, inspiriert vom Aero-X-Konzept. Ausgestattet mit einem fortschrittlichen XWD und einem Head-Up-Display bleibt er eines der gefragtesten Saab-Modelle auf dem Zweitmarkt.",
+              "uk": "Saab 9-5 (покоління YS3G) — це лебедина пісня бренду — потужний, авангардний лімузин з унікальним дизайном, натхненним концепцією Aero-X. Оснащений вдосконаленим приводом XWD і дисплеєм Head-Up, він залишається однією з найбільш затребуваних моделей Saab на вторинному ринку.",
+              "ru": "Saab 9-5 (поколение YS3G) — лебединая песня бренда — мощный, авангардный лимузин с уникальным дизайном, вдохновленным концепцией Aero-X. Оснащенный усовершенствованной системой XWD и проекционным дисплеем, он остается одной из самых востребованных моделей Saab на вторичном рынке.",
+              "zh": "Saab 9-5（YS3G 代）是该品牌的绝唱 - 一款强大的前卫豪华轿车，其独特的设计灵感源自 Aero-X 概念。配备先进的 XWD 和平视显示器，它仍然是二级市场上最受欢迎的 Saab 车型之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Saab Automobile",
+                "en": "Saab Automobile",
+                "de": "Saab Automobile",
+                "uk": "Saab Automobile",
+                "ru": "Saab Automobile",
+                "zh": "萨博汽车"
+              },
+              "okres produkcji": "2010–2012",
+              "segment": {
+                "pl": "E (Klasa wyższa premium)",
+                "en": "E (Premium upper class)",
+                "de": "E (Premium-Oberklasse)",
+                "uk": "E (вищий клас преміум-класу)",
+                "ru": "E (высший класс премиум-класса)",
+                "zh": "E（高级上层车）"
+              },
+              "napęd": {
+                "pl": "FWD/XWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cz/3q/31r9eugogk8s84gssgkgo/saab-9-5-sedan-2010.310.jpg"
+        }
+      }
+    ],
+    "9-2X": [
+      {
+        "BrandID": 112,
+        "ModelID": 415862,
+        "Brand Name": "Saab",
+        "Model Name": "9-2X",
+        "Serie Name": "9-2X",
+        "Years": "2004 - 2006",
+        "specs": {
+          "bodyType": "Wagon",
+          "segment": "Compact",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "2.5L - 2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Saab 9-2X, uroczo nazywany 'Saabaru', był wynikiem współpracy z Subaru. Połączył szwedzki design i wyciszenie z legendarnym napędem AWD i silnikiem typu bokser, tworząc unikalne połączenie charakteru obu marek.",
+              "en": "The Saab 9-2X, charmingly nicknamed 'Saabaru', was the result of a collaboration with Subaru. It combined Swedish design and silence with the legendary AWD drive and boxer engine, creating a unique combination of the character of both brands.",
+              "de": "Der Saab 9-2X, liebevoll „Saabaru“ genannt, war das Ergebnis einer Zusammenarbeit mit Subaru. Es kombinierte schwedisches Design und Geräuschlosigkeit mit dem legendären Allradantrieb und Boxermotor und schuf so eine einzigartige Kombination des Charakters beider Marken.",
+              "uk": "Saab 9-2X із чарівною назвою «Saabaru» став результатом співпраці з Subaru. Він поєднав шведський дизайн і тишу з легендарним повним приводом і опозитним двигуном, створюючи унікальне поєднання характеру обох брендів.",
+              "ru": "Saab 9-2X, получивший очаровательное прозвище «Saabaru», стал результатом сотрудничества с Subaru. Он сочетал в себе шведский дизайн и тишину с легендарным полным приводом и оппозитным двигателем, создавая уникальное сочетание характера обеих марок.",
+              "zh": "萨博 9-2X，迷人的昵称“萨巴鲁”，是与斯巴鲁合作的成果。它将瑞典设计和安静与传奇的全轮驱动和水平对置发动机相结合，创造了两个品牌特征的独特组合。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Saab (GM/Subaru)",
+                "en": "Saab (GM/Subaru)",
+                "de": "Saab (GM/Subaru)",
+                "uk": "Saab (GM/Subaru)",
+                "ru": "Saab (GM/Subaru)",
+                "zh": "Saab（通用汽车/斯巴鲁）"
+              },
+              "okres produkcji": "2004–2006",
+              "segment": {
+                "pl": "C (Kompakt premium)",
+                "en": "C (Premium Compact)",
+                "de": "C (Premium Compact)",
+                "uk": "C (Premium Compact)",
+                "ru": "C (Premium Compact)",
+                "zh": "C（高级紧凑型）"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5a/nd/ruq7qxc8wo0c80sskosgk/saab-9-2x.310.jpg"
+        }
+      }
+    ],
+    "9-7X": [
+      {
+        "BrandID": 112,
+        "ModelID": 414310,
+        "Brand Name": "Saab",
+        "Model Name": "9-7X",
+        "Serie Name": "9-7X",
+        "Years": "2005 - 2009",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "4.2L I6 - 6.0L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Saab 9-7X to pierwszy SUV marki, stworzony z myślą o rynku amerykańskim. Choć bazował na platformie GM, oferował unikalne saabaowskie smaczki, takie jak stacyjka w tunelu środkowym i specyficzne strojenie zawieszenia.",
+              "en": "Saab 9-7X is the brand's first SUV, created for the American market. Although it was based on the GM platform, it offered unique Saab details, such as an ignition switch in the center tunnel and specific suspension tuning.",
+              "de": "Saab 9-7X ist das erste SUV der Marke, das für den amerikanischen Markt entwickelt wurde. Obwohl es auf der GM-Plattform basierte, bot es einzigartige Saab-Details wie einen Zündschalter im Mitteltunnel und eine spezifische Fahrwerksabstimmung.",
+              "uk": "Saab 9-7X — перший позашляховик марки, створений для американського ринку. Хоча він базувався на платформі GM, він пропонував унікальні деталі Saab, такі як вимикач запалювання в центральному тунелі та специфічне налаштування підвіски.",
+              "ru": "Saab 9-7X — первый внедорожник марки, созданный для американского рынка. Хотя он был основан на платформе GM, он предлагал уникальные детали Saab, такие как замок зажигания в центральном туннеле и особую настройку подвески.",
+              "zh": "Saab 9-7X 是该品牌的首款 SUV，专为美国市场打造。尽管它基于通用汽车平台，但它提供了独特的萨博细节，例如中央通道中的点火开关和特定的悬架调校。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Saab (GM)",
+                "en": "Saab (GM)",
+                "de": "Saab (GM)",
+                "uk": "Saab (GM)",
+                "ru": "Saab (GM)",
+                "zh": "Saab (GM)"
+              },
+              "okres produkcji": "2005–2009",
+              "segment": {
+                "pl": "E-SUV / SUV Premium",
+                "en": "E-SUV / Premium SUV",
+                "de": "E-SUV / Premium SUV",
+                "uk": "E-SUV / Premium SUV",
+                "ru": "E-SUV / внедорожник премиум-класса",
+                "zh": "E-SUV / 高级 SUV"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/e5/j6/d8ij50gkc8wk44csc4cs8/saab-9-7x.310.jpg"
+        }
+      }
+    ],
+    "9-4X": [
+      {
+        "BrandID": 112,
+        "ModelID": 416576,
+        "Brand Name": "Saab",
+        "Model Name": "9-4X",
+        "Serie Name": "9-4X",
+        "Years": "2011 - 2012",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "3.0L V6 - 2.8L V6 Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Saab 9-4X to jeden z rzadszych modeli współczesnej motoryzacji. Nowoczesny crossover, który łączył skandynawski minimalizm z wszechstronnością, będąc jednym z ostatnich projektów przed zakończeniem produkcji marki.",
+              "en": "Saab 9-4X is one of the rarer models of modern motoring. A modern crossover that combined Scandinavian minimalism with versatility, being one of the last projects before the end of the brand's production.",
+              "de": "Saab 9-4X ist eines der selteneren Modelle des modernen Automobils. Ein moderner Crossover, der skandinavischen Minimalismus mit Vielseitigkeit vereinte und eines der letzten Projekte vor dem Ende der Produktion der Marke war.",
+              "uk": "Saab 9-4X - одна з рідкісних моделей сучасного автомобілебудування. Сучасний кросовер, який поєднав скандинавський мінімалізм з універсальністю, став одним з останніх проектів перед завершенням виробництва марки.",
+              "ru": "Saab 9-4X — одна из самых редких моделей современного автомобилестроения. Современный кроссовер, соединивший скандинавский минимализм с универсальностью, являющийся одним из последних проектов перед окончанием производства марки.",
+              "zh": "Saab 9-4X 是现代汽车中较稀有的车型之一。这是一款将斯堪的纳维亚极简主义与多功能性相结合的现代跨界车，是该品牌生产结束前的最后项目之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Saab (GM)",
+                "en": "Saab (GM)",
+                "de": "Saab (GM)",
+                "uk": "Saab (GM)",
+                "ru": "Saab (GM)",
+                "zh": "萨博 (GM)"
+              },
+              "okres produkcji": "2011",
+              "segment": {
+                "pl": "D-SUV / SUV Premium",
+                "en": "D-SUV / Premium SUV",
+                "de": "D-SUV / Premium-SUV",
+                "uk": "D-SUV / Premium SUV",
+                "ru": "D-SUV / Премиум-внедорожник",
+                "zh": "D-SUV / 高级 SUV"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

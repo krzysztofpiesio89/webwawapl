@@ -1,0 +1,1653 @@
+{
+  "brand": "Alfa Romeo",
+  "models": {
+    "145": [
+      {
+        "BrandID": 3,
+        "ModelID": 16,
+        "Brand Name": "Alfa Romeo",
+        "Model Name": "145",
+        "Serie Name": "145",
+        "Years": "1994 - 2001",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "Boxer / Twin Spark",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Alfa Romeo 145 (1994-2001) to 3-drzwiowy hatchback o charakterystycznej, klinowatej sylwetce, zaprojektowany przez Chrisa Bangle'a. Zastąpił model 33.",
+              "en": "Alfa Romeo 145 (1994-2001) is a 3-door hatchback with a characteristic, wedge-shaped silhouette, designed by Chris Bangle. Replaced the model 33.",
+              "de": "Alfa Romeo 145 (1994–2001) ist ein dreitüriges Fließheckmodell mit einer charakteristischen, keilförmigen Silhouette, entworfen von Chris Armreif. Ersetzt das Modell 33.",
+              "uk": "Alfa Romeo 145 (1994-2001) — 3-дверний хетчбек із характерним клиноподібним силуетом, розроблений Крісом Бенґлом. Замінив модель 33.",
+              "ru": "Alfa Romeo 145 (1994-2001) — 3-дверный хэтчбек с характерным клиновидным силуэтом, разработанный Крисом Бэнглом. На смену модели 33.",
+              "zh": "阿尔法罗密欧 145（1994-2001）是一款三门掀背车，具有独特的楔形轮廓，由 Chris Bangle 设计。替换型号33。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Alfa Romeo",
+                "en": "Alfa Romeo",
+                "de": "Alfa Romeo",
+                "uk": "Альфа Ромео",
+                "ru": "Альфа Ромео",
+                "zh": "阿尔法·罗密欧"
+              },
+              "okres produkcji": {
+                "pl": "1994–2001",
+                "en": "1994–2001",
+                "de": "1994–2001",
+                "uk": "1994–2001",
+                "ru": "1994–2001"
+              },
+              "miejsce produkcji": {
+                "pl": "Pomigliano d'Arco, Włochy",
+                "en": "Pomigliano d'Arco, Italy",
+                "de": "Pomigliano d'Arco, Italien",
+                "uk": "Помільяно д'Арко, Італія",
+                "ru": "Помильяно-д'Арко, Италия",
+                "zh": "意大利波米利亚诺达尔科"
+              },
+              "segment": {
+                "pl": "C",
+                "en": "C",
+                "de": "C",
+                "uk": "C",
+                "ru": "С"
+              },
+              "typ nadwozia": {
+                "pl": "3-drzwiowy hatchback",
+                "en": "3-door hatchback",
+                "de": "3-türiges Fließheck",
+                "uk": "3-дверний хетчбек",
+                "ru": "3-дверный хэтчбек",
+                "zh": "3门掀背车"
+              },
+              "poprzednik": {
+                "pl": "Alfa Romeo 33",
+                "en": "Alfa Romeo 33",
+                "de": "Alfa Romeo 33",
+                "uk": "Альфа Ромео 33",
+                "ru": "Альфа Ромео 33",
+                "zh": "阿尔法罗密欧 33"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2s/q0/byqugdogcokgggo80wwgc/alfa_145-1994-2001_r2-jpg.310.jpg"
+        }
+      }
+    ],
+    "146": [
+      {
+        "BrandID": 3,
+        "ModelID": 17,
+        "Brand Name": "Alfa Romeo",
+        "Model Name": "146",
+        "Serie Name": "146",
+        "Years": "1995 - 2001",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "Boxer / Twin Spark",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Alfa Romeo 146 (1995-2001) to 5-drzwiowa wersja modelu 145, oferująca nieco bardziej konserwatywną stylistykę i większy bagażnik.",
+              "en": "Alfa Romeo 146 (1995-2001) is a 5-door version of the 145 model, offering slightly more conservative styling and a larger trunk.",
+              "de": "Der Alfa Romeo 146 (1995–2001) ist eine fünftürige Version des Modells 145 und bietet ein etwas konservativeres Design und einen größeren Kofferraum.",
+              "uk": "Alfa Romeo 146 (1995-2001) — це 5-дверна версія моделі 145, яка пропонує трохи більш консервативний стиль і більший багажник.",
+              "ru": "Alfa Romeo 146 (1995–2001) — 5-дверная версия модели 145, отличающаяся чуть более консервативным стилем и увеличенным багажником.",
+              "zh": "阿尔法罗密欧 146（1995-2001）是 145 车型的 5 门版本，提供稍微保守的造型和更大的后备箱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Alfa Romeo",
+                "en": "Alfa Romeo",
+                "de": "Alfa Romeo",
+                "uk": "Альфа Ромео",
+                "ru": "Альфа Ромео",
+                "zh": "阿尔法·罗密欧"
+              },
+              "okres produkcji": {
+                "pl": "1995–2001",
+                "en": "1995–2001",
+                "de": "1995–2001",
+                "uk": "1995–2001",
+                "ru": "1995–2001"
+              },
+              "miejsce produkcji": {
+                "pl": "Pomigliano d'Arco, Włochy",
+                "en": "Pomigliano d'Arco, Italy",
+                "de": "Pomigliano d'Arco, Italien",
+                "uk": "Помільяно д'Арко, Італія",
+                "ru": "Помильяно-д'Арко, Италия",
+                "zh": "意大利波米利亚诺达尔科"
+              },
+              "segment": {
+                "pl": "C",
+                "en": "C",
+                "de": "C",
+                "uk": "C",
+                "ru": "С"
+              },
+              "typ nadwozia": {
+                "pl": "5-drzwiowy liftback",
+                "en": "5-door liftback",
+                "de": "5-türiges Liftback",
+                "uk": "5-дверний ліфтбек",
+                "ru": "5-дверный лифтбек",
+                "zh": "5门掀背式"
+              },
+              "pokrewne": {
+                "pl": "Alfa Romeo 145, Fiat Tipo/Tempra",
+                "en": "Alfa Romeo 145, Fiat Tipo/Tempra",
+                "de": "Alfa Romeo 145, Fiat Tipo/Tempra",
+                "uk": "Alfa Romeo 145, Fiat Tipo/Tempra",
+                "ru": "Альфа Ромео 145, Фиат Типо/Темпра",
+                "zh": "阿尔法罗密欧 145、菲亚特 Tipo/Tempra"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ct/y2/xzb4fcowwwsc0c80oko88/alfa-romeo-146-i-hatch.310.jpg"
+        }
+      }
+    ],
+    "147": [
+      {
+        "BrandID": 3,
+        "ModelID": 18,
+        "Brand Name": "Alfa Romeo",
+        "Model Name": "147",
+        "Serie Name": "147",
+        "Years": "2000 - 2010",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "Twin Spark / JTD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Alfa Romeo 147 (2000-2010) to kompaktowy hatchback, który zdobył tytuł Car of the Year 2001. Znany z pięknej stylistyki Waltera de Silvy i sportowego prowadzenia.",
+              "en": "Alfa Romeo 147 (2000-2010) is a compact hatchback that won the Car of the Year 2001 title. Known for its beautiful Walter de Silva styling and sporty handling.",
+              "de": "Alfa Romeo 147 (2000–2010) ist ein kompaktes Fließheckmodell, das 2001 den Titel „Auto des Jahres“ gewann. Bekannt für sein wunderschönes Walter-de-Silva-Design und sein sportliches Handling.",
+              "uk": "Alfa Romeo 147 (2000-2010) — компактний хетчбек, який отримав звання «Автомобіль року 2001». Відомий своїм прекрасним стилем Walter de Silva і спортивним керуванням.",
+              "ru": "Alfa Romeo 147 (2000-2010) — компактный хэтчбек, завоевавший титул «Автомобиль года 2001». Известен своим прекрасным стилем Вальтера де Сильвы и спортивной управляемостью.",
+              "zh": "阿尔法罗密欧 147（2000-2010）是一款紧凑型掀背车，荣获 2001 年度汽车称号。以其美丽的 Walter de Silva 造型和运动操控而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Alfa Romeo",
+                "en": "Alfa Romeo",
+                "de": "Alfa Romeo",
+                "uk": "Альфа Ромео",
+                "ru": "Альфа Ромео",
+                "zh": "阿尔法·罗密欧"
+              },
+              "okres produkcji": {
+                "pl": "2000–2010",
+                "en": "2000–2010",
+                "de": "2000–2010",
+                "uk": "2000–2010",
+                "ru": "2000–2010"
+              },
+              "miejsce produkcji": {
+                "pl": "Pomigliano d'Arco, Włochy",
+                "en": "Pomigliano d'Arco, Italy",
+                "de": "Pomigliano d'Arco, Italien",
+                "uk": "Помільяно д'Арко, Італія",
+                "ru": "Помильяно-д'Арко, Италия",
+                "zh": "意大利波米利亚诺达尔科"
+              },
+              "segment": {
+                "pl": "C",
+                "en": "C",
+                "de": "C",
+                "uk": "C",
+                "ru": "С"
+              },
+              "projektant": {
+                "pl": "Walter de Silva / Wolfgang Egger",
+                "en": "Walter de Silva / Wolfgang Egger",
+                "de": "Walter de Silva / Wolfgang Egger",
+                "uk": "Вальтер де Сільва / Вольфганг Еггер",
+                "ru": "Вальтер де Сильва / Вольфганг Эггер",
+                "zh": "沃尔特·德·席尔瓦 / 沃尔夫冈·艾格"
+              },
+              "tytuł": {
+                "pl": "Car of the Year 2001",
+                "en": "Car of the Year 2001",
+                "de": "Auto des Jahres 2001",
+                "uk": "Автомобіль 2001 року",
+                "ru": "Автомобиль года 2001",
+                "zh": "2001 年度汽车"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/rb/8r/q44mokgk88sksgcg0wks/alfa-romeo-147.310.jpg"
+        }
+      }
+    ],
+    "155": [
+      {
+        "BrandID": 3,
+        "ModelID": 19,
+        "Brand Name": "Alfa Romeo",
+        "Model Name": "155",
+        "Serie Name": "155",
+        "Years": "1992 - 1998",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mainstream",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "Twin Spark / V6 / Turbo",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Alfa Romeo 155 (1992-1998) to sportowy sedan, który zasłynął sukcesami w wyścigach DTM. Kanciasta sylwetka skrywała nowoczesną technikę i mocne silniki Twin Spark.",
+              "en": "Alfa Romeo 155 (1992-1998) is a sports sedan that became famous for its successes in DTM races. The angular silhouette concealed modern technology and powerful Twin Spark engines.",
+              "de": "Alfa Romeo 155 (1992–1998) ist eine Sportlimousine, die durch ihre Erfolge bei DTM-Rennen berühmt wurde. Hinter der kantigen Silhouette verbargen sich moderne Technik und kraftvolle Twin-Spark-Motoren.",
+              "uk": "Alfa Romeo 155 (1992-1998) - спортивний седан, який прославився своїми успіхами в гонках DTM. Кутастий силует приховував сучасні технології та потужні двигуни Twin Spark.",
+              "ru": "Alfa Romeo 155 (1992-1998) — спортивный седан, прославившийся успехами в гонках DTM. Угловой силуэт скрывал современные технологии и мощные двигатели Twin Spark.",
+              "zh": "阿尔法·罗密欧 155（1992-1998）是一款运动轿车，因其在 DTM 比赛中的成功而闻名。棱角分明的轮廓隐藏着现代技术和强大的双火花发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Alfa Romeo",
+                "en": "Alfa Romeo",
+                "de": "Alfa Romeo",
+                "uk": "Альфа Ромео",
+                "ru": "Альфа Ромео",
+                "zh": "阿尔法·罗密欧"
+              },
+              "okres produkcji": {
+                "pl": "1992–1998",
+                "en": "1992–1998",
+                "de": "1992–1998",
+                "uk": "1992–1998",
+                "ru": "1992–1998"
+              },
+              "miejsce produkcji": {
+                "pl": "Pomigliano d'Arco, Włochy",
+                "en": "Pomigliano d'Arco, Italy",
+                "de": "Pomigliano d'Arco, Italien",
+                "uk": "Помільяно д'Арко, Італія",
+                "ru": "Помильяно-д'Арко, Италия",
+                "zh": "意大利波米利亚诺达尔科"
+              },
+              "segment": {
+                "pl": "D",
+                "en": "D",
+                "de": "D",
+                "uk": "Д",
+                "ru": "Д"
+              },
+              "wersje specjalne": {
+                "pl": "V6 TI (DTM), Q4",
+                "en": "V6 TI (DTM), Q4",
+                "de": "V6 TI (DTM), Q4",
+                "uk": "V6 TI (DTM), Q4",
+                "ru": "V6 TI (DTM), 4 квартал",
+                "zh": "V6 TI (DTM)、Q4"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/15/45/x7by8u74k0sgw004sg0cg/alfa-romeo-155-i-sed.310.jpg"
+        }
+      }
+    ],
+    "156": [
+      {
+        "BrandID": 3,
+        "ModelID": 20,
+        "Brand Name": "Alfa Romeo",
+        "Model Name": "156",
+        "Serie Name": "156",
+        "Years": "1997 - 2005",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Mainstream",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "Twin Spark / JTS / V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Alfa Romeo 156 (1997-2005) to model, który uratował markę. Zdobywca tytułu Car of the Year 1998, zaprojektowany przez Waltera de Silvę. Wyróżnia się ukrytymi klamkami tylnych drzwi.",
+              "en": "Alfa Romeo 156 (1997-2005) is the model that saved the brand. Winner of the 1998 Car of the Year title, designed by Walter de Silva. It is distinguished by hidden rear door handles.",
+              "de": "Alfa Romeo 156 (1997–2005) ist das Modell, das die Marke gerettet hat. Gewinner des Titels „Auto des Jahres 1998“, entworfen von Walter de Silva. Es zeichnet sich durch versteckte hintere Türgriffe aus.",
+              "uk": "Alfa Romeo 156 (1997-2005) - модель, яка врятувала бренд. Володар титулу «Автомобіль року» 1998 року, розроблений Вальтером де Сільва. Відрізняється прихованими ручками задніх дверей.",
+              "ru": "Alfa Romeo 156 (1997-2005) – модель, спасшая бренд. Победитель конкурса «Автомобиль года» 1998 года, дизайн Вальтера де Сильвы. Его отличают скрытые ручки задних дверей.",
+              "zh": "阿尔法·罗密欧 156（1997-2005）是拯救该品牌的车型。荣获 1998 年年度汽车称号，由 Walter de Silva 设计。它的特点是隐藏式后门把手。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Alfa Romeo",
+                "en": "Alfa Romeo",
+                "de": "Alfa Romeo",
+                "uk": "Альфа Ромео",
+                "ru": "Альфа Ромео",
+                "zh": "阿尔法·罗密欧"
+              },
+              "okres produkcji": {
+                "pl": "1997–2005",
+                "en": "1997–2005",
+                "de": "1997–2005",
+                "uk": "1997–2005",
+                "ru": "1997–2005"
+              },
+              "miejsce produkcji": {
+                "pl": "Pomigliano d'Arco, Włochy",
+                "en": "Pomigliano d'Arco, Italy",
+                "de": "Pomigliano d'Arco, Italien",
+                "uk": "Помільяно д'Арко, Італія",
+                "ru": "Помильяно-д'Арко, Италия",
+                "zh": "意大利波米利亚诺达尔科"
+              },
+              "tytuł": {
+                "pl": "Car of the Year 1998",
+                "en": "Car of the Year 1998",
+                "de": "Auto des Jahres 1998",
+                "uk": "Автомобіль 1998 року",
+                "ru": "Автомобиль года 1998",
+                "zh": "1998 年度汽车"
+              },
+              "projektant": {
+                "pl": "Walter de Silva",
+                "en": "Walter de Silva",
+                "de": "Walter de Silva",
+                "uk": "Вальтер де Сільва",
+                "ru": "Вальтер де Силва",
+                "zh": "沃尔特·德席尔瓦"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5w/sf/dhzaru4ogk0wo8kswcc0w/alfa-romeo-156-ii-sedan.310.jpg"
+        }
+      }
+    ],
+    "159": [
+      {
+        "BrandID": 3,
+        "ModelID": 21,
+        "Brand Name": "Alfa Romeo",
+        "Model Name": "159",
+        "Serie Name": "159",
+        "Years": "2005 - 2011",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Mainstream",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "JTS / TBi / JTDm",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Alfa Romeo 159 (2005-2011) to następca 156, zaprojektowany przez Giorgetto Giugiaro. Wyróżnia się agresywnym frontem z potrójnymi reflektorami i bardzo sztywnym nadwoziem.",
+              "en": "Alfa Romeo 159 (2005-2011) is the successor of the 156, designed by Giorgetto Giugiaro. It is distinguished by an aggressive front with triple headlights and a very rigid body.",
+              "de": "Alfa Romeo 159 (2005–2011) ist der Nachfolger des von Giorgetto Giugiaro entworfenen 156. Es zeichnet sich durch eine aggressive Front mit Dreifachscheinwerfern und eine sehr steife Karosserie aus.",
+              "uk": "Alfa Romeo 159 (2005-2011) є наступником 156, розробленого Джорджетто Джуджаро. Його відрізняє агресивний передок з потрійними фарами і дуже жорсткий кузов.",
+              "ru": "Alfa Romeo 159 (2005-2011) является преемником модели 156, разработанной Джорджетто Джуджаро. Его отличает агрессивная передняя часть с тройными фарами и очень жесткий кузов.",
+              "zh": "阿尔法·罗密欧 159（2005-2011）是 156 的后继车型，由 Giorgetto Giugiaro 设计。它的特点是具有侵略性的前部、三重头灯和非常坚固的车身。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Alfa Romeo",
+                "en": "Alfa Romeo",
+                "de": "Alfa Romeo",
+                "uk": "Альфа Ромео",
+                "ru": "Альфа Ромео",
+                "zh": "阿尔法·罗密欧"
+              },
+              "okres produkcji": {
+                "pl": "2005–2011",
+                "en": "2005–2011",
+                "de": "2005–2011",
+                "uk": "2005–2011",
+                "ru": "2005–2011"
+              },
+              "miejsce produkcji": {
+                "pl": "Pomigliano d'Arco, Włochy",
+                "en": "Pomigliano d'Arco, Italy",
+                "de": "Pomigliano d'Arco, Italien",
+                "uk": "Помільяно д'Арко, Італія",
+                "ru": "Помильяно-д'Арко, Италия",
+                "zh": "意大利波米利亚诺达尔科"
+              },
+              "platforma": {
+                "pl": "GM/Fiat Premium",
+                "en": "GM/Fiat Premium",
+                "de": "GM/Fiat Premium",
+                "uk": "GM/Fiat Premium",
+                "ru": "ГМ/Фиат Премиум",
+                "zh": "通用汽车/菲亚特高级"
+              },
+              "projektant": {
+                "pl": "Giorgetto Giugiaro",
+                "en": "Giorgetto Giugiaro",
+                "de": "Giorgetto Giugiaro",
+                "uk": "Джорджетто Джуджаро",
+                "ru": "Джорджетто Джуджаро",
+                "zh": "乔治亚罗"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8i/3b/do4qgosg8ow8k0s4s4wo0/alfa-romeo-159-i-sedan.310.jpg"
+        }
+      }
+    ],
+    "164": [
+      {
+        "BrandID": 3,
+        "ModelID": 22,
+        "Brand Name": "Alfa Romeo",
+        "Model Name": "164",
+        "Serie Name": "164",
+        "Years": "1987 - 1998",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Executive",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "Twin Spark / V6 / Turbo",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Alfa Romeo 164 (1987-1998) to pierwsza limuzyna marki z napędem na przednią oś. Zaprojektowana przez Pininfarinę, dzieliła płytę podłogową z Saabem 9000, Lancią Themą i Fiatem Croma.",
+              "en": "Alfa Romeo 164 (1987-1998) is the brand's first front-wheel drive limousine. Designed by Pininfarina, it shared its platform with the Saab 9000, Lancia Thema and Fiat Croma.",
+              "de": "Alfa Romeo 164 (1987–1998) ist die erste Limousine der Marke mit Frontantrieb. Es wurde von Pininfarina entworfen und teilte seine Plattform mit dem Saab 9000, dem Lancia Thema und dem Fiat Croma.",
+              "uk": "Alfa Romeo 164 (1987-1998) — перший передньопривідний лімузин марки. Розроблений Pininfarina, він мав спільну платформу з Saab 9000, Lancia Thema та Fiat Croma.",
+              "ru": "Alfa Romeo 164 (1987-1998) — первый переднеприводный лимузин марки. Разработанный Pininfarina, он разделил платформу с Saab 9000, Lancia Thema и Fiat Croma.",
+              "zh": "阿尔法罗密欧 164（1987-1998）是该品牌的第一款前轮驱动豪华轿车。它由 Pininfarina 设计，与 Saab 9000、Lancia Thema 和 Fiat Croma 共享平台。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Alfa Romeo",
+                "en": "Alfa Romeo",
+                "de": "Alfa Romeo",
+                "uk": "Альфа Ромео",
+                "ru": "Альфа Ромео",
+                "zh": "阿尔法·罗密欧"
+              },
+              "okres produkcji": {
+                "pl": "1987–1998",
+                "en": "1987–1998",
+                "de": "1987–1998",
+                "uk": "1987–1998",
+                "ru": "1987–1998"
+              },
+              "miejsce produkcji": {
+                "pl": "Arese, Włochy",
+                "en": "Arese, Italy",
+                "de": "Arese, Italien",
+                "uk": "Арезе, Італія",
+                "ru": "Арезе, Италия",
+                "zh": "意大利阿雷塞"
+              },
+              "segment": {
+                "pl": "E",
+                "en": "E",
+                "de": "E",
+                "uk": "E",
+                "ru": "Э"
+              },
+              "projektant": {
+                "pl": "Enrico Fumia (Pininfarina)",
+                "en": "Enrico Fumia (Pininfarina)",
+                "de": "Enrico Fumia (Pininfarina)",
+                "uk": "Енріко Фуміа (Пінінфаріна)",
+                "ru": "Энрико Фумиа (Pininfarina)",
+                "zh": "恩里科·福米亚（宾尼法利纳）"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6v/we/laofkf8kk000ogwk0c40s/alfa-romeo-164-i-sedan.310.jpg"
+        }
+      }
+    ],
+    "166": [
+      {
+        "BrandID": 3,
+        "ModelID": 23,
+        "Brand Name": "Alfa Romeo",
+        "Model Name": "166",
+        "Serie Name": "166",
+        "Years": "1998 - 2007",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Executive",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "Twin Spark / V6 / JTD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Alfa Romeo 166 (1998-2007) to luksusowa limuzyna o sportowym charakterze, następca modelu 164. Wyróżniała się eleganckim wnętrzem i świetnym prowadzeniem.",
+              "en": "Alfa Romeo 166 (1998-2007) is a luxurious limousine with a sporty character, the successor of the 164 model. It was distinguished by an elegant interior and great handling.",
+              "de": "Alfa Romeo 166 (1998–2007) ist eine luxuriöse Limousine mit sportlichem Charakter, der Nachfolger des Modells 164. Es zeichnete sich durch ein elegantes Interieur und ein tolles Handling aus.",
+              "uk": "Alfa Romeo 166 (1998-2007) - розкішний лімузин зі спортивним характером, спадкоємець моделі 164. Він відрізнявся елегантним салоном і чудовою керованістю.",
+              "ru": "Alfa Romeo 166 (1998-2007) — роскошный лимузин со спортивным характером, преемник модели 164. Его отличал элегантный салон и отличная управляемость.",
+              "zh": "阿尔法·罗密欧 166（1998-2007）是一款具有运动特色的豪华轿车，是 164 车型的后继产品。它以优雅的内饰和出色的操控性而著称。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Alfa Romeo",
+                "en": "Alfa Romeo",
+                "de": "Alfa Romeo",
+                "uk": "Альфа Ромео",
+                "ru": "Альфа Ромео",
+                "zh": "阿尔法·罗密欧"
+              },
+              "okres produkcji": {
+                "pl": "1998–2007",
+                "en": "1998–2007",
+                "de": "1998–2007",
+                "uk": "1998–2007",
+                "ru": "1998–2007"
+              },
+              "miejsce produkcji": {
+                "pl": "Rivalta di Torino, Włochy",
+                "en": "Rivalta di Torino, Italy",
+                "de": "Rivalta di Torino, Italien",
+                "uk": "Ривальта-ді-Турин, Італія",
+                "ru": "Ривальта ди Турин, Италия",
+                "zh": "意大利都灵里瓦尔塔"
+              },
+              "segment": {
+                "pl": "E",
+                "en": "E",
+                "de": "E",
+                "uk": "E",
+                "ru": "Э"
+              },
+              "projektant": {
+                "pl": "Walter de Silva",
+                "en": "Walter de Silva",
+                "de": "Walter de Silva",
+                "uk": "Вальтер де Сільва",
+                "ru": "Вальтер де Силва",
+                "zh": "沃尔特·德席尔瓦"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3l/bk/u0b1wbuok88ckkkwg8w0k/afa-romeo-166-ii-sedan.310.jpg"
+        }
+      }
+    ],
+    "4C": [
+      {
+        "BrandID": 3,
+        "ModelID": 416600,
+        "Brand Name": "Alfa Romeo",
+        "Model Name": "4C",
+        "Serie Name": "4C",
+        "Years": "2013 - 2020",
+        "specs": {
+          "bodyType": "Coupe/Spider",
+          "segment": "Sport",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "1.75L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Alfa Romeo 4C (2013-2020) to bezkompromisowe sportowe coupe z centralnym silnikiem i karbonowym monokokiem. Ważąc poniżej 900 kg, oferuje wyścigowe doznania na drodze.",
+              "en": "Alfa Romeo 4C (2013-2020) is an uncompromising sports coupe with a mid-engine and carbon monocoque. Weighing less than 900 kg, it offers a racing experience on the road.",
+              "de": "Alfa Romeo 4C (2013–2020) ist ein kompromissloses Sportcoupé mit Mittelmotor und Carbon-Monocoque. Mit einem Gewicht von weniger als 900 kg bietet es ein Rennerlebnis auf der Straße.",
+              "uk": "Alfa Romeo 4C (2013-2020) — безкомпромісне спортивне купе з центральним розташуванням двигуна та карбоновим монококом. При вазі менше 900 кг він пропонує досвід перегонів на дорозі.",
+              "ru": "Alfa Romeo 4C (2013-2020) – бескомпромиссное спортивное купе со среднемоторным расположением двигателя и карбоновым монококом. При весе менее 900 кг он предлагает ощущения от гонок на дороге.",
+              "zh": "阿尔法罗密欧 4C（2013-2020）是一款毫不妥协的运动轿跑车，采用中置发动机和碳纤维单体壳。重量不到 900 公斤，提供公路赛车体验。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Alfa Romeo",
+                "en": "Alfa Romeo",
+                "de": "Alfa Romeo",
+                "uk": "Альфа Ромео",
+                "ru": "Альфа Ромео",
+                "zh": "阿尔法·罗密欧"
+              },
+              "okres produkcji": {
+                "pl": "2013–2020",
+                "en": "2013–2020",
+                "de": "2013–2020",
+                "uk": "2013–2020",
+                "ru": "2013–2020"
+              },
+              "miejsce produkcji": {
+                "pl": "Modena, Włochy (Maserati)",
+                "en": "Modena, Italy (Maserati)",
+                "de": "Modena, Italien (Maserati)",
+                "uk": "Модена, Італія (Maserati)",
+                "ru": "Модена, Италия (Maserati)",
+                "zh": "意大利摩德纳（玛莎拉蒂）"
+              },
+              "segment": {
+                "pl": "S",
+                "en": "S",
+                "de": "S",
+                "uk": "С",
+                "ru": "С"
+              },
+              "typ nadwozia": {
+                "pl": "2-drzwiowe coupe / spider",
+                "en": "2-door coupe/spider",
+                "de": "2-türiges Coupé/Spider",
+                "uk": "2-дверне купе/павук",
+                "ru": "2-дверное купе/паук",
+                "zh": "2门轿跑车/蜘蛛车"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5l/1y/0f00j2804k0ko08coss08/alfa-romeo-4c-concept-2011-14.310.jpg"
+        }
+      }
+    ],
+    "8C": [
+      {
+        "BrandID": 3,
+        "ModelID": 416601,
+        "Brand Name": "Alfa Romeo",
+        "Model Name": "8C",
+        "Serie Name": "8C Competizione",
+        "Years": "2007 - 2010",
+        "specs": {
+          "bodyType": "Coupe/Spider",
+          "segment": "Sport",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "4.7L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Alfa Romeo 8C Competizione (2007-2010) to limitowany supersamochód, który przywrócił markę do świata aut sportowych najwyższej klasy. Napędzany silnikiem V8 od Ferrari.",
+              "en": "Alfa Romeo 8C Competizione (2007-2010) is a limited edition supercar that returned the brand to the world of top-class sports cars. Powered by a V8 engine from Ferrari.",
+              "de": "Alfa Romeo 8C Competizione (2007-2010) ist ein Supersportwagen in limitierter Auflage, der die Marke in die Welt der Spitzensportwagen zurückführte. Angetrieben von einem V8-Motor von Ferrari.",
+              "uk": "Alfa Romeo 8C Competizione (2007-2010) — суперкар лімітованої серії, який повернув бренд у світ спортивних автомобілів вищого класу. Працює двигуном V8 від Ferrari.",
+              "ru": "Alfa Romeo 8C Competizione (2007-2010) — суперкар ограниченной серии, вернувший бренд в мир спортивных автомобилей высшего класса. Оснащен двигателем V8 от Ferrari.",
+              "zh": "阿尔法·罗密欧 8C Competizione（2007-2010）是一款限量版超级跑车，使该品牌重返顶级跑车世界。由法拉利 V8 发动机提供动力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Alfa Romeo",
+                "en": "Alfa Romeo",
+                "de": "Alfa Romeo",
+                "uk": "Альфа Ромео",
+                "ru": "Альфа Ромео",
+                "zh": "阿尔法·罗密欧"
+              },
+              "okres produkcji": {
+                "pl": "2007–2010",
+                "en": "2007–2010",
+                "de": "2007–2010",
+                "uk": "2007–2010",
+                "ru": "2007–2010"
+              },
+              "miejsce produkcji": {
+                "pl": "Modena, Włochy (Maserati)",
+                "en": "Modena, Italy (Maserati)",
+                "de": "Modena, Italien (Maserati)",
+                "uk": "Модена, Італія (Maserati)",
+                "ru": "Модена, Италия (Maserati)",
+                "zh": "意大利摩德纳（玛莎拉蒂）"
+              },
+              "segment": {
+                "pl": "S",
+                "en": "S",
+                "de": "S",
+                "uk": "С",
+                "ru": "С"
+              },
+              "projektant": {
+                "pl": "Wolfgang Egger",
+                "en": "Wolfgang Egger",
+                "de": "Wolfgang Egger",
+                "uk": "Вольфганг Еггер",
+                "ru": "Вольфганг Эггер",
+                "zh": "沃尔夫冈·艾格"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Brera": [
+      {
+        "BrandID": 3,
+        "ModelID": 26,
+        "Brand Name": "Alfa Romeo",
+        "Model Name": "Brera",
+        "Serie Name": "Brera",
+        "Years": "2005 - 2010",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Mainstream",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "JTS / TBi / V6 / JTDm",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Alfa Romeo Brera (2005-2010) to sportowe coupe, uznawane za jedno z najpiękniejszych aut swojej epoki. Koncepcyjna wersja zdobyła tytuł 'Best of Show' w Genewie 2002.",
+              "en": "Alfa Romeo Brera (2005-2010) is a sports coupe, considered one of the most beautiful cars of its era. The concept version won the 'Best of Show' title at Geneva 2002.",
+              "de": "Alfa Romeo Brera (2005–2010) ist ein Sportcoupé, das als eines der schönsten Autos seiner Zeit gilt. Die Konzeptversion gewann 2002 in Genf den Titel „Best of Show“.",
+              "uk": "Alfa Romeo Brera (2005-2010) - спортивне купе, яке вважається одним з найкрасивіших автомобілів своєї епохи. Концептуальна версія виграла титул «Найкраще на виставці» в Женеві 2002 року.",
+              "ru": "Alfa Romeo Brera (2005-2010) – спортивное купе, считающееся одним из самых красивых автомобилей своей эпохи. Концептуальная версия получила титул «Best of Show» на Женевском фестивале 2002 года.",
+              "zh": "阿尔法·罗密欧布雷拉（Alfa Romeo Brera，2005-2010）是一款运动型轿跑车，被认为是那个时代最漂亮的汽车之一。该概念版本在 2002 年日内瓦车展上荣获“最佳展示奖”。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Alfa Romeo",
+                "en": "Alfa Romeo",
+                "de": "Alfa Romeo",
+                "uk": "Альфа Ромео",
+                "ru": "Альфа Ромео",
+                "zh": "阿尔法·罗密欧"
+              },
+              "okres produkcji": {
+                "pl": "2005–2010",
+                "en": "2005–2010",
+                "de": "2005–2010",
+                "uk": "2005–2010",
+                "ru": "2005–2010"
+              },
+              "miejsce produkcji": {
+                "pl": "San Giorgio Canavese, Włochy (Pininfarina)",
+                "en": "San Giorgio Canavese, Italy (Pininfarina)",
+                "de": "San Giorgio Canavese, Italien (Pininfarina)",
+                "uk": "Сан-Джорджо Канавезе, Італія (Пінінфаріна)",
+                "ru": "Сан-Джорджо-Канавезе, Италия (Пининфарина)",
+                "zh": "圣乔治卡纳韦塞，意大利（宾尼法利纳）"
+              },
+              "segment": {
+                "pl": "S",
+                "en": "S",
+                "de": "S",
+                "uk": "С",
+                "ru": "С"
+              },
+              "projektant": {
+                "pl": "Giorgetto Giugiaro",
+                "en": "Giorgetto Giugiaro",
+                "de": "Giorgetto Giugiaro",
+                "uk": "Джорджетто Джуджаро",
+                "ru": "Джорджетто Джуджаро",
+                "zh": "乔治亚罗"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ep/57/i1toq3kkkc484o4ksookw/brera.310.jpg"
+        }
+      }
+    ],
+    "Giulia": [
+      {
+        "BrandID": 3,
+        "ModelID": 27,
+        "Brand Name": "Alfa Romeo",
+        "Model Name": "Giulia",
+        "Serie Name": "Giulia (Classic)",
+        "Years": "1962 - 1978",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Classic",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "1.3L / 1.6L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Klasyczna Alfa Romeo Giulia (1962-1978) to sportowy sedan, który zrewolucjonizował klasę średnią. Dzięki niskiej masie, świetnej aerodynamice i mocnym silnikom, była szybsza od wielu aut sportowych.",
+              "en": "The classic Alfa Romeo Giulia (1962-1978) is a sports sedan that revolutionized the middle class. Thanks to its low weight, great aerodynamics and powerful engines, it was faster than many sports cars.",
+              "de": "Der klassische Alfa Romeo Giulia (1962–1978) ist eine Sportlimousine, die die Mittelklasse revolutionierte. Dank seines geringen Gewichts, der tollen Aerodynamik und der leistungsstarken Motoren war er schneller als viele Sportwagen.",
+              "uk": "Класичний Alfa Romeo Giulia (1962-1978) — спортивний седан, який зробив революцію в середньому класі. Завдяки малій вазі, чудовій аеродинаміці та потужним двигунам він був швидшим за багато спортивних автомобілів.",
+              "ru": "Классический Alfa Romeo Giulia (1962–1978) — спортивный седан, произведший революцию в среднем классе. Благодаря небольшому весу, великолепной аэродинамике и мощным двигателям он был быстрее многих спортивных автомобилей.",
+              "zh": "经典的阿尔法罗密欧朱利亚（1962-1978）是一款彻底改变了中产阶级的运动轿车。由于重量轻、空气动力学性能好、发动机强劲，它比许多跑车都快。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Alfa Romeo",
+                "en": "Alfa Romeo",
+                "de": "Alfa Romeo",
+                "uk": "Альфа Ромео",
+                "ru": "Альфа Ромео",
+                "zh": "阿尔法·罗密欧"
+              },
+              "okres produkcji": {
+                "pl": "1962–1978",
+                "en": "1962–1978",
+                "de": "1962–1978",
+                "uk": "1962–1978",
+                "ru": "1962–1978"
+              },
+              "miejsce produkcji": {
+                "pl": "Arese, Włochy",
+                "en": "Arese, Italy",
+                "de": "Arese, Italien",
+                "uk": "Арезе, Італія",
+                "ru": "Арезе, Италия",
+                "zh": "意大利阿雷塞"
+              },
+              "segment": {
+                "pl": "D",
+                "en": "D",
+                "de": "D",
+                "uk": "Д",
+                "ru": "Д"
+              },
+              "projektant": {
+                "pl": "Giuseppe Scarnati",
+                "en": "Giuseppe Scarnati",
+                "de": "Giuseppe Scarnati",
+                "uk": "Джузеппе Скарнаті",
+                "ru": "Джузеппе Скарнати",
+                "zh": "朱塞佩·斯卡纳蒂"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4x/lc/0alhel4w8wswkckg8g48s/alfa-romeo-giulia-5.310.jpg"
+        }
+      },
+      {
+        "BrandID": 3,
+        "ModelID": 413645,
+        "Brand Name": "Alfa Romeo",
+        "Model Name": "Giulia",
+        "Serie Name": "Giulia (952)",
+        "Years": "2016 - 3000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mainstream",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L Turbo / 2.9L V6 / 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Nowożytna Alfa Romeo Giulia (od 2016) to powrót marki do korzeni – napęd na tył, idealny rozkład mas 50:50 i sportowe emocje. W wersji Quadrifoglio rywalizuje z najlepszymi super-sedanami.",
+              "en": "The modern Alfa Romeo Giulia (from 2016) is the brand's return to its roots - rear-wheel drive, ideal 50:50 weight distribution and sporty emotions. In the Quadrifoglio version, it competes with the best super sedans.",
+              "de": "Der moderne Alfa Romeo Giulia (ab 2016) ist die Rückkehr der Marke zu ihren Wurzeln – Hinterradantrieb, ideale Gewichtsverteilung von 50:50 und sportliche Emotionen. In der Quadrifoglio-Version konkurriert er mit den besten Superlimousinen.",
+              "uk": "Сучасна Alfa Romeo Giulia (з 2016 року) — це повернення бренду до витоків — задній привід, ідеальний розподіл ваги 50:50 та спортивні емоції. У версії Quadrifoglio він конкурує з найкращими суперседанами.",
+              "ru": "Современная Alfa Romeo Giulia (с 2016 года) — это возвращение бренда к истокам — заднему приводу, идеальной развесовке 50:50 и спортивным эмоциям. В версии Quadrifoglio он конкурирует с лучшими суперседанами.",
+              "zh": "现代阿尔法·罗密欧 Giulia（2016 年起）是该品牌回归其根源的体现：后轮驱动、理想的 50:50 重量分布和运动情感。在 Quadrifoglio 版本中，它可以与最好的超级轿车竞争。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Alfa Romeo",
+                "en": "Alfa Romeo",
+                "de": "Alfa Romeo",
+                "uk": "Альфа Ромео",
+                "ru": "Альфа Ромео",
+                "zh": "阿尔法·罗密欧"
+              },
+              "okres produkcji": {
+                "pl": "od 2016",
+                "en": "since 2016",
+                "de": "seit 2016",
+                "uk": "з 2016 року",
+                "ru": "с 2016 года",
+                "zh": "自2016年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Cassino, Włochy",
+                "en": "Cassino, Italy",
+                "de": "Cassino, Italien",
+                "uk": "Кассіно, Італія",
+                "ru": "Кассино, Италия",
+                "zh": "意大利卡西诺"
+              },
+              "platforma": {
+                "pl": "FCA Giorgio",
+                "en": "FCA Giorgio",
+                "de": "FCA Giorgio",
+                "uk": "FCA Джорджіо",
+                "ru": "FCA Джорджио",
+                "zh": "FCA乔治"
+              },
+              "tytuł": {
+                "pl": "Wiele nagród za design i prowadzenie",
+                "en": "Many awards for design and handling",
+                "de": "Viele Auszeichnungen für Design und Handhabung",
+                "uk": "Багато нагород за дизайн і керування",
+                "ru": "Множество наград за дизайн и управляемость",
+                "zh": "设计和操控荣获多项奖项"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4x/lc/0alhel4w8wswkckg8g48s/alfa-romeo-giulia-5.310.jpg"
+        }
+      }
+    ],
+    "Giulietta": [
+      {
+        "BrandID": 3,
+        "ModelID": 28,
+        "Brand Name": "Alfa Romeo",
+        "Model Name": "Giulietta",
+        "Serie Name": "Giulietta (940)",
+        "Years": "2010 - 2020",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "MultiAir / TBi / JTDm",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Alfa Romeo Giulietta (2010-2020) to stylowy kompakt, który łączył elegancję z dynamicznym prowadzeniem. Zastąpiła model 147.",
+              "en": "Alfa Romeo Giulietta (2010-2020) is a stylish compact that combined elegance with dynamic handling. It replaced the 147 model.",
+              "de": "Alfa Romeo Giulietta (2010–2020) ist ein stilvoller Kompaktwagen, der Eleganz mit dynamischem Handling vereint. Es ersetzte das Modell 147.",
+              "uk": "Alfa Romeo Giulietta (2010-2020) – це стильний компактний автомобіль, який поєднав елегантність із динамічною керованістю. Він замінив 147 модель.",
+              "ru": "Alfa Romeo Giulietta (2010-2020) – стильный компакт, сочетающий в себе элегантность и динамичную управляемость. Он заменил модель 147.",
+              "zh": "Alfa Romeo Giulietta（2010-2020）是一款时尚紧凑型车，将优雅与动态操控融为一体。它取代了147型号。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Alfa Romeo",
+                "en": "Alfa Romeo",
+                "de": "Alfa Romeo",
+                "uk": "Альфа Ромео",
+                "ru": "Альфа Ромео",
+                "zh": "阿尔法·罗密欧"
+              },
+              "okres produkcji": {
+                "pl": "2010–2020",
+                "en": "2010–2020",
+                "de": "2010–2020",
+                "uk": "2010–2020",
+                "ru": "2010–2020"
+              },
+              "miejsce produkcji": {
+                "pl": "Cassino, Włochy",
+                "en": "Cassino, Italy",
+                "de": "Cassino, Italien",
+                "uk": "Кассіно, Італія",
+                "ru": "Кассино, Италия",
+                "zh": "意大利卡西诺"
+              },
+              "segment": {
+                "pl": "C",
+                "en": "C",
+                "de": "C",
+                "uk": "C",
+                "ru": "С"
+              },
+              "projektant": {
+                "pl": "Lorenzo Ramaciotti",
+                "en": "Lorenzo Ramaciotti",
+                "de": "Lorenzo Ramaciotti",
+                "uk": "Лоренцо Рамачіотті",
+                "ru": "Лоренцо Рамачиотти",
+                "zh": "洛伦佐·拉马西奥蒂"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1o/07/gw03nbz4cg444884w0g84/giulietta.310.jpg"
+        }
+      }
+    ],
+    "GT": [
+      {
+        "BrandID": 3,
+        "ModelID": 29,
+        "Brand Name": "Alfa Romeo",
+        "Model Name": "GT",
+        "Serie Name": "GT",
+        "Years": "2003 - 2010",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "Twin Spark / JTS / V6 / JTD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Alfa Romeo GT (2003-2010) to coupe zbudowane na bazie modelu 147 i 156, zaprojektowane przez studio Bertone. Oferuje styl prawdziwego Gran Turismo.",
+              "en": "Alfa Romeo GT (2003-2010) is a coupe based on the 147 and 156 models, designed by the Bertone studio. It offers the style of a true Gran Turismo.",
+              "de": "Alfa Romeo GT (2003–2010) ist ein Coupé, das auf den Modellen 147 und 156 basiert und vom Bertone-Studio entworfen wurde. Es bietet den Stil eines echten Gran Turismo.",
+              "uk": "Alfa Romeo GT (2003-2010) — купе на базі моделей 147 і 156, розроблене студією Bertone. Він пропонує стиль справжнього Gran Turismo.",
+              "ru": "Alfa Romeo GT (2003-2010) — купе на базе моделей 147 и 156, разработанное ателье Bertone. Он предлагает стиль настоящего Gran Turismo.",
+              "zh": "阿尔法罗密欧GT（2003-2010）是一款基于147和156车型的轿跑车，由Bertone工作室设计。它提供了真正的 Gran Turismo 风格。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Alfa Romeo",
+                "en": "Alfa Romeo",
+                "de": "Alfa Romeo",
+                "uk": "Альфа Ромео",
+                "ru": "Альфа Ромео",
+                "zh": "阿尔法·罗密欧"
+              },
+              "okres produkcji": {
+                "pl": "2003–2010",
+                "en": "2003–2010",
+                "de": "2003–2010",
+                "uk": "2003–2010",
+                "ru": "2003–2010"
+              },
+              "miejsce produkcji": {
+                "pl": "Pomigliano d'Arco, Włochy",
+                "en": "Pomigliano d'Arco, Italy",
+                "de": "Pomigliano d'Arco, Italien",
+                "uk": "Помільяно д'Арко, Італія",
+                "ru": "Помильяно-д'Арко, Италия",
+                "zh": "意大利波米利亚诺达尔科"
+              },
+              "segment": {
+                "pl": "S",
+                "en": "S",
+                "de": "S",
+                "uk": "С",
+                "ru": "С"
+              },
+              "projektant": {
+                "pl": "Bertone",
+                "en": "Bertone",
+                "de": "Bertone",
+                "uk": "Бертоне",
+                "ru": "Бертоне"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4y/iv/5tfq2gg8ckcso0ks0k0kg/gt.310.jpg"
+        }
+      }
+    ],
+    "GTV": [
+      {
+        "BrandID": 3,
+        "ModelID": 30,
+        "Brand Name": "Alfa Romeo",
+        "Model Name": "GTV",
+        "Serie Name": "GTV (916)",
+        "Years": "1994 - 2005",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sport",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "Twin Spark / JTS / V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Alfa Romeo GTV (1994-2005) to sportowe coupe o awangardowej stylistyce Pininfariny. Wyróżnia się podwójnymi reflektorami i ostrymi liniami nadwozia (seria 916).",
+              "en": "Alfa Romeo GTV (1994-2005) is a sports coupe with avant-garde Pininfarina styling. It is distinguished by double headlights and sharp body lines (916 series).",
+              "de": "Alfa Romeo GTV (1994–2005) ist ein Sportcoupé im avantgardistischen Pininfarina-Stil. Es zeichnet sich durch Doppelscheinwerfer und scharfe Karosserielinien aus (Serie 916).",
+              "uk": "Alfa Romeo GTV (1994-2005) — спортивне купе в авангардному стилі Pininfarina. Відрізняється подвійними фарами і різкими лініями кузова (серія 916).",
+              "ru": "Alfa Romeo GTV (1994-2005) — спортивное купе в авангардном стиле Pininfarina. Его отличают двойные фары и резкие линии кузова (серия 916).",
+              "zh": "阿尔法·罗密欧 GTV（1994-2005）是一款具有前卫宾尼法利纳造型的运动轿跑车。它的特点是双头灯和锐利的车身线条（916系列）。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Alfa Romeo",
+                "en": "Alfa Romeo",
+                "de": "Alfa Romeo",
+                "uk": "Альфа Ромео",
+                "ru": "Альфа Ромео",
+                "zh": "阿尔法·罗密欧"
+              },
+              "okres produkcji": {
+                "pl": "1994–2005",
+                "en": "1994–2005",
+                "de": "1994–2005",
+                "uk": "1994–2005",
+                "ru": "1994–2005"
+              },
+              "miejsce produkcji": {
+                "pl": "Arese / San Giorgio Canavese, Włochy",
+                "en": "Arese / San Giorgio Canavese, Italy",
+                "de": "Arese / San Giorgio Canavese, Italien",
+                "uk": "Арезе / Сан-Джорджо Канавезе, Італія",
+                "ru": "Арезе / Сан-Джорджо-Канавезе, Италия",
+                "zh": "阿雷塞 / 圣乔治卡纳韦塞, 意大利"
+              },
+              "segment": {
+                "pl": "S",
+                "en": "S",
+                "de": "S",
+                "uk": "С",
+                "ru": "С"
+              },
+              "projektant": {
+                "pl": "Enrico Fumia (Pininfarina)",
+                "en": "Enrico Fumia (Pininfarina)",
+                "de": "Enrico Fumia (Pininfarina)",
+                "uk": "Енріко Фуміа (Пінінфаріна)",
+                "ru": "Энрико Фумиа (Pininfarina)",
+                "zh": "恩里科·福米亚（宾尼法利纳）"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/1998-2003_Alfa_Romeo_GTV_Twin_Spark_coupe_02.jpg/1280px-1998-2003_Alfa_Romeo_GTV_Twin_Spark_coupe_02.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/1998-2003_Alfa_Romeo_GTV_Twin_Spark_coupe_02.jpg/1280px-1998-2003_Alfa_Romeo_GTV_Twin_Spark_coupe_02.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Alfa_Spider_rear_20071025.jpg/1280px-Alfa_Spider_rear_20071025.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Alfa_Romeo_GTV_facelift_front.JPG/1280px-Alfa_Romeo_GTV_facelift_front.JPG"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8x/9g/duh37ig400wk8o8c4o8kw/gtv.310.jpg"
+        }
+      }
+    ],
+    "MiTo": [
+      {
+        "BrandID": 3,
+        "ModelID": 31,
+        "Brand Name": "Alfa Romeo",
+        "Model Name": "MiTo",
+        "Serie Name": "MiTo",
+        "Years": "2008 - 2018",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Small Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "MultiAir / TwinAir / JTDm",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Alfa Romeo MiTo (2008-2018) to miejskie auto segmentu B, którego nazwa pochodzi od miast Milano i Torino. Bazuje na Fiacie Grande Punto, ale oferuje system DNA i sportowy styl.",
+              "en": "Alfa Romeo MiTo (2008-2018) is a B-segment city car named after the cities of Milano and Torino. It is based on the Fiat Grande Punto, but offers a DNA system and a sporty style.",
+              "de": "Alfa Romeo MiTo (2008–2018) ist ein Stadtauto im B-Segment, benannt nach den Städten Mailand und Turin. Es basiert auf dem Fiat Grande Punto, bietet aber ein DNA-System und einen sportlichen Stil.",
+              "uk": "Alfa Romeo MiTo (2008-2018) — міський автомобіль сегмента B, названий на честь міст Мілан і Турін. Він заснований на Fiat Grande Punto, але пропонує систему ДНК і спортивний стиль.",
+              "ru": "Alfa Romeo MiTo (2008-2018) — городской автомобиль B-сегмента, названный в честь городов Милан и Турин. Он основан на Fiat Grande Punto, но предлагает систему ДНК и спортивный стиль.",
+              "zh": "阿尔法罗密欧MiTo（2008-2018）是一款B级城市汽车，以米兰和都灵这两个城市命名。它基于菲亚特 Grande Punto，但提供了 DNA 系统和运动风格。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Alfa Romeo",
+                "en": "Alfa Romeo",
+                "de": "Alfa Romeo",
+                "uk": "Альфа Ромео",
+                "ru": "Альфа Ромео",
+                "zh": "阿尔法·罗密欧"
+              },
+              "okres produkcji": {
+                "pl": "2008–2018",
+                "en": "2008–2018",
+                "de": "2008–2018",
+                "uk": "2008–2018",
+                "ru": "2008–2018"
+              },
+              "miejsce produkcji": {
+                "pl": "Turyn, Włochy (Mirafiori)",
+                "en": "Turin, Italy (Mirafiori)",
+                "de": "Turin, Italien (Mirafiori)",
+                "uk": "Турин, Італія (Mirafiori)",
+                "ru": "Турин, Италия (Мирафиори)",
+                "zh": "意大利都灵（米拉菲奥里）"
+              },
+              "segment": {
+                "pl": "B",
+                "en": "B",
+                "de": "B",
+                "uk": "Б",
+                "ru": "Б"
+              },
+              "projektant": {
+                "pl": "Centro Stile Alfa Romeo",
+                "en": "Centro Stile Alfa Romeo",
+                "de": "Centro Stile Alfa Romeo",
+                "uk": "Centro Stile Alfa Romeo",
+                "ru": "Центр стиля Альфа Ромео",
+                "zh": "阿尔法罗密欧风格中心"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/b6/32/n6opzagok4gkgc4gkkkkw/mito.310.jpg"
+        }
+      },
+      {
+        "BrandID": 3,
+        "ModelID": 31,
+        "Brand Name": "Alfa Romeo",
+        "Model Name": "MiTo",
+        "Serie Name": "MiTo",
+        "Years": "2008 - 2018",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Small Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "MultiAir / TwinAir / JTDm",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Alfa Romeo MiTo (2008-2018) to miejskie auto segmentu B, którego nazwa pochodzi od miast Milano i Torino. Bazuje na Fiacie Grande Punto, ale oferuje system DNA i sportowy styl.",
+              "en": "Alfa Romeo MiTo (2008-2018) is a B-segment city car named after the cities of Milano and Torino. It is based on the Fiat Grande Punto, but offers a DNA system and a sporty style.",
+              "de": "Alfa Romeo MiTo (2008–2018) ist ein Stadtauto im B-Segment, benannt nach den Städten Mailand und Turin. Es basiert auf dem Fiat Grande Punto, bietet aber ein DNA-System und einen sportlichen Stil.",
+              "uk": "Alfa Romeo MiTo (2008-2018) — міський автомобіль сегмента B, названий на честь міст Мілан і Турін. Він заснований на Fiat Grande Punto, але пропонує систему ДНК і спортивний стиль.",
+              "ru": "Alfa Romeo MiTo (2008-2018) — городской автомобиль B-сегмента, названный в честь городов Милан и Турин. Он основан на Fiat Grande Punto, но предлагает систему ДНК и спортивный стиль.",
+              "zh": "阿尔法罗密欧MiTo（2008-2018）是一款B级城市汽车，以米兰和都灵这两个城市命名。它基于菲亚特 Grande Punto，但提供了 DNA 系统和运动风格。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Alfa Romeo",
+                "en": "Alfa Romeo",
+                "de": "Alfa Romeo",
+                "uk": "Альфа Ромео",
+                "ru": "Альфа Ромео",
+                "zh": "阿尔法·罗密欧"
+              },
+              "okres produkcji": {
+                "pl": "2008–2018",
+                "en": "2008–2018",
+                "de": "2008–2018",
+                "uk": "2008–2018",
+                "ru": "2008–2018"
+              },
+              "miejsce produkcji": {
+                "pl": "Turyn, Włochy (Mirafiori)",
+                "en": "Turin, Italy (Mirafiori)",
+                "de": "Turin, Italien (Mirafiori)",
+                "uk": "Турин, Італія (Mirafiori)",
+                "ru": "Турин, Италия (Мирафиори)",
+                "zh": "意大利都灵（米拉菲奥里）"
+              },
+              "segment": {
+                "pl": "B",
+                "en": "B",
+                "de": "B",
+                "uk": "Б",
+                "ru": "Б"
+              },
+              "projektant": {
+                "pl": "Centro Stile Alfa Romeo",
+                "en": "Centro Stile Alfa Romeo",
+                "de": "Centro Stile Alfa Romeo",
+                "uk": "Centro Stile Alfa Romeo",
+                "ru": "Центр стиля Альфа Ромео",
+                "zh": "阿尔法罗密欧风格中心"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/b6/32/n6opzagok4gkgc4gkkkkw/mito.310.jpg"
+        }
+      }
+    ],
+    "Spider": [
+      {
+        "BrandID": 3,
+        "ModelID": 32,
+        "Brand Name": "Alfa Romeo",
+        "Model Name": "Spider",
+        "Serie Name": "Spider (916)",
+        "Years": "1994 - 2005",
+        "specs": {
+          "bodyType": "Convertible",
+          "segment": "Sport",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "Twin Spark / V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Alfa Romeo Spider (916) (1994-2005) to otwarta wersja modelu GTV, oferująca wiatr we włosach i dźwięk silników Twin Spark lub legendarnego V6 Busso.",
+              "en": "Alfa Romeo Spider (916) (1994-2005) is an open version of the GTV model, offering the wind in your hair and the sound of Twin Spark engines or the legendary V6 Busso.",
+              "de": "Alfa Romeo Spider (916) (1994–2005) ist eine offene Version des GTV-Modells, die Ihnen den Wind im Haar und den Sound von Twin-Spark-Motoren oder dem legendären V6-Busso bietet.",
+              "uk": "Alfa Romeo Spider (916) (1994-2005) — це відкрита версія моделі GTV, яка пропонує вітер у волоссі та звук двигунів Twin Spark або легендарного V6 Busso.",
+              "ru": "Alfa Romeo Spider (916) (1994-2005) — открытая версия модели GTV, предлагающая ветер в волосах и звук двигателей Twin Spark или легендарного V6 Busso.",
+              "zh": "阿尔法罗密欧 Spider (916) (1994-2005) 是 GTV 车型的开放版本，提供风吹过头发的声音以及 Twin Spark 发动机或传奇的 V6 Busso 的声音。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Alfa Romeo",
+                "en": "Alfa Romeo",
+                "de": "Alfa Romeo",
+                "uk": "Альфа Ромео",
+                "ru": "Альфа Ромео",
+                "zh": "阿尔法·罗密欧"
+              },
+              "okres produkcji": {
+                "pl": "1994–2005",
+                "en": "1994–2005",
+                "de": "1994–2005",
+                "uk": "1994–2005",
+                "ru": "1994–2005"
+              },
+              "miejsce produkcji": {
+                "pl": "Arese / San Giorgio Canavese, Włochy",
+                "en": "Arese / San Giorgio Canavese, Italy",
+                "de": "Arese / San Giorgio Canavese, Italien",
+                "uk": "Арезе / Сан-Джорджо Канавезе, Італія",
+                "ru": "Арезе / Сан-Джорджо-Канавезе, Италия",
+                "zh": "阿雷塞 / 圣乔治卡纳韦塞, 意大利"
+              },
+              "segment": {
+                "pl": "S",
+                "en": "S",
+                "de": "S",
+                "uk": "С",
+                "ru": "С"
+              },
+              "typ nadwozia": {
+                "pl": "2-drzwiowy roadster",
+                "en": "2-door roadster",
+                "de": "2-türiger Roadster",
+                "uk": "2-дверний родстер",
+                "ru": "2-дверный родстер",
+                "zh": "2门跑车"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alfa_Romeo_Spider_Junior_1300_%281968%29_%2814467186223%29.jpg/1280px-Alfa_Romeo_Spider_Junior_1300_%281968%29_%2814467186223%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alfa_Romeo_Spider_Junior_1300_%281968%29_%2814467186223%29.jpg/1280px-Alfa_Romeo_Spider_Junior_1300_%281968%29_%2814467186223%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Alfa_Spider_%284612677680%29.jpg/1280px-Alfa_Spider_%284612677680%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Alfa_Spider_%284612068271%29.jpg/1280px-Alfa_Spider_%284612068271%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/1984_Beige_Alfa_Spider.jpg/1280px-1984_Beige_Alfa_Spider.jpg"
+            ]
+          }
+        }
+      },
+      {
+        "BrandID": 3,
+        "ModelID": 33,
+        "Brand Name": "Alfa Romeo",
+        "Model Name": "Spider",
+        "Serie Name": "Spider (939)",
+        "Years": "2006 - 2010",
+        "specs": {
+          "bodyType": "Convertible",
+          "segment": "Sport",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "JTS / V6 / JTDm",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Alfa Romeo Spider (939) (2006-2010) to kabriolet bazujący na modelu Brera/159. Zdobywca tytułu Cabrio of the Year 2006, znany z eleganckiej sylwetki.",
+              "en": "Alfa Romeo Spider (939) (2006-2010) is a convertible based on the Brera/159 model. Winner of the 2006 Cabrio of the Year title, known for its elegant silhouette.",
+              "de": "Alfa Romeo Spider (939) (2006–2010) ist ein Cabriolet auf Basis des Modells Brera/159. Gewinner des Titels „Cabrio des Jahres 2006“, bekannt für seine elegante Silhouette.",
+              "uk": "Alfa Romeo Spider (939) (2006-2010) — кабріолет на базі моделі Brera/159. Володар титулу «Кабріо року 2006», відомий своїм елегантним силуетом.",
+              "ru": "Alfa Romeo Spider (939) (2006-2010) — кабриолет на базе модели Brera/159. Обладатель титула «Кабриолет 2006 года», известный своим элегантным силуэтом.",
+              "zh": "Alfa Romeo Spider (939)（2006-2010）是一款基于 Brera/159 车型的敞篷车。 2006 年年度敞篷车称号获得者，以其优雅的轮廓而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Alfa Romeo",
+                "en": "Alfa Romeo",
+                "de": "Alfa Romeo",
+                "uk": "Альфа Ромео",
+                "ru": "Альфа Ромео",
+                "zh": "阿尔法·罗密欧"
+              },
+              "okres produkcji": {
+                "pl": "2006–2010",
+                "en": "2006–2010",
+                "de": "2006–2010",
+                "uk": "2006–2010",
+                "ru": "2006–2010"
+              },
+              "miejsce produkcji": {
+                "pl": "San Giorgio Canavese, Włochy (Pininfarina)",
+                "en": "San Giorgio Canavese, Italy (Pininfarina)",
+                "de": "San Giorgio Canavese, Italien (Pininfarina)",
+                "uk": "Сан-Джорджо Канавезе, Італія (Пінінфаріна)",
+                "ru": "Сан-Джорджо-Канавезе, Италия (Пининфарина)",
+                "zh": "圣乔治卡纳韦塞，意大利（宾尼法利纳）"
+              },
+              "segment": {
+                "pl": "S",
+                "en": "S",
+                "de": "S",
+                "uk": "С",
+                "ru": "С"
+              },
+              "typ nadwozia": {
+                "pl": "2-drzwiowy roadster",
+                "en": "2-door roadster",
+                "de": "2-türiger Roadster",
+                "uk": "2-дверний родстер",
+                "ru": "2-дверный родстер",
+                "zh": "2门跑车"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alfa_Romeo_Spider_Junior_1300_%281968%29_%2814467186223%29.jpg/1280px-Alfa_Romeo_Spider_Junior_1300_%281968%29_%2814467186223%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Alfa_Romeo_Spider_Junior_1300_%281968%29_%2814467186223%29.jpg/1280px-Alfa_Romeo_Spider_Junior_1300_%281968%29_%2814467186223%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Alfa_Spider_%284612677680%29.jpg/1280px-Alfa_Spider_%284612677680%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Alfa_Spider_%284612068271%29.jpg/1280px-Alfa_Spider_%284612068271%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/1984_Beige_Alfa_Spider.jpg/1280px-1984_Beige_Alfa_Spider.jpg"
+            ]
+          }
+        }
+      }
+    ],
+    "Stelvio": [
+      {
+        "BrandID": 3,
+        "ModelID": 416075,
+        "Brand Name": "Alfa Romeo",
+        "Model Name": "Stelvio",
+        "Serie Name": "Stelvio",
+        "Years": "2017 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mainstream",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L Turbo / 2.9L V6 / 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Alfa Romeo Stelvio (od 2017) to pierwszy SUV marki, nazwany na cześć słynnej alpejskiej przełęczy. Łączy praktyczność SUV-a z prowadzeniem sportowego sedana (platforma Giorgio).",
+              "en": "Alfa Romeo Stelvio (from 2017) is the brand's first SUV, named after the famous Alpine pass. It combines the practicality of an SUV with the handling of a sports sedan (Giorgio platform).",
+              "de": "Alfa Romeo Stelvio (ab 2017) ist das erste SUV der Marke, benannt nach dem berühmten Alpenpass. Es vereint die Praktikabilität eines SUV mit dem Handling einer Sportlimousine (Giorgio-Plattform).",
+              "uk": "Alfa Romeo Stelvio (з 2017 року) — перший позашляховик марки, названий на честь знаменитого Альпійського перевалу. Він поєднує в собі практичність позашляховика з керованістю спортивного седана (платформа Giorgio).",
+              "ru": "Alfa Romeo Stelvio (с 2017 г.) — первый внедорожник марки, названный в честь знаменитого альпийского перевала. Он сочетает в себе практичность внедорожника с управляемостью спортивного седана (платформа Giorgio).",
+              "zh": "阿尔法罗密欧 Stelvio（2017 年起）是该品牌的首款 SUV，以著名的阿尔卑斯山口命名。它结合了SUV的实用性和运动轿车的操控性（Giorgio平台）。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Alfa Romeo",
+                "en": "Alfa Romeo",
+                "de": "Alfa Romeo",
+                "uk": "Альфа Ромео",
+                "ru": "Альфа Ромео",
+                "zh": "阿尔法·罗密欧"
+              },
+              "okres produkcji": {
+                "pl": "od 2017",
+                "en": "since 2017",
+                "de": "seit 2017",
+                "uk": "з 2017 року",
+                "ru": "с 2017 года",
+                "zh": "2017年以来"
+              },
+              "miejsce produkcji": {
+                "pl": "Cassino, Włochy",
+                "en": "Cassino, Italy",
+                "de": "Cassino, Italien",
+                "uk": "Кассіно, Італія",
+                "ru": "Кассино, Италия",
+                "zh": "意大利卡西诺"
+              },
+              "segment": {
+                "pl": "D-SUV",
+                "en": "D-SUV",
+                "de": "D-SUV",
+                "uk": "D-SUV",
+                "ru": "Д-внедорожник"
+              },
+              "platforma": {
+                "pl": "FCA Giorgio",
+                "en": "FCA Giorgio",
+                "de": "FCA Giorgio",
+                "uk": "FCA Джорджіо",
+                "ru": "FCA Джорджио",
+                "zh": "FCA乔治"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6l/p6/skcs1ksg8sw4cw0o88wck/alfa-romeo-stelvio-1.310.jpg"
+        }
+      }
+    ],
+    "Tonale": [
+      {
+        "BrandID": 3,
+        "ModelID": 416602,
+        "Brand Name": "Alfa Romeo",
+        "Model Name": "Tonale",
+        "Serie Name": "Tonale",
+        "Years": "2022 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mainstream",
+          "drive": "FWD/AWD",
+          "fuel": "Hybrid/PHEV",
+          "engine": "1.5L Hybrid / 1.3L PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Alfa Romeo Tonale (od 2022) to kompaktowy SUV, który wprowadził markę w erę elektryfikacji. Wyróżnia się technologicznym wnętrzem i charakterystycznymi światłami 3+3.",
+              "en": "Alfa Romeo Tonale (from 2022) is a compact SUV that brought the brand into the era of electrification. It is distinguished by a technological interior and characteristic 3+3 lights.",
+              "de": "Alfa Romeo Tonale (ab 2022) ist ein Kompakt-SUV, der die Marke in das Zeitalter der Elektrifizierung führte. Es zeichnet sich durch ein technologisches Interieur und charakteristische 3+3 Lichter aus.",
+              "uk": "Alfa Romeo Tonale (з 2022 року) – компактний позашляховик, який перевів бренд в еру електрифікації. Його вирізняє технологічний інтер'єр і характерні світильники 3+3.",
+              "ru": "Alfa Romeo Tonale (с 2022 года) — компактный внедорожник, перенесший бренд в эпоху электрификации. Его отличает технологичный интерьер и характерное освещение 3+3.",
+              "zh": "阿尔法·罗密欧 Tonale（2022 年起）是一款紧凑型 SUV，将该品牌带入了电气化时代。它的特点是科技感十足的内饰和特色的 3+3 灯。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Alfa Romeo",
+                "en": "Alfa Romeo",
+                "de": "Alfa Romeo",
+                "uk": "Альфа Ромео",
+                "ru": "Альфа Ромео",
+                "zh": "阿尔法·罗密欧"
+              },
+              "okres produkcji": {
+                "pl": "od 2022",
+                "en": "from 2022",
+                "de": "ab 2022",
+                "uk": "з 2022 року",
+                "ru": "с 2022 года",
+                "zh": "2022年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Pomigliano d'Arco, Włochy",
+                "en": "Pomigliano d'Arco, Italy",
+                "de": "Pomigliano d'Arco, Italien",
+                "uk": "Помільяно д'Арко, Італія",
+                "ru": "Помильяно-д'Арко, Италия",
+                "zh": "意大利波米利亚诺达尔科"
+              },
+              "segment": {
+                "pl": "C-SUV",
+                "en": "C-SUV",
+                "de": "C-SUV",
+                "uk": "C-SUV",
+                "ru": "C-внедорожник"
+              },
+              "platforma": {
+                "pl": "FCA Small Wide 4x4",
+                "en": "FCA Small Wide 4x4",
+                "de": "FCA Small Wide 4x4",
+                "uk": "FCA Small Wide 4x4",
+                "ru": "FCA Малый Широкий 4x4",
+                "zh": "FCA 小宽 4x4"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Junior": [
+      {
+        "BrandID": 3,
+        "ModelID": 416603,
+        "Brand Name": "Alfa Romeo",
+        "Model Name": "Junior",
+        "Serie Name": "Junior",
+        "Years": "2024 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Small SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Electric/Hybrid",
+          "engine": "Electric / 1.2L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Alfa Romeo Junior (od 2024), początkowo znany jako Milano, to miejski crossover dostępny w wersji elektrycznej i hybrydowej. Najmniejszy model w gamie.",
+              "en": "Alfa Romeo Junior (from 2024), initially known as Milano, is an urban crossover available in electric and hybrid versions. The smallest model in the range.",
+              "de": "Alfa Romeo Junior (ab 2024), zunächst unter dem Namen Milano bekannt, ist ein urbaner Crossover, der als Elektro- und Hybridversion erhältlich ist. Das kleinste Modell der Serie.",
+              "uk": "Alfa Romeo Junior (з 2024 року), спочатку відомий як Milano, — міський кросовер, доступний у електричній та гібридній версіях. Найменша модель в асортименті.",
+              "ru": "Alfa Romeo Junior (с 2024 года), первоначально известный как Milano, — городской кроссовер, доступный в электрической и гибридной версиях. Самая маленькая модель в линейке.",
+              "zh": "阿尔法·罗密欧 Junior（2024 年起）最初称为 Milano，是一款城市跨界车，有电动和混合动力版本。该系列中最小的型号。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Alfa Romeo",
+                "en": "Alfa Romeo",
+                "de": "Alfa Romeo",
+                "uk": "Альфа Ромео",
+                "ru": "Альфа Ромео",
+                "zh": "阿尔法·罗密欧"
+              },
+              "okres produkcji": {
+                "pl": "od 2024",
+                "en": "from 2024",
+                "de": "ab 2024",
+                "uk": "з 2024 року",
+                "ru": "с 2024 года",
+                "zh": "2024年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Tychy, Polska",
+                "en": "Tychy, Poland",
+                "de": "Tychy, Polen",
+                "uk": "Тихи, Польща",
+                "ru": "Тыхы, Польша",
+                "zh": "波兰蒂黑"
+              },
+              "segment": {
+                "pl": "B-SUV",
+                "en": "B-SUV",
+                "de": "B-SUV",
+                "uk": "B-позашляховик",
+                "ru": "Б-внедорожник"
+              },
+              "platforma": {
+                "pl": "CMP",
+                "en": "CMP",
+                "de": "CMP",
+                "uk": "CMP",
+                "ru": "КМП"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

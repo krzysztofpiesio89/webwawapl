@@ -1,0 +1,446 @@
+{
+  "brand": "Triumph",
+  "models": {
+    "": [
+      {
+        "BrandID": 218,
+        "ModelID": "",
+        "Brand Name": "Triumph",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Triumph to historyczna brytyjska marka, znana głównie z produkcji sportowych roadsterów i sedanów o zacięciu sportowym.",
+              "en": "Triumph is a historic British brand, known mainly for the production of sports roadsters and sporty sedans.",
+              "de": "Triumph ist eine historische britische Marke, die vor allem für die Produktion von Sport-Roadstern und sportlichen Limousinen bekannt ist.",
+              "uk": "Triumph — історичний британський бренд, відомий головним чином виробництвом спортивних родстерів і спортивних седанів.",
+              "ru": "Triumph — исторический британский бренд, известный в основном производством спортивных родстеров и спортивных седанов.",
+              "zh": "凯旋是一个历史悠久的英国品牌，主要以生产运动型跑车和运动型轿车而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Triumph Motor Company",
+                "en": "Triumph Motor Company",
+                "de": "Triumph Motor Company",
+                "uk": "Triumph Motor Company",
+                "ru": "Triumph Motor Company",
+                "zh": "Triumph 汽车公司"
+              },
+              "siedziba": {
+                "pl": "Coventry, UK",
+                "en": "Coventry, UK",
+                "de": "Coventry, Großbritannien",
+                "uk": "Ковентрі, Великобританія",
+                "ru": "Ковентри, Великобритания",
+                "zh": "英国考文垂"
+              },
+              "założona": "1885",
+              "zlikwidowana": "1984"
+            }
+          }
+        }
+      }
+    ],
+    "Daytona": [
+      {
+        "BrandID": 218,
+        "ModelID": 416108,
+        "Brand Name": "Triumph",
+        "Model Name": "Daytona",
+        "Serie Name": "Daytona",
+        "Years": "1990 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Triumph to historyczna brytyjska marka, znana głównie z produkcji sportowych roadsterów i sedanów o zacięciu sportowym.",
+              "en": "Triumph is a historic British brand, known mainly for the production of sports roadsters and sporty sedans.",
+              "de": "Triumph ist eine historische britische Marke, die vor allem für die Produktion von Sport-Roadstern und sportlichen Limousinen bekannt ist.",
+              "uk": "Triumph — історичний британський бренд, відомий переважно виробництвом спортивних родстерів і спортивних седанів.",
+              "ru": "Triumph — исторический британский бренд, известный главным образом производством спортивных родстеров и спортивных седанов.",
+              "zh": "Triumph 是一个历史悠久的英国品牌，主要以生产运动型跑车和运动型轿车而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Triumph Motor Company",
+                "en": "Triumph Motor Company",
+                "de": "Triumph Motor Company",
+                "uk": "Triumph Motor Company",
+                "ru": "Triumph Motor Company",
+                "zh": "Triumph 汽车公司"
+              },
+              "siedziba": {
+                "pl": "Coventry, UK",
+                "en": "Coventry, UK",
+                "de": "Coventry, Großbritannien",
+                "uk": "Ковентрі, Великобританія",
+                "ru": "Ковентри, Великобритания",
+                "zh": "英国考文垂"
+              },
+              "założona": "1885",
+              "zlikwidowana": "1984"
+            }
+          }
+        }
+      }
+    ],
+    "Speed": [
+      {
+        "BrandID": 218,
+        "ModelID": 416120,
+        "Brand Name": "Triumph",
+        "Model Name": "Speed",
+        "Serie Name": "Speed",
+        "Years": "1990 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Triumph to historyczna brytyjska marka, znana głównie z produkcji sportowych roadsterów i sedanów o zacięciu sportowym.",
+              "en": "Triumph is a historic British brand, known mainly for the production of sports roadsters and sporty sedans.",
+              "de": "Triumph ist eine historische britische Marke, die vor allem für die Produktion von Sport-Roadstern und sportlichen Limousinen bekannt ist.",
+              "uk": "Triumph — історичний британський бренд, відомий переважно виробництвом спортивних родстерів і спортивних седанів.",
+              "ru": "Triumph — исторический британский бренд, известный главным образом производством спортивных родстеров и спортивных седанов.",
+              "zh": "Triumph 是一个历史悠久的英国品牌，主要以生产运动型跑车和运动型轿车而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Triumph Motor Company",
+                "en": "Triumph Motor Company",
+                "de": "Triumph Motor Company",
+                "uk": "Triumph Motor Company",
+                "ru": "Triumph Motor Company",
+                "zh": "Triumph 汽车公司"
+              },
+              "siedziba": {
+                "pl": "Coventry, UK",
+                "en": "Coventry, UK",
+                "de": "Coventry, Großbritannien",
+                "uk": "Ковентрі, Великобританія",
+                "ru": "Ковентри, Великобритания",
+                "zh": "英国考文垂"
+              },
+              "założona": "1885",
+              "zlikwidowana": "1984"
+            }
+          }
+        }
+      }
+    ],
+    "Sprint": [
+      {
+        "BrandID": 218,
+        "ModelID": 416112,
+        "Brand Name": "Triumph",
+        "Model Name": "Sprint",
+        "Serie Name": "Sprint",
+        "Years": "1993 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Triumph to historyczna brytyjska marka, znana głównie z produkcji sportowych roadsterów i sedanów o zacięciu sportowym.",
+              "en": "Triumph is a historic British brand, known mainly for the production of sports roadsters and sporty sedans.",
+              "de": "Triumph ist eine historische britische Marke, die vor allem für die Produktion von Sport-Roadstern und sportlichen Limousinen bekannt ist.",
+              "uk": "Triumph — історичний британський бренд, відомий переважно виробництвом спортивних родстерів і спортивних седанів.",
+              "ru": "Triumph — исторический британский бренд, известный главным образом производством спортивных родстеров и спортивных седанов.",
+              "zh": "Triumph 是一个历史悠久的英国品牌，主要以生产运动型跑车和运动型轿车而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Triumph Motor Company",
+                "en": "Triumph Motor Company",
+                "de": "Triumph Motor Company",
+                "uk": "Triumph Motor Company",
+                "ru": "Triumph Motor Company",
+                "zh": "Triumph 汽车公司"
+              },
+              "siedziba": {
+                "pl": "Coventry, UK",
+                "en": "Coventry, UK",
+                "de": "Coventry, Großbritannien",
+                "uk": "Ковентрі, Великобританія",
+                "ru": "Ковентри, Великобритания",
+                "zh": "英国考文垂"
+              },
+              "założona": "1885",
+              "zlikwidowana": "1984"
+            }
+          }
+        }
+      }
+    ],
+    "Street": [
+      {
+        "BrandID": 218,
+        "ModelID": 416158,
+        "Brand Name": "Triumph",
+        "Model Name": "Street",
+        "Serie Name": "Street",
+        "Years": "2000 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Triumph to historyczna brytyjska marka, znana głównie z produkcji sportowych roadsterów i sedanów o zacięciu sportowym.",
+              "en": "Triumph is a historic British brand, known mainly for the production of sports roadsters and sporty sedans.",
+              "de": "Triumph ist eine historische britische Marke, die vor allem für die Produktion von Sport-Roadstern und sportlichen Limousinen bekannt ist.",
+              "uk": "Triumph — історичний британський бренд, відомий переважно виробництвом спортивних родстерів і спортивних седанів.",
+              "ru": "Triumph — исторический британский бренд, известный главным образом производством спортивных родстеров и спортивных седанов.",
+              "zh": "Triumph 是一个历史悠久的英国品牌，主要以生产运动型跑车和运动型轿车而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Triumph Motor Company",
+                "en": "Triumph Motor Company",
+                "de": "Triumph Motor Company",
+                "uk": "Triumph Motor Company",
+                "ru": "Triumph Motor Company",
+                "zh": "Triumph 汽车公司"
+              },
+              "siedziba": {
+                "pl": "Coventry, UK",
+                "en": "Coventry, UK",
+                "de": "Coventry, Großbritannien",
+                "uk": "Ковентрі, Великобританія",
+                "ru": "Ковентри, Великобритания",
+                "zh": "英国考文垂"
+              },
+              "założona": "1885",
+              "zlikwidowana": "1984"
+            }
+          }
+        }
+      }
+    ],
+    "Tiger": [
+      {
+        "BrandID": 218,
+        "ModelID": 416102,
+        "Brand Name": "Triumph",
+        "Model Name": "Tiger",
+        "Serie Name": "Tiger",
+        "Years": "1993 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Triumph to historyczna brytyjska marka, znana głównie z produkcji sportowych roadsterów i sedanów o zacięciu sportowym.",
+              "en": "Triumph is a historic British brand, known mainly for the production of sports roadsters and sporty sedans.",
+              "de": "Triumph ist eine historische britische Marke, die vor allem für die Produktion von Sport-Roadstern und sportlichen Limousinen bekannt ist.",
+              "uk": "Triumph — історичний британський бренд, відомий переважно виробництвом спортивних родстерів і спортивних седанів.",
+              "ru": "Triumph — исторический британский бренд, известный главным образом производством спортивных родстеров и спортивных седанов.",
+              "zh": "Triumph 是一个历史悠久的英国品牌，主要以生产运动型跑车和运动型轿车而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Triumph Motor Company",
+                "en": "Triumph Motor Company",
+                "de": "Triumph Motor Company",
+                "uk": "Triumph Motor Company",
+                "ru": "Triumph Motor Company",
+                "zh": "Triumph 汽车公司"
+              },
+              "siedziba": {
+                "pl": "Coventry, UK",
+                "en": "Coventry, UK",
+                "de": "Coventry, Großbritannien",
+                "uk": "Ковентрі, Великобританія",
+                "ru": "Ковентри, Великобритания",
+                "zh": "英国考文垂"
+              },
+              "założona": "1885",
+              "zlikwidowana": "1984"
+            }
+          }
+        }
+      }
+    ],
+    "Trident": [
+      {
+        "BrandID": 218,
+        "ModelID": 416235,
+        "Brand Name": "Triumph",
+        "Model Name": "TRIDENT",
+        "Serie Name": "Trident",
+        "Years": "1980 - 2010",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Triumph to historyczna brytyjska marka, znana głównie z produkcji sportowych roadsterów i sedanów o zacięciu sportowym.",
+              "en": "Triumph is a historic British brand, known mainly for the production of sports roadsters and sporty sedans.",
+              "de": "Triumph ist eine historische britische Marke, die vor allem für die Produktion von Sport-Roadstern und sportlichen Limousinen bekannt ist.",
+              "uk": "Triumph — історичний британський бренд, відомий переважно виробництвом спортивних родстерів і спортивних седанів.",
+              "ru": "Triumph — исторический британский бренд, известный главным образом производством спортивных родстеров и спортивных седанов.",
+              "zh": "Triumph 是一个历史悠久的英国品牌，主要以生产运动型跑车和运动型轿车而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Triumph Motor Company",
+                "en": "Triumph Motor Company",
+                "de": "Triumph Motor Company",
+                "uk": "Triumph Motor Company",
+                "ru": "Triumph Motor Company",
+                "zh": "Triumph 汽车公司"
+              },
+              "siedziba": {
+                "pl": "Coventry, UK",
+                "en": "Coventry, UK",
+                "de": "Coventry, Großbritannien",
+                "uk": "Ковентрі, Великобританія",
+                "ru": "Ковентри, Великобритания",
+                "zh": "英国考文垂"
+              },
+              "założona": "1885",
+              "zlikwidowana": "1984"
+            }
+          }
+        }
+      }
+    ],
+    "Trophy": [
+      {
+        "BrandID": 218,
+        "ModelID": 416166,
+        "Brand Name": "Triumph",
+        "Model Name": "TROPHY",
+        "Serie Name": "Trophy",
+        "Years": "1995 - 2021",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Triumph to historyczna brytyjska marka, znana głównie z produkcji sportowych roadsterów i sedanów o zacięciu sportowym.",
+              "en": "Triumph is a historic British brand, known mainly for the production of sports roadsters and sporty sedans.",
+              "de": "Triumph ist eine historische britische Marke, die vor allem für die Produktion von Sport-Roadstern und sportlichen Limousinen bekannt ist.",
+              "uk": "Triumph — історичний британський бренд, відомий переважно виробництвом спортивних родстерів і спортивних седанів.",
+              "ru": "Triumph — исторический британский бренд, известный главным образом производством спортивных родстеров и спортивных седанов.",
+              "zh": "Triumph 是一个历史悠久的英国品牌，主要以生产运动型跑车和运动型轿车而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Triumph Motor Company",
+                "en": "Triumph Motor Company",
+                "de": "Triumph Motor Company",
+                "uk": "Triumph Motor Company",
+                "ru": "Triumph Motor Company",
+                "zh": "Triumph 汽车公司"
+              },
+              "siedziba": {
+                "pl": "Coventry, UK",
+                "en": "Coventry, UK",
+                "de": "Coventry, Großbritannien",
+                "uk": "Ковентрі, Великобританія",
+                "ru": "Ковентри, Великобритания",
+                "zh": "英国考文垂"
+              },
+              "założona": "1885",
+              "zlikwidowana": "1984"
+            }
+          }
+        }
+      }
+    ],
+    "TT": [
+      {
+        "BrandID": 218,
+        "ModelID": 416164,
+        "Brand Name": "Triumph",
+        "Model Name": "TT",
+        "Serie Name": "TT",
+        "Years": "1995 - 2021",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Triumph to historyczna brytyjska marka, znana głównie z produkcji sportowych roadsterów i sedanów o zacięciu sportowym.",
+              "en": "Triumph is a historic British brand, known mainly for the production of sports roadsters and sporty sedans.",
+              "de": "Triumph ist eine historische britische Marke, die vor allem für die Produktion von Sport-Roadstern und sportlichen Limousinen bekannt ist.",
+              "uk": "Triumph — історичний британський бренд, відомий переважно виробництвом спортивних родстерів і спортивних седанів.",
+              "ru": "Triumph — исторический британский бренд, известный главным образом производством спортивных родстеров и спортивных седанов.",
+              "zh": "Triumph 是一个历史悠久的英国品牌，主要以生产运动型跑车和运动型轿车而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Triumph Motor Company",
+                "en": "Triumph Motor Company",
+                "de": "Triumph Motor Company",
+                "uk": "Triumph Motor Company",
+                "ru": "Triumph Motor Company",
+                "zh": "凯旋汽车公司"
+              },
+              "siedziba": {
+                "pl": "Coventry, UK",
+                "en": "Coventry, UK",
+                "de": "Coventry, Großbritannien",
+                "uk": "Ковентрі, Великобританія",
+                "ru": "Ковентри, Великобритания",
+                "zh": "英国考文垂"
+              },
+              "założona": "1885",
+              "zlikwidowana": "1984"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

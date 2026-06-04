@@ -1,0 +1,160 @@
+{
+  "brand": "Hummer",
+  "models": {
+    "H1": [
+      {
+        "BrandID": 64,
+        "ModelID": 415844,
+        "Brand Name": "Hummer",
+        "Model Name": "H1",
+        "Serie Name": "H1",
+        "Years": "1992 - 2006",
+        "specs": {
+          "bodyType": "SUV/Pickup Truck",
+          "segment": "Off-Road SUV",
+          "drive": "4WD",
+          "fuel": "Diesel/Gasoline",
+          "engine": "6.2L Diesel / 6.5L Turbo Diesel / 5.7L V8 / 6.6L Duramax",
+          "isOldtimer": true,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Hummer H1 to cywilna wersja wojskowego HMMWV (Humvee). Bezkompromisowa terenówka o ogromnej szerokości i możliwościach.",
+              "en": "The Hummer H1 is the civilian version of the military HMMWV (Humvee). An uncompromising off-roader with enormous width and possibilities.",
+              "de": "Der Hummer H1 ist die zivile Version des militärischen HMMWV (Humvee). Ein kompromissloser Offroader mit enormer Breite und Möglichkeiten.",
+              "uk": "Hummer H1 є цивільною версією військового HMMWV (Humvee). Безкомпромісний позашляховик із величезною шириною та можливостями.",
+              "ru": "Hummer H1 — гражданская версия военного HMMWV (Хамви). Бескомпромиссный внедорожник с огромной шириной и возможностями.",
+              "zh": "悍马 H1 是军用 HMMWV（悍马）的民用版本。一款毫不妥协的越野车，具有巨大的宽度和可能性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "AM General",
+                "en": "AM General",
+                "de": "AM Allgemein",
+                "uk": "AM General",
+                "ru": "AM General",
+                "zh": "AM 通用"
+              },
+              "okres produkcji": "1992–2006",
+              "segment": {
+                "pl": "Full-size SUV",
+                "en": "Full-size SUV",
+                "de": "Full-Size-SUV",
+                "uk": "Повнорозмірний позашляховик",
+                "ru": "Полноразмерный внедорожник",
+                "zh": "全尺寸 SUV"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "H2": [
+      {
+        "BrandID": 64,
+        "ModelID": 676,
+        "Brand Name": "Hummer",
+        "Model Name": "H2",
+        "Serie Name": "H2",
+        "Years": "2002 - 2009",
+        "specs": {
+          "bodyType": "SUV/SUT",
+          "segment": "Full-size SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline",
+          "engine": "6.0L V8 / 6.2L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Hummer H2 to bardziej cywilizowany, ale wciąż potężny SUV, zbudowany na podzespołach ciężkich pickupów GM. Ikona popkultury lat 2000.",
+              "en": "Hummer H2 is a more civilized, but still powerful SUV, built on components from heavy GM pickup trucks. The pop culture icon of the 2000s",
+              "de": "Der Hummer H2 ist ein zivilisierterer, aber immer noch leistungsstarker SUV, der auf Komponenten schwerer GM-Pickups basiert. Die Popkultur-Ikone der 2000er Jahre",
+              "uk": "Hummer H2 — більш цивілізований, але все ще потужний позашляховик, побудований на компонентах важких пікапів GM. Ікона поп-культури 2000-х",
+              "ru": "Hummer H2 — более цивилизованный, но по-прежнему мощный внедорожник, построенный на компонентах тяжелых пикапов GM. Икона поп-культуры 2000-х годов",
+              "zh": "悍马 H2 是一款更加文明但仍然强大的 SUV，采用通用重型皮卡车的组件打造。 2000 年代的流行文化标志"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "AM General / GM",
+                "en": "AM General / GM",
+                "de": "AM General / GM",
+                "uk": "AM General / GM",
+                "ru": "AM General/GM",
+                "zh": "AM General / GM"
+              },
+              "okres produkcji": "2002–2009",
+              "segment": {
+                "pl": "Full-size SUV",
+                "en": "Full-size SUV",
+                "de": "Full-Size-SUV",
+                "uk": "Повнорозмірний позашляховик",
+                "ru": "Полноразмерный внедорожник",
+                "zh": "全尺寸 SUV"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/de/pk/jqh5m1sgog8s0c84wsc4c/hummer-h2.310.jpg"
+        }
+      }
+    ],
+    "H3": [
+      {
+        "BrandID": 64,
+        "ModelID": 677,
+        "Brand Name": "Hummer",
+        "Model Name": "H3",
+        "Serie Name": "H3",
+        "Years": "2005 - 2010",
+        "specs": {
+          "bodyType": "SUV/Pickup Truck (H3T)",
+          "segment": "Mid-size SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline",
+          "engine": "3.5L I5 / 3.7L I5 / 5.3L V8",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Hummer H3 to najmniejszy ('Baby Hummer') i najbardziej dostępny model marki. Mimo mniejszych rozmiarów, zachował legendarne zdolności terenowe i charakterystyczny styl.",
+              "en": "Hummer H3 is the smallest ('Baby Hummer') and most available model of the brand. Despite its smaller size, it retained its legendary off-road capabilities and distinctive style.",
+              "de": "Hummer H3 ist das kleinste („Baby Hummer“) und am häufigsten erhältliche Modell der Marke. Trotz seiner geringeren Größe behielt er seine legendären Geländefähigkeiten und seinen unverwechselbaren Stil.",
+              "uk": "Hummer H3 — найменша («Baby Hummer») і найдоступніша модель бренду. Незважаючи на менші розміри, він зберіг свої легендарні позашляхові здібності та характерний стиль.",
+              "ru": "Hummer H3 — самая маленькая («Baby Hummer») и самая доступная модель бренда. Несмотря на меньшие размеры, он сохранил легендарные внедорожные качества и самобытный стиль.",
+              "zh": "Hummer H3 是该品牌最小（“婴儿悍马”）和最常用的型号。尽管尺寸较小，但它保留了其传奇的越野能力和独特的风格。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "AM General / GM",
+                "en": "AM General / GM",
+                "de": "AM General / GM",
+                "uk": "AM General / GM",
+                "ru": "AM General / GM",
+                "zh": "AM 通用/通用"
+              },
+              "okres produkcji": "2005–2010",
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний позашляховик",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型SUV"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ch/08/5t5ocnscgcgkok4ws0gc0/hummer-h3.310.jpg"
+        }
+      }
+    ]
+  }
+}

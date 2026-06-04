@@ -1,0 +1,1663 @@
+{
+  "brand": "Honda",
+  "models": {
+    "Accord": [
+      {
+        "BrandID": 60,
+        "ModelID": 413160,
+        "Brand Name": "Honda",
+        "Model Name": "Accord",
+        "Serie Name": "Accord Gen 7",
+        "Years": "2002 - 2008",
+        "specs": {
+          "bodyType": "Sedan/Station Wagon",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 3.0L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/HondaAccord-rear.jpg/1280px-HondaAccord-rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/HondaAccord-rear.jpg/1280px-HondaAccord-rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/d/da/MHV_Honda_Accord_02.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/2/24/HondaAccord1stinterior.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/a/a9/HondaAccordTypSY-1.jpg"
+            ],
+            "description": {
+              "pl": "Honda Accord to jeden z najpopularniejszych samochodów klasy średniej na świecie, ceniony za trwałość, komfort i właściwości jezdne.",
+              "en": "The Honda Accord is one of the most popular mid-range cars in the world, appreciated for its durability, comfort and driving characteristics.",
+              "de": "Der Honda Accord ist eines der beliebtesten Mittelklasseautos der Welt und wird für seine Langlebigkeit, seinen Komfort und seine Fahreigenschaften geschätzt.",
+              "uk": "Honda Accord — один із найпопулярніших автомобілів середнього класу в світі, який цінується за довговічність, комфорт і ходові якості.",
+              "ru": "Honda Accord — один из самых популярных автомобилей среднего класса в мире, который ценится за свою долговечность, комфорт и ходовые качества.",
+              "zh": "本田雅阁是世界上最受欢迎的中档汽车之一，因其耐用性、舒适性和驾驶特性而受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda"
+              },
+              "okres produkcji": {
+                "pl": "od 1976",
+                "en": "since 1976",
+                "de": "seit 1976",
+                "uk": "з 1976",
+                "ru": "с 1976 года.",
+                "zh": "自 1976 年以来"
+              },
+              "segment": {
+                "pl": "D"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4e/zu/84mpq7wg88cocog488cso/accord-viii-kombi.310.jpg"
+        }
+      },
+      {
+        "BrandID": 60,
+        "ModelID": 412919,
+        "Brand Name": "Honda",
+        "Model Name": "Accord",
+        "Serie Name": "Accord Gen 8",
+        "Years": "2008 - 2012",
+        "specs": {
+          "bodyType": "Sedan/Station Wagon",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/HondaAccord-rear.jpg/1280px-HondaAccord-rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/HondaAccord-rear.jpg/1280px-HondaAccord-rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/d/da/MHV_Honda_Accord_02.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/2/24/HondaAccord1stinterior.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/a/a9/HondaAccordTypSY-1.jpg"
+            ],
+            "description": {
+              "pl": "Honda Accord to jeden z najpopularniejszych samochodów klasy średniej na świecie, ceniony za trwałość, komfort i właściwości jezdne.",
+              "en": "Honda Accord is one of the most popular mid-range cars in the world, valued for its durability, comfort and driving characteristics.",
+              "de": "Der Honda Accord ist eines der beliebtesten Mittelklasseautos der Welt und wird für seine Langlebigkeit, seinen Komfort und seine Fahreigenschaften geschätzt.",
+              "uk": "Honda Accord — один із найпопулярніших автомобілів середнього класу в світі, який цінується за довговічність, комфорт і ходові якості.",
+              "ru": "Honda Accord — один из самых популярных автомобилей среднего класса в мире, который ценится за свою долговечность, комфорт и ходовые качества.",
+              "zh": "本田雅阁是世界上最受欢迎的中档汽车之一，因其耐用性、舒适性和驾驶特性而受到重视。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda"
+              },
+              "okres produkcji": {
+                "pl": "od 1976",
+                "en": "since 1976",
+                "de": "seit 1976",
+                "uk": "з 1976",
+                "ru": "с 1976 года.",
+                "zh": "自 1976 年以来"
+              },
+              "segment": {
+                "pl": "D"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4e/zu/84mpq7wg88cocog488cso/accord-viii-kombi.310.jpg"
+        }
+      },
+      {
+        "BrandID": 60,
+        "ModelID": 413159,
+        "Brand Name": "Honda",
+        "Model Name": "Accord",
+        "Serie Name": "Accord Gen 9",
+        "Years": "2013 - 2017",
+        "specs": {
+          "bodyType": "Sedan/Coupe",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.4L / 3.5L V6 / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "5"
+            }
+          },
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/HondaAccord-rear.jpg/1280px-HondaAccord-rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/HondaAccord-rear.jpg/1280px-HondaAccord-rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/d/da/MHV_Honda_Accord_02.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/2/24/HondaAccord1stinterior.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/a/a9/HondaAccordTypSY-1.jpg"
+            ],
+            "description": {
+              "pl": "Honda Accord to jeden z najpopularniejszych samochodów klasy średniej na świecie, ceniony za trwałość, komfort i właściwości jezdne.",
+              "en": "Honda Accord is one of the most popular mid-range cars in the world, valued for its durability, comfort and driving characteristics.",
+              "de": "Der Honda Accord ist eines der beliebtesten Mittelklasseautos der Welt und wird für seine Langlebigkeit, seinen Komfort und seine Fahreigenschaften geschätzt.",
+              "uk": "Honda Accord — один із найпопулярніших автомобілів середнього класу в світі, який цінується за довговічність, комфорт і ходові якості.",
+              "ru": "Honda Accord — один из самых популярных автомобилей среднего класса в мире, который ценится за свою долговечность, комфорт и ходовые качества.",
+              "zh": "本田雅阁是世界上最受欢迎的中档汽车之一，因其耐用性、舒适性和驾驶特性而受到重视。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda"
+              },
+              "okres produkcji": {
+                "pl": "od 1976",
+                "en": "since 1976",
+                "de": "seit 1976",
+                "uk": "з 1976",
+                "ru": "с 1976 года.",
+                "zh": "自 1976 年以来"
+              },
+              "segment": {
+                "pl": "D"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4e/zu/84mpq7wg88cocog488cso/accord-viii-kombi.310.jpg"
+        }
+      },
+      {
+        "BrandID": 60,
+        "ModelID": 413160,
+        "Brand Name": "Honda",
+        "Model Name": "Accord",
+        "Serie Name": "Accord Gen 10",
+        "Years": "2017 - 2022",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.5L Turbo / 2.0L Turbo / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "5"
+            }
+          },
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/MHV_Honda_Accord_02.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/d/da/MHV_Honda_Accord_02.jpg"
+            ],
+            "description": {
+              "pl": "Honda Accord to jeden z najpopularniejszych samochodów klasy średniej na świecie, ceniony za trwałość, komfort i właściwości jezdne.",
+              "en": "Honda Accord is one of the most popular mid-range cars in the world, valued for its durability, comfort and driving characteristics.",
+              "de": "Der Honda Accord ist eines der beliebtesten Mittelklasseautos der Welt und wird für seine Langlebigkeit, seinen Komfort und seine Fahreigenschaften geschätzt.",
+              "uk": "Honda Accord — один із найпопулярніших автомобілів середнього класу в світі, який цінується за довговічність, комфорт і ходові якості.",
+              "ru": "Honda Accord — один из самых популярных автомобилей среднего класса в мире, который ценится за свою долговечность, комфорт и ходовые качества.",
+              "zh": "本田雅阁是世界上最受欢迎的中档汽车之一，因其耐用性、舒适性和驾驶特性而受到重视。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda"
+              },
+              "okres produkcji": {
+                "pl": "od 1976",
+                "en": "since 1976",
+                "de": "seit 1976",
+                "uk": "з 1976",
+                "ru": "с 1976 года.",
+                "zh": "自 1976 年以来"
+              },
+              "segment": {
+                "pl": "D"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4e/zu/84mpq7wg88cocog488cso/accord-viii-kombi.310.jpg"
+        }
+      },
+      {
+        "BrandID": 60,
+        "ModelID": 416578,
+        "Brand Name": "Honda",
+        "Model Name": "Accord",
+        "Serie Name": "Accord Gen 11",
+        "Years": "2023 - 3000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.5L Turbo / 2.0L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Honda Accord to jeden z najpopularniejszych samochodów klasy średniej na świecie, ceniony za trwałość, komfort i właściwości jezdne.",
+              "en": "Honda Accord is one of the most popular mid-range cars in the world, valued for its durability, comfort and driving characteristics.",
+              "de": "Der Honda Accord ist eines der beliebtesten Mittelklasseautos der Welt und wird für seine Langlebigkeit, seinen Komfort und seine Fahreigenschaften geschätzt.",
+              "uk": "Honda Accord — один із найпопулярніших автомобілів середнього класу в світі, який цінується за довговічність, комфорт і ходові якості.",
+              "ru": "Honda Accord — один из самых популярных автомобилей среднего класса в мире, который ценится за свою долговечность, комфорт и ходовые качества.",
+              "zh": "本田雅阁是世界上最受欢迎的中档汽车之一，因其耐用性、舒适性和驾驶特性而受到重视。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda"
+              },
+              "okres produkcji": {
+                "pl": "od 1976",
+                "en": "since 1976",
+                "de": "seit 1976",
+                "uk": "з 1976 року",
+                "ru": "с 1976 года.",
+                "zh": "自 1976 年以来"
+              },
+              "segment": {
+                "pl": "D"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4e/zu/84mpq7wg88cocog488cso/accord-viii-kombi.310.jpg"
+        }
+      }
+    ],
+    "Civic": [
+      {
+        "BrandID": 60,
+        "ModelID": 412887,
+        "Brand Name": "Honda",
+        "Model Name": "Civic",
+        "Serie Name": "Civic Gen 8 (UFO)",
+        "Years": "2005 - 2011",
+        "specs": {
+          "bodyType": "Hatchback/Sedan",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "1.4L - 2.0L Type R",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Honda Civic to ikona motoryzacji, samochód kompaktowy znany ze sportowego ducha (Type R) i niezawodności. Produkowany od ponad 50 lat.",
+              "en": "Honda Civic is an automotive icon, a compact car known for its sporty spirit (Type R) and reliability. Produced for over 50 years.",
+              "de": "Honda Civic ist eine Automobilikone, ein Kompaktwagen, der für seinen sportlichen Geist (Typ R) und seine Zuverlässigkeit bekannt ist. Produziert seit über 50 Jahren.",
+              "uk": "Honda Civic — автомобільна ікона, компактний автомобіль, відомий своїм спортивним духом (Type R) і надійністю. Виробляється понад 50 років.",
+              "ru": "Honda Civic — автомобильная икона, компактный автомобиль, известный своим спортивным духом (Type R) и надежностью. Выпускается более 50 лет.",
+              "zh": "本田思域 (Honda Civic) 是汽车标志，是一款以其运动精神（R 型）和可靠性而闻名的紧凑型汽车。生产已有 50 多年历史。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda"
+              },
+              "okres produkcji": {
+                "pl": "od 1972",
+                "en": "since 1972",
+                "de": "seit 1972",
+                "uk": "з 1972 року",
+                "ru": "с 1972 года.",
+                "zh": "自 1972 年以来"
+              },
+              "segment": {
+                "pl": "C"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/oi/qk/edfspn4co4w840ckw40g/civic-ix-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 60,
+        "ModelID": 413167,
+        "Brand Name": "Honda",
+        "Model Name": "Civic",
+        "Serie Name": "Civic Gen 9",
+        "Years": "2011 - 2016",
+        "specs": {
+          "bodyType": "Hatchback/Sedan/Wagon",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 2.0L Turbo Type R",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "3",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/1973-1978_Honda_Civic_5-door_hatchback_01.jpg/1280px-1973-1978_Honda_Civic_5-door_hatchback_01.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/1973-1978_Honda_Civic_5-door_hatchback_01.jpg/1280px-1973-1978_Honda_Civic_5-door_hatchback_01.jpg"
+            ],
+            "description": {
+              "pl": "Honda Civic to ikona motoryzacji, samochód kompaktowy znany ze sportowego ducha (Type R) i niezawodności. Produkowany od ponad 50 lat.",
+              "en": "Honda Civic is an automotive icon, a compact car known for its sporty spirit (Type R) and reliability. Produced for over 50 years.",
+              "de": "Honda Civic ist eine Automobilikone, ein Kompaktwagen, der für seinen sportlichen Geist (Typ R) und seine Zuverlässigkeit bekannt ist. Produziert seit über 50 Jahren.",
+              "uk": "Honda Civic — автомобільна ікона, компактний автомобіль, відомий своїм спортивним духом (Type R) і надійністю. Виробляється понад 50 років.",
+              "ru": "Honda Civic — автомобильная икона, компактный автомобиль, известный своим спортивным духом (Type R) и надежностью. Выпускается более 50 лет.",
+              "zh": "本田思域 (Honda Civic) 是汽车标志，是一款以其运动精神（R 型）和可靠性而闻名的紧凑型汽车。生产已有 50 多年历史。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda"
+              },
+              "okres produkcji": {
+                "pl": "od 1972",
+                "en": "since 1972",
+                "de": "seit 1972",
+                "uk": "з 1972 року",
+                "ru": "с 1972 года.",
+                "zh": "自 1972 年以来"
+              },
+              "segment": {
+                "pl": "C"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/oi/qk/edfspn4co4w840ckw40g/civic-ix-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 60,
+        "ModelID": 413168,
+        "Brand Name": "Honda",
+        "Model Name": "Civic",
+        "Serie Name": "Civic Gen 10",
+        "Years": "2016 - 2021",
+        "specs": {
+          "bodyType": "Hatchback/Sedan/Coupe",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L / 1.5L Turbo / 2.0L Type R",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "5"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Honda Civic to ikona motoryzacji, samochód kompaktowy znany ze sportowego ducha (Type R) i niezawodności. Produkowany od ponad 50 lat.",
+              "en": "Honda Civic is an automotive icon, a compact car known for its sporty spirit (Type R) and reliability. Produced for over 50 years.",
+              "de": "Honda Civic ist eine Automobilikone, ein Kompaktwagen, der für seinen sportlichen Geist (Typ R) und seine Zuverlässigkeit bekannt ist. Produziert seit über 50 Jahren.",
+              "uk": "Honda Civic — автомобільна ікона, компактний автомобіль, відомий своїм спортивним духом (Type R) і надійністю. Виробляється понад 50 років.",
+              "ru": "Honda Civic — автомобильная икона, компактный автомобиль, известный своим спортивным духом (Type R) и надежностью. Выпускается более 50 лет.",
+              "zh": "本田思域 (Honda Civic) 是汽车标志，是一款以其运动精神（R 型）和可靠性而闻名的紧凑型汽车。生产已有 50 多年历史。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda"
+              },
+              "okres produkcji": {
+                "pl": "od 1972",
+                "en": "since 1972",
+                "de": "seit 1972",
+                "uk": "з 1972 року",
+                "ru": "с 1972 года.",
+                "zh": "自 1972 年以来"
+              },
+              "segment": {
+                "pl": "C"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/oi/qk/edfspn4co4w840ckw40g/civic-ix-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 60,
+        "ModelID": 416579,
+        "Brand Name": "Honda",
+        "Model Name": "Civic",
+        "Serie Name": "Civic Gen 11",
+        "Years": "2021 - 3000",
+        "specs": {
+          "bodyType": "Hatchback/Sedan",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.5L Turbo / 2.0L Hybrid / 2.0L Type R",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "5"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Honda Civic to ikona motoryzacji, samochód kompaktowy znany ze sportowego ducha (Type R) i niezawodności. Produkowany od ponad 50 lat.",
+              "en": "Honda Civic is an automotive icon, a compact car known for its sporty spirit (Type R) and reliability. Produced for over 50 years.",
+              "de": "Honda Civic ist eine Automobilikone, ein Kompaktwagen, der für seinen sportlichen Geist (Typ R) und seine Zuverlässigkeit bekannt ist. Produziert seit über 50 Jahren.",
+              "uk": "Honda Civic — автомобільна ікона, компактний автомобіль, відомий своїм спортивним духом (Type R) і надійністю. Виробляється понад 50 років.",
+              "ru": "Honda Civic — автомобильная икона, компактный автомобиль, известный своим спортивным духом (Type R) и надежностью. Выпускается более 50 лет.",
+              "zh": "本田思域 (Honda Civic) 是汽车标志，是一款以其运动精神（R 型）和可靠性而闻名的紧凑型汽车。生产已有 50 多年历史。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda"
+              },
+              "okres produkcji": {
+                "pl": "od 1972",
+                "en": "since 1972",
+                "de": "seit 1972",
+                "uk": "з 1972 року",
+                "ru": "с 1972 года.",
+                "zh": "自 1972 年以来"
+              },
+              "segment": {
+                "pl": "C"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/oi/qk/edfspn4co4w840ckw40g/civic-ix-sedan.310.jpg"
+        }
+      }
+    ],
+    "CR-V": [
+      {
+        "BrandID": 60,
+        "ModelID": 135313,
+        "Brand Name": "Honda",
+        "Model Name": "CR-V",
+        "Serie Name": "CR-V Gen 3",
+        "Years": "2006 - 2012",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L / 2.2L Diesel / 2.4L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Honda CR-V to jeden z pionierów segmentu kompaktowych SUV-ów. Od lat jest jednym z najlepiej sprzedających się aut tego typu na świecie, oferującym praktyczność i wygodę.",
+              "en": "Honda CR-V is one of the pioneers of the compact SUV segment. For years, it has been one of the best-selling cars of this type in the world, offering practicality and comfort.",
+              "de": "Honda CR-V ist einer der Pioniere des Kompakt-SUV-Segments. Seit Jahren ist es eines der meistverkauften Autos dieser Art weltweit und bietet Funktionalität und Komfort.",
+              "uk": "Honda CR-V є одним із піонерів у сегменті компактних SUV. Протягом багатьох років він був одним із найбільш продаваних автомобілів цього типу в світі, пропонуючи практичність і комфорт.",
+              "ru": "Honda CR-V — один из пионеров сегмента компактных внедорожников. На протяжении многих лет это один из самых продаваемых автомобилей этого типа в мире, предлагающий практичность и комфорт.",
+              "zh": "本田 CR-V 是紧凑型 SUV 领域的先驱之一。多年来，它一直是全球最畅销的同类型汽车之一，提供实用性和舒适性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda"
+              },
+              "okres produkcji": {
+                "pl": "od 1995",
+                "en": "from 1995",
+                "de": "ab 1995",
+                "uk": "з 1995 року",
+                "ru": "с 1995 года.",
+                "zh": "1995 年生产"
+              },
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/dm/xq/9zn7628ssscokko8c40k0/f.310.jpg"
+        }
+      },
+      {
+        "BrandID": 60,
+        "ModelID": 413169,
+        "Brand Name": "Honda",
+        "Model Name": "CR-V",
+        "Serie Name": "CR-V Gen 4",
+        "Years": "2012 - 2017",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L / 2.4L / 1.6L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Honda CR-V to jeden z pionierów segmentu kompaktowych SUV-ów. Od lat jest jednym z najlepiej sprzedających się aut tego typu na świecie, oferującym praktyczność i wygodę.",
+              "en": "Honda CR-V is one of the pioneers of the compact SUV segment. For years, it has been one of the best-selling cars of this type in the world, offering practicality and comfort.",
+              "de": "Honda CR-V ist einer der Pioniere des Kompakt-SUV-Segments. Seit Jahren ist es eines der meistverkauften Autos dieser Art weltweit und bietet Funktionalität und Komfort.",
+              "uk": "Honda CR-V є одним із піонерів у сегменті компактних позашляховиків. Протягом багатьох років він був одним із найбільш продаваних автомобілів цього типу в світі, пропонуючи практичність і комфорт.",
+              "ru": "Honda CR-V — один из пионеров сегмента компактных внедорожников. На протяжении многих лет это один из самых продаваемых автомобилей этого типа в мире, предлагающий практичность и комфорт.",
+              "zh": "本田 CR-V 是紧凑型 SUV 领域的先驱之一。多年来，它一直是全球最畅销的同类型汽车之一，提供实用性和舒适性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda"
+              },
+              "okres produkcji": {
+                "pl": "od 1995",
+                "en": "from 1995",
+                "de": "ab 1995",
+                "uk": "з 1995 року",
+                "ru": "с 1995 года.",
+                "zh": "1995 年生产"
+              },
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/dm/xq/9zn7628ssscokko8c40k0/f.310.jpg"
+        }
+      },
+      {
+        "BrandID": 60,
+        "ModelID": 414423,
+        "Brand Name": "Honda",
+        "Model Name": "CR-V",
+        "Serie Name": "CR-V Gen 5",
+        "Years": "2017 - 2022",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.5L Turbo / 2.4L / 2.0L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Honda CR-V to jeden z pionierów segmentu kompaktowych SUV-ów. Od lat jest jednym z najlepiej sprzedających się aut tego typu na świecie, oferującym praktyczność i wygodę.",
+              "en": "Honda CR-V is one of the pioneers of the compact SUV segment. For years, it has been one of the best-selling cars of this type in the world, offering practicality and comfort.",
+              "de": "Honda CR-V ist einer der Pioniere des Kompakt-SUV-Segments. Seit Jahren ist es eines der meistverkauften Autos dieser Art weltweit und bietet Funktionalität und Komfort.",
+              "uk": "Honda CR-V є одним із піонерів у сегменті компактних позашляховиків. Протягом багатьох років він був одним із найбільш продаваних автомобілів цього типу в світі, пропонуючи практичність і комфорт.",
+              "ru": "Honda CR-V — один из пионеров сегмента компактных внедорожников. На протяжении многих лет это один из самых продаваемых автомобилей этого типа в мире, предлагающий практичность и комфорт.",
+              "zh": "本田 CR-V 是紧凑型 SUV 领域的先驱之一。多年来，它一直是全球最畅销的同类型汽车之一，提供实用性和舒适性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda"
+              },
+              "okres produkcji": {
+                "pl": "od 1995",
+                "en": "since 1995",
+                "de": "seit 1995",
+                "uk": "з 1995 року",
+                "ru": "с 1995 года",
+                "zh": "自 1995 年以来"
+              },
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/dm/xq/9zn7628ssscokko8c40k0/f.310.jpg"
+        }
+      },
+      {
+        "BrandID": 60,
+        "ModelID": 416580,
+        "Brand Name": "Honda",
+        "Model Name": "CR-V",
+        "Serie Name": "CR-V Gen 6",
+        "Years": "2022 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.5L Turbo / 2.0L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Honda CR-V to jeden z pionierów segmentu kompaktowych SUV-ów. Od lat jest jednym z najlepiej sprzedających się aut tego typu na świecie, oferującym praktyczność i wygodę.",
+              "en": "Honda CR-V is one of the pioneers of the compact SUV segment. For years, it has been one of the best-selling cars of this type in the world, offering practicality and comfort.",
+              "de": "Honda CR-V ist einer der Pioniere des Kompakt-SUV-Segments. Seit Jahren ist es eines der meistverkauften Autos dieser Art weltweit und bietet Funktionalität und Komfort.",
+              "uk": "Honda CR-V є одним із піонерів у сегменті компактних позашляховиків. Протягом багатьох років він був одним із найбільш продаваних автомобілів цього типу в світі, пропонуючи практичність і комфорт.",
+              "ru": "Honda CR-V — один из пионеров сегмента компактных внедорожников. На протяжении многих лет это один из самых продаваемых автомобилей этого типа в мире, предлагающий практичность и комфорт.",
+              "zh": "本田 CR-V 是紧凑型 SUV 领域的先驱之一。多年来，它一直是全球最畅销的同类型汽车之一，提供实用性和舒适性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda"
+              },
+              "okres produkcji": {
+                "pl": "od 1995",
+                "en": "from 1995",
+                "de": "von 1995",
+                "uk": "1995 року",
+                "ru": "1995 года.",
+                "zh": "1995 年生产"
+              },
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/dm/xq/9zn7628ssscokko8c40k0/f.310.jpg"
+        }
+      }
+    ],
+    "Element": [
+      {
+        "BrandID": 60,
+        "ModelID": 639,
+        "Brand Name": "Honda",
+        "Model Name": "Element",
+        "Serie Name": "Element",
+        "Years": "2003 - 2011",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Honda Element to unikalny crossover o pudełkowatym kształcie, zaprojektowany z myślą o aktywnym stylu życia. Wyróżnia się otwieranymi pod wiatr drzwiami bocznymi, zmywalnym wnętrzem i ogromną praktycznością.",
+              "en": "Honda Element is a unique boxy crossover designed with an active lifestyle in mind. It is distinguished by side doors that open against the wind, a washable interior and great practicality.",
+              "de": "Honda Element ist ein einzigartiger, kastenförmiger Crossover, der speziell für einen aktiven Lebensstil entwickelt wurde. Es zeichnet sich durch windgeschützte Seitentüren, einen waschbaren Innenraum und große Praktikabilität aus.",
+              "uk": "Honda Element — це унікальний квадратний кросовер, розроблений для активного способу життя. Відрізняється бічними дверцятами, що відкриваються проти вітру, салоном, що миється, і великою практичністю.",
+              "ru": "Honda Element — уникальный квадратный кроссовер, созданный для активного образа жизни. Его отличают боковые двери, открывающиеся против ветра, моющийся салон и большая практичность.",
+              "zh": "Honda Element 是一款独特的四四方方跨界车，其设计理念是积极的生活方式。它的特点是可逆风打开的侧门、可清洗的内饰和出色的实用性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda"
+              },
+              "okres produkcji": "2003–2011",
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6e/5u/s8v1z88wc488s8ss0gwos/element.310.jpg"
+        }
+      }
+    ],
+    "HR-V": [
+      {
+        "BrandID": 60,
+        "ModelID": 413170,
+        "Brand Name": "Honda",
+        "Model Name": "HR-V",
+        "Serie Name": "HR-V Gen 1",
+        "Years": "1999 - 2006",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Subcompact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Honda HR-V łączy cechy coupe z funkcjonalnością SUV-a. Dzięki systemowi Magic Seats oferuje bezkonkurencyjną przestrzeń i elastyczność wnętrza w klasie małych crossoverów.",
+              "en": "Honda HR-V combines the features of a coupe with the functionality of an SUV. Thanks to the Magic Seats system, it offers unrivaled space and interior flexibility in the small crossover class.",
+              "de": "Honda HR-V vereint die Eigenschaften eines Coupés mit der Funktionalität eines SUV. Dank des Magic Seats-Systems bietet er in der Klasse der kleinen Crossover ein unübertroffenes Platzangebot und eine unübertroffene Innenraumflexibilität.",
+              "uk": "Honda HR-V поєднує риси купе з функціональністю позашляховика. Завдяки системі Magic Seats він пропонує неперевершений простір і гнучкість салону в класі малих кросоверів.",
+              "ru": "Honda HR-V сочетает в себе черты купе с функциональностью внедорожника. Благодаря системе Magic Seats он предлагает непревзойденное пространство и гибкость салона в классе малых кроссоверов.",
+              "zh": "本田 HR-V 结合了轿跑车的特点和 SUV 的功能。得益于 Magic Seats 系统，它在小型跨界车中提供了无与伦比的空间和内部灵活性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda"
+              },
+              "okres produkcji": {
+                "pl": "od 1998",
+                "en": "from 1998",
+                "de": "ab 1998",
+                "uk": "з 1998 року",
+                "ru": "с 1998 года.",
+                "zh": "1998 年生产"
+              },
+              "segment": {
+                "pl": "Subcompact SUV",
+                "en": "Subcompact SUV",
+                "de": "Kleinwagen-SUV",
+                "uk": "Субкомпактний позашляховик",
+                "ru": "Малолитражный внедорожник.",
+                "zh": "小型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bw/9v/rl8g71cg4koks8k4kwwcs/hr-v.310.jpg"
+        }
+      },
+      {
+        "BrandID": 60,
+        "ModelID": 415241,
+        "Brand Name": "Honda",
+        "Model Name": "HR-V",
+        "Serie Name": "HR-V Gen 2",
+        "Years": "2015 - 2022",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Subcompact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.5L / 1.8L / 1.6L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Honda HR-V łączy cechy coupe z funkcjonalnością SUV-a. Dzięki systemowi Magic Seats oferuje bezkonkurencyjną przestrzeń i elastyczność wnętrza w klasie małych crossoverów.",
+              "en": "Honda HR-V combines the features of a coupe with the functionality of an SUV. Thanks to the Magic Seats system, it offers unrivaled space and interior flexibility in the small crossover class.",
+              "de": "Honda HR-V vereint die Eigenschaften eines Coupés mit der Funktionalität eines SUV. Dank des Magic Seats-Systems bietet er in der Klasse der kleinen Crossover ein unübertroffenes Platzangebot und eine unübertroffene Innenraumflexibilität.",
+              "uk": "Honda HR-V поєднує в собі риси купе з функціональністю позашляховика. Завдяки системі Magic Seats він пропонує неперевершений простір і гнучкість салону в класі малих кросоверів.",
+              "ru": "Honda HR-V сочетает в себе черты купе с функциональностью внедорожника. Благодаря системе Magic Seats он предлагает непревзойденное пространство и гибкость салона в классе малых кроссоверов.",
+              "zh": "本田 HR-V 结合了轿跑车的特点和 SUV 的功能。得益于 Magic Seats 系统，它在小型跨界车中提供了无与伦比的空间和内部灵活性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda"
+              },
+              "okres produkcji": {
+                "pl": "od 1998",
+                "en": "from 1998",
+                "de": "ab 1998",
+                "uk": "з 1998 року",
+                "ru": "с 1998 года.",
+                "zh": "1998 年生产"
+              },
+              "segment": {
+                "pl": "Subcompact SUV",
+                "en": "Subcompact SUV",
+                "de": "Kleinwagen-SUV",
+                "uk": "Субкомпактний позашляховик",
+                "ru": "Малолитражный внедорожник.",
+                "zh": "小型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bw/9v/rl8g71cg4koks8k4kwwcs/hr-v.310.jpg"
+        }
+      },
+      {
+        "BrandID": 60,
+        "ModelID": 416581,
+        "Brand Name": "Honda",
+        "Model Name": "HR-V",
+        "Serie Name": "HR-V Gen 3 (US / Global)",
+        "Years": "2022 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Subcompact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.0L / 1.5L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Honda HR-V łączy cechy coupe z funkcjonalnością SUV-a. Dzięki systemowi Magic Seats oferuje bezkonkurencyjną przestrzeń i elastyczność wnętrza w klasie małych crossoverów.",
+              "en": "Honda HR-V combines the features of a coupe with the functionality of an SUV. Thanks to the Magic Seats system, it offers unrivaled space and interior flexibility in the small crossover class.",
+              "de": "Honda HR-V vereint die Eigenschaften eines Coupés mit der Funktionalität eines SUV. Dank des Magic Seats-Systems bietet er in der Klasse der kleinen Crossover ein unübertroffenes Platzangebot und eine unübertroffene Innenraumflexibilität.",
+              "uk": "Honda HR-V поєднує в собі риси купе з функціональністю позашляховика. Завдяки системі Magic Seats він пропонує неперевершений простір і гнучкість салону в класі малих кросоверів.",
+              "ru": "Honda HR-V сочетает в себе черты купе с функциональностью внедорожника. Благодаря системе Magic Seats он предлагает непревзойденное пространство и гибкость салона в классе малых кроссоверов.",
+              "zh": "本田 HR-V 结合了轿跑车的特点和 SUV 的功能。得益于 Magic Seats 系统，它在小型跨界车中提供了无与伦比的空间和内部灵活性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda"
+              },
+              "okres produkcji": {
+                "pl": "od 1998",
+                "en": "from 1998",
+                "de": "ab 1998",
+                "uk": "з 1998 року",
+                "ru": "с 1998 года.",
+                "zh": "1998 年生产"
+              },
+              "segment": {
+                "pl": "Subcompact SUV",
+                "en": "Subcompact SUV",
+                "de": "Kleinwagen-SUV",
+                "uk": "Субкомпактний позашляховик",
+                "ru": "Малолитражный внедорожник.",
+                "zh": "小型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bw/9v/rl8g71cg4koks8k4kwwcs/hr-v.310.jpg"
+        }
+      }
+    ],
+    "Insight": [
+      {
+        "BrandID": 60,
+        "ModelID": 413172,
+        "Brand Name": "Honda",
+        "Model Name": "Insight",
+        "Serie Name": "Insight Gen 1",
+        "Years": "1999 - 2006",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Hybrid",
+          "drive": "FWD",
+          "fuel": "Hybrid",
+          "engine": "1.0L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Honda Insight to pionier hybryd. Pierwsza generacja była aerodynamicznym eksperymentem, kolejne stały się praktycznymi autami rodzinnymi, rywalizującymi z Toyotą Prius.",
+              "en": "Honda Insight is a hybrid pioneer. The first generation was an aerodynamic experiment, the next ones became practical family cars, rivaling the Toyota Prius.",
+              "de": "Honda Insight ist ein Hybrid-Pionier. Die erste Generation war ein aerodynamisches Experiment, die nächsten wurden zu praktischen Familienautos und konkurrierten mit dem Toyota Prius.",
+              "uk": "Honda Insight — піонер гібридів. Перше покоління було аеродинамічним експериментом, наступні стали практичними сімейними автомобілями, конкуруючими з Toyota Prius.",
+              "ru": "Honda Insight — пионер гибридных технологий. Первое поколение представляло собой аэродинамический эксперимент, последующие стали практичными семейными автомобилями, соперничающими с Toyota Prius.",
+              "zh": "Honda Insight 是混合动力先驱。第一代是空气动力学实验，下一代成为实用的家庭用车，可与丰田普锐斯相媲美。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda"
+              },
+              "okres produkcji": "1999–2022",
+              "segment": {
+                "pl": "Hybrid Compact",
+                "en": "Hybrid Compact",
+                "de": "Hybrid Compact",
+                "uk": "Hybrid Compact",
+                "ru": "Hybrid Compact",
+                "zh": "紧凑型混合动力车"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8m/mf/tjz8z688ww8w8ogo0s00o/insight-2009.310.jpg"
+        }
+      },
+      {
+        "BrandID": 60,
+        "ModelID": 413173,
+        "Brand Name": "Honda",
+        "Model Name": "Insight",
+        "Serie Name": "Insight Gen 2",
+        "Years": "2009 - 2014",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Hybrid",
+          "drive": "FWD",
+          "fuel": "Hybrid",
+          "engine": "1.3L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Honda Insight to pionier hybryd. Pierwsza generacja była aerodynamicznym eksperymentem, kolejne stały się praktycznymi autami rodzinnymi, rywalizującymi z Toyotą Prius.",
+              "en": "Honda Insight is a hybrid pioneer. The first generation was an aerodynamic experiment, the next ones became practical family cars, rivaling the Toyota Prius.",
+              "de": "Honda Insight ist ein Hybrid-Pionier. Die erste Generation war ein aerodynamisches Experiment, die nächsten wurden zu praktischen Familienautos und konkurrierten mit dem Toyota Prius.",
+              "uk": "Honda Insight є гібридним піонером. Перше покоління було аеродинамічним експериментом, наступні стали практичними сімейними автомобілями, конкуруючими з Toyota Prius.",
+              "ru": "Honda Insight — пионер гибридных систем. Первое поколение представляло собой аэродинамический эксперимент, последующие стали практичными семейными автомобилями, соперничающими с Toyota Prius.",
+              "zh": "Honda Insight 是混合动力车的先驱。第一代是空气动力学实验，下一代成为实用的家庭用车，可与丰田普锐斯相媲美。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda"
+              },
+              "okres produkcji": "1999–2022",
+              "segment": {
+                "pl": "Hybrid Compact",
+                "en": "Hybrid Compact",
+                "de": "Hybrid Compact",
+                "uk": "Hybrid Compact",
+                "ru": "Hybrid Compact",
+                "zh": "紧凑型混合动力车"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8m/mf/tjz8z688ww8w8ogo0s00o/insight-2009.310.jpg"
+        }
+      },
+      {
+        "BrandID": 60,
+        "ModelID": 416582,
+        "Brand Name": "Honda",
+        "Model Name": "Insight",
+        "Serie Name": "Insight Gen 3",
+        "Years": "2018 - 2022",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Hybrid",
+          "drive": "FWD",
+          "fuel": "Hybrid",
+          "engine": "1.5L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Honda Insight to pionier hybryd. Pierwsza generacja była aerodynamicznym eksperymentem, kolejne stały się praktycznymi autami rodzinnymi, rywalizującymi z Toyotą Prius.",
+              "en": "Honda Insight is a hybrid pioneer. The first generation was an aerodynamic experiment, the next ones became practical family cars, rivaling the Toyota Prius.",
+              "de": "Honda Insight ist ein Hybrid-Pionier. Die erste Generation war ein aerodynamisches Experiment, die nächsten wurden zu praktischen Familienautos und konkurrierten mit dem Toyota Prius.",
+              "uk": "Honda Insight є гібридним піонером. Перше покоління було аеродинамічним експериментом, наступні стали практичними сімейними автомобілями, конкуруючими з Toyota Prius.",
+              "ru": "Honda Insight — пионер гибридных систем. Первое поколение представляло собой аэродинамический эксперимент, последующие стали практичными семейными автомобилями, соперничающими с Toyota Prius.",
+              "zh": "Honda Insight 是混合动力车的先驱。第一代是空气动力学实验，下一代成为实用的家庭用车，可与丰田普锐斯相媲美。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda"
+              },
+              "okres produkcji": "1999–2022",
+              "segment": {
+                "pl": "Hybrid Compact",
+                "en": "Hybrid Compact",
+                "de": "Hybrid Compact",
+                "uk": "Hybrid Compact",
+                "ru": "Hybrid Compact",
+                "zh": "混合动力紧凑型"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8m/mf/tjz8z688ww8w8ogo0s00o/insight-2009.310.jpg"
+        }
+      }
+    ],
+    "Jazz": [
+      {
+        "BrandID": 60,
+        "ModelID": 413176,
+        "Brand Name": "Honda",
+        "Model Name": "Jazz",
+        "Serie Name": "Jazz / Fit Gen 3",
+        "Years": "2013 - 2020",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Subcompact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.3L / 1.5L / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Honda Jazz (na niektórych rynkach Fit) to mistrz przestronności w małym nadwoziu. Słynie z niezawodności i genialnego systemu składania foteli Magic Seats.",
+              "en": "Honda Jazz (Fit in some markets) is the champion of space in a small body. It is famous for its reliability and brilliant Magic Seats folding system.",
+              "de": "Honda Jazz (passt in einigen Märkten) ist der Champion des Platzangebots in einer kleinen Karosserie. Es ist bekannt für seine Zuverlässigkeit und das brillante Faltsystem Magic Seats.",
+              "uk": "Honda Jazz (підходить на деяких ринках) — це чемпіон простору в маленькому кузові. Він славиться своєю надійністю та блискучою системою складання Magic Seats.",
+              "ru": "Honda Jazz (подходит для некоторых рынков) — чемпион пространства в маленьком кузове. Он славится своей надежностью и великолепной системой складывания Magic Seats.",
+              "zh": "Honda Jazz（适合某些市场）是小型车身空间的冠军。它以其可靠性和出色的 Magic Seats 折叠系统而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda"
+              },
+              "okres produkcji": {
+                "pl": "od 2001",
+                "en": "from 2001",
+                "de": "ab 2001",
+                "uk": "з 2001",
+                "ru": "с 2001 года.",
+                "zh": "2001 年生产"
+              },
+              "segment": {
+                "pl": "B"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      },
+      {
+        "BrandID": 60,
+        "ModelID": 416583,
+        "Brand Name": "Honda",
+        "Model Name": "Jazz",
+        "Serie Name": "Jazz / Fit Gen 4",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Subcompact",
+          "drive": "FWD",
+          "fuel": "Hybrid",
+          "engine": "1.5L Hybrid (e:HEV)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Honda Jazz (na niektórych rynkach Fit) to mistrz przestronności w małym nadwoziu. Słynie z niezawodności i genialnego systemu składania foteli Magic Seats.",
+              "en": "Honda Jazz (Fit in some markets) is a champion of space in a small body. It is famous for its reliability and brilliant Magic Seats folding system.",
+              "de": "Honda Jazz (passt in einigen Märkten) ist ein Meister des Platzangebots in einer kleinen Karosserie. Es ist bekannt für seine Zuverlässigkeit und das brillante Faltsystem Magic Seats.",
+              "uk": "Honda Jazz (підходить на деяких ринках) — чемпіон простору в маленькому кузові. Він славиться своєю надійністю та блискучою системою складання Magic Seats.",
+              "ru": "Honda Jazz (подходит для некоторых рынков) — чемпион пространства в маленьком кузове. Он славится своей надежностью и великолепной системой складывания Magic Seats.",
+              "zh": "Honda Jazz（适合某些市场）是小型车身空间的冠军。它以其可靠性和出色的 Magic Seats 折叠系统而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda"
+              },
+              "okres produkcji": {
+                "pl": "od 2001",
+                "en": "from 2001",
+                "de": "ab 2001",
+                "uk": "з 2001",
+                "ru": "с 2001 года",
+                "zh": "2001年起"
+              },
+              "segment": {
+                "pl": "B"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      }
+    ],
+    "Odyssey": [
+      {
+        "BrandID": 60,
+        "ModelID": 413180,
+        "Brand Name": "Honda",
+        "Model Name": "Odyssey",
+        "Serie Name": "Odyssey Gen 4 (US)",
+        "Years": "2010 - 2017",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Minivan",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Honda Odyssey (wersja US) to wzorzec minivana. Oferuje ogromną przestrzeń dla 8 osób, innowacje takie jak wbudowany odkurzacz (HondaVAC) i prowadzenie bliskie samochodom osobowym.",
+              "en": "Honda Odyssey (US version) is the benchmark of a minivan. It offers huge space for 8 people, innovations such as a built-in vacuum cleaner (HondaVAC) and driving characteristics similar to those of passenger cars.",
+              "de": "Honda Odyssey (US-Version) ist der Maßstab für einen Minivan. Er bietet riesigen Platz für 8 Personen, Innovationen wie einen eingebauten Staubsauger (HondaVAC) und Fahreigenschaften ähnlich denen von Pkw.",
+              "uk": "Honda Odyssey (американська версія) є еталоном мінівена. Він пропонує величезний простір для 8 осіб, такі інновації, як вбудований пилосос (HondaVAC) і ходові характеристики, подібні до легкових автомобілів.",
+              "ru": "Honda Odyssey (версия для США) является эталоном минивэна. Он предлагает огромное пространство для 8 человек, такие инновации, как встроенный пылесос (HondaVAC), и характеристики вождения, аналогичные характеристикам легковых автомобилей.",
+              "zh": "本田奥德赛（美国版）是小型货车的标杆。它提供可容纳 8 人的宽敞空间、内置吸尘器 (HondaVAC) 等创新技术以及与乘用车类似的驾驶特性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda"
+              },
+              "okres produkcji": {
+                "pl": "od 1994",
+                "en": "from 1994",
+                "de": "von 1994",
+                "uk": "з 1994 року",
+                "ru": "1994 года выпуска.",
+                "zh": "1994 年"
+              },
+              "segment": {
+                "pl": "Minivan"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1p/ct/8dpn8czoo4cow0wk4480g/odyssey-iv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 60,
+        "ModelID": 414191,
+        "Brand Name": "Honda",
+        "Model Name": "Odyssey",
+        "Serie Name": "Odyssey Gen 5 (US)",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Minivan",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Honda Odyssey (wersja US) to wzorzec minivana. Oferuje ogromną przestrzeń dla 8 osób, innowacje takie jak wbudowany odkurzacz (HondaVAC) i prowadzenie bliskie samochodom osobowym.",
+              "en": "Honda Odyssey (US version) is the benchmark minivan. It offers huge space for 8 people, innovations such as a built-in vacuum cleaner (HondaVAC) and driving characteristics similar to those of passenger cars.",
+              "de": "Honda Odyssey (US-Version) ist der Benchmark-Minivan. Er bietet riesigen Platz für 8 Personen, Innovationen wie einen eingebauten Staubsauger (HondaVAC) und Fahreigenschaften ähnlich denen von Pkw.",
+              "uk": "Honda Odyssey (версія для США) — еталонний мінівен. Він пропонує величезний простір для 8 осіб, такі інновації, як вбудований пилосос (HondaVAC) і ходові характеристики, подібні до легкових автомобілів.",
+              "ru": "Honda Odyssey (версия для США) — эталонный минивэн. Он предлагает огромное пространство для 8 человек, такие инновации, как встроенный пылесос (HondaVAC), и характеристики вождения, аналогичные характеристикам легковых автомобилей.",
+              "zh": "本田奥德赛（美国版）是小型货车的基准。它提供可容纳 8 人的宽敞空间、内置吸尘器 (HondaVAC) 等创新技术以及与乘用车类似的驾驶特性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda"
+              },
+              "okres produkcji": {
+                "pl": "od 1994",
+                "en": "from 1994",
+                "de": "von 1994",
+                "uk": "з 1994 року",
+                "ru": "от 1994 года.",
+                "zh": "源自 1994 年"
+              },
+              "segment": {
+                "pl": "Minivan"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1p/ct/8dpn8czoo4cow0wk4480g/odyssey-iv.310.jpg"
+        }
+      }
+    ],
+    "Passport": [
+      {
+        "BrandID": 60,
+        "ModelID": 416584,
+        "Brand Name": "Honda",
+        "Model Name": "Passport",
+        "Serie Name": "Passport Gen 3",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Honda Passport to skrócona wersja Pilota, nastawiona bardziej na off-road i aktywny styl życia. Oferuje mocny silnik V6 i jeden z największych bagażników w klasie 5-osobowych SUV-ów.",
+              "en": "Honda Passport is a shortened version of Pilot, focused more on off-road and active lifestyle. It offers a powerful V6 engine and one of the largest trunks in the 5-seater SUV class.",
+              "de": "Honda Passport ist eine verkürzte Version von Pilot, die sich mehr auf Offroad und einen aktiven Lebensstil konzentriert. Er bietet einen leistungsstarken V6-Motor und einen der größten Kofferräume in der 5-Sitzer-SUV-Klasse.",
+              "uk": "Honda Passport — це скорочена версія Pilot, орієнтована більше на бездоріжжя та активний спосіб життя. Він пропонує потужний двигун V6 і один із найбільших багажників у класі 5-місних SUV.",
+              "ru": "Honda Passport — укороченная версия Pilot, ориентированная больше на бездорожье и активный образ жизни. Он оснащен мощным двигателем V6 и одним из самых больших багажников в классе 5-местных внедорожников.",
+              "zh": "Honda Passport 是 Pilot 的缩短版，更注重越野和积极的生活方式。它配备强大的 V6 发动机和 5 座 SUV 级别中最大的后备箱之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda"
+              },
+              "okres produkcji": {
+                "pl": "od 1993",
+                "en": "from 1993",
+                "de": "ab 1993",
+                "uk": "з 1993 року",
+                "ru": "с 1993 года.",
+                "zh": "1993 年生产"
+              },
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний позашляховик",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Pilot": [
+      {
+        "BrandID": 60,
+        "ModelID": 413182,
+        "Brand Name": "Honda",
+        "Model Name": "Pilot",
+        "Serie Name": "Pilot Gen 2",
+        "Years": "2008 - 2015",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Honda Pilot to duży, rodzinny SUV z trzema rzędami siedzeń, będący alternatywą dla minivana. Oferuje komfortową jazdę, przestronność i sprawdzony napęd AWD.",
+              "en": "Honda Pilot is a large, family SUV with three rows of seats, an alternative to a minivan. It offers a comfortable ride, spaciousness and proven AWD drive.",
+              "de": "Honda Pilot ist ein großer Familien-SUV mit drei Sitzreihen, eine Alternative zu einem Minivan. Es bietet Fahrkomfort, Geräumigkeit und bewährten Allradantrieb.",
+              "uk": "Honda Pilot — великий сімейний позашляховик із трьома рядами сидінь, альтернатива мінівену. Він пропонує комфортну їзду, місткість і перевірений повний привід.",
+              "ru": "Honda Pilot — большой семейный внедорожник с тремя рядами сидений, альтернатива минивэну. Он предлагает комфортную езду, простор и проверенный полный привод.",
+              "zh": "Honda Pilot 是一款大型家庭 SUV，配有三排座椅，是小型货车的替代品。它提供舒适的乘坐体验、宽敞的空间和久经考验的全轮驱动驱动。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda"
+              },
+              "okres produkcji": {
+                "pl": "od 2002",
+                "en": "from 2002",
+                "de": "ab 2002",
+                "uk": "з 2002 року",
+                "ru": "с 2002 года.",
+                "zh": "2002 年生产"
+              },
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний позашляховик",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/em/qc/jkyk9l44go0g0kscsoosk/pilot-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 60,
+        "ModelID": 414192,
+        "Brand Name": "Honda",
+        "Model Name": "Pilot",
+        "Serie Name": "Pilot Gen 3",
+        "Years": "2016 - 2022",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Honda to japoński koncern znany z niezawodności i innowacyjnych silników (VTEC). Oprócz samochodów, jest największym producentem silników na świecie.",
+              "en": "Honda is a Japanese concern known for its reliability and innovative engines (VTEC). Apart from cars, it is the largest engine manufacturer in the world.",
+              "de": "Honda ist ein japanischer Konzern, der für seine Zuverlässigkeit und innovativen Motoren (VTEC) bekannt ist. Abgesehen von Autos ist es der größte Motorenhersteller der Welt.",
+              "uk": "Honda — японський концерн, відомий своєю надійністю та інноваційними двигунами (VTEC). Окрім автомобілів, це найбільший виробник двигунів у світі.",
+              "ru": "Honda — японский концерн, известный своими надежностью и инновационными двигателями (VTEC). Помимо автомобилей, это крупнейший производитель двигателей в мире.",
+              "zh": "本田是一家日本企业，以其可靠性和创新发动机 (VTEC) 闻名。除汽车外，它还是世界上最大的发动机制造商。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda Motor Co.",
+                "en": "Honda Motor Co.",
+                "de": "Honda Motor Co.",
+                "uk": "Honda Motor Co.",
+                "ru": "Honda Motor Co.",
+                "zh": "本田汽车公司"
+              },
+              "siedziba": {
+                "pl": "Tokio, Japonia",
+                "en": "Tokyo, Japan",
+                "de": "Tokio, Japan",
+                "uk": "Токіо, Японія",
+                "ru": "Токио, Япония",
+                "zh": "日本东京"
+              },
+              "założona": "1948"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/em/qc/jkyk9l44go0g0kscsoosk/pilot-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 60,
+        "ModelID": 416585,
+        "Brand Name": "Honda",
+        "Model Name": "Pilot",
+        "Serie Name": "Pilot Gen 4",
+        "Years": "2023 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Honda to japoński koncern znany z niezawodności i innowacyjnych silników (VTEC). Oprócz samochodów, jest największym producentem silników na świecie.",
+              "en": "Honda is a Japanese concern known for its reliability and innovative engines (VTEC). Apart from cars, it is the largest engine manufacturer in the world.",
+              "de": "Honda ist ein japanischer Konzern, der für seine Zuverlässigkeit und innovativen Motoren (VTEC) bekannt ist. Abgesehen von Autos ist es der größte Motorenhersteller der Welt.",
+              "uk": "Honda — японський концерн, відомий своєю надійністю та інноваційними двигунами (VTEC). Окрім автомобілів, це найбільший виробник двигунів у світі.",
+              "ru": "Honda — японский концерн, известный своими надежными и инновационными двигателями (VTEC). Помимо автомобилей, это крупнейший производитель двигателей в мире.",
+              "zh": "本田是一家以可靠性和创新发动机 (VTEC) 闻名的日本企业。除汽车外，它还是世界上最大的发动机制造商。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda Motor Co.",
+                "en": "Honda Motor Co.",
+                "de": "Honda Motor Co.",
+                "uk": "Honda Motor Co.",
+                "ru": "Honda Motor Co.",
+                "zh": "本田汽车公司"
+              },
+              "siedziba": {
+                "pl": "Tokio, Japonia",
+                "en": "Tokyo, Japan",
+                "de": "Tokio, Japan",
+                "uk": "Токіо, Японія",
+                "ru": "Токио, Япония",
+                "zh": "日本东京"
+              },
+              "założona": "1948"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/em/qc/jkyk9l44go0g0kscsoosk/pilot-ii.310.jpg"
+        }
+      }
+    ],
+    "Ridgeline": [
+      {
+        "BrandID": 60,
+        "ModelID": 653,
+        "Brand Name": "Honda",
+        "Model Name": "Ridgeline",
+        "Serie Name": "Ridgeline Gen 1",
+        "Years": "2005 - 2014",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Mid-size Pickup",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Honda to japoński koncern znany z niezawodności i innowacyjnych silników (VTEC). Oprócz samochodów, jest największym producentem silników na świecie.",
+              "en": "Honda is a Japanese concern known for its reliability and innovative engines (VTEC). Apart from cars, it is the largest engine manufacturer in the world.",
+              "de": "Honda ist ein japanischer Konzern, der für seine Zuverlässigkeit und innovativen Motoren (VTEC) bekannt ist. Abgesehen von Autos ist es der größte Motorenhersteller der Welt.",
+              "uk": "Honda — японський концерн, відомий своєю надійністю та інноваційними двигунами (VTEC). Окрім автомобілів, це найбільший виробник двигунів у світі.",
+              "ru": "Honda — японский концерн, известный своими надежными и инновационными двигателями (VTEC). Помимо автомобилей, это крупнейший производитель двигателей в мире.",
+              "zh": "本田是一家以可靠性和创新发动机 (VTEC) 闻名的日本企业。除汽车外，它还是世界上最大的发动机制造商。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda Motor Co.",
+                "en": "Honda Motor Co.",
+                "de": "Honda Motor Co.",
+                "uk": "Honda Motor Co.",
+                "ru": "Honda Motor Co.",
+                "zh": "本田汽车公司"
+              },
+              "siedziba": {
+                "pl": "Tokio, Japonia",
+                "en": "Tokyo, Japan",
+                "de": "Tokio, Japan",
+                "uk": "Токіо, Японія",
+                "ru": "Токио, Япония",
+                "zh": "日本东京"
+              },
+              "założona": "1948"
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      },
+      {
+        "BrandID": 60,
+        "ModelID": 416586,
+        "Brand Name": "Honda",
+        "Model Name": "Ridgeline",
+        "Serie Name": "Ridgeline Gen 2",
+        "Years": "2017 - 3000",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Mid-size Pickup",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Honda to japoński koncern znany z niezawodności i innowacyjnych silników (VTEC). Oprócz samochodów, jest największym producentem silników na świecie.",
+              "en": "Honda is a Japanese concern known for its reliability and innovative engines (VTEC). Apart from cars, it is the largest engine manufacturer in the world.",
+              "de": "Honda ist ein japanischer Konzern, der für seine Zuverlässigkeit und innovativen Motoren (VTEC) bekannt ist. Abgesehen von Autos ist es der größte Motorenhersteller der Welt.",
+              "uk": "Honda — японський концерн, відомий своєю надійністю та інноваційними двигунами (VTEC). Окрім автомобілів, це найбільший виробник двигунів у світі.",
+              "ru": "Honda — японский концерн, известный своими надежными и инновационными двигателями (VTEC). Помимо автомобилей, это крупнейший производитель двигателей в мире.",
+              "zh": "本田是一家以可靠性和创新发动机 (VTEC) 闻名的日本企业。除汽车外，它还是世界上最大的发动机制造商。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda Motor Co.",
+                "en": "Honda Motor Co.",
+                "de": "Honda Motor Co.",
+                "uk": "Honda Motor Co.",
+                "ru": "Honda Motor Co.",
+                "zh": "本田汽车公司"
+              },
+              "siedziba": {
+                "pl": "Tokio, Japonia",
+                "en": "Tokyo, Japan",
+                "de": "Tokio, Japan",
+                "uk": "Токіо, Японія",
+                "ru": "Токио, Япония",
+                "zh": "日本东京"
+              },
+              "założona": "1948"
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      }
+    ],
+    "S2000": [
+      {
+        "BrandID": 60,
+        "ModelID": 655,
+        "Brand Name": "Honda",
+        "Model Name": "S2000",
+        "Serie Name": "S2000",
+        "Years": "1999 - 2009",
+        "specs": {
+          "bodyType": "Convertible",
+          "segment": "Roadster",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L / 2.2L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Honda to japoński koncern znany z niezawodności i innowacyjnych silników (VTEC). Oprócz samochodów, jest największym producentem silników na świecie.",
+              "en": "Honda is a Japanese concern known for its reliability and innovative engines (VTEC). Apart from cars, it is the largest engine manufacturer in the world.",
+              "de": "Honda ist ein japanischer Konzern, der für seine Zuverlässigkeit und innovativen Motoren (VTEC) bekannt ist. Abgesehen von Autos ist es der größte Motorenhersteller der Welt.",
+              "uk": "Honda — японський концерн, відомий своєю надійністю та інноваційними двигунами (VTEC). Окрім автомобілів, це найбільший виробник двигунів у світі.",
+              "ru": "Honda — японский концерн, известный своими надежными и инновационными двигателями (VTEC). Помимо автомобилей, это крупнейший производитель двигателей в мире.",
+              "zh": "本田是一家以可靠性和创新发动机 (VTEC) 闻名的日本企业。除汽车外，它还是世界上最大的发动机制造商。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Honda Motor Co.",
+                "en": "Honda Motor Co.",
+                "de": "Honda Motor Co.",
+                "uk": "Honda Motor Co.",
+                "ru": "Хонда Мотор Ко.",
+                "zh": "本田汽车公司"
+              },
+              "siedziba": {
+                "pl": "Tokio, Japonia",
+                "en": "Tokyo, Japan",
+                "de": "Tokio, Japan",
+                "uk": "Токіо, Японія",
+                "ru": "Токио, Япония",
+                "zh": "日本东京"
+              },
+              "założona": "1948"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6q/75/8kz956gwkoswg0kcws4w8/s2000.310.jpg"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,407 @@
+{
+  "brand": "ЗИЛ",
+  "models": {
+    "130": [
+      {
+        "BrandID": 195,
+        "ModelID": "",
+        "Brand Name": "ЗИЛ",
+        "Model Name": 130,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "ZIL-130 to legendarna radziecka ciężarówka średniej ładowności, produkowana przez prawie 50 lat. Symbol transportu w ZSRR.",
+              "en": "ZIL-130 is a legendary Soviet medium-duty truck, produced for almost 50 years. Symbol of transport in the USSR.",
+              "de": "Der ZIL-130 ist ein legendärer sowjetischer mittelschwerer Lkw, der seit fast 50 Jahren produziert wird. Symbol des Transports in der UdSSR.",
+              "uk": "ЗІЛ-130 - легендарний радянський середньотоннажний вантажівка, який випускався майже 50 років. Символ транспорту в СРСР.",
+              "ru": "ЗИЛ-130 – легендарный советский среднетоннажный грузовик, выпускавшийся почти 50 лет. Символ транспорта СССР.",
+              "zh": "ZIL-130 是一款具有传奇色彩的苏联中型卡车，生产历史近 50 年。苏联交通的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "ZIL"
+              },
+              "okres produkcji": "1962–2010",
+              "silnik": {
+                "pl": "6.0L V8",
+                "en": "6.0L V8",
+                "de": "6,0 l V8",
+                "uk": "6.0L V8",
+                "ru": "6,0 л V8",
+                "zh": "6.0L V8"
+              },
+              "ładowność": {
+                "pl": "6 ton",
+                "en": "6 tons",
+                "de": "6 Tonnen",
+                "uk": "6 тонн",
+                "ru": "6 тонн",
+                "zh": "6 吨"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 195,
+        "ModelID": 415487,
+        "Brand Name": "ЗИЛ",
+        "Model Name": 130,
+        "Serie Name": 130,
+        "Years": "1950 - 2020",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "ZIL-130 to legendarna radziecka ciężarówka średniej ładowności, produkowana przez prawie 50 lat. Symbol transportu w ZSRR.",
+              "en": "ZIL-130 is a legendary Soviet medium-duty truck, produced for almost 50 years. Symbol of transport in the USSR.",
+              "de": "ZIL-130 ist ein legendärer sowjetischer mittelschwerer Lkw, der seit fast 50 Jahren produziert wird. Symbol des Transports in der UdSSR.",
+              "uk": "ЗІЛ-130 - легендарний радянський середньотоннажний вантажівка, який випускався майже 50 років. Символ транспорту в СРСР.",
+              "ru": "ЗИЛ-130 – легендарный советский среднетоннажный грузовик, выпускавшийся почти 50 лет. Символ транспорта СССР.",
+              "zh": "ZIL-130 是一款传奇的苏联中型卡车，生产了近 50 年。苏联交通的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "ZIL"
+              },
+              "okres produkcji": "1962–2010",
+              "silnik": {
+                "pl": "6.0L V8",
+                "en": "6.0L V8",
+                "de": "6,0 l V8",
+                "uk": "6.0L V8",
+                "ru": "6,0 л V8",
+                "zh": "6.0L V8"
+              },
+              "ładowność": {
+                "pl": "6 ton",
+                "en": "6 tons",
+                "de": "6 Tonnen",
+                "uk": "6 тонн",
+                "ru": "6 тонн",
+                "zh": "6 吨"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "131": [
+      {
+        "BrandID": 195,
+        "ModelID": "",
+        "Brand Name": "ЗИЛ",
+        "Model Name": 131,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "ZIL-131 to wojskowa ciężarówka terenowa 6x6, oparta na podzespołach modelu 130. Niezastąpiona w trudnym terenie.",
+              "en": "ZIL-131 is a 6x6 off-road military truck, based on components of the 130 model. Indispensable in difficult terrain.",
+              "de": "ZIL-131 ist ein 6x6-Gelände-Militärlastwagen, der auf Komponenten des Modells 130 basiert. Unverzichtbar in schwierigem Gelände.",
+              "uk": "ЗІЛ-131 — військова вантажівка підвищеної прохідності 6х6, створена на базі агрегатів моделі 130. Незамінний на складній місцевості.",
+              "ru": "ЗИЛ-131 — военный грузовик повышенной проходимости с колесной формулой 6х6, созданный на базе узлов модели 130. Незаменим в труднопроходимой местности.",
+              "zh": "ZIL-131 是一款 6x6 越野军用卡车，基于 130 型号的组件。在困难地形中不可或缺。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "ZIL"
+              },
+              "okres produkcji": "1966–2002",
+              "silnik": {
+                "pl": "6.0L V8",
+                "en": "6.0L V8",
+                "de": "6,0 l V8",
+                "uk": "6.0L V8",
+                "ru": "6,0 л V8",
+                "zh": "6.0L V8"
+              },
+              "napęd": {
+                "pl": "AWD (6x6)",
+                "en": "AWD (6x6)",
+                "de": "AWD (6x6)",
+                "uk": "AWD (6x6)",
+                "ru": "Полный привод (6x6)",
+                "zh": "AWD (6x6)"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 195,
+        "ModelID": 415489,
+        "Brand Name": "ЗИЛ",
+        "Model Name": 131,
+        "Serie Name": 131,
+        "Years": "1950 - 2020",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "ZIL-131 to wojskowa ciężarówka terenowa 6x6, oparta na podzespołach modelu 130. Niezastąpiona w trudnym terenie.",
+              "en": "ZIL-131 is a 6x6 military off-road truck, based on components of the 130 model. Indispensable in difficult terrain.",
+              "de": "ZIL-131 ist ein 6x6-Militär-Geländewagen, der auf Komponenten des Modells 130 basiert. Unverzichtbar in schwierigem Gelände.",
+              "uk": "ЗІЛ-131 — військова вантажівка підвищеної прохідності 6x6, створена на базі агрегатів моделі 130. Незамінний на складній місцевості.",
+              "ru": "ЗИЛ-131 — военный грузовик повышенной проходимости с колесной формулой 6х6, созданный на базе узлов модели 130. Незаменим в труднопроходимой местности.",
+              "zh": "ZIL-131 是一款 6x6 军用越野卡车，基于 130 型号的组件。在困难地形中不可或缺。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "ZIL"
+              },
+              "okres produkcji": "1966–2002",
+              "silnik": {
+                "pl": "6.0L V8",
+                "en": "6.0L V8",
+                "de": "6.0L V8",
+                "uk": "6.0L V8",
+                "ru": "6,0 л V8",
+                "zh": "6.0L V8"
+              },
+              "napęd": {
+                "pl": "AWD (6x6)",
+                "en": "AWD (6x6)",
+                "de": "AWD (6x6)",
+                "uk": "AWD (6x6)",
+                "ru": "Полный привод (6x6)",
+                "zh": "AWD (6x6)"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "157": [
+      {
+        "BrandID": 195,
+        "ModelID": "",
+        "Brand Name": "ЗИЛ",
+        "Model Name": 157,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "ZIL-157 to klasyczna ciężarówka terenowa 6x6, poprzednik modelu 131. Znana z doskonałych właściwości w terenie.",
+              "en": "ZIL-157 is a classic 6x6 off-road truck, the predecessor of the 131 model. Known for its excellent off-road properties.",
+              "de": "ZIL-157 ist ein klassischer 6x6-Geländewagen, der Vorgänger des Modells 131. Bekannt für seine hervorragenden Offroad-Eigenschaften.",
+              "uk": "ЗІЛ-157 — класичний позашляховик 6x6, попередник 131 моделі. Відомий своїми відмінними позашляховими властивостями.",
+              "ru": "ЗИЛ-157 — классический грузовик повышенной проходимости с колесной формулой 6х6, предшественник модели 131. Известен своими отличными внедорожными свойствами.",
+              "zh": "ZIL-157 是一款经典的 6x6 越野卡车，是 131 车型的前身。以其卓越的越野性能而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "ZIL"
+              },
+              "okres produkcji": "1958–1991",
+              "silnik": {
+                "pl": "5.6L R6",
+                "en": "5.6L R6",
+                "de": "5,6L R6",
+                "uk": "5.6L R6",
+                "ru": "5,6 л Р6",
+                "zh": "5.6L R6"
+              },
+              "napęd": {
+                "pl": "AWD (6x6)",
+                "en": "AWD (6x6)",
+                "de": "AWD (6x6)",
+                "uk": "AWD (6x6)",
+                "ru": "Полный привод (6x6)",
+                "zh": "AWD (6x6)"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 195,
+        "ModelID": 415491,
+        "Brand Name": "ЗИЛ",
+        "Model Name": 157,
+        "Serie Name": 157,
+        "Years": "1950 - 2020",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "ZIL-157 to klasyczna ciężarówka terenowa 6x6, poprzednik modelu 131. Znana z doskonałych właściwości w terenie.",
+              "en": "ZIL-157 is a classic 6x6 off-road truck, the predecessor of the 131 model. Known for its excellent off-road properties.",
+              "de": "ZIL-157 ist ein klassischer 6x6-Geländewagen, der Vorgänger des Modells 131. Bekannt für seine hervorragenden Offroad-Eigenschaften.",
+              "uk": "ЗІЛ-157 — класичний позашляховик 6x6, попередник 131 моделі. Відомий своїми відмінними позашляховими властивостями.",
+              "ru": "ЗИЛ-157 — классический грузовик повышенной проходимости с колесной формулой 6х6, предшественник модели 131. Известен своими отличными внедорожными свойствами.",
+              "zh": "ZIL-157 是一款经典的 6x6 越野卡车，是 131 车型的前身。以其卓越的越野性能而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "ZIL"
+              },
+              "okres produkcji": "1958–1991",
+              "silnik": {
+                "pl": "5.6L R6",
+                "en": "5.6L R6",
+                "de": "5.6L R6",
+                "uk": "5.6L R6",
+                "ru": "5,6 л Р6",
+                "zh": "5.6L R6"
+              },
+              "napęd": {
+                "pl": "AWD (6x6)",
+                "en": "AWD (6x6)",
+                "de": "AWD (6x6)",
+                "uk": "AWD (6x6)",
+                "ru": "Полный привод (6x6)",
+                "zh": "AWD (6x6)"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "5301": [
+      {
+        "BrandID": 195,
+        "ModelID": "",
+        "Brand Name": "ЗИЛ",
+        "Model Name": 5301,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "ZIL-5301 'Bychok' to lekki samochód ciężarowy, który pomógł fabryce przetrwać trudne lata 90. Wykorzystuje konstrukcję kabiny z modelu 4331 i podzespoły z ciągników rolniczych, tworząc uniwersalny pojazd dystrybucyjny.",
+              "en": "ZIL-5301 'Bychok' is a light truck that helped the factory survive the difficult 1990s. It uses the cabin structure from the 4331 model and components from agricultural tractors, creating a universal distribution vehicle.",
+              "de": "ZIL-5301 „Bychok“ ist ein leichter Lkw, der dem Werk geholfen hat, die schwierigen 1990er Jahre zu überstehen. Es nutzt die Kabinenstruktur des Modells 4331 und Komponenten von landwirtschaftlichen Traktoren und schafft so ein universelles Verteilerfahrzeug.",
+              "uk": "ЗІЛ-5301 «Бичок» — легка вантажівка, яка допомогла заводу пережити важкі 1990-ті. Він використовує конструкцію кабіни моделі 4331 і компоненти сільськогосподарських тракторів, створюючи універсальний транспортний засіб.",
+              "ru": "ЗИЛ-5301 «Бычок» — легкий грузовик, который помог заводу пережить трудные 1990-е годы. Он использует конструкцию кабины модели 4331 и компоненты сельскохозяйственных тракторов, создавая универсальный развозной автомобиль.",
+              "zh": "ZIL-5301“Bychok”是一款轻型卡车，帮助工厂度过了困难的 90 年代。它采用了4331车型的驾驶室结构和农用拖拉机的部件，打造出一款通用配送车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "ZIL"
+              },
+              "okres produkcji": "1996–2014",
+              "ładowność": {
+                "pl": "3 tony",
+                "en": "3 tons",
+                "de": "3 Tonnen",
+                "uk": "3 тонни",
+                "ru": "3 тонны",
+                "zh": "3 吨"
+              },
+              "typ": {
+                "pl": "Lekka ciężarówka",
+                "en": "Light truck",
+                "de": "Leichter LKW",
+                "uk": "Легка вантажівка",
+                "ru": "Легкий грузовик",
+                "zh": "轻型卡车"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 195,
+        "ModelID": 415493,
+        "Brand Name": "ЗИЛ",
+        "Model Name": 5301,
+        "Serie Name": 5301,
+        "Years": "1950 - 2020",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "ZIL-5301 'Bychok' to lekki samochód ciężarowy, który pomógł fabryce przetrwać trudne lata 90. Wykorzystuje konstrukcję kabiny z modelu 4331 i podzespoły z ciągników rolniczych, tworząc uniwersalny pojazd dystrybucyjny.",
+              "en": "ZIL-5301 'Bychok' is a light truck that helped the factory survive the difficult 1990s. It uses the cabin structure from the 4331 model and components from agricultural tractors, creating a universal distribution vehicle.",
+              "de": "ZIL-5301 „Bychok“ ist ein leichter LKW, der der Fabrik geholfen hat, die schwierigen 1990er Jahre zu überstehen. Es nutzt die Kabinenstruktur des Modells 4331 und Komponenten von landwirtschaftlichen Traktoren und schafft so ein universelles Verteilerfahrzeug.",
+              "uk": "ЗІЛ-5301 «Бичок» — легка вантажівка, яка допомогла заводу пережити важкі 1990-ті. Він використовує конструкцію кабіни моделі 4331 і компоненти сільськогосподарських тракторів, створюючи універсальний транспортний засіб.",
+              "ru": "ЗИЛ-5301 «Бычок» — легкий грузовик, который помог заводу пережить трудные 1990-е годы. Он использует конструкцию кабины модели 4331 и компоненты сельскохозяйственных тракторов, создавая универсальный развозной автомобиль.",
+              "zh": "ZIL-5301“Bychok”是一款轻型卡车，帮助工厂度过了困难的 90 年代。它采用了4331车型的驾驶室结构和农用拖拉机的部件，打造出一款通用配送车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "ZIL"
+              },
+              "okres produkcji": "1996–2014",
+              "ładowność": {
+                "pl": "3 tony",
+                "en": "3 tons",
+                "de": "3 Tonnen",
+                "uk": "3 тонни",
+                "ru": "3 тонны",
+                "zh": "3 吨"
+              },
+              "typ": {
+                "pl": "Lekka ciężarówka",
+                "en": "Light truck",
+                "de": "Leichter LKW",
+                "uk": "Легкий вантажівка",
+                "ru": "Легкий грузовик",
+                "zh": "轻型卡车"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "": [
+      {
+        "BrandID": 195,
+        "ModelID": "",
+        "Brand Name": "ЗИЛ",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "ZiL (Zavod imeni Likhachyova) to jedna z najstarszych i najważniejszych rosyjskich fabryk motoryzacyjnych. Słynie z produkcji potężnych ciężarówek wojskowych i cywilnych, a także luksusowych, opancerzonych limuzyn dla najważniejszych osób w państwie.",
+              "en": "ZiL (Zavod imeni Likhachyova) is one of the oldest and most important Russian automotive factories. It is famous for the production of powerful military and civilian trucks, as well as luxurious, armored limousines for the most important people in the state.",
+              "de": "ZiL (Zavod imeni Likhachyova) ist eine der ältesten und bedeutendsten russischen Automobilfabriken. Es ist berühmt für die Produktion leistungsstarker Militär- und Zivillastwagen sowie luxuriöser, gepanzerter Limousinen für die wichtigsten Persönlichkeiten des Staates.",
+              "uk": "ЗІЛ (Завод імені Лихачова) — один з найстаріших і найважливіших російських автомобільних заводів. Він славиться виробництвом потужних військових і цивільних вантажівок, а також розкішних броньованих лімузинів для найважливіших людей держави.",
+              "ru": "ЗиЛ (Завод имени Лихачева) — один из старейших и важнейших автомобильных заводов России. Он славится производством мощных военных и гражданских грузовиков, а также роскошных бронированных лимузинов для самых важных людей штата.",
+              "zh": "ZiL (Zavod imeni Likhachyova) 是俄罗斯最古老、最重要的汽车工厂之一。它以生产强大的军用和民用卡车以及为该州最重要的人物生产的豪华装甲轿车而闻名。"
+            },
+            "infobox": {
+              "pełna nazwa": {
+                "pl": "Zavod imeni Likhachyova",
+                "en": "Zavod imeni Likhachyova",
+                "de": "Zavod imeni Likhachyova",
+                "uk": "Завод имени Лихачёва",
+                "ru": "Завод имени Лихачева",
+                "zh": "Zavod imeni Likhachyova"
+              },
+              "siedziba": {
+                "pl": "Moskwa, Rosja",
+                "en": "Moscow, Russia",
+                "de": "Moskau, Russland",
+                "uk": "Москва, Росія",
+                "ru": "Москва, Россия",
+                "zh": "莫斯科，俄罗斯"
+              },
+              "założona": "1916",
+              "produkty": {
+                "pl": "Ciężarówki, Limuzyny, Autobusy",
+                "en": "Trucks, Limousines, Buses",
+                "de": "LKWs, Limousinen, Busse",
+                "uk": "Вантажівки, Лімузини, Автобуси",
+                "ru": "Грузовые автомобили, лимузины, автобусы",
+                "zh": "卡车、豪华轿车、公共汽车"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

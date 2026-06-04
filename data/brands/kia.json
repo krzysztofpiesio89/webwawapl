@@ -1,0 +1,2820 @@
+{
+  "brand": "Kia",
+  "models": {
+    "Borrego": [
+      {
+        "BrandID": 75,
+        "ModelID": 797,
+        "Brand Name": "Kia",
+        "Model Name": "Borrego",
+        "Serie Name": "Borrego (Mohave)",
+        "Years": "2008 - 2024",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.0L Diesel / 3.8L V6 / 4.6L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia Borrego (znana również jako Mohave) to największy i najbardziej luksusowy SUV w gamie Kii w momencie debiutu. Zbudowana na ramie, oferuje świetne właściwości uciągu i potężny silnik V8.",
+              "en": "The Kia Borrego (also known as the Mohave) is the largest and most luxurious SUV in the Kia lineup at launch. Built on a frame, it offers great towing capacity and a powerful V8 engine.",
+              "de": "Der Kia Borrego (auch bekannt als Mohave) ist zum Marktstart der größte und luxuriöseste SUV der Kia-Reihe. Auf einem Rahmen gebaut, bietet er eine große Anhängelast und einen leistungsstarken V8-Motor.",
+              "uk": "Kia Borrego (також відомий як Mohave) є найбільшим і найрозкішнішим позашляховиком у лінійці Kia на момент запуску. Побудований на рамі, він пропонує чудову тягову здатність і потужний двигун V8.",
+              "ru": "Kia Borrego (также известный как Mohave) — самый большой и роскошный внедорожник в линейке Kia на момент запуска. Построенный на раме, он обладает отличной буксировочной способностью и мощным двигателем V8.",
+              "zh": "起亚 Borrego（也称为 Mohave）是起亚推出的产品线中最大、最豪华的 SUV。它建立在框架上，提供强大的牵引能力和强大的 V8 发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": {
+                "pl": "od 2008",
+                "en": "from 2008",
+                "de": "ab 2008",
+                "uk": "з 2008 року",
+                "ru": "от 2008 года.",
+                "zh": "自2008年以来"
+              },
+              "segment": {
+                "pl": "Full-size SUV",
+                "en": "Full-size SUV",
+                "de": "Full-Size-SUV",
+                "uk": "Повнорозмірний позашляховик",
+                "ru": "Полноразмерный внедорожник",
+                "zh": "全尺寸SUV"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Cadenza": [
+      {
+        "BrandID": 75,
+        "ModelID": 414013,
+        "Brand Name": "Kia",
+        "Model Name": "Cadenza",
+        "Serie Name": "Cadenza (K7) Gen 1",
+        "Years": "2010 - 2016",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Sedan",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L / 3.0L / 3.3L / 3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia to koreańska marka, która w ostatnich dekadach przeszła niesamowitą metamorfozę. Oferuje auta o nowoczesnym designie i świetnej jakości, objęte 7-letnią gwarancją.",
+              "en": "Kia is a Korean brand that has undergone an incredible metamorphosis in recent decades. It offers cars with modern design and great quality, covered by a 7-year warranty.",
+              "de": "Kia ist eine koreanische Marke, die in den letzten Jahrzehnten eine unglaubliche Metamorphose durchgemacht hat. Es bietet Autos mit modernem Design und hervorragender Qualität, abgedeckt durch eine 7-Jahres-Garantie.",
+              "uk": "Kia — корейський бренд, який за останні десятиліття пережив неймовірні метаморфози. Пропонує автомобілі з сучасним дизайном і відмінною якістю, на які поширюється гарантія 7 років.",
+              "ru": "Kia – корейский бренд, претерпевший за последние десятилетия невероятные метаморфозы. Предлагает автомобили современного дизайна и отличного качества с 7-летней гарантией.",
+              "zh": "起亚是一个韩国品牌，近几十年来经历了令人难以置信的转变。它提供具有现代设计和卓越品质的汽车，并提供 7 年保修。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia Corporation",
+                "en": "Kia Corporation",
+                "de": "Kia Corporation",
+                "uk": "Kia Corporation",
+                "ru": "Kia Corporation",
+                "zh": "起亚公司"
+              },
+              "siedziba": {
+                "pl": "Seul, Korea Południowa",
+                "en": "Seoul, South Korea",
+                "de": "Seoul, Südkorea",
+                "uk": "Сеул, Південна Корея",
+                "ru": "Сеул, Южная Корея",
+                "zh": "韩国首尔"
+              },
+              "założona": "1944"
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 414014,
+        "Brand Name": "Kia",
+        "Model Name": "Cadenza",
+        "Serie Name": "Cadenza (K7) Gen 2",
+        "Years": "2016 - 2021",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Sedan",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "2.4L / 3.3L V6 / 2.2L Diesel / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Kia Cadenza (na rynku koreańskim K7) to luksusowa limuzyna klasy wyższej-średniej. Łączy elegancki design Petera Schreyera z bogatym wyposażeniem i komfortem podróży.",
+              "en": "Kia Cadenza (K7 in the Korean market) is a luxury upper-middle class sedan. It combines the elegant design of Peter Schreyer with rich equipment and travel comfort.",
+              "de": "Kia Cadenza (K7 auf dem koreanischen Markt) ist eine Luxuslimousine der oberen Mittelklasse. Es vereint das elegante Design von Peter Schreyer mit reichhaltiger Ausstattung und Reisekomfort.",
+              "uk": "Kia Cadenza (K7 на корейському ринку) — розкішний седан вищого середнього класу. Він поєднує в собі елегантний дизайн Пітера Шрайера з багатим оснащенням і комфортом подорожі.",
+              "ru": "Kia Cadenza (K7 на корейском рынке) — роскошный седан высшего среднего класса. Он сочетает в себе элегантный дизайн Питера Шрайера с богатым оснащением и комфортом путешествия.",
+              "zh": "起亚 Cadenza（韩国市场上的 K7）是一款豪华中上阶层豪华轿车。它将Peter Schreyer的优雅设计与丰富的设备和旅行的舒适性融为一体。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": "2010–2021",
+              "segment": {
+                "pl": "E (Executive car)",
+                "en": "E (Executive car)",
+                "de": "E (Executive Car)",
+                "uk": "E (представницький автомобіль)",
+                "ru": "E (Представительский автомобиль)",
+                "zh": "E（行政车）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      }
+    ],
+    "Carens": [
+      {
+        "BrandID": 75,
+        "ModelID": 788,
+        "Brand Name": "Kia",
+        "Model Name": "Carens",
+        "Serie Name": "Carens (Rondo)",
+        "Years": "1999 - 2018",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.0L / 1.7L - 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Kia Carens (znana w USA jako Rondo) to wszechstronny minivan (MPV) stworzony z myślą o rodzinach. Ceniona za funkcjonalność, 7-miejscowe wnętrze i łatwość aranżacji kabiny.",
+              "en": "Kia Carens (known in the US as Rondo) is a versatile minivan (MPV) designed with families in mind. Appreciated for its functionality, 7-seater interior and ease of cabin arrangement.",
+              "de": "Kia Carens (in den USA als Rondo bekannt) ist ein vielseitiger Minivan (MPV), der speziell für Familien entwickelt wurde. Geschätzt für seine Funktionalität, den 7-Sitzer-Innenraum und die einfache Kabinenanordnung.",
+              "uk": "Kia Carens (відомий у США як Rondo) — це універсальний мінівен (MPV), розроблений для сімей. Цінується за функціональність, 7-місний салон і легкість облаштування салону.",
+              "ru": "Kia Carens (известный в США как Rondo) — универсальный минивэн (MPV), созданный для семейного отдыха. Ценится за функциональность, 7-местный салон и простоту обустройства кабины.",
+              "zh": "起亚 Carens（在美国称为 Rondo）是一款专为家庭设计的多功能小型货车 (MPV)。因其功能性、7 座内饰和易于客舱布置而受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": "1999–2018",
+              "segment": {
+                "pl": "Compact MPV",
+                "en": "Compact MPV",
+                "de": "Kompakter MPV",
+                "uk": "Компактний MPV",
+                "ru": "Компактвэн",
+                "zh": "紧凑型MPV"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      }
+    ],
+    "Carnival": [
+      {
+        "BrandID": 75,
+        "ModelID": 789,
+        "Brand Name": "Kia",
+        "Model Name": "Carnival",
+        "Serie Name": "Carnival Gen 1",
+        "Years": "1998 - 2005",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Minivan",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.5L V6 / 2.9L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Kia to koreańska marka, która w ostatnich dekadach przeszła niesamowitą metamorfozę. Oferuje auta o nowoczesnym designie i świetnej jakości, objęte 7-letnią gwarancją.",
+              "en": "Kia is a Korean brand that has undergone an incredible metamorphosis in recent decades. It offers cars with modern design and great quality, covered by a 7-year warranty.",
+              "de": "Kia ist eine koreanische Marke, die in den letzten Jahrzehnten eine unglaubliche Metamorphose durchgemacht hat. Es bietet Autos mit modernem Design und hervorragender Qualität, abgedeckt durch eine 7-Jahres-Garantie.",
+              "uk": "Kia — корейський бренд, який за останні десятиліття пережив неймовірні метаморфози. Пропонує автомобілі сучасного дизайну та відмінної якості, на які поширюється гарантія 7 років.",
+              "ru": "Kia — корейский бренд, претерпевший невероятные метаморфозы за последние десятилетия. Предлагает автомобили современного дизайна и отличного качества с 7-летней гарантией.",
+              "zh": "起亚是一个韩国品牌，近几十年来经历了令人难以置信的转变。它提供具有现代设计和卓越品质的汽车，并提供 7 年保修。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia Corporation",
+                "en": "Kia Corporation",
+                "de": "Kia Corporation",
+                "uk": "Корпорація Kia",
+                "ru": "Kia Corporation",
+                "zh": "起亚公司"
+              },
+              "siedziba": {
+                "pl": "Seul, Korea Południowa",
+                "en": "Seoul, South Korea",
+                "de": "Seoul, Südkorea",
+                "uk": "Сеул, Південна Корея",
+                "ru": "Сеул, Южная Корея",
+                "zh": "韩国首尔"
+              },
+              "założona": "1944"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ck/ey/en88sagwswc0wwoscgk8g/carnival-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 412961,
+        "Brand Name": "Kia",
+        "Model Name": "Carnival",
+        "Serie Name": "Carnival Gen 2",
+        "Years": "2006 - 2014",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Minivan",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.7L V6 / 3.8L V6 / 2.2L / 2.9L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Kia to koreańska marka, która w ostatnich dekadach przeszła niesamowitą metamorfozę. Oferuje auta o nowoczesnym designie i świetnej jakości, objęte 7-letnią gwarancją.",
+              "en": "Kia is a Korean brand that has undergone an incredible metamorphosis in recent decades. It offers cars with modern design and great quality, covered by a 7-year warranty.",
+              "de": "Kia ist eine koreanische Marke, die in den letzten Jahrzehnten eine unglaubliche Metamorphose durchgemacht hat. Es bietet Autos mit modernem Design und hervorragender Qualität, abgedeckt durch eine 7-Jahres-Garantie.",
+              "uk": "Kia — корейський бренд, який за останні десятиліття зазнав неймовірних метаморфоз. Пропонує автомобілі з сучасним дизайном і відмінною якістю, на які поширюється гарантія 7 років.",
+              "ru": "Kia — корейский бренд, претерпевший невероятные метаморфозы за последние десятилетия. Предлагает автомобили современного дизайна и отличного качества с 7-летней гарантией.",
+              "zh": "起亚是一个韩国品牌，近几十年来经历了令人难以置信的转变。它提供具有现代设计和卓越品质的汽车，并提供 7 年保修。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia Corporation",
+                "en": "Kia Corporation",
+                "de": "Kia Corporation",
+                "uk": "Корпорація Kia",
+                "ru": "Kia Corporation",
+                "zh": "起亚公司"
+              },
+              "siedziba": {
+                "pl": "Seul, Korea Południowa",
+                "en": "Seoul, South Korea",
+                "de": "Seoul, Südkorea",
+                "uk": "Сеул, Південна Корея",
+                "ru": "Сеул, Южная Корея",
+                "zh": "韩国首尔"
+              },
+              "założona": "1944"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ck/ey/en88sagwswc0wwoscgk8g/carnival-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 413248,
+        "Brand Name": "Kia",
+        "Model Name": "Carnival",
+        "Serie Name": "Carnival Gen 3 (Sedona)",
+        "Years": "2014 - 2021",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Minivan",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.3L V6 / 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Kia to koreańska marka, która w ostatnich dekadach przeszła niesamowitą metamorfozę. Oferuje auta o nowoczesnym designie i świetnej jakości, objęte 7-letnią gwarancją.",
+              "en": "Kia is a Korean brand that has undergone an incredible metamorphosis in recent decades. It offers cars with modern design and great quality, covered by a 7-year warranty.",
+              "de": "Kia ist eine koreanische Marke, die in den letzten Jahrzehnten eine unglaubliche Metamorphose durchgemacht hat. Es bietet Autos mit modernem Design und hervorragender Qualität, abgedeckt durch eine 7-Jahres-Garantie.",
+              "uk": "Kia — корейський бренд, який за останні десятиліття зазнав неймовірних метаморфоз. Пропонує автомобілі з сучасним дизайном і відмінною якістю, на які поширюється гарантія 7 років.",
+              "ru": "Kia — корейский бренд, претерпевший невероятные метаморфозы за последние десятилетия. Предлагает автомобили современного дизайна и отличного качества с 7-летней гарантией.",
+              "zh": "起亚是一个韩国品牌，近几十年来经历了令人难以置信的转变。它提供具有现代设计和卓越品质的汽车，并提供 7 年保修。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia Corporation",
+                "en": "Kia Corporation",
+                "de": "Kia Corporation",
+                "uk": "Корпорація Kia",
+                "ru": "Kia Corporation",
+                "zh": "起亚公司"
+              },
+              "siedziba": {
+                "pl": "Seul, Korea Południowa",
+                "en": "Seoul, South Korea",
+                "de": "Seoul, Südkorea",
+                "uk": "Сеул, Південна Корея",
+                "ru": "Сеул, Южная Корея",
+                "zh": "韩国首尔"
+              },
+              "założona": "1944"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ck/ey/en88sagwswc0wwoscgk8g/carnival-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 416607,
+        "Brand Name": "Kia",
+        "Model Name": "Carnival",
+        "Serie Name": "Carnival Gen 4 (KA4)",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Minivan",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.5L V6 / 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Kia Carnival (w USA Sedona) to flagowy minivan marki, który w nowszych generacjach ewoluował w stronę 'Grand Utility Vehicle'. Oferuje ogromną przestrzeń i luksus godny klasy biznes.",
+              "en": "Kia Carnival (Sedona in the USA) is the brand's flagship minivan, which in newer generations has evolved into a 'Grand Utility Vehicle'. It offers enormous space and luxury worthy of business class.",
+              "de": "Kia Carnival (Sedona in den USA) ist der Flaggschiff-Minivan der Marke, der sich in neueren Generationen zu einem „Grand Utility Vehicle“ entwickelt hat. Es bietet enorm viel Platz und Luxus, der der Business Class würdig ist.",
+              "uk": "Kia Carnival (Седона в США) — флагманський мінівен бренду, який у нових поколіннях перетворився на «великий позашляховик». Він пропонує величезний простір і розкіш, гідні бізнес-класу.",
+              "ru": "Kia Carnival (Sedona в США) — флагманский минивэн бренда, который в новых поколениях превратился в «Grand Utility Vehicle». Он предлагает огромное пространство и роскошь, достойную бизнес-класса.",
+              "zh": "起亚嘉年华（美国塞多纳）是该品牌的旗舰小型货车，在新一代中已发展成为“大型多功能车”。它提供了巨大的空间和堪比商务舱的奢华。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": {
+                "pl": "od 1998",
+                "en": "from 1998",
+                "de": "ab 1998",
+                "uk": "з 1998 року",
+                "ru": "с 1998 года.",
+                "zh": "自1998年以来"
+              },
+              "segment": {
+                "pl": "Large MPV / Minivan",
+                "en": "Large MPV / Minivan",
+                "de": "Großer MPV/Minivan",
+                "uk": "Великий MPV / Minivan",
+                "ru": "Большой минивэн/минивэн.",
+                "zh": "大型MPV/小型货车"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ck/ey/en88sagwswc0wwoscgk8g/carnival-ii.310.jpg"
+        }
+      }
+    ],
+    "Ceed": [
+      {
+        "BrandID": 75,
+        "ModelID": 412959,
+        "Brand Name": "Kia",
+        "Model Name": "Ceed",
+        "Serie Name": "Ceed Gen 1",
+        "Years": "2006 - 2012",
+        "specs": {
+          "bodyType": "Hatchback/Wagon",
+          "segment": "Compact Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 2.0L / 1.6L - 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kia_cee%27d_1.4_EX_Top-Star_Kirunasilber_Heck.JPG/1280px-Kia_cee%27d_1.4_EX_Top-Star_Kirunasilber_Heck.JPG",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Kia_cee%27d_1.4_EX_Top-Star_Kirunasilber_Heck.JPG/1280px-Kia_cee%27d_1.4_EX_Top-Star_Kirunasilber_Heck.JPG"
+            ],
+            "description": {
+              "pl": "Kia Ceed to kompaktowy model zaprojektowany specjalnie dla Europejczyków. Stał się hitem dzięki niezawodności i praktyczności.",
+              "en": "Kia Ceed is a compact model designed especially for Europeans. It became a hit thanks to its reliability and practicality.",
+              "de": "Kia Ceed ist ein kompaktes Modell, das speziell für Europäer entwickelt wurde. Dank seiner Zuverlässigkeit und Praktikabilität wurde es ein Hit.",
+              "uk": "Kia Ceed — компактна модель, розроблена спеціально для європейців. Він став хітом завдяки своїй надійності та практичності.",
+              "ru": "Kia Ceed — компактная модель, созданная специально для европейцев. Он стал хитом благодаря своей надежности и практичности.",
+              "zh": "起亚 Ceed 是一款专为欧洲人设计的紧凑型车型。由于其可靠性和实用性，它成为了热门产品。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": {
+                "pl": "od 2006",
+                "en": "from 2006",
+                "de": "ab 2006",
+                "uk": "з 2006 року",
+                "ru": "от 2006 года.",
+                "zh": "自2006年以来"
+              },
+              "segment": {
+                "pl": "C"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 413237,
+        "Brand Name": "Kia",
+        "Model Name": "Ceed",
+        "Serie Name": "Ceed Gen 2",
+        "Years": "2012 - 2018",
+        "specs": {
+          "bodyType": "Hatchback/Wagon",
+          "segment": "Compact Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 1.6L / 1.6L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia Ceed to kompaktowy model zaprojektowany specjalnie dla Europejczyków. Stał się hitem dzięki niezawodności i praktyczności.",
+              "en": "Kia Ceed is a compact model designed especially for Europeans. It became a hit thanks to its reliability and practicality.",
+              "de": "Kia Ceed ist ein Kompaktmodell, das speziell für Europäer entwickelt wurde. Dank seiner Zuverlässigkeit und Praktikabilität wurde es ein Hit.",
+              "uk": "Kia Ceed — компактна модель, розроблена спеціально для європейців. Він став хітом завдяки своїй надійності та практичності.",
+              "ru": "Kia Ceed — компактная модель, созданная специально для европейцев. Он стал хитом благодаря своей надежности и практичности.",
+              "zh": "起亚 Ceed 是一款专为欧洲人设计的紧凑型车型。由于其可靠性和实用性，它成为了热门产品。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": {
+                "pl": "od 2006",
+                "en": "from 2006",
+                "de": "ab 2006",
+                "uk": "з 2006 р.",
+                "ru": "с 2006 года",
+                "zh": "2006 年起"
+              },
+              "segment": {
+                "pl": "C"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 413238,
+        "Brand Name": "Kia",
+        "Model Name": "Ceed",
+        "Serie Name": "Ceed Gen 3",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "Hatchback/Wagon/Shooting Brake",
+          "segment": "Compact Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "1.0L Turbo / 1.4L Turbo / 1.5L Turbo / 1.6L Diesel / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia Ceed to kompakt zaprojektowany w Europie i z myślą o Europie. Stał się fundamentem nowej tożsamości marki, oferując świetne prowadzenie i jakość wykonania.",
+              "en": "Kia Ceed is a compact car designed in Europe and with Europe in mind. It became the foundation of the brand's new identity, offering great handling and build quality.",
+              "de": "Kia Ceed ist ein Kompaktwagen, der in Europa und mit Blick auf Europa entwickelt wurde. Es wurde zur Grundlage der neuen Identität der Marke und bot hervorragende Handhabung und Verarbeitungsqualität.",
+              "uk": "Kia Ceed — це компактний автомобіль, розроблений у Європі з урахуванням Європи. Він став основою нової ідентичності бренду, пропонуючи чудову керованість і якість збірки.",
+              "ru": "Kia Ceed — компактный автомобиль, созданный в Европе и ориентированный на Европу. Он стал основой нового имиджа бренда, предлагая отличную управляемость и качество сборки.",
+              "zh": "Kia Ceed 是一款在欧洲设计并以欧洲为中心的紧凑型汽车。它成为该品牌新形象的基础，提供出色的操控性和制造质量。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": {
+                "pl": "od 2006",
+                "en": "from 2006",
+                "de": "ab 2006",
+                "uk": "з 2006 р.",
+                "ru": "от 2006 года.",
+                "zh": "2006 年起"
+              },
+              "segment": {
+                "pl": "C (Compact car)",
+                "en": "C (Compact car)",
+                "de": "C (Kompaktwagen)",
+                "uk": "C (компактний автомобіль)",
+                "ru": "C (Компактный автомобиль)",
+                "zh": "C（紧凑型汽车）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Cerato": [
+      {
+        "BrandID": 75,
+        "ModelID": 413239,
+        "Brand Name": "Kia",
+        "Model Name": "Cerato",
+        "Serie Name": "Cerato / Forte",
+        "Years": "2003 - 2018",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Compact Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.0L / 1.6L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia to koreańska marka, która w ostatnich dekadach przeszła niesamowitą metamorfozę. Oferuje auta o nowoczesnym designie i świetnej jakości, objęte 7-letnią gwarancją.",
+              "en": "Kia is a Korean brand that has undergone an incredible metamorphosis in recent decades. It offers cars with modern design and great quality, covered by a 7-year warranty.",
+              "de": "Kia ist eine koreanische Marke, die in den letzten Jahrzehnten eine unglaubliche Metamorphose durchgemacht hat. Es bietet Autos mit modernem Design und hervorragender Qualität, abgedeckt durch eine 7-Jahres-Garantie.",
+              "uk": "Kia — корейський бренд, який за останні десятиліття зазнав неймовірних метаморфоз. Пропонує автомобілі з сучасним дизайном і відмінною якістю, на які поширюється гарантія 7 років.",
+              "ru": "Kia — корейский бренд, претерпевший за последние десятилетия невероятные метаморфозы. Предлагает автомобили современного дизайна и отличного качества с 7-летней гарантией.",
+              "zh": "起亚是一个韩国品牌，近几十年来经历了令人难以置信的转变。它提供具有现代设计和卓越品质的汽车，并提供 7 年保修。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia Corporation",
+                "en": "Kia Corporation",
+                "de": "Kia Corporation",
+                "uk": "Kia Corporation",
+                "ru": "Kia Corporation",
+                "zh": "起亚公司"
+              },
+              "siedziba": {
+                "pl": "Seul, Korea Południowa",
+                "en": "Seoul, South Korea",
+                "de": "Seoul, Südkorea",
+                "uk": "Сеул, Південна Корея",
+                "ru": "Сеул, Южная Корея",
+                "zh": "韩国首尔"
+              },
+              "założona": "1944"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6j/b6/dk8hnkgss44swg4gko0ow/cerato-i-sedan.310.jpg"
+        }
+      }
+    ],
+    "EV6": [
+      {
+        "BrandID": 75,
+        "ModelID": 416608,
+        "Brand Name": "Kia",
+        "Model Name": "EV6",
+        "Serie Name": "EV6 (CV)",
+        "Years": "2021 - 3000",
+        "specs": {
+          "bodyType": "Crossover",
+          "segment": "Mid-size Electric SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Electric",
+          "engine": "Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia EV6 to przełomowy model elektryczny zbudowany na platformie E-GMP. Łączy ultraszybkie ładowanie (800V) z futurystycznym designem i osiągami godnymi sportowych aut.",
+              "en": "Kia EV6 is a groundbreaking electric model built on the E-GMP platform. It combines ultra-fast charging (800V) with futuristic design and performance worthy of sports cars.",
+              "de": "Kia EV6 ist ein bahnbrechendes Elektromodell, das auf der E-GMP-Plattform basiert. Es kombiniert ultraschnelles Laden (800 V) mit futuristischem Design und Leistung, die einem Sportwagen würdig ist.",
+              "uk": "Kia EV6 — це новаторська електрична модель, побудована на платформі E-GMP. Він поєднує в собі надшвидку зарядку (800 В) з футуристичним дизайном і продуктивністю, гідною спортивних автомобілів.",
+              "ru": "Kia EV6 — революционная электрическая модель, построенная на платформе E-GMP. Он сочетает в себе сверхбыструю зарядку (800 В) с футуристическим дизайном и производительностью, достойной спортивных автомобилей.",
+              "zh": "起亚 EV6 是一款基于 E-GMP 平台打造的突破性电动车型。它将超快速充电（800V）与未来派设计和跑车性能相结合。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": {
+                "pl": "od 2021",
+                "en": "from 2021",
+                "de": "ab 2021",
+                "uk": "з 2021 року",
+                "ru": "с 2021 года",
+                "zh": "2021 年起"
+              },
+              "segment": {
+                "pl": "Electric Crossover",
+                "en": "Electric Crossover",
+                "de": "Elektro-Crossover",
+                "uk": "Електричний кросовер",
+                "ru": "Электрический кроссовер",
+                "zh": "电动跨界车"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "EV9": [
+      {
+        "BrandID": 75,
+        "ModelID": 416609,
+        "Brand Name": "Kia",
+        "Model Name": "EV9",
+        "Serie Name": "EV9 (MV)",
+        "Years": "2023 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Large Electric SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Electric",
+          "engine": "Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia EV9 to potężny, luksusowy SUV elektryczny z trzema rzędami siedzeń. Wyznacza nowe standardy w segmencie dzięki zaawansowanej technologii i ekologicznym materiałom.",
+              "en": "Kia EV9 is a powerful, luxurious electric SUV with three rows of seats. It sets new standards in the segment thanks to advanced technology and ecological materials.",
+              "de": "Kia EV9 ist ein leistungsstarker, luxuriöser Elektro-SUV mit drei Sitzreihen. Dank fortschrittlicher Technologie und ökologischer Materialien setzt es neue Maßstäbe in diesem Segment.",
+              "uk": "Kia EV9 — потужний, розкішний електричний позашляховик із трьома рядами сидінь. Він встановлює нові стандарти в сегменті завдяки передовим технологіям і екологічним матеріалам.",
+              "ru": "Kia EV9 — мощный роскошный электрический внедорожник с тремя рядами сидений. Он устанавливает новые стандарты в своем сегменте благодаря передовым технологиям и экологическим материалам.",
+              "zh": "起亚 EV9 是一款功能强大的豪华电动 SUV，配有三排座椅。凭借先进技术和生态材料，它在该领域树立了新标准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": {
+                "pl": "od 2023",
+                "en": "from 2023",
+                "de": "ab 2023",
+                "uk": "з 2023 року",
+                "ru": "с 2023 года.",
+                "zh": "2023 年起"
+              },
+              "segment": {
+                "pl": "Full-size Electric SUV",
+                "en": "Full-size Electric SUV",
+                "de": "Elektro-SUV in Originalgröße",
+                "uk": "Повнорозмірний електричний позашляховик",
+                "ru": "Полноразмерный электрический внедорожник.",
+                "zh": "全尺寸电动 SUV"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Forte": [
+      {
+        "BrandID": 75,
+        "ModelID": 414013,
+        "Brand Name": "Kia",
+        "Model Name": "Forte",
+        "Serie Name": "Forte Gen 1",
+        "Years": "2008 - 2013",
+        "specs": {
+          "bodyType": "Sedan/Coupe/Hatchback",
+          "segment": "Compact Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.6L / 2.0L / 2.4L / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia to koreańska marka, która w ostatnich dekadach przeszła niesamowitą metamorfozę. Oferuje auta o nowoczesnym designie i świetnej jakości, objęte 7-letnią gwarancją.",
+              "en": "Kia is a Korean brand that has undergone an incredible metamorphosis in recent decades. It offers cars with modern design and great quality, covered by a 7-year warranty.",
+              "de": "Kia ist eine koreanische Marke, die in den letzten Jahrzehnten eine unglaubliche Metamorphose durchgemacht hat. Es bietet Autos mit modernem Design und hervorragender Qualität, abgedeckt durch eine 7-Jahres-Garantie.",
+              "uk": "Kia — корейський бренд, який за останні десятиліття зазнав неймовірних метаморфоз. Пропонує автомобілі з сучасним дизайном і відмінною якістю, на які поширюється гарантія 7 років.",
+              "ru": "Kia — корейский бренд, претерпевший невероятные метаморфозы за последние десятилетия. Предлагает автомобили современного дизайна и отличного качества с 7-летней гарантией.",
+              "zh": "起亚是一个韩国品牌，近几十年来经历了令人难以置信的蜕变。它提供具有现代设计和卓越品质的汽车，并提供 7 年保修。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia Corporation",
+                "en": "Kia Corporation",
+                "de": "Kia Corporation",
+                "uk": "Корпорація Kia",
+                "ru": "Kia Corporation",
+                "zh": "起亚公司"
+              },
+              "siedziba": {
+                "pl": "Seul, Korea Południowa",
+                "en": "Seoul, South Korea",
+                "de": "Seoul, Südkorea",
+                "uk": "Сеул, Південна Корея",
+                "ru": "Сеул, Южная Корея",
+                "zh": "韩国首尔"
+              },
+              "założona": "1944"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 414014,
+        "Brand Name": "Kia",
+        "Model Name": "Forte",
+        "Serie Name": "Forte Gen 2",
+        "Years": "2013 - 2018",
+        "specs": {
+          "bodyType": "Sedan/Coupe/Hatchback",
+          "segment": "Compact Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.8L / 2.0L / 1.6L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Kia to koreańska marka, która w ostatnich dekadach przeszła niesamowitą metamorfozę. Oferuje auta o nowoczesnym designie i świetnej jakości, objęte 7-letnią gwarancją.",
+              "en": "Kia is a Korean brand that has undergone an incredible metamorphosis in recent decades. It offers cars with modern design and great quality, covered by a 7-year warranty.",
+              "de": "Kia ist eine koreanische Marke, die in den letzten Jahrzehnten eine unglaubliche Metamorphose durchgemacht hat. Es bietet Autos mit modernem Design und hervorragender Qualität, abgedeckt durch eine 7-Jahres-Garantie.",
+              "uk": "Kia — корейський бренд, який за останні десятиліття зазнав неймовірних метаморфоз. Пропонує автомобілі з сучасним дизайном і відмінною якістю, на які поширюється гарантія 7 років.",
+              "ru": "Kia — корейский бренд, претерпевший невероятные метаморфозы за последние десятилетия. Предлагает автомобили современного дизайна и отличного качества с 7-летней гарантией.",
+              "zh": "起亚是一个韩国品牌，近几十年来经历了令人难以置信的转变。它提供具有现代设计和卓越品质的汽车，并提供 7 年保修。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia Corporation",
+                "en": "Kia Corporation",
+                "de": "Kia Corporation",
+                "uk": "Kia Corporation",
+                "ru": "Kia Corporation",
+                "zh": "起亚公司"
+              },
+              "siedziba": {
+                "pl": "Seul, Korea Południowa",
+                "en": "Seoul, South Korea",
+                "de": "Seoul, Südkorea",
+                "uk": "Сеул, Південна Корея",
+                "ru": "Сеул, Южная Корея",
+                "zh": "韩国首尔"
+              },
+              "założona": "1944"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 414015,
+        "Brand Name": "Kia",
+        "Model Name": "Forte",
+        "Serie Name": "Forte Gen 3",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Compact Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L / 1.6L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Kia Forte (Cerato/K3) to kompaktowy sedan i hatchback, który łączy atrakcyjną cenę z nowoczesną technologią i wyrazistym stylem. Jeden z bestsellerów marki na świecie.",
+              "en": "Kia Forte (Cerato/K3) is a compact sedan and hatchback that combines an attractive price with modern technology and expressive style. One of the brand's bestsellers in the world.",
+              "de": "Kia Forte (Cerato/K3) ist eine kompakte Limousine und ein Fließheck, die einen attraktiven Preis mit moderner Technologie und ausdrucksstarkem Stil kombinieren. Einer der Bestseller der Marke weltweit.",
+              "uk": "Kia Forte (Cerato/K3) — компактний седан і хетчбек, що поєднує в собі привабливу ціну з сучасними технологіями та виразним стилем. Один із світових бестселерів бренду.",
+              "ru": "Kia Forte (Cerato/K3) — компактный седан и хэтчбек, сочетающий в себе привлекательную цену с современными технологиями и выразительным стилем. Один из бестселлеров бренда в мире.",
+              "zh": "Kia Forte (Cerato/K3) 是一款紧凑型轿车和掀背车，将极具吸引力的价格与现代技术和富有表现力的风格融为一体。该品牌在全球最畅销的产品之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": {
+                "pl": "od 2008",
+                "en": "from 2008",
+                "de": "ab 2008",
+                "uk": "з 2008 року",
+                "ru": "с 2008 года.",
+                "zh": "2008 年起"
+              },
+              "segment": {
+                "pl": "C (Compact car)",
+                "en": "C (Compact car)",
+                "de": "C (Kompaktwagen)",
+                "uk": "C (компактний автомобіль)",
+                "ru": "C (Компактный автомобиль)",
+                "zh": "C（紧凑型轿车）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "K5": [
+      {
+        "BrandID": 75,
+        "ModelID": 414016,
+        "Brand Name": "Kia",
+        "Model Name": "K5",
+        "Serie Name": "K5 (DL3)",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Sedan",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.6L Turbo / 2.0L / 2.5L Turbo / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia K5 (następca Optimy) to odważnie stylizowany sedan klasy średniej. Wyróżnia się drapieżnym wyglądem, napędem na obie osie i nowoczesnym kokpitem.",
+              "en": "Kia K5 (successor to Optima) is a boldly styled mid-range sedan. It stands out with its striking appearance, all-wheel drive and a modern cockpit.",
+              "de": "Kia K5 (Nachfolger des Optima) ist eine kühn gestylte Mittelklasselimousine. Er zeichnet sich durch sein markantes Erscheinungsbild, Allradantrieb und ein modernes Cockpit aus.",
+              "uk": "Kia K5 (наступник Optima) — це сміливий седан середнього класу. Він виділяється своїм яскравим зовнішнім виглядом, повним приводом і сучасною кабіною.",
+              "ru": "Kia K5 (преемник Optima) — седан среднего класса со смелым дизайном. Он выделяется ярким внешним видом, полным приводом и современной кабиной.",
+              "zh": "起亚 K5（Optima 的后继车型）是一款造型大胆的中档轿车。它以其引人注目的外观、全轮驱动和现代化的驾驶舱而脱颖而出。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": {
+                "pl": "od 2020",
+                "en": "from 2020",
+                "de": "ab 2020",
+                "uk": "з 2020",
+                "ru": "с 2020 г.",
+                "zh": "2020 年起"
+              },
+              "segment": {
+                "pl": "D (Mid-size sedan)",
+                "en": "D (Mid-size sedan)",
+                "de": "D (Mittelklasse-Limousine)",
+                "uk": "D (Середньорозмірний седан)",
+                "ru": "D (Среднеразмерный седан)",
+                "zh": "D（中型轿车）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "K9": [
+      {
+        "BrandID": 75,
+        "ModelID": 414017,
+        "Brand Name": "Kia",
+        "Model Name": "K9",
+        "Serie Name": "K900 (K9) Gen 1",
+        "Years": "2012 - 2018",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.3L / 3.8L V6 / 5.0L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia to koreańska marka, która w ostatnich dekadach przeszła niesamowitą metamorfozę. Oferuje auta o nowoczesnym designie i świetnej jakości, objęte 7-letnią gwarancją.",
+              "en": "Kia is a Korean brand that has undergone an incredible transformation in recent decades. It offers cars with modern design and great quality, covered by a 7-year warranty.",
+              "de": "Kia ist eine koreanische Marke, die in den letzten Jahrzehnten einen unglaublichen Wandel durchgemacht hat. Es bietet Autos mit modernem Design und hervorragender Qualität, abgedeckt durch eine 7-Jahres-Garantie.",
+              "uk": "Kia – корейський бренд, який за останні десятиліття зазнав неймовірної трансформації. Пропонує автомобілі з сучасним дизайном і відмінною якістю, на які поширюється гарантія 7 років.",
+              "ru": "Kia – корейский бренд, претерпевший невероятную трансформацию за последние десятилетия. Предлагает автомобили современного дизайна и отличного качества с 7-летней гарантией.",
+              "zh": "起亚是一个韩国品牌，近几十年来经历了令人难以置信的转变。它提供具有现代设计和卓越品质的汽车，并提供 7 年保修。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia Corporation",
+                "en": "Kia Corporation",
+                "de": "Kia Corporation",
+                "uk": "Kia Corporation",
+                "ru": "Kia Corporation",
+                "zh": "起亚公司"
+              },
+              "siedziba": {
+                "pl": "Seul, Korea Południowa",
+                "en": "Seoul, South Korea",
+                "de": "Seoul, Südkorea",
+                "uk": "Сеул, Південна Корея",
+                "ru": "Сеул, Южная Корея",
+                "zh": "韩国首尔"
+              },
+              "założona": "1944"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 414018,
+        "Brand Name": "Kia",
+        "Model Name": "K9",
+        "Serie Name": "K900 (K9) Gen 2",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.3L Turbo / 3.8L V6 / 5.0L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia K9 (K900 / Quoris) to flagowy produkt marki. Luksusowa limuzyna konkurująca z najlepszymi autami klasy premium, oferująca silniki V8 i najwyższy poziom wykończenia.",
+              "en": "Kia K9 (K900 / Quoris) is the brand's flagship product. A luxury limousine competing with the best premium cars, offering V8 engines and the highest level of finishing.",
+              "de": "Kia K9 (K900 / Quoris) ist das Flaggschiffprodukt der Marke. Eine Luxuslimousine, die mit den besten Premiumautos konkurriert und V8-Motoren sowie höchste Verarbeitungsqualität bietet.",
+              "uk": "Kia K9 (K900 / Quoris) є флагманським продуктом бренду. Розкішний лімузин, який конкурує з найкращими автомобілями преміум-класу, пропонує двигуни V8 і найвищий рівень обробки.",
+              "ru": "Kia K9 (K900 / Quoris) — флагманский продукт бренда. Роскошный лимузин, конкурирующий с лучшими автомобилями премиум-класса, предлагающий двигатели V8 и высочайший уровень отделки.",
+              "zh": "起亚 K9（K900/Quoris）是该品牌的旗舰产品。一款可与最好的高档汽车竞争的豪华轿车，提供 V8 发动机和最高水平的装饰。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": {
+                "pl": "od 2012",
+                "en": "from 2012",
+                "de": "ab 2012",
+                "uk": "з 2012 року",
+                "ru": "от 2012 года.",
+                "zh": "2012 年起"
+              },
+              "segment": {
+                "pl": "F (Luxury car)",
+                "en": "F (Luxury car)",
+                "de": "F (Luxusauto)",
+                "uk": "F (автомобіль класу люкс)",
+                "ru": "F (Автомобиль класса люкс)",
+                "zh": "F（豪华车）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Mohave": [
+      {
+        "BrandID": 75,
+        "ModelID": 797,
+        "Brand Name": "Kia",
+        "Model Name": "Mohave",
+        "Serie Name": "Mohave",
+        "Years": "2008 - 2024",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.0L Diesel / 3.8L V6 / 4.6L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia to koreańska marka, która w ostatnich dekadach przeszła niesamowitą metamorfozę. Oferuje auta o nowoczesnym designie i świetnej jakości, objęte 7-letnią gwarancją.",
+              "en": "Kia is a Korean brand that has undergone an incredible metamorphosis in recent decades. It offers cars with modern design and great quality, covered by a 7-year warranty.",
+              "de": "Kia ist eine koreanische Marke, die in den letzten Jahrzehnten eine unglaubliche Metamorphose durchgemacht hat. Es bietet Autos mit modernem Design und hervorragender Qualität, abgedeckt durch eine 7-Jahres-Garantie.",
+              "uk": "Kia — корейський бренд, який за останні десятиліття зазнав неймовірних метаморфоз. Пропонує автомобілі з сучасним дизайном і відмінною якістю, на які поширюється гарантія 7 років.",
+              "ru": "Kia — корейский бренд, претерпевший невероятные метаморфозы за последние десятилетия. Предлагает автомобили современного дизайна и отличного качества с 7-летней гарантией.",
+              "zh": "起亚是一个韩国品牌，近几十年来经历了令人难以置信的蜕变。它提供具有现代设计和卓越品质的汽车，并提供 7 年保修。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia Corporation",
+                "en": "Kia Corporation",
+                "de": "Kia Corporation",
+                "uk": "Корпорація Kia",
+                "ru": "Kia Corporation",
+                "zh": "起亚公司"
+              },
+              "siedziba": {
+                "pl": "Seul, Korea Południowa",
+                "en": "Seoul, South Korea",
+                "de": "Seoul, Südkorea",
+                "uk": "Сеул, Південна Корея",
+                "ru": "Сеул, Южная Корея",
+                "zh": "韩国首尔"
+              },
+              "założona": "1944"
+            }
+          }
+        }
+      }
+    ],
+    "Niro": [
+      {
+        "BrandID": 75,
+        "ModelID": 415337,
+        "Brand Name": "Kia",
+        "Model Name": "Niro",
+        "Serie Name": "Niro Gen 1",
+        "Years": "2016 - 2022",
+        "specs": {
+          "bodyType": "Crossover",
+          "segment": "Small SUV",
+          "drive": "FWD",
+          "fuel": "Hybrid/PHEV/Electric",
+          "engine": "1.6L Hybrid/PHEV / Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia to koreańska marka, która w ostatnich dekadach przeszła niesamowitą metamorfozę. Oferuje auta o nowoczesnym designie i świetnej jakości, objęte 7-letnią gwarancją.",
+              "en": "Kia is a Korean brand that has undergone an incredible metamorphosis in recent decades. It offers cars with modern design and great quality, covered by a 7-year warranty.",
+              "de": "Kia ist eine koreanische Marke, die in den letzten Jahrzehnten eine unglaubliche Metamorphose durchgemacht hat. Es bietet Autos mit modernem Design und hervorragender Qualität, abgedeckt durch eine 7-Jahres-Garantie.",
+              "uk": "Kia — корейський бренд, який за останні десятиліття зазнав неймовірних метаморфоз. Пропонує автомобілі з сучасним дизайном і відмінною якістю, на які поширюється гарантія 7 років.",
+              "ru": "Kia — корейский бренд, претерпевший невероятные метаморфозы за последние десятилетия. Предлагает автомобили современного дизайна и отличного качества с 7-летней гарантией.",
+              "zh": "起亚是一个韩国品牌，近几十年来经历了令人难以置信的转变。它提供具有现代设计和卓越品质的汽车，并提供 7 年保修。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia Corporation",
+                "en": "Kia Corporation",
+                "de": "Kia Corporation",
+                "uk": "Корпорація Kia",
+                "ru": "Kia Corporation",
+                "zh": "起亚公司"
+              },
+              "siedziba": {
+                "pl": "Seul, Korea Południowa",
+                "en": "Seoul, South Korea",
+                "de": "Seoul, Südkorea",
+                "uk": "Сеул, Південна Корея",
+                "ru": "Сеул, Южная Корея",
+                "zh": "韩国首尔"
+              },
+              "założona": "1944"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 416610,
+        "Brand Name": "Kia",
+        "Model Name": "Niro",
+        "Serie Name": "Niro Gen 2",
+        "Years": "2022 - 3000",
+        "specs": {
+          "bodyType": "Crossover",
+          "segment": "Small SUV",
+          "drive": "FWD",
+          "fuel": "Hybrid/PHEV/Electric",
+          "engine": "1.6L Hybrid/PHEV / Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia Niro to pionierski crossover oferowany wyłącznie z napędami zelektryfikowanymi. Łączy praktyczność z niską emisją i nowoczesnym designem.",
+              "en": "Kia Niro is a pioneering crossover offered only with electrified drives. It combines practicality with low emissions and modern design.",
+              "de": "Kia Niro ist ein bahnbrechender Crossover, der ausschließlich mit elektrifizierten Antrieben angeboten wird. Es vereint Praktikabilität mit geringen Emissionen und modernem Design.",
+              "uk": "Kia Niro — новаторський кросовер, який пропонується лише з електрифікованим приводом. Він поєднує в собі практичність з низьким рівнем викидів і сучасний дизайн.",
+              "ru": "Kia Niro — новаторский кроссовер, предлагаемый только с электрифицированным приводом. Он сочетает в себе практичность, низкий уровень выбросов и современный дизайн.",
+              "zh": "起亚 Niro 是一款仅配备电动驱动器的开创性跨界车。它将实用性与低排放和现代设计结合在一起。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": {
+                "pl": "od 2016",
+                "en": "from 2016",
+                "de": "ab 2016",
+                "uk": "з 2016 року",
+                "ru": "2016 года.",
+                "zh": "2016 年"
+              },
+              "segment": {
+                "pl": "Compact Crossover",
+                "en": "Compact Crossover",
+                "de": "Kompakter Crossover",
+                "uk": "Компактний кросовер",
+                "ru": "Компактный кроссовер",
+                "zh": "紧凑型跨界车"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Optima": [
+      {
+        "BrandID": 75,
+        "ModelID": 413240,
+        "Brand Name": "Kia",
+        "Model Name": "Optima",
+        "Serie Name": "Optima Gen 1",
+        "Years": "2000 - 2005",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Sedan",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L / 2.5L / 2.7L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia to koreańska marka, która w ostatnich dekadach przeszła niesamowitą metamorfozę. Oferuje auta o nowoczesnym designie i świetnej jakości, objęte 7-letnią gwarancją.",
+              "en": "Kia is a Korean brand that has undergone an incredible metamorphosis in recent decades. It offers cars with modern design and great quality, covered by a 7-year warranty.",
+              "de": "Kia ist eine koreanische Marke, die in den letzten Jahrzehnten eine unglaubliche Metamorphose durchgemacht hat. Es bietet Autos mit modernem Design und hervorragender Qualität, abgedeckt durch eine 7-Jahres-Garantie.",
+              "uk": "Kia — корейський бренд, який за останні десятиліття пережив неймовірні метаморфози. Пропонує автомобілі з сучасним дизайном і відмінною якістю, на які поширюється гарантія 7 років.",
+              "ru": "Kia — корейский бренд, претерпевший невероятные метаморфозы за последние десятилетия. Предлагает автомобили современного дизайна и отличного качества с 7-летней гарантией.",
+              "zh": "起亚是一个韩国品牌，近几十年来经历了令人难以置信的转变。它提供具有现代设计和卓越品质的汽车，并提供 7 年保修。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia Corporation",
+                "en": "Kia Corporation",
+                "de": "Kia Corporation",
+                "uk": "Корпорація Kia",
+                "ru": "Kia Corporation",
+                "zh": "起亚公司"
+              },
+              "siedziba": {
+                "pl": "Seul, Korea Południowa",
+                "en": "Seoul, South Korea",
+                "de": "Seoul, Südkorea",
+                "uk": "Сеул, Південна Корея",
+                "ru": "Сеул, Южная Корея",
+                "zh": "韩国首尔"
+              },
+              "założona": "1944"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/b5/te/zp76zw0sgcooo8ksc8488/r.310.jpg"
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 413241,
+        "Brand Name": "Kia",
+        "Model Name": "Optima",
+        "Serie Name": "Optima Gen 2",
+        "Years": "2005 - 2010",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Sedan",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.4L / 2.7L V6 / 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia to koreańska marka, która w ostatnich dekadach przeszła niesamowitą metamorfozę. Oferuje auta o nowoczesnym designie i świetnej jakości, objęte 7-letnią gwarancją.",
+              "en": "Kia is a Korean brand that has undergone an incredible metamorphosis in recent decades. It offers cars with modern design and great quality, covered by a 7-year warranty.",
+              "de": "Kia ist eine koreanische Marke, die in den letzten Jahrzehnten eine unglaubliche Metamorphose durchgemacht hat. Es bietet Autos mit modernem Design und hervorragender Qualität, abgedeckt durch eine 7-Jahres-Garantie.",
+              "uk": "Kia — корейський бренд, який за останні десятиліття зазнав неймовірних метаморфоз. Пропонує автомобілі з сучасним дизайном і відмінною якістю, на які поширюється гарантія 7 років.",
+              "ru": "Kia — корейский бренд, претерпевший невероятные метаморфозы за последние десятилетия. Предлагает автомобили современного дизайна и отличного качества с 7-летней гарантией.",
+              "zh": "起亚是一个韩国品牌，近几十年来经历了令人难以置信的转变。它提供具有现代设计和卓越品质的汽车，并提供 7 年保修。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia Corporation",
+                "en": "Kia Corporation",
+                "de": "Kia Corporation",
+                "uk": "Корпорація Kia",
+                "ru": "Kia Corporation",
+                "zh": "起亚公司"
+              },
+              "siedziba": {
+                "pl": "Seul, Korea Południowa",
+                "en": "Seoul, South Korea",
+                "de": "Seoul, Südkorea",
+                "uk": "Сеул, Південна Корея",
+                "ru": "Сеул, Южная Корея",
+                "zh": "韩国首尔"
+              },
+              "założona": "1944"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/b5/te/zp76zw0sgcooo8ksc8488/r.310.jpg"
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 413242,
+        "Brand Name": "Kia",
+        "Model Name": "Optima",
+        "Serie Name": "Optima Gen 3",
+        "Years": "2010 - 2015",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Mid-size Sedan",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "2.0L / 2.4L / 2.0L Turbo / 1.7L Diesel / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia to koreańska marka, która w ostatnich dekadach przeszła niesamowitą metamorfozę. Oferuje auta o nowoczesnym designie i świetnej jakości, objęte 7-letnią gwarancją.",
+              "en": "Kia is a Korean brand that has undergone an incredible metamorphosis in recent decades. It offers cars with modern design and great quality, covered by a 7-year warranty.",
+              "de": "Kia ist eine koreanische Marke, die in den letzten Jahrzehnten eine unglaubliche Metamorphose durchgemacht hat. Es bietet Autos mit modernem Design und hervorragender Qualität, abgedeckt durch eine 7-Jahres-Garantie.",
+              "uk": "Kia — корейський бренд, який за останні десятиліття зазнав неймовірних метаморфоз. Пропонує автомобілі з сучасним дизайном і відмінною якістю, на які поширюється гарантія 7 років.",
+              "ru": "Kia — корейский бренд, претерпевший невероятные метаморфозы за последние десятилетия. Предлагает автомобили современного дизайна и отличного качества с 7-летней гарантией.",
+              "zh": "起亚是一个韩国品牌，近几十年来经历了令人难以置信的转变。它提供具有现代设计和卓越品质的汽车，并提供 7 年保修。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia Corporation",
+                "en": "Kia Corporation",
+                "de": "Kia Corporation",
+                "uk": "Kia Corporation",
+                "ru": "Kia Corporation",
+                "zh": "起亚公司"
+              },
+              "siedziba": {
+                "pl": "Seul, Korea Południowa",
+                "en": "Seoul, South Korea",
+                "de": "Seoul, Südkorea",
+                "uk": "Сеул, Південна Корея",
+                "ru": "Сеул, Южная Корея",
+                "zh": "韩国首尔"
+              },
+              "założona": "1944"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/b5/te/zp76zw0sgcooo8ksc8488/r.310.jpg"
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 413243,
+        "Brand Name": "Kia",
+        "Model Name": "Optima",
+        "Serie Name": "Optima Gen 4",
+        "Years": "2015 - 2020",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Mid-size Sedan",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "1.6L Turbo / 2.0L Turbo / 2.4L / 1.7L Diesel / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "5"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Kia Optima (Magentis) to kluczowy model Kii w segmencie D. Od surowych początków po designerską rewolucję trzeciej generacji, stała się poważnym graczem na rynku flotowym.",
+              "en": "Kia Optima (Magentis) is Kia's key D-segment model. From its rough beginnings to the third-generation design revolution, it has become a serious player in the fleet market.",
+              "de": "Kia Optima (Magentis) ist Kias wichtigstes D-Segment-Modell. Von den holprigen Anfängen bis zur Designrevolution der dritten Generation hat sich das Unternehmen zu einem ernstzunehmenden Akteur auf dem Flottenmarkt entwickelt.",
+              "uk": "Kia Optima (Magentis) є ключовою моделлю Kia у D-сегменті. З моменту його бурхливого початку до революції дизайну третього покоління він став серйозним гравцем на ринку автопарків.",
+              "ru": "Kia Optima (Magentis) — ключевая модель Kia в D-сегменте. С самого начала и до революции в дизайне третьего поколения компания стала серьезным игроком на рынке автопарков.",
+              "zh": "起亚 Optima (Magentis) 是起亚的主要 D 级车型。从最初的艰难起步到第三代设计革命，它已成为车队市场的重要参与者。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": "2000–2020",
+              "segment": {
+                "pl": "D (Mid-size sedan)",
+                "en": "D (Mid-size sedan)",
+                "de": "D (Mittelklasse-Limousine)",
+                "uk": "D (Середньорозмірний седан)",
+                "ru": "D (Среднеразмерный седан)",
+                "zh": "D（中型轿车）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/b5/te/zp76zw0sgcooo8ksc8488/r.310.jpg"
+        }
+      }
+    ],
+    "Picanto": [
+      {
+        "BrandID": 75,
+        "ModelID": 413244,
+        "Brand Name": "Kia",
+        "Model Name": "Picanto",
+        "Serie Name": "Picanto Gen 1",
+        "Years": "2004 - 2011",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L / 1.1L / 1.1L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia to koreańska marka, która w ostatnich dekadach przeszła niesamowitą metamorfozę. Oferuje auta o nowoczesnym designie i świetnej jakości, objęte 7-letnią gwarancją.",
+              "en": "Kia is a Korean brand that has undergone an incredible metamorphosis in recent decades. It offers cars with modern design and great quality, covered by a 7-year warranty.",
+              "de": "Kia ist eine koreanische Marke, die in den letzten Jahrzehnten eine unglaubliche Metamorphose durchgemacht hat. Es bietet Autos mit modernem Design und hervorragender Qualität, abgedeckt durch eine 7-Jahres-Garantie.",
+              "uk": "Kia — корейський бренд, який за останні десятиліття зазнав неймовірних метаморфоз. Пропонує автомобілі з сучасним дизайном і відмінною якістю, на які поширюється гарантія 7 років.",
+              "ru": "Kia – корейский бренд, претерпевший невероятную трансформацию за последние десятилетия. Предлагает автомобили современного дизайна и отличного качества с 7-летней гарантией.",
+              "zh": "起亚是一个韩国品牌，近几十年来经历了令人难以置信的转变。它提供具有现代设计和卓越品质的汽车，并提供 7 年保修。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia Corporation",
+                "en": "Kia Corporation",
+                "de": "Kia Corporation",
+                "uk": "Корпорація Kia",
+                "ru": "Киа Корпорация",
+                "zh": "起亚公司"
+              },
+              "siedziba": {
+                "pl": "Seul, Korea Południowa",
+                "en": "Seoul, South Korea",
+                "de": "Seoul, Südkorea",
+                "uk": "Сеул, Південна Корея",
+                "ru": "Сеул, Южная Корея",
+                "zh": "韩国首尔"
+              },
+              "założona": "1944"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/71/75/wl4j9zwgk8cwgk0wsgwc4/picanto-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 413245,
+        "Brand Name": "Kia",
+        "Model Name": "Picanto",
+        "Serie Name": "Picanto Gen 2",
+        "Years": "2011 - 2017",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/LPG",
+          "engine": "1.0L / 1.25L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia to koreańska marka, która w ostatnich dekadach przeszła niesamowitą metamorfozę. Oferuje auta o nowoczesnym designie i świetnej jakości, objęte 7-letnią gwarancją.",
+              "en": "Kia is a Korean brand that has undergone an incredible metamorphosis in recent decades. It offers cars with modern design and great quality, covered by a 7-year warranty.",
+              "de": "Kia ist eine koreanische Marke, die in den letzten Jahrzehnten eine unglaubliche Metamorphose durchgemacht hat. Es bietet Autos mit modernem Design und hervorragender Qualität, abgedeckt durch eine 7-Jahres-Garantie.",
+              "uk": "Kia — корейський бренд, який за останні десятиліття зазнав неймовірних метаморфоз. Пропонує автомобілі з сучасним дизайном і відмінною якістю, на які поширюється гарантія 7 років.",
+              "ru": "Kia – корейский бренд, претерпевший невероятную трансформацию за последние десятилетия. Предлагает автомобили современного дизайна и отличного качества с 7-летней гарантией.",
+              "zh": "起亚是一个韩国品牌，近几十年来经历了令人难以置信的转变。它提供具有现代设计和卓越品质的汽车，并提供 7 年保修。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia Corporation",
+                "en": "Kia Corporation",
+                "de": "Kia Corporation",
+                "uk": "Kia Corporation",
+                "ru": "Киа Корпорация",
+                "zh": "起亚公司"
+              },
+              "siedziba": {
+                "pl": "Seul, Korea Południowa",
+                "en": "Seoul, South Korea",
+                "de": "Seoul, Südkorea",
+                "uk": "Сеул, Південна Корея",
+                "ru": "Сеул, Южная Корея",
+                "zh": "韩国首尔"
+              },
+              "założona": "1944"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/71/75/wl4j9zwgk8cwgk0wsgwc4/picanto-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 413726,
+        "Brand Name": "Kia",
+        "Model Name": "Picanto",
+        "Serie Name": "Picanto Gen 3",
+        "Years": "2017 - 3000",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.0L / 1.0L Turbo / 1.25L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia Picanto to sprytny mieszczuch, który udowadnia, że małe auto nie musi być nudne. Cieszy się ogromną popularnością w Europie dzięki zwrotności i niskim kosztom eksploatacji.",
+              "en": "Kia Picanto is a smart city car that proves that a small car doesn't have to be boring. It is extremely popular in Europe thanks to its maneuverability and low operating costs.",
+              "de": "Kia Picanto ist ein smartes Stadtauto, das beweist, dass ein Kleinwagen nicht langweilig sein muss. Aufgrund seiner Manövrierfähigkeit und niedrigen Betriebskosten erfreut es sich in Europa großer Beliebtheit.",
+              "uk": "Kia Picanto — це розумний міський автомобіль, який доводить, що маленький автомобіль не повинен бути нудним. Він надзвичайно популярний в Європі завдяки своїй маневреності та низьким експлуатаційним витратам.",
+              "ru": "Kia Picanto — умный городской автомобиль, который доказывает, что маленький автомобиль не обязательно должен быть скучным. Он чрезвычайно популярен в Европе благодаря своей маневренности и низким эксплуатационным расходам.",
+              "zh": "起亚 Picanto 是一款智能城市汽车，它证明了小型汽车不必无聊。由于其机动性和低运营成本，它在欧洲非常受欢迎。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": {
+                "pl": "od 2004",
+                "en": "from 2004",
+                "de": "von 2004",
+                "uk": "з 2004 року",
+                "ru": "с 2004 года",
+                "zh": "自2004年以来"
+              },
+              "segment": {
+                "pl": "A (City car)",
+                "en": "A (City car)",
+                "de": "A (Stadtauto)",
+                "uk": "A (Міський автомобіль)",
+                "ru": "А (городской автомобиль)",
+                "zh": "A（城市车）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/71/75/wl4j9zwgk8cwgk0wsgwc4/picanto-ii.310.jpg"
+        }
+      }
+    ],
+    "Rio": [
+      {
+        "BrandID": 75,
+        "ModelID": 134927,
+        "Brand Name": "Kia",
+        "Model Name": "Rio",
+        "Serie Name": "Rio Gen 1",
+        "Years": "2000 - 2005",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Subcompact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.3L / 1.5L / 1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia to koreańska marka, która w ostatnich dekadach przeszła niesamowitą metamorfozę. Oferuje auta o nowoczesnym designie i świetnej jakości, objęte 7-letnią gwarancją.",
+              "en": "Kia is a Korean brand that has undergone an incredible metamorphosis in recent decades. It offers cars with modern design and great quality, covered by a 7-year warranty.",
+              "de": "Kia ist eine koreanische Marke, die in den letzten Jahrzehnten eine unglaubliche Metamorphose durchgemacht hat. Es bietet Autos mit modernem Design und hervorragender Qualität, abgedeckt durch eine 7-Jahres-Garantie.",
+              "uk": "Kia — корейська марка, яка за останні десятиліття зазнала неймовірних метаморфоз. Пропонує автомобілі з сучасним дизайном і відмінною якістю, на які поширюється гарантія 7 років.",
+              "ru": "Kia – корейский бренд, претерпевший невероятную трансформацию за последние десятилетия. Предлагает автомобили современного дизайна и отличного качества с 7-летней гарантией.",
+              "zh": "起亚是一个韩国品牌，近几十年来经历了令人难以置信的转变。它提供具有现代设计和卓越品质的汽车，并提供 7 年保修。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia Corporation",
+                "en": "Kia Corporation",
+                "de": "Kia Corporation",
+                "uk": "Корпорація Kia",
+                "ru": "Киа Корпорация",
+                "zh": "起亚公司"
+              },
+              "siedziba": {
+                "pl": "Seul, Korea Południowa",
+                "en": "Seoul, South Korea",
+                "de": "Seoul, Südkorea",
+                "uk": "Сеул, Південна Корея",
+                "ru": "Сеул, Южная Корея",
+                "zh": "韩国首尔"
+              },
+              "założona": "1944"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ev/d8/ahntunks88kkgowsccwsc/rio-iii-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 134964,
+        "Brand Name": "Kia",
+        "Model Name": "Rio",
+        "Serie Name": "Rio Gen 2",
+        "Years": "2005 - 2011",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Subcompact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L / 1.6L / 1.5L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia to koreańska marka, która w ostatnich dekadach przeszła niesamowitą metamorfozę. Oferuje auta o nowoczesnym designie i świetnej jakości, objęte 7-letnią gwarancją.",
+              "en": "Kia is a Korean brand that has undergone an incredible metamorphosis in recent decades. It offers cars with modern design and great quality, covered by a 7-year warranty.",
+              "de": "Kia ist eine koreanische Marke, die in den letzten Jahrzehnten eine unglaubliche Metamorphose durchgemacht hat. Es bietet Autos mit modernem Design und hervorragender Qualität, abgedeckt durch eine 7-Jahres-Garantie.",
+              "uk": "Kia — корейський бренд, який за останні десятиліття зазнав неймовірних метаморфоз. Пропонує автомобілі з сучасним дизайном і відмінною якістю, на які поширюється гарантія 7 років.",
+              "ru": "Kia – корейский бренд, претерпевший невероятную трансформацию за последние десятилетия. Предлагает автомобили современного дизайна и отличного качества с 7-летней гарантией.",
+              "zh": "起亚是一个韩国品牌，近几十年来经历了令人难以置信的转变。它提供具有现代设计和卓越品质的汽车，并提供 7 年保修。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia Corporation",
+                "en": "Kia Corporation",
+                "de": "Kia Corporation",
+                "uk": "Корпорація Kia",
+                "ru": "Киа Корпорация",
+                "zh": "起亚公司"
+              },
+              "siedziba": {
+                "pl": "Seul, Korea Południowa",
+                "en": "Seoul, South Korea",
+                "de": "Seoul, Südkorea",
+                "uk": "Сеул, Південна Корея",
+                "ru": "Сеул, Южная Корея",
+                "zh": "韩国首尔"
+              },
+              "założona": "1944"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ev/d8/ahntunks88kkgowsccwsc/rio-iii-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 412962,
+        "Brand Name": "Kia",
+        "Model Name": "Rio",
+        "Serie Name": "Rio Gen 3",
+        "Years": "2011 - 2017",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Subcompact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.25L / 1.4L / 1.6L / 1.1L - 1.4L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Kia to koreańska marka, która w ostatnich dekadach przeszła niesamowitą metamorfozę. Oferuje auta o nowoczesnym designie i świetnej jakości, objęte 7-letnią gwarancją.",
+              "en": "Kia is a Korean brand that has undergone an incredible metamorphosis in recent decades. It offers cars with modern design and great quality, covered by a 7-year warranty.",
+              "de": "Kia ist eine koreanische Marke, die in den letzten Jahrzehnten eine unglaubliche Metamorphose durchgemacht hat. Es bietet Autos mit modernem Design und hervorragender Qualität, abgedeckt durch eine 7-Jahres-Garantie.",
+              "uk": "Kia — корейський бренд, який за останні десятиліття зазнав неймовірних метаморфоз. Пропонує автомобілі з сучасним дизайном і відмінною якістю, на які поширюється гарантія 7 років.",
+              "ru": "Kia – корейский бренд, претерпевший невероятную трансформацию за последние десятилетия. Предлагает автомобили современного дизайна и отличного качества с 7-летней гарантией.",
+              "zh": "起亚是一个韩国品牌，近几十年来经历了令人难以置信的转变。它提供具有现代设计和卓越品质的汽车，并提供 7 年保修。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia Corporation",
+                "en": "Kia Corporation",
+                "de": "Kia Corporation",
+                "uk": "Kia Corporation",
+                "ru": "Киа Корпорация",
+                "zh": "起亚公司"
+              },
+              "siedziba": {
+                "pl": "Seul, Korea Południowa",
+                "en": "Seoul, South Korea",
+                "de": "Seoul, Südkorea",
+                "uk": "Сеул, Південна Корея",
+                "ru": "Сеул, Южная Корея",
+                "zh": "韩国首尔"
+              },
+              "założona": "1944"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ev/d8/ahntunks88kkgowsccwsc/rio-iii-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 413730,
+        "Brand Name": "Kia",
+        "Model Name": "Rio",
+        "Serie Name": "Rio Gen 4",
+        "Years": "2017 - 3000",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Subcompact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L Turbo / 1.25L / 1.4L / 1.6L / 1.4L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Kia Rio to solidny i ekonomiczny przedstawiciel segmentu B. Przez lata ewoluowała z prostego auta budżetowego w dojrzały, dobrze wyposażony samochód miejski.",
+              "en": "Kia Rio is a solid and economical representative of the B segment. Over the years, it has evolved from a simple budget car into a mature, well-equipped city car.",
+              "de": "Kia Rio ist ein solider und wirtschaftlicher Vertreter des B-Segments. Im Laufe der Jahre hat er sich von einem einfachen Budgetauto zu einem ausgereiften, gut ausgestatteten Stadtauto entwickelt.",
+              "uk": "Kia Rio - солідний і економічний представник сегмента B. За ці роки він перетворився з простого бюджетного автомобіля на зрілий, добре обладнаний міський автомобіль.",
+              "ru": "Киа Рио – солидный и экономичный представитель B-сегмента. За прошедшие годы он превратился из простого бюджетного автомобиля в зрелый, хорошо оснащенный городской автомобиль.",
+              "zh": "起亚Rio是B级车中坚固且经济的代表。多年来，它已经从一款简单的经济型轿车发展成为一款成熟、装备精良的城市轿车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": "2000–2023",
+              "segment": {
+                "pl": "B (Subcompact car)",
+                "en": "B (Subcompact car)",
+                "de": "B (Kleinwagen)",
+                "uk": "B (Субкомпактний автомобіль)",
+                "ru": "B (Малолитражный автомобиль)",
+                "zh": "B（小型车）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ev/d8/ahntunks88kkgowsccwsc/rio-iii-sedan.310.jpg"
+        }
+      }
+    ],
+    "Sedona": [
+      {
+        "BrandID": 75,
+        "ModelID": 413248,
+        "Brand Name": "Kia",
+        "Model Name": "Sedona",
+        "Serie Name": "Sedona Gen 1",
+        "Years": "1998 - 2005",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Minivan",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.5L V6 / 2.9L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Kia to koreańska marka, która w ostatnich dekadach przeszła niesamowitą metamorfozę. Oferuje auta o nowoczesnym designie i świetnej jakości, objęte 7-letnią gwarancją.",
+              "en": "Kia is a Korean brand that has undergone an incredible metamorphosis in recent decades. It offers cars with modern design and great quality, covered by a 7-year warranty.",
+              "de": "Kia ist eine koreanische Marke, die in den letzten Jahrzehnten eine unglaubliche Metamorphose durchgemacht hat. Es bietet Autos mit modernem Design und hervorragender Qualität, abgedeckt durch eine 7-Jahres-Garantie.",
+              "uk": "Kia — корейський бренд, який за останні десятиліття зазнав неймовірних метаморфоз. Пропонує автомобілі з сучасним дизайном і відмінною якістю, на які поширюється гарантія 7 років.",
+              "ru": "Kia – корейский бренд, претерпевший невероятную трансформацию за последние десятилетия. Предлагает автомобили современного дизайна и отличного качества с 7-летней гарантией.",
+              "zh": "起亚是一个韩国品牌，近几十年来经历了令人难以置信的转变。它提供具有现代设计和卓越品质的汽车，并提供 7 年保修。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia Corporation",
+                "en": "Kia Corporation",
+                "de": "Kia Corporation",
+                "uk": "Корпорація Kia",
+                "ru": "Киа Корпорация",
+                "zh": "起亚公司"
+              },
+              "siedziba": {
+                "pl": "Seul, Korea Południowa",
+                "en": "Seoul, South Korea",
+                "de": "Seoul, Südkorea",
+                "uk": "Сеул, Південна Корея",
+                "ru": "Сеул, Южная Корея",
+                "zh": "韩国首尔"
+              },
+              "założona": "1944"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/eq/9u/sck4cn40s8scgww0wccwg/sedona-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 413249,
+        "Brand Name": "Kia",
+        "Model Name": "Sedona",
+        "Serie Name": "Sedona Gen 2",
+        "Years": "2006 - 2014",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Minivan",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.8L V6 / 3.5L V6 / 2.9L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Kia to koreańska marka, która w ostatnich dekadach przeszła niesamowitą metamorfozę. Oferuje auta o nowoczesnym designie i świetnej jakości, objęte 7-letnią gwarancją.",
+              "en": "Kia is a Korean brand that has undergone an incredible metamorphosis in recent decades. It offers cars with modern design and great quality, covered by a 7-year warranty.",
+              "de": "Kia ist eine koreanische Marke, die in den letzten Jahrzehnten eine unglaubliche Metamorphose durchgemacht hat. Es bietet Autos mit modernem Design und hervorragender Qualität, abgedeckt durch eine 7-Jahres-Garantie.",
+              "uk": "Kia — корейський бренд, який за останні десятиліття зазнав неймовірних метаморфоз. Пропонує автомобілі з сучасним дизайном і відмінною якістю, на які поширюється гарантія 7 років.",
+              "ru": "Kia – корейский бренд, претерпевший невероятную трансформацию за последние десятилетия. Предлагает автомобили современного дизайна и отличного качества с 7-летней гарантией.",
+              "zh": "起亚是一个韩国品牌，近几十年来经历了令人难以置信的转变。它提供具有现代设计和卓越品质的汽车，并提供 7 年保修。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia Corporation",
+                "en": "Kia Corporation",
+                "de": "Kia Corporation",
+                "uk": "Корпорація Kia",
+                "ru": "Kia Corporation",
+                "zh": "起亚公司"
+              },
+              "siedziba": {
+                "pl": "Seul, Korea Południowa",
+                "en": "Seoul, South Korea",
+                "de": "Seoul, Südkorea",
+                "uk": "Сеул, Південна Корея",
+                "ru": "Сеул, Южная Корея",
+                "zh": "韩国首尔"
+              },
+              "założona": "1944"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/eq/9u/sck4cn40s8scgww0wccwg/sedona-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 416611,
+        "Brand Name": "Kia",
+        "Model Name": "Sedona",
+        "Serie Name": "Sedona Gen 3",
+        "Years": "2015 - 2021",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Minivan",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.3L V6 / 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Kia Sedona (Carnival) to luksusowy van stworzony z myślą o komforcie wielu pasażerów. Wersje amerykańskie słyną z mocnych silników V6 i ogromnej przestrzeni bagażowej.",
+              "en": "The Kia Sedona (Carnival) is a luxury van designed with the comfort of multiple passengers in mind. American versions are famous for their powerful V6 engines and huge luggage space.",
+              "de": "Der Kia Sedona (Carnival) ist ein Luxus-Van, der auf den Komfort mehrerer Passagiere ausgelegt ist. Amerikanische Versionen sind berühmt für ihre leistungsstarken V6-Motoren und den riesigen Gepäckraum.",
+              "uk": "Kia Sedona (Carnival) — це розкішний фургон, розроблений з урахуванням комфорту кількох пасажирів. Американські версії славляться потужними двигунами V6 і величезним багажником.",
+              "ru": "Kia Sedona (Carnival) — это роскошный фургон, спроектированный с учетом комфорта нескольких пассажиров. Американские версии славятся мощными двигателями V6 и огромным багажником.",
+              "zh": "起亚 Sedona（嘉年华）是一款豪华面包车，其设计考虑了多名乘客的舒适度。美国版以其强大的V6发动机和巨大的行李空间而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": "1998–2021",
+              "segment": {
+                "pl": "Minivan / MPV",
+                "en": "Minivan / MPV",
+                "de": "Minivan / MPV",
+                "uk": "Мінівен / MPV",
+                "ru": "Минивэн / MPV",
+                "zh": "小型货车/MPV"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/eq/9u/sck4cn40s8scgww0wccwg/sedona-ii.310.jpg"
+        }
+      }
+    ],
+    "Seltos": [
+      {
+        "BrandID": 75,
+        "ModelID": 415853,
+        "Brand Name": "Kia",
+        "Model Name": "Seltos",
+        "Serie Name": "Seltos",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L Turbo / 2.0L / 1.6L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia Seltos to stylowy kompaktowy SUV, plasujący się między modelami Soul i Sportage. Oferuje nowoczesne technologie i napęd AWD w atrakcyjnym opakowaniu.",
+              "en": "The Kia Seltos is a stylish compact SUV, positioned between the Soul and Sportage models. It offers modern technologies and AWD drive in an attractive package.",
+              "de": "Der Kia Seltos ist ein stilvoller Kompakt-SUV, positioniert zwischen den Modellen Soul und Sportage. Er bietet moderne Technologien und Allradantrieb in einem attraktiven Paket.",
+              "uk": "Kia Seltos — це стильний компактний позашляховик, що стоїть між моделями Soul і Sportage. Він пропонує сучасні технології та повний привід у привабливій упаковці.",
+              "ru": "Kia Seltos — стильный компактный внедорожник, занимающий промежуточное положение между моделями Soul и Sportage. Он предлагает современные технологии и полный привод в привлекательной упаковке.",
+              "zh": "起亚 Seltos 是一款时尚的紧凑型 SUV，定位介于 Soul 和 Sportage 车型之间。它以极具吸引力的方式提供现代技术和全轮驱动驱动。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019 року",
+                "ru": "с 2019 года",
+                "zh": "2019 年起"
+              },
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Sorento": [
+      {
+        "BrandID": 75,
+        "ModelID": 5003,
+        "Brand Name": "Kia",
+        "Model Name": "Sorento",
+        "Serie Name": "Sorento Gen 1",
+        "Years": "2002 - 2009",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.3L / 3.5L / 3.8L V6 / 2.5L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia Sorento to duży, rodzinny SUV, oferujący przestrzeń dla 7 osób i komfort podróżowania na długich trasach.",
+              "en": "Kia Sorento is a large, family SUV, offering space for 7 people and comfort for traveling on long journeys.",
+              "de": "Der Kia Sorento ist ein großer Familien-SUV, der Platz für 7 Personen und Komfort für lange Reisen bietet.",
+              "uk": "Kia Sorento — це великий сімейний позашляховик, який пропонує місце для 7 осіб і комфорт для подорожей у далекі подорожі.",
+              "ru": "Kia Sorento — большой семейный внедорожник, предлагающий место для 7 человек и комфорт для путешествий в дальние поездки.",
+              "zh": "起亚 Sorento 是一款大型家庭 SUV，可容纳 7 人，为长途旅行提供舒适感。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": {
+                "pl": "od 2002",
+                "en": "from 2002",
+                "de": "ab 2002",
+                "uk": "з 2002 року",
+                "ru": "с 2002 года",
+                "zh": "2002 年生产"
+              },
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний позашляховик",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ak/gj/64sb5q80go80gwk4ssog8/kia-sorento-10.310.jpg"
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 154535,
+        "Brand Name": "Kia",
+        "Model Name": "Sorento",
+        "Serie Name": "Sorento Gen 2",
+        "Years": "2009 - 2014",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.4L / 3.5L V6 / 2.0L / 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia Sorento to duży, rodzinny SUV, oferujący przestrzeń dla 7 osób i komfort podróżowania na długich trasach.",
+              "en": "Kia Sorento is a large, family SUV, offering space for 7 people and comfort of traveling on long journeys.",
+              "de": "Der Kia Sorento ist ein großer Familien-SUV, der Platz für 7 Personen und Reisekomfort auf langen Reisen bietet.",
+              "uk": "Kia Sorento — це великий сімейний позашляховик, який пропонує місце для 7 осіб і комфорт подорожей у далеких подорожах.",
+              "ru": "Kia Sorento — большой семейный внедорожник, вмещающий 7 человек и обеспечивающий комфорт при длительных поездках.",
+              "zh": "起亚 Sorento 是一款大型家庭 SUV，可容纳 7 人，为长途旅行带来舒适感。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": {
+                "pl": "od 2002",
+                "en": "from 2002",
+                "de": "ab 2002",
+                "uk": "з 2002 року",
+                "ru": "с 2002 года",
+                "zh": "2002 年生产"
+              },
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний позашляховик",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ak/gj/64sb5q80go80gwk4ssog8/kia-sorento-10.310.jpg"
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 412963,
+        "Brand Name": "Kia",
+        "Model Name": "Sorento",
+        "Serie Name": "Sorento Gen 3",
+        "Years": "2014 - 2020",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L Turbo / 2.4L / 3.3L V6 / 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Kia Sorento to duży, rodzinny SUV, oferujący przestrzeń dla 7 osób i komfort podróżowania na długich trasach.",
+              "en": "Kia Sorento is a large, family SUV, offering space for 7 people and comfort of traveling on long journeys.",
+              "de": "Der Kia Sorento ist ein großer Familien-SUV, der Platz für 7 Personen und Reisekomfort auf langen Reisen bietet.",
+              "uk": "Kia Sorento — це великий сімейний позашляховик, який пропонує місце для 7 осіб і комфорт подорожей у далеких подорожах.",
+              "ru": "Kia Sorento — большой семейный внедорожник, вмещающий 7 человек и обеспечивающий комфорт при длительных поездках.",
+              "zh": "起亚 Sorento 是一款大型家庭 SUV，可容纳 7 人，为长途旅行带来舒适感。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": {
+                "pl": "od 2002",
+                "en": "from 2002",
+                "de": "ab 2002",
+                "uk": "з 2002 року",
+                "ru": "с 2002 года.",
+                "zh": "2002 年生产"
+              },
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний позашляховик",
+                "ru": "Среднеразмерный внедорожник.",
+                "zh": "中型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ak/gj/64sb5q80go80gwk4ssog8/kia-sorento-10.310.jpg"
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 416385,
+        "Brand Name": "Kia",
+        "Model Name": "Sorento",
+        "Serie Name": "Sorento Gen 4",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/Hybrid/PHEV",
+          "engine": "2.5L / 2.5L Turbo / 2.2L Diesel / Hybrid / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Kia Sorento to duży, rodzinny SUV, który stał się jednym z najbardziej pożądanych modeli w swojej klasie. Oferuje przestronne wnętrze i napędy hybrydowe.",
+              "en": "Kia Sorento is a large, family SUV that has become one of the most desirable models in its class. It offers a spacious interior and hybrid drives.",
+              "de": "Der Kia Sorento ist ein großer Familien-SUV, der zu einem der begehrtesten Modelle seiner Klasse geworden ist. Es bietet einen geräumigen Innenraum und Hybridantriebe.",
+              "uk": "Kia Sorento — це великий сімейний позашляховик, який став однією з найбажаніших моделей у своєму класі. Він пропонує просторий салон і гібридні приводи.",
+              "ru": "Kia Sorento — большой семейный внедорожник, ставший одной из самых востребованных моделей в своем классе. Он предлагает просторный салон и гибридные приводы.",
+              "zh": "起亚 Sorento 是一款大型家庭 SUV，已成为同类产品中最受欢迎的车型之一。它提供宽敞的内部空间和混合动力驱动。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": {
+                "pl": "od 2002",
+                "en": "from 2002",
+                "de": "aus dem Jahr 2002",
+                "uk": "з 2002 року",
+                "ru": "2002 года.",
+                "zh": "2002 年起"
+              },
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний SUV",
+                "ru": "Среднеразмерный внедорожник.",
+                "zh": "中型 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ak/gj/64sb5q80go80gwk4ssog8/kia-sorento-10.310.jpg"
+        }
+      }
+    ],
+    "Soul": [
+      {
+        "BrandID": 75,
+        "ModelID": 413252,
+        "Brand Name": "Kia",
+        "Model Name": "Soul",
+        "Serie Name": "Soul Gen 1",
+        "Years": "2008 - 2013",
+        "specs": {
+          "bodyType": "Hatchback/Crossover",
+          "segment": "Subcompact Crossover",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L / 2.0L / 1.6L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia to koreańska marka, która w ostatnich dekadach przeszła niesamowitą metamorfozę. Oferuje auta o nowoczesnym designie i świetnej jakości, objęte 7-letnią gwarancją.",
+              "en": "Kia is a Korean brand that has undergone an incredible metamorphosis in recent decades. It offers cars with modern design and great quality, covered by a 7-year warranty.",
+              "de": "Kia ist eine koreanische Marke, die in den letzten Jahrzehnten eine unglaubliche Metamorphose durchgemacht hat. Es bietet Autos mit modernem Design und hervorragender Qualität, abgedeckt durch eine 7-Jahres-Garantie.",
+              "uk": "Kia — корейський бренд, який за останні десятиліття зазнав неймовірних метаморфоз. Пропонує автомобілі з сучасним дизайном і відмінною якістю, на які поширюється гарантія 7 років.",
+              "ru": "Kia — корейский бренд, претерпевший за последние десятилетия невероятные метаморфозы. Предлагает автомобили современного дизайна и отличного качества с 7-летней гарантией.",
+              "zh": "起亚是一个韩国品牌，近几十年来经历了令人难以置信的转变。它提供具有现代设计和卓越品质的汽车，并提供 7 年保修。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia Corporation",
+                "en": "Kia Corporation",
+                "de": "Kia Corporation",
+                "uk": "Корпорація Kia",
+                "ru": "Kia Corporation",
+                "zh": "起亚公司"
+              },
+              "siedziba": {
+                "pl": "Seul, Korea Południowa",
+                "en": "Seoul, South Korea",
+                "de": "Seoul, Südkorea",
+                "uk": "Сеул, Південна Корея",
+                "ru": "Сеул, Южная Корея",
+                "zh": "韩国首尔"
+              },
+              "założona": "1944"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/al/p9/ruvyq3sosc48so440gw4o/soul.310.jpg"
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 413253,
+        "Brand Name": "Kia",
+        "Model Name": "Soul",
+        "Serie Name": "Soul Gen 2",
+        "Years": "2013 - 2019",
+        "specs": {
+          "bodyType": "Hatchback/Crossover",
+          "segment": "Subcompact Crossover",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/Electric",
+          "engine": "1.6L / 2.0L / 1.6L Diesel / Electric (Soul EV)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Kia to koreańska marka, która w ostatnich dekadach przeszła niesamowitą metamorfozę. Oferuje auta o nowoczesnym designie i świetnej jakości, objęte 7-letnią gwarancją.",
+              "en": "Kia is a Korean brand that has undergone an incredible metamorphosis in recent decades. It offers cars with modern design and great quality, covered by a 7-year warranty.",
+              "de": "Kia ist eine koreanische Marke, die in den letzten Jahrzehnten eine unglaubliche Metamorphose durchgemacht hat. Es bietet Autos mit modernem Design und hervorragender Qualität, abgedeckt durch eine 7-Jahres-Garantie.",
+              "uk": "Kia — корейський бренд, який за останні десятиліття зазнав неймовірних метаморфоз. Пропонує автомобілі з сучасним дизайном і відмінною якістю, на які поширюється гарантія 7 років.",
+              "ru": "Kia — корейский бренд, претерпевший невероятные метаморфозы за последние десятилетия. Предлагает автомобили современного дизайна и отличного качества с 7-летней гарантией.",
+              "zh": "起亚是一个韩国品牌，近几十年来经历了令人难以置信的转变。它提供具有现代设计和卓越品质的汽车，并提供 7 年保修。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia Corporation",
+                "en": "Kia Corporation",
+                "de": "Kia Corporation",
+                "uk": "Kia Corporation",
+                "ru": "Корпорация Kia",
+                "zh": "起亚公司"
+              },
+              "siedziba": {
+                "pl": "Seul, Korea Południowa",
+                "en": "Seoul, South Korea",
+                "de": "Seoul, Südkorea",
+                "uk": "Сеул, Південна Корея",
+                "ru": "Сеул, Южная Корея",
+                "zh": "韩国首尔"
+              },
+              "założona": "1944"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/al/p9/ruvyq3sosc48so440gw4o/soul.310.jpg"
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 414213,
+        "Brand Name": "Kia",
+        "Model Name": "Soul",
+        "Serie Name": "Soul Gen 3",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "Hatchback/Crossover",
+          "segment": "Subcompact Crossover",
+          "drive": "FWD",
+          "fuel": "Gasoline/Electric",
+          "engine": "2.0L / 1.6L Turbo / Electric (Soul EV)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Kia Soul to ikona stylu 'boxy car'. Łączy charakter hatchbacka, SUV-a i minivana, oferując unikalną osobowość i mnóstwo miejsca nad głowami.",
+              "en": "Kia Soul is an icon of the 'boxy car' style. It combines the character of a hatchback, an SUV and a minivan, offering a unique personality and plenty of headroom.",
+              "de": "Der Kia Soul ist eine Ikone des „Boxy-Car“-Stils. Es vereint den Charakter eines Fließheckmodells, eines SUV und eines Minivans und bietet eine einzigartige Persönlichkeit und viel Kopffreiheit.",
+              "uk": "Kia Soul є іконою стилю «коробка». Він поєднує в собі характер хетчбека, позашляховика та мінівена, пропонуючи унікальну індивідуальність і великий простір.",
+              "ru": "Kia Soul – икона стиля «квадратного автомобиля». Он сочетает в себе характер хэтчбека, внедорожника и минивэна, предлагая уникальную индивидуальность и достаточно места для головы.",
+              "zh": "起亚秀尔 (Kia Soul) 是“四四方方汽车”风格的典范。它结合了掀背车、SUV 和小型货车的特点，提供独特的个性和充足的头部空间。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": {
+                "pl": "od 2008",
+                "en": "from 2008",
+                "de": "ab 2008",
+                "uk": "з 2008 року",
+                "ru": "с 2008 года",
+                "zh": "自2008年以来"
+              },
+              "segment": {
+                "pl": "Compact Crossover",
+                "en": "Compact Crossover",
+                "de": "Kompakter Crossover",
+                "uk": "Компактний кросовер",
+                "ru": "Компактный кроссовер",
+                "zh": "紧凑型跨界车"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/al/p9/ruvyq3sosc48so440gw4o/soul.310.jpg"
+        }
+      }
+    ],
+    "Spectra": [
+      {
+        "BrandID": 75,
+        "ModelID": 413254,
+        "Brand Name": "Kia",
+        "Model Name": "Spectra",
+        "Serie Name": "Spectra Gen 1 (Sephia)",
+        "Years": "2000 - 2004",
+        "specs": {
+          "bodyType": "Sedan/Liftback",
+          "segment": "Compact Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.8L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia to koreańska marka, która w ostatnich dekadach przeszła niesamowitą metamorfozę. Oferuje auta o nowoczesnym designie i świetnej jakości, objęte 7-letnią gwarancją.",
+              "en": "Kia is a Korean brand that has undergone an incredible metamorphosis in recent decades. It offers cars with modern design and great quality, covered by a 7-year warranty.",
+              "de": "Kia ist eine koreanische Marke, die in den letzten Jahrzehnten eine unglaubliche Metamorphose durchgemacht hat. Es bietet Autos mit modernem Design und hervorragender Qualität, abgedeckt durch eine 7-Jahres-Garantie.",
+              "uk": "Kia — корейський бренд, який за останні десятиліття пережив неймовірні метаморфози. Пропонує автомобілі з сучасним дизайном і відмінною якістю, на які поширюється гарантія 7 років.",
+              "ru": "Kia – корейский бренд, претерпевший невероятную трансформацию за последние десятилетия. Предлагает автомобили современного дизайна и отличного качества с 7-летней гарантией.",
+              "zh": "起亚是一个韩国品牌，近几十年来经历了令人难以置信的转变。它提供具有现代设计和卓越品质的汽车，并提供 7 年保修。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia Corporation",
+                "en": "Kia Corporation",
+                "de": "Kia Corporation",
+                "uk": "Kia Corporation",
+                "ru": "Киа Корпорация",
+                "zh": "起亚公司"
+              },
+              "siedziba": {
+                "pl": "Seul, Korea Południowa",
+                "en": "Seoul, South Korea",
+                "de": "Seoul, Südkorea",
+                "uk": "Сеул, Південна Корея",
+                "ru": "Сеул, Южная Корея",
+                "zh": "韩国首尔"
+              },
+              "założona": "1944"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/d2/gi/2b3cr7wososks8884g4kg/spectra-i.310.jpg"
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 413255,
+        "Brand Name": "Kia",
+        "Model Name": "Spectra",
+        "Serie Name": "Spectra Gen 2 (Cerato)",
+        "Years": "2004 - 2009",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Compact Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia Spectra to poprzednik modelu Forte, oferowany jako sedan i liftback. Prostota konstrukcji i dobra relacja ceny do jakości były jej głównymi atutami.",
+              "en": "Kia Spectra is the predecessor of the Forte model, offered as a sedan and liftback. Simplicity of design and good price-quality ratio were its main advantages.",
+              "de": "Kia Spectra ist der Vorgänger des Forte-Modells, das als Limousine und Liftback angeboten wird. Die Hauptvorteile waren die Einfachheit des Designs und das gute Preis-Leistungs-Verhältnis.",
+              "uk": "Kia Spectra є попередницею моделі Forte, яка пропонується як седан і ліфтбек. Його основними перевагами були простота конструкції та хороше співвідношення ціни та якості.",
+              "ru": "Kia Spectra – предшественник модели Forte, предлагаемый в кузовах седан и лифтбек. Простота конструкции и хорошее соотношение цены и качества были его главными преимуществами.",
+              "zh": "起亚 Spectra 是 Forte 车型的前身，提供轿车和掀背式车型。设计简单、性价比高是其主要优点。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": "1992–2009",
+              "segment": {
+                "pl": "C (Compact car)",
+                "en": "C (Compact car)",
+                "de": "C (Kompaktwagen)",
+                "uk": "C (компактний автомобіль)",
+                "ru": "C (Компактный автомобиль)",
+                "zh": "C（紧凑型车）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/d2/gi/2b3cr7wososks8884g4kg/spectra-i.310.jpg"
+        }
+      }
+    ],
+    "Sportage": [
+      {
+        "BrandID": 75,
+        "ModelID": 135248,
+        "Brand Name": "Kia",
+        "Model Name": "Sportage",
+        "Serie Name": "Sportage Gen 1",
+        "Years": "1993 - 2004",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L / 2.0L Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia Sportage to jeden z najpopularniejszych SUV-ów w Europie. Nowoczesne generacje wyróżniają się odważnym stylem i zaawansowaną technologią.",
+              "en": "Kia Sportage is one of the most popular SUVs in Europe. Modern generations are distinguished by bold style and advanced technology.",
+              "de": "Kia Sportage ist einer der beliebtesten SUVs in Europa. Moderne Generationen zeichnen sich durch kühnen Stil und fortschrittliche Technologie aus.",
+              "uk": "Kia Sportage — один із найпопулярніших позашляховиків у Європі. Сучасні покоління відрізняються сміливим стилем і передовими технологіями.",
+              "ru": "Киа Спортейдж – один из самых популярных внедорожников в Европе. Современные поколения отличаются смелым стилем и передовыми технологиями.",
+              "zh": "起亚狮跑是欧洲最受欢迎的 SUV 之一。现代一代以大胆的风格和先进的技术而著称。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": {
+                "pl": "od 1993",
+                "en": "from 1993",
+                "de": "ab 1993",
+                "uk": "з 1993 року",
+                "ru": "с 1993 года",
+                "zh": "自1993年以来"
+              },
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5c/tj/u8jc0ckk8cc8kwg8oc00g/sportage-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 135637,
+        "Brand Name": "Kia",
+        "Model Name": "Sportage",
+        "Serie Name": "Sportage Gen 2",
+        "Years": "2004 - 2010",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L / 2.7L V6 / 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia Sportage to jeden z najpopularniejszych SUV-ów w Europie. Nowoczesne generacje wyróżniają się odważnym stylem i zaawansowaną technologią.",
+              "en": "Kia Sportage is one of the most popular SUVs in Europe. Modern generations are distinguished by bold style and advanced technology.",
+              "de": "Kia Sportage ist einer der beliebtesten SUVs in Europa. Moderne Generationen zeichnen sich durch kühnen Stil und fortschrittliche Technologie aus.",
+              "uk": "Kia Sportage — один із найпопулярніших позашляховиків у Європі. Сучасні покоління відрізняються сміливим стилем і передовими технологіями.",
+              "ru": "Киа Спортейдж – один из самых популярных внедорожников в Европе. Современные поколения отличаются смелым стилем и передовыми технологиями.",
+              "zh": "起亚狮跑是欧洲最受欢迎的 SUV 之一。现代一代以大胆的风格和先进的技术而著称。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": {
+                "pl": "od 1993",
+                "en": "from 1993",
+                "de": "ab 1993",
+                "uk": "з 1993 року",
+                "ru": "с 1993 года",
+                "zh": "自1993年以来"
+              },
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5c/tj/u8jc0ckk8cc8kwg8oc00g/sportage-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 136725,
+        "Brand Name": "Kia",
+        "Model Name": "Sportage",
+        "Serie Name": "Sportage Gen 3",
+        "Years": "2010 - 2015",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L / 2.4L / 2.0L Turbo / 1.7L - 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia Sportage to jeden z najpopularniejszych SUV-ów w Europie. Nowoczesne generacje wyróżniają się odważnym stylem i zaawansowaną technologią.",
+              "en": "Kia Sportage is one of the most popular SUVs in Europe. Modern generations are distinguished by bold style and advanced technology.",
+              "de": "Kia Sportage ist einer der beliebtesten SUVs in Europa. Moderne Generationen zeichnen sich durch kühnen Stil und fortschrittliche Technologie aus.",
+              "uk": "Kia Sportage — один із найпопулярніших позашляховиків у Європі. Сучасні покоління відрізняються сміливим стилем і передовими технологіями.",
+              "ru": "Киа Спортейдж – один из самых популярных внедорожников в Европе. Современные поколения отличаются смелым стилем и передовыми технологиями.",
+              "zh": "起亚狮跑是欧洲最受欢迎的 SUV 之一。现代一代以大胆的风格和先进的技术而著称。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": {
+                "pl": "od 1993",
+                "en": "from 1993",
+                "de": "ab 1993",
+                "uk": "з 1993 року",
+                "ru": "с 1993 года",
+                "zh": "自1993年以来"
+              },
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5c/tj/u8jc0ckk8cc8kwg8oc00g/sportage-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 413733,
+        "Brand Name": "Kia",
+        "Model Name": "Sportage",
+        "Serie Name": "Sportage Gen 4",
+        "Years": "2015 - 2021",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L / 2.4L / 2.0L Turbo / 1.6L - 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Kia Sportage to jeden z najpopularniejszych SUV-ów w Europie. Nowoczesne generacje wyróżniają się odważnym stylem i zaawansowaną technologią.",
+              "en": "Kia Sportage is one of the most popular SUVs in Europe. Modern generations are distinguished by bold style and advanced technology.",
+              "de": "Kia Sportage ist einer der beliebtesten SUVs in Europa. Moderne Generationen zeichnen sich durch kühnen Stil und fortschrittliche Technologie aus.",
+              "uk": "Kia Sportage — один із найпопулярніших позашляховиків у Європі. Сучасні покоління відрізняються сміливим стилем і передовими технологіями.",
+              "ru": "Киа Спортейдж – один из самых популярных внедорожников в Европе. Современные поколения отличаются смелым стилем и передовыми технологиями.",
+              "zh": "起亚狮跑是欧洲最受欢迎的 SUV 之一。现代一代以大胆的风格和先进的技术而著称。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": {
+                "pl": "od 1993",
+                "en": "from 1993",
+                "de": "ab 1993",
+                "uk": "1993 р.",
+                "ru": "с 1993 года",
+                "zh": "自1993年以来"
+              },
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5c/tj/u8jc0ckk8cc8kwg8oc00g/sportage-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 75,
+        "ModelID": 416389,
+        "Brand Name": "Kia",
+        "Model Name": "Sportage",
+        "Serie Name": "Sportage Gen 5",
+        "Years": "2021 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/Hybrid/PHEV",
+          "engine": "2.5L / 1.6L Turbo / Hybrid / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Kia Sportage to absolutny bestseller marki. Jedno z najpopularniejszych aut typu SUV w Europie, cenione za design, niezawodność i świetne warunki gwarancyjne.",
+              "en": "Kia Sportage is the brand's absolute bestseller. One of the most popular SUVs in Europe, valued for its design, reliability and excellent warranty conditions.",
+              "de": "Kia Sportage ist der absolute Bestseller der Marke. Einer der beliebtesten SUVs in Europa, geschätzt für sein Design, seine Zuverlässigkeit und seine hervorragenden Garantiebedingungen.",
+              "uk": "Kia Sportage — абсолютний бестселер бренду. Один з найпопулярніших позашляховиків в Європі, який цінується за дизайн, надійність і чудові умови гарантії.",
+              "ru": "Kia Sportage – абсолютный бестселлер марки. Один из самых популярных внедорожников в Европе, ценится за дизайн, надежность и отличные гарантийные условия.",
+              "zh": "起亚狮跑 (Kia Sportage) 绝对是该品牌的畅销产品。欧洲最受欢迎的 SUV 之一，因其设计、可靠性和出色的保修条件而受到重视。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": {
+                "pl": "od 1993",
+                "en": "from 1993",
+                "de": "von 1993",
+                "uk": "з 1993 року",
+                "ru": "с 1993 года",
+                "zh": "自1993年以来"
+              },
+              "segment": {
+                "pl": "C-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5c/tj/u8jc0ckk8cc8kwg8oc00g/sportage-iii.310.jpg"
+        }
+      }
+    ],
+    "Stinger": [
+      {
+        "BrandID": 75,
+        "ModelID": 414020,
+        "Brand Name": "Kia",
+        "Model Name": "Stinger",
+        "Serie Name": "Stinger",
+        "Years": "2017 - 2023",
+        "specs": {
+          "bodyType": "Sedan/Liftback",
+          "segment": "Executive Car",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L Turbo / 2.5L Turbo / 3.3L V6 Twin-Turbo / 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia Stinger to manifest sportowych aspiracji Kii. Tylnonapędowy sedan typu Gran Turismo z silnikiem V6 Twin-Turbo, który rzucił wyzwanie europejskim markom premium.",
+              "en": "Kia Stinger is a manifesto of Kia's sporting aspirations. A rear-drive Gran Turismo sedan with a V6 Twin-Turbo engine that challenged European premium brands.",
+              "de": "Kia Stinger ist ein Manifest der sportlichen Ambitionen von Kia. Eine Gran Turismo-Limousine mit Heckantrieb und V6-Twin-Turbo-Motor, die europäische Premiummarken herausforderte.",
+              "uk": "Kia Stinger є маніфестом спортивних прагнень Kia. Задньопривідний седан Gran Turismo з двигуном V6 Twin-Turbo, який кинув виклик європейським преміальним брендам.",
+              "ru": "Kia Stinger — это манифест спортивных устремлений Kia. Заднеприводный седан Gran Turismo с двигателем V6 Twin-Turbo, бросивший вызов европейским брендам премиум-класса.",
+              "zh": "起亚 Stinger 是起亚运动愿望的宣言。一款挑战欧洲高端品牌的后驱 Gran Turismo 轿车，配备 V6 双涡轮增压发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": "2017–2023",
+              "segment": {
+                "pl": "E (Executive sports sedan)",
+                "en": "E (Executive sports sedan)",
+                "de": "E (Executive-Sportlimousine)",
+                "uk": "E (представницький спортивний седан)",
+                "ru": "E (Представительский спортивный седан)",
+                "zh": "E（行政运动轿车）"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Stonic": [
+      {
+        "BrandID": 75,
+        "ModelID": 415848,
+        "Brand Name": "Kia",
+        "Model Name": "Stonic",
+        "Serie Name": "Stonic",
+        "Years": "2017 - 3000",
+        "specs": {
+          "bodyType": "Crossover",
+          "segment": "Subcompact Crossover",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L Turbo / 1.25L / 1.4L / 1.6L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia Stonic to miejski crossover o dynamicznym wyglądzie i pewnym prowadzeniu. Idealne rozwiązanie dla osób szukających zwrotności i nieco wyższej pozycji za kierownicą.",
+              "en": "Kia Stonic is an urban crossover with a dynamic appearance and confident handling. The perfect solution for people looking for maneuverability and a slightly higher driving position.",
+              "de": "Kia Stonic ist ein urbaner Crossover mit dynamischem Erscheinungsbild und souveränem Handling. Die perfekte Lösung für Menschen, die Wendigkeit und eine etwas höhere Fahrposition suchen.",
+              "uk": "Kia Stonic — міський кросовер із динамічною зовнішністю та впевненою керованістю. Ідеальне рішення для людей, яким потрібна маневреність і трохи вище місце за кермом.",
+              "ru": "Kia Stonic – городской кроссовер с динамичным внешним видом и уверенной управляемостью. Идеальное решение для людей, которым нужна маневренность и немного более высокая посадка водителя.",
+              "zh": "起亚 Stonic 是一款城市跨界车，具有动感的外观和自信的操控性。对于寻求机动性和稍高驾驶位置的人们来说，这是完美的解决方案。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": {
+                "pl": "od 2017",
+                "en": "from 2017",
+                "de": "ab 2017",
+                "uk": "з 2017 р.",
+                "ru": "с 2017 года",
+                "zh": "自 2017 年起"
+              },
+              "segment": {
+                "pl": "B-SUV"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Telluride": [
+      {
+        "BrandID": 75,
+        "ModelID": 416612,
+        "Brand Name": "Kia",
+        "Model Name": "Telluride",
+        "Serie Name": "Telluride",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.8L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Kia Telluride to luksusowy gigant stworzony na rynek amerykański. Wielokrotnie nagradzany SUV z silnikiem V8, oferujący komfort i przestrzeń na najwyższym poziomie.",
+              "en": "Kia Telluride is a luxury giant created for the American market. An award-winning SUV with a V8 engine, offering the highest level of comfort and space.",
+              "de": "Kia Telluride ist ein Luxusriese, der für den amerikanischen Markt geschaffen wurde. Ein preisgekrönter SUV mit V8-Motor, der ein Höchstmaß an Komfort und Platz bietet.",
+              "uk": "Kia Telluride — розкішний гігант, створений для американського ринку. Відзначений нагородами позашляховик із двигуном V8, який пропонує найвищий рівень комфорту та простору.",
+              "ru": "Kia Telluride — люксовый гигант, созданный для американского рынка. Отмеченный наградами внедорожник с двигателем V8, предлагающий высочайший уровень комфорта и простора.",
+              "zh": "起亚特柳赖德 (Kia Telluride) 是一家专为美国市场打造的豪华车巨头。一款屡获殊荣的 SUV，配备 V8 发动机，提供最高水平的舒适度和空间。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kia"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019 року",
+                "ru": "от 2019 г.",
+                "zh": "2019 年起"
+              },
+              "segment": {
+                "pl": "Full-size SUV",
+                "en": "Full-size SUV",
+                "de": "Full-Size-SUV",
+                "uk": "Повнорозмірний позашляховик",
+                "ru": "Полноразмерный внедорожник",
+                "zh": "全尺寸 SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

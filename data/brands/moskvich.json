@@ -1,0 +1,593 @@
+{
+  "brand": "Москвич",
+  "models": {
+    "400": [
+      {
+        "BrandID": 174,
+        "ModelID": 1919,
+        "Brand Name": "Москвич",
+        "Model Name": 401,
+        "Serie Name": 400,
+        "Years": "0000 - 0000",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Moskwicz 400 to pierwszy masowo produkowany samochód osobowy w ZSRR, będący kopią przedwojennego Opla Kadetta.",
+              "en": "Moskvich 400 is the first mass-produced passenger car in the USSR, a copy of the pre-war Opel Kadett.",
+              "de": "Der Moskwitsch 400 ist der erste in Serie produzierte Personenkraftwagen in der UdSSR, eine Kopie des Vorkriegs-Opel Kadett.",
+              "uk": "Москвич 400 — перший серійний легковий автомобіль в СРСР, копія довоєнного Opel Kadett.",
+              "ru": "Москвич 400 — первый серийный легковой автомобиль в СССР, копия довоенного Опель Кадетт.",
+              "zh": "Moskvich 400是苏联第一款量产的客车，是战前欧宝Kadett的翻版。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "MZMA"
+              },
+              "okres produkcji": "1946–1954",
+              "silnik": {
+                "pl": "1.1L"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "401": [
+      {
+        "BrandID": 174,
+        "ModelID": "",
+        "Brand Name": "Москвич",
+        "Model Name": 401,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Moskwicz 401 to zmodernizowana wersja modelu 400 z mocniejszym silnikiem.",
+              "en": "Moskvich 401 is a modernized version of the 400 model with a more powerful engine.",
+              "de": "Moskwitsch 401 ist eine modernisierte Version des 400er-Modells mit einem stärkeren Motor.",
+              "uk": "Москвич 401 - модернізована версія моделі 400 з більш потужним двигуном.",
+              "ru": "Москвич 401 – это модернизированная версия модели 400 с более мощным двигателем.",
+              "zh": "Moskvich 401 是 400 型号的现代化版本，具有更强大的发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "MZMA"
+              },
+              "okres produkcji": "1954–1956",
+              "silnik": {
+                "pl": "1.1L"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 174,
+        "ModelID": 1920,
+        "Brand Name": "Москвич",
+        "Model Name": 401,
+        "Serie Name": 401,
+        "Years": "0000 - 0000",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Moskwicz 401 to zmodernizowana wersja modelu 400 z mocniejszym silnikiem.",
+              "en": "Moskvich 401 is a modernized version of the 400 model with a more powerful engine.",
+              "de": "Moskwitsch 401 ist eine modernisierte Version des 400er-Modells mit einem stärkeren Motor.",
+              "uk": "Москвич 401 - модернізована версія моделі 400 з більш потужним двигуном.",
+              "ru": "Москвич 401 – это модернизированная версия модели 400 с более мощным двигателем.",
+              "zh": "Moskvich 401 是 400 型号的现代化版本，具有更强大的发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "MZMA"
+              },
+              "okres produkcji": "1954–1956",
+              "silnik": {
+                "pl": "1.1L"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "402": [
+      {
+        "BrandID": 174,
+        "ModelID": "",
+        "Brand Name": "Москвич",
+        "Model Name": 402,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Moskwicz 402 to pierwszy samodzielnie zaprojektowany model marki, wyznaczający nowy standard dla radzieckich aut małolitrażowych.",
+              "en": "Moskvich 402 is the brand's first independently designed model, setting a new standard for Soviet small-capacity cars.",
+              "de": "Der Moskwitsch 402 ist das erste unabhängig entworfene Modell der Marke und setzt einen neuen Standard für sowjetische Kleinwagen.",
+              "uk": "Москвич 402 — перша модель бренду, розроблена самостійно, що задає новий стандарт для радянських малолітражних автомобілів.",
+              "ru": "Москвич 402 — первая самостоятельно разработанная модель бренда, устанавливающая новый стандарт для советских автомобилей малой вместимости.",
+              "zh": "Moskvich 402是该品牌首款独立设计的车型，为苏联小排量汽车树立了新标准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "MZMA"
+              },
+              "okres produkcji": "1956–1958",
+              "silnik": {
+                "pl": "1.2L"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 174,
+        "ModelID": 1921,
+        "Brand Name": "Москвич",
+        "Model Name": 402,
+        "Serie Name": 402,
+        "Years": "0000 - 0000",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Moskwicz 402 to pierwszy samodzielnie zaprojektowany model marki, wyznaczający nowy standard dla radzieckich aut małolitrażowych.",
+              "en": "Moskvich 402 is the brand's first independently designed model, setting a new standard for Soviet small-capacity cars.",
+              "de": "Der Moskwitsch 402 ist das erste unabhängig entworfene Modell der Marke und setzt einen neuen Standard für sowjetische Kleinwagen.",
+              "uk": "Москвич 402 — перша модель бренду, розроблена самостійно, що задає новий стандарт для радянських малолітражних автомобілів.",
+              "ru": "Москвич 402 — первая самостоятельно разработанная модель бренда, устанавливающая новый стандарт для советских автомобилей малой вместимости.",
+              "zh": "Moskvich 402是该品牌首款独立设计的车型，为苏联小排量汽车树立了新标准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "MZMA"
+              },
+              "okres produkcji": "1956–1958",
+              "silnik": {
+                "pl": "1.2L"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "403": [
+      {
+        "BrandID": 174,
+        "ModelID": "",
+        "Brand Name": "Москвич",
+        "Model Name": 403,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger"
+        }
+      },
+      {
+        "BrandID": 174,
+        "ModelID": 1922,
+        "Brand Name": "Москвич",
+        "Model Name": 403,
+        "Serie Name": 403,
+        "Years": "0000 - 0000",
+        "specs": {
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "407": [
+      {
+        "BrandID": 174,
+        "ModelID": 1923,
+        "Brand Name": "Москвич",
+        "Model Name": 408,
+        "Serie Name": 407,
+        "Years": "0000 - 0000",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Moskwicz 407 to ulepszona wersja 402, wyposażona w mocniejszy silnik górnozaworowy. Eksportowany do wielu krajów.",
+              "en": "Moskvich 407 is an improved version of the 402, equipped with a more powerful overhead valve engine. Exported to many countries.",
+              "de": "Moskwitsch 407 ist eine verbesserte Version des 402, ausgestattet mit einem leistungsstärkeren Überkopfventilmotor. In viele Länder exportiert.",
+              "uk": "Москвич 407 - це вдосконалена версія 402, оснащена більш потужним верхньоклапанним двигуном. Експортується в багато країн.",
+              "ru": "Москвич 407 — улучшенная версия 402, оснащенная более мощным верхнеклапанным двигателем. Экспортируется во многие страны.",
+              "zh": "Moskvich 407是402的改进版本，配备了更强大的顶置气门发动机。出口到许多国家。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "MZMA"
+              },
+              "okres produkcji": "1958–1963",
+              "silnik": {
+                "pl": "1.4L OHV",
+                "en": "1.4L OHV",
+                "de": "1,4 l OHV",
+                "uk": "1.4L OHV",
+                "ru": "1,4 л верхнеклапанный двигатель",
+                "zh": "1.4L OHV"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "408": [
+      {
+        "BrandID": 174,
+        "ModelID": "",
+        "Brand Name": "Москвич",
+        "Model Name": 408,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Moskwicz 408 wyróżniał się nowoczesną stylistyką lat 60. i był popularnym towarem eksportowym ZSRR.",
+              "en": "Moskvich 408 featured modern 1960s styling and was a popular export of the USSR.",
+              "de": "Der Moskwitsch 408 zeichnete sich durch ein modernes Design der 1960er Jahre aus und war ein beliebter Export der UdSSR.",
+              "uk": "Москвич 408 мав сучасний стиль 1960-х і був популярним експортом СРСР.",
+              "ru": "Москвич 408 отличался современным стилем 1960-х годов и был популярным экспортным товаром СССР.",
+              "zh": "Moskvich 408 采用 20 世纪 60 年代的现代风格，是苏联流行的出口产品。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "AZLK"
+              },
+              "okres produkcji": "1964–1975",
+              "silnik": {
+                "pl": "1.4L"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 174,
+        "ModelID": 1924,
+        "Brand Name": "Москвич",
+        "Model Name": 408,
+        "Serie Name": 408,
+        "Years": "0000 - 0000",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Moskwicz 408 wyróżniał się nowoczesną stylistyką lat 60. i był popularnym towarem eksportowym ZSRR.",
+              "en": "Moskvitch 408 was distinguished by its modern style of the 1960s and was a popular export of the USSR.",
+              "de": "Moskvitch 408 zeichnete sich durch seinen modernen Stil der 1960er Jahre aus und war ein beliebter Export der UdSSR.",
+              "uk": "Москвич 408 вирізнявся сучасним стилем 1960-х років і був популярним експортом СРСР.",
+              "ru": "Москвич 408 отличался современным стилем 1960-х годов и был популярным экспортным товаром СССР.",
+              "zh": "Moskvitch 408 以其 20 世纪 60 年代的现代风格而著称，是苏联的热门出口产品。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "AZLK"
+              },
+              "okres produkcji": "1964–1975",
+              "silnik": {
+                "pl": "1.4L"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "412": [
+      {
+        "BrandID": 174,
+        "ModelID": "",
+        "Brand Name": "Москвич",
+        "Model Name": 412,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Moskwicz 412 to legenda rajdów, wyposażony w nowoczesny silnik 1.5L inspirowany BMW. Wytrzymały i prosty w naprawie.",
+              "en": "Moskvich 412 is a rally legend, equipped with a modern 1.5L engine inspired by BMW. Durable and easy to repair.",
+              "de": "Moskvich 412 ist eine Rallye-Legende, ausgestattet mit einem modernen 1,5-Liter-Motor, der von BMW inspiriert wurde. Langlebig und leicht zu reparieren.",
+              "uk": "Москвич 412 — це легенда ралі, оснащений сучасним 1,5-літровим двигуном, натхненним BMW. Довговічний і простий у ремонті.",
+              "ru": "Москвич 412 — легенда ралли, оснащенный современным двигателем объемом 1,5 л, вдохновленным BMW. Прочный и простой в ремонте.",
+              "zh": "Moskvich 412 是拉力赛的传奇，配备受 BMW 启发的现代 1.5L 发动机。耐用且易于维修。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "AZLK / IŻ",
+                "en": "AZLK / IŻ",
+                "de": "AZLK / IŻ",
+                "uk": "AZLK / IŻ",
+                "ru": "АЗЛК / ИЖ",
+                "zh": "AZLK / IŻ"
+              },
+              "okres produkcji": {
+                "pl": "1967–2001 (IŻ)",
+                "en": "1967–2001 (IŻ)",
+                "de": "1967–2001 (IŻ)",
+                "uk": "1967–2001 (IŻ)",
+                "ru": "1967–2001 (ИЖ)",
+                "zh": "1967–2001 (IŻ)"
+              },
+              "silnik": {
+                "pl": "1.5L UZAM",
+                "en": "1.5L UZAM",
+                "de": "1,5L UZAM",
+                "uk": "1.5L UZAM",
+                "ru": "1,5 л Б/У",
+                "zh": "1.5L UZAM"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 174,
+        "ModelID": 1927,
+        "Brand Name": "Москвич",
+        "Model Name": 412,
+        "Serie Name": 412,
+        "Years": "0000 - 0000",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Moskwicz 412 to legenda rajdów, wyposażony w nowoczesny silnik 1.5L inspirowany BMW. Wytrzymały i prosty w naprawie.",
+              "en": "Moskvich 412 is a rally legend, equipped with a modern 1.5L engine inspired by BMW. Durable and easy to repair.",
+              "de": "Moskvich 412 ist eine Rallye-Legende, ausgestattet mit einem modernen 1,5L-Motor, der von BMW inspiriert wurde. Langlebig und leicht zu reparieren.",
+              "uk": "Москвич 412 — це легенда ралі, оснащений сучасним 1.5-літровим двигуном, натхненним BMW. Довговічний і простий у ремонті.",
+              "ru": "Москвич 412 — легенда ралли, оснащенный современным двигателем объемом 1,5 л, вдохновленным BMW. Прочный и простой в ремонте.",
+              "zh": "Moskvich 412 是拉力赛的传奇人物，配备受 BMW 启发的现代 1.5L 发动机。耐用且易于维修。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "AZLK / IŻ",
+                "en": "AZLK / IŻ",
+                "de": "AZLK / IŻ",
+                "uk": "AZLK / IŻ",
+                "ru": "АЗЛК / ИЖ",
+                "zh": "AZLK / IŻ"
+              },
+              "okres produkcji": {
+                "pl": "1967–2001 (IŻ)",
+                "en": "1967–2001 (IŻ)",
+                "de": "1967–2001 (IŻ)",
+                "uk": "1967–2001 (IŻ)",
+                "ru": "1967–2001 (ИЖ)",
+                "zh": "1967–2001 (IŻ)"
+              },
+              "silnik": {
+                "pl": "1.5L UZAM",
+                "en": "1.5L UZAM",
+                "de": "1.5L UZAM",
+                "uk": "1.5L UZAM",
+                "ru": "1,5 л Б/У",
+                "zh": "1.5L UZAM"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "2138": [
+      {
+        "BrandID": 174,
+        "ModelID": "",
+        "Brand Name": "Москвич",
+        "Model Name": 2138,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger"
+        }
+      },
+      {
+        "BrandID": 174,
+        "ModelID": 1909,
+        "Brand Name": "Москвич",
+        "Model Name": 2138,
+        "Serie Name": 2138,
+        "Years": "0000 - 0000",
+        "specs": {
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "2140": [
+      {
+        "BrandID": 174,
+        "ModelID": "",
+        "Brand Name": "Москвич",
+        "Model Name": 2140,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Moskwicz 2140 to głęboka modernizacja modelu 412, dostosowana do standardów lat 70. Ostatni tylnonapędowy sedan AZLK.",
+              "en": "Moskwicz 2140 is a deep modernization of the 412 model, adapted to the standards of the 1970s. The last rear-wheel drive AZLK sedan.",
+              "de": "Moskwicz 2140 ist eine tiefgreifende Modernisierung des 412-Modells, angepasst an die Standards der 1970er Jahre. Die letzte AZLK-Limousine mit Hinterradantrieb.",
+              "uk": "Moskwicz 2140 — це глибока модернізація моделі 412, адаптована до стандартів 1970-х років. Останній задньопривідний седан АЗЛК.",
+              "ru": "Москвич 2140 – это глубокая модернизация модели 412, адаптированная под стандарты 1970-х годов. Последний заднеприводный седан АЗЛК.",
+              "zh": "Moskwicz 2140 是 412 型号的深度现代化版本，适应 20 世纪 70 年代的标准。最后一款后轮驱动 AZLK 轿车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "AZLK"
+              },
+              "okres produkcji": "1976–1988",
+              "silnik": {
+                "pl": "1.5L"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 174,
+        "ModelID": 1910,
+        "Brand Name": "Москвич",
+        "Model Name": 2140,
+        "Serie Name": 2140,
+        "Years": "0000 - 0000",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Moskwicz 2140 to głęboka modernizacja modelu 412, dostosowana do standardów lat 70. Ostatni tylnonapędowy sedan AZLK.",
+              "en": "Moskvich 2140 is a deep modernization of the 412 model, adapted to the standards of the 1970s. The last rear-wheel drive AZLK sedan.",
+              "de": "Moskwitsch 2140 ist eine tiefgreifende Modernisierung des Modells 412, angepasst an die Standards der 1970er Jahre. Die letzte AZLK-Limousine mit Hinterradantrieb.",
+              "uk": "Москвич 2140 - це глибока модернізація моделі 412, адаптована до стандартів 1970-х років. Останній задньопривідний седан АЗЛК.",
+              "ru": "Москвич 2140 – это глубокая модернизация модели 412, адаптированная под стандарты 1970-х годов. Последний заднеприводный седан АЗЛК.",
+              "zh": "Moskvich 2140 是 412 型号的深度现代化版本，适应 20 世纪 70 年代的标准。最后一款后轮驱动 AZLK 轿车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "AZLK"
+              },
+              "okres produkcji": "1976–1988",
+              "silnik": {
+                "pl": "1.5L"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "2141": [
+      {
+        "BrandID": 174,
+        "ModelID": "",
+        "Brand Name": "Москвич",
+        "Model Name": 2141,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Moskwicz 2141 Aleko to nowoczesny hatchback z napędem na przód, inspirowany Simcą 1307. Pierwszy przednionapędowy model marki.",
+              "en": "Moskvich 2141 Aleko is a modern front-drive hatchback, inspired by the Simca 1307. The brand's first front-wheel drive model.",
+              "de": "Moskvich 2141 Aleko ist ein modernes Fließheckmodell mit Frontantrieb, inspiriert vom Simca 1307. Das erste Modell der Marke mit Frontantrieb.",
+              "uk": "Москвич 2141 Алеко — сучасний передньопривідний хетчбек, натхненний Simca 1307. Перша передньопривідна модель марки.",
+              "ru": "Москвич 2141 Алеко — современный переднеприводный хэтчбек, вдохновленный Simca 1307. Первая переднеприводная модель бренда.",
+              "zh": "Moskvich 2141 Aleko 是一款现代前驱掀背车，灵感源自 Simca 1307。该品牌的首款前轮驱动车型。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "AZLK"
+              },
+              "okres produkcji": "1986–2003",
+              "silnik": {
+                "pl": "1.5L / 1.6L / 1.7L",
+                "en": "1.5L / 1.6L / 1.7L",
+                "de": "1,5L / 1,6L / 1,7L",
+                "uk": "1.5L / 1.6L / 1.7L",
+                "ru": "1,5 л/1,6 л/1,7 л",
+                "zh": "1.5L / 1.6L / 1.7L"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 174,
+        "ModelID": 1912,
+        "Brand Name": "Москвич",
+        "Model Name": 2141,
+        "Serie Name": 2141,
+        "Years": "0000 - 0000",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Moskwicz 2141 Aleko to nowoczesny hatchback z napędem na przód, inspirowany Simcą 1307. Pierwszy przednionapędowy model marki.",
+              "en": "Moskwicz 2141 Aleko is a modern hatchback with front drive, inspired by the Simca 1307. The first front-wheel drive model of the brand.",
+              "de": "Moskwicz 2141 Aleko ist ein modernes Fließheckmodell mit Frontantrieb, inspiriert vom Simca 1307. Das erste Modell der Marke mit Frontantrieb.",
+              "uk": "Moskwicz 2141 Aleko — це сучасний хетчбек із переднім приводом, натхненний Simca 1307. Перша передньопривідна модель марки.",
+              "ru": "Москвич 2141 Алеко — современный переднеприводный хэтчбек, вдохновленный Simca 1307. Первая переднеприводная модель бренда.",
+              "zh": "Moskwicz 2141 Aleko 是一款前驱现代掀背车，灵感源自 Simca 1307。该品牌的首款前轮驱动车型。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "AZLK"
+              },
+              "okres produkcji": "1986–2003",
+              "silnik": {
+                "pl": "1.5L / 1.6L / 1.7L",
+                "en": "1.5L / 1.6L / 1.7L",
+                "de": "1,5L / 1,6L / 1,7L",
+                "uk": "1,5 л / 1,6 л / 1,7 л",
+                "ru": "1,5 л/1,6 л/1,7 л",
+                "zh": "1.5L / 1.6L / 1.7L"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "": [
+      {
+        "BrandID": 174,
+        "ModelID": "",
+        "Brand Name": "Москвич",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "brand": "Oldsmobile",
+  "models": {
+    "442": [
+      {
+        "BrandID": 99,
+        "ModelID": 414275,
+        "Brand Name": "Oldsmobile",
+        "Model Name": "442",
+        "Serie Name": "442",
+        "Years": "1964 - 1987",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Muscle Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "V8",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Oldsmobile to jedna z najstarszych marek samochodowych na świecie, zlikwidowana przez GM w 2004 roku. Pionier wielu innowacji, m.in. automatycznej skrzyni biegów.",
+              "en": "Oldsmobile is one of the oldest car brands in the world, liquidated by GM in 2004. Pioneer of many innovations, including: automatic transmission.",
+              "de": "Oldsmobile ist eine der ältesten Automarken der Welt, 2004 von GM liquidiert. Pionier vieler Innovationen, darunter: Automatikgetriebe.",
+              "uk": "Oldsmobile — один із найстаріших автомобільних брендів у світі, ліквідований GM у 2004 році. Піонер багатьох інновацій, зокрема: автоматична коробка передач.",
+              "ru": "Oldsmobile — один из старейших автомобильных брендов в мире, ликвидированный GM в 2004 году. Пионер многих инноваций, в том числе автоматической коробки передач.",
+              "zh": "奥兹莫比尔是世界上最古老的汽车品牌之一，于 2004 年被通用汽车清算。它是许多创新的先驱，包括：自动变速箱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "General Motors",
+                "en": "General Motors",
+                "de": "General Motors",
+                "uk": "General Motors",
+                "ru": "General Motors",
+                "zh": "通用汽车"
+              },
+              "siedziba": {
+                "pl": "Lansing, USA",
+                "en": "Lansing, USA",
+                "de": "Lansing, USA",
+                "uk": "Лансінг, США",
+                "ru": "Лансинг, США",
+                "zh": "美国兰辛"
+              },
+              "założona": "1897",
+              "zlikwidowana": "2004"
+            }
+          }
+        }
+      }
+    ],
+    "Cutlass": [
+      {
+        "BrandID": 99,
+        "ModelID": 1167,
+        "Brand Name": "Oldsmobile",
+        "Model Name": "Cutlass",
+        "Serie Name": "Cutlass Supreme",
+        "Years": "1966 - 1997",
+        "specs": {
+          "bodyType": "Coupe/Sedan",
+          "segment": "Mid-size",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "V6 - V8",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Oldsmobile Cutlass to przez lata najlepiej sprzedający się samochód w USA. Synonim amerykańskiego auta klasy średniej.",
+              "en": "Oldsmobile Cutlass has been the best-selling car in the USA for years. A synonym for an American middle-class car.",
+              "de": "Oldsmobile Cutlass ist seit Jahren das meistverkaufte Auto in den USA. Ein Synonym für ein amerikanisches Mittelklasseauto.",
+              "uk": "Oldsmobile Cutlass був найбільш продаваним автомобілем у США протягом багатьох років. Синонім американського автомобіля середнього класу.",
+              "ru": "Oldsmobile Cutlass уже много лет является самым продаваемым автомобилем в США. Синоним американского автомобиля среднего класса.",
+              "zh": "奥兹莫比尔 Cutlass 多年来一直是美国最畅销的汽车。美国中产阶级汽车的代名词。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Oldsmobile"
+              },
+              "okres produkcji": "1961–1999",
+              "segment": {
+                "pl": "Mid-size Car",
+                "en": "Mid-size Car",
+                "de": "Mittelklassewagen",
+                "uk": "Автомобіль середнього розміру",
+                "ru": "Среднеразмерный автомобиль",
+                "zh": "中型汽车"
+              },
+              "napęd": {
+                "pl": "RWD/FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8k/19/rlyp998g0o4cwooo8ws44/cutlass-1997.310.jpg"
+        }
+      }
+    ],
+    "Toronado": [
+      {
+        "BrandID": 99,
+        "ModelID": 414276,
+        "Brand Name": "Oldsmobile",
+        "Model Name": "Toronado",
+        "Serie Name": "Toronado",
+        "Years": "1966 - 1992",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Personal Luxury Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "V6 - V8",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Oldsmobile to jedna z najstarszych marek samochodowych na świecie, zlikwidowana przez GM w 2004 roku. Pionier wielu innowacji, m.in. automatycznej skrzyni biegów.",
+              "en": "Oldsmobile is one of the oldest car brands in the world, liquidated by GM in 2004. Pioneer of many innovations, including: automatic transmission.",
+              "de": "Oldsmobile ist eine der ältesten Automarken der Welt, 2004 von GM liquidiert. Pionier vieler Innovationen, darunter: Automatikgetriebe.",
+              "uk": "Oldsmobile — один із найстаріших автомобільних брендів у світі, ліквідований GM у 2004 році. Піонер багатьох інновацій, зокрема: автоматична коробка передач.",
+              "ru": "Oldsmobile — одна из старейших автомобильных марок в мире, ликвидированная GM в 2004 году. Пионер многих инноваций, в том числе автоматической коробки передач.",
+              "zh": "奥兹莫比尔是世界上最古老的汽车品牌之一，于 2004 年被通用汽车清算。许多创新的先驱，包括：自动变速箱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "General Motors",
+                "en": "General Motors",
+                "de": "General Motors",
+                "uk": "General Motors",
+                "ru": "General Motors",
+                "zh": "通用汽车"
+              },
+              "siedziba": {
+                "pl": "Lansing, USA",
+                "en": "Lansing, USA",
+                "de": "Lansing, USA",
+                "uk": "Лансінг, США",
+                "ru": "Лансинг, США",
+                "zh": "美国兰辛"
+              },
+              "założona": "1897",
+              "zlikwidowana": "2004"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4w/db/4t0s4l8gsck4k4osokg0c/toronto-1986-coupe.310.jpg"
+        }
+      }
+    ],
+    "Aurora": [
+      {
+        "BrandID": 99,
+        "ModelID": 414277,
+        "Brand Name": "Oldsmobile",
+        "Model Name": "Aurora",
+        "Serie Name": "Aurora",
+        "Years": "1995 - 2003",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size Luxury",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6 - 4.0L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Oldsmobile to jedna z najstarszych marek samochodowych na świecie, zlikwidowana przez GM w 2004 roku. Pionier wielu innowacji, m.in. automatycznej skrzyni biegów.",
+              "en": "Oldsmobile is one of the oldest car brands in the world, liquidated by GM in 2004. Pioneer of many innovations, including: automatic transmission.",
+              "de": "Oldsmobile ist eine der ältesten Automarken der Welt, 2004 von GM liquidiert. Pionier vieler Innovationen, darunter: Automatikgetriebe.",
+              "uk": "Oldsmobile — один із найстаріших автомобільних брендів у світі, ліквідований GM у 2004 році. Піонер багатьох інновацій, зокрема: автоматична коробка передач.",
+              "ru": "Oldsmobile — одна из старейших автомобильных марок в мире, ликвидированная GM в 2004 году. Пионер многих инноваций, в том числе автоматической коробки передач.",
+              "zh": "奥兹莫比尔是世界上最古老的汽车品牌之一，于 2004 年被通用汽车清算。许多创新的先驱，包括：自动变速箱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "General Motors",
+                "en": "General Motors",
+                "de": "General Motors",
+                "uk": "General Motors",
+                "ru": "General Motors",
+                "zh": "通用汽车"
+              },
+              "siedziba": {
+                "pl": "Lansing, USA",
+                "en": "Lansing, USA",
+                "de": "Lansing, USA",
+                "uk": "Лансінг, США",
+                "ru": "Лансинг, США",
+                "zh": "美国兰辛"
+              },
+              "założona": "1897",
+              "zlikwidowana": "2004"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1w/0l/njf9ivj4gkw0kscwwg0kg/oldsmonile-auora-ii.310.jpg"
+        }
+      }
+    ],
+    "Alero": [
+      {
+        "BrandID": 99,
+        "ModelID": 414278,
+        "Brand Name": "Oldsmobile",
+        "Model Name": "Alero",
+        "Serie Name": "Alero",
+        "Years": "1999 - 2004",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L - 3.4L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Oldsmobile to jedna z najstarszych marek samochodowych na świecie, zlikwidowana przez GM w 2004 roku. Pionier wielu innowacji, m.in. automatycznej skrzyni biegów.",
+              "en": "Oldsmobile is one of the oldest car brands in the world, liquidated by GM in 2004. Pioneer of many innovations, including: automatic transmission.",
+              "de": "Oldsmobile ist eine der ältesten Automarken der Welt, 2004 von GM liquidiert. Pionier vieler Innovationen, darunter: Automatikgetriebe.",
+              "uk": "Oldsmobile — один із найстаріших автомобільних брендів у світі, ліквідований GM у 2004 році. Піонер багатьох інновацій, зокрема: автоматична коробка передач.",
+              "ru": "Oldsmobile — одна из старейших автомобильных марок в мире, ликвидированная GM в 2004 году. Пионер многих инноваций, в том числе автоматической коробки передач.",
+              "zh": "奥兹莫比尔是世界上最古老的汽车品牌之一，于 2004 年被通用汽车清算。许多创新的先驱，包括：自动变速箱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "General Motors",
+                "en": "General Motors",
+                "de": "General Motors",
+                "uk": "General Motors",
+                "ru": "General Motors",
+                "zh": "通用汽车"
+              },
+              "siedziba": {
+                "pl": "Lansing, USA",
+                "en": "Lansing, USA",
+                "de": "Lansing, USA",
+                "uk": "Лансінг, США",
+                "ru": "Лансинг, США",
+                "zh": "美国兰辛"
+              },
+              "założona": "1897",
+              "zlikwidowana": "2004"
+            }
+          }
+        }
+      }
+    ],
+    "Bravada": [
+      {
+        "BrandID": 99,
+        "ModelID": 414279,
+        "Brand Name": "Oldsmobile",
+        "Model Name": "Bravada",
+        "Serie Name": "Bravada",
+        "Years": "1991 - 2004",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline",
+          "engine": "4.3L V6 - 4.2L I6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Oldsmobile to jedna z najstarszych marek samochodowych na świecie, zlikwidowana przez GM w 2004 roku. Pionier wielu innowacji, m.in. automatycznej skrzyni biegów.",
+              "en": "Oldsmobile is one of the oldest car brands in the world, liquidated by GM in 2004. Pioneer of many innovations, including: automatic transmission.",
+              "de": "Oldsmobile ist eine der ältesten Automarken der Welt, 2004 von GM liquidiert. Pionier vieler Innovationen, darunter: Automatikgetriebe.",
+              "uk": "Oldsmobile — один із найстаріших автомобільних брендів у світі, ліквідований GM у 2004 році. Піонер багатьох інновацій, зокрема: автоматична коробка передач.",
+              "ru": "Oldsmobile — одна из старейших автомобильных марок в мире, ликвидированная GM в 2004 году. Пионер многих инноваций, в том числе автоматической коробки передач.",
+              "zh": "奥兹莫比尔是世界上最古老的汽车品牌之一，于 2004 年被通用汽车清算。许多创新的先驱，包括：自动变速箱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "General Motors",
+                "en": "General Motors",
+                "de": "General Motors",
+                "uk": "General Motors",
+                "ru": "General Motors",
+                "zh": "通用汽车"
+              },
+              "siedziba": {
+                "pl": "Lansing, USA",
+                "en": "Lansing, USA",
+                "de": "Lansing, USA",
+                "uk": "Лансінг, США",
+                "ru": "Лансинг, США",
+                "zh": "美国兰辛"
+              },
+              "założona": "1897",
+              "zlikwidowana": "2004"
+            }
+          }
+        }
+      }
+    ],
+    "Silhouette": [
+      {
+        "BrandID": 99,
+        "ModelID": 414280,
+        "Brand Name": "Oldsmobile",
+        "Model Name": "Silhouette",
+        "Serie Name": "Silhouette",
+        "Years": "1990 - 2004",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Minivan",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.4L V6",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Oldsmobile to jedna z najstarszych marek samochodowych na świecie, zlikwidowana przez GM w 2004 roku. Pionier wielu innowacji, m.in. automatycznej skrzyni biegów.",
+              "en": "Oldsmobile is one of the oldest car brands in the world, liquidated by GM in 2004. Pioneer of many innovations, including: automatic transmission.",
+              "de": "Oldsmobile ist eine der ältesten Automarken der Welt, 2004 von GM liquidiert. Pionier vieler Innovationen, darunter: Automatikgetriebe.",
+              "uk": "Oldsmobile — один із найстаріших автомобільних брендів у світі, ліквідований GM у 2004 році. Піонер багатьох інновацій, зокрема: автоматична коробка передач.",
+              "ru": "Oldsmobile — одна из старейших автомобильных марок в мире, ликвидированная GM в 2004 году. Пионер многих инноваций, в том числе автоматической коробки передач.",
+              "zh": "奥兹莫比尔是世界上最古老的汽车品牌之一，于 2004 年被通用汽车清算。许多创新的先驱，包括：自动变速箱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "General Motors",
+                "en": "General Motors",
+                "de": "General Motors",
+                "uk": "General Motors",
+                "ru": "General Motors",
+                "zh": "通用汽车"
+              },
+              "siedziba": {
+                "pl": "Lansing, USA",
+                "en": "Lansing, USA",
+                "de": "Lansing, USA",
+                "uk": "Лансінг, США",
+                "ru": "Лансинг, США",
+                "zh": "美国兰辛"
+              },
+              "założona": "1897",
+              "zlikwidowana": "2004"
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      }
+    ]
+  }
+}

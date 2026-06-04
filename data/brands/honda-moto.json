@@ -1,0 +1,991 @@
+{
+  "brand": "Honda moto",
+  "models": {
+    "": [
+      {
+        "BrandID": 200,
+        "ModelID": "",
+        "Brand Name": "Honda moto",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda ist der weltweit größte Motorradhersteller und bietet ein komplettes Sortiment an Zweirädern an, vom Motorroller über Touristenkreuzer bis hin zu Sportmaschinen.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних автомобілів від скутерів до туристичних круїзерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "CB": [
+      {
+        "BrandID": 200,
+        "ModelID": 416055,
+        "Brand Name": "Honda moto",
+        "Model Name": "CB",
+        "Serie Name": "CB",
+        "Years": "1985 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda ist der weltweit größte Motorradhersteller und bietet ein komplettes Sortiment an Zweirädern an, vom Motorroller über Touristenkreuzer bis hin zu Sportmaschinen.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних транспортних засобів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "CBF": [
+      {
+        "BrandID": 200,
+        "ModelID": 415537,
+        "Brand Name": "Honda moto",
+        "Model Name": "CBF",
+        "Serie Name": "CBF",
+        "Years": "2004 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних транспортних засобів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "CBR": [
+      {
+        "BrandID": 200,
+        "ModelID": 415686,
+        "Brand Name": "Honda moto",
+        "Model Name": "CBR",
+        "Serie Name": "CBR",
+        "Years": "2000 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних транспортних засобів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "CBX": [
+      {
+        "BrandID": 200,
+        "ModelID": 416057,
+        "Brand Name": "Honda moto",
+        "Model Name": "CBX",
+        "Serie Name": "CBX",
+        "Years": "1972 - 1982",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda ist der weltweit größte Motorradhersteller und bietet ein komplettes Sortiment an Zweirädern an, vom Motorroller über Touristenkreuzer bis hin zu Sportmaschinen.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних транспортних засобів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "CR": [
+      {
+        "BrandID": 200,
+        "ModelID": 416061,
+        "Brand Name": "Honda moto",
+        "Model Name": "CR",
+        "Serie Name": "CR",
+        "Years": "1990 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних транспортних засобів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "CRF": [
+      {
+        "BrandID": 200,
+        "ModelID": 415688,
+        "Brand Name": "Honda moto",
+        "Model Name": "CRF",
+        "Serie Name": "CRF",
+        "Years": "2000 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda ist der weltweit größte Motorradhersteller und bietet ein komplettes Sortiment an Zweirädern an, vom Motorroller über Touristenkreuzer bis hin zu Sportmaschinen.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних транспортних засобів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "CTX": [
+      {
+        "BrandID": 200,
+        "ModelID": 415690,
+        "Brand Name": "Honda moto",
+        "Model Name": "CTX",
+        "Serie Name": "CTX",
+        "Years": "2000 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних транспортних засобів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "CX": [
+      {
+        "BrandID": 200,
+        "ModelID": 416223,
+        "Brand Name": "Honda moto",
+        "Model Name": "CX",
+        "Serie Name": "CX",
+        "Years": "1970 - 1995",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних автомобілів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "Deauville": [
+      {
+        "BrandID": 200,
+        "ModelID": 415692,
+        "Brand Name": "Honda moto",
+        "Model Name": "Deauville",
+        "Serie Name": "Deauville",
+        "Years": "1998 - 2005",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних транспортних засобів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "Dominator": [
+      {
+        "BrandID": 200,
+        "ModelID": 416063,
+        "Brand Name": "Honda moto",
+        "Model Name": "Dominator",
+        "Serie Name": "Dominator",
+        "Years": "1988 - 2003",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних автомобілів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "Eterno": [
+      {
+        "BrandID": 200,
+        "ModelID": 416140,
+        "Brand Name": "Honda moto",
+        "Model Name": "Eterno",
+        "Serie Name": "Eterno",
+        "Years": "2000 - 2021",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних транспортних засобів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "Fury": [
+      {
+        "BrandID": 200,
+        "ModelID": 416065,
+        "Brand Name": "Honda moto",
+        "Model Name": "Fury",
+        "Serie Name": "Fury",
+        "Years": "2009 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних транспортних засобів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "GL": [
+      {
+        "BrandID": 200,
+        "ModelID": 416217,
+        "Brand Name": "Honda moto",
+        "Model Name": "GL",
+        "Serie Name": "GL",
+        "Years": "1970 - 2000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda ist der weltweit größte Motorradhersteller und bietet ein komplettes Sortiment an Zweirädern an, vom Motorroller über Touristenkreuzer bis hin zu Sportmaschinen.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних автомобілів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "Gold Wing": [
+      {
+        "BrandID": 200,
+        "ModelID": 416067,
+        "Brand Name": "Honda moto",
+        "Model Name": "Gold Wing",
+        "Serie Name": "Gold Wing",
+        "Years": "1972 - 2021",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних автомобілів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "Magna": [
+      {
+        "BrandID": 200,
+        "ModelID": 416069,
+        "Brand Name": "Honda moto",
+        "Model Name": "Magna",
+        "Serie Name": "Magna",
+        "Years": "1972 - 2003",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних автомобілів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "MSX": [
+      {
+        "BrandID": 200,
+        "ModelID": 416053,
+        "Brand Name": "Honda moto",
+        "Model Name": "MSX",
+        "Serie Name": "MSX",
+        "Years": "2005 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних транспортних засобів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "NC": [
+      {
+        "BrandID": 200,
+        "ModelID": 416071,
+        "Brand Name": "Honda moto",
+        "Model Name": "NC",
+        "Serie Name": "NC",
+        "Years": "2012 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda ist der weltweit größte Motorradhersteller und bietet ein komplettes Sortiment an Zweirädern an, vom Motorroller über Touristenkreuzer bis hin zu Sportmaschinen.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних автомобілів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "NSR": [
+      {
+        "BrandID": 200,
+        "ModelID": 416073,
+        "Brand Name": "Honda moto",
+        "Model Name": "NSR",
+        "Serie Name": "NSR",
+        "Years": "1996 - 2001",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних транспортних засобів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "NSS": [
+      {
+        "BrandID": 200,
+        "ModelID": 416233,
+        "Brand Name": "Honda moto",
+        "Model Name": "NSS",
+        "Serie Name": "NSS",
+        "Years": "2010 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda ist der weltweit größte Motorradhersteller und bietet ein komplettes Sortiment an Zweirädern an, vom Motorroller über Touristenkreuzer bis hin zu Sportmaschinen.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних автомобілів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "NT": [
+      {
+        "BrandID": 200,
+        "ModelID": 416075,
+        "Brand Name": "Honda moto",
+        "Model Name": "NT",
+        "Serie Name": "NT",
+        "Years": "1992 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda ist der weltweit größte Motorradhersteller und bietet ein komplettes Sortiment an Zweirädern an, vom Motorroller über Touristenkreuzer bis hin zu Sportmaschinen.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних автомобілів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "NTV": [
+      {
+        "BrandID": 200,
+        "ModelID": 416077,
+        "Brand Name": "Honda moto",
+        "Model Name": "NTV",
+        "Serie Name": "NTV",
+        "Years": "1988 - 1992",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda ist der weltweit größte Motorradhersteller und bietet ein komplettes Sortiment an Zweirädern an, vom Motorroller über Touristenkreuzer bis hin zu Sportmaschinen.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних автомобілів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "SH": [
+      {
+        "BrandID": 200,
+        "ModelID": 416239,
+        "Brand Name": "Honda moto",
+        "Model Name": "SH",
+        "Serie Name": "SH",
+        "Years": "2000 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda ist der weltweit größte Motorradhersteller und bietet ein komplettes Sortiment an Zweirädern an, vom Motorroller über Touristenkreuzer bis hin zu Sportmaschinen.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних автомобілів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "Shadow": [
+      {
+        "BrandID": 200,
+        "ModelID": 416079,
+        "Brand Name": "Honda moto",
+        "Model Name": "Shadow",
+        "Serie Name": "Shadow",
+        "Years": "1982 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda ist der weltweit größte Motorradhersteller und bietet ein komplettes Sortiment an Zweirädern an, vom Motorroller über Touristenkreuzer bis hin zu Sportmaschinen.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних автомобілів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "SilverWing": [
+      {
+        "BrandID": 200,
+        "ModelID": 416081,
+        "Brand Name": "Honda moto",
+        "Model Name": "SilverWing",
+        "Serie Name": "Silver Wing",
+        "Years": "2001 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda ist der weltweit größte Motorradhersteller und bietet ein komplettes Sortiment an Zweirädern an, vom Motorroller über Touristenkreuzer bis hin zu Sportmaschinen.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних автомобілів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "Silver Wing": [
+      {
+        "BrandID": 200,
+        "ModelID": 416081,
+        "Brand Name": "Honda moto",
+        "Model Name": "SilverWing",
+        "Serie Name": "Silver Wing",
+        "Years": "2001 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda ist der weltweit größte Motorradhersteller und bietet ein komplettes Sortiment an Zweirädern an, vom Motorroller über Touristenkreuzer bis hin zu Sportmaschinen.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних автомобілів від скутерів до туристичних круїзерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "ST": [
+      {
+        "BrandID": 200,
+        "ModelID": 416084,
+        "Brand Name": "Honda moto",
+        "Model Name": "ST",
+        "Serie Name": "ST",
+        "Years": "1990 - 2001",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda ist der weltweit größte Motorradhersteller und bietet ein komplettes Sortiment an Zweirädern an, vom Motorroller über Touristenkreuzer bis hin zu Sportmaschinen.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних автомобілів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "Transalp": [
+      {
+        "BrandID": 200,
+        "ModelID": 416086,
+        "Brand Name": "Honda moto",
+        "Model Name": "Transalp",
+        "Serie Name": "Transalp",
+        "Years": "1987 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda ist der weltweit größte Motorradhersteller und bietet ein komplettes Sortiment an Zweirädern an, vom Motorroller über Touristenkreuzer bis hin zu Sportmaschinen.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних автомобілів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "Valkyrie": [
+      {
+        "BrandID": 200,
+        "ModelID": 416088,
+        "Brand Name": "Honda moto",
+        "Model Name": "Valkyrie",
+        "Serie Name": "Valkyrie",
+        "Years": "1996 - 2003",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda ist der weltweit größte Motorradhersteller und bietet ein komplettes Sortiment an Zweirädern an, vom Motorroller über Touristenkreuzer bis hin zu Sportmaschinen.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних автомобілів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "Varadero": [
+      {
+        "BrandID": 200,
+        "ModelID": 416090,
+        "Brand Name": "Honda moto",
+        "Model Name": "Varadero",
+        "Serie Name": "Varadero",
+        "Years": "2001 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda ist der weltweit größte Motorradhersteller und bietet ein komplettes Sortiment an Zweirädern an, vom Motorroller über Touristenkreuzer bis hin zu Sportmaschinen.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних автомобілів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "VF": [
+      {
+        "BrandID": 200,
+        "ModelID": 416092,
+        "Brand Name": "Honda moto",
+        "Model Name": "VF",
+        "Serie Name": "VF",
+        "Years": "1984 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda ist der weltweit größte Motorradhersteller und bietet ein komplettes Sortiment an Zweirädern an, vom Motorroller über Touristenkreuzer bis hin zu Sportmaschinen.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних автомобілів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "VT": [
+      {
+        "BrandID": 200,
+        "ModelID": 416094,
+        "Brand Name": "Honda moto",
+        "Model Name": "VT",
+        "Serie Name": "VT",
+        "Years": "1987 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda ist der weltweit größte Motorradhersteller und bietet ein komplettes Sortiment an Zweirädern an, vom Motorroller über Touristenkreuzer bis hin zu Sportmaschinen.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних автомобілів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "XL": [
+      {
+        "BrandID": 200,
+        "ModelID": 416096,
+        "Brand Name": "Honda moto",
+        "Model Name": "XL",
+        "Serie Name": "XL",
+        "Years": "1979 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda ist der weltweit größte Motorradhersteller und bietet ein komplettes Sortiment an Zweirädern an, vom Motorroller über Touristenkreuzer bis hin zu Sportmaschinen.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних автомобілів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ],
+    "XR": [
+      {
+        "BrandID": 200,
+        "ModelID": 416098,
+        "Brand Name": "Honda moto",
+        "Model Name": "XR",
+        "Serie Name": "XR",
+        "Years": "1985 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Honda to największy na świecie producent motocykli, oferujący pełną gamę jednośladów od skuterów po turystyczne krążowniki i sportowe maszyny.",
+              "en": "Honda is the world's largest motorcycle manufacturer, offering a full range of two-wheelers from scooters to tourist cruisers and sports machines.",
+              "de": "Honda ist der weltweit größte Motorradhersteller und bietet ein komplettes Sortiment an Zweirädern an, vom Motorroller über Touristenkreuzer bis hin zu Sportmaschinen.",
+              "uk": "Honda є найбільшим у світі виробником мотоциклів, що пропонує повний асортимент двоколісних автомобілів від скутерів до туристичних крейсерів і спортивних машин.",
+              "ru": "Honda — крупнейший в мире производитель мотоциклов, предлагающий полный спектр двухколесных транспортных средств: от скутеров до туристических круизеров и спортивных машин.",
+              "zh": "本田是世界上最大的摩托车制造商，提供从踏板车到旅游巡洋舰和运动机器的全系列两轮车。"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,774 @@
+{
+  "brand": "Buick",
+  "models": {
+    "": [
+      {
+        "BrandID": 22,
+        "ModelID": "",
+        "Brand Name": "Buick",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/1916_Buick_D4_truck%2C_Utica_Club_Beer%2C_front_right.jpg/1280px-1916_Buick_D4_truck%2C_Utica_Club_Beer%2C_front_right.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/1916_Buick_D4_truck%2C_Utica_Club_Beer%2C_front_right.jpg/1280px-1916_Buick_D4_truck%2C_Utica_Club_Beer%2C_front_right.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/d/d5/1962_Buick_Electra_225.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/4/4a/1971_Buick_Sport_Wagon.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/1995-1999_Buick_Riviera.jpg/1280px-1995-1999_Buick_Riviera.jpg"
+            ]
+          }
+        }
+      }
+    ],
+    "Century": [
+      {
+        "BrandID": 22,
+        "ModelID": 414030,
+        "Brand Name": "Buick",
+        "Model Name": "Century",
+        "Serie Name": "Century",
+        "Years": "1996 - 2005",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Buick Century to jeden z najdłużej produkowanych modeli marki. Ostatnia generacja to solidny sedan, ceniony za komfort i niezawodność.",
+              "en": "Buick Century is one of the brand's longest-produced models. The last generation is a solid sedan, appreciated for its comfort and reliability.",
+              "de": "Buick Century ist eines der am längsten produzierten Modelle der Marke. Die letzte Generation ist eine solide Limousine, die für ihren Komfort und ihre Zuverlässigkeit geschätzt wird.",
+              "uk": "Buick Century — одна з моделей бренду, яка випускається найдовше. Останнє покоління - солідний седан, який цінують за комфорт і надійність.",
+              "ru": "Buick Century — одна из старейших моделей бренда. Последнее поколение представляет собой солидный седан, ценящийся за комфорт и надежность.",
+              "zh": "别克世纪是该品牌生产时间最长的车型之一。最后一代是一款坚固的轿车，因其舒适性和可靠性而受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Buick",
+                "en": "Buick",
+                "de": "Buick",
+                "uk": "Buick",
+                "ru": "Buick"
+              },
+              "okres produkcji": {
+                "pl": "1996–2005",
+                "en": "1996–2005",
+                "de": "1996–2005",
+                "uk": "1996–2005",
+                "ru": "1996–2005"
+              },
+              "miejsce produkcji": {
+                "pl": "Oshawa, Kanada",
+                "en": "Oshawa, Canada",
+                "de": "Oshawa, Kanada",
+                "uk": "Ошава, Канада",
+                "ru": "Ошава, Канада",
+                "zh": "加拿大奥沙瓦"
+              },
+              "platforma": {
+                "pl": "W-body",
+                "en": "W-body",
+                "de": "W-body",
+                "uk": "W-body",
+                "ru": "W-body"
+              },
+              "silnik": {
+                "pl": "3.1L V6",
+                "en": "3.1L V6",
+                "de": "3,1 l V6",
+                "uk": "3,1 л V6",
+                "ru": "3,1 л V6",
+                "zh": "3.1L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8w/o9/uyxzj08wgskgoskow0ko8/buick-century-vi.310.jpg"
+        }
+      }
+    ],
+    "Enclave": [
+      {
+        "BrandID": 22,
+        "ModelID": 180,
+        "Brand Name": "Buick",
+        "Model Name": "Enclave",
+        "Serie Name": "Enclave",
+        "Years": "2007 - 2013",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Buick Enclave to luksusowy SUV dla 7 osób. Wyróżnia się cichym wnętrzem (QuietTuning) i płynną jazdą.",
+              "en": "Buick Enclave is a luxury SUV for 7 people. It is distinguished by a quiet interior (QuietTuning) and a smooth ride.",
+              "de": "Buick Enclave ist ein Luxus-SUV für 7 Personen. Es zeichnet sich durch einen ruhigen Innenraum (QuietTuning) und ein angenehmes Fahrgefühl aus.",
+              "uk": "Buick Enclave - розкішний позашляховик на 7 місць. Відрізняється тихим салоном (QuietTuning) і плавним ходом.",
+              "ru": "Buick Enclave — роскошный внедорожник на 7 человек. Его отличает тихий салон (QuietTuning) и плавность хода.",
+              "zh": "别克 Enclave 是一款可容纳 7 人的豪华 SUV。它的特点是安静的内饰（QuietTuning）和平稳的行驶。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Buick",
+                "en": "Buick",
+                "de": "Buick",
+                "uk": "Buick",
+                "ru": "Buick"
+              },
+              "okres produkcji": {
+                "pl": "2007–2017",
+                "en": "2007–2017",
+                "de": "2007–2017",
+                "uk": "2007–2017",
+                "ru": "2007–2017"
+              },
+              "miejsce produkcji": {
+                "pl": "Lansing, USA",
+                "en": "Lansing, USA",
+                "de": "Lansing, USA",
+                "uk": "Лансінг, США",
+                "ru": "Лансинг, США",
+                "zh": "美国兰辛"
+              },
+              "platforma": {
+                "pl": "Lambda",
+                "en": "Lambda",
+                "de": "Lambda",
+                "uk": "Lambda",
+                "ru": "Lambda"
+              },
+              "silnik": {
+                "pl": "3.6L V6",
+                "en": "3.6L V6",
+                "de": "3,6 l V6",
+                "uk": "3,6 л V6",
+                "ru": "3,6 л V6",
+                "zh": "3.6L V6"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Encore": [
+      {
+        "BrandID": 22,
+        "ModelID": 414028,
+        "Brand Name": "Buick",
+        "Model Name": "Encore",
+        "Serie Name": "Encore",
+        "Years": "2012 - 2016",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Buick Encore to mały, zwrotny SUV, idealny do miasta. Mimo niewielkich rozmiarów oferuje wykończenie premium.",
+              "en": "The Buick Encore is a small, agile SUV that's perfect for the city. Despite its small size, it offers a premium finish.",
+              "de": "Der Buick Encore ist ein kleiner, agiler SUV, der perfekt für die Stadt geeignet ist. Trotz seiner geringen Größe bietet es ein erstklassiges Finish.",
+              "uk": "Buick Encore — це невеликий маневрений позашляховик, який ідеально підходить для міста. Незважаючи на невеликі розміри, він пропонує преміум обробку.",
+              "ru": "Buick Encore — небольшой маневренный внедорожник, идеально подходящий для города. Несмотря на свои небольшие размеры, он предлагает премиальную отделку.",
+              "zh": "别克 Encore 是一款小型、敏捷的 SUV，非常适合城市出行。尽管尺寸很小，但它提供了优质的表面处理。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Buick",
+                "en": "Buick",
+                "de": "Buick",
+                "uk": "Buick",
+                "ru": "Buick"
+              },
+              "okres produkcji": {
+                "pl": "2012–2022",
+                "en": "2012–2022",
+                "de": "2012–2022",
+                "uk": "2012–2022",
+                "ru": "2012–2022"
+              },
+              "miejsce produkcji": {
+                "pl": "Bupyeong, Korea Południowa",
+                "en": "Bupyeong, South Korea",
+                "de": "Bupyeong, Südkorea",
+                "uk": "Бупьон, Південна Корея",
+                "ru": "Бупён, Южная Корея",
+                "zh": "韩国富平"
+              },
+              "platforma": {
+                "pl": "Gamma II",
+                "en": "Gamma II",
+                "de": "Gamma II",
+                "uk": "Гама II",
+                "ru": "Гамма II",
+                "zh": "Gamma II"
+              },
+              "silnik": {
+                "pl": "1.4L Turbo",
+                "en": "1.4L Turbo",
+                "de": "1,4L Turbo",
+                "uk": "1,4 л турбо",
+                "ru": "1,4 л турбо",
+                "zh": "1.4L Turbo"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Encore lift": [
+      {
+        "BrandID": 22,
+        "ModelID": 416427,
+        "Brand Name": "Buick",
+        "Model Name": "Encore",
+        "Serie Name": "Encore LIFT",
+        "Years": "2017 - 3000",
+        "specs": {
+          "bodyType": "Sedan/Liftback",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Buick Encore (LIFT) to poliftingowa wersja z nowocześniejszym przodem i ulepszonym systemem multimedialnym.",
+              "en": "Buick Encore (LIFT) is a facelifted version with a more modern front and an improved multimedia system.",
+              "de": "Buick Encore (LIFT) ist eine überarbeitete Version mit einer moderneren Front und einem verbesserten Multimediasystem.",
+              "uk": "Buick Encore (LIFT) — оновлена ​​версія з сучаснішою передньою частиною та вдосконаленою мультимедійною системою.",
+              "ru": "Buick Encore (LIFT) — обновленная версия с более современной передней частью и улучшенной мультимедийной системой.",
+              "zh": "别克 Encore (LIFT) 是改款版本，具有更现代的前部和改进的多媒体系统。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Buick",
+                "en": "Buick",
+                "de": "Buick",
+                "uk": "Buick",
+                "ru": "Buick"
+              },
+              "okres produkcji": {
+                "pl": "2017–2022",
+                "en": "2017–2022",
+                "de": "2017–2022",
+                "uk": "2017–2022",
+                "ru": "2017–2022"
+              },
+              "miejsce produkcji": {
+                "pl": "Bupyeong, Korea Południowa",
+                "en": "Bupyeong, South Korea",
+                "de": "Bupyeong, Südkorea",
+                "uk": "Бупьон, Південна Корея",
+                "ru": "Бупён, Южная Корея",
+                "zh": "韩国富平"
+              },
+              "platforma": {
+                "pl": "Gamma II",
+                "en": "Gamma II",
+                "de": "Gamma II",
+                "uk": "Гама II",
+                "ru": "Гамма II",
+                "zh": "Gamma II"
+              },
+              "silnik": {
+                "pl": "1.4L Turbo",
+                "en": "1.4L Turbo",
+                "de": "1,4L Turbo",
+                "uk": "1,4 л турбо",
+                "ru": "1,4 л турбо",
+                "zh": "1.4L Turbo"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2013_Buick_Encore%2C_dk_red%2C_rear_left.jpg/1280px-2013_Buick_Encore%2C_dk_red%2C_rear_left.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2013_Buick_Encore%2C_dk_red%2C_rear_left.jpg/1280px-2013_Buick_Encore%2C_dk_red%2C_rear_left.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Buick_Encore_01_China_2014-04-14.jpg/1280px-Buick_Encore_01_China_2014-04-14.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/2017_Buick_Encore_%27Preferred%27_1.4L_front_6.16.19.jpg/1280px-2017_Buick_Encore_%27Preferred%27_1.4L_front_6.16.19.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/2017_Buick_Encore_%27Preferred%27_1.4L_rear_6.16.19.jpg/1280px-2017_Buick_Encore_%27Preferred%27_1.4L_rear_6.16.19.jpg"
+            ]
+          }
+        }
+      }
+    ],
+    "Encore GX": [
+      {
+        "BrandID": 22,
+        "ModelID": 416432,
+        "Brand Name": "Buick",
+        "Model Name": "Encore GX",
+        "Serie Name": "Encore GX",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Buick Encore GX to większy brat modelu Encore. Bardziej przestronny, nowocześniejszy i z bardziej drapieżnym wyglądem.",
+              "en": "The Buick Encore GX is the bigger brother of the Encore. More spacious, more modern and with a more aggressive look.",
+              "de": "Der Buick Encore GX ist der größere Bruder des Encore. Geräumiger, moderner und aggressiver.",
+              "uk": "Buick Encore GX є старшим братом Encore. Більш просторий, більш сучасний і з більш агресивним виглядом.",
+              "ru": "Buick Encore GX — старший брат Encore. Более просторный, более современный и с более агрессивным внешним видом.",
+              "zh": "别克 Encore GX 是 Encore 的大哥。更宽敞、更现代、外观更激进。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Buick",
+                "en": "Buick",
+                "de": "Buick",
+                "uk": "Buick",
+                "ru": "Buick"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019 року",
+                "ru": "с 2019 года",
+                "zh": "2019 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Bupyeong, Korea Południowa",
+                "en": "Bupyeong, South Korea",
+                "de": "Bupyeong, Südkorea",
+                "uk": "Бупьон, Південна Корея",
+                "ru": "Бупён, Южная Корея",
+                "zh": "韩国富平"
+              },
+              "platforma": {
+                "pl": "VSS-F",
+                "en": "VSS-F",
+                "de": "VSS-F",
+                "uk": "VSS-F",
+                "ru": "VSS-F"
+              },
+              "silnik": {
+                "pl": "1.2L - 1.3L Turbo",
+                "en": "1.2L - 1.3L Turbo",
+                "de": "1,2 l – 1,3 l Turbo",
+                "uk": "1,2 л - 1,3 л турбо",
+                "ru": "1,2–1,3 л Турбо",
+                "zh": "1.2L - 1.3L Turbo"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Envision": [
+      {
+        "BrandID": 22,
+        "ModelID": 416367,
+        "Brand Name": "Buick",
+        "Model Name": "Envision",
+        "Serie Name": "Envision 1",
+        "Years": "2014 - 2018",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Buick Envision to kompaktowy SUV klasy premium. Łączy chińską produkcję z amerykańskim standardem luksusu.",
+              "en": "The Buick Envision is a premium compact SUV. It combines Chinese production with the American standard of luxury.",
+              "de": "Der Buick Envision ist ein Premium-Kompakt-SUV. Es verbindet chinesische Produktion mit amerikanischem Luxusstandard.",
+              "uk": "Buick Envision — компактний позашляховик преміум-класу. Він поєднує китайське виробництво з американським стандартом розкоші.",
+              "ru": "Buick Envision — компактный внедорожник премиум-класса. Он сочетает в себе китайское производство с американским стандартом роскоши.",
+              "zh": "别克 Envision 是一款高级紧凑型 SUV。它将中国生产与美国奢华标准相结合。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Buick",
+                "en": "Buick",
+                "de": "Buick",
+                "uk": "Buick",
+                "ru": "Buick"
+              },
+              "okres produkcji": {
+                "pl": "2014–2020",
+                "en": "2014–2020",
+                "de": "2014–2020",
+                "uk": "2014–2020",
+                "ru": "2014–2020"
+              },
+              "miejsce produkcji": {
+                "pl": "Yantai, Chiny",
+                "en": "Yantai, China",
+                "de": "Yantai, China",
+                "uk": "Яньтай, Китай",
+                "ru": "Яньтай, Китай",
+                "zh": "中国烟台"
+              },
+              "platforma": {
+                "pl": "D2XX",
+                "en": "D2XX",
+                "de": "D2XX",
+                "uk": "D2XX",
+                "ru": "D2XX"
+              },
+              "silnik": {
+                "pl": "2.0L Turbo / 2.5L",
+                "en": "2.0L Turbo / 2.5L",
+                "de": "2,0 l Turbo / 2,5 l",
+                "uk": "2,0 л турбо / 2,5 л",
+                "ru": "2,0 л турбо / 2,5 л",
+                "zh": "2.0L 涡轮增压 / 2.5L"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2016_Buick_Envision%2C_rear_right.jpg/1280px-2016_Buick_Envision%2C_rear_right.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2016_Buick_Envision%2C_rear_right.jpg/1280px-2016_Buick_Envision%2C_rear_right.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Buick_Envision_facelift.jpg/1280px-Buick_Envision_facelift.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Buick_Envision_facelift_2.jpg/1280px-Buick_Envision_facelift_2.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Buick_Envision_second_facelift_002.jpg/1280px-Buick_Envision_second_facelift_002.jpg"
+            ]
+          }
+        }
+      }
+    ],
+    "Envision 1": [
+      {
+        "BrandID": 22,
+        "ModelID": 416367,
+        "Brand Name": "Buick",
+        "Model Name": "Envision",
+        "Serie Name": "Envision 1",
+        "Years": "2014 - 2018",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Buick Envision to SUV środka, oferujący bogate wyposażenie w standardzie i zaawansowane systemy bezpieczeństwa.",
+              "en": "Buick Envision is a mid-range SUV, offering extensive standard equipment and advanced safety systems.",
+              "de": "Buick Envision ist ein Mittelklasse-SUV mit umfangreicher Serienausstattung und fortschrittlichen Sicherheitssystemen.",
+              "uk": "Buick Envision — позашляховик середнього класу, який пропонує широке стандартне обладнання та передові системи безпеки.",
+              "ru": "Buick Envision — внедорожник среднего класса, предлагающий обширное стандартное оборудование и передовые системы безопасности.",
+              "zh": "别克昂科威是一款中档SUV，提供丰富的标准配置和先进的安全系统。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Buick",
+                "en": "Buick",
+                "de": "Buick",
+                "uk": "Buick",
+                "ru": "Buick"
+              },
+              "okres produkcji": {
+                "pl": "2014–2020",
+                "en": "2014–2020",
+                "de": "2014–2020",
+                "uk": "2014–2020",
+                "ru": "2014–2020"
+              },
+              "miejsce produkcji": {
+                "pl": "Yantai, Chiny",
+                "en": "Yantai, China",
+                "de": "Yantai, China",
+                "uk": "Яньтай, Китай",
+                "ru": "Яньтай, Китай",
+                "zh": "中国烟台"
+              },
+              "platforma": {
+                "pl": "D2XX",
+                "en": "D2XX",
+                "de": "D2XX",
+                "uk": "D2XX",
+                "ru": "D2XX"
+              },
+              "silnik": {
+                "pl": "2.0L Turbo / 2.5L",
+                "en": "2.0L Turbo / 2.5L",
+                "de": "2,0 l Turbo / 2,5 l",
+                "uk": "2,0 л турбо / 2,5 л",
+                "ru": "2,0 л турбо / 2,5 л",
+                "zh": "2.0L Turbo / 2.5L"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2016_Buick_Envision%2C_rear_right.jpg/1280px-2016_Buick_Envision%2C_rear_right.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2016_Buick_Envision%2C_rear_right.jpg/1280px-2016_Buick_Envision%2C_rear_right.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Buick_Envision_facelift.jpg/1280px-Buick_Envision_facelift.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Buick_Envision_facelift_2.jpg/1280px-Buick_Envision_facelift_2.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Buick_Envision_second_facelift_002.jpg/1280px-Buick_Envision_second_facelift_002.jpg"
+            ]
+          }
+        }
+      }
+    ],
+    "Envision 2": [
+      {
+        "BrandID": 22,
+        "ModelID": 416368,
+        "Brand Name": "Buick",
+        "Model Name": "Envision",
+        "Serie Name": "Envision 2",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Buick Envision (2. gen) zyskał bardziej sportową sylwetkę i luksusowe wykończenie Avenir. Technologicznie zaawansowany.",
+              "en": "Buick Envision (2nd gen) gained a sportier silhouette and luxurious Avenir trim. Technologically advanced.",
+              "de": "Buick Envision (2. Generation) erhielt eine sportlichere Silhouette und eine luxuriöse Avenir-Ausstattung. Technologisch fortschrittlich.",
+              "uk": "Buick Envision (2-е покоління) отримав більш спортивний силует і розкішне оздоблення Avenir. Технологічно просунутий.",
+              "ru": "Buick Envision (2-го поколения) получил более спортивный силуэт и роскошную отделку Avenir. Технологически продвинутый.",
+              "zh": "别克昂科威（第二代）拥有更具运动感的轮廓和豪华的 Avenir 外观。技术先进。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Buick",
+                "en": "Buick",
+                "de": "Buick",
+                "uk": "Buick",
+                "ru": "Buick"
+              },
+              "okres produkcji": {
+                "pl": "od 2021",
+                "en": "from 2021",
+                "de": "ab 2021",
+                "uk": "з 2021 року",
+                "ru": "с 2021 года",
+                "zh": "2021 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Yantai, Chiny",
+                "en": "Yantai, China",
+                "de": "Yantai, China",
+                "uk": "Яньтай, Китай",
+                "ru": "Яньтай, Китай",
+                "zh": "中国烟台"
+              },
+              "platforma": {
+                "pl": "E2XX",
+                "en": "E2XX",
+                "de": "E2XX",
+                "uk": "E2XX",
+                "ru": "E2XX"
+              },
+              "silnik": {
+                "pl": "2.0L Turbo",
+                "en": "2.0L Turbo",
+                "de": "2,0 l Turbo",
+                "uk": "2,0 л турбо",
+                "ru": "2,0 л турбо",
+                "zh": "2.0L Turbo"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2016_Buick_Envision%2C_rear_right.jpg/1280px-2016_Buick_Envision%2C_rear_right.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2016_Buick_Envision%2C_rear_right.jpg/1280px-2016_Buick_Envision%2C_rear_right.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Buick_Envision_facelift.jpg/1280px-Buick_Envision_facelift.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Buick_Envision_facelift_2.jpg/1280px-Buick_Envision_facelift_2.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Buick_Envision_second_facelift_002.jpg/1280px-Buick_Envision_second_facelift_002.jpg"
+            ]
+          }
+        }
+      }
+    ],
+    "La Crosse": [
+      {
+        "BrandID": 22,
+        "ModelID": 415399,
+        "Brand Name": "Buick",
+        "Model Name": "La Crosse",
+        "Serie Name": "La Crosse",
+        "Years": "2004 - 2020",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Buick LaCrosse to flagowa limuzyna marki. Elegancka stylistyka, przestronne wnętrze i hybrydowy napęd eAssist w opcji.",
+              "en": "Buick LaCrosse is the brand's flagship limousine. Elegant styling, spacious interior and eAssist hybrid drive as an option.",
+              "de": "Buick LaCrosse ist die Flaggschiff-Limousine der Marke. Elegantes Design, geräumiger Innenraum und optionaler eAssist-Hybridantrieb.",
+              "uk": "Buick LaCrosse – флагманський лімузин марки. Елегантний стиль, просторий салон і гібридний привід eAssist як опція.",
+              "ru": "Buick LaCrosse — флагманский лимузин бренда. Элегантный дизайн, просторный салон и гибридный привод eAssist в качестве опции.",
+              "zh": "别克君越是该品牌的旗舰豪华轿车。优雅的造型、宽敞的内部空间和 eAssist 混合动力驱动可供选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Buick",
+                "en": "Buick",
+                "de": "Buick",
+                "uk": "Buick",
+                "ru": "Buick"
+              },
+              "okres produkcji": {
+                "pl": "2004–2019 (USA)",
+                "en": "2004–2019 (US)",
+                "de": "2004–2019 (USA)",
+                "uk": "2004–2019 (США)",
+                "ru": "2004–2019 (США)",
+                "zh": "2004–2019（美国）"
+              },
+              "miejsce produkcji": {
+                "pl": "Kansas City, USA",
+                "en": "Kansas City, USA",
+                "de": "Kansas City, USA",
+                "uk": "Канзас-Сіті, США",
+                "ru": "Канзас-Сити, США",
+                "zh": "美国堪萨斯城"
+              },
+              "platforma": {
+                "pl": "Epsilon II",
+                "en": "Epsilon II",
+                "de": "Epsilon II",
+                "uk": "Епсилон II",
+                "ru": "Эпсилон II",
+                "zh": "Epsilon II"
+              },
+              "silnik": {
+                "pl": "2.4L - 3.6L V6",
+                "en": "2.4L - 3.6L V6",
+                "de": "2,4 l – 3,6 l V6",
+                "uk": "2,4 л - 3,6 л V6",
+                "ru": "2,4–3,6 л V6",
+                "zh": "2.4L - 3.6L V6"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Regal": [
+      {
+        "BrandID": 22,
+        "ModelID": 414029,
+        "Brand Name": "Buick",
+        "Model Name": "Regal",
+        "Serie Name": "Regal",
+        "Years": "1980 - 2019",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Buick Regal to sportowy sedan spokrewniony z Oplem Insignią. Dostępny także jako kombi TourX i w wersji GS.",
+              "en": "Buick Regal is a sports sedan related to the Opel Insignia. Also available as TourX wagon and GS version.",
+              "de": "Buick Regal ist eine mit dem Opel Insignia verwandte Sportlimousine. Auch als TourX-Kombi und GS-Version erhältlich.",
+              "uk": "Buick Regal — спортивний седан, споріднений Opel Insignia. Також доступний як універсал TourX і версія GS.",
+              "ru": "Buick Regal — спортивный седан, родственный Opel Insignia. Также доступен как универсал TourX и версия GS.",
+              "zh": "别克君威是一款与欧宝 Insignia 相关的运动轿车。还提供 TourX 旅行车和 GS 版本。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Buick",
+                "en": "Buick",
+                "de": "Buick",
+                "uk": "Buick",
+                "ru": "Buick"
+              },
+              "okres produkcji": {
+                "pl": "2008–2020",
+                "en": "2008–2020",
+                "de": "2008–2020",
+                "uk": "2008–2020",
+                "ru": "2008–2020"
+              },
+              "miejsce produkcji": {
+                "pl": "Rüsselsheim, Niemcy",
+                "en": "Rüsselsheim, Germany",
+                "de": "Rüsselsheim, Deutschland",
+                "uk": "Рюссельсхайм, Німеччина",
+                "ru": "Рюссельсхайм, Германия",
+                "zh": "德国吕塞尔斯海姆"
+              },
+              "platforma": {
+                "pl": "Epsilon II",
+                "en": "Epsilon II",
+                "de": "Epsilon II",
+                "uk": "Епсилон II",
+                "ru": "Эпсилон II",
+                "zh": "Epsilon II"
+              },
+              "silnik": {
+                "pl": "2.0L Turbo / 2.4L / 3.6L V6",
+                "en": "2.0L Turbo / 2.4L / 3.6L V6",
+                "de": "2,0 l Turbo / 2,4 l / 3,6 l V6",
+                "uk": "2,0 л турбо / 2,4 л / 3,6 л V6",
+                "ru": "2,0 л турбо/2,4 л/3,6 л V6",
+                "zh": "2.0L 涡轮增压 / 2.4L / 3.6L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3u/i3/l5vo7nuos4oo44ogwg8c0/regal-97-sedan.310.jpg"
+        }
+      }
+    ]
+  }
+}

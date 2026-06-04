@@ -1,0 +1,237 @@
+{
+  "brand": "Proton",
+  "models": {
+    "300": [
+      {
+        "BrandID": 186,
+        "ModelID": 415652,
+        "Brand Name": "Proton",
+        "Model Name": 300,
+        "Serie Name": 300,
+        "Years": "1996 - 2005",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Proton 300 (Satria) to kompaktowy hatchback bazujący na modelu Mitsubishi Mirage.",
+              "en": "Proton 300 (Satria) is a compact hatchback based on the Mitsubishi Mirage.",
+              "de": "Der Proton 300 (Satria) ist ein kompaktes Fließheckmodell, das auf dem Mitsubishi Mirage basiert.",
+              "uk": "Proton 300 (Satria) - компактний хетчбек на базі Mitsubishi Mirage.",
+              "ru": "Протон 300 (Сатрия) — компактный хэтчбек на базе Mitsubishi Mirage.",
+              "zh": "Proton 300 (Satria) 是一款基于三菱 Mirage 的紧凑型掀背车。"
+            }
+          }
+        }
+      }
+    ],
+    "400": [
+      {
+        "BrandID": 186,
+        "ModelID": 415316,
+        "Brand Name": "Proton",
+        "Model Name": 400,
+        "Serie Name": 400,
+        "Years": "1995 - 2007",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Proton 400 (Wira) to popularny sedan i hatchback, będący zmodernizowaną wersją Mitsubishi Lancer.",
+              "en": "Proton 400 (Wira) is a popular sedan and hatchback that is a modernized version of the Mitsubishi Lancer.",
+              "de": "Proton 400 (Wira) ist eine beliebte Limousine und ein Fließheckmodell, das eine modernisierte Version des Mitsubishi Lancer darstellt.",
+              "uk": "Proton 400 (Wira) — популярний седан і хетчбек, який є модернізованою версією Mitsubishi Lancer.",
+              "ru": "Протон 400 (Вира) – популярный седан и хэтчбек, являющийся модернизированной версией Митсубиси Лансер.",
+              "zh": "Proton 400 (Wira) 是一款流行的轿车和掀背车，是三菱 Lancer 的现代化版本。"
+            }
+          }
+        }
+      }
+    ],
+    "413": [
+      {
+        "BrandID": 186,
+        "ModelID": 415316,
+        "Brand Name": "Proton",
+        "Model Name": 400,
+        "Serie Name": 400,
+        "Years": "1995 - 2007",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Proton 400 (Wira) to popularny sedan i hatchback, będący zmodernizowaną wersją Mitsubishi Lancer.",
+              "en": "Proton 400 (Wira) is a popular sedan and hatchback that is a modernized version of the Mitsubishi Lancer.",
+              "de": "Proton 400 (Wira) ist eine beliebte Limousine und ein Fließheckmodell, das eine modernisierte Version des Mitsubishi Lancer darstellt.",
+              "uk": "Proton 400 (Wira) — популярний седан і хетчбек, який є модернізованою версією Mitsubishi Lancer.",
+              "ru": "Протон 400 (Вира) – популярный седан и хэтчбек, являющийся модернизированной версией Митсубиси Лансер.",
+              "zh": "Proton 400 (Wira) 是一款流行的轿车和掀背车，是三菱 Lancer 的现代化版本。"
+            }
+          }
+        }
+      }
+    ],
+    "": [
+      {
+        "BrandID": 186,
+        "ModelID": "",
+        "Brand Name": "Proton",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Proton to malezyjski producent samochodów, który zaczynał od licencyjnej produkcji Mitsubishi, a obecnie współpracuje z Geely.",
+              "en": "Proton is a Malaysian car manufacturer that started with license production from Mitsubishi and now cooperates with Geely.",
+              "de": "Proton ist ein malaysischer Automobilhersteller, der mit der Lizenzproduktion von Mitsubishi begann und nun mit Geely kooperiert.",
+              "uk": "Proton — малайзійський виробник автомобілів, який почав з ліцензійного виробництва від Mitsubishi, а зараз співпрацює з Geely.",
+              "ru": "Proton — малазийский производитель автомобилей, который начинал с лицензионного производства Mitsubishi, а теперь сотрудничает с Geely.",
+              "zh": "Proton 是一家马来西亚汽车制造商，最初获得三菱授权生产，现在与吉利合作。"
+            }
+          }
+        }
+      }
+    ],
+    "Gen": [
+      {
+        "BrandID": 186,
+        "ModelID": 415600,
+        "Brand Name": "Proton",
+        "Model Name": "Gen",
+        "Serie Name": "Gen",
+        "Years": "1990 - 2020",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Proton Gen-2 to pierwszy model opracowany samodzielnie przez Protona, wyróżniający się sportową stylistyką.",
+              "en": "Proton Gen-2 is the first model developed independently by Proton, distinguished by a sporty style.",
+              "de": "Proton Gen-2 ist das erste von Proton unabhängig entwickelte Modell, das sich durch einen sportlichen Stil auszeichnet.",
+              "uk": "Proton Gen-2 — перша модель, розроблена Proton самостійно, вирізняється спортивним стилем.",
+              "ru": "Proton Gen-2 – первая модель, разработанная самой компанией Proton, отличающаяся спортивным дизайном.",
+              "zh": "Proton Gen-2是Proton自主研发的第一款车型，以运动风格为特色。"
+            }
+          }
+        }
+      }
+    ],
+    "Persona": [
+      {
+        "BrandID": 186,
+        "ModelID": 415281,
+        "Brand Name": "Proton",
+        "Model Name": "Persona",
+        "Serie Name": "Persona",
+        "Years": "1993 - 2007",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Proton Persona to solidny sedan, który zyskał popularność w Wielkiej Brytanii i Australii.",
+              "en": "The Proton Persona is a solid sedan that has gained popularity in the UK and Australia.",
+              "de": "Der Proton Persona ist eine solide Limousine, die in Großbritannien und Australien an Popularität gewonnen hat.",
+              "uk": "Proton Persona — солідний седан, який завоював популярність у Великобританії та Австралії.",
+              "ru": "Proton Persona — солидный седан, завоевавший популярность в Великобритании и Австралии.",
+              "zh": "Proton Persona 是一款坚固的轿车，在英国和澳大利亚很受欢迎。"
+            }
+          }
+        }
+      }
+    ],
+    "Satria": [
+      {
+        "BrandID": 186,
+        "ModelID": 415384,
+        "Brand Name": "Proton",
+        "Model Name": "Satria",
+        "Serie Name": "Satria",
+        "Years": "1996 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Proton Satria to 3-drzwiowy hatchback o sportowym zacięciu, w wersji GTi dopracowany przez inżynierów Lotusa.",
+              "en": "Proton Satria is a 3-door hatchback with a sporty flair, in the GTi version refined by Lotus engineers.",
+              "de": "Proton Satria ist ein dreitüriges Fließheckmodell mit sportlichem Flair, in der von Lotus-Ingenieuren verfeinerten GTi-Version.",
+              "uk": "Proton Satria — це 3-дверний хетчбек зі спортивним відтінком у версії GTi, вдосконаленій інженерами Lotus.",
+              "ru": "Proton Satria — 3-дверный хэтчбек со спортивным характером в версии GTi, доработанной инженерами Lotus.",
+              "zh": "Proton Satria 是一款具有运动风格的 3 门掀背车，其 GTi 版本由 Lotus 工程师精心打造。"
+            }
+          }
+        }
+      }
+    ],
+    "Wira": [
+      {
+        "BrandID": 186,
+        "ModelID": 415386,
+        "Brand Name": "Proton",
+        "Model Name": "Wira",
+        "Serie Name": "Wira",
+        "Years": "1993 - 2009",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Proton Wira (Seria 400) to model, który zmotoryzował Malezję i był eksportowany do ponad 70 krajów.",
+              "en": "Proton Wira (400 Series) is the model that launched the motor industry in Malaysia and has been exported to over 70 countries.",
+              "de": "Proton Wira (Serie 400) ist das Modell, das die Automobilindustrie in Malaysia begründete und in über 70 Länder exportiert wurde.",
+              "uk": "Proton Wira (серія 400) — це модель, яка започаткувала автомобільну промисловість у Малайзії та експортується до понад 70 країн.",
+              "ru": "Proton Wira (серия 400) — это модель, которая выпускала автомобили в Малайзии и экспортировалась в более чем 70 стран.",
+              "zh": "Proton Wira (400 系列) 是马来西亚汽车工业的启动车型，并已出口到 70 多个国家。"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

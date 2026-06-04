@@ -1,0 +1,1518 @@
+{
+  "brand": "Renault",
+  "models": {
+    "Clio": [
+      {
+        "BrandID": 108,
+        "ModelID": 132423,
+        "Brand Name": "Renault",
+        "Model Name": "Clio",
+        "Serie Name": "Clio I",
+        "Years": "1990 - 1998",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.1L - 2.0L (Williams)",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Renault Clio to jeden z najlepiej sprzedających się samochodów miejskich w Europie. Oferuje styl, nowoczesne wnętrze i zwrotność.",
+              "en": "Renault Clio is one of the best-selling city cars in Europe. It offers style, a modern interior and maneuverability.",
+              "de": "Der Renault Clio ist eines der meistverkauften Stadtautos in Europa. Es bietet Stil, ein modernes Interieur und Manövrierfähigkeit.",
+              "uk": "Renault Clio є одним з найбільш продаваних міських автомобілів у Європі. Він пропонує стиль, сучасний інтер’єр і маневреність.",
+              "ru": "Renault Clio – один из самых продаваемых городских автомобилей в Европе. Он предлагает стиль, современный интерьер и маневренность.",
+              "zh": "雷诺 Clio 是欧洲最畅销的城市汽车之一。它具有时尚的风格、现代的内饰和机动性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "okres produkcji": {
+                "pl": "od 1990",
+                "en": "since 1990",
+                "de": "seit 1990",
+                "uk": "з 1990 року",
+                "ru": "с 1990 года.",
+                "zh": "自 1990 年以来"
+              },
+              "segment": {
+                "pl": "B"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ad/qj/i911dm8sg0ckwo4wwksc8/renault-clio-iv-22.310.jpg"
+        }
+      },
+      {
+        "BrandID": 108,
+        "ModelID": 131991,
+        "Brand Name": "Renault",
+        "Model Name": "Clio",
+        "Serie Name": "Clio II",
+        "Years": "1998 - 2005",
+        "specs": {
+          "bodyType": "Hatchback/Sedan",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.1L - 3.0L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Renault Clio to jeden z najlepiej sprzedających się samochodów miejskich w Europie. Oferuje styl, nowoczesne wnętrze i zwrotność.",
+              "en": "Renault Clio is one of the best-selling city cars in Europe. It offers style, a modern interior and maneuverability.",
+              "de": "Renault Clio ist eines der meistverkauften Stadtautos in Europa. Es bietet Stil, ein modernes Interieur und Manövrierfähigkeit.",
+              "uk": "Renault Clio є одним із найбільш продаваних міських автомобілів у Європі. Він пропонує стиль, сучасний інтер’єр і маневреність.",
+              "ru": "Renault Clio — один из самых продаваемых городских автомобилей в Европе. Он предлагает стиль, современный интерьер и маневренность.",
+              "zh": "雷诺 Clio 是欧洲最畅销的城市汽车之一。它具有时尚的风格、现代的内饰和机动性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "okres produkcji": {
+                "pl": "od 1990",
+                "en": "since 1990",
+                "de": "seit 1990",
+                "uk": "з 1990 року",
+                "ru": "с 1990 года.",
+                "zh": "自 1990 年以来"
+              },
+              "segment": {
+                "pl": "B"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ad/qj/i911dm8sg0ckwo4wwksc8/renault-clio-iv-22.310.jpg"
+        }
+      },
+      {
+        "BrandID": 108,
+        "ModelID": 132307,
+        "Brand Name": "Renault",
+        "Model Name": "Clio",
+        "Serie Name": "Clio III",
+        "Years": "2005 - 2012",
+        "specs": {
+          "bodyType": "Hatchback/Wagon",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L - 2.0L RS",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Renault Clio to jeden z najlepiej sprzedających się samochodów miejskich w Europie. Oferuje styl, nowoczesne wnętrze i zwrotność.",
+              "en": "Renault Clio is one of the best-selling city cars in Europe. It offers style, a modern interior and maneuverability.",
+              "de": "Renault Clio ist eines der meistverkauften Stadtautos in Europa. Es bietet Stil, ein modernes Interieur und Manövrierfähigkeit.",
+              "uk": "Renault Clio є одним із найбільш продаваних міських автомобілів у Європі. Він пропонує стиль, сучасний інтер’єр і маневреність.",
+              "ru": "Renault Clio — один из самых продаваемых городских автомобилей в Европе. Он предлагает стиль, современный интерьер и маневренность.",
+              "zh": "雷诺 Clio 是欧洲最畅销的城市汽车之一。它提供时尚、现代的内饰和机动性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "okres produkcji": {
+                "pl": "od 1990",
+                "en": "since 1990",
+                "de": "seit 1990",
+                "uk": "з 1990 року",
+                "ru": "с 1990 года.",
+                "zh": "自 1990 年以来"
+              },
+              "segment": {
+                "pl": "B"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ad/qj/i911dm8sg0ckwo4wwksc8/renault-clio-iv-22.310.jpg"
+        }
+      },
+      {
+        "BrandID": 108,
+        "ModelID": 412938,
+        "Brand Name": "Renault",
+        "Model Name": "Clio",
+        "Serie Name": "Clio IV",
+        "Years": "2012 - 2019",
+        "specs": {
+          "bodyType": "Hatchback/Wagon",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "0.9L Turbo - 1.6L RS Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Renault Clio to jeden z najlepiej sprzedających się samochodów miejskich w Europie. Oferuje styl, nowoczesne wnętrze i zwrotność.",
+              "en": "Renault Clio is one of the best-selling city cars in Europe. It offers style, a modern interior and maneuverability.",
+              "de": "Renault Clio ist eines der meistverkauften Stadtautos in Europa. Es bietet Stil, ein modernes Interieur und Manövrierfähigkeit.",
+              "uk": "Renault Clio є одним із найбільш продаваних міських автомобілів у Європі. Він пропонує стиль, сучасний інтер’єр і маневреність.",
+              "ru": "Renault Clio — один из самых продаваемых городских автомобилей в Европе. Он предлагает стиль, современный интерьер и маневренность.",
+              "zh": "雷诺 Clio 是欧洲最畅销的城市汽车之一。它具有时尚的风格、现代的内饰和机动性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "okres produkcji": {
+                "pl": "od 1990",
+                "en": "since 1990",
+                "de": "seit 1990",
+                "uk": "з 1990 року",
+                "ru": "с 1990 года.",
+                "zh": "自 1990 年以来"
+              },
+              "segment": {
+                "pl": "B"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ad/qj/i911dm8sg0ckwo4wwksc8/renault-clio-iv-22.310.jpg"
+        }
+      },
+      {
+        "BrandID": 108,
+        "ModelID": 415410,
+        "Brand Name": "Renault",
+        "Model Name": "Clio",
+        "Serie Name": "Clio V",
+        "Years": "2019 - Present",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "1.0L Turbo - 1.6L E-Tech",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Renault Clio to jeden z najpopularniejszych samochodów miejskich w Europie, od dekad wyznaczający standardy w swoim segmencie. Słynie z doskonałego designu, wysokiego poziomu bezpieczeństwa oraz zwinności, która czyni go idealnym wyborem do miasta.",
+              "en": "Renault Clio is one of the most popular city cars in Europe, setting standards in its segment for decades. It is famous for its excellent design, high level of safety and agility, which make it an ideal choice for the city.",
+              "de": "Renault Clio ist einer der beliebtesten Stadtwagen in Europa und setzt seit Jahrzehnten Maßstäbe in seinem Segment. Es ist bekannt für sein hervorragendes Design, sein hohes Maß an Sicherheit und Agilität, was es zur idealen Wahl für die Stadt macht.",
+              "uk": "Renault Clio є одним із найпопулярніших міських автомобілів у Європі, що десятиліттями встановлює стандарти у своєму сегменті. Він славиться чудовим дизайном, високим рівнем безпеки та маневреністю, що робить його ідеальним вибором для міста.",
+              "ru": "Renault Clio — один из самых популярных городских автомобилей в Европе, на протяжении десятилетий устанавливающий стандарты в своем сегменте. Он славится отличным дизайном, высоким уровнем безопасности и маневренностью, что делает его идеальным выбором для города.",
+              "zh": "雷诺 Clio 是欧洲最受欢迎的城市汽车之一，几十年来一直为其细分市场树立标准。它以其卓越的设计、高水平的安全性和敏捷性而闻名，这使其成为城市的理想选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "okres produkcji": {
+                "pl": "od 1990",
+                "en": "from 1990",
+                "de": "ab 1990",
+                "uk": "з 1990 року",
+                "ru": "с 1990 года.",
+                "zh": "1990 年生产"
+              },
+              "segment": {
+                "pl": "B (Miejskie)",
+                "en": "B (City)",
+                "de": "B (Stadt)",
+                "uk": "B (місто)",
+                "ru": "B (Город)",
+                "zh": "B（城市）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ad/qj/i911dm8sg0ckwo4wwksc8/renault-clio-iv-22.310.jpg"
+        }
+      }
+    ],
+    "Megane": [
+      {
+        "BrandID": 108,
+        "ModelID": 132488,
+        "Brand Name": "Renault",
+        "Model Name": "Megane",
+        "Serie Name": "Megane I",
+        "Years": "1995 - 2002",
+        "specs": {
+          "bodyType": "Hatchback/Sedan/Wagon/Coupe/Convertible",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 2.0L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Renault Megane to popularny kompakt, dostępny w wielu wersjach nadwoziowych, w tym sportowej RS. Obecnie ewoluuje w stronę elektrycznego crossovera.",
+              "en": "Renault Megane is a popular compact car, available in many body versions, including the sports RS. It is currently evolving into an electric crossover.",
+              "de": "Renault Megane ist ein beliebter Kompaktwagen, der in vielen Karosserievarianten erhältlich ist, darunter auch als Sport-RS. Es entwickelt sich derzeit zu einem elektrischen Crossover.",
+              "uk": "Renault Megane — популярний компактний автомобіль, доступний у багатьох версіях кузова, включаючи спортивний RS. Зараз він розвивається в електричний кросовер.",
+              "ru": "Renault Megane — популярный компактный автомобиль, доступный во многих вариантах кузова, включая спортивный RS. В настоящее время он развивается в электрический кроссовер.",
+              "zh": "雷诺梅甘娜是一款流行的紧凑型汽车，有多种车身版本，包括运动版 RS。目前它正在演变成电动跨界车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "okres produkcji": {
+                "pl": "od 1995",
+                "en": "from 1995",
+                "de": "ab 1995",
+                "uk": "з 1995 року",
+                "ru": "с 1995 года.",
+                "zh": "1995 年生产"
+              },
+              "segment": {
+                "pl": "C"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8i/5x/p10gbmsk0ocosg8wok04s/megane-3-hatch.310.jpg"
+        }
+      },
+      {
+        "BrandID": 108,
+        "ModelID": 132491,
+        "Brand Name": "Renault",
+        "Model Name": "Megane",
+        "Serie Name": "Megane II",
+        "Years": "2002 - 2008",
+        "specs": {
+          "bodyType": "Hatchback/Sedan/Wagon/Convertible",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 2.0L RS Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Renault Megane to popularny kompakt, dostępny w wielu wersjach nadwoziowych, w tym sportowej RS. Obecnie ewoluuje w stronę elektrycznego crossovera.",
+              "en": "Renault Megane is a popular compact car, available in many body versions, including the sports RS. It is currently evolving into an electric crossover.",
+              "de": "Renault Megane ist ein beliebter Kompaktwagen, der in vielen Karosserievarianten erhältlich ist, darunter auch als Sport-RS. Es entwickelt sich derzeit zu einem elektrischen Crossover.",
+              "uk": "Renault Megane — популярний компактний автомобіль, доступний у багатьох версіях кузова, включаючи спортивний RS. Зараз він розвивається в електричний кросовер.",
+              "ru": "Renault Megane — популярный компактный автомобиль, доступный во многих вариантах кузова, включая спортивный RS. В настоящее время он развивается в электрический кроссовер.",
+              "zh": "雷诺梅甘娜是一款流行的紧凑型汽车，有多种车身版本，包括运动版 RS。目前它正在演变成电动跨界车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "okres produkcji": {
+                "pl": "od 1995",
+                "en": "from 1995",
+                "de": "ab 1995",
+                "uk": "з 1995 року",
+                "ru": "с 1995 года.",
+                "zh": "1995 年生产"
+              },
+              "segment": {
+                "pl": "C"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8i/5x/p10gbmsk0ocosg8wok04s/megane-3-hatch.310.jpg"
+        }
+      },
+      {
+        "BrandID": 108,
+        "ModelID": 413361,
+        "Brand Name": "Renault",
+        "Model Name": "Megane",
+        "Serie Name": "Megane III",
+        "Years": "2008 - 2016",
+        "specs": {
+          "bodyType": "Hatchback/Wagon/Coupe/Convertible",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L Turbo - 2.0L RS Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Renault Megane to popularny kompakt, dostępny w wielu wersjach nadwoziowych, w tym sportowej RS. Obecnie ewoluuje w stronę elektrycznego crossovera.",
+              "en": "Renault Megane is a popular compact car, available in many body versions, including the sports RS. It is currently evolving into an electric crossover.",
+              "de": "Renault Megane ist ein beliebter Kompaktwagen, der in vielen Karosserievarianten erhältlich ist, darunter auch als Sport-RS. Es entwickelt sich derzeit zu einem elektrischen Crossover.",
+              "uk": "Renault Megane — популярний компактний автомобіль, доступний у багатьох версіях кузова, включаючи спортивний RS. Зараз він розвивається в електричний кросовер.",
+              "ru": "Renault Megane — популярный компактный автомобиль, доступный во многих вариантах кузова, включая спортивный RS. В настоящее время он развивается в электрический кроссовер.",
+              "zh": "雷诺梅甘娜是一款流行的紧凑型汽车，有多种车身版本，包括运动版 RS。目前它正在演变成电动跨界车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "okres produkcji": {
+                "pl": "od 1995",
+                "en": "from 1995",
+                "de": "ab 1995",
+                "uk": "з 1995 року",
+                "ru": "с 1995 года.",
+                "zh": "1995 年生产"
+              },
+              "segment": {
+                "pl": "C"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8i/5x/p10gbmsk0ocosg8wok04s/megane-3-hatch.310.jpg"
+        }
+      },
+      {
+        "BrandID": 108,
+        "ModelID": 413362,
+        "Brand Name": "Renault",
+        "Model Name": "Megane",
+        "Serie Name": "Megane IV",
+        "Years": "2016 - 2022",
+        "specs": {
+          "bodyType": "Hatchback/Sedan/Wagon",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "1.2L Turbo - 1.8L RS Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Renault Megane to popularny kompakt, dostępny w wielu wersjach nadwoziowych, w tym sportowej RS. Obecnie ewoluuje w stronę elektrycznego crossovera.",
+              "en": "Renault Megane is a popular compact car, available in many body versions, including the sports RS. It is currently evolving into an electric crossover.",
+              "de": "Renault Megane ist ein beliebter Kompaktwagen, der in vielen Karosserievarianten erhältlich ist, darunter auch als Sport-RS. Es entwickelt sich derzeit zu einem elektrischen Crossover.",
+              "uk": "Renault Megane — популярний компактний автомобіль, доступний у багатьох версіях кузова, включаючи спортивний RS. Зараз він розвивається в електричний кросовер.",
+              "ru": "Renault Megane — популярный компактный автомобиль, доступный во многих вариантах кузова, включая спортивный RS. В настоящее время он развивается в электрический кроссовер.",
+              "zh": "雷诺梅甘娜是一款流行的紧凑型汽车，有多种车身版本，包括运动版 RS。目前它正在演变成电动跨界车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "okres produkcji": {
+                "pl": "od 1995",
+                "en": "since 1995",
+                "de": "seit 1995",
+                "uk": "з 1995 року",
+                "ru": "с 1995 года.",
+                "zh": "自 1995 年以来"
+              },
+              "segment": {
+                "pl": "C"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8i/5x/p10gbmsk0ocosg8wok04s/megane-3-hatch.310.jpg"
+        }
+      },
+      {
+        "BrandID": 108,
+        "ModelID": 416571,
+        "Brand Name": "Renault",
+        "Model Name": "Megane E-Tech",
+        "Serie Name": "Megane E-Tech Electric",
+        "Years": "2022 - Present",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Electric",
+          "engine": "Electric Motor 40kWh/60kWh",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Renault Megane to fundament europejskiej klasy kompaktowej, oferujący szeroką gamę wersji – od rodzinnych kombi po wyczynowe modele RS. Najnowsza generacja E-Tech przenosi ten kultowy model w świat pełnej elektromobilności, łącząc futurystyczny styl z zaawansowaną technologią.",
+              "en": "Renault Megane is the foundation of the European compact class, offering a wide range of versions - from family station wagons to high-performance RS models. The latest generation of E-Tech takes this iconic model into the world of full electromobility, combining futuristic style with advanced technology.",
+              "de": "Renault Megane ist das Fundament der europäischen Kompaktklasse und bietet eine breite Palette an Versionen – vom Familienkombi bis zum leistungsstarken RS-Modell. Die neueste E-Tech-Generation führt dieses ikonische Modell in die Welt der vollständigen Elektromobilität und kombiniert futuristischen Stil mit fortschrittlicher Technologie.",
+              "uk": "Renault Megane є основою європейського компактного класу, пропонуючи широкий спектр версій - від сімейних універсалів до високопродуктивних моделей RS. Останнє покоління E-Tech переносить цю культову модель у світ повної електромобільності, поєднуючи футуристичний стиль із передовими технологіями.",
+              "ru": "Renault Megane — это основа европейского компактного класса, предлагающая широкий выбор версий — от семейных универсалов до высокопроизводительных моделей RS. Последнее поколение E-Tech переносит эту культовую модель в мир полной электромобильности, сочетая футуристический стиль с передовыми технологиями.",
+              "zh": "雷诺梅甘娜是欧洲紧凑型车的基础，提供多种版本 - 从家庭旅行车到高性能 RS 车型。最新一代的 E-Tech 将这一标志性车型带入了纯电动汽车的世界，将未来风格与先进技术相结合。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "okres produkcji": {
+                "pl": "od 1995",
+                "en": "from 1995",
+                "de": "ab 1995",
+                "uk": "з 1995",
+                "ru": "с 1995 года.",
+                "zh": "1995 年起"
+              },
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Compact)",
+                "uk": "C (Compact)",
+                "ru": "C (Компакт)",
+                "zh": "C（紧凑型）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8i/5x/p10gbmsk0ocosg8wok04s/megane-3-hatch.310.jpg"
+        }
+      }
+    ],
+    "Captur": [
+      {
+        "BrandID": 108,
+        "ModelID": 413863,
+        "Brand Name": "Renault",
+        "Model Name": "Captur",
+        "Serie Name": "Captur I",
+        "Years": "2013 - 2019",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment B-SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "0.9L Turbo - 1.5L dCi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Renault to francuski gigant motoryzacyjny, pionier w dziedzinie minivanów (Espace) i aut miejskich (Twingo, Clio). Słynie z innowacyjności i designu.",
+              "en": "Renault is a French automotive giant, a pioneer in the field of minivans (Espace) and city cars (Twingo, Clio). It is famous for innovation and design.",
+              "de": "Renault ist ein französischer Automobilriese, ein Pionier im Bereich Minivans (Espace) und Stadtautos (Twingo, Clio). Es ist berühmt für Innovation und Design.",
+              "uk": "Renault — французький автомобільний гігант, піонер у галузі мінівенів (Espace) і міських автомобілів (Twingo, Clio). Він славиться інноваціями та дизайном.",
+              "ru": "Renault — французский автомобильный гигант, пионер в области минивэнов (Espace) и городских автомобилей (Twingo, Clio). Он славится инновациями и дизайном.",
+              "zh": "雷诺是法国汽车巨头，是小型货车（Espace）和城市汽车（Twingo、Clio）领域的先驱。它以创新和设计而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "siedziba": {
+                "pl": "Boulogne-Billancourt, Francja",
+                "en": "Boulogne-Billancourt, France",
+                "de": "Boulogne-Billancourt, Frankreich",
+                "uk": "Булонь-Бійанкур, Франція",
+                "ru": "Булонь-Бийанкур, Франция",
+                "zh": "法国布洛涅-比扬古"
+              },
+              "założona": "1899"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/e4/ca/mng0srkko0wwoowkww4gk/renault-captur-03.310.jpg"
+        }
+      },
+      {
+        "BrandID": 108,
+        "ModelID": 415411,
+        "Brand Name": "Renault",
+        "Model Name": "Captur",
+        "Serie Name": "Captur II",
+        "Years": "2019 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment B-SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "1.0L Turbo - 1.6L E-Tech",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Renault Captur to miejski SUV, który zdobył serca kierowców swoją wszechstronnością i możliwościami personalizacji. Podwyższone nadwozie, przesuwna tylna kanapa i nowoczesne napędy hybrydowe czynią go jednym z najbardziej praktycznych aut w swojej klasie.",
+              "en": "Renault Captur is a city SUV that has won the hearts of drivers with its versatility and personalization options. The raised body, sliding rear seat and modern hybrid drives make it one of the most practical cars in its class.",
+              "de": "Renault Captur ist ein Stadt-SUV, der mit seiner Vielseitigkeit und Personalisierungsmöglichkeiten die Herzen der Autofahrer erobert hat. Die erhöhte Karosserie, die verschiebbare Rückbank und moderne Hybridantriebe machen ihn zu einem der praktischsten Autos seiner Klasse.",
+              "uk": "Renault Captur — міський позашляховик, який підкорив серця водіїв своєю універсальністю та можливостями персоналізації. Піднятий кузов, зсувне заднє сидіння та сучасні гібридні приводи роблять його одним із найпрактичніших автомобілів у своєму класі.",
+              "ru": "Renault Captur — городской внедорожник, покоривший сердца водителей своей универсальностью и возможностями персонализации. Приподнятый кузов, сдвижное заднее сиденье и современные гибридные приводы делают его одним из самых практичных автомобилей в своем классе.",
+              "zh": "雷诺 Captur 是一款城市 SUV，以其多功能性和个性化选项赢得了驾驶者的心。升高的车身、滑动后座和现代混合动力驱动使其成为同类产品中最实用的汽车之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "okres produkcji": {
+                "pl": "od 2013",
+                "en": "since 2013",
+                "de": "seit 2013",
+                "uk": "з 2013",
+                "ru": "с 2013 года",
+                "zh": "自2013年起"
+              },
+              "segment": {
+                "pl": "B-SUV"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/e4/ca/mng0srkko0wwoowkww4gk/renault-captur-03.310.jpg"
+        }
+      }
+    ],
+    "Kadjar": [
+      {
+        "BrandID": 108,
+        "ModelID": 414306,
+        "Brand Name": "Renault",
+        "Model Name": "Kadjar",
+        "Serie Name": "Kadjar",
+        "Years": "2015 - 2022",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment C-SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L Turbo - 1.6L dCi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Renault to francuski gigant motoryzacyjny, pionier w dziedzinie minivanów (Espace) i aut miejskich (Twingo, Clio). Słynie z innowacyjności i designu.",
+              "en": "Renault is a French automotive giant, a pioneer in the field of minivans (Espace) and city cars (Twingo, Clio). It is famous for innovation and design.",
+              "de": "Renault ist ein französischer Automobilriese, ein Pionier im Bereich Minivans (Espace) und Stadtautos (Twingo, Clio). Es ist berühmt für Innovation und Design.",
+              "uk": "Renault — французький автомобільний гігант, піонер у галузі мінівенів (Espace) та міських автомобілів (Twingo, Clio). Він славиться інноваціями та дизайном.",
+              "ru": "Renault — французский автомобильный гигант, пионер в области минивэнов (Espace) и городских автомобилей (Twingo, Clio). Он славится инновациями и дизайном.",
+              "zh": "雷诺是法国汽车巨头，小型货车（Espace）和城市汽车（Twingo、Clio）领域的先驱。它以创新和设计而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "siedziba": {
+                "pl": "Boulogne-Billancourt, Francja",
+                "en": "Boulogne-Billancourt, France",
+                "de": "Boulogne-Billancourt, Frankreich",
+                "uk": "Булонь-Бійанкур, Франція",
+                "ru": "Булонь-Бийанкур, Франция",
+                "zh": "法国布洛涅-比扬古"
+              },
+              "założona": "1899"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bu/fn/o6vzfxss0cgg0ccsckk4w/renault.310.jpg"
+        }
+      }
+    ],
+    "Austral": [
+      {
+        "BrandID": 108,
+        "ModelID": 416572,
+        "Brand Name": "Renault",
+        "Model Name": "Austral",
+        "Serie Name": "Austral",
+        "Years": "2022 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment C-SUV",
+          "drive": "FWD",
+          "fuel": "Hybrid",
+          "engine": "1.2L - 1.3L Mild Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Renault Austral to nowoczesny SUV, który wprowadził nową jakość wykończenia i technologii do gamy marki. Wyposażony w system 4Control Advanced oraz zaawansowane napędy hybrydowe, oferuje unikalne połączenie zwrotności i komfortu.",
+              "en": "Renault Austral is a modern SUV that introduced a new quality of finish and technology to the brand's range. Equipped with the 4Control Advanced system and advanced hybrid drives, it offers a unique combination of maneuverability and comfort.",
+              "de": "Renault Austral ist ein moderner SUV, der eine neue Qualität in Verarbeitung und Technologie in die Produktpalette der Marke einführte. Ausgestattet mit dem 4Control Advanced-System und fortschrittlichen Hybridantrieben bietet es eine einzigartige Kombination aus Manövrierfähigkeit und Komfort.",
+              "uk": "Renault Austral — це сучасний позашляховик, який представив нову якість обробки та технології в лінійку бренду. Оснащений системою 4Control Advanced і передовими гібридними приводами, він пропонує унікальне поєднання маневреності та комфорту.",
+              "ru": "Renault Austral — современный внедорожник, привнесший в модельный ряд бренда новое качество отделки и технологий. Оснащенный системой 4Control Advanced и усовершенствованными гибридными приводами, он предлагает уникальное сочетание маневренности и комфорта.",
+              "zh": "雷诺 Austral 是一款现代 SUV，为该品牌的产品系列引入了新的饰面质量和技术。它配备了 4Control Advanced 系统和先进的混合动力驱动器，提供了机动性和舒适性的独特组合。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "okres produkcji": {
+                "pl": "od 2022",
+                "en": "from 2022",
+                "de": "ab 2022",
+                "uk": "з 2022 року",
+                "ru": "с 2022 года",
+                "zh": "2022 年起"
+              },
+              "segment": {
+                "pl": "C-SUV"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Arkana": [
+      {
+        "BrandID": 108,
+        "ModelID": 415423,
+        "Brand Name": "Renault",
+        "Model Name": "Arkana",
+        "Serie Name": "Arkana",
+        "Years": "2020 - Present",
+        "specs": {
+          "bodyType": "Coupe SUV",
+          "segment": "Segment C-SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.3L Turbo - 1.6L E-Tech",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Renault Arkana to stylowy SUV Coupe, który łączy dynamiczną sylwetkę z funkcjonalnością auta rodzinnego. Jego sportowy charakter i oszczędne napędy E-Tech sprawiają, że wyróżnia się na tle klasycznych SUV-ów.",
+              "en": "Renault Arkana is a stylish SUV Coupe that combines a dynamic silhouette with the functionality of a family car. Its sporty character and fuel-efficient E-Tech drives make it stand out from classic SUVs.",
+              "de": "Renault Arkana ist ein stilvolles SUV-Coupé, das eine dynamische Silhouette mit der Funktionalität eines Familienautos verbindet. Sein sportlicher Charakter und die sparsamen E-Tech-Antriebe heben ihn von klassischen SUVs ab.",
+              "uk": "Renault Arkana — це стильний позашляховик-купе, який поєднує в собі динамічний силует із функціональністю сімейного автомобіля. Його спортивний характер і економічні приводи E-Tech відрізняють його від класичних позашляховиків.",
+              "ru": "Renault Arkana — стильный внедорожник-купе, сочетающий в себе динамичный силуэт с функциональностью семейного автомобиля. Его спортивный характер и экономичные приводы E-Tech выделяют его среди классических внедорожников.",
+              "zh": "雷诺 Arkana 是一款时尚 SUV 轿跑车，将动感轮廓与家庭用车的功能融为一体。其运动特性和节能的 E-Tech 驱动装置使其在经典 SUV​​ 中脱颖而出。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "okres produkcji": {
+                "pl": "od 2020",
+                "en": "from 2020",
+                "de": "ab 2020",
+                "uk": "з 2020 року",
+                "ru": "с 2020 года",
+                "zh": "2020 年起"
+              },
+              "segment": {
+                "pl": "C-SUV Coupe",
+                "en": "C-SUV Coupe",
+                "de": "C-SUV-Coupé",
+                "uk": "C-SUV Coupe",
+                "ru": "C-внедорожник купе",
+                "zh": "C-SUV Coupe"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Koleos": [
+      {
+        "BrandID": 108,
+        "ModelID": 1335,
+        "Brand Name": "Renault",
+        "Model Name": "Koleos",
+        "Serie Name": "Koleos I",
+        "Years": "2007 - 2016",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment D-SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.5L - 2.0L dCi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Renault to francuski gigant motoryzacyjny, pionier w dziedzinie minivanów (Espace) i aut miejskich (Twingo, Clio). Słynie z innowacyjności i designu.",
+              "en": "Renault is a French automotive giant, a pioneer in the field of minivans (Espace) and city cars (Twingo, Clio). It is famous for innovation and design.",
+              "de": "Renault ist ein französischer Automobilriese, ein Pionier im Bereich Minivans (Espace) und Stadtautos (Twingo, Clio). Es ist berühmt für Innovation und Design.",
+              "uk": "Renault — французький автомобільний гігант, піонер у галузі мінівенів (Espace) та міських автомобілів (Twingo, Clio). Він славиться інноваціями та дизайном.",
+              "ru": "Renault — французский автомобильный гигант, пионер в области минивэнов (Espace) и городских автомобилей (Twingo, Clio). Он славится инновациями и дизайном.",
+              "zh": "雷诺是法国汽车巨头，小型货车（Espace）和城市汽车（Twingo、Clio）领域的先驱。它以创新和设计而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "siedziba": {
+                "pl": "Boulogne-Billancourt, Francja",
+                "en": "Boulogne-Billancourt, France",
+                "de": "Boulogne-Billancourt, Frankreich",
+                "uk": "Булонь-Бійанкур, Франція",
+                "ru": "Булонь-Бийанкур, Франция",
+                "zh": "法国布洛涅-比扬古"
+              },
+              "założona": "1899"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bf/av/sq9m59ko4sg4kgcggkkos/renault-koleos-03.310.jpg"
+        }
+      },
+      {
+        "BrandID": 108,
+        "ModelID": 414307,
+        "Brand Name": "Renault",
+        "Model Name": "Koleos",
+        "Serie Name": "Koleos II",
+        "Years": "2016 - 2023",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment D-SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Diesel/Gasoline",
+          "engine": "1.6L - 2.0L dCi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Renault to francuski gigant motoryzacyjny, pionier w dziedzinie minivanów (Espace) i aut miejskich (Twingo, Clio). Słynie z innowacyjności i designu.",
+              "en": "Renault is a French automotive giant, a pioneer in the field of minivans (Espace) and city cars (Twingo, Clio). It is famous for innovation and design.",
+              "de": "Renault ist ein französischer Automobilriese, ein Pionier im Bereich Minivans (Espace) und Stadtautos (Twingo, Clio). Es ist berühmt für Innovation und Design.",
+              "uk": "Renault — французький автомобільний гігант, піонер у галузі мінівенів (Espace) і міських автомобілів (Twingo, Clio). Він славиться інноваціями та дизайном.",
+              "ru": "Renault — французский автомобильный гигант, пионер в области минивэнов (Espace) и городских автомобилей (Twingo, Clio). Он славится инновациями и дизайном.",
+              "zh": "雷诺是法国汽车巨头，是小型货车（Espace）和城市汽车（Twingo、Clio）领域的先驱。它以创新和设计而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "siedziba": {
+                "pl": "Boulogne-Billancourt, Francja",
+                "en": "Boulogne-Billancourt, France",
+                "de": "Boulogne-Billancourt, Frankreich",
+                "uk": "Булонь-Бійанкур, Франція",
+                "ru": "Булонь-Бийанкур, Франция",
+                "zh": "法国布洛涅-比扬古"
+              },
+              "założona": "1899"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bf/av/sq9m59ko4sg4kgcggkkos/renault-koleos-03.310.jpg"
+        }
+      }
+    ],
+    "Scenic": [
+      {
+        "BrandID": 108,
+        "ModelID": 133403,
+        "Brand Name": "Renault",
+        "Model Name": "Scenic",
+        "Serie Name": "Scenic I",
+        "Years": "1996 - 2003",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Compact MPV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Renault to francuski gigant motoryzacyjny, pionier w dziedzinie minivanów (Espace) i aut miejskich (Twingo, Clio). Słynie z innowacyjności i designu.",
+              "en": "Renault is a French automotive giant, a pioneer in the field of minivans (Espace) and city cars (Twingo, Clio). It is famous for innovation and design.",
+              "de": "Renault ist ein französischer Automobilriese, ein Pionier im Bereich Minivans (Espace) und Stadtautos (Twingo, Clio). Es ist berühmt für Innovation und Design.",
+              "uk": "Renault — французький автомобільний гігант, піонер у галузі мінівенів (Espace) і міських автомобілів (Twingo, Clio). Він славиться інноваціями та дизайном.",
+              "ru": "Renault — французский автомобильный гигант, пионер в области минивэнов (Espace) и городских автомобилей (Twingo, Clio). Он славится инновациями и дизайном.",
+              "zh": "雷诺是法国汽车巨头，是小型货车（Espace）和城市汽车（Twingo、Clio）领域的先驱。它以创新和设计而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "siedziba": {
+                "pl": "Boulogne-Billancourt, Francja",
+                "en": "Boulogne-Billancourt, France",
+                "de": "Boulogne-Billancourt, Frankreich",
+                "uk": "Булонь-Бійанкур, Франція",
+                "ru": "Булонь-Бийанкур, Франция",
+                "zh": "法国布洛涅-比扬古"
+              },
+              "założona": "1899"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2n/1c/2x5xzvswoc4cc4cgw4wkw/scenic-3.310.jpg"
+        }
+      },
+      {
+        "BrandID": 108,
+        "ModelID": 133409,
+        "Brand Name": "Renault",
+        "Model Name": "Scenic",
+        "Serie Name": "Scenic II",
+        "Years": "2003 - 2009",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Renault to francuski gigant motoryzacyjny, pionier w dziedzinie minivanów (Espace) i aut miejskich (Twingo, Clio). Słynie z innowacyjności i designu.",
+              "en": "Renault is a French automotive giant, a pioneer in the field of minivans (Espace) and city cars (Twingo, Clio). It is famous for innovation and design.",
+              "de": "Renault ist ein französischer Automobilriese, ein Pionier im Bereich Minivans (Espace) und Stadtautos (Twingo, Clio). Es ist berühmt für Innovation und Design.",
+              "uk": "Renault — французький автомобільний гігант, піонер у галузі мінівенів (Espace) і міських автомобілів (Twingo, Clio). Він славиться інноваціями та дизайном.",
+              "ru": "Renault — французский автомобильный гигант, пионер в области минивэнов (Espace) и городских автомобилей (Twingo, Clio). Он славится инновациями и дизайном.",
+              "zh": "雷诺是法国汽车巨头，是小型货车（Espace）和城市汽车（Twingo、Clio）领域的先驱。它以创新和设计而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "siedziba": {
+                "pl": "Boulogne-Billancourt, Francja",
+                "en": "Boulogne-Billancourt, France",
+                "de": "Boulogne-Billancourt, Frankreich",
+                "uk": "Булонь-Бійанкур, Франція",
+                "ru": "Булонь-Бийанкур, Франция",
+                "zh": "法国布洛涅-比扬古"
+              },
+              "założona": "1899"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2n/1c/2x5xzvswoc4cc4cgw4wkw/scenic-3.310.jpg"
+        }
+      },
+      {
+        "BrandID": 108,
+        "ModelID": 413364,
+        "Brand Name": "Renault",
+        "Model Name": "Scenic",
+        "Serie Name": "Scenic III",
+        "Years": "2009 - 2016",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L Turbo - 2.0L dCi",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Renault to francuski gigant motoryzacyjny, pionier w dziedzinie minivanów (Espace) i aut miejskich (Twingo, Clio). Słynie z innowacyjności i designu.",
+              "en": "Renault is a French automotive giant, a pioneer in the field of minivans (Espace) and city cars (Twingo, Clio). It is famous for innovation and design.",
+              "de": "Renault ist ein französischer Automobilriese, ein Pionier im Bereich Minivans (Espace) und Stadtautos (Twingo, Clio). Es ist berühmt für Innovation und Design.",
+              "uk": "Renault — французький автомобільний гігант, піонер у галузі мінівенів (Espace) і міських автомобілів (Twingo, Clio). Він славиться інноваціями та дизайном.",
+              "ru": "Renault — французский автомобильный гигант, пионер в области минивэнов (Espace) и городских автомобилей (Twingo, Clio). Он славится инновациями и дизайном.",
+              "zh": "雷诺是法国汽车巨头，是小型货车（Espace）和城市汽车（Twingo、Clio）领域的先驱。它以创新和设计而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "siedziba": {
+                "pl": "Boulogne-Billancourt, Francja",
+                "en": "Boulogne-Billancourt, France",
+                "de": "Boulogne-Billancourt, Frankreich",
+                "uk": "Булонь-Бійанкур, Франція",
+                "ru": "Булонь-Бийанкур, Франция",
+                "zh": "法国布洛涅-比扬古"
+              },
+              "założona": "1899"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2n/1c/2x5xzvswoc4cc4cgw4wkw/scenic-3.310.jpg"
+        }
+      },
+      {
+        "BrandID": 108,
+        "ModelID": 413365,
+        "Brand Name": "Renault",
+        "Model Name": "Scenic",
+        "Serie Name": "Scenic IV",
+        "Years": "2016 - 2022",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L Turbo - 1.6L dCi",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Renault to francuski gigant motoryzacyjny, pionier w dziedzinie minivanów (Espace) i aut miejskich (Twingo, Clio). Słynie z innowacyjności i designu.",
+              "en": "Renault is a French automotive giant, a pioneer in the field of minivans (Espace) and city cars (Twingo, Clio). It is famous for innovation and design.",
+              "de": "Renault ist ein französischer Automobilriese, ein Pionier im Bereich Minivans (Espace) und Stadtautos (Twingo, Clio). Es ist berühmt für Innovation und Design.",
+              "uk": "Renault — французький автомобільний гігант, піонер у галузі мінівенів (Espace) і міських автомобілів (Twingo, Clio). Він славиться інноваціями та дизайном.",
+              "ru": "Renault — французский автомобильный гигант, пионер в области минивэнов (Espace) и городских автомобилей (Twingo, Clio). Он славится инновациями и дизайном.",
+              "zh": "雷诺是法国汽车巨头，是小型货车（Espace）和城市汽车（Twingo、Clio）领域的先驱。它以创新和设计而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "siedziba": {
+                "pl": "Boulogne-Billancourt, Francja",
+                "en": "Boulogne-Billancourt, France",
+                "de": "Boulogne-Billancourt, Frankreich",
+                "uk": "Булонь-Бійанкур, Франція",
+                "ru": "Булонь-Бийанкур, Франция",
+                "zh": "法国布洛涅-比扬古"
+              },
+              "założona": "1899"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2n/1c/2x5xzvswoc4cc4cgw4wkw/scenic-3.310.jpg"
+        }
+      },
+      {
+        "BrandID": 108,
+        "ModelID": 416573,
+        "Brand Name": "Renault",
+        "Model Name": "Scenic E-Tech",
+        "Serie Name": "Scenic E-Tech Electric",
+        "Years": "2024 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment C-SUV",
+          "drive": "FWD",
+          "fuel": "Electric",
+          "engine": "Electric Motor 60kWh/87kWh",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Renault Scenic to model, który stworzył segment kompaktowych minivanów. Z każdą generacją redefiniował komfort podróżowania z rodziną, a najnowsza odsłona E-Tech przekształciła go w nowoczesnego, w pełni elektrycznego SUV-a.",
+              "en": "Renault Scenic is the model that created the compact minivan segment. With each generation, it redefined the comfort of traveling with the family, and the latest version of E-Tech transformed it into a modern, fully electric SUV.",
+              "de": "Renault Scenic ist das Modell, das das Segment der kompakten Minivans geschaffen hat. Mit jeder Generation definierte er den Komfort des Reisens mit der Familie neu und die neueste Version von E-Tech verwandelte ihn in einen modernen, vollelektrischen SUV.",
+              "uk": "Renault Scenic — це модель, яка створила сегмент компактних мінівенів. З кожним поколінням він переосмислював комфорт подорожей із сім’єю, а остання версія E-Tech перетворила його на сучасний, повністю електричний SUV.",
+              "ru": "Renault Scenic – модель, создавшая сегмент компактных минивэнов. С каждым поколением он по-новому определял комфорт путешествий с семьей, а последняя версия E-Tech превратила его в современный полностью электрический внедорожник.",
+              "zh": "雷诺 Scenic 是开创紧凑型小型货车市场的车型。每一代它都重新定义了与家人一起旅行的舒适度，而最新版本的 E-Tech 将其转变为一款现代的全电动 SUV。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "okres produkcji": {
+                "pl": "od 1996",
+                "en": "from 1996",
+                "de": "ab 1996",
+                "uk": "з 1996 року",
+                "ru": "с 1996 года",
+                "zh": "1996 年起"
+              },
+              "segment": {
+                "pl": "MPV / C-SUV (E-Tech)",
+                "en": "MPV / C-SUV (E-Tech)",
+                "de": "MPV / C-SUV (E-Tech)",
+                "uk": "MPV / C-SUV (E-Tech)",
+                "ru": "MPV/C-внедорожник (E-Tech)",
+                "zh": "MPV / C-SUV (E-Tech)"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2n/1c/2x5xzvswoc4cc4cgw4wkw/scenic-3.310.jpg"
+        }
+      }
+    ],
+    "Espace": [
+      {
+        "BrandID": 108,
+        "ModelID": 132112,
+        "Brand Name": "Renault",
+        "Model Name": "Espace",
+        "Serie Name": "Espace IV",
+        "Years": "2002 - 2014",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Large MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L Turbo - 3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Renault_Espace_front_20080930.jpg/1280px-Renault_Espace_front_20080930.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Renault_Espace_front_20080930.jpg/1280px-Renault_Espace_front_20080930.jpg"
+            ],
+            "description": {
+              "pl": "Renault Espace to prekursor europejskich minivanów. Z każdą generacją stawał się coraz bardziej luksusowy, ewoluując ostatnio w dużego SUV-a.",
+              "en": "Renault Espace is the precursor of European minivans. With each generation it became more and more luxurious, recently evolving into a large SUV.",
+              "de": "Renault Espace ist der Vorläufer europäischer Minivans. Mit jeder Generation wurde er immer luxuriöser und entwickelte sich kürzlich zu einem großen SUV.",
+              "uk": "Renault Espace є попередником європейських мінівенів. З кожним поколінням він ставав все більш розкішним, нещодавно перетворившись на великий позашляховик.",
+              "ru": "Renault Espace – предшественник европейских минивэнов. С каждым поколением он становился все более роскошным, а недавно превратился в большой внедорожник.",
+              "zh": "雷诺 Espace 是欧洲小型货车的前身。每一代它都变得越来越豪华，最近演变成大型SUV。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "okres produkcji": {
+                "pl": "od 1984",
+                "en": "since 1984",
+                "de": "seit 1984",
+                "uk": "з 1984 року",
+                "ru": "с 1984 года",
+                "zh": "自 1984 年"
+              },
+              "segment": {
+                "pl": "Minivan / E-SUV",
+                "en": "Minivan / E-SUV",
+                "de": "Minivan / E-SUV",
+                "uk": "Мінівен / E-SUV",
+                "ru": "Минивэн/электронный внедорожник",
+                "zh": "小型货车/电动SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5j/al/tsrp4r0oo480wkss48wws/renault-espace-7.310.jpg"
+        }
+      },
+      {
+        "BrandID": 108,
+        "ModelID": 133578,
+        "Brand Name": "Renault",
+        "Model Name": "Espace",
+        "Serie Name": "Espace V",
+        "Years": "2015 - 2023",
+        "specs": {
+          "bodyType": "Minivan/Crossover",
+          "segment": "Large MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L Turbo - 2.0L dCi",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Renault Espace to prekursor europejskich minivanów. Z każdą generacją stawał się coraz bardziej luksusowy, ewoluując ostatnio w dużego SUV-a.",
+              "en": "Renault Espace is the precursor of European minivans. With each generation it became more and more luxurious, recently evolving into a large SUV.",
+              "de": "Renault Espace ist der Vorläufer europäischer Minivans. Mit jeder Generation wurde er immer luxuriöser und entwickelte sich kürzlich zu einem großen SUV.",
+              "uk": "Renault Espace є попередником європейських мінівенів. З кожним поколінням він ставав все більш розкішним, нещодавно перетворившись на великий позашляховик.",
+              "ru": "Renault Espace – предшественник европейских минивэнов. С каждым поколением он становился все более роскошным, а недавно превратился в большой внедорожник.",
+              "zh": "雷诺 Espace 是欧洲小型货车的先驱。每一代它都变得越来越豪华，最近演变成大型SUV。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "okres produkcji": {
+                "pl": "od 1984",
+                "en": "since 1984",
+                "de": "seit 1984",
+                "uk": "з 1984 року",
+                "ru": "с 1984 года",
+                "zh": "自1984年以来"
+              },
+              "segment": {
+                "pl": "Minivan / E-SUV",
+                "en": "Minivan / E-SUV",
+                "de": "Minivan / E-SUV",
+                "uk": "Minivan / E-SUV",
+                "ru": "Минивэн/электронный внедорожник",
+                "zh": "小型货车/电动SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5j/al/tsrp4r0oo480wkss48wws/renault-espace-7.310.jpg"
+        }
+      },
+      {
+        "BrandID": 108,
+        "ModelID": 416574,
+        "Brand Name": "Renault",
+        "Model Name": "Espace",
+        "Serie Name": "Espace VI",
+        "Years": "2023 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment D-SUV",
+          "drive": "FWD",
+          "fuel": "Hybrid",
+          "engine": "1.2L E-Tech Full Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Renault Espace to absolutny pionier i ikona segmentu minivanów w Europie. Przez lata oferował bezkonkurencyjną przestrzeń i luksus dla całej rodziny, by w najnowszej wersji stać się flagowym SUV-em marki, kładącym nacisk na elegancję i zaawansowaną hybrydyzację.",
+              "en": "Renault Espace is an absolute pioneer and icon of the minivan segment in Europe. For years, it has offered unrivaled space and luxury for the whole family, and in its latest version it has become the brand's flagship SUV, emphasizing elegance and advanced hybridization.",
+              "de": "Renault Espace ist ein absoluter Pionier und eine Ikone des Minivan-Segments in Europa. Seit Jahren bietet er unvergleichlichen Platz und Luxus für die ganze Familie und ist in seiner neuesten Version zum Flaggschiff-SUV der Marke geworden, das Eleganz und fortschrittliche Hybridisierung in den Vordergrund stellt.",
+              "uk": "Renault Espace є абсолютним піонером і іконою сегменту мінівенів у Європі. Протягом багатьох років він пропонує неперевершений простір і розкіш для всієї родини, а в останній версії він став флагманським позашляховиком бренду, підкреслюючи елегантність і передову гібридизацію.",
+              "ru": "Renault Espace – абсолютный пионер и икона сегмента минивэнов в Европе. На протяжении многих лет он предлагал непревзойденное пространство и роскошь для всей семьи, а в своей последней версии он стал флагманским внедорожником бренда, подчеркивающим элегантность и передовую гибридизацию.",
+              "zh": "雷诺 Espace 是欧洲小型货车领域的绝对先驱和标志。多年来，它为整个家庭提供了无与伦比的空间和豪华感，在其最新版本中，它已成为该品牌的旗舰 SUV，强调优雅和先进的混合动力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "okres produkcji": {
+                "pl": "od 1984",
+                "en": "since 1984",
+                "de": "seit 1984",
+                "uk": "з 1984",
+                "ru": "с 1984 года",
+                "zh": "自1984年以来"
+              },
+              "segment": {
+                "pl": "MPV / D-SUV",
+                "en": "MPV / D-SUV",
+                "de": "MPV / D-SUV",
+                "uk": "MPV / D-SUV",
+                "ru": "МПВ/Д-внедорожник",
+                "zh": "MPV/D-SUV"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5j/al/tsrp4r0oo480wkss48wws/renault-espace-7.310.jpg"
+        }
+      }
+    ],
+    "Laguna": [
+      {
+        "BrandID": 108,
+        "ModelID": 131844,
+        "Brand Name": "Renault",
+        "Model Name": "Laguna",
+        "Serie Name": "Laguna II",
+        "Years": "2001 - 2007",
+        "specs": {
+          "bodyType": "Hatchback/Wagon",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 3.0L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Renault to francuski gigant motoryzacyjny, pionier w dziedzinie minivanów (Espace) i aut miejskich (Twingo, Clio). Słynie z innowacyjności i designu.",
+              "en": "Renault is a French automotive giant, a pioneer in the field of minivans (Espace) and city cars (Twingo, Clio). It is famous for innovation and design.",
+              "de": "Renault ist ein französischer Automobilriese, ein Pionier im Bereich Minivans (Espace) und Stadtautos (Twingo, Clio). Es ist berühmt für Innovation und Design.",
+              "uk": "Renault — французький автомобільний гігант, піонер у галузі мінівенів (Espace) і міських автомобілів (Twingo, Clio). Він славиться інноваціями та дизайном.",
+              "ru": "Renault — французский автомобильный гигант, пионер в области минивэнов (Espace) и городских автомобилей (Twingo, Clio). Он славится инновациями и дизайном.",
+              "zh": "雷诺是法国汽车巨头，是小型货车（Espace）和城市汽车（Twingo、Clio）领域的先驱。它以创新和设计而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "siedziba": {
+                "pl": "Boulogne-Billancourt, Francja",
+                "en": "Boulogne-Billancourt, France",
+                "de": "Boulogne-Billancourt, Frankreich",
+                "uk": "Булонь-Бійанкур, Франція",
+                "ru": "Булонь-Бийанкур, Франция",
+                "zh": "法国布洛涅-比扬古"
+              },
+              "założona": "1899"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6b/zr/0mim1vgg8kgcww0os0osc/laguna-3-coupe.310.jpg"
+        }
+      },
+      {
+        "BrandID": 108,
+        "ModelID": 413358,
+        "Brand Name": "Renault",
+        "Model Name": "Laguna",
+        "Serie Name": "Laguna III",
+        "Years": "2007 - 2015",
+        "specs": {
+          "bodyType": "Hatchback/Wagon/Coupe",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.5L dCi - 3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Renault Laguna to model klasy średniej, który zasłynął pionierskimi systemami bezpieczeństwa (pierwsze 5 gwiazdek Euro NCAP) oraz świetnym komfortem. Wersja Coupe z systemem 4Control do dziś pozostaje jednym z najbardziej stylowych projektów marki.",
+              "en": "Renault Laguna is a mid-range model famous for its pioneering safety systems (the first 5 Euro NCAP stars) and great comfort. The Coupe version with the 4Control system remains one of the brand's most stylish designs to this day.",
+              "de": "Renault Laguna ist ein Mittelklassemodell, das für seine bahnbrechenden Sicherheitssysteme (die ersten 5 Euro NCAP-Sterne) und seinen hohen Komfort bekannt ist. Die Coupé-Version mit 4Control-System gehört bis heute zu den stilvollsten Designs der Marke.",
+              "uk": "Renault Laguna — це модель середнього класу, відома своїми новаторськими системами безпеки (перші 5 зірок Euro NCAP) і чудовим комфортом. Версія Coupe із системою 4Control донині залишається одним із найстильніших дизайнів бренду.",
+              "ru": "Renault Laguna — модель среднего класса, известная своими новаторскими системами безопасности (первые 5 звезд Euro NCAP) и высочайшим комфортом. Версия купе с системой 4Control и по сей день остается одной из самых стильных разработок бренда.",
+              "zh": "雷诺拉古纳 (Renault Laguna) 是一款中档车型，以其开创性的安全系统（首批 5 颗欧洲 NCAP 星星）和卓越的舒适性而闻名。配备 4Control 系统的 Coupe 版本至今仍是该品牌最时尚的设计之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "okres produkcji": "1994–2015",
+              "segment": {
+                "pl": "D (Klasa średnia)",
+                "en": "D (Middle class)",
+                "de": "D (Mittelklasse)",
+                "uk": "D (Середній клас)",
+                "ru": "Д (Средний класс)",
+                "zh": "D（中产阶级）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6b/zr/0mim1vgg8kgcww0os0osc/laguna-3-coupe.310.jpg"
+        }
+      }
+    ],
+    "Talisman": [
+      {
+        "BrandID": 108,
+        "ModelID": 413366,
+        "Brand Name": "Renault",
+        "Model Name": "Talisman",
+        "Serie Name": "Talisman",
+        "Years": "2015 - 2022",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.3L Turbo - 2.0L dCi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Renault to francuski gigant motoryzacyjny, pionier w dziedzinie minivanów (Espace) i aut miejskich (Twingo, Clio). Słynie z innowacyjności i designu.",
+              "en": "Renault is a French automotive giant, a pioneer in the field of minivans (Espace) and city cars (Twingo, Clio). It is famous for innovation and design.",
+              "de": "Renault ist ein französischer Automobilriese, ein Pionier im Bereich Minivans (Espace) und Stadtautos (Twingo, Clio). Es ist berühmt für Innovation und Design.",
+              "uk": "Renault — французький автомобільний гігант, піонер у галузі мінівенів (Espace) і міських автомобілів (Twingo, Clio). Він славиться інноваціями та дизайном.",
+              "ru": "Renault — французский автомобильный гигант, пионер в области минивэнов (Espace) и городских автомобилей (Twingo, Clio). Он славится инновациями и дизайном.",
+              "zh": "雷诺是法国汽车巨头，是小型货车（Espace）和城市汽车（Twingo、Clio）领域的先驱。它以创新和设计而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "siedziba": {
+                "pl": "Boulogne-Billancourt, Francja",
+                "en": "Boulogne-Billancourt, France",
+                "de": "Boulogne-Billancourt, Frankreich",
+                "uk": "Булонь-Бійанкур, Франція",
+                "ru": "Булонь-Бийанкур, Франция",
+                "zh": "法国布洛涅-比扬古"
+              },
+              "założona": "1899"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ax/7i/p3e9f20wkks8o4gkosc0o/renault-talisman-10.310.jpg"
+        }
+      }
+    ],
+    "Zoe": [
+      {
+        "BrandID": 108,
+        "ModelID": 413369,
+        "Brand Name": "Renault",
+        "Model Name": "Zoe",
+        "Serie Name": "Zoe",
+        "Years": "2012 - 2024",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Electric",
+          "engine": "Electric Motor 22kWh/41kWh/52kWh",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Renault Zoe to jeden z najważniejszych samochodów elektrycznych w historii, który udowodnił, że elektromobilność może być przystępna i praktyczna. Przez lata był najczęściej wybieranym autem EV w Europie, oferując imponujący zasięg w miejskiej formie.",
+              "en": "Renault Zoe is one of the most important electric cars in history, proving that electromobility can be affordable and practical. For years, it was the most frequently chosen EV in Europe, offering an impressive range in an urban form.",
+              "de": "Renault Zoe ist eines der wichtigsten Elektroautos der Geschichte und beweist, dass Elektromobilität erschwinglich und praktisch sein kann. Es war jahrelang das am häufigsten gewählte Elektrofahrzeug in Europa und bot eine beeindruckende Reichweite in urbaner Form.",
+              "uk": "Renault Zoe — один із найважливіших електромобілів в історії, який доводить, що електромобільність може бути доступною та практичною. Протягом багатьох років це був найбільш часто вибираний електромобіль у Європі, пропонуючи вражаючий діапазон у міській формі.",
+              "ru": "Renault Zoe — один из самых важных электромобилей в истории, доказывающий, что электромобильность может быть доступной и практичной. В течение многих лет это был наиболее часто выбираемый электромобиль в Европе, предлагающий впечатляющий запас хода в городском исполнении.",
+              "zh": "雷诺 Zoe 是历史上最重要的电动汽车之一，证明电动汽车可以负担得起且实用。多年来，它一直是欧洲最常选择的电动汽车，在城市中提供令人印象深刻的续航里程。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "okres produkcji": "2012–2024",
+              "segment": {
+                "pl": "B (Elektryczne miejskie)",
+                "en": "B (Electric city)",
+                "de": "B (Elektrostadt)",
+                "uk": "B (Electric city)",
+                "ru": "Б (Электрический город)",
+                "zh": "B（电力城）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4n/jx/33n82uqs0480goks0goc8/renault_zoe-2012_r49-jpg.310.jpg"
+        }
+      }
+    ],
+    "Twingo": [
+      {
+        "BrandID": 108,
+        "ModelID": 132483,
+        "Brand Name": "Renault",
+        "Model Name": "Twingo",
+        "Serie Name": "Twingo I",
+        "Years": "1993 - 2007",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment A (City Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.2L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Renault Twingo to genialny w swej prostocie samochód miejski, który zrewolucjonizował rynek swoją jednobryłową sylwetką i niesamowitą funkcjonalnością wnętrza. Od pierwszej generacji stał się symbolem radości z miejskiej jazdy i sprytnych rozwiązań.",
+              "en": "Renault Twingo is a city car, brilliant in its simplicity, which revolutionized the market with its single-body silhouette and incredible interior functionality. From the first generation, it became a symbol of the joy of city driving and clever solutions.",
+              "de": "Renault Twingo ist ein Stadtauto, das in seiner Einfachheit brillant ist und mit seiner einteiligen Silhouette und der unglaublichen Funktionalität des Innenraums den Markt revolutioniert hat. Von der ersten Generation an wurde es zum Symbol für die Freude am Fahren in der Stadt und clevere Lösungen.",
+              "uk": "Renault Twingo — це міський автомобіль, блискучий своєю простотою, який зробив революцію на ринку завдяки своєму однокузовому силуету та неймовірній функціональності салону. З першого покоління він став символом радості міської їзди та розумних рішень.",
+              "ru": "Renault Twingo — блестящий в своей простоте городской автомобиль, который произвел революцию на рынке благодаря своему однокузовному силуэту и невероятной функциональности салона. С первого поколения он стал символом удовольствия от вождения по городу и умных решений.",
+              "zh": "雷诺 Twingo 是一款城市汽车，简洁而出色，以其单体轮廓和令人难以置信的内部功能彻底改变了市场。从第一代开始，它就成为城市驾驶乐趣和巧妙解决方案的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "okres produkcji": {
+                "pl": "od 1992",
+                "en": "from 1992",
+                "de": "ab 1992",
+                "uk": "з 1992",
+                "ru": "с 1992 года",
+                "zh": "自1992年以来"
+              },
+              "segment": {
+                "pl": "A (Miejskie)",
+                "en": "A (City)",
+                "de": "A (Stadt)",
+                "uk": "A (міський)",
+                "ru": "А (Городской)",
+                "zh": "A（城市）"
+              },
+              "napęd": {
+                "pl": "FWD/RWD (III gen)",
+                "en": "FWD/RWD (3rd generation)",
+                "de": "FWD/RWD (3. Generation)",
+                "uk": "FWD/RWD (3-е покоління)",
+                "ru": "Передний/задний привод (III поколение)",
+                "zh": "前轮驱动/后轮驱动（第三代）"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/as/om/ox6zvns4c4gggkoc4gcs0/renault-twingo-1.310.jpg"
+        }
+      },
+      {
+        "BrandID": 108,
+        "ModelID": 133582,
+        "Brand Name": "Renault",
+        "Model Name": "Twingo",
+        "Serie Name": "Twingo II",
+        "Years": "2007 - 2014",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment A (City Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L - 1.6L RS",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Renault to francuski gigant motoryzacyjny, pionier w dziedzinie minivanów (Espace) i aut miejskich (Twingo, Clio). Słynie z innowacyjności i designu.",
+              "en": "Renault is a French automotive giant, a pioneer in the field of minivans (Espace) and city cars (Twingo, Clio). It is famous for innovation and design.",
+              "de": "Renault ist ein französischer Automobilriese, ein Pionier im Bereich Minivans (Espace) und Stadtautos (Twingo, Clio). Es ist berühmt für Innovation und Design.",
+              "uk": "Renault — французький автомобільний гігант, піонер у галузі мінівенів (Espace) і міських автомобілів (Twingo, Clio). Він славиться інноваціями та дизайном.",
+              "ru": "Renault — французский автомобильный гигант, пионер в области минивэнов (Espace) и городских автомобилей (Twingo, Clio). Он славится инновациями и дизайном.",
+              "zh": "雷诺是法国汽车巨头，是小型货车（Espace）和城市汽车（Twingo、Clio）领域的先驱。它以创新和设计而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "siedziba": {
+                "pl": "Boulogne-Billancourt, Francja",
+                "en": "Boulogne-Billancourt, France",
+                "de": "Boulogne-Billancourt, Frankreich",
+                "uk": "Булонь-Бійанкур, Франція",
+                "ru": "Булонь-Бийанкур, Франция",
+                "zh": "法国布洛涅-比扬古"
+              },
+              "założona": "1899"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/as/om/ox6zvns4c4gggkoc4gcs0/renault-twingo-1.310.jpg"
+        }
+      },
+      {
+        "BrandID": 108,
+        "ModelID": 413367,
+        "Brand Name": "Renault",
+        "Model Name": "Twingo",
+        "Serie Name": "Twingo III",
+        "Years": "2014 - Present",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment A (City Cars)",
+          "drive": "RWD",
+          "fuel": "Gasoline/Electric",
+          "engine": "0.9L Turbo / Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Renault to francuski gigant motoryzacyjny, pionier w dziedzinie minivanów (Espace) i aut miejskich (Twingo, Clio). Słynie z innowacyjności i designu.",
+              "en": "Renault is a French automotive giant, a pioneer in the field of minivans (Espace) and city cars (Twingo, Clio). It is famous for innovation and design.",
+              "de": "Renault ist ein französischer Automobilriese, ein Pionier im Bereich Minivans (Espace) und Stadtautos (Twingo, Clio). Es ist berühmt für Innovation und Design.",
+              "uk": "Renault — французький автомобільний гігант, піонер у галузі мінівенів (Espace) і міських автомобілів (Twingo, Clio). Він славиться інноваціями та дизайном.",
+              "ru": "Renault — французский автомобильный гигант, пионер в области минивэнов (Espace) и городских автомобилей (Twingo, Clio). Он славится инновациями и дизайном.",
+              "zh": "雷诺是法国汽车巨头，是小型货车（Espace）和城市汽车（Twingo、Clio）领域的先驱。它以创新和设计而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Renault"
+              },
+              "siedziba": {
+                "pl": "Boulogne-Billancourt, Francja",
+                "en": "Boulogne-Billancourt, France",
+                "de": "Boulogne-Billancourt, Frankreich",
+                "uk": "Булонь-Бійанкур, Франція",
+                "ru": "Булонь-Бийанкур, Франция",
+                "zh": "法国布洛涅-比扬古"
+              },
+              "założona": "1899"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/as/om/ox6zvns4c4gggkoc4gcs0/renault-twingo-1.310.jpg"
+        }
+      }
+    ]
+  }
+}

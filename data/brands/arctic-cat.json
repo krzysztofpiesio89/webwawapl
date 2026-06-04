@@ -1,0 +1,79 @@
+{
+  "brand": "Arctic Cat",
+  "models": {
+    "Wildcat": [
+      {
+        "BrandID": 221,
+        "ModelID": 415897,
+        "Brand Name": "Arctic Cat",
+        "Model Name": "Wildcat",
+        "Serie Name": "Wildcat 1000",
+        "Years": "2012 - 2018",
+        "specs": {
+          "bodyType": "UTV/Side-by-Side",
+          "segment": "Off-Road",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "951cc V-Twin",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      },
+      {
+        "BrandID": 221,
+        "ModelID": 415898,
+        "Brand Name": "Arctic Cat",
+        "Model Name": "Wildcat",
+        "Serie Name": "Wildcat XX",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "UTV/Side-by-Side",
+          "segment": "Off-Road",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "998cc Triple",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "Alterra": [
+      {
+        "BrandID": 221,
+        "ModelID": 415900,
+        "Brand Name": "Arctic Cat",
+        "Model Name": "Alterra",
+        "Serie Name": "Alterra 700",
+        "Years": "2016 - 3000",
+        "specs": {
+          "bodyType": "ATV",
+          "segment": "Off-Road",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "695cc Single",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle"
+        }
+      }
+    ],
+    "Prowler": [
+      {
+        "BrandID": 221,
+        "ModelID": 415905,
+        "Brand Name": "Arctic Cat",
+        "Model Name": "Prowler",
+        "Serie Name": "Prowler Pro",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "UTV/Side-by-Side",
+          "segment": "Off-Road",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "812cc Triple",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1391 @@
+{
+  "brand": "Suzuki",
+  "models": {
+    "Swift": [
+      {
+        "BrandID": 129,
+        "ModelID": 413535,
+        "Brand Name": "Suzuki",
+        "Model Name": "Swift",
+        "Serie Name": "Swift II",
+        "Years": "1988 - 2004",
+        "specs": {
+          "bodyType": "Hatchback/Sedan/Convertible",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "1.0L - 1.6L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/1987_SuzukiSwift_1.3_GL_%28Explored%29_Aug_7%2C_2012_-61_%287734696602%29.jpg/1280px-1987_SuzukiSwift_1.3_GL_%28Explored%29_Aug_7%2C_2012_-61_%287734696602%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/1987_SuzukiSwift_1.3_GL_%28Explored%29_Aug_7%2C_2012_-61_%287734696602%29.jpg/1280px-1987_SuzukiSwift_1.3_GL_%28Explored%29_Aug_7%2C_2012_-61_%287734696602%29.jpg"
+            ],
+            "description": {
+              "pl": "Suzuki Swift to zwinne auto miejskie, które w wersji Sport daje mnóstwo frajdy z jazdy.",
+              "en": "Suzuki Swift is an agile city car, which in the Sport version gives a lot of fun to drive.",
+              "de": "Suzuki Swift ist ein agiles Stadtauto, das in der Sportversion viel Fahrspaß bietet.",
+              "uk": "Suzuki Swift — це маневрений міський автомобіль, який у версії Sport дарує масу задоволення від водіння.",
+              "ru": "Suzuki Swift – маневренный городской автомобиль, управление которым в версии Sport доставляет массу удовольствия.",
+              "zh": "铃木雨燕是一款敏捷的城市汽车，运动版提供了很多驾驶乐趣。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Suzuki"
+              },
+              "okres produkcji": {
+                "pl": "od 1983",
+                "en": "from 1983",
+                "de": "aus dem Jahr 1983",
+                "uk": "з 1983 року",
+                "ru": "с 1983 года",
+                "zh": "自1983年以来"
+              },
+              "segment": {
+                "pl": "B"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1y/hy/vth6vc748c04oo8kw4804/swift-v.310.jpg"
+        }
+      },
+      {
+        "BrandID": 129,
+        "ModelID": 413536,
+        "Brand Name": "Suzuki",
+        "Model Name": "Swift",
+        "Serie Name": "Swift III",
+        "Years": "2004 - 2010",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.3L - 1.6L Sport",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Suzuki Swift to zwinne auto miejskie, które w wersji Sport daje mnóstwo frajdy z jazdy.",
+              "en": "Suzuki Swift is an agile city car, which in the Sport version gives a lot of fun to drive.",
+              "de": "Suzuki Swift ist ein agiles Stadtauto, das in der Sportversion viel Fahrspaß bietet.",
+              "uk": "Suzuki Swift — це маневрений міський автомобіль, який у версії Sport приносить масу задоволення від керування.",
+              "ru": "Suzuki Swift – маневренный городской автомобиль, управление которым в версии Sport доставляет массу удовольствия.",
+              "zh": "铃木雨燕是一款敏捷的城市汽车，运动版提供了很多驾驶乐趣。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Suzuki"
+              },
+              "okres produkcji": {
+                "pl": "od 1983",
+                "en": "from 1983",
+                "de": "aus dem Jahr 1983",
+                "uk": "з 1983 року",
+                "ru": "с 1983 года",
+                "zh": "自1983年以来"
+              },
+              "segment": {
+                "pl": "B"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1y/hy/vth6vc748c04oo8kw4804/swift-v.310.jpg"
+        }
+      },
+      {
+        "BrandID": 129,
+        "ModelID": 413537,
+        "Brand Name": "Suzuki",
+        "Model Name": "Swift",
+        "Serie Name": "Swift IV",
+        "Years": "2010 - 2017",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L - 1.6L Sport",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Suzuki Swift to zwinne auto miejskie, które w wersji Sport daje mnóstwo frajdy z jazdy.",
+              "en": "Suzuki Swift is an agile city car, which in the Sport version gives a lot of fun to drive.",
+              "de": "Suzuki Swift ist ein agiles Stadtauto, das in der Sportversion viel Fahrspaß bietet.",
+              "uk": "Suzuki Swift — це маневрений міський автомобіль, який у версії Sport приносить масу задоволення від керування.",
+              "ru": "Suzuki Swift – маневренный городской автомобиль, управление которым в версии Sport доставляет массу удовольствия.",
+              "zh": "铃木雨燕是一款敏捷的城市汽车，运动版提供了很多驾驶乐趣。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Suzuki"
+              },
+              "okres produkcji": {
+                "pl": "od 1983",
+                "en": "from 1983",
+                "de": "aus dem Jahr 1983",
+                "uk": "з 1983 року",
+                "ru": "с 1983 года",
+                "zh": "自1983年以来"
+              },
+              "segment": {
+                "pl": "B"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1y/hy/vth6vc748c04oo8kw4804/swift-v.310.jpg"
+        }
+      },
+      {
+        "BrandID": 129,
+        "ModelID": 413538,
+        "Brand Name": "Suzuki",
+        "Model Name": "Swift",
+        "Serie Name": "Swift V",
+        "Years": "2017 - 2023",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.0L Boosterjet - 1.4L Boosterjet Sport",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Suzuki Swift to zwinne auto miejskie, które w wersji Sport daje mnóstwo frajdy z jazdy.",
+              "en": "Suzuki Swift is an agile city car, which in the Sport version gives a lot of fun to drive.",
+              "de": "Suzuki Swift ist ein agiles Stadtauto, das in der Sportversion viel Fahrspaß bietet.",
+              "uk": "Suzuki Swift — це маневрений міський автомобіль, який у версії Sport приносить масу задоволення від керування.",
+              "ru": "Suzuki Swift – маневренный городской автомобиль, управление которым в версии Sport доставляет массу удовольствия.",
+              "zh": "铃木雨燕是一款敏捷的城市汽车，运动版提供了很多驾驶乐趣。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Suzuki"
+              },
+              "okres produkcji": {
+                "pl": "od 1983",
+                "en": "from 1983",
+                "de": "aus dem Jahr 1983",
+                "uk": "з 1983 року",
+                "ru": "с 1983 года",
+                "zh": "自1983年以来"
+              },
+              "segment": {
+                "pl": "B"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1y/hy/vth6vc748c04oo8kw4804/swift-v.310.jpg"
+        }
+      },
+      {
+        "BrandID": 129,
+        "ModelID": 416600,
+        "Brand Name": "Suzuki",
+        "Model Name": "Swift",
+        "Serie Name": "Swift VI",
+        "Years": "2023 - Present",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.2L Mild Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Suzuki Swift to ikona zwinności i radości z miejskiej jazdy. Mimo kompaktowych rozmiarów, oferuje zaskakująco dużo przestrzeni i niskie koszty eksploatacji, a w wersji Sport staje się jednym z najbardziej cenionych hot-hatchy, zachwycając precyzją prowadzenia i lekkością.",
+              "en": "Suzuki Swift is an icon of agility and joy of city driving. Despite its compact size, it offers a surprising amount of space and low operating costs, and in the Sport version it becomes one of the most appreciated hot hatches, delighting with its driving precision and lightness.",
+              "de": "Der Suzuki Swift ist ein Symbol für Agilität und Fahrspaß in der Stadt. Trotz seiner kompakten Größe bietet er überraschend viel Platz und niedrige Betriebskosten und wird in der Sportversion zu einem der beliebtesten Hot Hatches, der durch seine Fahrpräzision und Leichtigkeit begeistert.",
+              "uk": "Suzuki Swift — ікона спритності та радості від водіння по місту. Незважаючи на свої компактні розміри, він пропонує дивовижну кількість простору та низькі експлуатаційні витрати, а у версії Sport він стає одним із найбільш цінованих гарячих хетчбеків, захоплюючи своєю точністю водіння та легкістю.",
+              "ru": "Suzuki Swift — это икона маневренности и удовольствия от вождения по городу. Несмотря на свои компактные размеры, он предлагает удивительное количество места и низкие эксплуатационные расходы, а в версии Sport он становится одним из самых популярных горячих хэтчбеков, восхищающих своей точностью управления и легкостью.",
+              "zh": "铃木雨燕是敏捷性和城市驾驶乐趣的象征。尽管尺寸紧凑，但它提供了令人惊讶的空间和较低的运营成本，在运动版中，它成为最受欢迎的热门掀背车之一，其驾驶精度和轻便性令人愉悦。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Suzuki"
+              },
+              "okres produkcji": {
+                "pl": "od 1983",
+                "en": "from 1983",
+                "de": "ab 1983",
+                "uk": "з 1983 р.",
+                "ru": "с 1983 года",
+                "zh": "自1983年以来"
+              },
+              "segment": {
+                "pl": "B (Miejskie)",
+                "en": "B (City)",
+                "de": "B (Stadt)",
+                "uk": "B (місто)",
+                "ru": "Б (Городской)",
+                "zh": "B（城市）"
+              },
+              "napęd": {
+                "pl": "FWD/AllGrip (AWD)",
+                "en": "FWD/AllGrip (AWD)",
+                "de": "FWD/AllGrip (AWD)",
+                "uk": "FWD/AllGrip (AWD)",
+                "ru": "Передний/AllGrip (AWD)",
+                "zh": "前轮驱动/全轮驱动 (AWD)"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1y/hy/vth6vc748c04oo8kw4804/swift-v.310.jpg"
+        }
+      }
+    ],
+    "Grand Vitara": [
+      {
+        "BrandID": 129,
+        "ModelID": 413527,
+        "Brand Name": "Suzuki",
+        "Model Name": "Grand Vitara",
+        "Serie Name": "Grand Vitara I (FT)",
+        "Years": "1998 - 2005",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Suzuki to japoński specjalista od małych samochodów i lekkich aut terenowych. Słynie z niezawodności i napędu AllGrip.",
+              "en": "Suzuki is a Japanese specialist in small cars and light off-road vehicles. It is famous for its reliability and AllGrip drive.",
+              "de": "Suzuki ist ein japanischer Spezialist für Kleinwagen und leichte Geländefahrzeuge. Es ist bekannt für seine Zuverlässigkeit und den AllGrip-Antrieb.",
+              "uk": "Suzuki — японський спеціаліст із виробництва малих автомобілів і легких позашляховиків. Він славиться своєю надійністю та приводом AllGrip.",
+              "ru": "Suzuki — японский специалист по малолитражным автомобилям и легким внедорожникам. Он славится своей надежностью и приводом AllGrip.",
+              "zh": "铃木是日本小型汽车和轻型越野车专家。它以其可靠性和 AllGrip 驱动而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Suzuki Motor Corp.",
+                "en": "Suzuki Motor Corp.",
+                "de": "Suzuki Motor Corp.",
+                "uk": "Suzuki Motor Corp.",
+                "ru": "Сузуки Мотор Корп.",
+                "zh": "铃木汽车公司"
+              },
+              "siedziba": {
+                "pl": "Hamamatsu, Japonia",
+                "en": "Hamamatsu, Japan",
+                "de": "Hamamatsu, Japan",
+                "uk": "Хамамацу, Японія",
+                "ru": "Хамамацу, Япония",
+                "zh": "日本滨松"
+              },
+              "założona": "1909"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9n/dd/rdywsmkok488k0o0g0owk/vitara-ii-310.310.jpg"
+        }
+      },
+      {
+        "BrandID": 129,
+        "ModelID": 413528,
+        "Brand Name": "Suzuki",
+        "Model Name": "Grand Vitara",
+        "Serie Name": "Grand Vitara II (JT)",
+        "Years": "2005 - 2015",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 3.2L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/2002_Suzuki_Grand_Vitara_%28SQ416_Type1%29_softtop_%288302481492%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/8/8d/2002_Suzuki_Grand_Vitara_%28SQ416_Type1%29_softtop_%288302481492%29.jpg"
+            ],
+            "description": {
+              "pl": "Suzuki Grand Vitara to jeden z ostatnich przedstawicieli SUV-ów o prawdziwym terenowym zacięciu, posiadający reduktor i solidną konstrukcję. Łączy komfort codziennej jazdy z dzielnością, która pozwala na bezstresowe zjechanie z utwardzonych szlaków, będąc cenionym modelem za swoją trwałość.",
+              "en": "Suzuki Grand Vitara is one of the last representatives of SUVs with real off-road flair, with a reduction gear and a solid structure. It combines the comfort of everyday driving with the agility that allows you to get off paved trails without stress, and is a model valued for its durability.",
+              "de": "Suzuki Grand Vitara ist einer der letzten Vertreter von SUVs mit echtem Offroad-Flair, mit Untersetzungsgetriebe und solider Struktur. Es vereint den Komfort des alltäglichen Fahrens mit der Agilität, die es Ihnen ermöglicht, stressfrei auch abseits befestigter Wege zu fahren, und ist ein Modell, das für seine Langlebigkeit geschätzt wird.",
+              "uk": "Suzuki Grand Vitara — один з останніх представників позашляховиків зі справжнім позашляховим стилем, з редуктором і міцною конструкцією. Він поєднує в собі комфорт повсякденної їзди з маневреністю, яка дозволяє без стресу виїжджати з асфальтованих стежок, і є моделлю, яку цінують за її довговічність.",
+              "ru": "Suzuki Grand Vitara – один из последних представителей внедорожников с настоящим внедорожным чутьем, с понижающей передачей и прочной конструкцией. Он сочетает в себе комфорт повседневной езды с маневренностью, позволяющей без стресса выезжать с асфальтированных дорог, и является моделью, которую ценят за ее долговечность.",
+              "zh": "铃木大维特拉是具有真正越野风格的 SUV 的最后代表之一，具有减速齿轮和坚固的结构。它结合了日常驾驶的舒适性和敏捷性，让您可以毫无压力地离开铺砌的小道，并且是一款因其耐用性而受到重视的车型。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Suzuki"
+              },
+              "okres produkcji": "1998–2015",
+              "segment": {
+                "pl": "C-SUV"
+              },
+              "napęd": {
+                "pl": "4WD (AllGrip)",
+                "en": "4WD (AllGrip)",
+                "de": "4WD (AllGrip)",
+                "uk": "4WD (AllGrip)",
+                "ru": "Полный привод (AllGrip)",
+                "zh": "四轮驱动（全抓地力）"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9n/dd/rdywsmkok488k0o0g0owk/vitara-ii-310.310.jpg"
+        }
+      }
+    ],
+    "Vitara": [
+      {
+        "BrandID": 129,
+        "ModelID": 414337,
+        "Brand Name": "Suzuki",
+        "Model Name": "Vitara",
+        "Serie Name": "Vitara I (ET)",
+        "Years": "1988 - 1998",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.0L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Suzuki Vitara to popularny miejski SUV, który ewoluował z surowej terenówki w komfortowego crossovera.",
+              "en": "Suzuki Vitara is a popular city SUV that has evolved from a rugged off-roader into a comfortable crossover.",
+              "de": "Suzuki Vitara ist ein beliebter Stadt-SUV, der sich von einem robusten Offroader zu einem komfortablen Crossover entwickelt hat.",
+              "uk": "Suzuki Vitara — популярний міський позашляховик, який перетворився з міцного позашляховика на комфортабельний кросовер.",
+              "ru": "Suzuki Vitara – популярный городской внедорожник, превратившийся из сырого внедорожника в комфортабельный кроссовер.",
+              "zh": "铃木维特拉是一款广受欢迎的城市 SUV，它已从原始越野车发展成为舒适的跨界车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Suzuki"
+              },
+              "okres produkcji": {
+                "pl": "od 1988",
+                "en": "from 1988",
+                "de": "von 1988",
+                "uk": "з 1988 року",
+                "ru": "с 1988 года",
+                "zh": "自1988年以来"
+              },
+              "segment": {
+                "pl": "B-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/c0/gy/t9j6pag4oc8ckgkgkksgc/suzuki-vitara-3.310.jpg"
+        }
+      },
+      {
+        "BrandID": 129,
+        "ModelID": 413542,
+        "Brand Name": "Suzuki",
+        "Model Name": "Vitara",
+        "Serie Name": "Vitara IV (LY)",
+        "Years": "2015 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Subcompact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.0L Boosterjet - 1.5L Full Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Suzuki Vitara to model, który zdefiniował pojęcie nowoczesnego, lekkiego SUV-a. Ewoluował od surowej terenówki do stylowego i funkcjonalnego crossovera, który dzięki zaawansowanemu napędowi AllGrip i oszczędnym napędom hybrydowym pozostaje jednym z liderów swojego segmentu.",
+              "en": "Suzuki Vitara is a model that defined the concept of a modern, light SUV. It has evolved from a raw off-roader to a stylish and functional crossover, which, thanks to the advanced AllGrip drive and fuel-efficient hybrid drives, remains one of the leaders in its segment.",
+              "de": "Suzuki Vitara ist ein Modell, das das Konzept eines modernen, leichten SUV definierte. Er hat sich von einem rohen Offroader zu einem stilvollen und funktionalen Crossover entwickelt, der dank des fortschrittlichen AllGrip-Antriebs und kraftstoffeffizienter Hybridantriebe weiterhin zu den Spitzenreitern in seinem Segment zählt.",
+              "uk": "Suzuki Vitara — це модель, яка визначила концепцію сучасного легкого позашляховика. Він еволюціонував від сирого позашляховика до стильного та функціонального кросовера, який завдяки вдосконаленому приводу AllGrip та економним гібридним приводам залишається одним із лідерів у своєму сегменті.",
+              "ru": "Suzuki Vitara – модель, определившая концепцию современного легкого внедорожника. Из сырого внедорожника он превратился в стильный и функциональный кроссовер, который благодаря передовому приводу AllGrip и экономичным гибридным приводам остается одним из лидеров в своем сегменте.",
+              "zh": "铃木 Vitara 是一款定义了现代轻型 SUV 概念的车型。它已经从一款原始的越野车发展成为一款时尚且实用的跨界车，得益于先进的 AllGrip 驱动器和节能的混合驱动器，它仍然是该细分市场的领导者之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Suzuki"
+              },
+              "okres produkcji": {
+                "pl": "od 1988",
+                "en": "from 1988",
+                "de": "ab 1988",
+                "uk": "з 1988 року",
+                "ru": "с 1988 года",
+                "zh": "自1988年以来"
+              },
+              "segment": {
+                "pl": "B-SUV / Crossover",
+                "en": "B-SUV / Crossover",
+                "de": "B-SUV / Crossover",
+                "uk": "B-SUV / кросовер",
+                "ru": "Б-внедорожник/кроссовер",
+                "zh": "B-SUV/跨界车"
+              },
+              "napęd": {
+                "pl": "FWD/AllGrip (AWD)",
+                "en": "FWD/AllGrip (AWD)",
+                "de": "FWD/AllGrip (AWD)",
+                "uk": "FWD/AllGrip (AWD)",
+                "ru": "Передний/AllGrip (AWD)",
+                "zh": "前轮驱动/全轮驱动 (AWD)"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/c0/gy/t9j6pag4oc8ckgkgkksgc/suzuki-vitara-3.310.jpg"
+        }
+      }
+    ],
+    "Jimny": [
+      {
+        "BrandID": 129,
+        "ModelID": 413531,
+        "Brand Name": "Suzuki",
+        "Model Name": "Jimny",
+        "Serie Name": "Jimny II (SJ)",
+        "Years": "1981 - 1998",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mini SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline",
+          "engine": "1.0L - 1.3L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Suzuki Jimny to mała, ale dzielna terenówka na ramie. Dzięki niskiej wadze i świetnym kątom wjedzie tam, gdzie duże SUV-y nie dadzą rady.",
+              "en": "Suzuki Jimny is a small but brave off-roader on a frame. Thanks to its low weight and great angles, it can go where large SUVs cannot.",
+              "de": "Suzuki Jimny ist ein kleiner, aber mutiger Offroader mit Rahmen. Dank seines geringen Gewichts und der großen Winkel kommt er dorthin, wo große SUVs nicht hinkommen.",
+              "uk": "Suzuki Jimny — це невеликий, але сміливий позашляховик на рамі. Завдяки малій вазі та великим кутам повороту він може проїхати туди, де не можуть великі позашляховики.",
+              "ru": "Suzuki Jimny – небольшой, но отважный внедорожник. Благодаря небольшому весу и большим углам обзора он может проехать там, где не могут большие внедорожники.",
+              "zh": "铃木吉姆尼是一款小型但勇敢的越野车。由于重量轻且角度大，它可以到达大型 SUV 无法到达的地方。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Suzuki"
+              },
+              "okres produkcji": {
+                "pl": "od 1970",
+                "en": "since 1970",
+                "de": "seit 1970",
+                "uk": "з 1970 року",
+                "ru": "с 1970 года",
+                "zh": "自1970年以来"
+              },
+              "segment": {
+                "pl": "Mini SUV",
+                "en": "Mini SUV",
+                "de": "Mini-SUV",
+                "uk": "Міні позашляховик",
+                "ru": "Мини-внедорожник",
+                "zh": "迷你 SUV"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4e/67/kapi7uw4w004k0csc8w4/jimny.310.jpg"
+        }
+      },
+      {
+        "BrandID": 129,
+        "ModelID": 413532,
+        "Brand Name": "Suzuki",
+        "Model Name": "Jimny",
+        "Serie Name": "Jimny III (JB23)",
+        "Years": "1998 - 2018",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mini SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.3L - 1.5L DLiS",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Suzuki Jimny to mała, ale dzielna terenówka na ramie. Dzięki niskiej wadze i świetnym kątom wjedzie tam, gdzie duże SUV-y nie dadzą rady.",
+              "en": "Suzuki Jimny is a small but brave off-road vehicle. Thanks to its low weight and great angles, it can go where large SUVs cannot.",
+              "de": "Suzuki Jimny ist ein kleines, aber mutiges Geländefahrzeug. Dank seines geringen Gewichts und der großen Winkel kommt er dorthin, wo große SUVs nicht hinkommen.",
+              "uk": "Suzuki Jimny — невеликий, але сміливий позашляховик. Завдяки малій вазі та великим кутам повороту він може проїхати туди, де не можуть великі позашляховики.",
+              "ru": "Suzuki Jimny – небольшой, но отважный внедорожник. Благодаря небольшому весу и большим углам обзора он может проехать там, где не могут большие внедорожники.",
+              "zh": "铃木吉姆尼是一款小巧但勇敢的越野车。由于重量轻且角度大，它可以到达大型 SUV 无法到达的地方。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Suzuki"
+              },
+              "okres produkcji": {
+                "pl": "od 1970",
+                "en": "from 1970",
+                "de": "von 1970",
+                "uk": "з 1970 року",
+                "ru": "1970 года.",
+                "zh": "来自 1970 年"
+              },
+              "segment": {
+                "pl": "Mini SUV",
+                "en": "Mini SUV",
+                "de": "Mini-SUV",
+                "uk": "Міні-позашляховик",
+                "ru": "Мини-внедорожник",
+                "zh": "迷你 SUV"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4e/67/kapi7uw4w004k0csc8w4/jimny.310.jpg"
+        }
+      },
+      {
+        "BrandID": 129,
+        "ModelID": 415392,
+        "Brand Name": "Suzuki",
+        "Model Name": "Jimny",
+        "Serie Name": "Jimny IV (JB64/JB74)",
+        "Years": "2018 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mini SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline",
+          "engine": "1.5L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Suzuki Jimny to motoryzacyjny fenomen – miniaturowa terenówka na ramie, która swoimi możliwościami off-road zawstydza znacznie większe i droższe pojazdy. Jej kultowy, kanciasty design i bezkompromisowa konstrukcja sprawiły, że stała się pożądanym klasykiem już w dniu premiery.",
+              "en": "Suzuki Jimny is an automotive phenomenon - a miniature off-road vehicle with off-road capabilities that puts much larger and more expensive vehicles to shame. Its iconic, angular design and uncompromising construction made it a desirable classic on the day of its premiere.",
+              "de": "Suzuki Jimny ist ein Automobilphänomen – ein Miniatur-Geländewagen mit Geländefähigkeiten, der viel größere und teurere Fahrzeuge in den Schatten stellt. Sein ikonisches, kantiges Design und seine kompromisslose Konstruktion machten ihn am Tag seiner Premiere zu einem begehrenswerten Klassiker.",
+              "uk": "Suzuki Jimny — це автомобільний феномен — мініатюрний позашляховик із позашляховими можливостями, який ганьбить набагато більші та дорожчі транспортні засоби. Його культовий незграбний дизайн і безкомпромісна конструкція зробили його бажаною класикою в день прем’єри.",
+              "ru": "Suzuki Jimny — это автомобильный феномен: миниатюрный внедорожник с внедорожными возможностями, который посрамляет гораздо более крупные и дорогие автомобили. Его культовый угловатый дизайн и бескомпромиссная конструкция сделали его желанной классикой в ​​день премьеры.",
+              "zh": "铃木吉姆尼 (Suzuki Jimny) 是一种汽车现象 - 一款具有越野能力的微型越野车，令更大、更昂贵的车辆相形见绌。其标志性的棱角设计和毫不妥协的结构使其在首映之日成为令人向往的经典之作。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Suzuki"
+              },
+              "okres produkcji": {
+                "pl": "od 1970",
+                "en": "from 1970",
+                "de": "ab 1970",
+                "uk": "з 1970 року",
+                "ru": "с 1970 года.",
+                "zh": "1970 年生产"
+              },
+              "segment": {
+                "pl": "Mini SUV / Terenowy",
+                "en": "Mini SUV / Off-road",
+                "de": "Mini-SUV / Geländewagen",
+                "uk": "Міні-позашляховик / Позашляховик",
+                "ru": "Мини-внедорожник/внедорожник",
+                "zh": "迷你 SUV/越野"
+              },
+              "napęd": {
+                "pl": "4WD (dołączany)",
+                "en": "4WD (attachable)",
+                "de": "Allradantrieb (anbaubar)",
+                "uk": "4WD (приставний)",
+                "ru": "4WD (прикрепляемый)",
+                "zh": "4WD（可连接）"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4e/67/kapi7uw4w004k0csc8w4/jimny.310.jpg"
+        }
+      }
+    ],
+    "SX4": [
+      {
+        "BrandID": 129,
+        "ModelID": 413539,
+        "Brand Name": "Suzuki",
+        "Model Name": "SX4",
+        "Serie Name": "SX4 Classic",
+        "Years": "2006 - 2014",
+        "specs": {
+          "bodyType": "Hatchback/Sedan",
+          "segment": "Compact Crossover",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.5L - 2.0L DDiS",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Suzuki to japoński specjalista od małych samochodów i lekkich aut terenowych. Słynie z niezawodności i napędu AllGrip.",
+              "en": "Suzuki is a Japanese specialist in small cars and light off-road vehicles. It is famous for its reliability and AllGrip drive.",
+              "de": "Suzuki ist ein japanischer Spezialist für Kleinwagen und leichte Geländefahrzeuge. Es ist bekannt für seine Zuverlässigkeit und den AllGrip-Antrieb.",
+              "uk": "Suzuki є японським спеціалістом з виробництва малих автомобілів і легких позашляховиків. Він славиться своєю надійністю та приводом AllGrip.",
+              "ru": "Suzuki — японский специалист по малолитражным автомобилям и легким внедорожникам. Он славится своей надежностью и приводом AllGrip.",
+              "zh": "铃木是日本小型车和轻型越野车专家。它以其可靠性和 AllGrip 驱动而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Suzuki Motor Corp.",
+                "en": "Suzuki Motor Corp.",
+                "de": "Suzuki Motor Corp.",
+                "uk": "Suzuki Motor Corp.",
+                "ru": "Suzuki Motor Corp.",
+                "zh": "铃木汽车公司"
+              },
+              "siedziba": {
+                "pl": "Hamamatsu, Japonia",
+                "en": "Hamamatsu, Japan",
+                "de": "Hamamatsu, Japan",
+                "uk": "Хамамацу, Японія",
+                "ru": "Хамамацу, Япония",
+                "zh": "日本滨松"
+              },
+              "założona": "1909"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cu/pf/d80q7fkg808ks0444go4g/02-sx4-side.310.jpg"
+        }
+      },
+      {
+        "BrandID": 129,
+        "ModelID": 413540,
+        "Brand Name": "Suzuki",
+        "Model Name": "SX4",
+        "Serie Name": "SX4 S-Cross I",
+        "Years": "2013 - 2021",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L Boosterjet - 1.6L DDiS",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Suzuki to japoński specjalista od małych samochodów i lekkich aut terenowych. Słynie z niezawodności i napędu AllGrip.",
+              "en": "Suzuki is a Japanese specialist in small cars and light off-road vehicles. It is famous for its reliability and AllGrip drive.",
+              "de": "Suzuki ist ein japanischer Spezialist für Kleinwagen und leichte Geländefahrzeuge. Es ist bekannt für seine Zuverlässigkeit und den AllGrip-Antrieb.",
+              "uk": "Suzuki є японським спеціалістом з виробництва малих автомобілів і легких позашляховиків. Він славиться своєю надійністю та приводом AllGrip.",
+              "ru": "Suzuki — японский специалист по производству небольших автомобилей и легких внедорожников. Он славится своей надежностью и приводом AllGrip.",
+              "zh": "铃木是日本小型汽车和轻型越野车专家。它以其可靠性和 AllGrip 驱动而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Suzuki Motor Corp.",
+                "en": "Suzuki Motor Corp.",
+                "de": "Suzuki Motor Corp.",
+                "uk": "Suzuki Motor Corp.",
+                "ru": "Suzuki Motor Corp.",
+                "zh": "铃木汽车公司"
+              },
+              "siedziba": {
+                "pl": "Hamamatsu, Japonia",
+                "en": "Hamamatsu, Japan",
+                "de": "Hamamatsu, Japan",
+                "uk": "Хамамацу, Японія",
+                "ru": "Хамамацу, Япония",
+                "zh": "日本滨松"
+              },
+              "założona": "1909"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cu/pf/d80q7fkg808ks0444go4g/02-sx4-side.310.jpg"
+        }
+      },
+      {
+        "BrandID": 129,
+        "ModelID": 416601,
+        "Brand Name": "Suzuki",
+        "Model Name": "S-Cross",
+        "Serie Name": "S-Cross II",
+        "Years": "2021 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.4L Boosterjet Hybrid - 1.5L Full Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Suzuki SX4 S-Cross to wszechstronny crossover stworzony z myślą o rodzinnej funkcjonalności i bezpieczeństwie. Oferuje przestronne wnętrze i jeden z najlepszych w klasie systemów napędu na cztery koła AllGrip Select, zapewniając pewność prowadzenia niezależnie od nawierzchni.",
+              "en": "The Suzuki SX4 S-Cross is a versatile crossover designed with family functionality and safety in mind. It offers a spacious interior and one of the best-in-class AllGrip Select four-wheel drive systems, ensuring confident driving regardless of the surface.",
+              "de": "Der Suzuki SX4 S-Cross ist ein vielseitiger Crossover, der auf Familienfunktionalität und Sicherheit ausgelegt ist. Er bietet einen geräumigen Innenraum und eines der besten AllGrip Select-Allradantriebssysteme seiner Klasse und sorgt so für sicheres Fahren unabhängig vom Untergrund.",
+              "uk": "Suzuki SX4 S-Cross — це універсальний кросовер, розроблений з урахуванням функціональності та безпеки. Він пропонує просторий салон і одну з найкращих у своєму класі систем повного приводу AllGrip Select, що забезпечує впевнене водіння незалежно від покриття.",
+              "ru": "Suzuki SX4 S-Cross — универсальный кроссовер, разработанный с учетом семейной функциональности и безопасности. Он предлагает просторный салон и одну из лучших в своем классе систем полного привода AllGrip Select, обеспечивающих уверенное вождение независимо от покрытия.",
+              "zh": "铃木 SX4 S-Cross 是一款多功能跨界车，其设计充分考虑了家庭功能和安全性。它提供宽敞的内部空间和一流的 AllGrip Select 四轮驱动系统之一，无论路面如何，都能确保自信的驾驶。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Suzuki"
+              },
+              "okres produkcji": {
+                "pl": "od 2013",
+                "en": "from 2013",
+                "de": "ab 2013",
+                "uk": "з 2013 р.",
+                "ru": "с 2013 г.",
+                "zh": "2013 年起"
+              },
+              "segment": {
+                "pl": "C-SUV / Crossover",
+                "en": "C-SUV / Crossover",
+                "de": "C-SUV / Crossover",
+                "uk": "C-SUV / Crossover",
+                "ru": "C-SUV/Crossover",
+                "zh": "C-SUV / Crossover"
+              },
+              "napęd": {
+                "pl": "FWD/AllGrip (AWD)",
+                "en": "FWD/AllGrip (AWD)",
+                "de": "FWD/AllGrip (AWD)",
+                "uk": "FWD/AllGrip (AWD)",
+                "ru": "FWD/AllGrip (AWD)",
+                "zh": "FWD/AllGrip (AWD)"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cu/pf/d80q7fkg808ks0444go4g/02-sx4-side.310.jpg"
+        }
+      }
+    ],
+    "Ignis": [
+      {
+        "BrandID": 129,
+        "ModelID": 413529,
+        "Brand Name": "Suzuki",
+        "Model Name": "Ignis",
+        "Serie Name": "Ignis I",
+        "Years": "2000 - 2008",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment A/B Crossover",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.3L - 1.5L Sport",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Suzuki to japoński specjalista od małych samochodów i lekkich aut terenowych. Słynie z niezawodności i napędu AllGrip.",
+              "en": "Suzuki is a Japanese specialist in small cars and light off-road vehicles. It is famous for its reliability and AllGrip drive.",
+              "de": "Suzuki ist ein japanischer Spezialist für Kleinwagen und leichte Geländefahrzeuge. Es ist bekannt für seine Zuverlässigkeit und den AllGrip-Antrieb.",
+              "uk": "Suzuki — японський спеціаліст із виробництва малих автомобілів і легких позашляховиків. Він славиться своєю надійністю та приводом AllGrip.",
+              "ru": "Suzuki — японский специалист по малолитражным автомобилям и легким внедорожникам. Он славится своей надежностью и приводом AllGrip.",
+              "zh": "铃木是日本小型车和轻型越野车专家。它以其可靠性和 AllGrip 驱动而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Suzuki Motor Corp.",
+                "en": "Suzuki Motor Corp.",
+                "de": "Suzuki Motor Corp.",
+                "uk": "Suzuki Motor Corp.",
+                "ru": "Suzuki Motor Corp.",
+                "zh": "铃木汽车公司"
+              },
+              "siedziba": {
+                "pl": "Hamamatsu, Japonia",
+                "en": "Hamamatsu, Japan",
+                "de": "Hamamatsu, Japan",
+                "uk": "Хамамацу, Японія",
+                "ru": "Хамамацу, Япония",
+                "zh": "日本滨松"
+              },
+              "założona": "1909"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ak/dl/jxkogq0o0wos844g4g8cg/ignis-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 129,
+        "ModelID": 415240,
+        "Brand Name": "Suzuki",
+        "Model Name": "Ignis",
+        "Serie Name": "Ignis II (MF)",
+        "Years": "2016 - Present",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment A Crossover",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.2L Dualjet Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Suzuki Ignis to unikalny 'Ultra Compact SUV' – najmniejszy crossover na rynku, który zaskakuje charakterem i możliwościami. Dzięki lekkiej konstrukcji i opcjonalnemu napędowi 4x4, idealnie radzi sobie w miejskiej dżungli oraz na bocznych drogach, oferując przy tym odważną stylistykę.",
+              "en": "Suzuki Ignis is a unique 'Ultra Compact SUV' - the smallest crossover on the market that surprises with its character and capabilities. Thanks to its lightweight construction and optional 4x4 drive, it handles perfectly in the urban jungle and on side roads, while offering a bold style.",
+              "de": "Suzuki Ignis ist ein einzigartiger „Ultra Compact SUV“ – der kleinste Crossover auf dem Markt, der mit seinem Charakter und seinen Fähigkeiten überrascht. Dank seiner Leichtbauweise und dem optionalen 4x4-Antrieb fährt er sich perfekt im Großstadtdschungel und auf Nebenstraßen und bietet gleichzeitig einen mutigen Stil.",
+              "uk": "Suzuki Ignis — це унікальний «ультракомпактний позашляховик» — найменший кросовер на ринку, який дивує своїм характером і можливостями. Завдяки легкій конструкції та опціональному приводу 4x4 він чудово керує міськими джунглями та бічними дорогами, пропонуючи при цьому сміливий стиль.",
+              "ru": "Suzuki Ignis — уникальный «ультракомпактный внедорожник» — самый маленький кроссовер на рынке, удивляющий своим характером и возможностями. Благодаря легкой конструкции и опциональному приводу 4x4 он отлично управляется в городских джунглях и на проселочных дорогах, сохраняя при этом смелый стиль.",
+              "zh": "铃木 Ignis 是一款独特的“超紧凑型 SUV”——市场上最小的跨界车，其特性和功能令人惊叹。由于其轻质结构和可选的 4x4 驱动装置，它可以在城市丛林和小路上完美操控，同时提供大胆的风格。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Suzuki"
+              },
+              "okres produkcji": {
+                "pl": "od 2000",
+                "en": "from 2000",
+                "de": "ab 2000",
+                "uk": "з 2000",
+                "ru": "с 2000 г.",
+                "zh": "2000 年起"
+              },
+              "segment": {
+                "pl": "A-Crossover / SUV",
+                "en": "A-Crossover / SUV",
+                "de": "A-Crossover / SUV",
+                "uk": "A-Crossover / SUV",
+                "ru": "A-кроссовер/внедорожник",
+                "zh": "A 型跨界车 / SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AllGrip (AWD)",
+                "en": "FWD/AllGrip (AWD)",
+                "de": "FWD/AllGrip (AWD)",
+                "uk": "FWD/AllGrip (AWD)",
+                "ru": "FWD/AllGrip (AWD)",
+                "zh": "FWD/AllGrip (AWD)"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ak/dl/jxkogq0o0wos844g4g8cg/ignis-ii.310.jpg"
+        }
+      }
+    ],
+    "Baleno": [
+      {
+        "BrandID": 129,
+        "ModelID": 1500,
+        "Brand Name": "Suzuki",
+        "Model Name": "Baleno",
+        "Serie Name": "Baleno I",
+        "Years": "1995 - 2002",
+        "specs": {
+          "bodyType": "Sedan/Hatchback/Wagon",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.3L - 1.8L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Suzuki to japoński specjalista od małych samochodów i lekkich aut terenowych. Słynie z niezawodności i napędu AllGrip.",
+              "en": "Suzuki is a Japanese specialist in small cars and light off-road vehicles. It is famous for its reliability and AllGrip drive.",
+              "de": "Suzuki ist ein japanischer Spezialist für Kleinwagen und leichte Geländefahrzeuge. Es ist bekannt für seine Zuverlässigkeit und den AllGrip-Antrieb.",
+              "uk": "Suzuki — японський фахівець з виробництва малолітражних автомобілів і легких позашляховиків. Він славиться своєю надійністю та приводом AllGrip.",
+              "ru": "Suzuki — японский специалист по малолитражным автомобилям и легким внедорожникам. Он славится своей надежностью и приводом AllGrip.",
+              "zh": "铃木是日本小型汽车和轻型越野车专家。它以其可靠性和 AllGrip 驱动而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Suzuki Motor Corp.",
+                "en": "Suzuki Motor Corp.",
+                "de": "Suzuki Motor Corp.",
+                "uk": "Suzuki Motor Corp.",
+                "ru": "Suzuki Motor Corp.",
+                "zh": "铃木汽车公司"
+              },
+              "siedziba": {
+                "pl": "Hamamatsu, Japonia",
+                "en": "Hamamatsu, Japan",
+                "de": "Hamamatsu, Japan",
+                "uk": "Хамамацу, Японія",
+                "ru": "Хамамацу, Япония",
+                "zh": "日本滨松"
+              },
+              "założona": "1909"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1a/e0/1ysr2izo8wsssc8cocsg0/suzuki-baleno-3.310.jpg"
+        }
+      },
+      {
+        "BrandID": 129,
+        "ModelID": 414412,
+        "Brand Name": "Suzuki",
+        "Model Name": "Baleno",
+        "Serie Name": "Baleno II",
+        "Years": "2015 - 2022",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.0L Boosterjet - 1.2L Dualjet",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Suzuki_Baleno_hatchback_%28facelift%29%2C_front_right.jpg/1280px-Suzuki_Baleno_hatchback_%28facelift%29%2C_front_right.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Suzuki_Baleno_hatchback_%28facelift%29%2C_front_right.jpg/1280px-Suzuki_Baleno_hatchback_%28facelift%29%2C_front_right.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Suzuki_Baleno_rear_20071004.jpg/1280px-Suzuki_Baleno_rear_20071004.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Suzuki_Baleno_rear_20080220.jpg/1280px-Suzuki_Baleno_rear_20080220.jpg"
+            ],
+            "description": {
+              "pl": "Suzuki Baleno to mistrz funkcjonalności w segmencie B, oferujący rekordową w swojej klasie przestrzeń na nogi i pojemny bagażnik. Zbudowany na nowoczesnej platformie o niskiej masie, zapewnia doskonałą dynamikę przy zachowaniu wyjątkowo niskiego zużycia paliwa.",
+              "en": "Suzuki Baleno is a champion of functionality in the B segment, offering record-breaking legroom in its class and a capacious trunk. Built on a modern, low-weight platform, it provides excellent dynamics while maintaining extremely low fuel consumption.",
+              "de": "Suzuki Baleno ist ein Champion der Funktionalität im B-Segment und bietet rekordverdächtige Beinfreiheit in seiner Klasse und einen geräumigen Kofferraum. Aufgebaut auf einer modernen, gewichtsarmen Plattform bietet es eine hervorragende Dynamik bei gleichzeitig extrem niedrigem Kraftstoffverbrauch.",
+              "uk": "Suzuki Baleno є чемпіоном функціональності в сегменті B, пропонуючи рекордний простір для ніг у своєму класі та місткий багажник. Побудований на сучасній легкій платформі, він забезпечує чудову динаміку, зберігаючи надзвичайно низьке споживання палива.",
+              "ru": "Suzuki Baleno — чемпион по функциональности в сегменте B, предлагающий рекордное пространство для ног в своем классе и вместительный багажник. Построенный на современной облегченной платформе, он обеспечивает превосходную динамику при сохранении чрезвычайно низкого расхода топлива.",
+              "zh": "铃木班尼路是 B 级车中功能性的冠军，提供同级车中破纪录的腿部空间和宽敞的后备箱。它建立在现代化的轻质平台上，提供出色的动力，同时保持极低的油耗。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Suzuki"
+              },
+              "okres produkcji": "1995–2022",
+              "segment": {
+                "pl": "B (Hatchback)",
+                "en": "B (Hatchback)",
+                "de": "B (Schrägheck)",
+                "uk": "B (хетчбек)",
+                "ru": "B (Хэтчбек)",
+                "zh": "B（掀背式）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1a/e0/1ysr2izo8wsssc8cocsg0/suzuki-baleno-3.310.jpg"
+        }
+      }
+    ],
+    "Alto": [
+      {
+        "BrandID": 129,
+        "ModelID": 413525,
+        "Brand Name": "Suzuki",
+        "Model Name": "Alto",
+        "Serie Name": "Alto VII",
+        "Years": "2009 - 2014",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment A (City Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Suzuki to japoński specjalista od małych samochodów i lekkich aut terenowych. Słynie z niezawodności i napędu AllGrip.",
+              "en": "Suzuki is a Japanese specialist in small cars and light off-road vehicles. It is famous for its reliability and AllGrip drive.",
+              "de": "Suzuki ist ein japanischer Spezialist für Kleinwagen und leichte Geländefahrzeuge. Es ist bekannt für seine Zuverlässigkeit und den AllGrip-Antrieb.",
+              "uk": "Suzuki — японський спеціаліст із виробництва малолітражних автомобілів і легких позашляховиків. Він славиться своєю надійністю та приводом AllGrip.",
+              "ru": "Suzuki — японский специалист по малолитражным автомобилям и легким внедорожникам. Он славится своей надежностью и приводом AllGrip.",
+              "zh": "铃木是日本小型车和轻型越野车专家。它以其可靠性和 AllGrip 驱动而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Suzuki Motor Corp.",
+                "en": "Suzuki Motor Corp.",
+                "de": "Suzuki Motor Corp.",
+                "uk": "Suzuki Motor Corp.",
+                "ru": "Suzuki Motor Corp.",
+                "zh": "铃木汽车公司"
+              },
+              "siedziba": {
+                "pl": "Hamamatsu, Japonia",
+                "en": "Hamamatsu, Japan",
+                "de": "Hamamatsu, Japan",
+                "uk": "Хамамацу, Японія",
+                "ru": "Хамамацу, Япония",
+                "zh": "日本滨松"
+              },
+              "założona": "1909"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2q/ql/t5vxhgkkkg0gw8sg4s0oo/alto-vii.310.jpg"
+        }
+      }
+    ],
+    "Celerio": [
+      {
+        "BrandID": 129,
+        "ModelID": 413543,
+        "Brand Name": "Suzuki",
+        "Model Name": "Celerio",
+        "Serie Name": "Celerio",
+        "Years": "2014 - 2019",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment A (City Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Suzuki to japoński specjalista od małych samochodów i lekkich aut terenowych. Słynie z niezawodności i napędu AllGrip.",
+              "en": "Suzuki is a Japanese specialist in small cars and light off-road vehicles. It is famous for its reliability and AllGrip drive.",
+              "de": "Suzuki ist ein japanischer Spezialist für Kleinwagen und leichte Geländefahrzeuge. Es ist bekannt für seine Zuverlässigkeit und den AllGrip-Antrieb.",
+              "uk": "Suzuki є японським спеціалістом з виробництва малих автомобілів і легких позашляховиків. Він славиться своєю надійністю та приводом AllGrip.",
+              "ru": "Suzuki — японский специалист по производству небольших автомобилей и легких внедорожников. Он славится своей надежностью и приводом AllGrip.",
+              "zh": "铃木是日本小型汽车和轻型越野车专家。它以其可靠性和 AllGrip 驱动而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Suzuki Motor Corp.",
+                "en": "Suzuki Motor Corp.",
+                "de": "Suzuki Motor Corp.",
+                "uk": "Suzuki Motor Corp.",
+                "ru": "Suzuki Motor Corp.",
+                "zh": "铃木汽车公司"
+              },
+              "siedziba": {
+                "pl": "Hamamatsu, Japonia",
+                "en": "Hamamatsu, Japan",
+                "de": "Hamamatsu, Japan",
+                "uk": "Хамамацу, Японія",
+                "ru": "Хамамацу, Япония",
+                "zh": "日本滨松"
+              },
+              "założona": "1909"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/67/un/qfrjlf8c8o4g0sg0o00gk/suzuki-celerio-2.310.jpg"
+        }
+      }
+    ],
+    "Splash": [
+      {
+        "BrandID": 129,
+        "ModelID": 1511,
+        "Brand Name": "Suzuki",
+        "Model Name": "Splash",
+        "Serie Name": "Splash",
+        "Years": "2008 - 2014",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment A (City Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L - 1.3L DDiS",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Suzuki to japoński specjalista od małych samochodów i lekkich aut terenowych. Słynie z niezawodności i napędu AllGrip.",
+              "en": "Suzuki is a Japanese specialist in small cars and light off-road vehicles. It is famous for its reliability and AllGrip drive.",
+              "de": "Suzuki ist ein japanischer Spezialist für Kleinwagen und leichte Geländefahrzeuge. Es ist bekannt für seine Zuverlässigkeit und den AllGrip-Antrieb.",
+              "uk": "Suzuki є японським спеціалістом з виробництва малих автомобілів і легких позашляховиків. Він славиться своєю надійністю та приводом AllGrip.",
+              "ru": "Suzuki — японский специалист по производству небольших автомобилей и легких внедорожников. Он славится своей надежностью и приводом AllGrip.",
+              "zh": "铃木是日本小型汽车和轻型越野车专家。它以其可靠性和 AllGrip 驱动而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Suzuki Motor Corp.",
+                "en": "Suzuki Motor Corp.",
+                "de": "Suzuki Motor Corp.",
+                "uk": "Suzuki Motor Corp.",
+                "ru": "Suzuki Motor Corp.",
+                "zh": "铃木汽车公司"
+              },
+              "siedziba": {
+                "pl": "Hamamatsu, Japonia",
+                "en": "Hamamatsu, Japan",
+                "de": "Hamamatsu, Japan",
+                "uk": "Хамамацу, Японія",
+                "ru": "Хамамацу, Япония",
+                "zh": "日本滨松"
+              },
+              "założona": "1909"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4j/td/kgvzd0cg4g44s84s40s4o/splash.310.jpg"
+        }
+      }
+    ],
+    "Kizashi": [
+      {
+        "BrandID": 129,
+        "ModelID": 1508,
+        "Brand Name": "Suzuki",
+        "Model Name": "Kizashi",
+        "Serie Name": "Kizashi",
+        "Years": "2009 - 2014",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Suzuki Kizashi to niesłusznie zapomniana perła japońskiej motoryzacji – sedan klasy średniej o sportowej charakterystyce i luksusowym wykończeniu. Oferował doskonałe prowadzenie i system AWD, który w tej klasie aut niemarcowych był rzadkością, stając się modelem dla koneserów.",
+              "en": "Suzuki Kizashi is an unjustly forgotten pearl of the Japanese automotive industry - a middle-class sedan with sporty characteristics and a luxurious finish. It offered excellent handling and an AWD system, which was rare in this class of non-March cars, becoming a model for connoisseurs.",
+              "de": "Suzuki Kizashi ist eine zu Unrecht vergessene Perle der japanischen Automobilindustrie – eine Mittelklasse-Limousine mit sportlichen Eigenschaften und luxuriösem Finish. Er bot ein hervorragendes Handling und ein Allradsystem, was in dieser Klasse von Nicht-March-Autos selten war, und wurde zu einem Modell für Kenner.",
+              "uk": "Suzuki Kizashi — несправедливо забута перлина японського автомобілебудування — седан середнього класу зі спортивними характеристиками та розкішною обробкою. Він запропонував чудову керованість і систему повного приводу, яка була рідкістю в цьому класі неберезневих автомобілів, ставши зразком для поціновувачів.",
+              "ru": "Suzuki Kizashi – несправедливо забытая жемчужина японского автопрома – седан среднего класса со спортивными характеристиками и роскошной отделкой. Он предлагал отличную управляемость и систему полного привода, что было редкостью в этом классе немартовских машин, став образцом для ценителей.",
+              "zh": "铃木 Kizashi 是日本汽车工业中一颗被不公正地遗忘的明珠 - 一款具有运动特性和豪华外观的中级轿车。它提供了出色的操控性和AWD系统，这在非March车型中是罕见的，成为鉴赏家的典范。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Suzuki"
+              },
+              "okres produkcji": "2009–2014",
+              "segment": {
+                "pl": "D (Klasa średnia)",
+                "en": "D (Middle class)",
+                "de": "D (Mittelklasse)",
+                "uk": "D (Середній клас)",
+                "ru": "D (Средний класс)",
+                "zh": "D（中级）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/20/k0/j0l3jicgo0cgsw8c4wcc4/kizashi.310.jpg"
+        }
+      }
+    ],
+    "Liana": [
+      {
+        "BrandID": 129,
+        "ModelID": 1509,
+        "Brand Name": "Suzuki",
+        "Model Name": "Liana",
+        "Serie Name": "Liana",
+        "Years": "2001 - 2007",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.3L - 1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Suzuki to japoński specjalista od małych samochodów i lekkich aut terenowych. Słynie z niezawodności i napędu AllGrip.",
+              "en": "Suzuki is a Japanese specialist in small cars and light off-road vehicles. It is famous for its reliability and AllGrip drive.",
+              "de": "Suzuki ist ein japanischer Spezialist für Kleinwagen und leichte Geländefahrzeuge. Es ist bekannt für seine Zuverlässigkeit und den AllGrip-Antrieb.",
+              "uk": "Suzuki — японський фахівець з малолітражних автомобілів і легких позашляховиків. Він славиться своєю надійністю та приводом AllGrip.",
+              "ru": "Suzuki — японский специалист по малолитражным автомобилям и легким внедорожникам. Он славится своей надежностью и приводом AllGrip.",
+              "zh": "铃木是日本小型车和轻型越野车专家。它以其可靠性和 AllGrip 驱动而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Suzuki Motor Corp.",
+                "en": "Suzuki Motor Corp.",
+                "de": "Suzuki Motor Corp.",
+                "uk": "Suzuki Motor Corp.",
+                "ru": "Suzuki Motor Corp.",
+                "zh": "铃木汽车公司"
+              },
+              "siedziba": {
+                "pl": "Hamamatsu, Japonia",
+                "en": "Hamamatsu, Japan",
+                "de": "Hamamatsu, Japan",
+                "uk": "Хамамацу, Японія",
+                "ru": "Хамамацу, Япония",
+                "zh": "日本滨松"
+              },
+              "założona": "1909"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5p/wv/5oirwy8ss4csco8g0oogk/liana-sedan.310.jpg"
+        }
+      }
+    ],
+    "Samurai": [
+      {
+        "BrandID": 129,
+        "ModelID": 1510,
+        "Brand Name": "Suzuki",
+        "Model Name": "Samurai",
+        "Serie Name": "Samurai",
+        "Years": "1984 - 1998",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mini SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline",
+          "engine": "1.3L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Suzuki Samurai to legenda off-roadu, która zyskała status kultowy na całym świecie. Minimalistyczna konstrukcja, niska masa i ogromna wytrzymałość sprawiły, że jest to jedno z ulubionych aut fanów modyfikacji terenowych, zdolne pokonać najtrudniejsze przeszkody.",
+              "en": "Suzuki Samurai is an off-road legend that has gained cult status around the world. Minimalist design, low weight and enormous durability make it one of the favorite cars of off-road modification fans, able to overcome the most difficult obstacles.",
+              "de": "Suzuki Samurai ist eine Offroad-Legende, die auf der ganzen Welt Kultstatus erlangt hat. Minimalistisches Design, geringes Gewicht und enorme Haltbarkeit machen es zu einem der Lieblingsautos von Offroad-Modifikationsfans, das die schwierigsten Hindernisse überwinden kann.",
+              "uk": "Suzuki Samurai — це легенда позашляховиків, яка набула культового статусу в усьому світі. Мінімалістичний дизайн, мала вага і величезна міцність роблять його одним з улюблених автомобілів любителів позашляхових модифікацій, здатним долати найскладніші перешкоди.",
+              "ru": "Suzuki Samurai – легенда бездорожья, получившая культовый статус во всем мире. Минималистичный дизайн, малый вес и огромная прочность делают его одним из любимых автомобилей любителей внедорожных модификаций, способных преодолевать самые сложные препятствия.",
+              "zh": "铃木武士是一位越野传奇人物，在世界范围内获得了崇拜。极简的设计、低重量和巨大的耐用性使其成为越野改装爱好者最喜欢的汽车之一，能够克服最困难的障碍。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Suzuki"
+              },
+              "okres produkcji": "1984–1998",
+              "segment": {
+                "pl": "Mini SUV / Terenowy",
+                "en": "Mini SUV / Off-road",
+                "de": "Mini-SUV / Geländewagen",
+                "uk": "Міні-позашляховик / Позашляховик",
+                "ru": "Мини-внедорожник / Внедорожник",
+                "zh": "迷你 SUV/越野"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4e/k8/sgevdssgw4swckcgg44wk/samurai.310.jpg"
+        }
+      }
+    ],
+    "Swace": [
+      {
+        "BrandID": 129,
+        "ModelID": 416602,
+        "Brand Name": "Suzuki",
+        "Model Name": "Swace",
+        "Serie Name": "Swace",
+        "Years": "2020 - Present",
+        "specs": {
+          "bodyType": "Wagon",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Hybrid",
+          "engine": "1.8L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Suzuki to japoński specjalista od małych samochodów i lekkich aut terenowych. Słynie z niezawodności i napędu AllGrip.",
+              "en": "Suzuki is a Japanese specialist in small cars and light off-road vehicles. It is famous for its reliability and AllGrip drive.",
+              "de": "Suzuki ist ein japanischer Spezialist für Kleinwagen und leichte Geländefahrzeuge. Es ist bekannt für seine Zuverlässigkeit und den AllGrip-Antrieb.",
+              "uk": "Suzuki — японський спеціаліст із виробництва малолітражних автомобілів і легких позашляховиків. Він славиться своєю надійністю та приводом AllGrip.",
+              "ru": "Suzuki — японский специалист по производству небольших автомобилей и легких внедорожников. Он славится своей надежностью и приводом AllGrip.",
+              "zh": "铃木是日本小型车和轻型越野车专家。它以其可靠性和 AllGrip 驱动而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Suzuki Motor Corp.",
+                "en": "Suzuki Motor Corp.",
+                "de": "Suzuki Motor Corp.",
+                "uk": "Suzuki Motor Corp.",
+                "ru": "Suzuki Motor Corp.",
+                "zh": "铃木汽车公司"
+              },
+              "siedziba": {
+                "pl": "Hamamatsu, Japonia",
+                "en": "Hamamatsu, Japan",
+                "de": "Hamamatsu, Japan",
+                "uk": "Хамамацу, Японія",
+                "ru": "Хамамацу, Япония",
+                "zh": "日本滨松"
+              },
+              "założona": "1909"
+            }
+          }
+        }
+      }
+    ],
+    "Across": [
+      {
+        "BrandID": 129,
+        "ModelID": 416603,
+        "Brand Name": "Suzuki",
+        "Model Name": "Across",
+        "Serie Name": "Across",
+        "Years": "2020 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment D-SUV",
+          "drive": "AWD",
+          "fuel": "Plug-in Hybrid",
+          "engine": "2.5L PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Suzuki Across to najmocniejszy i najbardziej zaawansowany technicznie SUV w ofercie marki, będący owocem współpracy z Toyotą. Jako hybryda typu Plug-in oferuje imponujące osiągi i duży zasięg w trybie elektrycznym, łącząc ekologię z funkcjonalnością napędu E-Four (AWD).",
+              "en": "Suzuki Across is the most powerful and technically advanced SUV in the brand's offer, the result of cooperation with Toyota. As a plug-in hybrid, it offers impressive performance and long range in electric mode, combining ecology with the functionality of the E-Four drive (AWD).",
+              "de": "Suzuki Across ist das leistungsstärkste und technisch fortschrittlichste SUV im Angebot der Marke, das Ergebnis der Zusammenarbeit mit Toyota. Als Plug-in-Hybrid bietet er beeindruckende Leistung und große Reichweite im Elektromodus und vereint Ökologie mit der Funktionalität des E-Four-Antriebs (AWD).",
+              "uk": "Suzuki Across — найпотужніший і технічно найдосконаліший позашляховик у пропозиції бренду, результат співпраці з Toyota. Як плагін-гібрид він пропонує вражаючу продуктивність і великий запас ходу в електричному режимі, поєднуючи екологічність із функціональністю приводу E-Four (AWD).",
+              "ru": "Suzuki Across — самый мощный и технически совершенный внедорожник в предложении бренда, результат сотрудничества с Toyota. Будучи подключаемым гибридом, он предлагает впечатляющую производительность и большой запас хода в электрическом режиме, сочетая экологию с функциональностью привода E-Four (AWD).",
+              "zh": "铃木 Across 是该品牌产品中动力最强劲、技术最先进的 SUV，是与丰田合作的成果。作为一款插电式混合动力车，它在电动模式下提供令人印象深刻的性能和长续航里程，将生态学与 E-Four 驱动器 (AWD) 的功能相结合。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Suzuki (współpraca z Toyotą)",
+                "en": "Suzuki (cooperation with Toyota)",
+                "de": "Suzuki (Kooperation mit Toyota)",
+                "uk": "Suzuki (співпраця з Toyota)",
+                "ru": "Suzuki (сотрудничество с Toyota)",
+                "zh": "铃木（与丰田合作）"
+              },
+              "okres produkcji": {
+                "pl": "od 2020",
+                "en": "from 2020",
+                "de": "ab 2020",
+                "uk": "з 2020",
+                "ru": "с 2020 г.",
+                "zh": "2020 年起"
+              },
+              "segment": {
+                "pl": "D-SUV (PHEV)",
+                "en": "D-SUV (PHEV)",
+                "de": "D-SUV (PHEV)",
+                "uk": "D-SUV (PHEV)",
+                "ru": "D-SUV (PHEV)",
+                "zh": "D-SUV (PHEV)"
+              },
+              "napęd": {
+                "pl": "E-Four (AWD)",
+                "en": "E-Four (AWD)",
+                "de": "E-Four (AWD)",
+                "uk": "E-Four (AWD)",
+                "ru": "E-Four (AWD)",
+                "zh": "E-Four (AWD)"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

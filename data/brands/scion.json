@@ -1,0 +1,180 @@
+{
+  "brand": "Scion",
+  "models": {
+    "": [
+      {
+        "BrandID": 197,
+        "ModelID": "",
+        "Brand Name": "Scion",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "tC": [
+      {
+        "BrandID": 197,
+        "ModelID": 415576,
+        "Brand Name": "Scion",
+        "Model Name": "tC",
+        "Serie Name": "tC 1",
+        "Years": "2004 - 2010",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ai/j4/ofpyya04cogc84sgowkgs/scion-tc.310.jpg"
+        }
+      }
+    ],
+    "tC 1": [
+      {
+        "BrandID": 197,
+        "ModelID": 415576,
+        "Brand Name": "Scion",
+        "Model Name": "tC",
+        "Serie Name": "tC 1",
+        "Years": "2004 - 2010",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "tC 2": [
+      {
+        "BrandID": 197,
+        "ModelID": 415577,
+        "Brand Name": "Scion",
+        "Model Name": "tC",
+        "Serie Name": "tC 2",
+        "Years": "2010 - 2016",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "xA": [
+      {
+        "BrandID": 197,
+        "ModelID": 415579,
+        "Brand Name": "Scion",
+        "Model Name": "xA",
+        "Serie Name": "xA",
+        "Years": "2003 - 2006",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/dp/ok/jtnyw5k44408o0gg0owwc/scion-xa.310.jpg"
+        }
+      }
+    ],
+    "xB": [
+      {
+        "BrandID": 197,
+        "ModelID": 415581,
+        "Brand Name": "Scion",
+        "Model Name": "xB",
+        "Serie Name": "xB 1",
+        "Years": "2003 - 2008",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/e8/xx/cno44co4ccc0w4c4ko00s/scion-xb-ii.310.jpg"
+        }
+      }
+    ],
+    "xB 1": [
+      {
+        "BrandID": 197,
+        "ModelID": 415581,
+        "Brand Name": "Scion",
+        "Model Name": "xB",
+        "Serie Name": "xB 1",
+        "Years": "2003 - 2008",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "xB 2": [
+      {
+        "BrandID": 197,
+        "ModelID": 415582,
+        "Brand Name": "Scion",
+        "Model Name": "xB",
+        "Serie Name": "xB 2",
+        "Years": "2008 - 2015",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "xD": [
+      {
+        "BrandID": 197,
+        "ModelID": 415584,
+        "Brand Name": "Scion",
+        "Model Name": "xD",
+        "Serie Name": "xD",
+        "Years": "2007 - 2014",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bk/5n/jstcoao0sko8cc8g8scok/scion-xd.310.jpg"
+        }
+      }
+    ]
+  }
+}

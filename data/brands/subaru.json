@@ -1,0 +1,2110 @@
+{
+  "brand": "Subaru",
+  "models": {
+    "Impreza": [
+      {
+        "BrandID": 128,
+        "ModelID": 413507,
+        "Brand Name": "Subaru",
+        "Model Name": "Impreza",
+        "Serie Name": "Impreza I (GC/GF)",
+        "Years": "1992 - 2000",
+        "specs": {
+          "bodyType": "Sedan/Wagon/Coupe",
+          "segment": "Segment C (Compact)",
+          "drive": "AWD/FWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L - 2.0L Turbo (WRX/STI)",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/1994_Subaru_Impreza_Sportswagon_%28GF6%29_GX_AWD_%282015-07-09%29_01.jpg/1280px-1994_Subaru_Impreza_Sportswagon_%28GF6%29_GX_AWD_%282015-07-09%29_01.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/1994_Subaru_Impreza_Sportswagon_%28GF6%29_GX_AWD_%282015-07-09%29_01.jpg/1280px-1994_Subaru_Impreza_Sportswagon_%28GF6%29_GX_AWD_%282015-07-09%29_01.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Subaru_Impreza_two-door_--_09-12-2010.jpg/1280px-Subaru_Impreza_two-door_--_09-12-2010.jpg"
+            ],
+            "description": {
+              "pl": "Subaru Impreza to model, który dzięki sukcesom w WRC stał się legendą. Wersje WRX STI to kultowe auta sportowe.",
+              "en": "Subaru Impreza is a model that has become a legend thanks to its successes in the WRC. The WRX STI versions are iconic sports cars.",
+              "de": "Subaru Impreza ist ein Modell, das dank seiner Erfolge in der WRC zur Legende geworden ist. Die WRX STI-Versionen sind kultige Sportwagen.",
+              "uk": "Subaru Impreza – модель, яка стала легендою завдяки успіхам у WRC. Версії WRX STI є культовими спортивними автомобілями.",
+              "ru": "Subaru Impreza – модель, ставшая легендой благодаря успехам в WRC. Версии WRX STI — культовые спортивные автомобили.",
+              "zh": "斯巴鲁翼豹 (Subaru Impreza) 是一款凭借在 WRC 上的成功而成为传奇的车型。 WRX STI 版本是标志性的跑车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 1992",
+                "en": "since 1992",
+                "de": "seit 1992",
+                "uk": "з 1992 року",
+                "ru": "с 1992 года.",
+                "zh": "自 1992 年以来"
+              },
+              "segment": {
+                "pl": "C"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2l/lx/8ys212kgc0wcc4ggc8c88/impreza-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 128,
+        "ModelID": 413508,
+        "Brand Name": "Subaru",
+        "Model Name": "Impreza",
+        "Serie Name": "Impreza II (GD/GG)",
+        "Years": "2000 - 2007",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Segment C (Compact)",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L - 2.5L Turbo (WRX/STI)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Subaru Impreza to model, który dzięki sukcesom w WRC stał się legendą. Wersje WRX STI to kultowe auta sportowe.",
+              "en": "Subaru Impreza is a model that has become a legend thanks to its successes in the WRC. The WRX STI versions are iconic sports cars.",
+              "de": "Subaru Impreza ist ein Modell, das dank seiner Erfolge in der WRC zur Legende geworden ist. Die WRX STI-Versionen sind kultige Sportwagen.",
+              "uk": "Subaru Impreza — це модель, яка стала легендою завдяки успіхам у WRC. Версії WRX STI є культовими спортивними автомобілями.",
+              "ru": "Subaru Impreza — модель, ставшая легендой благодаря успехам в WRC. Версии WRX STI — культовые спортивные автомобили.",
+              "zh": "斯巴鲁翼豹 (Subaru Impreza) 是一款因其在 WRC 中的成功而成为传奇的车型。 WRX STI 版本是标志性的跑车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 1992",
+                "en": "since 1992",
+                "de": "seit 1992",
+                "uk": "з 1992 року",
+                "ru": "с 1992 года.",
+                "zh": "自 1992 年以来"
+              },
+              "segment": {
+                "pl": "C"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2l/lx/8ys212kgc0wcc4ggc8c88/impreza-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 128,
+        "ModelID": 413509,
+        "Brand Name": "Subaru",
+        "Model Name": "Impreza",
+        "Serie Name": "Impreza III (GE/GH/GR/GV)",
+        "Years": "2007 - 2011",
+        "specs": {
+          "bodyType": "Hatchback/Sedan",
+          "segment": "Segment C (Compact)",
+          "drive": "AWD/FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.5L - 2.5L Turbo (WRX/STI)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Subaru Impreza to model, który dzięki sukcesom w WRC stał się legendą. Wersje WRX STI to kultowe auta sportowe.",
+              "en": "Subaru Impreza is a model that has become a legend thanks to its successes in the WRC. The WRX STI versions are iconic sports cars.",
+              "de": "Subaru Impreza ist ein Modell, das dank seiner Erfolge in der WRC zur Legende geworden ist. Die WRX STI-Versionen sind kultige Sportwagen.",
+              "uk": "Subaru Impreza — це модель, яка стала легендою завдяки успіхам у WRC. Версії WRX STI є культовими спортивними автомобілями.",
+              "ru": "Subaru Impreza — модель, ставшая легендой благодаря успехам в WRC. Версии WRX STI — культовые спортивные автомобили.",
+              "zh": "斯巴鲁翼豹 (Subaru Impreza) 是一款因其在 WRC 中的成功而成为传奇的车型。 WRX STI 版本是标志性的跑车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 1992",
+                "en": "since 1992",
+                "de": "seit 1992",
+                "uk": "з 1992 року",
+                "ru": "с 1992 года.",
+                "zh": "自 1992 年以来"
+              },
+              "segment": {
+                "pl": "C"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2l/lx/8ys212kgc0wcc4ggc8c88/impreza-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 128,
+        "ModelID": 413510,
+        "Brand Name": "Subaru",
+        "Model Name": "Impreza",
+        "Serie Name": "Impreza IV (GP/GJ)",
+        "Years": "2011 - 2016",
+        "specs": {
+          "bodyType": "Hatchback/Sedan",
+          "segment": "Segment C (Compact)",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L - 2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Subaru Impreza to model, który dzięki sukcesom w WRC stał się legendą. Wersje WRX STI to kultowe auta sportowe.",
+              "en": "Subaru Impreza is a model that has become a legend thanks to its successes in the WRC. The WRX STI versions are iconic sports cars.",
+              "de": "Subaru Impreza ist ein Modell, das dank seiner Erfolge in der WRC zur Legende geworden ist. Die WRX STI-Versionen sind kultige Sportwagen.",
+              "uk": "Subaru Impreza — це модель, яка стала легендою завдяки успіхам у WRC. Версії WRX STI є культовими спортивними автомобілями.",
+              "ru": "Subaru Impreza — модель, ставшая легендой благодаря успехам в WRC. Версии WRX STI — культовые спортивные автомобили.",
+              "zh": "斯巴鲁翼豹 (Subaru Impreza) 是一款因其在 WRC 中的成功而成为传奇的车型。 WRX STI 版本是标志性的跑车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 1992",
+                "en": "since 1992",
+                "de": "seit 1992",
+                "uk": "з 1992 року",
+                "ru": "с 1992 года.",
+                "zh": "自 1992 年以来"
+              },
+              "segment": {
+                "pl": "C"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2l/lx/8ys212kgc0wcc4ggc8c88/impreza-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 128,
+        "ModelID": 413511,
+        "Brand Name": "Subaru",
+        "Model Name": "Impreza",
+        "Serie Name": "Impreza V (GT/GK)",
+        "Years": "2016 - 2023",
+        "specs": {
+          "bodyType": "Hatchback/Sedan",
+          "segment": "Segment C (Compact)",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L - 2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "5"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Subaru Impreza to model, który dzięki sukcesom w WRC stał się legendą. Wersje WRX STI to kultowe auta sportowe.",
+              "en": "Subaru Impreza is a model that has become a legend thanks to its successes in the WRC. The WRX STI versions are iconic sports cars.",
+              "de": "Subaru Impreza ist ein Modell, das dank seiner Erfolge in der WRC zur Legende geworden ist. Die WRX STI-Versionen sind kultige Sportwagen.",
+              "uk": "Subaru Impreza — це модель, яка стала легендою завдяки успіхам у WRC. Версії WRX STI є культовими спортивними автомобілями.",
+              "ru": "Subaru Impreza — модель, ставшая легендой благодаря успехам в WRC. Версии WRX STI — культовые спортивные автомобили.",
+              "zh": "斯巴鲁翼豹 (Subaru Impreza) 是一款因其在 WRC 中的成功而成为传奇的车型。 WRX STI 版本是标志性的跑车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 1992",
+                "en": "since 1992",
+                "de": "seit 1992",
+                "uk": "з 1992 року",
+                "ru": "с 1992 года.",
+                "zh": "自 1992 年以来"
+              },
+              "segment": {
+                "pl": "C"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2l/lx/8ys212kgc0wcc4ggc8c88/impreza-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 128,
+        "ModelID": 416593,
+        "Brand Name": "Subaru",
+        "Model Name": "Impreza",
+        "Serie Name": "Impreza VI",
+        "Years": "2023 - Present",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment C (Compact)",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L - 2.5L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "5"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Subaru Impreza to synonim rajdowej legendy i inżynieryjnej konsekwencji. Dzięki stałemu napędowi na wszystkie koła Symmetrical AWD oraz nisko położonemu środkowi ciężkości (silnik Boxer), oferuje niezrównaną pewność prowadzenia w każdych warunkach pogodowych.",
+              "en": "Subaru Impreza is synonymous with rally legend and engineering consistency. Thanks to Symmetrical AWD permanent all-wheel drive and a low center of gravity (Boxer engine), it offers unrivaled driving confidence in all weather conditions.",
+              "de": "Subaru Impreza ist ein Synonym für Rallye-Legende und technische Konstanz. Dank des permanenten Allradantriebs Symmetrical AWD und des niedrigen Schwerpunkts (Boxermotor) bietet er unübertroffenes Fahrvertrauen bei allen Wetterbedingungen.",
+              "uk": "Subaru Impreza є синонімом легенди ралі та інженерної послідовності. Завдяки постійному повному приводу Symmetrical AWD і низькому центру ваги (двигун Boxer) він забезпечує неперевершену впевненість водіння за будь-яких погодних умов.",
+              "ru": "Subaru Impreza является синонимом раллийной легенды и инженерной последовательности. Благодаря постоянному полному приводу Symmetrical AWD и низкому центру тяжести (двигатель Boxer) он обеспечивает непревзойденную уверенность при вождении в любых погодных условиях.",
+              "zh": "Subaru Impreza 是拉力赛传奇和工程一致性的代名词。得益于对称 AWD 永久全轮驱动和低重心（水平对置发动机），它可以在所有天气条件下提供无与伦比的驾驶信心。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 1992",
+                "en": "from 1992",
+                "de": "ab 1992",
+                "uk": "з 1992 року",
+                "ru": "1992 года.",
+                "zh": "1992 年生产"
+              },
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (компактний)",
+                "ru": "C (Компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "napęd": {
+                "pl": "Symmetrical AWD",
+                "en": "Symmetrical AWD",
+                "de": "Symmetrischer AWD",
+                "uk": "Симетричний повний привід",
+                "ru": "Симметричный полный привод",
+                "zh": "对称全轮驱动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2l/lx/8ys212kgc0wcc4ggc8c88/impreza-iii.310.jpg"
+        }
+      }
+    ],
+    "WRX": [
+      {
+        "BrandID": 128,
+        "ModelID": 415546,
+        "Brand Name": "Subaru",
+        "Model Name": "WRX",
+        "Serie Name": "WRX (VA)",
+        "Years": "2014 - 2021",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Sport Compact",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L Turbo - 2.5L Turbo (STI)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Subaru XV (znane również jako Crosstrek) to kompaktowy crossover, który przenosi dzielność legendarnego Forestera do bardziej miejskiego formatu. Mimo kompaktowych wymiarów, oferuje imponujący prześwit i stały napęd AWD, będąc gotowym na każdą przygodę poza utwardzonymi szlakami.",
+              "en": "The Subaru XV (also known as the Crosstrek) is a compact crossover that brings the agility of the legendary Forester to a more urban format. Despite its compact dimensions, it offers impressive ground clearance and permanent AWD drive, being ready for any adventure off paved trails.",
+              "de": "Der Subaru XV (auch bekannt als Crosstrek) ist ein kompakter Crossover, der die Agilität des legendären Forester in ein urbaneres Format bringt. Trotz seiner kompakten Abmessungen bietet er eine beeindruckende Bodenfreiheit und einen permanenten Allradantrieb und ist damit für jedes Abenteuer abseits befestigter Wege gerüstet.",
+              "uk": "Subaru XV (також відомий як Crosstrek) — це компактний кросовер, який переносить маневреність легендарного Forester у більш міський формат. Незважаючи на свої компактні розміри, він пропонує вражаючий дорожній просвіт і постійний повний привід, готовий до будь-яких пригод поза асфальтованими стежками.",
+              "ru": "Subaru XV (также известный как Crosstrek) — компактный кроссовер, который привносит маневренность легендарного Forester в более городской формат. Несмотря на свои компактные размеры, он предлагает впечатляющий дорожный просвет и постоянный полный привод, готовый к любым приключениям на бездорожье.",
+              "zh": "斯巴鲁 XV（也称为 Crosstrek）是一款紧凑型跨界车，将传奇森林人的敏捷性带入了更加城市化的车型中。尽管尺寸紧凑，但它提供了令人印象深刻的离地间隙和永久全轮驱动，为任何铺砌小径的冒险做好了准备。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 2011",
+                "en": "from 2011",
+                "de": "ab 2011",
+                "uk": "з 2011 року",
+                "ru": "с 2011 года.",
+                "zh": "2011 年生产"
+              },
+              "segment": {
+                "pl": "C-Crossover"
+              },
+              "napęd": {
+                "pl": "Symmetrical AWD",
+                "en": "Symmetrical AWD",
+                "de": "Symmetrischer Allradantrieb",
+                "uk": "Симетричний повний привід",
+                "ru": "Симметричный полный привод",
+                "zh": "对称全轮驱动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/d0/02/8qj5kigcow0gosw8cco4k/subaru_wrx-2014_r3-jpg.310.jpg"
+        }
+      },
+      {
+        "BrandID": 128,
+        "ModelID": 416594,
+        "Brand Name": "Subaru",
+        "Model Name": "WRX",
+        "Serie Name": "WRX (VB)",
+        "Years": "2021 - Present",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Sport Compact",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "5"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Subaru WRX to bezpośredni spadkobierca rajdowych sukcesów marki, stworzony dla purystów szukających surowych osiągów. Wyposażony w turbodoładowany silnik Boxer i precyzyjny układ napędowy AWD, dostarcza ekstremalnych emocji zarówno na asfalcie, jak i na luźnej nawierzchni.",
+              "en": "Subaru WRX is a direct heir to the brand's rally success, created for purists looking for raw performance. Equipped with a turbocharged Boxer engine and a precise AWD drive system, it delivers extreme emotions both on asphalt and on loose surfaces.",
+              "de": "Der Subaru WRX ist ein direkter Erbe des Rallye-Erfolgs der Marke und wurde für Puristen entwickelt, die auf der Suche nach roher Leistung sind. Ausgestattet mit einem turbogeladenen Boxermotor und einem präzisen Allradantrieb sorgt er sowohl auf Asphalt als auch auf losem Untergrund für extreme Emotionen.",
+              "uk": "Subaru WRX є прямим спадкоємцем успіху бренду в ралі, створеним для пуристів, які шукають сиру продуктивність. Оснащений двигуном Boxer з турбонаддувом і точною системою приводу AWD, він дарує екстремальні емоції як на асфальті, так і на сипучому покритті.",
+              "ru": "Subaru WRX — прямой наследник раллийного успеха бренда, созданный для пуристов, ищущих непревзойденную производительность. Оснащенный оппозитным двигателем с турбонаддувом и точной системой полного привода, он дарит невероятные эмоции как на асфальте, так и на рыхлых поверхностях.",
+              "zh": "斯巴鲁 WRX 是该品牌拉力赛成功的直接继承者，专为追求原始性能的纯粹主义者而打造。配备涡轮增压水平对置发动机和精确的全轮驱动驱动系统，无论在沥青路面还是松软路面上，它都能带来极致的驾驶感受。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru (Subaru Tecnica International)",
+                "en": "Subaru (Subaru Tecnica International)",
+                "de": "Subaru (Subaru Tecnica International)",
+                "uk": "Subaru (Subaru Tecnica International)",
+                "ru": "Subaru (Subaru Tecnica International)",
+                "zh": "斯巴鲁 (Subaru Tecnica International)"
+              },
+              "okres produkcji": {
+                "pl": "od 1992",
+                "en": "from 1992",
+                "de": "von 1992",
+                "uk": "з 1992 року",
+                "ru": "с 1992 года",
+                "zh": "1992 年生产"
+              },
+              "segment": {
+                "pl": "Sport Compact",
+                "en": "Sport Compact",
+                "de": "Sport Compact",
+                "uk": "Sport Compact",
+                "ru": "Sport Compact",
+                "zh": "运动紧凑型"
+              },
+              "napęd": {
+                "pl": "Symmetrical AWD",
+                "en": "Symmetrical AWD",
+                "de": "Symmetrical AWD",
+                "uk": "Symmetrical AWD",
+                "ru": "Симметричный полный привод",
+                "zh": "对称全轮驱动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/d0/02/8qj5kigcow0gosw8cco4k/subaru_wrx-2014_r3-jpg.310.jpg"
+        }
+      }
+    ],
+    "Forester": [
+      {
+        "BrandID": 128,
+        "ModelID": 3676,
+        "Brand Name": "Subaru",
+        "Model Name": "Forester",
+        "Serie Name": "Forester I (SF)",
+        "Years": "1997 - 2002",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L - 2.5L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Subaru Forester to praktyczny SUV, który prowadzi się jak auto osobowe, ale w terenie zawstydzi niejedną terenówkę.",
+              "en": "Subaru Forester is a practical SUV that drives like a passenger car, but in the field it will put many off-road vehicles to shame.",
+              "de": "Subaru Forester ist ein praktischer SUV, der sich wie ein Pkw fährt, aber im Gelände viele Geländewagen in den Schatten stellen wird.",
+              "uk": "Subaru Forester — це практичний позашляховик, який їздить як легковий автомобіль, але в полі він засоромить багато позашляховиків.",
+              "ru": "Subaru Forester — практичный внедорожник, который ездит как легковой автомобиль, но в поле он посрамит многие внедорожники.",
+              "zh": "斯巴鲁森林人 (Subaru Forester) 是一款实用的 SUV，驾驶起来就像客车一样，但在野外它会让许多越野车相形见绌。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 1997",
+                "en": "from 1997",
+                "de": "ab 1997",
+                "uk": "з 1997 року",
+                "ru": "с 1997 г.",
+                "zh": "1997 年起"
+              },
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型 SUV"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/c1/p1/aej41y0c4004wg40gckow/subaru-forester-2014-160.310.jpg"
+        }
+      },
+      {
+        "BrandID": 128,
+        "ModelID": 131862,
+        "Brand Name": "Subaru",
+        "Model Name": "Forester",
+        "Serie Name": "Forester II (SG)",
+        "Years": "2002 - 2008",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L - 2.5L Turbo (XT/STI)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Subaru Forester to praktyczny SUV, który prowadzi się jak auto osobowe, ale w terenie zawstydzi niejedną terenówkę.",
+              "en": "The Subaru Forester is a practical SUV that drives like a passenger car, but off-road it will put many off-road vehicles to shame.",
+              "de": "Der Subaru Forester ist ein praktischer SUV, der sich wie ein Pkw fährt, aber im Gelände viele Geländewagen in den Schatten stellen wird.",
+              "uk": "Subaru Forester — це практичний позашляховик, який їздить як легковий автомобіль, але на бездоріжжі він засоромить багато позашляховиків.",
+              "ru": "Subaru Forester — практичный внедорожник, который ездит как легковой автомобиль, но на бездорожье он посрамит многие внедорожники.",
+              "zh": "斯巴鲁森林人是一款实用的SUV，驾驶起来就像客车一样，但在越野方面它会让许多越野车相形见绌。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 1997",
+                "en": "from 1997",
+                "de": "von 1997",
+                "uk": "з 1997 року",
+                "ru": "1997 года.",
+                "zh": "来自 1997 年"
+              },
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型 SUV"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/c1/p1/aej41y0c4004wg40gckow/subaru-forester-2014-160.310.jpg"
+        }
+      },
+      {
+        "BrandID": 128,
+        "ModelID": 412881,
+        "Brand Name": "Subaru",
+        "Model Name": "Forester",
+        "Serie Name": "Forester III (SH)",
+        "Years": "2008 - 2013",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 2.5L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Subaru Forester to praktyczny SUV, który prowadzi się jak auto osobowe, ale w terenie zawstydzi niejedną terenówkę.",
+              "en": "Subaru Forester is a practical SUV that drives like a passenger car, but off-road it will put many off-road vehicles to shame.",
+              "de": "Der Subaru Forester ist ein praktischer SUV, der sich wie ein Pkw fährt, aber im Gelände viele Geländewagen in den Schatten stellen wird.",
+              "uk": "Subaru Forester — це практичний позашляховик, який їздить як легковий автомобіль, але на бездоріжжі він засоромить багато позашляховиків.",
+              "ru": "Subaru Forester — практичный внедорожник, который ездит как легковой автомобиль, но на бездорожье он посрамит многие внедорожники.",
+              "zh": "斯巴鲁森林人是一款实用的 SUV，驾驶起来像客车，但在越野方面它会让许多越野车相形见绌。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 1997",
+                "en": "from 1997",
+                "de": "von 1997",
+                "uk": "з 1997 року",
+                "ru": "1997 года.",
+                "zh": "来自 1997 年"
+              },
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型 SUV"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/c1/p1/aej41y0c4004wg40gckow/subaru-forester-2014-160.310.jpg"
+        }
+      },
+      {
+        "BrandID": 128,
+        "ModelID": 413506,
+        "Brand Name": "Subaru",
+        "Model Name": "Forester",
+        "Serie Name": "Forester IV (SJ)",
+        "Years": "2013 - 2018",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 2.5L / 2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Subaru Forester to praktyczny SUV, który prowadzi się jak auto osobowe, ale w terenie zawstydzi niejedną terenówkę.",
+              "en": "Subaru Forester is a practical SUV that drives like a passenger car, but off-road it will put many off-road vehicles to shame.",
+              "de": "Der Subaru Forester ist ein praktischer SUV, der sich wie ein Pkw fährt, aber im Gelände viele Geländewagen in den Schatten stellen wird.",
+              "uk": "Subaru Forester — це практичний позашляховик, який їздить як легковий автомобіль, але на бездоріжжі він засоромить багато позашляховиків.",
+              "ru": "Subaru Forester — практичный внедорожник, который ездит как легковой автомобиль, но на бездорожье он посрамит многие внедорожники.",
+              "zh": "斯巴鲁森林人是一款实用的 SUV，驾驶起来像客车，但在越野方面它会让许多越野车相形见绌。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 1997",
+                "en": "from 1997",
+                "de": "von 1997",
+                "uk": "з 1997 року",
+                "ru": "1997 года.",
+                "zh": "来自 1997 年"
+              },
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型 SUV"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/c1/p1/aej41y0c4004wg40gckow/subaru-forester-2014-160.310.jpg"
+        }
+      },
+      {
+        "BrandID": 128,
+        "ModelID": 415428,
+        "Brand Name": "Subaru",
+        "Model Name": "Forester",
+        "Serie Name": "Forester V (SK)",
+        "Years": "2018 - 2024",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.0L Hybrid - 2.5L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Subaru Forester to praktyczny SUV, który prowadzi się jak auto osobowe, ale w terenie zawstydzi niejedną terenówkę.",
+              "en": "Subaru Forester is a practical SUV that drives like a passenger car, but off-road it will put many off-road vehicles to shame.",
+              "de": "Der Subaru Forester ist ein praktischer SUV, der sich wie ein Pkw fährt, aber im Gelände viele Geländewagen in den Schatten stellen wird.",
+              "uk": "Subaru Forester — це практичний позашляховик, який їздить як легковий автомобіль, але на бездоріжжі він засоромить багато позашляховиків.",
+              "ru": "Subaru Forester — практичный внедорожник, который ездит как легковой автомобиль, но на бездорожье он посрамит многие внедорожники.",
+              "zh": "斯巴鲁森林人是一款实用的 SUV，驾驶起来像客车，但在越野方面它会让许多越野车相形见绌。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 1997",
+                "en": "from 1997",
+                "de": "ab 1997",
+                "uk": "з 1997 року",
+                "ru": "1997 года.",
+                "zh": "1997 年生产"
+              },
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型 SUV"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/c1/p1/aej41y0c4004wg40gckow/subaru-forester-2014-160.310.jpg"
+        }
+      },
+      {
+        "BrandID": 128,
+        "ModelID": 416595,
+        "Brand Name": "Subaru",
+        "Model Name": "Forester",
+        "Serie Name": "Forester VI (SL)",
+        "Years": "2024 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.5L / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Subaru Forester to jeden z najbardziej wszechstronnych SUV-ów na świecie, łączący funkcjonalność auta rodzinnego z dzielnością prawdziwej terenówki. Słynie z doskonałej widoczności, wysokiego prześwitu i legendarnej niezawodności napędu na cztery koła.",
+              "en": "Subaru Forester is one of the most versatile SUVs in the world, combining the functionality of a family car with the performance of a real off-road vehicle. It is famous for its excellent visibility, high ground clearance and legendary four-wheel drive reliability.",
+              "de": "Der Subaru Forester ist einer der vielseitigsten SUVs der Welt und vereint die Funktionalität eines Familienautos mit der Leistung eines echten Geländewagens. Es ist bekannt für seine hervorragende Sicht, die hohe Bodenfreiheit und die legendäre Zuverlässigkeit des Allradantriebs.",
+              "uk": "Subaru Forester — один із найбільш універсальних позашляховиків у світі, який поєднує в собі функціональність сімейного автомобіля з продуктивністю справжнього позашляховика. Він славиться відмінною оглядовістю, високим кліренсом і легендарною надійністю повного приводу.",
+              "ru": "Subaru Forester — один из самых универсальных внедорожников в мире, сочетающий в себе функциональность семейного автомобиля с характеристиками настоящего внедорожника. Он славится прекрасной обзорностью, большим клиренсом и легендарной надежностью полного привода.",
+              "zh": "斯巴鲁森林人 (Subaru Forester) 是世界上功能最齐全的 SUV 之一，将家庭用车的功能与真正越野车的性能融为一体。它以其卓越的视野、高离地间隙和传奇的四轮驱动可靠性而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 1997",
+                "en": "from 1997",
+                "de": "ab 1997",
+                "uk": "з 1997 року",
+                "ru": "1997 года.",
+                "zh": "1997 年生产"
+              },
+              "segment": {
+                "pl": "C-SUV"
+              },
+              "napęd": {
+                "pl": "Symmetrical AWD",
+                "en": "Symmetrical AWD",
+                "de": "Symmetrischer Allradantrieb",
+                "uk": "Symmetrical AWD",
+                "ru": "Симметричный полный привод",
+                "zh": "对称全轮驱动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/c1/p1/aej41y0c4004wg40gckow/subaru-forester-2014-160.310.jpg"
+        }
+      }
+    ],
+    "Outback": [
+      {
+        "BrandID": 128,
+        "ModelID": 414328,
+        "Brand Name": "Subaru",
+        "Model Name": "Outback",
+        "Serie Name": "Outback I (BG)",
+        "Years": "1994 - 1999",
+        "specs": {
+          "bodyType": "Wagon",
+          "segment": "Mid-size Crossover Wagon",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "2.2L - 2.5L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Subaru Outback to uterenowione kombi, które stworzyło ten segment. Idealne auto dla aktywnych rodzin.",
+              "en": "Subaru Outback is the off-road station wagon that created this segment. The perfect car for active families.",
+              "de": "Subaru Outback ist der Offroad-Kombi, der dieses Segment geschaffen hat. Das perfekte Auto für aktive Familien.",
+              "uk": "Subaru Outback — позашляховий універсал, який створив цей сегмент. Ідеальний автомобіль для активних сімей.",
+              "ru": "Subaru Outback — внедорожный универсал, создавший этот сегмент. Идеальный автомобиль для активной семьи.",
+              "zh": "斯巴鲁傲虎 (Subaru Outback) 是开创这一细分市场的越野旅行车。适合活跃家庭的完美汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 1994",
+                "en": "from 1994",
+                "de": "ab 1994",
+                "uk": "з 1994 року",
+                "ru": "1994 года.",
+                "zh": "1994 年生产"
+              },
+              "segment": {
+                "pl": "Crossover Kombi",
+                "en": "Crossover Station Wagon",
+                "de": "Crossover-Kombi",
+                "uk": "Crossover Station Wagon",
+                "ru": "Кроссовер-универсал.",
+                "zh": "跨界旅行车"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 128,
+        "ModelID": 413519,
+        "Brand Name": "Subaru",
+        "Model Name": "Outback",
+        "Serie Name": "Outback II (BH)",
+        "Years": "1999 - 2003",
+        "specs": {
+          "bodyType": "Wagon/Sedan",
+          "segment": "Mid-size Crossover Wagon",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "2.5L - 3.0L H6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Subaru Outback to uterenowione kombi, które stworzyło ten segment. Idealne auto dla aktywnych rodzin.",
+              "en": "The Subaru Outback is the off-road station wagon that created this segment. The perfect car for active families.",
+              "de": "Der Subaru Outback ist der Offroad-Kombi, der dieses Segment geschaffen hat. Das perfekte Auto für aktive Familien.",
+              "uk": "Subaru Outback — позашляховий універсал, який створив цей сегмент. Ідеальний автомобіль для активних сімей.",
+              "ru": "Subaru Outback — внедорожный универсал, создавший этот сегмент. Идеальный автомобиль для активной семьи.",
+              "zh": "斯巴鲁傲虎 (Subaru Outback) 是开创这一细分市场的越野旅行车。适合活跃家庭的完美汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 1994",
+                "en": "from 1994",
+                "de": "ab 1994",
+                "uk": "з 1994 року",
+                "ru": "1994 года.",
+                "zh": "1994 年生产"
+              },
+              "segment": {
+                "pl": "Crossover Kombi",
+                "en": "Crossover Station Wagon",
+                "de": "Crossover-Kombi",
+                "uk": "Crossover Station Wagon",
+                "ru": "Кроссовер-универсал.",
+                "zh": "跨界旅行车"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 128,
+        "ModelID": 413520,
+        "Brand Name": "Subaru",
+        "Model Name": "Outback",
+        "Serie Name": "Outback III (BP)",
+        "Years": "2003 - 2009",
+        "specs": {
+          "bodyType": "Wagon/Sedan",
+          "segment": "Mid-size Crossover Wagon",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.5L - 3.0L H6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Subaru Outback to uterenowione kombi, które stworzyło ten segment. Idealne auto dla aktywnych rodzin.",
+              "en": "The Subaru Outback is the off-road station wagon that created this segment. The perfect car for active families.",
+              "de": "Der Subaru Outback ist der Offroad-Kombi, der dieses Segment geschaffen hat. Das perfekte Auto für aktive Familien.",
+              "uk": "Subaru Outback — позашляховий універсал, який створив цей сегмент. Ідеальний автомобіль для активних сімей.",
+              "ru": "Subaru Outback — внедорожный универсал, создавший этот сегмент. Идеальный автомобиль для активной семьи.",
+              "zh": "斯巴鲁傲虎 (Subaru Outback) 是开创这一细分市场的越野旅行车。适合活跃家庭的完美汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 1994",
+                "en": "from 1994",
+                "de": "ab 1994",
+                "uk": "з 1994 року",
+                "ru": "1994 года.",
+                "zh": "1994 年生产"
+              },
+              "segment": {
+                "pl": "Crossover Kombi",
+                "en": "Crossover Station Wagon",
+                "de": "Crossover-Kombi",
+                "uk": "Crossover Station Wagon",
+                "ru": "Кроссовер-универсал.",
+                "zh": "跨界旅行车"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 128,
+        "ModelID": 413521,
+        "Brand Name": "Subaru",
+        "Model Name": "Outback",
+        "Serie Name": "Outback IV (BR)",
+        "Years": "2009 - 2014",
+        "specs": {
+          "bodyType": "Wagon",
+          "segment": "Mid-size Crossover Wagon",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.5L - 3.6L H6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Subaru Outback to uterenowione kombi, które stworzyło ten segment. Idealne auto dla aktywnych rodzin.",
+              "en": "The Subaru Outback is the off-road station wagon that created this segment. The perfect car for active families.",
+              "de": "Der Subaru Outback ist der Offroad-Kombi, der dieses Segment geschaffen hat. Das perfekte Auto für aktive Familien.",
+              "uk": "Subaru Outback — позашляховий універсал, який створив цей сегмент. Ідеальний автомобіль для активних сімей.",
+              "ru": "Subaru Outback — внедорожный универсал, создавший этот сегмент. Идеальный автомобиль для активной семьи.",
+              "zh": "斯巴鲁傲虎 (Subaru Outback) 是开创这一细分市场的越野旅行车。适合活跃家庭的完美汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 1994",
+                "en": "from 1994",
+                "de": "ab 1994",
+                "uk": "з 1994",
+                "ru": "с 1994 года",
+                "zh": "自 1994 年起"
+              },
+              "segment": {
+                "pl": "Crossover Kombi",
+                "en": "Crossover Kombi",
+                "de": "Crossover Kombi",
+                "uk": "Crossover Kombi",
+                "ru": "Crossover Kombi",
+                "zh": "Crossover Kombi"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 128,
+        "ModelID": 413522,
+        "Brand Name": "Subaru",
+        "Model Name": "Outback",
+        "Serie Name": "Outback V (BS)",
+        "Years": "2014 - 2019",
+        "specs": {
+          "bodyType": "Wagon",
+          "segment": "Mid-size Crossover Wagon",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.5L - 3.6L H6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Subaru Outback to uterenowione kombi, które stworzyło ten segment. Idealne auto dla aktywnych rodzin.",
+              "en": "Subaru Outback is the off-road station wagon that created this segment. The perfect car for active families.",
+              "de": "Subaru Outback ist der Offroad-Kombi, der dieses Segment geschaffen hat. Das perfekte Auto für aktive Familien.",
+              "uk": "Subaru Outback — це позашляховий універсал, який створив цей сегмент. Ідеальний автомобіль для активних сімей.",
+              "ru": "Subaru Outback — внедорожный универсал, создавший этот сегмент. Идеальный автомобиль для активной семьи.",
+              "zh": "Subaru Outback 是开创这一细分市场的越野旅行车。适合活跃家庭的完美汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 1994",
+                "en": "from 1994",
+                "de": "von 1994",
+                "uk": "з 1994 року",
+                "ru": "с 1994 года.",
+                "zh": "源自 1994 年"
+              },
+              "segment": {
+                "pl": "Crossover Kombi",
+                "en": "Crossover Kombi",
+                "de": "Crossover Kombi",
+                "uk": "Кросовер Kombi",
+                "ru": "Crossover Kombi",
+                "zh": "Crossover Kombi"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 128,
+        "ModelID": 415643,
+        "Brand Name": "Subaru",
+        "Model Name": "Outback",
+        "Serie Name": "Outback VI (BT)",
+        "Years": "2019 - Present",
+        "specs": {
+          "bodyType": "Wagon",
+          "segment": "Mid-size Crossover Wagon",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L Turbo - 2.5L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Subaru Outback to pionier segmentu crossover-wagon, który zrewolucjonizował podejście do aut rekreacyjnych. Łączy komfort i luksus limuzyny z prześwitem SUV-a i ogromną przestrzenią bagażową, będąc idealnym kompanem dla osób prowadzących aktywny tryb życia.",
+              "en": "Subaru Outback is a pioneer of the crossover-wagon segment, which revolutionized the approach to recreational cars. It combines the comfort and luxury of a limousine with the ground clearance of an SUV and huge luggage space, making it the perfect companion for people leading an active lifestyle.",
+              "de": "Subaru Outback ist ein Pionier des Crossover-Wagon-Segments, das den Ansatz für Freizeitautos revolutionierte. Er vereint den Komfort und Luxus einer Limousine mit der Bodenfreiheit eines SUV und riesigem Gepäckraum und ist damit der perfekte Begleiter für Menschen mit einem aktiven Lebensstil.",
+              "uk": "Subaru Outback — піонер у сегменті кросоверів-універсалів, який революціонізував підхід до автомобілів для відпочинку. Він поєднує в собі комфорт і розкіш лімузина з дорожнім просвітом позашляховика і величезним багажним простором, що робить його ідеальним супутником для людей, які ведуть активний спосіб життя.",
+              "ru": "Subaru Outback — пионер сегмента кроссоверов-универсалов, который произвел революцию в подходе к автомобилям для отдыха. Он сочетает в себе комфорт и роскошь лимузина с дорожным просветом внедорожника и огромным багажным отделением, что делает его идеальным спутником для людей, ведущих активный образ жизни.",
+              "zh": "Subaru Outback 是跨界旅行车领域的先驱，彻底改变了休闲车的设计方式。它集豪华轿车的舒适豪华、SUV的离地间隙和超大行李空间于一体，是追求积极生活方式的人们的完美伴侣。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 1994",
+                "en": "from 1994",
+                "de": "ab 1994",
+                "uk": "з 1994 року",
+                "ru": "1994 года.",
+                "zh": "来自 1994 年"
+              },
+              "segment": {
+                "pl": "E-Crossover Wagon",
+                "en": "E-Crossover Wagon",
+                "de": "E-Crossover Wagon",
+                "uk": "E-Crossover Wagon",
+                "ru": "E-Crossover Wagon",
+                "zh": "电动跨界旅行车"
+              },
+              "napęd": {
+                "pl": "Symmetrical AWD",
+                "en": "Symmetrical AWD",
+                "de": "Symmetrischer Allradantrieb",
+                "uk": "Symmetrical AWD",
+                "ru": "Симметричный полный привод",
+                "zh": "对称全轮驱动"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Legacy": [
+      {
+        "BrandID": 128,
+        "ModelID": 414326,
+        "Brand Name": "Subaru",
+        "Model Name": "Legacy",
+        "Serie Name": "Legacy I (BC/BF)",
+        "Years": "1989 - 1993",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Segment D (Mid-size)",
+          "drive": "AWD/FWD",
+          "fuel": "Gasoline",
+          "engine": "1.8L - 2.2L Turbo",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Subaru XV (znane również jako Crosstrek) to kompaktowy crossover, który przenosi dzielność legendarnego Forestera do bardziej miejskiego formatu. Mimo kompaktowych wymiarów, oferuje imponujący prześwit i stały napęd AWD, będąc gotowym na każdą przygodę poza utwardzonymi szlakami.",
+              "en": "The Subaru XV (also known as the Crosstrek) is a compact crossover that brings the agility of the legendary Forester to a more urban format. Despite its compact dimensions, it offers impressive ground clearance and permanent AWD drive, being ready for any adventure off paved trails.",
+              "de": "Der Subaru XV (auch bekannt als Crosstrek) ist ein kompakter Crossover, der die Agilität des legendären Forester in ein urbaneres Format bringt. Trotz seiner kompakten Abmessungen bietet er eine beeindruckende Bodenfreiheit und einen permanenten Allradantrieb und ist damit für jedes Abenteuer abseits befestigter Wege gerüstet.",
+              "uk": "Subaru XV (також відомий як Crosstrek) — це компактний кросовер, який переносить маневреність легендарного Forester у більш міський формат. Незважаючи на свої компактні розміри, він пропонує вражаючий дорожній просвіт і постійний повний привід, готовий до будь-яких пригод поза асфальтованими стежками.",
+              "ru": "Subaru XV (также известный как Crosstrek) — компактный кроссовер, который привносит маневренность легендарного Forester в более городской формат. Несмотря на свои компактные размеры, он предлагает впечатляющий дорожный просвет и постоянный полный привод, готовый к любым приключениям на бездорожье.",
+              "zh": "斯巴鲁 XV（也称为 Crosstrek）是一款紧凑型跨界车，将传奇森林人的敏捷性带入了更加城市的形式。尽管尺寸紧凑，但它提供了令人印象深刻的离地间隙和永久全轮驱动，为任何铺砌小径的冒险做好了准备。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 2011",
+                "en": "from 2011",
+                "de": "ab 2011",
+                "uk": "з 2011 року",
+                "ru": "2011 года.",
+                "zh": "2011 年款"
+              },
+              "segment": {
+                "pl": "C-Crossover"
+              },
+              "napęd": {
+                "pl": "Symmetrical AWD",
+                "en": "Symmetrical AWD",
+                "de": "Symmetrischer Allradantrieb",
+                "uk": "Symmetrical AWD",
+                "ru": "Симметричный полный привод",
+                "zh": "对称全轮驱动"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 128,
+        "ModelID": 413840,
+        "Brand Name": "Subaru",
+        "Model Name": "Legacy",
+        "Serie Name": "Legacy II (BD/BG)",
+        "Years": "1993 - 1998",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Segment D (Mid-size)",
+          "drive": "AWD/FWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L - 2.5L",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Subaru XV (znane również jako Crosstrek) to kompaktowy crossover, który przenosi dzielność legendarnego Forestera do bardziej miejskiego formatu. Mimo kompaktowych wymiarów, oferuje imponujący prześwit i stały napęd AWD, będąc gotowym na każdą przygodę poza utwardzonymi szlakami.",
+              "en": "The Subaru XV (also known as the Crosstrek) is a compact crossover that brings the prowess of the legendary Forester to a more urban format. Despite its compact dimensions, it offers impressive ground clearance and permanent AWD drive, being ready for any adventure off paved trails.",
+              "de": "Der Subaru XV (auch bekannt als Crosstrek) ist ein kompakter Crossover, der die Leistungsfähigkeit des legendären Forester in ein urbaneres Format bringt. Trotz seiner kompakten Abmessungen bietet er eine beeindruckende Bodenfreiheit und einen permanenten Allradantrieb und ist damit für jedes Abenteuer abseits befestigter Wege gerüstet.",
+              "uk": "Subaru XV (також відомий як Crosstrek) — це компактний кросовер, який переносить майстерність легендарного Forester у більш міський формат. Незважаючи на свої компактні розміри, він пропонує вражаючий дорожній просвіт і постійний повний привід, готовий до будь-яких пригод поза асфальтованими стежками.",
+              "ru": "Subaru XV (также известный как Crosstrek) — компактный кроссовер, который привносит мощь легендарного Forester в более городской формат. Несмотря на свои компактные размеры, он предлагает впечатляющий дорожный просвет и постоянный полный привод, готовый к любым приключениям на бездорожье.",
+              "zh": "斯巴鲁 XV（也称为 Crosstrek）是一款紧凑型跨界车，它将传奇森林人的卓越性能带入了更加城市化的车型中。尽管尺寸紧凑，但它提供了令人印象深刻的离地间隙和永久全轮驱动，为任何铺砌小径的冒险做好了准备。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 2011",
+                "en": "from 2011",
+                "de": "ab 2011",
+                "uk": "з 2011 року",
+                "ru": "2011 года.",
+                "zh": "2011 年款"
+              },
+              "segment": {
+                "pl": "C-Crossover"
+              },
+              "napęd": {
+                "pl": "Symmetrical AWD",
+                "en": "Symmetrical AWD",
+                "de": "Symmetrischer Allradantrieb",
+                "uk": "Symmetrical AWD",
+                "ru": "Симметричный полный привод",
+                "zh": "对称全轮驱动"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 128,
+        "ModelID": 413644,
+        "Brand Name": "Subaru",
+        "Model Name": "Legacy",
+        "Serie Name": "Legacy III (BE/BH)",
+        "Years": "1998 - 2003",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Segment D (Mid-size)",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L - 3.0L H6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Subaru XV (znane również jako Crosstrek) to kompaktowy crossover, który przenosi dzielność legendarnego Forestera do bardziej miejskiego formatu. Mimo kompaktowych wymiarów, oferuje imponujący prześwit i stały napęd AWD, będąc gotowym na każdą przygodę poza utwardzonymi szlakami.",
+              "en": "The Subaru XV (also known as the Crosstrek) is a compact crossover that brings the prowess of the legendary Forester to a more urban format. Despite its compact dimensions, it offers impressive ground clearance and permanent AWD drive, being ready for any adventure off paved trails.",
+              "de": "Der Subaru XV (auch bekannt als Crosstrek) ist ein kompakter Crossover, der die Leistungsfähigkeit des legendären Forester in ein urbaneres Format bringt. Trotz seiner kompakten Abmessungen bietet er eine beeindruckende Bodenfreiheit und einen permanenten Allradantrieb und ist damit für jedes Abenteuer abseits befestigter Wege gerüstet.",
+              "uk": "Subaru XV (також відомий як Crosstrek) — це компактний кросовер, який переносить майстерність легендарного Forester у більш міський формат. Незважаючи на свої компактні розміри, він пропонує вражаючий дорожній просвіт і постійний повний привід, готовий до будь-яких пригод поза асфальтованими стежками.",
+              "ru": "Subaru XV (также известный как Crosstrek) — компактный кроссовер, который привносит мощь легендарного Forester в более городской формат. Несмотря на свои компактные размеры, он предлагает впечатляющий дорожный просвет и постоянный полный привод, готовый к любым приключениям на бездорожье.",
+              "zh": "斯巴鲁 XV（也称为 Crosstrek）是一款紧凑型跨界车，它将传奇森林人的卓越性能带入了更加城市化的车型中。尽管尺寸紧凑，但它提供了令人印象深刻的离地间隙和永久全轮驱动，为任何铺砌小径的冒险做好了准备。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 2011",
+                "en": "from 2011",
+                "de": "ab 2011",
+                "uk": "з 2011 року",
+                "ru": "2011 года.",
+                "zh": "2011 年款"
+              },
+              "segment": {
+                "pl": "C-Crossover"
+              },
+              "napęd": {
+                "pl": "Symmetrical AWD",
+                "en": "Symmetrical AWD",
+                "de": "Symmetrischer Allradantrieb",
+                "uk": "Symmetrical AWD",
+                "ru": "Симметричный полный привод",
+                "zh": "对称全轮驱动"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 128,
+        "ModelID": 413516,
+        "Brand Name": "Subaru",
+        "Model Name": "Legacy",
+        "Serie Name": "Legacy IV (BL/BP)",
+        "Years": "2003 - 2009",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Segment D (Mid-size)",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 3.0L H6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Subaru XV (znane również jako Crosstrek) to kompaktowy crossover, który przenosi dzielność legendarnego Forestera do bardziej miejskiego formatu. Mimo kompaktowych wymiarów, oferuje imponujący prześwit i stały napęd AWD, będąc gotowym na każdą przygodę poza utwardzonymi szlakami.",
+              "en": "The Subaru XV (also known as the Crosstrek) is a compact crossover that brings the prowess of the legendary Forester to a more urban format. Despite its compact dimensions, it offers impressive ground clearance and permanent AWD drive, being ready for any adventure off paved trails.",
+              "de": "Der Subaru XV (auch bekannt als Crosstrek) ist ein kompakter Crossover, der die Leistungsfähigkeit des legendären Forester in ein urbaneres Format bringt. Trotz seiner kompakten Abmessungen bietet er eine beeindruckende Bodenfreiheit und einen permanenten Allradantrieb und ist damit für jedes Abenteuer abseits befestigter Wege gerüstet.",
+              "uk": "Subaru XV (також відомий як Crosstrek) — це компактний кросовер, який переносить майстерність легендарного Forester у більш міський формат. Незважаючи на свої компактні розміри, він пропонує вражаючий дорожній просвіт і постійний повний привід, готовий до будь-яких пригод поза асфальтованими стежками.",
+              "ru": "Subaru XV (также известный как Crosstrek) — компактный кроссовер, который привносит мощь легендарного Forester в более городской формат. Несмотря на свои компактные размеры, он предлагает впечатляющий дорожный просвет и постоянный полный привод, готовый к любым приключениям на бездорожье.",
+              "zh": "斯巴鲁 XV（也称为 Crosstrek）是一款紧凑型跨界车，它将传奇森林人的卓越性能带入了更加城市化的车型中。尽管尺寸紧凑，但它提供了令人印象深刻的离地间隙和永久全轮驱动，为任何铺砌小径的冒险做好了准备。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 2011",
+                "en": "from 2011",
+                "de": "ab 2011",
+                "uk": "з 2011 року",
+                "ru": "2011 года.",
+                "zh": "2011 年款"
+              },
+              "segment": {
+                "pl": "C-Crossover"
+              },
+              "napęd": {
+                "pl": "Symmetrical AWD",
+                "en": "Symmetrical AWD",
+                "de": "Symmetrischer Allradantrieb",
+                "uk": "Symmetrical AWD",
+                "ru": "Симметричный полный привод",
+                "zh": "对称全轮驱动"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 128,
+        "ModelID": 413517,
+        "Brand Name": "Subaru",
+        "Model Name": "Legacy",
+        "Serie Name": "Legacy V (BM/BR)",
+        "Years": "2009 - 2014",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Segment D (Mid-size)",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 3.6L H6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Subaru XV (znane również jako Crosstrek) to kompaktowy crossover, który przenosi dzielność legendarnego Forestera do bardziej miejskiego formatu. Mimo kompaktowych wymiarów, oferuje imponujący prześwit i stały napęd AWD, będąc gotowym na każdą przygodę poza utwardzonymi szlakami.",
+              "en": "The Subaru XV (also known as the Crosstrek) is a compact crossover that brings the prowess of the legendary Forester to a more urban format. Despite its compact dimensions, it offers impressive ground clearance and permanent AWD drive, being ready for any adventure off paved trails.",
+              "de": "Der Subaru XV (auch bekannt als Crosstrek) ist ein kompakter Crossover, der die Leistungsfähigkeit des legendären Forester in ein urbaneres Format bringt. Trotz seiner kompakten Abmessungen bietet er eine beeindruckende Bodenfreiheit und einen permanenten Allradantrieb und ist damit für jedes Abenteuer abseits befestigter Wege gerüstet.",
+              "uk": "Subaru XV (також відомий як Crosstrek) — це компактний кросовер, який переносить майстерність легендарного Forester у більш міський формат. Незважаючи на свої компактні розміри, він пропонує вражаючий дорожній просвіт і постійний повний привід, готовий до будь-яких пригод поза асфальтованими стежками.",
+              "ru": "Subaru XV (также известный как Crosstrek) — компактный кроссовер, который привносит мощь легендарного Forester в более городской формат. Несмотря на свои компактные размеры, он предлагает впечатляющий дорожный просвет и постоянный полный привод, готовый к любым приключениям на бездорожье.",
+              "zh": "斯巴鲁 XV（也称为 Crosstrek）是一款紧凑型跨界车，它将传奇森林人的卓越性能带入了更加城市化的车型中。尽管尺寸紧凑，但它提供了令人印象深刻的离地间隙和永久全轮驱动，为任何铺砌小径的冒险做好了准备。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 2011",
+                "en": "from 2011",
+                "de": "ab 2011",
+                "uk": "з 2011 року",
+                "ru": "2011 года.",
+                "zh": "2011 年款"
+              },
+              "segment": {
+                "pl": "C-Crossover"
+              },
+              "napęd": {
+                "pl": "Symmetrical AWD",
+                "en": "Symmetrical AWD",
+                "de": "Symmetrischer Allradantrieb",
+                "uk": "Symmetrical AWD",
+                "ru": "Симметричный полный привод",
+                "zh": "对称全轮驱动"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 128,
+        "ModelID": 413518,
+        "Brand Name": "Subaru",
+        "Model Name": "Legacy",
+        "Serie Name": "Legacy VI (BN/BS)",
+        "Years": "2014 - 2019",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Segment D (Mid-size)",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "2.5L - 3.6L H6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "5"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Subaru XV (znane również jako Crosstrek) to kompaktowy crossover, który przenosi dzielność legendarnego Forestera do bardziej miejskiego formatu. Mimo kompaktowych wymiarów, oferuje imponujący prześwit i stały napęd AWD, będąc gotowym na każdą przygodę poza utwardzonymi szlakami.",
+              "en": "The Subaru XV (also known as the Crosstrek) is a compact crossover that brings the prowess of the legendary Forester to a more urban format. Despite its compact dimensions, it offers impressive ground clearance and permanent AWD drive, being ready for any adventure off paved trails.",
+              "de": "Der Subaru XV (auch bekannt als Crosstrek) ist ein kompakter Crossover, der die Leistungsfähigkeit des legendären Forester in ein urbaneres Format bringt. Trotz seiner kompakten Abmessungen bietet er eine beeindruckende Bodenfreiheit und einen permanenten Allradantrieb und ist damit für jedes Abenteuer abseits befestigter Wege gerüstet.",
+              "uk": "Subaru XV (також відомий як Crosstrek) — це компактний кросовер, який переносить майстерність легендарного Forester у більш міський формат. Незважаючи на свої компактні розміри, він пропонує вражаючий дорожній просвіт і постійний повний привід, готовий до будь-яких пригод поза асфальтованими стежками.",
+              "ru": "Subaru XV (также известный как Crosstrek) — компактный кроссовер, который привносит мощь легендарного Forester в более городской формат. Несмотря на свои компактные размеры, он предлагает впечатляющий дорожный просвет и постоянный полный привод, готовый к любым приключениям на бездорожье.",
+              "zh": "斯巴鲁 XV（也称为 Crosstrek）是一款紧凑型跨界车，它将传奇森林人的卓越性能带入了更加城市化的车型中。尽管尺寸紧凑，但它提供了令人印象深刻的离地间隙和永久全轮驱动，为任何铺砌小径的冒险做好了准备。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 2011",
+                "en": "from 2011",
+                "de": "ab 2011",
+                "uk": "з 2011",
+                "ru": "с 2011 года",
+                "zh": "自2011年起"
+              },
+              "segment": {
+                "pl": "C-Crossover"
+              },
+              "napęd": {
+                "pl": "Symmetrical AWD",
+                "en": "Symmetrical AWD",
+                "de": "Symmetrischer Allradantrieb",
+                "uk": "Symmetrical AWD",
+                "ru": "Симметричный полный привод",
+                "zh": "对称全轮驱动"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 128,
+        "ModelID": 415644,
+        "Brand Name": "Subaru",
+        "Model Name": "Legacy",
+        "Serie Name": "Legacy VII (BW)",
+        "Years": "2019 - Present",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Segment D (Mid-size)",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L Turbo - 2.5L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "5"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Subaru Legacy to flagowy sedan i kombi marki, oferujący wyjątkowy komfort i zaawansowane systemy bezpieczeństwa EyeSight. Dzięki napędowi AWD i silnikowi Boxer, wyróżnia się stabilnością i pewnością prowadzenia nieosiągalną dla wielu konkurentów w klasie średniej.",
+              "en": "Subaru Legacy is the brand's flagship sedan and station wagon, offering exceptional comfort and advanced EyeSight safety systems. Thanks to the AWD drive and Boxer engine, it is characterized by stability and driving confidence unattainable by many competitors in the mid-range class.",
+              "de": "Subaru Legacy ist die Flaggschiff-Limousine und der Kombi der Marke und bietet außergewöhnlichen Komfort und fortschrittliche EyeSight-Sicherheitssysteme. Dank Allradantrieb und Boxermotor zeichnet er sich durch Stabilität und Fahrsicherheit aus, die viele Konkurrenten in der Mittelklasse nicht erreichen können.",
+              "uk": "Subaru Legacy — флагманський седан і універсал бренду, що пропонує винятковий комфорт і передові системи безпеки EyeSight. Завдяки повному приводу та двигуну Boxer він характеризується стабільністю та впевненістю водіння, недосяжними багатьом конкурентам у середньому класі.",
+              "ru": "Subaru Legacy — флагманский седан и универсал бренда, предлагающий исключительный комфорт и передовые системы безопасности EyeSight. Благодаря полному приводу и оппозитному двигателю он отличается устойчивостью и уверенностью вождения, недостижимой для многих конкурентов среднего класса.",
+              "zh": "斯巴鲁力狮 (Subaru Legacy) 是该品牌的旗舰轿车和旅行车，提供卓越的舒适性和先进的 EyeSight 安全系统。得益于全轮驱动驱动和水平对置发动机，它具有许多中档竞争对手无法企及的稳定性和驾驶信心。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 1989",
+                "en": "from 1989",
+                "de": "ab 1989",
+                "uk": "з 1989 року",
+                "ru": "1989 года.",
+                "zh": "自1989年以来"
+              },
+              "segment": {
+                "pl": "D (Klasa średnia)",
+                "en": "D (Midsize)",
+                "de": "D (Mittelklasse)",
+                "uk": "D (середньорозмірний)",
+                "ru": "D (Средний размер)",
+                "zh": "D（中产阶级）"
+              },
+              "napęd": {
+                "pl": "Symmetrical AWD",
+                "en": "Symmetrical AWD",
+                "de": "Symmetrischer Allradantrieb",
+                "uk": "Симетричний повний привід",
+                "ru": "Симметричный полный привод",
+                "zh": "对称全轮驱动"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "XV": [
+      {
+        "BrandID": 128,
+        "ModelID": 413541,
+        "Brand Name": "Subaru",
+        "Model Name": "XV",
+        "Serie Name": "XV I (GP)",
+        "Years": "2011 - 2017",
+        "specs": {
+          "bodyType": "Crossover",
+          "segment": "Segment C-SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "1.6L - 2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Subaru XV (znane również jako Crosstrek) to kompaktowy crossover, który przenosi dzielność legendarnego Forestera do bardziej miejskiego formatu. Mimo kompaktowych wymiarów, oferuje imponujący prześwit i stały napęd AWD, będąc gotowym na każdą przygodę poza utwardzonymi szlakami.",
+              "en": "The Subaru XV (also known as the Crosstrek) is a compact crossover that brings the agility of the legendary Forester to a more urban format. Despite its compact dimensions, it offers impressive ground clearance and permanent AWD drive, being ready for any adventure off paved trails.",
+              "de": "Der Subaru XV (auch bekannt als Crosstrek) ist ein kompakter Crossover, der die Agilität des legendären Forester in ein urbaneres Format bringt. Trotz seiner kompakten Abmessungen bietet er eine beeindruckende Bodenfreiheit und einen permanenten Allradantrieb und ist damit für jedes Abenteuer abseits befestigter Wege gerüstet.",
+              "uk": "Subaru XV (також відомий як Crosstrek) — це компактний кросовер, який переносить маневреність легендарного Forester у більш міський формат. Незважаючи на свої компактні розміри, він пропонує вражаючий дорожній просвіт і постійний повний привід, готовий до будь-яких пригод поза асфальтованими стежками.",
+              "ru": "Subaru XV (также известный как Crosstrek) — компактный кроссовер, который привносит маневренность легендарного Forester в более городской формат. Несмотря на свои компактные размеры, он предлагает впечатляющий дорожный просвет и постоянный полный привод, готовый к любым приключениям на бездорожье.",
+              "zh": "斯巴鲁 XV（也称为 Crosstrek）是一款紧凑型跨界车，它将传奇森林人的卓越性能带入了更加城市化的车型中。尽管尺寸紧凑，但它提供了令人印象深刻的离地间隙和永久全轮驱动，为任何铺砌小径的冒险做好了准备。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 2011",
+                "en": "from 2011",
+                "de": "ab 2011",
+                "uk": "з 2011 року",
+                "ru": "2011 года.",
+                "zh": "自2011年起"
+              },
+              "segment": {
+                "pl": "C-Crossover"
+              },
+              "napęd": {
+                "pl": "Symmetrical AWD",
+                "en": "Symmetrical AWD",
+                "de": "Symmetrischer Allradantrieb",
+                "uk": "Symmetrical AWD",
+                "ru": "Симметричный полный привод",
+                "zh": "对称全轮驱动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6e/cg/494f6k4cogo8o4gko8kgw/xv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 128,
+        "ModelID": 414413,
+        "Brand Name": "Subaru",
+        "Model Name": "XV",
+        "Serie Name": "XV II / Crosstrek (GT)",
+        "Years": "2017 - 2023",
+        "specs": {
+          "bodyType": "Crossover",
+          "segment": "Segment C-SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Hybrid/PHEV",
+          "engine": "1.6L - 2.0L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Subaru XV (znane również jako Crosstrek) to kompaktowy crossover, który przenosi dzielność legendarnego Forestera do bardziej miejskiego formatu. Mimo kompaktowych wymiarów, oferuje imponujący prześwit i stały napęd AWD, będąc gotowym na każdą przygodę poza utwardzonymi szlakami.",
+              "en": "The Subaru XV (also known as the Crosstrek) is a compact crossover that brings the prowess of the legendary Forester to a more urban format. Despite its compact dimensions, it offers impressive ground clearance and permanent AWD drive, being ready for any adventure off paved trails.",
+              "de": "Der Subaru XV (auch bekannt als Crosstrek) ist ein kompakter Crossover, der die Leistungsfähigkeit des legendären Forester in ein urbaneres Format bringt. Trotz seiner kompakten Abmessungen bietet er eine beeindruckende Bodenfreiheit und einen permanenten Allradantrieb und ist damit für jedes Abenteuer abseits befestigter Wege gerüstet.",
+              "uk": "Subaru XV (також відомий як Crosstrek) — це компактний кросовер, який переносить майстерність легендарного Forester у більш міський формат. Незважаючи на свої компактні розміри, він пропонує вражаючий дорожній просвіт і постійний повний привід, готовий до будь-яких пригод поза асфальтованими стежками.",
+              "ru": "Subaru XV (также известный как Crosstrek) — компактный кроссовер, который привносит мощь легендарного Forester в более городской формат. Несмотря на свои компактные размеры, он предлагает впечатляющий дорожный просвет и постоянный полный привод, готовый к любым приключениям на бездорожье.",
+              "zh": "斯巴鲁 XV（也称为 Crosstrek）是一款紧凑型跨界车，它将传奇森林人的卓越性能带入了更加城市化的车型中。尽管尺寸紧凑，但它提供了令人印象深刻的离地间隙和永久全轮驱动，为任何铺砌小径的冒险做好了准备。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 2011",
+                "en": "from 2011",
+                "de": "ab 2011",
+                "uk": "з 2011 року",
+                "ru": "2011 года.",
+                "zh": "自2011年起"
+              },
+              "segment": {
+                "pl": "C-Crossover"
+              },
+              "napęd": {
+                "pl": "Symmetrical AWD",
+                "en": "Symmetrical AWD",
+                "de": "Symmetrischer Allradantrieb",
+                "uk": "Symmetrical AWD",
+                "ru": "Симметричный полный привод",
+                "zh": "对称全轮驱动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6e/cg/494f6k4cogo8o4gko8kgw/xv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 128,
+        "ModelID": 416596,
+        "Brand Name": "Subaru",
+        "Model Name": "Crosstrek",
+        "Serie Name": "Crosstrek III (GU)",
+        "Years": "2023 - Present",
+        "specs": {
+          "bodyType": "Crossover",
+          "segment": "Segment C-SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.0L - 2.5L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Subaru XV (znane również jako Crosstrek) to kompaktowy crossover, który przenosi dzielność legendarnego Forestera do bardziej miejskiego formatu. Mimo kompaktowych wymiarów, oferuje imponujący prześwit i stały napęd AWD, będąc gotowym na każdą przygodę poza utwardzonymi szlakami.",
+              "en": "The Subaru XV (also known as the Crosstrek) is a compact crossover that brings the prowess of the legendary Forester to a more urban format. Despite its compact dimensions, it offers impressive ground clearance and permanent AWD drive, being ready for any adventure off paved trails.",
+              "de": "Der Subaru XV (auch bekannt als Crosstrek) ist ein kompakter Crossover, der die Leistungsfähigkeit des legendären Forester in ein urbaneres Format bringt. Trotz seiner kompakten Abmessungen bietet er eine beeindruckende Bodenfreiheit und einen permanenten Allradantrieb und ist damit für jedes Abenteuer abseits befestigter Wege gerüstet.",
+              "uk": "Subaru XV (також відомий як Crosstrek) — це компактний кросовер, який переносить майстерність легендарного Forester у більш міський формат. Незважаючи на свої компактні розміри, він пропонує вражаючий дорожній просвіт і постійний повний привід, готовий до будь-яких пригод поза асфальтованими стежками.",
+              "ru": "Subaru XV (также известный как Crosstrek) — компактный кроссовер, который привносит мощь легендарного Forester в более городской формат. Несмотря на свои компактные размеры, он предлагает впечатляющий дорожный просвет и постоянный полный привод, готовый к любым приключениям на бездорожье.",
+              "zh": "斯巴鲁 XV（也称为 Crosstrek）是一款紧凑型跨界车，它将传奇森林人的卓越性能带入了更加城市化的车型中。尽管尺寸紧凑，但它提供了令人印象深刻的离地间隙和永久全轮驱动，为任何铺砌小径的冒险做好了准备。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 2011",
+                "en": "from 2011",
+                "de": "ab 2011",
+                "uk": "з 2011 року",
+                "ru": "с 2011 года.",
+                "zh": "自2011年起"
+              },
+              "segment": {
+                "pl": "C-Crossover"
+              },
+              "napęd": {
+                "pl": "Symmetrical AWD",
+                "en": "Symmetrical AWD",
+                "de": "Symmetrischer Allradantrieb",
+                "uk": "Symmetrical AWD",
+                "ru": "Симметричный полный привод",
+                "zh": "对称全轮驱动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6e/cg/494f6k4cogo8o4gko8kgw/xv.310.jpg"
+        }
+      }
+    ],
+    "BRZ": [
+      {
+        "BrandID": 128,
+        "ModelID": 414324,
+        "Brand Name": "Subaru",
+        "Model Name": "BRZ",
+        "Serie Name": "BRZ I (ZC)",
+        "Years": "2012 - 2021",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Subaru BRZ to czystej krwi samochód sportowy o klasycznej architekturze – silnik z przodu, napęd na tył. Dzięki współpracy z Toyotą i zastosowaniu bokserskiego silnika, oferuje jedne z najlepszych właściwości jezdnych i balans w swoim segmencie, będąc ulubieńcem purystów.",
+              "en": "Subaru BRZ is a pure sports car with classic architecture - front engine, rear drive. Thanks to cooperation with Toyota and the use of a boxer engine, it offers some of the best driving characteristics and balance in its segment, being a favorite of purists.",
+              "de": "Subaru BRZ ist ein reiner Sportwagen mit klassischer Architektur – Frontmotor, Heckantrieb. Dank der Zusammenarbeit mit Toyota und dem Einsatz eines Boxermotors bietet er einige der besten Fahreigenschaften und Ausgewogenheit in seinem Segment und ist ein Favorit der Puristen.",
+              "uk": "Subaru BRZ - це чистий спортивний автомобіль з класичною архітектурою - двигун спереду, привід ззаду. Завдяки співпраці з Toyota і використанню оппозитного двигуна, він пропонує одні з найкращих ходових характеристик і збалансованості в своєму сегменті, будучи фаворитом пуристів.",
+              "ru": "Subaru BRZ — чистый спортивный автомобиль с классической архитектурой — передний двигатель, задний привод. Благодаря сотрудничеству с Toyota и использованию оппозитного двигателя он предлагает одни из лучших ходовых качеств и сбалансированности в своем сегменте и является фаворитом пуристов.",
+              "zh": "斯巴鲁BRZ是一款纯粹的跑车，具有经典的架构——前置发动机、后轮驱动。由于与丰田的合作以及水平对置发动机的使用，它提供了同级别中最好的驾驶特性和平衡性，成为纯粹主义者的最爱。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru (współpraca z Toyotą)",
+                "en": "Subaru (partnered with Toyota)",
+                "de": "Subaru (Partnerschaft mit Toyota)",
+                "uk": "Subaru (у партнерстві з Toyota)",
+                "ru": "Subaru (в сотрудничестве с Toyota)",
+                "zh": "斯巴鲁（与丰田合作）"
+              },
+              "okres produkcji": {
+                "pl": "od 2012",
+                "en": "from 2012",
+                "de": "ab 2012",
+                "uk": "з 2012 року",
+                "ru": "с 2012 года.",
+                "zh": "自2012年起"
+              },
+              "segment": {
+                "pl": "S (Samochód sportowy)",
+                "en": "S (Sports car)",
+                "de": "S (Sportwagen)",
+                "uk": "S (спортивний автомобіль)",
+                "ru": "S (Спортивный автомобиль)",
+                "zh": "S（跑车）"
+              },
+              "napęd": {
+                "pl": "RWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3j/fv/y7st3uask0okwwkscsg8s/subaru-brz-039.310.jpg"
+        }
+      },
+      {
+        "BrandID": 128,
+        "ModelID": 416597,
+        "Brand Name": "Subaru",
+        "Model Name": "BRZ",
+        "Serie Name": "BRZ II (ZD)",
+        "Years": "2021 - Present",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Subaru XV (znane również jako Crosstrek) to kompaktowy crossover, który przenosi dzielność legendarnego Forestera do bardziej miejskiego formatu. Mimo kompaktowych wymiarów, oferuje imponujący prześwit i stały napęd AWD, będąc gotowym na każdą przygodę poza utwardzonymi szlakami.",
+              "en": "The Subaru XV (also known as the Crosstrek) is a compact crossover that brings the prowess of the legendary Forester to a more urban format. Despite its compact dimensions, it offers impressive ground clearance and permanent AWD drive, being ready for any adventure off paved trails.",
+              "de": "Der Subaru XV (auch bekannt als Crosstrek) ist ein kompakter Crossover, der die Fähigkeiten des legendären Forester in ein urbaneres Format bringt. Trotz seiner kompakten Abmessungen bietet er eine beeindruckende Bodenfreiheit und einen permanenten Allradantrieb und ist damit für jedes Abenteuer abseits befestigter Wege gerüstet.",
+              "uk": "Subaru XV (також відомий як Crosstrek) — це компактний кросовер, який переносить майстерність легендарного Forester у більш міський формат. Незважаючи на свої компактні розміри, він пропонує вражаючий дорожній просвіт і постійний повний привід, готовий до будь-яких пригод поза асфальтованими стежками.",
+              "ru": "Subaru XV (также известный как Crosstrek) — компактный кроссовер, который привносит мощь легендарного Forester в более городской формат. Несмотря на свои компактные размеры, он предлагает впечатляющий дорожный просвет и постоянный полный привод, готовый к любым приключениям на бездорожье.",
+              "zh": "斯巴鲁 XV（也称为 Crosstrek）是一款紧凑型跨界车，它将传奇森林人的卓越性能带入了更加城市化的车型中。尽管尺寸紧凑，但它提供了令人印象深刻的离地间隙和永久全轮驱动，为任何铺砌小径的冒险做好了准备。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 2011",
+                "en": "from 2011",
+                "de": "ab 2011",
+                "uk": "з 2011 року",
+                "ru": "2011 года.",
+                "zh": "自2011年起"
+              },
+              "segment": {
+                "pl": "C-Crossover"
+              },
+              "napęd": {
+                "pl": "Symmetrical AWD",
+                "en": "Symmetrical AWD",
+                "de": "Symmetrischer Allradantrieb",
+                "uk": "Symmetrical AWD",
+                "ru": "Симметричный полный привод",
+                "zh": "对称全轮驱动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3j/fv/y7st3uask0okwwkscsg8s/subaru-brz-039.310.jpg"
+        }
+      }
+    ],
+    "Levorg": [
+      {
+        "BrandID": 128,
+        "ModelID": 415212,
+        "Brand Name": "Subaru",
+        "Model Name": "Levorg",
+        "Serie Name": "Levorg I (VM)",
+        "Years": "2014 - 2020",
+        "specs": {
+          "bodyType": "Wagon",
+          "segment": "Segment D (Mid-size)",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "1.6L Turbo - 2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Subaru XV (znane również jako Crosstrek) to kompaktowy crossover, który przenosi dzielność legendarnego Forestera do bardziej miejskiego formatu. Mimo kompaktowych wymiarów, oferuje imponujący prześwit i stały napęd AWD, będąc gotowym na każdą przygodę poza utwardzonymi szlakami.",
+              "en": "The Subaru XV (also known as the Crosstrek) is a compact crossover that brings the prowess of the legendary Forester to a more urban format. Despite its compact dimensions, it offers impressive ground clearance and permanent AWD drive, being ready for any adventure off paved trails.",
+              "de": "Der Subaru XV (auch bekannt als Crosstrek) ist ein kompakter Crossover, der die Leistungsfähigkeit des legendären Forester in ein urbaneres Format bringt. Trotz seiner kompakten Abmessungen bietet er eine beeindruckende Bodenfreiheit und einen permanenten Allradantrieb und ist damit für jedes Abenteuer abseits befestigter Wege gerüstet.",
+              "uk": "Subaru XV (також відомий як Crosstrek) — це компактний кросовер, який переносить майстерність легендарного Forester у більш міський формат. Незважаючи на свої компактні розміри, він пропонує вражаючий дорожній просвіт і постійний повний привід, готовий до будь-яких пригод поза асфальтованими стежками.",
+              "ru": "Subaru XV (также известный как Crosstrek) — компактный кроссовер, который привносит мощь легендарного Forester в более городской формат. Несмотря на свои компактные размеры, он предлагает впечатляющий дорожный просвет и постоянный полный привод, готовый к любым приключениям на бездорожье.",
+              "zh": "斯巴鲁 XV（也称为 Crosstrek）是一款紧凑型跨界车，它将传奇森林人的卓越性能带入了更加城市化的车型中。尽管尺寸紧凑，但它提供了令人印象深刻的离地间隙和永久全轮驱动，为任何铺砌小径的冒险做好了准备。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 2011",
+                "en": "from 2011",
+                "de": "ab 2011",
+                "uk": "з 2011",
+                "ru": "с 2011 г.",
+                "zh": "自2011年起"
+              },
+              "segment": {
+                "pl": "C-Crossover"
+              },
+              "napęd": {
+                "pl": "Symmetrical AWD",
+                "en": "Symmetrical AWD",
+                "de": "Symmetrischer Allradantrieb",
+                "uk": "Симетричний повний привід",
+                "ru": "Симметричный полный привод",
+                "zh": "对称全轮驱动"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 128,
+        "ModelID": 416598,
+        "Brand Name": "Subaru",
+        "Model Name": "Levorg",
+        "Serie Name": "Levorg II (VN)",
+        "Years": "2020 - Present",
+        "specs": {
+          "bodyType": "Wagon",
+          "segment": "Segment D (Mid-size)",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "1.8L Turbo - 2.4L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Subaru Levorg to sportowe kombi, które łączy praktyczność nadwozia typu wagon z technologią napędu i zawieszenia legendarnej Imprezy WRX. Jest idealną propozycją dla tych, którzy potrzebują auta rodzinnego, ale nie chcą rezygnować z dynamiki i pewności prowadzenia Symmetrical AWD.",
+              "en": "The Subaru Levorg is a sports wagon that combines the practicality of a wagon body with the drive and suspension technology of the legendary Impreza WRX. It is an ideal proposition for those who need a family car but do not want to give up the dynamics and driving confidence of the Symmetrical AWD.",
+              "de": "Der Subaru Levorg ist ein Sportkombi, der die Praktikabilität einer Kombikarosserie mit der Antriebs- und Federungstechnologie des legendären Impreza WRX kombiniert. Es ist ein ideales Angebot für diejenigen, die ein Familienauto benötigen, aber nicht auf die Dynamik und das Fahrvertrauen des Symmetrical AWD verzichten möchten.",
+              "uk": "Subaru Levorg — це спортивний універсал, який поєднує в собі практичність кузова універсал із приводом і технологією підвіски легендарної Impreza WRX. Це ідеальна пропозиція для тих, кому потрібен сімейний автомобіль, але він не хоче відмовлятися від динаміки та впевненості водіння Symmetrical AWD.",
+              "ru": "Subaru Levorg — спортивный универсал, сочетающий в себе практичность кузова универсала с технологиями привода и подвески легендарной Impreza WRX. Это идеальное предложение для тех, кто нуждается в семейном автомобиле, но не хочет отказываться от динамики и уверенности при вождении Symmetrical AWD.",
+              "zh": "Subaru Levorg 是一款运动旅行车，将旅行车车身的实用性与传奇 Impreza WRX 的驱动和悬架技术相结合。对于那些需要家庭用车但又不想放弃对称全轮驱动的动力和驾驶信心的人来说，这是一个理想的选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 2014",
+                "en": "from 2014",
+                "de": "ab 2014",
+                "uk": "з 2014 року",
+                "ru": "с 2014 года.",
+                "zh": "2014 年起"
+              },
+              "segment": {
+                "pl": "D (Sport Wagon)",
+                "en": "D (Sport Wagon)",
+                "de": "D (Sport Wagon)",
+                "uk": "D (Sport Wagon)",
+                "ru": "D (Sport Wagon)",
+                "zh": "D（运动旅行车）"
+              },
+              "napęd": {
+                "pl": "Symmetrical AWD",
+                "en": "Symmetrical AWD",
+                "de": "Symmetrischer AWD",
+                "uk": "Symmetrical AWD",
+                "ru": "Симметричный полный привод",
+                "zh": "对称全轮驱动"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Tribeca": [
+      {
+        "BrandID": 128,
+        "ModelID": 1494,
+        "Brand Name": "Subaru",
+        "Model Name": "Tribeca",
+        "Serie Name": "B9 Tribeca / Tribeca",
+        "Years": "2005 - 2014",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "3.0L H6 - 3.6L H6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Subaru Tribeca to największy SUV marki z okresu swojej produkcji, stworzony z myślą o komforcie siedmiu pasażerów. Wyróżniał się awangardowym designem wnętrza oraz mocnym silnikiem H6, zapewniając stabilność i bezpieczeństwo typowe dla marki.",
+              "en": "Subaru Tribeca is the brand's largest SUV from its production period, designed for the comfort of seven passengers. It was distinguished by an avant-garde interior design and a powerful H6 engine, ensuring the stability and safety typical of the brand.",
+              "de": "Subaru Tribeca ist der größte SUV der Marke aus seiner Produktionszeit, konzipiert für den Komfort von sieben Passagieren. Er zeichnete sich durch ein avantgardistisches Innendesign und einen leistungsstarken H6-Motor aus, der für die markentypische Stabilität und Sicherheit sorgte.",
+              "uk": "Subaru Tribeca — це найбільший позашляховик бренду за період виробництва, розроблений для комфорту семи пасажирів. Він вирізнявся авангардним дизайном інтер'єру та потужним двигуном H6, що забезпечувало стабільність та безпеку, характерні для марки.",
+              "ru": "Subaru Tribeca — самый большой внедорожник марки за период своего производства, рассчитанный на комфорт семи пассажиров. Его отличал авангардный дизайн салона и мощный двигатель H6, обеспечивающий типичную для марки устойчивость и безопасность.",
+              "zh": "Subaru Tribeca 是该品牌自生产以来最大的 SUV，专为七名乘客的舒适度而设计。前卫的内饰设计和强大的H6发动机确保了该品牌特有的稳定性和安全性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": "2005–2014",
+              "segment": {
+                "pl": "E-SUV / Crossover",
+                "en": "E-SUV / Crossover",
+                "de": "E-SUV / Crossover",
+                "uk": "E-SUV / Crossover",
+                "ru": "E-SUV/Crossover",
+                "zh": "E-SUV / Crossover"
+              },
+              "napęd": {
+                "pl": "Symmetrical AWD",
+                "en": "Symmetrical AWD",
+                "de": "Symmetrischer Allradantrieb",
+                "uk": "Symmetrical AWD",
+                "ru": "Симметричный полный привод",
+                "zh": "对称全轮驱动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bd/4d/f88oys084sww8w0o0ck8/tribeca-ii.310.jpg"
+        }
+      }
+    ],
+    "Ascent": [
+      {
+        "BrandID": 128,
+        "ModelID": 415548,
+        "Brand Name": "Subaru",
+        "Model Name": "Ascent",
+        "Serie Name": "Ascent",
+        "Years": "2018 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Subaru Ascent to obecnie największy SUV w ofercie marki, zaprojektowany specjalnie dla rodzin potrzebujących maksymalnej przestrzeni (do 8 osób). Mimo imponujących rozmiarów, zachowuje wszystkie atuty Subaru – stały napęd AWD, bokserski silnik turbo i najwyższe noty w testach zderzeniowych.",
+              "en": "Subaru Ascent is currently the largest SUV in the brand's offer, designed especially for families that need maximum space (up to 8 people). Despite its impressive size, it retains all the advantages of Subaru - permanent AWD drive, boxer turbo engine and the highest scores in crash tests.",
+              "de": "Subaru Ascent ist derzeit der größte SUV im Angebot der Marke, der speziell für Familien entwickelt wurde, die maximalen Platz benötigen (bis zu 8 Personen). Trotz seiner beeindruckenden Größe behält er alle Vorteile von Subaru – permanenter Allradantrieb, Boxer-Turbomotor und die höchsten Ergebnisse bei Crashtests.",
+              "uk": "Subaru Ascent — це наразі найбільший позашляховик у пропозиції бренду, розроблений спеціально для сімей, яким потрібен максимальний простір (до 8 осіб). Незважаючи на значні розміри, він зберігає всі переваги Subaru - постійний повний привід, опозитний турбомотор і найвищі бали в краш-тестах.",
+              "ru": "Subaru Ascent на данный момент является самым большим внедорожником в предложении бренда, созданным специально для семей, которым необходимо максимальное пространство (до 8 человек). Несмотря на внушительные размеры, он сохраняет все преимущества Subaru – постоянный полный привод, оппозитный турбомотор и самые высокие оценки в краш-тестах.",
+              "zh": "Subaru Ascent 是该品牌目前最大的 SUV，专为需要最大空间（最多 8 人）的家庭而设计。尽管其尺寸令人印象深刻，但它保留了斯巴鲁的所有优势 - 永久全轮驱动、水平对置涡轮发动机以及碰撞测试中的最高分数。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "from 2018",
+                "de": "ab 2018",
+                "uk": "з 2018 року",
+                "ru": "с 2018 года",
+                "zh": "2018 年起"
+              },
+              "segment": {
+                "pl": "F-SUV / Full-size",
+                "en": "F-SUV / Full-size",
+                "de": "F-SUV / Full-Size",
+                "uk": "F-SUV / Повнорозмірний",
+                "ru": "F-SUV / Полноразмерный",
+                "zh": "F-SUV / 全尺寸"
+              },
+              "napęd": {
+                "pl": "Symmetrical AWD",
+                "en": "Symmetrical AWD",
+                "de": "Symmetrischer Allradantrieb",
+                "uk": "Симетричний повний привід",
+                "ru": "Симметричный полный привод",
+                "zh": "对称全轮驱动"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Solterra": [
+      {
+        "BrandID": 128,
+        "ModelID": 416599,
+        "Brand Name": "Subaru",
+        "Model Name": "Solterra",
+        "Serie Name": "Solterra",
+        "Years": "2022 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment D-SUV",
+          "drive": "AWD",
+          "fuel": "Electric",
+          "engine": "Electric Motor 71.4kWh",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Subaru Solterra to pierwszy w pełni elektryczny model marki, który przenosi DNA Subaru w erę elektromobilności. Zachowuje legendarne możliwości terenowe dzięki zaawansowanemu systemowi X-Mode i dwóm silnikom elektrycznym zapewniającym stały napęd na cztery koła.",
+              "en": "Subaru Solterra is the brand's first fully electric model that brings Subaru's DNA into the era of electromobility. It retains its legendary off-road capabilities thanks to the advanced X-Mode system and two electric motors providing permanent four-wheel drive.",
+              "de": "Subaru Solterra ist das erste vollelektrische Modell der Marke, das die DNA von Subaru in das Zeitalter der Elektromobilität bringt. Dank des fortschrittlichen X-Mode-Systems und zweier Elektromotoren, die für permanenten Allradantrieb sorgen, behält es seine legendären Geländefähigkeiten.",
+              "uk": "Subaru Solterra — це перша повністю електрична модель бренду, яка переносить ДНК Subaru в еру електромобільності. Він зберігає свої легендарні позашляхові здібності завдяки вдосконаленій системі X-Mode і двом електромоторам, що забезпечують постійний повний привід.",
+              "ru": "Subaru Solterra — первая полностью электрическая модель бренда, которая привносит ДНК Subaru в эпоху электромобильности. Он сохраняет свои легендарные внедорожные возможности благодаря усовершенствованной системе X-Mode и двум электродвигателям, обеспечивающим постоянный полный привод.",
+              "zh": "Subaru Solterra 是该品牌的首款全电动车型，将 Subaru 的 DNA 带入电动汽车时代。得益于先进的 X-Mode 系统和两个提供永久四轮驱动的电动机，它保留了传奇的越野能力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru (współpraca z Toyotą)",
+                "en": "Subaru (cooperation with Toyota)",
+                "de": "Subaru (Kooperation mit Toyota)",
+                "uk": "Subaru (співпраця з Toyota)",
+                "ru": "Subaru (сотрудничество с Toyota)",
+                "zh": "斯巴鲁（与丰田合作）"
+              },
+              "okres produkcji": {
+                "pl": "od 2022",
+                "en": "from 2022",
+                "de": "ab 2022",
+                "uk": "з 2022 року",
+                "ru": "с 2022 года",
+                "zh": "2022 年起"
+              },
+              "segment": {
+                "pl": "D-SUV (EV)",
+                "en": "D-SUV (EV)",
+                "de": "D-SUV (EV)",
+                "uk": "D-SUV (EV)",
+                "ru": "D-SUV (EV)",
+                "zh": "D-SUV (EV)"
+              },
+              "napęd": {
+                "pl": "Symmetrical AWD (Dual Motor)",
+                "en": "Symmetrical AWD (Dual Motor)",
+                "de": "Symmetrical AWD (Dual Motor)",
+                "uk": "Symmetrical AWD (Dual Motor)",
+                "ru": "Symmetrical AWD (Dual Motor)",
+                "zh": "对称 AWD（双电机）"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Baja": [
+      {
+        "BrandID": 128,
+        "ModelID": 415324,
+        "Brand Name": "Subaru",
+        "Model Name": "Baja",
+        "Serie Name": "Baja",
+        "Years": "2002 - 2006",
+        "specs": {
+          "bodyType": "Pickup",
+          "segment": "Coupe Utility",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "2.5L",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Subaru Baja to unikalny pickup zbudowany na bazie modelu Outback, który łączy charakter auta osobowego z użytecznością otwartej paki. Jest rzadkim przykładem lifestylowego pojazdu rekreacyjnego (SUT), oferującego legendarne właściwości jezdne Subaru i wszechstronność.",
+              "en": "Subaru Baja is a unique pickup truck based on the Outback model, which combines the character of a passenger car with the utility of an open box. It is a rare example of a lifestyle recreational vehicle (SUT), offering Subaru's legendary driving characteristics and versatility.",
+              "de": "Subaru Baja ist ein einzigartiger Pickup auf Basis des Outback-Modells, der den Charakter eines Pkw mit dem Nutzen einer offenen Box verbindet. Es handelt sich um ein seltenes Beispiel eines Lifestyle-Freizeitfahrzeugs (SUT), das die legendären Fahreigenschaften und Vielseitigkeit von Subaru bietet.",
+              "uk": "Subaru Baja — унікальний пікап на базі моделі Outback, який поєднує в собі характер легкового автомобіля та практичність відкритого кузова. Це рідкісний приклад транспортного засобу для відпочинку (SUT), який пропонує легендарні ходові характеристики та універсальність Subaru.",
+              "ru": "Subaru Baja — уникальный пикап на базе модели Outback, сочетающий в себе характер легкового автомобиля с практичностью открытого кузова. Это редкий пример автомобиля для активного отдыха (SUT), сочетающего легендарные ходовые качества и универсальность Subaru.",
+              "zh": "斯巴鲁 Baja 是一款基于 Outback 车型的独特皮卡车，它将乘用车的特性与开箱式的实用性结合在一起。它是生活方式休闲车 (SUT) 的罕见典范，具有斯巴鲁传奇的驾驶特性和多功能性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Subaru"
+              },
+              "okres produkcji": "2002–2006",
+              "segment": {
+                "pl": "Pickup / SUT",
+                "en": "Pickup / SUT",
+                "de": "Pickup / SUT",
+                "uk": "Пікап / SUT",
+                "ru": "Пикап / SUT",
+                "zh": "皮卡/SUT"
+              },
+              "napęd": {
+                "pl": "Symmetrical AWD",
+                "en": "Symmetrical AWD",
+                "de": "Symmetrischer Allradantrieb",
+                "uk": "Симетричний повний привід",
+                "ru": "Симметричный полный привод",
+                "zh": "对称全轮驱动"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/30/kq/2xaovn6skkw44g8ckkggc/subaru-baja-i.310.jpg"
+        }
+      }
+    ]
+  }
+}

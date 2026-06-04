@@ -1,0 +1,273 @@
+{
+  "brand": "KAMAZ",
+  "models": {
+    "5490": [
+      {
+        "BrandID": 182,
+        "ModelID": 416318,
+        "Brand Name": "KAMAZ",
+        "Model Name": 5490,
+        "Serie Name": 5490,
+        "Years": "2005 - 3000",
+        "specs": {
+          "bodyType": "Tractor Unit",
+          "segment": "Commercial",
+          "drive": "4x2",
+          "fuel": "Diesel",
+          "engine": "Mercedes-Benz OM457LA (428 KM)",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "KAMAZ 5490 (M1842) to nowoczesny ciągnik siodłowy będący owocem współpracy z koncernem Daimler. Wykorzystuje kabinę z Mercedesa Axora oraz sprawdzony silnik OM457LA.",
+              "en": "KAMAZ 5490 (M1842) is a modern truck tractor resulting from cooperation with the Daimler concern. It uses the cabin of the Mercedes Axor and the proven OM457LA engine.",
+              "de": "KAMAZ 5490 (M1842) ist eine moderne Sattelzugmaschine, die aus der Zusammenarbeit mit dem Daimler-Konzern hervorgegangen ist. Es nutzt die Kabine des Mercedes Axor und den bewährten OM457LA-Motor.",
+              "uk": "KAMAZ 5490 (M1842) is a modern truck tractor resulting from cooperation with the Daimler concern. It uses the cabin of the Mercedes Axor and the proven OM457LA engine.",
+              "ru": "КАМАЗ 5490 (М1842) — современный седельный тягач, появившийся в результате сотрудничества с концерном Daimler. В нем используется кабина Mercedes Axor и проверенный двигатель OM457LA.",
+              "zh": "卡玛斯 5490 (M1842) 是与戴姆勒公司合作开发的一款现代化卡车牵引车。它采用梅赛德斯 Axor 的驾驶室和经过验证的 OM457LA 发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "KAMAZ"
+              },
+              "okres produkcji": {
+                "pl": "od 2013",
+                "en": "from 2013",
+                "de": "ab 2013",
+                "uk": "from 2013",
+                "ru": "от 2013 года",
+                "zh": "2013 年起"
+              },
+              "klasa": {
+                "pl": "Ciężki ciągnik siodłowy",
+                "en": "Heavy truck tractor",
+                "de": "Schwerer LKW-Traktor",
+                "uk": "Heavy truck tractor",
+                "ru": "Тяжелый седельный тягач",
+                "zh": "重型卡车牵引车"
+              },
+              "napęd": {
+                "pl": "4x2"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "6520": [
+      {
+        "BrandID": 182,
+        "ModelID": 415320,
+        "Brand Name": "KAMAZ",
+        "Model Name": 6520,
+        "Serie Name": 6520,
+        "Years": "2007 - 3000",
+        "specs": {
+          "bodyType": "Dump Truck",
+          "segment": "Commercial",
+          "drive": "6x4",
+          "fuel": "Diesel",
+          "engine": "KAMAZ-740.735-400 V8 (400 KM)",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "KAMAZ 6520 to ciężka wywrotka o ładowności do 20 ton, będąca jednym z filarów rosyjskiego budownictwa. Znany z wytrzymałości w ekstremalnych warunkach.",
+              "en": "KAMAZ 6520 is a heavy dump truck with a load capacity of up to 20 tons, which is one of the pillars of Russian construction. Known for durability in extreme conditions.",
+              "de": "KAMAZ 6520 ist ein schwerer Muldenkipper mit einer Tragfähigkeit von bis zu 20 Tonnen, der eine der Säulen des russischen Bauwesens darstellt. Bekannt für Langlebigkeit unter extremen Bedingungen.",
+              "uk": "KAMAZ 6520 is a heavy dump truck with a load capacity of up to 20 tons, which is one of the pillars of Russian construction. Відомий своєю довговічністю в екстремальних умовах.",
+              "ru": "КАМАЗ 6520 – тяжелый самосвал грузоподъемностью до 20 тонн, который является одним из столпов российского строительства. Известен своей долговечностью в экстремальных условиях.",
+              "zh": "KAMAZ 6520 是一款重型自卸卡车，负载能力高达 20 吨，是俄罗斯建筑业的支柱之一。以在极端条件下的耐用性而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "KAMAZ"
+              },
+              "okres produkcji": {
+                "pl": "od 2003",
+                "en": "from 2003",
+                "de": "ab 2003",
+                "uk": "from 2003",
+                "ru": "от 2003 года",
+                "zh": "2003年起"
+              },
+              "klasa": {
+                "pl": "Ciężka wywrotka",
+                "en": "Heavy dump truck",
+                "de": "Schwerer Muldenkipper",
+                "uk": "Heavy dump truck",
+                "ru": "Тяжелый самосвал",
+                "zh": "重型自卸车"
+              },
+              "napęd": {
+                "pl": "6x4"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "6580": [
+      {
+        "BrandID": 182,
+        "ModelID": 416320,
+        "Brand Name": "KAMAZ",
+        "Model Name": 6580,
+        "Serie Name": 6580,
+        "Years": "2015 - 3000",
+        "specs": {
+          "bodyType": "Dump Truck",
+          "segment": "Commercial",
+          "drive": "6x4",
+          "fuel": "Diesel",
+          "engine": "Cummins ISG12E5 (410-450 KM)",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "KAMAZ 6580 to przedstawiciel nowej generacji (K4) ciężkich wywrotek. Oferuje znacznie wyższy komfort pracy, lepszą ergonomię i nowoczesne jednostki napędowe Cummins.",
+              "en": "KAMAZ 6580 is a representative of the new generation (K4) of heavy dump trucks. It offers much higher work comfort, better ergonomics and modern Cummins drive units.",
+              "de": "KAMAZ 6580 ist ein Vertreter der neuen Generation (K4) schwerer Muldenkipper. Es bietet deutlich höheren Arbeitskomfort, bessere Ergonomie und moderne Cummins-Antriebseinheiten.",
+              "uk": "KAMAZ 6580 is a representative of the new generation (K4) of heavy dump trucks. It offers much higher work comfort, better ergonomics and modern Cummins drive units.",
+              "ru": "КАМАЗ 6580 – представитель нового поколения (К4) тяжелых самосвалов. Он предлагает гораздо более высокий комфорт работы, лучшую эргономику и современные приводы Cummins.",
+              "zh": "卡玛斯 6580 是新一代（K4）重型自卸车的代表。它提供更高的工作舒适度、更好的人体工程学设计和现代康明斯驱动装置。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "KAMAZ"
+              },
+              "okres produkcji": {
+                "pl": "od 2016",
+                "en": "from 2016",
+                "de": "ab 2016",
+                "uk": "from 2016",
+                "ru": "от 2016 года",
+                "zh": "2016 年起"
+              },
+              "klasa": {
+                "pl": "Ciężka wywrotka",
+                "en": "Heavy dump truck",
+                "de": "Schwerer Muldenkipper",
+                "uk": "Heavy dump truck",
+                "ru": "Тяжелый самосвал",
+                "zh": "重型自卸卡车"
+              },
+              "napęd": {
+                "pl": "6x4 / 8x4",
+                "en": "6x4 / 8x4",
+                "de": "6x4 / 8x4",
+                "uk": "6x4 / 8x4",
+                "ru": "6х4/8х4",
+                "zh": "6x4 / 8x4"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "65115": [
+      {
+        "BrandID": 182,
+        "ModelID": 415318,
+        "Brand Name": "KAMAZ",
+        "Model Name": 65115,
+        "Serie Name": 65115,
+        "Years": "1998 - 3000",
+        "specs": {
+          "bodyType": "Dump Truck",
+          "segment": "Commercial",
+          "drive": "6x4",
+          "fuel": "Diesel",
+          "engine": "KAMAZ-740.622-280 V8 (280 KM)",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "KAMAZ 65115 to najpopularniejsza wywrotka o średniej ładowności (15 ton). Ceniona za prostą konstrukcję, łatwość napraw i wszechstronność w branży komunalnej i budowlanej.",
+              "en": "KAMAZ 65115 is the most popular dump truck with medium load capacity (15 tons). Appreciated for its simple structure, ease of repair and versatility in the municipal and construction industries.",
+              "de": "KAMAZ 65115 ist der beliebteste Muldenkipper mit mittlerer Tragfähigkeit (15 Tonnen). Geschätzt für seine einfache Struktur, einfache Reparatur und Vielseitigkeit in der Kommunal- und Bauindustrie.",
+              "uk": "KAMAZ 65115 is the most popular dump truck with medium load capacity (15 tons). Appreciated for its simple structure, ease of repair and versatility in the municipal and construction industries.",
+              "ru": "КАМАЗ 65115 – самый популярный самосвал средней грузоподъемности (15 тонн). Ценится за простую конструкцию, простоту ремонта и универсальность в коммунальной и строительной отраслях.",
+              "zh": "KAMAZ 65115 是最受欢迎的中等负载能力（15 吨）自卸卡车。因其结构简单、易于维修以及在市政和建筑行业中的多功能性而受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "KAMAZ"
+              },
+              "okres produkcji": {
+                "pl": "od 1998",
+                "en": "since 1998",
+                "de": "seit 1998",
+                "uk": "since 1998",
+                "ru": "с 1998 года.",
+                "zh": "自 1998 年以来"
+              },
+              "klasa": {
+                "pl": "Wywrotka"
+              },
+              "napęd": {
+                "pl": "6x4"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "": [
+      {
+        "BrandID": 182,
+        "ModelID": "",
+        "Brand Name": "KAMAZ",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "Truck",
+          "segment": "Commercial",
+          "drive": "All-Wheel Drive",
+          "fuel": "Diesel",
+          "engine": "V8 Turbo Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "KAMAZ to rosyjski gigant i jeden z największych producentów ciężarówek na świecie. Marka stała się legendarna dzięki totalnej dominacji w morderczym Rajdzie Dakar, gdzie jej pojazdy wygrywały wielokrotnie.",
+              "en": "KAMAZ is a Russian giant and one of the largest truck manufacturers in the world. The brand became legendary thanks to its total domination in the murderous Dakar Rally, where its vehicles won many times.",
+              "de": "KAMAZ ist ein russischer Riese und einer der größten Lkw-Hersteller der Welt. Legendär wurde die Marke durch ihre absolute Dominanz bei der mörderischen Rallye Dakar, bei der ihre Fahrzeuge mehrfach siegten.",
+              "uk": "KAMAZ is a Russian giant and one of the largest truck manufacturers in the world. The brand became legendary thanks to its total domination in the murderous Dakar Rally, where its vehicles won many times.",
+              "ru": "КАМАЗ — российский гигант и один из крупнейших производителей грузовых автомобилей в мире. Бренд стал легендарным благодаря тотальному доминированию на кровопролитном ралли «Дакар», где его автомобили неоднократно побеждали.",
+              "zh": "卡玛斯是俄罗斯巨头，也是世界上最大的卡车制造商之一。该品牌因其在残酷的达喀尔拉力赛中的统治地位而成为传奇，其车辆多次获胜。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "KAMAZ (Kamskiy Avtomobilny Zavod)",
+                "en": "KAMAZ (Kamskiy Avtomobilny Zavod)",
+                "de": "KAMAZ (Kamskiy Avtomobilny Zavod)",
+                "uk": "KAMAZ (Kamskiy Avtomobilny Zavod)",
+                "ru": "КАМАЗ (Камский автомобильный завод)",
+                "zh": "卡玛斯 (Kamskiy Avtomobilny Zavod)"
+              },
+              "siedziba": {
+                "pl": "Nabierieżnyje Czełny, Rosja",
+                "en": "Naberezhnye Chelny, Russia",
+                "de": "Naberezhnye Chelny, Russland",
+                "uk": "Naberezhnye Chelny, Russia",
+                "ru": "Набережные Челны, Россия",
+                "zh": "卡马河畔切尔尼 (Naberezhnye Chelny)，俄罗斯"
+              },
+              "założona": "1969",
+              "zakres działalności": {
+                "pl": "Ciężarówki, silniki, pojazdy wojskowe",
+                "en": "Trucks, engines, military vehicles",
+                "de": "Lastkraftwagen, Motoren, Militärfahrzeuge",
+                "uk": "Trucks, engines, military vehicles",
+                "ru": "Грузовые автомобили, двигатели, военная техника",
+                "zh": "卡车、发动机、军用车辆"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,3862 @@
+{
+  "brand": "Chevrolet",
+  "models": {
+    "Alero": [
+      {
+        "BrandID": 29,
+        "ModelID": 228,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Alero",
+        "Serie Name": "Alero",
+        "Years": "1999 - 2004",
+        "specs": {
+          "bodyType": "Sedan/Coupe",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L / 3.4L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Alero to ostatni model marki sprzedawany w Europie przed wprowadzeniem modeli z Korei. Następca Oldsmobile Alero.",
+              "en": "Chevrolet Alero is the last model of the brand sold in Europe before the introduction of models from Korea. The successor to the Oldsmobile Alero.",
+              "de": "Chevrolet Alero ist das letzte Modell der Marke, das in Europa verkauft wurde, bevor Modelle aus Korea eingeführt wurden. Der Nachfolger des Oldsmobile Alero.",
+              "uk": "Chevrolet Alero є останньою моделлю бренду, проданою в Європі до появи моделей з Кореї. Наступник Oldsmobile Alero.",
+              "ru": "Chevrolet Alero — последняя модель марки, продаваемая в Европе до появления моделей из Кореи. Преемник Oldsmobile Alero.",
+              "zh": "雪佛兰Alero是该品牌在引进韩国车型之前在欧洲销售的最后一款车型。奥兹莫比尔 Alero 的后继产品。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "1999–2004",
+              "miejsce produkcji": {
+                "pl": "Lansing, USA",
+                "en": "Lansing, USA",
+                "de": "Lansing, USA",
+                "uk": "Лансінг, США",
+                "ru": "Лансинг, США",
+                "zh": "美国兰辛"
+              },
+              "platforma": {
+                "pl": "GM N",
+                "en": "GM N",
+                "de": "GM N",
+                "uk": "ГМ Н",
+                "ru": "ГМ Н",
+                "zh": "GM N"
+              },
+              "silnik": {
+                "pl": "2.4L / 3.4L V6",
+                "en": "2.4L/3.4L V6",
+                "de": "2,4 l/3,4 l V6",
+                "uk": "2,4 л/3,4 л V6",
+                "ru": "2,4 л/3,4 л V6",
+                "zh": "2.4L / 3.4L V6"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Astro": [
+      {
+        "BrandID": 29,
+        "ModelID": 415606,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Astro",
+        "Serie Name": "Astro",
+        "Years": "1995 - 2005",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Minivan",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "4.3L V6",
+          "isOldtimer": true,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Astro to wół roboczy wśród vanów. Oparty na ramie ciężarówki, oferował ogromną przestrzeń i możliwości holownicze.",
+              "en": "The Chevrolet Astro is the workhorse of vans. Based on a truck frame, it offered enormous space and towing capabilities.",
+              "de": "Der Chevrolet Astro ist das Arbeitstier unter den Transportern. Basierend auf einem LKW-Rahmen bot er enorme Platz- und Anhängemöglichkeiten.",
+              "uk": "Chevrolet Astro — це робоча конячка фургонів. Базований на рамі вантажівки, він пропонував величезний простір і можливості буксирування.",
+              "ru": "Chevrolet Astro — рабочая лошадка среди фургонов. Основанный на раме грузовика, он предлагал огромное пространство и возможности буксировки.",
+              "zh": "雪佛兰 Astro 是货车中的主力。它基于卡车车架，提供了巨大的空间和牵引能力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "1985–2005",
+              "miejsce produkcji": {
+                "pl": "Baltimore, USA",
+                "en": "Baltimore, USA",
+                "de": "Baltimore, USA",
+                "uk": "Балтімор, США",
+                "ru": "Балтимор, США",
+                "zh": "美国巴尔的摩"
+              },
+              "platforma": {
+                "pl": "GM M",
+                "en": "GM M",
+                "de": "GM M",
+                "uk": "GM М",
+                "ru": "ГМ М",
+                "zh": "GM M"
+              },
+              "silnik": {
+                "pl": "4.3L V6",
+                "en": "4.3L V6",
+                "de": "4,3 l V6",
+                "uk": "4,3 л V6",
+                "ru": "4,3 л V6",
+                "zh": "4.3L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6v/d7/s9bgwlwcg4kc0wow40c04/astro.310.jpg"
+        }
+      }
+    ],
+    "Avalanche": [
+      {
+        "BrandID": 29,
+        "ModelID": 413061,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Avalanche",
+        "Serie Name": "Avalanche (1st Gen)",
+        "Years": "2001 - 2006",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Full-size Pickup",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "5.3L V8 / 8.1L V8",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Avalanche (1. gen) to hybryda SUV-a i pickupa. Unikalna przegroda 'Midgate' pozwalała na wydłużenie paki do kabiny.",
+              "en": "The Chevrolet Avalanche (1st gen) is a hybrid of an SUV and a pickup truck. The unique 'Midgate' partition allowed the trunk to be extended into the cabin.",
+              "de": "Der Chevrolet Avalanche (1. Generation) ist ein Hybrid aus einem SUV und einem Pickup. Die einzigartige „Midgate“-Trennwand ermöglichte die Erweiterung des Kofferraums in die Kabine.",
+              "uk": "Chevrolet Avalanche (1-е покоління) — це гібрид позашляховика та пікапа. Унікальна перегородка Midgate дозволила витягнути багажник у салон.",
+              "ru": "Chevrolet Avalanche (1-го поколения) — гибрид внедорожника и пикапа. Уникальная перегородка Midgate позволила расширить багажник до салона.",
+              "zh": "雪佛兰 Avalanche（第一代）是 SUV 和皮卡车的混合体。独特的“Midgate”隔板使行李箱可以延伸到机舱内。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2001–2006",
+              "miejsce produkcji": {
+                "pl": "Silao, Meksyk",
+                "en": "Silao, Mexico",
+                "de": "Silao, Mexiko",
+                "uk": "Сілао, Мексика",
+                "ru": "Силао, Мексика",
+                "zh": "墨西哥锡劳"
+              },
+              "platforma": {
+                "pl": "GMT800",
+                "en": "GMT800",
+                "de": "GMT800",
+                "uk": "GMT800",
+                "ru": "GMT800"
+              },
+              "silnik": {
+                "pl": "5.3L V8 / 8.1L V8",
+                "en": "5.3L V8 / 8.1L V8",
+                "de": "5,3 l V8 / 8,1 l V8",
+                "uk": "5,3 л V8 / 8,1 л V8",
+                "ru": "5,3 л V8 / 8,1 л V8",
+                "zh": "5.3L V8 / 8.1L V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chevrolet_Avalanche_4x4_2004_%2815047550062%29.jpg/1280px-Chevrolet_Avalanche_4x4_2004_%2815047550062%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chevrolet_Avalanche_4x4_2004_%2815047550062%29.jpg/1280px-Chevrolet_Avalanche_4x4_2004_%2815047550062%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/2003-06_Chevrolet_Avalanche_WBH.jpg/1280px-2003-06_Chevrolet_Avalanche_WBH.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Chevrolet_Avalanche_LT_2010_%2814741288313%29.jpg/1280px-Chevrolet_Avalanche_LT_2010_%2814741288313%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Chevrolet_Avalanche_LTZ_2011_%2816327957654%29.jpg/1280px-Chevrolet_Avalanche_LTZ_2011_%2816327957654%29.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/df/eb/8p8lwnk8ss844cowwsw0o/avalanche-2007.310.jpg"
+        }
+      },
+      {
+        "BrandID": 29,
+        "ModelID": 413062,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Avalanche",
+        "Serie Name": "Avalanche (2nd Gen)",
+        "Years": "2006 - 2013",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Full-size Pickup",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "5.3L V8 / 6.0L V8",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Avalanche (2. gen) kontynuował koncepcję uniwersalnego pojazdu. Bardziej komfortowy i lepiej wyposażony niż poprzednik.",
+              "en": "The Chevrolet Avalanche (2nd generation) continued the concept of a universal vehicle. More comfortable and better equipped than its predecessor.",
+              "de": "Der Chevrolet Avalanche (2. Generation) führte das Konzept eines Universalfahrzeugs fort. Komfortabler und besser ausgestattet als sein Vorgänger.",
+              "uk": "Chevrolet Avalanche (2 покоління) продовжив концепцію універсального автомобіля. Більш комфортний і краще оснащений, ніж його попередник.",
+              "ru": "Chevrolet Avalanche (2-го поколения) продолжил концепцию универсального автомобиля. Более комфортабельный и лучше оснащенный, чем его предшественник.",
+              "zh": "雪佛兰 Avalanche（第二代）延续了通用车辆的概念。比其前身更舒适、装备更好。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2007–2013",
+              "miejsce produkcji": {
+                "pl": "Silao, Meksyk",
+                "en": "Silao, Mexico",
+                "de": "Silao, Mexiko",
+                "uk": "Сілао, Мексика",
+                "ru": "Силао, Мексика",
+                "zh": "墨西哥 Silao"
+              },
+              "platforma": {
+                "pl": "GMT900",
+                "en": "GMT900",
+                "de": "GMT900",
+                "uk": "GMT900",
+                "ru": "Время по Гринвичу900"
+              },
+              "silnik": {
+                "pl": "5.3L V8 / 6.0L V8",
+                "en": "5.3L V8 / 6.0L V8",
+                "de": "5,3 l V8 / 6,0 l V8",
+                "uk": "5,3 л V8 / 6,0 л V8",
+                "ru": "5,3 л V8 / 6,0 л V8",
+                "zh": "5.3L V8 / 6.0L V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chevrolet_Avalanche_4x4_2004_%2815047550062%29.jpg/1280px-Chevrolet_Avalanche_4x4_2004_%2815047550062%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chevrolet_Avalanche_4x4_2004_%2815047550062%29.jpg/1280px-Chevrolet_Avalanche_4x4_2004_%2815047550062%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/2003-06_Chevrolet_Avalanche_WBH.jpg/1280px-2003-06_Chevrolet_Avalanche_WBH.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Chevrolet_Avalanche_LT_2010_%2814741288313%29.jpg/1280px-Chevrolet_Avalanche_LT_2010_%2814741288313%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Chevrolet_Avalanche_LTZ_2011_%2816327957654%29.jpg/1280px-Chevrolet_Avalanche_LTZ_2011_%2816327957654%29.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/df/eb/8p8lwnk8ss844cowwsw0o/avalanche-2007.310.jpg"
+        }
+      }
+    ],
+    "Aveo": [
+      {
+        "BrandID": 29,
+        "ModelID": 413063,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Aveo",
+        "Serie Name": "Aveo (T200)",
+        "Years": "2002 - 2006",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Subcompact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.2L - 1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Aveo (T200) to pierwszy globalny model marki produkowany przez GM Daewoo. Znany z niskiej ceny i prostej konstrukcji.",
+              "en": "Chevrolet Aveo (T200) is the first global model of the brand produced by GM Daewoo. Known for its low price and simple design.",
+              "de": "Chevrolet Aveo (T200) ist das erste globale Modell der Marke, das von GM Daewoo produziert wird. Bekannt für seinen niedrigen Preis und sein schlichtes Design.",
+              "uk": "Chevrolet Aveo (T200) - перша глобальна модель марки, випущена GM Daewoo. Відомий невисокою ціною і простим дизайном.",
+              "ru": "Chevrolet Aveo (T200) — первая мировая модель марки, выпускаемая GM Daewoo. Известен своей невысокой ценой и простой конструкцией.",
+              "zh": "雪佛兰 Aveo (T200) 是通用大宇生产的该品牌的首款全球车型。以其低廉的价格和简单的设计而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2002–2006",
+              "miejsce produkcji": {
+                "pl": "Bupyeong, Korea Południowa",
+                "en": "Bupyeong, South Korea",
+                "de": "Bupyeong, Südkorea",
+                "uk": "Бупьон, Південна Корея",
+                "ru": "Бупён, Южная Корея",
+                "zh": "韩国富平"
+              },
+              "platforma": {
+                "pl": "T200",
+                "en": "T200",
+                "de": "T200",
+                "uk": "Т200",
+                "ru": "Т200"
+              },
+              "silnik": {
+                "pl": "1.2L - 1.6L",
+                "en": "1.2L - 1.6L",
+                "de": "1,2 l – 1,6 l",
+                "uk": "1,2 л - 1,6 л",
+                "ru": "1,2 л - 1,6 л",
+                "zh": "1.2L - 1.6L"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Chevrolet_Aveo_LT_hatch_rear.jpg/1280px-Chevrolet_Aveo_LT_hatch_rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Chevrolet_Aveo_LT_hatch_rear.jpg/1280px-Chevrolet_Aveo_LT_hatch_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Chevrolet_Aveo_LT_Sedan_2004_%2827974238189%29.jpg/1280px-Chevrolet_Aveo_LT_Sedan_2004_%2827974238189%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2007_Chevrolet_Kalos_SE_1.2_Front.jpg/1280px-2007_Chevrolet_Kalos_SE_1.2_Front.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2007_Holden_Barina_%28TK%29_3-door_hatchback_%282009-07-04%29.jpg/1280px-2007_Holden_Barina_%28TK%29_3-door_hatchback_%282009-07-04%29.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3n/eb/01qzu1ic0k8og8gk44goc/aveo-ii-hatch.310.jpg"
+        }
+      },
+      {
+        "BrandID": 29,
+        "ModelID": 413800,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Aveo",
+        "Serie Name": "Aveo (T250)",
+        "Years": "2006 - 2011",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Subcompact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.2L - 1.6L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Aveo (T250) to zmodernizowana wersja z nowocześniejszym wyglądem i poprawionym wnętrzem.",
+              "en": "Chevrolet Aveo (T250) is a modernized version with a more modern look and improved interior.",
+              "de": "Chevrolet Aveo (T250) ist eine modernisierte Version mit einem moderneren Aussehen und verbessertem Innenraum.",
+              "uk": "Chevrolet Aveo (T250) - модернізована версія з більш сучасним зовнішнім виглядом і покращеним салоном.",
+              "ru": "Шевроле Авео (Т250) – модернизированная версия с более современным внешним видом и улучшенным салоном.",
+              "zh": "雪佛兰 Aveo (T250) 是一款现代化版本，具有更现代的外观和改进的内饰。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2006–2011",
+              "miejsce produkcji": {
+                "pl": "Bupyeong, Korea Południowa",
+                "en": "Bupyeong, South Korea",
+                "de": "Bupyeong, Südkorea",
+                "uk": "Бупьон, Південна Корея",
+                "ru": "Бупён, Южная Корея",
+                "zh": "韩国富平"
+              },
+              "platforma": {
+                "pl": "T250",
+                "en": "T250",
+                "de": "T250",
+                "uk": "Т250",
+                "ru": "Т250"
+              },
+              "silnik": {
+                "pl": "1.2L - 1.6L",
+                "en": "1.2L - 1.6L",
+                "de": "1,2 l – 1,6 l",
+                "uk": "1,2 л - 1,6 л",
+                "ru": "1,2 л - 1,6 л",
+                "zh": "1.2L - 1.6L"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Chevrolet_Aveo_LT_hatch_rear.jpg/1280px-Chevrolet_Aveo_LT_hatch_rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Chevrolet_Aveo_LT_hatch_rear.jpg/1280px-Chevrolet_Aveo_LT_hatch_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Chevrolet_Aveo_LT_Sedan_2004_%2827974238189%29.jpg/1280px-Chevrolet_Aveo_LT_Sedan_2004_%2827974238189%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2007_Chevrolet_Kalos_SE_1.2_Front.jpg/1280px-2007_Chevrolet_Kalos_SE_1.2_Front.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2007_Holden_Barina_%28TK%29_3-door_hatchback_%282009-07-04%29.jpg/1280px-2007_Holden_Barina_%28TK%29_3-door_hatchback_%282009-07-04%29.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3n/eb/01qzu1ic0k8og8gk44goc/aveo-ii-hatch.310.jpg"
+        }
+      },
+      {
+        "BrandID": 29,
+        "ModelID": 413064,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Aveo",
+        "Serie Name": "Aveo (T300)",
+        "Years": "2011 - 2020",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Subcompact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L - 1.6L / 1.3L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Aveo (T300), znany jako Sonic w USA. Dynamiczna stylistyka motocyklowa zegarów i ukryte klamki.",
+              "en": "Chevrolet Aveo (T300), known as Sonic in the US. Dynamic motorcycle styling of clocks and hidden door handles.",
+              "de": "Chevrolet Aveo (T300), in den USA als Sonic bekannt. Dynamisches Motorrad-Styling von Uhren und versteckten Türgriffen.",
+              "uk": "Chevrolet Aveo (T300), відомий як Sonic у США. Динамічний мотоциклетний стиль годинників і прихованих дверних ручок.",
+              "ru": "Chevrolet Aveo (T300), известный в США как Sonic. Динамичный мотоциклетный стиль часов и скрытых дверных ручек.",
+              "zh": "雪佛兰 Aveo (T300)，在美国称为 Sonic。时钟和隐藏式门把手的动态摩托车造型。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2011–2020",
+              "miejsce produkcji": {
+                "pl": "Bupyeong, Korea Południowa",
+                "en": "Bupyeong, South Korea",
+                "de": "Bupyeong, Südkorea",
+                "uk": "Бупьон, Південна Корея",
+                "ru": "Бупён, Южная Корея",
+                "zh": "韩国富平"
+              },
+              "platforma": {
+                "pl": "Gamma II",
+                "en": "Gamma II",
+                "de": "Gamma II",
+                "uk": "Гама II",
+                "ru": "Гамма II",
+                "zh": "Gamma II"
+              },
+              "silnik": {
+                "pl": "1.2L - 1.8L",
+                "en": "1.2L - 1.8L",
+                "de": "1,2 l – 1,8 l",
+                "uk": "1,2 л - 1,8 л",
+                "ru": "1,2–1,8 л",
+                "zh": "1.2L - 1.8L"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Chevrolet_Aveo_LT_hatch_rear.jpg/1280px-Chevrolet_Aveo_LT_hatch_rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Chevrolet_Aveo_LT_hatch_rear.jpg/1280px-Chevrolet_Aveo_LT_hatch_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Chevrolet_Aveo_LT_Sedan_2004_%2827974238189%29.jpg/1280px-Chevrolet_Aveo_LT_Sedan_2004_%2827974238189%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2007_Chevrolet_Kalos_SE_1.2_Front.jpg/1280px-2007_Chevrolet_Kalos_SE_1.2_Front.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2007_Holden_Barina_%28TK%29_3-door_hatchback_%282009-07-04%29.jpg/1280px-2007_Holden_Barina_%28TK%29_3-door_hatchback_%282009-07-04%29.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3n/eb/01qzu1ic0k8og8gk44goc/aveo-ii-hatch.310.jpg"
+        }
+      }
+    ],
+    "Blazer": [
+      {
+        "BrandID": 29,
+        "ModelID": 235,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Blazer",
+        "Serie Name": "Blazer (S-10)",
+        "Years": "1994 - 2005",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "4.3L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Blazer (S-10) to kompaktowy/średni SUV, popularny w USA. Dzielny w terenie i pakowny.",
+              "en": "The Chevrolet Blazer (S-10) is a compact/medium SUV popular in the US. Brave in the field and spacious.",
+              "de": "Der Chevrolet Blazer (S-10) ist ein in den USA beliebter Kompakt-/Mittelklasse-SUV. Mutig im Gelände und geräumig.",
+              "uk": "Chevrolet Blazer (S-10) — компактний/середній позашляховик, популярний у США. Хоробрий в полі і просторий.",
+              "ru": "Chevrolet Blazer (S-10) — компактный/средний внедорожник, популярный в США. Смелый в поле и просторный.",
+              "zh": "雪佛兰 Blazer (S-10) 是一款在美国流行的紧凑型/中型 SUV。场上勇猛，空间宽敞。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "1995–2005",
+              "miejsce produkcji": {
+                "pl": "Moraine, USA",
+                "en": "Moraine, USA",
+                "de": "Moraine, USA",
+                "uk": "Морейн, США",
+                "ru": "Морейн, США",
+                "zh": "美国莫瑞恩"
+              },
+              "platforma": {
+                "pl": "GMT330",
+                "en": "GMT330",
+                "de": "GMT330",
+                "uk": "GMT330",
+                "ru": "время по Гринвичу 330"
+              },
+              "silnik": {
+                "pl": "4.3L V6",
+                "en": "4.3L V6",
+                "de": "4,3 l V6",
+                "uk": "4,3 л V6",
+                "ru": "4,3 л V6",
+                "zh": "4.3L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/79/1x/ss870x44ow8o40kws0sso/blazer.310.jpg"
+        }
+      },
+      {
+        "BrandID": 29,
+        "ModelID": 416660,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Blazer",
+        "Serie Name": "Blazer (Crossover)",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L Turbo / 3.6L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Blazer (2019+) to powrót legendy w formie agresywnie stylizowanego crossovera inspirowanego Camaro.",
+              "en": "The Chevrolet Blazer (2019+) brings the legend back in the form of an aggressively styled Camaro-inspired crossover.",
+              "de": "Der Chevrolet Blazer (2019+) bringt die Legende in Form eines aggressiv gestalteten, vom Camaro inspirierten Crossover zurück.",
+              "uk": "Chevrolet Blazer (2019+) повертає легенду у формі кросовера в агресивному стилі, натхненного Camaro.",
+              "ru": "Chevrolet Blazer (2019+) возвращает легенду в виде агрессивно оформленного кроссовера, вдохновленного Camaro.",
+              "zh": "雪佛兰 Blazer (2019+) 是一款以科迈罗为灵感的激进风格跨界车，传奇的回归。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019 року",
+                "ru": "с 2019 года",
+                "zh": "2019 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Ramos Arizpe, Meksyk",
+                "en": "Ramos Arizpe, Mexico",
+                "de": "Ramos Arizpe, Mexiko",
+                "uk": "Рамос Арізпе, Мексика",
+                "ru": "Рамос Ариспе, Мексика",
+                "zh": "墨西哥拉莫斯·阿里斯佩"
+              },
+              "platforma": {
+                "pl": "GM C1XX",
+                "en": "GM C1XX",
+                "de": "GM C1XX",
+                "uk": "GM C1XX",
+                "ru": "ГМ C1XX",
+                "zh": "GM C1XX"
+              },
+              "silnik": {
+                "pl": "2.0L Turbo / 3.6L V6",
+                "en": "2.0L Turbo/3.6L V6",
+                "de": "2,0 l Turbo/3,6 l V6",
+                "uk": "2.0L Turbo/3.6L V6",
+                "ru": "2,0 л турбо/3,6 л V6",
+                "zh": "2.0L Turbo / 3.6L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/79/1x/ss870x44ow8o40kws0sso/blazer.310.jpg"
+        }
+      }
+    ],
+    "Bolt": [
+      {
+        "BrandID": 29,
+        "ModelID": 415676,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Bolt",
+        "Serie Name": "Bolt EV",
+        "Years": "2016 - 3000",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Compact Electric",
+          "drive": "FWD",
+          "fuel": "Electric",
+          "engine": "Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Bolt EV to przełomowy samochód elektryczny o dużym zasięgu w przystępnej cenie. Zwinny i przestronny.",
+              "en": "The Chevrolet Bolt EV is a groundbreaking, long-range electric vehicle at an affordable price. Nimble and spacious.",
+              "de": "Der Chevrolet Bolt EV ist ein bahnbrechendes Elektrofahrzeug mit großer Reichweite zu einem erschwinglichen Preis. Flink und geräumig.",
+              "uk": "Chevrolet Bolt EV — це новаторський електромобіль великої дальності за доступною ціною. Швидкий і просторий.",
+              "ru": "Chevrolet Bolt EV — это новаторский электромобиль с большим запасом хода по доступной цене. Шустрый и просторный.",
+              "zh": "雪佛兰 Bolt EV 是一款突破性的远程电动汽车，价格实惠。灵活宽敞。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2016–2023",
+              "miejsce produkcji": {
+                "pl": "Orion Township, USA",
+                "en": "Orion Township, USA",
+                "de": "Orion Township, USA",
+                "uk": "Оріон Тауншип, США",
+                "ru": "Орион Тауншип, США",
+                "zh": "美国 Orion Township"
+              },
+              "platforma": {
+                "pl": "BEV2",
+                "en": "BEV2",
+                "de": "BEV2",
+                "uk": "BEV2",
+                "ru": "БЕВ2"
+              },
+              "silnik": {
+                "pl": "Electric 150 kW",
+                "en": "Electric 150 kW",
+                "de": "Elektrisch 150 kW",
+                "uk": "Електричний 150 кВт",
+                "ru": "Электрический 150 кВт",
+                "zh": "电动 150 kW"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2017_Chevrolet_Bolt_EV_Premier_rear_6.20.18.jpg/1280px-2017_Chevrolet_Bolt_EV_Premier_rear_6.20.18.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2017_Chevrolet_Bolt_EV_Premier_rear_6.20.18.jpg/1280px-2017_Chevrolet_Bolt_EV_Premier_rear_6.20.18.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/2022_Chevrolet_Bolt_EV_LT_in_Grey_Ghost_Metallic%2C_Front_Right%2C_08-14-2022.jpg/1280px-2022_Chevrolet_Bolt_EV_LT_in_Grey_Ghost_Metallic%2C_Front_Right%2C_08-14-2022.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/2022_Chevrolet_Bolt_EV_LT_in_Grey_Ghost_Metallic%2C_Rear_Left%2C_08-14-2022.jpg/1280px-2022_Chevrolet_Bolt_EV_LT_in_Grey_Ghost_Metallic%2C_Rear_Left%2C_08-14-2022.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Opel_Ampera-e_Oslo_10_2018_3856.jpg/1280px-Opel_Ampera-e_Oslo_10_2018_3856.jpg"
+            ]
+          }
+        }
+      },
+      {
+        "BrandID": 29,
+        "ModelID": 416661,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Bolt",
+        "Serie Name": "Bolt EUV",
+        "Years": "2021 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact Electric SUV",
+          "drive": "FWD",
+          "fuel": "Electric",
+          "engine": "Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Bolt EUV to crossoverowa wersja modelu Bolt, oferująca więcej miejsca na tylnej kanapie i system Super Cruise.",
+              "en": "The Chevrolet Bolt EUV is a crossover version of the Bolt, offering more rear seat space and Super Cruise.",
+              "de": "Der Chevrolet Bolt EUV ist eine Crossover-Version des Bolt und bietet mehr Platz auf den Rücksitzen und Super Cruise.",
+              "uk": "Chevrolet Bolt EUV — це кросоверна версія Bolt, яка пропонує більше простору на задніх сидіннях і Super Cruise.",
+              "ru": "Chevrolet Bolt EUV — это кроссовер Bolt, предлагающий больше места на задних сиденьях и функцию Super Cruise.",
+              "zh": "雪佛兰 Bolt EUV 是 Bolt 车型的跨界版本，为后座和 Super Cruise 系统提供更多空间。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2021–2023",
+              "miejsce produkcji": {
+                "pl": "Orion Township, USA",
+                "en": "Orion Township, USA",
+                "de": "Orion Township, USA",
+                "uk": "Оріон Тауншип, США",
+                "ru": "Орион Тауншип, США",
+                "zh": "美国 Orion Township"
+              },
+              "platforma": {
+                "pl": "BEV2",
+                "en": "BEV2",
+                "de": "BEV2",
+                "uk": "BEV2",
+                "ru": "БЕВ2"
+              },
+              "silnik": {
+                "pl": "Electric 150 kW",
+                "en": "Electric 150 kW",
+                "de": "Elektrisch 150 kW",
+                "uk": "Електричний 150 кВт",
+                "ru": "Электрический 150 кВт",
+                "zh": "电动 150 kW"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2017_Chevrolet_Bolt_EV_Premier_rear_6.20.18.jpg/1280px-2017_Chevrolet_Bolt_EV_Premier_rear_6.20.18.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2017_Chevrolet_Bolt_EV_Premier_rear_6.20.18.jpg/1280px-2017_Chevrolet_Bolt_EV_Premier_rear_6.20.18.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/2022_Chevrolet_Bolt_EV_LT_in_Grey_Ghost_Metallic%2C_Front_Right%2C_08-14-2022.jpg/1280px-2022_Chevrolet_Bolt_EV_LT_in_Grey_Ghost_Metallic%2C_Front_Right%2C_08-14-2022.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/2022_Chevrolet_Bolt_EV_LT_in_Grey_Ghost_Metallic%2C_Rear_Left%2C_08-14-2022.jpg/1280px-2022_Chevrolet_Bolt_EV_LT_in_Grey_Ghost_Metallic%2C_Rear_Left%2C_08-14-2022.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Opel_Ampera-e_Oslo_10_2018_3856.jpg/1280px-Opel_Ampera-e_Oslo_10_2018_3856.jpg"
+            ]
+          }
+        }
+      }
+    ],
+    "Camaro": [
+      {
+        "BrandID": 29,
+        "ModelID": 413066,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Camaro",
+        "Serie Name": "Camaro (4th Gen)",
+        "Years": "1993 - 2002",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Muscle Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.4L V6 - 5.7L V8",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Camaro (4. gen) to aerodynamiczna ewolucja muscle cara. Wersje Z28 i SS z silnikami LT1/LS1 oferowały świetne osiągi.",
+              "en": "Chevrolet Camaro (4th generation) is an aerodynamic evolution of the muscle car. The Z28 and SS versions with LT1/LS1 engines offered great performance.",
+              "de": "Chevrolet Camaro (4. Generation) ist eine aerodynamische Weiterentwicklung des Muscle Cars. Die Z28- und SS-Versionen mit LT1/LS1-Motoren boten eine hervorragende Leistung.",
+              "uk": "Chevrolet Camaro (4 покоління) – це аеродинамічна еволюція маслкара. Версії Z28 і SS з двигунами LT1/LS1 запропонували чудову продуктивність.",
+              "ru": "Chevrolet Camaro (4-е поколение) — аэродинамическая эволюция маслкара. Версии Z28 и SS с двигателями LT1/LS1 показали отличные характеристики.",
+              "zh": "雪佛兰科迈罗（第四代）是肌肉车的空气动力学演变。配备 LT1/LS1 发动机的 Z28 和 SS 版本提供了出色的性能。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "1993–2002",
+              "miejsce produkcji": {
+                "pl": "Sainte-Thérèse, Kanada",
+                "en": "Sainte-Thérèse, Canada",
+                "de": "Sainte-Thérèse, Kanada",
+                "uk": "Сент-Тереза, Канада",
+                "ru": "Сент-Терез, Канада",
+                "zh": "加拿大圣泰雷兹"
+              },
+              "platforma": {
+                "pl": "F-body",
+                "en": "F-body",
+                "de": "F-Körper",
+                "uk": "F-корпус",
+                "ru": "F-боди"
+              },
+              "silnik": {
+                "pl": "3.4L V6 - 5.7L V8",
+                "en": "3.4L V6 - 5.7L V8",
+                "de": "3,4 l V6 – 5,7 l V8",
+                "uk": "3,4 л V6 - 5,7 л V8",
+                "ru": "3,4 л V6 – 5,7 л V8",
+                "zh": "3.4L V6 - 5.7L V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/1967_Chevrolet_Camaro_RS-SS_coupe_%285410254392%29.jpg/1280px-1967_Chevrolet_Camaro_RS-SS_coupe_%285410254392%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/1967_Chevrolet_Camaro_RS-SS_coupe_%285410254392%29.jpg/1280px-1967_Chevrolet_Camaro_RS-SS_coupe_%285410254392%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/1969_Camaro_%283%29.jpg/1280px-1969_Camaro_%283%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/1969_Camaro_%284%29.jpg/1280px-1969_Camaro_%284%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Chevrolet_Camaro_Z28_dutch_licence_registration_DL-19-74_pic2.JPG/1280px-Chevrolet_Camaro_Z28_dutch_licence_registration_DL-19-74_pic2.JPG"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/af/e0/ck3zg7k8k0sogo40s0swg/camaro-2009-coupe.310.jpg"
+        }
+      },
+      {
+        "BrandID": 29,
+        "ModelID": 413067,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Camaro",
+        "Serie Name": "Camaro (5th Gen)",
+        "Years": "2010 - 2015",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Muscle Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.6L V6 - 7.0L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Camaro (5. gen) to wielki powrót legendy w stylu retro-futuryzm. Wystąpił w serii Transformers jako Bumblebee.",
+              "en": "Chevrolet Camaro (5th generation) is the great return of the legend in retro-futurism style. He appeared in the Transformers series as Bumblebee.",
+              "de": "Chevrolet Camaro (5. Generation) ist die große Rückkehr der Legende im Retro-Futurismus-Stil. Er trat in der Transformers-Serie als Bumblebee auf.",
+              "uk": "Chevrolet Camaro (5 покоління) - це велике повернення легенди в стилі ретро-футуризм. Він з'явився в серіалі «Трансформери» як Бамблбі.",
+              "ru": "Chevrolet Camaro (5-е поколение) – великолепное возвращение легенды в стиле ретрофутуризма. Он появился в сериале «Трансформеры» в роли Бамблби.",
+              "zh": "雪佛兰科迈罗（第五代）是复古未来主义风格传奇的伟大回归。他在《变形金刚》系列中饰演大黄蜂。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2009–2015",
+              "miejsce produkcji": {
+                "pl": "Oshawa, Kanada",
+                "en": "Oshawa, Canada",
+                "de": "Oshawa, Kanada",
+                "uk": "Ошава, Канада",
+                "ru": "Ошава, Канада",
+                "zh": "加拿大奥沙瓦"
+              },
+              "platforma": {
+                "pl": "GM Zeta",
+                "en": "GM Zeta",
+                "de": "GM Zeta",
+                "uk": "GM Zeta",
+                "ru": "ГМ Зета",
+                "zh": "GM Zeta"
+              },
+              "silnik": {
+                "pl": "3.6L V6 - 7.0L V8",
+                "en": "3.6L V6 - 7.0L V8",
+                "de": "3,6 l V6 – 7,0 l V8",
+                "uk": "3,6 л V6 - 7,0 л V8",
+                "ru": "3,6 л V6 – 7,0 л V8",
+                "zh": "3.6L V6 - 7.0L V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/1967_Chevrolet_Camaro_RS-SS_coupe_%285410254392%29.jpg/1280px-1967_Chevrolet_Camaro_RS-SS_coupe_%285410254392%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/1967_Chevrolet_Camaro_RS-SS_coupe_%285410254392%29.jpg/1280px-1967_Chevrolet_Camaro_RS-SS_coupe_%285410254392%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/1969_Camaro_%283%29.jpg/1280px-1969_Camaro_%283%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/1969_Camaro_%284%29.jpg/1280px-1969_Camaro_%284%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Chevrolet_Camaro_Z28_dutch_licence_registration_DL-19-74_pic2.JPG/1280px-Chevrolet_Camaro_Z28_dutch_licence_registration_DL-19-74_pic2.JPG"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/af/e0/ck3zg7k8k0sogo40s0swg/camaro-2009-coupe.310.jpg"
+        }
+      },
+      {
+        "BrandID": 29,
+        "ModelID": 413068,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Camaro",
+        "Serie Name": "Camaro (6th Gen)",
+        "Years": "2016 - 3000",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Muscle Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L Turbo - 6.2L Supercharged V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Camaro (6. gen) to lżejsza i bardziej zwinna ewolucja muscle cara. Platforma Alpha zapewnia świetne właściwości jezdne.",
+              "en": "The Chevrolet Camaro (6th gen) is a lighter and more agile evolution of the muscle car. The Alpha platform provides great driving characteristics.",
+              "de": "Der Chevrolet Camaro (6. Generation) ist eine leichtere und agilere Weiterentwicklung des Muscle-Cars. Die Alpha-Plattform bietet hervorragende Fahreigenschaften.",
+              "uk": "Chevrolet Camaro (6-го покоління) — це легша та спритніша еволюція маслкара. Платформа Alpha забезпечує чудові ходові якості.",
+              "ru": "Chevrolet Camaro (6-го поколения) — более легкая и маневренная эволюция маслкара. Платформа Alpha обеспечивает отличные ходовые качества.",
+              "zh": "雪佛兰科迈罗（第六代）是一款更轻、更敏捷的肌肉车。 Alpha 平台提供了出色的驾驶特性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2015–2024",
+              "miejsce produkcji": {
+                "pl": "Lansing, USA",
+                "en": "Lansing, USA",
+                "de": "Lansing, USA",
+                "uk": "Лансінг, США",
+                "ru": "Лансинг, США",
+                "zh": "美国兰辛"
+              },
+              "platforma": {
+                "pl": "GM Alpha",
+                "en": "GM Alpha",
+                "de": "GM Alpha",
+                "uk": "GM Альфа",
+                "ru": "ГМ Альфа",
+                "zh": "GM Alpha"
+              },
+              "silnik": {
+                "pl": "2.0L Turbo - 6.2L V8",
+                "en": "2.0L Turbo - 6.2L V8",
+                "de": "2,0 l Turbo – 6,2 l V8",
+                "uk": "2.0L Turbo - 6.2L V8",
+                "ru": "2,0 л турбо — 6,2 л V8",
+                "zh": "2.0L Turbo - 6.2L V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/1967_Chevrolet_Camaro_RS-SS_coupe_%285410254392%29.jpg/1280px-1967_Chevrolet_Camaro_RS-SS_coupe_%285410254392%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/1967_Chevrolet_Camaro_RS-SS_coupe_%285410254392%29.jpg/1280px-1967_Chevrolet_Camaro_RS-SS_coupe_%285410254392%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/1969_Camaro_%283%29.jpg/1280px-1969_Camaro_%283%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/1969_Camaro_%284%29.jpg/1280px-1969_Camaro_%284%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Chevrolet_Camaro_Z28_dutch_licence_registration_DL-19-74_pic2.JPG/1280px-Chevrolet_Camaro_Z28_dutch_licence_registration_DL-19-74_pic2.JPG"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/af/e0/ck3zg7k8k0sogo40s0swg/camaro-2009-coupe.310.jpg"
+        }
+      }
+    ],
+    "Captiva": [
+      {
+        "BrandID": 29,
+        "ModelID": 238,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Captiva",
+        "Serie Name": "Captiva",
+        "Years": "2006 - 2018",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.4L / 3.2L V6 / 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Captiva to popularny w Europie SUV, oferujący 7 miejsc i diesla. Bliźniak Opla Antary.",
+              "en": "Chevrolet Captiva is a popular SUV in Europe, offering 7 seats and a diesel engine. A twin of the Opel Antara.",
+              "de": "Chevrolet Captiva ist ein in Europa beliebter SUV mit 7 Sitzplätzen und einem Dieselmotor. Ein Zwilling des Opel Antara.",
+              "uk": "Chevrolet Captiva - популярний позашляховик в Європі, що пропонує 7 місць і дизельний двигун. Двійник Opel Antara.",
+              "ru": "Chevrolet Captiva – популярный в Европе внедорожник, предлагающий 7 мест и дизельный двигатель. Двойник Опель Антара.",
+              "zh": "雪佛兰 Captiva 是欧洲流行的 SUV，提供 7 个座位和柴油发动机。欧宝 Antara 的双胞胎。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2006–2018",
+              "miejsce produkcji": {
+                "pl": "Bupyeong, Korea Południowa",
+                "en": "Bupyeong, South Korea",
+                "de": "Bupyeong, Südkorea",
+                "uk": "Бупьон, Південна Корея",
+                "ru": "Бупён, Южная Корея",
+                "zh": "韩国富平"
+              },
+              "platforma": {
+                "pl": "GM Theta",
+                "en": "GM Theta",
+                "de": "GM Theta",
+                "uk": "GM Тета",
+                "ru": "ГМ Тета",
+                "zh": "通用汽车西塔"
+              },
+              "silnik": {
+                "pl": "2.4L - 3.2L V6",
+                "en": "2.4L - 3.2L V6",
+                "de": "2,4 l – 3,2 l V6",
+                "uk": "2,4 л - 3,2 л V6",
+                "ru": "2,4–3,2 л V6",
+                "zh": "2.4L - 3.2L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4c/zv/bw3nk5q8kws00g8w0cww4/captiva-2011.310.jpg"
+        }
+      }
+    ],
+    "Cavalier": [
+      {
+        "BrandID": 29,
+        "ModelID": 239,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Cavalier",
+        "Serie Name": "Cavalier",
+        "Years": "1995 - 2005",
+        "specs": {
+          "bodyType": "Sedan/Coupe/Convertible",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.2L / 2.4L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Cavalier to jeden z najpopularniejszych kompaktów w USA lat 90. Prosty, tani i dostępny w wielu wersjach nadwozia.",
+              "en": "Chevrolet Cavalier is one of the most popular compact cars in the USA in the 1990s. Simple, cheap and available in many body versions.",
+              "de": "Der Chevrolet Cavalier war in den 1990er Jahren einer der beliebtesten Kompaktwagen in den USA. Einfach, günstig und in vielen Karosserievarianten erhältlich.",
+              "uk": "Chevrolet Cavalier – один з найпопулярніших компактних автомобілів у США 1990-х років. Простий, дешевий і доступний у багатьох версіях корпусу.",
+              "ru": "Chevrolet Cavalier — один из самых популярных компактных автомобилей в США 1990-х годов. Простой, дешевый и доступный во многих вариантах кузова.",
+              "zh": "雪佛兰 Cavalier 是 20 世纪 90 年代美国最受欢迎的紧凑型汽车之一。简单、便宜并且有多种车身版本可供选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "1981–2005",
+              "miejsce produkcji": {
+                "pl": "Lordstown, USA",
+                "en": "Lordstown, USA",
+                "de": "Lordstown, USA",
+                "uk": "Лордстаун, США",
+                "ru": "Лордстаун, США",
+                "zh": "美国洛兹敦"
+              },
+              "platforma": {
+                "pl": "GM J",
+                "en": "GM J",
+                "de": "GM J",
+                "uk": "GM J",
+                "ru": "ГМ Дж.",
+                "zh": "通用汽车公司"
+              },
+              "silnik": {
+                "pl": "2.2L / 2.4L",
+                "en": "2.2L / 2.4L",
+                "de": "2,2 l / 2,4 l",
+                "uk": "2,2 л / 2,4 л",
+                "ru": "2,2 л/2,4 л",
+                "zh": "2.2升/2.4升"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bf/wf/newysso44kskos40k0cck/cavalier3.310.jpg"
+        }
+      }
+    ],
+    "Cobalt": [
+      {
+        "BrandID": 29,
+        "ModelID": 415553,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Cobalt",
+        "Serie Name": "Cobalt (US)",
+        "Years": "2004 - 2010",
+        "specs": {
+          "bodyType": "Sedan/Coupe",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.2L / 2.0L Supercharged/Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Cobalt (US) zastąpił Cavaliera. Wersja SS z doładowanym silnikiem stała się kultowym autem tuningowym.",
+              "en": "The Chevrolet Cobalt (US) replaced the Cavalier. The SS version with a supercharged engine became a cult tuning car.",
+              "de": "Der Chevrolet Cobalt (US) ersetzte den Cavalier. Die SS-Version mit Kompressormotor wurde zum Kult-Tuning-Auto.",
+              "uk": "На зміну Cavalier прийшов Chevrolet Cobalt (США). Версія СС з наддувним мотором стала культовою тюнінг-каром.",
+              "ru": "Chevrolet Cobalt (США) пришел на смену Cavalier. Версия SS с двигателем с наддувом стала культовым тюнинговым автомобилем.",
+              "zh": "雪佛兰 Cobalt（美国）取代了 Cavalier。配备增压发动机的 SS 版本成为了一款备受追捧的改装车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2004–2010",
+              "miejsce produkcji": {
+                "pl": "Lordstown, USA",
+                "en": "Lordstown, USA",
+                "de": "Lordstown, USA",
+                "uk": "Лордстаун, США",
+                "ru": "Лордстаун, США",
+                "zh": "美国洛兹敦"
+              },
+              "platforma": {
+                "pl": "GM Delta",
+                "en": "GM Delta",
+                "de": "GM Delta",
+                "uk": "GM Дельта",
+                "ru": "ГМ Дельта",
+                "zh": "通用汽车达美航空"
+              },
+              "silnik": {
+                "pl": "2.2L - 2.0L Turbo",
+                "en": "2.2L - 2.0L Turbo",
+                "de": "2,2 l – 2,0 l Turbo",
+                "uk": "2.2L - 2.0L Turbo",
+                "ru": "2,2 л – 2,0 л турбо",
+                "zh": "2.2L - 2.0L 涡轮增压"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 29,
+        "ModelID": 413927,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Cobalt",
+        "Serie Name": "Cobalt (Global)",
+        "Years": "2011 - 3000",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Cobalt (Global) to budżetowy sedan zaprojektowany na rynki wschodzące, takie jak Brazylia czy Uzbekistan.",
+              "en": "The Chevrolet Cobalt (Global) is a budget sedan designed for emerging markets such as Brazil and Uzbekistan.",
+              "de": "Der Chevrolet Cobalt (Global) ist eine preisgünstige Limousine, die für Schwellenländer wie Brasilien und Usbekistan entwickelt wurde.",
+              "uk": "Chevrolet Cobalt (Global) — бюджетний седан, розроблений для ринків, що розвиваються, таких як Бразилія та Узбекистан.",
+              "ru": "Chevrolet Cobalt (Global) — бюджетный седан, предназначенный для развивающихся рынков, таких как Бразилия и Узбекистан.",
+              "zh": "雪佛兰 Cobalt（全球）是一款专为巴西和乌兹别克斯坦等新兴市场设计的经济型轿车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": {
+                "pl": "od 2011",
+                "en": "since 2011",
+                "de": "seit 2011",
+                "uk": "з 2011 року",
+                "ru": "с 2011 года",
+                "zh": "自2011年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Sao Caetano do Sul, Brazylia",
+                "en": "Sao Caetano do Sul, Brazil",
+                "de": "Sao Caetano do Sul, Brasilien",
+                "uk": "Сан-Каетану-ду-Сул, Бразилія",
+                "ru": "Сан-Каэтану-ду-Сул, Бразилия",
+                "zh": "巴西南圣卡埃塔诺"
+              },
+              "platforma": {
+                "pl": "GM Gamma II",
+                "en": "GM Gamma II",
+                "de": "GM Gamma II",
+                "uk": "GM Гамма II",
+                "ru": "ГМ Гамма II",
+                "zh": "GM伽玛II"
+              },
+              "silnik": {
+                "pl": "1.5L",
+                "en": "1.5L",
+                "de": "1,5 l",
+                "uk": "1,5 л",
+                "ru": "1,5 л"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Colorado": [
+      {
+        "BrandID": 29,
+        "ModelID": 413359,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Colorado",
+        "Serie Name": "Colorado (1st Gen)",
+        "Years": "2003 - 2012",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Mid-size Pickup",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.8L - 5.3L V8",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Colorado (1. gen) to pickup średniej wielkości, który zastąpił model S-10. Dzieli konstrukcję z GMC Canyon.",
+              "en": "The Chevrolet Colorado (1st gen) is a mid-size pickup truck that replaced the S-10 model. It shares its design with the GMC Canyon.",
+              "de": "Der Chevrolet Colorado (1. Generation) ist ein mittelgroßer Pickup, der das Modell S-10 ersetzte. Es teilt sein Design mit dem GMC Canyon.",
+              "uk": "Chevrolet Colorado (1-е покоління) — пікап середнього розміру, який прийшов на зміну моделі S-10. Його дизайн схожий на GMC Canyon.",
+              "ru": "Chevrolet Colorado (1-го поколения) — пикап среднего размера, пришедший на смену модели S-10. Он разделяет дизайн с GMC Canyon.",
+              "zh": "雪佛兰 Colorado（第一代）是一款中型皮卡车，取代了 S-10 车型。它与 GMC Canyon 共享设计。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2003–2012",
+              "miejsce produkcji": {
+                "pl": "Shreveport, USA",
+                "en": "Shreveport, USA",
+                "de": "Shreveport, USA",
+                "uk": "Шривпорт, США",
+                "ru": "Шривпорт, США",
+                "zh": "美国什里夫波特"
+              },
+              "platforma": {
+                "pl": "GMT355",
+                "en": "GMT355",
+                "de": "GMT355",
+                "uk": "GMT355",
+                "ru": "GMT355"
+              },
+              "silnik": {
+                "pl": "2.8L - 5.3L V8",
+                "en": "2.8L - 5.3L V8",
+                "de": "2,8 l – 5,3 l V8",
+                "uk": "2,8 л - 5,3 л V8",
+                "ru": "2,8–5,3 л V8",
+                "zh": "2.8L - 5.3L V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/2007_Chevrolet_Colorado_LT_Z71%2C_rear_1.26.20.jpg/1280px-2007_Chevrolet_Colorado_LT_Z71%2C_rear_1.26.20.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/2007_Chevrolet_Colorado_LT_Z71%2C_rear_1.26.20.jpg/1280px-2007_Chevrolet_Colorado_LT_Z71%2C_rear_1.26.20.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Chevrolet_Colorado_extcab.jpg/1280px-Chevrolet_Colorado_extcab.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/4/48/Chevrolet_Colorado_Xtreme_--_09-28-2009.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Chevrolet_Colorado_TH.jpg/1280px-Chevrolet_Colorado_TH.jpg"
+            ]
+          }
+        }
+      },
+      {
+        "BrandID": 29,
+        "ModelID": 416662,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Colorado",
+        "Serie Name": "Colorado (2nd Gen)",
+        "Years": "2012 - 2022",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Mid-size Pickup",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.5L / 3.6L V6 / 2.8L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Colorado (2. gen) to nowoczesny pickup średniej wielkości. Dostępny z oszczędnym dieslem Duramax.",
+              "en": "Chevrolet Colorado (2nd generation) is a modern mid-size pickup. Available with the fuel-efficient Duramax diesel.",
+              "de": "Chevrolet Colorado (2. Generation) ist ein moderner Mittelklasse-Pickup. Erhältlich mit dem kraftstoffeffizienten Duramax-Diesel.",
+              "uk": "Chevrolet Colorado (2 покоління) - сучасний середньорозмірний пікап. Доступний з економічним дизелем Duramax.",
+              "ru": "Chevrolet Colorado (2-го поколения) — современный пикап среднего размера. Доступен с экономичным дизельным двигателем Duramax.",
+              "zh": "雪佛兰科罗拉多（第二代）是一款现代中型皮卡。配备高效节能的 Duramax 柴油机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2012–2022",
+              "miejsce produkcji": {
+                "pl": "Wentzville, USA",
+                "en": "Wentzville, USA",
+                "de": "Wentzville, USA",
+                "uk": "Венцвіль, США",
+                "ru": "Венцвилл, США",
+                "zh": "美国温茨维尔"
+              },
+              "platforma": {
+                "pl": "GMT 31XX",
+                "en": "GMT 31XX",
+                "de": "GMT 31XX",
+                "uk": "GMT 31XX",
+                "ru": "Время по Гринвичу 31XX",
+                "zh": "格林尼治标准时间 31XX"
+              },
+              "silnik": {
+                "pl": "2.5L - 3.6L V6",
+                "en": "2.5L - 3.6L V6",
+                "de": "2,5 l – 3,6 l V6",
+                "uk": "2,5 л - 3,6 л V6",
+                "ru": "2,5–3,6 л V6",
+                "zh": "2.5L - 3.6L V6"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/2007_Chevrolet_Colorado_LT_Z71%2C_rear_1.26.20.jpg/1280px-2007_Chevrolet_Colorado_LT_Z71%2C_rear_1.26.20.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/2007_Chevrolet_Colorado_LT_Z71%2C_rear_1.26.20.jpg/1280px-2007_Chevrolet_Colorado_LT_Z71%2C_rear_1.26.20.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Chevrolet_Colorado_extcab.jpg/1280px-Chevrolet_Colorado_extcab.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/4/48/Chevrolet_Colorado_Xtreme_--_09-28-2009.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Chevrolet_Colorado_TH.jpg/1280px-Chevrolet_Colorado_TH.jpg"
+            ]
+          }
+        }
+      }
+    ],
+    "Corvette": [
+      {
+        "BrandID": 29,
+        "ModelID": 414078,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Corvette",
+        "Serie Name": "Corvette (C1-C8)",
+        "Years": "1953 - 3000",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "V8 (Various)",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Corvette to legenda amerykańskiej motoryzacji. Ikona sportowych osiągów od 1953 roku.",
+              "en": "Chevrolet Corvette is a legend of the American automotive industry. An icon of sports performance since 1953.",
+              "de": "Chevrolet Corvette ist eine Legende der amerikanischen Automobilindustrie. Eine Ikone sportlicher Leistung seit 1953.",
+              "uk": "Chevrolet Corvette - легенда американського автомобілебудування. Ікона спортивних досягнень з 1953 року.",
+              "ru": "Chevrolet Corvette – легенда американского автопрома. Символ спортивных достижений с 1953 года.",
+              "zh": "雪佛兰克尔维特是美国汽车工业的传奇人物。自 1953 年以来一直是运动表现的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": {
+                "pl": "od 1953",
+                "en": "since 1953",
+                "de": "seit 1953",
+                "uk": "з 1953 року",
+                "ru": "с 1953 года",
+                "zh": "自1953年以来"
+              },
+              "miejsce produkcji": {
+                "pl": "Bowling Green, USA",
+                "en": "Bowling Green, USA",
+                "de": "Bowling Green, USA",
+                "uk": "Боулінг Грін, США",
+                "ru": "Боулинг-Грин, США",
+                "zh": "美国鲍灵格林"
+              },
+              "platforma": {
+                "pl": "Y-body",
+                "en": "Y-body",
+                "de": "Y-Körper",
+                "uk": "Y-корпус",
+                "ru": "Y-образный корпус"
+              },
+              "silnik": {
+                "pl": "V8 (Various)",
+                "en": "V8 (Various)",
+                "de": "V8 (verschiedene)",
+                "uk": "V8 (різні)",
+                "ru": "V8 (Разное)",
+                "zh": "V8（多种）"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/54_Chevrolet_Corvette_%289680808721%29.jpg/1280px-54_Chevrolet_Corvette_%289680808721%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/54_Chevrolet_Corvette_%289680808721%29.jpg/1280px-54_Chevrolet_Corvette_%289680808721%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/1957_Chevrolet_Corvette_%2835579671496%29.jpg/1280px-1957_Chevrolet_Corvette_%2835579671496%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/58_Chevrolet_Corvette_%289091291711%29.jpg/1280px-58_Chevrolet_Corvette_%289091291711%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/1963_Chevrolet_C2_Corvette_Stingray_coupe_%286997878982%29.jpg/1280px-1963_Chevrolet_C2_Corvette_Stingray_coupe_%286997878982%29.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/26/sd/4qwrvbb40c4oc4oswosk0/corvette-2005.310.jpg"
+        }
+      }
+    ],
+    "Cruze": [
+      {
+        "BrandID": 29,
+        "ModelID": 413070,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Cruze",
+        "Serie Name": "Cruze (J300)",
+        "Years": "2008 - 2016",
+        "specs": {
+          "bodyType": "Sedan/Hatchback/Wagon",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L Turbo - 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Cruze (J300) to globalny kompakt, który zastąpił model Lacetti/Nubira. Popularny dzięki solidnemu wykonaniu.",
+              "en": "Chevrolet Cruze (J300) is a global compact that replaced the Lacetti/Nubira model. Popular due to its solid workmanship.",
+              "de": "Chevrolet Cruze (J300) ist ein globaler Kompaktwagen, der das Modell Lacetti/Nubira ersetzte. Beliebt aufgrund seiner soliden Verarbeitung.",
+              "uk": "Chevrolet Cruze (J300) — глобальний компактний автомобіль, який прийшов на зміну моделі Lacetti/Nubira. Популярний завдяки якісному виконанню.",
+              "ru": "Chevrolet Cruze (J300) — глобальный компакт, пришедший на смену модели Lacetti/Nubira. Популярен благодаря солидному качеству изготовления.",
+              "zh": "雪佛兰科鲁兹 (J300) 是一款全球紧凑型车型，取代了 Lacetti/Nubira 车型。因其做工扎实而广受欢迎。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2008–2016",
+              "miejsce produkcji": {
+                "pl": "Lordstown, USA",
+                "en": "Lordstown, USA",
+                "de": "Lordstown, USA",
+                "uk": "Лордстаун, США",
+                "ru": "Лордстаун, США",
+                "zh": "美国洛兹敦"
+              },
+              "platforma": {
+                "pl": "GM Delta II",
+                "en": "GM Delta II",
+                "de": "GM Delta II",
+                "uk": "GM Delta II",
+                "ru": "ГМ Дельта II",
+                "zh": "通用汽车德尔塔II"
+              },
+              "silnik": {
+                "pl": "1.4L Turbo - 2.0L Diesel",
+                "en": "1.4L Turbo - 2.0L Diesel",
+                "de": "1,4 l Turbo – 2,0 l Diesel",
+                "uk": "1.4L Turbo - 2.0L Diesel",
+                "ru": "1,4 л турбо — 2,0 л дизель",
+                "zh": "1.4L 涡轮增压 - 2.0L 柴油"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/jj/o0/4bc6zooow0w0kk4s08so/cruze-hatchback.310.jpg"
+        }
+      },
+      {
+        "BrandID": 29,
+        "ModelID": 413071,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Cruze",
+        "Serie Name": "Cruze (J400)",
+        "Years": "2016 - 2019",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L Turbo / 1.6L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Cruze (J400) to lżejsza i nowocześniejsza generacja. Oferuje systemy bezpieczeństwa i łączność Wi-Fi.",
+              "en": "Chevrolet Cruze (J400) is a lighter and more modern generation. It offers security systems and Wi-Fi connectivity.",
+              "de": "Chevrolet Cruze (J400) ist eine leichtere und modernere Generation. Es bietet Sicherheitssysteme und Wi-Fi-Konnektivität.",
+              "uk": "Chevrolet Cruze (J400) - більш легке і сучасне покоління. Він пропонує системи безпеки та підключення до Wi-Fi.",
+              "ru": "Chevrolet Cruze (J400) – более легкое и современное поколение. Он предлагает системы безопасности и подключение к Wi-Fi.",
+              "zh": "雪佛兰科鲁兹 (J400) 是更轻、更现代的一代。它提供安全系统和 Wi-Fi 连接。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2016–2019",
+              "miejsce produkcji": {
+                "pl": "Lordstown, USA",
+                "en": "Lordstown, USA",
+                "de": "Lordstown, USA",
+                "uk": "Лордстаун, США",
+                "ru": "Лордстаун, США",
+                "zh": "美国洛兹敦"
+              },
+              "platforma": {
+                "pl": "GM D2XX",
+                "en": "GM D2XX",
+                "de": "GM D2XX",
+                "uk": "GM D2XX",
+                "ru": "ГМ Д2ХХ",
+                "zh": "通用D2XX"
+              },
+              "silnik": {
+                "pl": "1.4L Turbo / 1.6L Diesel",
+                "en": "1.4L Turbo / 1.6L Diesel",
+                "de": "1,4 l Turbo / 1,6 l Diesel",
+                "uk": "1.4L Turbo / 1.6L Diesel",
+                "ru": "1,4 л турбо / 1,6 л дизель",
+                "zh": "1.4L 涡轮增压 / 1.6L 柴油"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/jj/o0/4bc6zooow0w0kk4s08so/cruze-hatchback.310.jpg"
+        }
+      }
+    ],
+    "Epica": [
+      {
+        "BrandID": 29,
+        "ModelID": 247,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Epica",
+        "Serie Name": "Epica",
+        "Years": "2006 - 2011",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L / 2.5L / 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Epica to komfortowy sedan klasy średniej z unikalnymi rzędowymi silnikami sześciocylindrowymi montowanymi poprzecznie.",
+              "en": "The Chevrolet Epica is a comfortable midsize sedan with unique transversely mounted inline six-cylinder engines.",
+              "de": "Der Chevrolet Epica ist eine komfortable Mittelklasse-Limousine mit einzigartigen quer eingebauten Reihensechszylindermotoren.",
+              "uk": "Chevrolet Epica — комфортабельний седан середнього розміру з унікальними шестициліндровими рядними двигунами, розташованими поперек.",
+              "ru": "Chevrolet Epica — комфортабельный седан среднего размера с уникальными поперечно расположенными рядными шестицилиндровыми двигателями.",
+              "zh": "雪佛兰 Epica 是一款舒适的中型轿车，配备独特的横向安装直列六缸发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2006–2011",
+              "miejsce produkcji": {
+                "pl": "Bupyeong, Korea Południowa",
+                "en": "Bupyeong, South Korea",
+                "de": "Bupyeong, Südkorea",
+                "uk": "Бупьон, Південна Корея",
+                "ru": "Бупён, Южная Корея",
+                "zh": "韩国富平"
+              },
+              "platforma": {
+                "pl": "GM V",
+                "en": "GM V",
+                "de": "GM V",
+                "uk": "ГМ В",
+                "ru": "ГМ В.",
+                "zh": "通用汽车公司"
+              },
+              "silnik": {
+                "pl": "2.0L - 2.5L R6",
+                "en": "2.0L - 2.5L R6",
+                "de": "2,0L - 2,5L R6",
+                "uk": "2,0 л - 2,5 л R6",
+                "ru": "2,0 л – 2,5 л R6",
+                "zh": "2.0L - 2.5L R6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2i/bt/r33giym84og8w8kck8w8w/epica.310.jpg"
+        }
+      }
+    ],
+    "Equinox": [
+      {
+        "BrandID": 29,
+        "ModelID": 413933,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Equinox",
+        "Serie Name": "Equinox (1st Gen)",
+        "Years": "2004 - 2009",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.4L V6 / 3.6L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Equinox (1. gen) to przestronny SUV oparty na platformie Theta. Oferuje przesuwaną tylną kanapę.",
+              "en": "Chevrolet Equinox (1st gen) is a spacious SUV based on the Theta platform. It offers a sliding rear seat.",
+              "de": "Chevrolet Equinox (1. Generation) ist ein geräumiger SUV, der auf der Theta-Plattform basiert. Es bietet einen verschiebbaren Rücksitz.",
+              "uk": "Chevrolet Equinox (1-е покоління) - просторий позашляховик на платформі Theta. Він пропонує розсувне заднє сидіння.",
+              "ru": "Chevrolet Equinox (1-го поколения) — просторный внедорожник на платформе Theta. Он предлагает сдвижное заднее сиденье.",
+              "zh": "雪佛兰 Equinox（第一代）是一款基于 Theta 平台的宽敞 SUV。它提供了一个滑动后座。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2004–2009",
+              "miejsce produkcji": {
+                "pl": "CAMI, Kanada",
+                "en": "CAMI, Canada",
+                "de": "CAMI, Kanada",
+                "uk": "CAMI, Канада",
+                "ru": "КАМИ, Канада",
+                "zh": "加拿大 CAMI"
+              },
+              "platforma": {
+                "pl": "GM Theta",
+                "en": "GM Theta",
+                "de": "GM Theta",
+                "uk": "GM Тета",
+                "ru": "ГМ Тета",
+                "zh": "通用汽车西塔"
+              },
+              "silnik": {
+                "pl": "3.4L V6 / 3.6L V6",
+                "en": "3.4L V6 / 3.6L V6",
+                "de": "3,4L V6 / 3,6L V6",
+                "uk": "3,4 л V6 / 3,6 л V6",
+                "ru": "3,4 л V6 / 3,6 л V6",
+                "zh": "3.4升V6 / 3.6升V6"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2008_Chevrolet_Equinox_Team_Canada_Edition%2C_Rear_Left%2C_07-18-2021.jpg/1280px-2008_Chevrolet_Equinox_Team_Canada_Edition%2C_Rear_Left%2C_07-18-2021.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2008_Chevrolet_Equinox_Team_Canada_Edition%2C_Rear_Left%2C_07-18-2021.jpg/1280px-2008_Chevrolet_Equinox_Team_Canada_Edition%2C_Rear_Left%2C_07-18-2021.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/e/e1/Nox_chrome.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Chevrolet_Equinox_--_02-14-2012.jpg/1275px-Chevrolet_Equinox_--_02-14-2012.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/%2716_Chevrolet_Equinox.jpg/1280px-%2716_Chevrolet_Equinox.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5m/ki/u3tmu3s4sog4w4ok0o8gg/equinox2.310.jpg"
+        }
+      },
+      {
+        "BrandID": 29,
+        "ModelID": 415588,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Equinox",
+        "Serie Name": "Equinox (2nd Gen)",
+        "Years": "2009 - 2017",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L / 3.0L V6 / 3.6L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Equinox (2. gen) zyskał nowocześniejszy wygląd i oszczędne silniki z bezpośrednim wtryskiem.",
+              "en": "Chevrolet Equinox (2nd generation) has a more modern look and fuel-efficient direct injection engines.",
+              "de": "Chevrolet Equinox (2. Generation) verfügt über ein moderneres Aussehen und kraftstoffeffiziente Direkteinspritzmotoren.",
+              "uk": "Chevrolet Equinox (2 покоління) має більш сучасний вигляд і економічні двигуни з прямим уприскуванням.",
+              "ru": "Chevrolet Equinox (2-го поколения) имеет более современный внешний вид и экономичные двигатели с непосредственным впрыском.",
+              "zh": "雪佛兰 Equinox（第二代）拥有更现代的外观和省油的直喷发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2009–2017",
+              "miejsce produkcji": {
+                "pl": "CAMI, Kanada",
+                "en": "CAMI, Canada",
+                "de": "CAMI, Kanada",
+                "uk": "CAMI, Канада",
+                "ru": "КАМИ, Канада",
+                "zh": "加拿大 CAMI"
+              },
+              "platforma": {
+                "pl": "GM Theta",
+                "en": "GM Theta",
+                "de": "GM Theta",
+                "uk": "GM Тета",
+                "ru": "ГМ Тета",
+                "zh": "通用汽车西塔"
+              },
+              "silnik": {
+                "pl": "2.4L - 3.6L V6",
+                "en": "2.4L - 3.6L V6",
+                "de": "2,4 l – 3,6 l V6",
+                "uk": "2,4 л - 3,6 л V6",
+                "ru": "2,4–3,6 л V6",
+                "zh": "2.4L - 3.6L V6"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Chevrolet_Equinox_--_02-14-2012.jpg/1275px-Chevrolet_Equinox_--_02-14-2012.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Chevrolet_Equinox_--_02-14-2012.jpg/1275px-Chevrolet_Equinox_--_02-14-2012.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5m/ki/u3tmu3s4sog4w4ok0o8gg/equinox2.310.jpg"
+        }
+      },
+      {
+        "BrandID": 29,
+        "ModelID": 415589,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Equinox",
+        "Serie Name": "Equinox (3rd Gen)",
+        "Years": "2017 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.5L Turbo / 2.0L Turbo / 1.6L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Equinox (3. gen) to lżejszy i mniejszy SUV, dostępny z nowoczesnymi silnikami turbo i dieslem.",
+              "en": "Chevrolet Equinox (3rd gen) is a lighter and smaller SUV, available with modern turbo and diesel engines.",
+              "de": "Chevrolet Equinox (3. Generation) ist ein leichterer und kleinerer SUV, der mit modernen Turbo- und Dieselmotoren erhältlich ist.",
+              "uk": "Chevrolet Equinox (3-го покоління) — легший і менший позашляховик, доступний із сучасними турбо- та дизельними двигунами.",
+              "ru": "Chevrolet Equinox (3-го поколения) — более легкий и компактный внедорожник, доступный с современными турбо- и дизельными двигателями.",
+              "zh": "雪佛兰 Equinox（第三代）是一款更轻、更小的 SUV，配备现代涡轮增压和柴油发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": {
+                "pl": "od 2017",
+                "en": "since 2017",
+                "de": "seit 2017",
+                "uk": "з 2017 року",
+                "ru": "с 2017 года",
+                "zh": "2017年以来"
+              },
+              "miejsce produkcji": {
+                "pl": "San Luis Potosí, Meksyk",
+                "en": "San Luis Potosí, Mexico",
+                "de": "San Luis Potosí, Mexiko",
+                "uk": "Сан-Луїс-Потосі, Мексика",
+                "ru": "Сан-Луис-Потоси, Мексика",
+                "zh": "墨西哥圣路易斯波托西"
+              },
+              "platforma": {
+                "pl": "GM D2XX",
+                "en": "GM D2XX",
+                "de": "GM D2XX",
+                "uk": "GM D2XX",
+                "ru": "ГМ Д2ХХ",
+                "zh": "通用D2XX"
+              },
+              "silnik": {
+                "pl": "1.5L Turbo - 2.0L Turbo",
+                "en": "1.5L Turbo - 2.0L Turbo",
+                "de": "1,5 l Turbo – 2,0 l Turbo",
+                "uk": "1.5L Turbo - 2.0L Turbo",
+                "ru": "1,5 л турбо - 2,0 л турбо",
+                "zh": "1.5L Turbo - 2.0L Turbo"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5m/ki/u3tmu3s4sog4w4ok0o8gg/equinox2.310.jpg"
+        }
+      }
+    ],
+    "Express": [
+      {
+        "BrandID": 29,
+        "ModelID": 414082,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Express",
+        "Serie Name": "Express",
+        "Years": "1996 - 3000",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Full-size Van",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "4.3L V6 - 6.6L V8",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Express to klasyczny pełnowymiarowy van, niezastąpiony w transporcie i jako baza do konwersji.",
+              "en": "Chevrolet Express is a classic full-size van, irreplaceable in transport and as a base for conversion.",
+              "de": "Chevrolet Express ist ein klassischer Full-Size-Van, unersetzlich beim Transport und als Basis für den Umbau.",
+              "uk": "Chevrolet Express — класичний повнорозмірний фургон, незамінний у транспорті та як база для переобладнання.",
+              "ru": "Chevrolet Express – классический полноразмерный фургон, незаменимый в транспорте и в качестве базы для переоборудования.",
+              "zh": "雪佛兰 Express 是一款经典的全尺寸货车，在运输和改装方面具有无可替代的地位。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": {
+                "pl": "od 1996",
+                "en": "since 1996",
+                "de": "seit 1996",
+                "uk": "з 1996 року",
+                "ru": "с 1996 года",
+                "zh": "1996 年生产"
+              },
+              "miejsce produkcji": {
+                "pl": "Wentzville, USA",
+                "en": "Wentzville, USA",
+                "de": "Wentzville, USA",
+                "uk": "Венцвіль, США",
+                "ru": "Венцвилл, США",
+                "zh": "美国温茨维尔"
+              },
+              "platforma": {
+                "pl": "GMT600",
+                "en": "GMT600",
+                "de": "GMT600",
+                "uk": "GMT600",
+                "ru": "время по Гринвичу600"
+              },
+              "silnik": {
+                "pl": "4.3L V6 - 6.6L V8",
+                "en": "4.3L V6 - 6.6L V8",
+                "de": "4,3 l V6 – 6,6 l V8",
+                "uk": "4,3 л V6 - 6,6 л V8",
+                "ru": "4,3 л V6 – 6,6 л V8",
+                "zh": "4.3L V6 - 6.6L V8"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "HHR": [
+      {
+        "BrandID": 29,
+        "ModelID": 254,
+        "Brand Name": "Chevrolet",
+        "Model Name": "HHR",
+        "Serie Name": "HHR",
+        "Years": "2005 - 2011",
+        "specs": {
+          "bodyType": "Wagon",
+          "segment": "Compact Retro Wagon",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.2L / 2.4L / 2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet HHR (Heritage High Roof) to stylowe kombi w stylu retro, nawiązujące do modelu Suburban z 1949 roku.",
+              "en": "The Chevrolet HHR (Heritage High Roof) is a stylish, retro-style station wagon, reminiscent of the 1949 Suburban.",
+              "de": "Der Chevrolet HHR (Heritage High Roof) ist ein stilvoller Kombi im Retro-Stil, der an den Suburban von 1949 erinnert.",
+              "uk": "Chevrolet HHR (Heritage High Roof) — це стильний універсал у стилі ретро, ​​що нагадує Suburban 1949 року.",
+              "ru": "Chevrolet HHR (Heritage High Roof) — стильный универсал в ретро-стиле, напоминающий Suburban 1949 года.",
+              "zh": "雪佛兰 HHR（Heritage High Roof）是一款时尚复古旅行车，指的是 1949 年 Suburban 车型。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2005–2011",
+              "miejsce produkcji": {
+                "pl": "Ramos Arizpe, Meksyk",
+                "en": "Ramos Arizpe, Mexico",
+                "de": "Ramos Arizpe, Mexiko",
+                "uk": "Рамос Арізпе, Мексика",
+                "ru": "Рамос Ариспе, Мексика",
+                "zh": "墨西哥拉莫斯·阿里斯佩"
+              },
+              "platforma": {
+                "pl": "GM Delta",
+                "en": "GM Delta",
+                "de": "GM Delta",
+                "uk": "GM Дельта",
+                "ru": "ГМ Дельта",
+                "zh": "GM Delta"
+              },
+              "silnik": {
+                "pl": "2.2L - 2.0L Turbo",
+                "en": "2.2L - 2.0L Turbo",
+                "de": "2,2 l – 2,0 l Turbo",
+                "uk": "2.2L - 2.0L Turbo",
+                "ru": "2,2 л – 2,0 л турбо",
+                "zh": "2.2L - 2.0L 涡轮增压"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/f3/2n/dazf1lc8cs4s0s8ws0kw4/hhr.310.jpg"
+        }
+      }
+    ],
+    "Impala": [
+      {
+        "BrandID": 29,
+        "ModelID": 415220,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Impala",
+        "Serie Name": "Impala",
+        "Years": "2000 - 2020",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Full-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "3.4L V6 - 5.3L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Impala to flagowy sedan marki, oferujący przestronne wnętrze i komfort podróżowania w amerykańskim stylu.",
+              "en": "Chevrolet Impala is the brand's flagship sedan, offering a spacious interior and American-style travel comfort.",
+              "de": "Chevrolet Impala ist die Flaggschiff-Limousine der Marke und bietet einen geräumigen Innenraum und Reisekomfort im amerikanischen Stil.",
+              "uk": "Chevrolet Impala — флагманський седан бренду, який пропонує просторий салон і комфорт подорожі в американському стилі.",
+              "ru": "Chevrolet Impala — флагманский седан бренда, предлагающий просторный салон и комфорт в американском стиле.",
+              "zh": "雪佛兰 Impala 是该品牌的旗舰轿车，提供宽敞的内部空间和美式旅行舒适感。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2000–2020",
+              "miejsce produkcji": {
+                "pl": "Oshawa, Kanada / Detroit, USA",
+                "en": "Oshawa, Canada / Detroit, USA",
+                "de": "Oshawa, Kanada / Detroit, USA",
+                "uk": "Ошава, Канада / Детройт, США",
+                "ru": "Ошава, Канада / Детройт, США",
+                "zh": "加拿大奥沙瓦 / 美国底特律"
+              },
+              "platforma": {
+                "pl": "GM W / Epsilon II",
+                "en": "GM W/Epsilon II",
+                "de": "GM mit Epsilon II",
+                "uk": "GM W/Epsilon II",
+                "ru": "ГМ с Эпсилоном II",
+                "zh": "GM W / Epsilon II"
+              },
+              "silnik": {
+                "pl": "3.4L V6 - 5.3L V8",
+                "en": "3.4L V6 - 5.3L V8",
+                "de": "3,4 l V6 – 5,3 l V8",
+                "uk": "3,4 л V6 - 5,3 л V8",
+                "ru": "3,4 л V6 – 5,3 л V8",
+                "zh": "3.4L V6 - 5.3L V8"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Lacetti": [
+      {
+        "BrandID": 29,
+        "ModelID": 256,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Lacetti",
+        "Serie Name": "Lacetti",
+        "Years": "2002 - 2009",
+        "specs": {
+          "bodyType": "Sedan/Hatchback/Wagon",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 2.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Lacetti to kompaktowy model zaprojektowany przez Giugiaro (hatchback) i Pininfarinę (sedan/kombi). Znany z Top Gear.",
+              "en": "Chevrolet Lacetti is a compact model designed by Giugiaro (hatchback) and Pininfarina (sedan/station wagon). Known from Top Gear.",
+              "de": "Chevrolet Lacetti ist ein Kompaktmodell, das von Giugiaro (Fließheck) und Pininfarina (Limousine/Kombi) entworfen wurde. Bekannt von Top Gear.",
+              "uk": "Chevrolet Lacetti — компактна модель, розроблена Giugiaro (хетчбек) і Pininfarina (седан/універсал). Відомий з Top Gear.",
+              "ru": "Chevrolet Lacetti — компактная модель, разработанная Джуджаро (хэтчбек) и Pininfarina (седан/универсал). Известен по Top Gear.",
+              "zh": "雪佛兰 Lacetti 是由 Giugiaro（掀背车）和 Pininfarina（轿车/旅行车）设计的紧凑型车型。因《Top Gear》而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2002–2009",
+              "miejsce produkcji": {
+                "pl": "Bupyeong, Korea Południowa",
+                "en": "Bupyeong, South Korea",
+                "de": "Bupyeong, Südkorea",
+                "uk": "Бупьон, Південна Корея",
+                "ru": "Бупён, Южная Корея",
+                "zh": "韩国富平"
+              },
+              "platforma": {
+                "pl": "J200",
+                "en": "J200",
+                "de": "J200",
+                "uk": "J200",
+                "ru": "Дж200"
+              },
+              "silnik": {
+                "pl": "1.4L - 2.0L",
+                "en": "1.4L - 2.0L",
+                "de": "1,4 l – 2,0 l",
+                "uk": "1,4 л - 2,0 л",
+                "ru": "1,4–2,0 л",
+                "zh": "1.4L - 2.0L"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1o/5a/7en7ye1w8o4swcskosg0o/lacetti-hathc.310.jpg"
+        }
+      }
+    ],
+    "Lumina": [
+      {
+        "BrandID": 29,
+        "ModelID": 414084,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Lumina",
+        "Serie Name": "Lumina",
+        "Years": "1990 - 2001",
+        "specs": {
+          "bodyType": "Sedan/Coupe/Minivan",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "3.1L V6 / 3.4L V6",
+          "isOldtimer": true,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Lumina to popularny sedan lat 90. w USA, a także minivan o futurystycznym kształcie 'Dustbuster'.",
+              "en": "The Chevrolet Lumina is a popular sedan of the 1990s in the USA, as well as a minivan with a futuristic 'Dustbuster' shape.",
+              "de": "Der Chevrolet Lumina ist eine beliebte Limousine der 1990er Jahre in den USA sowie ein Minivan mit futuristischer „Dustbuster“-Form.",
+              "uk": "Chevrolet Lumina — популярний в США седан 1990-х років, а також мінівен футуристичної форми Dustbuster.",
+              "ru": "Chevrolet Lumina — популярный в США седан 1990-х годов, а также минивэн футуристической формы «Dustbuster».",
+              "zh": "雪佛兰 Lumina 是 20 世纪 90 年代在美国流行的轿车，也是一款具有未来派“Dustbuster”形状的小型货车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "1990–2001",
+              "miejsce produkcji": {
+                "pl": "Oshawa, Kanada",
+                "en": "Oshawa, Canada",
+                "de": "Oshawa, Kanada",
+                "uk": "Ошава, Канада",
+                "ru": "Ошава, Канада",
+                "zh": "加拿大奥沙瓦"
+              },
+              "platforma": {
+                "pl": "GM W",
+                "en": "GM W",
+                "de": "GM W",
+                "uk": "GM W",
+                "ru": "ГМ Ж",
+                "zh": "GM W"
+              },
+              "silnik": {
+                "pl": "3.1L - 3.4L V6",
+                "en": "3.1L - 3.4L V6",
+                "de": "3,1 l–3,4 l V6",
+                "uk": "3,1 л - 3,4 л V6",
+                "ru": "3,1–3,4 л V6",
+                "zh": "3.1L - 3.4L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      }
+    ],
+    "Malibu": [
+      {
+        "BrandID": 29,
+        "ModelID": 413075,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Malibu",
+        "Serie Name": "Malibu (6th Gen)",
+        "Years": "2004 - 2008",
+        "specs": {
+          "bodyType": "Sedan/Hatchback",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.2L / 3.5L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Malibu (6. gen) to pierwszy Malibu na globalnej platformie Epsilon. Solidny sedan klasy średniej.",
+              "en": "The Chevrolet Malibu (6th gen) is the first Malibu on the global Epsilon platform. A solid mid-range sedan.",
+              "de": "Der Chevrolet Malibu (6. Generation) ist der erste Malibu auf der globalen Epsilon-Plattform. Eine solide Mittelklasse-Limousine.",
+              "uk": "Chevrolet Malibu (6-е покоління) є першим Malibu на глобальній платформі Epsilon. Солідний седан середнього класу.",
+              "ru": "Chevrolet Malibu (6-го поколения) — первый Malibu на глобальной платформе Epsilon. Солидный седан среднего класса.",
+              "zh": "雪佛兰 Malibu（第六代）是全球 Epsilon 平台上的第一款 Malibu。一款坚固的中档轿车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2004–2008",
+              "miejsce produkcji": {
+                "pl": "Kansas City, USA",
+                "en": "Kansas City, USA",
+                "de": "Kansas City, USA",
+                "uk": "Канзас-Сіті, США",
+                "ru": "Канзас-Сити, США",
+                "zh": "美国堪萨斯城"
+              },
+              "platforma": {
+                "pl": "GM Epsilon",
+                "en": "GM Epsilon",
+                "de": "GM Epsilon",
+                "uk": "Г. М. Епсилон",
+                "ru": "ГМ Эпсилон",
+                "zh": "通用汽车 Epsilon"
+              },
+              "silnik": {
+                "pl": "2.2L - 3.5L V6",
+                "en": "2.2L - 3.5L V6",
+                "de": "2,2 l – 3,5 l V6",
+                "uk": "2,2 л - 3,5 л V6",
+                "ru": "2,2–3,5 л V6",
+                "zh": "2.2L - 3.5L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bs/aq/tg62afww844cwsscss4g4/malibu.310.jpg"
+        }
+      },
+      {
+        "BrandID": 29,
+        "ModelID": 413076,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Malibu",
+        "Serie Name": "Malibu (7th Gen)",
+        "Years": "2008 - 2012",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L / 3.6L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Malibu (7. gen) zyskał uznanie za jakość wykończenia i stylistykę, zdobywając tytuł North American Car of the Year 2008.",
+              "en": "The Chevrolet Malibu (7th Gen) earned praise for its quality finish and styling, winning the 2008 North American Car of the Year award.",
+              "de": "Der Chevrolet Malibu (7. Generation) erhielt Lob für seine hochwertige Verarbeitung und sein Design und gewann 2008 die Auszeichnung „Nordamerikanisches Auto des Jahres“.",
+              "uk": "Chevrolet Malibu (7-го покоління) заслужив похвалу за якість обробки та стиль, отримавши нагороду «Автомобіль року в Північній Америці» 2008 року.",
+              "ru": "Chevrolet Malibu (7-го поколения) заслужил похвалу за качество отделки и стиль, выиграв награду «Североамериканский автомобиль года 2008».",
+              "zh": "雪佛兰 Malibu（第 7 代）因其优质的外观和造型而赢得赞誉，荣获 2008 年北美年度汽车奖。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2008–2012",
+              "miejsce produkcji": {
+                "pl": "Kansas City, USA",
+                "en": "Kansas City, USA",
+                "de": "Kansas City, USA",
+                "uk": "Канзас-Сіті, США",
+                "ru": "Канзас-Сити, США",
+                "zh": "美国堪萨斯城"
+              },
+              "platforma": {
+                "pl": "GM Epsilon",
+                "en": "GM Epsilon",
+                "de": "GM Epsilon",
+                "uk": "Г. М. Епсилон",
+                "ru": "ГМ Эпсилон",
+                "zh": "通用汽车 Epsilon"
+              },
+              "silnik": {
+                "pl": "2.4L - 3.6L V6",
+                "en": "2.4L - 3.6L V6",
+                "de": "2,4 l – 3,6 l V6",
+                "uk": "2,4 л - 3,6 л V6",
+                "ru": "2,4–3,6 л V6",
+                "zh": "2.4L - 3.6L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bs/aq/tg62afww844cwsscss4g4/malibu.310.jpg"
+        }
+      },
+      {
+        "BrandID": 29,
+        "ModelID": 413077,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Malibu",
+        "Serie Name": "Malibu (8th Gen)",
+        "Years": "2013 - 2015",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "2.5L / 2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Malibu (8. gen) to model globalny, oferowany również w Europie. Cechuje się dynamiczną linią i nowoczesnymi silnikami.",
+              "en": "Chevrolet Malibu (8th generation) is a global model, also offered in Europe. It is characterized by a dynamic line and modern engines.",
+              "de": "Chevrolet Malibu (8. Generation) ist ein globales Modell, das auch in Europa angeboten wird. Er zeichnet sich durch eine dynamische Linie und moderne Motoren aus.",
+              "uk": "Chevrolet Malibu (8-е покоління) — глобальна модель, яка також пропонується в Європі. Характеризується динамічною лінією та сучасними двигунами.",
+              "ru": "Chevrolet Malibu (8-е поколение) — глобальная модель, предлагаемая также в Европе. Он отличается динамичной линией и современными двигателями.",
+              "zh": "雪佛兰 Malibu（第 8 代）是一款全球车型，也在欧洲销售。它的特点是动感十足的线条和现代化的发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2013–2015",
+              "miejsce produkcji": {
+                "pl": "Kansas City, USA",
+                "en": "Kansas City, USA",
+                "de": "Kansas City, USA",
+                "uk": "Канзас-Сіті, США",
+                "ru": "Канзас-Сити, США",
+                "zh": "美国堪萨斯城"
+              },
+              "platforma": {
+                "pl": "GM Epsilon II",
+                "en": "GM Epsilon II",
+                "de": "GM Epsilon II",
+                "uk": "GM Epsilon II",
+                "ru": "ГМ Эпсилон II",
+                "zh": "通用汽车 Epsilon II"
+              },
+              "silnik": {
+                "pl": "2.0L Turbo - 2.5L",
+                "en": "2.0L Turbo - 2.5L",
+                "de": "2,0 l Turbo – 2,5 l",
+                "uk": "2,0 л Турбо - 2,5 л",
+                "ru": "2,0 л Турбо - 2,5 л",
+                "zh": "2.0L 涡轮增压 - 2.5L"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bs/aq/tg62afww844cwsscss4g4/malibu.310.jpg"
+        }
+      },
+      {
+        "BrandID": 29,
+        "ModelID": 413078,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Malibu",
+        "Serie Name": "Malibu (9th Gen)",
+        "Years": "2016 - 2024",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L Turbo / 2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Malibu (9. gen) to większy, lżejszy i bardziej luksusowy sedan, rywalizujący z najlepszymi w klasie.",
+              "en": "The Chevrolet Malibu (9th Gen) is a larger, lighter and more luxurious sedan that rivals the best in its class.",
+              "de": "Der Chevrolet Malibu (9. Generation) ist eine größere, leichtere und luxuriösere Limousine, die es mit den Besten ihrer Klasse aufnehmen kann.",
+              "uk": "Chevrolet Malibu (9-го покоління) — це більший, легший і розкішніший седан, який конкурує з найкращими у своєму класі.",
+              "ru": "Chevrolet Malibu (9-го поколения) — более крупный, легкий и роскошный седан, конкурирующий с лучшими автомобилями в своем классе.",
+              "zh": "雪佛兰 Malibu（第 9 代）是一款更大、更轻、更豪华的轿车，可与同类产品中最好的轿车相媲美。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2016–2024",
+              "miejsce produkcji": {
+                "pl": "Kansas City, USA",
+                "en": "Kansas City, USA",
+                "de": "Kansas City, USA",
+                "uk": "Канзас-Сіті, США",
+                "ru": "Канзас-Сити, США",
+                "zh": "美国堪萨斯城"
+              },
+              "platforma": {
+                "pl": "GM E2XX",
+                "en": "GM E2XX",
+                "de": "GM E2XX",
+                "uk": "GM E2XX",
+                "ru": "ГМ E2XX",
+                "zh": "GM E2XX"
+              },
+              "silnik": {
+                "pl": "1.5L Turbo - 2.0L Turbo",
+                "en": "1.5L Turbo - 2.0L Turbo",
+                "de": "1,5 l Turbo – 2,0 l Turbo",
+                "uk": "1.5L Turbo - 2.0L Turbo",
+                "ru": "1,5 л турбо - 2,0 л турбо",
+                "zh": "1.5L Turbo - 2.0L Turbo"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bs/aq/tg62afww844cwsscss4g4/malibu.310.jpg"
+        }
+      }
+    ],
+    "Matiz": [
+      {
+        "BrandID": 29,
+        "ModelID": 413079,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Matiz",
+        "Serie Name": "Matiz",
+        "Years": "2005 - 2010",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "0.8L / 1.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Matiz to miejski maluch, idealny do zatłoczonych miast. Tani w eksploatacji i łatwy do zaparkowania.",
+              "en": "Chevrolet Matiz is an urban baby, perfect for crowded cities. Cheap to run and easy to park.",
+              "de": "Chevrolet Matiz ist ein urbanes Baby, perfekt für überfüllte Städte. Günstig im Betrieb und einfach zu parken.",
+              "uk": "Chevrolet Matiz — міський малюк, ідеальний для багатолюдних міст. Дешево бігати та легко паркуватися.",
+              "ru": "Chevrolet Matiz – городской ребенок, идеально подходящий для многолюдных городов. Дешев в эксплуатации и легко паркуется.",
+              "zh": "雪佛兰 Matiz 是一款城市宝贝，非常适合拥挤的城市。运行成本低且停车方便。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2005–2010",
+              "miejsce produkcji": {
+                "pl": "Bupyeong, Korea Południowa",
+                "en": "Bupyeong, South Korea",
+                "de": "Bupyeong, Südkorea",
+                "uk": "Бупьон, Південна Корея",
+                "ru": "Бупён, Южная Корея",
+                "zh": "韩国富平"
+              },
+              "platforma": {
+                "pl": "M150",
+                "en": "M150",
+                "de": "M150",
+                "uk": "М150",
+                "ru": "М150"
+              },
+              "silnik": {
+                "pl": "0.8L - 1.0L",
+                "en": "0.8L - 1.0L",
+                "de": "0,8 l – 1,0 l",
+                "uk": "0,8 л - 1,0 л",
+                "ru": "0,8 л - 1,0 л",
+                "zh": "0.8L - 1.0L"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Niva": [
+      {
+        "BrandID": 29,
+        "ModelID": 263,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Niva",
+        "Serie Name": "Niva",
+        "Years": "2002 - 2020",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "1.7L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Niva to owoc współpracy GM i AvtoVAZ. Nowoczesne nadwozie na sprawdzonych podzespołach Łady Nivy.",
+              "en": "Chevrolet Niva is the result of cooperation between GM and AvtoVAZ. Modern bodywork based on proven Lada Niva components.",
+              "de": "Chevrolet Niva ist das Ergebnis der Zusammenarbeit zwischen GM und AvtoVAZ. Moderne Karosserie auf Basis bewährter Lada Niva-Komponenten.",
+              "uk": "Chevrolet Niva - результат співпраці GM і АвтоВАЗу. Сучасний кузов на основі перевірених компонентів Lada Niva.",
+              "ru": "Chevrolet Niva – результат сотрудничества GM и АвтоВАЗа. Современный кузов на основе проверенных компонентов Лада Нива.",
+              "zh": "雪佛兰 Niva 是通用汽车与 AvtoVAZ 合作的成果。基于经过验证的 Lada Niva 组件的现代车身。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2002–2020",
+              "miejsce produkcji": {
+                "pl": "Togliatti, Rosja",
+                "en": "Togliatti, Russia",
+                "de": "Togliatti, Russland",
+                "uk": "Тольятті, Росія",
+                "ru": "Тольятти, Россия",
+                "zh": "俄罗斯陶里亚蒂"
+              },
+              "platforma": {
+                "pl": "Lada Niva",
+                "en": "Lada Niva",
+                "de": "Lada Niva",
+                "uk": "Лада Нива",
+                "ru": "Лада Нива",
+                "zh": "Lada Niva"
+              },
+              "silnik": {
+                "pl": "1.7L",
+                "en": "1.7L",
+                "de": "1,7 l",
+                "uk": "1,7 л",
+                "ru": "1,7 л"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Orlando": [
+      {
+        "BrandID": 29,
+        "ModelID": 265,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Orlando",
+        "Serie Name": "Orlando",
+        "Years": "2011 - 2018",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.8L / 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Orlando to praktyczny 7-miejscowy minivan o stylistyce crossovera. Przestronny i funkcjonalny.",
+              "en": "Chevrolet Orlando is a practical 7-seat minivan with a crossover style. Spacious and functional.",
+              "de": "Chevrolet Orlando ist ein praktischer 7-Sitzer-Minivan im Crossover-Stil. Geräumig und funktional.",
+              "uk": "Chevrolet Orlando – практичний 7-місний мінівен у стилі кросовер. Просторий і функціональний.",
+              "ru": "Chevrolet Orlando – практичный 7-местный минивэн в стиле кроссовера. Просторный и функциональный.",
+              "zh": "雪佛兰 Orlando 是一款跨界风格的实用 7 座小型货车。宽敞且实用。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2011–2018",
+              "miejsce produkcji": {
+                "pl": "Gunsan, Korea Południowa",
+                "en": "Gunsan, South Korea",
+                "de": "Gunsan, Südkorea",
+                "uk": "Гунсан, Південна Корея",
+                "ru": "Кунсан, Южная Корея",
+                "zh": "韩国群山"
+              },
+              "platforma": {
+                "pl": "GM Delta II",
+                "en": "GM Delta II",
+                "de": "GM Delta II",
+                "uk": "GM Delta II",
+                "ru": "ГМ Дельта II",
+                "zh": "GM Delta II"
+              },
+              "silnik": {
+                "pl": "1.8L - 2.0L Diesel",
+                "en": "1.8L - 2.0L Diesel",
+                "de": "1,8 l – 2,0 l Diesel",
+                "uk": "1,8 л - 2,0 л дизель",
+                "ru": "1,8–2,0 л Дизель",
+                "zh": "1.8L - 2.0L 柴油机"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/19/j8/cyj7kockgwk0kk8kwwk80/orlando.310.jpg"
+        }
+      }
+    ],
+    "Silverado": [
+      {
+        "BrandID": 29,
+        "ModelID": 267,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Silverado",
+        "Serie Name": "Silverado",
+        "Years": "1999 - 3000",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Full-size Pickup",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "4.3L V6 - 6.6L V8",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Silverado to jeden z najlepiej sprzedających się pickupów w USA. Symbol trwałości i mocy.",
+              "en": "The Chevrolet Silverado is one of the best-selling pickup trucks in the US. A symbol of durability and power.",
+              "de": "Der Chevrolet Silverado ist einer der meistverkauften Pickup-Trucks in den USA. Ein Symbol für Haltbarkeit und Kraft.",
+              "uk": "Chevrolet Silverado є одним із найбільш продаваних пікапів у США. Символ міцності та могутності.",
+              "ru": "Chevrolet Silverado — один из самых продаваемых пикапов в США. Символ долговечности и силы.",
+              "zh": "雪佛兰索罗德 (Chevrolet Silverado) 是美国最畅销的皮卡车之一。耐用和力量的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": {
+                "pl": "od 1998",
+                "en": "since 1998",
+                "de": "seit 1998",
+                "uk": "з 1998 року",
+                "ru": "с 1998 года",
+                "zh": "1998 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "USA / Meksyk",
+                "en": "USA/Mexico",
+                "de": "USA/Mexiko",
+                "uk": "США/Мексика",
+                "ru": "США/Мексика",
+                "zh": "美国/墨西哥"
+              },
+              "platforma": {
+                "pl": "GMT800 / GMT900 / K2XX / T1XX",
+                "en": "GMT800 / GMT900 / K2XX / T1XX",
+                "de": "GMT800 / GMT900 / K2XX / T1XX",
+                "uk": "GMT800 / GMT900 / K2XX / T1XX",
+                "ru": "GMT800/GMT900/K2XX/T1XX",
+                "zh": "GMT800 / GMT900 / K2XX / T1XX"
+              },
+              "silnik": {
+                "pl": "V6 / V8 / Duramax Diesel",
+                "en": "V6/V8/Duramax Diesel",
+                "de": "V6/V8/Duramax-Diesel",
+                "uk": "V6/V8/Duramax Diesel",
+                "ru": "V6/V8/Дюрамакс Дизель",
+                "zh": "V6 / V8 / Duramax Diesel"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3r/gy/b7lhy0e88sg0ogkc8gksg/silverado-2.310.jpg"
+        }
+      }
+    ],
+    "Spark": [
+      {
+        "BrandID": 29,
+        "ModelID": 413081,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Spark",
+        "Serie Name": "Spark (M150/M200)",
+        "Years": "2003 - 2009",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "0.8L / 1.0L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Spark (M150) to zmodernizowany Daewoo Matiz. Mały, zwrotny i ekonomiczny.",
+              "en": "Chevrolet Spark (M150) is a modernized Daewoo Matiz. Small, agile and economical.",
+              "de": "Chevrolet Spark (M150) ist ein modernisierter Daewoo Matiz. Klein, wendig und wirtschaftlich.",
+              "uk": "Chevrolet Spark (M150) - модернізований Daewoo Matiz. Маленький, маневрений та економічний.",
+              "ru": "Шевроле Спарк (М150) — модернизированный Daewoo Matiz. Маленький, маневренный и экономичный.",
+              "zh": "雪佛兰 Spark (M150) 是现代化的大宇 Matiz。小型、灵活且经济。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "1998–2005",
+              "miejsce produkcji": {
+                "pl": "Bupyeong, Korea Południowa",
+                "en": "Bupyeong, South Korea",
+                "de": "Bupyeong, Südkorea",
+                "uk": "Бупьон, Південна Корея",
+                "ru": "Бупён, Южная Корея",
+                "zh": "韩国富平"
+              },
+              "platforma": {
+                "pl": "M100",
+                "en": "M100",
+                "de": "M100",
+                "uk": "М100",
+                "ru": "М100"
+              },
+              "silnik": {
+                "pl": "0.8L - 1.0L",
+                "en": "0.8L - 1.0L",
+                "de": "0,8 l – 1,0 l",
+                "uk": "0,8 л - 1,0 л",
+                "ru": "0,8 л - 1,0 л",
+                "zh": "0.8L - 1.0L"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/71/0o/p9llliww0os084cgc004s/spark-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 29,
+        "ModelID": 413082,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Spark",
+        "Serie Name": "Spark (M300)",
+        "Years": "2010 - 2015",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.0L / 1.2L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Spark (M300) to nowoczesny model miejski o odważnej stylistyce (wystąpił w Transformers 2).",
+              "en": "Chevrolet Spark (M300) is a modern city model with a bold style (appeared in Transformers 2).",
+              "de": "Chevrolet Spark (M300) ist ein modernes Stadtmodell mit kühnem Stil (erschienen in Transformers 2).",
+              "uk": "Chevrolet Spark (M300) - сучасна міська модель зі сміливим стилем (з'явилася в Трансформерах 2).",
+              "ru": "Chevrolet Spark (M300) — современная городская модель со смелым стилем (появилась в «Трансформерах 2»).",
+              "zh": "雪佛兰 Spark (M300) 是一款风格大胆的现代城市车型（出现在《变形金刚 2》中）。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2009–2015",
+              "miejsce produkcji": {
+                "pl": "Changwon, Korea Południowa",
+                "en": "Changwon, South Korea",
+                "de": "Changwon, Südkorea",
+                "uk": "Чанвон, Південна Корея",
+                "ru": "Чханвон, Южная Корея",
+                "zh": "韩国昌原"
+              },
+              "platforma": {
+                "pl": "GM Gamma II",
+                "en": "GM Gamma II",
+                "de": "GM Gamma II",
+                "uk": "GM Гамма II",
+                "ru": "ГМ Гамма II",
+                "zh": "GM Gamma II"
+              },
+              "silnik": {
+                "pl": "1.0L - 1.2L",
+                "en": "1.0L - 1.2L",
+                "de": "1,0 l – 1,2 l",
+                "uk": "1,0 л - 1,2 л",
+                "ru": "1,0 л - 1,2 л",
+                "zh": "1.0L - 1.2L"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/71/0o/p9llliww0os084cgc004s/spark-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 29,
+        "ModelID": 416665,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Spark",
+        "Serie Name": "Spark (M400)",
+        "Years": "2015 - 2022",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.4L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Spark (M400) to dojrzałe technicznie auto miejskie z zaawansowanymi technologiami łączności.",
+              "en": "Chevrolet Spark (M400) is a technically mature city car with advanced communication technologies.",
+              "de": "Chevrolet Spark (M400) ist ein technisch ausgereiftes Stadtauto mit fortschrittlichen Kommunikationstechnologien.",
+              "uk": "Chevrolet Spark (M400) — технічно зрілий міський автомобіль із передовими комунікаційними технологіями.",
+              "ru": "Chevrolet Spark (M400) – технически зрелый городской автомобиль с передовыми коммуникационными технологиями.",
+              "zh": "雪佛兰 Spark (M400) 是一款技术成熟的城市汽车，采用先进的通信技术。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2015–2022",
+              "miejsce produkcji": {
+                "pl": "Changwon, Korea Południowa",
+                "en": "Changwon, South Korea",
+                "de": "Changwon, Südkorea",
+                "uk": "Чанвон, Південна Корея",
+                "ru": "Чханвон, Южная Корея",
+                "zh": "韩国昌原"
+              },
+              "platforma": {
+                "pl": "GM Gamma II",
+                "en": "GM Gamma II",
+                "de": "GM Gamma II",
+                "uk": "GM Гамма II",
+                "ru": "ГМ Гамма II",
+                "zh": "GM Gamma II"
+              },
+              "silnik": {
+                "pl": "1.4L",
+                "en": "1.4L",
+                "de": "1,4 l",
+                "uk": "1,4 л",
+                "ru": "1,4 л"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/71/0o/p9llliww0os084cgc004s/spark-ii.310.jpg"
+        }
+      }
+    ],
+    "Suburban": [
+      {
+        "BrandID": 29,
+        "ModelID": 270,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Suburban",
+        "Serie Name": "Suburban",
+        "Years": "1935 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "5.3L V8 / 6.2L V8",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Suburban to najdłużej produkowany model samochodu w historii (od 1935). Ikona dużego SUV-a.",
+              "en": "The Chevrolet Suburban is the longest-produced car model in history (since 1935). Large SUV icon.",
+              "de": "Der Chevrolet Suburban ist das am längsten produzierte Automodell der Geschichte (seit 1935). Großes SUV-Symbol.",
+              "uk": "Chevrolet Suburban — модель автомобіля, яка випускається найдовше в історії (з 1935 року). Великий позашляховик значок.",
+              "ru": "Chevrolet Suburban — самая продолжительно выпускаемая модель автомобиля в истории (с 1935 года). Большой значок внедорожника.",
+              "zh": "雪佛兰 Suburban 是历史上生产时间最长的车型（自 1935 年以来）。大型 SUV 图标。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": {
+                "pl": "od 1935",
+                "en": "since 1935",
+                "de": "seit 1935",
+                "uk": "з 1935 року",
+                "ru": "с 1935 года",
+                "zh": "1935 年生产"
+              },
+              "miejsce produkcji": {
+                "pl": "Arlington, USA",
+                "en": "Arlington, USA",
+                "de": "Arlington, USA",
+                "uk": "Арлінгтон, США",
+                "ru": "Арлингтон, США",
+                "zh": "美国阿灵顿"
+              },
+              "platforma": {
+                "pl": "GMT (Various)",
+                "en": "GMT (Various)",
+                "de": "GMT (verschiedene)",
+                "uk": "GMT (різне)",
+                "ru": "GMT (разное)",
+                "zh": "GMT（各种）"
+              },
+              "silnik": {
+                "pl": "V8 (Various)",
+                "en": "V8 (Various)",
+                "de": "V8 (verschiedene)",
+                "uk": "V8 (різні)",
+                "ru": "V8 (Разное)",
+                "zh": "V8（各种）"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2d/o5/b4l0ct7ooskwkgskkosws/suburban-ii.310.jpg"
+        }
+      }
+    ],
+    "Tahoe": [
+      {
+        "BrandID": 29,
+        "ModelID": 413083,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Tahoe",
+        "Serie Name": "Tahoe (GMT800)",
+        "Years": "2000 - 2006",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "4.8L V8 / 5.3L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Tahoe (GMT800) to krótsza wersja Suburbana. Trwały SUV na ramie, popularny w służbach.",
+              "en": "The Chevrolet Tahoe (GMT800) is a shorter version of the Suburban. Durable body-on-frame SUV, popular in services.",
+              "de": "Der Chevrolet Tahoe (GMT800) ist eine kürzere Version des Suburban. Robuster SUV mit Karosserie, beliebt im Dienstleistungssektor.",
+              "uk": "Chevrolet Tahoe (GMT800) — укорочена версія Suburban. Міцний рамний позашляховик, популярний у сервісі.",
+              "ru": "Chevrolet Tahoe (GMT800) — укороченная версия Suburban. Прочный рамный внедорожник, популярный в сервисах.",
+              "zh": "雪佛兰 Tahoe (GMT800) 是 Suburban 的较短版本。耐用的非承载式车身 SUV，在服务领域广受欢迎。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2000–2006",
+              "miejsce produkcji": {
+                "pl": "Arlington, USA",
+                "en": "Arlington, USA",
+                "de": "Arlington, USA",
+                "uk": "Арлінгтон, США",
+                "ru": "Арлингтон, США",
+                "zh": "美国阿灵顿"
+              },
+              "platforma": {
+                "pl": "GMT800",
+                "en": "GMT800",
+                "de": "GMT800",
+                "uk": "GMT800",
+                "ru": "GMT800"
+              },
+              "silnik": {
+                "pl": "4.8L V8 / 5.3L V8",
+                "en": "4.8L V8 / 5.3L V8",
+                "de": "4,8 l V8 / 5,3 l V8",
+                "uk": "4,8 л V8 / 5,3 л V8",
+                "ru": "4,8 л V8 / 5,3 л V8",
+                "zh": "4.8L V8 / 5.3L V8"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2g/mh/nh4nvkyso8oo4cgosokos/tahoe-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 29,
+        "ModelID": 413084,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Tahoe",
+        "Serie Name": "Tahoe (GMT900)",
+        "Years": "2007 - 2014",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "5.3L V8 / 6.2L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Tahoe (GMT900) to bardziej aerodynamiczna i komfortowa generacja, zachowująca zdolności terenowe.",
+              "en": "Chevrolet Tahoe (GMT900) is a more aerodynamic and comfortable generation while retaining off-road capabilities.",
+              "de": "Chevrolet Tahoe (GMT900) ist eine aerodynamischere und komfortablere Generation bei gleichzeitiger Beibehaltung der Geländetauglichkeit.",
+              "uk": "Chevrolet Tahoe (GMT900) — це більш аеродинамічне та комфортне покоління, яке зберігає позашляхові можливості.",
+              "ru": "Chevrolet Tahoe (GMT900) – более аэродинамичное и комфортное поколение, сохранившее при этом внедорожные возможности.",
+              "zh": "雪佛兰 Tahoe (GMT900) 是更符合空气动力学和舒适性的一代，同时保留了越野能力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2007–2014",
+              "miejsce produkcji": {
+                "pl": "Arlington, USA",
+                "en": "Arlington, USA",
+                "de": "Arlington, USA",
+                "uk": "Арлінгтон, США",
+                "ru": "Арлингтон, США",
+                "zh": "美国阿灵顿"
+              },
+              "platforma": {
+                "pl": "GMT900",
+                "en": "GMT900",
+                "de": "GMT900",
+                "uk": "GMT900",
+                "ru": "Время по Гринвичу900"
+              },
+              "silnik": {
+                "pl": "5.3L V8 / 6.2L V8",
+                "en": "5.3L V8 / 6.2L V8",
+                "de": "5,3 l V8 / 6,2 l V8",
+                "uk": "5,3 л V8 / 6,2 л V8",
+                "ru": "5,3 л V8 / 6,2 л V8",
+                "zh": "5.3L V8 / 6.2L V8"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2g/mh/nh4nvkyso8oo4cgosokos/tahoe-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 29,
+        "ModelID": 413085,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Tahoe",
+        "Serie Name": "Tahoe (K2UC)",
+        "Years": "2015 - 2020",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "5.3L V8 / 6.2L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "3"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Tahoe (2015-2020) to nowoczesny, bezpieczny i cichy SUV, idealny do holowania przyczep.",
+              "en": "Chevrolet Tahoe (2015-2020) is a modern, safe and quiet SUV, ideal for towing trailers.",
+              "de": "Chevrolet Tahoe (2015–2020) ist ein moderner, sicherer und leiser SUV, ideal zum Ziehen von Anhängern.",
+              "uk": "Chevrolet Tahoe (2015-2020) - сучасний, безпечний і тихий позашляховик, ідеально підходить для буксирування причепів.",
+              "ru": "Chevrolet Tahoe (2015-2020) – современный, безопасный и тихий внедорожник, идеально подходящий для буксировки прицепов.",
+              "zh": "雪佛兰 Tahoe（2015-2020 年）是一款现代、安全、安静的 SUV，非常适合牵引拖车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2015–2020",
+              "miejsce produkcji": {
+                "pl": "Arlington, USA",
+                "en": "Arlington, USA",
+                "de": "Arlington, USA",
+                "uk": "Арлінгтон, США",
+                "ru": "Арлингтон, США",
+                "zh": "美国阿灵顿"
+              },
+              "platforma": {
+                "pl": "K2XX",
+                "en": "K2XX",
+                "de": "K2XX",
+                "uk": "K2XX",
+                "ru": "К2ХХ"
+              },
+              "silnik": {
+                "pl": "5.3L V8 / 6.2L V8",
+                "en": "5.3L V8 / 6.2L V8",
+                "de": "5,3 l V8 / 6,2 l V8",
+                "uk": "5,3 л V8 / 6,2 л V8",
+                "ru": "5,3 л V8 / 6,2 л V8",
+                "zh": "5.3L V8 / 6.2L V8"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2g/mh/nh4nvkyso8oo4cgosokos/tahoe-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 29,
+        "ModelID": 416666,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Tahoe",
+        "Serie Name": "Tahoe (GMT1YC)",
+        "Years": "2021 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "5.3L V8 / 6.2L V8 / 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "4",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "3"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Tahoe (2021+) oferuje niezależne zawieszenie tylne, co znacząco poprawiło komfort i przestrzeń w 3. rzędzie.",
+              "en": "The Chevrolet Tahoe (2021+) offers independent rear suspension, which has significantly improved comfort and space in the 3rd row.",
+              "de": "Der Chevrolet Tahoe (2021+) verfügt über eine Einzelradaufhängung hinten, was den Komfort und das Platzangebot in der 3. Reihe deutlich verbessert.",
+              "uk": "Chevrolet Tahoe (2021+) пропонує незалежну задню підвіску, яка значно покращила комфорт і простір на 3-му ряду.",
+              "ru": "Chevrolet Tahoe (2021+) предлагает независимую заднюю подвеску, что значительно улучшило комфорт и пространство в 3-м ряду.",
+              "zh": "雪佛兰 Tahoe（2021+）提供独立后悬架，显着提高了第三排的舒适度和空间。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": {
+                "pl": "od 2021",
+                "en": "from 2021",
+                "de": "ab 2021",
+                "uk": "з 2021 року",
+                "ru": "с 2021 года",
+                "zh": "2021 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Arlington, USA",
+                "en": "Arlington, USA",
+                "de": "Arlington, USA",
+                "uk": "Арлінгтон, США",
+                "ru": "Арлингтон, США",
+                "zh": "美国阿灵顿"
+              },
+              "platforma": {
+                "pl": "GMT T1XX",
+                "en": "GMT T1XX",
+                "de": "GMT T1XX",
+                "uk": "GMT T1XX",
+                "ru": "Время по Гринвичу T1XX",
+                "zh": "GMT T1XX"
+              },
+              "silnik": {
+                "pl": "5.3L V8 / 6.2L V8 / 3.0L Diesel",
+                "en": "5.3L V8 / 6.2L V8 / 3.0L Diesel",
+                "de": "5,3 l V8 / 6,2 l V8 / 3,0 l Diesel",
+                "uk": "5,3 л V8 / 6,2 л V8 / 3,0 л дизель",
+                "ru": "5,3 л V8 / 6,2 л V8 / 3,0 л Дизель",
+                "zh": "5.3L V8 / 6.2L V8 / 3.0L 柴油"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2g/mh/nh4nvkyso8oo4cgosokos/tahoe-ii.310.jpg"
+        }
+      }
+    ],
+    "Tracker": [
+      {
+        "BrandID": 29,
+        "ModelID": 414079,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Tracker",
+        "Serie Name": "Tracker",
+        "Years": "1998 - 2004",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline",
+          "engine": "1.6L / 2.0L / 2.5L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Tracker to kompaktowy SUV, bliźniak Suzuki Vitara. Dzielny w terenie dzięki ramie.",
+              "en": "The Chevrolet Tracker is a compact SUV, a twin of the Suzuki Vitara. Brave in the field thanks to the frame.",
+              "de": "Der Chevrolet Tracker ist ein Kompakt-SUV, ein Zwilling des Suzuki Vitara. Dank des Rahmens mutig im Feld.",
+              "uk": "Chevrolet Tracker — компактний позашляховик, двійник Suzuki Vitara. Відважний у полі завдяки рамі.",
+              "ru": "Chevrolet Tracker — компактный внедорожник, близнец Suzuki Vitara. Смелый в поле благодаря раме.",
+              "zh": "雪佛兰 Tracker 是一款紧凑型 SUV，是铃木 Vitara 的双胞胎。得益于框架，在野外勇敢。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "1998–2004",
+              "miejsce produkcji": {
+                "pl": "CAMI, Kanada",
+                "en": "CAMI, Canada",
+                "de": "CAMI, Kanada",
+                "uk": "CAMI, Канада",
+                "ru": "КАМИ, Канада",
+                "zh": "CAMI，加拿大"
+              },
+              "platforma": {
+                "pl": "Suzuki Vitara",
+                "en": "Suzuki Vitara",
+                "de": "Suzuki Vitara",
+                "uk": "Сузукі Вітара",
+                "ru": "Сузуки Витара",
+                "zh": "铃木 Vitara"
+              },
+              "silnik": {
+                "pl": "1.6L - 2.5L V6",
+                "en": "1.6L - 2.5L V6",
+                "de": "1,6L - 2,5L V6",
+                "uk": "1,6 л - 2,5 л V6",
+                "ru": "1,6–2,5 л V6",
+                "zh": "1.6L - 2.5L V6"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 29,
+        "ModelID": 416667,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Tracker",
+        "Serie Name": "Tracker (Global)",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Subcompact SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.0L Turbo / 1.2L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Tracker (Global) to nowoczesny crossover segmentu B, popularny w Ameryce Łacińskiej i Chinach.",
+              "en": "Chevrolet Tracker (Global) is a modern B-segment crossover, popular in Latin America and China.",
+              "de": "Chevrolet Tracker (Global) ist ein moderner Crossover im B-Segment, der in Lateinamerika und China beliebt ist.",
+              "uk": "Chevrolet Tracker (Global) — сучасний кросовер B-сегменту, популярний в Латинській Америці та Китаї.",
+              "ru": "Chevrolet Tracker (Global) — современный кроссовер B-сегмента, популярный в Латинской Америке и Китае.",
+              "zh": "雪佛兰 Tracker（全球）是一款现代 B 级跨界车，在拉丁美洲和中国很受欢迎。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019 року",
+                "ru": "с 2019 года",
+                "zh": "2019 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Chiny / Brazylia",
+                "en": "China/Brazil",
+                "de": "China/Brasilien",
+                "uk": "Китай/Бразилія",
+                "ru": "Китай/Бразилия",
+                "zh": "中国/巴西"
+              },
+              "platforma": {
+                "pl": "GM GEM",
+                "en": "GM GEM",
+                "de": "GM GEM",
+                "uk": "GM GEM",
+                "ru": "ГМ ДЖЕМ",
+                "zh": "GM GEM"
+              },
+              "silnik": {
+                "pl": "1.0L Turbo - 1.2L Turbo",
+                "en": "1.0L Turbo - 1.2L Turbo",
+                "de": "1,0 l Turbo – 1,2 l Turbo",
+                "uk": "1.0L Turbo - 1.2L Turbo",
+                "ru": "1,0 л турбо - 1,2 л турбо",
+                "zh": "1.0L Turbo - 1.2L Turbo"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "TrailBlazer": [
+      {
+        "BrandID": 29,
+        "ModelID": 413086,
+        "Brand Name": "Chevrolet",
+        "Model Name": "TrailBlazer",
+        "Serie Name": "TrailBlazer (1st Gen)",
+        "Years": "2002 - 2009",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "4.2L I6 / 5.3L V8 / 6.0L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet TrailBlazer (1. gen) to mocny SUV średniej wielkości, napędzany rzędową szóstką Vortec.",
+              "en": "The Chevrolet TrailBlazer (1st gen) is a powerful mid-size SUV powered by a Vortec inline-six.",
+              "de": "Der Chevrolet TrailBlazer (1. Generation) ist ein leistungsstarker Mittelklasse-SUV mit Vortec-Reihensechszylinder.",
+              "uk": "Chevrolet TrailBlazer (1-е покоління) — це потужний позашляховик середнього розміру з рядним шестициліндровим двигуном Vortec.",
+              "ru": "Chevrolet TrailBlazer (1-го поколения) — мощный внедорожник среднего размера с рядным шестицилиндровым двигателем Vortec.",
+              "zh": "雪佛兰 TrailBlazer（第一代）是一款强大的中型 SUV，由 Vortec 直列六缸发动机提供动力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2002–2009",
+              "miejsce produkcji": {
+                "pl": "Moraine, USA",
+                "en": "Moraine, USA",
+                "de": "Moraine, USA",
+                "uk": "Морейн, США",
+                "ru": "Морейн, США",
+                "zh": "美国梦莲"
+              },
+              "platforma": {
+                "pl": "GMT360",
+                "en": "GMT360",
+                "de": "GMT360",
+                "uk": "GMT360",
+                "ru": "время по Гринвичу 360"
+              },
+              "silnik": {
+                "pl": "4.2L I6 - 6.0L V8",
+                "en": "4.2L I6 - 6.0L V8",
+                "de": "4,2 l I6 – 6,0 l V8",
+                "uk": "4,2 л I6 - 6,0 л V8",
+                "ru": "4,2 л I6 - 6,0 л V8",
+                "zh": "4.2L I6 - 6.0L V8"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8e/43/pymuis8wc4woggs48owss/trailblazer.310.jpg"
+        }
+      },
+      {
+        "BrandID": 29,
+        "ModelID": 416406,
+        "Brand Name": "Chevrolet",
+        "Model Name": "TrailBlazer",
+        "Serie Name": "TrailBlazer (Crossover)",
+        "Years": "2021 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Subcompact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "1.2L Turbo / 1.3L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet TrailBlazer (2021+) to stylowy crossover segmentu B, mniejszy od Equinoxa, z dachem w kontrastowym kolorze.",
+              "en": "The Chevrolet TrailBlazer (2021+) is a stylish B-segment crossover, smaller than the Equinox, with a contrasting-colored roof.",
+              "de": "Der Chevrolet TrailBlazer (2021+) ist ein stilvoller Crossover im B-Segment, kleiner als der Equinox, mit einem kontrastfarbenen Dach.",
+              "uk": "Chevrolet TrailBlazer (2021+) — стильний кросовер сегмента B, менший за Equinox і з дахом контрастного кольору.",
+              "ru": "Chevrolet TrailBlazer (2021+) — стильный кроссовер B-сегмента, меньшего размера, чем Equinox, с крышей контрастного цвета.",
+              "zh": "雪佛兰 TrailBlazer (2021+) 是一款时尚的 B 级跨界车，比 Equinox 更小，具有对比色车顶。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": {
+                "pl": "od 2021",
+                "en": "from 2021",
+                "de": "ab 2021",
+                "uk": "з 2021 року",
+                "ru": "с 2021 года",
+                "zh": "2021 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Bupyeong, Korea Południowa",
+                "en": "Bupyeong, South Korea",
+                "de": "Bupyeong, Südkorea",
+                "uk": "Бупьон, Південна Корея",
+                "ru": "Бупён, Южная Корея",
+                "zh": "韩国富平"
+              },
+              "platforma": {
+                "pl": "GM VSS-F",
+                "en": "GM VSS-F",
+                "de": "GM VSS-F",
+                "uk": "GM VSS-F",
+                "ru": "ГМ ВСС-Ф",
+                "zh": "GM VSS-F"
+              },
+              "silnik": {
+                "pl": "1.2L Turbo - 1.3L Turbo",
+                "en": "1.2L Turbo - 1.3L Turbo",
+                "de": "1,2 l Turbo – 1,3 l Turbo",
+                "uk": "1.2L Turbo - 1.3L Turbo",
+                "ru": "1,2 л турбо - 1,3 л турбо",
+                "zh": "1.2L Turbo - 1.3L Turbo"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8e/43/pymuis8wc4woggs48owss/trailblazer.310.jpg"
+        }
+      }
+    ],
+    "Traverse": [
+      {
+        "BrandID": 29,
+        "ModelID": 414080,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Traverse",
+        "Serie Name": "Traverse (1st Gen)",
+        "Years": "2009 - 2017",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size Crossover",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.6L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Traverse (1. gen) to przestronny crossover dla 8 osób, zastępujący minivany i model TrailBlazer EXT.",
+              "en": "Chevrolet Traverse (1st gen) is a spacious crossover for 8 people, replacing minivans and the TrailBlazer EXT model.",
+              "de": "Chevrolet Traverse (1. Generation) ist ein geräumiger Crossover für 8 Personen und ersetzt Minivans und das Modell TrailBlazer EXT.",
+              "uk": "Chevrolet Traverse (1-е покоління) - просторий кросовер на 8 місць, який прийшов на зміну мінівенам і моделі TrailBlazer EXT.",
+              "ru": "Chevrolet Traverse (1-го поколения) — просторный кроссовер на 8 человек, пришедший на смену минивэнам и модели TrailBlazer EXT.",
+              "zh": "雪佛兰 Traverse（第一代）是一款宽敞的跨界车，可容纳 8 人，取代小型货车和 TrailBlazer EXT 车型。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2009–2017",
+              "miejsce produkcji": {
+                "pl": "Lansing, USA",
+                "en": "Lansing, USA",
+                "de": "Lansing, USA",
+                "uk": "Лансінг, США",
+                "ru": "Лансинг, США",
+                "zh": "兰辛，美国"
+              },
+              "platforma": {
+                "pl": "GM Lambda",
+                "en": "GM Lambda",
+                "de": "GM Lambda",
+                "uk": "Г. М. Лямбда",
+                "ru": "ГМ Лямбда",
+                "zh": "GM Lambda"
+              },
+              "silnik": {
+                "pl": "3.6L V6",
+                "en": "3.6L V6",
+                "de": "3,6 l V6",
+                "uk": "3,6 л V6",
+                "ru": "3,6 л V6",
+                "zh": "3.6L V6"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2011_Chevrolet_Traverse_LS_3.6L%2C_rear_5.12.19.jpg/1280px-2011_Chevrolet_Traverse_LS_3.6L%2C_rear_5.12.19.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2011_Chevrolet_Traverse_LS_3.6L%2C_rear_5.12.19.jpg/1280px-2011_Chevrolet_Traverse_LS_3.6L%2C_rear_5.12.19.jpg"
+            ]
+          }
+        }
+      },
+      {
+        "BrandID": 29,
+        "ModelID": 416668,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Traverse",
+        "Serie Name": "Traverse (2nd Gen)",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size Crossover",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "3.6L V6 / 2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "4"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Traverse (2. gen) oferuje jeszcze więcej miejsca i nowoczesne technologie bezpieczeństwa.",
+              "en": "Chevrolet Traverse (2nd generation) offers even more space and modern safety technologies.",
+              "de": "Chevrolet Traverse (2. Generation) bietet noch mehr Platz und moderne Sicherheitstechnologien.",
+              "uk": "Chevrolet Traverse (2 покоління) пропонує ще більше простору та сучасні технології безпеки.",
+              "ru": "Chevrolet Traverse (2-го поколения) предлагает еще больше места и современные технологии безопасности.",
+              "zh": "雪佛兰 Traverse（第二代）提供更大的空间和现代安全技术。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "since 2018",
+                "de": "seit 2018",
+                "uk": "з 2018 року",
+                "ru": "с 2018 года",
+                "zh": "2018 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Lansing, USA",
+                "en": "Lansing, USA",
+                "de": "Lansing, USA",
+                "uk": "Лансінг, США",
+                "ru": "Лансинг, США",
+                "zh": "美国兰辛"
+              },
+              "platforma": {
+                "pl": "GM C1XX",
+                "en": "GM C1XX",
+                "de": "GM C1XX",
+                "uk": "GM C1XX",
+                "ru": "ГМ C1XX",
+                "zh": "GM C1XX"
+              },
+              "silnik": {
+                "pl": "2.0L Turbo - 3.6L V6",
+                "en": "2.0L Turbo - 3.6L V6",
+                "de": "2,0 l Turbo – 3,6 l V6",
+                "uk": "2.0L Turbo - 3.6L V6",
+                "ru": "2,0 л турбо — 3,6 л V6",
+                "zh": "2.0L Turbo - 3.6L V6"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Trax": [
+      {
+        "BrandID": 29,
+        "ModelID": 416286,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Trax",
+        "Serie Name": "Trax",
+        "Years": "2013 - 2022",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Subcompact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L Turbo / 1.8L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Trax to miejski crossover, techniczny bliźniak Opla Mokkki. Zwrotny i ekonomiczny.",
+              "en": "Chevrolet Trax is an urban crossover, the technical twin of the Opel Mokka. Maneuverable and economical.",
+              "de": "Chevrolet Trax ist ein urbaner Crossover, der technische Zwilling des Opel Mokka. Wendig und wirtschaftlich.",
+              "uk": "Chevrolet Trax — міський кросовер, технічний двійник Opel Mokka. Маневрений і економний.",
+              "ru": "Chevrolet Trax — городской кроссовер, технический близнец Opel Mokka. Маневренный и экономичный.",
+              "zh": "雪佛兰 Trax 是一款城市跨界车，是欧宝 Mokkka 的技术双胞胎。机动性好、经济。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2013–2022",
+              "miejsce produkcji": {
+                "pl": "Bupyeong, Korea Południowa",
+                "en": "Bupyeong, South Korea",
+                "de": "Bupyeong, Südkorea",
+                "uk": "Бупьон, Південна Корея",
+                "ru": "Бупён, Южная Корея",
+                "zh": "韩国富平"
+              },
+              "platforma": {
+                "pl": "GM Gamma II",
+                "en": "GM Gamma II",
+                "de": "GM Gamma II",
+                "uk": "GM Гамма II",
+                "ru": "ГМ Гамма II",
+                "zh": "GM Gamma II"
+              },
+              "silnik": {
+                "pl": "1.4L Turbo - 1.8L",
+                "en": "1.4L Turbo - 1.8L",
+                "de": "1,4 l Turbo – 1,8 l",
+                "uk": "1,4 л Турбо - 1,8 л",
+                "ru": "1,4 л турбо - 1,8 л",
+                "zh": "1.4L 涡轮增压 - 1.8L"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/2f/9q/0dnzlbggwk8gocskk4k04/trax.310.jpg"
+        }
+      }
+    ],
+    "Volt": [
+      {
+        "BrandID": 29,
+        "ModelID": 277,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Volt",
+        "Serie Name": "Volt (1st Gen)",
+        "Years": "2011 - 2015",
+        "specs": {
+          "bodyType": "Liftback",
+          "segment": "Compact Plug-in Hybrid",
+          "drive": "FWD",
+          "fuel": "Hybrid",
+          "engine": "1.4L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "5",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "5"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Volt (1. gen) to pionierski samochód elektryczny z rozszerzonym zasięgiem (EREV). Rewolucja w napędzie.",
+              "en": "The Chevrolet Volt (1st Gen) is a pioneering extended range electric vehicle (EREV). A revolution in drive.",
+              "de": "Der Chevrolet Volt (1. Generation) ist ein bahnbrechendes Elektrofahrzeug mit erweiterter Reichweite (EREV). Eine Revolution im Antrieb.",
+              "uk": "Chevrolet Volt (1-е покоління) — це піонерський електромобіль із збільшеним запасом ходу (EREV). Революція в драйві.",
+              "ru": "Chevrolet Volt (1-го поколения) — это новаторский электромобиль с увеличенным запасом хода (EREV). Революция в драйве.",
+              "zh": "雪佛兰 Volt（第一代）是一款开创性的增程式电动汽车 (EREV)。驱动方面的革命。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2011–2015",
+              "miejsce produkcji": {
+                "pl": "Detroit, USA",
+                "en": "Detroit, USA",
+                "de": "Detroit, USA",
+                "uk": "Детройт, США",
+                "ru": "Детройт, США",
+                "zh": "美国底特律"
+              },
+              "platforma": {
+                "pl": "GM Delta II",
+                "en": "GM Delta II",
+                "de": "GM Delta II",
+                "uk": "GM Delta II",
+                "ru": "ГМ Дельта II",
+                "zh": "GM Delta II"
+              },
+              "silnik": {
+                "pl": "1.4L Hybrid",
+                "en": "1.4L Hybrid",
+                "de": "1,4-Liter-Hybrid",
+                "uk": "1,4 л Гібрид",
+                "ru": "1,4 л гибридный",
+                "zh": "1.4L 混合动力"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 29,
+        "ModelID": 416669,
+        "Brand Name": "Chevrolet",
+        "Model Name": "Volt",
+        "Serie Name": "Volt (2nd Gen)",
+        "Years": "2016 - 2019",
+        "specs": {
+          "bodyType": "Liftback",
+          "segment": "Compact Plug-in Hybrid",
+          "drive": "FWD",
+          "fuel": "Hybrid",
+          "engine": "1.5L Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Chevrolet Volt (2. gen) oferował większy zasięg na prądzie i nowocześniejszy design, zanim ustąpił miejsca Boltowi EV.",
+              "en": "The Chevrolet Volt (2nd gen) offered greater electric range and a more modern design before giving way to the Bolt EV.",
+              "de": "Der Chevrolet Volt (2. Generation) bot eine größere elektrische Reichweite und ein moderneres Design, bevor er dem Bolt EV Platz machte.",
+              "uk": "Chevrolet Volt (2-го покоління) пропонував більший запас ходу на електротягі та сучасніший дизайн, перш ніж поступитися місцем Bolt EV.",
+              "ru": "Chevrolet Volt (2-го поколения) предлагал больший запас хода на электротяге и более современный дизайн, прежде чем уступить место Bolt EV.",
+              "zh": "雪佛兰 Volt（第二代）在让位于 Bolt EV 之前提供了更大的电动续航里程和更现代的设计。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Chevrolet",
+                "en": "Chevrolet",
+                "de": "Chevrolet",
+                "uk": "Chevrolet",
+                "ru": "Шевроле"
+              },
+              "okres produkcji": "2016–2019",
+              "miejsce produkcji": {
+                "pl": "Detroit, USA",
+                "en": "Detroit, USA",
+                "de": "Detroit, USA",
+                "uk": "Детройт, США",
+                "ru": "Детройт, США",
+                "zh": "美国底特律"
+              },
+              "platforma": {
+                "pl": "GM D2XX",
+                "en": "GM D2XX",
+                "de": "GM D2XX",
+                "uk": "GM D2XX",
+                "ru": "ГМ Д2ХХ",
+                "zh": "GM D2XX"
+              },
+              "silnik": {
+                "pl": "1.5L Hybrid",
+                "en": "1.5L Hybrid",
+                "de": "1,5-Liter-Hybrid",
+                "uk": "1,5 л Гібрид",
+                "ru": "1,5 л гибрид",
+                "zh": "1.5L 混合动力"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

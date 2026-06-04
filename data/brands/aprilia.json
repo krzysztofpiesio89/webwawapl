@@ -1,0 +1,621 @@
+{
+  "brand": "Aprilia",
+  "models": {
+    "Mana": [
+      {
+        "BrandID": 205,
+        "ModelID": 416247,
+        "Brand Name": "Aprilia",
+        "Model Name": "MANA",
+        "Serie Name": "Mana 850",
+        "Years": "2007 - 2016",
+        "specs": {
+          "bodyType": "Naked Bike",
+          "segment": "Motorcycle",
+          "drive": "Chain",
+          "fuel": "Gasoline",
+          "engine": "839cc V-Twin",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Aprilia Mana 850 (2007-2016) to innowacyjny motocykl typu naked z automatyczną skrzynią biegów CVT. Idealny połączenie osiągów motocykla z wygodą skutera.",
+              "en": "Aprilia Mana 850 (2007-2016) is an innovative naked motorcycle with a CVT automatic transmission. The perfect combination of motorcycle performance and the comfort of a scooter.",
+              "de": "Aprilia Mana 850 (2007–2016) ist ein innovatives Naked-Motorrad mit CVT-Automatikgetriebe. Die perfekte Kombination aus Motorradleistung und dem Komfort eines Rollers.",
+              "uk": "Aprilia Mana 850 (2007-2016) - це інноваційний неййд мотоцикл з автоматичною коробкою передач CVT. Ідеальне поєднання характеристик мотоцикла та комфорту скутера.",
+              "ru": "Aprilia Mana 850 (2007-2016) — инновационный нейкед-мотоцикл с автоматической коробкой передач CVT. Идеальное сочетание характеристик мотоцикла и комфорта скутера.",
+              "zh": "Aprilia Mana 850（2007-2016）是一款创新的裸露摩托车，配备 CVT 自动变速箱。摩托车性能与踏板车舒适性的完美结合。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Aprilia",
+                "en": "Aprilia",
+                "de": "Aprilia",
+                "uk": "Априлія",
+                "ru": "Априлия"
+              },
+              "okres produkcji": {
+                "pl": "2007–2016",
+                "en": "2007–2016",
+                "de": "2007–2016",
+                "uk": "2007–2016",
+                "ru": "2007–2016"
+              },
+              "miejsce produkcji": {
+                "pl": "Noale, Włochy",
+                "en": "Noale, Italy",
+                "de": "Noale, Italien",
+                "uk": "Ноале, Італія",
+                "ru": "Ноале, Италия",
+                "zh": "意大利诺阿莱"
+              },
+              "typ": {
+                "pl": "Naked bike",
+                "en": "Naked bike",
+                "de": "Nacktes Fahrrad",
+                "uk": "Голий велосипед",
+                "ru": "Голый велосипед",
+                "zh": "裸体自行车"
+              },
+              "skrzynia biegów": {
+                "pl": "Automatyczna CVT (Sportgear)",
+                "en": "Automatic CVT (Sportgear)",
+                "de": "Automatisches CVT (Sportgetriebe)",
+                "uk": "Автоматичний CVT (Sportgear)",
+                "ru": "Автоматический вариатор (спортивное снаряжение)",
+                "zh": "自动CVT（运动装备）"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Pegaso": [
+      {
+        "BrandID": 205,
+        "ModelID": 416162,
+        "Brand Name": "Aprilia",
+        "Model Name": "Pegaso",
+        "Serie Name": "Pegaso 650",
+        "Years": "1992 - 2009",
+        "specs": {
+          "bodyType": "Enduro",
+          "segment": "Motorcycle",
+          "drive": "Chain",
+          "fuel": "Gasoline",
+          "engine": "650cc Single/V-Twin",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Aprilia Pegaso 650 (1992-2009) to wszechstronne enduro turystyczne. Wczesne wersje dzieliły silnik Rotax z BMW F650, będąc jednym z najpopularniejszych modeli marki.",
+              "en": "Aprilia Pegaso 650 (1992-2009) is a versatile touring enduro. Early versions shared the Rotax engine with the BMW F650, being one of the brand's most popular models.",
+              "de": "Aprilia Pegaso 650 (1992-2009) ist eine vielseitige Tourenenduro. Frühe Versionen teilten sich den Rotax-Motor mit der BMW F650, einem der beliebtesten Modelle der Marke.",
+              "uk": "Aprilia Pegaso 650 (1992-2009) — універсальний туристичний ендуро. Ранні версії використовували двигун Rotax разом із BMW F650, будучи однією з найпопулярніших моделей бренду.",
+              "ru": "Aprilia Pegaso 650 (1992-2009 гг.) — универсальный туристический эндуро. Ранние версии использовали двигатель Rotax от BMW F650, который был одной из самых популярных моделей бренда.",
+              "zh": "Aprilia Pegaso 650（1992-2009）是一款多功能旅行耐力赛。早期版本与 BMW F650 共享 Rotax 发动机，是该品牌最受欢迎的车型之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Aprilia",
+                "en": "Aprilia",
+                "de": "Aprilia",
+                "uk": "Априлія",
+                "ru": "Априлия"
+              },
+              "okres produkcji": {
+                "pl": "1992–2009",
+                "en": "1992–2009",
+                "de": "1992–2009",
+                "uk": "1992–2009",
+                "ru": "1992–2009"
+              },
+              "miejsce produkcji": {
+                "pl": "Noale, Włochy",
+                "en": "Noale, Italy",
+                "de": "Noale, Italien",
+                "uk": "Ноале, Італія",
+                "ru": "Ноале, Италия",
+                "zh": "意大利诺阿莱"
+              },
+              "typ": {
+                "pl": "Turystyczne enduro",
+                "en": "Tourist enduro",
+                "de": "Touristen-Enduro",
+                "uk": "Туристичний ендуро",
+                "ru": "Туристический эндуро",
+                "zh": "旅游耐力赛"
+              },
+              "silnik": {
+                "pl": "Rotax 650cc / Minarelli 660cc",
+                "en": "Rotax 650cc / Minarelli 660cc",
+                "de": "Rotax 650cc / Minarelli 660cc",
+                "uk": "Rotax 650cc / Minarelli 660cc",
+                "ru": "Ротакс 650 куб.см / Минарелли 660 куб.см",
+                "zh": "罗塔克斯 650cc / 米纳雷利 660cc"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "RS": [
+      {
+        "BrandID": 205,
+        "ModelID": 416106,
+        "Brand Name": "Aprilia",
+        "Model Name": "RS",
+        "Serie Name": "RS 125",
+        "Years": "1992 - 2012",
+        "specs": {
+          "bodyType": "Sport Bike",
+          "segment": "Motorcycle",
+          "drive": "Chain",
+          "fuel": "Gasoline",
+          "engine": "125cc 2-Stroke",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Aprilia RS 125 (1992-2012) to legendarny dwusuwowy motocykl sportowy. Dzięki niskiej masie i wyścigowej technologii, był marzeniem wielu młodych motocyklistów.",
+              "en": "Aprilia RS 125 (1992-2012) is a legendary two-stroke sports motorcycle. Thanks to its low weight and racing technology, it was the dream of many young motorcyclists.",
+              "de": "Aprilia RS 125 (1992–2012) ist ein legendäres Zweitakt-Sportmotorrad. Dank seines geringen Gewichts und seiner Rennsporttechnik war es der Traum vieler junger Motorradfahrer.",
+              "uk": "Aprilia RS 125 (1992-2012) - легендарний двотактний спортивний мотоцикл. Завдяки своїй малій вазі та гоночним технологіям він був мрією багатьох молодих мотоциклістів.",
+              "ru": "Aprilia RS 125 (1992-2012) — легендарный двухтактный спортивный мотоцикл. Благодаря небольшому весу и гоночным технологиям он был мечтой многих молодых мотоциклистов.",
+              "zh": "Aprilia RS 125（1992-2012）是一款传奇的二冲程运动摩托车。由于其轻量化和赛车技术，它是许多年轻摩托车手的梦想。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Aprilia",
+                "en": "Aprilia",
+                "de": "Aprilia",
+                "uk": "Априлія",
+                "ru": "Априлия"
+              },
+              "okres produkcji": {
+                "pl": "1992–2012",
+                "en": "1992–2012",
+                "de": "1992–2012",
+                "uk": "1992–2012",
+                "ru": "1992–2012"
+              },
+              "miejsce produkcji": {
+                "pl": "Noale, Włochy",
+                "en": "Noale, Italy",
+                "de": "Noale, Italien",
+                "uk": "Ноале, Італія",
+                "ru": "Ноале, Италия",
+                "zh": "意大利诺阿莱"
+              },
+              "typ": {
+                "pl": "Sportowy",
+                "en": "Sporty",
+                "de": "Sportlich",
+                "uk": "Спортивний",
+                "ru": "Спортивный"
+              },
+              "silnik": {
+                "pl": "Dwusuwowy 125cc Rotax",
+                "en": "125cc Rotax two-stroke",
+                "de": "125cc Rotax Zweitakter",
+                "uk": "Двотактний Rotax 125cc",
+                "ru": "Двухтактный Ротакс объемом 125 куб.см.",
+                "zh": "125cc Rotax 二冲程"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 205,
+        "ModelID": 416107,
+        "Brand Name": "Aprilia",
+        "Model Name": "RS",
+        "Serie Name": "RS 660",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "Sport Bike",
+          "segment": "Motorcycle",
+          "drive": "Chain",
+          "fuel": "Gasoline",
+          "engine": "659cc Parallel-Twin",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Aprilia RS 660 (od 2020) to nowoczesny sportowy twin, łączący torowe osiągi z użytecznością na co dzień. Wyznaczył nowe standardy w klasie średniej.",
+              "en": "Aprilia RS 660 (from 2020) is a modern sports twin, combining track performance with everyday usability. He set new standards in the middle class.",
+              "de": "Die Aprilia RS 660 (ab 2020) ist ein moderner Sport-Twin, der Rennstreckenleistung mit Alltagstauglichkeit verbindet. Er setzte neue Maßstäbe im Mittelstand.",
+              "uk": "Aprilia RS 660 (з 2020 року) — це сучасний спортивний двійник, який поєднує в собі ходові характеристики на трасі та зручність у щоденному використанні. Він встановив нові стандарти в середньому класі.",
+              "ru": "Aprilia RS 660 (с 2020 г.) — современный спортивный близнец, сочетающий в себе ходовые качества и удобство повседневного использования. Он установил новые стандарты для среднего класса.",
+              "zh": "Aprilia RS 660（自 2020 年起）是一款现代运动双胞胎，将赛道性能与日常可用性融为一体。他为中产阶级设定了新标准。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Aprilia",
+                "en": "Aprilia",
+                "de": "Aprilia",
+                "uk": "Априлія",
+                "ru": "Априлия"
+              },
+              "okres produkcji": {
+                "pl": "od 2020",
+                "en": "from 2020",
+                "de": "ab 2020",
+                "uk": "з 2020 року",
+                "ru": "с 2020 года",
+                "zh": "2020年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Noale, Włochy",
+                "en": "Noale, Italy",
+                "de": "Noale, Italien",
+                "uk": "Ноале, Італія",
+                "ru": "Ноале, Италия",
+                "zh": "意大利诺阿莱"
+              },
+              "typ": {
+                "pl": "Sportowy",
+                "en": "Sporty",
+                "de": "Sportlich",
+                "uk": "Спортивний",
+                "ru": "Спортивный"
+              },
+              "silnik": {
+                "pl": "R2 659cc",
+                "en": "R2 659cc",
+                "de": "R2 659cc",
+                "uk": "R2 659cc",
+                "ru": "Р2 659 куб.см",
+                "zh": "R2 659cc"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Shiver": [
+      {
+        "BrandID": 205,
+        "ModelID": 416100,
+        "Brand Name": "Aprilia",
+        "Model Name": "Shiver",
+        "Serie Name": "Shiver 750",
+        "Years": "2007 - 2016",
+        "specs": {
+          "bodyType": "Naked Bike",
+          "segment": "Motorcycle",
+          "drive": "Chain",
+          "fuel": "Gasoline",
+          "engine": "750cc V-Twin",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Aprilia Shiver 750 (2007-2016) to pierwszy seryjny motocykl z systemem Ride-by-Wire. Napędzany widlastym silnikiem 90 stopni, oferuje świetne brzmienie i elastyczność.",
+              "en": "Aprilia Shiver 750 (2007-2016) is the first production motorcycle with the Ride-by-Wire system. Powered by a 90-degree V engine, it offers great sound and flexibility.",
+              "de": "Aprilia Shiver 750 (2007–2016) ist das erste Serienmotorrad mit dem Ride-by-Wire-System. Angetrieben von einem 90-Grad-V-Motor bietet es großartigen Klang und Flexibilität.",
+              "uk": "Aprilia Shiver 750 (2007-2016) — перший серійний мотоцикл із системою Ride-by-Wire. Завдяки 90-градусному V двигуну він забезпечує чудовий звук і гнучкість.",
+              "ru": "Aprilia Shiver 750 (2007-2016) — первый серийный мотоцикл с системой Ride-by-Wire. Оснащенный 90-градусным V-образным двигателем, он обеспечивает великолепный звук и гибкость.",
+              "zh": "Aprilia Shiver 750（2007-2016）是第一款配备线控系统的量产摩托车。它由 90 度 V 型发动机提供动力，提供出色的声音和灵活性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Aprilia",
+                "en": "Aprilia",
+                "de": "Aprilia",
+                "uk": "Априлія",
+                "ru": "Априлия"
+              },
+              "okres produkcji": {
+                "pl": "2007–2016",
+                "en": "2007–2016",
+                "de": "2007–2016",
+                "uk": "2007–2016",
+                "ru": "2007–2016"
+              },
+              "miejsce produkcji": {
+                "pl": "Noale, Włochy",
+                "en": "Noale, Italy",
+                "de": "Noale, Italien",
+                "uk": "Ноале, Італія",
+                "ru": "Ноале, Италия",
+                "zh": "意大利诺阿莱"
+              },
+              "typ": {
+                "pl": "Naked bike",
+                "en": "Naked bike",
+                "de": "Nacktes Fahrrad",
+                "uk": "Голий велосипед",
+                "ru": "Голый велосипед",
+                "zh": "裸体自行车"
+              },
+              "silnik": {
+                "pl": "V2 750cc",
+                "en": "V2 750cc",
+                "de": "V2 750cc",
+                "uk": "V2 750cc",
+                "ru": "В2 750 куб.см",
+                "zh": "V2 750cc"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 205,
+        "ModelID": 416101,
+        "Brand Name": "Aprilia",
+        "Model Name": "Shiver",
+        "Serie Name": "Shiver 900",
+        "Years": "2017 - 2021",
+        "specs": {
+          "bodyType": "Naked Bike",
+          "segment": "Motorcycle",
+          "drive": "Chain",
+          "fuel": "Gasoline",
+          "engine": "896cc V-Twin",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Aprilia Shiver 900 (2017-2021) to zmodernizowana wersja modelu 750 z większą pojemnością i nowocześniejszą elektroniką (TFT, kontrola trakcji).",
+              "en": "Aprilia Shiver 900 (2017-2021) is a modernized version of the 750 model with larger capacity and more modern electronics (TFT, traction control).",
+              "de": "Aprilia Shiver 900 (2017–2021) ist eine modernisierte Version des 750-Modells mit größerer Kapazität und modernerer Elektronik (TFT, Traktionskontrolle).",
+              "uk": "Aprilia Shiver 900 (2017-2021) - модернізована версія моделі 750 з більшою місткістю та сучаснішою електронікою (TFT, трекшн-контроль).",
+              "ru": "Aprilia Shiver 900 (2017-2021) — модернизированная версия модели 750 с большей мощностью и более современной электроникой (TFT, антипробуксовочная система).",
+              "zh": "Aprilia Shiver 900（2017-2021）是 750 车型的现代化版本，具有更大的容量和更现代的电子设备（TFT、牵引力控制系统）。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Aprilia",
+                "en": "Aprilia",
+                "de": "Aprilia",
+                "uk": "Априлія",
+                "ru": "Априлия"
+              },
+              "okres produkcji": {
+                "pl": "2017–2021",
+                "en": "2017–2021",
+                "de": "2017–2021",
+                "uk": "2017–2021",
+                "ru": "2017–2021"
+              },
+              "miejsce produkcji": {
+                "pl": "Noale, Włochy",
+                "en": "Noale, Italy",
+                "de": "Noale, Italien",
+                "uk": "Ноале, Італія",
+                "ru": "Ноале, Италия",
+                "zh": "意大利诺阿莱"
+              },
+              "typ": {
+                "pl": "Naked bike",
+                "en": "Naked bike",
+                "de": "Nacktes Fahrrad",
+                "uk": "Голий велосипед",
+                "ru": "Голый велосипед",
+                "zh": "裸体自行车"
+              },
+              "silnik": {
+                "pl": "V2 896cc",
+                "en": "V2 896cc",
+                "de": "V2 896cc",
+                "uk": "V2 896cc",
+                "ru": "В2 896cc",
+                "zh": "V2 896cc"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Tuono": [
+      {
+        "BrandID": 205,
+        "ModelID": 416150,
+        "Brand Name": "Aprilia",
+        "Model Name": "Tuono",
+        "Serie Name": "Tuono V4",
+        "Years": "2011 - 3000",
+        "specs": {
+          "bodyType": "Naked Bike",
+          "segment": "Motorcycle",
+          "drive": "Chain",
+          "fuel": "Gasoline",
+          "engine": "1000cc / 1100cc V4",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Aprilia Tuono V4 (od 2011) to jeden z najpotężniejszych i najlepiej prowadzących się naked bike'ów na świecie. Bazuje bezpośrednio na mistrzowskim superbike'u RSV4.",
+              "en": "Aprilia Tuono V4 (from 2011) is one of the most powerful and best-handling naked bikes in the world. It is based directly on the championship-winning RSV4 superbike.",
+              "de": "Die Aprilia Tuono V4 (ab 2011) ist eines der leistungsstärksten und handlichsten Naked Bikes der Welt. Es basiert direkt auf dem Meisterschaftssieger-Superbike RSV4.",
+              "uk": "Aprilia Tuono V4 (з 2011 року) — один із найпотужніших і найкращих у керуванні неййд-байків у світі. Він базується безпосередньо на супербайку RSV4, який виграв чемпіонат.",
+              "ru": "Aprilia Tuono V4 (с 2011 года) — один из самых мощных и управляемых нейкедов в мире. Он основан на супербайке RSV4, выигравшем чемпионат.",
+              "zh": "Aprilia Tuono V4（2011 年起）是世界上最强大、操控性最好的裸车之一。它直接基于荣获冠军的 RSV4 超级摩托车打造。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Aprilia",
+                "en": "Aprilia",
+                "de": "Aprilia",
+                "uk": "Априлія",
+                "ru": "Априлия"
+              },
+              "okres produkcji": {
+                "pl": "od 2011",
+                "en": "since 2011",
+                "de": "seit 2011",
+                "uk": "з 2011 року",
+                "ru": "с 2011 года",
+                "zh": "自2011年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Noale, Włochy",
+                "en": "Noale, Italy",
+                "de": "Noale, Italien",
+                "uk": "Ноале, Італія",
+                "ru": "Ноале, Италия",
+                "zh": "意大利诺阿莱"
+              },
+              "typ": {
+                "pl": "Hyper Naked",
+                "en": "HyperNaked",
+                "de": "HyperNaked",
+                "uk": "HyperNaked",
+                "ru": "Гиперголый",
+                "zh": "超裸"
+              },
+              "silnik": {
+                "pl": "V4 65° 1000/1100cc",
+                "en": "V4 65° 1000/1100cc",
+                "de": "V4 65° 1000/1100cc",
+                "uk": "V4 65° 1000/1100cc",
+                "ru": "V4 65° 1000/1100cc",
+                "zh": "V4 65° 1000/1100cc"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 205,
+        "ModelID": 416151,
+        "Brand Name": "Aprilia",
+        "Model Name": "Tuono",
+        "Serie Name": "Tuono 660",
+        "Years": "2021 - 3000",
+        "specs": {
+          "bodyType": "Naked Bike",
+          "segment": "Motorcycle",
+          "drive": "Chain",
+          "fuel": "Gasoline",
+          "engine": "659cc Parallel-Twin",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Aprilia Tuono 660 (od 2021) to lżejsza i bardziej dostępna wersja Tuono. Waży zaledwie 183 kg i oferuje 95 KM, będąc idealnym nakedem klasy średniej.",
+              "en": "Aprilia Tuono 660 (from 2021) is a lighter and more accessible version of Tuono. It weighs only 183 kg and offers 95 HP, making it an ideal mid-range naked bike.",
+              "de": "Aprilia Tuono 660 (ab 2021) ist eine leichtere und zugänglichere Version der Tuono. Es wiegt nur 183 kg und leistet 95 PS, was es zu einem idealen Mittelklasse-Naked-Bike macht.",
+              "uk": "Aprilia Tuono 660 (з 2021 року) — легша та доступніша версія Tuono. Він важить лише 183 кг і має потужність 95 к. с., що робить його ідеальним байком середнього класу.",
+              "ru": "Aprilia Tuono 660 (с 2021 г.) — более легкая и доступная версия Tuono. Он весит всего 183 кг и развивает мощность 95 л.с., что делает его идеальным нейкедом среднего класса.",
+              "zh": "Aprilia Tuono 660（2021 年起）是 Tuono 的更轻且更易于使用的版本。它的重量仅为183公斤，提供95马力，是一款理想的中档裸车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Aprilia",
+                "en": "Aprilia",
+                "de": "Aprilia",
+                "uk": "Априлія",
+                "ru": "Априлия"
+              },
+              "okres produkcji": {
+                "pl": "od 2021",
+                "en": "from 2021",
+                "de": "ab 2021",
+                "uk": "з 2021 року",
+                "ru": "с 2021 года",
+                "zh": "2021年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Noale, Włochy",
+                "en": "Noale, Italy",
+                "de": "Noale, Italien",
+                "uk": "Ноале, Італія",
+                "ru": "Ноале, Италия",
+                "zh": "意大利诺阿莱"
+              },
+              "typ": {
+                "pl": "Naked bike",
+                "en": "Naked bike",
+                "de": "Nacktes Fahrrad",
+                "uk": "Голий велосипед",
+                "ru": "Голый велосипед",
+                "zh": "裸体自行车"
+              },
+              "silnik": {
+                "pl": "R2 659cc",
+                "en": "R2 659cc",
+                "de": "R2 659cc",
+                "uk": "R2 659cc",
+                "ru": "Р2 659 куб.см",
+                "zh": "R2 659cc"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "RSV4": [
+      {
+        "BrandID": 205,
+        "ModelID": 416160,
+        "Brand Name": "Aprilia",
+        "Model Name": "RSV4",
+        "Serie Name": "RSV4",
+        "Years": "2009 - 3000",
+        "specs": {
+          "bodyType": "Sport Bike",
+          "segment": "Motorcycle",
+          "drive": "Chain",
+          "fuel": "Gasoline",
+          "engine": "1000cc / 1100cc V4",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Aprilia RSV4 (od 2009) to motocykl stworzony do wygrywania w World Superbike. Silnik V4 i zaawansowana aerodynamika czynią go jednym z najszybszych motocykli na torze.",
+              "en": "The Aprilia RSV4 (from 2009) is a motorcycle created to win in World Superbike. The V4 engine and advanced aerodynamics make it one of the fastest motorcycles on the track.",
+              "de": "Die Aprilia RSV4 (ab 2009) ist ein Motorrad, das für den Sieg in der Superbike-Weltmeisterschaft entwickelt wurde. Der V4-Motor und die fortschrittliche Aerodynamik machen es zu einem der schnellsten Motorräder auf der Rennstrecke.",
+              "uk": "Aprilia RSV4 (з 2009 року) — це мотоцикл, створений для перемоги у World Superbike. Двигун V4 і вдосконалена аеродинаміка роблять його одним із найшвидших мотоциклів на трасі.",
+              "ru": "Aprilia RSV4 (с 2009 г.) — мотоцикл, созданный для победы в World Superbike. Двигатель V4 и усовершенствованная аэродинамика делают его одним из самых быстрых мотоциклов на трассе.",
+              "zh": "Aprilia RSV4（2009 年起）是一款专为赢得世界超级摩托车比赛而设计的摩托车。 V4 发动机和先进的空气动力学使其成为赛道上最快的摩托车之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Aprilia",
+                "en": "Aprilia",
+                "de": "Aprilia",
+                "uk": "Априлія",
+                "ru": "Априлия"
+              },
+              "okres produkcji": {
+                "pl": "od 2009",
+                "en": "since 2009",
+                "de": "seit 2009",
+                "uk": "з 2009 року",
+                "ru": "с 2009 года",
+                "zh": "自2009年以来"
+              },
+              "miejsce produkcji": {
+                "pl": "Noale, Włochy",
+                "en": "Noale, Italy",
+                "de": "Noale, Italien",
+                "uk": "Ноале, Італія",
+                "ru": "Ноале, Италия",
+                "zh": "意大利诺阿莱"
+              },
+              "typ": {
+                "pl": "Superbike",
+                "en": "Superbike",
+                "de": "Superbike",
+                "uk": "Супербайк",
+                "ru": "Супербайк"
+              },
+              "tytuł": {
+                "pl": "Wielokrotny Mistrz Świata WSBK",
+                "en": "Multiple WSBK World Champion",
+                "de": "Mehrfacher WSBK-Weltmeister",
+                "uk": "Багаторазовий чемпіон світу WSBK",
+                "ru": "Многократный чемпион мира WSBK.",
+                "zh": "多次 WSBK 世界冠军"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

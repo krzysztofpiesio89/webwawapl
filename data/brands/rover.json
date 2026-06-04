@@ -1,0 +1,269 @@
+{
+  "brand": "Rover",
+  "models": {
+    "25": [
+      {
+        "BrandID": 111,
+        "ModelID": 1369,
+        "Brand Name": "Rover",
+        "Model Name": 25,
+        "Serie Name": 25,
+        "Years": "1999 - 2005",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Rover 25 to zmodernizowana wersja serii 200, dynamiczny hatchback klasy premium z charakterystycznym brytyjskim stylem.",
+              "en": "The Rover 25 is a modernized version of the 200 series, a dynamic premium hatchback with distinctive British style.",
+              "de": "Der Rover 25 ist eine modernisierte Version der 200er-Serie, ein dynamisches Premium-Fließheckmodell mit unverwechselbarem britischen Stil.",
+              "uk": "Rover 25 — це модернізована версія серії 200, динамічний хетчбек преміум-класу з виразним британським стилем.",
+              "ru": "Rover 25 — это модернизированная версия 200-й серии, динамичный хэтчбек премиум-класса с характерным британским стилем.",
+              "zh": "Rover 25是200系列的现代化版本，是一款具有独特英伦风格的动感高级掀背车。"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/68/sv/i93h7hgkkswgwos08cscc/25-hatch.310.jpg"
+        }
+      }
+    ],
+    "45": [
+      {
+        "BrandID": 111,
+        "ModelID": 1376,
+        "Brand Name": "Rover",
+        "Model Name": 45,
+        "Serie Name": 45,
+        "Years": "1999 - 2005",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Rover 45 to kompaktowy sedan i hatchback, bazujący na Hondzie Civic, oferujący komfortowe wnętrze wykończone drewnem i skórą.",
+              "en": "Rover 45 is a compact sedan and hatchback, based on the Honda Civic, offering a comfortable interior finished in wood and leather.",
+              "de": "Rover 45 ist eine kompakte Limousine mit Fließheckmodell, die auf dem Honda Civic basiert und einen komfortablen Innenraum aus Holz und Leder bietet.",
+              "uk": "Rover 45 — це компактний седан і хетчбек, створений на основі Honda Civic, із комфортним інтер’єром, обробленим деревом і шкірою.",
+              "ru": "Rover 45 — компактный седан и хэтчбек, созданный на базе Honda Civic, с комфортабельным салоном, отделанным деревом и кожей.",
+              "zh": "Rover 45 是一款紧凑型轿车和掀背车，基于本田思域，提供舒适的木质和皮革内饰。"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/dg/x6/62190hcscgkok8gc08kw0/45-hatch.310.jpg"
+        }
+      }
+    ],
+    "75": [
+      {
+        "BrandID": 111,
+        "ModelID": 1380,
+        "Brand Name": "Rover",
+        "Model Name": 75,
+        "Serie Name": 75,
+        "Years": "1999 - 2005",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Rover 75 to ostatni i najbardziej udany model marki, elegancka limuzyna w stylu retro, doceniana za komfort (nagroda 'World Car of the Year').",
+              "en": "Rover 75 is the last and most successful model of the brand, an elegant retro-style limousine, appreciated for its comfort ('World Car of the Year' award).",
+              "de": "Der Rover 75 ist das letzte und erfolgreichste Modell der Marke, eine elegante Limousine im Retro-Stil, die für ihren Komfort geschätzt wird (Auszeichnung „Weltauto des Jahres“).",
+              "uk": "Rover 75 — остання і найуспішніша модель бренду, елегантний лімузин у стилі ретро, ​​який цінують за комфорт (нагорода «Всесвітній автомобіль року»).",
+              "ru": "Rover 75 — последняя и самая успешная модель бренда, элегантный лимузин в стиле ретро, ​​ценящийся за комфорт (награда «Всемирный автомобиль года»).",
+              "zh": "Rover 75 是该品牌最后一款也是最成功的车型，一款优雅的复古风格豪华轿车，因其舒适性而受到赞赏（“世界年度汽车”奖）。"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7f/nr/xdsk950kc0oks844g04os/75-sedan.310.jpg"
+        }
+      }
+    ],
+    "": [
+      {
+        "BrandID": 111,
+        "ModelID": "",
+        "Brand Name": "Rover",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Rover to brytyjska marka z tradycjami, znana z eleganckich sedanów i innowacyjnych projektów, która zakończyła działalność w 2005 roku.",
+              "en": "Rover is a traditional British brand, known for its elegant sedans and innovative designs, which ceased operations in 2005.",
+              "de": "Rover ist eine traditionelle britische Marke, die für ihre eleganten Limousinen und innovativen Designs bekannt ist und deren Betrieb 2005 eingestellt wurde.",
+              "uk": "Rover — традиційний британський бренд, відомий своїми елегантними седанами та інноваційним дизайном, який припинив свою діяльність у 2005 році.",
+              "ru": "Rover — традиционный британский бренд, известный своими элегантными седанами и инновационным дизайном, который прекратил свою деятельность в 2005 году.",
+              "zh": "Rover 是一个传统的英国品牌，以其优雅的轿车和创新的设计而闻名，于 2005 年停止运营。"
+            }
+          }
+        }
+      }
+    ],
+    "Series 200": [
+      {
+        "BrandID": 111,
+        "ModelID": 1363,
+        "Brand Name": "Rover",
+        "Model Name": "200 Series",
+        "Serie Name": "Series 200",
+        "Years": "1989 - 1999",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Seria 200 to kompaktowe modele Rovera, które pomogły odbudować wizerunek marki w latach 90.",
+              "en": "The 200 Series were Rover's compact models that helped rebuild the brand's image in the 1990s.",
+              "de": "Die 200er-Serie waren Rovers Kompaktmodelle, die in den 1990er Jahren zum Wiederaufbau des Markenimages beitrugen.",
+              "uk": "Серія 200 — це компактні моделі Rover, які допомогли відновити імідж бренду в 1990-х роках.",
+              "ru": "Серия 200 представляла собой компактные модели Rover, которые помогли восстановить имидж бренда в 1990-х годах.",
+              "zh": "200 系列是 Rover 的紧凑型车型，帮助该品牌在 1990 年代重建了形象。"
+            }
+          }
+        }
+      }
+    ],
+    "Series 400": [
+      {
+        "BrandID": 111,
+        "ModelID": 1373,
+        "Brand Name": "Rover",
+        "Model Name": "400 Series",
+        "Serie Name": "Series 400",
+        "Years": "1990 - 1999",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Seria 400 łączyła japońską niezawodność (baza Hondy) z brytyjską elegancją Rovera.",
+              "en": "The 400 Series combined Japanese reliability (Honda base) with the British elegance of Rover.",
+              "de": "Die 400er-Serie kombinierte japanische Zuverlässigkeit (Honda-Basis) mit der britischen Eleganz von Rover.",
+              "uk": "Серія 400 поєднала японську надійність (база Honda) з британською елегантністю Rover.",
+              "ru": "Серия 400 сочетала в себе японскую надежность (база Honda) с британской элегантностью Rover.",
+              "zh": "400 系列将日本的可靠性（以本田为基础）与 Rover 的英国优雅相结合。"
+            }
+          }
+        }
+      }
+    ],
+    "Series 600": [
+      {
+        "BrandID": 111,
+        "ModelID": 1378,
+        "Brand Name": "Rover",
+        "Model Name": "600 Series",
+        "Serie Name": "Series 600",
+        "Years": "1993 - 1999",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Rover 600 to stylowy sedan klasy średniej, bliźniak Hondy Accord, ceniony za ponadczasowy design Richarda Woolley'a.",
+              "en": "Rover 600 is a stylish mid-range sedan, a twin of the Honda Accord, appreciated for Richard Woolley's timeless design.",
+              "de": "Rover 600 ist eine stilvolle Mittelklasselimousine, ein Zwilling des Honda Accord, der für Richard Woolleys zeitloses Design geschätzt wird.",
+              "uk": "Rover 600 — це стильний седан середнього класу, двійник Honda Accord, якого цінують за незмінний дизайн Річарда Вуллі.",
+              "ru": "Rover 600 — стильный седан среднего класса, близнец Honda Accord, получивший признание за неподвластный времени дизайн Ричарда Вулли.",
+              "zh": "Rover 600 是一款时尚的中档轿车，是本田雅阁的双胞胎，因其理查德·伍利 (Richard Woolley) 的永恒设计而受到赞赏。"
+            }
+          }
+        }
+      }
+    ],
+    "Series 800": [
+      {
+        "BrandID": 111,
+        "ModelID": 1381,
+        "Brand Name": "Rover",
+        "Model Name": "800 Series",
+        "Serie Name": "Series 800",
+        "Years": "1986 - 1999",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Rover 800 to flagowa limuzyna marki lat 80. i 90., oferująca wysoki komfort i prestiż, choć borykająca się z problemami jakościowymi.",
+              "en": "Rover 800 is the brand's flagship limousine of the 1980s and 1990s, offering high comfort and prestige, although struggling with quality problems.",
+              "de": "Der Rover 800 ist die Flaggschiff-Limousine der Marke der 1980er und 1990er Jahre und bietet hohen Komfort und Prestige, obwohl er mit Qualitätsproblemen zu kämpfen hat.",
+              "uk": "Rover 800 — це флагманський лімузин бренду 1980-х і 1990-х років, який пропонує високий комфорт і престиж, хоча й бореться з проблемами якості.",
+              "ru": "Rover 800 — флагманский лимузин бренда 1980-х и 1990-х годов, предлагающий высокий комфорт и престиж, хотя и борющийся с проблемами качества.",
+              "zh": "Rover 800 是该品牌 20 世纪 80 年代和 1990 年代的旗舰豪华轿车，尽管存在质量问题，但仍提供高舒适度和声誉。"
+            }
+          }
+        }
+      }
+    ],
+    "Streetwise": [
+      {
+        "BrandID": 111,
+        "ModelID": 1371,
+        "Brand Name": "Rover",
+        "Model Name": "Streetwise",
+        "Serie Name": "Streetwise",
+        "Years": "2003 - 2005",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Rover Streetwise to protoplasta dzisiejszych crossoverów - miejski hatchback z podwyższonym zawieszeniem i plastikowymi osłonami.",
+              "en": "Rover Streetwise is the ancestor of today's crossovers - an urban hatchback with raised suspension and plastic covers.",
+              "de": "Rover Streetwise ist der Vorfahre der heutigen Crossover – ein urbanes Fließheck mit erhöhter Federung und Kunststoffabdeckungen.",
+              "uk": "Rover Streetwise - родоначальник сучасних кросоверів - міський хетчбек з піднятою підвіскою і пластиковими чохлами.",
+              "ru": "Rover Streetwise — прародитель сегодняшних кроссоверов — городской хэтчбек с приподнятой подвеской и пластиковыми кожухами.",
+              "zh": "Rover Streetwise 是当今跨界车的鼻祖 - 一款带有凸起悬架和塑料盖的城市掀背车。"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

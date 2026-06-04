@@ -1,0 +1,3222 @@
+{
+  "brand": "Citroen",
+  "models": {
+    "2CV": [
+      {
+        "BrandID": 31,
+        "ModelID": 416690,
+        "Brand Name": "Citroen",
+        "Model Name": "2CV",
+        "Serie Name": "2CV",
+        "Years": "1948 - 1990",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Classic City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "0.4L - 0.6L Boxe",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën 2CV to kultowy, minimalistyczny samochód, który zmotoryzował powojenną Francję. Symbol prostoty i inżynierii.",
+              "en": "The Citroën 2CV is an iconic, minimalist car that brought motorism to life in post-war France. A symbol of simplicity and engineering.",
+              "de": "Der Citroën 2CV ist ein ikonisches, minimalistisches Auto, das den Automobilismus im Nachkriegsfrankreich zum Leben erweckte. Ein Symbol für Einfachheit und Ingenieurskunst.",
+              "uk": "Citroën 2CV — це культовий мінімалістичний автомобіль, який оживив моторизм у післявоєнній Франції. Символ простоти та інженерії.",
+              "ru": "Citroën 2CV — культовый минималистичный автомобиль, который вдохнул жизнь в автомобилизм в послевоенной Франции. Символ простоты и инженерности.",
+              "zh": "雪铁龙 2CV 是一款标志性的极简主义汽车，为战后法国带来了汽车生活。简单和工程的象征。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "1948–1990",
+              "miejsce produkcji": {
+                "pl": "Levallois-Perret, Francja",
+                "en": "Levallois-Perret, France",
+                "de": "Levallois-Perret, Frankreich",
+                "uk": "Леваллуа-Перре, Франція",
+                "ru": "Левалуа-Перре, Франция",
+                "zh": "勒瓦卢瓦-佩雷，法国"
+              },
+              "platforma": {
+                "pl": "Citroën A",
+                "en": "Citroën A",
+                "de": "Citroën A",
+                "uk": "Сітроен А",
+                "ru": "Ситроен А",
+                "zh": "雪铁龙 A"
+              },
+              "silnik": {
+                "pl": "375cc - 602cc Boxer",
+                "en": "375cc - 602cc Boxer",
+                "de": "375cc - 602cc Boxer",
+                "uk": "375cc - 602cc Boxer",
+                "ru": "375cc - 602cc Боксер",
+                "zh": "375cc - 602cc Boxer"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/c4/ft/r71spbwcosc4s8s00cs0g/2cv.310.jpg"
+        }
+      }
+    ],
+    "AX": [
+      {
+        "BrandID": 31,
+        "ModelID": 304,
+        "Brand Name": "Citroen",
+        "Model Name": "AX",
+        "Serie Name": "AX",
+        "Years": "1986 - 1998",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L - 1.5L Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën AX to lekki i aerodynamiczny samochód miejski, znany z rekordowo niskiego zużycia paliwa i wersji sportowych GT/GTI.",
+              "en": "Citroën AX is a light and aerodynamic city car, known for its record low fuel consumption and GT/GTI sports versions.",
+              "de": "Der Citroën AX ist ein leichtes und aerodynamisches Stadtauto, das für seinen rekordverdächtigen Kraftstoffverbrauch und seine GT/GTI-Sportversionen bekannt ist.",
+              "uk": "Citroën AX — легкий та аеродинамічний міський автомобіль, відомий рекордно низьким споживанням палива та спортивними версіями GT/GTI.",
+              "ru": "Citroën AX — легкий и аэродинамичный городской автомобиль, известный своим рекордно низким расходом топлива и спортивными версиями GT/GTI.",
+              "zh": "雪铁龙 AX 是一款轻型、符合空气动力学原理的城市汽车，以其创纪录的低油耗和 GT/GTI 运动版本而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "1986–1998",
+              "miejsce produkcji": {
+                "pl": "Aulnay-sous-Bois, Francja",
+                "en": "Aulnay-sous-Bois, France",
+                "de": "Aulnay-sous-Bois, Frankreich",
+                "uk": "Ольне-су-Буа, Франція",
+                "ru": "Ольне-су-Буа, Франция",
+                "zh": "法国 Aulnay-sous-Bois"
+              },
+              "platforma": {
+                "pl": "PSA AX",
+                "en": "PSA AX",
+                "de": "PSA AX",
+                "uk": "PSA AX",
+                "ru": "ПСА АКС",
+                "zh": "PSA AX"
+              },
+              "silnik": {
+                "pl": "1.0L - 1.5L Diesel",
+                "en": "1.0L - 1.5L Diesel",
+                "de": "1,0 l – 1,5 l Diesel",
+                "uk": "1,0 л - 1,5 л дизель",
+                "ru": "1,0–1,5 л Дизель",
+                "zh": "1.0L - 1.5L 柴油机"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3e/ak/4yrq55uso8c8g4g0gc8cg/ax.310.jpg"
+        }
+      }
+    ],
+    "Berlingo": [
+      {
+        "BrandID": 31,
+        "ModelID": 131948,
+        "Brand Name": "Citroen",
+        "Model Name": "Berlingo",
+        "Serie Name": "Berlingo I",
+        "Years": "1996 - 2008",
+        "specs": {
+          "bodyType": "MPV/Van",
+          "segment": "Compact Van",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Citroën Berlingo I to pionier segmentu kombivanów, łączący cechy dostawcze z osobowymi. Niezwykle praktyczny.",
+              "en": "Citroën Berlingo I is a pioneer in the station wagon segment, combining commercial and passenger features. Extremely practical.",
+              "de": "Citroën Berlingo I ist ein Pionier im Kombi-Segment und vereint Nutz- und Passagierfunktionen. Äußerst praktisch.",
+              "uk": "Citroën Berlingo I є піонером у сегменті універсалів, поєднуючи в собі комерційні та пасажирські функції. Надзвичайно практичний.",
+              "ru": "Citroën Berlingo I — пионер в сегменте универсалов, сочетающий в себе коммерческие и пассажирские функции. Чрезвычайно практично.",
+              "zh": "雪铁龙 Berlingo I 是旅行车领域的先驱，集商用和客运功能于一体。非常实用。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "1996–2008",
+              "miejsce produkcji": {
+                "pl": "Vigo, Hiszpania",
+                "en": "Vigo, Spain",
+                "de": "Vigo, Spanien",
+                "uk": "Віго, Іспанія",
+                "ru": "Виго, Испания",
+                "zh": "西班牙维戈"
+              },
+              "platforma": {
+                "pl": "PSA M59",
+                "en": "PSA M59",
+                "de": "PSA M59",
+                "uk": "PSA M59",
+                "ru": "ПСА М59",
+                "zh": "PSA M59"
+              },
+              "silnik": {
+                "pl": "1.4L - 2.0L HDi",
+                "en": "1.4L - 2.0L HDi",
+                "de": "1,4 l – 2,0 l HDi",
+                "uk": "1,4 л - 2,0 л HDi",
+                "ru": "1,4–2,0 л HDi",
+                "zh": "1.4L - 2.0L HDi"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Citro%C3%ABn_Berlingo_I_Vorfacelift_rear.jpg/1280px-Citro%C3%ABn_Berlingo_I_Vorfacelift_rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Citro%C3%ABn_Berlingo_I_Vorfacelift_rear.jpg/1280px-Citro%C3%ABn_Berlingo_I_Vorfacelift_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Citro%C3%ABn_Berlingo_I_Facelift_front-1.jpg/1280px-Citro%C3%ABn_Berlingo_I_Facelift_front-1.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/1999_Citro%C3%ABn_Berlingo_%28M59%29_van_%282008-08-21%29.jpg/1280px-1999_Citro%C3%ABn_Berlingo_%28M59%29_van_%282008-08-21%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Citro%C3%ABn_Berlingo_II_Multispace_rear.JPG/1280px-Citro%C3%ABn_Berlingo_II_Multispace_rear.JPG"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/dg/02/t5lr5ugc0oocco8o8g4o0/berlingo-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 31,
+        "ModelID": 414088,
+        "Brand Name": "Citroen",
+        "Model Name": "Berlingo",
+        "Serie Name": "Berlingo II",
+        "Years": "2008 - 2018",
+        "specs": {
+          "bodyType": "MPV/Van",
+          "segment": "Compact Van",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L VTi / 1.6L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Citroën Berlingo II stał się większy i bardziej komfortowy, oferując wersję Multispace z przeszklonym dachem Modutop.",
+              "en": "Citroën Berlingo II has become larger and more comfortable, offering a Multispace version with a Modutop glass roof.",
+              "de": "Der Citroën Berlingo II ist größer und komfortabler geworden und bietet eine Multispace-Version mit Modutop-Glasdach an.",
+              "uk": "Citroën Berlingo II став більшим і комфортнішим, пропонуючи версію Multispace зі скляним дахом Modutop.",
+              "ru": "Citroën Berlingo II стал больше и комфортнее, предложив версию Multispace со стеклянной крышей Modutop.",
+              "zh": "雪铁龙 Berlingo II 变得更大、更舒适，提供带有 Modutop 玻璃车顶的 Multispace 版本。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "2008–2018",
+              "miejsce produkcji": {
+                "pl": "Vigo, Hiszpania",
+                "en": "Vigo, Spain",
+                "de": "Vigo, Spanien",
+                "uk": "Віго, Іспанія",
+                "ru": "Виго, Испания",
+                "zh": "西班牙维戈"
+              },
+              "platforma": {
+                "pl": "PSA PF2",
+                "en": "PSA PF2",
+                "de": "PSA PF2",
+                "uk": "PSA PF2",
+                "ru": "ПСА ПФ2",
+                "zh": "PSA PF2"
+              },
+              "silnik": {
+                "pl": "1.6L VTi - 1.6L BlueHDi",
+                "en": "1.6L VTi - 1.6L BlueHDi",
+                "de": "1,6 l VTi – 1,6 l BlueHDi",
+                "uk": "1.6L VTi - 1.6L BlueHDi",
+                "ru": "1,6 л VTi — 1,6 л BlueHDi",
+                "zh": "1.6L VTi - 1.6L BlueHDi"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Citro%C3%ABn_Berlingo_I_Vorfacelift_rear.jpg/1280px-Citro%C3%ABn_Berlingo_I_Vorfacelift_rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Citro%C3%ABn_Berlingo_I_Vorfacelift_rear.jpg/1280px-Citro%C3%ABn_Berlingo_I_Vorfacelift_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Citro%C3%ABn_Berlingo_I_Facelift_front-1.jpg/1280px-Citro%C3%ABn_Berlingo_I_Facelift_front-1.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/1999_Citro%C3%ABn_Berlingo_%28M59%29_van_%282008-08-21%29.jpg/1280px-1999_Citro%C3%ABn_Berlingo_%28M59%29_van_%282008-08-21%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Citro%C3%ABn_Berlingo_II_Multispace_rear.JPG/1280px-Citro%C3%ABn_Berlingo_II_Multispace_rear.JPG"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/dg/02/t5lr5ugc0oocco8o8g4o0/berlingo-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 31,
+        "ModelID": 415555,
+        "Brand Name": "Citroen",
+        "Model Name": "Berlingo",
+        "Serie Name": "Berlingo III",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "MPV/Van",
+          "segment": "Compact Van",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/Electric",
+          "engine": "1.2L PureTech / 1.5L BlueHDi / Electric",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Citroën Berlingo III oferuje nowoczesny design i zaawansowane systemy bezpieczeństwa, dostępny w dwóch długościach.",
+              "en": "Citroën Berlingo III offers modern design and advanced safety systems, available in two lengths.",
+              "de": "Citroën Berlingo III bietet modernes Design und fortschrittliche Sicherheitssysteme, erhältlich in zwei Längen.",
+              "uk": "Citroën Berlingo III пропонує сучасний дизайн і передові системи безпеки, доступні в двох варіантах довжини.",
+              "ru": "Citroën Berlingo III предлагает современный дизайн и передовые системы безопасности. Доступен в двух вариантах длины.",
+              "zh": "雪铁龙 Berlingo III 提供现代设计和先进的安全系统，有两种长度可供选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "since 2018",
+                "de": "seit 2018",
+                "uk": "з 2018 року",
+                "ru": "с 2018 года",
+                "zh": "2018 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Vigo, Hiszpania",
+                "en": "Vigo, Spain",
+                "de": "Vigo, Spanien",
+                "uk": "Віго, Іспанія",
+                "ru": "Виго, Испания",
+                "zh": "西班牙维戈"
+              },
+              "platforma": {
+                "pl": "PSA EMP2",
+                "en": "PSA EMP2",
+                "de": "PSA EMP2",
+                "uk": "PSA EMP2",
+                "ru": "СРП ЭМП2",
+                "zh": "PSA EMP2"
+              },
+              "silnik": {
+                "pl": "1.2L PureTech - 1.5L BlueHDi",
+                "en": "1.2L PureTech - 1.5L BlueHDi",
+                "de": "1,2 l PureTech – 1,5 l BlueHDi",
+                "uk": "1,2 л PureTech - 1,5 л BlueHDi",
+                "ru": "1,2 л PureTech — 1,5 л BlueHDi",
+                "zh": "1.2L PureTech - 1.5L BlueHDi"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Citro%C3%ABn_Berlingo_I_Vorfacelift_rear.jpg/1280px-Citro%C3%ABn_Berlingo_I_Vorfacelift_rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Citro%C3%ABn_Berlingo_I_Vorfacelift_rear.jpg/1280px-Citro%C3%ABn_Berlingo_I_Vorfacelift_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Citro%C3%ABn_Berlingo_I_Facelift_front-1.jpg/1280px-Citro%C3%ABn_Berlingo_I_Facelift_front-1.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/1999_Citro%C3%ABn_Berlingo_%28M59%29_van_%282008-08-21%29.jpg/1280px-1999_Citro%C3%ABn_Berlingo_%28M59%29_van_%282008-08-21%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Citro%C3%ABn_Berlingo_II_Multispace_rear.JPG/1280px-Citro%C3%ABn_Berlingo_II_Multispace_rear.JPG"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/dg/02/t5lr5ugc0oocco8o8g4o0/berlingo-ii.310.jpg"
+        }
+      }
+    ],
+    "BX": [
+      {
+        "BrandID": 31,
+        "ModelID": 307,
+        "Brand Name": "Citroen",
+        "Model Name": "BX",
+        "Serie Name": "BX",
+        "Years": "1982 - 1994",
+        "specs": {
+          "bodyType": "Hatchback/Wagon",
+          "segment": "Mid-size",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 1.9L GTi",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën BX to awangardowy model klasy średniej z zawieszeniem hydropneumatycznym i nadwoziem z elementami kompozytowymi.",
+              "en": "Citroën BX is an avant-garde mid-size model with hydropneumatic suspension and a body with composite elements.",
+              "de": "Citroën BX ist ein avantgardistisches Mittelklassemodell mit hydropneumatischer Federung und einer Karosserie aus Verbundelementen.",
+              "uk": "Citroën BX - це авангардна середньорозмірна модель з гідропневматичною підвіскою і кузовом з композитних елементів.",
+              "ru": "Citroën BX — авангардная среднеразмерная модель с гидропневматической подвеской и кузовом с композитными элементами.",
+              "zh": "雪铁龙 BX 是一款前卫的中档车型，采用液压气动悬架和复合元件车身。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "1982–1994",
+              "miejsce produkcji": {
+                "pl": "Rennes, Francja",
+                "en": "Rennes, France",
+                "de": "Rennes, Frankreich",
+                "uk": "Ренн, Франція",
+                "ru": "Ренн, Франция",
+                "zh": "法国雷恩"
+              },
+              "platforma": {
+                "pl": "PSA BX",
+                "en": "PSA BX",
+                "de": "PSA BX",
+                "uk": "PSA BX",
+                "ru": "ПСА БХ",
+                "zh": "PSA BX"
+              },
+              "silnik": {
+                "pl": "1.4L - 1.9L GTi",
+                "en": "1.4L - 1.9L GTi",
+                "de": "1,4 l – 1,9 l GTi",
+                "uk": "1,4-1,9 л GTi",
+                "ru": "1,4–1,9 л GTi",
+                "zh": "1.4L - 1.9L GTi"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5o/32/5ivd9egwogskssgoo4k0s/bx-kombi.310.jpg"
+        }
+      }
+    ],
+    "C1": [
+      {
+        "BrandID": 31,
+        "ModelID": 413101,
+        "Brand Name": "Citroen",
+        "Model Name": "C1",
+        "Serie Name": "C1 I",
+        "Years": "2005 - 2014",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L / 1.4L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën C1 (I) to zwinne auto miejskie z trojaczków z Kolina (razem z Peugeotem 107 i Toyotą Aygo).",
+              "en": "Citroën C1 (I) is an agile city car from the triplets from Kolin (together with the Peugeot 107 and Toyota Aygo).",
+              "de": "Citroën C1 (I) ist ein agiles Stadtauto aus den Drillingen von Kolin (zusammen mit dem Peugeot 107 und dem Toyota Aygo).",
+              "uk": "Citroën C1 (I) — маневрений міський автомобіль із трійки від Kolin (разом з Peugeot 107 і Toyota Aygo).",
+              "ru": "Citroën C1 (I) — маневренный городской автомобиль из тройки от Колина (вместе с Peugeot 107 и Toyota Aygo).",
+              "zh": "雪铁龙 C1 (I) 是一款敏捷的城市汽车，来自 Kolin 三胞胎（另外还有标致 107 和丰田 Aygo）。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën / TPCA",
+                "en": "Citroën / TPCA",
+                "de": "Citroën / TPCA",
+                "uk": "Citroën / TPCA",
+                "ru": "Ситроен / TPCA",
+                "zh": "雪铁龙 / TPCA"
+              },
+              "okres produkcji": "2005–2014",
+              "miejsce produkcji": {
+                "pl": "Kolin, Czechy",
+                "en": "Kolin, Czech Republic",
+                "de": "Kolin, Tschechische Republik",
+                "uk": "Колін, Чехія",
+                "ru": "Колин, Чехия",
+                "zh": "科林，捷克共和国"
+              },
+              "platforma": {
+                "pl": "Toyota NBC",
+                "en": "Toyota NBC",
+                "de": "Toyota NBC",
+                "uk": "Toyota NBC",
+                "ru": "Тойота НБК",
+                "zh": "丰田 NBC"
+              },
+              "silnik": {
+                "pl": "1.0L / 1.4L HDi",
+                "en": "1.0L / 1.4L HDi",
+                "de": "1,0 l / 1,4 l HDi",
+                "uk": "1,0 л / 1,4 л HDi",
+                "ru": "1,0 л / 1,4 л HDi",
+                "zh": "1.0L / 1.4L HDi"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2008_Citroen_C1_Rhythm_1.0_Rear.jpg/1280px-2008_Citroen_C1_Rhythm_1.0_Rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2008_Citroen_C1_Rhythm_1.0_Rear.jpg/1280px-2008_Citroen_C1_Rhythm_1.0_Rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Citro%C3%ABn_C1_Facelift_20090607_front-1.JPG/1280px-Citro%C3%ABn_C1_Facelift_20090607_front-1.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2013_Citroen_C1_VTR_facelift_1.0.jpg/1280px-2013_Citroen_C1_VTR_facelift_1.0.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2017_Citroen_C1_Flair_Puretech_1.2_Rear.jpg/1280px-2017_Citroen_C1_Flair_Puretech_1.2_Rear.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/38/0y/ggomslus80og00008o80s/citroen-c1-6.310.jpg"
+        }
+      },
+      {
+        "BrandID": 31,
+        "ModelID": 413102,
+        "Brand Name": "Citroen",
+        "Model Name": "C1",
+        "Serie Name": "C1 II",
+        "Years": "2014 - 2022",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.0L VTi / 1.2L PureTech",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën C1 (II) kontynuuje sukces modelu, oferując nowocześniejszy wygląd, opcję Airscape z otwieranym dachem i silnik PureTech.",
+              "en": "The Citroën C1 (II) continues the model's success with a more modern look, Airscape option with sunroof and a PureTech engine.",
+              "de": "Der Citroën C1 (II) setzt den Erfolg des Modells mit einem moderneren Look, Airscape-Option mit Schiebedach und einem PureTech-Motor fort.",
+              "uk": "Citroën C1 (II) продовжує успіх моделі завдяки більш сучасному вигляду, варіанту Airscape з люком і двигуном PureTech.",
+              "ru": "Citroën C1 (II) продолжает успех модели с более современным внешним видом, опцией Airscape с люком на крыше и двигателем PureTech.",
+              "zh": "雪铁龙 C1 (II) 凭借更现代的外观、带天窗和 PureTech 发动机的 Airscape 选项延续了该车型的成功。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën / TPCA",
+                "en": "Citroën / TPCA",
+                "de": "Citroën / TPCA",
+                "uk": "Citroën / TPCA",
+                "ru": "Ситроен / TPCA",
+                "zh": "雪铁龙 / TPCA"
+              },
+              "okres produkcji": "2014–2022",
+              "miejsce produkcji": {
+                "pl": "Kolin, Czechy",
+                "en": "Kolin, Czech Republic",
+                "de": "Kolin, Tschechische Republik",
+                "uk": "Колін, Чехія",
+                "ru": "Колин, Чехия",
+                "zh": "捷克科林"
+              },
+              "platforma": {
+                "pl": "Toyota New NBC",
+                "en": "Toyota New NBC",
+                "de": "Toyota New NBC",
+                "uk": "Toyota New NBC",
+                "ru": "Тойота Нью НБК",
+                "zh": "丰田 New NBC"
+              },
+              "silnik": {
+                "pl": "1.0L VTi / 1.2L PureTech",
+                "en": "1.0L VTi / 1.2L PureTech",
+                "de": "1,0 l VTi / 1,2 l PureTech",
+                "uk": "1,0 л VTi / 1,2 л PureTech",
+                "ru": "1,0 л VTi / 1,2 л PureTech",
+                "zh": "1.0L VTi / 1.2L PureTech"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2008_Citroen_C1_Rhythm_1.0_Rear.jpg/1280px-2008_Citroen_C1_Rhythm_1.0_Rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2008_Citroen_C1_Rhythm_1.0_Rear.jpg/1280px-2008_Citroen_C1_Rhythm_1.0_Rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Citro%C3%ABn_C1_Facelift_20090607_front-1.JPG/1280px-Citro%C3%ABn_C1_Facelift_20090607_front-1.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2013_Citroen_C1_VTR_facelift_1.0.jpg/1280px-2013_Citroen_C1_VTR_facelift_1.0.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/2017_Citroen_C1_Flair_Puretech_1.2_Rear.jpg/1280px-2017_Citroen_C1_Flair_Puretech_1.2_Rear.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/38/0y/ggomslus80og00008o80s/citroen-c1-6.310.jpg"
+        }
+      }
+    ],
+    "C2": [
+      {
+        "BrandID": 31,
+        "ModelID": 413804,
+        "Brand Name": "Citroen",
+        "Model Name": "C2",
+        "Serie Name": "C2",
+        "Years": "2003 - 2009",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.1L - 1.6L VTS / 1.4L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën C2 to dynamiczne trzydrzwiowe auto miejskie, następca Saxo, znane z wersji VTS i VTR.",
+              "en": "Citroën C2 is a dynamic three-door city car, the successor to Saxo, known from the VTS and VTR versions.",
+              "de": "Citroën C2 ist ein dynamischer dreitüriger Stadtwagen, der Nachfolger des Saxo, bekannt aus den Versionen VTS und VTR.",
+              "uk": "Citroën C2 — динамічний тридверний міський автомобіль, наступник Saxo, відомого з версій VTS і VTR.",
+              "ru": "Citroën C2 — динамичный трехдверный городской автомобиль, преемник Saxo, известного по версиям VTS и VTR.",
+              "zh": "雪铁龙 C2 是一款动感三门城市汽车，盛宝的后继者，以 VTS 和 VTR 版本而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "2003–2009",
+              "miejsce produkcji": {
+                "pl": "Aulnay-sous-Bois, Francja",
+                "en": "Aulnay-sous-Bois, France",
+                "de": "Aulnay-sous-Bois, Frankreich",
+                "uk": "Ольне-су-Буа, Франція",
+                "ru": "Ольне-су-Буа, Франция",
+                "zh": "法国 Aulnay-sous-Bois"
+              },
+              "platforma": {
+                "pl": "PSA PF1",
+                "en": "PSA PF1",
+                "de": "PSA PF1",
+                "uk": "PSA PF1",
+                "ru": "СРП ПФ1",
+                "zh": "PSA PF1"
+              },
+              "silnik": {
+                "pl": "1.1L - 1.6L",
+                "en": "1.1L - 1.6L",
+                "de": "1,1 l – 1,6 l",
+                "uk": "1,1 л - 1,6 л",
+                "ru": "1,1 л - 1,6 л",
+                "zh": "1.1L - 1.6L"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/8f/38/459lqb488wwsok0wsc4wg/c2.310.jpg"
+        }
+      }
+    ],
+    "C3": [
+      {
+        "BrandID": 31,
+        "ModelID": 131951,
+        "Brand Name": "Citroen",
+        "Model Name": "C3",
+        "Serie Name": "C3 I",
+        "Years": "2002 - 2009",
+        "specs": {
+          "bodyType": "Hatchback/Convertible",
+          "segment": "Small Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.1L - 1.6L / 1.4L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën C3 (I) wyróżnia się wysokim, łukowatym nadwoziem nawiązującym do 2CV i przestronnym wnętrzem.",
+              "en": "The Citroën C3 (I) is distinguished by a high, arched body reminiscent of the 2CV and a spacious interior.",
+              "de": "Der Citroën C3 (I) zeichnet sich durch eine hohe, gewölbte Karosserie, die an den 2CV erinnert, und einen geräumigen Innenraum aus.",
+              "uk": "Citroën C3 (I) відрізняється високим вигнутим кузовом, що нагадує 2CV, і просторим салоном.",
+              "ru": "Citroën C3 (I) отличается высоким, арочным кузовом, напоминающим 2CV, и просторным салоном.",
+              "zh": "雪铁龙 C3 (I) 的特点是高耸的拱形车身（让人想起 2CV）和宽敞的内部空间。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "2002–2009",
+              "miejsce produkcji": {
+                "pl": "Aulnay-sous-Bois, Francja",
+                "en": "Aulnay-sous-Bois, France",
+                "de": "Aulnay-sous-Bois, Frankreich",
+                "uk": "Ольне-су-Буа, Франція",
+                "ru": "Ольне-су-Буа, Франция",
+                "zh": "法国 Aulnay-sous-Bois"
+              },
+              "platforma": {
+                "pl": "PSA PF1",
+                "en": "PSA PF1",
+                "de": "PSA PF1",
+                "uk": "PSA PF1",
+                "ru": "СРП ПФ1",
+                "zh": "PSA PF1"
+              },
+              "silnik": {
+                "pl": "1.1L - 1.6L HDi",
+                "en": "1.1L - 1.6L HDi",
+                "de": "1,1 l – 1,6 l HDi",
+                "uk": "1,1 л - 1,6 л HDi",
+                "ru": "1,1–1,6 л HDi",
+                "zh": "1.1L - 1.6L HDi"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Citro%C3%ABn_C3_rear.jpg/1280px-Citro%C3%ABn_C3_rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Citro%C3%ABn_C3_rear.jpg/1280px-Citro%C3%ABn_C3_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Citro%C3%ABn_C3_I_Facelift_front_20100710.jpg/1280px-Citro%C3%ABn_C3_I_Facelift_front_20100710.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Citro%C3%ABn_C3_I_Facelift_rear_20100710.jpg/1280px-Citro%C3%ABn_C3_I_Facelift_rear_20100710.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Citro%C3%ABn_C3_Pluriel_front.jpg/1280px-Citro%C3%ABn_C3_Pluriel_front.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bt/c0/6i25vs0g8sw8k0so0cgg0/c3-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 31,
+        "ModelID": 412951,
+        "Brand Name": "Citroen",
+        "Model Name": "C3",
+        "Serie Name": "C3 II",
+        "Years": "2009 - 2016",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Small Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.1L - 1.6L VTi / 1.6L e-HDi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën C3 (II) zyskał nowoczesny design, w tym opcjonalną szybę Zenith zachodzącą na dach, zwiększającą widoczność.",
+              "en": "The Citroën C3 (II) has a modern design, including an optional Zenith window covering the roof, increasing visibility.",
+              "de": "Der Citroën C3 (II) verfügt über ein modernes Design, einschließlich eines optionalen Zenith-Fensters, das das Dach abdeckt und die Sicht verbessert.",
+              "uk": "Citroën C3 (II) має сучасний дизайн, включаючи опціональне вікно Zenith, що закриває дах, покращуючи видимість.",
+              "ru": "Citroën C3 (II) имеет современный дизайн, включая опциональное окно Zenith, закрывающее крышу и улучшающее обзор.",
+              "zh": "雪铁龙 C3 (II) 采用了现代设计，包括可选的覆盖车顶的 Zenith 车窗，增加了视野。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "2009–2016",
+              "miejsce produkcji": {
+                "pl": "Poissy, Francja",
+                "en": "Poissy, France",
+                "de": "Poissy, Frankreich",
+                "uk": "Пуассі, Франція",
+                "ru": "Пуасси, Франция",
+                "zh": "法国普瓦西"
+              },
+              "platforma": {
+                "pl": "PSA PF1",
+                "en": "PSA PF1",
+                "de": "PSA PF1",
+                "uk": "PSA PF1",
+                "ru": "СРП ПФ1",
+                "zh": "PSA PF1"
+              },
+              "silnik": {
+                "pl": "1.1L - 1.6L e-HDi",
+                "en": "1.1L - 1.6L e-HDi",
+                "de": "1,1 l – 1,6 l e-HDi",
+                "uk": "1,1-1,6-літровий e-HDi",
+                "ru": "1,1–1,6 л e-HDi",
+                "zh": "1.1L - 1.6L e-HDi"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Citro%C3%ABn_C3_rear.jpg/1280px-Citro%C3%ABn_C3_rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Citro%C3%ABn_C3_rear.jpg/1280px-Citro%C3%ABn_C3_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Citro%C3%ABn_C3_I_Facelift_front_20100710.jpg/1280px-Citro%C3%ABn_C3_I_Facelift_front_20100710.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Citro%C3%ABn_C3_I_Facelift_rear_20100710.jpg/1280px-Citro%C3%ABn_C3_I_Facelift_rear_20100710.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Citro%C3%ABn_C3_Pluriel_front.jpg/1280px-Citro%C3%ABn_C3_Pluriel_front.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bt/c0/6i25vs0g8sw8k0so0cgg0/c3-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 31,
+        "ModelID": 414094,
+        "Brand Name": "Citroen",
+        "Model Name": "C3",
+        "Serie Name": "C3 III",
+        "Years": "2016 - 2024",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Small Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L PureTech / 1.5L BlueHDi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën C3 (III) wprowadził charakterystyczne panele Airbump i stylistykę crossovera do segmentu B. Bardzo komfortowy.",
+              "en": "Citroën C3 (III) introduced characteristic Airbump panels and crossover styling to the B segment. Very comfortable.",
+              "de": "Der Citroën C3 (III) führte im B-Segment die charakteristischen Airbump-Panels und das Crossover-Design ein. Sehr bequem.",
+              "uk": "Citroën C3 (III) представив характерні панелі Airbump і стиль кросовера в сегменті B. Дуже зручно.",
+              "ru": "Citroën C3 (III) представил в сегменте B характерные панели Airbump и стиль кроссовера. Очень удобно.",
+              "zh": "雪铁龙 C3 (III) 为 B 级车引入了特色 Airbump 面板和跨界造型。很舒服。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "2016–2024",
+              "miejsce produkcji": {
+                "pl": "Trnava, Słowacja",
+                "en": "Trnava, Slovakia",
+                "de": "Trnava, Slowakei",
+                "uk": "Трнава, Словаччина",
+                "ru": "Трнава, Словакия",
+                "zh": "斯洛伐克特尔纳瓦"
+              },
+              "platforma": {
+                "pl": "PSA PF1",
+                "en": "PSA PF1",
+                "de": "PSA PF1",
+                "uk": "PSA PF1",
+                "ru": "СРП ПФ1",
+                "zh": "PSA PF1"
+              },
+              "silnik": {
+                "pl": "1.2L PureTech - 1.6L BlueHDi",
+                "en": "1.2L PureTech - 1.6L BlueHDi",
+                "de": "1,2 l PureTech – 1,6 l BlueHDi",
+                "uk": "1,2 л PureTech - 1,6 л BlueHDi",
+                "ru": "1,2 л PureTech — 1,6 л BlueHDi",
+                "zh": "1.2L PureTech - 1.6L BlueHDi"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Citro%C3%ABn_C3_rear.jpg/1280px-Citro%C3%ABn_C3_rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Citro%C3%ABn_C3_rear.jpg/1280px-Citro%C3%ABn_C3_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Citro%C3%ABn_C3_I_Facelift_front_20100710.jpg/1280px-Citro%C3%ABn_C3_I_Facelift_front_20100710.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Citro%C3%ABn_C3_I_Facelift_rear_20100710.jpg/1280px-Citro%C3%ABn_C3_I_Facelift_rear_20100710.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Citro%C3%ABn_C3_Pluriel_front.jpg/1280px-Citro%C3%ABn_C3_Pluriel_front.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bt/c0/6i25vs0g8sw8k0so0cgg0/c3-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 31,
+        "ModelID": 416691,
+        "Brand Name": "Citroen",
+        "Model Name": "C3",
+        "Serie Name": "C3 IV",
+        "Years": "2024 - 3000",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Small Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Electric",
+          "engine": "1.2L Turbo / Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën C3 (IV) to nowa generacja o stylistyce SUV-a, dostępna również w w pełni elektrycznej wersji ë-C3.",
+              "en": "Citroën C3 (IV) is a new generation with an SUV style, also available in a fully electric ë-C3 version.",
+              "de": "Citroën C3 (IV) ist eine neue Generation im SUV-Stil, auch in einer vollelektrischen ë-C3-Version erhältlich.",
+              "uk": "Citroën C3 (IV) — це нове покоління в стилі SUV, також доступне у повністю електричній версії ë-C3.",
+              "ru": "Citroën C3 (IV) — новое поколение внедорожников, также доступное в полностью электрической версии ë-C3.",
+              "zh": "雪铁龙 C3 (IV) 是新一代 SUV 风格，还有全电动 ë-C3 版本。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": {
+                "pl": "od 2024",
+                "en": "from 2024",
+                "de": "ab 2024",
+                "uk": "з 2024 року",
+                "ru": "с 2024 года",
+                "zh": "2024 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Trnava, Słowacja",
+                "en": "Trnava, Slovakia",
+                "de": "Trnava, Slowakei",
+                "uk": "Трнава, Словаччина",
+                "ru": "Трнава, Словакия",
+                "zh": "斯洛伐克 Trnava"
+              },
+              "platforma": {
+                "pl": "Stellantis Smart Car",
+                "en": "Stellantis Smart Car",
+                "de": "Stellantis Smart Car",
+                "uk": "Розумний автомобіль Stellantis",
+                "ru": "Умный автомобиль Stellantis",
+                "zh": "Stellantis 智能汽车"
+              },
+              "silnik": {
+                "pl": "1.2L Turbo / Electric",
+                "en": "1.2L Turbo/Electric",
+                "de": "1,2 l Turbo/Elektro",
+                "uk": "1.2L Turbo/Electric",
+                "ru": "1,2 л турбо/электрический",
+                "zh": "1.2L 涡轮增压/电动"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Citro%C3%ABn_C3_rear.jpg/1280px-Citro%C3%ABn_C3_rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Citro%C3%ABn_C3_rear.jpg/1280px-Citro%C3%ABn_C3_rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Citro%C3%ABn_C3_I_Facelift_front_20100710.jpg/1280px-Citro%C3%ABn_C3_I_Facelift_front_20100710.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Citro%C3%ABn_C3_I_Facelift_rear_20100710.jpg/1280px-Citro%C3%ABn_C3_I_Facelift_rear_20100710.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Citro%C3%ABn_C3_Pluriel_front.jpg/1280px-Citro%C3%ABn_C3_Pluriel_front.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bt/c0/6i25vs0g8sw8k0so0cgg0/c3-ii.310.jpg"
+        }
+      }
+    ],
+    "C3 Aircross": [
+      {
+        "BrandID": 31,
+        "ModelID": 415815,
+        "Brand Name": "Citroen",
+        "Model Name": "C3 Aircross",
+        "Serie Name": "C3 Aircross",
+        "Years": "2017 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L PureTech / 1.5L BlueHDi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën C3 Aircross to kompaktowy crossover zastępujący model C3 Picasso, oferujący modułowe wnętrze i styl SUV-a.",
+              "en": "The Citroën C3 Aircross is a compact crossover replacing the C3 Picasso, offering a modular interior and SUV styling.",
+              "de": "Der Citroën C3 Aircross ist ein kompakter Crossover, der den C3 Picasso ersetzt und einen modularen Innenraum und SUV-Stil bietet.",
+              "uk": "Citroën C3 Aircross — компактний кросовер, який замінив C3 Picasso, пропонує модульний інтер’єр і стиль SUV.",
+              "ru": "Citroën C3 Aircross — компактный кроссовер, заменяющий C3 Picasso, предлагающий модульный интерьер и стиль внедорожника.",
+              "zh": "雪铁龙 C3 Aircross 是一款紧凑型跨界车，取代 C3 Picasso，提供模块化内饰和 SUV 风格。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": {
+                "pl": "od 2017",
+                "en": "since 2017",
+                "de": "seit 2017",
+                "uk": "з 2017 року",
+                "ru": "с 2017 года",
+                "zh": "2017 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Saragossa, Hiszpania",
+                "en": "Zaragoza, Spain",
+                "de": "Saragossa, Spanien",
+                "uk": "Сарагоса, Іспанія",
+                "ru": "Сарагоса, Испания",
+                "zh": "西班牙萨拉戈萨"
+              },
+              "platforma": {
+                "pl": "PSA PF1",
+                "en": "PSA PF1",
+                "de": "PSA PF1",
+                "uk": "PSA PF1",
+                "ru": "СРП ПФ1",
+                "zh": "PSA PF1"
+              },
+              "silnik": {
+                "pl": "1.2L PureTech - 1.5L BlueHDi",
+                "en": "1.2L PureTech - 1.5L BlueHDi",
+                "de": "1,2 l PureTech – 1,5 l BlueHDi",
+                "uk": "1,2 л PureTech - 1,5 л BlueHDi",
+                "ru": "1,2 л PureTech — 1,5 л BlueHDi",
+                "zh": "1.2L PureTech - 1.5L BlueHDi"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "C3 Picasso": [
+      {
+        "BrandID": 31,
+        "ModelID": 414097,
+        "Brand Name": "Citroen",
+        "Model Name": "C3 Picasso",
+        "Serie Name": "C3 Picasso",
+        "Years": "2009 - 2017",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Small MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L VTi - 1.6L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Citroën C3 Picasso to innowacyjny mikrovan o pudełkowatym kształcie zapewniającym rekordową przestrzeń w małym nadwoziu.",
+              "en": "Citroën C3 Picasso is an innovative microvan with a boxy shape providing record space in a small body.",
+              "de": "Der Citroën C3 Picasso ist ein innovativer Kleintransporter mit kastenförmiger Form, der in einer kleinen Karosserie rekordverdächtiges Platzangebot bietet.",
+              "uk": "Citroën C3 Picasso — інноваційний мікровен квадратної форми, що забезпечує рекордний простір у маленькому кузові.",
+              "ru": "Citroën C3 Picasso — инновационный микровэн квадратной формы, обеспечивающий рекордное пространство в небольшом кузове.",
+              "zh": "雪铁龙 C3 Picasso 是一款创新型微型货车，其四四方方的形状在小巧的车身中提供了创纪录的空间。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "2009–2017",
+              "miejsce produkcji": {
+                "pl": "Trnava, Słowacja",
+                "en": "Trnava, Slovakia",
+                "de": "Trnava, Slowakei",
+                "uk": "Трнава, Словаччина",
+                "ru": "Трнава, Словакия",
+                "zh": "斯洛伐克特尔纳瓦"
+              },
+              "platforma": {
+                "pl": "PSA PF1",
+                "en": "PSA PF1",
+                "de": "PSA PF1",
+                "uk": "PSA PF1",
+                "ru": "СРП ПФ1",
+                "zh": "PSA PF1"
+              },
+              "silnik": {
+                "pl": "1.4L - 1.6L HDi",
+                "en": "1.4L - 1.6L HDi",
+                "de": "1,4 l – 1,6 l HDi",
+                "uk": "1,4 л - 1,6 л HDi",
+                "ru": "1,4–1,6 л HDi",
+                "zh": "1.4L - 1.6L HDi"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6c/e7/ekwghrswggwk88ssok8o0/c3-picasso.310.jpg"
+        }
+      }
+    ],
+    "C4": [
+      {
+        "BrandID": 31,
+        "ModelID": 3620,
+        "Brand Name": "Citroen",
+        "Model Name": "C4",
+        "Serie Name": "C4 I",
+        "Years": "2004 - 2010",
+        "specs": {
+          "bodyType": "Hatchback/Coupe",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 2.0L VTS / 1.6L HDi - 2.0L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën C4 (I) zasłynął kierownicą z nieruchomym środkiem i awangardowym wyświetlaczem cyfrowym.",
+              "en": "Citroën C4 (I) became famous for its steering wheel with a fixed center and an avant-garde digital display.",
+              "de": "Der Citroën C4 (I) wurde berühmt für sein Lenkrad mit fester Mitte und einer avantgardistischen Digitalanzeige.",
+              "uk": "Citroën C4 (I) прославився своїм кермом з фіксованим центром і авангардним цифровим дисплеєм.",
+              "ru": "Citroën C4 (I) прославился своим рулевым колесом с фиксированным центром и авангардным цифровым дисплеем.",
+              "zh": "雪铁龙 C4 (I) 以其固定中心方向盘和前卫的数字显示屏而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "2004–2010",
+              "miejsce produkcji": {
+                "pl": "Mulhouse, Francja",
+                "en": "Mulhouse, France",
+                "de": "Mülhausen, Frankreich",
+                "uk": "Мюлуз, Франція",
+                "ru": "Мюлуз, Франция",
+                "zh": "法国米卢斯"
+              },
+              "platforma": {
+                "pl": "PSA PF2",
+                "en": "PSA PF2",
+                "de": "PSA PF2",
+                "uk": "PSA PF2",
+                "ru": "ПСА ПФ2",
+                "zh": "PSA PF2"
+              },
+              "silnik": {
+                "pl": "1.4L - 2.0L VTS / HDi",
+                "en": "1.4L - 2.0L VTS/HDi",
+                "de": "1,4 l – 2,0 l VTS/HDi",
+                "uk": "1,4-2,0 л VTS/HDi",
+                "ru": "1,4–2,0 л VTS/HDi",
+                "zh": "1.4L - 2.0L VTS / HDi"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2006_Citroen_C4_SX_1.6_Rear.jpg/1280px-2006_Citroen_C4_SX_1.6_Rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2006_Citroen_C4_SX_1.6_Rear.jpg/1280px-2006_Citroen_C4_SX_1.6_Rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Citroen_C4_rear_20081201.jpg/1280px-Citroen_C4_rear_20081201.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/2010_Citro%C3%ABn_C4_%28MY09%29_Exclusive_hatchback_%282015-07-09%29_01.jpg/1280px-2010_Citro%C3%ABn_C4_%28MY09%29_Exclusive_hatchback_%282015-07-09%29_01.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Citroen_C4_1.6_HDi_Sedan_2009_%2816620730429%29.jpg/1280px-Citroen_C4_1.6_HDi_Sedan_2009_%2816620730429%29.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3t/x4/xiy5mkqo84wsc8wgsk0ks/c4-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 31,
+        "ModelID": 413683,
+        "Brand Name": "Citroen",
+        "Model Name": "C4",
+        "Serie Name": "C4 II",
+        "Years": "2010 - 2018",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L PureTech / 1.6L VTi / 1.6L-2.0L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën C4 (II) stał się bardziej konserwatywny stylistycznie, ale zyskał na jakości wykończenia i komforcie jazdy.",
+              "en": "Citroën C4 (II) became more conservative stylistically, but improved the quality of finish and driving comfort.",
+              "de": "Der Citroën C4 (II) wurde stilistisch konservativer, verbesserte aber die Verarbeitungsqualität und den Fahrkomfort.",
+              "uk": "Citroën C4 (II) став більш консервативним стилістично, але покращив якість обробки та комфорт водіння.",
+              "ru": "Citroën C4 (II) стал более консервативным стилистически, но улучшилось качество отделки и ездовой комфорт.",
+              "zh": "雪铁龙 C4 (II) 风格变得更加保守，但提高了饰面质量和驾驶舒适性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "2010–2018",
+              "miejsce produkcji": {
+                "pl": "Mulhouse, Francja",
+                "en": "Mulhouse, France",
+                "de": "Mülhausen, Frankreich",
+                "uk": "Мюлуз, Франція",
+                "ru": "Мюлуз, Франция",
+                "zh": "法国米卢斯"
+              },
+              "platforma": {
+                "pl": "PSA PF2",
+                "en": "PSA PF2",
+                "de": "PSA PF2",
+                "uk": "PSA PF2",
+                "ru": "ПСА ПФ2",
+                "zh": "PSA PF2"
+              },
+              "silnik": {
+                "pl": "1.2L PureTech - 2.0L BlueHDi",
+                "en": "1.2L PureTech - 2.0L BlueHDi",
+                "de": "1,2 l PureTech – 2,0 l BlueHDi",
+                "uk": "1,2 л PureTech - 2,0 л BlueHDi",
+                "ru": "1,2 л PureTech — 2,0 л BlueHDi",
+                "zh": "1.2L PureTech - 2.0L BlueHDi"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2006_Citroen_C4_SX_1.6_Rear.jpg/1280px-2006_Citroen_C4_SX_1.6_Rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2006_Citroen_C4_SX_1.6_Rear.jpg/1280px-2006_Citroen_C4_SX_1.6_Rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Citroen_C4_rear_20081201.jpg/1280px-Citroen_C4_rear_20081201.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/2010_Citro%C3%ABn_C4_%28MY09%29_Exclusive_hatchback_%282015-07-09%29_01.jpg/1280px-2010_Citro%C3%ABn_C4_%28MY09%29_Exclusive_hatchback_%282015-07-09%29_01.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Citroen_C4_1.6_HDi_Sedan_2009_%2816620730429%29.jpg/1280px-Citroen_C4_1.6_HDi_Sedan_2009_%2816620730429%29.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3t/x4/xiy5mkqo84wsc8wgsk0ks/c4-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 31,
+        "ModelID": 416692,
+        "Brand Name": "Citroen",
+        "Model Name": "C4",
+        "Serie Name": "C4 III",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "Hatchback/Crossover",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/Electric",
+          "engine": "1.2L PureTech / 1.5L BlueHDi / Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën C4 (III) to powrót modelu w formie crossovera coupe z zawieszeniem Progressive Hydraulic Cushions.",
+              "en": "Citroën C4 (III) is the return of the model in the form of a crossover coupe with Progressive Hydraulic Cushions suspension.",
+              "de": "Citroën C4 (III) ist die Rückkehr des Modells in Form eines Crossover-Coupés mit Progressive Hydraulic Cushions-Federung.",
+              "uk": "Citroën C4 (III) — це повернення моделі у вигляді кросовера-купе з підвіскою Progressive Hydraulic Cushions.",
+              "ru": "Citroën C4 (III) — возвращение модели в виде кроссовера-купе с подвеской Progressive Hydraulic Cushions.",
+              "zh": "雪铁龙 C4 (III) 是该车型的回归，采用配备渐进式液压缓冲悬架的跨界轿跑车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": {
+                "pl": "od 2020",
+                "en": "from 2020",
+                "de": "ab 2020",
+                "uk": "з 2020 року",
+                "ru": "с 2020 года",
+                "zh": "2020 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Madryt, Hiszpania",
+                "en": "Madrid, Spain",
+                "de": "Madrid, Spanien",
+                "uk": "Мадрид, Іспанія",
+                "ru": "Мадрид, Испания",
+                "zh": "西班牙马德里"
+              },
+              "platforma": {
+                "pl": "PSA CMP",
+                "en": "PSA CMP",
+                "de": "PSA-CMP",
+                "uk": "PSA CMP",
+                "ru": "СРП ЧМП",
+                "zh": "PSA CMP"
+              },
+              "silnik": {
+                "pl": "1.2L PureTech / Electric",
+                "en": "1.2L PureTech/Electric",
+                "de": "1,2 l PureTech/Elektro",
+                "uk": "1,2 л PureTech/Електричний",
+                "ru": "1,2 л PureTech/электрический",
+                "zh": "1.2L PureTech / Electric"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2006_Citroen_C4_SX_1.6_Rear.jpg/1280px-2006_Citroen_C4_SX_1.6_Rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2006_Citroen_C4_SX_1.6_Rear.jpg/1280px-2006_Citroen_C4_SX_1.6_Rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Citroen_C4_rear_20081201.jpg/1280px-Citroen_C4_rear_20081201.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/2010_Citro%C3%ABn_C4_%28MY09%29_Exclusive_hatchback_%282015-07-09%29_01.jpg/1280px-2010_Citro%C3%ABn_C4_%28MY09%29_Exclusive_hatchback_%282015-07-09%29_01.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Citroen_C4_1.6_HDi_Sedan_2009_%2816620730429%29.jpg/1280px-Citroen_C4_1.6_HDi_Sedan_2009_%2816620730429%29.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3t/x4/xiy5mkqo84wsc8wgsk0ks/c4-ii.310.jpg"
+        }
+      }
+    ],
+    "C4 Aircross": [
+      {
+        "BrandID": 31,
+        "ModelID": 413937,
+        "Brand Name": "Citroen",
+        "Model Name": "C4 Aircross",
+        "Serie Name": "C4 Aircross",
+        "Years": "2012 - 2017",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L / 1.6L HDi / 1.8L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën C4 Aircross to kompaktowy SUV będący bliźniakiem Mitsubishi ASX, ale ze stylistyką Citroëna.",
+              "en": "The Citroën C4 Aircross is a compact SUV that is the twin of the Mitsubishi ASX, but with Citroën styling.",
+              "de": "Der Citroën C4 Aircross ist ein kompakter SUV, der der Zwilling des Mitsubishi ASX ist, jedoch im Citroën-Stil.",
+              "uk": "Citroën C4 Aircross — це компактний позашляховик, який є двійником Mitsubishi ASX, але в стилі Citroën.",
+              "ru": "Citroën C4 Aircross — компактный внедорожник, являющийся близнецом Mitsubishi ASX, но выполненный в стиле Citroën.",
+              "zh": "雪铁龙 C4 Aircross 是一款紧凑型 SUV，是三菱 ASX 的双胞胎，但具有雪铁龙风格。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "2012–2017",
+              "miejsce produkcji": {
+                "pl": "Okazaki, Japonia",
+                "en": "Okazaki, Japan",
+                "de": "Okazaki, Japan",
+                "uk": "Оказакі, Японія",
+                "ru": "Окадзаки, Япония",
+                "zh": "日本冈崎"
+              },
+              "platforma": {
+                "pl": "Mitsubishi GS",
+                "en": "Mitsubishi GS",
+                "de": "Mitsubishi GS",
+                "uk": "Mitsubishi GS",
+                "ru": "Митсубиси ГС",
+                "zh": "三菱 GS"
+              },
+              "silnik": {
+                "pl": "1.6L - 1.8L HDi",
+                "en": "1.6L - 1.8L HDi",
+                "de": "1,6 l – 1,8 l HDi",
+                "uk": "1,6-1,8 л HDi",
+                "ru": "1,6–1,8 л HDi",
+                "zh": "1.6L - 1.8L HDi"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      }
+    ],
+    "C4 Cactus": [
+      {
+        "BrandID": 31,
+        "ModelID": 413936,
+        "Brand Name": "Citroen",
+        "Model Name": "C4 Cactus",
+        "Serie Name": "C4 Cactus",
+        "Years": "2014 - 2020",
+        "specs": {
+          "bodyType": "Crossover",
+          "segment": "Compact Crossover",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L PureTech / 1.6L BlueHDi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën C4 Cactus zaszokował świat panelami Airbump chroniącymi nadwozie i minimalistycznym wnętrzem.",
+              "en": "Citroën C4 Cactus shocked the world with Airbump panels protecting the body and a minimalist interior.",
+              "de": "Der Citroën C4 Cactus schockierte die Welt mit Airbump-Panels zum Schutz der Karosserie und einem minimalistischen Innenraum.",
+              "uk": "Citroën C4 Cactus шокував світ панелями Airbump, що захищають кузов, і мінімалістичним салоном.",
+              "ru": "Citroën C4 Cactus потряс мир панелями Airbump, защищающими кузов, и минималистичным интерьером.",
+              "zh": "雪铁龙 C4 Cactus 凭借保护车身的 Airbump 面板和简约的内饰震惊了世界。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "2014–2020",
+              "miejsce produkcji": {
+                "pl": "Villaverde, Hiszpania",
+                "en": "Villaverde, Spain",
+                "de": "Villaverde, Spanien",
+                "uk": "Вільяверде, Іспанія",
+                "ru": "Вильяверде, Испания",
+                "zh": "Villaverde，西班牙"
+              },
+              "platforma": {
+                "pl": "PSA PF1",
+                "en": "PSA PF1",
+                "de": "PSA PF1",
+                "uk": "PSA PF1",
+                "ru": "СРП ПФ1",
+                "zh": "PSA PF1"
+              },
+              "silnik": {
+                "pl": "1.2L PureTech - 1.6L BlueHDi",
+                "en": "1.2L PureTech - 1.6L BlueHDi",
+                "de": "1,2 l PureTech – 1,6 l BlueHDi",
+                "uk": "1,2 л PureTech - 1,6 л BlueHDi",
+                "ru": "1,2 л PureTech — 1,6 л BlueHDi",
+                "zh": "1.2L PureTech - 1.6L BlueHDi"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/1y/ia/8y47nhwgc4wk4co0cskkk/citroen-c4-cactus-1.310.jpg"
+        }
+      }
+    ],
+    "C4 Picasso / Grand Picasso": [
+      {
+        "BrandID": 31,
+        "ModelID": 413103,
+        "Brand Name": "Citroen",
+        "Model Name": "C4 Picasso",
+        "Serie Name": "C4 Picasso I",
+        "Years": "2006 - 2013",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L VTi - 2.0L / 1.6L-2.0L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Citroën C4 Picasso (I) to wizjonerski minivan z ogromną przednią szybą Visiospace i pneumatycznym zawieszeniem z tyłu.",
+              "en": "The Citroën C4 Picasso (I) is a visionary minivan with a huge Visiospace windshield and air suspension at the rear.",
+              "de": "Der Citroën C4 Picasso (I) ist ein visionärer Minivan mit einer riesigen Visiospace-Windschutzscheibe und Luftfederung am Heck.",
+              "uk": "Citroën C4 Picasso (I) — мінівен з величезним вітровим склом Visiospace і пневматичною підвіскою ззаду.",
+              "ru": "Citroën C4 Picasso (I) — это перспективный минивэн с огромным лобовым стеклом Visiospace и пневматической подвеской сзади.",
+              "zh": "Citroën C4 Picasso (I) 是一款富有远见的小型货车，配有巨大的 Visiospace 挡风玻璃和后部空气悬架。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "2006–2013",
+              "miejsce produkcji": {
+                "pl": "Vigo, Hiszpania",
+                "en": "Vigo, Spain",
+                "de": "Vigo, Spanien",
+                "uk": "Віго, Іспанія",
+                "ru": "Виго, Испания",
+                "zh": "西班牙维戈"
+              },
+              "platforma": {
+                "pl": "PSA PF2",
+                "en": "PSA PF2",
+                "de": "PSA PF2",
+                "uk": "PSA PF2",
+                "ru": "ПСА ПФ2",
+                "zh": "PSA PF2"
+              },
+              "silnik": {
+                "pl": "1.6L - 2.0L HDi",
+                "en": "1.6L - 2.0L HDi",
+                "de": "1,6 l – 2,0 l HDi",
+                "uk": "1,6 л - 2,0 л HDi",
+                "ru": "1,6–2,0 л HDi",
+                "zh": "1.6L - 2.0L HDi"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Citro%C3%ABn_C4_Picasso_20090620_rear.JPG/1280px-Citro%C3%ABn_C4_Picasso_20090620_rear.JPG",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Citro%C3%ABn_C4_Picasso_20090620_rear.JPG/1280px-Citro%C3%ABn_C4_Picasso_20090620_rear.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Citro%C3%ABn_Grand_C4_Picasso_HDi_110_Tendance_%28Facelift%29_%E2%80%93_Frontansicht%2C_16._April_2011%2C_D%C3%BCsseldorf.jpg/1280px-Citro%C3%ABn_Grand_C4_Picasso_HDi_110_Tendance_%28Facelift%29_%E2%80%93_Frontansicht%2C_16._April_2011%2C_D%C3%BCsseldorf.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Citro%C3%ABn_Grand_C4_Picasso_HDi_150_Business_Class_%28Facelift%29_%E2%80%93_Heckansicht%2C_2._September_2012%2C_Ratingen.jpg/1280px-Citro%C3%ABn_Grand_C4_Picasso_HDi_150_Business_Class_%28Facelift%29_%E2%80%93_Heckansicht%2C_2._September_2012%2C_Ratingen.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/2015_Citro%C3%ABn_C4_Picasso_%28B7_MY15%29_Exclusive_e-THP_wagon_%282015-06-15%29_02.jpg/1280px-2015_Citro%C3%ABn_C4_Picasso_%28B7_MY15%29_Exclusive_e-THP_wagon_%282015-06-15%29_02.jpg"
+            ]
+          }
+        }
+      },
+      {
+        "BrandID": 31,
+        "ModelID": 413104,
+        "Brand Name": "Citroen",
+        "Model Name": "C4 Picasso",
+        "Serie Name": "C4 Picasso II",
+        "Years": "2013 - 2022",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L PureTech / 1.6L THP / 1.6L-2.0L BlueHDi",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Citroën C4 Picasso (II) wprowadził futurystyczny design ze światłami LED i nowy system multimedialny.",
+              "en": "Citroën C4 Picasso (II) introduced a futuristic design with LED lights and a new multimedia system.",
+              "de": "Citroën C4 Picasso (II) führte ein futuristisches Design mit LED-Leuchten und einem neuen Multimediasystem ein.",
+              "uk": "Citroën C4 Picasso (II) представив футуристичний дизайн зі світлодіодними ліхтарями та новою мультимедійною системою.",
+              "ru": "Citroën C4 Picasso (II) представил футуристический дизайн со светодиодными фарами и новой мультимедийной системой.",
+              "zh": "雪铁龙 C4 Picasso (II) 引入了带有 LED 灯和新多媒体系统的未来设计。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "2013–2022",
+              "miejsce produkcji": {
+                "pl": "Vigo, Hiszpania",
+                "en": "Vigo, Spain",
+                "de": "Vigo, Spanien",
+                "uk": "Віго, Іспанія",
+                "ru": "Виго, Испания",
+                "zh": "西班牙维戈"
+              },
+              "platforma": {
+                "pl": "PSA EMP2",
+                "en": "PSA EMP2",
+                "de": "PSA EMP2",
+                "uk": "PSA EMP2",
+                "ru": "СРП ЭМП2",
+                "zh": "PSA EMP2"
+              },
+              "silnik": {
+                "pl": "1.2L PureTech - 2.0L BlueHDi",
+                "en": "1.2L PureTech - 2.0L BlueHDi",
+                "de": "1,2 l PureTech – 2,0 l BlueHDi",
+                "uk": "1,2 л PureTech - 2,0 л BlueHDi",
+                "ru": "1,2 л PureTech — 2,0 л BlueHDi",
+                "zh": "1.2L PureTech - 2.0L BlueHDi"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Citro%C3%ABn_C4_Picasso_20090620_rear.JPG/1280px-Citro%C3%ABn_C4_Picasso_20090620_rear.JPG",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Citro%C3%ABn_C4_Picasso_20090620_rear.JPG/1280px-Citro%C3%ABn_C4_Picasso_20090620_rear.JPG",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Citro%C3%ABn_Grand_C4_Picasso_HDi_110_Tendance_%28Facelift%29_%E2%80%93_Frontansicht%2C_16._April_2011%2C_D%C3%BCsseldorf.jpg/1280px-Citro%C3%ABn_Grand_C4_Picasso_HDi_110_Tendance_%28Facelift%29_%E2%80%93_Frontansicht%2C_16._April_2011%2C_D%C3%BCsseldorf.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Citro%C3%ABn_Grand_C4_Picasso_HDi_150_Business_Class_%28Facelift%29_%E2%80%93_Heckansicht%2C_2._September_2012%2C_Ratingen.jpg/1280px-Citro%C3%ABn_Grand_C4_Picasso_HDi_150_Business_Class_%28Facelift%29_%E2%80%93_Heckansicht%2C_2._September_2012%2C_Ratingen.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/2015_Citro%C3%ABn_C4_Picasso_%28B7_MY15%29_Exclusive_e-THP_wagon_%282015-06-15%29_02.jpg/1280px-2015_Citro%C3%ABn_C4_Picasso_%28B7_MY15%29_Exclusive_e-THP_wagon_%282015-06-15%29_02.jpg"
+            ]
+          }
+        }
+      }
+    ],
+    "C4 X": [
+      {
+        "BrandID": 31,
+        "ModelID": 416693,
+        "Brand Name": "Citroen",
+        "Model Name": "C4 X",
+        "Serie Name": "C4 X",
+        "Years": "2022 - 3000",
+        "specs": {
+          "bodyType": "Sedan/Fastback",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/Electric",
+          "engine": "1.2L PureTech / 1.5L BlueHDi / Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën C4 X to elegancki fastback łączący cechy sedana i SUV-a, oferujący wyjątkowy komfort podróży.",
+              "en": "Citroën C4 X is an elegant fastback combining the features of a sedan and an SUV, offering exceptional travel comfort.",
+              "de": "Der Citroën C4 X ist ein elegantes Fastback, das die Merkmale einer Limousine und eines SUV vereint und außergewöhnlichen Reisekomfort bietet.",
+              "uk": "Citroën C4 X — це елегантний фастбек, який поєднує в собі риси седана та позашляховика, забезпечуючи винятковий комфорт подорожі.",
+              "ru": "Citroën C4 X — элегантный фастбэк, сочетающий в себе черты седана и внедорожника и предлагающий исключительный комфорт в путешествии.",
+              "zh": "雪铁龙 C4 X 是一款优雅的溜背车，结合了轿车和 SUV 的特点，提供卓越的旅行舒适度。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": {
+                "pl": "od 2022",
+                "en": "from 2022",
+                "de": "ab 2022",
+                "uk": "з 2022 року",
+                "ru": "с 2022 года",
+                "zh": "2022 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Madryt, Hiszpania",
+                "en": "Madrid, Spain",
+                "de": "Madrid, Spanien",
+                "uk": "Мадрид, Іспанія",
+                "ru": "Мадрид, Испания",
+                "zh": "西班牙马德里"
+              },
+              "platforma": {
+                "pl": "PSA CMP",
+                "en": "PSA CMP",
+                "de": "PSA-CMP",
+                "uk": "PSA CMP",
+                "ru": "СРП ЧМП",
+                "zh": "PSA CMP"
+              },
+              "silnik": {
+                "pl": "1.2L PureTech / Electric",
+                "en": "1.2L PureTech/Electric",
+                "de": "1,2 l PureTech/Elektro",
+                "uk": "1,2 л PureTech/Електричний",
+                "ru": "1,2 л PureTech/электрический",
+                "zh": "1.2L PureTech / Electric"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "C5": [
+      {
+        "BrandID": 31,
+        "ModelID": 131929,
+        "Brand Name": "Citroen",
+        "Model Name": "C5",
+        "Serie Name": "C5 I",
+        "Years": "2001 - 2008",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.8L - 3.0L V6 / 1.6L-2.2L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën C5 (I) to ostatni model klasy średniej z zawieszeniem Hydractive 3+, zapewniającym 'latający dywan'.",
+              "en": "Citroën C5 (I) is the last mid-size model with Hydractive 3+ suspension, providing a 'flying carpet'.",
+              "de": "Der Citroën C5 (I) ist das letzte Mittelklassemodell mit der Hydractive 3+-Federung, die für einen „fliegenden Teppich“ sorgt.",
+              "uk": "Citroën C5 (I) — остання модель середнього розміру з підвіскою Hydractive 3+, що створює «літаючий килим».",
+              "ru": "Citroën C5 (I) — последняя модель среднего размера с подвеской Hydractive 3+, образующей «ковер-самолет».",
+              "zh": "雪铁龙 C5 (I) 是最后一款配备 Hydractive 3+ 悬架的中档车型，提供“飞毯”。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "2001–2008",
+              "miejsce produkcji": {
+                "pl": "Rennes, Francja",
+                "en": "Rennes, France",
+                "de": "Rennes, Frankreich",
+                "uk": "Ренн, Франція",
+                "ru": "Ренн, Франция",
+                "zh": "法国雷恩"
+              },
+              "platforma": {
+                "pl": "PSA PF3",
+                "en": "PSA PF3",
+                "de": "PSA PF3",
+                "uk": "PSA PF3",
+                "ru": "ПСА ПФ3",
+                "zh": "PSA PF3"
+              },
+              "silnik": {
+                "pl": "1.8L - 3.0L V6",
+                "en": "1.8L - 3.0L V6",
+                "de": "1,8 l – 3,0 l V6",
+                "uk": "1,8 л - 3,0 л V6",
+                "ru": "1,8–3,0 л V6",
+                "zh": "1.8L - 3.0L V6"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Citroen_C5_rear_20081128.jpg/1280px-Citroen_C5_rear_20081128.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Citroen_C5_rear_20081128.jpg/1280px-Citroen_C5_rear_20081128.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Citroen_C5_Kombi_rear_20071112.jpg/1280px-Citroen_C5_Kombi_rear_20071112.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Citroen_C5_%28first_generation%2C_first_facelift%29_%28front%29%2C_Serdang.jpg/1280px-Citroen_C5_%28first_generation%2C_first_facelift%29_%28front%29%2C_Serdang.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Citroen_C5_%28first_generation%2C_first_facelift%29_%28rear%29%2C_Serdang.jpg/1280px-Citroen_C5_%28first_generation%2C_first_facelift%29_%28rear%29%2C_Serdang.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/f1/0j/aepl8dcgw0gw0co0kk8ww/c5-ii-sedan.310.jpg"
+        }
+      },
+      {
+        "BrandID": 31,
+        "ModelID": 137669,
+        "Brand Name": "Citroen",
+        "Model Name": "C5",
+        "Serie Name": "C5 II",
+        "Years": "2008 - 2017",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L THP - 3.0L V6 / 1.6L-3.0L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën C5 (II) zerwał z obłym stylem poprzednika na rzecz niemieckiej solidności, zachowując hydropneumatykę.",
+              "en": "Citroën C5 (II) abandoned the rounded style of its predecessor in favor of German solidity, while retaining hydropneumatics.",
+              "de": "Der Citroën C5 (II) verzichtete auf den runden Stil seines Vorgängers zugunsten der deutschen Solidität, behielt aber die Hydropneumatik bei.",
+              "uk": "Citroën C5 (II) відмовився від округлого стилю попередника на користь німецької солідності, зберігши при цьому гідропневматику.",
+              "ru": "Citroën C5 (II) отказался от округлого стиля своего предшественника в пользу немецкой солидности, сохранив гидропневматику.",
+              "zh": "雪铁龙 C5 (II) 放弃了其前身的圆形风格，转而采用德国坚固的设计，同时保留了液压气动技术。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "2008–2017",
+              "miejsce produkcji": {
+                "pl": "Rennes, Francja",
+                "en": "Rennes, France",
+                "de": "Rennes, Frankreich",
+                "uk": "Ренн, Франція",
+                "ru": "Ренн, Франция",
+                "zh": "法国雷恩"
+              },
+              "platforma": {
+                "pl": "PSA PF3",
+                "en": "PSA PF3",
+                "de": "PSA PF3",
+                "uk": "PSA PF3",
+                "ru": "ПСА ПФ3",
+                "zh": "PSA PF3"
+              },
+              "silnik": {
+                "pl": "1.6L THP - 3.0L V6 HDi",
+                "en": "1.6L THP - 3.0L V6 HDi",
+                "de": "1,6 l THP – 3,0 l V6 HDi",
+                "uk": "1,6 л THP - 3,0 л V6 HDi",
+                "ru": "1,6 л THP — 3,0 л V6 HDi",
+                "zh": "1.6L THP - 3.0L V6 HDi"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/f1/0j/aepl8dcgw0gw0co0kk8ww/c5-ii-sedan.310.jpg"
+        }
+      }
+    ],
+    "C5 Aircross": [
+      {
+        "BrandID": 31,
+        "ModelID": 415813,
+        "Brand Name": "Citroen",
+        "Model Name": "C5 Aircross",
+        "Serie Name": "C5 Aircross",
+        "Years": "2017 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "1.2L PureTech / 1.6L PureTech / 1.5L-2.0L BlueHDi / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën C5 Aircross to flagowy SUV marki, stawiający na komfort dzięki fotelom Advanced Comfort i zawieszeniu PHC.",
+              "en": "Citroën C5 Aircross is the brand's flagship SUV, focusing on comfort thanks to Advanced Comfort seats and PHC suspension.",
+              "de": "Der Citroën C5 Aircross ist das Flaggschiff-SUV der Marke und legt dank Advanced Comfort-Sitzen und PHC-Federung besonderen Wert auf Komfort.",
+              "uk": "Citroën C5 Aircross — це флагманський позашляховик бренду, який акцентує увагу на комфорті завдяки сидінням Advanced Comfort і підвісці PHC.",
+              "ru": "Citroën C5 Aircross — флагманский внедорожник бренда, в котором особое внимание уделяется комфорту благодаря сиденьям Advanced Comfort и подвеске PHC.",
+              "zh": "雪铁龙 C5 Aircross 是该品牌的旗舰 SUV，凭借高级舒适座椅和 PHC 悬架，注重舒适性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": {
+                "pl": "od 2017",
+                "en": "since 2017",
+                "de": "seit 2017",
+                "uk": "з 2017 року",
+                "ru": "с 2017 года",
+                "zh": "2017 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Rennes, Francja",
+                "en": "Rennes, France",
+                "de": "Rennes, Frankreich",
+                "uk": "Ренн, Франція",
+                "ru": "Ренн, Франция",
+                "zh": "法国雷恩"
+              },
+              "platforma": {
+                "pl": "PSA EMP2",
+                "en": "PSA EMP2",
+                "de": "PSA EMP2",
+                "uk": "PSA EMP2",
+                "ru": "СРП ЭМП2",
+                "zh": "PSA EMP2"
+              },
+              "silnik": {
+                "pl": "1.2L - 1.6L Hybrid",
+                "en": "1.2L - 1.6L Hybrid",
+                "de": "1,2 l – 1,6 l Hybrid",
+                "uk": "Гібрид 1,2-1,6 л",
+                "ru": "1,2–1,6 л гибридный",
+                "zh": "1.2L - 1.6L 混合动力"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "C5 X": [
+      {
+        "BrandID": 31,
+        "ModelID": 416694,
+        "Brand Name": "Citroen",
+        "Model Name": "C5 X",
+        "Serie Name": "C5 X",
+        "Years": "2021 - 3000",
+        "specs": {
+          "bodyType": "Wagon/Crossover",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.2L PureTech / 1.6L PureTech / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën C5 X to powrót do segmentu D w awangardowym stylu, łączącym limuzynę, kombi i SUV-a.",
+              "en": "Citroën C5 X is a return to the D segment in an avant-garde style, combining a limousine, station wagon and SUV.",
+              "de": "Der Citroën C5",
+              "uk": "Citroën C5 X – це повернення до сегменту D в авангардному стилі, що поєднує в собі лімузин, універсал і позашляховик.",
+              "ru": "Citroën C5 X – это возвращение в сегмент D в авангардном стиле, сочетающее в себе лимузин, универсал и внедорожник.",
+              "zh": "雪铁龙 C5 X 以前卫风格回归 D 级车，集豪华轿车、旅行车和 SUV 于一体。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": {
+                "pl": "od 2021",
+                "en": "from 2021",
+                "de": "ab 2021",
+                "uk": "з 2021 року",
+                "ru": "с 2021 года",
+                "zh": "2021 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Chengdu, Chiny",
+                "en": "Chengdu, China",
+                "de": "Chengdu, China",
+                "uk": "Ченду, Китай",
+                "ru": "Чэнду, Китай",
+                "zh": "中国成都"
+              },
+              "platforma": {
+                "pl": "PSA EMP2",
+                "en": "PSA EMP2",
+                "de": "PSA EMP2",
+                "uk": "PSA EMP2",
+                "ru": "СРП ЭМП2",
+                "zh": "PSA EMP2"
+              },
+              "silnik": {
+                "pl": "1.2L - 1.6L Plug-in Hybrid",
+                "en": "1.2L - 1.6L Plug-in Hybrid",
+                "de": "1,2 l – 1,6 l Plug-in-Hybrid",
+                "uk": "1,2-1,6-літровий гібрид",
+                "ru": "Подключаемый гибридный двигатель 1,2–1,6 л",
+                "zh": "1.2L - 1.6L 插电式混合动力车"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "C6": [
+      {
+        "BrandID": 31,
+        "ModelID": 317,
+        "Brand Name": "Citroen",
+        "Model Name": "C6",
+        "Serie Name": "C6",
+        "Years": "2005 - 2012",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Executive",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.0L V6 / 2.2L-3.0L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën C6 to luksusowa limuzyna o unikalnym designie, prezydenckie auto Francji. Ostatni prawdziwy duży Citroën.",
+              "en": "Citroën C6 is a luxurious limousine with a unique design, the presidential car of France. The last real big Citroën.",
+              "de": "Citroën C6 ist eine luxuriöse Limousine mit einzigartigem Design, das Präsidentenauto Frankreichs. Der letzte wirklich große Citroën.",
+              "uk": "Citroën C6 - розкішний лімузин з унікальним дизайном, президентський автомобіль Франції. Останній справжній великий Citroën.",
+              "ru": "Citroën C6 – роскошный лимузин с уникальным дизайном, президентский автомобиль Франции. Последний настоящий большой Ситроен.",
+              "zh": "雪铁龙 C6 是一款设计独特的豪华轿车，法国总统座驾。最后一辆真正的大型雪铁龙。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "2005–2012",
+              "miejsce produkcji": {
+                "pl": "Rennes, Francja",
+                "en": "Rennes, France",
+                "de": "Rennes, Frankreich",
+                "uk": "Ренн, Франція",
+                "ru": "Ренн, Франция",
+                "zh": "法国雷恩"
+              },
+              "platforma": {
+                "pl": "PSA PF3",
+                "en": "PSA PF3",
+                "de": "PSA PF3",
+                "uk": "PSA PF3",
+                "ru": "ПСА ПФ3",
+                "zh": "PSA PF3"
+              },
+              "silnik": {
+                "pl": "2.7L - 3.0L V6 HDi",
+                "en": "2.7L - 3.0L V6 HDi",
+                "de": "2,7 l–3,0 l V6 HDi",
+                "uk": "2,7-3,0 л V6 HDi",
+                "ru": "2,7–3,0 л V6 HDi",
+                "zh": "2.7L - 3.0L V6 HDi"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/wm/4g/vk01tis80o0swogwg88g/c6.310.jpg"
+        }
+      }
+    ],
+    "C8": [
+      {
+        "BrandID": 31,
+        "ModelID": 318,
+        "Brand Name": "Citroen",
+        "Model Name": "C8",
+        "Serie Name": "C8",
+        "Years": "2002 - 2014",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Large MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 3.0L V6 / 2.0L-2.2L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Citroën C8 to duży rodzinny van, brat Peugeota 807, oferujący do 8 miejsc i przesuwne drzwi elektryczne.",
+              "en": "The Citroën C8 is a large family van, the brother of the Peugeot 807, offering up to 8 seats and electric sliding doors.",
+              "de": "Der Citroën C8 ist ein großer Familienvan, der Bruder des Peugeot 807, mit bis zu 8 Sitzplätzen und elektrischen Schiebetüren.",
+              "uk": "Citroën C8 — це великий сімейний фургон, брат Peugeot 807, який пропонує до 8 місць і електричні розсувні двері.",
+              "ru": "Citroën C8 — большой семейный фургон, брат Peugeot 807, вмещающий до 8 мест и раздвижные двери с электроприводом.",
+              "zh": "雪铁龙 C8 是一款大型家庭面包车，是标致 807 的兄弟，提供最多 8 个座位和电动滑动门。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "2002–2014",
+              "miejsce produkcji": {
+                "pl": "Sevel Nord, Francja",
+                "en": "Sevel Nord, France",
+                "de": "Sevel Nord, Frankreich",
+                "uk": "Севель Норд, Франція",
+                "ru": "Севель Нор, Франция",
+                "zh": "Sevel Nord，法国"
+              },
+              "platforma": {
+                "pl": "PSA/Fiat Eurovans",
+                "en": "PSA/Fiat Eurovans",
+                "de": "PSA/Fiat Eurovans",
+                "uk": "PSA/Fiat Eurovans",
+                "ru": "PSA/Fiat Евровэны",
+                "zh": "PSA/Fiat Eurovans"
+              },
+              "silnik": {
+                "pl": "2.0L - 3.0L V6",
+                "en": "2.0L - 3.0L V6",
+                "de": "2,0 l–3,0 l V6",
+                "uk": "2,0 л - 3,0 л V6",
+                "ru": "2,0–3,0 л V6",
+                "zh": "2.0L - 3.0L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/36/zj/8fgjul2cgg48ko40kso0w/c8.310.jpg"
+        }
+      }
+    ],
+    "C-Crosser": [
+      {
+        "BrandID": 31,
+        "ModelID": 308,
+        "Brand Name": "Citroen",
+        "Model Name": "C-Crosser",
+        "Serie Name": "C-Crosser",
+        "Years": "2007 - 2012",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.4L / 2.2L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën C-Crosser to pierwszy SUV marki, opracowany wspólnie z Mitsubishi (Outlander) i Peugeotem (4007).",
+              "en": "Citroën C-Crosser is the brand's first SUV, developed jointly with Mitsubishi (Outlander) and Peugeot (4007).",
+              "de": "Citroën C-Crosser ist das erste SUV der Marke, das gemeinsam mit Mitsubishi (Outlander) und Peugeot (4007) entwickelt wurde.",
+              "uk": "Citroën C-Crosser — перший позашляховик марки, розроблений спільно з Mitsubishi (Outlander) і Peugeot (4007).",
+              "ru": "Citroën C-Crosser — первый внедорожник марки, разработанный совместно с Mitsubishi (Outlander) и Peugeot (4007).",
+              "zh": "雪铁龙 C-Crosser 是该品牌的首款 SUV，与三菱 (Outlander) 和标致 (4007) 联合开发。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "2007–2012",
+              "miejsce produkcji": {
+                "pl": "Okazaki, Japonia",
+                "en": "Okazaki, Japan",
+                "de": "Okazaki, Japan",
+                "uk": "Оказакі, Японія",
+                "ru": "Окадзаки, Япония",
+                "zh": "日本冈崎"
+              },
+              "platforma": {
+                "pl": "Mitsubishi GS",
+                "en": "Mitsubishi GS",
+                "de": "Mitsubishi GS",
+                "uk": "Mitsubishi GS",
+                "ru": "Митсубиси ГС",
+                "zh": "三菱 GS"
+              },
+              "silnik": {
+                "pl": "2.2L HDi / 2.4L",
+                "en": "2.2L HDi / 2.4L",
+                "de": "2,2L HDi / 2,4L",
+                "uk": "2,2 л HDi / 2,4 л",
+                "ru": "2,2 л HDi / 2,4 л",
+                "zh": "2.2L HDi / 2.4L"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6d/50/dzftgg00wgsggcws0kg08/c-crosser.310.jpg"
+        }
+      }
+    ],
+    "C-Elysee": [
+      {
+        "BrandID": 31,
+        "ModelID": 413938,
+        "Brand Name": "Citroen",
+        "Model Name": "C-Elysee",
+        "Serie Name": "C-Elysee",
+        "Years": "2012 - 2020",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Compact Budget",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L VTi / 1.6L VTi / 1.6L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën C-Elysée to budżetowy sedan zaprojektowany z myślą o rynkach wschodzących, oferujący dużą przestrzeń i wytrzymałość.",
+              "en": "The Citroën C-Elysée is a budget sedan designed for emerging markets, offering plenty of space and durability.",
+              "de": "Der Citroën C-Elysée ist eine preisgünstige Limousine, die für Schwellenländer entwickelt wurde und viel Platz und Langlebigkeit bietet.",
+              "uk": "Citroën C-Elysée – це бюджетний седан, розроблений для ринків, що розвиваються, який пропонує багато простору та міцність.",
+              "ru": "Citroën C-Elysée — бюджетный седан, предназначенный для развивающихся рынков, предлагающий много места и долговечность.",
+              "zh": "雪铁龙 C-Elysée 是一款专为新兴市场设计的经济型轿车，提供充足的空间和耐用性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "2012–2020",
+              "miejsce produkcji": {
+                "pl": "Vigo, Hiszpania",
+                "en": "Vigo, Spain",
+                "de": "Vigo, Spanien",
+                "uk": "Віго, Іспанія",
+                "ru": "Виго, Испания",
+                "zh": "西班牙维戈"
+              },
+              "platforma": {
+                "pl": "PSA PF1",
+                "en": "PSA PF1",
+                "de": "PSA PF1",
+                "uk": "PSA PF1",
+                "ru": "СРП ПФ1",
+                "zh": "PSA PF1"
+              },
+              "silnik": {
+                "pl": "1.2L VTi - 1.6L HDi",
+                "en": "1.2L VTi - 1.6L HDi",
+                "de": "1,2 l VTi – 1,6 l HDi",
+                "uk": "1,2 л VTi - 1,6 л HDi",
+                "ru": "1,2 л VTi — 1,6 л HDi",
+                "zh": "1.2L VTi - 1.6L HDi"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cd/wo/pbvyi7coss8sggwg4ss8o/57886.310.jpg"
+        }
+      }
+    ],
+    "DS3": [
+      {
+        "BrandID": 31,
+        "ModelID": 320,
+        "Brand Name": "Citroen",
+        "Model Name": "DS3",
+        "Serie Name": "DS3",
+        "Years": "2009 - 2016",
+        "specs": {
+          "bodyType": "Hatchback/Convertible",
+          "segment": "Premium Small Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L - 1.6L THP / 1.4L-1.6L e-HDi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën DS3 to stylowe auto miejskie, które zapoczątkowało linię DS. Znane z możliwości personalizacji i wersji Racing.",
+              "en": "Citroën DS3 is a stylish city car that started the DS line. Known for its customization options and Racing version.",
+              "de": "Citroën DS3 ist ein stilvolles Stadtauto, mit dem die DS-Reihe begann. Bekannt für seine Anpassungsmöglichkeiten und die Rennversion.",
+              "uk": "Citroën DS3 — це стильний міський автомобіль, який поклав початок лінійці DS. Відомий своїми можливостями налаштування та гоночною версією.",
+              "ru": "Citroën DS3 — стильный городской автомобиль, положивший начало линейке DS. Известен своими возможностями настройки и гоночной версией.",
+              "zh": "雪铁龙 DS3 是 DS 系列的一款时尚城市汽车。以其定制选项和赛车版本而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "2009–2016",
+              "miejsce produkcji": {
+                "pl": "Poissy, Francja",
+                "en": "Poissy, France",
+                "de": "Poissy, Frankreich",
+                "uk": "Пуассі, Франція",
+                "ru": "Пуасси, Франция",
+                "zh": "法国普瓦西"
+              },
+              "platforma": {
+                "pl": "PSA PF1",
+                "en": "PSA PF1",
+                "de": "PSA PF1",
+                "uk": "PSA PF1",
+                "ru": "СРП ПФ1",
+                "zh": "PSA PF1"
+              },
+              "silnik": {
+                "pl": "1.2L - 1.6L THP",
+                "en": "1.2L - 1.6L THP",
+                "de": "1,2 l – 1,6 l THP",
+                "uk": "1,2 л - 1,6 л THP",
+                "ru": "1,2–1,6 л, THP",
+                "zh": "1.2L - 1.6L THP"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/e6/yf/0jiaarcwo04ggg4w0gow8/citroen_ds3-2014_r5-jpg.310.jpg"
+        }
+      }
+    ],
+    "DS4": [
+      {
+        "BrandID": 31,
+        "ModelID": 321,
+        "Brand Name": "Citroen",
+        "Model Name": "DS4",
+        "Serie Name": "DS4",
+        "Years": "2011 - 2015",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Premium Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L VTi - 1.6L THP / 1.6L-2.0L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën DS4 to kompaktowy hatchback o podwyższonym zawieszeniu i ukrytych klamkach tylnych drzwi, łączący styl coupe i SUV-a.",
+              "en": "Citroën DS4 is a compact hatchback with a raised suspension and hidden rear door handles, combining the style of a coupe and an SUV.",
+              "de": "Citroën DS4 ist ein kompaktes Fließheckmodell mit erhöhter Federung und versteckten hinteren Türgriffen, das den Stil eines Coupés und eines SUV vereint.",
+              "uk": "Citroën DS4 — компактний хетчбек із піднятою підвіскою та прихованими ручками задніх дверей, що поєднує в собі стиль купе та позашляховика.",
+              "ru": "Citroën DS4 — компактный хэтчбек с приподнятой подвеской и скрытыми ручками задних дверей, сочетающий в себе стиль купе и внедорожника.",
+              "zh": "雪铁龙 DS4 是一款紧凑型掀背车，采用升高悬架和隐藏式后门把手，结合了轿跑车和 SUV 的风格。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "2011–2015",
+              "miejsce produkcji": {
+                "pl": "Mulhouse, Francja",
+                "en": "Mulhouse, France",
+                "de": "Mülhausen, Frankreich",
+                "uk": "Мюлуз, Франція",
+                "ru": "Мюлуз, Франция",
+                "zh": "法国米卢斯"
+              },
+              "platforma": {
+                "pl": "PSA PF2",
+                "en": "PSA PF2",
+                "de": "PSA PF2",
+                "uk": "PSA PF2",
+                "ru": "ПСА ПФ2",
+                "zh": "PSA PF2"
+              },
+              "silnik": {
+                "pl": "1.6L THP - 2.0L HDi",
+                "en": "1.6L THP - 2.0L HDi",
+                "de": "1,6 l THP – 2,0 l HDi",
+                "uk": "1,6 л THP - 2,0 л HDi",
+                "ru": "1,6 л THP - 2,0 л HDi",
+                "zh": "1.6L THP - 2.0L HDi"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9x/n1/am3sy680sw4c0gw0oo4o4/ds4.310.jpg"
+        }
+      }
+    ],
+    "DS5": [
+      {
+        "BrandID": 31,
+        "ModelID": 322,
+        "Brand Name": "Citroen",
+        "Model Name": "DS5",
+        "Serie Name": "DS5",
+        "Years": "2011 - 2015",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Premium Mid-size",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "1.6L THP / 1.6L-2.0L HDi / Hybrid4",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën DS5 to awangardowy model klasy średniej inspirowany lotnictwem, oferujący napęd hybrydowy Diesel-Electric Hybrid4.",
+              "en": "Citroën DS5 is an avant-garde mid-size model inspired by aviation, offering a Diesel-Electric Hybrid4 drive.",
+              "de": "Citroën DS5 ist ein avantgardistisches Mittelklassemodell, das von der Luftfahrt inspiriert ist und einen dieselelektrischen Hybrid4-Antrieb bietet.",
+              "uk": "Citroën DS5 — це авангардна модель середнього розміру, натхненна авіацією, з дизель-електричним приводом Hybrid4.",
+              "ru": "Citroën DS5 — это авангардная модель среднего размера, вдохновленная авиацией и оснащенная дизель-электрическим приводом Hybrid4.",
+              "zh": "雪铁龙 DS5 是一款受航空启发的前卫中档车型，提供柴电混合动力 4 驱动器。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "2011–2015",
+              "miejsce produkcji": {
+                "pl": "Sochaux, Francja",
+                "en": "Sochaux, France",
+                "de": "Sochaux, Frankreich",
+                "uk": "Сошо, Франція",
+                "ru": "Сошо, Франция",
+                "zh": "法国索肖"
+              },
+              "platforma": {
+                "pl": "PSA PF2",
+                "en": "PSA PF2",
+                "de": "PSA PF2",
+                "uk": "PSA PF2",
+                "ru": "ПСА ПФ2",
+                "zh": "PSA PF2"
+              },
+              "silnik": {
+                "pl": "2.0L HDi / Hybrid4",
+                "en": "2.0L HDi/Hybrid4",
+                "de": "2,0 l HDi/Hybrid4",
+                "uk": "2,0 л HDi/гібрид 4",
+                "ru": "2,0 л HDi/гибрид4",
+                "zh": "2.0L HDi / Hybrid4"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/dm/dl/pd9n7ooosoco844c8w08o/ds5.310.jpg"
+        }
+      }
+    ],
+    "E-Mehari": [
+      {
+        "BrandID": 31,
+        "ModelID": 416695,
+        "Brand Name": "Citroen",
+        "Model Name": "E-Mehari",
+        "Serie Name": "E-Mehari",
+        "Years": "2016 - 2019",
+        "specs": {
+          "bodyType": "Convertible",
+          "segment": "Electric Beach Car",
+          "drive": "FWD",
+          "fuel": "Electric",
+          "engine": "Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën E-Mehari to elektryczny kabriolet plażowy nawiązujący do kultowego Mehari, wykonany z tworzywa sztucznego.",
+              "en": "Citroën E-Mehari is an electric beach convertible referring to the iconic Mehari, made of plastic.",
+              "de": "Citroën E-Mehari ist ein elektrisches Strandcabrio in Anlehnung an den legendären Mehari aus Kunststoff.",
+              "uk": "Citroën E-Mehari — це електричний пляжний кабріолет, що відсилає до культового Mehari, зроблений із пластику.",
+              "ru": "Citroën E-Mehari — электрический пляжный кабриолет, отсылающий к культовому Mehari, сделанный из пластика.",
+              "zh": "雪铁龙 E-Mehari 是一款电动海滩敞篷车，参考标志性的 Mehari，由塑料制成。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën / Bolloré",
+                "en": "Citroën / Bolloré",
+                "de": "Citroën / Bolloré",
+                "uk": "Citroën / Bolloré",
+                "ru": "Ситроен / Боллоре",
+                "zh": "雪铁龙 / Bolloré"
+              },
+              "okres produkcji": "2016–2019",
+              "miejsce produkcji": {
+                "pl": "Rennes, Francja",
+                "en": "Rennes, France",
+                "de": "Rennes, Frankreich",
+                "uk": "Ренн, Франція",
+                "ru": "Ренн, Франция",
+                "zh": "法国雷恩"
+              },
+              "platforma": {
+                "pl": "Bolloré Bluecar",
+                "en": "Bolloré Bluecar",
+                "de": "Bolloré Bluecar",
+                "uk": "Bolloré Bluecar",
+                "ru": "Боллоре Блюкар",
+                "zh": "Bolloré Bluecar"
+              },
+              "silnik": {
+                "pl": "Electric (68 KM)",
+                "en": "Electric (68 HP)",
+                "de": "Elektrisch (68 PS)",
+                "uk": "Електричний (68 HP)",
+                "ru": "Электрический (68 л.с.)",
+                "zh": "电动 (68 HP)"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Jumper": [
+      {
+        "BrandID": 31,
+        "ModelID": 135229,
+        "Brand Name": "Citroen",
+        "Model Name": "Jumper",
+        "Serie Name": "Jumper I",
+        "Years": "1994 - 2006",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Large Van",
+          "drive": "FWD/AWD",
+          "fuel": "Diesel",
+          "engine": "1.9L - 2.8L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Citroën Jumper I to duży samochód dostawczy, bliźniak Peugeota Boxera i Fiata Ducato, wół roboczy wielu firm.",
+              "en": "Citroën Jumper I is a large delivery vehicle, a twin of Peugeot Boxer and Fiat Ducato, the workhorse of many companies.",
+              "de": "Der Citroën Jumper I ist ein großes Lieferfahrzeug, ein Zwilling von Peugeot Boxer und Fiat Ducato, das Arbeitstier vieler Unternehmen.",
+              "uk": "Citroën Jumper I — великий розвізник, близнюк Peugeot Boxer і Fiat Ducato, робоча конячка багатьох компаній.",
+              "ru": "Citroën Jumper I — большой грузовой автомобиль, близнец Peugeot Boxer и Fiat Ducato, «рабочая лошадка» многих компаний.",
+              "zh": "雪铁龙 Jumper I 是一款大型运输车辆，是标致 Boxer 和菲亚特 Ducato 的双胞胎，是许多公司的主力车辆。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "1994–2006",
+              "miejsce produkcji": {
+                "pl": "Val di Sangro, Włochy",
+                "en": "Val di Sangro, Italy",
+                "de": "Val di Sangro, Italien",
+                "uk": "Валь ді Сангро, Італія",
+                "ru": "Валь-ди-Сангро, Италия",
+                "zh": "Val di Sangro，意大利"
+              },
+              "platforma": {
+                "pl": "Sevel South",
+                "en": "Sevel South",
+                "de": "Sevel South",
+                "uk": "Севель Південь",
+                "ru": "Севель Юг",
+                "zh": "Sevel South"
+              },
+              "silnik": {
+                "pl": "1.9L - 2.8L HDi",
+                "en": "1.9L - 2.8L HDi",
+                "de": "1,9 l – 2,8 l HDi",
+                "uk": "1,9 л - 2,8 л HDi",
+                "ru": "1,9–2,8 л HDi",
+                "zh": "1.9L - 2.8L HDi"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      },
+      {
+        "BrandID": 31,
+        "ModelID": 136507,
+        "Brand Name": "Citroen",
+        "Model Name": "Jumper",
+        "Serie Name": "Jumper II",
+        "Years": "2006 - 3000",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Large Van",
+          "drive": "FWD/AWD",
+          "fuel": "Diesel/Electric",
+          "engine": "2.2L HDi - 3.0L HDi / Electric",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Citroën Jumper II zyskał nowoczesny wygląd i większe możliwości przewozowe, pozostając jednym z liderów rynku aut dostawczych.",
+              "en": "Citroën Jumper II has gained a modern look and greater transport capacity, remaining one of the leaders in the delivery vehicle market.",
+              "de": "Der Citroën Jumper II hat ein modernes Aussehen und eine größere Transportkapazität erhalten und bleibt einer der Marktführer für Lieferfahrzeuge.",
+              "uk": "Citroën Jumper II набув сучасного вигляду та більшої транспортної місткості, залишаючись одним із лідерів на ринку розвізних автомобілів.",
+              "ru": "Citroën Jumper II приобрел современный вид и большую транспортную вместимость, оставаясь одним из лидеров рынка транспортных средств.",
+              "zh": "雪铁龙 Jumper II 拥有现代外观和更大的运输能力，仍然是送货车辆市场的领导者之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": {
+                "pl": "od 2006",
+                "en": "since 2006",
+                "de": "seit 2006",
+                "uk": "з 2006 року",
+                "ru": "с 2006 года",
+                "zh": "2006 年生产"
+              },
+              "miejsce produkcji": {
+                "pl": "Val di Sangro, Włochy",
+                "en": "Val di Sangro, Italy",
+                "de": "Val di Sangro, Italien",
+                "uk": "Валь ді Сангро, Італія",
+                "ru": "Валь-ди-Сангро, Италия",
+                "zh": "Val di Sangro，意大利"
+              },
+              "platforma": {
+                "pl": "Sevel South",
+                "en": "Sevel South",
+                "de": "Sevel South",
+                "uk": "Севель Південь",
+                "ru": "Севель Юг",
+                "zh": "Sevel South"
+              },
+              "silnik": {
+                "pl": "2.2L HDi - 3.0L HDi",
+                "en": "2.2L HDi - 3.0L HDi",
+                "de": "2,2 l HDi – 3,0 l HDi",
+                "uk": "2,2 л HDi - 3,0 л HDi",
+                "ru": "2,2 л HDi - 3,0 л HDi",
+                "zh": "2.2L HDi - 3.0L HDi"
+              }
+            }
+          },
+          "motofaktyImage": "https://s-mf.ppstatic.pl/g/zaslepka_310x207.png"
+        }
+      }
+    ],
+    "Jumpy": [
+      {
+        "BrandID": 31,
+        "ModelID": 413105,
+        "Brand Name": "Citroen",
+        "Model Name": "Jumpy",
+        "Serie Name": "Jumpy I",
+        "Years": "1994 - 2006",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Medium Van",
+          "drive": "FWD",
+          "fuel": "Diesel",
+          "engine": "1.9L - 2.0L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Citroën Jumpy I to średniej wielkości van, oferujący kompromis między zwinnością a ładownością.",
+              "en": "Citroën Jumpy I is a mid-size van that offers a compromise between agility and load capacity.",
+              "de": "Der Citroën Jumpy I ist ein mittelgroßer Transporter, der einen Kompromiss zwischen Agilität und Ladekapazität bietet.",
+              "uk": "Citroën Jumpy I — це фургон середнього розміру, який пропонує компроміс між маневреністю та вантажопідйомністю.",
+              "ru": "Citroën Jumpy I — фургон среднего размера, предлагающий компромисс между маневренностью и грузоподъемностью.",
+              "zh": "Citroën Jumpy I 是一款中型货车，在灵活性和负载能力之间取得了平衡。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "1994–2006",
+              "miejsce produkcji": {
+                "pl": "Sevel Nord, Francja",
+                "en": "Sevel Nord, France",
+                "de": "Sevel Nord, Frankreich",
+                "uk": "Севель Норд, Франція",
+                "ru": "Севель Нор, Франция",
+                "zh": "Sevel Nord，法国"
+              },
+              "platforma": {
+                "pl": "PSA/Fiat Eurovans",
+                "en": "PSA/Fiat Eurovans",
+                "de": "PSA/Fiat Eurovans",
+                "uk": "PSA/Fiat Eurovans",
+                "ru": "PSA/Fiat Евровэны",
+                "zh": "PSA/Fiat Eurovans"
+              },
+              "silnik": {
+                "pl": "1.9L - 2.0L HDi",
+                "en": "1.9L - 2.0L HDi",
+                "de": "1,9 l – 2,0 l HDi",
+                "uk": "1,9 л - 2,0 л HDi",
+                "ru": "1,9–2,0 л HDi",
+                "zh": "1.9L - 2.0L HDi"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/29/fi/6q4z6f6sc0s4g0wggkg8c/jumpy-ii-furgon.310.jpg"
+        }
+      },
+      {
+        "BrandID": 31,
+        "ModelID": 413106,
+        "Brand Name": "Citroen",
+        "Model Name": "Jumpy",
+        "Serie Name": "Jumpy II",
+        "Years": "2007 - 2016",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Medium Van",
+          "drive": "FWD",
+          "fuel": "Diesel",
+          "engine": "1.6L HDi - 2.0L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Citroën Jumpy II oferował pneumatyczne zawieszenie tylne ułatwiające załadunek i bardziej osobowy komfort jazdy.",
+              "en": "Citroën Jumpy II offered rear air suspension for easier loading and more comfortable driving.",
+              "de": "Der Citroën Jumpy II verfügte über eine Luftfederung hinten für einfacheres Beladen und komfortableres Fahren.",
+              "uk": "Citroën Jumpy II пропонує задню пневматичну підвіску для полегшення завантаження та більш комфортного водіння.",
+              "ru": "Citroën Jumpy II предлагал заднюю пневматическую подвеску для облегчения погрузки и более комфортного вождения.",
+              "zh": "Citroën Jumpy II 提供后空气悬架，装载更轻松，驾驶更舒适。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "2007–2016",
+              "miejsce produkcji": {
+                "pl": "Sevel Nord, Francja",
+                "en": "Sevel Nord, France",
+                "de": "Sevel Nord, Frankreich",
+                "uk": "Севель Норд, Франція",
+                "ru": "Севель Нор, Франция",
+                "zh": "Sevel Nord，法国"
+              },
+              "platforma": {
+                "pl": "PSA/Fiat Scudo",
+                "en": "PSA/Fiat Scudo",
+                "de": "PSA/Fiat Scudo",
+                "uk": "PSA/Fiat Scudo",
+                "ru": "PSA/Фиат Скудо",
+                "zh": "PSA/Fiat Scudo"
+              },
+              "silnik": {
+                "pl": "1.6L HDi - 2.0L HDi",
+                "en": "1.6L HDi - 2.0L HDi",
+                "de": "1,6 l HDi – 2,0 l HDi",
+                "uk": "1,6 л HDi - 2,0 л HDi",
+                "ru": "1,6 л HDi - 2,0 л HDi",
+                "zh": "1.6L HDi - 2.0L HDi"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/29/fi/6q4z6f6sc0s4g0wggkg8c/jumpy-ii-furgon.310.jpg"
+        }
+      },
+      {
+        "BrandID": 31,
+        "ModelID": 414099,
+        "Brand Name": "Citroen",
+        "Model Name": "Jumpy",
+        "Serie Name": "Jumpy III",
+        "Years": "2016 - 3000",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Medium Van",
+          "drive": "FWD",
+          "fuel": "Diesel/Electric",
+          "engine": "1.5L - 2.0L BlueHDi / Electric",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Citroën Jumpy III to nowoczesny van zbudowany na platformie EMP2, oferujący wersję elektryczną ë-Jumpy.",
+              "en": "Citroën Jumpy III is a modern van built on the EMP2 platform, offering an electric ë-Jumpy version.",
+              "de": "Citroën Jumpy III ist ein moderner Van, der auf der EMP2-Plattform basiert und eine elektrische ë-Jumpy-Version bietet.",
+              "uk": "Citroën Jumpy III — це сучасний фургон на платформі EMP2, який пропонує електричну версію ë-Jumpy.",
+              "ru": "Citroën Jumpy III — современный фургон, построенный на платформе EMP2, предлагающий электрическую версию ë-Jumpy.",
+              "zh": "雪铁龙 Jumpy III 是一款基于 EMP2 平台打造的现代化货车，提供电动 ë-Jumpy 版本。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": {
+                "pl": "od 2016",
+                "en": "since 2016",
+                "de": "seit 2016",
+                "uk": "з 2016 року",
+                "ru": "с 2016 года",
+                "zh": "2016 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Sevel Nord, Francja",
+                "en": "Sevel Nord, France",
+                "de": "Sevel Nord, Frankreich",
+                "uk": "Севель Норд, Франція",
+                "ru": "Севель Нор, Франция",
+                "zh": "Sevel Nord，法国"
+              },
+              "platforma": {
+                "pl": "PSA EMP2",
+                "en": "PSA EMP2",
+                "de": "PSA EMP2",
+                "uk": "PSA EMP2",
+                "ru": "СРП ЭМП2",
+                "zh": "PSA EMP2"
+              },
+              "silnik": {
+                "pl": "1.5L - 2.0L BlueHDi",
+                "en": "1.5L - 2.0L BlueHDi",
+                "de": "1,5 l – 2,0 l BlueHDi",
+                "uk": "1,5 л - 2,0 л BlueHDi",
+                "ru": "1,5–2,0 л BlueHDi",
+                "zh": "1.5L - 2.0L BlueHDi"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/29/fi/6q4z6f6sc0s4g0wggkg8c/jumpy-ii-furgon.310.jpg"
+        }
+      }
+    ],
+    "Nemo": [
+      {
+        "BrandID": 31,
+        "ModelID": 3566,
+        "Brand Name": "Citroen",
+        "Model Name": "Nemo",
+        "Serie Name": "Nemo",
+        "Years": "2007 - 2017",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Small Van",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L / 1.3L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Citroën Nemo to mały samochód dostawczy idealny do miasta, bliźniak Fiata Fiorino i Peugeota Bipper.",
+              "en": "Citroën Nemo is a small delivery vehicle ideal for the city, a twin of Fiat Fiorino and Peugeot Bipper.",
+              "de": "Citroën Nemo ist ein kleiner Lieferwagen, ideal für die Stadt, ein Zwilling von Fiat Fiorino und Peugeot Bipper.",
+              "uk": "Citroën Nemo — це невеликий транспортний засіб, ідеальний для міста, двійник Fiat Fiorino та Peugeot Bipper.",
+              "ru": "Citroën Nemo — небольшой развозной автомобиль, идеально подходящий для города, близнец Fiat Fiorino и Peugeot Bipper.",
+              "zh": "雪铁龙 Nemo 是一款适合城市运输的小型运输车辆，是菲亚特 Fiorino 和标致 Bipper 的双胞胎。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën / Tofaş",
+                "en": "Citroën / Tofaş",
+                "de": "Citroën / Tofaş",
+                "uk": "Citroën / Tofaş",
+                "ru": "Ситроен / Тофаш",
+                "zh": "雪铁龙 / Tofaş"
+              },
+              "okres produkcji": "2007–2017",
+              "miejsce produkcji": {
+                "pl": "Bursa, Turcja",
+                "en": "Bursa, Türkiye",
+                "de": "Bursa, Türkei",
+                "uk": "Бурса, Туреччина",
+                "ru": "Бурса, Турция",
+                "zh": "土耳其布尔萨"
+              },
+              "platforma": {
+                "pl": "Fiat Small",
+                "en": "Fiat Small",
+                "de": "Fiat Klein",
+                "uk": "Фіат Малий",
+                "ru": "Фиат Малый",
+                "zh": "菲亚特小型"
+              },
+              "silnik": {
+                "pl": "1.4L / 1.3L HDi",
+                "en": "1.4L / 1.3L HDi",
+                "de": "1,4 l / 1,3 l HDi",
+                "uk": "1,4 л / 1,3 л HDi",
+                "ru": "1,4 л / 1,3 л HDi",
+                "zh": "1.4L / 1.3L HDi"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/72/at/zisrmjs4s4s4cgogwwko0/nemo-furgon.310.jpg"
+        }
+      }
+    ],
+    "Saxo": [
+      {
+        "BrandID": 31,
+        "ModelID": 333,
+        "Brand Name": "Citroen",
+        "Model Name": "Saxo",
+        "Serie Name": "Saxo",
+        "Years": "1996 - 2004",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Small Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L - 1.6L VTS / 1.5L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën Saxo to popularne auto miejskie, następca AX, szczególnie cenione w wersji sportowej VTS.",
+              "en": "Citroën Saxo is a popular city car, the successor of the AX, especially appreciated in the VTS sports version.",
+              "de": "Citroën Saxo ist ein beliebtes Stadtauto, der Nachfolger des AX, der besonders in der VTS-Sportversion geschätzt wird.",
+              "uk": "Citroën Saxo - популярний міський автомобіль, наступник AX, особливо цінується в спортивній версії VTS.",
+              "ru": "Citroën Saxo — популярный городской автомобиль, преемник AXE, особенно ценимый в спортивной версии VTS.",
+              "zh": "雪铁龙 Saxo 是一款受欢迎的城市汽车，是 AX 的后继者，尤其在 VTS 运动版中受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "1996–2004",
+              "miejsce produkcji": {
+                "pl": "Aulnay-sous-Bois, Francja",
+                "en": "Aulnay-sous-Bois, France",
+                "de": "Aulnay-sous-Bois, Frankreich",
+                "uk": "Ольне-су-Буа, Франція",
+                "ru": "Ольне-су-Буа, Франция",
+                "zh": "法国欧奈苏布瓦"
+              },
+              "platforma": {
+                "pl": "PSA Saxo",
+                "en": "PSA Saxo",
+                "de": "PSA Saxo",
+                "uk": "PSA Saxo",
+                "ru": "ПСА Саксо",
+                "zh": "PSA盛宝集团"
+              },
+              "silnik": {
+                "pl": "1.0L - 1.6L VTS",
+                "en": "1.0L - 1.6L VTS",
+                "de": "1,0 l – 1,6 l VTS",
+                "uk": "1,0 л - 1,6 л VTS",
+                "ru": "1,0–1,6 л СТС",
+                "zh": "1.0L - 1.6L VTS"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/33/52/cctb6js4s48kssks4o80o/saxo.310.jpg"
+        }
+      }
+    ],
+    "SpaceTourer": [
+      {
+        "BrandID": 31,
+        "ModelID": 413939,
+        "Brand Name": "Citroen",
+        "Model Name": "SpaceTourer",
+        "Serie Name": "SpaceTourer",
+        "Years": "2016 - 3000",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Large MPV",
+          "drive": "FWD",
+          "fuel": "Diesel/Electric",
+          "engine": "1.5L - 2.0L BlueHDi / Electric",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Citroën SpaceTourer to osobowa wersja modelu Jumpy, oferująca komfortowy przewóz do 9 osób w luksusowych warunkach.",
+              "en": "Citroën SpaceTourer is a passenger version of the Jumpy model, offering comfortable transport for up to 9 people in luxurious conditions.",
+              "de": "Citroën SpaceTourer ist eine Passagierversion des Jumpy-Modells und bietet komfortablen Transport für bis zu 9 Personen unter luxuriösen Bedingungen.",
+              "uk": "Citroën SpaceTourer — це пасажирська версія моделі Jumpy, яка пропонує комфортне перевезення до 9 осіб у розкішних умовах.",
+              "ru": "Citroën SpaceTourer — пассажирская версия модели Jumpy, предлагающая комфортабельный транспорт для 9 человек в роскошных условиях.",
+              "zh": "雪铁龙 SpaceTourer 是 Jumpy 车型的客运版本，可在豪华条件下为最多 9 人提供舒适的交通。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": {
+                "pl": "od 2016",
+                "en": "since 2016",
+                "de": "seit 2016",
+                "uk": "з 2016 року",
+                "ru": "с 2016 года",
+                "zh": "自2016年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Sevel Nord, Francja",
+                "en": "Sevel Nord, France",
+                "de": "Sevel Nord, Frankreich",
+                "uk": "Севель Норд, Франція",
+                "ru": "Севель Нор, Франция",
+                "zh": "法国北塞维尔"
+              },
+              "platforma": {
+                "pl": "PSA EMP2",
+                "en": "PSA EMP2",
+                "de": "PSA EMP2",
+                "uk": "PSA EMP2",
+                "ru": "СРП ЭМП2",
+                "zh": "PSA电磁脉冲2"
+              },
+              "silnik": {
+                "pl": "1.5L - 2.0L BlueHDi",
+                "en": "1.5L - 2.0L BlueHDi",
+                "de": "1,5 l – 2,0 l BlueHDi",
+                "uk": "1,5 л - 2,0 л BlueHDi",
+                "ru": "1,5–2,0 л BlueHDi",
+                "zh": "1.5L - 2.0L 蓝色HDi"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Xantia": [
+      {
+        "BrandID": 31,
+        "ModelID": 139937,
+        "Brand Name": "Citroen",
+        "Model Name": "Xantia",
+        "Serie Name": "Xantia",
+        "Years": "1993 - 2002",
+        "specs": {
+          "bodyType": "Liftback/Wagon",
+          "segment": "Mid-size",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 3.0L V6 / 1.9L-2.1L TD / 2.0L HDi",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën Xantia to elegancki liftback z zawieszeniem Hydractive 2, słynący z testu łosia (wersja Activa).",
+              "en": "Citroën Xantia is an elegant liftback with Hydractive 2 suspension, famous for the moose test (Activa version).",
+              "de": "Citroën Xantia ist ein eleganter Liftback mit Hydractive 2-Federung, berühmt für den Elchtest (Activa-Version).",
+              "uk": "Citroën Xantia – елегантний ліфтбек з підвіскою Hydractive 2, відомий завдяки тесту на лося (версія Activa).",
+              "ru": "Citroën Xantia — элегантный лифтбек с подвеской Hydractive 2, известный своим лосиным тестом (версия Activa).",
+              "zh": "雪铁龙 Xantia 是一款优雅的掀背车，采用 Hydractive 2 悬架，因驼鹿测试（Activa 版本）而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "1993–2002",
+              "miejsce produkcji": {
+                "pl": "Rennes, Francja",
+                "en": "Rennes, France",
+                "de": "Rennes, Frankreich",
+                "uk": "Ренн, Франція",
+                "ru": "Ренн, Франция",
+                "zh": "法国雷恩"
+              },
+              "platforma": {
+                "pl": "PSA X",
+                "en": "PSA X",
+                "de": "PSA X",
+                "uk": "PSA X",
+                "ru": "СРП Х",
+                "zh": "PSA X"
+              },
+              "silnik": {
+                "pl": "1.6L - 3.0L V6",
+                "en": "1.6L - 3.0L V6",
+                "de": "1,6 l – 3,0 l V6",
+                "uk": "1,6 л - 3,0 л V6",
+                "ru": "1,6–3,0 л V6",
+                "zh": "1.6L - 3.0L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6x/ow/o224bksg48c0ws44wosc0/xantia-ii-kombi.310.jpg"
+        }
+      }
+    ],
+    "XM": [
+      {
+        "BrandID": 31,
+        "ModelID": 415803,
+        "Brand Name": "Citroen",
+        "Model Name": "XM",
+        "Serie Name": "XM",
+        "Years": "1989 - 2000",
+        "specs": {
+          "bodyType": "Liftback/Wagon",
+          "segment": "Executive",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L - 3.0L V6 / 2.1L-2.5L TD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën XM to futurystyczna limuzyna zaprojektowana przez Bertone, zdobywca tytułu Car of the Year 1990.",
+              "en": "Citroën XM is a futuristic limousine designed by Bertone, winner of the Car of the Year 1990 title.",
+              "de": "Citroën XM ist eine futuristische Limousine, die von Bertone entworfen wurde und den Titel „Auto des Jahres 1990“ gewann.",
+              "uk": "Citroën XM — футуристичний лімузин, розроблений компанією Bertone, володар титулу «Автомобіль року 1990».",
+              "ru": "Citroën XM — футуристический лимузин, разработанный компанией Bertone, обладателем титула «Автомобиль года 1990».",
+              "zh": "Citroën XM 是一款由 1990 年年度汽车称号获得者 Bertone 设计的未来派豪华轿车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "1989–2000",
+              "miejsce produkcji": {
+                "pl": "Rennes, Francja",
+                "en": "Rennes, France",
+                "de": "Rennes, Frankreich",
+                "uk": "Ренн, Франція",
+                "ru": "Ренн, Франция",
+                "zh": "法国雷恩"
+              },
+              "platforma": {
+                "pl": "PSA Y3/Y4",
+                "en": "PSA Y3/Y4",
+                "de": "PSA Y3/Y4",
+                "uk": "PSA Y3/Y4",
+                "ru": "СРП Y3/Y4",
+                "zh": "PSA Y3/Y4"
+              },
+              "silnik": {
+                "pl": "2.0L - 3.0L V6",
+                "en": "2.0L - 3.0L V6",
+                "de": "2,0 l–3,0 l V6",
+                "uk": "2,0 л - 3,0 л V6",
+                "ru": "2,0–3,0 л V6",
+                "zh": "2.0L - 3.0L V6"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5g/hj/x5z55h8g8wckk8ko4kwgk/xm-ii-sedan.310.jpg"
+        }
+      }
+    ],
+    "Xsara": [
+      {
+        "BrandID": 31,
+        "ModelID": 337,
+        "Brand Name": "Citroen",
+        "Model Name": "Xsara",
+        "Serie Name": "Xsara",
+        "Years": "1997 - 2006",
+        "specs": {
+          "bodyType": "Hatchback/Coupe/Wagon",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 2.0L VTS / 1.9L D - 2.0L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën Xsara to kompaktowy model, który odniósł ogromne sukcesy w rajdach WRC dzięki Sébastienowi Loebowi.",
+              "en": "Citroën Xsara is a compact model that achieved great success in WRC rallies thanks to Sébastien Loeb.",
+              "de": "Citroën Xsara ist ein Kompaktmodell, das dank Sébastien Loeb große Erfolge bei WRC-Rallyes erzielte.",
+              "uk": "Citroën Xsara — компактна модель, яка досягла великих успіхів у ралі WRC завдяки Себастьяну Лебу.",
+              "ru": "Citroën Xsara — компактная модель, добившаяся больших успехов в ралли WRC благодаря Себастьену Лёбу.",
+              "zh": "雪铁龙 Xsara 是一款紧凑型车型，在塞巴斯蒂安·勒布 (Sébastien Loeb) 的帮助下，在 WRC 拉力赛中取得了巨大成功。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "1997–2006",
+              "miejsce produkcji": {
+                "pl": "Rennes, Francja",
+                "en": "Rennes, France",
+                "de": "Rennes, Frankreich",
+                "uk": "Ренн, Франція",
+                "ru": "Ренн, Франция",
+                "zh": "法国雷恩"
+              },
+              "platforma": {
+                "pl": "PSA ZX",
+                "en": "PSA ZX",
+                "de": "PSA ZX",
+                "uk": "PSA ZX",
+                "ru": "ПСА ZX",
+                "zh": "PSA ZX"
+              },
+              "silnik": {
+                "pl": "1.4L - 2.0L VTS",
+                "en": "1.4L - 2.0L VTS",
+                "de": "1,4 l – 2,0 l VTS",
+                "uk": "1,4 л - 2,0 л VTS",
+                "ru": "1,4–2,0 л СТС",
+                "zh": "1.4L - 2.0L VTS"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/d7/3q/0ewgc8owgwsggoww4wkwo/xsara-ii-kombi.310.jpg"
+        }
+      }
+    ],
+    "Xsara Picasso": [
+      {
+        "BrandID": 31,
+        "ModelID": 413838,
+        "Brand Name": "Citroen",
+        "Model Name": "Xsara Picasso",
+        "Serie Name": "Xsara Picasso",
+        "Years": "1999 - 2012",
+        "specs": {
+          "bodyType": "MPV",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L - 2.0L / 1.6L-2.0L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Citroën Xsara Picasso to pierwszy kompaktowy minivan marki, który zyskał ogromną popularność dzięki jajowatej sylwetce.",
+              "en": "Citroën Xsara Picasso is the brand's first compact minivan, which has gained enormous popularity thanks to its egg-shaped silhouette.",
+              "de": "Citroën Xsara Picasso ist der erste kompakte Minivan der Marke, der dank seiner eiförmigen Silhouette enorme Popularität erlangt.",
+              "uk": "Citroën Xsara Picasso - перший компактний мінівен бренду, який отримав величезну популярність завдяки своєму яйцеподібному силуету.",
+              "ru": "Citroën Xsara Picasso – первый компактный минивэн марки, получивший огромную популярность благодаря своему яйцеобразному силуэту.",
+              "zh": "雪铁龙 Xsara Picasso 是该品牌的首款紧凑型小型货车，因其蛋形轮廓而广受欢迎。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "1999–2012",
+              "miejsce produkcji": {
+                "pl": "Vigo, Hiszpania",
+                "en": "Vigo, Spain",
+                "de": "Vigo, Spanien",
+                "uk": "Віго, Іспанія",
+                "ru": "Виго, Испания",
+                "zh": "西班牙维戈"
+              },
+              "platforma": {
+                "pl": "PSA Xsara",
+                "en": "Xsara PSA",
+                "de": "Xsara PSA",
+                "uk": "Xsara PSA",
+                "ru": "Ксара PSA",
+                "zh": "PSA Xsara"
+              },
+              "silnik": {
+                "pl": "1.6L - 2.0L HDi",
+                "en": "1.6L - 2.0L HDi",
+                "de": "1,6 l – 2,0 l HDi",
+                "uk": "1,6 л - 2,0 л HDi",
+                "ru": "1,6–2,0 л HDi",
+                "zh": "1.6L - 2.0L HDi"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5o/80/ehwy0uo8kcg8wgcw0wkcs/xsara-picasso.310.jpg"
+        }
+      }
+    ],
+    "ZX": [
+      {
+        "BrandID": 31,
+        "ModelID": 339,
+        "Brand Name": "Citroen",
+        "Model Name": "ZX",
+        "Serie Name": "ZX",
+        "Years": "1991 - 1998",
+        "specs": {
+          "bodyType": "Hatchback/Wagon",
+          "segment": "Compact",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.1L - 2.0L 16V / 1.9L Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Citroën ZX to kompaktowy model, który wprowadził skrętną tylną oś, zapewniając świetne właściwości jezdne.",
+              "en": "Citroën ZX is a compact model that introduced rear-axle steering, ensuring excellent driving characteristics.",
+              "de": "Citroën ZX ist ein Kompaktmodell mit Hinterachslenkung, das hervorragende Fahreigenschaften gewährleistet.",
+              "uk": "Citroën ZX – це компактна модель, яка має кермо задньої осі, що забезпечує чудові ходові характеристики.",
+              "ru": "Citroën ZX — компактная модель, в которой реализовано рулевое управление задней осью, обеспечивающее отличные ходовые качества.",
+              "zh": "Citroën ZX 是一款紧凑型车型，引入了转向后桥，确保了出色的驾驶特性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Citroën",
+                "en": "Citroën",
+                "de": "Citroën",
+                "uk": "Citroën",
+                "ru": "Ситроен"
+              },
+              "okres produkcji": "1991–1998",
+              "miejsce produkcji": {
+                "pl": "Rennes, Francja",
+                "en": "Rennes, France",
+                "de": "Rennes, Frankreich",
+                "uk": "Ренн, Франція",
+                "ru": "Ренн, Франция",
+                "zh": "法国雷恩"
+              },
+              "platforma": {
+                "pl": "PSA ZX",
+                "en": "PSA ZX",
+                "de": "PSA ZX",
+                "uk": "PSA ZX",
+                "ru": "ПСА ZX",
+                "zh": "PSA ZX"
+              },
+              "silnik": {
+                "pl": "1.1L - 2.0L 16V",
+                "en": "1.1L - 2.0L 16V",
+                "de": "1,1L - 2,0L 16V",
+                "uk": "1,1 л - 2,0 л 16 В",
+                "ru": "1,1 л - 2,0 л 16 В",
+                "zh": "1.1L - 2.0L 16V"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/ef/5l/i7xfh7kgoc8s04w0k0gsg/zx-hatch.310.jpg"
+        }
+      }
+    ]
+  }
+}

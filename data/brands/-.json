@@ -1,0 +1,204 @@
+{
+  "brand": "УАЗ",
+  "models": {
+    "452": [
+      {
+        "BrandID": 176,
+        "ModelID": "",
+        "Brand Name": "УАЗ",
+        "Model Name": 452,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      },
+      {
+        "BrandID": 176,
+        "ModelID": 415087,
+        "Brand Name": "УАЗ",
+        "Model Name": 452,
+        "Serie Name": 452,
+        "Years": "1965 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "459": [
+      {
+        "BrandID": 176,
+        "ModelID": "",
+        "Brand Name": "УАЗ",
+        "Model Name": 459,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      },
+      {
+        "BrandID": 176,
+        "ModelID": 415089,
+        "Brand Name": "УАЗ",
+        "Model Name": 459,
+        "Serie Name": 459,
+        "Years": "1971 - 1993",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "469": [
+      {
+        "BrandID": 176,
+        "ModelID": "",
+        "Brand Name": "УАЗ",
+        "Model Name": 469,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      },
+      {
+        "BrandID": 176,
+        "ModelID": 416275,
+        "Brand Name": "УАЗ",
+        "Model Name": 469,
+        "Serie Name": 469,
+        "Years": "1990 - 2000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "": [
+      {
+        "BrandID": 176,
+        "ModelID": "",
+        "Brand Name": "УАЗ",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "Hunter": [
+      {
+        "BrandID": 176,
+        "ModelID": "",
+        "Brand Name": "УАЗ",
+        "Model Name": "Hunter",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      },
+      {
+        "BrandID": 176,
+        "ModelID": 415096,
+        "Brand Name": "УАЗ",
+        "Model Name": "Hunter",
+        "Serie Name": "Hunter",
+        "Years": "1992 - 2019",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "Patriot": [
+      {
+        "BrandID": 176,
+        "ModelID": "",
+        "Brand Name": "УАЗ",
+        "Model Name": "Patriot",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      },
+      {
+        "BrandID": 176,
+        "ModelID": 413854,
+        "Brand Name": "УАЗ",
+        "Model Name": "Patriot",
+        "Serie Name": "Patriot",
+        "Years": "2005 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ]
+  }
+}

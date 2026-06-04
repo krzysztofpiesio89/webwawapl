@@ -1,0 +1,1324 @@
+{
+  "brand": "Peugeot",
+  "models": {
+    "106": [
+      {
+        "BrandID": 102,
+        "ModelID": 1228,
+        "Brand Name": "Peugeot",
+        "Model Name": "106",
+        "Serie Name": "106",
+        "Years": "1991 - 2003",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment A (City Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L - 1.6L (GTI)",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Peugeot 106 to zwinny i lekki samochód miejski, który stał się ikoną lat 90. Słynął z doskonałych właściwości jezdnych, szczególnie w legendarnych wersjach Rallye i GTI, które do dziś są cenione przez entuzjastów.",
+              "en": "The Peugeot 106 is an agile and light city car that became an icon of the 1990s. It was famous for its excellent driving characteristics, especially in the legendary Rallye and GTI versions, which are still appreciated by enthusiasts.",
+              "de": "Der Peugeot 106 ist ein agiles und leichtes Stadtauto, das zu einer Ikone der 1990er Jahre wurde. Besonders in den legendären Rallye- und GTI-Versionen war er für seine hervorragenden Fahreigenschaften bekannt, die auch heute noch von Enthusiasten geschätzt werden.",
+              "uk": "Peugeot 106 — маневрений і легкий міський автомобіль, який став іконою 1990-х років. Він славився чудовими ходовими характеристиками, особливо в легендарних версіях Rallye і GTI, які досі цінуються ентузіастами.",
+              "ru": "Peugeot 106 — маневренный и легкий городской автомобиль, ставший иконой 1990-х годов. Он славился отличными ходовыми качествами, особенно в легендарных версиях Rallye и GTI, которые до сих пор ценятся энтузиастами.",
+              "zh": "标致 106 是一款敏捷、轻便的城市汽车，成为 20 世纪 90 年代的标志。它以其卓越的驾驶特性而闻名，尤其是传奇的 Rallye 和 GTI 版本，至今仍受到爱好者的赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Peugeot"
+              },
+              "okres produkcji": "1991–2003",
+              "segment": {
+                "pl": "A (Miejskie)",
+                "en": "A (City)",
+                "de": "A (Stadt)",
+                "uk": "A (місто)",
+                "ru": "А (Городской)",
+                "zh": "A（城市）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/7w/0a/5fkldxk40wws4kgoo0k8w/106-ii.310.jpg"
+        }
+      }
+    ],
+    "206": [
+      {
+        "BrandID": 102,
+        "ModelID": 413445,
+        "Brand Name": "Peugeot",
+        "Model Name": "206",
+        "Serie Name": "206",
+        "Years": "1998 - 2012",
+        "specs": {
+          "bodyType": "Hatchback/Wagon/Convertible",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.1L - 2.0L (RC)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Peugeot 206 to jeden z najlepiej sprzedających się modeli w historii marki. Zrewolucjonizował segment aut miejskich swoim nowoczesnym designem, a wersja CC zapoczątkowała modę na przystępne cenowo kabriolety ze sztywnym dachem.",
+              "en": "Peugeot 206 is one of the best-selling models in the history of the brand. It revolutionized the city car segment with its modern design, and the CC version started the fashion for affordable convertibles with a hard roof.",
+              "de": "Peugeot 206 ist eines der meistverkauften Modelle in der Geschichte der Marke. Mit seinem modernen Design revolutionierte er das Segment der Stadtautos, und mit der CC-Version begann die Mode für erschwingliche Cabriolets mit Hartdach.",
+              "uk": "Peugeot 206 — одна з найбільш продаваних моделей в історії марки. Завдяки сучасному дизайну вона зробила революцію в сегменті міських автомобілів, а версія CC поклала початок моді на доступні кабріолети з жорстким дахом.",
+              "ru": "Peugeot 206 – одна из самых продаваемых моделей за всю историю бренда. Он произвел революцию в сегменте городских автомобилей своим современным дизайном, а версия CC положила начало моде на доступные кабриолеты с жесткой крышей.",
+              "zh": "标致 206 是该品牌历史上最畅销的车型之一。它以其现代设计彻底改变了城市汽车领域，CC 版本开启了经济实惠的硬顶敞篷车的时尚。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Peugeot"
+              },
+              "okres produkcji": {
+                "pl": "1998–2012 (w Europie)",
+                "en": "1998–2012 (in Europe)",
+                "de": "1998–2012 (in Europa)",
+                "uk": "1998–2012 (в Європі)",
+                "ru": "1998–2012 (в Европе)",
+                "zh": "1998–2012（欧洲）"
+              },
+              "segment": {
+                "pl": "B (Miejskie)",
+                "en": "B (City)",
+                "de": "B (Stadt)",
+                "uk": "B (місто)",
+                "ru": "Б (Городской)",
+                "zh": "B（城市）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/cv/4c/twsgprks0ck804woks4gg/206-plus.310.jpg"
+        }
+      }
+    ],
+    "208": [
+      {
+        "BrandID": 102,
+        "ModelID": 3559,
+        "Brand Name": "Peugeot",
+        "Model Name": "208",
+        "Serie Name": "208 I",
+        "Years": "2012 - 2019",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.0L - 1.6L Turbo (GTi)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2017_Peugeot_208_Active_1.2_facelift_Front.jpg/1280px-2017_Peugeot_208_Active_1.2_facelift_Front.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2017_Peugeot_208_Active_1.2_facelift_Front.jpg/1280px-2017_Peugeot_208_Active_1.2_facelift_Front.jpg"
+            ],
+            "description": {
+              "pl": "Peugeot 208 to dynamiczny hatchback, który zachwyca odważnym designem i rewolucyjnym wnętrzem i-Cockpit. Jako zdobywca tytułu Europejskiego Samochodu Roku, wyznacza standardy w segmencie aut miejskich, oferując również wersje w pełni elektryczne.",
+              "en": "Peugeot 208 is a dynamic hatchback that impresses with its bold design and revolutionary i-Cockpit interior. As the winner of the European Car of the Year title, it sets standards in the city car segment, also offering fully electric versions.",
+              "de": "Peugeot 208 ist ein dynamisches Fließheck, das durch sein kühnes Design und den revolutionären i-Cockpit-Innenraum beeindruckt. Als Gewinner des Titels „Europäisches Auto des Jahres“ setzt er Maßstäbe im Segment der Stadtautos und bietet auch vollelektrische Versionen an.",
+              "uk": "Peugeot 208 — динамічний хетчбек, який вражає своїм сміливим дизайном і революційним інтер’єром i-Cockpit. Як переможець титулу Європейський автомобіль року, він встановлює стандарти в сегменті міських автомобілів, також пропонуючи повністю електричні версії.",
+              "ru": "Peugeot 208 — динамичный хэтчбек, впечатляющий смелым дизайном и революционным интерьером i-Cockpit. Будучи обладателем титула «Европейский автомобиль года», он устанавливает стандарты в сегменте городских автомобилей, а также предлагает полностью электрические версии.",
+              "zh": "标致 208 是一款动感掀背车，其大胆的设计和革命性的 i-Cockpit 内饰令人印象深刻。作为欧洲年度汽车称号的获得者，它为城市汽车领域树立了标准，还提供全电动版本。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Peugeot"
+              },
+              "okres produkcji": {
+                "pl": "od 2012",
+                "en": "from 2012",
+                "de": "ab 2012",
+                "uk": "з 2012 року",
+                "ru": "с 2012 года",
+                "zh": "自2012年起"
+              },
+              "segment": {
+                "pl": "B (Miejskie)",
+                "en": "B (City)",
+                "de": "B (Stadt)",
+                "uk": "B (місто)",
+                "ru": "Б (Городской)",
+                "zh": "B（城市）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/d4/s0/nbvu4l4ww444wg4s0k80o/208-hatch.310.jpg"
+        }
+      },
+      {
+        "BrandID": 102,
+        "ModelID": 415397,
+        "Brand Name": "Peugeot",
+        "Model Name": "208",
+        "Serie Name": "208 II",
+        "Years": "2019 - Present",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Segment B (Small Cars)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/Electric",
+          "engine": "1.2L Turbo - Electric 50kWh",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Peugeot 208 to dynamiczny hatchback, który zachwyca odważnym designem i rewolucyjnym wnętrzem i-Cockpit. Jako zdobywca tytułu Europejskiego Samochodu Roku, wyznacza standardy w segmencie aut miejskich, oferując również wersje w pełni elektryczne.",
+              "en": "Peugeot 208 is a dynamic hatchback that impresses with its bold design and revolutionary i-Cockpit interior. As the winner of the European Car of the Year title, it sets standards in the city car segment, also offering fully electric versions.",
+              "de": "Peugeot 208 ist ein dynamisches Fließheck, das durch sein kühnes Design und den revolutionären i-Cockpit-Innenraum beeindruckt. Als Gewinner des Titels „Europäisches Auto des Jahres“ setzt er Maßstäbe im Segment der Stadtautos und bietet auch vollelektrische Versionen an.",
+              "uk": "Peugeot 208 — це динамічний хетчбек, який вражає своїм сміливим дизайном і революційним інтер’єром i-Cockpit. Як переможець титулу Європейський автомобіль року, він встановлює стандарти в сегменті міських автомобілів, також пропонуючи повністю електричні версії.",
+              "ru": "Peugeot 208 — динамичный хэтчбек, впечатляющий смелым дизайном и революционным интерьером i-Cockpit. Будучи обладателем титула «Европейский автомобиль года», он устанавливает стандарты в сегменте городских автомобилей, а также предлагает полностью электрические версии.",
+              "zh": "标致 208 是一款动感掀背车，其大胆的设计和革命性的 i-Cockpit 内饰令人印象深刻。作为欧洲年度汽车称号的获得者，它为城市汽车领域树立了标准，还提供全电动版本。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Peugeot"
+              },
+              "okres produkcji": {
+                "pl": "od 2012",
+                "en": "from 2012",
+                "de": "ab 2012",
+                "uk": "з 2012 року",
+                "ru": "с 2012 года",
+                "zh": "自2012年起"
+              },
+              "segment": {
+                "pl": "B (Miejskie)",
+                "en": "B (City)",
+                "de": "B (Stadt)",
+                "uk": "B (Місто)",
+                "ru": "Б (Городской)",
+                "zh": "B（城市）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/d4/s0/nbvu4l4ww444wg4s0k80o/208-hatch.310.jpg"
+        }
+      }
+    ],
+    "306": [
+      {
+        "BrandID": 102,
+        "ModelID": 1236,
+        "Brand Name": "Peugeot",
+        "Model Name": "306",
+        "Serie Name": "306",
+        "Years": "1993 - 2002",
+        "specs": {
+          "bodyType": "Hatchback/Sedan/Wagon/Convertible",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 2.0L (GTI-6)",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Peugeot 306 to wszechstronny kompakt, ceniony za ponadczasową stylistykę i świetne prowadzenie. Był dostępny w wielu wariantach nadwoziowych, w tym jako elegancki sedan i stylowy kabriolet zaprojektowany przez Pininfarinę.",
+              "en": "Peugeot 306 is a versatile compact, appreciated for its timeless styling and great handling. It was available in many body styles, including an elegant sedan and a stylish convertible designed by Pininfarina.",
+              "de": "Der Peugeot 306 ist ein vielseitiger Kompaktwagen, der für sein zeitloses Design und sein hervorragendes Handling geschätzt wird. Er war in vielen Karosserievarianten erhältlich, darunter als elegante Limousine und als stilvolles Cabriolet von Pininfarina.",
+              "uk": "Peugeot 306 — це універсальний компактний автомобіль, який цінують за його позачасовий стиль і чудову керованість. Він був доступний у багатьох варіантах кузова, включаючи елегантний седан і стильний кабріолет, розроблений Pininfarina.",
+              "ru": "Peugeot 306 — универсальный компактный автомобиль, который ценится за неподвластный времени стиль и отличную управляемость. Он был доступен во многих вариантах кузова, включая элегантный седан и стильный кабриолет, разработанный Pininfarina.",
+              "zh": "标致 306 是一款多功能紧凑型汽车，因其永恒的造型和出色的操控性而受到赞赏。它有多种车身款式可供选择，包括宾尼法利纳设计的优雅轿车和时尚敞篷车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Peugeot"
+              },
+              "okres produkcji": "1993–2002",
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (Compact)",
+                "ru": "С (компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/20/gx/nd2f5i80scsc8gokc4kso/306-ii-cabrio.310.jpg"
+        }
+      }
+    ],
+    "308": [
+      {
+        "BrandID": 102,
+        "ModelID": 413449,
+        "Brand Name": "Peugeot",
+        "Model Name": "308",
+        "Serie Name": "308 I",
+        "Years": "2007 - 2013",
+        "specs": {
+          "bodyType": "Hatchback/Wagon/Convertible",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 1.6L THP",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Peugeot 308 to fundament klasy kompaktowej, oferujący perfekcyjne połączenie elegancji, jakości wykonania i przyjemności z jazdy. Wyposażony w najnowsze systemy wsparcia i napędy hybrydowe, stanowi alternatywę premium w swoim segmencie.",
+              "en": "Peugeot 308 is the foundation of the compact class, offering a perfect combination of elegance, build quality and driving pleasure. Equipped with the latest support systems and hybrid drives, it is a premium alternative in its segment.",
+              "de": "Der Peugeot 308 ist der Grundstein der Kompaktklasse und bietet eine perfekte Kombination aus Eleganz, Verarbeitungsqualität und Fahrspaß. Ausgestattet mit den neuesten Unterstützungssystemen und Hybridantrieben ist er eine Premium-Alternative in seinem Segment.",
+              "uk": "Peugeot 308 є основою компактного класу, пропонуючи ідеальне поєднання елегантності, якості збірки та задоволення від водіння. Оснащений найновішими системами підтримки та гібридними приводами, він є преміальною альтернативою у своєму сегменті.",
+              "ru": "Peugeot 308 — это основа компактного класса, предлагающая идеальное сочетание элегантности, качества сборки и удовольствия от вождения. Оснащенный новейшими системами поддержки и гибридными приводами, он является альтернативой премиум-класса в своем сегменте.",
+              "zh": "标致 308 是紧凑型车型的基础，完美结合了优雅、制造品质和驾驶乐趣。它配备了最新的支撑系统和混合驱动器，是同类产品中的优质替代品。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Peugeot"
+              },
+              "okres produkcji": {
+                "pl": "od 2007",
+                "en": "from 2007",
+                "de": "ab 2007",
+                "uk": "з 2007 року",
+                "ru": "с 2007 года",
+                "zh": "自2007年以来"
+              },
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (Compact)",
+                "ru": "С (компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/a4/er/1tdskiok88csk4oc400o0/peugeot-308-2.310.jpg"
+        }
+      },
+      {
+        "BrandID": 102,
+        "ModelID": 413450,
+        "Brand Name": "Peugeot",
+        "Model Name": "308",
+        "Serie Name": "308 II",
+        "Years": "2013 - 2021",
+        "specs": {
+          "bodyType": "Hatchback/Wagon",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L PureTech - 1.6L GTi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Peugeot 308 to fundament klasy kompaktowej, oferujący perfekcyjne połączenie elegancji, jakości wykonania i przyjemności z jazdy. Wyposażony w najnowsze systemy wsparcia i napędy hybrydowe, stanowi alternatywę premium w swoim segmencie.",
+              "en": "Peugeot 308 is the foundation of the compact class, offering a perfect combination of elegance, build quality and driving pleasure. Equipped with the latest support systems and hybrid drives, it is a premium alternative in its segment.",
+              "de": "Der Peugeot 308 ist der Grundstein der Kompaktklasse und bietet eine perfekte Kombination aus Eleganz, Verarbeitungsqualität und Fahrspaß. Ausgestattet mit den neuesten Unterstützungssystemen und Hybridantrieben ist er eine Premium-Alternative in seinem Segment.",
+              "uk": "Peugeot 308 є основою компактного класу, пропонуючи ідеальне поєднання елегантності, якості збірки та задоволення від водіння. Оснащений найновішими системами підтримки та гібридними приводами, він є преміальною альтернативою у своєму сегменті.",
+              "ru": "Peugeot 308 — это основа компактного класса, предлагающая идеальное сочетание элегантности, качества сборки и удовольствия от вождения. Оснащенный новейшими системами поддержки и гибридными приводами, он является альтернативой премиум-класса в своем сегменте.",
+              "zh": "标致 308 是紧凑型车型的基础，完美结合了优雅、制造品质和驾驶乐趣。它配备了最新的支撑系统和混合驱动器，是同类产品中的优质替代品。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Peugeot"
+              },
+              "okres produkcji": {
+                "pl": "od 2007",
+                "en": "from 2007",
+                "de": "ab 2007",
+                "uk": "з 2007 року",
+                "ru": "с 2007 года",
+                "zh": "自2007年以来"
+              },
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (Compact)",
+                "ru": "С (компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/a4/er/1tdskiok88csk4oc400o0/peugeot-308-2.310.jpg"
+        }
+      },
+      {
+        "BrandID": 102,
+        "ModelID": 416565,
+        "Brand Name": "Peugeot",
+        "Model Name": "308",
+        "Serie Name": "308 III",
+        "Years": "2021 - Present",
+        "specs": {
+          "bodyType": "Hatchback/Wagon",
+          "segment": "Segment C (Compact)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/Hybrid/Electric",
+          "engine": "1.2L - PHEV/Electronic",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Peugeot 308 to fundament klasy kompaktowej, oferujący perfekcyjne połączenie elegancji, jakości wykonania i przyjemności z jazdy. Wyposażony w najnowsze systemy wsparcia i napędy hybrydowe, stanowi alternatywę premium w swoim segmencie.",
+              "en": "Peugeot 308 is the foundation of the compact class, offering a perfect combination of elegance, build quality and driving pleasure. Equipped with the latest support systems and hybrid drives, it is a premium alternative in its segment.",
+              "de": "Der Peugeot 308 ist der Grundstein der Kompaktklasse und bietet eine perfekte Kombination aus Eleganz, Verarbeitungsqualität und Fahrspaß. Ausgestattet mit den neuesten Unterstützungssystemen und Hybridantrieben ist er eine Premium-Alternative in seinem Segment.",
+              "uk": "Peugeot 308 є основою компактного класу, пропонуючи ідеальне поєднання елегантності, якості збірки та задоволення від водіння. Оснащений найновішими системами підтримки та гібридними приводами, він є преміальною альтернативою у своєму сегменті.",
+              "ru": "Peugeot 308 — это основа компактного класса, предлагающая идеальное сочетание элегантности, качества сборки и удовольствия от вождения. Оснащенный новейшими системами поддержки и гибридными приводами, он является альтернативой премиум-класса в своем сегменте.",
+              "zh": "标致 308 是紧凑型车型的基础，完美结合了优雅、制造品质和驾驶乐趣。它配备了最新的支撑系统和混合驱动器，是同类产品中的优质替代品。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Peugeot"
+              },
+              "okres produkcji": {
+                "pl": "od 2007",
+                "en": "from 2007",
+                "de": "ab 2007",
+                "uk": "з 2007 року",
+                "ru": "с 2007 года",
+                "zh": "自2007年以来"
+              },
+              "segment": {
+                "pl": "C (Kompaktowe)",
+                "en": "C (Compact)",
+                "de": "C (Kompakt)",
+                "uk": "C (Compact)",
+                "ru": "С (компактный)",
+                "zh": "C（紧凑型）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/a4/er/1tdskiok88csk4oc400o0/peugeot-308-2.310.jpg"
+        }
+      }
+    ],
+    "406": [
+      {
+        "BrandID": 102,
+        "ModelID": 1244,
+        "Brand Name": "Peugeot",
+        "Model Name": "406",
+        "Serie Name": "406",
+        "Years": "1995 - 2004",
+        "specs": {
+          "bodyType": "Sedan/Wagon/Coupe",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.8L - 3.0L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Peugeot 406 to synonim komfortu i elegancji klasy średniej lat 90. Zasłynął jako jeden z najlepiej filtrujących nierówności samochodów swoich czasów, a jego wersja Coupe do dziś uchodzi za jedno z najpiękniejszych aut seryjnych.",
+              "en": "Peugeot 406 is synonymous with the comfort and elegance of the middle class of the 1990s. It became famous as one of the best cars of its time to filter out unevenness, and its Coupe version is still considered one of the most beautiful production cars.",
+              "de": "Peugeot 406 ist ein Synonym für den Komfort und die Eleganz der Mittelklasse der 1990er Jahre. Es erlangte Berühmtheit als eines der besten Autos seiner Zeit, um Unebenheiten auszugleichen, und seine Coupé-Version gilt immer noch als eines der schönsten Serienautos.",
+              "uk": "Peugeot 406 є синонімом комфорту та елегантності середнього класу 1990-х років. Він прославився як один із найкращих автомобілів свого часу для фільтрації нерівностей, а його версія Coupe досі вважається одним із найкрасивіших серійних автомобілів.",
+              "ru": "Peugeot 406 — синоним комфорта и элегантности среднего класса 1990-х годов. Он прославился как один из лучших автомобилей своего времени по фильтрации неровностей, а его версия-купе до сих пор считается одним из самых красивых серийных автомобилей.",
+              "zh": "标致 406 是 20 世纪 90 年代中产阶级舒适和优雅的代名词。它作为当时过滤不均匀性最好的汽车之一而闻名，其轿跑车版本仍然被认为是最漂亮的量产车之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Peugeot"
+              },
+              "okres produkcji": "1995–2004",
+              "segment": {
+                "pl": "D (Klasa średnia)",
+                "en": "D (Middle class)",
+                "de": "D (Mittelklasse)",
+                "uk": "D (Середній клас)",
+                "ru": "Д (Средний класс)",
+                "zh": "D（中产阶级）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4n/lv/4w7gpekg4gw8w8ocwssok/406-coupe.310.jpg"
+        }
+      }
+    ],
+    "407": [
+      {
+        "BrandID": 102,
+        "ModelID": 1245,
+        "Brand Name": "Peugeot",
+        "Model Name": "407",
+        "Serie Name": "407",
+        "Years": "2004 - 2011",
+        "specs": {
+          "bodyType": "Sedan/Wagon/Coupe",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.8L - 3.0L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Peugeot 407 to model o odważnej, dynamicznej sylwetce z charakterystycznym 'uśmiechem' z przodu. Wprowadził nową jakość prowadzenia dzięki zaawansowanemu zawieszeniu wielowahaczowemu i bogatemu wyposażeniu bezpieczeństwa.",
+              "en": "Peugeot 407 is a model with a bold, dynamic silhouette with a characteristic 'smile' at the front. It introduced a new quality of driving thanks to an advanced multi-link suspension and extensive safety equipment.",
+              "de": "Der Peugeot 407 ist ein Modell mit einer kühnen, dynamischen Silhouette und einem charakteristischen „Lächeln“ an der Vorderseite. Dank einer fortschrittlichen Mehrlenkeraufhängung und umfangreicher Sicherheitsausstattung führte er zu einer neuen Fahrqualität.",
+              "uk": "Peugeot 407 — це модель із сміливим динамічним силуетом із характерною «усмішкою» спереду. Він представив нову якість водіння завдяки вдосконаленій багатоважільній підвісці та широкому обладнанню безпеки.",
+              "ru": "Peugeot 407 — модель смелого, динамичного силуэта с характерной «улыбкой» спереди. Он привнес новое качество вождения благодаря усовершенствованной многорычажной подвеске и обширному оборудованию безопасности.",
+              "zh": "标致 407 是一款具有大胆、动感轮廓的车型，前部具有特有的“微笑”。凭借先进的多连杆悬架和广泛的安全设备，它引入了新的驾驶品质。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Peugeot"
+              },
+              "okres produkcji": "2004–2011",
+              "segment": {
+                "pl": "D (Klasa średnia)",
+                "en": "D (Middle class)",
+                "de": "D (Mittelklasse)",
+                "uk": "D (Середній клас)",
+                "ru": "Д (Средний класс)",
+                "zh": "D（中产阶级）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/eu/op/335i7mog800ksc8woocs0/407-kombi.310.jpg"
+        }
+      }
+    ],
+    "508": [
+      {
+        "BrandID": 102,
+        "ModelID": 1248,
+        "Brand Name": "Peugeot",
+        "Model Name": "508",
+        "Serie Name": "508 I",
+        "Years": "2010 - 2018",
+        "specs": {
+          "bodyType": "Sedan/Wagon/RXH",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD/AWD (Hybrid)",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "1.6L THP - 2.2L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Peugeot 508 to manifestacja francuskiego stylu i sportowej elegancji. Jako radykalny sedan (lub shooting brake), odrzuca klasyczne formy na rzecz dynamicznej sylwetki i luksusowego wykończenia, stając się flagowym okrętem marki.",
+              "en": "Peugeot 508 is a manifestation of French style and sporty elegance. As a radical sedan (or shooting brake), it rejects classic forms in favor of a dynamic silhouette and luxurious finish, becoming the brand's flagship.",
+              "de": "Der Peugeot 508 ist Ausdruck französischen Stils und sportlicher Eleganz. Als radikale Limousine (oder Shooting Brake) lehnt er klassische Formen zugunsten einer dynamischen Silhouette und einer luxuriösen Verarbeitung ab und wird zum Flaggschiff der Marke.",
+              "uk": "Peugeot 508 - це втілення французького стилю та спортивної елегантності. Як радикальний седан (або шутинг-брейк) він відмовляється від класичних форм на користь динамічного силуету та розкішної обробки, ставши флагманом бренду.",
+              "ru": "Peugeot 508 – это воплощение французского стиля и спортивной элегантности. Будучи радикальным седаном (или стреляющим тормозом), он отказывается от классических форм в пользу динамичного силуэта и роскошной отделки, становясь флагманом бренда.",
+              "zh": "标致508是法式风格和运动优雅的体现。作为一款激进的轿车（或射击刹车），它拒绝经典形式，转而采用动感的轮廓和豪华的外观，成为该品牌的旗舰产品。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Peugeot"
+              },
+              "okres produkcji": {
+                "pl": "od 2010",
+                "en": "from 2010",
+                "de": "ab 2010",
+                "uk": "з 2010 року",
+                "ru": "с 2010 года",
+                "zh": "自2010年以来"
+              },
+              "segment": {
+                "pl": "D (Klasa średnia)",
+                "en": "D (Middle class)",
+                "de": "D (Mittelklasse)",
+                "uk": "D (Середній клас)",
+                "ru": "Д (Средний класс)",
+                "zh": "D（中产阶级）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4k/t5/baij0ko480co0s0okowc8/508-kombi.310.jpg"
+        }
+      },
+      {
+        "BrandID": 102,
+        "ModelID": 415398,
+        "Brand Name": "Peugeot",
+        "Model Name": "508",
+        "Serie Name": "508 II",
+        "Years": "2018 - Present",
+        "specs": {
+          "bodyType": "Sedan/Wagon",
+          "segment": "Segment D (Mid-size)",
+          "drive": "FWD/AWD (PSE)",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "1.6L PureTech - PHEV (PSE)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Peugeot 508 to manifestacja francuskiego stylu i sportowej elegancji. Jako radykalny sedan (lub shooting brake), odrzuca klasyczne formy na rzecz dynamicznej sylwetki i luksusowego wykończenia, stając się flagowym okrętem marki.",
+              "en": "Peugeot 508 is a manifestation of French style and sporty elegance. As a radical sedan (or shooting brake), it rejects classic forms in favor of a dynamic silhouette and luxurious finish, becoming the brand's flagship.",
+              "de": "Der Peugeot 508 ist Ausdruck französischen Stils und sportlicher Eleganz. Als radikale Limousine (oder Shooting Brake) lehnt er klassische Formen zugunsten einer dynamischen Silhouette und einer luxuriösen Verarbeitung ab und wird zum Flaggschiff der Marke.",
+              "uk": "Peugeot 508 - це втілення французького стилю та спортивної елегантності. Як радикальний седан (або шутинг-брейк) він відмовляється від класичних форм на користь динамічного силуету та розкішної обробки, ставши флагманом бренду.",
+              "ru": "Peugeot 508 – это воплощение французского стиля и спортивной элегантности. Будучи радикальным седаном (или стреляющим тормозом), он отказывается от классических форм в пользу динамичного силуэта и роскошной отделки, становясь флагманом бренда.",
+              "zh": "标致508是法式风格和运动优雅的体现。作为一款激进的轿车（或射击刹车），它拒绝经典形式，转而采用动感的轮廓和豪华的外观，成为该品牌的旗舰产品。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Peugeot"
+              },
+              "okres produkcji": {
+                "pl": "od 2010",
+                "en": "from 2010",
+                "de": "ab 2010",
+                "uk": "з 2010 р.",
+                "ru": "с 2010 года",
+                "zh": "自2010年以来"
+              },
+              "segment": {
+                "pl": "D (Klasa średnia)",
+                "en": "D (Middle class)",
+                "de": "D (Mittelklasse)",
+                "uk": "D (середній клас)",
+                "ru": "Д (Средний класс)",
+                "zh": "D（中产阶级）"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4k/t5/baij0ko480co0s0okowc8/508-kombi.310.jpg"
+        }
+      }
+    ],
+    "607": [
+      {
+        "BrandID": 102,
+        "ModelID": 1251,
+        "Brand Name": "Peugeot",
+        "Model Name": "607",
+        "Serie Name": "607",
+        "Years": "2000 - 2010",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Executive Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.2L - 3.0L V6",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Peugeot 607 to luksusowa limuzyna, która przez lata pełniła rolę oficjalnego pojazdu francuskich prezydentów. Oferowała niezrównany komfort podróżowania, bogate wyposażenie i reprezentacyjny charakter godny klasy wyższej.",
+              "en": "Peugeot 607 is a luxury limousine that has served as the official vehicle of French presidents for years. It offered unrivaled travel comfort, rich equipment and a representative character worthy of the upper class.",
+              "de": "Peugeot 607 ist eine Luxuslimousine, die seit Jahren als offizielles Fahrzeug französischer Präsidenten dient. Es bot unübertroffenen Reisekomfort, reichhaltige Ausstattung und einen repräsentativen Charakter, der der Oberklasse würdig war.",
+              "uk": "Peugeot 607 — це розкішний лімузин, який роками був офіційним транспортним засобом французьких президентів. Він пропонував неперевершений комфорт подорожі, багате обладнання та представницький характер, гідний вищого класу.",
+              "ru": "Peugeot 607 — роскошный лимузин, который на протяжении многих лет служил официальным автомобилем президентов Франции. Он предлагал непревзойденный комфорт для путешествий, богатое оснащение и представительный характер, достойный высшего класса.",
+              "zh": "标致 607 是一款豪华轿车，多年来一直担任法国总统的官方用车。它提供了无与伦比的旅行舒适度、丰富的设备和堪比上流社会的代表性品格。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Peugeot"
+              },
+              "okres produkcji": "2000–2010",
+              "segment": {
+                "pl": "E (Klasa wyższa)",
+                "en": "E (Upper class)",
+                "de": "E (Oberklasse)",
+                "uk": "E (вищий клас)",
+                "ru": "Е (высший класс)",
+                "zh": "E（上层阶级）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5a/7m/hldu1qg4wg88wcc0sk0oc/607.310.jpg"
+        }
+      }
+    ],
+    "2008": [
+      {
+        "BrandID": 102,
+        "ModelID": 413861,
+        "Brand Name": "Peugeot",
+        "Model Name": "2008",
+        "Serie Name": "2008 I",
+        "Years": "2013 - 2019",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment B-SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L - 1.6L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Peugeot 2008 to wszechstronny crossover, który łączy kompaktowe wymiary z wyrazistym charakterem SUV-a. Dzięki zaawansowanej technologii i futurystycznej stylistyce, jest idealnym wyborem dla osób szukających nowoczesności i wygody w mieście.",
+              "en": "Peugeot 2008 is a versatile crossover that combines compact dimensions with the expressive character of an SUV. Thanks to advanced technology and futuristic styling, it is an ideal choice for people looking for modernity and comfort in the city.",
+              "de": "Peugeot 2008 ist ein vielseitiger Crossover, der kompakte Abmessungen mit dem ausdrucksstarken Charakter eines SUV verbindet. Dank fortschrittlicher Technologie und futuristischem Design ist es eine ideale Wahl für Menschen, die Modernität und Komfort in der Stadt suchen.",
+              "uk": "Peugeot 2008 — це універсальний кросовер, який поєднує в собі компактні розміри з експресивним характером позашляховика. Завдяки передовій технології та футуристичному стилю це ідеальний вибір для людей, які шукають сучасності та комфорту в місті.",
+              "ru": "Peugeot 2008 – универсальный кроссовер, сочетающий в себе компактные размеры с выразительным характером внедорожника. Благодаря передовым технологиям и футуристическому стилю это идеальный выбор для людей, которые ценят современность и комфорт в городе.",
+              "zh": "标致 2008 是一款多功能跨界车，将紧凑的尺寸与 SUV 的表现力特征融为一体。凭借先进的技术和未来感的造型，它是在城市中寻找现代感和舒适感的人们的理想选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Peugeot"
+              },
+              "okres produkcji": {
+                "pl": "od 2013",
+                "en": "from 2013",
+                "de": "ab 2013",
+                "uk": "з 2013 року",
+                "ru": "с 2013 года",
+                "zh": "自2013年起"
+              },
+              "segment": {
+                "pl": "B-SUV"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/86/0y/f75sch0kkocko4scgs4s4/2008-1.310.jpg"
+        }
+      },
+      {
+        "BrandID": 102,
+        "ModelID": 415399,
+        "Brand Name": "Peugeot",
+        "Model Name": "2008",
+        "Serie Name": "2008 II",
+        "Years": "2019 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment B-SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel/Electric",
+          "engine": "1.2L PureTech - Electric 50kWh",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Peugeot to jedna z najstarszych marek motoryzacyjnych, słynąca z komfortowego zawieszenia i eleganckiego, francuskiego stylu (i-Cockpit).",
+              "en": "Peugeot is one of the oldest automotive brands, famous for its comfortable suspension and elegant, French style (i-Cockpit).",
+              "de": "Peugeot ist eine der ältesten Automobilmarken, bekannt für sein komfortables Fahrwerk und seinen eleganten, französischen Stil (i-Cockpit).",
+              "uk": "Peugeot — один із найстаріших автомобільних брендів, відомий своєю комфортною підвіскою та елегантним французьким стилем (i-Cockpit).",
+              "ru": "Peugeot – один из старейших автомобильных брендов, известный своей удобной подвеской и элегантным французским стилем (i-Cockpit).",
+              "zh": "标致是最古老的汽车品牌之一，以其舒适的悬架和优雅的法式风格（i-Cockpit）而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Peugeot"
+              },
+              "siedziba": {
+                "pl": "Paryż, Francja",
+                "en": "Paris, France",
+                "de": "Paris, Frankreich",
+                "uk": "Париж, Франція",
+                "ru": "Париж, Франция",
+                "zh": "法国巴黎"
+              },
+              "założona": "1810"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/86/0y/f75sch0kkocko4scgs4s4/2008-1.310.jpg"
+        }
+      }
+    ],
+    "3008": [
+      {
+        "BrandID": 102,
+        "ModelID": 413447,
+        "Brand Name": "Peugeot",
+        "Model Name": "3008",
+        "Serie Name": "3008 I",
+        "Years": "2009 - 2016",
+        "specs": {
+          "bodyType": "SUV/MPV",
+          "segment": "Segment C-SUV",
+          "drive": "FWD/AWD (Hybrid)",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "1.6L THP - 2.0L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Peugeot 3008 to model, który zmienił postrzeganie marki, stając się jednym z najchętniej wybieranych SUV-ów w Europie. Jego awangardowe wnętrze (i-Cockpit) i pewność prowadzenia sprawiają, że każda podróż staje się wyjątkowym doświadczeniem.",
+              "en": "Peugeot 3008 is a model that changed the perception of the brand, becoming one of the most frequently chosen SUVs in Europe. Its avant-garde interior (i-Cockpit) and confident driving make every trip a unique experience.",
+              "de": "Der Peugeot 3008 ist ein Modell, das die Wahrnehmung der Marke veränderte und zu einem der am häufigsten gewählten SUVs in Europa wurde. Sein avantgardistisches Interieur (i-Cockpit) und souveränes Fahren machen jede Fahrt zu einem einzigartigen Erlebnis.",
+              "uk": "Peugeot 3008 — це модель, яка змінила уявлення про бренд, ставши одним із найпопулярніших позашляховиків у Європі. Авангардний інтер’єр (i-Cockpit) і впевнене водіння роблять кожну поїздку унікальним досвідом.",
+              "ru": "Peugeot 3008 – модель, изменившая представление о бренде, став одним из самых часто выбираемых внедорожников в Европе. Его авангардный интерьер (i-Cockpit) и уверенное вождение делают каждую поездку уникальной.",
+              "zh": "标致3008是一款改变了品牌认知的车型，成为欧洲最常选择的SUV之一。其前卫的内饰（i-Cockpit）和自信的驾驶让每次旅行都成为独特的体验。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Peugeot"
+              },
+              "okres produkcji": {
+                "pl": "od 2009",
+                "en": "from 2009",
+                "de": "ab 2009",
+                "uk": "з 2009 року",
+                "ru": "с 2009 года",
+                "zh": "自2009年以来"
+              },
+              "segment": {
+                "pl": "C-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD (Hybrid4)",
+                "en": "FWD/AWD (Hybrid4)",
+                "de": "FWD/AWD (Hybrid4)",
+                "uk": "FWD/AWD (Hybrid4)",
+                "ru": "Передний/полный привод (гибрид4)",
+                "zh": "前轮驱动/全轮驱动（混合动力4）"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5m/4l/1nci3y4gcokco80oowc8s/3008.310.jpg"
+        }
+      },
+      {
+        "BrandID": 102,
+        "ModelID": 413448,
+        "Brand Name": "Peugeot",
+        "Model Name": "3008",
+        "Serie Name": "3008 II",
+        "Years": "2016 - 2023",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment C-SUV",
+          "drive": "FWD/AWD (Hybrid)",
+          "fuel": "Gasoline/Diesel/Hybrid",
+          "engine": "1.2L - PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Peugeot 3008 to model, który zmienił postrzeganie marki, stając się jednym z najchętniej wybieranych SUV-ów w Europie. Jego awangardowe wnętrze (i-Cockpit) i pewność prowadzenia sprawiają, że każda podróż staje się wyjątkowym doświadczeniem.",
+              "en": "Peugeot 3008 is a model that changed the perception of the brand, becoming one of the most frequently chosen SUVs in Europe. Its avant-garde interior (i-Cockpit) and confident driving make every trip a unique experience.",
+              "de": "Der Peugeot 3008 ist ein Modell, das die Wahrnehmung der Marke veränderte und zu einem der am häufigsten gewählten SUVs in Europa wurde. Sein avantgardistisches Interieur (i-Cockpit) und souveränes Fahren machen jede Fahrt zu einem einzigartigen Erlebnis.",
+              "uk": "Peugeot 3008 — це модель, яка змінила уявлення про бренд, ставши одним із найпопулярніших позашляховиків у Європі. Авангардний інтер’єр (i-Cockpit) і впевнене водіння роблять кожну поїздку унікальним досвідом.",
+              "ru": "Peugeot 3008 – модель, изменившая представление о бренде, став одним из самых часто выбираемых внедорожников в Европе. Его авангардный интерьер (i-Cockpit) и уверенное вождение делают каждую поездку уникальной.",
+              "zh": "标致3008是一款改变了品牌认知的车型，成为欧洲最常选择的SUV之一。其前卫的内饰（i-Cockpit）和自信的驾驶让每次旅行都成为独特的体验。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Peugeot"
+              },
+              "okres produkcji": {
+                "pl": "od 2009",
+                "en": "from 2009",
+                "de": "ab 2009",
+                "uk": "з 2009 року",
+                "ru": "с 2009 года",
+                "zh": "自2009年以来"
+              },
+              "segment": {
+                "pl": "C-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD (Hybrid4)",
+                "en": "FWD/AWD (Hybrid4)",
+                "de": "FWD/AWD (Hybrid4)",
+                "uk": "FWD/AWD (Hybrid4)",
+                "ru": "Передний/полный привод (гибрид4)",
+                "zh": "前轮驱动/全轮驱动（混合动力4）"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5m/4l/1nci3y4gcokco80oowc8s/3008.310.jpg"
+        }
+      },
+      {
+        "BrandID": 102,
+        "ModelID": 416566,
+        "Brand Name": "Peugeot",
+        "Model Name": "3008",
+        "Serie Name": "3008 III",
+        "Years": "2023 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment C-SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Hybrid/Electric",
+          "engine": "Hybrid - Electric (e-3008)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Peugeot 3008 to model, który zmienił postrzeganie marki, stając się jednym z najchętniej wybieranych SUV-ów w Europie. Jego awangardowe wnętrze (i-Cockpit) i pewność prowadzenia sprawiają, że każda podróż staje się wyjątkowym doświadczeniem.",
+              "en": "Peugeot 3008 is a model that changed the perception of the brand, becoming one of the most frequently chosen SUVs in Europe. Its avant-garde interior (i-Cockpit) and confident driving make every trip a unique experience.",
+              "de": "Der Peugeot 3008 ist ein Modell, das die Wahrnehmung der Marke veränderte und zu einem der am häufigsten gewählten SUVs in Europa wurde. Sein avantgardistisches Interieur (i-Cockpit) und souveränes Fahren machen jede Fahrt zu einem einzigartigen Erlebnis.",
+              "uk": "Peugeot 3008 — це модель, яка змінила уявлення про бренд, ставши одним із найпопулярніших позашляховиків у Європі. Авангардний інтер’єр (i-Cockpit) і впевнене водіння роблять кожну поїздку унікальним досвідом.",
+              "ru": "Peugeot 3008 – модель, изменившая представление о бренде, став одним из самых часто выбираемых внедорожников в Европе. Его авангардный интерьер (i-Cockpit) и уверенное вождение делают каждую поездку уникальной.",
+              "zh": "标致3008是一款改变了品牌认知的车型，成为欧洲最常选择的SUV之一。其前卫的内饰（i-Cockpit）和自信的驾驶让每次旅行都成为独特的体验。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Peugeot"
+              },
+              "okres produkcji": {
+                "pl": "od 2009",
+                "en": "from 2009",
+                "de": "ab 2009",
+                "uk": "з 2009 року",
+                "ru": "с 2009 года",
+                "zh": "自2009年以来"
+              },
+              "segment": {
+                "pl": "C-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD (Hybrid4)",
+                "en": "FWD/AWD (Hybrid4)",
+                "de": "FWD/AWD (Hybrid4)",
+                "uk": "FWD/AWD (Hybrid4)",
+                "ru": "Передний/полный привод (гибрид4)",
+                "zh": "前轮驱动/全轮驱动（混合动力4）"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5m/4l/1nci3y4gcokco80oowc8s/3008.310.jpg"
+        }
+      }
+    ],
+    "5008": [
+      {
+        "BrandID": 102,
+        "ModelID": 3563,
+        "Brand Name": "Peugeot",
+        "Model Name": "5008",
+        "Serie Name": "5008 I",
+        "Years": "2009 - 2016",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L THP - 2.0L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Peugeot 5008 to potężny SUV stworzony z myślą o dużych rodzinach. Oferuje siedem niezależnych miejsc, ogromny bagażnik i wysoki komfort podróżowania, nie tracąc przy tym nic z unikalnego stylu i nowoczesności marki.",
+              "en": "Peugeot 5008 is a powerful SUV designed for large families. It offers seven independent seats, a huge trunk and high traveling comfort, without losing any of the brand's unique style and modernity.",
+              "de": "Der Peugeot 5008 ist ein leistungsstarker SUV für große Familien. Er bietet sieben unabhängige Sitze, einen riesigen Kofferraum und hohen Reisekomfort, ohne dabei den einzigartigen Stil und die Modernität der Marke einzubüßen.",
+              "uk": "Peugeot 5008 — це потужний позашляховик, створений для великих родин. Він пропонує сім незалежних сидінь, величезний багажник і високий комфорт подорожі, не втрачаючи при цьому унікального стилю та сучасності бренду.",
+              "ru": "Peugeot 5008 – мощный внедорожник, созданный для больших семей. Он предлагает семь независимых сидений, огромный багажник и высокий комфорт во время путешествия, не теряя при этом уникального стиля и современности бренда.",
+              "zh": "标致5008是一款专为大家庭设计的强大SUV。它提供七个独立座椅、巨大的后备箱和极高的旅行舒适度，同时又不失品牌的独特风格和现代感。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Peugeot"
+              },
+              "okres produkcji": {
+                "pl": "od 2009",
+                "en": "from 2009",
+                "de": "ab 2009",
+                "uk": "з 2009 року",
+                "ru": "с 2009 года",
+                "zh": "自2009年以来"
+              },
+              "segment": {
+                "pl": "D-SUV"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/86/rw/r8ym7gw8gog0w8840cs4k/5008.310.jpg"
+        }
+      },
+      {
+        "BrandID": 102,
+        "ModelID": 416396,
+        "Brand Name": "Peugeot",
+        "Model Name": "5008",
+        "Serie Name": "5008 II",
+        "Years": "2017 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Segment D-SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L - 2.0L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Peugeot 5008 to potężny SUV stworzony z myślą o dużych rodzinach. Oferuje siedem niezależnych miejsc, ogromny bagażnik i wysoki komfort podróżowania, nie tracąc przy tym nic z unikalnego stylu i nowoczesności marki.",
+              "en": "Peugeot 5008 is a powerful SUV designed for large families. It offers seven independent seats, a huge trunk and high traveling comfort, without losing any of the brand's unique style and modernity.",
+              "de": "Peugeot 5008 ist ein leistungsstarker SUV für große Familien. Er bietet sieben unabhängige Sitze, einen riesigen Kofferraum und hohen Reisekomfort, ohne dabei den einzigartigen Stil und die Modernität der Marke einzubüßen.",
+              "uk": "Peugeot 5008 — потужний позашляховик, створений для великих родин. Він пропонує сім незалежних сидінь, величезний багажник і високий комфорт подорожі, не втрачаючи при цьому унікального стилю та сучасності бренду.",
+              "ru": "Peugeot 5008 – мощный внедорожник, созданный для больших семей. Он предлагает семь независимых сидений, огромный багажник и высокий комфорт во время путешествия, не теряя при этом уникального стиля и современности бренда.",
+              "zh": "标致5008是一款专为大家庭设计的强大SUV。它提供七个独立座椅、巨大的后备箱和极高的旅行舒适度，同时又不失品牌的独特风格和现代感。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Peugeot"
+              },
+              "okres produkcji": {
+                "pl": "od 2009",
+                "en": "from 2009",
+                "de": "ab 2009",
+                "uk": "з 2009 р.",
+                "ru": "с 2009 года",
+                "zh": "2009 年起"
+              },
+              "segment": {
+                "pl": "D-SUV"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/86/rw/r8ym7gw8gog0w8840cs4k/5008.310.jpg"
+        }
+      }
+    ],
+    "RCZ": [
+      {
+        "BrandID": 102,
+        "ModelID": 1255,
+        "Brand Name": "Peugeot",
+        "Model Name": "RCZ",
+        "Serie Name": "RCZ",
+        "Years": "2010 - 2015",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Sports Car",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L THP - 2.0L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Peugeot RCZ to sportowe coupe o zjawiskowej stylistyce, charakteryzujące się unikalnym dachem typu 'double-bubble'. Łączy emocjonujące osiągi z precyzją prowadzenia, będąc jednym z najbardziej wyrazistych modeli w historii marki.",
+              "en": "Peugeot RCZ is a sports coupe with phenomenal styling, characterized by a unique 'double-bubble' roof. It combines exciting performance with precise handling, being one of the most expressive models in the history of the brand.",
+              "de": "Peugeot RCZ ist ein Sportcoupé mit phänomenalem Design, das sich durch ein einzigartiges „Double-Bubble“-Dach auszeichnet. Es vereint aufregende Leistung mit präzisem Handling und ist eines der ausdrucksstärksten Modelle in der Geschichte der Marke.",
+              "uk": "Peugeot RCZ — це спортивне купе з феноменальним стилем, що характеризується унікальним дахом із подвійною кулькою. Він поєднує в собі захоплюючі характеристики з точним керуванням, будучи однією з найвиразніших моделей в історії бренду.",
+              "ru": "Peugeot RCZ — спортивное купе с феноменальным стилем, характеризующееся уникальной крышей с двойным куполом. Он сочетает в себе впечатляющую производительность с точным управлением и является одной из самых выразительных моделей в истории бренда.",
+              "zh": "标致 RCZ 是一款造型非凡的运动轿跑车，其特点是独特的“双泡”车顶。它结合了令人兴奋的性能和精确的操控性，成为该品牌历史上最具表现力的车型之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Peugeot"
+              },
+              "okres produkcji": "2010–2015",
+              "segment": {
+                "pl": "G (Samochód sportowy)",
+                "en": "G (Sports car)",
+                "de": "G (Sportwagen)",
+                "uk": "G (Спортивний автомобіль)",
+                "ru": "G (Спортивный автомобиль)",
+                "zh": "G（跑车）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/4d/78/s4ttsz8kwwcg8kgccoc0g/rcz.310.jpg"
+        }
+      }
+    ],
+    "Partner": [
+      {
+        "BrandID": 102,
+        "ModelID": 1256,
+        "Brand Name": "Peugeot",
+        "Model Name": "Partner",
+        "Serie Name": "Partner I",
+        "Years": "1996 - 2008",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Small Van",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.4L - 2.0L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Peugeot Partner (oraz jego osobowa wersja Rifter) to wzorzec praktyczności i wszechstronności. Od lat służy profesjonalistom i rodzinom, oferując ogromną przestrzeń załadunkową i komfort godny auta osobowego.",
+              "en": "Peugeot Partner (and its passenger version Rifter) is a model of practicality and versatility. It has been serving professionals and families for years, offering huge loading space and comfort worthy of a passenger car.",
+              "de": "Peugeot Partner (und seine Passagierversion Rifter) ist ein Musterbeispiel für Praktikabilität und Vielseitigkeit. Seit Jahren dient er sowohl Berufstätigen als auch Familien und bietet riesigen Laderaum und Komfort, der einem Pkw würdig ist.",
+              "uk": "Peugeot Partner (і його пасажирська версія Rifter) — взірець практичності та універсальності. Він роками обслуговує професіоналів і сім’ї, пропонуючи величезний вантажний простір і комфорт, гідний легкового автомобіля.",
+              "ru": "Peugeot Partner (и его пассажирская версия Rifter) — образец практичности и универсальности. Он уже много лет служит профессионалам и семьям, предлагая огромное грузовое пространство и комфорт, достойный легкового автомобиля.",
+              "zh": "标致 Partner（及其乘用版 Rifter）是实用性和多功能性的典范。多年来，它一直为专业人士和家庭提供服务，提供巨大的装载空间和乘用车的舒适度。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Peugeot"
+              },
+              "okres produkcji": {
+                "pl": "od 1996",
+                "en": "from 1996",
+                "de": "ab 1996",
+                "uk": "з 1996",
+                "ru": "с 1996 года",
+                "zh": "1996 年起"
+              },
+              "segment": {
+                "pl": "K (Kombiwan / Van)",
+                "en": "K (Kombivan / Van)",
+                "de": "K (Kombivan / Van)",
+                "uk": "K (Комбіван / Фургон)",
+                "ru": "К (Комбивэн/Фургон)",
+                "zh": "K (Kombivan / Van)"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bt/cd/spiq1w8co4gsoscgkk00/partner-ii-furgon.310.jpg"
+        }
+      },
+      {
+        "BrandID": 102,
+        "ModelID": 1257,
+        "Brand Name": "Peugeot",
+        "Model Name": "Partner",
+        "Serie Name": "Partner II",
+        "Years": "2008 - 2018",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Small Van",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.6L VTi - 1.6L HDi",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Peugeot Partner (oraz jego osobowa wersja Rifter) to wzorzec praktyczności i wszechstronności. Od lat służy profesjonalistom i rodzinom, oferując ogromną przestrzeń załadunkową i komfort godny auta osobowego.",
+              "en": "Peugeot Partner (and its passenger version Rifter) is a model of practicality and versatility. It has been serving professionals and families for years, offering huge loading space and comfort worthy of a passenger car.",
+              "de": "Peugeot Partner (und seine Passagierversion Rifter) ist ein Modell der Praktikabilität und Vielseitigkeit. Seit Jahren dient er sowohl Berufstätigen als auch Familien und bietet riesigen Laderaum und Komfort, der einem Pkw würdig ist.",
+              "uk": "Peugeot Partner (і його пасажирська версія Rifter) — взірець практичності та універсальності. Він роками обслуговує професіоналів і сім’ї, пропонуючи величезний вантажний простір і комфорт, гідний легкового автомобіля.",
+              "ru": "Peugeot Partner (и его пассажирская версия Rifter) — образец практичности и универсальности. Он уже много лет служит профессионалам и семьям, предлагая огромное грузовое пространство и комфорт, достойный легкового автомобиля.",
+              "zh": "标致 Partner（及其乘用版 Rifter）是实用性和多功能性的典范。多年来，它一直为专业人士和家庭提供服务，提供巨大的装载空间和乘用车般的舒适度。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Peugeot"
+              },
+              "okres produkcji": {
+                "pl": "od 1996",
+                "en": "from 1996",
+                "de": "ab 1996",
+                "uk": "з 1996",
+                "ru": "с 1996 года",
+                "zh": "1996 年起"
+              },
+              "segment": {
+                "pl": "K (Kombiwan / Van)",
+                "en": "K (Kombivan / Van)",
+                "de": "K (Kombivan / Van)",
+                "uk": "K (Комбіван / Фургон)",
+                "ru": "К (Комбивэн/Фургон)",
+                "zh": "K (Kombivan / Van)"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bt/cd/spiq1w8co4gsoscgkk00/partner-ii-furgon.310.jpg"
+        }
+      },
+      {
+        "BrandID": 102,
+        "ModelID": 1258,
+        "Brand Name": "Peugeot",
+        "Model Name": "Partner",
+        "Serie Name": "Partner III",
+        "Years": "2018 - Present",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Small Van",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L PureTech - 1.5L BlueHDi",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Peugeot Partner (oraz jego osobowa wersja Rifter) to wzorzec praktyczności i wszechstronności. Od lat służy profesjonalistom i rodzinom, oferując ogromną przestrzeń załadunkową i komfort godny auta osobowego.",
+              "en": "Peugeot Partner (and its passenger version Rifter) is a model of practicality and versatility. It has been serving professionals and families for years, offering huge loading space and comfort worthy of a passenger car.",
+              "de": "Peugeot Partner (und seine Passagierversion Rifter) ist ein Modell der Praktikabilität und Vielseitigkeit. Seit Jahren dient er sowohl Berufstätigen als auch Familien und bietet riesigen Laderaum und Komfort, der einem Pkw würdig ist.",
+              "uk": "Peugeot Partner (і його пасажирська версія Rifter) — взірець практичності та універсальності. Він роками обслуговує професіоналів і сім’ї, пропонуючи величезний вантажний простір і комфорт, гідний легкового автомобіля.",
+              "ru": "Peugeot Partner (и его пассажирская версия Rifter) — образец практичности и универсальности. Он уже много лет служит профессионалам и семьям, предлагая огромное грузовое пространство и комфорт, достойный легкового автомобиля.",
+              "zh": "标致 Partner（及其乘用版 Rifter）是实用性和多功能性的典范。多年来，它一直为专业人士和家庭提供服务，提供巨大的装载空间和乘用车般的舒适度。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Peugeot"
+              },
+              "okres produkcji": {
+                "pl": "od 1996",
+                "en": "from 1996",
+                "de": "ab 1996",
+                "uk": "з 1996 р.",
+                "ru": "с 1996 года",
+                "zh": "1996 年生产"
+              },
+              "segment": {
+                "pl": "K (Kombiwan / Van)",
+                "en": "K (Kombiwan / Van)",
+                "de": "K (Kombiwan / Van)",
+                "uk": "K (Kombiwan / Van)",
+                "ru": "К (Комбивэн/Фургон)",
+                "zh": "K (Kombiwan / Van)"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/bt/cd/spiq1w8co4gsoscgkk00/partner-ii-furgon.310.jpg"
+        }
+      }
+    ],
+    "Rifter": [
+      {
+        "BrandID": 102,
+        "ModelID": 416567,
+        "Brand Name": "Peugeot",
+        "Model Name": "Rifter",
+        "Serie Name": "Rifter",
+        "Years": "2018 - Present",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Small MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.2L PureTech - 1.5L BlueHDi",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Peugeot Rifter to nowoczesna interpretacja kombiwana, która stawia na przygodę i rodzinny komfort. Dzięki podwyższonemu prześwitowi i systemowi Advanced Grip Control, świetnie radzi sobie nie tylko w mieście, ale i poza utwardzonymi szlakami.",
+              "en": "Peugeot Rifter is a modern interpretation of a station wagon that focuses on adventure and family comfort. Thanks to the increased ground clearance and the Advanced Grip Control system, it handles great not only in the city, but also off paved trails.",
+              "de": "Peugeot Rifter ist eine moderne Interpretation eines Kombis, bei dem Abenteuer und Familienkomfort im Vordergrund stehen. Dank der erhöhten Bodenfreiheit und dem Advanced Grip Control-System fährt er sich nicht nur in der Stadt, sondern auch abseits befestigter Wege hervorragend.",
+              "uk": "Peugeot Rifter — це сучасна інтерпретація універсалу, який орієнтований на пригоди та сімейний комфорт. Завдяки збільшеному кліренсу та системі Advanced Grip Control він чудово керує не лише містом, а й поза дорогами з твердим покриттям.",
+              "ru": "Peugeot Rifter — современная интерпретация универсала, ориентированная на приключения и семейный комфорт. Благодаря увеличенному клиренсу и системе Advanced Grip Control он отлично управляется не только в городе, но и на бездорожье.",
+              "zh": "Peugeot Rifter 是对旅行车的现代诠释，注重冒险和家庭舒适。由于离地间隙的增加和先进的抓地力控制系统，它不仅在城市中，而且在铺砌的小道上也能表现出色。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Peugeot"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "from 2018",
+                "de": "ab 2018",
+                "uk": "з 2018 року",
+                "ru": "с 2018 года",
+                "zh": "2018 年起"
+              },
+              "segment": {
+                "pl": "K (Kombiwan / MPV)",
+                "en": "K (Kombivan / MPV)",
+                "de": "K (Kombivan / MPV)",
+                "uk": "K (Комбіван / MPV)",
+                "ru": "К (универсал / минивэн)",
+                "zh": "K（Kombivan / MPV）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Traveller": [
+      {
+        "BrandID": 102,
+        "ModelID": 416568,
+        "Brand Name": "Peugeot",
+        "Model Name": "Traveller",
+        "Serie Name": "Traveller",
+        "Years": "2016 - Present",
+        "specs": {
+          "bodyType": "Van",
+          "segment": "Large MPV",
+          "drive": "FWD",
+          "fuel": "Diesel/Electric",
+          "engine": "1.5L - 2.0L BlueHDi / Electric",
+          "isOldtimer": false,
+          "vehicleType": "Van",
+          "wiki": {
+            "description": {
+              "pl": "Peugeot Traveller to luksusowy van stworzony do transportu osób w najwyższym standardzie. Oferuje modułowe wnętrze, nowoczesne systemy rozrywki i napęd w pełni elektryczny, będąc idealnym biurem na kołach.",
+              "en": "Peugeot Traveler is a luxury van created for transporting people to the highest standard. It offers a modular interior, modern entertainment systems and a fully electric drive, making it an ideal office on wheels.",
+              "de": "Peugeot Traveller ist ein Luxus-Van, der für den Personentransport auf höchstem Niveau entwickelt wurde. Es bietet einen modularen Innenraum, moderne Unterhaltungssysteme und einen vollelektrischen Antrieb und ist damit ein ideales Büro auf Rädern.",
+              "uk": "Peugeot Traveller — розкішний фургон, створений для перевезення людей за найвищими стандартами. Він пропонує модульний інтер’єр, сучасні розважальні системи та повністю електричний привід, що робить його ідеальним офісом на колесах.",
+              "ru": "Peugeot Traveler — это роскошный фургон, созданный для перевозки людей по самым высоким стандартам. Он предлагает модульный интерьер, современные развлекательные системы и полностью электрический привод, что делает его идеальным офисом на колесах.",
+              "zh": "Peugeot Traveler 是一款豪华面包车，旨在以最高标准运送人员。它提供模块化内饰、现代娱乐系统和全电动驱动，使其成为理想的移动办公室。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Peugeot"
+              },
+              "okres produkcji": {
+                "pl": "od 2016",
+                "en": "from 2016",
+                "de": "ab 2016",
+                "uk": "з 2016",
+                "ru": "с 2016 года",
+                "zh": "2016 年起"
+              },
+              "segment": {
+                "pl": "V (Van / MPV)",
+                "en": "V (Van / MPV)",
+                "de": "V (Van / MPV)",
+                "uk": "V (фургон / MPV)",
+                "ru": "V (фургон/MPV)",
+                "zh": "V（厢型车 / MPV）"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

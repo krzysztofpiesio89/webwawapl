@@ -1,0 +1,429 @@
+{
+  "brand": "Cupra",
+  "models": {
+    "Ateca": [
+      {
+        "BrandID": 3000,
+        "ModelID": 416001,
+        "Brand Name": "Cupra",
+        "Model Name": "Ateca",
+        "Serie Name": "Ateca",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0 TSI (300 hp)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Cupra Ateca to pierwszy model marki, sportowy SUV łączący osiągi z praktycznością.",
+              "en": "Cupra Ateca is the brand's first model, a sports SUV combining performance with practicality.",
+              "de": "Der Cupra Ateca ist das erste Modell der Marke, ein Sport-SUV, der Leistung mit Funktionalität vereint.",
+              "uk": "Cupra Ateca — перша модель бренду, спортивний позашляховик, що поєднує продуктивність із практичністю.",
+              "ru": "Cupra Ateca — первая модель бренда, спортивный внедорожник, сочетающий в себе производительность и практичность.",
+              "zh": "Cupra Ateca是该品牌的首款车型，一款兼具性能与实用性的运动SUV。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cupra",
+                "en": "Cupra",
+                "de": "Cupra",
+                "uk": "Cupra",
+                "ru": "Купра"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "since 2018",
+                "de": "seit 2018",
+                "uk": "з 2018 року",
+                "ru": "с 2018 года",
+                "zh": "2018 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Kvasiny, Czechy",
+                "en": "Kvasiny, Czech Republic",
+                "de": "Kvasiny, Tschechische Republik",
+                "uk": "Квасіни, Чехія",
+                "ru": "Квасины, Чехия",
+                "zh": "捷克共和国 Kvasiny"
+              },
+              "platforma": {
+                "pl": "MQB A1",
+                "en": "MQB A1",
+                "de": "MQB A1",
+                "uk": "MQB A1",
+                "ru": "МКБ А1",
+                "zh": "MQB A1"
+              },
+              "silnik": {
+                "pl": "2.0 TSI (300 KM)",
+                "en": "2.0 TSI (300 HP)",
+                "de": "2.0 TSI (300 PS)",
+                "uk": "2.0 TSI (300 к.с.)",
+                "ru": "2,0 ТСИ (300 л.с.)",
+                "zh": "2.0 TSI (300 HP)"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Born": [
+      {
+        "BrandID": 3000,
+        "ModelID": 416002,
+        "Brand Name": "Cupra",
+        "Model Name": "Born",
+        "Serie Name": "Born",
+        "Years": "2021 - 3000",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Compact Electric",
+          "drive": "RWD",
+          "fuel": "Electric",
+          "engine": "Electric (150-230 hp)",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Cupra Born to pierwszy w pełni elektryczny model marki, sportowy hatchback o drapieżnym designie.",
+              "en": "Cupra Born is the brand's first fully electric model, a sporty hatchback with a predatory design.",
+              "de": "Cupra Born ist das erste vollelektrische Modell der Marke, ein sportliches Fließheckmodell mit räuberischem Design.",
+              "uk": "Cupra Born — перша повністю електрична модель бренду, спортивний хетчбек із хижим дизайном.",
+              "ru": "Cupra Born — первая полностью электрическая модель бренда, спортивный хэтчбек с хищным дизайном.",
+              "zh": "Cupra Born 是该品牌的首款全电动车型，一款采用掠夺性设计的运动掀背车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cupra",
+                "en": "Cupra",
+                "de": "Cupra",
+                "uk": "Cupra",
+                "ru": "Купра"
+              },
+              "okres produkcji": {
+                "pl": "od 2021",
+                "en": "from 2021",
+                "de": "ab 2021",
+                "uk": "з 2021 року",
+                "ru": "с 2021 года",
+                "zh": "2021 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Zwickau, Niemcy",
+                "en": "Zwickau, Germany",
+                "de": "Zwickau, Deutschland",
+                "uk": "Цвікау, Німеччина",
+                "ru": "Цвиккау, Германия",
+                "zh": "德国茨维考"
+              },
+              "platforma": {
+                "pl": "MEB",
+                "en": "MEB",
+                "de": "MEB",
+                "uk": "MEB",
+                "ru": "МЭБ"
+              },
+              "silnik": {
+                "pl": "Electric (204-231 KM)",
+                "en": "Electric (204-231 HP)",
+                "de": "Elektrisch (204–231 PS)",
+                "uk": "Електричний (204-231 к. с.)",
+                "ru": "Электрический (204-231 л.с.)",
+                "zh": "电动（204-231 HP）"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Formentor": [
+      {
+        "BrandID": 3000,
+        "ModelID": 416003,
+        "Brand Name": "Cupra",
+        "Model Name": "Formentor",
+        "Serie Name": "Formentor",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Coupe SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid/Diesel",
+          "engine": "1.5 TSI / 2.0 TSI / 2.5 TSI / 1.4 e-Hybrid / 2.0 TDI",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Cupra Formentor to pierwszy autorski model marki, dynamiczny crossover o unikalnej, muskularnej sylwetce.",
+              "en": "Cupra Formentor is the brand's first original model, a dynamic crossover with a unique, muscular silhouette.",
+              "de": "Der Cupra Formentor ist das erste Originalmodell der Marke, ein dynamischer Crossover mit einer einzigartigen, muskulösen Silhouette.",
+              "uk": "Cupra Formentor — перша оригінальна модель бренду, динамічний кросовер з унікальним мускулистим силуетом.",
+              "ru": "Cupra Formentor — первая оригинальная модель бренда, динамичный кроссовер с уникальным мускулистым силуэтом.",
+              "zh": "Cupra Formentor 是该品牌的首款原创车型，是一款具有独特肌肉轮廓的动态跨界车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cupra",
+                "en": "Cupra",
+                "de": "Cupra",
+                "uk": "Cupra",
+                "ru": "Купра"
+              },
+              "okres produkcji": {
+                "pl": "od 2020",
+                "en": "from 2020",
+                "de": "ab 2020",
+                "uk": "з 2020 року",
+                "ru": "с 2020 года",
+                "zh": "2020 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Martorell, Hiszpania",
+                "en": "Martorell, Spain",
+                "de": "Martorell, Spanien",
+                "uk": "Марторель, Іспанія",
+                "ru": "Марторель, Испания",
+                "zh": "Martorell，西班牙"
+              },
+              "platforma": {
+                "pl": "MQB Evo",
+                "en": "MQB Evo",
+                "de": "MQB Evo",
+                "uk": "MQB Evo",
+                "ru": "МКБ Эво",
+                "zh": "MQB Evo"
+              },
+              "silnik": {
+                "pl": "1.5 TSI - 2.5 TSI VZ5",
+                "en": "1.5 TSI - 2.5 TSI VZ5",
+                "de": "1,5 TSI - 2,5 TSI VZ5",
+                "uk": "1.5 TSI - 2.5 TSI VZ5",
+                "ru": "1,5 ТСИ - 2,5 ТСИ ВЗ5",
+                "zh": "1.5 TSI - 2.5 TSI VZ5"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Leon": [
+      {
+        "BrandID": 3000,
+        "ModelID": 416004,
+        "Brand Name": "Cupra",
+        "Model Name": "Leon",
+        "Serie Name": "Leon (KL)",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "Hatchback/Wagon",
+          "segment": "Compact",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "2.0 TSI / 1.4 e-Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Cupra Leon to sportowa wersja popularnego kompaktu, dostępna jako hatchback i kombi, również jako hybryda.",
+              "en": "Cupra Leon is a sports version of the popular compact, available as a hatchback and station wagon, also as a hybrid.",
+              "de": "Der Cupra Leon ist eine Sportversion des beliebten Kompaktwagens, erhältlich als Fließheck und Kombi, auch als Hybrid.",
+              "uk": "Cupra Leon — це спортивна версія популярного компактного автомобіля, доступна як хетчбек і універсал, а також гібрид.",
+              "ru": "Cupra Leon — спортивная версия популярного компакта, доступная в кузовах хэтчбек и универсал, а также в виде гибрида.",
+              "zh": "Cupra Leon 是流行紧凑型车的运动版，可作为掀背车和旅行车，也可作为混合动力车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cupra",
+                "en": "Cupra",
+                "de": "Cupra",
+                "uk": "Cupra",
+                "ru": "Купра"
+              },
+              "okres produkcji": {
+                "pl": "od 2020",
+                "en": "from 2020",
+                "de": "ab 2020",
+                "uk": "з 2020 року",
+                "ru": "с 2020 года",
+                "zh": "2020 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Martorell, Hiszpania",
+                "en": "Martorell, Spain",
+                "de": "Martorell, Spanien",
+                "uk": "Марторель, Іспанія",
+                "ru": "Марторель, Испания",
+                "zh": "Martorell，西班牙"
+              },
+              "platforma": {
+                "pl": "MQB Evo",
+                "en": "MQB Evo",
+                "de": "MQB Evo",
+                "uk": "MQB Evo",
+                "ru": "МКБ Эво",
+                "zh": "MQB Evo"
+              },
+              "silnik": {
+                "pl": "1.5 eTSI - 2.0 TSI",
+                "en": "1.5 eTSI - 2.0 TSI",
+                "de": "1,5 eTSI – 2,0 TSI",
+                "uk": "1.5 eTSI - 2.0 TSI",
+                "ru": "1,5 еТСИ - 2,0 ТСИ",
+                "zh": "1.5 eTSI - 2.0 TSI"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cupra_Leon_Mk4_ST_1X7A6814.jpg/1280px-Cupra_Leon_Mk4_ST_1X7A6814.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cupra_Leon_Mk4_ST_1X7A6814.jpg/1280px-Cupra_Leon_Mk4_ST_1X7A6814.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Cupra_Leon_Mk4_Facelift_IMG_0398.jpg/1280px-Cupra_Leon_Mk4_Facelift_IMG_0398.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cupra_Leon_Mk4_Facelift_IMG_0392.jpg/1280px-Cupra_Leon_Mk4_Facelift_IMG_0392.jpg"
+            ]
+          }
+        }
+      }
+    ],
+    "Tavascan": [
+      {
+        "BrandID": 3000,
+        "ModelID": 416005,
+        "Brand Name": "Cupra",
+        "Model Name": "Tavascan",
+        "Serie Name": "Tavascan",
+        "Years": "2024 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Electric SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Electric",
+          "engine": "Electric",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Cupra Tavascan to elektryczny SUV coupe o futurystycznym designie, drugi elektryk marki.",
+              "en": "Cupra Tavascan is an electric SUV coupe with a futuristic design, the brand's second electric car.",
+              "de": "Cupra Tavascan ist ein Elektro-SUV-Coupé mit futuristischem Design, das zweite Elektroauto der Marke.",
+              "uk": "Cupra Tavascan — електричний позашляховик-купе футуристичного дизайну, другий електромобіль марки.",
+              "ru": "Cupra Tavascan — электрический внедорожник-купе с футуристическим дизайном, второй электромобиль марки.",
+              "zh": "Cupra Tavascan 是一款采用未来派设计的电动 SUV 轿跑车，是该品牌的第二款电动汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cupra",
+                "en": "Cupra",
+                "de": "Cupra",
+                "uk": "Cupra",
+                "ru": "Купра"
+              },
+              "okres produkcji": {
+                "pl": "od 2024",
+                "en": "from 2024",
+                "de": "ab 2024",
+                "uk": "з 2024 року",
+                "ru": "с 2024 года",
+                "zh": "2024 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Anhui, Chiny",
+                "en": "Anhui, China",
+                "de": "Anhui, China",
+                "uk": "Аньхой, Китай",
+                "ru": "Аньхой, Китай",
+                "zh": "中国安徽"
+              },
+              "platforma": {
+                "pl": "MEB",
+                "en": "MEB",
+                "de": "MEB",
+                "uk": "MEB",
+                "ru": "МЭБ"
+              },
+              "silnik": {
+                "pl": "Electric (286-340 KM)",
+                "en": "Electric (286-340 HP)",
+                "de": "Elektrisch (286–340 PS)",
+                "uk": "Електричний (286-340 к. с.)",
+                "ru": "Электрический (286-340 л.с.)",
+                "zh": "电动（286-340 HP）"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Terramar": [
+      {
+        "BrandID": 3000,
+        "ModelID": 416006,
+        "Brand Name": "Cupra",
+        "Model Name": "Terramar",
+        "Serie Name": "Terramar",
+        "Years": "2024 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.5 eTSI / 2.0 TSI / e-Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Cupra Terramar to hybrydowy SUV, następcą Ateci, ostatni model marki z silnikami spalinowymi.",
+              "en": "Cupra Terramar is a hybrid SUV, the successor to Ateca, the last model of the brand with combustion engines.",
+              "de": "Cupra Terramar ist ein Hybrid-SUV, der Nachfolger des Ateca, dem letzten Modell der Marke mit Verbrennungsmotoren.",
+              "uk": "Cupra Terramar — гібридний позашляховик, наступник Ateca, останньої моделі марки з двигунами внутрішнього згоряння.",
+              "ru": "Cupra Terramar — гибридный внедорожник, преемник Ateca, последней модели марки с двигателями внутреннего сгорания.",
+              "zh": "Cupra Terramar 是一款混合动力 SUV，是该品牌最后一款配备内燃机的车型 Ateca 的继任者。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Cupra",
+                "en": "Cupra",
+                "de": "Cupra",
+                "uk": "Cupra",
+                "ru": "Купра"
+              },
+              "okres produkcji": {
+                "pl": "od 2024",
+                "en": "from 2024",
+                "de": "ab 2024",
+                "uk": "з 2024 року",
+                "ru": "с 2024 года",
+                "zh": "2024 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Gyor, Węgry",
+                "en": "Gyor, Hungary",
+                "de": "Györ, Ungarn",
+                "uk": "Дьйор, Угорщина",
+                "ru": "Дьер, Венгрия",
+                "zh": "匈牙利杰尔"
+              },
+              "platforma": {
+                "pl": "MQB Evo",
+                "en": "MQB Evo",
+                "de": "MQB Evo",
+                "uk": "MQB Evo",
+                "ru": "МКБ Эво",
+                "zh": "MQB Evo"
+              },
+              "silnik": {
+                "pl": "1.5 eTSI - 2.0 TSI / e-Hybrid",
+                "en": "1.5 eTSI - 2.0 TSI / e-Hybrid",
+                "de": "1,5 eTSI – 2,0 TSI / e-Hybrid",
+                "uk": "1.5 eTSI - 2.0 TSI / e-Hybrid",
+                "ru": "1,5 eTSI - 2,0 TSI / e-гибрид",
+                "zh": "1.5 eTSI - 2.0 TSI / e-Hybrid"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "brand": "Peugeot moto",
+  "models": {
+    "": [
+      {
+        "BrandID": 214,
+        "ModelID": "",
+        "Brand Name": "Peugeot moto",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Peugeot Motocycles to najstarszy producent jednośladów na świecie, oferujący szeroką gamę skuterów miejskich i trójkołowych.",
+              "en": "Peugeot Motocycles is the oldest two-wheeler manufacturer in the world, offering a wide range of city scooters and three-wheelers.",
+              "de": "Peugeot Motocycles ist der älteste Zweiradhersteller der Welt und bietet eine große Auswahl an Stadtrollern und Dreirädern an.",
+              "uk": "Peugeot Motocycles є найстарішим виробником двоколісних автомобілів у світі, що пропонує широкий асортимент міських скутерів і триколісних автомобілів.",
+              "ru": "Peugeot Motocycles — старейший производитель двухколесных транспортных средств в мире, предлагающий широкий ассортимент городских скутеров и трехколесных транспортных средств.",
+              "zh": "标致摩托车是世界上最古老的两轮摩托车制造商，提供各种城市踏板车和三轮摩托车。"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

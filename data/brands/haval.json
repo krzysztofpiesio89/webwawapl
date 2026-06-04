@@ -1,0 +1,500 @@
+{
+  "brand": "Haval",
+  "models": {
+    "Dargo": [
+      {
+        "BrandID": 188,
+        "ModelID": 416573,
+        "Brand Name": "Haval",
+        "Model Name": "Dargo",
+        "Serie Name": "Dargo (Big Dog)",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L / 2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Haval Dargo (Big Dog) to kompaktowy SUV o surowym, pudełkowatym designie nawiązującym do klasycznych terenówek. Wyróżnia się stylem retro i dobrym wyposażeniem.",
+              "en": "Haval Dargo (Big Dog) is a compact SUV with a raw, boxy design reminiscent of classic off-road vehicles. It is distinguished by its retro style and good equipment.",
+              "de": "Haval Dargo (Big Dog) ist ein kompakter SUV mit einem rohen, kastenförmigen Design, das an klassische Geländefahrzeuge erinnert. Es zeichnet sich durch seinen Retro-Stil und die gute Ausstattung aus.",
+              "uk": "Haval Dargo (Big Dog) — компактний позашляховик із сирим квадратним дизайном, що нагадує класичні позашляховики. Відрізняється ретро-стилем і хорошим оснащенням.",
+              "ru": "Haval Dargo (Big Dog) — компактный внедорожник с грубым, квадратным дизайном, напоминающим классические внедорожники. Его отличает ретро-стиль и хорошее оснащение.",
+              "zh": "哈弗 Dargo（大狗）是一款紧凑型 SUV，其原始、四四方方的设计让人想起经典越野车。它以其复古的风格和良好的设备而著称。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Haval"
+              },
+              "okres produkcji": {
+                "pl": "od 2020",
+                "en": "from 2020",
+                "de": "ab 2020",
+                "uk": "з 2020 року",
+                "ru": "с 2020 года",
+                "zh": "2020年起"
+              },
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "F7": [
+      {
+        "BrandID": 188,
+        "ModelID": 415255,
+        "Brand Name": "Haval",
+        "Model Name": "F7",
+        "Serie Name": "F7",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L / 2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Haval F7 to nowoczesny SUV o dynamicznej sylwetce, skierowany do młodszych klientów. Oferuje zaawansowane systemy multimedialne i sportowy charakter.",
+              "en": "Haval F7 is a modern SUV with a dynamic silhouette, aimed at younger customers. It offers advanced multimedia systems and a sporty character.",
+              "de": "Haval F7 ist ein modernes SUV mit dynamischer Silhouette, das sich an jüngere Kunden richtet. Es bietet fortschrittliche Multimediasysteme und einen sportlichen Charakter.",
+              "uk": "Haval F7 — це сучасний позашляховик із динамічним силуетом, орієнтований на молодих клієнтів. Він пропонує передові мультимедійні системи та спортивний характер.",
+              "ru": "Haval F7 — современный внедорожник с динамичным силуэтом, ориентированный на более молодых покупателей. Он предлагает передовые мультимедийные системы и спортивный характер.",
+              "zh": "哈弗F7是一款具有动感轮廓的现代SUV，面向年轻消费者。它提供先进的多媒体系统和运动特性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Haval"
+              },
+              "okres produkcji": {
+                "pl": "od 2018",
+                "en": "from 2018",
+                "de": "ab 2018",
+                "uk": "з 2018 року",
+                "ru": "от 2018 года.",
+                "zh": "2018年以来"
+              },
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 188,
+        "ModelID": 416574,
+        "Brand Name": "Haval",
+        "Model Name": "F7x",
+        "Serie Name": "F7x",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV Coupe",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L / 2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Haval F7x to wersja coupe modelu F7, wyróżniająca się opadającą linią dachu. Łączy cechy SUV-a ze sportową stylistyką, konkurując z takimi autami jak Renault Arkana.",
+              "en": "Haval F7x is the coupe version of the F7 model, distinguished by a sloping roofline. It combines the features of an SUV with a sporty style, competing with cars such as Renault Arkana.",
+              "de": "Haval F7x ist die Coupé-Version des F7-Modells, die sich durch eine abfallende Dachlinie auszeichnet. Es kombiniert die Eigenschaften eines SUV mit einem sportlichen Stil und konkurriert mit Autos wie dem Renault Arkana.",
+              "uk": "Haval F7x — версія купе моделі F7, яку вирізняє похила лінія даху. Він поєднує риси позашляховика зі спортивним стилем, конкуруючи з такими автомобілями, як Renault Arkana.",
+              "ru": "Haval F7x — купе-версия модели F7, отличающаяся покатой линией крыши. Он сочетает в себе черты внедорожника со спортивным стилем, конкурируя с такими автомобилями, как Renault Arkana.",
+              "zh": "哈弗F7x是F7的轿跑车版本，其特点是倾斜的车顶线。它结合了SUV的特点和运动风格，可与雷诺Arkana等汽车竞争。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Haval"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019 року",
+                "ru": "от 2019 года.",
+                "zh": "2019年起"
+              },
+              "segment": {
+                "pl": "Compact SUV Coupe",
+                "en": "Compact SUV Coupe",
+                "de": "Kompakt-SUV-Coupé",
+                "uk": "Компактний позашляховик Coupe",
+                "ru": "Компактный внедорожник Coupe",
+                "zh": "紧凑型 SUV 轿跑车"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "H2": [
+      {
+        "BrandID": 188,
+        "ModelID": 415248,
+        "Brand Name": "Haval",
+        "Model Name": "H2",
+        "Serie Name": "H2",
+        "Years": "2014 - 2021",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Subcompact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Haval H2 to kompaktowy SUV, który zdobył dużą popularność dzięki bogatemu wyposażeniu w standardzie i możliwości personalizacji (dwukolorowe nadwozie).",
+              "en": "Haval H2 is a compact SUV that has gained great popularity thanks to the rich standard equipment and the possibility of personalization (two-color body).",
+              "de": "Haval H2 ist ein Kompakt-SUV, der dank der reichhaltigen Serienausstattung und der Möglichkeit der Personalisierung (zweifarbige Karosserie) große Popularität erlangt hat.",
+              "uk": "Haval H2 — компактний позашляховик, який завоював велику популярність завдяки багатому стандартному оснащенню та можливості персоналізації (двоколірний кузов).",
+              "ru": "Haval H2 — компактный внедорожник, получивший большую популярность благодаря богатому стандартному оснащению и возможности персонализации (двухцветный кузов).",
+              "zh": "哈弗H2是一款紧凑型SUV，凭借丰富的标准配置和个性化的可能性（双色车身）而广受欢迎。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Haval"
+              },
+              "okres produkcji": "2014–2021",
+              "segment": {
+                "pl": "Subcompact SUV",
+                "en": "Subcompact SUV",
+                "de": "Kleinwagen-SUV",
+                "uk": "Субкомпактний позашляховик",
+                "ru": "Малолитражный внедорожник",
+                "zh": "超小型SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "H6": [
+      {
+        "BrandID": 188,
+        "ModelID": 415246,
+        "Brand Name": "Haval",
+        "Model Name": "H6",
+        "Serie Name": "H6 Gen 1",
+        "Years": "2011 - 2017",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.5L - 2.4L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Haval H6 to absolutny bestseller marki, kompaktowy SUV, który przez lata dominował w chińskich rankingach sprzedaży dzięki dobremu stosunkowi jakości do ceny.",
+              "en": "Haval H6 is the brand's absolute bestseller, a compact SUV that has dominated Chinese sales rankings for years thanks to its good value for money.",
+              "de": "Der Haval H6 ist der absolute Bestseller der Marke, ein Kompakt-SUV, der dank seines guten Preis-Leistungs-Verhältnisses seit Jahren die chinesischen Verkaufsrankings dominiert.",
+              "uk": "Haval H6 — абсолютний бестселер бренду, компактний позашляховик, який роками домінував у китайських рейтингах продажів завдяки гарному співвідношенню ціни та якості.",
+              "ru": "Haval H6 — абсолютный бестселлер бренда, компактный внедорожник, который уже много лет доминирует в рейтингах продаж в Китае благодаря хорошему соотношению цены и качества.",
+              "zh": "哈弗H6是该品牌绝对的畅销车型，一款凭借超高性价比连续多年霸占中国销量排行榜的紧凑型SUV。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Haval"
+              },
+              "okres produkcji": {
+                "pl": "od 2011",
+                "en": "since 2011",
+                "de": "seit 2011",
+                "uk": "з 2011 року",
+                "ru": "с 2011 года",
+                "zh": "自2011年起"
+              },
+              "segment": {
+                "pl": "C-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 188,
+        "ModelID": 416575,
+        "Brand Name": "Haval",
+        "Model Name": "H6",
+        "Serie Name": "H6 Gen 2",
+        "Years": "2017 - 2020",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L / 2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Haval H6 to absolutny bestseller marki, kompaktowy SUV, który przez lata dominował w chińskich rankingach sprzedaży dzięki dobremu stosunkowi jakości do ceny.",
+              "en": "Haval H6 is the brand's absolute bestseller, a compact SUV that has dominated Chinese sales rankings for years thanks to its good value for money.",
+              "de": "Der Haval H6 ist der absolute Bestseller der Marke, ein Kompakt-SUV, der dank seines guten Preis-Leistungs-Verhältnisses seit Jahren die chinesischen Verkaufsrankings dominiert.",
+              "uk": "Haval H6 є абсолютним бестселером бренду, компактним позашляховиком, який роками домінував у китайських рейтингах продажів завдяки гарному співвідношенню ціни та якості.",
+              "ru": "Haval H6 — абсолютный бестселлер бренда, компактный внедорожник, который уже много лет доминирует в рейтингах продаж в Китае благодаря хорошему соотношению цены и качества.",
+              "zh": "哈弗H6是该品牌绝对的畅销车型，一款凭借超高性价比连续多年霸占中国销量排行榜的紧凑型SUV。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Haval"
+              },
+              "okres produkcji": {
+                "pl": "od 2011",
+                "en": "since 2011",
+                "de": "seit 2011",
+                "uk": "з 2011 року",
+                "ru": "с 2011 года",
+                "zh": "自2011年起"
+              },
+              "segment": {
+                "pl": "C-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 188,
+        "ModelID": 416576,
+        "Brand Name": "Haval",
+        "Model Name": "H6",
+        "Serie Name": "H6 Gen 3",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.5L / 2.0L / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Haval H6 to absolutny bestseller marki, kompaktowy SUV, który przez lata dominował w chińskich rankingach sprzedaży dzięki dobremu stosunkowi jakości do ceny.",
+              "en": "Haval H6 is the brand's absolute bestseller, a compact SUV that has dominated Chinese sales rankings for years thanks to its good value for money.",
+              "de": "Der Haval H6 ist der absolute Bestseller der Marke, ein Kompakt-SUV, der dank seines guten Preis-Leistungs-Verhältnisses seit Jahren die chinesischen Verkaufsrankings dominiert.",
+              "uk": "Haval H6 є абсолютним бестселером бренду, компактним позашляховиком, який роками домінував у китайських рейтингах продажів завдяки гарному співвідношенню ціни та якості.",
+              "ru": "Haval H6 — абсолютный бестселлер бренда, компактный внедорожник, который уже много лет доминирует в рейтингах продаж в Китае благодаря хорошему соотношению цены и качества.",
+              "zh": "哈弗H6是该品牌绝对的畅销车型，一款凭借超高性价比连续多年霸占中国销量排行榜的紧凑型SUV。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Haval"
+              },
+              "okres produkcji": {
+                "pl": "od 2011",
+                "en": "since 2011",
+                "de": "seit 2011",
+                "uk": "з 2011 року",
+                "ru": "с 2011 года",
+                "zh": "自2011年起"
+              },
+              "segment": {
+                "pl": "C-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 188,
+        "ModelID": 416577,
+        "Brand Name": "Haval",
+        "Model Name": "H6 GT",
+        "Serie Name": "H6 GT",
+        "Years": "2022 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV Coupe",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.0L Turbo",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Haval H6 to absolutny bestseller marki, kompaktowy SUV, który przez lata dominował w chińskich rankingach sprzedaży dzięki dobremu stosunkowi jakości do ceny.",
+              "en": "Haval H6 is the brand's absolute bestseller, a compact SUV that has dominated Chinese sales rankings for years thanks to its good value for money.",
+              "de": "Der Haval H6 ist der absolute Bestseller der Marke, ein Kompakt-SUV, der dank seines guten Preis-Leistungs-Verhältnisses seit Jahren die chinesischen Verkaufsrankings dominiert.",
+              "uk": "Haval H6 є абсолютним бестселером бренду, компактним позашляховиком, який роками домінував у китайських рейтингах продажів завдяки гарному співвідношенню ціни та якості.",
+              "ru": "Haval H6 — абсолютный бестселлер бренда, компактный внедорожник, который уже много лет доминирует в рейтингах продаж в Китае благодаря хорошему соотношению цены и качества.",
+              "zh": "哈弗H6是该品牌绝对的畅销车型，一款凭借超高性价比连续多年霸占中国销量排行榜的紧凑型SUV。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Haval"
+              },
+              "okres produkcji": {
+                "pl": "od 2011",
+                "en": "from 2011",
+                "de": "ab 2011",
+                "uk": "з 2011 року",
+                "ru": "от 2011 года.",
+                "zh": "自2011年起"
+              },
+              "segment": {
+                "pl": "C-SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "H9": [
+      {
+        "BrandID": 188,
+        "ModelID": 415247,
+        "Brand Name": "Haval",
+        "Model Name": "H9",
+        "Serie Name": "H9",
+        "Years": "2014 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L Turbo / 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Haval H9 to flagowy model marki, potężna terenówka na ramie, często porównywana do Toyoty Land Cruiserado. Oferuje luksusowe wyposażenie, blokady dyferencjałów i świetne właściwości w terenie.",
+              "en": "Haval H9 is the brand's flagship model, a powerful off-road vehicle, often compared to the Toyota Land Cruiserado. It offers luxurious equipment, differential locks and great off-road properties.",
+              "de": "Der Haval H9 ist das Flaggschiffmodell der Marke, ein leistungsstarker Geländewagen, der oft mit dem Toyota Land Cruiserado verglichen wird. Es bietet luxuriöse Ausstattung, Differenzialsperren und tolle Offroad-Eigenschaften.",
+              "uk": "Haval H9 — флагманська модель бренду, потужний позашляховик, який часто порівнюють із Toyota Land Cruiserado. Він пропонує розкішне обладнання, блокування диференціалу та чудові позашляхові якості.",
+              "ru": "Haval H9 — флагманская модель бренда, мощный внедорожник, который часто сравнивают с Toyota Land Cruiserado. Он предлагает роскошное оснащение, блокировки дифференциалов и отличные внедорожные качества.",
+              "zh": "哈弗H9是该品牌的旗舰车型，一款功能强大的越野车，经常与丰田陆地巡洋舰相比较。它提供豪华的设备、差速锁和出色的越野性能。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Haval"
+              },
+              "okres produkcji": {
+                "pl": "od 2014",
+                "en": "from 2014",
+                "de": "ab 2014",
+                "uk": "з 2014 року",
+                "ru": "2014 г.",
+                "zh": "自2014年起"
+              },
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний позашляховик",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型SUV"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Jolion": [
+      {
+        "BrandID": 188,
+        "ModelID": 416304,
+        "Brand Name": "Haval",
+        "Model Name": "Jolion",
+        "Serie Name": "Jolion",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Hybrid",
+          "engine": "1.5L Turbo / Hybrid",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Haval Jolion to nowoczesny, mniejszy SUV, który zastąpił model H2. Wyróżnia się technologicznym wnętrzem i odważną stylistyką.",
+              "en": "Haval Jolion is a modern, smaller SUV that replaced the H2 model. It stands out with its technological interior and bold style.",
+              "de": "Haval Jolion ist ein moderner, kleinerer SUV, der das H2-Modell ersetzt hat. Es zeichnet sich durch sein technologisches Interieur und seinen kühnen Stil aus.",
+              "uk": "Haval Jolion — це сучасний менший позашляховик, який прийшов на зміну моделі H2. Він виділяється своїм технологічним інтер’єром і сміливим стилем.",
+              "ru": "Haval Jolion — современный внедорожник меньшего размера, пришедший на смену модели H2. Он выделяется технологичным интерьером и смелым стилем.",
+              "zh": "哈弗Jolion是一款现代小型SUV，取代了H2车型。它以其科技内饰和大胆的风格脱颖而出。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Haval"
+              },
+              "okres produkcji": {
+                "pl": "od 2020",
+                "en": "from 2020",
+                "de": "ab 2020",
+                "uk": "з 2020 року",
+                "ru": "с 2020 года",
+                "zh": "2020年起"
+              },
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型SUV"
+              },
+              "napęd": {
+                "pl": "FWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

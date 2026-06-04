@@ -1,0 +1,179 @@
+{
+  "brand": "Zotye",
+  "models": {
+    "": [
+      {
+        "BrandID": 185,
+        "ModelID": "",
+        "Brand Name": "Zotye",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Zotye Auto to chiński producent, który zyskał rozgłos dzięki modelom mocno inspirowanym europejskimi autami. Obecnie marka przechodzi restrukturyzację.",
+              "en": "Zotye Auto is a Chinese manufacturer that has gained fame thanks to models strongly inspired by European cars. Currently, the brand is undergoing restructuring.",
+              "de": "Zotye Auto ist ein chinesischer Hersteller, der durch stark von europäischen Autos inspirierte Modelle berühmt geworden ist. Derzeit befindet sich die Marke in einer Umstrukturierung.",
+              "uk": "Zotye Auto — китайський виробник, який здобув популярність завдяки моделям, натхненним європейськими автомобілями. В даний час бренд перебуває на етапі реструктуризації.",
+              "ru": "Zotye Auto – китайский производитель, получивший известность благодаря моделям, вдохновленным европейскими автомобилями. В настоящее время бренд находится в стадии реструктуризации.",
+              "zh": "众泰汽车是一家中国制造商，凭借深受欧洲汽车启发的车型而闻名。目前，该品牌正在进行重组。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Zotye Auto",
+                "en": "Zotye Auto",
+                "de": "Zotye Auto",
+                "uk": "Zotye Auto",
+                "ru": "Zotye Auto",
+                "zh": "众泰汽车"
+              },
+              "siedziba": {
+                "pl": "Yongkang, Chiny",
+                "en": "Yongkang, China",
+                "de": "Yongkang, China",
+                "uk": "Yongkang, Китай",
+                "ru": "Юнкан, Китай",
+                "zh": "中国永康"
+              },
+              "założona": "2005"
+            }
+          }
+        }
+      }
+    ],
+    "T600": [
+      {
+        "BrandID": 185,
+        "ModelID": 415226,
+        "Brand Name": "Zotye",
+        "Model Name": "T600",
+        "Serie Name": "T600",
+        "Years": "2001 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Zotye T600 to kompaktowy SUV, który zdobył popularność dzięki nowoczesnemu wyglądowi i bogatemu wyposażeniu w przystępnej cenie. Model ten odegrał kluczową rolę w ekspansji marki na rynkach eksportowych.",
+              "en": "Zotye T600 is a compact SUV that has gained popularity thanks to its modern appearance and rich equipment at an affordable price. This model played a key role in the brand's expansion in export markets.",
+              "de": "Zotye T600 ist ein kompakter SUV, der dank seines modernen Aussehens und der reichhaltigen Ausstattung zu einem erschwinglichen Preis an Popularität gewonnen hat. Dieses Modell spielte eine Schlüsselrolle bei der Expansion der Marke auf den Exportmärkten.",
+              "uk": "Zotye T600 — компактний позашляховик, який завоював популярність завдяки сучасній зовнішності та багатому оснащенню за доступною ціною. Ця модель зіграла ключову роль у експансії бренду на експортні ринки.",
+              "ru": "Zotye T600 – компактный внедорожник, завоевавший популярность благодаря современному внешнему виду и богатому оснащению по доступной цене. Эта модель сыграла ключевую роль в расширении бренда на экспортных рынках.",
+              "zh": "众泰T600是一款紧凑型SUV，凭借现代的外观、丰富的装备和实惠的价格而受到青睐。这种模式对品牌拓展出口市场发挥了关键作用。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Zotye Auto",
+                "en": "Zotye Auto",
+                "de": "Zotye Auto",
+                "uk": "Zotye Auto",
+                "ru": "Zotye Auto",
+                "zh": "众泰汽车"
+              },
+              "okres produkcji": {
+                "pl": "od 2013",
+                "en": "from 2013",
+                "de": "ab 2013",
+                "uk": "з 2013 року",
+                "ru": "2013 г.",
+                "zh": "2013 年起"
+              },
+              "typ": {
+                "pl": "Kompaktowy SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型 SUV"
+              },
+              "silniki": {
+                "pl": "1.5T / 2.0T",
+                "en": "1.5T / 2.0T",
+                "de": "1,5T / 2,0T",
+                "uk": "1.5T / 2.0T",
+                "ru": "1,5T / 2,0T",
+                "zh": "1.5T / 2.0T"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Z300": [
+      {
+        "BrandID": 185,
+        "ModelID": 415224,
+        "Brand Name": "Zotye",
+        "Model Name": "Z300",
+        "Serie Name": "Z300",
+        "Years": "2012 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Zotye Z300 (później Z360) to kompaktowy sedan, ceniony za przestronne wnętrze i komfort jazdy. Konstrukcyjnie nawiązuje do sprawdzonych wzorców japońskich, co przełożyło się na wysoką niezawodność modelu w swojej klasie.",
+              "en": "Zotye Z300 (later Z360) is a compact sedan, appreciated for its spacious interior and driving comfort. The design refers to proven Japanese patterns, which translates into high reliability of the model in its class.",
+              "de": "Zotye Z300 (später Z360) ist eine kompakte Limousine, die für ihren geräumigen Innenraum und Fahrkomfort geschätzt wird. Das Design orientiert sich an bewährten japanischen Mustern, was zu einer hohen Zuverlässigkeit des Modells in seiner Klasse führt.",
+              "uk": "Zotye Z300 (пізніше Z360) — компактний седан, який цінують за просторий салон і комфорт водіння. Дизайн відповідає перевіреним японським зразкам, що свідчить про високу надійність моделі в своєму класі.",
+              "ru": "Zotye Z300 (позже Z360) — компактный седан, ценимый за просторный салон и комфорт при вождении. В конструкции использованы проверенные японские образцы, что обеспечивает высокую надежность модели в своем классе.",
+              "zh": "众泰 Z300（后来的 Z360）是一款紧凑型轿车，因其宽敞的内部空间和驾驶舒适性而受到赞赏。该设计参考了经过验证的日本模式，这意味着该车型在同类车型中具有很高的可靠性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Zotye Auto",
+                "en": "Zotye Auto",
+                "de": "Zotye Auto",
+                "uk": "Zotye Auto",
+                "ru": "Zotye Auto",
+                "zh": "众泰汽车"
+              },
+              "okres produkcji": {
+                "pl": "od 2012",
+                "en": "from 2012",
+                "de": "ab 2012",
+                "uk": "2012 р.",
+                "ru": "с 2012 года",
+                "zh": "2012 年起"
+              },
+              "typ": {
+                "pl": "Sedan klasy C",
+                "en": "C-class sedan",
+                "de": "C-Klasse Limousine",
+                "uk": "Седан C-класу",
+                "ru": "Седан С-класса",
+                "zh": "C 级轿车"
+              },
+              "rozstaw osi": {
+                "pl": "2700 mm",
+                "en": "2700 mm",
+                "de": "2700 mm",
+                "uk": "2700 мм",
+                "ru": "2700 мм",
+                "zh": "2700 mm"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

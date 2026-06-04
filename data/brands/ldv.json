@@ -1,0 +1,121 @@
+{
+  "brand": "LDV",
+  "models": {
+    "": [
+      {
+        "BrandID": 177,
+        "ModelID": "",
+        "Brand Name": "LDV",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "LDV (Leyland DAF Vans) to brytyjska marka samochodów dostawczych, znana z solidnych i prostych konstrukcji.",
+              "en": "LDV (Leyland DAF Vans) is a British brand of delivery vehicles, known for its solid and simple designs.",
+              "de": "LDV (Leyland DAF Vans) ist eine britische Marke für Lieferfahrzeuge, die für ihr solides und schlichtes Design bekannt ist.",
+              "uk": "LDV (Leyland DAF Vans) — британська марка транспортних засобів, відома своїм солідним і простим дизайном.",
+              "ru": "LDV (Leyland DAF Vans) — британский бренд грузовых автомобилей, известный своей солидной и простой конструкцией.",
+              "zh": "LDV（Leyland DAF Vans）是英国运载车辆品牌，以其坚固、简约的设计而闻名。"
+            }
+          }
+        }
+      }
+    ],
+    "Convoy": [
+      {
+        "BrandID": 177,
+        "ModelID": 414040,
+        "Brand Name": "LDV",
+        "Model Name": "Convoy",
+        "Serie Name": "Convoy",
+        "Years": "1980 - 2019",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "LDV Convoy to popularny w Wielkiej Brytanii samochód dostawczy, często wykorzystywany jako minibus szkolny.",
+              "en": "The LDV Convoy is a popular delivery vehicle in the UK, often used as a school minibus.",
+              "de": "Der LDV Convoy ist ein beliebtes Lieferfahrzeug in Großbritannien, das oft als Schul-Kleinbus eingesetzt wird.",
+              "uk": "LDV Convoy — популярний транспортний засіб для доставки у Великобританії, який часто використовують як шкільний мікроавтобус.",
+              "ru": "LDV Convoy — популярное средство доставки в Великобритании, часто используемое в качестве школьного микроавтобуса.",
+              "zh": "LDV Convoy 是英国流行的送货车辆，通常用作学校小巴。"
+            }
+          }
+        }
+      }
+    ],
+    "Maxus": [
+      {
+        "BrandID": 177,
+        "ModelID": 413881,
+        "Brand Name": "LDV",
+        "Model Name": "Maxus",
+        "Serie Name": "Maxus",
+        "Years": "2005 - 2009",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "LDV Maxus to nowoczesny następcą modelu Convoy, który po upadku LDV stał się bazą dla chińskiej marki Maxus.",
+              "en": "LDV Maxus is a modern successor to the Convoy model, which, after the collapse of LDV, became the basis for the Chinese Maxus brand.",
+              "de": "LDV Maxus ist ein moderner Nachfolger des Convoy-Modells, das nach dem Zusammenbruch von LDV zur Grundlage der chinesischen Marke Maxus wurde.",
+              "uk": "LDV Maxus є сучасним наступником моделі Convoy, яка після розпаду LDV стала основою для китайського бренду Maxus.",
+              "ru": "LDV Maxus — современный преемник модели Convoy, которая после распада LDV стала основой китайского бренда Maxus.",
+              "zh": "LDV Maxus是Convoy车型的现代继承者，在LDV倒闭后，该车型成为中国Maxus品牌的基础。"
+            }
+          }
+        }
+      }
+    ],
+    "Pilot": [
+      {
+        "BrandID": 177,
+        "ModelID": 414039,
+        "Brand Name": "LDV",
+        "Model Name": "Pilot",
+        "Serie Name": "Pilot",
+        "Years": "1990 - 2019",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "LDV Pilot to mniejszy van marki, bazujący na starszej konstrukcji Leyland Sherpa.",
+              "en": "LDV Pilot is a smaller van of the brand, based on the older Leyland Sherpa design.",
+              "de": "LDV Pilot ist ein kleinerer Transporter der Marke, der auf dem älteren Leyland Sherpa-Design basiert.",
+              "uk": "LDV Pilot — це менший фургон бренду, заснований на старішому дизайні Leyland Sherpa.",
+              "ru": "LDV Pilot — это фургон меньшего размера, созданный на основе более старой конструкции Leyland Sherpa.",
+              "zh": "LDV Pilot 是该品牌的一款小型货车，基于较旧的 Leyland Sherpa 设计。"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

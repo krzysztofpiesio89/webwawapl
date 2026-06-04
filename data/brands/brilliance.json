@@ -1,0 +1,379 @@
+{
+  "brand": "Brilliance",
+  "models": {
+    "": [
+      {
+        "BrandID": 20,
+        "ModelID": "",
+        "Brand Name": "Brilliance",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Brilliance_Auto_logo.svg/1280px-Brilliance_Auto_logo.svg.png",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Brilliance_Auto_logo.svg/1280px-Brilliance_Auto_logo.svg.png",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Brilliance_BS2.jpg/1280px-Brilliance_BS2.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Brilliance_BC3_yellow.jpg/1280px-Brilliance_BC3_yellow.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Brilliance_BS4.JPG/1280px-Brilliance_BS4.JPG"
+            ]
+          }
+        }
+      }
+    ],
+    "Brilliance BS4 (M2)": [
+      {
+        "BrandID": 20,
+        "ModelID": 415403,
+        "Brand Name": "Brilliance",
+        "Model Name": "Brilliance BS4 (M2)",
+        "Serie Name": "Brilliance BS4 (M2)",
+        "Years": "2006 - 2020",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Brilliance BS4 (M2) to chiński sedan klasy średniej zaprojektowany przez Pininfarinę. Oferował przestronne wnętrze i europejski styl.",
+              "en": "Brilliance BS4 (M2) is a Chinese mid-size sedan designed by Pininfarina. It offered a spacious interior and European style.",
+              "de": "Brilliance BS4 (M2) ist eine chinesische Mittelklasse-Limousine, die von Pininfarina entworfen wurde. Es bot ein geräumiges Interieur und einen europäischen Stil.",
+              "uk": "Brilliance BS4 (M2) — китайський седан середнього розміру, розроблений компанією Pininfarina. Він пропонував просторий інтер'єр і європейський стиль.",
+              "ru": "Brilliance BS4 (M2) — китайский среднеразмерный седан, разработанный компанией Pininfarina. Он предлагал просторный салон и европейский стиль.",
+              "zh": "华晨BS4（M2）是宾尼法利纳设计的一款中国中型轿车。它提供了宽敞的内部空间和欧洲风格。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Brilliance Auto",
+                "en": "Brilliance Auto",
+                "de": "Brillanz Auto",
+                "uk": "Brilliance Auto",
+                "ru": "Бриллианс Авто",
+                "zh": "华晨汽车"
+              },
+              "okres produkcji": {
+                "pl": "2006–2015",
+                "en": "2006–2015",
+                "de": "2006–2015",
+                "uk": "2006–2015",
+                "ru": "2006–2015"
+              },
+              "miejsce produkcji": {
+                "pl": "Shenyang, Chiny",
+                "en": "Shenyang, China",
+                "de": "Shenyang, China",
+                "uk": "Шеньян, Китай",
+                "ru": "Шэньян, Китай",
+                "zh": "中国沉阳"
+              },
+              "projektant": {
+                "pl": "Pininfarina",
+                "en": "Pininfarina",
+                "de": "Pininfarina",
+                "uk": "Pininfarina",
+                "ru": "Pininfarina"
+              },
+              "silnik": {
+                "pl": "1.6L - 2.0L / 1.8L Turbo",
+                "en": "1.6L - 2.0L / 1.8L Turbo",
+                "de": "1,6 l – 2,0 l / 1,8 l Turbo",
+                "uk": "1,6 л - 2,0 л / 1,8 л з турбонаддувом",
+                "ru": "1,6–2,0 л / 1,8 л турбо",
+                "zh": "1.6L - 2.0L / 1.8L 涡轮增压"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "BS4 (M2)": [
+      {
+        "BrandID": 20,
+        "ModelID": 415403,
+        "Brand Name": "Brilliance",
+        "Model Name": "Brilliance BS4 (M2)",
+        "Serie Name": "Brilliance BS4 (M2)",
+        "Years": "2006 - 2020",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Brilliance BS4 (M2) to chiński sedan klasy średniej zaprojektowany przez Pininfarinę. Oferował przestronne wnętrze i europejski styl.",
+              "en": "Brilliance BS4 (M2) is a Chinese mid-size sedan designed by Pininfarina. It offered a spacious interior and European style.",
+              "de": "Brilliance BS4 (M2) ist eine chinesische Mittelklasse-Limousine, die von Pininfarina entworfen wurde. Es bot ein geräumiges Interieur und einen europäischen Stil.",
+              "uk": "Brilliance BS4 (M2) — китайський седан середнього розміру, розроблений компанією Pininfarina. Він пропонував просторий інтер'єр і європейський стиль.",
+              "ru": "Brilliance BS4 (M2) — китайский среднеразмерный седан, разработанный компанией Pininfarina. Он предлагал просторный салон и европейский стиль.",
+              "zh": "华晨 BS4 (M2) 是宾尼法利纳设计的中国中型轿车。它提供了宽敞的内部空间和欧洲风格。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Brilliance Auto",
+                "en": "Brilliance Auto",
+                "de": "Brillanz Auto",
+                "uk": "Brilliance Auto",
+                "ru": "Бриллианс Авто",
+                "zh": "华晨汽车"
+              },
+              "okres produkcji": {
+                "pl": "2006–2015",
+                "en": "2006–2015",
+                "de": "2006–2015",
+                "uk": "2006–2015",
+                "ru": "2006–2015"
+              },
+              "miejsce produkcji": {
+                "pl": "Shenyang, Chiny",
+                "en": "Shenyang, China",
+                "de": "Shenyang, China",
+                "uk": "Шеньян, Китай",
+                "ru": "Шэньян, Китай",
+                "zh": "中国沉阳"
+              },
+              "projektant": {
+                "pl": "Pininfarina",
+                "en": "Pininfarina",
+                "de": "Pininfarina",
+                "uk": "Pininfarina",
+                "ru": "Pininfarina"
+              },
+              "silnik": {
+                "pl": "1.6L - 2.0L / 1.8L Turbo",
+                "en": "1.6L - 2.0L / 1.8L Turbo",
+                "de": "1,6 l – 2,0 l / 1,8 l Turbo",
+                "uk": "1,6 л - 2,0 л / 1,8 л з турбонаддувом",
+                "ru": "1,6–2,0 л / 1,8 л турбо",
+                "zh": "1.6L - 2.0L / 1.8L 涡轮增压"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Brilliance BS4": [
+      {
+        "BrandID": 20,
+        "ModelID": 415403,
+        "Brand Name": "Brilliance",
+        "Model Name": "Brilliance BS4 (M2)",
+        "Serie Name": "Brilliance BS4 (M2)",
+        "Years": "2006 - 2020",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Brilliance BS4 (M2) to chiński sedan klasy średniej zaprojektowany przez Pininfarinę. Oferował przestronne wnętrze i europejski styl.",
+              "en": "Brilliance BS4 (M2) is a Chinese mid-size sedan designed by Pininfarina. It offered a spacious interior and European style.",
+              "de": "Brilliance BS4 (M2) ist eine chinesische Mittelklasse-Limousine, die von Pininfarina entworfen wurde. Es bot ein geräumiges Interieur und einen europäischen Stil.",
+              "uk": "Brilliance BS4 (M2) — китайський седан середнього розміру, розроблений компанією Pininfarina. Він пропонував просторий інтер'єр і європейський стиль.",
+              "ru": "Brilliance BS4 (M2) — китайский среднеразмерный седан, разработанный компанией Pininfarina. Он предлагал просторный салон и европейский стиль.",
+              "zh": "华晨 BS4 (M2) 是宾尼法利纳设计的中国中型轿车。它提供了宽敞的内部空间和欧洲风格。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Brilliance Auto",
+                "en": "Brilliance Auto",
+                "de": "Brillanz Auto",
+                "uk": "Brilliance Auto",
+                "ru": "Бриллианс Авто",
+                "zh": "华晨汽车"
+              },
+              "okres produkcji": {
+                "pl": "2006–2015",
+                "en": "2006–2015",
+                "de": "2006–2015",
+                "uk": "2006–2015",
+                "ru": "2006–2015"
+              },
+              "miejsce produkcji": {
+                "pl": "Shenyang, Chiny",
+                "en": "Shenyang, China",
+                "de": "Shenyang, China",
+                "uk": "Шеньян, Китай",
+                "ru": "Шэньян, Китай",
+                "zh": "中国沉阳"
+              },
+              "projektant": {
+                "pl": "Pininfarina",
+                "en": "Pininfarina",
+                "de": "Pininfarina",
+                "uk": "Pininfarina",
+                "ru": "Pininfarina"
+              },
+              "silnik": {
+                "pl": "1.6L - 2.0L / 1.8L Turbo",
+                "en": "1.6L - 2.0L / 1.8L Turbo",
+                "de": "1,6 l – 2,0 l / 1,8 l Turbo",
+                "uk": "1,6 л - 2,0 л / 1,8 л з турбонаддувом",
+                "ru": "1,6–2,0 л / 1,8 л турбо",
+                "zh": "1.6L - 2.0L / 1.8L 涡轮增压"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "BS4": [
+      {
+        "BrandID": 20,
+        "ModelID": 415403,
+        "Brand Name": "Brilliance",
+        "Model Name": "Brilliance BS4 (M2)",
+        "Serie Name": "Brilliance BS4 (M2)",
+        "Years": "2006 - 2020",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Brilliance BS4 (M2) to chiński sedan klasy średniej zaprojektowany przez Pininfarinę. Oferował przestronne wnętrze i europejski styl.",
+              "en": "Brilliance BS4 (M2) is a Chinese mid-size sedan designed by Pininfarina. It offered a spacious interior and European style.",
+              "de": "Brilliance BS4 (M2) ist eine chinesische Mittelklasse-Limousine, die von Pininfarina entworfen wurde. Es bot ein geräumiges Interieur und einen europäischen Stil.",
+              "uk": "Brilliance BS4 (M2) — китайський седан середнього розміру, розроблений компанією Pininfarina. Він пропонував просторий інтер'єр і європейський стиль.",
+              "ru": "Brilliance BS4 (M2) — китайский среднеразмерный седан, разработанный компанией Pininfarina. Он предлагал просторный салон и европейский стиль.",
+              "zh": "华晨 BS4 (M2) 是宾尼法利纳设计的中国中型轿车。它提供了宽敞的内部空间和欧洲风格。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Brilliance Auto",
+                "en": "Brilliance Auto",
+                "de": "Brillanz Auto",
+                "uk": "Brilliance Auto",
+                "ru": "Бриллианс Авто",
+                "zh": "华晨汽车"
+              },
+              "okres produkcji": {
+                "pl": "2006–2015",
+                "en": "2006–2015",
+                "de": "2006–2015",
+                "uk": "2006–2015",
+                "ru": "2006–2015"
+              },
+              "miejsce produkcji": {
+                "pl": "Shenyang, Chiny",
+                "en": "Shenyang, China",
+                "de": "Shenyang, China",
+                "uk": "Шеньян, Китай",
+                "ru": "Шэньян, Китай",
+                "zh": "沉阳，中国"
+              },
+              "projektant": {
+                "pl": "Pininfarina",
+                "en": "Pininfarina",
+                "de": "Pininfarina",
+                "uk": "Pininfarina",
+                "ru": "Pininfarina"
+              },
+              "silnik": {
+                "pl": "1.6L - 2.0L / 1.8L Turbo",
+                "en": "1.6L - 2.0L / 1.8L Turbo",
+                "de": "1,6 l – 2,0 l / 1,8 l Turbo",
+                "uk": "1,6 л - 2,0 л / 1,8 л з турбонаддувом",
+                "ru": "1,6–2,0 л / 1,8 л турбо",
+                "zh": "1.6L - 2.0L / 1.8L 涡轮增压"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "V5": [
+      {
+        "BrandID": 20,
+        "ModelID": 414027,
+        "Brand Name": "Brilliance",
+        "Model Name": "V5",
+        "Serie Name": "V5",
+        "Years": "2014 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Brilliance V5 to kompaktowy SUV przypominający stylistycznie BMW X1. Wyposażony w silniki Mitsubishi.",
+              "en": "Brilliance V5 is a compact SUV stylistically reminiscent of the BMW X1. Equipped with Mitsubishi engines.",
+              "de": "Der Brilliance V5 ist ein kompakter SUV, der stilistisch an den BMW X1 erinnert. Ausgestattet mit Mitsubishi-Motoren.",
+              "uk": "Brilliance V5 — компактний позашляховик, стилістично нагадує BMW X1. Оснащений двигунами Mitsubishi.",
+              "ru": "Brilliance V5 — компактный внедорожник, стилистически напоминающий BMW X1. Оснащен двигателями Mitsubishi.",
+              "zh": "华晨V5是一款类似宝马X1的紧凑型SUV。配备三菱发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Brilliance Auto",
+                "en": "Brilliance Auto",
+                "de": "Brillanz Auto",
+                "uk": "Brilliance Auto",
+                "ru": "Бриллианс Авто",
+                "zh": "华晨汽车"
+              },
+              "okres produkcji": {
+                "pl": "2011–2017",
+                "en": "2011–2017",
+                "de": "2011–2017",
+                "uk": "2011–2017",
+                "ru": "2011–2017"
+              },
+              "miejsce produkcji": {
+                "pl": "Shenyang, Chiny",
+                "en": "Shenyang, China",
+                "de": "Shenyang, China",
+                "uk": "Шеньян, Китай",
+                "ru": "Шэньян, Китай",
+                "zh": "中国沉阳"
+              },
+              "typ": {
+                "pl": "Kompaktowy SUV",
+                "en": "Compact SUV",
+                "de": "Kompakter SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型SUV"
+              },
+              "silnik": {
+                "pl": "1.5L Turbo / 1.6L",
+                "en": "1.5L Turbo / 1.6L",
+                "de": "1,5L Turbo / 1,6L",
+                "uk": "1.5L Turbo / 1.6L",
+                "ru": "1,5 л турбо / 1,6 л",
+                "zh": "1.5L Turbo / 1.6L"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "brand": "Leapmotor",
+  "models": {
+    "T03": [
+      {
+        "BrandID": 303,
+        "ModelID": 500301,
+        "Brand Name": "Leapmotor",
+        "Model Name": "T03",
+        "Serie Name": "T03",
+        "Years": "2020 - Present",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "City Car (A-segment)",
+          "drive": "FWD",
+          "fuel": "Electric",
+          "engine": "Electric Motor 55kW/80kW",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Leapmotor to innowacyjny chiński startup, skupiający się na inteligentnych samochodach elektrycznych z zaawansowaną elektroniką.",
+              "en": "Leapmotor is an innovative Chinese startup focusing on smart electric cars with advanced electronics.",
+              "de": "Leapmotor ist ein innovatives chinesisches Startup, das sich auf intelligente Elektroautos mit fortschrittlicher Elektronik konzentriert.",
+              "uk": "Leapmotor — інноваційний китайський стартап, який зосереджується на розумних електромобілях із передовою електронікою.",
+              "ru": "Leapmotor — инновационный китайский стартап, специализирующийся на умных электромобилях с передовой электроникой.",
+              "zh": "零跑汽车是一家创新型中国初创公司，专注于配备先进电子设备的智能电动汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Leapmotor"
+              },
+              "siedziba": {
+                "pl": "Hangzhou, Chiny",
+                "en": "Hangzhou, China",
+                "de": "Hangzhou, China",
+                "uk": "Ханчжоу, Китай",
+                "ru": "Ханчжоу, Китай",
+                "zh": "中国杭州"
+              },
+              "założona": "2015"
+            }
+          }
+        }
+      }
+    ],
+    "C11": [
+      {
+        "BrandID": 303,
+        "ModelID": 500302,
+        "Brand Name": "Leapmotor",
+        "Model Name": "C11",
+        "Serie Name": "C11",
+        "Years": "2021 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Electric/EREV",
+          "engine": "Electric Motor / Range Extender",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Leapmotor C11 to elektryczny SUV średniej wielkości, oferujący bogate wyposażenie i nowoczesne technologie w przystępnej cenie.",
+              "en": "Leapmotor C11 is an electric mid-size SUV, offering rich equipment and modern technologies at an affordable price.",
+              "de": "Der Leapmotor C11 ist ein elektrischer Mittelklasse-SUV, der umfangreiche Ausstattung und moderne Technologien zu einem erschwinglichen Preis bietet.",
+              "uk": "Leapmotor C11 — це електричний позашляховик середнього розміру, який пропонує багате обладнання та сучасні технології за доступною ціною.",
+              "ru": "Leapmotor C11 — электрический внедорожник среднего размера, предлагающий богатое оснащение и современные технологии по доступной цене.",
+              "zh": "零跑C11是一款电动中型SUV，配备丰富，技术先进，价格实惠。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Leapmotor"
+              },
+              "okres produkcji": {
+                "pl": "od 2021",
+                "en": "from 2021",
+                "de": "ab 2021",
+                "uk": "з 2021 року",
+                "ru": "с 2021 г.",
+                "zh": "2021 年起"
+              },
+              "segment": {
+                "pl": "D-SUV"
+              },
+              "napęd": {
+                "pl": "RWD/AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "C01": [
+      {
+        "BrandID": 303,
+        "ModelID": 500303,
+        "Brand Name": "Leapmotor",
+        "Model Name": "C01",
+        "Serie Name": "C01",
+        "Years": "2022 - Present",
+        "specs": {
+          "bodyType": "Sedan",
+          "segment": "Mid-size Sedan",
+          "drive": "RWD/AWD",
+          "fuel": "Electric/EREV",
+          "engine": "Electric Motor / Range Extender",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Leapmotor to innowacyjny chiński startup, skupiający się na inteligentnych samochodach elektrycznych z zaawansowaną elektroniką.",
+              "en": "Leapmotor is an innovative Chinese startup focusing on smart electric cars with advanced electronics.",
+              "de": "Leapmotor ist ein innovatives chinesisches Startup, das sich auf intelligente Elektroautos mit fortschrittlicher Elektronik konzentriert.",
+              "uk": "Leapmotor — це інноваційний китайський стартап, який зосереджується на розумних електромобілях із передовою електронікою.",
+              "ru": "Leapmotor — инновационный китайский стартап, специализирующийся на умных электромобилях с передовой электроникой.",
+              "zh": "零跑汽车是一家创新型中国初创公司，专注于配备先进电子设备的智能电动汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Leapmotor"
+              },
+              "siedziba": {
+                "pl": "Hangzhou, Chiny",
+                "en": "Hangzhou, China",
+                "de": "Hangzhou, China",
+                "uk": "Ханчжоу, Китай",
+                "ru": "Ханчжоу, Китай",
+                "zh": "中国杭州"
+              },
+              "założona": "2015"
+            }
+          }
+        }
+      }
+    ],
+    "C10": [
+      {
+        "BrandID": 303,
+        "ModelID": 500304,
+        "Brand Name": "Leapmotor",
+        "Model Name": "C10",
+        "Serie Name": "C10",
+        "Years": "2024 - Present",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/AWD",
+          "fuel": "Electric/EREV",
+          "engine": "Electric Motor / Range Extender",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Leapmotor to innowacyjny chiński startup, skupiający się na inteligentnych samochodach elektrycznych z zaawansowaną elektroniką.",
+              "en": "Leapmotor is an innovative Chinese startup focusing on smart electric cars with advanced electronics.",
+              "de": "Leapmotor ist ein innovatives chinesisches Startup, das sich auf intelligente Elektroautos mit fortschrittlicher Elektronik konzentriert.",
+              "uk": "Leapmotor — це інноваційний китайський стартап, який зосереджується на розумних електромобілях із передовою електронікою.",
+              "ru": "Leapmotor — инновационный китайский стартап, специализирующийся на умных электромобилях с передовой электроникой.",
+              "zh": "零跑汽车是一家创新型中国初创公司，专注于配备先进电子设备的智能电动汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Leapmotor"
+              },
+              "siedziba": {
+                "pl": "Hangzhou, Chiny",
+                "en": "Hangzhou, China",
+                "de": "Hangzhou, China",
+                "uk": "Ханчжоу, Китай",
+                "ru": "Ханчжоу, Китай",
+                "zh": "中国杭州"
+              },
+              "założona": "2015"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

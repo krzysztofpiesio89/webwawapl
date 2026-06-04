@@ -1,0 +1,1000 @@
+{
+  "brand": "Ferrari",
+  "models": {
+    "360": [
+      {
+        "BrandID": 179,
+        "ModelID": 414429,
+        "Brand Name": "Ferrari",
+        "Model Name": "360",
+        "Serie Name": "360 Modena / Spider",
+        "Years": "1999 - 2005",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Supercar",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.6L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ferrari 360 Modena to rewolucyjny model z w pełni aluminiowym nadwoziem (Space Frame), który wprowadził markę w XXI wiek.",
+              "en": "Ferrari 360 Modena is a revolutionary model with a fully aluminum body (Space Frame) that brought the brand into the 21st century.",
+              "de": "Ferrari 360 Modena ist ein revolutionäres Modell mit einer Karosserie aus Vollaluminium (Space Frame), das die Marke ins 21. Jahrhundert brachte.",
+              "uk": "Ferrari 360 Modena – це революційна модель з повністю алюмінієвим кузовом (Space Frame), яка перенесла бренд у 21 століття.",
+              "ru": "Ferrari 360 Modena — революционная модель с полностью алюминиевым кузовом (Space Frame), которая перенесла бренд в 21 век.",
+              "zh": "Ferrari 360 Modena 是一款革命性车型，采用全铝制车身（Space Frame），将品牌带入了 21 世纪。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ferrari"
+              },
+              "okres produkcji": "1999–2005",
+              "miejsce produkcji": {
+                "pl": "Maranello, Włochy",
+                "en": "Maranello, Italy",
+                "de": "Maranello, Italien",
+                "uk": "Маранелло, Італія",
+                "ru": "Маранелло, Италия",
+                "zh": "意大利马拉内罗"
+              },
+              "platforma": {
+                "pl": "Type F131",
+                "en": "Type F131",
+                "de": "Typ F131",
+                "uk": "Type F131",
+                "ru": "Type F131",
+                "zh": "F131 型"
+              },
+              "silnik": {
+                "pl": "3.6L Tipo F131 V8",
+                "en": "3.6L Tipo F131 V8",
+                "de": "3,6 l Tipo F131 V8",
+                "uk": "3.6L Tipo F131 V8",
+                "ru": "3.6L Tipo F131 V8",
+                "zh": "3.6L Tipo F131 V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2003_Ferrari_360_Modena_3.6_Rear.jpg/1280px-2003_Ferrari_360_Modena_3.6_Rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2003_Ferrari_360_Modena_3.6_Rear.jpg/1280px-2003_Ferrari_360_Modena_3.6_Rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/2004_Ferrari_360_Spider_F1_-_Flickr_-_The_Car_Spy_%2810%29.jpg/1280px-2004_Ferrari_360_Spider_F1_-_Flickr_-_The_Car_Spy_%2810%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Collection_car_Mus%C3%A9e_Ferrari_038.JPG/1280px-Collection_car_Mus%C3%A9e_Ferrari_038.JPG"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/92/q1/pctr4w004ckscc4sok00g/360-cabrio.310.jpg"
+        }
+      },
+      {
+        "BrandID": 179,
+        "ModelID": 416800,
+        "Brand Name": "Ferrari",
+        "Model Name": "360",
+        "Serie Name": "360 Challenge Stradale",
+        "Years": "2003 - 2005",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Supercar",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.6L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ferrari 360 Challenge Stradale to wyczynowa wersja modelu 360, lżejsza o 110 kg, przeznaczona na tor, ale z homologacją drogową.",
+              "en": "Ferrari 360 Challenge Stradale is a high-performance version of the 360 ​​model, 110 kg lighter, intended for the track, but with road homologation.",
+              "de": "Der Ferrari 360 Challenge Stradale ist eine Hochleistungsversion des 360-Modells, 110 kg leichter, für die Rennstrecke gedacht, aber mit Straßenzulassung.",
+              "uk": "Ferrari 360 Challenge Stradale — це високопродуктивна версія моделі 360, на 110 кг легша, призначена для треку, але має омологацію на дорогах.",
+              "ru": "Ferrari 360 Challenge Stradale — высокопроизводительная версия модели 360, легче на 110 кг, предназначенная для трека, но имеющая дорожную омологацию.",
+              "zh": "Ferrari 360 Challenge Stradale 是 360 车型的高性能版本，减重 110 公斤，专为赛道设计，但具有公路认证。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ferrari"
+              },
+              "okres produkcji": "2003–2005",
+              "miejsce produkcji": {
+                "pl": "Maranello, Włochy",
+                "en": "Maranello, Italy",
+                "de": "Maranello, Italien",
+                "uk": "Маранелло, Італія",
+                "ru": "Маранелло, Италия",
+                "zh": "意大利马拉内罗"
+              },
+              "platforma": {
+                "pl": "Type F131",
+                "en": "Type F131",
+                "de": "Typ F131",
+                "uk": "Type F131",
+                "ru": "Type F131",
+                "zh": "F131 型"
+              },
+              "silnik": {
+                "pl": "3.6L Tipo F131 V8",
+                "en": "3.6L Tipo F131 V8",
+                "de": "3,6 l Tipo F131 V8",
+                "uk": "3.6L Tipo F131 V8",
+                "ru": "3,6-литровый Tipo F131 V8",
+                "zh": "3.6L Tipo F131 V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2003_Ferrari_360_Modena_3.6_Rear.jpg/1280px-2003_Ferrari_360_Modena_3.6_Rear.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2003_Ferrari_360_Modena_3.6_Rear.jpg/1280px-2003_Ferrari_360_Modena_3.6_Rear.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/2004_Ferrari_360_Spider_F1_-_Flickr_-_The_Car_Spy_%2810%29.jpg/1280px-2004_Ferrari_360_Spider_F1_-_Flickr_-_The_Car_Spy_%2810%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Collection_car_Mus%C3%A9e_Ferrari_038.JPG/1280px-Collection_car_Mus%C3%A9e_Ferrari_038.JPG"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/92/q1/pctr4w004ckscc4sok00g/360-cabrio.310.jpg"
+        }
+      }
+    ],
+    "458": [
+      {
+        "BrandID": 179,
+        "ModelID": 414393,
+        "Brand Name": "Ferrari",
+        "Model Name": "458",
+        "Serie Name": "458 Italia / Spider",
+        "Years": "2009 - 2015",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Supercar",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "4.5L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ferrari 458 Italia to ostatnie Ferrari z wolnossącym silnikiem V8, uważane za jeden z najlepiej prowadzących się supersamochodów w historii.",
+              "en": "The Ferrari 458 Italia was the last Ferrari with a naturally aspirated V8 engine, considered one of the best-handling supercars in history.",
+              "de": "Der Ferrari 458 Italia ist der letzte Ferrari mit einem V8-Saugmotor und gilt als einer der wendigsten Supersportwagen der Geschichte.",
+              "uk": "Ferrari 458 Italia був останнім Ferrari з безнаддувним двигуном V8, який вважався одним із найкращих суперкарів в історії.",
+              "ru": "Ferrari 458 Italia была последней Ferrari с безнаддувным двигателем V8 и считалась одним из самых управляемых суперкаров в истории.",
+              "zh": "Ferrari 458 Italia 是最后一辆配备自然吸气 V8 发动机的法拉利，被认为是历史上操控性最好的超级跑车之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ferrari"
+              },
+              "okres produkcji": "2009–2015",
+              "miejsce produkcji": {
+                "pl": "Maranello, Włochy",
+                "en": "Maranello, Italy",
+                "de": "Maranello, Italien",
+                "uk": "Маранелло, Італія",
+                "ru": "Маранелло, Италия",
+                "zh": "意大利马拉内罗"
+              },
+              "platforma": {
+                "pl": "Type F142",
+                "en": "Type F142",
+                "de": "Typ F142",
+                "uk": "Type F142",
+                "ru": "Type F142",
+                "zh": "F142 型"
+              },
+              "silnik": {
+                "pl": "4.5L F136 V8",
+                "en": "4.5L F136 V8",
+                "de": "4,5 l F136 V8",
+                "uk": "4.5L F136 V8",
+                "ru": "4,5 л F136 V8",
+                "zh": "4.5L F136 V8"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9z/t4/ol0ejtsks40gkkocs8ggo/458-cabrio.310.jpg"
+        }
+      },
+      {
+        "BrandID": 179,
+        "ModelID": 416801,
+        "Brand Name": "Ferrari",
+        "Model Name": "458",
+        "Serie Name": "458 Speciale",
+        "Years": "2013 - 2015",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Supercar",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "4.5L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ferrari 458 Speciale to ekstremalna wersja 458, wyposażona w aktywną aerodynamikę i najmocniejsze wolnossące V8 w historii marki.",
+              "en": "The Ferrari 458 Speciale is an extreme version of the 458, equipped with active aerodynamics and the most powerful naturally aspirated V8 in the history of the brand.",
+              "de": "Der Ferrari 458 Speciale ist eine extreme Version des 458, ausgestattet mit aktiver Aerodynamik und dem stärksten V8-Saugmotor in der Geschichte der Marke.",
+              "uk": "Ferrari 458 Speciale — це екстремальна версія 458, оснащена активною аеродинамікою та найпотужнішим атмосферним V8 в історії бренду.",
+              "ru": "Ferrari 458 Speciale — это экстремальная версия модели 458, оснащенная активной аэродинамикой и самым мощным безнаддувным двигателем V8 в истории бренда.",
+              "zh": "Ferrari 458 Speciale 是 458 的极限版本，配备主动空气动力学系统和该品牌历史上最强大的自然吸气 V8 发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ferrari"
+              },
+              "okres produkcji": "2013–2015",
+              "miejsce produkcji": {
+                "pl": "Maranello, Włochy",
+                "en": "Maranello, Italy",
+                "de": "Maranello, Italien",
+                "uk": "Маранелло, Італія",
+                "ru": "Маранелло, Италия",
+                "zh": "意大利马拉内罗"
+              },
+              "platforma": {
+                "pl": "Type F142",
+                "en": "Type F142",
+                "de": "Typ F142",
+                "uk": "Тип F142",
+                "ru": "Тип F142",
+                "zh": "F142 型"
+              },
+              "silnik": {
+                "pl": "4.5L F136 V8 (605 KM)",
+                "en": "4.5L F136 V8 (605 HP)",
+                "de": "4,5 l F136 V8 (605 PS)",
+                "uk": "4,5 л F136 V8 (605 к. с.)",
+                "ru": "4,5-литровый F136 V8 (605 л.с.)",
+                "zh": "4.5L F136 V8 (605 HP)"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9z/t4/ol0ejtsks40gkkocs8ggo/458-cabrio.310.jpg"
+        }
+      }
+    ],
+    "488": [
+      {
+        "BrandID": 179,
+        "ModelID": 414024,
+        "Brand Name": "Ferrari",
+        "Model Name": "488",
+        "Serie Name": "488 GTB / Spider",
+        "Years": "2015 - 2019",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Supercar",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.9L Twin-Turbo V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ferrari 488 GTB wprowadziło turbodoładowanie do serii V8, oferując niesamowite osiągi i moment obrotowy przy zachowaniu charakteru marki.",
+              "en": "The Ferrari 488 GTB introduced turbocharging to the V8 series, offering incredible performance and torque while maintaining the character of the brand.",
+              "de": "Mit dem Ferrari 488 GTB wurde die Turboaufladung in die V8-Serie eingeführt, die unglaubliche Leistung und Drehmoment bietet und gleichzeitig den Charakter der Marke beibehält.",
+              "uk": "Ferrari 488 GTB представив турбонаддув серії V8, пропонуючи неймовірну продуктивність і крутний момент, зберігаючи при цьому характер бренду.",
+              "ru": "Ferrari 488 GTB представила серию V8 с турбонаддувом, обеспечивающую невероятную производительность и крутящий момент, сохраняя при этом характер бренда.",
+              "zh": "Ferrari 488 GTB 将涡轮增压技术引入 V8 系列，提供令人难以置信的性能和扭矩，同时保持品牌特色。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ferrari"
+              },
+              "okres produkcji": "2015–2019",
+              "miejsce produkcji": {
+                "pl": "Maranello, Włochy",
+                "en": "Maranello, Italy",
+                "de": "Maranello, Italien",
+                "uk": "Маранелло, Італія",
+                "ru": "Маранелло, Италия",
+                "zh": "意大利马拉内罗"
+              },
+              "platforma": {
+                "pl": "Type F142M",
+                "en": "Type F142M",
+                "de": "Typ F142M",
+                "uk": "Тип F142M",
+                "ru": "Тип F142M",
+                "zh": "F142M 型"
+              },
+              "silnik": {
+                "pl": "3.9L Twin-Turbo V8",
+                "en": "3.9L Twin-Turbo V8",
+                "de": "3,9 l Twin-Turbo-V8",
+                "uk": "3,9 л Twin-Turbo V8",
+                "ru": "3,9-литровый двигатель Twin-Turbo V8",
+                "zh": "3.9L 双涡轮增压 V8"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 179,
+        "ModelID": 416802,
+        "Brand Name": "Ferrari",
+        "Model Name": "488",
+        "Serie Name": "488 Pista",
+        "Years": "2018 - 2020",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Supercar",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.9L Twin-Turbo V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ferrari 488 Pista to drogowa wersja wyścigowego 488 Challenge, wykorzystująca technologie z F1, w tym kanał S-Duct.",
+              "en": "The Ferrari 488 Pista is the road-going version of the 488 Challenge racing car, using technologies from F1, including the S-Duct.",
+              "de": "Der Ferrari 488 Pista ist eine Straßenversion des Rennwagens 488 Challenge und nutzt Technologien aus der Formel 1, darunter den S-Duct.",
+              "uk": "Ferrari 488 Pista — це дорожня версія гоночного автомобіля 488 Challenge, що використовує технології Формули-1, зокрема S-Duct.",
+              "ru": "Ferrari 488 Pista — это дорожная версия гоночного автомобиля 488 Challenge, в которой используются технологии Формулы-1, включая S-Duct.",
+              "zh": "Ferrari 488 Pista 是 488 Challenge 赛车的公路版，采用了 F1 技术，包括 S-Duct。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ferrari"
+              },
+              "okres produkcji": "2018–2020",
+              "miejsce produkcji": {
+                "pl": "Maranello, Włochy",
+                "en": "Maranello, Italy",
+                "de": "Maranello, Italien",
+                "uk": "Маранелло, Італія",
+                "ru": "Маранелло, Италия",
+                "zh": "意大利马拉内罗"
+              },
+              "platforma": {
+                "pl": "Type F142M",
+                "en": "Type F142M",
+                "de": "Typ F142M",
+                "uk": "Тип F142M",
+                "ru": "Тип F142M",
+                "zh": "F142M 型"
+              },
+              "silnik": {
+                "pl": "3.9L Twin-Turbo V8 (720 KM)",
+                "en": "3.9L Twin-Turbo V8 (720 HP)",
+                "de": "3,9-Liter-Twin-Turbo-V8 (720 PS)",
+                "uk": "3,9-літровий твін-турбо V8 (720 к. с.)",
+                "ru": "3,9-литровый двигатель Twin-Turbo V8 (720 л.с.)",
+                "zh": "3.9L 双涡轮 V8（720 马力）"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "812": [
+      {
+        "BrandID": 179,
+        "ModelID": 416803,
+        "Brand Name": "Ferrari",
+        "Model Name": "812",
+        "Serie Name": "812 Superfast / GTS",
+        "Years": "2017 - 3000",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Grand Tourer",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "6.5L V12",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ferrari 812 Superfast to najmocniejsze seryjne V12 z silnikiem umieszczonym z przodu, oferujące 800 KM i oszałamiające brzmienie.",
+              "en": "The Ferrari 812 Superfast is the most powerful front-engine production V12, offering 800 HP and a stunning sound.",
+              "de": "Der Ferrari 812 Superfast ist der stärkste Serien-V12 mit Frontmotor und bietet 800 PS und einen atemberaubenden Sound.",
+              "uk": "Ferrari 812 Superfast — це найпотужніший серійний двигун V12 з переднім розташуванням двигуна, потужністю 800 к. с. і приголомшливим звуком.",
+              "ru": "Ferrari 812 Superfast — самый мощный серийный двигатель V12 с передним расположением двигателя, мощностью 800 л.с. и потрясающим звуком.",
+              "zh": "法拉利 812 Superfast 是最强大的前置发动机量产 V12，提供 800 马力和令人惊叹的声音。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ferrari"
+              },
+              "okres produkcji": {
+                "pl": "od 2017",
+                "en": "from 2017",
+                "de": "seit 2017",
+                "uk": "з 2017 р.",
+                "ru": "с 2017 года",
+                "zh": "2017 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Maranello, Włochy",
+                "en": "Maranello, Italy",
+                "de": "Maranello, Italien",
+                "uk": "Маранелло, Італія",
+                "ru": "Маранелло, Италия",
+                "zh": "意大利马拉内罗"
+              },
+              "platforma": {
+                "pl": "Type F152M",
+                "en": "Type F152M",
+                "de": "Typ F152M",
+                "uk": "Тип F152M",
+                "ru": "Type F152M",
+                "zh": "F152M 型"
+              },
+              "silnik": {
+                "pl": "6.5L F140 V12",
+                "en": "6.5L F140 V12",
+                "de": "6,5 l F140 V12",
+                "uk": "6,5 л F140 V12",
+                "ru": "6,5 л F140 V12",
+                "zh": "6.5L F140 V12"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "California": [
+      {
+        "BrandID": 179,
+        "ModelID": 414430,
+        "Brand Name": "Ferrari",
+        "Model Name": "California",
+        "Serie Name": "California",
+        "Years": "2008 - 2014",
+        "specs": {
+          "bodyType": "Convertible",
+          "segment": "Grand Tourer",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "4.3L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ferrari California to pierwszy model marki ze składanym twardym dachem (Coupe-Cabrio) i pierwszy z silnikiem V8 z przodu.",
+              "en": "Ferrari California is the brand's first model with a folding hardtop (Coupe-Cabrio) and the first with a V8 engine at the front.",
+              "de": "Ferrari California ist das erste Modell der Marke mit klappbarem Hardtop (Coupé-Cabrio) und das erste mit einem V8-Motor im Vorderwagen.",
+              "uk": "Ferrari California — перша модель бренду зі складаним жорстким дахом (купе-кабріо) і перша модель із двигуном V8 спереду.",
+              "ru": "Ferrari California — первая модель бренда со складной жесткой крышей (купе-кабриолет) и первая с двигателем V8 спереди.",
+              "zh": "Ferrari California 是该品牌第一款配备折叠硬顶的车型（Coupe-Cabrio），也是第一款前置 V8 发动机的车型。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ferrari"
+              },
+              "okres produkcji": "2008–2014",
+              "miejsce produkcji": {
+                "pl": "Maranello, Włochy",
+                "en": "Maranello, Italy",
+                "de": "Maranello, Italien",
+                "uk": "Маранелло, Італія",
+                "ru": "Маранелло, Италия",
+                "zh": "意大利马拉内罗"
+              },
+              "platforma": {
+                "pl": "Type F149",
+                "en": "Type F149",
+                "de": "Typ F149",
+                "uk": "Тип F149",
+                "ru": "Тип F149",
+                "zh": "F149 型"
+              },
+              "silnik": {
+                "pl": "4.3L F136 V8",
+                "en": "4.3L F136 V8",
+                "de": "4,3 l F136 V8",
+                "uk": "4,3 л F136 V8",
+                "ru": "4,3 л F136 V8",
+                "zh": "4.3L F1​​36 V8"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/e2/jn/8jxlwo0ko4gos4c8wo00g/california.310.jpg"
+        }
+      },
+      {
+        "BrandID": 179,
+        "ModelID": 416804,
+        "Brand Name": "Ferrari",
+        "Model Name": "California",
+        "Serie Name": "California T",
+        "Years": "2014 - 2017",
+        "specs": {
+          "bodyType": "Convertible",
+          "segment": "Grand Tourer",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.9L Twin-Turbo V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ferrari California T to ewolucja modelu, wprowadzająca turbodoładowany silnik V8 zapewniający większy moment obrotowy i niższe spalanie.",
+              "en": "The Ferrari California T is an evolution of the model, introducing a turbocharged V8 engine providing more torque and lower fuel consumption.",
+              "de": "Der Ferrari California T ist eine Weiterentwicklung des Modells und führt einen turbogeladenen V8-Motor ein, der mehr Drehmoment und einen geringeren Kraftstoffverbrauch bietet.",
+              "uk": "Ferrari California T — це еволюція моделі, яка представляє двигун V8 з турбонаддувом, який забезпечує більший крутний момент і меншу витрату палива.",
+              "ru": "Ferrari California T представляет собой эволюцию модели, оснащенную двигателем V8 с турбонаддувом, обеспечивающим больший крутящий момент и меньший расход топлива.",
+              "zh": "法拉利 California T 是该车型的演变版本，引入了涡轮增压 V8 发动机，可提供更大的扭矩和更低的油耗。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ferrari"
+              },
+              "okres produkcji": "2014–2017",
+              "miejsce produkcji": {
+                "pl": "Maranello, Włochy",
+                "en": "Maranello, Italy",
+                "de": "Maranello, Italien",
+                "uk": "Маранелло, Італія",
+                "ru": "Маранелло, Италия",
+                "zh": "意大利马拉内罗"
+              },
+              "platforma": {
+                "pl": "Type F149M",
+                "en": "Type F149M",
+                "de": "Typ F149M",
+                "uk": "Type F149M",
+                "ru": "Type F149M",
+                "zh": "F149M 型"
+              },
+              "silnik": {
+                "pl": "3.9L Twin-Turbo V8",
+                "en": "3.9L Twin-Turbo V8",
+                "de": "3,9 l Twin-Turbo-V8",
+                "uk": "3.9L Twin-Turbo V8",
+                "ru": "3,9-литровый двигатель Twin-Turbo V8",
+                "zh": "3.9L 双涡轮增压 V8"
+              }
+            },
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ferrari_California_%289344789165%29.jpg/1280px-Ferrari_California_%289344789165%29.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ferrari_California_%289344789165%29.jpg/1280px-Ferrari_California_%289344789165%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ferrari_California_T_%28ABA-F149%29.jpg/1280px-Ferrari_California_T_%28ABA-F149%29.jpg"
+            ]
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/e2/jn/8jxlwo0ko4gos4c8wo00g/california.310.jpg"
+        }
+      }
+    ],
+    "F430": [
+      {
+        "BrandID": 179,
+        "ModelID": 416805,
+        "Brand Name": "Ferrari",
+        "Model Name": "F430",
+        "Serie Name": "F430",
+        "Years": "2004 - 2009",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Supercar",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "4.3L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ferrari F430 to rozwinięcie modelu 360, wprowadzające E-Diff i manettino na kierownicy inspirowane Formułą 1.",
+              "en": "The Ferrari F430 is a development of the 360, introducing E-Diff and a manettino on the steering wheel inspired by Formula 1.",
+              "de": "Der Ferrari F430 ist eine Weiterentwicklung des 360-Modells und führt ein E-Diff und ein von der Formel 1 inspiriertes Manettino am Lenkrad ein.",
+              "uk": "Ferrari F430 є розвитком 360, представляючи E-Diff і manettino на кермі, натхненному Формулою 1.",
+              "ru": "Ferrari F430 представляет собой развитие модели 360, в которой представлен электронный дифференциал и манеттино на рулевом колесе, вдохновленный Формулой 1.",
+              "zh": "法拉利 F430 是 360 的发展版，引入了电子差速器和受一级方程式赛车启发的方向盘上的 manettino。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ferrari"
+              },
+              "okres produkcji": "2004–2009",
+              "miejsce produkcji": {
+                "pl": "Maranello, Włochy",
+                "en": "Maranello, Italy",
+                "de": "Maranello, Italien",
+                "uk": "Маранелло, Італія",
+                "ru": "Маранелло, Италия",
+                "zh": "意大利马拉内罗"
+              },
+              "platforma": {
+                "pl": "Type F131 Evo",
+                "en": "Type F131 Evo",
+                "de": "Typ F131 Evo",
+                "uk": "Type F131 Evo",
+                "ru": "Type F131 Evo",
+                "zh": "F131 Evo 型"
+              },
+              "silnik": {
+                "pl": "4.3L F136 V8",
+                "en": "4.3L F136 V8",
+                "de": "4,3 l F136 V8",
+                "uk": "4.3L F136 V8",
+                "ru": "4,3-литровый F136 V8",
+                "zh": "4.3L F136 V8"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "F8": [
+      {
+        "BrandID": 179,
+        "ModelID": 416806,
+        "Brand Name": "Ferrari",
+        "Model Name": "F8",
+        "Serie Name": "F8 Tributo / Spider",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Supercar",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.9L Twin-Turbo V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ferrari F8 Tributo to hołd dla wielokrotnie nagradzanego silnika V8 Ferrari, będący następcą modelu 488 GTB.",
+              "en": "Ferrari F8 Tributo is a tribute to the award-winning Ferrari V8 engine, the successor to the 488 GTB.",
+              "de": "Der Ferrari F8 Tributo ist eine Hommage an den preisgekrönten Ferrari-V8-Motor und der Nachfolger des 488 GTB.",
+              "uk": "Ferrari F8 Tributo — це данина поваги відзначеному нагородами двигуну Ferrari V8, наступнику 488 GTB.",
+              "ru": "Ferrari F8 Tributo — дань уважения отмеченный наградами двигатель Ferrari V8, преемник 488 GTB.",
+              "zh": "法拉利 F8 Tributo 是对屡获殊荣的法拉利 V8 发动机，488 GTB 的后继产品。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ferrari"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019 р.",
+                "ru": "с 2019 года",
+                "zh": "2019 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Maranello, Włochy",
+                "en": "Maranello, Italy",
+                "de": "Maranello, Italien",
+                "uk": "Маранелло, Італія",
+                "ru": "Маранелло, Италия",
+                "zh": "马拉内罗，意大利"
+              },
+              "platforma": {
+                "pl": "Type F142M Evo",
+                "en": "Type F142M Evo",
+                "de": "Typ F142M Evo",
+                "uk": "Тип F142M Evo",
+                "ru": "Type F142M Evo",
+                "zh": "F142M Evo 型"
+              },
+              "silnik": {
+                "pl": "3.9L Twin-Turbo V8",
+                "en": "3.9L Twin-Turbo V8",
+                "de": "3,9 l Twin-Turbo-V8",
+                "uk": "3,9 л Twin-Turbo V8",
+                "ru": "3,9-литровый двигатель Twin-Turbo V8",
+                "zh": "3.9L 双涡轮增压 V8"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "FF": [
+      {
+        "BrandID": 179,
+        "ModelID": 414431,
+        "Brand Name": "Ferrari",
+        "Model Name": "FF",
+        "Serie Name": "FF",
+        "Years": "2011 - 2016",
+        "specs": {
+          "bodyType": "Shooting Brake",
+          "segment": "Grand Tourer",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "6.3L V12",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ferrari FF to pierwszy model marki z napędem na cztery koła (4RM) i nadwoziem Shooting Brake, łączący osiągi z praktycznością dla 4 osób.",
+              "en": "Ferrari FF is the brand's first model with four-wheel drive (4RM) and Shooting Brake body, combining performance with practicality for 4 people.",
+              "de": "Ferrari FF ist das erste Modell der Marke mit Allradantrieb (4RM) und Shooting Brake-Karosserie, das Leistung mit Funktionalität für 4 Personen kombiniert.",
+              "uk": "Ferrari FF — перша модель бренду з повним приводом (4RM) і кузовом Shooting Brake, що поєднує продуктивність із практичністю для 4 осіб.",
+              "ru": "Ferrari FF — первая модель бренда с полным приводом (4RM) и кузовом Shooting Brake, сочетающая в себе производительность и практичность для 4 человек.",
+              "zh": "法拉利 FF 是该品牌首款配备四轮驱动 (4RM) 和 Shooting Brake 车身的车型，兼具性能与实用性，可供 4 人乘坐。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ferrari"
+              },
+              "okres produkcji": "2011–2016",
+              "miejsce produkcji": {
+                "pl": "Maranello, Włochy",
+                "en": "Maranello, Italy",
+                "de": "Maranello, Italien",
+                "uk": "Маранелло, Італія",
+                "ru": "Маранелло, Италия",
+                "zh": "意大利马拉内罗"
+              },
+              "platforma": {
+                "pl": "Type F151",
+                "en": "Type F151",
+                "de": "Typ F151",
+                "uk": "Тип F151",
+                "ru": "Тип F151",
+                "zh": "型号 F151"
+              },
+              "silnik": {
+                "pl": "6.3L F140 V12",
+                "en": "6.3L F140 V12",
+                "de": "6,3 l F140 V12",
+                "uk": "6.3L F140 V12",
+                "ru": "6,3 ​​л F140 V12",
+                "zh": "6.3L F1​​40 V12"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3s/ot/22gcuc8w8g4ocwkk48k8w/ff.310.jpg"
+        }
+      }
+    ],
+    "GTC4Lusso": [
+      {
+        "BrandID": 179,
+        "ModelID": 416807,
+        "Brand Name": "Ferrari",
+        "Model Name": "GTC4Lusso",
+        "Serie Name": "GTC4Lusso",
+        "Years": "2016 - 2020",
+        "specs": {
+          "bodyType": "Shooting Brake",
+          "segment": "Grand Tourer",
+          "drive": "AWD/RWD",
+          "fuel": "Gasoline",
+          "engine": "6.3L V12 / 3.9L V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ferrari GTC4Lusso to luksusowy następca modelu FF, oferujący jeszcze więcej komfortu, nowoczesne multimedia i system tylnych kół skrętnych.",
+              "en": "Ferrari GTC4Lusso is a luxurious successor to the FF model, offering even more comfort, modern multimedia and a rear steering wheel system.",
+              "de": "Ferrari GTC4Lusso ist ein luxuriöser Nachfolger des FF-Modells und bietet noch mehr Komfort, moderne Multimedia und ein Hinterradlenksystem.",
+              "uk": "Ferrari GTC4Lusso — це розкішний наступник моделі FF, який пропонує ще більше комфорту, сучасну мультимедіа та систему заднього керма.",
+              "ru": "Ferrari GTC4Lusso — роскошный преемник модели FF, предлагающий еще больший комфорт, современную мультимедиа и систему заднего рулевого управления.",
+              "zh": "法拉利 GTC4Lusso 是 FF 车型的豪华后继车型，提供更加舒适的体验、现代多媒体和后方向盘系统。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ferrari"
+              },
+              "okres produkcji": "2016–2020",
+              "miejsce produkcji": {
+                "pl": "Maranello, Włochy",
+                "en": "Maranello, Italy",
+                "de": "Maranello, Italien",
+                "uk": "Маранелло, Італія",
+                "ru": "Маранелло, Италия",
+                "zh": "意大利马拉内罗"
+              },
+              "platforma": {
+                "pl": "Type F151M",
+                "en": "Type F151M",
+                "de": "Typ F151M",
+                "uk": "Тип F151M",
+                "ru": "Тип F151M",
+                "zh": "F151M 型"
+              },
+              "silnik": {
+                "pl": "6.3L V12 / 3.9L V8",
+                "en": "6.3L V12 / 3.9L V8",
+                "de": "6,3 ​​l V12 / 3,9 l V8",
+                "uk": "6,3 ​​л V12 / 3,9 л V8",
+                "ru": "6,3 ​​л V12 / 3,9 л V8",
+                "zh": "6.3L V12 / 3.9L V8"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Portofino": [
+      {
+        "BrandID": 179,
+        "ModelID": 416808,
+        "Brand Name": "Ferrari",
+        "Model Name": "Portofino",
+        "Serie Name": "Portofino",
+        "Years": "2017 - 3000",
+        "specs": {
+          "bodyType": "Convertible",
+          "segment": "Grand Tourer",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.9L Twin-Turbo V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ferrari Portofino to elegancki kabriolet z twardym dachem, następca Californii T, nazwany na cześć malowniczego włoskiego miasteczka.",
+              "en": "The Ferrari Portofino is an elegant hardtop convertible, the successor to the California T, named after the picturesque Italian town.",
+              "de": "Der Ferrari Portofino ist ein elegantes Hardtop-Cabriolet, der Nachfolger des California T, benannt nach der malerischen italienischen Stadt.",
+              "uk": "Ferrari Portofino — це елегантний кабріолет із жорстким дахом, наступник California T, названого на честь мальовничого італійського містечка.",
+              "ru": "Ferrari Portofino — элегантный кабриолет с жесткой крышей, преемник California T, названный в честь живописного итальянского города.",
+              "zh": "法拉利 Portofino 是一款优雅的硬顶敞篷车，是 California T 的后继车型，以风景如画的意大利小镇命名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ferrari"
+              },
+              "okres produkcji": {
+                "pl": "od 2017",
+                "en": "from 2017",
+                "de": "ab 2017",
+                "uk": "з 2017 року",
+                "ru": "2017 года.",
+                "zh": "2017 年生产"
+              },
+              "miejsce produkcji": {
+                "pl": "Maranello, Włochy",
+                "en": "Maranello, Italy",
+                "de": "Maranello, Italien",
+                "uk": "Маранелло, Італія",
+                "ru": "Маранелло, Италия",
+                "zh": "意大利马拉内罗"
+              },
+              "platforma": {
+                "pl": "Type F164",
+                "en": "Type F164",
+                "de": "Typ F164",
+                "uk": "Type F164",
+                "ru": "Type F164",
+                "zh": "F164 型"
+              },
+              "silnik": {
+                "pl": "3.9L Twin-Turbo V8",
+                "en": "3.9L Twin-Turbo V8",
+                "de": "3,9L Twin-Turbo V8",
+                "uk": "3,9 л Twin-Turbo V8",
+                "ru": "3,9-литровый двигатель Twin-Turbo V8",
+                "zh": "3.9L 双涡轮增压 V8"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Roma": [
+      {
+        "BrandID": 179,
+        "ModelID": 416809,
+        "Brand Name": "Ferrari",
+        "Model Name": "Roma",
+        "Serie Name": "Roma",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "Coupe",
+          "segment": "Grand Tourer",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.9L Twin-Turbo V8",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ferrari Roma to coupe o ponadczasowej elegancji, nawiązujące do 'La Nuova Dolce Vita' i rzymskiego stylu lat 50. i 60.",
+              "en": "Ferrari Roma is a coupe of timeless elegance, referring to 'La Nuova Dolce Vita' and the Roman style of the 1950s and 1960s.",
+              "de": "Ferrari Roma ist ein Coupé von zeitloser Eleganz, das an „La Nuova Dolce Vita“ und den römischen Stil der 1950er und 1960er Jahre erinnert.",
+              "uk": "Ferrari Roma — це купе позачасової елегантності, що відсилає до «La Nuova Dolce Vita» та римського стилю 1950-х і 1960-х років.",
+              "ru": "Ferrari Roma — это купе вечной элегантности, отсылающее к «La Nuova Dolce Vita» и римскому стилю 1950-х и 1960-х годов.",
+              "zh": "Ferrari Roma 是一款永恒优雅的轿跑车，借鉴了“La Nuova Dolce Vita”和 1950 年代和 1960 年代的罗马风格。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ferrari"
+              },
+              "okres produkcji": {
+                "pl": "od 2020",
+                "en": "from 2020",
+                "de": "ab 2020",
+                "uk": "з 2020 року",
+                "ru": "с 2020 года",
+                "zh": "2020 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Maranello, Włochy",
+                "en": "Maranello, Italy",
+                "de": "Maranello, Italien",
+                "uk": "Маранелло, Італія",
+                "ru": "Маранелло, Италия",
+                "zh": "意大利马拉内罗"
+              },
+              "platforma": {
+                "pl": "Type F164",
+                "en": "Type F164",
+                "de": "Typ F164",
+                "uk": "Тип F164",
+                "ru": "Тип F164",
+                "zh": "F164 型"
+              },
+              "silnik": {
+                "pl": "3.9L Twin-Turbo V8",
+                "en": "3.9L Twin-Turbo V8",
+                "de": "3,9L Twin-Turbo V8",
+                "uk": "3,9-літровий Twin-Turbo V8",
+                "ru": "3,9-литровый двигатель Twin-Turbo V8",
+                "zh": "3.9L 双涡轮增压 V8"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "SF90": [
+      {
+        "BrandID": 179,
+        "ModelID": 416810,
+        "Brand Name": "Ferrari",
+        "Model Name": "SF90",
+        "Serie Name": "SF90 Stradale",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "Coupe/Convertible",
+          "segment": "Hypercar",
+          "drive": "AWD",
+          "fuel": "Hybrid",
+          "engine": "4.0L Twin-Turbo V8 + 3 Electric Motors",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Ferrari SF90 Stradale to najmocniejsze seryjne Ferrari w historii, hybryda plug-in o mocy 1000 KM z napędem na cztery koła.",
+              "en": "The Ferrari SF90 Stradale is the most powerful production Ferrari in history, a 1,000 HP plug-in hybrid with four-wheel drive.",
+              "de": "Der Ferrari SF90 Stradale ist der stärkste Serien-Ferrari der Geschichte, ein 1.000 PS starker Plug-in-Hybrid mit Allradantrieb.",
+              "uk": "Ferrari SF90 Stradale — найпотужніший серійний Ferrari в історії, 1000-сильний гібрид із повним приводом.",
+              "ru": "Ferrari SF90 Stradale — самый мощный серийный Ferrari в истории, подключаемый гибрид мощностью 1000 л.с. с полным приводом.",
+              "zh": "法拉利 SF90 Stradale 是历史上最强大的量产法拉利，一款 1,000 马力的四轮驱动插电式混合动力车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Ferrari"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019 р.",
+                "ru": "с 2019 г.",
+                "zh": "2019 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Maranello, Włochy",
+                "en": "Maranello, Italy",
+                "de": "Maranello, Italien",
+                "uk": "Маранелло, Італія",
+                "ru": "Маранелло, Италия",
+                "zh": "意大利马拉内罗"
+              },
+              "platforma": {
+                "pl": "Type F173",
+                "en": "Type F173",
+                "de": "Typ F173",
+                "uk": "Тип F173",
+                "ru": "Тип F173",
+                "zh": "F173 型"
+              },
+              "silnik": {
+                "pl": "4.0L V8 + 3 Electric Motors",
+                "en": "4.0L V8 + 3 Electric Motors",
+                "de": "4,0 l V8 + 3 Elektromotoren",
+                "uk": "4,0 л V8 + 3 електродвигуни",
+                "ru": "4,0 л V8 + 3 электродвигателя",
+                "zh": "4.0L V8 + 3 台电动机"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

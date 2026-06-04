@@ -1,0 +1,26 @@
+# node_modules
+node_modules/
+
+# Next.js
+.next/
+out/
+build/
+
+# Prisma
+generated/
+dev.db
+dev.db-journal
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/

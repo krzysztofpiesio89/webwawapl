@@ -1,0 +1,81 @@
+{
+  "brand": "Vespa",
+  "models": {
+    "": [
+      {
+        "BrandID": 219,
+        "ModelID": "",
+        "Brand Name": "Vespa",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle"
+        }
+      }
+    ],
+    "ET": [
+      {
+        "BrandID": 219,
+        "ModelID": 416156,
+        "Brand Name": "Vespa",
+        "Model Name": "ET",
+        "Serie Name": "ET",
+        "Years": "1998 - 2020",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle"
+        }
+      }
+    ],
+    "GTS": [
+      {
+        "BrandID": 219,
+        "ModelID": 416152,
+        "Brand Name": "Vespa",
+        "Model Name": "GTS",
+        "Serie Name": "GTS",
+        "Years": "2008 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle"
+        }
+      }
+    ],
+    "LX": [
+      {
+        "BrandID": 219,
+        "ModelID": 416154,
+        "Brand Name": "Vespa",
+        "Model Name": "LX",
+        "Serie Name": "LX",
+        "Years": "2000 - 2021",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1000 @@
+{
+  "brand": "Kawasaki",
+  "models": {
+    "": [
+      {
+        "BrandID": 204,
+        "ModelID": "",
+        "Brand Name": "Kawasaki",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "Motorcycle",
+          "segment": "Mainstream",
+          "drive": "Chain",
+          "fuel": "Gasoline",
+          "engine": "Various",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Kawasaki to japoński gigant, słynący z produkcji szybkich motocykli sportowych z rodziny Ninja oraz potężnych krążowników.",
+              "en": "Kawasaki is a Japanese giant, famous for producing fast sports motorcycles from the Ninja family and powerful cruisers.",
+              "de": "Kawasaki ist ein japanischer Riese, der für die Herstellung schneller Sportmotorräder der Ninja-Familie und leistungsstarker Cruiser bekannt ist.",
+              "uk": "Kawasaki - японський гігант, відомий виробництвом швидкісних спортивних мотоциклів сімейства Ninja і потужних круїзерів.",
+              "ru": "Kawasaki – японский гигант, известный производством быстрых спортивных мотоциклов семейства Ninja и мощных круизеров.",
+              "zh": "川崎是日本巨头，以生产忍者家族的快速运动摩托车和强大的巡洋舰而闻名。"
+            }
+          }
+        }
+      }
+    ],
+    "EN": [
+      {
+        "BrandID": 204,
+        "ModelID": 415905,
+        "Brand Name": "Kawasaki",
+        "Model Name": "EN",
+        "Serie Name": "EN",
+        "Years": "1990 - 2003",
+        "specs": {
+          "bodyType": "Cruiser",
+          "segment": "Mainstream",
+          "drive": "Chain",
+          "fuel": "Gasoline",
+          "engine": "498cc R2",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Kawasaki EN (Vulcan 500) to klasyczny cruiser klasy średniej, znany z niezawodnego dwucylindrowego silnika rzędowego pochodzącego z modelu Ninja 500.",
+              "en": "The Kawasaki EN (Vulcan 500) is a classic mid-range cruiser, known for its reliable two-cylinder inline engine from the Ninja 500.",
+              "de": "Die Kawasaki EN (Vulcan 500) ist ein klassischer Mittelklasse-Cruiser, der für seinen zuverlässigen Zweizylinder-Reihenmotor aus der Ninja 500 bekannt ist.",
+              "uk": "Kawasaki EN (Vulcan 500) — це класичний круїзер середнього класу, відомий своїм надійним двоциліндровим рядним двигуном від Ninja 500.",
+              "ru": "Kawasaki EN (Vulcan 500) — классический круизер среднего класса, известный своим надежным двухцилиндровым рядным двигателем от Ninja 500.",
+              "zh": "川崎 EN (Vulcan 500) 是一款经典的中档巡洋舰，以其来自 Ninja 500 的可靠两缸直列发动机而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kawasaki"
+              },
+              "okres produkcji": "1990–2009",
+              "klasa": {
+                "pl": "Cruiser"
+              },
+              "silnik": {
+                "pl": "498 cm³ R2",
+                "en": "498 cm³ R2",
+                "de": "498 cm³ R2",
+                "uk": "498 см³ R2",
+                "ru": "498 см³ R2",
+                "zh": "498 cm³ R2"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "ER": [
+      {
+        "BrandID": 204,
+        "ModelID": 415907,
+        "Brand Name": "Kawasaki",
+        "Model Name": "ER",
+        "Serie Name": "ER",
+        "Years": "2011 - 2016",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Seria Kawasaki ER (w tym popularne ER-6n i ER-6f) to wszechstronne motocykle typu naked i sport-touring, idealne dla początkujących i do codziennej jazdy miejskiej.",
+              "en": "The Kawasaki ER series (including the popular ER-6n and ER-6f) are versatile naked and sport-touring motorcycles, ideal for beginners and everyday urban riding.",
+              "de": "Die Kawasaki ER-Serie (einschließlich der beliebten ER-6n und ER-6f) sind vielseitige Naked- und Sporttouring-Motorräder, ideal für Einsteiger und alltägliche Fahrten in der Stadt.",
+              "uk": "Серія Kawasaki ER (включно з популярними ER-6n і ER-6f) — це універсальні некейд- і спортивні мотоцикли, ідеальні для початківців і повсякденних міських умов. верхова їзда.",
+              "ru": "Серия Kawasaki ER (включая популярные ER-6n и ER-6f) — это универсальные нейкедные и спортивно-туристические мотоциклы, идеально подходящие для новичков и повседневной городской езды.",
+              "zh": "川崎 ER 系列（包括流行的 ER-6n 和 ER-6f）是多功能裸装和运动旅行摩托车，非常适合初学者和日常城市骑行。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kawasaki"
+              },
+              "okres produkcji": "2005–2016",
+              "klasa": {
+                "pl": "Naked / Sport-touring",
+                "en": "Naked / Sport-touring",
+                "de": "Naked / Sport-Touring",
+                "uk": "Naked / Sport-touring",
+                "ru": "Нэйкед/Спорт-турист",
+                "zh": "裸/运动旅行"
+              },
+              "silnik": {
+                "pl": "649 cm³ R2",
+                "en": "649 cm³ R2",
+                "de": "649 cm³ R2",
+                "uk": "649 cm³ R2",
+                "ru": "649 см³ R2",
+                "zh": "649 cm³ R2"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "EX": [
+      {
+        "BrandID": 204,
+        "ModelID": 415909,
+        "Brand Name": "Kawasaki",
+        "Model Name": "EX",
+        "Serie Name": "EX",
+        "Years": "1994 - 1998",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Kawasaki to japoński gigant, słynący z produkcji szybkich motocykli sportowych z rodziny Ninja oraz potężnych krążowników.",
+              "en": "Kawasaki is a Japanese giant, famous for the production of fast sports motorcycles from the Ninja family and powerful cruisers.",
+              "de": "Kawasaki ist ein japanischer Riese, der für die Produktion schneller Sportmotorräder der Ninja-Familie und leistungsstarker Cruiser bekannt ist.",
+              "uk": "Kawasaki - японський гігант, відомий виробництвом швидкісних спортивних мотоциклів сімейства Ninja і потужних круїзерів.",
+              "ru": "Kawasaki – японский гигант, известный производством быстрых спортивных мотоциклов семейства Ninja и мощных круизеров.",
+              "zh": "川崎是日本巨头，以生产忍者家族的快速运动摩托车和强大的巡洋舰而闻名。"
+            }
+          }
+        }
+      }
+    ],
+    "GPX": [
+      {
+        "BrandID": 204,
+        "ModelID": 415911,
+        "Brand Name": "Kawasaki",
+        "Model Name": "GPX",
+        "Serie Name": "GPX",
+        "Years": "1979 - 1994",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Kawasaki to japoński gigant, słynący z produkcji szybkich motocykli sportowych z rodziny Ninja oraz potężnych krążowników.",
+              "en": "Kawasaki is a Japanese giant, famous for producing fast sports motorcycles from the Ninja family and powerful cruisers.",
+              "de": "Kawasaki ist ein japanischer Riese, der für die Herstellung schneller Sportmotorräder der Ninja-Familie und leistungsstarker Cruiser bekannt ist.",
+              "uk": "Kawasaki — японський гігант, відомий виробництвом швидкісних спортивних мотоциклів із сімейства Ninja та потужних круїзерів.",
+              "ru": "Kawasaki – японский гигант, известный производством быстрых спортивных мотоциклов семейства Ninja и мощных круизеров.",
+              "zh": "川崎是日本巨头，以生产忍者家族的快速运动摩托车和强大的巡洋舰而闻名。"
+            }
+          }
+        }
+      }
+    ],
+    "GPZ": [
+      {
+        "BrandID": 204,
+        "ModelID": 415913,
+        "Brand Name": "Kawasaki",
+        "Model Name": "GPZ",
+        "Serie Name": "GPZ",
+        "Years": "1987 - 2009",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Kawasaki to japoński gigant, słynący z produkcji szybkich motocykli sportowych z rodziny Ninja oraz potężnych krążowników.",
+              "en": "Kawasaki is a Japanese giant, famous for producing fast sports motorcycles from the Ninja family and powerful cruisers.",
+              "de": "Kawasaki ist ein japanischer Riese, der für die Herstellung schneller Sportmotorräder der Ninja-Familie und leistungsstarker Cruiser bekannt ist.",
+              "uk": "Kawasaki — японський гігант, відомий виробництвом швидкісних спортивних мотоциклів із сімейства Ninja та потужних круїзерів.",
+              "ru": "Kawasaki – японский гигант, известный производством быстрых спортивных мотоциклов семейства Ninja и мощных круизеров.",
+              "zh": "川崎是日本巨头，以生产忍者家族的快速运动摩托车和强大的巡洋舰而闻名。"
+            }
+          }
+        }
+      }
+    ],
+    "GT": [
+      {
+        "BrandID": 204,
+        "ModelID": 415915,
+        "Brand Name": "Kawasaki",
+        "Model Name": "GT",
+        "Serie Name": "GT",
+        "Years": "1986 - 2009",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Kawasaki to japoński gigant, słynący z produkcji szybkich motocykli sportowych z rodziny Ninja oraz potężnych krążowników.",
+              "en": "Kawasaki is a Japanese giant, famous for producing fast sports motorcycles from the Ninja family and powerful cruisers.",
+              "de": "Kawasaki ist ein japanischer Riese, der für die Herstellung schneller Sportmotorräder der Ninja-Familie und leistungsstarker Cruiser bekannt ist.",
+              "uk": "Kawasaki — японський гігант, відомий виробництвом швидкісних спортивних мотоциклів із сімейства Ninja та потужних круїзерів.",
+              "ru": "Kawasaki – японский гигант, известный производством быстрых спортивных мотоциклов семейства Ninja и мощных круизеров.",
+              "zh": "川崎是日本巨头，以生产忍者家族的快速运动摩托车和强大的巡洋舰而闻名。"
+            }
+          }
+        }
+      }
+    ],
+    "GTR": [
+      {
+        "BrandID": 204,
+        "ModelID": 415917,
+        "Brand Name": "Kawasaki",
+        "Model Name": "GTR",
+        "Serie Name": "GTR",
+        "Years": "1986 - 2010",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Kawasaki to japoński gigant, słynący z produkcji szybkich motocykli sportowych z rodziny Ninja oraz potężnych krążowników.",
+              "en": "Kawasaki is a Japanese giant, famous for producing fast sports motorcycles from the Ninja family and powerful cruisers.",
+              "de": "Kawasaki ist ein japanischer Riese, der für die Herstellung schneller Sportmotorräder der Ninja-Familie und leistungsstarker Cruiser bekannt ist.",
+              "uk": "Kawasaki — японський гігант, відомий виробництвом швидкісних спортивних мотоциклів із сімейства Ninja та потужних круїзерів.",
+              "ru": "Kawasaki – японский гигант, известный производством быстрых спортивных мотоциклов семейства Ninja и мощных круизеров.",
+              "zh": "川崎是日本巨头，以生产忍者家族的快速运动摩托车和强大的巡洋舰而闻名。"
+            }
+          }
+        }
+      }
+    ],
+    "KLE": [
+      {
+        "BrandID": 204,
+        "ModelID": 415919,
+        "Brand Name": "Kawasaki",
+        "Model Name": "KLE",
+        "Serie Name": "KLE",
+        "Years": "1991 - 2001",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Kawasaki to japoński gigant, słynący z produkcji szybkich motocykli sportowych z rodziny Ninja oraz potężnych krążowników.",
+              "en": "Kawasaki is a Japanese giant, famous for producing fast sports motorcycles from the Ninja family and powerful cruisers.",
+              "de": "Kawasaki ist ein japanischer Riese, der für die Herstellung schneller Sportmotorräder der Ninja-Familie und leistungsstarker Cruiser bekannt ist.",
+              "uk": "Kawasaki — японський гігант, відомий виробництвом швидкісних спортивних мотоциклів із сімейства Ninja та потужних круїзерів.",
+              "ru": "Kawasaki – японский гигант, известный производством быстрых спортивных мотоциклов семейства Ninja и мощных круизеров.",
+              "zh": "川崎是日本巨头，以生产忍者家族的快速运动摩托车和强大的巡洋舰而闻名。"
+            }
+          }
+        }
+      }
+    ],
+    "KLR": [
+      {
+        "BrandID": 204,
+        "ModelID": 415921,
+        "Brand Name": "Kawasaki",
+        "Model Name": "KLR",
+        "Serie Name": "KLR",
+        "Years": "1984 - 2005",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Kawasaki to japoński gigant, słynący z produkcji szybkich motocykli sportowych z rodziny Ninja oraz potężnych krążowników.",
+              "en": "Kawasaki is a Japanese giant, famous for producing fast sports motorcycles from the Ninja family and powerful cruisers.",
+              "de": "Kawasaki ist ein japanischer Riese, der für die Herstellung schneller Sportmotorräder der Ninja-Familie und leistungsstarker Cruiser bekannt ist.",
+              "uk": "Kawasaki — японський гігант, відомий виробництвом швидкісних спортивних мотоциклів із сімейства Ninja та потужних круїзерів.",
+              "ru": "Kawasaki – японский гигант, известный производством быстрых спортивных мотоциклов семейства Ninja и мощных круизеров.",
+              "zh": "川崎是日本巨头，以生产忍者家族的快速运动摩托车和强大的巡洋舰而闻名。"
+            }
+          }
+        }
+      }
+    ],
+    "KLX": [
+      {
+        "BrandID": 204,
+        "ModelID": 415923,
+        "Brand Name": "Kawasaki",
+        "Model Name": "KLX",
+        "Serie Name": "KLX",
+        "Years": "1979 - 1998",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Kawasaki to japoński gigant, słynący z produkcji szybkich motocykli sportowych z rodziny Ninja oraz potężnych krążowników.",
+              "en": "Kawasaki is a Japanese giant, famous for producing fast sports motorcycles from the Ninja family and powerful cruisers.",
+              "de": "Kawasaki ist ein japanischer Riese, der für die Herstellung schneller Sportmotorräder der Ninja-Familie und leistungsstarker Cruiser bekannt ist.",
+              "uk": "Kawasaki — японський гігант, відомий виробництвом швидкісних спортивних мотоциклів із сімейства Ninja та потужних круїзерів.",
+              "ru": "Kawasaki – японский гигант, известный производством быстрых спортивных мотоциклов семейства Ninja и мощных круизеров.",
+              "zh": "川崎是日本巨头，以生产忍者家族的快速运动摩托车和强大的巡洋舰而闻名。"
+            }
+          }
+        }
+      }
+    ],
+    "KX": [
+      {
+        "BrandID": 204,
+        "ModelID": 415925,
+        "Brand Name": "Kawasaki",
+        "Model Name": "KX",
+        "Serie Name": "KX",
+        "Years": "2001 - 2014",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Kawasaki KX to wyczynowe motocykle motocrossowe, które zdobyły niezliczone tytuły mistrzowskie na całym świecie. Maszyny bez kompromisów.",
+              "en": "Kawasaki KX are high-performance motocross motorcycles that have won countless championship titles around the world. Machines without compromise.",
+              "de": "Kawasaki KX sind Hochleistungs-Motocross-Motorräder, die weltweit unzählige Meistertitel gewonnen haben. Maschinen ohne Kompromisse.",
+              "uk": "Kawasaki KX — це високопродуктивні мотокросові мотоцикли, які виграли незліченну кількість чемпіонських титулів у всьому світі. Машини без компромісів.",
+              "ru": "Kawasaki KX — высокопроизводительные мотоциклы для мотокросса, завоевавшие бесчисленное количество чемпионских титулов по всему миру. Машины без компромиссов.",
+              "zh": "川崎 KX 是高性能越野摩托车，在世界各地赢得了无数冠军头衔。毫不妥协的机器。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kawasaki"
+              },
+              "okres produkcji": {
+                "pl": "od 1974",
+                "en": "since 1974",
+                "de": "seit 1974",
+                "uk": "з 1974 року",
+                "ru": "с 1974 года",
+                "zh": "自 1974 年以来"
+              },
+              "klasa": {
+                "pl": "Motocross"
+              },
+              "silnik": {
+                "pl": "2-suw / 4-suw",
+                "en": "2-stroke / 4-stroke",
+                "de": "2-Takt / 4-Takt",
+                "uk": "2-тактний / 4-тактний",
+                "ru": "2-тактный / 4-тактный",
+                "zh": "二冲程/四冲程"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "KZ": [
+      {
+        "BrandID": 204,
+        "ModelID": 416241,
+        "Brand Name": "Kawasaki",
+        "Model Name": "KZ",
+        "Serie Name": "KZ",
+        "Years": "1970 - 1995",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Kawasaki to japoński gigant, słynący z produkcji szybkich motocykli sportowych z rodziny Ninja oraz potężnych krążowników.",
+              "en": "Kawasaki is a Japanese giant, famous for the production of fast sports motorcycles from the Ninja family and powerful cruisers.",
+              "de": "Kawasaki ist ein japanischer Riese, der für die Produktion schneller Sportmotorräder der Ninja-Familie und leistungsstarker Cruiser bekannt ist.",
+              "uk": "Kawasaki - японський гігант, відомий виробництвом швидкісних спортивних мотоциклів сімейства Ninja і потужних круїзерів.",
+              "ru": "Kawasaki – японский гигант, известный производством быстрых спортивных мотоциклов семейства Ninja и мощных круизеров.",
+              "zh": "川崎是日本巨头，以生产 Ninja 家族的快速运动摩托车和强大的巡洋舰而闻名。"
+            }
+          }
+        }
+      }
+    ],
+    "Ninja": [
+      {
+        "BrandID": 204,
+        "ModelID": 415927,
+        "Brand Name": "Kawasaki",
+        "Model Name": "Ninja",
+        "Serie Name": "Ninja",
+        "Years": "1995 - 2015",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Kawasaki Ninja to legenda światowych torów wyścigowych. Od lekkich modeli 250/300 po ekstremalne ZX-10R i doładowane H2, seria ta definiuje pojęcie motocykla sportowego.",
+              "en": "Kawasaki Ninja is a legend on world racing tracks. From the lightweight 250/300 models to the extreme ZX-10R and supercharged H2, this series defines the concept of a sports bike.",
+              "de": "Kawasaki Ninja ist eine Legende auf den Rennstrecken der Welt. Von den leichten 250/300-Modellen bis hin zur extremen ZX-10R und der aufgeladenen H2 definiert diese Serie das Konzept eines Sportmotorrads.",
+              "uk": "Kawasaki Ninja — легенда світових гоночних треків. Від легких моделей 250/300 до екстремального ZX-10R і наддувного H2, ця серія визначає концепцію спортивного мотоцикла.",
+              "ru": "Kawasaki Ninja – легенда мировых гоночных трасс. От легких моделей 250/300 до экстремального ZX-10R и H2 с наддувом — эта серия определяет концепцию спортивного мотоцикла.",
+              "zh": "川崎忍者是世界赛道上的传奇。从轻量化的250/300型号到极致的ZX-10R和增压H2，该系列定义了运动自行车的概念。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kawasaki"
+              },
+              "okres produkcji": {
+                "pl": "od 1984",
+                "en": "since 1984",
+                "de": "seit 1984",
+                "uk": "з 1984 року",
+                "ru": "с 1984 года",
+                "zh": "自 1984 年以来"
+              },
+              "klasa": {
+                "pl": "Sportowy / Super sport",
+                "en": "Sports / Super sport",
+                "de": "Sport / Supersport",
+                "uk": "Sports / Super sport",
+                "ru": "Спортивный/Суперспорт",
+                "zh": "运动/超级运动"
+              },
+              "rodzina": {
+                "pl": "Ninja"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Versus": [
+      {
+        "BrandID": 204,
+        "ModelID": 415929,
+        "Brand Name": "Kawasaki",
+        "Model Name": "Versus",
+        "Serie Name": "Versus",
+        "Years": "2007 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Kawasaki Versys to seria motocykli typu dual-sport i turystycznych, łączących komfort jazdy z dużym skokiem zawieszenia i uniwersalnym charakterem.",
+              "en": "Kawasaki Versys is a series of dual-sport and touring motorcycles, combining driving comfort with long suspension travel and universal character.",
+              "de": "Kawasaki Versys ist eine Serie von Dual-Sport- und Tourenmotorrädern, die Fahrkomfort mit langen Federwegen und universellem Charakter kombinieren.",
+              "uk": "Kawasaki Versys — це серія подвійних спортивних і туристичних мотоциклів, що поєднують комфорт водіння з великим ходом підвіски та універсальним характером.",
+              "ru": "Kawasaki Versys — серия мотоциклов двойного назначения: спортивных и туристических, сочетающих в себе комфорт езды с длинным ходом подвески и универсальным характером.",
+              "zh": "Kawasaki Versys 是一系列双运动和旅行摩托车，将驾驶舒适性与长悬架行程和通用特性结合在一起。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kawasaki"
+              },
+              "okres produkcji": {
+                "pl": "od 2007",
+                "en": "from 2007",
+                "de": "ab 2007",
+                "uk": "з 2007 року",
+                "ru": "с 2007 года",
+                "zh": "2007 年起"
+              },
+              "klasa": {
+                "pl": "Dual-sport / Adventure touring",
+                "en": "Dual-sport / Adventure touring",
+                "de": "Dual-Sport/Adventure-Touring",
+                "uk": "Dual-sport / Adventure touring",
+                "ru": "Двойной спорт/приключенческий туризм",
+                "zh": "双重运动/冒险旅行"
+              },
+              "napęd": {
+                "pl": "Łańcuch"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "VN": [
+      {
+        "BrandID": 204,
+        "ModelID": 415931,
+        "Brand Name": "Kawasaki",
+        "Model Name": "VN",
+        "Serie Name": "VN",
+        "Years": "1984 - 2006",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Kawasaki VN (Vulcan) to potężne cruisery z silnikami V-twin, oferujące klasyczny amerykański styl połączony z japońską precyzją wykonania.",
+              "en": "Kawasaki VN (Vulcan) are powerful cruisers with V-twin engines, offering classic American style combined with Japanese precision.",
+              "de": "Kawasaki VN (Vulcan) sind leistungsstarke Cruiser mit V-Twin-Motoren, die klassischen amerikanischen Stil kombiniert mit japanischer Präzision bieten.",
+              "uk": "Kawasaki VN (Vulcan) — це потужні крейсери з V-подібними двигунами, що пропонують класичний американський стиль у поєднанні з японською точністю.",
+              "ru": "Kawasaki VN (Vulcan) — мощные круизеры с V-образными двигателями, сочетающие классический американский стиль с японской точностью.",
+              "zh": "Kawasaki VN (Vulcan) 是配备 V 型双发动机的强大巡洋舰，将经典的美式风格与日本的精准相结合。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kawasaki"
+              },
+              "okres produkcji": "1984–2006",
+              "klasa": {
+                "pl": "Cruiser / Bagger",
+                "en": "Cruiser / Bagger",
+                "de": "Cruiser / Bagger",
+                "uk": "Cruiser / Bagger",
+                "ru": "Крейсер/Баггер",
+                "zh": "Cruiser / Bagger"
+              },
+              "silnik": {
+                "pl": "V-twin"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Voyager": [
+      {
+        "BrandID": 204,
+        "ModelID": 415933,
+        "Brand Name": "Kawasaki",
+        "Model Name": "Voyager",
+        "Serie Name": "Voyager",
+        "Years": "1984 - 2014",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Kawasaki to japoński gigant, słynący z produkcji szybkich motocykli sportowych z rodziny Ninja oraz potężnych krążowników.",
+              "en": "Kawasaki is a Japanese giant, famous for the production of fast sports motorcycles from the Ninja family and powerful cruisers.",
+              "de": "Kawasaki ist ein japanischer Riese, der für die Produktion schneller Sportmotorräder der Ninja-Familie und leistungsstarker Cruiser bekannt ist.",
+              "uk": "Kawasaki - японський гігант, відомий виробництвом швидкісних спортивних мотоциклів сімейства Ninja і потужних круїзерів.",
+              "ru": "Kawasaki – японский гигант, известный производством быстрых спортивных мотоциклов семейства Ninja и мощных круизеров.",
+              "zh": "川崎是日本巨头，以生产 Ninja 家族的快速运动摩托车和强大的巡洋舰而闻名。"
+            }
+          }
+        }
+      }
+    ],
+    "Vulcan": [
+      {
+        "BrandID": 204,
+        "ModelID": 415935,
+        "Brand Name": "Kawasaki",
+        "Model Name": "Vulcan",
+        "Serie Name": "Vulcan",
+        "Years": "1995 - 2017",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Kawasaki Vulcan to kontynuacja linii VN w nowoczesnym wydaniu. Od miejskiego Vulcan S po luksusowe modele Voyager i Vaquero.",
+              "en": "Kawasaki Vulcan is a continuation of the VN line in a modern version. From the city Vulcan S to the luxurious Voyager and Vaquero models.",
+              "de": "Kawasaki Vulcan ist eine Fortsetzung der VN-Linie in einer modernen Version. Vom Stadtmodell Vulcan S bis zu den luxuriösen Modellen Voyager und Vaquero.",
+              "uk": "Kawasaki Vulcan є продовженням лінійки VN в сучасному виконанні. Від міського Vulcan S до розкішних моделей Voyager і Vaquero.",
+              "ru": "Kawasaki Vulcan — продолжение линейки VN в современной версии. От городского Vulcan S до роскошных моделей Voyager и Vaquero.",
+              "zh": "川崎 Vulcan 是 VN 系列的现代版本的延续。从城市 Vulcan S 到豪华 Voyager 和 Vaquero 车型。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kawasaki"
+              },
+              "okres produkcji": {
+                "pl": "od 1984",
+                "en": "from 1984",
+                "de": "aus dem Jahr 1984",
+                "uk": "з 1984 року",
+                "ru": "с 1984 года",
+                "zh": "1984 年"
+              },
+              "klasa": {
+                "pl": "Cruiser"
+              },
+              "rodzina": {
+                "pl": "Vulcan"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "W": [
+      {
+        "BrandID": 204,
+        "ModelID": 415937,
+        "Brand Name": "Kawasaki",
+        "Model Name": "W",
+        "Serie Name": "W",
+        "Years": "1965 - 2014",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Seria Kawasaki W to motocykle w stylu retro, będące hołdem dla klasycznych modeli marki z lat 60. Łączą nostalgiczny wygląd z nowoczesną technologią.",
+              "en": "Kawasaki W series are retro-style motorcycles, paying homage to the brand's classic models from the 1960s. They combine a nostalgic look with modern technology.",
+              "de": "Die W-Serie von Kawasaki sind Motorräder im Retro-Stil, eine Hommage an die klassischen Modelle der Marke aus den 1960er Jahren. Sie verbinden einen nostalgischen Look mit moderner Technologie.",
+              "uk": "Серія Kawasaki W — це мотоцикли в ретро-стилі, що віддають шану класичним моделям бренду 1960-х років. Вони поєднують ностальгічний вигляд із сучасними технологіями.",
+              "ru": "Серия Kawasaki W — это мотоциклы в стиле ретро, ​​отдающие дань уважения классическим моделям бренда 1960-х годов. Они сочетают в себе ностальгический вид с современными технологиями.",
+              "zh": "川崎 W 系列是复古风格的摩托车，向该品牌 1960 年代的经典车型致敬。它们将怀旧的外观与现代技术相结合。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kawasaki"
+              },
+              "okres produkcji": {
+                "pl": "od 1965",
+                "en": "since 1965",
+                "de": "seit 1965",
+                "uk": "з 1965 року",
+                "ru": "с 1965 года",
+                "zh": "自 1965 年以来"
+              },
+              "klasa": {
+                "pl": "Retro / Classic",
+                "en": "Retro / Classic",
+                "de": "Retro / Classic",
+                "uk": "Ретро / Класика",
+                "ru": "Ретро/Классика",
+                "zh": "复古/经典"
+              },
+              "chłodzenie": {
+                "pl": "Powietrzem"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Z": [
+      {
+        "BrandID": 204,
+        "ModelID": 415939,
+        "Brand Name": "Kawasaki",
+        "Model Name": "Z",
+        "Serie Name": "Z",
+        "Years": "1990 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Seria Kawasaki Z to agresywne naked bike'i o stylistyce 'Sugomi'. Od lekkiego Z125 po potężnego, doładowanego Z H2.",
+              "en": "The Kawasaki Z series are aggressive naked bikes with a 'Sugomi' style. From the lightweight Z125 to the powerful, supercharged Z H2.",
+              "de": "Die Kawasaki Z-Serie sind aggressive Naked Bikes im „Sugomi“-Stil. Vom leichten Z125 bis zum leistungsstarken, aufgeladenen Z H2.",
+              "uk": "Серія Kawasaki Z — це агресивні нейкидні мотоцикли в стилі «Sugomi». Від легкого Z125 до потужного Z H2 з наддувом.",
+              "ru": "Серия Kawasaki Z — это агрессивные нейкеды в стиле «Сугоми». От легкого Z125 до мощного Z H2 с наддувом.",
+              "zh": "川崎 Z 系列是具有“Sugomi”风格的激进裸车。从轻型 Z125 到强大的增压 Z H2。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kawasaki"
+              },
+              "okres produkcji": {
+                "pl": "od 1972",
+                "en": "since 1972",
+                "de": "seit 1972",
+                "uk": "з 1972 року",
+                "ru": "с 1972 года",
+                "zh": "自 1972 年以来"
+              },
+              "klasa": {
+                "pl": "Naked bike",
+                "en": "Naked bike",
+                "de": "Naked Bike",
+                "uk": "Naked bike",
+                "ru": "Голый велосипед",
+                "zh": "裸车"
+              },
+              "rodzina": {
+                "pl": "Z"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "ZL": [
+      {
+        "BrandID": 204,
+        "ModelID": 415941,
+        "Brand Name": "Kawasaki",
+        "Model Name": "ZL",
+        "Serie Name": "ZL",
+        "Years": "1985 - 1998",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Kawasaki to japoński gigant, słynący z produkcji szybkich motocykli sportowych z rodziny Ninja oraz potężnych krążowników.",
+              "en": "Kawasaki is a Japanese giant, famous for the production of fast sports motorcycles from the Ninja family and powerful cruisers.",
+              "de": "Kawasaki ist ein japanischer Riese, der für die Produktion schneller Sportmotorräder der Ninja-Familie und leistungsstarker Cruiser bekannt ist.",
+              "uk": "Kawasaki - японський гігант, відомий виробництвом швидкісних спортивних мотоциклів сімейства Ninja і потужних круїзерів.",
+              "ru": "Kawasaki – японский гигант, известный производством быстрых спортивных мотоциклов семейства Ninja и мощных круизеров.",
+              "zh": "川崎是日本巨头，以生产 Ninja 家族的快速运动摩托车和强大的巡洋舰而闻名。"
+            }
+          }
+        }
+      }
+    ],
+    "ZR": [
+      {
+        "BrandID": 204,
+        "ModelID": 415943,
+        "Brand Name": "Kawasaki",
+        "Model Name": "ZR",
+        "Serie Name": "ZR",
+        "Years": "1991 - 2021",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Kawasaki to japoński gigant, słynący z produkcji szybkich motocykli sportowych z rodziny Ninja oraz potężnych krążowników.",
+              "en": "Kawasaki is a Japanese giant, famous for producing fast sports motorcycles from the Ninja family and powerful cruisers.",
+              "de": "Kawasaki ist ein japanischer Riese, der für die Herstellung schneller Sportmotorräder der Ninja-Familie und leistungsstarker Cruiser bekannt ist.",
+              "uk": "Kawasaki — японський гігант, відомий виробництвом швидкісних спортивних мотоциклів із сімейства Ninja та потужних круїзерів.",
+              "ru": "Kawasaki – японский гигант, известный производством быстрых спортивных мотоциклов семейства Ninja и мощных круизеров.",
+              "zh": "川崎是日本巨头，以生产忍者家族的快速运动摩托车和强大的巡洋舰而闻名。"
+            }
+          }
+        }
+      }
+    ],
+    "ZR-7": [
+      {
+        "BrandID": 204,
+        "ModelID": 416118,
+        "Brand Name": "Kawasaki",
+        "Model Name": "ZR-7",
+        "Serie Name": "ZR-7",
+        "Years": "1998 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Kawasaki to japoński gigant, słynący z produkcji szybkich motocykli sportowych z rodziny Ninja oraz potężnych krążowników.",
+              "en": "Kawasaki is a Japanese giant, famous for producing fast sports motorcycles from the Ninja family and powerful cruisers.",
+              "de": "Kawasaki ist ein japanischer Riese, der für die Herstellung schneller Sportmotorräder der Ninja-Familie und leistungsstarker Cruiser bekannt ist.",
+              "uk": "Kawasaki — японський гігант, відомий виробництвом швидкісних спортивних мотоциклів із сімейства Ninja та потужних круїзерів.",
+              "ru": "Kawasaki – японский гигант, известный производством быстрых спортивных мотоциклов семейства Ninja и мощных круизеров.",
+              "zh": "川崎是日本巨头，以生产忍者家族的快速运动摩托车和强大的巡洋舰而闻名。"
+            }
+          }
+        }
+      }
+    ],
+    "ZRX": [
+      {
+        "BrandID": 204,
+        "ModelID": 415945,
+        "Brand Name": "Kawasaki",
+        "Model Name": "ZRX",
+        "Serie Name": "ZRX",
+        "Years": "1994 - 2021",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Kawasaki to japoński gigant, słynący z produkcji szybkich motocykli sportowych z rodziny Ninja oraz potężnych krążowników.",
+              "en": "Kawasaki is a Japanese giant, famous for producing fast sports motorcycles from the Ninja family and powerful cruisers.",
+              "de": "Kawasaki ist ein japanischer Riese, der für die Herstellung schneller Sportmotorräder der Ninja-Familie und leistungsstarker Cruiser bekannt ist.",
+              "uk": "Kawasaki — японський гігант, відомий виробництвом швидкісних спортивних мотоциклів із сімейства Ninja та потужних круїзерів.",
+              "ru": "Kawasaki – японский гигант, известный производством быстрых спортивных мотоциклов семейства Ninja и мощных круизеров.",
+              "zh": "川崎是日本巨头，以生产忍者家族的快速运动摩托车和强大的巡洋舰而闻名。"
+            }
+          }
+        }
+      }
+    ],
+    "ZX": [
+      {
+        "BrandID": 204,
+        "ModelID": 415947,
+        "Brand Name": "Kawasaki",
+        "Model Name": "ZX",
+        "Serie Name": "ZX",
+        "Years": "1993 - 2008",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Kawasaki to japoński gigant, słynący z produkcji szybkich motocykli sportowych z rodziny Ninja oraz potężnych krążowników.",
+              "en": "Kawasaki is a Japanese giant, famous for producing fast sports motorcycles from the Ninja family and powerful cruisers.",
+              "de": "Kawasaki ist ein japanischer Riese, der für die Herstellung schneller Sportmotorräder der Ninja-Familie und leistungsstarker Cruiser bekannt ist.",
+              "uk": "Kawasaki — японський гігант, відомий виробництвом швидкісних спортивних мотоциклів із сімейства Ninja та потужних круїзерів.",
+              "ru": "Kawasaki – японский гигант, известный производством быстрых спортивных мотоциклов семейства Ninja и мощных круизеров.",
+              "zh": "川崎是日本巨头，以生产忍者家族的快速运动摩托车和强大的巡洋舰而闻名。"
+            }
+          }
+        }
+      }
+    ],
+    "ZXR": [
+      {
+        "BrandID": 204,
+        "ModelID": 415949,
+        "Brand Name": "Kawasaki",
+        "Model Name": "ZXR",
+        "Serie Name": "ZXR",
+        "Years": "1991 - 2013",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Kawasaki to japoński gigant, słynący z produkcji szybkich motocykli sportowych z rodziny Ninja oraz potężnych krążowników.",
+              "en": "Kawasaki is a Japanese giant, famous for producing fast sports motorcycles from the Ninja family and powerful cruisers.",
+              "de": "Kawasaki ist ein japanischer Riese, der für die Herstellung schneller Sportmotorräder der Ninja-Familie und leistungsstarker Cruiser bekannt ist.",
+              "uk": "Kawasaki — японський гігант, відомий виробництвом швидкісних спортивних мотоциклів із сімейства Ninja та потужних круїзерів.",
+              "ru": "Kawasaki – японский гигант, известный производством быстрых спортивных мотоциклов семейства Ninja и мощных круизеров.",
+              "zh": "川崎是日本巨头，以生产忍者家族的快速运动摩托车和强大的巡洋舰而闻名。"
+            }
+          }
+        }
+      }
+    ],
+    "ZZR": [
+      {
+        "BrandID": 204,
+        "ModelID": 415951,
+        "Brand Name": "Kawasaki",
+        "Model Name": "ZZR",
+        "Serie Name": "ZZR",
+        "Years": "1992 - 2014",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Motorcycle",
+          "wiki": {
+            "description": {
+              "pl": "Kawasaki ZZR to seria motocykli typu sport-touring, znana z bicia rekordów prędkości (model ZZR1100) i potężnych silników zapewniających komfortowe podróżowanie.",
+              "en": "Kawasaki ZZR is a series of sport-touring motorcycles, known for breaking speed records (ZZR1100 model) and powerful engines ensuring comfortable travel.",
+              "de": "Kawasaki ZZR ist eine Serie von Sporttouring-Motorrädern, die dafür bekannt sind, Geschwindigkeitsrekorde zu brechen (Modell ZZR1100) und leistungsstarke Motoren für komfortables Reisen.",
+              "uk": "Kawasaki ZZR — це серія спортивно-туристичних мотоциклів, відомих рекордами швидкості (модель ZZR1100) і потужними двигунами, що забезпечують комфортну подорож.",
+              "ru": "Kawasaki ZZR — серия спортивно-туристических мотоциклов, известных рекордами скорости (модель ZZR1100) и мощными двигателями, обеспечивающими комфортное путешествие.",
+              "zh": "川崎 ZZR 是一系列运动旅行摩托车，以打破速度记录（ZZR1100 型号）和确保舒适旅行的强大发动机而闻名。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Kawasaki"
+              },
+              "okres produkcji": "1990–2020",
+              "klasa": {
+                "pl": "Sport-touring",
+                "en": "Sport-touring",
+                "de": "Sporttouring",
+                "uk": "Спорт-туринг",
+                "ru": "Спортивный туризм",
+                "zh": "运动旅行"
+              },
+              "silnik": {
+                "pl": "R4"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

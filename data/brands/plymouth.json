@@ -1,0 +1,151 @@
+{
+  "brand": "Plymouth",
+  "models": {
+    "": [
+      {
+        "BrandID": 103,
+        "ModelID": "",
+        "Brand Name": "Plymouth",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Plymouth to historyczna marka koncernu Chrysler, oferująca przystępne cenowo samochody dla szerokiego grona odbiorców.",
+              "en": "Plymouth is a historic brand of the Chrysler group, offering affordable cars for a wide range of customers.",
+              "de": "Plymouth ist eine historische Marke der Chrysler-Gruppe und bietet erschwingliche Autos für ein breites Kundenspektrum.",
+              "uk": "Plymouth — історичний бренд групи Chrysler, що пропонує доступні автомобілі для широкого кола клієнтів.",
+              "ru": "Plymouth — исторический бренд группы Chrysler, предлагающий доступные автомобили для широкого круга покупателей.",
+              "zh": "普利茅斯是克莱斯勒集团的历史品牌，为广大客户提供价格实惠的汽车。"
+            }
+          }
+        }
+      }
+    ],
+    "Breeze": [
+      {
+        "BrandID": 103,
+        "ModelID": 414293,
+        "Brand Name": "Plymouth",
+        "Model Name": "Breeze",
+        "Serie Name": "Breeze",
+        "Years": "1996 - 2001",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Plymouth Breeze to sedan klasy średniej, bliźniak Dodge'a Stratusa i Chryslera Cirrusa (tzw. 'Cloud Cars').",
+              "en": "Plymouth Breeze is a mid-class sedan, a twin of the Dodge Stratus and Chrysler Cirrus (so-called 'Cloud Cars').",
+              "de": "Plymouth Breeze ist eine Mittelklasse-Limousine, ein Zwilling des Dodge Stratus und des Chrysler Cirrus (sogenannte „Cloud Cars“).",
+              "uk": "Plymouth Breeze — седан середнього класу, двійник Dodge Stratus і Chrysler Cirrus (так звані «Cloud Cars»).",
+              "ru": "Plymouth Breeze — седан среднего класса, близнец Dodge Stratus и Chrysler Cirrus (так называемые «Cloud Cars»).",
+              "zh": "Plymouth Breeze 是一款中级轿车，是道奇 Stratus 和克莱斯勒 Cirrus（所谓的“云汽车”）的双胞胎。"
+            }
+          }
+        }
+      }
+    ],
+    "Neon": [
+      {
+        "BrandID": 103,
+        "ModelID": 416309,
+        "Brand Name": "Plymouth",
+        "Model Name": "Neon",
+        "Serie Name": "Neon",
+        "Years": "1994 - 2001",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Plymouth Neon to kompaktowy sedan o sportowym charakterze, popularny w latach 90. dzięki niskiej cenie i dobrym osiągom.",
+              "en": "The Plymouth Neon is a compact, sporty sedan popular in the 1990s thanks to its low price and good performance.",
+              "de": "Der Plymouth Neon ist eine kompakte, sportliche Limousine, die in den 1990er Jahren aufgrund ihres niedrigen Preises und ihrer guten Leistung beliebt war.",
+              "uk": "Plymouth Neon — компактний спортивний седан, популярний у 1990-х роках завдяки низькій ціні та хорошим характеристикам.",
+              "ru": "Plymouth Neon — компактный спортивный седан, популярный в 1990-х годах благодаря низкой цене и хорошим характеристикам.",
+              "zh": "Plymouth Neon 是一款在 90 年代流行的紧凑型运动轿车，因其低廉的价格和良好的性能而流行。"
+            }
+          }
+        }
+      }
+    ],
+    "Prowler": [
+      {
+        "BrandID": 103,
+        "ModelID": 415309,
+        "Brand Name": "Plymouth",
+        "Model Name": "Prowler",
+        "Serie Name": "Prowler",
+        "Years": "1997 - 2002",
+        "specs": {
+          "bodyType": "Roadster",
+          "segment": "Sports Car",
+          "drive": "RWD",
+          "fuel": "Gasoline",
+          "engine": "3.5L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Plymouth Prowler to unikalny roadster w stylu hot-rod, zbudowany dla uczczenia dziedzictwa amerykańskiej motoryzacji.",
+              "en": "The Plymouth Prowler is a unique hot-rod style roadster built to celebrate the heritage of American motoring.",
+              "de": "Der Plymouth Prowler ist ein einzigartiger Roadster im Hot-Rod-Stil, der als Hommage an das Erbe des amerikanischen Automobils gebaut wurde.",
+              "uk": "Plymouth Prowler — це унікальний родстер у стилі хот-род, створений, щоб відзначити спадщину американського автомобілебудування.",
+              "ru": "Plymouth Prowler — уникальный родстер в стиле хот-род, созданный в честь наследия американского автомобилестроения.",
+              "zh": "普利茅斯徘徊者是一款独特的热棒风格跑车，旨在庆祝美国汽车的传统。"
+            }
+          }
+        }
+      }
+    ],
+    "Voyager": [
+      {
+        "BrandID": 103,
+        "ModelID": 1243,
+        "Brand Name": "Plymouth",
+        "Model Name": "Voyager",
+        "Serie Name": "Voyager",
+        "Years": "1984 - 2000",
+        "specs": {
+          "bodyType": "Minivan",
+          "segment": "Minivan",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline",
+          "engine": "2.4L - 3.8L V6",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Plymouth Voyager to jeden z pionierów segmentu minivanów, oferujący przestronne wnętrze dla całej rodziny.",
+              "en": "Plymouth Voyager is one of the pioneers of the minivan segment, offering a spacious interior for the whole family.",
+              "de": "Plymouth Voyager ist einer der Pioniere im Minivan-Segment und bietet einen geräumigen Innenraum für die ganze Familie.",
+              "uk": "Plymouth Voyager — один із піонерів у сегменті мінівенів, що пропонує просторий салон для всієї родини.",
+              "ru": "Plymouth Voyager – один из пионеров сегмента минивэнов, предлагающий просторный салон для всей семьи.",
+              "zh": "Plymouth Voyager 是小型货车领域的先驱之一，为全家人提供宽敞的内部空间。"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/er/dh/y9d9b6gc4kok44wcc4oo8/plymouth-voyager-1995.310.jpg"
+        }
+      }
+    ]
+  }
+}

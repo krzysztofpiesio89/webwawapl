@@ -1,0 +1,396 @@
+{
+  "brand": "Great Wall",
+  "models": {
+    "Cannon": [
+      {
+        "BrandID": 55,
+        "ModelID": 416571,
+        "Brand Name": "Great Wall",
+        "Model Name": "Cannon",
+        "Serie Name": "Cannon / Poer",
+        "Years": "2019 - 3000",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Mid-size Pickup",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel/Electric",
+          "engine": "2.0L Turbo / EV",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Great Wall Cannon (znany też jako Poer lub P-Series) to nowoczesny pickup, który jest hitem eksportowym marki. Oferuje komfort i technologie znane z SUV-ów przy zachowaniu właściwości użytkowych.",
+              "en": "Great Wall Cannon (also known as Poer or P-Series) is a modern pickup truck that is an export hit for the brand. It offers comfort and technologies known from SUVs while maintaining functional properties.",
+              "de": "Great Wall Cannon (auch bekannt als Poer oder P-Series) ist ein moderner Pickup, der ein Exportschlager der Marke ist. Es bietet Komfort und von SUVs bekannte Technologien unter Beibehaltung funktionaler Eigenschaften.",
+              "uk": "Great Wall Cannon (також відомий як Poer або P-Series) — сучасний пікап, який є експортним хітом марки. Він пропонує комфорт і технології, відомі з позашляховиків, зберігаючи функціональні властивості.",
+              "ru": "Great Wall Cannon (также известный как Poer или P-Series) — современный пикап, ставший экспортным хитом бренда. Он предлагает комфорт и технологии, известные по внедорожникам, сохраняя при этом функциональные свойства.",
+              "zh": "长城炮（也称为波尔或 P 系列）是一款现代皮卡车，是该品牌的出口热门产品。它提供 SUV 所熟知的舒适性和技术，同时保持功能特性。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Great Wall Motors",
+                "en": "Great Wall Motors",
+                "de": "Great Wall Motors",
+                "uk": "Great Wall Motors",
+                "ru": "Great Wall Motors",
+                "zh": "长城汽车"
+              },
+              "okres produkcji": {
+                "pl": "od 2019",
+                "en": "from 2019",
+                "de": "ab 2019",
+                "uk": "з 2019 року",
+                "ru": "2019 года.",
+                "zh": "2019 年起"
+              },
+              "segment": {
+                "pl": "Mid-size Pickup",
+                "en": "Mid-size Pickup",
+                "de": "Mittelklasse-Pickup",
+                "uk": "Середньорозмірний пікап",
+                "ru": "Среднеразмерный пикап",
+                "zh": "中型皮卡"
+              },
+              "napęd": {
+                "pl": "RWD/4WD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Coolbear": [
+      {
+        "BrandID": 55,
+        "ModelID": 416354,
+        "Brand Name": "Great Wall",
+        "Model Name": "Coolbear",
+        "Serie Name": "Coolbear",
+        "Years": "2009 - 2015",
+        "specs": {
+          "bodyType": "Hatchback",
+          "segment": "Compact MPV",
+          "drive": "FWD",
+          "fuel": "Gasoline",
+          "engine": "1.5L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Great Wall Coolbear to miejski samochód o charakterystycznym, pudełkowatym kształcie, stylistycznie mocno inspirowany pierwszą generacją Sciona xB. Oferuje niesamowitą przestrzeń wewnątrz przy małych wymiarach.",
+              "en": "Great Wall Coolbear is a city car with a characteristic, boxy shape, stylistically strongly inspired by the first generation of Scion xB. It offers incredible space inside with small dimensions.",
+              "de": "Great Wall Coolbear ist ein Stadtauto mit einer charakteristischen, kastenförmigen Form, stilistisch stark von der ersten Generation des Scion xB inspiriert. Es bietet unglaublich viel Platz im Inneren bei geringen Abmessungen.",
+              "uk": "Great Wall Coolbear — міський автомобіль із характерною квадратною формою, стилістично натхненний першим поколінням Scion xB. Він пропонує неймовірний простір всередині при невеликих розмірах.",
+              "ru": "Great Wall Coolbear — городской автомобиль характерной квадратной формы, стилистически вдохновленный первым поколением Scion xB. Он предлагает невероятное пространство внутри при небольших размерах.",
+              "zh": "长城酷熊是一款城市汽车，具有独特的四四方方造型，风格上受到第一代 Scion xB 的强烈启发。它以小尺寸提供令人难以置信的内部空间。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Great Wall Motors",
+                "en": "Great Wall Motors",
+                "de": "Great Wall Motors",
+                "uk": "Great Wall Motors",
+                "ru": "Great Wall Motors",
+                "zh": "长城汽车"
+              },
+              "okres produkcji": "2009–2015",
+              "segment": {
+                "pl": "Compact MPV",
+                "en": "Compact MPV",
+                "de": "Kompakter MPV",
+                "uk": "Компактний мінівен",
+                "ru": "Компактвэн",
+                "zh": "紧凑型MPV"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Hover": [
+      {
+        "BrandID": 55,
+        "ModelID": 416295,
+        "Brand Name": "Great Wall",
+        "Model Name": "Hover",
+        "Serie Name": "Hover H3",
+        "Years": "2005 - 2013",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L / 2.4L / 2.5L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Great Wall Hover H3 (CUV) to klasyczny SUV na ramie, który zdobył popularność dzięki niskiej cenie i dobrym właściwościom terenowym. Stylistycznie wzorowany na Isuzu Axiom.",
+              "en": "Great Wall Hover H3 (CUV) is a classic body-on-frame SUV that gained popularity thanks to its low price and good off-road capabilities. Stylistically based on the Isuzu Axiom.",
+              "de": "Great Wall Hover H3 (CUV) ist ein klassischer Karosserie-SUV, der aufgrund seines niedrigen Preises und seiner guten Geländetauglichkeit an Popularität gewonnen hat. Stilistisch angelehnt an das Isuzu-Axiom.",
+              "uk": "Great Wall Hover H3 (CUV) — класичний рамний позашляховик, який завоював популярність завдяки низькій ціні та хорошим позашляховим можливостям. Стилістично заснований на аксіомі Isuzu.",
+              "ru": "Great Wall Hover H3 (CUV) – классический рамный внедорожник, получивший популярность благодаря невысокой цене и хорошим внедорожным возможностям. Стилистически основан на аксиоме Isuzu.",
+              "zh": "长城哈弗H3（CUV）是一款经典的非承载式SUV，凭借低廉的价格和良好的越野能力而受到青睐。风格上基于五十铃 Axiom。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Great Wall Motors",
+                "en": "Great Wall Motors",
+                "de": "Great Wall Motors",
+                "uk": "Great Wall Motors",
+                "ru": "Great Wall Motors",
+                "zh": "长城汽车"
+              },
+              "siedziba": {
+                "pl": "Baoding, Chiny",
+                "en": "Baoding, China",
+                "de": "Baoding, China",
+                "uk": "Баодін, Китай",
+                "ru": "Баодин, Китай",
+                "zh": "中国保定"
+              },
+              "założona": "1984"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 55,
+        "ModelID": 414033,
+        "Brand Name": "Great Wall",
+        "Model Name": "Hover",
+        "Serie Name": "Hover H5",
+        "Years": "2010 - 2017",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L Diesel / 2.4L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Great Wall Hover H5 to zmodernizowana wersja modelu H3, z nowym przodem (inspirowanym Mazdą CX-7) i nowocześniejszym wnętrzem. Wciąż oferuje solidną ramową konstrukcję.",
+              "en": "Great Wall Hover H5 is a modernized version of the H3 model, with a new front (inspired by the Mazda CX-7) and a more modern interior. It still offers a solid frame construction.",
+              "de": "Great Wall Hover H5 ist eine modernisierte Version des H3-Modells mit einer neuen Front (inspiriert vom Mazda CX-7) und einem moderneren Innenraum. Es bietet weiterhin eine solide Rahmenkonstruktion.",
+              "uk": "Great Wall Hover H5 — це модернізована версія моделі H3 із новою передньою частиною (на основі Mazda CX-7) і сучаснішим інтер’єром. Він все ще пропонує міцну каркасну конструкцію.",
+              "ru": "Great Wall Hover H5 — это модернизированная версия модели H3 с новой передней частью (вдохновленной Mazda CX-7) и более современным интерьером. Он по-прежнему имеет прочную рамную конструкцию.",
+              "zh": "长城哈弗 H5 是 H3 车型的现代化版本，具有新的前部（灵感来自马自达 CX-7）和更现代的内饰。它仍然提供坚固的框架结构。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Great Wall Motors",
+                "en": "Great Wall Motors",
+                "de": "Great Wall Motors",
+                "uk": "Great Wall Motors",
+                "ru": "Great Wall Motors",
+                "zh": "长城汽车"
+              },
+              "siedziba": {
+                "pl": "Baoding, Chiny",
+                "en": "Baoding, China",
+                "de": "Baoding, China",
+                "uk": "Баодін, Китай",
+                "ru": "Баодин, Китай",
+                "zh": "中国保定"
+              },
+              "założona": "1984"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 55,
+        "ModelID": 414034,
+        "Brand Name": "Great Wall",
+        "Model Name": "Hover",
+        "Serie Name": "Hover H6",
+        "Years": "2011 - 2016",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.5L Turbo / 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Great Wall Hover H6 to przełomowy model marki – pierwszy SUV o konstrukcji samonośnej, który stał się bestsellerem w Chinach i dał początek marce Haval.",
+              "en": "Great Wall Hover H6 is a breakthrough model of the brand - the first SUV with a self-supporting structure, which became a bestseller in China and gave birth to the Haval brand.",
+              "de": "Great Wall Hover H6 ist ein bahnbrechendes Modell der Marke – der erste SUV mit selbsttragender Struktur, der in China zum Bestseller wurde und die Marke Haval hervorbrachte.",
+              "uk": "Great Wall Hover H6 — проривна модель бренду — перший позашляховик із самонесучою конструкцією, який став бестселером у Китаї та дав початок бренду Haval.",
+              "ru": "Great Wall Hover H6 – прорывная модель бренда – первый внедорожник с самонесущей конструкцией, ставший бестселлером в Китае и давший начало бренду Haval.",
+              "zh": "长城哈弗H6是该品牌的突破车型——首款自支撑结构SUV，成为中国畅销车型，并诞生了哈弗品牌。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Great Wall Motors",
+                "en": "Great Wall Motors",
+                "de": "Great Wall Motors",
+                "uk": "Great Wall Motors",
+                "ru": "Great Wall Motors",
+                "zh": "长城汽车"
+              },
+              "siedziba": {
+                "pl": "Baoding, Chiny",
+                "en": "Baoding, China",
+                "de": "Baoding, China",
+                "uk": "Баодін, Китай",
+                "ru": "Баодин, Китай",
+                "zh": "中国保定"
+              },
+              "założona": "1984"
+            }
+          }
+        }
+      }
+    ],
+    "Safe": [
+      {
+        "BrandID": 55,
+        "ModelID": 609,
+        "Brand Name": "Great Wall",
+        "Model Name": "Safe",
+        "Serie Name": "Safe",
+        "Years": "2002 - 2009",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline",
+          "engine": "2.2L",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Great Wall Safe to SUV bazujący na technice Toyoty 4Runner. Prosty, trwały i dzielny w terenie.",
+              "en": "Great Wall Safe is an SUV based on the technology of the Toyota 4Runner. Simple, durable and capable in the field.",
+              "de": "Great Wall Safe ist ein SUV, der auf der Technologie des Toyota 4Runner basiert. Einfach, langlebig und praxistauglich.",
+              "uk": "Great Wall Safe — позашляховик на основі технології Toyota 4Runner. Простий, міцний і здатний працювати в полі.",
+              "ru": "Great Wall Safe — внедорожник, созданный на основе технологии Toyota 4Runner. Простой, прочный и работоспособный в полевых условиях.",
+              "zh": "长城 Safe 是一款基于丰田 4Runner 技术的 SUV。简单、耐用且适用于现场。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Great Wall Motors",
+                "en": "Great Wall Motors",
+                "de": "Great Wall Motors",
+                "uk": "Great Wall Motors",
+                "ru": "Great Wall Motors",
+                "zh": "长城汽车"
+              },
+              "siedziba": {
+                "pl": "Baoding, Chiny",
+                "en": "Baoding, China",
+                "de": "Baoding, China",
+                "uk": "Баодін, Китай",
+                "ru": "Баодин, Китай",
+                "zh": "中国保定"
+              },
+              "założona": "1984"
+            }
+          }
+        }
+      }
+    ],
+    "Wingle": [
+      {
+        "BrandID": 55,
+        "ModelID": 612,
+        "Brand Name": "Great Wall",
+        "Model Name": "Wingle",
+        "Serie Name": "Wingle 5",
+        "Years": "2010 - 3000",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Mid-size Pickup",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.2L / 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Great Wall Wingle to rodzina pickupów, które zyskały uznanie jako tanie i niezawodne woły robocze.",
+              "en": "Great Wall Wingle is a family of pickup trucks that have gained recognition as cheap and reliable workhorses.",
+              "de": "Great Wall Wingle ist eine Familie von Pickup-Trucks, die sich als preiswerte und zuverlässige Arbeitstiere einen Namen gemacht haben.",
+              "uk": "Great Wall Wingle — це сімейство пікапів, які здобули визнання як дешеві та надійні робочі конячки.",
+              "ru": "Great Wall Wingle — семейство пикапов, получивших признание как дешевые и надежные рабочие лошадки.",
+              "zh": "长城风骏是一个皮卡车系列，被认为是廉价且可靠的主力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Great Wall Motors",
+                "en": "Great Wall Motors",
+                "de": "Great Wall Motors",
+                "uk": "Great Wall Motors",
+                "ru": "Great Wall Motors",
+                "zh": "长城汽车"
+              },
+              "siedziba": {
+                "pl": "Baoding, Chiny",
+                "en": "Baoding, China",
+                "de": "Baoding, China",
+                "uk": "Баодін, Китай",
+                "ru": "Баодин, Китай",
+                "zh": "中国保定"
+              },
+              "założona": "1984"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 55,
+        "ModelID": 416572,
+        "Brand Name": "Great Wall",
+        "Model Name": "Wingle",
+        "Serie Name": "Wingle 7",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "Pickup Truck",
+          "segment": "Mid-size Pickup",
+          "drive": "RWD/4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Truck",
+          "wiki": {
+            "description": {
+              "pl": "Great Wall Wingle to rodzina pickupów, które zyskały uznanie jako tanie i niezawodne woły robocze.",
+              "en": "Great Wall Wingle is a family of pickup trucks that have gained recognition as cheap and reliable workhorses.",
+              "de": "Great Wall Wingle ist eine Familie von Pickup-Trucks, die sich als preiswerte und zuverlässige Arbeitstiere einen Namen gemacht haben.",
+              "uk": "Great Wall Wingle — це сімейство пікапів, які здобули визнання як дешеві та надійні робочі конячки.",
+              "ru": "Great Wall Wingle — семейство пикапов, получивших признание как дешевые и надежные рабочие лошадки.",
+              "zh": "长城风骏是一个皮卡车系列，被认为是廉价且可靠的主力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Great Wall Motors",
+                "en": "Great Wall Motors",
+                "de": "Great Wall Motors",
+                "uk": "Great Wall Motors",
+                "ru": "Great Wall Motors",
+                "zh": "长城汽车"
+              },
+              "siedziba": {
+                "pl": "Baoding, Chiny",
+                "en": "Baoding, China",
+                "de": "Baoding, China",
+                "uk": "Баодін, Китай",
+                "ru": "Баодин, Китай",
+                "zh": "中国保定"
+              },
+              "założona": "1984"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

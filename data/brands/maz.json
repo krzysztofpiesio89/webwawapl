@@ -1,0 +1,93 @@
+{
+  "brand": "МАЗ",
+  "models": {
+    "4370": [
+      {
+        "BrandID": 181,
+        "ModelID": "",
+        "Brand Name": "МАЗ",
+        "Model Name": 4370,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "MAZ 4370 'Zubrenok' to lekka ciężarówka miejska, popularna w krajach wschodnich dzięki swojej zwrotności i ładowności.",
+              "en": "MAZ 4370 'Zubrenok' is a light city truck, popular in eastern countries thanks to its maneuverability and load capacity.",
+              "de": "Der MAZ 4370 „Zubrenok“ ist ein leichter Stadtlastwagen, der in den östlichen Ländern aufgrund seiner Manövrierfähigkeit und Ladekapazität beliebt ist.",
+              "uk": "МАЗ 4370 «Зубренок» - легка міська вантажівка, популярна в східних країнах завдяки своїй маневреності і вантажопідйомності.",
+              "ru": "МАЗ 4370 «Зубренок» — легкий городской грузовик, популярный в восточных странах благодаря своей маневренности и грузоподъемности.",
+              "zh": "MAZ 4370“Zubrenok”是一款轻型城市卡车，因其机动性和负载能力而在东方国家广受欢迎。"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 181,
+        "ModelID": 416444,
+        "Brand Name": "МАЗ",
+        "Model Name": 4370,
+        "Serie Name": 4370,
+        "Years": "1999 - 3000",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "MAZ 4370 'Zubrenok' to lekka ciężarówka miejska, popularna w krajach wschodnich dzięki swojej zwrotności i ładowności.",
+              "en": "MAZ 4370 'Zubrenok' is a light city truck, popular in eastern countries thanks to its maneuverability and load capacity.",
+              "de": "MAZ 4370 „Zubrenok“ ist ein leichter Stadtlastwagen, der in östlichen Ländern aufgrund seiner Manövrierfähigkeit und Ladekapazität beliebt ist.",
+              "uk": "МАЗ 4370 «Зубренок» — легка міська вантажівка, популярна в східних країнах завдяки своїй маневреності та вантажопідйомності.",
+              "ru": "МАЗ 4370 «Зубренок» — легкий городской грузовик, популярный в восточных странах благодаря своей маневренности и грузоподъемности.",
+              "zh": "MAZ 4370“Zubrenok”是一款轻型城市卡车，因其机动性和负载能力而在东方国家广受欢迎。"
+            }
+          }
+        }
+      }
+    ],
+    "4371": [
+      {
+        "BrandID": 181,
+        "ModelID": "",
+        "Brand Name": "МАЗ",
+        "Model Name": 4371,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "MAZ 4371 to uniwersalna ciężarówka średniej ładowności, wykorzystywana w dystrybucji i transporcie komunalnym.",
+              "en": "MAZ 4371 is a universal medium-duty truck used in distribution and municipal transport.",
+              "de": "MAZ 4371 ist ein universeller mittelschwerer Lkw für den Verteiler- und Kommunalverkehr.",
+              "uk": "МАЗ 4371 — універсальний середньотоннажний вантажний автомобіль, що використовується в розвізному та міському транспорті.",
+              "ru": "МАЗ 4371 – универсальный среднетоннажный грузовик, используемый на развозном и городском транспорте.",
+              "zh": "MAZ 4371 是一款用于配送和市政运输的通用中型卡车。"
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 181,
+        "ModelID": 416442,
+        "Brand Name": "МАЗ",
+        "Model Name": 4371,
+        "Serie Name": 4371,
+        "Years": "2003 - 3000",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "MAZ 4371 to uniwersalna ciężarówka średniej ładowności, wykorzystywana w dystrybucji i transporcie komunalnym.",
+              "en": "MAZ 4371 is a universal medium-duty truck used in distribution and municipal transport.",
+              "de": "MAZ 4371 ist ein universeller mittelschwerer Lkw für den Verteiler- und Kommunalverkehr.",
+              "uk": "МАЗ 4371 — універсальний середньотоннажний вантажний автомобіль, що використовується в розвізному та міському транспорті.",
+              "ru": "МАЗ 4371 – универсальный среднетоннажный грузовик, используемый на развозном и городском транспорте.",
+              "zh": "MAZ 4371 是一款用于配送和市政运输的通用中型卡车。"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

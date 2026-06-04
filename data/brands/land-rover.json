@@ -1,0 +1,1167 @@
+{
+  "brand": "Land Rover",
+  "models": {
+    "Defender": [
+      {
+        "BrandID": 79,
+        "ModelID": 413734,
+        "Brand Name": "Land Rover",
+        "Model Name": "Defender",
+        "Serie Name": "Defender (90/110)",
+        "Years": "1983 - 2016",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Off-Road",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.2L - 3.9L V8 / 2.2L - 2.5L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1991_Land_Rover_Defender_110_Tdi_5-door_wagon_%282015-11-13%29_02.jpg/1280px-1991_Land_Rover_Defender_110_Tdi_5-door_wagon_%282015-11-13%29_02.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1991_Land_Rover_Defender_110_Tdi_5-door_wagon_%282015-11-13%29_02.jpg/1280px-1991_Land_Rover_Defender_110_Tdi_5-door_wagon_%282015-11-13%29_02.jpg"
+            ],
+            "description": {
+              "pl": "Land Rover Defender to legenda bezdroży. Przez dekady służył rolnikom, wojsku i podróżnikom. Nowa generacja łączy dzielność z nowoczesnością.",
+              "en": "The Land Rover Defender is an off-road legend. For decades it served farmers, the military and travelers. The new generation combines bravery with modernity.",
+              "de": "Der Land Rover Defender ist eine Offroad-Legende. Jahrzehntelang diente es Bauern, Militär und Reisenden. Die neue Generation verbindet Mut mit Modernität.",
+              "uk": "Land Rover Defender – це легенда позашляховиків. Десятиліттями він служив фермерам, військовим і мандрівникам. Нове покоління поєднує в собі хоробрість із сучасністю.",
+              "ru": "Land Rover Defender – легенда бездорожья. На протяжении десятилетий он служил фермерам, военным и путешественникам. Новое поколение сочетает в себе смелость и современность.",
+              "zh": "路虎卫士是越野传奇。几十年来，它为农民、军队和旅行者服务。新一代将勇敢与现代融为一体。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Land Rover",
+                "en": "Land Rover",
+                "de": "Land Rover",
+                "uk": "Land Rover",
+                "ru": "Land Rover",
+                "zh": "路虎"
+              },
+              "okres produkcji": {
+                "pl": "1983–2016, od 2020",
+                "en": "1983–2016, from 2020",
+                "de": "1983–2016, ab 2020",
+                "uk": "1983–2016, з 2020",
+                "ru": "1983–2016 гг., с 2020 г.",
+                "zh": "1983 年至 2016 年，从 2020 年起"
+              },
+              "segment": {
+                "pl": "Off-road SUV",
+                "en": "Off-road SUV",
+                "de": "Gelände-SUV",
+                "uk": "Позашляховик",
+                "ru": "Внедорожный внедорожник",
+                "zh": "越野 SUV"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6f/fj/02oeneo0088k80c0ck448/defender-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 79,
+        "ModelID": 416623,
+        "Brand Name": "Land Rover",
+        "Model Name": "Defender",
+        "Serie Name": "Defender (L663)",
+        "Years": "2020 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Off-Road Luxury",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "2.0L Turbo / 3.0L I6 / 5.0L V8 / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Land Rover Defender to ikona, która zdefiniowała pojęcie auta terenowego. Od surowej, mechanicznej konstrukcji 'Series' po luksusowego, a jednocześnie niezwykle dzielnego następcę L663 – Defender pozostaje królem bezdroży.",
+              "en": "Land Rover Defender is an icon that defined the concept of an off-road vehicle. From the rugged, mechanical design of the 'Series' to the luxurious yet rugged successor of the L663, the Defender remains the king of the off-road.",
+              "de": "Land Rover Defender ist eine Ikone, die das Konzept eines Geländewagens definiert hat. Vom robusten, mechanischen Design der „Serie“ bis zum luxuriösen und dennoch robusten Nachfolger des L663 bleibt der Defender der König der Offroad-Fahrzeuge.",
+              "uk": "Land Rover Defender — це символ, який визначив концепцію позашляховика. Від надійної механічної конструкції «Серії» до розкішного, але міцного наступника L663, Defender залишається королем бездоріжжя.",
+              "ru": "Land Rover Defender — это икона, определившая концепцию внедорожника. От прочной механической конструкции «Серии» до роскошного, но прочного преемника L663, Defender остается королем бездорожья.",
+              "zh": "路虎卫士是定义越野车概念的标志。从“系列”坚固耐用的机械设计到豪华而坚固的 L663 后继产品，Defender 仍然是越野之王。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Land Rover / JLR",
+                "en": "Land Rover / JLR",
+                "de": "Land Rover / JLR",
+                "uk": "Land Rover / JLR",
+                "ru": "Land Rover/JLR",
+                "zh": "路虎/捷豹路虎"
+              },
+              "okres produkcji": {
+                "pl": "od 1983",
+                "en": "from 1983",
+                "de": "ab 1983",
+                "uk": "1983 р.",
+                "ru": "1983 года выпуска",
+                "zh": "1983 年"
+              },
+              "segment": {
+                "pl": "Off-road SUV",
+                "en": "Off-road SUV",
+                "de": "Gelände-SUV",
+                "uk": "Позашляховик",
+                "ru": "Внедорожник",
+                "zh": "越野 SUV"
+              },
+              "napęd": {
+                "pl": "4WD / AWD",
+                "en": "4WD / AWD",
+                "de": "4WD / AWD",
+                "uk": "4WD / AWD",
+                "ru": "4WD/AWD",
+                "zh": "4WD / AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/6f/fj/02oeneo0088k80c0ck448/defender-iii.310.jpg"
+        }
+      }
+    ],
+    "Discovery": [
+      {
+        "BrandID": 79,
+        "ModelID": 413261,
+        "Brand Name": "Land Rover",
+        "Model Name": "Discovery",
+        "Serie Name": "Discovery 1",
+        "Years": "1989 - 1998",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.5L - 3.9L V8 / 2.5L Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Land Rover Discovery to wszechstronny rodzinny SUV, który nie boi się trudnego terenu. Oferuje komfort dla 7 osób.",
+              "en": "Land Rover Discovery is a versatile family SUV that is not afraid of difficult terrain. It offers comfort for 7 people.",
+              "de": "Land Rover Discovery ist ein vielseitiger Familien-SUV, der auch vor schwierigem Gelände keine Angst hat. Es bietet Komfort für 7 Personen.",
+              "uk": "Land Rover Discovery — універсальний сімейний позашляховик, якому не страшна складна місцевість. Комфорт для 7 осіб.",
+              "ru": "Land Rover Discovery — универсальный семейный внедорожник, который не боится труднопроходимой местности. Он предлагает комфорт для 7 человек.",
+              "zh": "路虎发现是一款不畏艰难地形的多功能家庭 SUV。它可为 7 人提供舒适的住宿体验。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Land Rover",
+                "en": "Land Rover",
+                "de": "Land Rover",
+                "uk": "Land Rover",
+                "ru": "Land Rover",
+                "zh": "路虎"
+              },
+              "okres produkcji": {
+                "pl": "od 1989",
+                "en": "from 1989",
+                "de": "von 1989",
+                "uk": "1989 року випуску",
+                "ru": "1989 года выпуска",
+                "zh": "1989 年"
+              },
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний позашляховик",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型 SUV"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3o/s2/ofh1qns44kc8w0sg0skwo/discovery-iv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 79,
+        "ModelID": 413262,
+        "Brand Name": "Land Rover",
+        "Model Name": "Discovery",
+        "Serie Name": "Discovery 2",
+        "Years": "1998 - 2004",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "4.0L - 4.6L V8 / 2.5L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Land Rover Discovery to wszechstronny rodzinny SUV, który nie boi się trudnego terenu. Oferuje komfort dla 7 osób.",
+              "en": "Land Rover Discovery is a versatile family SUV that is not afraid of difficult terrain. It offers comfort for 7 people.",
+              "de": "Land Rover Discovery ist ein vielseitiger Familien-SUV, der auch vor schwierigem Gelände keine Angst hat. Es bietet Komfort für 7 Personen.",
+              "uk": "Land Rover Discovery — це універсальний сімейний позашляховик, якому не страшна складна місцевість. Комфорт для 7 осіб.",
+              "ru": "Land Rover Discovery — универсальный семейный внедорожник, не боящийся труднопроходимой местности. Он предлагает комфорт для 7 человек.",
+              "zh": "路虎发现是一款不畏艰难地形的多功能家庭 SUV。它可为 7 人提供舒适的住宿体验。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Land Rover",
+                "en": "Land Rover",
+                "de": "Land Rover",
+                "uk": "Land Rover",
+                "ru": "Land Rover",
+                "zh": "路虎"
+              },
+              "okres produkcji": {
+                "pl": "od 1989",
+                "en": "from 1989",
+                "de": "von 1989",
+                "uk": "1989 року випуску",
+                "ru": "1989 года выпуска",
+                "zh": "1989 年"
+              },
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний позашляховик",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型 SUV"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3o/s2/ofh1qns44kc8w0sg0skwo/discovery-iv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 79,
+        "ModelID": 413263,
+        "Brand Name": "Land Rover",
+        "Model Name": "Discovery",
+        "Serie Name": "Discovery 3 (LR3)",
+        "Years": "2004 - 2009",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "4.0L V6 / 4.4L V8 / 2.7L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Land Rover Discovery to wszechstronny rodzinny SUV, który nie boi się trudnego terenu. Oferuje komfort dla 7 osób.",
+              "en": "Land Rover Discovery is a versatile family SUV that is not afraid of difficult terrain. It offers comfort for 7 people.",
+              "de": "Land Rover Discovery ist ein vielseitiger Familien-SUV, der auch vor schwierigem Gelände keine Angst hat. Es bietet Komfort für 7 Personen.",
+              "uk": "Land Rover Discovery — це універсальний сімейний позашляховик, якому не страшна складна місцевість. Комфорт для 7 осіб.",
+              "ru": "Land Rover Discovery — универсальный семейный внедорожник, не боящийся труднопроходимой местности. Он предлагает комфорт для 7 человек.",
+              "zh": "路虎发现是一款不畏艰难地形的多功能家庭 SUV。它可为 7 人提供舒适的住宿体验。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Land Rover",
+                "en": "Land Rover",
+                "de": "Land Rover",
+                "uk": "Land Rover",
+                "ru": "Land Rover",
+                "zh": "路虎"
+              },
+              "okres produkcji": {
+                "pl": "od 1989",
+                "en": "from 1989",
+                "de": "von 1989",
+                "uk": "1989 року випуску",
+                "ru": "1989 года выпуска",
+                "zh": "1989 年"
+              },
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний позашляховик",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型 SUV"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3o/s2/ofh1qns44kc8w0sg0skwo/discovery-iv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 79,
+        "ModelID": 413264,
+        "Brand Name": "Land Rover",
+        "Model Name": "Discovery",
+        "Serie Name": "Discovery 4 (LR4)",
+        "Years": "2009 - 2016",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.0L V6 / 5.0L V8 / 2.7L - 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Land Rover Discovery to wszechstronny rodzinny SUV, który nie boi się trudnego terenu. Oferuje komfort dla 7 osób.",
+              "en": "Land Rover Discovery is a versatile family SUV that is not afraid of difficult terrain. It offers comfort for 7 people.",
+              "de": "Land Rover Discovery ist ein vielseitiger Familien-SUV, der auch vor schwierigem Gelände keine Angst hat. Es bietet Komfort für 7 Personen.",
+              "uk": "Land Rover Discovery — це універсальний сімейний позашляховик, якому не страшна складна місцевість. Комфорт для 7 осіб.",
+              "ru": "Land Rover Discovery — универсальный семейный внедорожник, не боящийся труднопроходимой местности. Он предлагает комфорт для 7 человек.",
+              "zh": "路虎发现是一款不畏艰难地形的多功能家庭 SUV。它可为 7 人提供舒适的住宿体验。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Land Rover",
+                "en": "Land Rover",
+                "de": "Land Rover",
+                "uk": "Land Rover",
+                "ru": "Land Rover",
+                "zh": "路虎"
+              },
+              "okres produkcji": {
+                "pl": "od 1989",
+                "en": "from 1989",
+                "de": "ab 1989",
+                "uk": "1989 р.",
+                "ru": "1989 г.",
+                "zh": "1989 年起"
+              },
+              "segment": {
+                "pl": "Mid-size SUV",
+                "en": "Mid-size SUV",
+                "de": "Mittelklasse-SUV",
+                "uk": "Середньорозмірний позашляховик",
+                "ru": "Среднеразмерный внедорожник",
+                "zh": "中型 SUV"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3o/s2/ofh1qns44kc8w0sg0skwo/discovery-iv.310.jpg"
+        }
+      },
+      {
+        "BrandID": 79,
+        "ModelID": 413265,
+        "Brand Name": "Land Rover",
+        "Model Name": "Discovery",
+        "Serie Name": "Discovery 5",
+        "Years": "2017 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L Turbo / 3.0L V6 / 2.0L - 3.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Land Rover Discovery to najbardziej wszechstronny model marki. Łączy ogromną dzielność w terenie z komfortem 7-osobowej limuzyny rodzinnej. Kolejne generacje ewoluowały od surowych kształtów do aerodynamicznej formy.",
+              "en": "Land Rover Discovery is the brand's most versatile model. It combines great off-road capability with the comfort of a 7-seater family limousine. Subsequent generations evolved from raw shapes to an aerodynamic form.",
+              "de": "Der Land Rover Discovery ist das vielseitigste Modell der Marke. Er vereint hervorragende Geländegängigkeit mit dem Komfort einer 7-Sitzer-Familienlimousine. Nachfolgende Generationen entwickelten sich von rohen Formen zu einer aerodynamischen Form.",
+              "uk": "Land Rover Discovery — найуніверсальніша модель бренду. Він поєднує в собі чудову прохідність із комфортом 7-місного сімейного лімузина. Наступні покоління еволюціонували від грубих форм до аеродинамічних.",
+              "ru": "Land Rover Discovery – самая универсальная модель бренда. Он сочетает в себе отличные внедорожные качества с комфортом 7-местного семейного лимузина. Последующие поколения эволюционировали от грубых форм к аэродинамической форме.",
+              "zh": "路虎发现是该品牌用途最广泛的车型。它结合了强大的越野能力和 7 座家庭豪华轿车的舒适性。随后的几代产品从原始形状演变为空气动力学形式。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Land Rover",
+                "en": "Land Rover",
+                "de": "Land Rover",
+                "uk": "Land Rover",
+                "ru": "Land Rover",
+                "zh": "Land Rover"
+              },
+              "okres produkcji": {
+                "pl": "od 1989",
+                "en": "from 1989",
+                "de": "ab 1989",
+                "uk": "з 1989 року",
+                "ru": "1989 г.",
+                "zh": "1989 年"
+              },
+              "segment": {
+                "pl": "E-SUV"
+              },
+              "napęd": {
+                "pl": "4WD / AWD",
+                "en": "4WD / AWD",
+                "de": "4WD / AWD",
+                "uk": "4WD / AWD",
+                "ru": "4WD/AWD",
+                "zh": "4WD / AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3o/s2/ofh1qns44kc8w0sg0skwo/discovery-iv.310.jpg"
+        }
+      }
+    ],
+    "Discovery Sport": [
+      {
+        "BrandID": 79,
+        "ModelID": 415542,
+        "Brand Name": "Land Rover",
+        "Model Name": "Discovery Sport",
+        "Serie Name": "Discovery Sport",
+        "Years": "2014 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact Luxury SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "2.0L Turbo / 2.0L - 2.2L Diesel / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Land Rover Discovery Sport to mniejszy, bardziej dynamiczny brat Discovery, który zastąpił model Freelander. Oferuje luksusowe wnętrze i opcjonalny trzeci rząd siedzeń w kompaktowym nadwoziu.",
+              "en": "Land Rover Discovery Sport is the smaller, more dynamic brother of the Discovery, which replaced the Freelander model. It offers a luxurious interior and an optional third row of seats in a compact body.",
+              "de": "Land Rover Discovery Sport ist der kleinere, dynamischere Bruder des Discovery, der das Freelander-Modell ablöste. Er bietet einen luxuriösen Innenraum und optional eine dritte Sitzreihe in einer kompakten Karosserie.",
+              "uk": "Land Rover Discovery Sport — це менший, більш динамічний брат Discovery, який замінив модель Freelander. Він пропонує розкішний інтер’єр і опціональний третій ряд сидінь у компактному корпусі.",
+              "ru": "Land Rover Discovery Sport — меньший и более динамичный брат Discovery, пришедший на смену модели Freelander. Он предлагает роскошный салон и опциональный третий ряд сидений в компактном кузове.",
+              "zh": "Land Rover Discovery Sport 是 Discovery 的更小、更动态的兄弟，它取代了 Freelander 车型。它在紧凑的车身中提供了豪华的内饰和可选的第三排座椅。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "JLR"
+              },
+              "okres produkcji": {
+                "pl": "od 2014",
+                "en": "from 2014",
+                "de": "ab 2014",
+                "uk": "з 2014 року",
+                "ru": "2014 г.",
+                "zh": "2014 年起"
+              },
+              "segment": {
+                "pl": "Compact Luxury SUV",
+                "en": "Compact Luxury SUV",
+                "de": "Kompakter Luxus-SUV",
+                "uk": "Компактний розкішний позашляховик",
+                "ru": "Компактный роскошный внедорожник",
+                "zh": "紧凑型豪华 SUV"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Freelander": [
+      {
+        "BrandID": 79,
+        "ModelID": 35848,
+        "Brand Name": "Land Rover",
+        "Model Name": "Freelander",
+        "Serie Name": "Freelander 1",
+        "Years": "1997 - 2006",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "1.8L / 2.5L V6 / 2.0L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Land Rover to brytyjska ikona samochodów terenowych i luksusowych SUV-ów. Od surowego Defendera po arystokratycznego Range Rovera.",
+              "en": "Land Rover is a British icon of off-road vehicles and luxury SUVs. From the raw Defender to the aristocratic Range Rover.",
+              "de": "Land Rover ist eine britische Ikone der Geländewagen und Luxus-SUVs. Vom rohen Defender bis zum aristokratischen Range Rover.",
+              "uk": "Land Rover — британська ікона позашляховиків і розкішних позашляховиків. Від сирого Defender до аристократичного Range Rover.",
+              "ru": "Land Rover — британский символ внедорожников и роскошных внедорожников. От грубого Defender до аристократического Range Rover.",
+              "zh": "路虎 (Land Rover) 是英国越野车和豪华 SUV 的标志。从原始的卫士到贵族的路虎揽胜。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "JLR"
+              },
+              "siedziba": {
+                "pl": "Coventry, UK",
+                "en": "Coventry, UK",
+                "de": "Coventry, Großbritannien",
+                "uk": "Ковентрі, Великобританія",
+                "ru": "Ковентри, Великобритания",
+                "zh": "英国考文垂"
+              },
+              "założona": "1948"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9y/iv/vf7jg9sgsc0ssgkos0ks0/freelander-ii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 79,
+        "ModelID": 166197,
+        "Brand Name": "Land Rover",
+        "Model Name": "Freelander",
+        "Serie Name": "Freelander 2 (LR2)",
+        "Years": "2006 - 2015",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Compact SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L Turbo / 3.2L I6 / 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Land Rover Freelander to model, który wprowadził markę do segmentu kompaktowych SUV-ów. Ceniony za zwinność w mieście i zaskakująco dobrą dzielność w terenie dzięki systemowi Terrain Response.",
+              "en": "Land Rover Freelander is the model that introduced the brand to the compact SUV segment. Appreciated for its agility in the city and surprisingly good off-road performance thanks to the Terrain Response system.",
+              "de": "Der Land Rover Freelander ist das Modell, mit dem die Marke in das Segment der kompakten SUV eingeführt wurde. Geschätzt für seine Agilität in der Stadt und seine überraschend gute Geländeleistung dank des Terrain Response-Systems.",
+              "uk": "Land Rover Freelander — це модель, яка ввела бренд у сегмент компактних SUV. Його цінують за маневреність у місті та напрочуд хороші характеристики на бездоріжжі завдяки системі Terrain Response.",
+              "ru": "Land Rover Freelander — модель, которая представила бренд в сегменте компактных внедорожников. Ценится за маневренность в городе и удивительно хорошие характеристики на бездорожье благодаря системе Terrain Response.",
+              "zh": "路虎神行者是将该品牌引入紧凑型 SUV 细分市场的车型。由于地形响应系统，其在城市中的敏捷性和令人惊讶的良好越野性能受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Land Rover",
+                "en": "Land Rover",
+                "de": "Land Rover",
+                "uk": "Land Rover",
+                "ru": "Land Rover",
+                "zh": "路虎"
+              },
+              "okres produkcji": "1997–2015",
+              "segment": {
+                "pl": "Compact SUV",
+                "en": "Compact SUV",
+                "de": "Kompakt-SUV",
+                "uk": "Компактний позашляховик",
+                "ru": "Компактный внедорожник",
+                "zh": "紧凑型SUV"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/9y/iv/vf7jg9sgsc0ssgkos0ks0/freelander-ii.310.jpg"
+        }
+      }
+    ],
+    "Range Rover": [
+      {
+        "BrandID": 79,
+        "ModelID": 413266,
+        "Brand Name": "Land Rover",
+        "Model Name": "Range Rover",
+        "Serie Name": "Range Rover Classic",
+        "Years": "1970 - 1996",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size Luxury SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "3.5L - 4.2L V8 / 2.4L - 2.5L Diesel",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Range Rover to pionier luksusowych SUV-ów. Łączy komfort limuzyny z możliwościami terenowymi czołgu.",
+              "en": "Range Rover is the pioneer of luxury SUVs. It combines the comfort of a limousine with the off-road capabilities of a tank.",
+              "de": "Range Rover ist der Pionier der Luxus-SUVs. Es vereint den Komfort einer Limousine mit der Geländetauglichkeit eines Panzers.",
+              "uk": "Range Rover є піонером розкішних позашляховиків. Він поєднує в собі комфорт лімузина з позашляховими можливостями танка.",
+              "ru": "Range Rover — пионер роскошных внедорожников. Он сочетает в себе комфорт лимузина с внедорожными возможностями танка.",
+              "zh": "路虎揽胜是豪华SUV 的先驱。它结合了豪华轿车的舒适性和坦克的越野能力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Land Rover",
+                "en": "Land Rover",
+                "de": "Land Rover",
+                "uk": "Land Rover",
+                "ru": "Land Rover",
+                "zh": "路虎"
+              },
+              "okres produkcji": {
+                "pl": "od 1970",
+                "en": "since 1970",
+                "de": "seit 1970",
+                "uk": "з 1970 року",
+                "ru": "с 1970 года.",
+                "zh": "始于 1970 年"
+              },
+              "segment": {
+                "pl": "Full-size Luxury SUV",
+                "en": "Full-size Luxury SUV",
+                "de": "Oberklasse-Luxus-SUV",
+                "uk": "Повнорозмірний розкішний позашляховик",
+                "ru": "Полноразмерный роскошный внедорожник.",
+                "zh": "全尺寸豪华 SUV"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5l/ko/svo7omkog80gwsc448s80/range-rover-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 79,
+        "ModelID": 413267,
+        "Brand Name": "Land Rover",
+        "Model Name": "Range Rover",
+        "Serie Name": "Range Rover P38A",
+        "Years": "1994 - 2002",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size Luxury SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "4.0L - 4.6L V8 / 2.5L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Range Rover to pionier luksusowych SUV-ów. Łączy komfort limuzyny z możliwościami terenowymi czołgu.",
+              "en": "Range Rover is the pioneer of luxury SUVs. It combines the comfort of a limousine with the off-road capabilities of a tank.",
+              "de": "Range Rover ist der Pionier der Luxus-SUVs. Es vereint den Komfort einer Limousine mit der Geländetauglichkeit eines Panzers.",
+              "uk": "Range Rover є піонером розкішних позашляховиків. Він поєднує в собі комфорт лімузина з позашляховими можливостями танка.",
+              "ru": "Range Rover — пионер роскошных внедорожников. Он сочетает в себе комфорт лимузина с внедорожными возможностями танка.",
+              "zh": "路虎揽胜是豪华 SUV 的先驱。它结合了豪华轿车的舒适性和坦克的越野能力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Land Rover",
+                "en": "Land Rover",
+                "de": "Land Rover",
+                "uk": "Land Rover",
+                "ru": "Land Rover",
+                "zh": "路虎"
+              },
+              "okres produkcji": {
+                "pl": "od 1970",
+                "en": "since 1970",
+                "de": "seit 1970",
+                "uk": "з 1970 року",
+                "ru": "с 1970 года.",
+                "zh": "始于 1970 年"
+              },
+              "segment": {
+                "pl": "Full-size Luxury SUV",
+                "en": "Full-size Luxury SUV",
+                "de": "Oberklasse-Luxus-SUV",
+                "uk": "Повнорозмірний розкішний позашляховик",
+                "ru": "Полноразмерный роскошный внедорожник.",
+                "zh": "全尺寸豪华 SUV"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5l/ko/svo7omkog80gwsc448s80/range-rover-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 79,
+        "ModelID": 413268,
+        "Brand Name": "Land Rover",
+        "Model Name": "Range Rover",
+        "Serie Name": "Range Rover L322",
+        "Years": "2002 - 2012",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size Luxury SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "4.2L - 5.0L V8 / 3.0L - 4.4L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Range Rover to pionier luksusowych SUV-ów. Łączy komfort limuzyny z możliwościami terenowymi czołgu.",
+              "en": "Range Rover is the pioneer of luxury SUVs. It combines the comfort of a limousine with the off-road capabilities of a tank.",
+              "de": "Range Rover ist der Pionier der Luxus-SUVs. Es vereint den Komfort einer Limousine mit der Geländetauglichkeit eines Panzers.",
+              "uk": "Range Rover є піонером розкішних позашляховиків. Він поєднує в собі комфорт лімузина з позашляховими можливостями танка.",
+              "ru": "Range Rover — пионер роскошных внедорожников. Он сочетает в себе комфорт лимузина с внедорожными возможностями танка.",
+              "zh": "路虎揽胜是豪华 SUV 的先驱。它结合了豪华轿车的舒适性和坦克的越野能力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Land Rover",
+                "en": "Land Rover",
+                "de": "Land Rover",
+                "uk": "Land Rover",
+                "ru": "Land Rover",
+                "zh": "路虎"
+              },
+              "okres produkcji": {
+                "pl": "od 1970",
+                "en": "since 1970",
+                "de": "seit 1970",
+                "uk": "з 1970 року",
+                "ru": "с 1970 года.",
+                "zh": "始于 1970 年"
+              },
+              "segment": {
+                "pl": "Full-size Luxury SUV",
+                "en": "Full-size Luxury SUV",
+                "de": "Oberklasse-Luxus-SUV",
+                "uk": "Повнорозмірний розкішний позашляховик",
+                "ru": "Полноразмерный роскошный внедорожник.",
+                "zh": "全尺寸豪华 SUV"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5l/ko/svo7omkog80gwsc448s80/range-rover-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 79,
+        "ModelID": 413269,
+        "Brand Name": "Land Rover",
+        "Model Name": "Range Rover",
+        "Serie Name": "Range Rover L405",
+        "Years": "2012 - 2021",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size Luxury SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "3.0L V6 / 5.0L V8 / 3.0L - 4.4L Diesel / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Range Rover to pionier luksusowych SUV-ów. Łączy komfort limuzyny z możliwościami terenowymi czołgu.",
+              "en": "Range Rover is the pioneer of luxury SUVs. It combines the comfort of a limousine with the off-road capabilities of a tank.",
+              "de": "Range Rover ist der Pionier der Luxus-SUVs. Es vereint den Komfort einer Limousine mit der Geländetauglichkeit eines Panzers.",
+              "uk": "Range Rover є піонером розкішних позашляховиків. Він поєднує в собі комфорт лімузина з позашляховими можливостями танка.",
+              "ru": "Range Rover — пионер роскошных внедорожников. Он сочетает в себе комфорт лимузина с внедорожными возможностями танка.",
+              "zh": "路虎揽胜是豪华 SUV 的先驱。它结合了豪华轿车的舒适性和坦克的越野能力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Land Rover",
+                "en": "Land Rover",
+                "de": "Land Rover",
+                "uk": "Land Rover",
+                "ru": "Land Rover",
+                "zh": "路虎"
+              },
+              "okres produkcji": {
+                "pl": "od 1970",
+                "en": "since 1970",
+                "de": "seit 1970",
+                "uk": "з 1970 року",
+                "ru": "с 1970 года.",
+                "zh": "始于 1970 年"
+              },
+              "segment": {
+                "pl": "Full-size Luxury SUV",
+                "en": "Full-size Luxury SUV",
+                "de": "Oberklasse-Luxus-SUV",
+                "uk": "Повнорозмірний розкішний позашляховик",
+                "ru": "Полноразмерный роскошный внедорожник",
+                "zh": "全尺寸豪华 SUV"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5l/ko/svo7omkog80gwsc448s80/range-rover-iii.310.jpg"
+        }
+      },
+      {
+        "BrandID": 79,
+        "ModelID": 416624,
+        "Brand Name": "Land Rover",
+        "Model Name": "Range Rover",
+        "Serie Name": "Range Rover L460",
+        "Years": "2022 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Full-size Luxury SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "3.0L I6 / 4.4L V8 / 3.0L Diesel / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Range Rover to pionier luksusowych SUV-ów. Łączy komfort limuzyny z możliwościami terenowymi czołgu.",
+              "en": "Range Rover is the pioneer of luxury SUVs. It combines the comfort of a limousine with the off-road capabilities of a tank.",
+              "de": "Range Rover ist der Pionier der Luxus-SUVs. Es vereint den Komfort einer Limousine mit der Geländetauglichkeit eines Panzers.",
+              "uk": "Range Rover є піонером розкішних позашляховиків. Він поєднує в собі комфорт лімузина з позашляховими можливостями танка.",
+              "ru": "Range Rover — пионер роскошных внедорожников. Он сочетает в себе комфорт лимузина с внедорожными возможностями танка.",
+              "zh": "路虎揽胜是豪华 SUV 的先驱。它结合了豪华轿车的舒适性和坦克的越野能力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "Land Rover",
+                "en": "Land Rover",
+                "de": "Land Rover",
+                "uk": "Land Rover",
+                "ru": "Land Rover",
+                "zh": "路虎"
+              },
+              "okres produkcji": {
+                "pl": "od 1970",
+                "en": "from 1970",
+                "de": "von 1970",
+                "uk": "1970 року",
+                "ru": "1970 года.",
+                "zh": "1970 年"
+              },
+              "segment": {
+                "pl": "Full-size Luxury SUV",
+                "en": "Full-size Luxury SUV",
+                "de": "Luxus-SUV in Originalgröße",
+                "uk": "Повнорозмірний розкішний позашляховик",
+                "ru": "Полноразмерный роскошный внедорожник.",
+                "zh": "全尺寸豪华 SUV"
+              },
+              "napęd": {
+                "pl": "4WD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/5l/ko/svo7omkog80gwsc448s80/range-rover-iii.310.jpg"
+        }
+      }
+    ],
+    "Range Rover Sport": [
+      {
+        "BrandID": 79,
+        "ModelID": 413270,
+        "Brand Name": "Land Rover",
+        "Model Name": "Range Rover Sport",
+        "Serie Name": "Range Rover Sport L320",
+        "Years": "2005 - 2013",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "4.2L - 5.0L V8 / 2.7L - 3.6L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Land Rover to brytyjska ikona samochodów terenowych i luksusowych SUV-ów. Od surowego Defendera po arystokratycznego Range Rovera.",
+              "en": "Land Rover is a British icon of off-road vehicles and luxury SUVs. From the raw Defender to the aristocratic Range Rover.",
+              "de": "Land Rover ist eine britische Ikone der Geländewagen und Luxus-SUVs. Vom rohen Defender bis zum aristokratischen Range Rover.",
+              "uk": "Land Rover — британська ікона позашляховиків і розкішних позашляховиків. Від сирого Defender до аристократичного Range Rover.",
+              "ru": "Land Rover — британский символ внедорожников и роскошных внедорожников. От грубого Defender до аристократического Range Rover.",
+              "zh": "路虎是英国越野车和豪华 SUV 的标志。从原始的卫士到贵族的路虎揽胜。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "JLR"
+              },
+              "siedziba": {
+                "pl": "Coventry, UK",
+                "en": "Coventry, UK",
+                "de": "Coventry, Großbritannien",
+                "uk": "Ковентрі, Великобританія",
+                "ru": "Ковентри, Великобритания",
+                "zh": "英国考文垂"
+              },
+              "założona": "1948"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3j/a5/4km5iz28kco0kgk8kkggo/land-rover-range-rover-sport.310.jpg"
+        }
+      },
+      {
+        "BrandID": 79,
+        "ModelID": 413271,
+        "Brand Name": "Land Rover",
+        "Model Name": "Range Rover Sport",
+        "Serie Name": "Range Rover Sport L494",
+        "Years": "2013 - 2022",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "4WD",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "3.0L V6 / 5.0L V8 / 3.0L - 4.4L Diesel / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Land Rover to brytyjska ikona samochodów terenowych i luksusowych SUV-ów. Od surowego Defendera po arystokratycznego Range Rovera.",
+              "en": "Land Rover is a British icon of off-road vehicles and luxury SUVs. From the raw Defender to the aristocratic Range Rover.",
+              "de": "Land Rover ist eine britische Ikone für Geländefahrzeuge und Luxus-SUVs. Vom rohen Defender bis zum aristokratischen Range Rover.",
+              "uk": "Land Rover — британська ікона позашляховиків і розкішних позашляховиків. Від сирого Defender до аристократичного Range Rover.",
+              "ru": "Land Rover — британский символ внедорожников и роскошных внедорожников. От грубого Defender до аристократического Range Rover.",
+              "zh": "路虎是英国越野车和豪华 SUV 的标志。从原始的卫士到贵族的路虎揽胜。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "JLR"
+              },
+              "siedziba": {
+                "pl": "Coventry, UK",
+                "en": "Coventry, UK",
+                "de": "Coventry, Großbritannien",
+                "uk": "Ковентрі, Великобританія",
+                "ru": "Ковентри, Великобритания",
+                "zh": "英国考文垂"
+              },
+              "założona": "1948"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3j/a5/4km5iz28kco0kgk8kkggo/land-rover-range-rover-sport.310.jpg"
+        }
+      },
+      {
+        "BrandID": 79,
+        "ModelID": 416625,
+        "Brand Name": "Land Rover",
+        "Model Name": "Range Rover Sport",
+        "Serie Name": "Range Rover Sport L461",
+        "Years": "2022 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "3.0L I6 / 4.4L V8 / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "safety": {
+            "nhtsa": {
+              "overall": "Not Rated",
+              "frontal": "Not Rated",
+              "side": "Not Rated",
+              "rollover": "Not Rated"
+            }
+          },
+          "wiki": {
+            "description": {
+              "pl": "Range Rover Sport to bardziej dynamiczna i nastawiona na kierowcę wersja flagowego modelu. Oferuje niesamowite osiągi na asfalcie, nie tracąc nic z legendarnej dzielności Land Rovera w terenie.",
+              "en": "Range Rover Sport is a more dynamic and driver-oriented version of the flagship model. It offers incredible performance on asphalt without losing any of Land Rover's legendary off-road prowess.",
+              "de": "Range Rover Sport ist eine dynamischere und fahrerorientiertere Version des Flaggschiffmodells. Es bietet eine unglaubliche Leistung auf Asphalt, ohne die legendären Offroad-Fähigkeiten von Land Rover einzubüßen.",
+              "uk": "Range Rover Sport — це більш динамічна та орієнтована на водія версія флагманської моделі. Він забезпечує неймовірну продуктивність на асфальті, не втрачаючи при цьому легендарних позашляхових здібностей Land Rover.",
+              "ru": "Range Rover Sport — более динамичная и ориентированная на водителя версия флагманской модели. Он демонстрирует невероятные характеристики на асфальте, не теряя при этом легендарных внедорожных качеств Land Rover.",
+              "zh": "路虎揽胜运动版是旗舰车型的更具动感和以驾驶者为导向的版本。它在沥青路面上提供令人难以置信的性能，同时又不失路虎传奇的越野能力。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "JLR"
+              },
+              "okres produkcji": {
+                "pl": "od 2005",
+                "en": "from 2005",
+                "de": "ab 2005",
+                "uk": "з 2005 року",
+                "ru": "с 2005 года.",
+                "zh": "2005 年起"
+              },
+              "segment": {
+                "pl": "E-SUV (Premium)",
+                "en": "E-SUV (Premium)",
+                "de": "E-SUV (Premium)",
+                "uk": "E-SUV (преміум)",
+                "ru": "E-SUV (Премиум)",
+                "zh": "E-SUV（高级）"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3j/a5/4km5iz28kco0kgk8kkggo/land-rover-range-rover-sport.310.jpg"
+        }
+      }
+    ],
+    "Range Rover Evoque": [
+      {
+        "BrandID": 79,
+        "ModelID": 413739,
+        "Brand Name": "Land Rover",
+        "Model Name": "Range Rover Evoque",
+        "Serie Name": "Evoque L538",
+        "Years": "2011 - 2018",
+        "specs": {
+          "bodyType": "SUV/Convertible",
+          "segment": "Subcompact Luxury SUV",
+          "drive": "FWD/AWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "2.0L Turbo / 2.2L Diesel",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Land Rover to brytyjska ikona samochodów terenowych i luksusowych SUV-ów. Od surowego Defendera po arystokratycznego Range Rovera.",
+              "en": "Land Rover is a British icon of off-road vehicles and luxury SUVs. From the raw Defender to the aristocratic Range Rover.",
+              "de": "Land Rover ist eine britische Ikone der Geländewagen und Luxus-SUVs. Vom rohen Defender bis zum aristokratischen Range Rover.",
+              "uk": "Land Rover — британська ікона позашляховиків і розкішних позашляховиків. Від сирого Defender до аристократичного Range Rover.",
+              "ru": "Land Rover — британский символ внедорожников и роскошных внедорожников. От грубого Defender до аристократического Range Rover.",
+              "zh": "路虎是英国越野车和豪华 SUV 的标志。从原始的卫士到贵族的路虎揽胜。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "JLR"
+              },
+              "siedziba": {
+                "pl": "Coventry, UK",
+                "en": "Coventry, UK",
+                "de": "Coventry, Großbritannien",
+                "uk": "Ковентрі, Великобританія",
+                "ru": "Ковентри, Великобритания",
+                "zh": "英国考文垂"
+              },
+              "założona": "1948"
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3z/6c/awv63vokkoccgogw4g0w/range-rover-evoque.310.jpg"
+        }
+      },
+      {
+        "BrandID": 79,
+        "ModelID": 416278,
+        "Brand Name": "Land Rover",
+        "Model Name": "Range Rover Evoque",
+        "Serie Name": "Evoque L551",
+        "Years": "2018 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Subcompact Luxury SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "2.0L Turbo / 2.0L Diesel / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Range Rover Evoque to designerski przełom, który zrewolucjonizował postrzeganie marki. Mały, luksusowy i niezwykle stylowy crossover, idealnie odnajdujący się w wielkim mieście.",
+              "en": "Range Rover Evoque is a design breakthrough that revolutionized the perception of the brand. A small, luxurious and extremely stylish crossover, perfect for a big city.",
+              "de": "Der Range Rover Evoque ist ein Designdurchbruch, der die Wahrnehmung der Marke revolutioniert hat. Ein kleiner, luxuriöser und äußerst stilvoller Crossover, perfekt für eine Großstadt.",
+              "uk": "Range Rover Evoque — це дизайнерський прорив, який кардинально змінив уявлення про бренд. Маленький, розкішний і надзвичайно стильний кросовер, ідеальний для великого міста.",
+              "ru": "Range Rover Evoque — это дизайнерский прорыв, который произвел революцию в восприятии бренда. Маленький, роскошный и чрезвычайно стильный кроссовер, идеально подходящий для большого города.",
+              "zh": "Range Rover Evoque 是一项设计突破，彻底改变了品牌的认知。一款小型、豪华且极其时尚的跨界车，非常适合大城市。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "JLR"
+              },
+              "okres produkcji": {
+                "pl": "od 2011",
+                "en": "from 2011",
+                "de": "ab 2011",
+                "uk": "з 2011 року",
+                "ru": "с 2011 года.",
+                "zh": "2011 年起"
+              },
+              "segment": {
+                "pl": "C-SUV (Premium)",
+                "en": "C-SUV (Premium)",
+                "de": "C-SUV (Premium)",
+                "uk": "C-SUV (преміум)",
+                "ru": "C-SUV (Premium)",
+                "zh": "C-SUV（高级）"
+              },
+              "napęd": {
+                "pl": "FWD / AWD",
+                "en": "FWD / AWD",
+                "de": "FWD / AWD",
+                "uk": "FWD / AWD",
+                "ru": "FWD/AWD",
+                "zh": "FWD / AWD"
+              }
+            }
+          },
+          "motofaktyImage": "https://d-mf.ppstatic.pl/art/3z/6c/awv63vokkoccgogw4g0w/range-rover-evoque.310.jpg"
+        }
+      }
+    ],
+    "Range Rover Velar": [
+      {
+        "BrandID": 79,
+        "ModelID": 413940,
+        "Brand Name": "Land Rover",
+        "Model Name": "Range Rover Velar",
+        "Serie Name": "Range Rover Velar",
+        "Years": "2017 - 3000",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "Mid-size Luxury SUV",
+          "drive": "AWD",
+          "fuel": "Gasoline/Diesel/PHEV",
+          "engine": "2.0L Turbo / 3.0L V6 / 5.0L V8 / 2.0L - 3.0L Diesel / PHEV",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Range Rover Velar to najbardziej opływowy i technokratyczny model w gamie. Wypełnia lukę między Evoque a Range Roverem Sport, oferując minimalistyczny design i najwyższy komfort.",
+              "en": "Range Rover Velar is the most streamlined and technocratic model in the range. It fills the gap between the Evoque and the Range Rover Sport, offering minimalist design and supreme comfort.",
+              "de": "Der Range Rover Velar ist das stromlinienförmigste und technokratischste Modell der Reihe. Er schließt die Lücke zwischen dem Evoque und dem Range Rover Sport und bietet minimalistisches Design und höchsten Komfort.",
+              "uk": "Range Rover Velar — це найбільш обтічна та технократична модель у лінійці. Він заповнює прогалину між Evoque і Range Rover Sport, пропонуючи мінімалістичний дизайн і неперевершений комфорт.",
+              "ru": "Range Rover Velar — самая обтекаемая и технократичная модель в линейке. Он заполняет пробел между Evoque и Range Rover Sport, предлагая минималистичный дизайн и высочайший комфорт.",
+              "zh": "路虎揽胜星脉 (Range Rover Velar) 是该系列中最精简、技术最精湛的车型。它填补了极光和路虎揽胜运动版之间的空白，提供简约的设计和极致的舒适度。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "JLR"
+              },
+              "okres produkcji": {
+                "pl": "od 2017",
+                "en": "from 2017",
+                "de": "ab 2017",
+                "uk": "з 2017",
+                "ru": "от 2017 г.",
+                "zh": "2017 年起"
+              },
+              "segment": {
+                "pl": "D-SUV (Premium)",
+                "en": "D-SUV (Premium)",
+                "de": "D-SUV (Premium)",
+                "uk": "D-SUV (Преміум)",
+                "ru": "D-SUV (Премиум)",
+                "zh": "D-SUV（高级）"
+              },
+              "napęd": {
+                "pl": "AWD"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

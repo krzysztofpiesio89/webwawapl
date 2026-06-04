@@ -1,0 +1,64 @@
+datasource db {
+  provider = "sqlite"
+}
+
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["driverAdapters"]
+}
+
+model Brand {
+  id     Int     @id @default(autoincrement())
+  name   String  @unique
+  models Model[]
+}
+
+model Model {
+  id      Int      @id @default(autoincrement())
+  name    String
+  brand   Brand    @relation(fields: [brandId], references: [id])
+  brandId Int
+  series  Series[]
+
+  @@unique([name, brandId])
+}
+
+model Series {
+  id      Int    @id @default(autoincrement())
+  name    String
+  years   String
+  model   Model  @relation(fields: [modelId], references: [id])
+  modelId Int
+}
+
+model City {
+  id   Int    @id @default(autoincrement())
+  name String @unique
+  slug String @unique
+}
+
+model GlobalSettings {
+  id          String   @id @default("settings")
+  companyName String
+  nip         String
+  krs         String
+  regon       String
+  address     String
+  phone       String
+  email       String
+  updatedAt   DateTime @updatedAt
+}
+
+model QuoteRequest {
+  id          Int      @id @default(autoincrement())
+  brandModel  String
+  year        String?
+  engine      String?
+  price       String?
+  city        String?
+  phone       String
+  email       String
+  description String?
+  imagesCount Int      @default(0)
+  createdAt   DateTime @default(now())
+}

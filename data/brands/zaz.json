@@ -1,0 +1,569 @@
+{
+  "brand": "ЗАЗ",
+  "models": {
+    "965": [
+      {
+        "BrandID": 169,
+        "ModelID": "",
+        "Brand Name": "ЗАЗ",
+        "Model Name": 965,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "ZAZ 965 Zaporożec to kultowy radziecki samochód, wzorowany na Fiacie 600. Popularnie zwany 'Garbusem'.",
+              "en": "ZAZ 965 Zaporozhets is an iconic Soviet car, modeled on the Fiat 600. Popularly known as the 'Beetle'.",
+              "de": "Der ZAZ 965 Zaporozhets ist ein ikonisches sowjetisches Auto, das dem Fiat 600 nachempfunden ist. Im Volksmund auch als „Käfer“ bekannt.",
+              "uk": "ЗАЗ 965 «Запорожець» — культовий радянський автомобіль, створений за зразком Fiat 600. У народі відомий як «Жук».",
+              "ru": "ЗАЗ 965 «Запорожец» — культовый советский автомобиль, созданный на базе Fiat 600. В народе известен как «Жук».",
+              "zh": "ZAZ 965 Zaporozhets 是一款标志性的苏联汽车，以菲亚特 600 为蓝本。俗称“甲壳虫”。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "ZAZ"
+              },
+              "okres produkcji": "1960–1969",
+              "silnik": {
+                "pl": "0.7L V4 / 0.9L V4",
+                "en": "0.7L V4 / 0.9L V4",
+                "de": "0,7L V4 / 0,9L V4",
+                "uk": "0.7L V4 / 0.9L V4",
+                "ru": "0,7 л V4 / 0,9 л V4",
+                "zh": "0.7升V4 / 0.9升V4"
+              },
+              "napęd": {
+                "pl": "RWD (silnik z tyłu)",
+                "en": "RWD (rear engine)",
+                "de": "RWD (Heckmotor)",
+                "uk": "RWD (задній двигун)",
+                "ru": "RWD (задний двигатель)",
+                "zh": "RWD（后置发动机）"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 169,
+        "ModelID": 1875,
+        "Brand Name": "ЗАЗ",
+        "Model Name": 965,
+        "Serie Name": 965,
+        "Years": "1970 - 2000",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "ZAZ 965 Zaporożec to kultowy radziecki samochód, wzorowany na Fiacie 600. Popularnie zwany 'Garbusem'.",
+              "en": "ZAZ 965 Zaporozhets is a cult Soviet car, modeled on the Fiat 600. Popularly known as the 'Beetle'.",
+              "de": "ZAZ 965 Zaporozhets ist ein sowjetisches Kultauto, das dem Fiat 600 nachempfunden ist. Im Volksmund als „Käfer“ bekannt.",
+              "uk": "ЗАЗ 965 Запорожець — культовий радянський автомобіль, створений за зразком Fiat 600. У народі відомий як «Жук».",
+              "ru": "ЗАЗ 965 «Запорожец» — культовый советский автомобиль, созданный на базе Fiat 600. В народе известен как «Жук».",
+              "zh": "ZAZ 965 Zaporozhets 是一款标志性的苏联汽车，以菲亚特 600 为蓝本。俗称“甲壳虫”。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "ZAZ"
+              },
+              "okres produkcji": "1960–1969",
+              "silnik": {
+                "pl": "0.7L V4 / 0.9L V4",
+                "en": "0.7L V4 / 0.9L V4",
+                "de": "0,7L V4 / 0,9L V4",
+                "uk": "0.7L V4 / 0.9L V4",
+                "ru": "0,7 л V4 / 0,9 л V4",
+                "zh": "0.7升V4 / 0.9升V4"
+              },
+              "napęd": {
+                "pl": "RWD (silnik z tyłu)",
+                "en": "RWD (rear engine)",
+                "de": "RWD (Heckmotor)",
+                "uk": "RWD (двигун ззаду)",
+                "ru": "RWD (задний двигатель)",
+                "zh": "RWD（后置发动机）"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "968": [
+      {
+        "BrandID": 169,
+        "ModelID": "",
+        "Brand Name": "ЗАЗ",
+        "Model Name": 968,
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "ZAZ 968 Zaporożec to następca modelu 965, znany z charakterystycznych wlotów powietrza ('uszu'). Samochód ludowy ZSRR.",
+              "en": "ZAZ 968 Zaporozhets is the successor of the 965 model, known for its characteristic air intakes ('ears'). People's car of the USSR.",
+              "de": "ZAZ 968 Zaporozhets ist der Nachfolger des Modells 965, das für seine charakteristischen Lufteinlässe („Ohren“) bekannt ist. Volksauto der UdSSR.",
+              "uk": "ЗАЗ 968 Запорожець є наступником моделі 965, відомої своїми характерними повітрозабірниками («вушками»). Народний автомобіль СРСР.",
+              "ru": "ЗАЗ 968 «Запорожец» является преемником модели 965, известной своими характерными воздухозаборниками («ушками»). Народный автомобиль СССР.",
+              "zh": "ZAZ 968 Zaporozhets 是 965 车型的后继车型，以其独特的进气口（“耳朵”）而闻名。苏联人民的汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "ZAZ"
+              },
+              "okres produkcji": "1971–1994",
+              "silnik": {
+                "pl": "1.2L V4",
+                "en": "1.2L V4",
+                "de": "1,2 l V4",
+                "uk": "1.2L V4",
+                "ru": "1,2 л V4",
+                "zh": "1.2升V4"
+              },
+              "napęd": {
+                "pl": "RWD (silnik z tyłu)",
+                "en": "RWD (rear engine)",
+                "de": "RWD (Heckmotor)",
+                "uk": "RWD (двигун ззаду)",
+                "ru": "RWD (задний двигатель)",
+                "zh": "RWD（后置发动机）"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 169,
+        "ModelID": 1877,
+        "Brand Name": "ЗАЗ",
+        "Model Name": 968,
+        "Serie Name": 968,
+        "Years": "1970 - 2000",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "ZAZ 968 Zaporożec to następca modelu 965, znany z charakterystycznych wlotów powietrza ('uszu'). Samochód ludowy ZSRR.",
+              "en": "ZAZ 968 Zaporozhets is the successor of the 965 model, known for its characteristic air intakes ('ears'). People's car of the USSR.",
+              "de": "ZAZ 968 Zaporozhets ist der Nachfolger des Modells 965, das für seine charakteristischen Lufteinlässe („Ohren“) bekannt ist. Volksauto der UdSSR.",
+              "uk": "ЗАЗ 968 Запорожець є наступником моделі 965, відомої своїми характерними повітрозабірниками («вушками»). Народний автомобіль СРСР.",
+              "ru": "ЗАЗ 968 «Запорожец» является преемником модели 965, известной своими характерными воздухозаборниками («ушками»). Народный автомобиль СССР.",
+              "zh": "ZAZ 968 Zaporozhets 是 965 车型的后继车型，以其独特的进气口（“耳朵”）而闻名。苏联人民的汽车。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "ZAZ"
+              },
+              "okres produkcji": "1971–1994",
+              "silnik": {
+                "pl": "1.2L V4",
+                "en": "1.2L V4",
+                "de": "1,2 l V4",
+                "uk": "1.2L V4",
+                "ru": "1,2 л V4",
+                "zh": "1.2升V4"
+              },
+              "napęd": {
+                "pl": "RWD (silnik z tyłu)",
+                "en": "RWD (rear engine)",
+                "de": "RWD (Heckmotor)",
+                "uk": "RWD (задній двигун)",
+                "ru": "RWD (задний двигатель)",
+                "zh": "RWD（后置发动机）"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "": [
+      {
+        "BrandID": 169,
+        "ModelID": "",
+        "Brand Name": "ЗАЗ",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "1103 Славута": [
+      {
+        "BrandID": 169,
+        "ModelID": "",
+        "Brand Name": "ЗАЗ",
+        "Model Name": "1103 Славута",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "ZAZ-1103 Slavuta to pięciodrzwiowy liftback o prostej i ekonomicznej konstrukcji, będący rozwinięciem Tavrii. Przez lata był jednym z najtańszych nowych samochodów dostępnych na rynku wschodnim.",
+              "en": "ZAZ-1103 Slavuta is a five-door liftback with a simple and economical design, a development of the Tavria. For years, it was one of the cheapest new cars available on the eastern market.",
+              "de": "ZAZ-1103 Slavuta ist ein fünftüriger Liftback mit einfachem und wirtschaftlichem Design, eine Weiterentwicklung des Tavria. Er gehörte jahrelang zu den günstigsten Neuwagen auf dem Ostmarkt.",
+              "uk": "ЗАЗ-1103 Славута - п'ятидверний ліфтбек з простою і економною конструкцією, розробка Таврії. Протягом багатьох років це був один із найдешевших нових автомобілів на східному ринку.",
+              "ru": "ЗАЗ-1103 Славута — пятидверный лифтбек с простой и экономичной конструкцией, развитие Таврии. В течение многих лет это был один из самых дешевых новых автомобилей, доступных на восточном рынке.",
+              "zh": "ZAZ-1103 Slavuta 是一款五门掀背车，设计简单且经济，是 Tavria 的开发产品。多年来，它一直是东部市场上最便宜的新车之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "ZAZ"
+              },
+              "okres produkcji": "1999–2011",
+              "nadwozie": {
+                "pl": "Liftback"
+              },
+              "silnik": {
+                "pl": "1.1L - 1.3L MeMZ",
+                "en": "1.1L - 1.3L MeMZ",
+                "de": "1.1L – 1.3L MeMZ",
+                "uk": "1.1L - 1.3L МеМЗ",
+                "ru": "1,1л - 1,3л МеМЗ",
+                "zh": "1.1L - 1.3L MeMZ"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 169,
+        "ModelID": 1872,
+        "Brand Name": "ЗАЗ",
+        "Model Name": "1103 Славута",
+        "Serie Name": "1103 Славута",
+        "Years": "1970 - 2000",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "ZAZ-1103 Slavuta to pięciodrzwiowy liftback o prostej i ekonomicznej konstrukcji, będący rozwinięciem Tavrii. Przez lata był jednym z najtańszych nowych samochodów dostępnych na rynku wschodnim.",
+              "en": "ZAZ-1103 Slavuta is a five-door liftback with a simple and economical design, a development of the Tavria. For years, it was one of the cheapest new cars available on the eastern market.",
+              "de": "ZAZ-1103 Slavuta ist ein fünftüriger Liftback mit einfachem und wirtschaftlichem Design, eine Weiterentwicklung des Tavria. Er gehörte jahrelang zu den günstigsten Neuwagen auf dem Ostmarkt.",
+              "uk": "ЗАЗ-1103 Славута - п'ятидверний ліфтбек з простим і економічним дизайном, розробка Таврії. Протягом багатьох років це був один із найдешевших нових автомобілів на східному ринку.",
+              "ru": "ЗАЗ-1103 Славута — пятидверный лифтбек с простой и экономичной конструкцией, развитие Таврии. В течение многих лет это был один из самых дешевых новых автомобилей, доступных на восточном рынке.",
+              "zh": "ZAZ-1103 Slavuta 是一款五门掀背车，设计简单且经济，是 Tavria 的开发产品。多年来，它一直是东部市场上最便宜的新车之一。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "ZAZ"
+              },
+              "okres produkcji": "1999–2011",
+              "nadwozie": {
+                "pl": "Liftback"
+              },
+              "silnik": {
+                "pl": "1.1L - 1.3L MeMZ",
+                "en": "1.1L - 1.3L MeMZ",
+                "de": "1.1L – 1.3L MeMZ",
+                "uk": "1.1L - 1.3L MeMZ",
+                "ru": "1,1л - 1,3л МеМЗ",
+                "zh": "1.1L - 1.3L MeMZ"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Forza": [
+      {
+        "BrandID": 169,
+        "ModelID": "",
+        "Brand Name": "ЗАЗ",
+        "Model Name": "Forza",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "ZAZ Forza to licencyjna wersja chińskiego Chery A13 Amulet, montowana na Ukrainie.",
+              "en": "ZAZ Forza is a licensed version of the Chinese Chery A13 Amulet, assembled in Ukraine.",
+              "de": "ZAZ Forza ist eine lizenzierte Version des chinesischen Chery A13 Amulet, montiert in der Ukraine.",
+              "uk": "ZAZ Forza — ліцензійна версія китайського Chery A13 Amulet, що збирається в Україні.",
+              "ru": "ЗАЗ Forza — лицензионная версия китайского Chery A13 Amulet, собранная в Украине.",
+              "zh": "ZAZ Forza 是中国奇瑞 A13 Amulet 的授权版本，在乌克兰组装。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "ZAZ"
+              },
+              "okres produkcji": {
+                "pl": "od 2011",
+                "en": "from 2011",
+                "de": "von 2011",
+                "uk": "з 2011 року",
+                "ru": "с 2011 года",
+                "zh": "自2011年起"
+              },
+              "silnik": {
+                "pl": "1.5L"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 169,
+        "ModelID": 1878,
+        "Brand Name": "ЗАЗ",
+        "Model Name": "Forza",
+        "Serie Name": "Forza",
+        "Years": "2011 - 2014",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "ZAZ Forza to licencyjna wersja chińskiego Chery A13 Amulet, montowana na Ukrainie.",
+              "en": "ZAZ Forza is a licensed version of the Chinese Chery A13 Amulet, assembled in Ukraine.",
+              "de": "ZAZ Forza ist eine lizenzierte Version des chinesischen Chery A13 Amulet, montiert in der Ukraine.",
+              "uk": "ЗАЗ Форза — ліцензійна версія китайського Chery A13 Amulet, збірка України.",
+              "ru": "ЗАЗ Forza — лицензионная версия китайского Chery A13 Amulet, собранная в Украине.",
+              "zh": "ZAZ Forza 是中国奇瑞 A13 Amulet 的授权版本，在乌克兰组装。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "ZAZ"
+              },
+              "okres produkcji": {
+                "pl": "od 2011",
+                "en": "from 2011",
+                "de": "ab 2011",
+                "uk": "з 2011 року",
+                "ru": "с 2011 года",
+                "zh": "自2011年起"
+              },
+              "silnik": {
+                "pl": "1.5L"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Sens": [
+      {
+        "BrandID": 169,
+        "ModelID": "",
+        "Brand Name": "ЗАЗ",
+        "Model Name": "Sens",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "ZAZ Sens to ukraińska wersja Daewoo Lanosa, wyposażona w silniki produkcji Melitopol (MeMZ).",
+              "en": "ZAZ Sens is a Ukrainian version of Daewoo Lanos, equipped with engines manufactured by Melitopol (MeMZ).",
+              "de": "ZAZ Sens ist eine ukrainische Version des Daewoo Lanos, ausgestattet mit Motoren von Melitopol (MeMZ).",
+              "uk": "ЗАЗ Сенс — українська версія Daewoo Lanos, оснащена двигунами Мелітопольського виробництва (МеМЗ).",
+              "ru": "ЗАЗ Сенс — украинская версия Daewoo Lanos, оснащенная двигателями производства Мелитополя (МеМЗ).",
+              "zh": "ZAZ Sens 是大宇 Lanos 的乌克兰版本，配备 Melitopol (MeMZ) 制造的发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "ZAZ"
+              },
+              "okres produkcji": {
+                "pl": "od 2000",
+                "en": "from 2000",
+                "de": "ab 2000",
+                "uk": "з 2000 р.",
+                "ru": "с 2000 года",
+                "zh": "自2000年以来"
+              },
+              "silnik": {
+                "pl": "1.3L / 1.4L",
+                "en": "1.3L / 1.4L",
+                "de": "1,3L / 1,4L",
+                "uk": "1.3L / 1.4L",
+                "ru": "1,3 л/1,4 л",
+                "zh": "1.3升/1.4升"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 169,
+        "ModelID": 1880,
+        "Brand Name": "ЗАЗ",
+        "Model Name": "Sens",
+        "Serie Name": "Sens",
+        "Years": "2000 - 3000",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "ZAZ Sens to ukraińska wersja Daewoo Lanosa, wyposażona w silniki produkcji Melitopol (MeMZ).",
+              "en": "ZAZ Sens is a Ukrainian version of Daewoo Lanos, equipped with engines manufactured by Melitopol (MeMZ).",
+              "de": "ZAZ Sens ist eine ukrainische Version von Daewoo Lanos, ausgestattet mit Motoren von Melitopol (MeMZ).",
+              "uk": "ЗАЗ Сенс — українська версія Daewoo Lanos, оснащена двигунами Мелітопольського виробництва (МеМЗ).",
+              "ru": "ЗАЗ Сенс — украинская версия Daewoo Lanos, оснащенная двигателями производства Мелитополя (МеМЗ).",
+              "zh": "ZAZ Sens 是大宇 Lanos 的乌克兰版本，配备 Melitopol (MeMZ) 制造的发动机。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "ZAZ"
+              },
+              "okres produkcji": {
+                "pl": "od 2000",
+                "en": "since 2000",
+                "de": "seit 2000",
+                "uk": "з 2000 року",
+                "ru": "с 2000 года",
+                "zh": "自2000年以来"
+              },
+              "silnik": {
+                "pl": "1.3L / 1.4L",
+                "en": "1.3L / 1.4L",
+                "de": "1.3L / 1.4L",
+                "uk": "1.3L / 1.4L",
+                "ru": "1,3 л/1,4 л",
+                "zh": "1.3L / 1.4L"
+              },
+              "napęd": {
+                "pl": "FWD"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Lanos": [
+      {
+        "BrandID": 169,
+        "ModelID": 1879,
+        "Brand Name": "ЗАЗ",
+        "Model Name": "Sens",
+        "Serie Name": "Lanos",
+        "Years": "1997 - 3000",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "ZAZ Lanos (później produkowany jako ZAZ Chance) to ukraińska wersja jednego z najpopularniejszych samochodów w Europie Środkowo-Wschodniej. Ceniony za tanią eksploatację, prostotę napraw i solidną konstrukcję Daewoo.",
+              "en": "ZAZ Lanos (later produced as ZAZ Chance) is the Ukrainian version of one of the most popular cars in Central and Eastern Europe. Appreciated for cheap operation, simplicity of repairs and solid Daewoo construction.",
+              "de": "ZAZ Lanos (später produziert als ZAZ Chance) ist die ukrainische Version eines der beliebtesten Autos in Mittel- und Osteuropa. Geschätzt für seinen günstigen Betrieb, die einfache Reparatur und die solide Daewoo-Konstruktion.",
+              "uk": "ЗАЗ Ланос (згодом випускався як ЗАЗ Шанс) – українська версія одного з найпопулярніших автомобілів у Центральній та Східній Європі. Цінують за дешевизну в експлуатації, простоту ремонту і міцну конструкцію Daewoo.",
+              "ru": "ЗАЗ Lanos (позже выпускавшийся как ЗАЗ Chance) — украинская версия одного из самых популярных автомобилей в Центральной и Восточной Европе. Daewoo ценят за дешевизну эксплуатации, простоту ремонта и прочную конструкцию.",
+              "zh": "ZAZ Lanos（后来生产为 ZAZ Chance）是中欧和东欧最受欢迎的汽车之一的乌克兰版本。因其廉价的操作、简单的维修和坚固的大宇结构而受到赞赏。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "ZAZ"
+              },
+              "okres produkcji": "1997–2017",
+              "segment": {
+                "pl": "B / C",
+                "en": "B / C",
+                "de": "B / C",
+                "uk": "Б/К",
+                "ru": "Б/К",
+                "zh": "B / C"
+              },
+              "pochodzenie": {
+                "pl": "Daewoo Lanos",
+                "en": "Daewoo Lanos",
+                "de": "Daewoo Lanos",
+                "uk": "Daewoo Lanos",
+                "ru": "Дэу Ланос",
+                "zh": "Daewoo Lanos"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Таврия": [
+      {
+        "BrandID": 169,
+        "ModelID": "",
+        "Brand Name": "ЗАЗ",
+        "Model Name": "Таврия",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "ZAZ-1102 Tavria to pierwszy ukraiński samochód z napędem na przednią oś. Nowoczesna w chwili debiutu sylwetka hatchbacka i niskie koszty utrzymania uczyniły z niej fundament zmotoryzowania niepodległej Ukrainy.",
+              "en": "ZAZ-1102 Tavria is the first Ukrainian car with front-wheel drive. The hatchback's modern silhouette at the time of its debut and low maintenance costs made it the foundation of motorization in independent Ukraine.",
+              "de": "ZAZ-1102 Tavria ist das erste ukrainische Auto mit Frontantrieb. Die moderne Silhouette des Fließheckmodells zum Zeitpunkt seines Debüts und die geringen Wartungskosten machten es zum Grundstein der Motorisierung in der unabhängigen Ukraine.",
+              "uk": "ЗАЗ-1102 Таврія — перший український автомобіль з переднім приводом. Сучасний на момент дебюту силует хетчбека та низькі витрати на обслуговування зробили його основою автомобілізації незалежної України.",
+              "ru": "ЗАЗ-1102 «Таврия» — первый украинский автомобиль с передним приводом. Современный силуэт хэтчбека на момент его дебюта и низкие затраты на обслуживание сделали его основой автомобилизации в независимой Украине.",
+              "zh": "ZAZ-1102 Tavria 是乌克兰第一辆前轮驱动汽车。这款掀背车首次亮相时的现代轮廓和较低的维护成本使其成为独立乌克兰机动化的基础。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "ZAZ"
+              },
+              "okres produkcji": "1987–2007",
+              "nadwozie": {
+                "pl": "Hatchback"
+              },
+              "cecha": {
+                "pl": "Przedni napęd",
+                "en": "Front-wheel drive",
+                "de": "Frontantrieb",
+                "uk": "Передньопривідний",
+                "ru": "Передний привод",
+                "zh": "前轮驱动"
+              }
+            }
+          }
+        }
+      },
+      {
+        "BrandID": 169,
+        "ModelID": 1871,
+        "Brand Name": "ЗАЗ",
+        "Model Name": "Таврия",
+        "Serie Name": "Таврия",
+        "Years": "1970 - 2000",
+        "specs": {
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "ZAZ-1102 Tavria to pierwszy ukraiński samochód z napędem na przednią oś. Nowoczesna w chwili debiutu sylwetka hatchbacka i niskie koszty utrzymania uczyniły z niej fundament zmotoryzowania niepodległej Ukrainy.",
+              "en": "ZAZ-1102 Tavria is the first Ukrainian car with front-wheel drive. The hatchback's modern silhouette at the time of its debut and low maintenance costs made it the foundation of motorization in independent Ukraine.",
+              "de": "ZAZ-1102 Tavria ist das erste ukrainische Auto mit Frontantrieb. Die moderne Silhouette des Fließheckmodells zum Zeitpunkt seines Debüts und die geringen Wartungskosten machten es zum Grundstein der Motorisierung in der unabhängigen Ukraine.",
+              "uk": "ЗАЗ-1102 Таврія — перший український автомобіль з переднім приводом. Сучасний на момент дебюту силует хетчбека та низькі витрати на обслуговування зробили його основою автомобілізації незалежної України.",
+              "ru": "ЗАЗ-1102 «Таврия» — первый украинский автомобиль с передним приводом. Современный силуэт хэтчбека на момент его дебюта и низкие затраты на обслуживание сделали его основой автомобилизации в независимой Украине.",
+              "zh": "ZAZ-1102 Tavria 是乌克兰第一辆前轮驱动汽车。这款掀背车首次亮相时的现代轮廓和较低的维护成本使其成为独立乌克兰机动化的基础。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "ZAZ"
+              },
+              "okres produkcji": "1987–2007",
+              "nadwozie": {
+                "pl": "Hatchback"
+              },
+              "cecha": {
+                "pl": "Przedni napęd",
+                "en": "Front drive",
+                "de": "Frontantrieb",
+                "uk": "Передній привід",
+                "ru": "Передний привод",
+                "zh": "前驱动"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "brand": "BYD",
+  "models": {
+    "": [
+      {
+        "BrandID": 225,
+        "ModelID": "",
+        "Brand Name": "BYD",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gate_of_BYD_Company.jpg/1280px-Gate_of_BYD_Company.jpg",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gate_of_BYD_Company.jpg/1280px-Gate_of_BYD_Company.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/BaByliss_for_Men_T47_-_battery_BYD_Rechargeable_AAA-92292.jpg/1280px-BaByliss_for_Men_T47_-_battery_BYD_Rechargeable_AAA-92292.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/%E5%81%9C%E9%9D%A0%E5%9C%A8%E5%9D%AA%E5%B1%B1%E4%B8%AD%E5%BF%83%E7%AB%99%E7%9A%84%E5%9D%AA%E5%B1%B1%E4%BA%91%E5%B7%B4%E5%88%97%E8%BD%A6_%2820220924%29.jpg/1280px-%E5%81%9C%E9%9D%A0%E5%9C%A8%E5%9D%AA%E5%B1%B1%E4%B8%AD%E5%BF%83%E7%AB%99%E7%9A%84%E5%9D%AA%E5%B1%B1%E4%BA%91%E5%B7%B4%E5%88%97%E8%BD%A6_%2820220924%29.jpg",
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Keolis_Syntus_AllGo_BYD_K9U_6304_15-04-2022_%282%29.jpg/1280px-Keolis_Syntus_AllGo_BYD_K9U_6304_15-04-2022_%282%29.jpg"
+            ]
+          }
+        }
+      }
+    ],
+    "E6": [
+      {
+        "BrandID": 225,
+        "ModelID": 416338,
+        "Brand Name": "BYD",
+        "Model Name": "E6",
+        "Serie Name": "E6",
+        "Years": "2011 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "BYD e6 to elektryczny crossover, znany z ogromnego zasięgu i niezawodności. Popularny wybór flot taksówkarskich na całym świecie.",
+              "en": "BYD e6 is an electric crossover, known for its huge range and reliability. A popular choice for taxi fleets around the world.",
+              "de": "BYD e6 ist ein elektrischer Crossover, der für seine große Reichweite und Zuverlässigkeit bekannt ist. Eine beliebte Wahl für Taxiflotten auf der ganzen Welt.",
+              "uk": "BYD e6 – електричний кросовер, відомий своїм величезним запасом ходу та надійністю. Популярний вибір для парків таксі по всьому світу.",
+              "ru": "BYD e6 — электрический кроссовер, известный своим огромным запасом хода и надежностью. Популярный выбор для таксопарков по всему миру.",
+              "zh": "比亚迪 e6 是一款电动跨界车，以其广阔的续航里程和可靠性而闻名。世界各地出租车队的热门选择。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "BYD Auto",
+                "en": "BYD Auto",
+                "de": "BYD Auto",
+                "uk": "BYD Авто",
+                "ru": "БИД Авто",
+                "zh": "比亚迪汽车"
+              },
+              "okres produkcji": {
+                "pl": "od 2011",
+                "en": "since 2011",
+                "de": "seit 2011",
+                "uk": "з 2011 року",
+                "ru": "с 2011 года",
+                "zh": "2011 年生产"
+              },
+              "miejsce produkcji": {
+                "pl": "Shenzhen, Chiny",
+                "en": "Shenzhen, China",
+                "de": "Shenzhen, China",
+                "uk": "Шеньчжень, Китай",
+                "ru": "Шэньчжэнь, Китай",
+                "zh": "中国深圳"
+              },
+              "typ": {
+                "pl": "Elektryczny MPV/Crossover",
+                "en": "Electric MPV/Crossover",
+                "de": "Elektrischer MPV/Crossover",
+                "uk": "Електричний MPV/кросовер",
+                "ru": "Электрический минивэн/кроссовер",
+                "zh": "电动 MPV/跨界车"
+              },
+              "silnik": {
+                "pl": "Electric",
+                "en": "Electric",
+                "de": "Electric",
+                "uk": "Electric",
+                "ru": "Electric"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "F0": [
+      {
+        "BrandID": 225,
+        "ModelID": 416340,
+        "Brand Name": "BYD",
+        "Model Name": "F0",
+        "Serie Name": "F0",
+        "Years": "2008 - 2011",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "BYD F0 to miejski samochód segmentu A, inspirowany Toyotą Aygo. Tani, zwinny i ekonomiczny.",
+              "en": "BYD F0 is an A-segment city car, inspired by the Toyota Aygo. Cheap, agile and economical.",
+              "de": "BYD F0 ist ein Stadtauto im A-Segment, inspiriert vom Toyota Aygo. Günstig, wendig und wirtschaftlich.",
+              "uk": "BYD F0 — це міський автомобіль сегмента А, натхненний Toyota Aygo. Дешево, маневрено та економно.",
+              "ru": "BYD F0 — городской автомобиль А-сегмента, вдохновленный Toyota Aygo. Дешево, маневренно и экономично.",
+              "zh": "比亚迪 F0 是一款 A 级城市汽车，灵感源自丰田 Aygo。便宜、灵活且经济。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "BYD Auto",
+                "en": "BYD Auto",
+                "de": "BYD Auto",
+                "uk": "BYD Авто",
+                "ru": "БИД Авто",
+                "zh": "比亚迪汽车"
+              },
+              "okres produkcji": {
+                "pl": "2008–2015",
+                "en": "2008–2015",
+                "de": "2008–2015",
+                "uk": "2008–2015",
+                "ru": "2008–2015"
+              },
+              "miejsce produkcji": {
+                "pl": "Shenzhen, Chiny",
+                "en": "Shenzhen, China",
+                "de": "Shenzhen, China",
+                "uk": "Шеньчжень, Китай",
+                "ru": "Шэньчжэнь, Китай",
+                "zh": "中国深圳"
+              },
+              "typ": {
+                "pl": "Hatchback",
+                "en": "Hatchback",
+                "de": "Hatchback",
+                "uk": "Hatchback",
+                "ru": "Hatchback"
+              },
+              "silnik": {
+                "pl": "1.0L R3",
+                "en": "1.0L R3",
+                "de": "1,0 l R3",
+                "uk": "1,0 л R3",
+                "ru": "1,0 л Р3",
+                "zh": "1.0L R3"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "F3": [
+      {
+        "BrandID": 225,
+        "ModelID": 416336,
+        "Brand Name": "BYD",
+        "Model Name": "F3",
+        "Serie Name": "F3",
+        "Years": "2005 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "BYD F3 to jeden z najlepiej sprzedających się sedanów w Chinach. Prosta konstrukcja i niska cena.",
+              "en": "BYD F3 is one of the best-selling sedans in China. Simple design and low price.",
+              "de": "BYD F3 ist eine der meistverkauften Limousinen in China. Einfaches Design und niedriger Preis.",
+              "uk": "BYD F3 є одним з найбільш продаваних седанів у Китаї. Простий дизайн і низька ціна.",
+              "ru": "BYD F3 — один из самых продаваемых седанов в Китае. Простой дизайн и низкая цена.",
+              "zh": "比亚迪 F3 是中国最畅销的轿车之一。设计简单，价格低廉。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "BYD Auto",
+                "en": "BYD Auto",
+                "de": "BYD Auto",
+                "uk": "BYD Авто",
+                "ru": "БИД Авто",
+                "zh": "比亚迪汽车"
+              },
+              "okres produkcji": {
+                "pl": "od 2005",
+                "en": "since 2005",
+                "de": "seit 2005",
+                "uk": "з 2005 року",
+                "ru": "с 2005 года",
+                "zh": "2005 年生产"
+              },
+              "miejsce produkcji": {
+                "pl": "Xi'an, Chiny",
+                "en": "Xi'an, China",
+                "de": "Xi'an, China",
+                "uk": "Сіань, Китай",
+                "ru": "Сиань, Китай",
+                "zh": "中国西安"
+              },
+              "typ": {
+                "pl": "Kompaktowy Sedan",
+                "en": "Compact Sedan",
+                "de": "Kompakte Limousine",
+                "uk": "Компактний седан",
+                "ru": "Компактный седан",
+                "zh": "紧凑型轿车"
+              },
+              "silnik": {
+                "pl": "1.5L / 1.6L",
+                "en": "1.5L / 1.6L",
+                "de": "1,5 l / 1,6 l",
+                "uk": "1,5 л / 1,6 л",
+                "ru": "1,5 л/1,6 л",
+                "zh": "1.5L / 1.6L"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "Song EV": [
+      {
+        "BrandID": 225,
+        "ModelID": 416342,
+        "Brand Name": "BYD",
+        "Model Name": "Song EV",
+        "Serie Name": "Song EV",
+        "Years": "2016 - 3000",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "BYD Song EV to nowoczesny elektryczny SUV należący do serii 'Dynasty'. Oferuje duży zasięg i bogate wyposażenie.",
+              "en": "BYD Song EV is a modern electric SUV belonging to the 'Dynasty' series. It offers a large range and extensive equipment.",
+              "de": "BYD Song EV ist ein modernes Elektro-SUV der „Dynasty“-Reihe. Es bietet ein großes Sortiment und eine umfangreiche Ausstattung.",
+              "uk": "BYD Song EV — сучасний електричний позашляховик серії «Династія». Він пропонує великий асортимент і широке оснащення.",
+              "ru": "BYD Song EV — современный электрический внедорожник серии Dynasty. Он предлагает большой ассортимент и обширное оборудование.",
+              "zh": "比亚迪宋 EV 是一款属于“王朝”系列的现代电动 SUV。它提供种类繁多且广泛的设备。"
+            },
+            "infobox": {
+              "producent": {
+                "pl": "BYD Auto",
+                "en": "BYD Auto",
+                "de": "BYD Auto",
+                "uk": "BYD Авто",
+                "ru": "БИД Авто",
+                "zh": "比亚迪汽车"
+              },
+              "okres produkcji": {
+                "pl": "od 2015",
+                "en": "since 2015",
+                "de": "seit 2015",
+                "uk": "з 2015 року",
+                "ru": "с 2015 года",
+                "zh": "2015 年起"
+              },
+              "miejsce produkcji": {
+                "pl": "Shenzhen, Chiny",
+                "en": "Shenzhen, China",
+                "de": "Shenzhen, China",
+                "uk": "Шеньчжень, Китай",
+                "ru": "Шэньчжэнь, Китай",
+                "zh": "中国深圳"
+              },
+              "platforma": {
+                "pl": "BYD e-Platform",
+                "en": "BYD e-Platform",
+                "de": "BYD e-Plattform",
+                "uk": "Електронна платформа BYD",
+                "ru": "Электронная платформа BYD",
+                "zh": "比亚迪电子平台"
+              },
+              "silnik": {
+                "pl": "Electric",
+                "en": "Electric",
+                "de": "Electric",
+                "uk": "Electric",
+                "ru": "Electric"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

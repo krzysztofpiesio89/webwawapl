@@ -1,0 +1,100 @@
+{
+  "brand": "CF Moto",
+  "models": {
+    "CForce": [
+      {
+        "BrandID": 209,
+        "ModelID": 416230,
+        "Brand Name": "CF Moto",
+        "Model Name": "CForce",
+        "Serie Name": "CForce 400/500/600/800/1000",
+        "Years": "2015 - 3000",
+        "specs": {
+          "bodyType": "ATV",
+          "segment": "Off-Road",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "400cc - 1000cc V-Twin/Single",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle"
+        }
+      }
+    ],
+    "UForce": [
+      {
+        "BrandID": 209,
+        "ModelID": 416231,
+        "Brand Name": "CF Moto",
+        "Model Name": "UForce",
+        "Serie Name": "UForce 500/800/1000",
+        "Years": "2015 - 3000",
+        "specs": {
+          "bodyType": "UTV",
+          "segment": "Off-Road",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "500cc - 1000cc V-Twin",
+          "isOldtimer": false,
+          "vehicleType": "Passenger"
+        }
+      }
+    ],
+    "ZForce": [
+      {
+        "BrandID": 209,
+        "ModelID": 416232,
+        "Brand Name": "CF Moto",
+        "Model Name": "ZForce",
+        "Serie Name": "ZForce 500/800/950/1000",
+        "Years": "2015 - 3000",
+        "specs": {
+          "bodyType": "UTV Sport",
+          "segment": "Off-Road",
+          "drive": "AWD",
+          "fuel": "Gasoline",
+          "engine": "500cc - 1000cc V-Twin",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle"
+        }
+      }
+    ],
+    "NK": [
+      {
+        "BrandID": 209,
+        "ModelID": 416233,
+        "Brand Name": "CF Moto",
+        "Model Name": "NK",
+        "Serie Name": "300NK / 400NK / 650NK",
+        "Years": "2015 - 3000",
+        "specs": {
+          "bodyType": "Naked Bike",
+          "segment": "Motorcycle",
+          "drive": "Chain",
+          "fuel": "Gasoline",
+          "engine": "300cc - 650cc Parallel-Twin",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle"
+        }
+      }
+    ],
+    "MT": [
+      {
+        "BrandID": 209,
+        "ModelID": 416234,
+        "Brand Name": "CF Moto",
+        "Model Name": "MT",
+        "Serie Name": "650MT / 800MT",
+        "Years": "2017 - 3000",
+        "specs": {
+          "bodyType": "Adventure Tourer",
+          "segment": "Motorcycle",
+          "drive": "Chain",
+          "fuel": "Gasoline",
+          "engine": "650cc - 800cc Parallel-Twin",
+          "isOldtimer": false,
+          "vehicleType": "Motorcycle"
+        }
+      }
+    ]
+  }
+}

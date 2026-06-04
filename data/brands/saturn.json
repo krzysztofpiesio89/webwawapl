@@ -1,0 +1,150 @@
+{
+  "brand": "Saturn",
+  "models": {
+    "": [
+      {
+        "BrandID": 115,
+        "ModelID": "",
+        "Brand Name": "Saturn",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Saturn to innowacyjna marka GM (1985-2010), znana z paneli nadwozia odpornych na wgniecenia i przyjaznego podejścia do klienta.",
+              "en": "Saturn is an innovative GM brand (1985-2010), known for its dent-resistant body panels and customer-friendly approach.",
+              "de": "Saturn ist eine innovative GM-Marke (1985–2010), die für ihre verbeulungsfesten Karosserieteile und ihren kundenfreundlichen Ansatz bekannt ist.",
+              "uk": "Saturn — це інноваційний бренд GM (1985-2010), відомий своїми стійкими до вм’ятин панелями кузова та дружнім підходом до клієнтів.",
+              "ru": "Saturn — это инновационный бренд GM (1985–2010 гг.), известный своими устойчивыми к вмятинам кузовными панелями и дружелюбным подходом к клиенту.",
+              "zh": "Saturn 是一个创新的通用汽车品牌（1985-2010 年），以其防凹痕车身面板和客户友好的方式而闻名。"
+            }
+          }
+        }
+      }
+    ],
+    "SC": [
+      {
+        "BrandID": 115,
+        "ModelID": 1414,
+        "Brand Name": "Saturn",
+        "Model Name": "SC",
+        "Serie Name": "SC",
+        "Years": "1980 - 2019",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Saturn SC (Sports Coupe) to sportowe coupe oparte na platformie serii S, oferujące dobre właściwości jezdne i charakterystyczne otwierane reflektory (w 1. generacji).",
+              "en": "Saturn SC (Sports Coupe) is a sports coupe based on the S series platform, offering good driving characteristics and characteristic opening headlights (in the 1st generation).",
+              "de": "Saturn SC (Sports Coupe) ist ein Sportcoupé auf Basis der S-Serie-Plattform, das gute Fahreigenschaften und charakteristische sich öffnende Scheinwerfer (in der 1. Generation) bietet.",
+              "uk": "Saturn SC (Sports Coupe) — це спортивне купе на базі платформи серії S, яке пропонує хороші ходові якості та характерні фари, що відкриваються (у 1-му поколінні).",
+              "ru": "Saturn SC (Sports Coupe) — спортивное купе на платформе S-серии, предлагающее хорошие ходовые качества и характерные открывающиеся фары (в 1-м поколении).",
+              "zh": "Saturn SC（运动轿跑车）是一款基于S系列平台的运动轿跑车，具有良好的驾驶特性和特色的开放式大灯（第一代）。"
+            }
+          }
+        }
+      }
+    ],
+    "SL1": [
+      {
+        "BrandID": 115,
+        "ModelID": 415463,
+        "Brand Name": "Saturn",
+        "Model Name": "SL1",
+        "Serie Name": "SL1",
+        "Years": "1990 - 1995",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Saturn SL (Sedan Level) to kompaktowy sedan, który był filarem sprzedaży marki, ceniony za trwałość i niskie koszty eksploatacji.",
+              "en": "Saturn SL (Sedan Level) is a compact sedan that was the brand's sales pillar, valued for its durability and low operating costs.",
+              "de": "Saturn SL (Sedan Level) ist eine kompakte Limousine, die die Verkaufssäule der Marke darstellte und für ihre Langlebigkeit und niedrigen Betriebskosten geschätzt wurde.",
+              "uk": "Saturn SL (Sedan Level) — компактний седан, який був опорою продажів бренду, цінувався за свою довговічність і низькі експлуатаційні витрати.",
+              "ru": "Saturn SL (уровень седана) — компактный седан, который был основой продаж бренда и ценился за свою долговечность и низкие эксплуатационные расходы.",
+              "zh": "Saturn SL（轿车级）是一款紧凑型轿车，是该品牌的销售支柱，因其耐用性和低运营成本而受到重视。"
+            }
+          }
+        }
+      }
+    ],
+    "Sl2": [
+      {
+        "BrandID": 115,
+        "ModelID": 414343,
+        "Brand Name": "Saturn",
+        "Model Name": "Sl2",
+        "Serie Name": "Sl2",
+        "Years": "1990 - 2002",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": true,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Saturn SL2 to mocniejsza wersja sedana z silnikiem DOHC, oferująca lepsze osiągi przy zachowaniu ekonomii.",
+              "en": "The Saturn SL2 is a more powerful version of the sedan with a DOHC engine, offering better performance while maintaining economy.",
+              "de": "Der Saturn SL2 ist eine leistungsstärkere Version der Limousine mit DOHC-Motor und bietet bessere Leistung bei gleichzeitiger Wirtschaftlichkeit.",
+              "uk": "Saturn SL2 — це потужніша версія седана з двигуном DOHC, яка пропонує кращу продуктивність при збереженні економічності.",
+              "ru": "Saturn SL2 — это более мощная версия седана с двигателем DOHC, предлагающая лучшую производительность при сохранении экономичности.",
+              "zh": "Saturn SL2 是配备 DOHC 发动机的轿车的更强大版本，在保持经济性的同时提供更好的性能。"
+            }
+          }
+        }
+      }
+    ],
+    "Vue": [
+      {
+        "BrandID": 115,
+        "ModelID": 414341,
+        "Brand Name": "Saturn",
+        "Model Name": "Vue",
+        "Serie Name": "Vue",
+        "Years": "2001 - 2010",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Saturn Vue to kompaktowy SUV, który zdobył popularność dzięki praktyczności i dostępności wersji hybrydowej (Green Line).",
+              "en": "Saturn Vue is a compact SUV that gained popularity thanks to the practicality and availability of a hybrid version (Green Line).",
+              "de": "Saturn Vue ist ein kompakter SUV, der dank der Praktikabilität und Verfügbarkeit einer Hybridversion (Green Line) an Popularität gewonnen hat.",
+              "uk": "Saturn Vue — компактний позашляховик, який завоював популярність завдяки практичності та наявності гібридної версії (Green Line).",
+              "ru": "Saturn Vue – компактный внедорожник, получивший популярность благодаря практичности и наличию гибридной версии (Green Line).",
+              "zh": "Saturn Vue 是一款紧凑型 SUV，由于混合动力版（绿线）的实用性和可用性而广受欢迎。"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

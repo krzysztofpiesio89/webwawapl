@@ -1,0 +1,63 @@
+{
+  "brand": "Luxgen",
+  "models": {
+    "": [
+      {
+        "BrandID": 191,
+        "ModelID": "",
+        "Brand Name": "Luxgen",
+        "Model Name": "",
+        "Serie Name": "",
+        "Years": "",
+        "specs": {
+          "bodyType": "TBD",
+          "segment": "Mainstream",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Luxgen (Luxury & Genius) to tajwański producent samochodów, znany z zaawansowanych systemów multimedialnych i współpracy z HTC.",
+              "en": "Luxgen (Luxury & Genius) is a Taiwanese car manufacturer, known for its advanced multimedia systems and cooperation with HTC.",
+              "de": "Luxgen (Luxury & Genius) ist ein taiwanesischer Automobilhersteller, der für seine fortschrittlichen Multimediasysteme und die Zusammenarbeit mit HTC bekannt ist. Der",
+              "uk": "Luxgen (Luxury & Genius) — тайванський виробник автомобілів, відомий своїми передовими мультимедійними системами та співпрацею з HTC.",
+              "ru": "Luxgen (Luxury & Genius) — тайваньский производитель автомобилей, известный своими передовыми мультимедийными системами и сотрудничеством с HTC.",
+              "zh": "Luxgen（Luxury & Genius）是一家台湾汽车制造商，以其先进的多媒体系统以及与 HTC 的合作而闻名。"
+            }
+          }
+        }
+      }
+    ],
+    "7 SUV": [
+      {
+        "BrandID": 191,
+        "ModelID": 415344,
+        "Brand Name": "Luxgen",
+        "Model Name": "7 SUV",
+        "Serie Name": "7 SUV",
+        "Years": "2013 - 2017",
+        "specs": {
+          "bodyType": "SUV",
+          "segment": "SUV (Unclassified)",
+          "drive": "FWD",
+          "fuel": "Gasoline/Diesel",
+          "engine": "TBD",
+          "isOldtimer": false,
+          "vehicleType": "Passenger",
+          "wiki": {
+            "description": {
+              "pl": "Luxgen 7 SUV to pierwszy model marki, oferujący bogate wyposażenie i inteligentne systemy wspomagania kierowcy.",
+              "en": "Luxgen 7 SUV is the brand's first model offering extensive equipment and intelligent driver assistance systems.",
+              "de": "Luxgen 7 SUV ist das erste Modell der Marke mit umfangreicher Ausstattung und intelligenten Fahrerassistenzsystemen.",
+              "uk": "Luxgen 7 SUV — перша модель бренду, яка пропонує широке обладнання та інтелектуальні системи допомоги водієві.",
+              "ru": "Luxgen 7 SUV — первая модель бренда, предлагающая обширное оснащение и интеллектуальные системы помощи водителю.",
+              "zh": "纳智捷7 SUV是该品牌首款配备丰富装备和智能驾驶辅助系统的车型。"
+            }
+          }
+        }
+      }
+    ]
+  }
+}
