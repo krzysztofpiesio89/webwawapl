@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Trener personalny",
+    "about": "Strona trenera personalnego oraz instruktora fitness powinna motywować, prezentować metamorfozy podopiecznych (suwaki przed/po) oraz ułatwiać rezerwację konsultacji. Prosty system wyceny pakietów treningowych i planów dietetycznych zwiększa konwersję.",
+    "focus": "Najważniejszym elementem pozycjonowania jest lokalne SEO z uwzględnieniem konkretnych siłowni i dzielnic (np. trener personalny Mokotów, treningi personalne Warszawa) oraz budowa wizerunku eksperta na blogu.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) zoptymalizowanej pod kątem szybkiej rezerwacji wizyt online.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla automatycznych przypomnień o terminach zabiegów.",
+      "Przycisk bezpośredniego połączenia telefonicznego oraz szybkiego kontaktu przez WhatsApp (Mobile-First).",
+      "Zintegrowana strefa klienta (React / Next.js) z planami treningowymi, dietetycznymi i śledzeniem postępów.",
+      "Automatyczny kalkulator zapotrzebowania kalorycznego (BMR/TDEE) i makroskładników w czasie rzeczywistym.",
+      "Baza ćwiczeń wideo z odtwarzaczem zoptymalizowanym pod kątem transferu danych mobilnych (Cloudinary Video)."
+    ]
+  },
+  "en": {
+    "name": "Personal Trainer",
+    "about": "A personal trainer and fitness coach's website should motivate visitors, display client transformations (before/after sliders), and simplify booking initial assessments. Clear pricing packages for training and diet plans significantly boost conversions.",
+    "focus": "The primary SEO driver is localized search queries referencing specific gyms and neighborhoods (e.g. personal trainer Warsaw, gym coach near me), coupled with expert authority established on a blog.",
+    "specifications": [
+      "Ultra-lightweight website (Vite & React / Next.js) optimized for fast online booking and scheduling.",
+      "Integration with SMS notifications (Twilio / SMSAPI) for automated appointment and booking reminders.",
+      "Mobile-first click-to-call button and direct WhatsApp quick contact integration.",
+      "Integrated client portal (React / Next.js) for workout plans, nutrition guidance, and progress tracking.",
+      "Automated real-time BMR/TDEE and macronutrient calculator for tailored fitness advice.",
+      "Video exercise library with a player optimized for low mobile data usage (Cloudinary Video)."
+    ]
+  },
+  "de": {
+    "name": "Personal Trainer",
+    "about": "Die Website eines Personal Trainers oder Fitness-Coaches sollte motivieren, Kunden-Transformationen zeigen (Vorher-Nachher-Slider) und die Buchung von Erstgesprächen vereinfachen. Klare Preispakete für Trainings- und Ernährungspläne steigern die Konversionsraten.",
+    "focus": "Hauptelement des Rankings ist lokales SEO unter Einbeziehung bestimmter Fitnessstudios und Stadtteile sowie der Aufbau von Experten-Autorität im Blog.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), optimiert für schnelle Online-Terminbuchung.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für automatische Erinnerungen an Behandlungstermine.",
+      "Direktruf-Schaltfläche und schnelle WhatsApp-Kontakt-Integration optimiert für mobile Endgeräte.",
+      "Integriertes Kundenportal (React / Next.js) für Trainingspläne, Ernährungsberatung und Fortschrittsverfolgung.",
+      "Automatischer Echtzeit-BMR/TDEE- und Makronährstoff-Rechner für maßgeschneiderte Fitnessberatung.",
+      "Video-Übungsbibliothek mit einem für geringe mobile Datennutzung optimierten Player (Cloudinary Video)."
+    ]
+  },
+  "uk": {
+    "name": "Персональний тренер",
+    "about": "Сайт персонального тренера та фітнес-інструктора має мотивувати, наочно показувати результати підопічних (слайдери до/після) та полегшувати запис на першу консультацію. Проста система вибору тренувальних пакетів та планів дієт підвищує конверсію.",
+    "focus": "Найважливішим фактором просування є локальне SEO із прив'язкою до конкретних мереж залів та районів міста, а також ведення блогу для демонстрації експертності.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), оптимізованого для швидкого онлайн-запису на прийом.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для автоматичних нагадувань про процедури.",
+      "Кнопка швидкого дзвінка та інтеграція швидкого зв'язку через WhatsApp (Mobile-First).",
+      "Інтегрований кабінет клієнта (React / Next.js) з планами тренувань, харчування та відстеженням прогресу.",
+      "Автоматичний калькулятор добової потреби калорій (BMR/TDEE) та макронутриєнтів у реальному часі.",
+      "Відеотека вправ з плеєром, оптимізованим під мінімальне використання мобільного трафіку (Cloudinary Video)."
+    ]
+  },
+  "ru": {
+    "name": "Персональный тренер",
+    "about": "Сайт персонального тренера и фитнес-инструктора должен мотивировать, наглядно показывать результаты подопечных (слайдеры до/после) и облегчать запись на первую консультацию. Простая система выбора тренировочных пакетов и планов диет повышает конверсию.",
+    "focus": "Самым важным фактором продвижения является локальное SEO с привязкой к конкретным сетям залов и районам города, а также ведение блога для демонстрации экспертности.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), оптимизированного для быстрой онлайн-записи на процедуры.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для автоматических напоминаний о визитах.",
+      "Кнопка быстрого звонка и интеграция быстрого контакта через WhatsApp (Mobile-First).",
+      "Интегрированный личный кабинет клиента (React / Next.js) с планами тренировок, питания и отслеживанием прогресса.",
+      "Автоматический калькулятор суточной потребности калорий (BMR/TDEE) и макронутриентов в реальном времени.",
+      "Видеотека упражнений с плеером, оптимизированным под минимальное использование мобильного трафика (Cloudinary Video)."
+    ]
+  },
+  "zh": {
+    "name": "私人健身教练",
+    "about": "私人教练及健身导师的个人网站需要具备极强的励志煽动性、清晰展示学员形体蜕变（Before/After 滑动卡片）并简化首节体测课预约。直观的个人私教课包价格以及营养食谱定制费用，能大幅促进潜在会员的转化率。",
+    "focus": "SEO 获客的主要动力来自绑定特定地标健身房与行政区的同城检索（如：华沙 Mokotów 私人教练、一对一减脂私教课），辅以在博客上分享科学健身科普以塑造专家形象。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，针对线上预约与排班日程进行极速加载优化。",
+      "深度集成短信网关（Twilio / SMSAPI），用于客户护理及美容预约时间自动提醒。",
+      "针对移动端专门优化的 Mobile-First 一键呼叫按钮与 WhatsApp 快捷咨询通道。",
+      "集成在 React/Next.js 前台的客户个人中心，包含健身训练计划、饮食管理与身体维度追踪系统。",
+      "基于客户端运行的实时基础代谢率（BMR）及每日总能耗（TDEE）宏量营养素计算器。",
+      "部署基于 Cloudinary Video 编码调优的动作库小视频播放器，保障手机弱网下极速播放且省流量。"
+    ]
+  }
+}

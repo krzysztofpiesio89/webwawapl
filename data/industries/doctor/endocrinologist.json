@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Endokrynolog",
+    "about": "Endokrynologia skupia się na diagnostyce i leczeniu zaburzeń hormonalnych (np. choroby tarczycy, insulinooporność). Pacjenci poszukują specjalisty z dużym doświadczeniem, dlatego strona musi prezentować sylwetkę lekarza i opisy badań.",
+    "focus": "Endokrynolodzy zyskują najwięcej na pozycjonowaniu fraz diagnostycznych i schorzeń (np. Hashimoto endokrynolog Warszawa, badanie hormonów tarczycy) oraz lokalnej mapy Google.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, z optymalizacją obrazów medycznych.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego potwierdzania wizyt pacjentów.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Panel pacjenta do monitorowania wyników badań tarczycy / hormonów (FastAPI/Python).",
+      "Interaktywny kalkulator dawek leków i wskaźników hormonalnych napisany w React.",
+      "Zabezpieczenia formularzy medycznych SSL, RODO oraz pełna anonimizacja danych."
+    ]
+  },
+  "en": {
+    "name": "Endocrinologist",
+    "about": "Endocrinology focuses on diagnosing and treating hormonal imbalances (e.g., thyroid disease, insulin resistance). Patients look for highly experienced specialists, so the website must feature doctor profiles and detailed exam descriptions.",
+    "focus": "Endocrinologists benefit most from SEO targeting diagnostic and disease keywords (e.g. Hashimoto endocrinologist Warsaw, thyroid hormone test) and Google Maps local SEO optimization.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, with medical image optimization.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant patient booking confirmations.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Secure patient portal to track thyroid and hormone lab results (FastAPI/Python).",
+      "Interactive medication dosage and hormone ratios calculator built with React.",
+      "Medical forms security via SSL, GDPR compliance, and full database anonymization."
+    ]
+  },
+  "de": {
+    "name": "Endokrinologe",
+    "about": "Die Endokrinologie befasst sich mit Hormonstörungen (z. B. Schilddrüsenerkrankungen, Insulinresistenz). Die Website sollte Arztprofile und Beschreibungen von Hormontests enthalten.",
+    "focus": "Endokrinologen gewinnen Patienten über Rankings bei Diagnose- und Krankheitsbegriffen (z. B. Hashimoto Endokrinologe, Schilddrüsenwerte) und lokale Google Maps-Optimierung.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, mit medizinischer Bildoptimierung.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige Terminbestätigungen von Patienten.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Sicheres Patientenportal zur Nachverfolgung von Schilddrüsen- und Hormonwerten (FastAPI/Python).",
+      "Interaktiver Rechner für Medikamentendosierungen und Hormonverhältnisse in React.",
+      "Integration mit elektronischen Rezepten (P1-API) zur Langzeitbehandlungsunterstützung."
+    ]
+  },
+  "uk": {
+    "name": "Ендокринолог",
+    "about": "Ендокринологія фокусується на діагностиці та лікуванні гормональних порушень (наприклад, хвороби щитовидної залози, інсулінорезистентність). Пацієнти шукають досвідчених лікарів, тому сайт має містити профіль лікаря.",
+    "focus": "Ендокринологи успішно просуваються за запитами досліджень та захворювань (наприклад, Хашимото ендокринолог, аналіз на гормони щитовидної залози) та в Google Maps.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, з оптимізацією медичних зображень.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для миттєвого підтвердження записів пацієнтів.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Особистий кабінет пацієнта для моніторингу аналізів щитовидної залози (FastAPI/Python).",
+      "Інтерактивний калькулятор дозування гормональних препаратів на React.",
+      "Інтеграція з державною системою e-recept (API P1) для пацієнтів з хронічними хворобами."
+    ]
+  },
+  "ru": {
+    "name": "Эндокринолог",
+    "about": "Эндокринология фокусируется на диагностике и лечении гормональных нарушений (например, заболевания щитовидной железы, инсулинорезистентность). Пациенты ищут опытных врачей, поэтому сайт должен содержать профиль врача.",
+    "focus": "Эндокринологи привлекают пациентов по запросам анализов и заболеваний (например, Хашимото эндокринолог, анализы на гормоны щитовидной железы) и по картам.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, с оптимизацией медицинских изображений.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для мгновенного подтверждения записей пациентов.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Личный кабинет пациента для мониторинга анализов щитовидной железы (FastAPI/Python).",
+      "Интерактивный калькулятор дозировок гормональных препаратов на React.",
+      "Интеграция с государственной системой электронных рецептов (API P1) для хроников."
+    ]
+  },
+  "zh": {
+    "name": "内分泌科医生",
+    "about": "内分泌学专注于诊断和治疗激素失调（如：甲状腺疾病、胰岛素抵抗）。患者往往寻找经验丰富的专家，因此网站必须突出医生简介和详细的检测说明。",
+    "focus": "内分泌科医生最能通过针对诊断和疾病相关关键词（如：桥本氏甲状腺炎内分泌科医生华沙、甲状腺激素检查）的 SEO 优化以及谷歌地图本地 SEO 中获益。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，配合医学影像优化。",
+      "深度集成短信网关（Twilio / SMSAPI），用于就诊时间实时确认与通知。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "基于 FastAPI (Python) 搭建的安全患者中心，用于自主上传与追踪甲状腺及各类激素指标。",
+      "基于 React 研发的交互式激素比例测算与药物（如优甲乐）参考剂量评估工具。",
+      "对接官方电子处方通道（P1 API），便利慢性病患者的在线续方与购药。"
+    ]
+  }
+}

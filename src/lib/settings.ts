@@ -10,6 +10,7 @@ export interface GlobalSettings {
   krs: string;
   regon: string;
   address: string;
+  addressRegistered: string;
   addressWarsaw: string;
   phone: string;
   email: string;
@@ -17,14 +18,15 @@ export interface GlobalSettings {
 
 const SETTINGS: GlobalSettings = {
   id: 'settings',
-  companyName: 'Yuliya Taurel',
-  nip: '9662148516',
+  companyName: 'Krzysztof Piesio WIKOL',
+  nip: '8262147079',
   krs: '',
-  regon: '388469259',
-  address: 'ul. Józefa Piłsudskiego 20, 07-130 Kamionna',
+  regon: '381131959',
+  address: 'ul. Brzozowa 16, 05-462 Kąck',
+  addressRegistered: 'ul. Nadrzeczna 9, 08-400 Górki',
   addressWarsaw: 'ul. Księżycowa 76/8, 01-934 Warszawa',
   phone: '+48 664 946 209',
-  email: 'kontakt@skupautwawa.pl',
+  email: 'kontakt@webwawa.pl',
 };
 
 export function getGlobalSettings(): GlobalSettings {

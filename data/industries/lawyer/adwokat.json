@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Adwokat",
+    "about": "Adwokatura wymaga budowania wizerunku bezkompromisowości, doświadczenia sądowego i pełnego zaufania. Profesjonalna witryna adwokacka pomaga przedstawić specjalizacje kancelarii (np. sprawy karne, rozwody, odszkodowania) i zapewnia bezpieczny, natychmiastowy kontakt.",
+    "focus": "Adwokaci najwięcej zyskują na pozycjonowaniu lokalnym na frazy intencyjne (np. adwokat sprawy karne Warszawa, dobry adwokat od rozwodów) oraz na czytelnej prezentacji sukcesów i wygranych spraw.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, bez zbędnych bibliotek blokujących wątek.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego zgłaszania spraw i zapytań prawnych.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Szyfrowanie formularzy kontaktowych kluczem PGP oraz szyfrowaniem end-to-end (Node.js crypto).",
+      "Integracja z autonomicznym botem telefonicznym AI (Voice Bot) do wstępnej kwalifikacji spraw.",
+      "Wdrożenie systemu bezpiecznych e-konsultacji z płatnościami online Stripe (Node.js API)."
+    ]
+  },
+  "en": {
+    "name": "Advocate",
+    "about": "The bar demands building an image of uncompromising stance, courtroom experience, and absolute trust. A professional advocate website highlights the firm's practice areas (e.g., criminal defense, family law, damages) and ensures secure, instant contact.",
+    "focus": "Advocates benefit most from local SEO targeting high-intent keywords (e.g. criminal defense attorney Warsaw, divorce lawyer near me) and a clear, professional presentation of success rates.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, without thread-blocking libraries.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant notifications of legal inquiries.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Contact forms secured with PGP keys and end-to-end encryption (Node.js crypto).",
+      "Secure online booking system for legal consultations with Stripe payments integration.",
+      "Performance optimization using Next.js SSG, achieving a 100/100 Mobile PageSpeed score."
+    ]
+  },
+  "de": {
+    "name": "Advokat",
+    "about": "Die Anwaltschaft erfordert den Aufbau eines Images von Entschlossenheit, Gerichtserfahrung und absolutem Vertrauen. Eine professionelle Website hilft, die Fachgebiete (z. B. Strafrecht, Scheidung, Schadensersatz) darzustellen.",
+    "focus": "Rechtsanwälte profitieren am meisten von lokalem SEO für zielgerichtete Suchbegriffe (z. B. Strafverteidiger Warschau, Scheidungsanwalt) sowie einer klaren Präsentation von Kompetenzen.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, ohne den Thread blockierende Bibliotheken.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige rechtliche Anfragen und Aktenbenachrichtigungen.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Kontaktformulare gesichert mit PGP-Schlüsseln und Ende-zu-Ende-Verschlüsselung (Node.js-Krypto).",
+      "Integration mit einem autonomen KI-Voice-Bot zur rechtlichen Ersteinschätzung von Fällen.",
+      "Sicheres Buchungssystem für Rechtsberatungen mit integrierter Stripe-Zahlungsschnittstelle."
+    ]
+  },
+  "uk": {
+    "name": "Адвокат",
+    "about": "Адвокатура вимагає побудови іміджу безкомпромісності, судового досвіду та повної довіри. Професійний сайт адвоката допомагає представити спеціалізацію (кримінальні справи, розлучення, ДТП) та забезпечити швидкий зв'язок.",
+    "focus": "Адвокати залучають найбільше клієнтів завдяки просуванню за конкретними справами (наприклад, адвокат з розлучень, кримінальний адвокат) та відгукам клієнтів.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, без бібліотек, які блокують потік.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для миттєвих сповіщень про нові юридичні справи.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Захист форм зворотного зв'язку ключами PGP та наскрізним шифруванням (Node.js crypto).",
+      "Інтеграція з автономним голосовим ботом AI (Voice Bot) для первинного аналізу судових справ.",
+      "Впровадження системи безпечних онлайн-консультацій з платіжним шлюзом Stripe."
+    ]
+  },
+  "ru": {
+    "name": "Адвокат",
+    "about": "Адвокатура требует создания имиджа бескомпромиссности, судебного опыта и доверия. Сайт адвоката помогает представить практику (уголовные дела, разводы, споры) и предоставить защищенный контакт.",
+    "focus": "Адвокаты получают наибольшую отдачу от локального SEO по целевым запросам (например, адвокат по уголовным делам, адвокат по разводам) и публикации отзывов.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, без блокирующих поток библиотек.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для мгновенных уведомлений о новых юридических делах.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Защита форм обратной связи ключами PGP и сквозным шифрованием (Node.js crypto).",
+      "Интеграция с автономным голосовым ботом AI (Voice Bot) для первичного анализа дел.",
+      "Внедрение системы безопасных онлайн-консультаций с платежным шлюзом Stripe."
+    ]
+  },
+  "zh": {
+    "name": "诉讼律师",
+    "about": "诉讼律师需要塑造坚定、富有出庭经验和值得绝对信赖的形象。专业的诉讼律师网站有助于展示律所的主要业务领域（如刑事辩护、离婚诉讼、索赔），并提供安全、即时的联系渠道。",
+    "focus": "诉讼律师最能从针对高意向关键词的本地 SEO（如：刑事辩护律师华沙、离婚律师）以及明确展示成功案例中获益。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，杜绝任何阻塞主线程的冗余库。",
+      "深度集成短信网关（Twilio / SMSAPI），用于法律咨询及案件线索实时通报。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "在 Node.js 中基于 PGP 非对称密钥及端到端加密机制构建的在线咨询防泄密系统。",
+      "集成自主式 AI 语音机器人（Voice Bot），用于法律案件的初步分类与线索采集。",
+      "基于 Node.js 核心技术开发的在线视频咨询与 Stripe 担保支付系统。"
+    ]
+  }
+}

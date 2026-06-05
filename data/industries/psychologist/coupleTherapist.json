@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Terapeuta par",
+    "about": "Terapia par i małżeństw wspiera partnerów w rozwiązywaniu konfliktów, odbudowie bliskości i komunikacji. Strona internetowa terapeuty par powinna precyzyjnie wyjaśniać ramy spotkań (obecność obojga partnerów) oraz dawać nadzieję na porozumienie w bezpiecznej atmosferze.",
+    "focus": "Najbardziej efektywne pod kątem SEO jest pozycjonowanie na frazy z intencją ratowania relacji (np. terapia małżeńska Warszawa, psycholog dla par) oraz doradztwo w tematach kryzysów partnerskich.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) dla gabinetów psychoterapii i poradnictwa.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla dyskretnego potwierdzania terminów sesji.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Formularz zgłoszeniowy dla par z osobnymi profilami partnerów (Node.js / TypeScript).",
+      "Przejrzysty, pakietowy cennik sesji partnerskich i mediacji rodzinnych (Next.js SSG).",
+      "Wdrożenie Schema.org LocalBusiness i optymalizacja profilu Google Maps pod frazy lokalne."
+    ]
+  },
+  "en": {
+    "name": "Couple Therapist",
+    "about": "Couples and marriage therapy supports partners in resolving conflicts, rebuilding intimacy, and improving communication. A couples therapist's website should clearly outline session guidelines (attendance of both partners) and inspire hope in a safe environment.",
+    "focus": "The most effective SEO approach targets relationship-saving keywords (e.g. marriage counseling Warsaw, couples therapist) and advice on dealing with partnership crises.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) tailored for psychotherapy clinics.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for discreet therapy session reminders.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Couples intake questionnaire with separate partner profiles powered by Node.js / TypeScript.",
+      "Cal.com scheduling integration allowing partners to coordinate convenient session times.",
+      "Clear, package-based pricing directories for couple therapy and family mediation (Next.js SSG)."
+    ]
+  },
+  "de": {
+    "name": "Paartherapeut",
+    "about": "Paar- und Ehetherapie unterstützt Partner bei der Lösung von Konflikten, dem Wiederaufbau von Nähe und der Kommunikation. Die Website sollte die Rahmenbedingungen (Anwesenheit beider Partner) verständlich erklären.",
+    "focus": "Am effektivsten für SEO sind Suchbegriffe zur Beziehungsrettung (z. B. Eheberatung Berlin, Paartherapie) und informative Beiträge über Partnerschaftskrisen.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js) für Psychotherapie-Praxen.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für diskrete Therapiesitzungserinnerungen.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Fragebogen für Paare mit getrennten Partnerprofilen auf Basis von Node.js / TypeScript.",
+      "Cal.com-Kalender-Integration zur einfachen Abstimmung von Terminen für beide Partner.",
+      "Übersichtliche Darstellung von Paketpreisen für Paartherapien und Mediationen (Next.js SSG)."
+    ]
+  },
+  "uk": {
+    "name": "Сімейний терапевт",
+    "about": "Терапія пар та подружжя допомагає партнерам вирішувати конфлікти, відновлювати близькість та покращувати комунікацію. Сайт сімейного терапевта повинен чітко описувати формат зустрічей (присутність обох партнерів) та створювати відчуття безпечного простору.",
+    "focus": "Найбільш ефективним для SEO є просування за запитами збереження стосунків (наприклад, сімейна терапія Київ, психолог для пар) та публікація матеріалів про партнерські кризи.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js) для кабінетів психотерапії та консультування.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для конфіденційного нагадування про сеанси.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Спеціалізована форма запису для пар з роздільними профілями партнерів (Node.js / TypeScript).",
+      "Інтеграція з Cal.com для узгодження зручного часу сеансу обома партнерами.",
+      "Прозорий прайс-лист на сімейні консультації та медіацію на базі Next.js SSG."
+    ]
+  },
+  "ru": {
+    "name": "Семейный терапевт",
+    "about": "Терапия пар и супружеское консультирование помогает партнерам разрешать конфликты, восстанавливать близость и налаживать общение. Сайт семейного терапевта должен объяснять регламент встреч (присутствие обоих партнеров).",
+    "focus": "Наиболее эффективно продвижение по фразам, связанным со спасением отношений (например, семейная терапия, психолог для пар) и публикации статей о преодолении семейных кризисов.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js) для кабинетов психотерапии и консультирования.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для конфиденциального напоминания о сеансах.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Специализированная форма записи для пар с раздельными профилями партнеров (Node.js / TypeScript).",
+      "Интеграция с Cal.com для согласования удобного времени сеанса обоими партнерами.",
+      "Прозрачный прайс-лист на семейные консультации и медиацию на базе Next.js SSG."
+    ]
+  },
+  "zh": {
+    "name": "伴侣治疗师",
+    "about": "伴侣与婚姻治疗旨在帮助伴侣解决冲突、重建亲密感并改善日常沟通。伴侣治疗师'的网站应当明确阐述会谈细则（如：双方需共同出席），并在安全、无评判的环境中重塑双方沟通的信心。",
+    "focus": "SEO 层面最具转化价值的策略是针对以挽救情感关系为导向的关键词进行优化（如：华沙婚姻咨询、伴侣心理咨询），并产出有关化解伴侣危机与信任重建的技术建议。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，适合心理咨询诊所。",
+      "深度集成短信网关（Twilio / SMSAPI），用于会谈日程的保密级自动提醒与确认。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "基于 Node.js / TypeScript 构建的双账号机制伴侣心理咨询线上登记问卷表单。",
+      "引入 Cal.com 精准排程系统，便利两位来访者在线协作选定并锁定共同时间档。",
+      "采用 Next.js SSG 静态生成的伴侣咨询及家庭调解资费套餐（Package Pricing）细分子页。"
+    ]
+  }
+}

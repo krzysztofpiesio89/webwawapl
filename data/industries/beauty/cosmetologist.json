@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Kosmetolog",
+    "about": "Gabinet kosmetologii oraz medycyny estetycznej wymaga strony budującej pełne zaufanie, bezpieczeństwo oraz profesjonalizm medyczny. Prezentacja nowoczesnego sprzętu, opisy zabiegów oraz suwaki 'przed i po' ułatwiają pacjentom podjęcie decyzji.",
+    "focus": "Najskuteczniejsza strategia pozycjonowania opiera się na frazach powiązanych z zaawansowaną pielęgnacją (np. mezoterapia igłowa Warszawa, laseroterapia cennik) oraz na wdrożeniu lokalnych danych strukturyzowanych Schema.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) zoptymalizowanej pod kątem szybkiej rezerwacji wizyt online.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla automatycznych przypomnień o terminach zabiegów.",
+      "Przycisk bezpośredniego połączenia telefonicznego oraz szybkiego kontaktu przez WhatsApp (Mobile-First).",
+      "Dedykowana baza wiedzy i blog zintegrowany z headless WordPress REST API dla edukacji pacjentów.",
+      "Autonomiczny Voice Bot AI (odbierający połączenia głosowe, zapisujący na wizyty medycyny estetycznej).",
+      "Zabezpieczone szyfrowaniem SSL i RODO formularze kart pacjenta z historią zabiegów medycznych."
+    ]
+  },
+  "en": {
+    "name": "Cosmetologist",
+    "about": "A cosmetology and aesthetic clinic website must project complete safety, medical-grade cleanliness, and professional authority. Showcasing certified equipment, treatment descriptions, and before/after sliders helps clients choose treatments.",
+    "focus": "The most successful SEO strategy focuses on specialized, high-ticket treatments (e.g. microneedling therapy Warsaw, laser hair removal pricing) and implementing local Schema structured data.",
+    "specifications": [
+      "Ultra-lightweight website (Vite & React / Next.js) optimized for fast online booking and scheduling.",
+      "Integration with SMS notifications (Twilio / SMSAPI) for automated appointment and booking reminders.",
+      "Mobile-first click-to-call button and direct WhatsApp quick contact integration.",
+      "Dedicated knowledge base and blog integrated with headless WordPress REST API for patient education.",
+      "Autonomous AI Voice Bot (answering phone calls, booking aesthetic medicine appointments).",
+      "SSL and GDPR encrypted patient intake forms with comprehensive medical treatment history."
+    ]
+  },
+  "de": {
+    "name": "Kosmetologe",
+    "about": "Eine Praxis für Kosmetologie und ästhetische Behandlungen benötigt eine Website, die Vertrauen, Sicherheit und medizinische Professionalität vermittelt. Die Präsentation moderner Geräte und Vorher-Nachher-Bilder helfen bei der Entscheidung.",
+    "focus": "Die effektivste SEO-Strategie basiert auf spezifischen Behandlungsbegriffen (z. B. Mesotherapie oder Laserhaarentfernung) und der Implementierung lokaler Schema-Daten.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), optimiert für schnelle Online-Terminbuchung.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für automatische Erinnerungen an Behandlungstermine.",
+      "Direktruf-Schaltfläche und schnelle WhatsApp-Kontakt-Integration optimiert für mobile Endgeräte.",
+      "Dedizierte Wissensdatenbank und Blog integriert mit Headless WordPress REST API zur Patientenaufklärung.",
+      "Autonomer KI-Sprachbot zur Entgegennahme von Telefonanrufen und Buchung von Terminen für ästhetische Medizin.",
+      "SSL- und DSGVO-verschlüsselte Patientenaufnahmeformulare mit vollständiger medizinischer Behandlungshistorie."
+    ]
+  },
+  "uk": {
+    "name": "Косметолог",
+    "about": "Кабінет апаратної та естетичної косметології потребує сайту, що транслює максимальну довіру, безпеку та медичний професіоналізм. Опис сучасного обладнання, процедур та інтерактивні повзунки 'до та після' допомагають пацієнтам обрати курс.",
+    "focus": "Ефективне просування базується на запитах про дорогі та затребувані процедури (наприклад, фракційний лазер, мезотерапія обличчя) та впровадженні Schema розмітки.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), оптимізованого для швидкого онлайн-запису на прийом.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для автоматичних нагадувань про процедури.",
+      "Кнопка швидкого дзвінка та інтеграція швидкого зв'язку через WhatsApp (Mobile-First).",
+      "Спеціалізована база знань та блог, інтегровані з headless WordPress REST API для навчання пацієнтів.",
+      "Автономний голосовий бот AI для прийому дзвінків та запису на процедури естетичної медицини.",
+      "Захищені шифруванням SSL та GDPR форми карт пацієнтів з історією проведених процедур."
+    ]
+  },
+  "ru": {
+    "name": "Косметолог",
+    "about": "Кабинет аппаратной и эстетической косметологии нуждается в сайте, который транслирует максимальное доверие, безопасность и медицинский профессионализм. Описание современного оборудования, процедур и интерактивные ползунки 'до и после' помогают пациентам выбрать курс.",
+    "focus": "Эффективное продвижение строится на запросах о дорогих и востребованных процедурах (например, фракционный лазер, мезотерапия лица) и внедрении Schema разметки.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), оптимизированного для быстрой онлайн-записи на процедуры.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для автоматических напоминаний о визитах.",
+      "Кнопка быстрого звонка и интеграция быстрого контакта через WhatsApp (Mobile-First).",
+      "Специализированная база знаний и блог, интегрированные с headless WordPress REST API для обучения пациентов.",
+      "Autonomny голосовой бот AI для приема звонков и записи на процедуры эстетической медицины.",
+      "Защищенные шифрованием SSL и GDPR формы карт пациентов с историей проведенных процедур."
+    ]
+  },
+  "zh": {
+    "name": "皮肤管理专家",
+    "about": "皮肤管理会所与轻医美诊所的网站必须传递出极高的无菌安全性、医学级专业度与技术权威。展示院线级仪器设备参数、细分疗程科学原理以及 Before/After 滑动对比卡片可促进新客转化。",
+    "focus": "最高效的 SEO 策略定位于高客单价的尖端医美项目（如：针剂美塑疗法、超声皮秒价格、激光祛斑），并配置合规的本地 Schema 结构化数据。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，针对线上预约与排班日程进行极速加载优化。",
+      "深度集成短信网关（Twilio / SMSAPI），用于客户护理及美容预约时间自动提醒。",
+      "针对移动端专门优化的 Mobile-First 一键呼叫按钮与 WhatsApp 快捷咨询通道。",
+      "通过 Headless WordPress REST API 驱动的专业美容护肤知识库与科普博客前端页面。",
+      "部署 AI 智能语音电话机器人，支持全天候自动接听咨询并完成医美项目预约排班。",
+      "经过 SSL 强加密并符合 RODO/GDPR 隐私规范的在线顾客电子病历与疗程档案管理模块。"
+    ]
+  }
+}

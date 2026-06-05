@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Weterynarz",
+    "about": "Kliniki i gabinety weterynaryjne obsługują właścicieli zwierząt poszukujących pomocy w sytuacjach nagłych oraz w ramach profilaktyki. Wizerunek przyjaznego i profesjonalnego lekarza weterynarii jest kluczowy.",
+    "focus": "Dla weterynarza najważniejsze jest szybkie pozycjonowanie w Google Maps na hasła ratunkowe (np. weterynarz całodobowy, ostra niedziela) oraz bezbłędnie działająca strona na telefonach (Mobile First), z wyraźnym przyciskiem 'Zadzwoń teraz'.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, z optymalizacją obrazów medycznych.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego potwierdzania wizyt pacjentów.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Dedykowany system e-kartoteki zwierząt i wizyt zintegrowany z Django (Python) i bazą PostgreSQL.",
+      "Interaktywny moduł wyceny zabiegów weterynaryjnych i szczepień oparty o React.",
+      "Integracja z chatbotem AI (symptom checker dla zwierząt) pomagającym w nagłych przypadkach przed wizytą."
+    ]
+  },
+  "en": {
+    "name": "Veterinarian",
+    "about": "Veterinary clinics and practices serve pet owners seeking emergency help or routine care. A friendly and professional veterinarian image is key.",
+    "focus": "For a veterinarian, the most important factor is rapid positioning in Google Maps for emergency keywords (e.g., 24h vet, emergency vet) and a mobile-friendly site (Mobile First) with a prominent 'Call Now' button.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, with medical image optimization.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant patient booking confirmations.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Dedicated pet medical records and appointment system integrated with Django (Python) and PostgreSQL.",
+      "Interactive veterinary treatment and vaccination pricing calculator built with React.",
+      "AI veterinary chatbot (pet symptom checker) for immediate first-aid advice before clinical visits."
+    ]
+  },
+  "de": {
+    "name": "Tierarzt",
+    "about": "Tierarztpraxen betreuen Tierhalter in Notfällen und zur Vorsorge. Ein freundliches und professionelles Image ist der Schlüssel zur Kundenbindung.",
+    "focus": "Für Tierärzte ist die schnelle Platzierung bei Google Maps für Notfall-Suchbegriffe (z.B. Tierarzt Notdienst) und eine mobile Website mit 'Jetzt anrufen'-Button entscheidend.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, mit medizinischer Bildoptimierung.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige Terminbestätigungen von Patienten.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Dediziertes System für Haustierakten und Termine, integriert mit Django (Python) und PostgreSQL.",
+      "Interaktiver Kostenrechner für Behandlungen und Impfungen auf Basis von React.",
+      "KI-Chatbot zur ersten Symptomanalyse bei Haustieren für Ratschläge vor dem Praxisbesuch."
+    ]
+  },
+  "uk": {
+    "name": "Ветеринар",
+    "about": "Ветеринарні клініки обслуговують власників тварин, які шукають термінову або профілактичну допомогу. Образ турботливого та професійного лікаря є вирішальним.",
+    "focus": "Для ветеринара найважливіше — швидке просування у Google Maps за екстреними запитами (наприклад, цілодобовий ветеринар) та мобільна версія сайту з кнопкою 'Зателефонувати'.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, з оптимізацією медичних зображень.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для миттєвого підтвердження записів пацієнтів.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Спеціалізована система електронної карти тварин та візитів на базі Django (Python) та PostgreSQL.",
+      "Інтерактивний модуль розрахунку вартості ветеринарних процедур та щеплень на React.",
+      "Інтеграція з чат-ботом AI для первинного аналізу симптомів тварини та порад до візиту до клініки."
+    ]
+  },
+  "ru": {
+    "name": "Ветеринар",
+    "about": "Ветеринарные клиники обслуживают владельцев животных, ищущих экстренную или профилактическую помощь. Образ ветеринара имеет решающее значение.",
+    "focus": "Для ветеринара важнее всего — быстрое продвижение в Google Maps по экстренным запросам (например, круглосуточный ветеринар) и кнопка вызова.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, с оптимизацией медицинских изображений.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для мгновенного подтверждения записей пациентов.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Специализированная система электронных карт питомцев на базе Django (Python) и PostgreSQL.",
+      "Интерактивный модуль расчета стоимости ветеринарных услуг и вакцинации на React.",
+      "Интеграция с чат-ботом AI для первой помощи животным и оценки симптомов до визита в клинику."
+    ]
+  },
+  "zh": {
+    "name": "兽医",
+    "about": "兽医诊所为寻求紧急救助或常规预防保健的宠物主人提供服务。树立友好且专业的兽医形象是吸引顾客的关键。",
+    "focus": "对兽医来说，最关键的是针对紧急词汇（例如：24小时兽医、宠物急诊）在谷歌地图中进行快速定位，以及提供带有醒目“立即拨打”按钮的手机网站。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，配合医学影像优化。",
+      "深度集成短信网关（Twilio / SMSAPI），用于就诊时间实时确认与通知。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "集成 Django (Python) 和 PostgreSQL 数据库的专属宠物电子病历与就诊管理系统。",
+      "基于 React 开发的交互式宠物治疗与疫苗接种费用在线估算模块。",
+      "部署动物症状初筛 AI 聊天机器人，在到诊前为宠物主人提供紧急急救指南。"
+    ]
+  }
+}

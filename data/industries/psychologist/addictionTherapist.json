@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Terapeuta uzależnień",
+    "about": "Terapia uzależnień (od alkoholu, substancji, hazardu, technologii) wspiera pacjentów i ich bliskich w powrocie do zdrowia. Strona internetowa terapeuty powinna w sposób absolutnie nieoceniający przedstawiać program terapeutyczny oraz wskazywać pierwsze kroki do wyjścia z nałogu.",
+    "focus": "Kluczem do pozyskiwania pacjentów w wyszukiwarkach są frazy intencyjne powiązane z chęcią podjęcia leczenia (np. prywatny ośrodek terapii uzależnień Warszawa, leczenie uzależnień) oraz rzetelne artykuły merytoryczne.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) dla gabinetów psychoterapii i poradnictwa.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla dyskretnego potwierdzania terminów sesji.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "W 100% anonimowe zgłoszenia i formularze chronione silnym szyfrowaniem end-to-end.",
+      "Przycisk telefonu alarmowego (pogotowie uzależnień) zoptymalizowany pod kątem konwersji mobilnej.",
+      "Autonomiczny chatbot AI wspierający pacjentów w kryzysie 24/7 przed wizytą w gabinecie."
+    ]
+  },
+  "en": {
+    "name": "Addiction Therapist",
+    "about": "Addiction therapy (alcohol, substances, gambling, technology) guides patients and their families toward recovery. An addiction therapist's website must present treatment programs in a fully non-judgmental tone and map the first steps out of addiction.",
+    "focus": "The key to SEO conversions is high-intent keywords related to seeking treatment (e.g. addiction treatment Warsaw, private addiction therapy) and high-quality educational posts.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) tailored for psychotherapy clinics.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for discreet therapy session reminders.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "100% anonymous intake forms secured by strong end-to-end encryption.",
+      "Emergency helpline click-to-call button optimized for high mobile conversion rate.",
+      "Autonomous 24/7 crisis support AI chatbot to guide patients before their appointment."
+    ]
+  },
+  "de": {
+    "name": "Suchttherapeut",
+    "about": "Suchttherapie (Alkohol, Drogen, Glücksspiel, Mediensucht) unterstützt Patienten und Angehörige auf dem Weg zur Besserung. Die Website sollte absolut wertfrei das Therapieangebot und erste Schritte aus der Sucht aufzeigen.",
+    "focus": "Für das SEO sind Suchbegriffe zur Suchtbehandlung und fundierte Fachartikel über Suchtmechanismen und Entzug am wichtigsten.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js) für Psychotherapie-Praxen.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für diskrete Therapiesitzungserinnerungen.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "100 % anonyme Kontaktformulare gesichert durch starke Ende-zu-Ende-Verschlüsselung.",
+      "Notfall-Hotline-Button optimiert für hohe mobile Konversionsraten (Click-to-Call).",
+      "Autonomer 24/7-Krisenhilfe-KI-Chatbot zur Begleitung von Patienten vor dem Termin."
+    ]
+  },
+  "uk": {
+    "name": "Терапевт залежностей",
+    "about": "Терапія залежностей (алкоголь, наркотики, ігроманія, цифрова залежність) допомагає пацієнтам та їхнім родинам на шляху до одужання. Сайт терапевта має в абсолютно безоціночній манері представляти програму лікування та перші кроки подолання залежності.",
+    "focus": "Для SEO важливі запити, пов'язані з пошуком лікування (наприклад, лікування залежностей Київ, приватна наркологічна допомога) та професійні роз'яснювальні статті.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js) для кабінетів психотерапії та консультування.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для конфіденційного нагадування про сеанси.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "100% анонімні форми та звернення, захищені стійким наскрізним шифруванням.",
+      "Кнопка гарячої лінії (кризова допомога), оптимізована для швидкого дзвінка зі смартфона.",
+      "Автономний чат-бот AI для цілодобової підтримки пацієнтів у кризових станах 24/7."
+    ]
+  },
+  "ru": {
+    "name": "Терапевт зависимостей",
+    "about": "Терапия зависимостей (алкогольная, химическая, игровая, компьютерная) помогает пациентам и их близким вернуться к полноценной жизни. Сайт терапевта должен в безоценочной форме знакомить с программой реабилитации.",
+    "focus": "Продвижение ориентировано на запросы людей, ищущих помощь (например, лечение зависимостей, реабилитация от алкоголизма) и информативные материалы о стадиях зависимости и выходе из нее.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js) для кабинетов психотерапии и консультирования.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для конфиденциального напоминания о сеансах.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "100% анонимные формы и обращения, защищенные стойким сквозным шифрованием.",
+      "Кнопка горячей линии (кризисная помощь), оптимизированная для быстрого звонка со смартфона.",
+      "Автономный чат-бот AI для круглосуточной поддержки пациентов в кризисных состояниях 24/7."
+    ]
+  },
+  "zh": {
+    "name": "成瘾治疗师",
+    "about": "成瘾治疗（针对酒精、药物依赖、赌博、网络及游戏成瘾等）致力于帮助患者及其家属重回健康生活轨道。成瘾治疗师的网站应当以绝对包容、客观且不带评判色彩的口吻介绍治疗计划，并指引走出成瘾困境的第一步。",
+    "focus": "SEO 推广的核心是定位具有强意向的求治关键词（如：华沙私立戒瘾机构、成瘾心理治疗），以及发布阐明成瘾机理、脱瘾反应和支持策略的高质量科普文章。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，适合心理咨询诊所。",
+      "深度集成短信网关（Twilio / SMSAPI），用于会谈日程的保密级自动提醒与确认。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "基于非对称公钥加密的 100% 匿名病历建档与保密信息上传模块。",
+      "针对移动端优化的紧急危机干预热线一键直拨（Click-to-Call）触发控件。",
+      "部署 24 小时全天候运行的危机自救引导 AI 机器人，在正式接诊前给予基础指导。"
+    ]
+  }
+}

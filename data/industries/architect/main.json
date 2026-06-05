@@ -1,0 +1,139 @@
+{
+  "id": "architect",
+  "slugs": {
+    "pl": "architekt",
+    "en": "architect",
+    "de": "architekt",
+    "uk": "arkhitekt",
+    "ru": "arhitektor",
+    "zh": "architect"
+  },
+  "translations": {
+    "pl": {
+      "industryName": "Architekt",
+      "heroSubtitle": "Dedykowane strony internetowe, interaktywne portfolio oraz lokalne pozycjonowanie dla architektów i projektantów.",
+      "title": "Strony internetowe i systemy IT dla architektów i biur projektowych",
+      "description": "Projektujemy profesjonalne strony www, cyfrowe portfolio oraz prowadzimy pozycjonowanie SEO dla architektów i projektantów wnętrz. Zaprezentuj swoje projekty.",
+      "about": "Branża architektoniczna i projektowa opiera się na wizualnej doskonałości, unikalnym stylu oraz zaufaniu do realizowanych inwestycji. Klienci szukający architekta oczekują przede wszystkim zachwycającego, interaktywnego portfolio, przejrzystego procesu współpracy (od koncepcji do nadzoru) oraz łatwego kontaktu. Nasze rozwiązania IT łączą zaawansowane galerie projektów 3D z ultraszybkimi stronami Next.js, a pozycjonowanie w Google Maps pozwala skutecznie pozyskać zlecenia na projektowanie domów, mieszkań i ogrodów.",
+      "series": {
+        "pwa": {
+          "title": "Interaktywne Portfolio PWA",
+          "desc": "Tworzymy szybkie aplikacje PWA z interaktywnymi galeriami realizacji, widokami 3D (renderami) i panelami klienta do śledzenia postępów prac projektowych."
+        },
+        "wordpress": {
+          "title": "Strony WordPress dla Architektów",
+          "desc": "Budujemy nowoczesne strony WordPress ułatwiające samodzielne dodawanie nowych projektów, prowadzenie bloga o trendach w designie i integrację z Pinterestem."
+        },
+        "seo": {
+          "title": "Pozycjonowanie Lokalne & SEO",
+          "desc": "Pozycjonujemy na frazy intencyjne (np. architekt wnętrz Warszawa, projektowanie ogrodów) oraz optymalizujemy Schema.org pod kątem lokalnych usług projektowych."
+        }
+      }
+    },
+    "en": {
+      "industryName": "Architect",
+      "heroSubtitle": "Dedicated websites, interactive portfolios, and local SEO for architects and designers.",
+      "title": "Websites and IT Systems for Architects and Design Studios",
+      "description": "We design professional websites, digital portfolios, and run SEO positioning for architects and interior designers. Showcase your projects.",
+      "about": "The architectural and design industry relies on visual excellence, unique style, and trust in executed investments. Clients looking for an architect expect an outstanding, interactive portfolio, a clear collaboration process (from concept to supervision), and simple communication. Our IT solutions combine advanced 3D project galleries with ultra-fast Next.js pages, while local Google Maps SEO helps secure custom house, apartment, and garden projects.",
+      "series": {
+        "pwa": {
+          "title": "Interactive PWA Portfolios",
+          "desc": "We build fast PWA applications featuring interactive project galleries, 3D renderings, and client tracking portals."
+        },
+        "wordpress": {
+          "title": "WordPress Sites for Architects",
+          "desc": "We build modern WordPress sites allowing easy project management, publishing design trend blogs, and Pinterest integration."
+        },
+        "seo": {
+          "title": "Local SEO & Position Boosting",
+          "desc": "We target high-intent keywords (e.g. interior designer Warsaw, custom house plans) and optimize Schema.org for local design services."
+        }
+      }
+    },
+    "de": {
+      "industryName": "Architekt",
+      "heroSubtitle": "Maßgeschneiderte Websites, interaktive Portfolios und lokales SEO für Architekten und Designer.",
+      "title": "Websites und IT-Systeme für Architekten und Planungsbüros",
+      "description": "Wir entwickeln professionelle Webseiten, digitale Portfolios und führen SEO für Architekten und Innenarchitekten durch. Präsentieren Sie Ihre Arbeiten.",
+      "about": "Die Architekturbranche basiert auf visueller Ästhetik und Vertrauen. Auftraggeber erwarten ein ansprechendes Portfolio und transparente Abläufe. Unsere IT-Lösungen verbinden 3D-Galerien mit Next.js-Technik.",
+      "series": {
+        "pwa": {
+          "title": "Interaktive PWA-Portfolios",
+          "desc": "Wir programmieren PWA-Apps mit 3D-Visualisierungen und Bauherren-Portalen zur Projektbegleitung."
+        },
+        "wordpress": {
+          "title": "WordPress-Seiten für Planer",
+          "desc": "Wir gestalten moderne WordPress-Websites zur einfachen Pflege von Projektgalerien und Social-Media-Anbindung (Pinterest)."
+        },
+        "seo": {
+          "title": "Lokale SEO-Optimierung",
+          "desc": "Wir optimieren Ihren Google-Auftritt für lokale Suchanfragen (z. B. Architekturbüro Frankfurt)."
+        }
+      }
+    },
+    "uk": {
+      "industryName": "Архітектор",
+      "heroSubtitle": "Сучасні веб-сайти, інтерактивні портфоліо та локальне SEO для архітекторів та дизайнерів.",
+      "title": "Веб-сайти та IT-системи для архітекторів та проектних бюро",
+      "description": "Проектуємо професійні сайти, цифрові портфоліо та здійснюємо SEO-просування для архітекторів та дизайнерів. Покажіть свої проекти.",
+      "about": "Архітектура та дизайн базуються на візуальній досконалості та унікальному стилі. Клієнти шукають переконливе портфоліо та прозорий процес роботи. Наші рішення поєднують 3D-галереї з швидкими сайтами Next.js.",
+      "series": {
+        "pwa": {
+          "title": "Інтерактивні портфоліо PWA",
+          "desc": "Створюємо швидкі PWA-додатки з галереями проектів, 3D-візуалізаціями та панеллю клієнта для відстеження етапів проектування."
+        },
+        "wordpress": {
+          "title": "Сайти на WordPress для архітекторів",
+          "desc": "Будуємо сучасні сайти на WordPress для простого оновлення портфоліо та інтеграції з Pinterest."
+        },
+        "seo": {
+          "title": "SEO-просування та локальні карти",
+          "desc": "Оптимізуємо профілі під комерційні запити (наприклад, архітектор інтер'єру Київ) та впроваджуємо локальну розмітку Schema.org."
+        }
+      }
+    },
+    "ru": {
+      "industryName": "Архитектор",
+      "heroSubtitle": "Современные веб-сайты, интерактивные портфолио и локальное SEO для архитекторов и дизайнеров.",
+      "title": "Веб-сайты и IT-системы для архитекторов и проектных мастерских",
+      "description": "Проектируем профессиональные сайты, цифровые портфолио и ведем SEO для архитекторов и дизайнеров интерьера. Представьте свои проекты.",
+      "about": "Архитектурный бизнес требует безупречного визуального представления. Заказчикам важно видеть готовые кейсы и понятный план реализации проекта. Наши IT-решения объединяют галереи визуализаций с быстрыми Next.js сайтами.",
+      "series": {
+        "pwa": {
+          "title": "Интерактивные PWA-портфолио",
+          "desc": "Создаем быстрые PWA-приложения с галереями проектов, 3D-рендерами и личным кабинетом заказчика."
+        },
+        "wordpress": {
+          "title": "Сайты на WordPress для архитекторов",
+          "desc": "Проектируем современные сайты на WordPress для ведения блога о дизайне и интеграции с Pinterest."
+        },
+        "seo": {
+          "title": "SEO-продвижение и Google карты",
+          "desc": "Продвигаем сайт по целевым локальным запросам (например, дизайн интерьера Москва) и оптимизируем Schema.org."
+        }
+      }
+    },
+    "zh": {
+      "industryName": "建筑师",
+      "heroSubtitle": "为建筑师与设计师定制的网站、交互式作品集以及本地 SEO 推广方案。",
+      "title": "面向建筑师与设计事务所的网站及 IT 系统解决方案",
+      "description": "我们设计专业网站、开发数字作品集并提供 SEO 推广服务。完美呈现您的设计项目。",
+      "about": "建筑和设计行业高度依赖于视觉美感、独特的设计风格以及对落地项目的信任。寻找建筑师的客户极其看重震撼的交互式作品集、清晰的设计流程（从方案到监工）以及顺畅的沟通。我们的 IT 解决方案将 3D 渲染画廊与极速 Next.js 网站相结合，同时本地谷歌地图 SEO 协助您获取房屋、公寓和景观设计订单。",
+      "series": {
+        "pwa": {
+          "title": "交互式 PWA 作品集应用程序",
+          "desc": "我们开发快速 PWA 应用，集成交互式项目画廊、3D 渲染图以及用于追踪设计进度的客户端后台。"
+        },
+        "wordpress": {
+          "title": "建筑师 WordPress 网站开发",
+          "desc": "我们搭建现代化 WordPress 网站，方便自助更新设计项目、撰写设计趋势博客并深度集成 Pinterest。"
+        },
+        "seo": {
+          "title": "本地 SEO 排名与位置优化",
+          "desc": "我们针对高意向词汇（如：华沙室内设计师、自建房设计）进行定位，并针对本地设计服务优化 Schema.org。"
+        }
+      }
+    }
+  }
+}

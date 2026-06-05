@@ -4,7 +4,6 @@ import {
   Head,
   Heading,
   Html,
-  Img,
   Preview,
   Row,
   Section,
@@ -24,10 +23,6 @@ interface ClientConfirmationEmailProps {
   phone: string;
 }
 
-const baseUrl = process.env.VERCEL_URL
-  ? `https://${process.env.VERCEL_URL}`
-  : 'https://skupautwawa.pl';
-
 export const ClientConfirmationEmail = ({
   dict,
   brandModel,
@@ -46,7 +41,7 @@ export const ClientConfirmationEmail = ({
           <Container>
             <Section className="px-5 py-[30px] text-center bg-white">
               <Heading className="m-0 text-3xl font-black tracking-tighter uppercase italic text-slate-900">
-                skupaut<span className="text-amber-500">wawa.pl</span>
+                webwawa<span className="text-amber-500">.pl</span>
               </Heading>
             </Section>
 
@@ -72,6 +67,11 @@ export const ClientConfirmationEmail = ({
                     <Text className="text-base m-0 mb-2">
                       <b className="text-slate-500 uppercase text-xs tracking-wider">{dict.detailsBrand}: </b><br/>
                       <span className="text-lg font-bold text-slate-900">{brandModel}</span>
+                    </Text>
+
+                    <Text className="text-base m-0 mb-2">
+                      <b className="text-slate-500 uppercase text-xs tracking-wider">Usługa: </b><br/>
+                      <span className="font-semibold text-slate-700">{engine || '-'}</span>
                     </Text>
                     
                     <Text className="text-base m-0 mb-2">

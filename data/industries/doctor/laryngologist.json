@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Laryngolog",
+    "about": "Otolaryngologia (Laryngologia) obejmuje diagnostykę i leczenie chorób ucha, nosa, gardła i krtani. Strona www gabinetu laryngologicznego musi budować wizerunek profesjonalizmu, opisywać zabiegi (np. płukanie uszu, leczenie zatok) oraz ułatwiać kontakt.",
+    "focus": "Laryngolodzy zyskują na SEO dzięki pozycjonowaniu na objawy i badania (np. endoskopia nosa laryngolog Warszawa, leczenie chrapania) oraz lokalną optymalizację Google Maps.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, z optymalizacją obrazów medycznych.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego potwierdzania wizyt pacjentów.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Orientacyjny test słuchu online oparty o Web Audio API jako nowoczesny element konwersji.",
+      "Dedykowany formularz kwalifikacji do zabiegów laryngologicznych (plastyka przegrody, migdałki).",
+      "Pozycjonowanie lokalne i Schema JSON-LD MedicalBusiness dla kliniki laryngologicznej."
+    ]
+  },
+  "en": {
+    "name": "Laryngologist",
+    "about": "Otolaryngology (ENT) covers diagnostics and treatment of ear, nose, throat, and larynx conditions. An ENT specialist's website must project professionalism, describe minor procedures (e.g. ear irrigation, sinus treatment), and facilitate quick contact.",
+    "focus": "ENT specialists benefit from SEO targeting symptoms and diagnostics (e.g. nasal endoscopy ENT Warsaw, snoring treatment) combined with Google Maps local SEO optimization.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, with medical image optimization.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant patient booking confirmations.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Online hearing screening test based on Web Audio API as a modern conversion tool.",
+      "Dedicated pre-op qualification form for ENT procedures (septoplasty, tonsillectomy).",
+      "Local SEO optimization and Schema JSON-LD MedicalBusiness for ENT clinics."
+    ]
+  },
+  "de": {
+    "name": "Laryngologe",
+    "about": "Die Hals-Nasen-Ohren-Heilkunde (HNO) umfasst Erkrankungen von Ohren, Nase, Hals und Kehlkopf. Die Website muss Behandlungen wie Ohrenspülungen oder Nasennebenhöhlentherapien klar erklären.",
+    "focus": "HNO-Ärzte gewinnen Patienten über Suchen nach Symptomen und Diagnostik (z. B. Nasenendoskopie, Schnarchtherapie) und lokales SEO bei Google Maps.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, mit medizinischer Bildoptimierung.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige Terminbestätigungen von Patienten.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Online-Hörtest auf Basis der Web Audio API zur interaktiven Patientengewinnung.",
+      "Dedizierter präoperativer Fragebogen für HNO-Eingriffe (Septumplastik, Tonsillektomie).",
+      "Integration mit ZnanyLekarz / Medfile über sichere REST-API-Schlüssel."
+    ]
+  },
+  "uk": {
+    "name": "Ларинголог",
+    "about": "Отоларингологія (ЛОР) охоплює діагностику та лікування захворювань вуха, носа, горла та гортані. Сайт ЛОР-лікаря має містити опис процедур (наприклад, промивання мигдалин, лікування синуситу) та контакти.",
+    "focus": "ЛОР-лікарі успішно просуваються за запитами симптомів та обстежень (наприклад, ендоскопія носа ларинголог, лікування хропіння) та за допомогою Google Maps.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, з оптимізацією медичних зображень.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для миттєвого підтвердження записів пацієнтів.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Орієнтовний тест слуху онлайн на базі Web Audio API як інструмент залучення пацієнтів.",
+      "Спеціалізована форма підготовки до ЛОР-операцій (септопластика, видалення мигдаликів).",
+      "Локальне SEO та розгортання Schema JSON-LD MedicalBusiness для лор-кабінетів."
+    ]
+  },
+  "ru": {
+    "name": "Ларинголог",
+    "about": "Отоларингология (ЛОР) охватывает диагностику и лечение заболеваний уха, носа, горла и гортани. Сайт ЛОР-врача должен описывать процедуры (например, промывание ушей, лечение гайморита) и упрощать запись.",
+    "focus": "ЛОР-врачи привлекают пациентов по запросам симптомов и диагностики (например, эндоскопия носа ЛОР, лечение храпа) и по локальным картам.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, с оптимизацией медицинских изображений.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для мгновенного подтверждения записей пациентов.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Ориентировочный тест слуха онлайн на базе Web Audio API для привлечения пациентов.",
+      "Специализированная форма подготовки к ЛОР-операциям (септопластика, удаление миндалин).",
+      "Локальное SEO и развертывание Schema JSON-LD MedicalBusiness для лор-кабинетов."
+    ]
+  },
+  "zh": {
+    "name": "耳鼻喉科医生",
+    "about": "耳鼻喉科（ENT）涵盖耳、鼻、喉及喉头的诊断与治疗。耳鼻喉科专家的专业网站必须展示专业形象，介绍门诊微创手术（如：耳道冲洗、鼻窦治疗），并提供快速联系方式。",
+    "focus": "耳鼻喉科医生通过针对症状和诊断方法（如：鼻内窥镜检查华沙耳鼻喉科、打鼾治疗）的 SEO 优化以及谷歌地图本地 SEO 中获益。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，配合医学影像优化。",
+      "深度集成短信网关（Twilio / SMSAPI），用于就诊时间实时确认与通知。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "基于 Web Audio API 研制的在线听力粗测工具，作为新潮的网页互动与留资入口。",
+      "耳鼻喉专科手术（如鼻中隔矫正、扁桃体切除）线上适应症预筛查表单。",
+      "通过安全的 REST API 凭证，与 ZnanyLekarz / Medfile 挂号数据库进行集成。"
+    ]
+  }
+}

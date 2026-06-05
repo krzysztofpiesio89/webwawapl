@@ -1,0 +1,139 @@
+{
+  "id": "construction",
+  "slugs": {
+    "pl": "budownictwo",
+    "en": "construction",
+    "de": "bauwesen",
+    "uk": "budivnytstvo",
+    "ru": "stroitelstvo",
+    "zh": "construction"
+  },
+  "translations": {
+    "pl": {
+      "industryName": "Budownictwo",
+      "heroSubtitle": "Dedykowane strony www, szybkie galerie portfolio oraz lokalne pozycjonowanie dla firm budowlanych i wykończeniowych.",
+      "title": "Strony internetowe i systemy IT dla branży budowlanej i remontowej",
+      "description": "Projektujemy ultra-szybkie strony www, galerie przed/po oraz prowadzimy skuteczne pozycjonowanie lokalne dla firm budowlanych i wykończeniowych. Zdobądź klientów lokalnie.",
+      "about": "Branża budowlana i remontowa opiera się na namacalnych efektach, zaufaniu oraz sprawnym kontakcie. Klienci poszukujący ekipy wykończeniowej czy ogólnobudowlanej oczekują natychmiastowego dostępu do galerii zrealizowanych prac, prostych kalkulatorów kosztów oraz szybkiego kontaktu. Nasze dedykowane rozwiązania IT łączą szybkie strony Next.js z dynamicznymi galeriami przed/po i intuicyjnymi formularzami wycen, a lokalne pozycjonowanie pozwala skutecznie dotrzeć do inwestorów w Twojej okolicy.",
+      "series": {
+        "pwa": {
+          "title": "Mobilne portfolio i galerie przed/po",
+          "desc": "Projektujemy ultra-szybkie galerie zdjęć, które wczytują się błyskawicznie na telefonach. Wdrażamy systemy headless CMS pozwalające na dodawanie zdjęć bezpośrednio z placu budowy."
+        },
+        "wordpress": {
+          "title": "Dedykowane strony z kalkulatorem wycen",
+          "desc": "Budujemy nowoczesne witryny z wbudowanymi kalkulatorami robocizny (np. koszt malowania, kafelkowania za m²), które ułatwiają wstępną wycenę i automatycznie generują leady."
+        },
+        "seo": {
+          "title": "Pozycjonowanie lokalne i optymalizacja wizytówek",
+          "desc": "Zapewniamy dominację w lokalnych wynikach wyszukiwania Google i Mapach na frazy dzielnicowe (np. remonty mieszkań Wola, elektryk Ursynów). Wdrażamy mikrodane Schema."
+        }
+      }
+    },
+    "en": {
+      "industryName": "Construction",
+      "heroSubtitle": "Dedicated websites, fast portfolio galleries, and local SEO for construction and renovation companies.",
+      "title": "Websites and IT Systems for the Construction & Renovation Industry",
+      "description": "We design ultra-fast websites, before/after galleries, and drive local SEO campaigns for construction and remodeling companies. Get local leads.",
+      "about": "The construction and renovation industry is driven by visual proof, reliability, and clear pricing. Clients looking for contractors want instant access to a portfolio of completed projects, simple cost calculators, and easy booking. Our IT solutions combine fast Next.js platforms with dynamic galleries and simple quote request forms, while targeted local SEO connects you with homeowners in your area.",
+      "series": {
+        "pwa": {
+          "title": "Mobile Portfolios & Before/After Sliders",
+          "desc": "We build lightning-fast image galleries optimized for mobile devices. We implement headless CMS setups so your crew can upload progress photos straight from the work site."
+        },
+        "wordpress": {
+          "title": "Custom Sites with Quote Calculators",
+          "desc": "We develop modern sites equipped with interactive cost calculators (e.g. price per sq. meter). This automates the estimation process and generates pre-qualified sales leads."
+        },
+        "seo": {
+          "title": "Local SEO & Google Business Profile Optimization",
+          "desc": "We place your business at the top of local search engine rankings for city districts. We implement structured Schema LocalBusiness microdata to boost map visibility."
+        }
+      }
+    },
+    "de": {
+      "industryName": "Bauwesen",
+      "heroSubtitle": "Maßgeschneiderte Webseiten, schnelle Portfolio-Galerien und lokales SEO für Bau- und Renovierungsunternehmen.",
+      "title": "Websites und IT-Systeme für die Bau- und Renovierungsbranche",
+      "description": "Wir entwickeln ultraschnelle Webseiten, Vorher-Nachher-Galerien und führen lokales SEO für Bauunternehmen und Renovierungsdienste durch.",
+      "about": "Im Bau- und Renovierungsgewerbe zählen sichtbare Ergebnisse, Vertrauen und schnelle Erreichbarkeit. Kunden auf der Suche nach Handwerkern möchten Arbeitsproben sehen und Kosten einschätzen können. Unsere IT-Lösungen verbinden performante Next.js-Webseiten mit interaktiven Galerien und intelligenten Anfrageformularen, während lokales SEO Sie direkt mit Bauherren in Ihrer Region zusammenbringt.",
+      "series": {
+        "pwa": {
+          "title": "Mobile Portfolios & Vorher/Nachher-Vergleich",
+          "desc": "Wir erstellen extrem schnelle Bildergalerien für mobile Endgeräte. Durch ein Headless CMS können Ihre Mitarbeiter Fotos direkt von der Baustelle hochladen."
+        },
+        "wordpress": {
+          "title": "Individuelle Seiten mit Baukostenrechner",
+          "desc": "Wir bauen moderne Websites mit integrierten Kostenrechnern (z. B. Quadratmeterpreis für Fliesenarbeiten). Dies erleichtert die Vorkalkulation und generiert qualifizierte Anfragen."
+        },
+        "seo": {
+          "title": "Lokale Suchmaschinenoptimierung & Google Maps",
+          "desc": "Wir bringen Ihr Unternehmen an die Spitze der lokalen Suchergebnisse. Wir implementieren Schema.org-Mikrodaten für das lokale Handwerk zur Erhöhung der Sichtbarkeit."
+        }
+      }
+    },
+    "uk": {
+      "industryName": "Будівництво",
+      "heroSubtitle": "Спеціалізовані сайти, швидкі галереї робіт та локальне SEO для будівельних та ремонтних компаній.",
+      "title": "Веб-сайти та IT-системи для будівельної та ремонтної сфери",
+      "description": "Проектуємо швидкі сайти, галереї 'до/після' та ведемо локальне SEO-просування для будівельних фірм та ремонтних бригад. Залучайте клієнтів локально.",
+      "about": "Будівельний та ремонтний бізнес тримається на реальних результатах, довірі та швидкості комунікації. Клієнти, які шукають будівельників, хочуть відразу побачити фото готових об'єктів та дізнатися орієнтовну вартість робіт. Наші IT-рішення поєднують швидкі сайти на Next.js із інтерактивними слайдерами робіт та простими формами розрахунку ціни, а локальне SEO допомагає отримувати замовлення саме у вашому регіоні.",
+      "series": {
+        "pwa": {
+          "title": "Мобільне портфоліо та слайдери 'до та після'",
+          "desc": "Створюємо оптимізовані під мобільні пристрої галереї. Впроваджуємо headless CMS, щоб ваші майстри могли додавати фото робіт безпосередньо з об'єкта через телефон."
+        },
+        "wordpress": {
+          "title": "Спеціальні сайти з калькулятором кошторису",
+          "desc": "Розробляємо сучасні сайти з калькуляторами вартості послуг (наприклад, ціна за кв.м). Це автоматизує обробку замовлень та приносить готові ліди."
+        },
+        "seo": {
+          "title": "Локальне SEO та просування в Google Картах",
+          "desc": "Забезпечуємо високі позиції вашого бізнесу у локальному пошуку Google по районах міста. Впроваджуємо мікророзмітку Schema LocalBusiness."
+        }
+      }
+    },
+    "ru": {
+      "industryName": "Строительство",
+      "heroSubtitle": "Специализированные сайты, быстрые галереи портфолио и локальное SEO для строительных и ремонтных компаний.",
+      "title": "Веб-сайты и IT-системы для строительной и ремонтной отрасли",
+      "description": "Проектируем быстрые сайты, галереи сравнения работ и ведем локальное SEO-продвижение для строительных компаний и ремонтных бригад.",
+      "about": "Строительная и ремонтная сфера держится на наглядных результатах, доверии и удобстве связи. Клиенты, выбирающие подрядчика, хотят сразу увидеть портфолио выполненных объектов и прикинуть смету. Наши IT-решения объединяют быстрые веб-страницы Next.js с фотогалереями 'до/после' и удобными калькуляторами стоимости работ, а локальное SEO приводит целевых заказчиков из вашего города.",
+      "series": {
+        "pwa": {
+          "title": "Мобильное портфолио и слайдеры 'до/после'",
+          "desc": "Создаем сверхбыстрые галереи изображений для смартфонов. Внедряем headless CMS, чтобы прорабы могли загружать фотографии этапов работ прямо со стройплощадки."
+        },
+        "wordpress": {
+          "title": "Индивидуальные сайты с расчетом сметы онлайн",
+          "desc": "Разрабатываем современные сайты с калькуляторами стоимости услуг (например, цена отделки за м²), что автоматизирует расчеты и приносит готовые заявки."
+        },
+        "seo": {
+          "title": "Локальное SEO и продвижение в Google Картах",
+          "desc": "Выводим вашу компанию на первые места в локальной выдаче Google по районам. Настраиваем микроразметку Schema LocalBusiness для привлечения местных клиентов."
+        }
+      }
+    },
+    "zh": {
+      "industryName": "建筑与装修",
+      "heroSubtitle": "为建筑公司和装修团队量身定制的网站、快速案例库及本地地图 SEO 解决方案。",
+      "title": "针对建筑及装修行业的网站和 IT 系统解决方案",
+      "description": "我们设计超快响应的网站、部署改造前后对比图库，并为建筑及室内装修行业提供高效的本地谷歌 SEO 优化。",
+      "about": "建筑和装修行业高度依赖于可视化的工程成果、信任度以及快捷的沟通。寻找装修或建筑团队的客户期望能立即浏览真实的完工案例、获取估算造价并快速取得联系。我们专属的 IT 解决方案将 Next.js 极速网页技术与动态的 Before/After 案例对比滑块以及智能预算表单相结合，利用本地化 SEO 精准捕获本地市场的开发商与业主需求。",
+      "series": {
+        "pwa": {
+          "title": "移动端专属案例库与 Before/After 对比图",
+          "desc": "我们构建针对手机高度优化的案例图库，加载时间缩短至毫秒级。部署 headless CMS，使施工现场人员能通过手机直接上传最新工期进展图。"
+        },
+        "wordpress": {
+          "title": "配备智能造价计算器的 WordPress 开发",
+          "desc": "我们搭建包含交互式造价计算器（例如：墙面刷漆或瓷砖铺贴的每平米单价）的现代网站，简化预算编制并自动捕捉销售线索。"
+        },
+        "seo": {
+          "title": "本地搜索引擎优化与谷歌地图置顶",
+          "desc": "我们助力您的企业在当地各区域的谷歌搜索和地图结果中脱颖而出。全面实施行业专用的 Schema LocalBusiness 结构化数据。"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Fryzjer",
+    "about": "Salon fryzjerski oraz stylista fryzur potrzebują witryny, która jest przede wszystkim portfolio ich kunsztu. Dynamiczne galerie zdjęć, prezentacja cennika usług (strzyżenie, koloryzacja, modelowanie) i prosty zapis online to elementy niezbędne na stronie nowoczesnego salonu.",
+    "focus": "Kluczem do pozyskiwania klientów jest lokalne pozycjonowanie na frazy powiązane ze specjalistycznymi zabiegami (np. keratynowe prostowanie Warszawa, koloryzacja balayage) oraz wysokie pozycje w wyszukiwarkach lokalnych.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) zoptymalizowanej pod kątem szybkiej rezerwacji wizyt online.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla automatycznych przypomnień o terminach zabiegów.",
+      "Przycisk bezpośredniego połączenia telefonicznego oraz szybkiego kontaktu przez WhatsApp (Mobile-First).",
+      "Interaktywny katalog fryzur i portfolio zintegrowane z Instagram API (automatyczna synchronizacja).",
+      "Wieloetapowy kreator fryzur 3D online oparty na WebGL i Three.js do wizualizacji cięć.",
+      "Program lojalnościowy z wbudowanym portfelem cyfrowym i integracją Apple Wallet / Google Pay."
+    ]
+  },
+  "en": {
+    "name": "Hairdresser",
+    "about": "A hair salon and hair stylist require a website that serves as a visual showcase of their skills. High-performance galleries, detailed service menus (cuts, coloring, styling), and simple online booking widgets are essential tools for a modern salon.",
+    "focus": "The main driver of new clients is local SEO targeting specialized procedures (e.g. balayage hair coloring, keratin smoothing treatment), and strong search authority in localized map search results.",
+    "specifications": [
+      "Ultra-lightweight website (Vite & React / Next.js) optimized for fast online booking and scheduling.",
+      "Integration with SMS notifications (Twilio / SMSAPI) for automated appointment and booking reminders.",
+      "Mobile-first click-to-call button and direct WhatsApp quick contact integration.",
+      "Interactive hairstyle catalog and portfolio integrated with Instagram API for automatic syncing.",
+      "Multi-step 3D hairstyle visualizer online based on WebGL and Three.js to preview cuts.",
+      "Loyalty program with built-in digital wallet and Apple Wallet / Google Pay integration."
+    ]
+  },
+  "de": {
+    "name": "Friseur",
+    "about": "Ein Friseursalon benötigt eine Website, die vor allem als visuelles Portfolio dient. Moderne Bildergalerien für Schnitte und Färbungen sowie eine klare Preisanzeige sind Pflicht für jeden modernen Salon.",
+    "focus": "Die Gewinnung von Neukunden erfolgt über lokales SEO für spezielle Dienstleistungen (z. B. Balayage oder Keratinglättung) und starke Präsenz in lokalen Stadtteil-Ergebnissen.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), optimiert für schnelle Online-Terminbuchung.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für automatische Erinnerungen an Behandlungstermine.",
+      "Direktruf-Schaltfläche und schnelle WhatsApp-Kontakt-Integration optimiert für mobile Endgeräte.",
+      "Interaktiver Frisurenkatalog und Portfolio integriert mit Instagram API für automatische Synchronisierung.",
+      "Mehrstufiger 3D-Frisuren-Visualisierer online basierend auf WebGL und Three.js zur Vorschau von Schnitten.",
+      "Treueprogramm mit integrierter digitaler Geldbörse und Apple Wallet / Google Pay Integration."
+    ]
+  },
+  "uk": {
+    "name": "Перукар-стиліст",
+    "about": "Перукарський салон потребує сайту, що виступає в ролі портфоліо майстерності. Динамічні галереї зачісок та фарбувань, детальний прайс-лист послуг та кнопка запису є життєво необхідними для сучасного салону.",
+    "focus": "Залучення нових клієнтів базується на локальному просуванні під спеціалізовані послуги (наприклад, складне фарбування волосся, кератинове вирівнювання) та оптимізації карти Google.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), оптимізованого для швидкого онлайн-запису на прийом.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для автоматичних нагадувань про процедури.",
+      "Кнопка швидкого дзвінка та інтеграція швидкого зв'язку через WhatsApp (Mobile-First).",
+      "Інтерактивний каталог зачісок та портфоліо, інтегровані з Instagram API для автосинхронізації.",
+      "Багатокроковий онлайн-візуалізатор зачісок у 3D на базі WebGL та Three.js для демонстрації стрижок.",
+      "Програма лояльності з вбудованим цифровим гаманцем та інтеграцією з Apple Wallet / Google Pay."
+    ]
+  },
+  "ru": {
+    "name": "Парикмахер-стилист",
+    "about": "Парикмахерский салон нуждается в сайте, который выступает в роли портфолио мастерства. Динамические галереи причесок и окрашиваний, детальный прайс-лист услуг и кнопка записи жизненно необходимы для современного салона.",
+    "focus": "Привлечение новых клиентов базируется на локальном продвижении под специализированные услуги (например, сложное окрашивание волос, кератиновое выпрямление) и оптимизации карты Google.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), оптимизированного для быстрой онлайн-записи на процедуры.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для автоматических напоминаний о визитах.",
+      "Кнопка быстрого звонка и интеграция быстрого контакта через WhatsApp (Mobile-First).",
+      "Интерактивный каталог причесок и портфолио, интегрированные с Instagram API для автосинхронизации.",
+      "Пошаговый онлайн-визуализатор причесок в 3D на базе WebGL и Three.js для демонстрации стрижек.",
+      "Программа лояльности с встроенным цифровым кошельком и интеграцией с Apple Wallet / Google Pay."
+    ]
+  },
+  "zh": {
+    "name": "美发造型师",
+    "about": "发型设计沙龙和独立发型师需要一个着重展示造型技艺的视觉化官网。支持滑动的高清发型与染发客照画廊、分类价格明细（修剪、烫染、护理）以及便捷的移动端快速预约是标配。",
+    "focus": "吸引新顾客的关键在于针对专业美发项目进行本地 SEO 优化（如：华沙日系烫发、局部挑染价格），并在周边社区的地图搜索中夺取流量高地。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，针对线上预约与排班日程进行极速加载优化。",
+      "深度集成短信网关（Twilio / SMSAPI），用于客户护理及美容预约时间自动提醒。",
+      "针对移动端专门优化的 Mobile-First 一键呼叫按钮与 WhatsApp 快捷咨询通道。",
+      "集成 Instagram API 的动态发型展示墙与个人作品集，支持社交媒体内容自动同步。",
+      "基于 WebGL 与 Three.js 研发的 3D 在线虚拟发型发色搭配与裁剪预览系统。",
+      "内置会员积分与返利系统，支持一键添加到 Apple Wallet 与 Google Pay 电子卡包。"
+    ]
+  }
+}

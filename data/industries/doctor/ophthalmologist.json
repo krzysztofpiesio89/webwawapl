@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Okulista",
+    "about": "Okulistyka i chirurgia okulistyczna opierają się na nowoczesnym sprzęcie diagnostycznym oraz zaufaniu pacjentów. Profesjonalna witryna powinna przejrzyście prezentować zakres badań wzroku, cennik szkieł oraz opisy operacji wad wzroku.",
+    "focus": "Okuliści budują widoczność w Google poprzez frazy intencyjne powiązane z badaniami (np. badanie dna oka Warszawa, badanie wzroku cena) oraz optymalizację lokalnej mapy Google dla osób szukających pomocy blisko siebie.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, z optymalizacją obrazów medycznych.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego potwierdzania wizyt pacjentów.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Interaktywny, orientacyjny test ostrości wzroku online (React/Canvas API) jako lejek konwersji.",
+      "Dedykowany system rezerwacji badań refrakcji i doboru szkieł kontaktowych (Next.js).",
+      "Strukturyzowane bazy wiedzy o wadach wzroku zoptymalizowane pod wyszukiwarki AI."
+    ]
+  },
+  "en": {
+    "name": "Ophthalmologist",
+    "about": "Ophthalmology and eye surgery rely heavily on state-of-the-art diagnostic equipment and patient trust. A professional website should clearly present the range of eye tests, lens options, and corrective laser surgery options.",
+    "focus": "Ophthalmologists build organic visibility through intent-driven keywords (e.g. fundus examination Warsaw, eye test cost) and local Google Maps optimization for patients looking for clinics nearby.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, with medical image optimization.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant patient booking confirmations.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Interactive, preliminary online vision acuity test (React/Canvas API) for patient acquisition.",
+      "Dedicated booking system for refraction eye exams and contact lens fitting (Next.js).",
+      "Structured vision defect knowledge base optimized for AI search engine indexing."
+    ]
+  },
+  "de": {
+    "name": "Augenarzt",
+    "about": "Die Augenheilkunde erfordert moderne Diagnosegeräte und das Vertrauen der Patienten. Die Website sollte Sehtests, Brillenanpassungen und Operationen (z. B. Laser-Korrekturen) klar darstellen.",
+    "focus": "Augenärzte optimieren ihre Suche durch gezielte Diagnosebegriffe (z. B. Netzhautuntersuchung, Sehtest Kosten) und die lokale Google Maps-Präsenz für Praxen in der Nähe.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, mit medizinischer Bildoptimierung.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige Terminbestätigungen von Patienten.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Interaktiver Online-Sehtest (React/Canvas API) zur Gewinnung von Neupatienten.",
+      "Dediziertes Buchungssystem für Refraktionsbestimmungen und Kontaktlinsenanpassungen (Next.js).",
+      "Strukturierte Wissensdatenbank für Fehlsichtigkeiten, optimiert für KI-Suchmaschinen."
+    ]
+  },
+  "uk": {
+    "name": "Офтальмолог",
+    "about": "Офтальмологія та очна хірургія базуються на сучасному діагностичному обладнанні та довірі пацієнтів. Сайт має чітко описувати види перевірки зору та лазерну корекцію.",
+    "focus": "Офтальмологи просуваються в пошуку завдяки комерційним запитам щодо обстежень (наприклад, вимірювання очного тиску, підбір окулярів) та оптимізації Google карт.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, з оптимізацією медичних зображень.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для миттєвого підтвердження записів пацієнтів.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Інтерактивний орієнтовний тест гостроти зору онлайн (React/Canvas API) для залучення клієнтів.",
+      "Система запису на комп'ютерну діагностику зору та підбір лінз (Next.js).",
+      "Структурована база знань про очні захворювання, оптимізована під пошукові алгоритми AI."
+    ]
+  },
+  "ru": {
+    "name": "Офтальмолог",
+    "about": "Офтальмология и глазная хирургия опираются на современное оборудование и доверие пациентов. Сайт должен понятно описывать виды диагностики и лазерной коррекции зрения.",
+    "focus": "Офтальмологи привлекают пациентов по коммерческим запросам (например, компьютерная диагностика зрения, подбор очков цена) и локальным картам.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, с оптимизацией медицинских изображений.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для мгновенного подтверждения записей пациентов.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Интерактивный ориентировочный тест остроты зрения онлайн (React/Canvas API) для привлечения пациентов.",
+      "Система записи на компьютерную диагностику зрения и подбор линз (Next.js).",
+      "Структурированная база знаний о глазных заболеваниях, оптимизированная под алгоритмы AI."
+    ]
+  },
+  "zh": {
+    "name": "眼科医生",
+    "about": "眼科学和眼科手术依赖于现代化的诊断设备以及患者的信任。专业的网站应当清晰地展示视力检查范围、镜片配镜服务以及激光视力矫正手术的介绍。",
+    "focus": "眼科医生通过以检查为导向的关键词（如：眼底检查华沙、视力检查价格）进行 SEO 优化，并针对寻找附近诊所的患者进行谷歌地图本地排名。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，配合医学影像优化。",
+      "深度集成短信网关（Twilio / SMSAPI），用于就诊时间实时确认与通知。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "基于 React/Canvas API 研发的交互式在线视力筛查小游戏，用作获客及引流漏斗。",
+      "采用 Next.js 开发的验光配镜与隐形眼镜试戴定制预约挂号页面。",
+      "针对新型 AI 搜索引擎（如 Perplexity/SGE）进行知识图谱优化的眼科疾病科普库。"
+    ]
+  }
+}

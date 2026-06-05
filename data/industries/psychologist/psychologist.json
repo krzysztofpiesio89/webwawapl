@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Psycholog",
+    "about": "Profesjonalna strona dla psychologa to narzędzie budujące zaufanie z pacjentem. Umożliwia jasną prezentację nurtu pracy, doświadczenia klinicznego oraz pozwala na dyskretną i szybką rezerwację konsultacji.",
+    "focus": "Kluczem do sukcesu w pozycjonowaniu psychologa jest optymalizacja profilu Google Moja Firma na lokalne frazy (np. psycholog Warszawa Śródmieście) oraz tworzenie wartościowych artykułów odpowiadających na pytania pacjentów.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) dla gabinetów psychoterapii i poradnictwa.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla dyskretnego potwierdzania terminów sesji.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Szyfrowany i w pełni anonimowy formularz zgłoszeniowy (zgodność z RODO i etyką zawodu).",
+      "Integracja REST API z systemem rezerwacji ZnanyLekarz lub własnym kalendarzem online.",
+      "Wdrożenie autonomicznego bota głosowego AI do umawiania i przekładania terminów sesji."
+    ]
+  },
+  "en": {
+    "name": "Psychologist",
+    "about": "A professional website for a psychologist bridges the gap of trust with patients. It allows a clear presentation of therapeutic approach, clinical experience, and offers a private, quick booking system.",
+    "focus": "Success in psychologist SEO relies on optimizing Google Business profiles for local queries (e.g., psychologist near me) and publishing helpful articles addressing patients' search intent.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) tailored for psychotherapy clinics.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for discreet therapy session reminders.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Encrypted and fully anonymous intake forms complying with GDPR and professional ethics.",
+      "Deployment of an autonomous AI voice bot for scheduling and rescheduling therapy sessions.",
+      "SSL secure medical forms and transparent session bundle pricing directories."
+    ]
+  },
+  "de": {
+    "name": "Psychologe",
+    "about": "Eine professionelle Website für einen Psychologen baut eine Brücke des Vertrauens zum Patienten. Sie ermöglicht eine klare Präsentation der Arbeitsweise und Berufserfahrung sowie eine diskrete Terminbuchung.",
+    "focus": "Der Schlüssel zum Erfolg liegt in der Optimierung des Google Business Profils für lokale Suchbegriffe und dem Verfassen hilfreicher Fachbeiträge.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js) für Psychotherapie-Praxen.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für diskrete Therapiesitzungserinnerungen.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Verschlüsselte und vollkommen anonyme Kontaktformulare gemäß DSGVO und Berufsordnung.",
+      "REST-API-Integration mit dem ZnanyLekarz-System oder Online-Kalendern.",
+      "Implementierung eines autonomen KI-Sprachbots zur Verwaltung von Therapiesitzungen."
+    ]
+  },
+  "uk": {
+    "name": "Психолог",
+    "about": "Професійний сайт для психолога — це інструмент побудови довіри з пацієнтом. Він дозволяє чітко представити напрямок роботи, клінічний досвід та забезпечити конфіденційний запис на прийом.",
+    "focus": "Ключем до успіху просування є оптимізація профілю Google Business під локальні запити (наприклад, психолог Київ) та створення інформативного блогу.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js) для кабінетів психотерапії та консультування.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для конфіденційного нагадування про сеанси.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Зашифрована та повністю анонімна форма запису (відповідність GDPR та етиці психолога).",
+      "Інтеграція REST API з календарем ZnanyLekarz або власними плагінами онлайн-запису.",
+      "Впровадження автономного голосового бота AI для запису та перенесення сеансів терапії."
+    ]
+  },
+  "ru": {
+    "name": "Психолог",
+    "about": "Профессиональный сайт для психолога — это инструмент для выстраивания доверия с пациентом. Он позволяет наглядно показать методы работы, опыт и предоставить возможность конфиденциальной записи.",
+    "focus": "Ключ к успеху в продвижении — оптимизация профиля Google Business по локальным запросам и публикация полезных статей на тему ментального здоровья.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js) для кабинетов психотерапии и консультирования.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для конфиденциального напоминания о сеансах.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Зашифрованная и полностью анонимная форма записи (соответствие GDPR и этике психолога).",
+      "Интеграция REST API с календарем ZnanyLekarz или собственными плагинами онлайн-записи.",
+      "Внедрение автономного голосового бота AI для записи и переноса сеансов терапии."
+    ]
+  },
+  "zh": {
+    "name": "心理咨询师",
+    "about": "心理咨询师的专业网站是建立与来访者之间信任的桥梁。它能够清晰展示您的咨询取向、临床经验，并提供保密且便捷的在线预约通道。",
+    "focus": "心理咨询师 SEO 成功的关键在于针对本地化关键词优化谷歌商家信息（GBP），并撰写解答来访者常见心理疑问的科普文章。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，适合心理咨询诊所。",
+      "深度集成短信网关（Twilio / SMSAPI），用于会谈日程的保密级自动提醒与确认。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "严格遵循 GDPR 数据安全保护条例及心理咨询执业伦理的 100% 匿名加密预约表单。",
+      "通过 REST API 深度打通 ZnanyLekarz 挂号管理系统或第三方独立电子日程表。",
+      "部署智能 AI 语音助手，协助用户在免人工干预下自助预约、修改或取消咨询时间段。"
+    ]
+  }
+}

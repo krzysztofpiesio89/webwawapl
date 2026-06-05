@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Księgowy",
+    "about": "Indywidualny księgowy dla małych i średnich przedsiębiorstw potrzebuje witryny, która buduje wizerunek profesjonalizmu, rzetelności oraz znajomości bieżących przepisów podatkowych.",
+    "focus": "Najbardziej efektywne pozycjonowanie opiera się na lokalnych frazy intencyjnych (np. tani księgowy Warszawa, księgowy JDG) oraz na czytelnej prezentacji cennika i pakietów usług.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, bez zbędnych bibliotek.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) do automatycznych alertów o terminach podatkowych.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Integracja z rządowym systemem KSeF (Krajowy System e-Faktur) za pomocą API w C# / .NET.",
+      "Dedykowany, interaktywny kalkulator składek ZUS i podatków (Polski Ład) w React/TypeScript.",
+      "Szyfrowany portal klienta do wgrywania dokumentów księgowych (Django/Python)."
+    ]
+  },
+  "en": {
+    "name": "Accountant",
+    "about": "A personal accountant for small and medium businesses needs a website that projects professionalism, reliability, and up-to-date knowledge of tax regulations.",
+    "focus": "The most effective SEO strategy targets high-intent local B2B keywords (e.g. personal accountant Warsaw, small business tax service) and transparent pricing tiers.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, without thread-blocking libraries.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for automated tax deadline alerts.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Interactive tax and social security (ZUS) calculator built with React/TypeScript.",
+      "Encrypted secure client portal for uploading financial documents (Django/Python).",
+      "Financial data security implementation via SSL, GDPR, and automated backup routines."
+    ]
+  },
+  "de": {
+    "name": "Buchhalter",
+    "about": "Ein selbstständiger Buchhalter benötigt einen Webauftritt, der Professionalität, Genauigkeit und die Kenntnis aktueller Steuergesetze vermittelt.",
+    "focus": "Die beste SEO-Wirkung erzielt man durch lokale Suchbegriffe (z. B. Buchhalter Hamburg) und strukturierte Preispakete für Selbstständige.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, ohne den Thread blockierende Bibliotheken.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für automatische Steuerfristalarme.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Anbindung an das nationale E-Rechnungsportal KSeF über eine C# / .NET-API.",
+      "Interaktiver Steuer- und Sozialversicherungsrechner in React/TypeScript.",
+      "Verschlüsseltes Mandantenportal zum sicheren Upload von Belegen (Django/Python)."
+    ]
+  },
+  "uk": {
+    "name": "Бухгалтер",
+    "about": "Приватний бухгалтер потребує сайту, який демонструє професіоналізм, надійність та глибокі знання податкового законодавства для малого та середнього бізнесу.",
+    "focus": "Ефективне просування базується на локальних запитах (наприклад, послуги бухгалтера) та детальному прайс-листі для різних форм оподаткування.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, без бібліотек, які блокують потік.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для автоматичних нагадувань про податкові терміни.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Інтеграція з державною системою електронних накладних KSeF через API на C# / .NET.",
+      "Спеціалізований калькулятор податків та внесків на базі React/TypeScript.",
+      "Зашифрований кабінет замовника для завантаження бухгалтерських первинних документів (Django/Python)."
+    ]
+  },
+  "ru": {
+    "name": "Бухгалтер",
+    "about": "Частный бухгалтер для малого и среднего бизнеса нуждается в сайте, который отражает компетентность, надежность и актуальные знания налогового кодекса.",
+    "focus": "Наибольшую отдачу приносит продвижение по целевым локальным B2B запросам и детальная презентация стоимости услуг для разных типов бизнеса.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, без блокирующих поток библиотек.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для автоматических напоминаний о налоговых сроках.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Интеграция с государственной системой электронных накладных KSeF через API на C# / .NET.",
+      "Специализированный калькулятор налогов и взносов на базе React/TypeScript.",
+      "Зашифрованный личный кабинет заказчика для загрузки первичных документов (Django/Python)."
+    ]
+  },
+  "zh": {
+    "name": "会计师",
+    "about": "服务于中小型企业的独立会计师需要一个展示专业度、严谨态度以及熟知最新税务合规政策的线上名片。",
+    "focus": "最行之有效的 SEO 方案是定位高意向的本地企业服务词汇（如：华沙个人会计师、小微企业记账）并清晰呈现套餐价格。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，杜绝任何阻塞主线程的冗余库。",
+      "深度集成短信网关（Twilio / SMSAPI），用于纳税申报及社保缴费等申报节点自动短信提醒。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "通过 C# / .NET API 与国家 KSeF 电子发票收发系统进行直接整合。",
+      "基于 React/TypeScript 研发的精细化个人与企业所得税、社保规费在线试算小工具。",
+      "基于 Django (Python) 研发的金融级别高可靠票据上传与数字对账后台。"
+    ]
+  }
+}

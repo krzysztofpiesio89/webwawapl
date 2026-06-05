@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Architekt",
+    "about": "Architektura wymaga budowania wizerunku autorytetu technicznego i artystycznego. Profesjonalna witryna architekta ułatwia prezentację projektów budowlanych (domy jednorodzinne, obiekty komercyjne) oraz zapewnia prosty kontakt.",
+    "focus": "Kluczem do pozycjonowania architekta są lokalne frazy intencyjne (np. architekt domów jednorodzinnych Warszawa, biuro architektoniczne) oraz czytelne case studies z realizacji.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, z optymalizacją ciężkich portfolio i grafik.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla błyskawicznego potwierdzania konsultacji projektowych.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Szybkie portfolio projektów oparte na Next.js Image i chmurowym hostingu Cloudinary.",
+      "Interaktywne rzuty 3D i makiety obiektów (Three.js / WebGL / React Three Fiber).",
+      "Przejrzyste formularze zapytań ofertowych i kalkulacji kosztów w technologii React."
+    ]
+  },
+  "en": {
+    "name": "Architect",
+    "about": "Architecture requires establishing technical and artistic authority. A professional architect website showcases building designs (residential houses, commercial projects) and streamlines communication.",
+    "focus": "The key to architect SEO lies in local high-intent B2B keywords (e.g. custom home architect Warsaw, local architecture firm) and comprehensive project case studies.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, with portfolio image optimization.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant design consultation booking confirmations.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Fast project portfolio powered by Next.js Image and cloud image hosting via Cloudinary.",
+      "Interactive 3D building models and blueprints (Three.js / WebGL / React Three Fiber).",
+      "Transparent RFQ forms and construction cost estimators developed in React."
+    ]
+  },
+  "de": {
+    "name": "Architekt",
+    "about": "Die Architektur erfordert den Aufbau technischer und künstlerischer Kompetenz. Eine professionelle Website präsentiert Bauprojekte und erleichtert die Kontaktaufnahme.",
+    "focus": "Erfolgsfaktor im SEO sind lokale Suchbegriffe (z. B. Architekt Einfamilienhäuser München) und detaillierte Projekt-Referenzen.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, mit Portfolio-Bildoptimierung.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige Designberatungsterminbestätigungen.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Schnelles Projektportfolio auf Basis von Next.js Image und Cloudinary-Hosting.",
+      "Interaktive 3D-Gebäudemodelle und Entwürfe (Three.js / WebGL / React Three Fiber).",
+      "Übersichtliche Formulare für Preisanfragen und Baukostenschätzungen in React."
+    ]
+  },
+  "uk": {
+    "name": "Архітектор",
+    "about": "Архітектура вимагає поєднання технічного та художнього авторитету. Сайт архітектора спрощує демонстрацію будівельних проектів та забезпечує надійний контакт.",
+    "focus": "Ключовими для просування є локальні запити (наприклад, архітектор приватних будинків) та детальний опис реалізованих кейсів.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, з оптимізацією портфоліо та зображень.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для миттєвого підтвердження записів на консультації.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Швидке портфоліо проектів на базі Next.js Image та хмарного медіа-хостингу Cloudinary.",
+      "Інтерактивні 3D-плани будинків та тривимірні макети (Three.js / WebGL / React Three Fiber).",
+      "Зручні форми запитів комерційних пропозицій та кошторисів на React."
+    ]
+  },
+  "ru": {
+    "name": "Архитектор",
+    "about": "Архитектура требует создания технического и творческого авторитета. Профессиональный сайт помогает эффектно представить строительные проекты и обеспечивает простой контакт.",
+    "focus": "Ключ к успеху в продвижении — локальные запросы целевой аудитории (например, архитектор загородных домов) и публикация подробных кейсов.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, с оптимизацией портфолио и изображений.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для мгновенного подтверждения записей на консультации.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Быстрое портфолио проектов на базе Next.js Image и облачного медиа-хостинга Cloudinary.",
+      "Интерактивные 3D-планы зданий и трехмерные макеты (Three.js / WebGL / React Three Fiber).",
+      "Удобные формы запросов коммерческих предложений и смет на React."
+    ]
+  },
+  "zh": {
+    "name": "建筑师",
+    "about": "建筑设计需要确立技术与艺术的双重权威。建筑师的专业网站可完美呈现各类建筑项目（如独栋住宅、商业地产）并简化与客户的沟通路线。",
+    "focus": "建筑师 SEO 的关键是针对本地化高意向词汇进行优化（如：自建别墅设计、华沙建筑设计院），并提供详尽的项目落地案例分析。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，针对高精图集实施多重压缩优化。",
+      "深度集成短信网关（Twilio / SMSAPI），用于客户创意方案咨询与确认。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "基于 Next.js Image 和 Cloudinary 云图床优化技术构建的超高画质工程案例图集。",
+      "基于 Three.js / WebGL / React Three Fiber 开发的交互式 3D 建筑与楼宇渲染模型。",
+      "采用 React 编写的建筑开发预算概算评估与合规电子询价表单系统。"
+    ]
+  }
+}

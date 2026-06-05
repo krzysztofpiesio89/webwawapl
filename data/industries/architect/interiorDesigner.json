@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Projektant wnętrz",
+    "about": "Projektowanie wnętrz to branża, w której liczy się estetyka, ergonomia i dbałość o detal. Witryna projektanta musi zachwycać układem wizualnym, prezentować zrealizowane metamorfozy oraz precyzyjnie opisywać pakiety projektowe.",
+    "focus": "Głównym motorem pozycjonowania są frazy intencyjne B2C/B2B (np. projektant wnętrz Warszawa, aranżacja mieszkań) oraz estetycznie zoptymalizowana sekcja FAQ i galerii.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, z optymalizacją ciężkich portfolio i grafik.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla błyskawicznego potwierdzania konsultacji projektowych.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Interaktywny suwak zdjęć 'Przed i Po' (react-compare-image) dla metamorfoz wnętrz.",
+      "Integracja z bezgłowym systemem CMS (WordPress REST API) dla łatwego wrzucania galerii.",
+      "Przejrzyste formularze zapytań o koszt prac wykończeniowych według metrażu."
+    ]
+  },
+  "en": {
+    "name": "Interior Designer",
+    "about": "Interior design is a business centered around aesthetics, ergonomics, and detail. A designer's website must captivate visitors with its visual layout, show portfolio makeovers, and outline design packages.",
+    "focus": "The most effective SEO rankings is high-intent keywords (e.g. interior designer Warsaw, home staging services) and an aesthetically optimized FAQ and gallery structure.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, with portfolio image optimization.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant design consultation booking confirmations.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Interactive Before/After image comparison slider (react-compare-image) for interior makeovers.",
+      "Headless CMS integration (WordPress REST API) for seamless project gallery management.",
+      "Clear, metrage-based interior design fee calculator and RFQ forms."
+    ]
+  },
+  "de": {
+    "name": "Innenarchitekt",
+    "about": "Innenarchitektur erfordert Ästhetik, Ergonomie und Liebe zum Detail. Die Website muss durch ihr visuelles Layout bestechen und fertiggestellte Projekte präsentieren.",
+    "focus": "Die treibende Kraft im SEO sind zielgerichtete Suchbegriffe (z. B. Innenarchitekt Berlin) und eine gut strukturierte Projektgalerie.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, mit Portfolio-Bildoptimierung.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige Designberatungsterminbestätigungen.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Interaktiver Vorher-Nachher-Vergleich (react-compare-image) für Innenarchitektur-Projekte.",
+      "Headless-CMS-Integration (WordPress-REST-API) für eine einfache Verwaltung von Projektgalerien.",
+      "Übersichtliche Formulare zur Berechnung von Designkosten basierend auf der Wohnfläche."
+    ]
+  },
+  "uk": {
+    "name": "Дизайнер інтер'єру",
+    "about": "Дизайн інтер'єру — це сфера, де важливі естетика, ергономіка та деталі. Сайт дизайнера повинен вражати своїм виглядом, показувати реалізовані перетворення та описувати пакети послуг.",
+    "focus": "Головним чинником просування є локальні запити (наприклад, дизайн квартир Київ) та оптимізований під візуальний контент блог.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, з оптимізацією портфоліо та зображень.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для миттєвого підтвердження записів на консультації.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Інтерактивний слайдер порівняння фото 'До та Після' (react-compare-image) для дизайну інтер'єрів.",
+      "Інтеграція з безголовим CMS (WordPress REST API) для зручного оновлення проектів.",
+      "Зручні покрокові форми запиту ціни дизайну проекту відповідно до площі приміщення."
+    ]
+  },
+  "ru": {
+    "name": "Дизайнер интерьера",
+    "about": "Дизайн интерьера — это сфера, где ключевую роль играют эстетика, эргономика и внимание к деталям. Сайт дизайнера должен привлекать визуальным стилем и содержать понятное описание тарифов.",
+    "focus": "Основной фокус поискового продвижения — локальные целевые запросы (например, дизайнер интерьера квартир) и оптимизированная под фотогалереи структура.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, с оптимизацией портфолио и изображений.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для мгновенного подтверждения записей на консультации.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Интерактивный слайдер сравнения фото 'До/После' (react-compare-image) для дизайна интерьеров.",
+      "Интеграция с безголовым CMS (WordPress REST API) для удобного обновления проектов.",
+      "Удобные пошаговые формы запроса цены дизайн-проекта в зависимости от площади помещения."
+    ]
+  },
+  "zh": {
+    "name": "室内设计师",
+    "about": "室内设计高度融合了空间美学、人体工程学以及对细节的打磨。设计师的网站必须在视觉布局上令人过目不忘，全方位展示空间改造成果，并详述设计服务包。",
+    "focus": "SEO 的主要驱动力在于高转化率的 B2C/B2B 搜索词（如：华沙室内设计、小户型公寓改造）以及在视觉性能上经过优化的 FAQ 与案例库。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，针对高精图集实施多重压缩优化。",
+      "深度集成短信网关（Twilio / SMSAPI），用于客户创意方案咨询与确认。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "部署基于 react-compare-image 的交互式 Before/After 实景效果对比滑动小工具。",
+      "与 Headless WordPress REST API 深度对接，实现后台一键无感分发高清完工图集。",
+      "基于房屋面积开发的分段计费设计概算在线收集表单。"
+    ]
+  }
+}

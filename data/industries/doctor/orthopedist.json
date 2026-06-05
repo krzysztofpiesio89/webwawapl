@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Ortopeda",
+    "about": "Ortopedia i traumatologia narządu ruchu wymaga zaufania, rzetelnych opisów zabiegów oraz szybkiego kontaktu w przypadku nagłych urazów. Pacjenci szukają ortopedów lokalnie, oceniając doświadczenie lekarza i opinie.",
+    "focus": "Dla ortopedy kluczowe jest pozycjonowanie na frazy powiązane z zabiegami (np. artroskopia kolana Warszawa, endoproteza biodra) oraz silna obecność w lokalnych Mapach Google dla przypadków nagłych urazów.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, z optymalizacją obrazów medycznych.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego potwierdzania wizyt pacjentów.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Moduł przesyłania dużych plików obrazowych RTG/MRI przez AWS S3 z szyfrowaniem w locie.",
+      "Integracja z botem AI kwalifikującym do zabiegów operacyjnych na podstawie kwestionariusza.",
+      "System powiadomień SMS o terminach operacji i zaleceniach przedzabiegowych (SMSAPI)."
+    ]
+  },
+  "en": {
+    "name": "Orthopedist",
+    "about": "Orthopedics and musculoskeletal traumatology require trust, reliable treatment descriptions, and quick contact options for sudden injuries. Patients search for orthopedists locally, verifying experience and reviews.",
+    "focus": "For an orthopedist, key SEO factors include optimization for surgical procedures (e.g. knee arthroscopy Warsaw, hip replacement) and a strong presence in local Google Maps for emergency trauma cases.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, with medical image optimization.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant patient booking confirmations.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Large RTG/MRI imaging file upload module via AWS S3 with on-the-fly encryption.",
+      "SMS notification system for surgery dates and pre-op requirements (SMSAPI).",
+      "Medical forms security via SSL, GDPR compliance, and database encryption."
+    ]
+  },
+  "de": {
+    "name": "Orthopäde",
+    "about": "Orthopädie und Traumatologie erfordern Vertrauen, zuverlässige Behandlungsbeschreibungen und schnellen Kontakt bei akuten Verletzungen. Patienten suchen Orthopäden in ihrer Nähe.",
+    "focus": "Der wichtigste SEO-Erfolgsfaktor für Orthopäden ist die Positionierung bei Operationsbegriffen (z. B. Kniearthroskopie, Hüftprothese) und die lokale Google Maps-Optimierung für Notfälle.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, mit medizinischer Bildoptimierung.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige Terminbestätigungen von Patienten.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Modul zum Hochladen großer Röntgen-/MRT-Bilddateien über AWS S3 mit Verschlüsselung.",
+      "Integration mit einem KI-Qualifizierungs-Bot für chirurgische Eingriffe auf Basis von Fragebögen.",
+      "Sicherheit medizinischer Formulare über SSL, DSGVO-Konformität und Datenbankverschlüsselung."
+    ]
+  },
+  "uk": {
+    "name": "Ортопед",
+    "about": "Ортопедія та травматологія потребують високого рівня довіри, детальних описів процедур та можливості швидкого зв'язку при травмах. Пацієнти шукають ортопедів локально.",
+    "focus": "Ключем до успіху в Google для ортопеда є просування за назвами операцій (наприклад, артроскопія коліна, ендопротезування) та високі позиції в Google Maps.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, з оптимізацією медичних зображень.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для миттєвого підтвердження записів пацієнтів.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Модуль завантаження великих файлів знімків рентгену/МРТ через AWS S3 з шифруванням на льоту.",
+      "Інтеграція з ботом AI для попередньої оцінки необхідності операції на основі квізу.",
+      "Система SMS-сповіщень про дати операцій та передопераційні інструкції (SMSAPI)."
+    ]
+  },
+  "ru": {
+    "name": "Ортопед",
+    "about": "Ортопедия и травматология требуют доверия, подробного описания операций и возможности быстрого контакта при травмах. Пациенты ищут ортопедов рядом с домом.",
+    "focus": "Для ортопеда важно продвижение по запросам операций (например, артроскопия коленного сустава, эндопротезирование суставов) и оптимизация Google карт.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, с оптимизацией медицинских изображений.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для мгновенного подтверждения записей пациентов.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Модуль загрузки тяжелых снимков рентгена/МРТ через AWS S3 с шифрованием на лету.",
+      "Интеграция с ботом AI для предварительной оценки необходимости операции на основе квиза.",
+      "Система SMS-оповещений о датах операций и предоперационных инструкциях (SMSAPI)."
+    ]
+  },
+  "zh": {
+    "name": "骨科医生",
+    "about": "骨科和运动创伤学需要建立信任、提供详尽的诊疗方案，并在发生急性损伤时提供快速联系方式。患者通常会在本地寻找骨科专家并查看评价。",
+    "focus": "骨科医生在搜索引擎上的重点是针对具体手术（如：膝关节镜手术、人工髋关节置换术）进行排名优化，以及在谷歌地图中建立强大的本地曝光度。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，配合医学影像优化。",
+      "深度集成短信网关（Twilio / SMSAPI），用于就诊时间实时确认与通知。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "通过 AWS S3 构建的重症影像（X光片/核磁共振等大文件）高带宽上传模块，支持流式加密。",
+      "集成 AI 筛查助理，通过线上结构化问卷，对是否需要进行骨科关节手术进行智能初评。",
+      "对接 SMSAPI 短信触发机制，自动发送手术排期提醒与术前注意事项通知。"
+    ]
+  }
+}

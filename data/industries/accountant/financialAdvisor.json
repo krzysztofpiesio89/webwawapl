@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Doradca finansowy",
+    "about": "Doradztwo finansowe i optymalizacja kosztów przedsiębiorstwa pomagają firmom zwiększać marżę, pozyskiwać finansowanie (kredyty, leasingi) i planować inwestycje. Profesjonalna strona internetowa to klucz do budowania autorytetu i pozyskiwania klientów biznesowych.",
+    "focus": "Najbardziej efektywne pozycjonowanie opiera się na frazach związanych z doradztwem dla firm (np. doradca finansowy dla firm Warszawa, optymalizacja podatkowa) oraz na wartościowych analizach rynkowych.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, bez zbędnych bibliotek.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) do automatycznych alertów o terminach podatkowych.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Interaktywny kalkulator zdolności kredytowej i rentowności ROI (React / TypeScript).",
+      "System rezerwacji doradztwa online zintegrowany z bramkami płatności (Stripe).",
+      "Wdrożenie Schema JSON-LD FinancialService podnoszącej wiarygodność u wyszukiwarek AI."
+    ]
+  },
+  "en": {
+    "name": "Financial Advisor",
+    "about": "Corporate financial advisory and cost optimization help companies boost margins, secure financing (loans, leasing), and plan investments. A professional website builds authority and drives B2B client acquisition.",
+    "focus": "The most effective SEO approach targets corporate advisory keywords (e.g. corporate financial advisor Warsaw, corporate tax optimization) and sharing valuable market analyses.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, without thread-blocking libraries.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for automated tax deadline alerts.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Interactive borrowing capacity and ROI calculator built with React / TypeScript.",
+      "Online financial consulting booking system integrated with payment gateways (Stripe).",
+      "Schema JSON-LD FinancialService implementation to boost authority in AI search engines."
+    ]
+  },
+  "de": {
+    "name": "Finanzberater",
+    "about": "Finanzberatung und Kostenoptimierung unterstützen Unternehmen bei der Margensteigerung, Finanzierung (Kredite, Leasing) und Investitionsplanung. Die Website ist der Schlüssel zum Aufbau von Autorität.",
+    "focus": "SEO-Erfolg beruht auf B2B-Beratungssuchbegriffen (z. B. Finanzberatung für Unternehmen) und Marktanalysen.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, ohne den Thread blockierende Bibliotheken.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für automatische Steuerfristalarme.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Interaktiver Kreditrahmen- und ROI-Rechner in React / TypeScript.",
+      "Online-Buchungssystem für Finanzberatungen mit integrierter Stripe-Zahlungsschnittstelle.",
+      "Schema JSON-LD FinancialService-Implementierung zur Stärkung der Relevanz in KI-Suchmaschinen."
+    ]
+  },
+  "uk": {
+    "name": "Фінансовий консультант",
+    "about": "Фінансовий консалтинг та оптимізація витрат допомагають компаніям збільшувати маржу, залучати фінансування (кредити, лізинг) та планувати інвестиції. Сайт є основою для залучення B2B клієнтів.",
+    "focus": "Ефективне просування орієнтоване на запити бізнес-консалтингу (наприклад, фінансовий консультант для бізнесу) та аналітичні публікації.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, без бібліотек, які блокують потік.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для автоматичних нагадувань про податкові терміни.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Інтерактивний калькулятор кредитного ліміту та рентабельності інвестицій ROI (React / TypeScript).",
+      "Система запису на консультації, інтегрована з платіжним сервісом Stripe.",
+      "Розгортання Schema JSON-LD FinancialService для підвищення довіри пошуковиків AI."
+    ]
+  },
+  "ru": {
+    "name": "Финансовый консультант",
+    "about": "Финансовое консультирование и оптимизация затрат помогают компаниям увеличивать прибыль, привлекать финансирование (кредиты, лизинг) и планировать инвестиции. Сайт — ключевой инструмент для B2B продаж.",
+    "focus": "Наибольшую пользу приносит поисковое продвижение по запросам бизнес-консалтинга (например, финансовый советник для бизнеса) и публикация аналитических обзоров рынка.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, без блокирующих поток библиотек.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для автоматических напоминаний о налоговых сроках.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Интерактивный калькулятор кредитного лимита и рентабельности инвестиций ROI (React / TypeScript).",
+      "Система записи на консультации, интегрированная с платежным сервисом Stripe.",
+      "Развертывание Schema JSON-LD FinancialService для повышения доверия поисковиков AI."
+    ]
+  },
+  "zh": {
+    "name": "财务顾问",
+    "about": "企业财务顾问与成本优化服务可协助公司提升利润率、获取外部融资（贷款、融资租赁）并合理规划投资。专业的网站是树立行业权威和获取 B2B 客户的关键。",
+    "focus": "最具成效的 SEO 策略是定位与企业财务咨询相关的词汇（如：华沙企业财务顾问、企业税务筹划）以及发布高价值的市场分析报告。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，杜绝任何阻塞主线程的冗余库。",
+      "深度集成短信网关（Twilio / SMSAPI），用于纳税申报及社保缴费等申报节点自动短信提醒。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "基于 React/TypeScript 研发的互动式贷款额度评估与投资回报率（ROI）在线分析器。",
+      "与 Stripe 线上支付无缝集成的财税/金融独立规划预约日程管理系统。",
+      "配置 Schema JSON-LD FinancialService 以提升在下一代人工智能搜索中的专业权威度。"
+    ]
+  }
+}

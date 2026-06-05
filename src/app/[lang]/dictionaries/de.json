@@ -1,8 +1,8 @@
 {
   "meta": {
-    "title": "Autoankauf & Legale Verschrottung - Bargeld sofort | skupautwawa.pl",
-    "description": "skupautwawa.pl ist ein professioneller Autoankauf mit schneller Fahrzeugverwertung und Demontage. Wir bieten faire Online-Fahrzeugbewertungen und kostenlosen Abschleppdienst rund um die Uhr in Warschau und Umgebung!",
-    "ogTitle": "Autoankauf & Legale Verschrottung - Bargeld sofort | skupautwawa.pl"
+    "title": "Moderne PWA-Apps & Custom-Websites | webwawa.pl",
+    "description": "webwawa.pl ist eine moderne IT-Agentur mit Sitz in Warschau. Wir entwerfen und erstellen ultraschnelle Next.js-Websites, maßgeschneiderte PWA-Webanwendungen, SEO-Optimierung und Systemintegrationen.",
+    "ogTitle": "Moderne PWA-Apps & Custom-Websites | webwawa.pl"
   },
   "nav": {
     "home": "Startseite",
@@ -175,22 +175,22 @@
     "requiredNote": "Pflichtfelder. Datenverantwortlicher ist"
   },
   "footer": {
-    "description": "Der schnellste Autoankauf im Großraum Warschau. Wir garantieren legale Verschrottung, kostenlose Abholung mit dem Abschleppwagen und Barzahlung. Wir arbeiten 24/7.",
+    "description": "Die schnellste IT-Agentur in Warschau. Wir garantieren moderne Lösungen, ultraschnelle Implementierungen und technischen Support rund um die Uhr.",
     "servicesTitle": "Unsere Dienstleistungen",
-    "service1": "Ankauf von PKW",
-    "service2": "Ankauf von Unfallwagen",
-    "service3": "Legale Fahrzeugverschrottung",
-    "service4": "Online Autobewertung",
+    "service1": "Next.js Webentwicklung",
+    "service2": "Web-Apps & PWA",
+    "service3": "SEO & Marketing",
+    "service4": "Custom Systeme & API",
     "citiesTitle": "Beliebte Standorte",
     "contactTitle": "Kontakt",
     "officeLabel": "Büro Warschau:",
     "registryLabel": "Registeradresse:",
-    "copyright": "© 2026 skupautwawa.pl - Alle Rechte vorbehalten.",
+    "copyright": "© 2026 webwawa.pl - Alle Rechte vorbehalten.",
     "privacyPolicy": "Datenschutzerklärung"
   },
   "legal": {
     "companyInfo": "{companyName} | NIP: {nip} | KRS: {krs} | REGON: {regon}",
-    "addressInfo": "Adresse: {address} | Der Datenverantwortliche ist der Eigentümer von skupautwawa.pl."
+    "addressInfo": "Adresse: {address} | Der Datenverantwortliche ist der Eigentümer von webwawa.pl."
   },
   "seo": {
     "cityTitle": "Autoankauf & Verschrottung in {city} - Bargeld sofort",
@@ -250,51 +250,51 @@
     "home": "Startseite"
   },
   "about": {
-    "metaTitle": "Über uns - Wer wir sind | skupautwawa.pl",
-    "metaDescription": "Erfahren Sie mehr über skupautwawa.pl. Wir sind führend im Bereich des schnellen Autoankaufs und der legalen Fahrzeugverschrottung. Entdecken Sie unsere Geschichte, Mission und Werte.",
+    "metaTitle": "Über uns - IT-Agentur Warschau | webwawa.pl",
+    "metaDescription": "Lernen Sie webwawa.pl kennen. Wir sind eine IT-Agentur, die moderne Websites, PWA-Apps, SEO-Optimierung und maßgeschneiderte Software anbietet.",
     "breadcrumb": "Über uns",
     "heroTitle": "Wer sind wir? Treffen Sie",
-    "heroSubtitle": "Wir sind führend im professionellen Autoankauf und in der legalen Fahrzeugverschrottung. Unser Ziel ist es, den Autoverkaufsprozess auf das absolute Minimum zu vereinfachen.",
-    "storyBadge": "Über unser Unternehmen",
-    "storyTitle": "Unsere Mission ist der sofortige Ankauf und volle Rechtssicherheit",
-    "storyP1": "Die Plattform skupautwawa.pl wurde für Fahrer geschaffen, die ihr Fahrzeug schnell, ohne unnötige Formalitäten, Besuche von Prüfstellen und Verhandlungen mit wählerischen Käufern verkaufen möchten. Wir wissen, wie wertvoll Ihre Zeit ist, deshalb haben wir den gesamten Transaktionsprozess auf 15 Minuten vereinfacht.",
-    "storyP2": "Wir kaufen Autos in jedem technischen und optischen Zustand — sowohl gepflegte Modelle, die fahrbereit sind, als auch Unfallwagen, mechanisch defekte oder zur Verschrottung bereite Fahrzeuge. Wir zahlen Bargeld direkt bei der Autoübergabe und kümmern uns um alle Formalitäten.",
-    "statsTitle": "📊 Unser Unternehmen in Zahlen",
-    "stat1Value": "15+",
+    "heroSubtitle": "Wir entwerfen und erstellen maßgeschneiderte Webanwendungen und Systeme, die Ihrem Unternehmen einen digitalen Vorsprung verschaffen.",
+    "storyBadge": "Über unsere Agentur",
+    "storyTitle": "Unsere Mission ist es, moderne Software und Spitzenleistung zu liefern",
+    "storyP1": "Die Agentur webwawa.pl wurde für Unternehmen gegründet, die eine professionelle und schnelle Bereitstellung von Websystemen, mobilen Apps und modernen Websites benötigen. Wir konzentrieren uns auf sauberen Code, SEO-Optimierung und erstklassige UI/UX-Standards.",
+    "storyP2": "Wir arbeiten mit Start-ups sowie großen Unternehmen zusammen. Unser Team besteht aus erfahrenen Entwicklern, UI/UX-Designern und SEO-Spezialisten, die sicherstellen, dass jede Zeile Code zum Geschäftserfolg beiträgt.",
+    "statsTitle": "📊 Unsere Agentur in Zahlen",
+    "stat1Value": "10+",
     "stat1Label": "Jahre Erfahrung",
-    "stat1Desc": "Tausende fair bewertete Fahrzeuge",
-    "stat2Value": "10k+",
+    "stat1Desc": "Hunderte erfolgreich bereitgestellte IT-Projekte",
+    "stat2Value": "200+",
     "stat2Label": "Zufriedene Kunden",
-    "stat2Desc": "Positive Empfehlungen in der gesamten Region",
-    "stat3Value": "15m",
-    "stat3Label": "Durchschnittliche Bewertungszeit",
-    "stat3Desc": "Schnelle Entscheidung und sofortiges Bargeld",
+    "stat2Desc": "Positive Empfehlungen über Branchen hinweg",
+    "stat3Value": "24h",
+    "stat3Label": "Durchschnittliche Angebotszeit",
+    "stat3Desc": "Schnelle technische Analyse und völlig unverbindlich",
     "pillarsTitle": "Unsere drei wichtigsten Säulen",
     "pillarsBadge": "Warum wir?",
-    "pillar1Title": "Ehrlichkeit & Bewertung",
-    "pillar1Desc": "Unsere Gutachter bewerten jedes Fahrzeug ehrlich auf der Grundlage aktueller Marktpreise. Sie erhalten einen fairen und transparenten Preis.",
-    "pillar2Title": "Rechtssicherheit",
-    "pillar2Desc": "Wir arbeiten zu 100% in Übereinstimmung mit polnischem Recht. Wir stellen legale Kaufverträge oder Demontagebescheinigungen aus, die für die Abmeldung und die Rückerstattung der Versicherung notwendig sind.",
-    "pillar3Title": "Kostenlose Transportflotte",
-    "pillar3Desc": "Wir verfügen über eine eigene moderne Flotte von Abschleppwagen. Wenn Ihr Auto kaputt oder beschädigt ist, holen wir es kostenlos direkt an der angegebenen Adresse ab.",
-    "galleryBadge": "Aktionsgalerie",
-    "galleryTitle": "Unsere Flotte & Transaktionen in der Praxis",
-    "galleryDesc": "Wir bieten professionellen Service in jeder Phase — von der Ankunft mit unserem Abschleppwagen bis hin zu einer sicheren Transaktion und sofortiger Barzahlung.",
-    "galleryImg1Badge": "Kostenlose Abholung",
-    "galleryImg1Title": "Moderner Abschleppwagentransport",
-    "galleryImg1Desc": "Unsere eigene professionelle Flotte für den sicheren Transport von Autos in jedem Zustand.",
-    "galleryImg2Badge": "Bargeld auf die Hand",
-    "galleryImg2Title": "Blitzschnelle Transaktion & Vertrauen",
-    "galleryImg2Desc": "Individuelle Herangehensweise, schnelle 15-minütige Formalitäten und volle Kundenzufriedenheit.",
+    "pillar1Title": "Innovation & Leistung",
+    "pillar1Desc": "Wir erstellen Software mit modernen Frameworks (Next.js, React). Wir garantieren erstklassige Leistung (100/100 PageSpeed Insights-Ziele) und reibungslosen Betrieb.",
+    "pillar2Title": "Sicherheit & Skalierbarkeit",
+    "pillar2Desc": "Unsere Projekte sind sicher, für hohe Lasten optimiert und bereit, mit Ihrem Unternehmen zu skalieren. Wir halten uns an höchste Standards für sauberen Code.",
+    "pillar3Title": "Support & Entwicklung",
+    "pillar3Desc": "Wir lassen Sie nach dem Start nicht allein. Wir bieten fortlaufende Wartung, Serveradministration, updates und Weiterentwicklung Ihrer Software.",
+    "galleryBadge": "Unsere Arbeiten",
+    "galleryTitle": "Technologie & Zusammenarbeit in der Praxis",
+    "galleryDesc": "Wir sorgen für einen professionellen Ansatz von den ersten UI-Prototypen und Wireframes bis hin zum endgültigen Produktionsstart und der SEO-Optimierung.",
+    "galleryImg1Badge": "Codierung",
+    "galleryImg1Title": "Sauberer Code & Moderner Stack",
+    "galleryImg1Desc": "Wir stellen Systeme bereit, die von Next.js, TypeScript und Prisma ORM angetrieben werden.",
+    "galleryImg2Badge": "Zusammenarbeit",
+    "galleryImg2Title": "Design & Beratungen",
+    "galleryImg2Desc": "Enge Kundenkommunikation, Workshops und interaktives UI/UX-Prototyping vor dem Codieren.",
     "locationBadge": "📍 Bürostandort",
-    "locationTitle": "Besuchen Sie uns in Warschau",
-    "locationDesc": "Unser Hauptbüro und Kundendienstzentrum befindet sich in Warschau. Kommen Sie zu uns für eine kostenlose, professionelle Autobewertung vor Ort oder vereinbaren Sie einen Termin!",
-    "locationMainOffice": "Hauptbüro Warschau",
+    "locationTitle": "Besuchen Sie unser Büro in Warschau",
+    "locationDesc": "Unser Beratungs- und Entwicklungsbüro befindet sich in Warschau. Kontaktieren Sie uns per Telefon oder E-Mail, um einen Termin zu vereinbaren!",
+    "locationMainOffice": "Warschau Dev-Büro",
     "locationRegistry": "Registeradresse",
-    "ctaTitle": "Haben Sie ein Auto zu verkaufen?",
-    "ctaDesc": "Warten Sie nicht, kontaktieren Sie uns jetzt und erhalten Sie in 15 Minuten eine kostenlose Online- oder Telefonbewertung.",
+    "ctaTitle": "Planen Sie ein neues Projekt?",
+    "ctaDesc": "Warten Sie nicht, setzen Sie sich jetzt mit uns in Verbindung, um ein kostenloses Angebot und eine erste technische Beratung zu erhalten.",
     "ctaCall": "📞 Anrufen:",
-    "ctaOnline": "Online-Bewertung"
+    "ctaOnline": "Projekt-Angebot"
   },
   "brands": {
     "metaTitle": "Unterstützte Automarken - Schneller Ankauf & Verschrottung | skupautwawa.pl",
@@ -307,60 +307,60 @@
     "subtitle": "Unabhängig vom technischen Zustand, dem optischen Zustand oder dem Baujahr. Wir kaufen und verschrotten Autos jeder Marke. Wählen Sie unten Ihre Stadt aus, um ein individuelles Angebot zu erstellen."
   },
   "schema": {
-    "dealerName": "Autoankauf Warschau - skupautwawa.pl",
-    "dealerDescription": "Professioneller Autoankauf und legale Fahrzeugverschrottung in Warschau und Umgebung"
+    "dealerName": "IT-Agentur Warschau - webwawa.pl",
+    "dealerDescription": "Professionelle Webentwicklung, PWA-Apps und maßgeschneiderte Systeme in Warschau und Umgebung"
   },
   "privacy": {
-    "metaTitle": "Polityka Prywatności | skupautwawa.pl",
-    "metaDescription": "Dowiedz się, w jaki sposób chronimy Twoje dane osobowe. Polityka prywatności skupautwawa.pl.",
-    "title": "Polityka Prywatności",
-    "lastUpdate": "Ostatnia aktualizacja",
-    "intro": "Twoja prywatność jest dla nas ważna. W niniejszym dokumencie wyjaśniamy zasady przetwarzania danych.",
+    "metaTitle": "Datenschutzbestimmungen | webwawa.pl",
+    "metaDescription": "Erfahren Sie, wie wir Ihre persönlichen Daten schützen. Datenschutzerklärung von webwawa.pl.",
+    "title": "Datenschutzerklärung",
+    "lastUpdate": "Letzte Aktualisierung",
+    "intro": "Ihre Privatsphäre ist uns wichtig. In diesem Dokument erläutern wir die Regeln der Datenverarbeitung.",
     "sections": [
       {
-        "title": "1. Administrator Danych",
-        "content": "Administratorem Twoich danych jest właściciel serwisu."
+        "title": "1. Datenverantwortlicher",
+        "content": "Der Administrator Ihrer Daten ist der Eigentümer der Website."
       },
       {
-        "title": "2. Cel przetwarzania",
-        "content": "Przetwarzamy Twoje dane w celu wyceny i odkupu pojazdów."
+        "title": "2. Zweck der Verarbeitung",
+        "content": "Wir verarbeiten Ihre Daten zum Zweck der Kontaktaufnahme, der technischen Beratung und der Angebotserstellung/Lieferung von IT-Projekten."
       },
       {
-        "title": "3. Twoje prawa",
-        "content": "Masz prawo dostępu do swoich danych, ich poprawiania oraz usunięcia."
+        "title": "3. Ihre Rechte",
+        "content": "Sie haben das Recht auf Auskunft, Berichtigung und Löschung Ihrer Daten."
       }
     ],
-    "backHome": "Wróć do strony głównej",
-    "h1": "Polityka Prywatności",
-    "p1": "Niniejsza polityka prywatności określa zasady przetwarzania danych.",
-    "h2": "Gromadzenie danych",
-    "p2Intro": "Gromadzimy następujące dane:",
+    "backHome": "Zurück zur Startseite",
+    "h1": "Datenschutzerklärung",
+    "p1": "Diese Datenschutzerklärung legt die Regeln für die Verarbeitung personenbezogener Daten fest.",
+    "h2": "Datenerhebung",
+    "p2Intro": "Wir erheben folgende Daten:",
     "p2List": [
-      "Imię i nazwisko",
-      "Numer telefonu",
-      "Adres e-mail",
-      "Dane pojazdu"
+      "Name und Vorname / Firma",
+      "Telefonnummer",
+      "E-Mail-Adresse",
+      "Projektbeschreibung und Anforderungen"
     ],
-    "h3": "Cel przetwarzania",
-    "p3Intro": "Dane przetwarzamy w celu:",
+    "h3": "Zweck der Verarbeitung",
+    "p3Intro": "Wir verarbeiten Daten, um:",
     "p3List": [
-      "Przygotowania wyceny",
-      "Realizacji umowy",
-      "Kontaktu z klientem"
+      "Ein Projektangebot zu erstellen",
+      "Den Bereitstellungsvertrag auszuführen",
+      "Den Kunden zu kontaktieren"
     ],
-    "h4": "Udostępnianie danych",
-    "p4": "Nie udostępniamy danych osobom trzecim bez wyraźnej zgody klienta, chyba że wymaga tego prawo.",
-    "h5": "Prawa użytkownika",
-    "p5Intro": "Jako użytkownik masz prawo do:",
+    "h4": "Datenweitergabe",
+    "p4": "Wir geben Daten nicht ohne die ausdrückliche Zustimmung des Kunden an Dritte weiter, es sei denn, dies ist gesetzlich vorgeschrieben.",
+    "h5": "Benutzerrechte",
+    "p5Intro": "Als Nutzer haben Sie das Recht auf:",
     "p5List": [
-      "Dostępu do danych",
-      "Modyfikacji danych",
-      "Usunięcia danych (Prawo do bycia zapomnianym)"
+      "Zugang zu Ihren Daten",
+      "Änderung Ihrer Daten",
+      "Löschung Ihrer Daten (Recht auf Vergessenwerden)"
     ],
-    "h6": "Ciasteczka (Cookies)",
-    "p6": "Strona wykorzystuje pliki cookies do prawidłowego działania oraz analizy ruchu.",
+    "h6": "Cookies",
+    "p6": "Die Website verwendet Cookies für den ordnungsgemäßen Betrieb und die Verkehrsanalyse.",
     "h7": "Kontakt",
-    "p7": "W razie pytań dotyczących polityki prywatności prosimy o kontakt drogą mailową."
+    "p7": "Bei Fragen zur Datenschutzerklärung kontaktieren Sie uns bitte per E-Mail."
   },
   "cityPage": {
     "metaTitle": "Autoankauf {city} - Verschrottung & Demontage | Barzahlung",

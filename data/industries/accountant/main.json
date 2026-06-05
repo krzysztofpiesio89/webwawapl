@@ -1,0 +1,139 @@
+{
+  "id": "accountant",
+  "slugs": {
+    "pl": "ksiegowy",
+    "en": "accountant",
+    "de": "buchhalter",
+    "uk": "bukhhalter",
+    "ru": "buhgalter",
+    "zh": "accountant"
+  },
+  "translations": {
+    "pl": {
+      "industryName": "Księgowy",
+      "heroSubtitle": "Dedykowane strony internetowe, systemy IT dla biur rachunkowych oraz lokalne pozycjonowanie dla księgowych.",
+      "title": "Strony internetowe i systemy IT dla księgowych i biur rachunkowych",
+      "description": "Projektujemy profesjonalne strony www, aplikacje PWA oraz prowadzimy pozycjonowanie SEO dla biur rachunkowych i księgowych. Pozyskaj klientów biznesowych.",
+      "about": "Branża księgowa i podatkowa opiera się na precyzji, bezpieczeństwie oraz terminowości. Klienci poszukujący obsługi księgowej oczekują profesjonalnej prezentacji oferty, bezpieczeństwa przesyłanych dokumentów oraz szybkiego kontaktu. Nasze dedykowane rozwiązania IT łączą szybkie strony Next.js z integracją z systemami CRM i panelami klienta, a lokalne pozycjonowanie pozwala skutecznie dotrzeć do lokalnych przedsiębiorców szukających profesjonalnej księgowości.",
+      "series": {
+        "pwa": {
+          "title": "Dedykowane Aplikacje PWA dla Biura",
+          "desc": "Tworzymy zaawansowane aplikacje PWA ułatwiające klientom przesyłanie skanów faktur, podgląd kwot podatków do zapłaty oraz szybki kontakt z dedykowaną księgową."
+        },
+        "wordpress": {
+          "title": "Strony WordPress dla Księgowych",
+          "desc": "Projektujemy strony WordPress zintegrowane z blogiem eksperckim, ułatwiające informowanie klientów o zmianach w przepisach podatkowych oraz publikowanie cennika pakietów."
+        },
+        "seo": {
+          "title": "Pozycjonowanie i Profil Google Maps",
+          "desc": "Optymalizujemy profil Google Moja Firma i pozycjonujemy na frazy intencyjne B2B (np. biuro rachunkowe Warszawa, doradztwo podatkowe), co gwarantuje stały dopływ klientów biznesowych."
+        }
+      }
+    },
+    "en": {
+      "industryName": "Accountant",
+      "heroSubtitle": "Dedicated websites, IT systems for accounting offices, and local SEO for accountants.",
+      "title": "Websites and IT Systems for Accountants and Accounting Offices",
+      "description": "We design professional websites, PWA applications, and run SEO positioning for accountants and accounting offices. Acquire B2B clients.",
+      "about": "The accounting and tax industry relies on precision, security, and timeliness. Clients looking for accounting services expect a professional presentation, secure document transmission, and rapid communication. Our dedicated IT solutions combine fast Next.js sites with CRM integrations, while local SEO ensures that local business owners find your services easily.",
+      "series": {
+        "pwa": {
+          "title": "Dedicated PWA Apps for Offices",
+          "desc": "We build PWA applications that simplify invoice uploads, tax calculations preview, and client-accountant communication."
+        },
+        "wordpress": {
+          "title": "WordPress Sites for Accountants",
+          "desc": "We design WordPress websites integrated with expert blogs, simplifying updates about tax code changes and publishing billing packages."
+        },
+        "seo": {
+          "title": "SEO Positioning & Google Maps",
+          "desc": "We optimize Google Business profiles and target high-intent B2B search queries (e.g. accounting office near me, local tax services) to guarantee incoming business clients."
+        }
+      }
+    },
+    "de": {
+      "industryName": "Buchhalter",
+      "heroSubtitle": "Maßgeschneiderte Websites, IT-Systeme für Buchhaltungsbüros und lokales SEO für Buchhalter.",
+      "title": "Websites und IT-Systeme für Buchhalter und Steuerberater",
+      "description": "Wir entwickeln professionelle Webseiten, PWA-Apps und führen SEO-Optimierungen für Buchhalter und Kanzleien durch. Gewinnen Sie Firmenkunden.",
+      "about": "Die Buchhaltungs- und Steuerbranche basiert auf Präzision, Sicherheit und Termintreue. Mandanten erwarten eine seriöse Präsentation und sichere Datenübertragung. Unsere IT-Lösungen verbinden Next.js-Technologie mit CRM-Schnittstellen.",
+      "series": {
+        "pwa": {
+          "title": "Dedizierte PWA-Apps für Büros",
+          "desc": "Wir programmieren PWA-Lösungen für den direkten Belegupload, die Übermittlung von Steuerdaten und die Kommunikation mit dem Mandanten."
+        },
+        "wordpress": {
+          "title": "WordPress-Websites für Kanzleien",
+          "desc": "Wir erstellen WordPress-Seiten mit Fachblogs zur Erläuterung von Gesetzesänderungen und strukturierter Paketpreis-Anzeige."
+        },
+        "seo": {
+          "title": "SEO-Optimierung & Google Maps",
+          "desc": "Wir optimieren Kanzleiauftritte lokal in Google Maps für zielgerichtete B2B-Anfragen (z. B. Steuerbüro München)."
+        }
+      }
+    },
+    "uk": {
+      "industryName": "Бухгалтер",
+      "heroSubtitle": "Сучасні веб-сайти, IT-системи для бухгалтерських компаній та локальне SEO для бухгалтерів.",
+      "title": "Веб-сайти та IT-системи для бухгалтерів та бухгалтерських компаній",
+      "description": "Проектуємо професійні сайти, PWA-додатки та здійснюємо SEO-просування для бухгалтерів та бухгалтерських бюро. Залучайте бізнес-клієнтів.",
+      "about": "Бухгалтерська сфера вимагає високої точності, конфіденційності та дотримання термінів. Наші IT-рішення поєднують швидкі сайти Next.js з інтеграцією CRM-систем, допомагаючи локальним підприємцям знайти ваші послуги.",
+      "series": {
+        "pwa": {
+          "title": "Спеціалізовані PWA-додатки для бюро",
+          "desc": "Створюємо швидкі PWA-додатки для надсилання скан-копій рахунків, перегляду податкових зобов'язань та зв'язку з персональним бухгалтером."
+        },
+        "wordpress": {
+          "title": "Сайти на WordPress для бухгалтерів",
+          "desc": "Будуємо сучасні сайти на WordPress для ведення блогу про податкові зміни та розміщення пакетних тарифів."
+        },
+        "seo": {
+          "title": "SEO-просування та Google карти",
+          "desc": "Оптимізуємо профіль Google Business за комерційними B2B запитами для стабільного потоку корпоративних замовлень."
+        }
+      }
+    },
+    "ru": {
+      "industryName": "Бухгалтер",
+      "heroSubtitle": "Современные веб-сайты, IT-системы для бухгалтерских бюро и локальное SEO для бухгалтеров.",
+      "title": "Веб-сайты и IT-системы для бухгалтеров и бухгалтерских компаний",
+      "description": "Проектируем профессиональные сайты, PWA-приложения и ведем локальное SEO для бухгалтерских бюро и бухгалтеров. Привлекайте B2B клиентов.",
+      "about": "Бухгалтерский бизнес держится на точности, безопасности и соблюдении сроков отчетности. Наши IT-решения объединяют быстрые Next.js сайты с CRM-системами для эффективного привлечения корпоративных клиентов.",
+      "series": {
+        "pwa": {
+          "title": "Специализированные PWA-приложения для бюро",
+          "desc": "Создаем быстрые PWA-приложения для удобной загрузки накладных и счетов, просмотра сумм налогов и связи с личным бухгалтером."
+        },
+        "wordpress": {
+          "title": "Сайты на WordPress для бухгалтеров",
+          "desc": "Проектируем сайты на WordPress для ведения блога о налоговом законодательстве и публикации тарифов обслуживания."
+        },
+        "seo": {
+          "title": "SEO-продвижение и Google карты",
+          "desc": "Оптимизируем карточку Google Business по коммерческим B2B запросам для привлечения юридических лиц."
+        }
+      }
+    },
+    "zh": {
+      "industryName": "会计师",
+      "heroSubtitle": "为会计师事务所定制的网站、IT 系统开发以及本地 SEO 推广方案。",
+      "title": "面向会计师与会计师事务所的网站及 IT 系统解决方案",
+      "description": "我们设计专业网站、开发 PWA 应用并提供 SEO 推广服务。高效帮助会计师事务所获取 B2B 企业客户。",
+      "about": "会计和税务行业依赖于精准、安全和准时。寻找会计服务的企业客户期望获得专业的服务呈现、安全的文档传输和高效的沟通管道。我们的 Next.js 网站和 CRM 集成能够极大提升事务所的数字化体验，同时本地 SEO 确保本地企业客户轻松找到您的服务。",
+      "series": {
+        "pwa": {
+          "title": "事务所专属 PWA 应用程序",
+          "desc": "我们开发 PWA 应用，方便企业客户上传票据扫描件、查看应纳税款明细并与专属会计师进行沟通。"
+        },
+        "wordpress": {
+          "title": "会计师事务所 WordPress 网站开发",
+          "desc": "我们搭建基于 WordPress 的现代化网站，内置税务政策更新博客，方便发布标准服务包价格。"
+        },
+        "seo": {
+          "title": "谷歌 SEO 排名与地图定位优化",
+          "desc": "我们针对高价值 B2B 搜索词（如：华沙会计师事务所、代理记账）优化谷歌商家信息（GBP），稳步提升本地获客量。"
+        }
+      }
+    }
+  }
+}

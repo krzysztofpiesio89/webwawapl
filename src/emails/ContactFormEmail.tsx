@@ -4,7 +4,6 @@ import {
   Head,
   Heading,
   Html,
-  Img,
   Preview,
   Row,
   Section,
@@ -26,10 +25,6 @@ interface ContactFormEmailProps {
   imagesCount: number;
 }
 
-const baseUrl = process.env.VERCEL_URL
-  ? `https://${process.env.VERCEL_URL}`
-  : 'https://skupautwawa.pl';
-
 export const ContactFormEmail = ({
   brandModel,
   year,
@@ -46,11 +41,11 @@ export const ContactFormEmail = ({
       <Tailwind>
         <Head />
         <Body className="bg-slate-50 font-sans">
-          <Preview>Nowe zapytanie o wycenę: {brandModel}</Preview>
+          <Preview>Nowe zapytanie ofertowe: {brandModel}</Preview>
           <Container>
             <Section className="px-5 py-[30px] text-center bg-white">
               <Heading className="m-0 text-3xl font-black tracking-tighter uppercase italic text-slate-900">
-                skupaut<span className="text-amber-500">wawa.pl</span>
+                webwawa<span className="text-amber-500">.pl</span>
               </Heading>
             </Section>
 
@@ -58,7 +53,7 @@ export const ContactFormEmail = ({
               <Row className="bg-amber-400 p-5">
                 <Column>
                   <Heading className="text-[24px] font-black text-slate-900 text-center uppercase italic m-0">
-                    Nowe zapytanie o wycenę
+                    Nowe zapytanie ofertowe (IT)
                   </Heading>
                 </Column>
               </Row>
@@ -66,27 +61,27 @@ export const ContactFormEmail = ({
               <Row className="p-8">
                 <Column>
                   <Text className="text-base text-slate-800 mb-6">
-                    Otrzymano nowe zgłoszenie wyceny pojazdu ze strony SkupAutWawa.pl. Poniżej znajdują się szczegóły:
+                    Otrzymano nowe zapytanie o projekt IT ze strony webwawa.pl. Poniżej znajdują się szczegóły:
                   </Text>
                   
                   <div className="bg-slate-50 p-6 rounded-xl border border-slate-100">
                     <Text className="text-base m-0 mb-2">
-                      <b className="text-slate-500 uppercase text-xs tracking-wider">Pojazd: </b><br/>
+                      <b className="text-slate-500 uppercase text-xs tracking-wider">Klient / Firma: </b><br/>
                       <span className="text-xl font-bold text-slate-900">{brandModel}</span>
-                    </Text>
-                    
-                    <Text className="text-base m-0 mb-2">
-                      <b className="text-slate-500 uppercase text-xs tracking-wider">Rocznik: </b><br/>
-                      <span className="font-semibold text-slate-700">{year || '-'}</span>
-                    </Text>
-                    
-                    <Text className="text-base m-0 mb-2">
-                      <b className="text-slate-500 uppercase text-xs tracking-wider">Silnik: </b><br/>
-                      <span className="font-semibold text-slate-700">{engine || '-'}</span>
                     </Text>
 
                     <Text className="text-base m-0 mb-2">
-                      <b className="text-slate-500 uppercase text-xs tracking-wider">Proponowana cena: </b><br/>
+                      <b className="text-slate-500 uppercase text-xs tracking-wider">Rodzaj usługi: </b><br/>
+                      <span className="text-lg font-bold text-slate-900">{engine || '-'}</span>
+                    </Text>
+                    
+                    <Text className="text-base m-0 mb-2">
+                      <b className="text-slate-500 uppercase text-xs tracking-wider">Czas realizacji: </b><br/>
+                      <span className="font-semibold text-slate-700">{year || '-'}</span>
+                    </Text>
+
+                    <Text className="text-base m-0 mb-2">
+                      <b className="text-slate-500 uppercase text-xs tracking-wider">Szacowany budżet: </b><br/>
                       <span className="text-lg font-bold text-amber-600">{price || '-'}</span>
                     </Text>
                     
@@ -111,7 +106,7 @@ export const ContactFormEmail = ({
                   {description && (
                      <div className="mt-4 border-t border-slate-100 pt-6">
                         <Text className="text-base m-0 mb-2">
-                          <b className="text-slate-500 uppercase text-xs tracking-wider">Dodatkowy opis: </b><br/>
+                          <b className="text-slate-500 uppercase text-xs tracking-wider">Opis projektu / Wymagania: </b><br/>
                           <span className="italic text-slate-700">{description}</span>
                         </Text>
                      </div>
@@ -119,7 +114,7 @@ export const ContactFormEmail = ({
 
                   <div className="mt-6 bg-amber-50 p-4 rounded-xl border border-amber-100 text-center">
                     <Text className="text-base font-bold text-amber-800 m-0">
-                      Załączone zdjęcia: {imagesCount} (zobacz załączniki do tego e-maila)
+                      Załączone pliki / brief: {imagesCount}
                     </Text>
                   </div>
                   
@@ -128,7 +123,7 @@ export const ContactFormEmail = ({
             </Section>
 
             <Text className="text-center text-xs leading-[24px] text-slate-400 mt-8 font-semibold">
-              © {new Date().getFullYear()} | SkupAutWawa.pl | Formularz wyceny online
+              © {new Date().getFullYear()} | webwawa.pl | Formularz kontaktowy
             </Text>
           </Container>
         </Body>

@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Biegły rewident",
+    "about": "Biegły rewident (audytor) zajmuje się badaniem sprawozdań finansowych, wycenami oraz audytami śledczymi. Profesjonalna witryna internetowa musi budować absolutne zaufanie, reprezentować wysoki autorytet merytoryczny i zgodność z regulacjami KIBR.",
+    "focus": "Biegli rewidenci najwięcej zyskują na pozycjonowaniu eksperckim pod kątem fraz związanych z badaniem sprawozdań finansowych (np. audyt finansowy spółki Warszawa) oraz analizami fuzji.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, bez zbędnych bibliotek.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) do automatycznych alertów o terminach podatkowych.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Szyfrowana baza danych audytów i sprawozdań finansowych w technologii C# (.NET Core).",
+      "Dedykowany moduł analizy finansowej wspierany przez silnik AI do badania sprawozdań.",
+      "Portal klienta z dwuskładnikowym uwierzytelnianiem 2FA oraz pełnym szyfrowaniem przesyłu danych."
+    ]
+  },
+  "en": {
+    "name": "Auditor",
+    "about": "A certified auditor handles financial statement audits, business valuations, and forensic auditing. A professional website must establish absolute trust, project expert authority, and comply with auditing standards.",
+    "focus": "Auditors benefit most from expert SEO targeting financial statement auditing (e.g. financial audit company Warsaw) and merger transaction reviews.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, without thread-blocking libraries.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for automated tax deadline alerts.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Encrypted audit database and financial statements system built on C# (.NET Core).",
+      "Dedicated financial analysis module powered by an AI engine to analyze balance sheets.",
+      "Client portal with mandatory 2FA authentication and full data transfer encryption."
+    ]
+  },
+  "de": {
+    "name": "Wirtschaftsprüfer",
+    "about": "Ein Wirtschaftsprüfer befasst sich mit der Prüfung von Jahresabschlüssen, Bewertungen und Sonderprüfungen. Die Website muss absolutes Vertrauen aufbauen und fachliche Autorität vermitteln.",
+    "focus": "Wirtschaftsprüfer gewinnen am meisten durch SEO für Suchbegriffe rund um Jahresabschlussprüfungen und Due Diligence Analysen.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, ohne den Thread blockierende Bibliotheken.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für automatische Steuerfristalarme.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Verschlüsselte Wirtschaftsprüfungsdatenbank auf Basis von C# (.NET Core).",
+      "Dediziertes Finanzanalyse-Modul mit integrierter KI zur Bilanzprüfung.",
+      "Mandantenportal mit verpflichtender Zwei-Faktor-Authentifizierung (2FA) und Verschlüsselung."
+    ]
+  },
+  "uk": {
+    "name": "Аудитор",
+    "about": "Сертифікований аудитор займається перевіркою фінансової звітності, оцінкою майна та розслідуваннями. Сайт аудитора повинен демонструвати високий авторитет та відповідати стандартам аудиту.",
+    "focus": "Аудитори отримують найбільше клієнтів завдяки просуванню за запитами перевірки фінансової звітності підприємств (наприклад, фінансовий аудит ТОВ).",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, без бібліотек, які блокують потік.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для автоматичних нагадувань про податкові терміни.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Зашифрована база даних аудитів та фінансових звітів на C# (.NET Core).",
+      "Спеціалізований модуль фінансового аналізу на базі AI для перевірки балансу.",
+      "Кабінет клієнта з обов'язковою двофакторною автентифікацією 2FA та шифруванням каналів."
+    ]
+  },
+  "ru": {
+    "name": "Аудитор",
+    "about": "Аудитор занимается проверкой финансовой отчетности, оценкой бизнеса и форензик-аудитом. Профессиональный сайт должен вызывать доверие и подчеркивать экспертный статус.",
+    "focus": "Аудиторы получают отдачу от продвижения по запросам проведения обязательного и инициативного аудита компаний и консалтинга при слияниях.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, без блокирующих поток библиотек.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для автоматических напоминаний о налоговых сроках.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Зашифрованная база данных аудитов и финансовых отчетов на C# (.NET Core).",
+      "Специализированный модуль финансового анализа на базе AI для проверки баланса.",
+      "Личный кабинет клиента с обязательной двухфакторной аутентификацией 2FA и шифрованием каналов."
+    ]
+  },
+  "zh": {
+    "name": "审计师",
+    "about": "执业审计师（注册会计师）主要从事财务报表审计、企业价值评估以及法务审计。专业的网站必须树立绝对的可信度、展示极高的专业权威并符合行业协会的监管规范。",
+    "focus": "审计师从针对财务报表审计（如：华沙财务审计公司、公司年审）和并购交易尽职调查等关键词的专家级 SEO 优化中受益最多。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，杜绝任何阻塞主线程的冗余库。",
+      "深度集成短信网关（Twilio / SMSAPI），用于纳税申报及社保缴费等申报节点自动短信提醒。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "基于 C# (.NET Core) 开发的加密级审计档案与财务报表审查管理数据库。",
+      "集成 AI 智能决策逻辑的专有数据接口，用于辅助识别资产负债表与利润表异常点。",
+      "强制采用 2FA（双重校验）的客户专属下载中心，全站实现金融级 HTTPS 加密传输。"
+    ]
+  }
+}

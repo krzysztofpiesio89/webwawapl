@@ -1,0 +1,139 @@
+{
+  "id": "beauty",
+  "slugs": {
+    "pl": "uroda",
+    "en": "beauty",
+    "de": "schoenheit",
+    "uk": "krasa",
+    "ru": "krasota",
+    "zh": "beauty"
+  },
+  "translations": {
+    "pl": {
+      "industryName": "Uroda i Zdrowie",
+      "heroSubtitle": "Dedykowane strony internetowe, aplikacje do rezerwacji PWA oraz pozycjonowanie lokalne dla salonów kosmetycznych, fryzjerskich i trenerów.",
+      "title": "Strony internetowe i systemy IT dla branży uroda i wellness",
+      "description": "Projektujemy nowoczesne strony www, aplikacje PWA oraz prowadzimy pozycjonowanie lokalne dla gabinetów kosmetologicznych, salonów fryzjerskich i masażu. Pozyskaj stałych klientów.",
+      "about": "Sektor uroda, wellness i fitness opiera się na bezpośrednim kontakcie z klientem, budowaniu relacji oraz prezentacji efektów przed/po. Klienci poszukujący usług kosmetycznych, fryzjerskich czy treningowych oczekują prostej i szybkiej rezerwacji online, przejrzystego cennika i profesjonalnego wizerunku. Nasze dedykowane rozwiązania IT łączą szybkie strony Next.js, interaktywne widgety rezerwacji oraz lokalne pozycjonowanie w Google Maps, co pozwala wyróżnić Twój salon i ułatwić klientom szybki kontakt.",
+      "series": {
+        "pwa": {
+          "title": "Aplikacje PWA do rezerwacji online",
+          "desc": "Tworzymy szybkie aplikacje webowe PWA z możliwością dodania na pulpit telefonu. Integrujemy systemy rezerwacji, cenniki usług oraz systemy lojalnościowe zachęcające do regularnych wizyt."
+        },
+        "wordpress": {
+          "title": "Strony WordPress dla salonów i gabinetów",
+          "desc": "Budujemy nowoczesne i estetyczne strony oparte o WordPress, ułatwiające prezentację galerii prac, cenników oraz integrację z wtyczkami rezerwacyjnymi Booksy lub Calendly."
+        },
+        "seo": {
+          "title": "Pozycjonowanie lokalne salonów urody i wellness",
+          "desc": "Zapewniamy dominację Twojego salonu w lokalnych wynikach wyszukiwania. Optymalizujemy profile Google Moja Firma pod konkretne dzielnice i wdrażamy struktury Schema LocalBusiness."
+        }
+      }
+    },
+    "en": {
+      "industryName": "Beauty & Wellness",
+      "heroSubtitle": "Dedicated websites, PWA booking applications, and local SEO for beauty salons, hairdressers, and personal trainers.",
+      "title": "Websites and IT systems for the beauty & wellness industry",
+      "description": "We design modern websites, PWA booking apps, and local SEO for cosmetology clinics, hairdressers, and massage salons. Win loyal clients.",
+      "about": "The beauty, wellness, and fitness sector relies heavily on visual appeal, customer relationships, and showing before/after results. Clients looking for beauty, hair, or training services expect simple and fast online booking, transparent pricing, and a highly professional image. Our custom IT solutions combine fast Next.js sites, interactive booking widgets, and local SEO to make your salon stand out and capture more appointments.",
+      "series": {
+        "pwa": {
+          "title": "PWA Apps for Online Booking",
+          "desc": "We build fast progressive web apps that clients can pin to their home screen, featuring seamless booking calendars, services listings, and loyalty schemes."
+        },
+        "wordpress": {
+          "title": "WordPress Sites for Salons & Clinics",
+          "desc": "We develop elegant and modern WordPress sites, making it simple to present portfolio galleries, pricing tables, and integrations with Booksy or Calendly."
+        },
+        "seo": {
+          "title": "Local SEO for Beauty & Wellness Salons",
+          "desc": "We ensure your salon dominates local search results, optimizing Google Business Profiles for target districts and implementing Schema.org LocalBusiness."
+        }
+      }
+    },
+    "de": {
+      "industryName": "Schönheit & Wellness",
+      "heroSubtitle": "Dedizierte Webseiten, PWA-Buchungsanwendungen und lokales SEO für Schönheitssalons, Friseure und Personal Trainer.",
+      "title": "Websites und IT-Systeme für die Schönheits- und Wellnessbranche",
+      "description": "Wir entwerfen moderne Websites, PWA-Apps und lokales SEO für Kosmetikstudios, Friseure und Massagesalons. Gewinnen Sie Stammkunden.",
+      "about": "Der Schönheits-, Wellness- und Fitnesssektor basiert auf visuellem Eindruck, Kundenbeziehungen und Vorher-Nachher-Vergleichen. Kunden erwarten eine einfache Buchung, transparente Preise und einen professionellen Auftritt. Unsere Next.js-Websites mit integrierten Buchungssystemen und lokaler Optimierung heben Ihren Salon von der Konkurrenz ab.",
+      "series": {
+        "pwa": {
+          "title": "PWA-Apps für Online-Buchung",
+          "desc": "Wir erstellen schnelle PWA-Webanwendungen mit Buchungskalendern, Leistungsverzeichnissen und Kundenbindungssystemen direkt auf dem Smartphone-Bildschirm."
+        },
+        "wordpress": {
+          "title": "WordPress-Websites für Salons",
+          "desc": "Wir bauen moderne WordPress-Websites zur Präsentation von Bildergalerien, Preislisten und zur nahtlosen Anbindung von Booksy- oder Calendly-Buchungen."
+        },
+        "seo": {
+          "title": "Lokales SEO für Schönheits- & Wellnesssalons",
+          "desc": "Wir optimieren Ihren Google-Eintrag für lokale Bezirke und implementieren Schema.org LocalBusiness, damit Ihr Salon bei Suchen ganz oben erscheint."
+        }
+      }
+    },
+    "uk": {
+      "industryName": "Краса та велнес",
+      "heroSubtitle": "Спеціалізовані веб-сайти, PWA-додатки для бронювання та локальне SEO для салонів краси, перукарень і тренерів.",
+      "title": "Веб-сайти та IT-системи для індустрії краси та wellness",
+      "description": "Проектуємо сучасні сайти, PWA-додатки та здійснюємо локальне SEO для косметологічних клінік, перукарень і масажних кабінетів.",
+      "about": "Сектор краси, велнесу та фітнесу тримається на візуальному контенті, довірі та демонстрації результатів до/після. Клієнти очікують швидкого запису онлайн, прозорих цін та естетичного вигляду сайту. Наші рішення поєднують швидкі платформи Next.js, зручні віджети онлайн-запису та локальне SEO в Google Maps, що забезпечує постійний потік записів.",
+      "series": {
+        "pwa": {
+          "title": "PWA-додатки для онлайн-запису",
+          "desc": "Створюємо швидкі PWA-додатки з додаванням на головний екран, інтегруючи зручні календарі запису, каталоги послуг та програми лояльності."
+        },
+        "wordpress": {
+          "title": "Сайти на WordPress для салонів та кабінетів",
+          "desc": "Розробляємо естетичні сайти на WordPress для презентації фото робіт, детальних прайс-листів та легкої інтеграції віджетів Booksy або Calendly."
+        },
+        "seo": {
+          "title": "Локальне SEO для салонів краси та велнесу",
+          "desc": "Забезпечуємо лідерство вашого салону в локальному пошуку, оптимізуючи профілі Google My Business під конкретні райони міста."
+        }
+      }
+    },
+    "ru": {
+      "industryName": "Красота и велнес",
+      "heroSubtitle": "Специализированные веб-сайты, PWA-приложения для бронирования и локальное SEO для салонов красоты, парикмахерских и тренеров.",
+      "title": "Веб-сайты и IT-системы для индустрии красоты и wellness",
+      "description": "Проектируем современные сайты, PWA-приложения и ведем локальное SEO для косметологических клиник, парикмахерских и массажных кабинетов.",
+      "about": "Сектор красоты, велнеса и фитнеса держится на визуальном контенте, доверии и демонстрации результатов до/после. Клиенты ожидают быстрого онлайн-записи, прозрачных цен и эстетичного вида сайта. Наши решения сочетают быстрые платформы Next.js, удобные виджеты записи и локальное SEO в Google Maps, что обеспечивает постоянный поток записей.",
+      "series": {
+        "pwa": {
+          "title": "PWA-приложения для онлайн-записи",
+          "desc": "Создаем быстрые PWA-приложения с установкой на экран телефона, интегрируя календари записи, прайс-листы и программы лояльности."
+        },
+        "wordpress": {
+          "title": "Сайты на WordPress для салонов и кабинетов",
+          "desc": "Разрабатываем эстетичные сайты на WordPress для презентации портфолио работ, прайс-листов и легкой интеграции виджетов Booksy или Calendly."
+        },
+        "seo": {
+          "title": "Локальное SEO для салонов красоты и велнеса",
+          "desc": "Обеспечиваем лидерство вашего салона в локальном поиске, оптимизируя карточки Google My Business под конкретные районы города."
+        }
+      }
+    },
+    "zh": {
+      "industryName": "美容与健康",
+      "heroSubtitle": "针对美容美发沙龙、皮肤管理中心与私人教练的定制开发网站、在线预约 PWA 应用程序与本地 SEO 方案。",
+      "title": "美容与健康（Wellness）行业网站及 IT 系统解决方案",
+      "description": "我们为皮肤管理中心、美发沙龙、按摩理疗室提供现代网站设计、PWA 在线预约开发及本地 SEO 优化。帮您留住高黏性会员。",
+      "about": "美容、美发与健身行业高度依赖视觉形象的呈现、长期的客户信任以及 Before/After 效果的直观展示。消费者期望流畅快捷的 24/7 在线预约挂号系统、清晰的价目表以及极其高端的品牌形象。我们的定制化方案融合了极速 Next.js 技术、人性化在线排程模块与本地谷歌商家（GBP）置顶优化，助您的店面在同城竞争中脱颖而出。",
+      "series": {
+        "pwa": {
+          "title": "在线预约挂号 PWA 应用开发",
+          "desc": "构建秒开的轻量化 PWA 网页应用，可添加到手机主屏幕，包含直观日程排班日历、套餐价目表与多级会员积分机制。"
+        },
+        "wordpress": {
+          "title": "沙龙与会所高端 WordPress 网站搭建",
+          "desc": "基于 WordPress 搭建具有高视觉冲击力的展示型官网，便于分享精美客照画廊、服务单价以及直连 Booksy、Calendly 预约表。"
+        },
+        "seo": {
+          "title": "美容美发与健身会所同城 SEO 排名优化",
+          "desc": "助您的沙龙在周边商圈谷歌搜索中获得前排曝光。我们精细化配置 Schema.org LocalBusiness 并在特定街区范围内提升排名。"
+        }
+      }
+    }
+  }
+}

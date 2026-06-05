@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Chirurg",
+    "about": "Chirurgia ogólna i onkologiczna to dziedziny oparte na autorytecie lekarza oraz precyzji w opisie zabiegów. Pacjenci szukający chirurga potrzebują jasnych instrukcji przed- i pooperacyjnych oraz bezpośredniego kontaktu.",
+    "focus": "Chirurdzy zyskują najwięcej pozycjonując się na konkretne zabiegi (np. usuwanie znamion chirurgiczne Warszawa, przepuklina operacja) oraz lokalne zapytania w Google Moja Firma.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, z optymalizacją obrazów medycznych.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego potwierdzania wizyt pacjentów.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Trójwymiarowa wizualizacja procedur chirurgicznych (WebGL/Three.js) w celach edukacyjnych.",
+      "Formularz kwalifikacji operacyjnej ze zintegrowanym silnikiem analizy medycznej AI.",
+      "Wdrożenie w pełni szyfrowanej bazy danych pacjentów (MSSQL z Always Encrypted w C#/.NET)."
+    ]
+  },
+  "en": {
+    "name": "Surgeon",
+    "about": "General and oncological surgery rely heavily on surgeon authority and precise procedure descriptions. Patients searching for a surgeon require clear pre- and post-operative guidelines and direct contact channels.",
+    "focus": "Surgeons benefit most from SEO targeting specific procedures (e.g. surgical mole removal Warsaw, hernia surgery) and local Google Business Profile rankings.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, with medical image optimization.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant patient booking confirmations.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "3D visualization of surgical procedures (WebGL/Three.js) for educational and marketing purposes.",
+      "Surgical qualification intake form integrated with an AI medical analysis engine.",
+      "Fully encrypted patient database implementation (MSSQL with Always Encrypted in C#/.NET)."
+    ]
+  },
+  "de": {
+    "name": "Chirurg",
+    "about": "Die Allgemein- und Tumorchirurgie basiert auf der Autorität des Arztes. Patienten benötigen klare Anweisungen vor und nach der Operation sowie direkten Kontakt.",
+    "focus": "Chirurgen optimieren ihre Suche durch spezifische Eingriffe (z. B. Muttermal entfernen chirurgisch, Leistenbruch OP) und Google Business Profile-Rankings.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, mit medizinischer Bildoptimierung.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige Terminbestätigungen von Patienten.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Dreidimensionale Visualisierung chirurgischer Eingriffe (WebGL/Three.js) für Patienten.",
+      "Chirurgischer Aufklärungs- und Qualifizierungsbogen mit integrierter KI-Analyse.",
+      "Voll verschlüsselte Patientendatenbank (MSSQL mit Always Encrypted in C#/.NET)."
+    ]
+  },
+  "uk": {
+    "name": "Хірург",
+    "about": "Загальна та онкологічна хірургія потребують високого професійного авторитету лікаря. Пацієнтам необхідні чіткі інструкції до та після операції, а також можливість швидкого контакту.",
+    "focus": "Хірурги успішно просуваються за конкретними процедурами (наприклад, видалення родимок хірургічно, операція на грижу) та в Google картах.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, з оптимізацією медичних зображень.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для миттєвого підтвердження записів пацієнтів.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Тривимірна візуалізація хірургічних втручань (WebGL/Three.js) для пацієнтів.",
+      "Форма кваліфікації до хірургічного втручання з інтегрованим алгоритмом оцінки AI.",
+      "Впровадження повністю зашифрованої бази даних пацієнтів (MSSQL з Always Encrypted на C#/.NET)."
+    ]
+  },
+  "ru": {
+    "name": "Хирург",
+    "about": "Общая и онкологическая хирургия опираются на авторитет врача и точность описания процедур. Пациентам необходимы понятные рекомендации до и после операций, а также быстрый контакт.",
+    "focus": "Хирурги привлекают пациентов по запросам конкретных операций (например, удаление родинок хирургически, операция грыжи) и локальным картам.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, с оптимизацией медицинских изображений.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для мгновенного подтверждения записей пациентов.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Трехмерная визуализация хирургических вмешательств (WebGL/Three.js) для пациентов.",
+      "Форма квалификации к хирургическому вмешательству с интегрированным алгоритмом оценки AI.",
+      "Внедрение полностью зашифрованной базы данных пациентов (MSSQL с Always Encrypted на C#/.NET)."
+    ]
+  },
+  "zh": {
+    "name": "外科医生",
+    "about": "普通外科和肿瘤外科是高度依赖医生权威性及诊疗方案精确描述的领域。寻找外科医生的患者需要清晰的术前和术后指导，以及直接的联系渠道。",
+    "focus": "外科医生最能通过针对具体手术项目（如：手术切除黑痣、疝气手术）的 SEO 优化以及谷歌商家资料本地排名中获益。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，配合医学影像优化。",
+      "深度集成短信网关（Twilio / SMSAPI），用于就诊时间实时确认与通知。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "基于 WebGL/Three.js 开发的 3D 手术过程三维渲染展示（用于患者术前科普）。",
+      "集成 AI 医学预判定逻辑的线上门诊手术适应症预排查表单。",
+      "配置高度防泄密的加密患者数据库（在 C#/.NET 中结合 MSSQL Always Encrypted）。"
+    ]
+  }
+}

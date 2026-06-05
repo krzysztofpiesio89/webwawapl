@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Konstruktor",
+    "about": "Projektowanie konstrukcji budowlanych (inżynieria strukturalna) to kluczowy etap każdej inwestycji. Strona konstruktora powinna wzbudzać zaufanie techniczne, prezentować skomplikowane projekty konstrukcyjne oraz ułatwiać kontakt architektom i deweloperom.",
+    "focus": "Najbardziej efektywne pozycjonowanie opiera się na frazach B2B powiązanych z obliczeniami statycznymi i projektami (np. projektowanie konstrukcji budowlanych Warszawa, konstruktor budowlany) oraz na merytorycznym blogu technicznym.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, z optymalizacją ciężkich portfolio i grafik.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla błyskawicznego potwierdzania konsultacji projektowych.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Moduł kalkulatora nośności i obliczeń konstrukcyjnych oparty o FastAPI (Python).",
+      "Prezentacja dokumentacji technicznej i norm budowlanych zoptymalizowana pod SEO.",
+      "Szyfrowane repozytorium projektów konstrukcyjnych dla partnerów biznesowych (B2B)."
+    ]
+  },
+  "en": {
+    "name": "Structural Engineer",
+    "about": "Structural engineering and building calculations are crucial phases of any real estate investment. A structural engineer's website must project technical trust, show complex engineering designs, and facilitate communication with architects and developers.",
+    "focus": "The most effective SEO strategy targets high-intent B2B engineering keywords (e.g. structural design company Warsaw, building calculations) and technical blogs.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, with portfolio image optimization.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant design consultation booking confirmations.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Load capacity and structural calculations module powered by FastAPI (Python).",
+      "SEO-optimized showcase page for technical blueprints and engineering standards.",
+      "Encrypted engineering project repository for business-to-business (B2B) partners."
+    ]
+  },
+  "de": {
+    "name": "Tragwerksplaner",
+    "about": "Die Tragwerksplanung (Statik) ist eine Schlüsselphase jeder Investition. Die Website des Statikers muss technisches Vertrauen wecken und Bauingenieurleistungen verständlich präsentieren.",
+    "focus": "SEO-Erfolg beruht auf B2B-Suchbegriffen zur Tragwerksplanung und Standsicherheitsnachweisen.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, mit Portfolio-Bildoptimierung.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige Designberatungsterminbestätigungen.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Tragfähigkeits- und Konstruktionsberechnungsmodul betrieben mit FastAPI (Python).",
+      "SEO-optimierte Präsentation von technischen Bauzeichnungen und Ingenieurstandards.",
+      "Verschlüsseltes Projektarchiv für Tragwerksplanungen für Business-to-Business-Partner (B2B)."
+    ]
+  },
+  "uk": {
+    "name": "Конструктор",
+    "about": "Проектування будівельних конструкцій є критично важливим етапом будівництва. Сайт інженера-конструктора має демонструвати технічну точність та спрощувати контакт з архітекторами та забудовниками.",
+    "focus": "Просування орієнтоване на B2B запити проектування конструкцій (наприклад, розрахунок міцності будівлі, розрахунок конструкцій) та технічний блог.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, з оптимізацією портфоліо та зображень.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для миттєвого підтвердження записів на консультації.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Модуль розрахунку тримальної здатності та конструктивних елементів на FastAPI (Python).",
+      "Оптимізована під SEO сторінка представлення технічної документації та БНіП.",
+      "Зашифрований архів інженерних проектів для бізнес-партнерів (B2B-інтеграція)."
+    ]
+  },
+  "ru": {
+    "name": "Конструктор",
+    "about": "Проектирование строительных конструкций (расчет несущей способности) — важнейший этап возведения зданий. Сайт конструктора должен внушать доверие и облегчать контакт с девелоперами и архитекторами.",
+    "focus": "SEO ориентировано на B2B запросы расчета конструкций и фундаментов (например, расчет строительных конструкций) и публикации на тему прочности материалов.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, с оптимизацией портфолио и изображений.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для мгновенного подтверждения записей на консультации.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Модуль расчета несущей способности и конструктивных элементов на FastAPI (Python).",
+      "Зашифрованный архив инженерных проектов для бизнес-партнеров (B2B-интеграция).",
+      "Настройка структурированных данных Schema.org и безопасных протоколов SSL."
+    ]
+  },
+  "zh": {
+    "name": "结构工程师",
+    "about": "建筑结构设计与荷载计算是任何房地产投资的关键阶段。结构工程师的网站必须彰显技术上的严谨性，展示复杂的结构工程设计方案，并方便与建筑师和开发商进行技术对接。",
+    "focus": "最行之有效的 SEO 方案是定位高价值 B2B 工程设计词汇（如：建筑结构设计公司、建筑结构荷载计算），以及发布关于结构抗震和工程力学的技术博客。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，针对高精图集实施多重压缩优化。",
+      "深度集成短信网关（Twilio / SMSAPI），用于客户创意方案咨询与确认。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "基于 FastAPI (Python) 构建的梁柱承载力与结构配筋自动验算模块API。",
+      "针对搜索引擎抓取（SEO）深度优化的结构图纸说明与国家建筑标准规范展示页。",
+      "基于权限组的安全加密结构施工图图库，用于 B2B 合作伙伴快捷交付。"
+    ]
+  }
+}

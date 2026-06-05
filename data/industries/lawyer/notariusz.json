@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Notariusz",
+    "about": "Kancelaria notarialna to miejsce dokonywania czynności urzędowych, aktów notarialnych i poświadczeń. Strona www notariusza musi być czytelna, godna zaufania i ułatwiać zapoznanie się z listą niezbędnych dokumentów przed wizytą.",
+    "focus": "Notariusze pozycjonują się na słowa kluczowe o charakterze czysto lokalnym (np. notariusz Warszawa Wola, tani notariusz akty notarialne) oraz na wykaz dokumentów potrzebnych do darowizny, zakupu nieruchomości czy testamentu.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, bez zbędnych bibliotek blokujących wątek.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego zgłaszania spraw i zapytań prawnych.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Zabezpieczony system weryfikacji tożsamości klienta online zintegrowany z ePUAP/mObywatel.",
+      "Dedykowana baza wiedzy o taksie notarialnej oparta o FastAPI (Python) i wyszukiwanie semantyczne (RAG).",
+      "Integracja z chatbotem AI do wstępnego analizowania potrzeb dokumentowych i doboru terminu."
+    ]
+  },
+  "en": {
+    "name": "Notary",
+    "about": "A notary office is a place for official transactions, notary deeds, and certifications. A notary's website must be clear, trustworthy, and help clients learn about required documents before visiting.",
+    "focus": "Notaries benefit from highly localized keywords (e.g. notary public Warsaw Wola, notary services near me) and informational guides detailing requirements for property purchase, donation, or wills.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, without thread-blocking libraries.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant notifications of legal inquiries.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Secured online client identity verification system integrated with ePUAP/mObywatel.",
+      "Dedicated notary fee knowledge base powered by FastAPI (Python) and semantic RAG search.",
+      "AI chatbot integration for screening document requirements and scheduling visits."
+    ]
+  },
+  "de": {
+    "name": "Notar",
+    "about": "Ein Notariat ist die Anlaufstelle für Beurkundungen, Beglaubigungen und Amtshandlungen. Die Website eines Notars muss seriös und übersichtlich sein und über erforderliche Unterlagen informieren.",
+    "focus": "Notare erzielen Rankings bei lokal geprägten Begriffen (z. B. Notar Warschau Zentrum, Notariat Beglaubigung) sowie durch Ratgeber für Immobilienkauf, Schenkungen oder Testamente.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, ohne den Thread blockierende Bibliotheken.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige rechtliche Anfragen und Aktenbenachrichtigungen.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Sicheres Online-Identitätsprüfungsverfahren integriert mit ePUAP/mObywatel.",
+      "Wissensdatenbank für Notargebühren auf Basis von FastAPI (Python) und semantischer RAG-Suche.",
+      "KI-Chatbot zur Vorabprüfung von Dokumentenanforderungen und Terminabsprachen."
+    ]
+  },
+  "uk": {
+    "name": "Нотаріус",
+    "about": "Нотаріальна контора є місцем вчинення офіційних дій, завірення договорів та копій. Сайт нотаріуса повинен бути простим, викликати довіру та містити перелік необхідних документів перед візитом.",
+    "focus": "Нотаріуси просуваються за географічними запитами (наприклад, нотаріус Київ Печерськ, приватний нотаріус поруч) та інформаційними запитами щодо оформлення спадщини або купівлі житла.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, без бібліотек, які блокують потік.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для миттєвих сповіщень про нові юридичні справи.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Захищена система онлайн-верифікації особи клієнта, інтегрована з ePUAP/mObywatel.",
+      "База знань про нотаріальні тарифи на FastAPI (Python) та семантичному пошуку RAG.",
+      "Інтеграція з чат-ботом AI для первинної перевірки документів та підбору дати візиту."
+    ]
+  },
+  "ru": {
+    "name": "Нотариус",
+    "about": "Нотариальная контора — место совершения официальных действий, заверения сделок и документов. Сайт нотариуса должен быть понятным, вызывающим доверие и содержащим списки документов перед визитом.",
+    "focus": "Нотариусы продвигаются по геозависимым запросам (например, нотариус в центре, нотариальная контора рядом) и справочным материалам о наследовании или дарении.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, без блокирующих поток библиотек.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для мгновенных уведомлений о новых юридических делах.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Защищенная система онлайн-верификации личности клиента, интегрированная с ePUAP/mObywatel.",
+      "База знаний о нотариальных тарифах на FastAPI (Python) и семантическом поиске RAG.",
+      "Интеграция с чат-ботом AI для первичной проверки документов и подбора даты визита."
+    ]
+  },
+  "zh": {
+    "name": "公证人",
+    "about": "公证处是办理官方事务、起草公证书和提供证明的场所。公证人的网站必须清晰、值得信赖，并在客户访问前帮助其了解所需的材料清单。",
+    "focus": "公证人主要受惠于高度本地化的关键词优化（如：华沙公证处、附近公证服务）以及关于房产交易、赠与或遗嘱所需材料的指引说明。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，杜绝任何阻塞主线程的冗余库。",
+      "深度集成短信网关（Twilio / SMSAPI），用于法律咨询及案件线索实时通报。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "集成波兰国家身份认证系统 ePUAP/mObywatel 的安全在线实名认证与材料核验接口。",
+      "基于 FastAPI (Python) 和检索增强生成技术（RAG）搭建的公证服务规费智能科普系统。",
+      "集成 AI 挂号小助手，用于在线初筛材料是否齐全并引导客户锁定制表窗口。"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Pediatra",
+    "about": "Rodzice szukający pediatry dla swoich dzieci potrzebują natychmiastowego kontaktu, informacji o wizytach domowych oraz poczucia bezpieczeństwa i ciepła. Strona musi być przyjazna i idealnie zoptymalizowana pod urządzenia mobilne.",
+    "focus": "Pediatrzy najwięcej zyskują na pozycjonowaniu lokalnym w mapach na frazy typu 'pediatra całodobowo', 'pediatra wizyty domowe Warszawa' oraz na pisaniu praktycznych poradników dla rodziców.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, z optymalizacją obrazów medycznych.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego potwierdzania wizyt pacjentów.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Chatbot AI z wbudowaną bazą wiedzy o zdrowiu dzieci i dawkowaniu leków jako lejek konwersji.",
+      "Interaktywny kalendarz szczepień ochronnych i bilansów zdrowia w React/TypeScript.",
+      "Szyfrowany formularz wywiadu pediatrycznego przed pierwszą wizytą (RODO/SSL)."
+    ]
+  },
+  "en": {
+    "name": "Pediatrician",
+    "about": "Parents looking for a pediatrician for their children need instant contact options, home visit details, and a feeling of warmth and security. The website must be child-friendly and highly optimized for mobile devices.",
+    "focus": "Pediatricians benefit most from local SEO in maps targeting keywords like '24/7 pediatrician', 'pediatrician home visits Warsaw', and authoring practical parenting advice.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, with medical image optimization.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant patient booking confirmations.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "AI pediatric chatbot with a built-in child health and dosage database for patient acquisition.",
+      "Interactive child immunization and health check calendar built with React/TypeScript.",
+      "Encrypted pediatrician intake form for medical histories before the first visit."
+    ]
+  },
+  "de": {
+    "name": "Kinderarzt",
+    "about": "Eltern, die einen Kinderarzt für ihre Kinder suchen, benötigen sofortigen Kontakt, Informationen zu Hausbesuchen sowie ein Gefühl der Sicherheit. Die Website muss kinderfreundlich und absolut mobiloptimiert sein.",
+    "focus": "Kinderärzte profitieren am meisten von lokalem SEO bei Google Maps für Begriffe wie 'Kinderarzt Notdienst', 'Kinderarzt Hausbesuche' und dem Schreiben praktischer Elternratgeber.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, mit medizinischer Bildoptimierung.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige Terminbestätigungen von Patienten.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "KI-Chatbot mit integrierter Datenbank für Kindergesundheit und Medikamentendosierung.",
+      "Interaktiver Impfkalender und Vorsorgeuntersuchungsplaner in React/TypeScript.",
+      "Verschlüsselter pädiatrischer Anamnesebogen für Krankengeschichten vor dem ersten Besuch."
+    ]
+  },
+  "uk": {
+    "name": "Педіатр",
+    "about": "Батьки, які шукають педіатра для своїх дітей, потребують миттєвого зв'язку, інформації про домашні візити та відчуття безпеки. Сайт має бути привабливим та повністю адаптованим під мобільні пристрої.",
+    "focus": "Педіатри виграють від локального SEO у картах за запитами 'педіатр цілодобово', 'педіатр виклик додому Варшава' та ведення корисного блогу для батьків.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, з оптимізацією медичних зображень.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для миттєвого підтвердження записів пацієнтів.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Чат-бот AI з базою знань про дитяче здоров'я та дозування ліків як інструмент залучення клієнтів.",
+      "Інтерактивний календар профілактичних щеплень та оглядів на React/TypeScript.",
+      "Зашифрована форма анамнезу дитини перед першим прийомом педіатра (GDPR/SSL)."
+    ]
+  },
+  "ru": {
+    "name": "Педиатр",
+    "about": "Родители, ищущие педиатра для детей, нуждаются в быстрой связи, информации о вызовах на дом и ощущении надежности. Сайт должен быть дружелюбным и полностью адаптированным под смартфоны.",
+    "focus": "Педиатры получают отдачу от локального SEO в картах по запросам 'круглосуточный педиатр', 'педиатр вызов на дом Варшава' и публикации советов для родителей.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, с оптимизацией медицинских изображений.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для мгновенного подтверждения записей пациентов.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Чат-бот AI с базой знаний о детском здоровье и дозировках лекарств для привлечения пациентов.",
+      "Интерактивный календарь прививок и плановых осмотров ребенка на React/TypeScript.",
+      "Зашифрованная форма анамнеза ребенка перед первым приемом педиатра (GDPR/SSL)."
+    ]
+  },
+  "zh": {
+    "name": "儿科医生",
+    "about": "为孩子寻找儿科医生的家长需要能够即时取得联系，了解上门诊疗信息，并感到安心与温馨。网站必须亲和力强，且针对移动设备进行完美优化。",
+    "focus": "儿科医生主要依靠谷歌地图本地 SEO 获取流量，如“24小时儿科医生”、“儿科上门看诊 华沙”，以及撰写实用的育儿指南博客。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，配合医学影像优化。",
+      "深度集成短信网关（Twilio / SMSAPI），用于就诊时间实时确认与通知。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "内置儿童健康指南与常见药物剂量数据库的智能 AI 客服，作为高转化获客漏斗。",
+      "基于 React/TypeScript 研发的交互式儿童疫苗接种进程与健康发育体检日历。",
+      "严格遵循数据隐私规范的加密儿童病史筛查表单（支持就诊前在线填写）。"
+    ]
+  }
+}

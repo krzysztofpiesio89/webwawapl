@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Psychiatra",
+    "about": "Obszar zdrowia psychicznego wymaga absolutnej dyskrecji, empatii i poczucia bezpieczeństwa. Profesjonalna witryna psychiatry pomaga przełamać barierę wstydu, oferując jasny zakres pomocy i łatwą rejestrację.",
+    "focus": "Psychiatrzy zyskują najwięcej na pozycjonowaniu fraz związanych z problemami (np. leczenie depresji Warszawa, bezsenność psychiatra) oraz budowaniu eksperckiego wizerunku na blogu medycznym.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, z optymalizacją obrazów medycznych.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego potwierdzania wizyt pacjentów.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "W pełni szyfrowane, bezpieczne konsultacje wideo online (WebRTC) zintegrowane z C#/.NET.",
+      "System e-rezerwacji zintegrowany z bazą danych Medfile i kalendarzami pacjentów.",
+      "Dyskretne, w 100% anonimowe formularze kontaktowe z szyfrowaniem end-to-end."
+    ]
+  },
+  "en": {
+    "name": "Psychiatrist",
+    "about": "The field of mental health demands absolute discretion, empathy, and a feeling of safety. A professional psychiatrist website helps break the stigma, offering clear areas of help and easy registration.",
+    "focus": "Psychiatrists benefit most from SEO targeting condition-specific keywords (e.g. depression treatment Warsaw, insomnia psychiatrist) and building an expert profile through clinical blog content.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, with medical image optimization.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant patient booking confirmations.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Fully encrypted, secure online video consultations (WebRTC) integrated with C#/.NET.",
+      "E-booking system integrated with the Medfile database and patient calendars.",
+      "Discreet, 100% anonymous contact forms with end-to-end encryption."
+    ]
+  },
+  "de": {
+    "name": "Psychiater",
+    "about": "Der Bereich der psychischen Gesundheit erfordert absolute Diskretion und Empathie. Eine professionelle Website hilft Patienten, Hemmschwellen abzubauen und unkompliziert Hilfe zu finden.",
+    "focus": "Psychiater gewinnen Sichtbarkeit durch das Ranking bei Begriffen zu Störungsbildern (z. B. Depression Behandlung, Schlafstörungen) und Fachartikel zur Aufklärung.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, mit medizinischer Bildoptimierung.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige Terminbestätigungen von Patienten.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Voll verschlüsselte, sichere Online-Videosprechstunden (WebRTC) integriert mit C#/.NET.",
+      "E-Booking-System integriert mit der Medfile-Datenbank und Patientenkalendern.",
+      "Diskrete, 100 % anonyme Kontaktformulare mit Ende-zu-Ende-Verschlüsselung."
+    ]
+  },
+  "uk": {
+    "name": "Психіатр",
+    "about": "Сфера психічного здоров'я вимагає абсолютної конфіденційності, емпатії та безпеки. Професійний сайт психіатра допомагає пацієнтам зробити перший крок, пропонуючи просту форму запису.",
+    "focus": "Психіатри отримують найбільше заявок завдяки просуванню за симптомами (наприклад, лікування депресії, безсоння) та авторитетним статтям у блозі.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, з оптимізацією медичних зображень.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для миттєвого підтвердження записів пацієнтів.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Повністю зашифровані відеоконсультації (WebRTC), інтегровані з платформою C#/.NET.",
+      "Система онлайн-запису, інтегрована з медичною базою Medfile та календарями.",
+      "Конфіденційні, на 100% анонімні форми зворотного зв'язку з наскрізним шифруванням."
+    ]
+  },
+  "ru": {
+    "name": "Психиатр",
+    "about": "Сфера психического здоровья требует максимальной конфиденциальности, эмпатии и безопасности. Сайт психиатра должен помогать пациенту преодолеть барьер и записаться на прием.",
+    "focus": "Психиатры привлекают пациентов через поисковую оптимизацию по симптоматическим запросам (лечение депрессии, панические атаки) и экспертный блог.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, с оптимизацией медицинских изображений.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для мгновенного подтверждения записей пациентов.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Полностью зашифрованные видеоконсультации (WebRTC), интегрированные с платформой C#/.NET.",
+      "Система онлайн-записи, интегрированная с медицинской базой Medfile и календарями.",
+      "Конфиденциальные, на 100% анонимные формы обратной связи с сквозным шифрованием."
+    ]
+  },
+  "zh": {
+    "name": "精神科医生",
+    "about": "心理健康领域需要绝对的隐私保护、同理心和安全感。精神科医生的专业网站有助于消除患者就医顾虑，提供清晰的诊疗范围和便捷的挂号渠道。",
+    "focus": "精神科医生最能从针对具体病症关键词（如：抑郁症治疗华沙、失眠精神科医生）的 SEO 优化以及通过专业医疗博客树立专家形象中受益。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，配合医学影像优化。",
+      "深度集成短信网关（Twilio / SMSAPI），用于就诊时间实时确认与通知。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "基于 C#/.NET 及 WebRTC 技术开发的端到端加密、高带宽安全在线视频会诊系统。",
+      "与 Medfile 临床管理系统及患者日历实时同步的电子排班与预约挂号引擎。",
+      "高度保密、基于非对称加密算法的 100% 匿名患者咨询与线索搜集表单。"
+    ]
+  }
+}

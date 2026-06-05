@@ -1,0 +1,139 @@
+{
+  "id": "psychologist",
+  "slugs": {
+    "pl": "psycholog",
+    "en": "psychologist",
+    "de": "psychologe",
+    "uk": "psykholoh",
+    "ru": "psiholog",
+    "zh": "psychologist"
+  },
+  "translations": {
+    "pl": {
+      "industryName": "Psycholog",
+      "heroSubtitle": "Dedykowane strony internetowe, aplikacje gabinetowe PWA oraz lokalne pozycjonowanie dla psychologów i psychoterapeutów.",
+      "title": "Strony internetowe i systemy IT dla gabinetów psychologicznych i psychoterapeutycznych",
+      "description": "Projektujemy profesjonalne strony www, aplikacje PWA oraz prowadzimy pozycjonowanie SEO dla psychologów i psychoterapeutów. Zbuduj zaufanie i pozyskaj pacjentów.",
+      "about": "Branża psychologiczna i psychoterapeutyczna wymaga szczególnego podejścia do budowania zaufania, empatii oraz absolutnego bezpieczeństwa danych. Pacjenci szukający wsparcia w kryzysie psychicznym potrzebują jasnych, przejrzystych informacji oraz intuicyjnego, dyskretnego sposobu na rejestrację wizyty. Nasze rozwiązania łączą bezpieczne witryny Next.js z pełnym szyfrowaniem, integracje z systemami rezerwacji (ZnanyLekarz, Calendly) oraz pozycjonowanie lokalne, co ułatwia pacjentom odnalezienie profesjonalnej pomocy.",
+      "series": {
+        "pwa": {
+          "title": "Dedykowane Aplikacje PWA dla Gabinetu",
+          "desc": "Tworzymy szybkie i bezpieczne aplikacje PWA, pozwalające pacjentom na instalację na ekranie telefonu, poufny czat, bezpieczne ankiety przedwizytowe oraz powiadomienia o terminach spotkań."
+        },
+        "wordpress": {
+          "title": "Strony WordPress dla Psychologów",
+          "desc": "Projektujemy estetyczne strony WordPress ułatwiające publikację artykułów poradnikowych, cennika sesji, certyfikatów zawodowych oraz opinii pacjentów w zaufanym środowisku."
+        },
+        "seo": {
+          "title": "Pozycjonowanie i Profil Google Maps",
+          "desc": "Wdrażamy pozycjonowanie na frazy intencyjne (np. dobry psychoterapeuta Warszawa, psycholog dziecięcy) oraz optymalizujemy mapy Google i Schema.org, aby ułatwić lokalną widoczność."
+        }
+      }
+    },
+    "en": {
+      "industryName": "Psychologist",
+      "heroSubtitle": "Dedicated websites, PWA clinical applications, and local SEO for psychologists and psychotherapists.",
+      "title": "Websites and IT Systems for Psychology and Psychotherapy Practices",
+      "description": "We design professional websites, PWA applications, and run SEO positioning for psychologists and psychotherapists. Build trust and acquire patients.",
+      "about": "The fields of psychology and psychotherapy require a unique approach to building trust, empathy, and absolute data security. Patients looking for mental health support need clear, reassuring information and an intuitive, discrete way to schedule a consultation. Our solutions combine secure, fully encrypted Next.js websites, scheduling system integrations (Calendly, custom engines), and local SEO, helping patients find professional support with ease.",
+      "series": {
+        "pwa": {
+          "title": "Dedicated PWA Apps for Practices",
+          "desc": "We build fast and secure PWA apps allowing patients to install them on home screens, offering confidential chat, secure intake forms, and automated session reminders."
+        },
+        "wordpress": {
+          "title": "WordPress Sites for Therapists",
+          "desc": "We design elegant WordPress websites that simplify publishing educational blog posts, session pricing, credentials, and client feedback in a trustworthy design."
+        },
+        "seo": {
+          "title": "SEO Positioning & Google Maps",
+          "desc": "We target high-intent local keywords, optimize Google Business profiles, and implement structured Schema.org JSON-LD data to maximize local search visibility."
+        }
+      }
+    },
+    "de": {
+      "industryName": "Psychologe",
+      "heroSubtitle": "Maßgeschneiderte Websites, klinische PWA-Anwendungen und lokales SEO für Psychologen und Psychotherapeuten.",
+      "title": "Websites und IT-Systeme für psychologische und psychotherapeutische Praxen",
+      "description": "Wir entwickeln professionelle Websites, PWA-Apps und führen SEO-Optimierungen für Psychologen und Psychotherapeuten durch. Gewinnen Sie Patienten.",
+      "about": "Der Bereich der Psychologie und Psychotherapie erfordert einen besonderen Ansatz zum Aufbau von Vertrauen, Empathie und absoluter Datensicherheit. Patienten, die nach psychologischer Unterstützung suchen, benötigen klare Informationen und eine diskrete Möglichkeit zur Terminbuchung. Unsere Lösungen kombinieren sichere, verschlüsselte Next.js-Websites, Buchungssystem-Integrationen und lokales SEO.",
+      "series": {
+        "pwa": {
+          "title": "Dedizierte PWA-Apps für Praxen",
+          "desc": "Wir erstellen superschnelle, sichere PWA-Anwendungen mit Funktionen für vertrauliche Chats, digitale Erstgespräch-Fragebögen und automatische Terminerinnerungen."
+        },
+        "wordpress": {
+          "title": "WordPress-Seiten für Therapeuten",
+          "desc": "Wir gestalten ansprechende WordPress-Seiten zur einfachen Veröffentlichung von Fachartikeln, Sitzungshonoraren, Zertifikaten und Patientenbewertungen."
+        },
+        "seo": {
+          "title": "SEO-Optimierung & Google Maps",
+          "desc": "Wir sorgen für Ihre lokale Sichtbarkeit. Wir optimieren Ihr Google Business Profil und implementieren strukturiertes Schema JSON-LD für Therapeuten."
+        }
+      }
+    },
+    "uk": {
+      "industryName": "Психолог",
+      "heroSubtitle": "Сучасні веб-сайти, кабінетні PWA-додатки та локальне SEO для психологів та психотерапевтів.",
+      "title": "Веб-сайти та IT-системи для психологічних та психотерапевтичних кабінетів",
+      "description": "Проектуємо професійні сайти, PWA-додатки та здійснюємо SEO-просування для психологів та психотерапевтів. Залучайте більше пацієнтів та будуйте довіру.",
+      "about": "Сфера психології та психотерапії вимагає особливого підходу до побудови довіри, емпатії та абсолютного захисту персональних даних. Пацієнти, які шукають психологічну допомогу, потребують чіткої та зрозумілої інформації, а також простого та конфіденційного способу запису на прийом. Наші рішення поєднують безпечні веб-сайти Next.js із повним шифруванням, інтеграцію з календарями та локальне SEO для швидкого пошуку допомоги.",
+      "series": {
+        "pwa": {
+          "title": "Спеціалізовані PWA-додатки для кабінетів",
+          "desc": "Створюємо швидкі PWA-додатки, які пацієнти можуть встановити на екран телефону для конфіденційного чату, заповнення анкет та отримання нагадувань про сесії."
+        },
+        "wordpress": {
+          "title": "Сайти на WordPress для психологів",
+          "desc": "Розробляємо естетичні сайти на WordPress для зручної публікації професійних статей, вартості послуг, сертифікатів та відгуків клієнтів у безпечному середовищі."
+        },
+        "seo": {
+          "title": "SEO-просування та Google карти",
+          "desc": "Забезпечуємо домінування у видачі Google за цільовими локальними запитами, налаштовуємо профіль Google Business та мікророзмітку Schema.org."
+        }
+      }
+    },
+    "ru": {
+      "industryName": "Психолог",
+      "heroSubtitle": "Современные веб-сайты, кабинетные PWA-приложения и локальное SEO для психологов и психотерапевтов.",
+      "title": "Веб-сайты и IT-системы для психологических и психотерапевтических кабинетов",
+      "description": "Проектируем профессиональные сайты, PWA-приложения и ведем локальное SEO для психологов и психотерапевтов. Стройте доверие и привлекайте пациентов.",
+      "about": "Сфера психологии и психотерапии требует деликатного отношения к доверию, эмпатии и абсолютной конфиденциальности данных. Пациентам в кризисных ситуациях важна понятная информация и возможность быстрого, анонимного онлайн-записи. Наши решения объединяют безопасные Next.js сайты с шифрованием, удобные интеграции с календарями и локальное SEO.",
+      "series": {
+        "pwa": {
+          "title": "Специализированные PWA-приложения для кабинета",
+          "desc": "Создаем быстрые PWA-приложения, устанавливаемые на экран смартфона, с функциями конфиденциального чата, анкет перед приемом и напоминаний о сессиях."
+        },
+        "wordpress": {
+          "title": "Сайты на WordPress для психологов",
+          "desc": "Проектируем эстетичные сайты на WordPress для ведения блога, публикации дипломов, прайс-листов и отзывов клиентов в доверительной атмосфере."
+        },
+        "seo": {
+          "title": "SEO-продвижение и Google карты",
+          "desc": "Обеспечиваем лидерство в поисковой выдаче по целевым запросам, оптимизируем карточку Google Business и внедряем разметку Schema.org."
+        }
+      }
+    },
+    "zh": {
+      "industryName": "心理咨询师",
+      "heroSubtitle": "为心理咨询师与心理治疗师定制开发的网站、PWA 诊所应用以及本地 SEO 优化方案。",
+      "title": "心理咨询与心理治疗诊所网站及 IT 系统解决方案",
+      "description": "我们为心理咨询师和心理治疗师设计专业网站、开发 PWA 应用并提供 SEO 推广服务。建立信任并高效吸引来访者。",
+      "about": "心理学和心理治疗行业对信任建立、移情沟通和绝对的数据安全有极高的要求。寻求心理支持的来访者需要清晰、令人安心的信息，以及直观、保密的预约方式。我们的解决方案将安全且完全加密的 Next.js 网站、在线预约系统（如 Calendly）与本地 SEO 完美融合，协助来访者轻松找到专业的心理支持。",
+      "series": {
+        "pwa": {
+          "title": "诊所专属 PWA 应用程序",
+          "desc": "我们构建快速安全的 PWA 应用，支持来访者安装在手机主屏幕上，提供私密在线咨询、安全的前期评估表单和自动预约提醒功能。"
+        },
+        "wordpress": {
+          "title": "心理咨询师 WordPress 网站开发",
+          "desc": "我们设计美观的 WordPress 网站，便于咨询师在值得信赖的设计环境中发布专业科普文章、咨询收费标准、专业资质认证以及来访者反馈。"
+        },
+        "seo": {
+          "title": "谷歌 SEO 排名与地图搜索优化",
+          "desc": "我们针对高意向的本地搜索词进行优化，提升谷歌商家信息（GBP）排名，并部署结构化的 Schema.org JSON-LD数据，最大化提升本地曝光度。"
+        }
+      }
+    }
+  }
+}

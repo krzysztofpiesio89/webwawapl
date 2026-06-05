@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Doradca podatkowy",
+    "about": "Doradca podatkowy wspiera przedsiębiorców w labiryncie przepisów podatkowych, reprezentuje ich przed organami skarbowymi i optymalizuje koszty prowadzenia działalności. Witryna doradcy musi budować wizerunek precyzji, rzetelności oraz bezpieczeństwa finansowego.",
+    "focus": "Doradcy podatkowi zyskują na SEO pozycjonując frazy związane z ulgami podatkowymi (np. ulga IP Box Warszawa, doradztwo podatkowe, optymalizacja podatkowa firmy) oraz publikując natychmiastowe wyjaśnienia nowych przepisów.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, bez zbędnych bibliotek blokujących wątek.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego zgłaszania spraw i zapytań prawnych.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Integracja z rządowym systemem KSeF (Krajowy System e-Faktur) za pomocą API w C# / .NET.",
+      "Autonomiczny asystent podatkowy AI (RAG) odpowiadający klientom na pytania o najnowsze przepisy.",
+      "Szyfrowany portal klienta do przesyłania i weryfikacji dokumentów księgowych w Django/Python."
+    ]
+  },
+  "en": {
+    "name": "Tax Advisor",
+    "about": "A tax advisor guides entrepreneurs through the labyrinth of tax regulations, represents them before revenue authorities, and optimizes operational costs. A tax advisor's website must build an image of precision, reliability, and financial safety.",
+    "focus": "Tax advisors benefit from SEO targeting tax-saving keywords (e.g. IP Box tax relief Warsaw, business tax advisory, tax optimization company) and offering immediate breakdowns of new tax laws.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, without thread-blocking libraries.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant notifications of legal inquiries.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Autonomous AI tax assistant (RAG model) providing real-time guidance on recent tax reforms.",
+      "Encrypted client portal for uploading and validating financial documents built on Django/Python.",
+      "Automated tax relief and write-off calculator utilizing a dynamic React wizard form."
+    ]
+  },
+  "de": {
+    "name": "Steuerberater",
+    "about": "Ein Steuerberater unterstützt Unternehmer im Dickicht der Steuergesetze, vertritt sie vor Finanzbehörden und optimiert Betriebskosten. Die Website muss Präzision, Zuverlässigkeit und finanzielle Sicherheit vermitteln.",
+    "focus": "Steuerberater erzielen Sichtbarkeit durch Suchbegriffe zur Steueroptimierung (z. B. Steuerberater Warschau, Steuerplanung Unternehmen) sowie Analysen von Steuerreformen.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, ohne den Thread blockierende Bibliotheken.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige rechtliche Anfragen und Aktenbenachrichtigungen.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Anbindung an die nationale KSeF-E-Rechnungsdatenbank über eine C# / .NET-API.",
+      "Autonomer KI-Steuerassistent (RAG-Modell) zur Beantwortung von Fragen zu aktuellen Steuerreformen.",
+      "Verschlüsseltes Mandantenportal zum Hochladen von Finanzdokumenten auf Basis von Django/Python."
+    ]
+  },
+  "uk": {
+    "name": "Податковий консультант",
+    "about": "Податковий консультант допомагає підприємцям орієнтуватися у складному податковому законодавстві, представляє інтереси у податковій та оптимізує витрати бізнесу. Сайт повинен транслювати точність та фінансову безпеку.",
+    "focus": "Податкові радники просуваються за запитами оптимізації податків (наприклад, податкове планування, консультація щодо IP Box) та оперативними роз'ясненнями податкових змін.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, без бібліотек, які блокують потік.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для миттєвих сповіщень про нові юридичні справи.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Інтеграція з державною системою електронних накладних KSeF через API на C# / .NET.",
+      "Автономний податковий асистент AI (модель RAG) для консультацій щодо податкових змін.",
+      "Зашифрований кабінет клієнта для завантаження фінансової звітності на базі Django/Python."
+    ]
+  },
+  "ru": {
+    "name": "Налоговый consultant",
+    "about": "Налоговый консультант помогает предпринимателям ориентироваться в лабиринте налогового права, представляет их перед фискальными органами и оптимизирует затраты. Сайт должен подчеркивать точность и финансовую безопасность.",
+    "focus": "Налоговые консультанты продвигаются по запросам оптимизации налогообложения (например, налоговый консалтинг, оформление льгот IP Box) и публикациям разбора новых законов.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, без блокирующих поток библиотек.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для мгновенных уведомлений о новых юридических делах.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Интеграция с государственной системой электронных накладных KSeF через API на C# / .NET.",
+      "Автономный налоговый ассистент AI (модель RAG) для консультаций по налоговым изменениям.",
+      "Зашифрованный личный кабинет клиента для загрузки финансовой отчетности на базе Django/Python."
+    ]
+  },
+  "zh": {
+    "name": "税务顾问",
+    "about": "税务顾问协助企业主理清复杂的税收政策，代表他们应对税务机关的稽查，并依法合理优化经营成本。税务顾问的网站必须建立起精准、严谨以及资金安全的形象。",
+    "focus": "税务顾问主要通过优化与节税相关的关键词 SEO（如：华沙 IP Box 税收优惠、企业税务咨询、企业税务筹划）并对新出台的税法进行即时深度解读来获益。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，杜绝任何阻塞主线程的冗余库。",
+      "深度集成短信网关（Twilio / SMSAPI），用于法律咨询及案件线索实时通报。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "通过 C# / .NET API，与波兰国家强制性电子发票系统（KSeF）实现合规级自动对接。",
+      "部署基于大语言模型检索增强（RAG）的智能税务助理，解答客户关于税法变更的疑问。",
+      "基于 Django (Python) 研发的加密企业财税数据上传通道与自动化票据预审系统。"
+    ]
+  }
+}

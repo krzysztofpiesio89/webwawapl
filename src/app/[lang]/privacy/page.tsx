@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import { getGlobalSettings } from '@/lib/settings';
 import Link from 'next/link';
 import { getDictionary, Locale } from '../dictionaries';
+import CookiePreferencesButton from '@/components/CookiePreferencesButton';
 
 export async function generateMetadata(props: { params: Promise<{ lang: string  }> }): Promise<Metadata> {
   const params = await props.params;
@@ -17,9 +18,9 @@ export default async function PrivacyPolicy(props: { params: Promise<{ lang: str
   const settings = await getGlobalSettings();
   const dict = await getDictionary(params.lang as Locale);
   
-  const companyName = settings?.companyName || 'Yuliya Taurel';
-  const address = settings?.address || 'ul. Józefa Piłsudskiego 20, 07-130 Kamionna';
-  const nip = settings?.nip || '9662148516';
+  const companyName = settings?.companyName || 'Krzysztof Piesio WIKOL';
+  const address = settings?.addressRegistered || 'ul. Nadrzeczna 9, 08-400 Górki';
+  const nip = settings?.nip || '8262147079';
 
   const homeUrl = params.lang === 'pl' ? '/' : `/${params.lang}`;
 
@@ -27,7 +28,7 @@ export default async function PrivacyPolicy(props: { params: Promise<{ lang: str
     <main className="min-h-screen py-24 bg-slate-50">
       <div className="container mx-auto px-4 max-w-4xl">
         <div className="bg-white p-8 md:p-16 rounded-3xl shadow-xl border border-slate-100">
-          <Link href={homeUrl} className="text-amber-600 font-bold hover:underline mb-8 inline-block">
+          <Link href={homeUrl} className="text-primary font-bold hover:underline mb-8 inline-block">
             {dict.privacy.backHome}
           </Link>
           
@@ -62,7 +63,17 @@ export default async function PrivacyPolicy(props: { params: Promise<{ lang: str
             <p>{dict.privacy.p6}</p>
 
             <h2 className="text-2xl font-bold mt-12 mb-4">{dict.privacy.h7}</h2>
-            <p dangerouslySetInnerHTML={{ __html: dict.privacy.p7.replace('{email}', `<strong>${settings?.email || 'kontakt@skupautwawa.pl'}</strong>`).replace('{phone}', `<strong>${settings?.phone || '+48 664 946 209'}</strong>`) }} />
+            <p dangerouslySetInnerHTML={{ __html: dict.privacy.p7.replace('{email}', `<strong>${settings?.email || 'kontakt@webwawa.pl'}</strong>`).replace('{phone}', `<strong>${settings?.phone || '+48 664 946 209'}</strong>`) }} />
+
+            <h2 className="text-2xl font-bold mt-12 mb-4">{params.lang === 'pl' ? 'Ustawienia plików cookie' : 'Cookie Settings'}</h2>
+            <p className="mb-4">
+              {params.lang === 'pl' 
+                ? 'W każdej chwili możesz dostosować lub wycofać swoje zgody na pliki cookie, klikając poniższy przycisk.' 
+                : 'You can adjust or withdraw your cookie consents at any time by clicking the button below.'}
+            </p>
+            <div className="my-6 p-4 bg-slate-50 dark:bg-slate-900/40 border border-slate-200/60 dark:border-slate-800/80 rounded-2xl w-fit">
+              <CookiePreferencesButton label={params.lang === 'pl' ? '⚙️ Zarządzaj preferencjami cookies' : '⚙️ Manage cookie preferences'} />
+            </div>
 
             <div className="mt-16 pt-8 border-t border-slate-100 text-sm text-slate-400">
               {dict.privacy.lastUpdate}: {new Date().toLocaleDateString('pl-PL')}

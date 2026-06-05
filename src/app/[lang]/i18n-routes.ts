@@ -13,6 +13,14 @@ export const localizedRoutes = {
     de: 'marken',
     zh: 'brands',
   },
+  industries: {
+    pl: 'strona-dla',
+    en: 'website-for',
+    uk: 'sayt-dlya',
+    ru: 'sayt-dlya',
+    de: 'webseite-fuer',
+    zh: 'website-for',
+  },
   about: {
     pl: 'o-nas',
     en: 'about-us',

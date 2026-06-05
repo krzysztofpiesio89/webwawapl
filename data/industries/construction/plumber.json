@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Hydraulik",
+    "about": "Usługi hydrauliczne, biały montaż oraz natychmiastowa pomoc przy zalaniach (pogotowie hydrauliczne) wymagają niezawodności i bezbłędnej optymalizacji. Strona hydraulika musi w mgnieniu oka dać dostęp do kontaktu, a pozycjonowanie na dzielnice Warszawy pozwala dotrzeć do osób szukających fachowca najbliżej domu.",
+    "focus": "Główny nacisk kładziemy na frazy ratunkowe (np. pogotowie hydrauliczne Warszawa, hydraulik Bemowo) oraz usługi instalacyjne (np. montaż pompy ciepła, wymiana pionów kanalizacyjnych).",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, bez zbędnych bibliotek blokujących wątek.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego zgłaszania awarii i zleceń budowlanych.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Zastosowanie Next.js & Edge Middleware do dynamicznej zmiany nazwy dzielnicy i telefonu na podstawie IP.",
+      "Wdrożenie lekkich skryptów analitycznych (Plausible / Fathom) w celu śledzenia konwersji bez spowalniania strony.",
+      "Schema JSON-LD Plumber z precyzyjnym zakresem geolokalizacji świadczonych usług."
+    ]
+  },
+  "en": {
+    "name": "Plumber",
+    "about": "Plumbing services, sanitary fixtures, and emergency assistance (clogged pipes, leaks) require reliability and flawless optimization. A plumber's website must deliver quick contact info, and local SEO by city districts connects the professional with local residents in need of fast help.",
+    "focus": "The primary emphasis is on emergency queries (e.g. emergency plumber Warsaw, plumber Bemowo) and installation keywords (e.g. water heater installation, drain cleaning).",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, without thread-blocking libraries.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant emergency service and job alerts.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Using Next.js & Edge Middleware to dynamically customize the nearest district name and phone numbers based on IP.",
+      "Quick billing links integration (Stripe / PayU) enabling the plumber to send fast payment links via SMS.",
+      "Structured Schema JSON-LD Plumber data with local service area parameters defined."
+    ]
+  },
+  "de": {
+    "name": "Klempner",
+    "about": "Sanitäre Dienstleistungen und Notdienste (z. B. Rohrreinigung) verlangen Schnelligkeit und Zuverlässigkeit. Die Website eines Klempners muss sofortige Kontaktwege aufzeigen, während lokales SEO auf Stadtteilebene hilft, Kunden in der unmittelbaren Umgebung zu gewinnen.",
+    "focus": "Der Fokus liegt auf Notdienst-Suchbegriffen (z. B. Rohrreinigung Berlin Notdienst, Klempner Spandau) und Installationsdienstleistungen (z. B. Heizung montieren).",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, ohne den Thread blockierende Bibliotheken.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige Notfalleinsätze und Bauauftragsalarme.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Einsatz von Next.js & Edge Middleware für dynamische, IP-basierte Text- und Rufnummernanpassungen.",
+      "Schnittstelle für Online-Zahlungslinks (Stripe / PayU) zur einfachen Abrechnung von Notfalleinsätzen per SMS.",
+      "Einsatz von datenschutzkonformen Analysetools (Plausible / Fathom) für schnelles Laden und Conversion-Tracking."
+    ]
+  },
+  "uk": {
+    "name": "Гідравлік",
+    "about": "Послуги сантехніка, підключення приладів та терміновий виклик при затопленнях вимагають високої швидкості та надійності сайту. Веб-сторінка повинна моментально надати контакти, а локальне SEO-просування по районах допомагає клієнту знайти найближчого майстра.",
+    "focus": "Головний фокус на екстрених запитах (наприклад, аварійна сантехнічна служба Київ, сантехнік Оболонь) та монтажі обладнання (наприклад, встановлення бойлера).",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, без бібліотек, які блокують потік.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для моментального інформування про аварії та замовлення.",
+      "Кнопка швидкого дзвінка, адаптована під мобільні екрани для покращення конверсії (Mobile-First Click-to-Call).",
+      "Використання Next.js & Edge Middleware для динамічного відображення назви району на основі IP-адреси.",
+      "Інтеграція з платіжними сервісами (Stripe / PayU) для швидкої відправки рахунків через SMS за термінові виклики.",
+      "Впровадження легкої аналітики (Plausible / Fathom) для відстеження рекламного трафіку без гальмування сайту."
+    ]
+  },
+  "ru": {
+    "name": "Сантехник",
+    "about": "Сантехнические работы, установка санфаянса и экстренный выезд при протечках (аварийный сантехник) требуют надежности и оптимизации сайта. Страница должна давать контакты в один клик, а продвижение по районам помогает найти мастера рядом с домом.",
+    "focus": "Основной упор на ключевые фразы срочного вызова (например, аварийный вызов сантехника Москва, сантехник на дом) и монтаж приборов.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, без блокирующих поток библиотек.",
+      "Интеграция с SMS-оповещениями (Twilio / SMSAPI) для срочной отправки аварийных заявок мастеру на телефон.",
+      "Кнопка быстрого вызова, оптимизированная под мобильных пользователей (Mobile-First Click-to-Call).",
+      "Использование Next.js & Edge Middleware для динамической подстановки ближайшего района по IP пользователя.",
+      "Подключение системы выставления быстрых счетов (Stripe / PayU) для отправки платежных ссылок по SMS.",
+      "Внедрение легковесных счетчиков (Plausible / Fathom) для отслеживания рекламы без влияния на PageSpeed."
+    ]
+  },
+  "zh": {
+    "name": "管道工/水暖工",
+    "about": "管道维修、卫浴洁具安装以及紧急漏水抢修（排水疏通）服务对响应时效有极高要求。管道工的网站必须在瞬间提供联系方式，利用华沙各区域的精准定位，能够帮助正在遭遇水患的客户第一时间找到距离最近的师傅。",
+    "focus": "SEO 的重心在于本地化抢修词（如：华沙紧急管道工、Mokotow 区水暖工）以及设备安装类词汇（如：热水器安装、排水管更换）。",
+    "specifications": [
+      "采用 Vite 与 React 搭建超轻量级静态单页，确保弱网甚至无网环境下实现秒开。",
+      "整合 Twilio 或本地 SMSAPI 短信通知通道，当用户提交紧急报修或施工委托时，手机瞬间收到警报。",
+      "针对移动端触控优化的 Click-to-Call 一键呼叫按钮，极大缩短客户转化路径。",
+      "应用 Next.js & Edge Middleware 技术，根据用户 IP 地址动态调整就近区域名与热线电话。",
+      "引入极速支付通道（Stripe / PayU），支持通过短信向客户发送紧急上门服务的在线账单链接。",
+      "部署轻量级、无 Cookie 的分析方案（Plausible / Fathom），在确保极速加载的同时追踪转化效果。"
+    ]
+  }
+}

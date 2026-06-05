@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Usługi remontowe",
+    "about": "Decyzja o remoncie mieszkania lub biura wiąże się z poszukiwaniem solidnej ekipy wykończeniowej. Klienci obawiają się opóźnień, ukrytych kosztów oraz niesolidnego wykonania. Witryna firmy remontowej musi natychmiast zaprezentować galerie zrealizowanych prac (suwaki przed/po), upraszczać kalkulację kosztów remontu za metr kwadratowy i oferować przejrzysty kontakt.",
+    "focus": "Najbardziej dochodowe słowa kluczowe to zapytania lokalne i dzielnicowe (np. remonty mieszkań Warszawa Mokotów, usługi wykończeniowe Wola) oraz precyzyjne frazy powiązane z cennikami usług wykończeniowych.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, bez zbędnych bibliotek blokujących wątek.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego zgłaszania awarii i zleceń budowlanych.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Wdrożenie interaktywnego suwaka 'Przed i Po' (porównywarka zdjęć z użyciem react-compare-image).",
+      "Stworzenie strony opartej o Next.js zintegrowanej z WordPress REST API dla prostego bloga i galerii.",
+      "Przejrzyste formularze zapytań o koszt prac w zależności od metrażu i zakresu wykończenia."
+    ]
+  },
+  "en": {
+    "name": "Renovations",
+    "about": "Renovating a home or office involves finding a reliable and professional team. Customers fear delays, hidden fees, and poor workmanship. A renovation service website must immediately show off past work using interactive before/after sliders, present a transparent cost calculator per square meter, and offer a direct booking call-to-action.",
+    "focus": "The most profitable keywords are local and district-specific terms (e.g. apartment renovations Warsaw Mokotow, home remodeling Wola) alongside clear price lists.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, without thread-blocking libraries.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant emergency service and job alerts.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Integration of interactive Before/After image comparison sliders utilizing react-compare-image.",
+      "Fast Next.js frontend integrated with headless WordPress REST API for easy content publishing.",
+      "Custom quote request forms based on project scope, room type, and square footage."
+    ]
+  },
+  "de": {
+    "name": "Renovierung",
+    "about": "Die Renovierung einer Wohnung oder eines Büros erfordert ein zuverlässiges Team. Kunden fürchten Verzögerungen und intransparente Kosten. Die Website eines Renovierungsdienstes muss Arbeitsproben mit Vorher-Nachher-Vergleichen zeigen und eine einfache Kostenkalkulation pro Quadratmeter ermöglichen.",
+    "focus": "Die lukrativsten Keywords sind lokale und stadtteilspezifische Suchanfragen (e.g. Wohnung renovieren Berlin Mitte, Renovierungsarbeiten Kreuzberg) kombiniert mit detaillierten Preislisten.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, ohne den Thread blockierende Bibliotheken.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige Notfalleinsätze und Bauauftragsalarme.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Integration von interaktiven Vorher-Nachher-Bildern mittels react-compare-image.",
+      "Next.js-Entwicklung mit Anbindung an die WordPress-REST-API für einfache Inhaltsverwaltung.",
+      "Kostenrechner-Formulare zur Abschätzung der Renovierungskosten basierend auf Fläche und Umfang."
+    ]
+  },
+  "uk": {
+    "name": "Ремонтні послуги",
+    "about": "Ремонт квартири чи офісу — це завжди пошук надійної бригади. Клієнти бояться затримок, прихованих витрат та неякісної роботи. Сайт ремонтної бригади повинен відразу демонструвати результати (слайдери до/після), надавати орієнтовний розрахунок вартості за квадратний метр та зручний спосіб зв'язку.",
+    "focus": "Найбільш прибутковими є локальні запити по районах міста (наприклад, ремонт квартир Печерськ, послуги з оздоблення стін) та запити, пов'язані з прайсами на ремонт.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, без бібліотек, які блокують потік.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для моментального інформування про аварії та замовлення.",
+      "Кнопка швидкого дзвінка, адаптована під мобільні екрани для покращення конверсії (Mobile-First Click-to-Call).",
+      "Впровадження інтерактивних слайдерів порівняння фото 'До та Після' (react-compare-image).",
+      "Швидкий Next.js сайт, інтегрований з WordPress REST API для оновлення портфоліо.",
+      "Зручні покрокові форми запиту ціни залежно від площі об'єкта та типу ремонту."
+    ]
+  },
+  "ru": {
+    "name": "Ремонтные услуги",
+    "about": "Ремонт квартиры или офиса — это всегда поиск надежных мастеров. Клиенты боятся затягивания сроков и некачественного исполнения. Сайт ремонтной компании должен сразу показывать результаты работ (слайдеры до/после), давать простой расчет стоимости ремонта за кв. метр и удобный контакт.",
+    "focus": "Самые конверсионные ключи — это геозапросы по районам города (например, ремонт квартир Химки, отделка квартир под ключ) и подробные прайс-листы.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, без блокирующих поток библиотек.",
+      "Интеграция с SMS-оповещениями (Twilio / SMSAPI) для срочной отправки аварийных заявок мастеру на телефон.",
+      "Кнопка быстрого вызова, оптимизированная под мобильных пользователей (Mobile-First Click-to-Call).",
+      "Интеграция интерактивных слайдеров сравнения 'До/После' (с использованием react-compare-image).",
+      "Сайт на Next.js с подключением по WordPress REST API для ведения блога и портфолио.",
+      "Удобные опросники (квизы) для расчета сметы ремонта по площади помещения."
+    ]
+  },
+  "zh": {
+    "name": "室内装修改造",
+    "about": "无论是公寓翻新还是办公室改造，业主都在寻找一支踏实可靠的施工队伍。他们最担心的是工期延误、增项乱收费以及劣质施工。装修公司的网站必须第一时间展示以往工程案例的施工前后对比滑块，提供基于每平米单价的预算小工具，并设立醒目的报价入口。",
+    "focus": "最具商业价值的关键词是基于具体区域和地段的搜索词（如：华沙 Mokotow 区公寓装修、Wola 区旧房改造）以及详细的家装报价表。",
+    "specifications": [
+      "采用 Vite 与 React 搭建超轻量级静态单页，确保弱网甚至无网环境下实现秒开。",
+      "整合 Twilio 或本地 SMSAPI 短信通知通道，当用户提交紧急报修或施工委托时，手机瞬间收到警报。",
+      "针对移动端触控优化的 Click-to-Call 一键呼叫按钮，极大缩短客户转化路径。",
+      "部署基于 react-compare-image 的交互式 Before/After 施工图片滑动对比控件。",
+      "基于 Next.js 开发的高能前端，并与 WordPress REST API 联动以管理装修博客与实景画廊。",
+      "按平方米数和装修套餐标准量身定制的多步骤预算在线生成与导出表单。"
+    ]
+  }
+}

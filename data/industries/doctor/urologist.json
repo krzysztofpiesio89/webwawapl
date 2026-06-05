@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Urolog",
+    "about": "Gabinet urologiczny to miejsce, gdzie dyskrecja i zaufanie są kluczem do pozyskania pacjenta. Czytelna strona www pozwala pacjentowi zapoznać się z zakresem diagnostyki i metodami leczenia przed samą wizytą.",
+    "focus": "Urolodzy najwięcej zyskują dzięki edukacyjnemu pozycjonowaniu SEO (odpowiedzi na pytania pacjentów na blogu medycznym) oraz optymalizacji lokalnej mapy Google, co bezpośrednio buduje autorytet lekarza.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, z optymalizacją obrazów medycznych.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego potwierdzania wizyt pacjentów.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Anonimowy, w pełni szyfrowany formularz wstępnej konsultacji urologicznej (TypeScript Crypto API).",
+      "Integracja z autonomicznym botem telefonicznym AI (Voice Bot) do umawiania i potwierdzania wizyt.",
+      "Wdrożenie struktur danych JSON-LD MedicalBusiness dla lepszego pozycjonowania w wyszukiwarkach AI."
+    ]
+  },
+  "en": {
+    "name": "Urologist",
+    "about": "A urology clinic is a place where discretion and trust are key to acquiring a patient. A clear website allows patients to read about diagnostics and treatments prior to the visit.",
+    "focus": "Urologists benefit most from educational SEO positioning (answering patient questions on a medical blog) and optimizing their Google Map profile, which directly builds the doctor's authority.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, with medical image optimization.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant patient booking confirmations.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Anonymous, fully encrypted urological intake forms (TypeScript Crypto API).",
+      "Implementation of structured Schema JSON-LD MedicalBusiness for better rankings in AI search engines.",
+      "Automated reminders for follow-ups and diagnostic screens via the Twilio SMS gateway."
+    ]
+  },
+  "de": {
+    "name": "Urologe",
+    "about": "Eine urologische Praxis erfordert Vertrauen. Eine übersichtliche Website ermöglicht es Patienten, sich vor dem Besuch über Diagnostik und Therapien zu informieren.",
+    "focus": "Urologen profitieren am meisten von aufklärendem SEO (Antworten auf Patientenfragen im Blog) und lokaler Google Maps Optimierung, was die ärztliche Autorität stärkt.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, mit medizinischer Bildoptimierung.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige Terminbestätigungen von Patienten.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Anonymer, voll verschlüsselter urologischer Anamnesebogen (TypeScript Crypto API).",
+      "Integration mit einem autonomen KI-Voice-Bot für Terminbuchungen und Bestätigungen.",
+      "Implementierung strukturierter JSON-LD MedicalBusiness-Daten zur besseren Auffindbarkeit in KI-Suchmaschinen."
+    ]
+  },
+  "uk": {
+    "name": "Уролог",
+    "about": "Урологічний кабінет — місце, де конфіденційність є головною. Зручний сайт дозволяє пацієнту ознайомитися з діагностикою та методами лікування перед візитом.",
+    "focus": "Урологи найбільше виграють від інформаційного SEO (відповіді на запитання пацієнтів у медичному блозі) та оптимізації профілю Google Maps.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, з оптимізацією медичних зображень.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для миттєвого підтвердження записів пацієнтів.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Анонімна, повністю зашифрована форма первинної консультації уролога (TypeScript Crypto API).",
+      "Інтеграція з автономним голосовим ботом AI (Voice Bot) для запису та підтвердження візитів.",
+      "Впровадження структурованих даних Schema JSON-LD MedicalBusiness для оптимізації в пошуку AI."
+    ]
+  },
+  "ru": {
+    "name": "Уролог",
+    "about": "Кабинет уролога — место, где доверие важнее всего. Понятный сайт позволяет пациенту ознакомиться со спецификацией услуг до приема.",
+    "focus": "Урологи больше всего выигрывают от информационного SEO (ответы на вопросы пациентов в блоге) и локальной оптимизации Google Maps.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, с оптимизацией медицинских изображений.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для мгновенного подтверждения записей пациентов.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Анонимная, полностью зашифрованная форма первичной консультации уролога (TypeScript Crypto API).",
+      "Интеграция с автономным голосовым ботом AI (Voice Bot) для записи и подтверждения визитов.",
+      "Внедрение структурированных данных Schema JSON-LD MedicalBusiness для лучшей видимости в AI-поиске."
+    ]
+  },
+  "zh": {
+    "name": "泌尿科医生",
+    "about": "泌尿科诊所是一个需要高度信任和隐私的场所。清晰的网站使患者能够在就诊前了解诊断和治疗方法。",
+    "focus": "泌尿科医生最能从科普型 SEO 优化（在医疗博客上回答患者提问）以及优化谷歌地图列表中获益，从而树立专业权威。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，配合医学影像优化。",
+      "深度集成短信网关（Twilio / SMSAPI），用于就诊时间实时确认与通知。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "匿名且完全加密的尿科初步就诊表单（采用 TypeScript 密码学 API）。",
+      "集成自主式 AI 语音机器人（Voice Bot），用于患者预约挂号与到诊确认。",
+      "部署结构化的 Schema JSON-LD MedicalBusiness 微数据，优化在新型 AI 搜索引擎中的权重。"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Ginekolog",
+    "about": "Ginekologia wymaga szczególnej dbałości o dyskrecję, profesjonalizm oraz łatwość kontaktu. Pacjentki szukają gabinetów ginekologicznych w swojej najbliższej okolicy, zwracając uwagę na opinie oraz wygodny system rezerwacji wizyt.",
+    "focus": "Kluczowym czynnikiem sukcesu dla ginekologa w Google jest lokalne SEO (obecność w mapach), posiadanie profilu zaufanego oraz integracja z kalendarzem rezerwacji (np. ZnanyLekarz lub własny system PWA) ułatwiająca zapisy 24/7.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, z optymalizacją obrazów medycznych.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego potwierdzania wizyt pacjentów.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Szyfrowanie formularzy medycznych zgodnie z normami RODO i HIPAA (Node.js crypto API).",
+      "Integracja REST API z systemem rezerwacji wizyt medycznych ZnanyLekarz / Medfile.",
+      "Autonomiczny chatbot AI do wstępnego wywiadu medycznego (symptom checker) przed wizytą."
+    ]
+  },
+  "en": {
+    "name": "Gynecologist",
+    "about": "Gynecology requires special attention to discretion, professionalism, and ease of contact. Female patients look for gynecological clinics in their immediate vicinity, paying attention to reviews and convenient booking.",
+    "focus": "The key success factor for a gynecologist in Google is local SEO (presence in maps), a trusted profile, and integration with an online calendar (e.g. PWA booking system) facilitating 24/7 registration.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, with medical image optimization.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant patient booking confirmations.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Medical forms encryption in compliance with GDPR and HIPAA standards (Node.js crypto API).",
+      "Autonomous AI symptom checker chatbot for initial medical interviews before visits.",
+      "Next.js template implementation with auto-optimized loading of USG images (WebP/AVIF)."
+    ]
+  },
+  "de": {
+    "name": "Gynäkologe",
+    "about": "Die Gynäkologie erfordert Diskretion, Professionalität und einfache Kontaktaufnahme. Patientinnen suchen Arztpraxen in ihrer Nähe und achten auf Bewertungen sowie Online-Buchung.",
+    "focus": "Der wichtigste Erfolgsfaktor für Gynäkologen bei Google ist lokales SEO (Google Maps), Vertrauenswürdigkeit und die Integration von Online-Kalendern für 24/7-Buchungen.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, mit medizinischer Bildoptimierung.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige Terminbestätigungen von Patienten.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Verschlüsselung medizinischer Formulare nach DSGVO- und HIPAA-Standards (Node.js-Kryptographie-API).",
+      "REST-API-Integration mit medizinischen Buchungsplattformen wie ZnanyLekarz / Medfile.",
+      "Autonomer KI-Symptom-Checker-Chatbot für das erste Anamnesegespräch vor dem Arzttermin."
+    ]
+  },
+  "uk": {
+    "name": "Гінеколог",
+    "about": "Гінекологія потребує особливої уваги до конфіденційності, професіоналізму та легкого контакту. Пацієнтки шукають кабінет гінеколога поруч, зважаючи на відгуки та зручність запису.",
+    "focus": "Ключовий фактор успіху для гінеколога в Google — локальне SEO (карти), авторитетний профіль та інтеграція онлайн-календаря для запису 24/7.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, з оптимізацією медичних зображень.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для миттєвого підтвердження записів пацієнтів.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Шифрування медичних форм відповідно до стандартів GDPR та HIPAA (Node.js crypto API).",
+      "Інтеграція REST API з медичними системами запису ZnanyLekarz / Medfile.",
+      "Автономний чат-бот AI для попереднього аналізу симптомів (symptom checker) перед візитом."
+    ]
+  },
+  "ru": {
+    "name": "Гинеколог",
+    "about": "Гинекология требует внимания к конфиденциальности, профессионализму и контакту. Пациентки ищут кабинет гинеколога рядом, обращая внимание на отзывы.",
+    "focus": "Ключевой фактор успеха для гинеколога в Google — локальное SEO (карты), авторитетный профиль и интеграция календаря для записи 24/7.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, с оптимизацией медицинских изображений.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для мгновенного подтверждения записей пациентов.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Шифрование медицинских форм в соответствии со стандартами GDPR и HIPAA (Node.js crypto API).",
+      "Интеграция REST API с медицинскими системами записи ZnanyLekarz / Medfile.",
+      "Автономный чат-бот AI для предварительного опроса симптомов (symptom checker) перед визитом."
+    ]
+  },
+  "zh": {
+    "name": "妇科医生",
+    "about": "妇产科需要特别注意隐私、专业精神和便捷的联系方式。女性患者通常会寻找附近的妇科诊所，关注口碑并使用便捷的预约系统。",
+    "focus": "妇科医生在谷歌上成功的关键是本地 SEO（地图展示）、高信誉的个人资料以及集成在线日历以实现 24/7 全天候挂号。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，配合医学影像优化。",
+      "深度集成短信网关（Twilio / SMSAPI），用于就诊时间实时确认与通知。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "严格符合 GDPR 和 HIPAA 标准的医疗表单加密技术（基于 Node.js 密码学 API）。",
+      "与 ZnanyLekarz / Medfile 等医疗预约平台的 REST API 深度集成。",
+      "用于就诊前初步病情评估（症状自测）的自主 AI 问诊聊天机器人。"
+    ]
+  }
+}

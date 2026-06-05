@@ -1,8 +1,8 @@
 {
   "meta": {
-    "title": "Skup Aut i Legalna Kasacja - Gotówka do ręki | skupautwawa.pl",
-    "description": "skupautwawa.pl to profesjonalny skup aut, błyskawiczne złomowanie aut oraz autokasacja. Posiadamy licencjonowaną stację demontażu pojazdów. Oferujemy rzetelną wycenę aut online oraz darmowy transport lawetą 24/7 w Warszawie i okolicach!",
-    "ogTitle": "Skup Aut i Legalna Kasacja - Gotówka do ręki | skupautwawa.pl"
+    "title": "Nowoczesne Aplikacje PWA i Strony WWW | webwawa.pl",
+    "description": "webwawa.pl to nowoczesna agencja IT z Warszawy. Tworzymy ultraszybkie strony internetowe Next.js, dedykowane aplikacje webowe PWA, pozycjonowanie SEO oraz integracje systemowe.",
+    "ogTitle": "Nowoczesne Aplikacje PWA i Strony WWW | webwawa.pl"
   },
   "nav": {
     "home": "Strona Główna",
@@ -175,22 +175,22 @@
     "requiredNote": "pola wymagane. Administratorem danych jest"
   },
   "footer": {
-    "description": "Najszybszy skup aut w aglomeracji warszawskiej. Gwarantujemy legalną kasację, darmowy odbiór lawetą i płatność gotówką do ręki. Działamy 24/7.",
+    "description": "Najszybsza agencja IT w Warszawie. Gwarantujemy nowoczesne rozwiązania, ultraszybkie wdrożenia i wsparcie techniczne 24/7.",
     "servicesTitle": "Nasze Usługi",
-    "service1": "Skup samochodów osobowych",
-    "service2": "Skup aut uszkodzonych",
-    "service3": "Legalna kasacja pojazdów",
-    "service4": "Wycena aut online",
+    "service1": "Tworzenie stron WWW Next.js",
+    "service2": "Aplikacje webowe i PWA",
+    "service3": "Pozycjonowanie i SEO",
+    "service4": "Systemy dedykowane i API",
     "citiesTitle": "Popularne Lokalizacje",
     "contactTitle": "Kontakt",
     "officeLabel": "Biuro Warszawa:",
     "registryLabel": "Adres Rejestrowy:",
-    "copyright": "© 2026 skupautwawa.pl - Wszystkie prawa zastrzeżone.",
+    "copyright": "© 2026 webwawa.pl - Wszystkie prawa zastrzeżone.",
     "privacyPolicy": "Polityka Prywatności"
   },
   "legal": {
     "companyInfo": "{companyName} | NIP: {nip} | KRS: {krs} | REGON: {regon}",
-    "addressInfo": "Adres: {address} | Administratorem danych osobowych jest właściciel serwisu skupautwawa.pl."
+    "addressInfo": "Adres: {address} | Administratorem danych osobowych jest właściciel serwisu webwawa.pl."
   },
   "seo": {
     "cityTitle": "Skup Aut i Kasacja {city} - Złomowanie | Gotówka od Ręki",
@@ -250,69 +250,69 @@
     "home": "Home"
   },
   "about": {
-    "metaTitle": "O nas - Kim Jesteśmy | skupautwawa.pl",
-    "metaDescription": "Dowiedz się więcej o skupautwawa.pl. Jesteśmy liderem w szybkim odkupie i legalnej kasacji pojazdów. Sprawdź naszą historię, misję i wartości.",
+    "metaTitle": "O nas - Kim Jesteśmy | webwawa.pl",
+    "metaDescription": "Poznaj webwawa.pl. Jesteśmy agencją IT oferującą nowoczesne strony WWW, aplikacje PWA, pozycjonowanie SEO i dedykowane systemy dla firm.",
     "breadcrumb": "O nas",
     "heroTitle": "Kim Jesteśmy? Poznaj",
-    "heroSubtitle": "Jesteśmy liderem w branży profesjonalnego odkupu oraz legalnego złomowania pojazdów. Naszym celem jest uproszczenie procesu sprzedaży auta do absolutnego minimum.",
-    "storyBadge": "O Naszej Firmie",
-    "storyTitle": "Nasza misja to błyskawiczny odkup i pełne bezpieczeństwo prawne",
-    "storyP1": "Platforma skupautwawa.pl powstała z myślą o kierowcach, którzy chcą sprzedać swój pojazd szybko, bez zbędnych formalności, wizyt na stacjach diagnostycznych i negocjacji z marudnymi kupcami. Rozumiemy, jak cenny jest Twój czas, dlatego uprościliśmy cały proces transakcyjny do 15 minut.",
-    "storyP2": "Skupujemy auta w każdym stanie technicznym i wizualnym — zarówno zadbane modele gotowe do dalszej jazdy, jak i pojazdy powypadkowe, uszkodzone mechanicznie czy przeznaczone do kasacji. Wypłacamy gotówkę bezpośrednio przy odbiorze auta i zajmujemy się wszystkimi dokumentami.",
-    "statsTitle": "📊 Nasza Firma w Liczbach",
-    "stat1Value": "15+",
+    "heroSubtitle": "Projektujemy i wdrażamy dedykowane rozwiązania internetowe i systemy webowe, które budują przewagę konkurencyjną Twojej firmy.",
+    "storyBadge": "O Naszej Agencji",
+    "storyTitle": "Nasza misja to dostarczanie nowoczesnego oprogramowania i najwyższej wydajności",
+    "storyP1": "Agencja IT webwawa.pl powstała z myślą o firmach, które potrzebują profesjonalnego i szybkiego wdrożenia systemów webowych, aplikacji mobilnych oraz nowoczesnych stron internetowych. Stawiamy na czysty kod, optymalizację SEO i najwyższe standardy UX/UI.",
+    "storyP2": "Współpracujemy zarówno ze startupami, jak i z dużymi przedsiębiorstwami. Nasz zespół to doświadczeni programiści, projektanci UI/UX oraz specjaliści SEO, którzy dbają o to, by każda linijka kodu przekładała się na sukces biznesowy naszego klienta.",
+    "statsTitle": "📊 Nasza Agencja w Liczbach",
+    "stat1Value": "10+",
     "stat1Label": "Lat Doświadczenia",
-    "stat1Desc": "Tysiące rzetelnie wycenionych pojazdów",
-    "stat2Value": "10k+",
+    "stat1Desc": "Setki zrealizowanych projektów IT",
+    "stat2Value": "200+",
     "stat2Label": "Zadowolonych Klientów",
-    "stat2Desc": "Pozytywne rekomendacje w całym regionie",
-    "stat3Value": "15m",
-    "stat3Label": "Średni Czas Wyceny",
-    "stat3Desc": "Szybka decyzja i natychmiastowa gotówka",
+    "stat2Desc": "Rekomendacje od firm z różnych branż",
+    "stat3Value": "24h",
+    "stat3Label": "Czas Wyceny Projektu",
+    "stat3Desc": "Szybka analiza techniczna bez zobowiązań",
     "pillarsTitle": "Nasze Trzy Główne Filary",
     "pillarsBadge": "Dlaczego My?",
-    "pillar1Title": "Uczciwość i Wycena",
-    "pillar1Desc": "Nasi rzeczoznawcy rzetelnie podchodzą do wyceny każdego pojazdu na podstawie aktualnych stawek rynkowych. Otrzymujesz sprawiedliwą i transparentną cenę.",
-    "pillar2Title": "Bezpieczeństwo Prawne",
-    "pillar2Desc": "Działamy w 100% zgodnie z polskim prawem. Wystawiamy legalne umowy kupna-sprzedaży lub certyfikaty demontażu konieczne do wyrejestrowania i zwrotu składek OC.",
-    "pillar3Title": "Własny Darmowy Transport",
-    "pillar3Desc": "Dysponujemy własną nowoczesną flotą lawet. Jeśli Twoje auto jest niesprawne lub uszkodzone, odbierzemy je bezpłatnie bezpośrednio spod wskazanego adresu.",
-    "galleryBadge": "Galeria Działania",
-    "galleryTitle": "Nasza Flota i Transakcje w Praktyce",
-    "galleryDesc": "Zapewniamy profesjonalną obsługę na każdym etapie – od dojazdu naszą autolawetą po bezpieczną transakcję i wypłatę gotówki od ręki.",
-    "galleryImg1Badge": "Bezpłatny Odbiór",
-    "galleryImg1Title": "Nowoczesny Transport Lawetą",
-    "galleryImg1Desc": "Własna, profesjonalna flota pojazdów do bezpiecznego transportu aut w każdym stanie.",
-    "galleryImg2Badge": "Gotówka do Ręki",
-    "galleryImg2Title": "Błyskawiczna Transakcja i Zaufanie",
-    "galleryImg2Desc": "Indywidualne podejście, szybkie formalności w 15 minut i pełna satysfakcja klienta.",
+    "pillar1Title": "Innowacja i Wydajność",
+    "pillar1Desc": "Tworzymy oprogramowanie w oparciu o najnowsze frameworki (Next.js, React). Zapewniamy najwyższą wydajność (cel to 100/100 w PageSpeed Insights) i szybkość działania.",
+    "pillar2Title": "Bezpieczeństwo i Skalowalność",
+    "pillar2Desc": "Nasze projekty są bezpieczne, zoptymalizowane pod kątem obciążeń i gotowe na rozwój Twojego biznesu. Dbamy o najwyższe standardy kodu.",
+    "pillar3Title": "Wsparcie i Rozwój",
+    "pillar3Desc": "Nie zostawiamy Cię po wdrożeniu. Oferujemy stałe wsparcie techniczne, administrację serwerami, aktualizacje oraz dalszy rozwój Twojego oprogramowania.",
+    "galleryBadge": "Nasze Realizacje",
+    "galleryTitle": "Technologia i Praca w Praktyce",
+    "galleryDesc": "Zapewniamy profesjonalne podejście od pierwszych makiet i projektów graficznych po finalne wdrożenie produkcyjne i optymalizację SEO.",
+    "galleryImg1Badge": "Kodowanie",
+    "galleryImg1Title": "Czysty Kod i Nowoczesne Technologie",
+    "galleryImg1Desc": "Wdrażamy systemy w oparciu o Next.js, TypeScript i Prisma ORM.",
+    "galleryImg2Badge": "Współpraca",
+    "galleryImg2Title": "Projektowanie i Konsultacje",
+    "galleryImg2Desc": "Bliska współpraca z klientem, warsztaty projektowe i makiety UI/UX przed rozpoczęciem kodowania.",
     "locationBadge": "📍 Lokalizacja Biura",
     "locationTitle": "Odwiedź Nas w Warszawie",
-    "locationDesc": "Nasze główne biuro operacyjne i punkt obsługi klienta znajduje się w Warszawie. Przyjedź do nas na darmową, profesjonalną wycenę aut na miejscu lub umów się na spotkanie!",
-    "locationMainOffice": "Główne Biuro Warszawa",
+    "locationDesc": "Nasze biuro operacyjne i konsultacyjne znajduje się w Warszawie. Zapraszamy do kontaktu telefonicznego lub mailowego w celu umówienia spotkania projektowego!",
+    "locationMainOffice": "Biuro Projektowe Warszawa",
     "locationRegistry": "Adres Rejestrowy",
-    "ctaTitle": "Masz Auto do Sprzedania?",
-    "ctaDesc": "Nie czekaj, skontaktuj się z nami już teraz i otrzymaj bezpłatną wycenę online lub telefonicznie w 15 minut.",
+    "ctaTitle": "Planujesz nowy projekt?",
+    "ctaDesc": "Nie czekaj, skontaktuj się z nami już teraz i otrzymaj darmową wycenę oraz wstępne doradztwo techniczne.",
     "ctaCall": "📞 Zadzwoń:",
-    "ctaOnline": "Wycena Online"
+    "ctaOnline": "Wycena Projektu"
   },
   "brands": {
-    "metaTitle": "Obsługiwane Marki Samochodów - Szybki Skup i Kasacja | skupautwawa.pl",
-    "metaDescription": "Skupujemy samochody osobowe i dostawcze wszystkich marek i modeli. Zobacz pełną listę obsługiwanych marek i wybierz swoje miasto do dedykowanej wyceny.",
+    "metaTitle": "Obszary Technologiczne i Usługi | webwawa.pl",
+    "metaDescription": "Dedykowane wdrożenia, technologie i pozycjonowanie w agencji IT webwawa.pl.",
     "breadcrumbHome": "Strona Główna",
     "breadcrumbBrands": "Nasze Marki",
-    "badge": "Złomowanie i Skup 2000-2026",
-    "title": "Marki pojazdów,",
-    "titleHighlight": "które skupujemy",
-    "subtitle": "Niezależnie od stanu technicznego, wizualnego czy roku produkcji. Skupujemy i kasujemy auta każdej marki. Wybierz swoje miasto poniżej, aby wygenerować dedykowaną ofertę."
+    "badge": "Agencja IT Warszawa",
+    "title": "Wdrażane technologie",
+    "titleHighlight": "i obszary",
+    "subtitle": "Dostosowujemy stack technologiczny do specyfiki Twojej branży i lokalizacji firmy."
   },
   "schema": {
-    "dealerName": "Skup Aut Warszawa - skupautwawa.pl",
-    "dealerDescription": "Profesjonalny skup aut i legalna kasacja pojazdów w Warszawie i okolicach"
+    "dealerName": "Agencja IT Warszawa - webwawa.pl",
+    "dealerDescription": "Profesjonalne tworzenie stron, aplikacji PWA i systemów dedykowanych w Warszawie i okolicach"
   },
   "privacy": {
-    "metaTitle": "Polityka Prywatności | skupautwawa.pl",
-    "metaDescription": "Dowiedz się, w jaki sposób chronimy Twoje dane osobowe. Polityka prywatności skupautwawa.pl.",
+    "metaTitle": "Polityka Prywatności | webwawa.pl",
+    "metaDescription": "Dowiedz się, w jaki sposób chronimy Twoje dane osobowe. Polityka prywatności webwawa.pl.",
     "title": "Polityka Prywatności",
     "lastUpdate": "Ostatnia aktualizacja",
     "intro": "Twoja prywatność jest dla nas ważna. W niniejszym dokumencie wyjaśniamy zasady przetwarzania danych.",
@@ -323,7 +323,7 @@
       },
       {
         "title": "2. Cel przetwarzania",
-        "content": "Przetwarzamy Twoje dane w celu wyceny i odkupu pojazdów."
+        "content": "Przetwarzamy Twoje dane w celu kontaktu, doradztwa technicznego oraz wyceny i realizacji projektów IT."
       },
       {
         "title": "3. Twoje prawa",
@@ -339,13 +339,13 @@
       "Imię i nazwisko",
       "Numer telefonu",
       "Adres e-mail",
-      "Dane pojazdu"
+      "Opis projektu i wymagania"
     ],
     "h3": "Cel przetwarzania",
     "p3Intro": "Dane przetwarzamy w celu:",
     "p3List": [
-      "Przygotowania wyceny",
-      "Realizacji umowy",
+      "Przygotowania wyceny projektu",
+      "Realizacji umowy wdrożeniowej",
       "Kontaktu z klientem"
     ],
     "h4": "Udostępnianie danych",
@@ -514,16 +514,16 @@
     }
   },
   "brandsPage": {
-    "metaTitle": "Obsługiwane Marki Samochodów - Szybki Skup i Kasacja | skupautwawa.pl",
-    "metaDescription": "Skupujemy samochody osobowe i dostawcze wszystkich marek i modeli. Zobacz pełną listę obsługiwanych marek i wybierz swoje miasto do dedykowanej wyceny.",
+    "metaTitle": "Obszary Technologiczne i Usługi | webwawa.pl",
+    "metaDescription": "Dedykowane wdrożenia, technologie i pozycjonowanie w agencji IT webwawa.pl.",
     "breadcrumbHome": "Strona Główna",
     "breadcrumbBrands": "Nasze Marki",
-    "badge": "Złomowanie i Skup 2000-2026",
-    "title": "Marki pojazdów,",
-    "titleHighlight": "które skupujemy",
-    "subtitle": "Niezależnie od stanu technicznego, wizualnego czy roku produkcji. Skupujemy i kasujemy auta każdej marki. Wybierz swoje miasto poniżej, aby wygenerować dedykowaną ofertę.",
-    "breadcrumb": "Marki",
-    "description": "Zobacz pełną listę obsługiwanych marek i wybierz swoje miasto do dedykowanej wyceny.",
+    "badge": "Agencja IT Warszawa",
+    "title": "Wdrażane technologie",
+    "titleHighlight": "i obszary",
+    "subtitle": "Dostosowujemy stack technologiczny do specyfiki Twojej branży i lokalizacji firmy.",
+    "breadcrumb": "Technologie",
+    "description": "Zobacz pełną listę wdrażanych technologii w agencji webwawa.pl.",
     "list": []
   },
   "uCarsPromo": {
@@ -554,18 +554,18 @@
     "cashTag2": "Ten też kupiony za gotówkę :)"
   },
   "email": {
-    "subject": "Potwierdzenie: Otrzymaliśmy zapytanie o wycenę pojazdu",
+    "subject": "Potwierdzenie: Otrzymaliśmy Twoje zapytanie projektowe",
     "greeting": "Witaj,",
-    "intro": "Dziękujemy za przesłanie zgłoszenia na stronie SkupAutWawa.pl. Poniżej znajduje się podsumowanie informacji, które nam przekazałeś:",
-    "detailsBrand": "Pojazd",
-    "detailsYear": "Rocznik",
-    "detailsEngine": "Silnik",
-    "detailsPrice": "Proponowana cena",
-    "detailsCity": "Lokalizacja",
+    "intro": "Dziękujemy za przesłanie zapytania na stronie webwawa.pl. Poniżej znajduje się podsumowanie informacji, które nam przekazałeś:",
+    "detailsBrand": "Klient / Firma",
+    "detailsYear": "Czas realizacji",
+    "detailsEngine": "Rodzaj usługi",
+    "detailsPrice": "Planowany budżet",
+    "detailsCity": "Miejscowość",
     "detailsPhone": "Twój telefon",
     "nextStepsTitle": "Co dalej?",
-    "nextStepsText": "Nasz rzeczoznawca właśnie analizuje Twoje zgłoszenie. Skontaktujemy się z Tobą na podany numer telefonu w ciągu kilkunastu minut.",
-    "footer": "Z poważaniem, Zespół SkupAutWawa.pl",
-    "footerAddress": "Skup Aut Warszawa"
+    "nextStepsText": "Nasz doradca analizuje Twoje zapytanie. Skontaktujemy się z Tobą telefonicznie w ciągu 24 godzin w celu omówienia szczegółów projektu.",
+    "footer": "Z poważaniem, Zespół webwawa.pl",
+    "footerAddress": "Agencja IT webwawa.pl"
   }
 }

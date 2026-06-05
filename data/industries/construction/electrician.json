@@ -1,0 +1,73 @@
+{
+  "pl": {
+    "name": "Elektryk",
+    "about": "Usługi elektryczne, pomiary instalacji oraz szybkie pogotowie elektryczne wymagają błyskawicznej dostępności. Kiedy dochodzi do awarii prądu, liczy się każda sekunda. Witryna elektryka musi wczytywać się natychmiast na telefonach komórkowych, oferować duży, klikalny przycisk z numerem telefonu (pogotowie 24h) oraz budować zaufanie przez certyfikaty SEP.",
+    "focus": "Główną siłą napędową są lokalne frazy ratunkowe (np. pogotowie elektryczne Warszawa, elektryk Mokotów 24h) oraz zapytania ofertowe (np. montaż instalacji elektrycznych cennik).",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, bez zbędnych bibliotek blokujących wątek.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego zgłaszania awarii i zleceń budowlanych.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Wdrożenie Schema JSON-LD ProfessionalService dedykowanej dla lokalnych pogotowi technicznych."
+    ]
+  },
+  "en": {
+    "name": "Electrician",
+    "about": "Electrical services, installation inspections, and emergency electrical assistance require immediate availability. In a blackout or electrical hazard, every second counts. An electrician's website must load instantly on mobile phones, feature a prominent click-to-call button (24/7 helpline), and build trust via industry licensing and safety credentials.",
+    "focus": "The primary driving forces are local emergency keywords (e.g. emergency electrician Warsaw, electrician 24h near me) and search queries for pricing (e.g. electrical installation cost).",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, without thread-blocking libraries.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant emergency service and job alerts.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Building a lightweight static site (Vite & React) that loads in a fraction of a second for emergency visits.",
+      "Prominent direct call button designed for maximum mobile conversion (Click-to-Call).",
+      "Implementation of Schema JSON-LD ProfessionalService structured data to drive local map SEO."
+    ]
+  },
+  "de": {
+    "name": "Elektriker",
+    "about": "Elektrodienstleistungen, Installationsprüfungen und ein schneller Notdienst erfordern sofortige Erreichbarkeit. Bei einem Stromausfall zählt jede Sekunde. Die Website eines Elektrikers muss auf Handys blitzschnell laden, eine auffällige Notrufnummer (24h) bieten und durch Zertifizierungen Vertrauen schaffen.",
+    "focus": "Der Schwerpunkt liegt auf lokalen Suchanfragen für Notfälle (z. B. Elektronotdienst Berlin, Elektriker 24h) sowie Preisfragen (z. B. Elektroinstallation Kosten).",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, ohne den Thread blockierende Bibliotheken.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige Notfalleinsätze und Bauauftragsalarme.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Notruf-Telefonie-Buttons optimiert für mobile Endgeräte zur schnellen Kontaktaufnahme.",
+      "Wdrożenie Schema JSON-LD ProfessionalService zur besseren Einordnung in den Suchergebnissen."
+    ]
+  },
+  "uk": {
+    "name": "Електрик",
+    "about": "Послуги електрика, вимірювання опору ізоляції та аварійна допомога вимагають миттєвої доступності. При виникненні замикання чи відключенні світла кожна секунда на рахунку. Сайт електрика повинен миттєво відкриватися на смартфонах, містити велику кнопку виклику та підтверджувати кваліфікацію допусками.",
+    "focus": "Основою просування є локальні екстрені запити (наприклад, аварійний електрик Київ, цілодобовий виклик електрика) та запити щодо монтажу проводки.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, без бібліотек, які блокують потік.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для моментального інформування про аварії та замовлення.",
+      "Кнопка швидкого дзвінка, адаптована під мобільні екрани для покращення конверсії (Mobile-First Click-to-Call).",
+      "Створення надшвидкого статичного сайту (Vite & React), що завантажується за частку секунди.",
+      "Додавання структурованої розмітки Schema JSON-LD ProfessionalService."
+    ]
+  },
+  "ru": {
+    "name": "Электрик",
+    "about": "Электромонтажные работы, замеры и аварийный вызов электрика требуют моментальной доступности. При коротком замыкании счет идет на минуты. Сайт электрика должен открываться мгновенно на мобильных, иметь крупную кнопку быстрого набора номера (вызов 24ч) и вызывать доверие сертификатами.",
+    "focus": "Основной трафик приносят локальные экстренные поисковые фразы (например, аварийная служба электрик Москва, услуги электрика недорого) и прайс-листы на монтаж проводки.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, без блокирующих поток библиотек.",
+      "Интеграция с SMS-оповещениями (Twilio / SMSAPI) для срочной отправки аварийных заявок мастеру на телефон.",
+      "Кнопка быстрого вызова, оптимизированная под мобильных пользователей (Mobile-First Click-to-Call).",
+      "Разработка супер-быстрого статического сайта (Vite & React), загружающегося мгновенно.",
+      "Внедрение Schema JSON-LD ProfessionalService для закрепления локальных позиций."
+    ]
+  },
+  "zh": {
+    "name": "专业电工",
+    "about": "电路维护、强弱电安装检查及紧急电力抢修服务高度依赖响应效率。当发生短路或断电故障时，每一秒钟都至关重要。电工抢修网站必须在手机端实现秒开，提供显著的一键直拨紧急呼叫按钮（24小时热线），并明确展示电工执业资质与安全许可证书。",
+    "focus": "SEO 的主要切入点是本地紧急维修服务词（如：华沙 24 小时紧急电工、电路抢修附近电工）以及常规电路安装的收费标准咨询。",
+    "specifications": [
+      "采用 Vite 与 React 搭建超轻量级静态单页，确保弱网甚至无网环境下实现秒开。",
+      "整合 Twilio 或本地 SMSAPI 短信通知通道，当用户提交紧急报修或施工委托时，手机瞬间收到警报。",
+      "针对移动端触控优化的 Click-to-Call 一键呼叫按钮，极大缩短客户转化路径。",
+      "引入专为本地派工服务优化的 Schema JSON-LD ProfessionalService 标记结构。"
+    ]
+  }
+}

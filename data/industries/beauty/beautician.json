@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Kosmetyczka",
+    "about": "Salon kosmetyczny oraz gabinet kosmetyki estetycznej potrzebują witryny przyciągającej wzrok estetyką, przejrzystością oferty oraz łatwością rezerwacji. Klienci szukają usług lokalnie, sprawdzając opinie oraz dostępność wolnych terminów na smartfonach.",
+    "focus": "Najważniejszym czynnikiem sukcesu w pozycjonowaniu salonu kosmetycznego jest silna widoczność lokalna w Google Maps (GBP), pozycjonowanie na frazy z nazwami dzielnic (np. salon kosmetyczny Mokotów) oraz bezproblemowa integracja z Booksy.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) zoptymalizowanej pod kątem szybkiej rezerwacji wizyt online.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla automatycznych przypomnień o terminach zabiegów.",
+      "Przycisk bezpośredniego połączenia telefonicznego oraz szybkiego kontaktu przez WhatsApp (Mobile-First).",
+      "Interaktywny system rezerwacji (Booksy / Versum API) zsynchronizowany z kalendarzem w czasie rzeczywistym.",
+      "Autonomiczny chatbot AI na Messengerze/WhatsAppie zbierający preferencje zabiegowe i automatycznie proponujący terminy.",
+      "Zoptymalizowana w Next.js Image galeria efektów przed/po z automatyczną kompresją WebP/AVIF."
+    ]
+  },
+  "en": {
+    "name": "Beautician",
+    "about": "A beauty salon and aesthetic studio require a website that attracts clients with stunning design, clear treatment menus, and effortless scheduling. Clients search locally on mobile devices and check reviews before making a booking.",
+    "focus": "The primary ranking factor for a beautician is local SEO dominance in Google Maps, optimizing for specific neighborhood queries (e.g. beauty salon near me, hybrid nails Warsaw), and smooth Booksy widgets integration.",
+    "specifications": [
+      "Ultra-lightweight website (Vite & React / Next.js) optimized for fast online booking and scheduling.",
+      "Integration with SMS notifications (Twilio / SMSAPI) for automated appointment and booking reminders.",
+      "Mobile-first click-to-call button and direct WhatsApp quick contact integration.",
+      "Interactive booking system (Booksy / Versum API) synchronized with calendars in real time.",
+      "Autonomous AI chatbot on Messenger/WhatsApp capturing treatment preferences and suggesting slots.",
+      "Next.js Image optimized before/after results gallery with automated WebP/AVIF compression."
+    ]
+  },
+  "de": {
+    "name": "Kosmetikerin",
+    "about": "Ein Kosmetikstudio benötigt eine ästhetisch ansprechende Website, die das Dienstleistungsangebot klar präsentiert und eine einfache Online-Terminvereinbarung ermöglicht.",
+    "focus": "Erfolgsfaktor für Kosmetikstudios bei Google ist die lokale Präsenz in Google Maps, die Optimierung für Stadtteile und die Anbindung an Buchungssysteme wie Booksy oder Calendly.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), optimiert für schnelle Online-Terminbuchung.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für automatische Erinnerungen an Behandlungstermine.",
+      "Direktruf-Schaltfläche und schnelle WhatsApp-Kontakt-Integration optimiert für mobile Endgeräte.",
+      "Interaktives Buchungssystem (Booksy / Versum API) synchronisiert mit Kalendern in Echtzeit.",
+      "Autonomer KI-Chatbot auf Messenger/WhatsApp zur Erfassung von Behandlungsvorlieben und Terminvorschlägen.",
+      "Next.js Image-optimierte Vorher-Nachher-Galerie mit automatischer WebP/AVIF-Komprimierung."
+    ]
+  },
+  "uk": {
+    "name": "Косметолог-естетист",
+    "about": "Салон краси та кабінет естетичної косметології потребують візуально привабливого сайту з чітким переліком послуг та можливістю легкого запису онлайн.",
+    "focus": "Ключем до успіху для кабінету краси є локальне SEO в Google Maps, просування за запитами конкретних районів та безперебійна інтеграція з віджетами запису.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), оптимізованого для швидкого онлайн-запису на прийом.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для автоматичних нагадувань про процедури.",
+      "Кнопка швидкого дзвінка та інтеграція швидкого зв'язку через WhatsApp (Mobile-First).",
+      "Інтерактивна система бронювання (Booksy / Versum API), синхронізована з календарем у реальному часі.",
+      "Автономний чат-бот AI у Messenger/WhatsApp для збору вподобань та автоматичного підбору часу візиту.",
+      "Оптимізована через Next.js Image галерея результатів до/після з автоматичним стисненням у WebP/AVIF."
+    ]
+  },
+  "ru": {
+    "name": "Косметолог-эстетист",
+    "about": "Салон красоты и кабинет эстетической косметологии нуждаются в визуально привлекательном сайте с четким перечнем услуг и возможностью легкой записи онлайн.",
+    "focus": "Ключом к успеху для кабинета красоты является локальное SEO в Google Maps, продвижение по запросам конкретных районов и бесперебойная интеграция с виджетами записи.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), оптимизированного для быстрой онлайн-записи на процедуры.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для автоматических напоминаний о визитах.",
+      "Кнопка быстрого звонка и интеграция быстрого контакта через WhatsApp (Mobile-First).",
+      "Интерактивная система бронирования (Booksy / Versum API), синхронизированная с календарем в реальном времени.",
+      "Автономный чат-бот AI в Messenger/WhatsApp для сбора предпочтений и автоматического подбора времени визита.",
+      "Оптимизированная через Next.js Image галерея результатов до/после с автоматическим сжатием в WebP/AVIF."
+    ]
+  },
+  "zh": {
+    "name": "美容美体师",
+    "about": "美容美体沙龙和常规美容院需要一个视觉效果优雅、项目介绍详尽且极易操作挂号排班的精美网站。年轻顾客倾向于使用手机随时了解空闲时间段并根据评价做决策。",
+    "focus": "美容沙龙在谷歌上获取高排名的核心是本地商圈优化（GBP），在特定行政区范围内覆盖关键词（如：华沙日式美甲、专业面部护理），并接入无缝的 Booksy 预约日程。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，针对线上预约与排班日程进行极速加载优化。",
+      "深度集成短信网关（Twilio / SMSAPI），用于客户护理及美容预约时间自动提醒。",
+      "针对移动端专门优化的 Mobile-First 一键呼叫按钮与 WhatsApp 快捷咨询通道。",
+      "对接第三方主流预约平台（Booksy / Versum API），实现前台日程与后台排班的实时同步。",
+      "部署基于 AI 的 Messenger/WhatsApp 智能客服机器人，自动询问护理需求并智能分配空闲时段。",
+      "基于 Next.js Image 组件深度优化的美容前后对比高清图集，支持 WebP/AVIF 自动分发。"
+    ]
+  }
+}

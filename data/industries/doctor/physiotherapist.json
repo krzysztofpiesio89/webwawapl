@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Fizjoterapeuta",
+    "about": "Osoby zmagające się z bólem, kontuzjami lub po operacjach szukają wykwalifikowanych fizjoterapeutów. Profesjonalna witryna musi udowadniać doświadczenie terapeuty, opisywać metody pracy (np. terapia manualna, igłoterapia) oraz dawać prosty zapis.",
+    "focus": "Fizjoterapeuci zyskują na SEO poprzez pozycjonowanie na hasła powiązane z dolegliwościami (np. ból kręgosłupa Warszawa, rehabilitacja po rekonstrukcji ACL) oraz optymalizację Google Maps.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, z optymalizacją obrazów medycznych.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego potwierdzania wizyt pacjentów.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Baza wideo ćwiczeń rehabilitacyjnych w chmurze (Cloudinary / Vercel Blob) z dostępem dla pacjentów.",
+      "Interaktywny model 3D dolegliwości i kontuzji narządów ruchu (WebGL/React Three Fiber).",
+      "Schema JSON-LD LocalBusiness z optymalizacją pod frazy kluczowe (rehabilitacja Warszawa)."
+    ]
+  },
+  "en": {
+    "name": "Physiotherapist",
+    "about": "People struggling with pain, injuries, or recovering from surgery look for qualified physiotherapists. A professional website must prove the therapist's credentials, describe techniques (e.g., manual therapy, dry needling), and offer easy booking.",
+    "focus": "Physiotherapists benefit from SEO targeting pain/symptom keywords (e.g., back pain treatment Warsaw, ACL rehab) and local Google Maps optimization.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, with medical image optimization.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant patient booking confirmations.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Cloud-hosted rehabilitation exercise video database (Cloudinary / Vercel Blob) for patients.",
+      "Interactive 3D body pain and musculoskeletal injury map (WebGL/React Three Fiber).",
+      "Seamless Cal.com integration for scheduling physical therapy sessions with Stripe payments."
+    ]
+  },
+  "de": {
+    "name": "Physiotherapeut",
+    "about": "Menschen mit Schmerzen, Verletzungen oder nach Operationen suchen qualifizierte Physiotherapeuten. Eine professionelle Website muss die Qualifikationen belegen, Therapiemethoden beschreiben und einfache Buchung ermöglichen.",
+    "focus": "Physiotherapeuten gewinnen Patienten durch SEO für schmerzbezogene Begriffe (z. B. Rückenschmerzen Behandlung Warschau, ACL-Rehabilitation) und lokale Google Maps-Optimierung.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, mit medizinischer Bildoptimierung.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige Terminbestätigungen von Patienten.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Cloud-basierte Videodatenbank für Rehabilitationsübungen (Cloudinary) für Patienten.",
+      "Interaktive 3D-Körperschmerzkarte für Muskel-Skelett-Verletzungen (WebGL/React Three Fiber).",
+      "Cal.com-Integration für die Buchung von Physiotherapiesitzungen mit Stripe-Zahlungen."
+    ]
+  },
+  "uk": {
+    "name": "Фізіотерапевт",
+    "about": "Люди, які страждають від болю, травм або проходять реабілітацію після операцій, шукають кваліфікованих фізіотерапевтів. Професійний сайт повинен підтверджувати досвід терапевта, описувати методи роботи та давати зручний запис.",
+    "focus": "Фізіотерапевти виграють від SEO просування за запитами конкретних проблеми (наприклад, біль у спині Варшава, реабілітація після пластики ПХЗ) та оптимізації Google Maps.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, з оптимізацією медичних зображень.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для миттєвого підтвердження записів пацієнтів.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Хмарна база відеоуроків реабілітаційних вправ (Cloudinary / Vercel Blob) з доступом для пацієнтів.",
+      "Інтерактивна 3D-карта болю та травм опорно-рухового апарату (WebGL/React Three Fiber).",
+      "Інтеграція з Cal.com для гнучкого планування сеансів та оплати через Stripe."
+    ]
+  },
+  "ru": {
+    "name": "Физиотерапевт",
+    "about": "Люди, страдающие от болей, травм или восстанавливающиеся после операций, ищут квалифицированных физиотерапевтов. Профессиональный сайт должен подтверждать квалификацию, описывать методики работы и давать простую запись.",
+    "focus": "Физиотерапевты получают клиентов через SEO по запросам симптомов и болей (например, боль в позвоночнике Варшава, реабилитация после пластики ПКС) и Google Maps.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, с оптимизацией медицинских изображений.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для мгновенного подтверждения записей пациентов.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Облачная база видеоуроков реабилитационных упражнений (Cloudinary / Vercel Blob) для пациентов.",
+      "Интерактивная 3D-карта боли и травм опорно-двигательного аппарата (WebGL/React Three Fiber).",
+      "Интеграция с Cal.com для гибкого планирования сеансов и оплаты через Stripe."
+    ]
+  },
+  "zh": {
+    "name": "物理治疗师",
+    "about": "遭受疼痛、运动损伤或术后恢复的患者在寻找合格的物理治疗师。一个专业的网站必须证明治疗师的资质，详细说明治疗方法（如手法治疗、干针疗法），并提供简单的预约通道。",
+    "focus": "物理治疗师通过针对痛症/症状词汇（如：华沙背痛治疗、前交叉韧带重建术后康复）进行 SEO 优化以及谷歌地图本地排名中获益。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，配合医学影像优化。",
+      "深度集成短信网关（Twilio / SMSAPI），用于就诊时间实时确认与通知。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "基于云存储（Cloudinary / Vercel Blob）构建的康复理疗训练演示视频库，支持患者自主访问。",
+      "基于 WebGL/React Three Fiber 开发的交互式 3D 人体骨骼肌肉损伤与疼痛图示模块。",
+      "无缝对接 Cal.com 预约引擎，支持物理治疗课程预约与 Stripe 在线快捷支付。"
+    ]
+  }
+}

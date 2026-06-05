@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Neurolog",
+    "about": "Diagnostyka neurologiczna wymaga zaufania, rzetelnych opisów badań (np. EEG, elektromiografia) oraz przejrzystej informacji o leczonych dolegliwościach (bóle głowy, rwa kulszowa). Witryna musi budować autorytet i uspokajać pacjenta.",
+    "focus": "Neurolodzy zyskują najwięcej dzięki pozycjonowaniu na frazy powiązane z objawami (np. drętwienie rąk neurolog Warszawa, migrena leczenie) oraz optymalizacji profilu Google Maps w swojej okolicy.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, z optymalizacją obrazów medycznych.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego potwierdzania wizyt pacjentów.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Szyfrowany formularz zgłaszania objawów neurologicznych zbudowany w Django (Python).",
+      "Wdrożenie autonomicznego bota głosowego AI do weryfikacji i potwierdzania wizyt.",
+      "Certyfikacja SSL, zgodność z RODO oraz ochrona danych wrażliwych pacjentów."
+    ]
+  },
+  "en": {
+    "name": "Neurologist",
+    "about": "Neurological diagnostics require patient trust, reliable descriptions of exams (e.g. EEG, electromyography), and clear details about treated conditions (headaches, sciatica). The website must establish authority and reassure the patient.",
+    "focus": "Neurologists benefit most from SEO targeting symptom-related keywords (e.g. hand numbness neurologist Warsaw, migraine treatment) and Google Maps local SEO optimization.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, with medical image optimization.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant patient booking confirmations.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Encrypted neurological symptom reporting forms built with Django (Python).",
+      "Deployment of an autonomous AI voice bot for scheduling and confirming clinic visits.",
+      "SSL certification, GDPR compliance, and sensitive medical data protection."
+    ]
+  },
+  "de": {
+    "name": "Neurologe",
+    "about": "Neurologische Diagnostik erfordert Vertrauen und genaue Beschreibungen von Untersuchungen (z. B. EEG, EMG). Die Website sollte Patienten über Symptome und Therapien aufklären.",
+    "focus": "Neurologen gewinnen Patienten durch Rankings bei Symptomsuchen (z. B. Taubheitsgefühl Hände, Migräne Behandlung) und lokales SEO bei Google Maps.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, mit medizinischer Bildoptimierung.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige Terminbestätigungen von Patienten.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Verschlüsselter neurologischer Symptombogen auf Basis von Django (Python).",
+      "Integration mit E-Registrierungssystemen für spezialisierte MRT- und CT-Untersuchungen.",
+      "Implementierung eines autonomen KI-Sprachbots zur Terminverifizierung und -bestätigung."
+    ]
+  },
+  "uk": {
+    "name": "Невролог",
+    "about": "Неврологічна діагностика потребує довіри, точних описів обстежень (наприклад, ЕЕГ, ЕМГ) та зрозумілої інформації про симптоми (мігрень, радикуліт). Сайт має викликати впевненість у лікарі.",
+    "focus": "Неврологи успішно просуваються за симптоматичними запитами (наприклад, німіють руки невролог, лікування головного болю) та завдяки профілю Google Maps.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, з оптимізацією медичних зображень.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для миттєвого підтвердження записів пацієнтів.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Зашифрована форма симптомів неврологічних розладів на базі Django (Python).",
+      "Інтеграція з онлайн-реєстрацією на діагностику МРТ та КТ.",
+      "Впровадження автономного голосового бота AI для верифікації та підтвердження записів."
+    ]
+  },
+  "ru": {
+    "name": "Невролог",
+    "about": "Неврологическая диагностика требует доверия, точных описаний обследований (например, ЭЭГ, ЭМГ) и понятной информации о симптомах (мигрень, радикулит). Сайт должен вызывать доверие у пациентов.",
+    "focus": "Неврологи привлекают пациентов по запросам симптомов (например, онемение рук невролог, лечение головного боли) и локальным картам.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, с оптимизацией медицинских изображений.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для мгновенного подтверждения записей пациентов.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Зашифрованная форма симптомов неврологических расстройств на базе Django (Python).",
+      "Интеграция с онлайн-регистрацией на диагностику МРТ и КТ.",
+      "Внедрение автономного голосового бота AI для верификации и подтверждения записей."
+    ]
+  },
+  "zh": {
+    "name": "神经科医生",
+    "about": "神经系统诊断需要患者的绝对信任、对检查项目（如脑电图脑、肌电图）的可靠描述，以及对所诊治病症（如头痛、坐骨神经痛）的清晰说明。网站必须建立权威性并让患者感到安心。",
+    "focus": "神经科医生主要从针对症状相关的关键词（如：手部发麻华沙神经科、偏头痛治疗）的 SEO 优化以及谷歌地图本地 SEO 中获益。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，配合医学影像优化。",
+      "深度集成短信网关（Twilio / SMSAPI），用于就诊时间实时确认与通知。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "在 Django (Python) 中基于高级加解密机制构建的神经系统病理症状自陈量表。",
+      "与医院核磁共振（MRI）和 CT 影像检查系统直连的电子预约与转诊平台。",
+      "部署智能语音助理，实现就诊电话呼入自动应答与就诊时间确认。"
+    ]
+  }
+}

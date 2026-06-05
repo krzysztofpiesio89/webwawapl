@@ -2,6 +2,11 @@ import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
 import { locales, defaultLocale, Locale } from './app/[lang]/dictionaries';
 import { resolveStaticSlug } from './app/[lang]/i18n-routes';
+import { 
+  getIndustryIdBySlug, 
+  getProfessionIdBySlug, 
+  getServiceIdBySlug 
+} from './lib/industries-list';
 
 const SUPPORTED_CITIES = [
   // 18 dzielnic Warszawy
@@ -96,10 +101,73 @@ export function proxy(request: NextRequest) {
       responseCookiesToSet.push({ name: 'user-city', value: detectedCity, maxAge: 60 * 60 * 24 * 7 });
     }
 
-    // 6. Przepisywanie tłumaczonych ścieżek statycznych (np. /en/brands -> /en/__brands)
+    // 5.5 Obsługa dynamicznego SEO dla branż/profesji (np. /warszawa/lekarz lub /branze/lekarz)
     const segments = pathWithoutLocale.split('/').filter(Boolean);
     const firstSegment = segments[0] || '';
-    
+    const secondSegment = segments[1] || '';
+    const thirdSegment = segments[2] || '';
+    const fourthSegment = segments[3] || '';
+
+    // Sprawdzamy czy to strona branży z prefiksem np. /strona-dla/lekarz
+    const isIndustriesParent = firstSegment === 'strona-dla' || 
+                               firstSegment === 'website-for' || 
+                               firstSegment === 'sayt-dlya' || 
+                               firstSegment === 'webseite-fuer';
+
+    // A. Przypadek ogólny (np. /branze/lekarz/ginekolog/strona-pwa)
+    if (isIndustriesParent && secondSegment) {
+      const brandId = getIndustryIdBySlug(secondSegment);
+      if (brandId) {
+        const modelId = thirdSegment ? getProfessionIdBySlug(thirdSegment) : null;
+        const serviceId = fourthSegment ? getServiceIdBySlug(fourthSegment) : null;
+
+        // Jeśli podano dodatkowe segmenty, ale nie są poprawnymi specjalizacjami/usługami - nie dopasowujemy (np. błędna podstrona)
+        if ((thirdSegment && !modelId) || (fourthSegment && !serviceId)) {
+          // Pozwól przejść dalej
+        } else {
+          const url = request.nextUrl.clone();
+          let rewritePath = `/${currentLocale}/industries/all/${brandId}`;
+          if (modelId) rewritePath += `/${modelId}`;
+          if (serviceId) rewritePath += `/${serviceId}`;
+          
+          url.pathname = rewritePath;
+          const finalResponse = NextResponse.rewrite(url);
+          responseCookiesToSet.forEach(cookie => {
+            finalResponse.cookies.set(cookie.name, cookie.value, { path: '/', maxAge: cookie.maxAge });
+          });
+          return finalResponse;
+        }
+      }
+    }
+
+    // B. Przypadek lokalny (np. /bemowo/lekarz/ginekolog/strona-pwa)
+    if (SUPPORTED_CITIES.includes(firstSegment) && secondSegment) {
+      const brandId = getIndustryIdBySlug(secondSegment);
+      if (brandId) {
+        const modelId = thirdSegment ? getProfessionIdBySlug(thirdSegment) : null;
+        const serviceId = fourthSegment ? getServiceIdBySlug(fourthSegment) : null;
+
+        if ((thirdSegment && !modelId) || (fourthSegment && !serviceId)) {
+          // Błędny model/usługa - pozwól przejść dalej
+        } else {
+          const url = request.nextUrl.clone();
+          let rewritePath = `/${currentLocale}/industries/${firstSegment}/${brandId}`;
+          if (modelId) rewritePath += `/${modelId}`;
+          if (serviceId) rewritePath += `/${serviceId}`;
+          
+          url.pathname = rewritePath;
+          const finalResponse = NextResponse.rewrite(url);
+          responseCookiesToSet.forEach(cookie => {
+            finalResponse.cookies.set(cookie.name, cookie.value, { path: '/', maxAge: cookie.maxAge });
+          });
+          return finalResponse;
+        }
+      }
+    }
+
+    // 6. Przepisywanie tłumaczonych ścieżek statycznych (np. /en/brands -> /en/__brands)
+    // (re-parse segments just to be safe or keep the original variable reuse)
+    // we already parsed segments above, so we keep the variables.
     // Szukamy czy to przetłumaczony slug np. 'brands', 'ueber-uns'
     const resolvedStatic = resolveStaticSlug(firstSegment, currentLocale);
     

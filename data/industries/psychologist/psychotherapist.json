@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Psychoterapeuta",
+    "about": "Psychoterapia wymaga głębokiego zaangażowania i zbudowania relacji terapeutycznej. Strona www psychoterapeuty powinna przejrzyście opisywać metody pracy (np. nurt humanistyczny, systemowy, poznawczo-behawioralny) oraz procedurę kontraktu terapeutycznego.",
+    "focus": "Psychoterapeuci najwięcej zyskują na precyzyjnym targetowaniu lokalnym (np. psychoterapia par Warszawa) oraz na budowaniu eksperckiego wizerunku poprzez wpisy o radzeniu sobie ze stresem, żałobą czy lękiem.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) dla gabinetów psychoterapii i poradnictwa.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla dyskretnego potwierdzania terminów sesji.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Bezpieczny portal pacjenta w Django (Python) z notatkami z sesji chronionymi hasłem.",
+      "Szyfrowany, bezpieczny moduł konsultacji wideo (WebRTC) chroniący poufność rozmów.",
+      "Dedykowane podstrony objaśniające nurty terapeutyczne (poznawczo-behawioralny, psychodynamiczny)."
+    ]
+  },
+  "en": {
+    "name": "Psychotherapist",
+    "about": "Psychotherapy demands deep engagement and establishing a therapeutic alliance. A psychotherapist's website must clearly outline modalities (e.g., humanistic, systemic, CBT) and the details of the therapy contract.",
+    "focus": "Psychotherapists benefit most from precise local targeting (e.g. couples therapy Warsaw) and building authority by writing about managing stress, grief, or anxiety.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) tailored for psychotherapy clinics.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for discreet therapy session reminders.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Secure patient portal built in Django (Python) with password-protected session notes.",
+      "Encrypted, highly secure video consultation module (WebRTC) guaranteeing session privacy.",
+      "Dedicated landing pages explaining therapeutic modalities (CBT, psychodynamic, humanistic)."
+    ]
+  },
+  "de": {
+    "name": "Psychotherapeut",
+    "about": "Psychotherapie erfordert tiefes Engagement und den Aufbau einer therapeutischen Allianz. Die Website sollte die Methoden (z. B. humanistisch, systemisch, VT) und die Details der Therapievereinbarung klar darstellen.",
+    "focus": "Psychotherapeuten profitieren am meisten von lokalem SEO (z. B. Paartherapie Berlin) und dem Aufbau von Autorität durch Artikel über Stress- und Angstbewältigung.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js) für Psychotherapie-Praxen.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für diskrete Therapiesitzungserinnerungen.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Sicheres Patientenportal in Django (Python) mit passwortgeschützten Sitzungsnotizen.",
+      "Verschlüsseltes Videosprechstunden-Modul (WebRTC) zum Schutz der Vertraulichkeit.",
+      "Unterseiten zur Erklärung der Therapierichtungen (Verhaltenstherapie, tiefenpsychologisch)."
+    ]
+  },
+  "uk": {
+    "name": "Психотерапевт",
+    "about": "Психотерапія вимагає глибокого залучення та побудови терапевтичного альянсу. Сайт психотерапевта повинен чітко описувати методи роботи (гуманістичний, системний, КПТ) та правила терапевтичного контракту.",
+    "focus": "Психотерапевти залучають найбільше пацієнтів завдяки локальному просуванню (наприклад, психотерапія для пар) та публікаціям про боротьбу зі стресом чи тривогою.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js) для кабінетів психотерапії та консультування.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для конфіденційного нагадування про сеанси.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Безпечний особистий кабінет на Django (Python) з паролем на конфіденційні записи сесій.",
+      "Зашифрований модуль відеозв'язку (WebRTC) для гарантії повної приватності розмов.",
+      "Спеціалізовані сторінки з описом методів психотерапії (КПТ, психодинамічний тощо)."
+    ]
+  },
+  "ru": {
+    "name": "Психотерапевт",
+    "about": "Психотерапия требует глубокой вовлеченности и установления доверительного контакта. Сайт психотерапевта должен понятно объяснять направления работы (КПТ, гештальт, психоанализ) и условия терапии.",
+    "focus": "Психотерапевты получают максимальную отдачу от точечного локального продвижения и авторитетных материалов о преодолении тревоги, депрессии и семейных кризисов.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js) для кабинетов психотерапии и консультирования.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для конфиденциального напоминания о сеансах.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Безопасный личный кабинет на Django (Python) с паролем на конфиденциальные записи сессий.",
+      "Зашифрованный модуль видеосвязи (WebRTC) для гарантии полной приватности разговоров.",
+      "Специализированные страницы с описанием методов психотерапии (КПТ, психодинамический и др.)."
+    ]
+  },
+  "zh": {
+    "name": "心理治疗师",
+    "about": "心理治疗需要深度的投入与安全治疗同盟的建立。心理治疗师的网站应当明确阐述您的治疗流派（如人本主义、家庭系统、认知行为 CBT）以及咨询知情同意书的要点。",
+    "focus": "心理治疗师能从精准的本地化 SEO（如：华沙伴侣咨询）以及通过撰写关于缓解压力、应对丧恸或焦虑的专业科普内容来树立行业权威中获益最大。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，适合心理咨询诊所。",
+      "深度集成短信网关（Twilio / SMSAPI），用于会谈日程的保密级自动提醒与确认。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "基于 Django (Python) 研发的专属来访者后台，支持对每次咨询反馈日志进行独立密码加密。",
+      "基于 WebRTC 开发的端到端超高安全级别视频在线咨询模块，全力保护会谈私密性。",
+      "针对不同流派（认知行为疗法 CBT、精神分析、人本主义等）单独生成的高度优化科普子页。"
+    ]
+  }
+}

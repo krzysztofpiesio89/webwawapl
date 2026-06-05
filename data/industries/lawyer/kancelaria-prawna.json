@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Kancelaria prawna",
+    "about": "Kancelaria prawna zrzesza zespół adwokatów i radców prawnych, oferując kompleksową obsługę klientów indywidualnych oraz biznesowych. Witryna kancelarii musi odzwierciedlać jej prestiż, prezentować sylwetki partnerów oraz publikować merytoryczne analizy prawne.",
+    "focus": "Duże kancelarie prawne pozycjonują się na frazy wizerunkowe, nazwy prestiżowych transakcji, rankingi kancelarii oraz rozbudowany, wielotematyczny blog prawny z zakresu prawa pracy, spółek czy podatków.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, bez zbędnych bibliotek blokujących wątek.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego zgłaszania spraw i zapytań prawnych.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "System CRM dla prawników zintegrowany przez protokół MCP w Pythonie, automatyzujący obieg dokumentów.",
+      "Autonomiczny bot telefoniczny AI odbierający połączenia poza godzinami pracy kancelarii.",
+      "Wielojęzyczna platforma Next.js z dynamicznym routingiem i pozycjonowaniem GEO na rynki zagraniczne."
+    ]
+  },
+  "en": {
+    "name": "Law Firm",
+    "about": "A law firm unites a team of advocates and legal advisors, providing comprehensive services to individual and corporate clients. A firm's website must reflect its prestige, present partner profiles, and publish authoritative legal analysis.",
+    "focus": "Law firms benefit from SEO targeting brand reputation, prestigious transaction records, firm rankings, and a comprehensive multi-topic legal blog covering corporate, labor, or tax law.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, without thread-blocking libraries.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant notifications of legal inquiries.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Legal CRM system integrated via MCP protocol in Python, automating document workflows.",
+      "Autonomous AI voice bot answering client calls outside of standard law office hours.",
+      "Multilingual Next.js platform with dynamic routing and GEO SEO optimized for international markets."
+    ]
+  },
+  "de": {
+    "name": "Anwaltskanzlei",
+    "about": "Eine Kanzlei vereint ein Team von Anwälten und Beratern und bietet umfassende Betreuung für Privatpersonen und Firmen. Der Webauftritt muss Prestige vermitteln, Partnerprofile präsentieren und Analysen bereitstellen.",
+    "focus": "Anwaltskanzleien erzielen Rankings bei Reputations-Keywords, Transaktionsberichten und einem breiten juristischen Fachblog über Wirtschafts-, Steuer- oder Arbeitsrecht.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, ohne den Thread blockierende Bibliotheken.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige rechtliche Anfragen und Aktenbenachrichtigungen.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Anwalts-CRM-System integriert über das MCP-Protokoll in Python zur Workflow-Automatisierung.",
+      "Autonomer KI-Voice-Bot zur Entgegennahme von Anrufen außerhalb der Kanzleiöffnungszeiten.",
+      "Mehrsprachige Next.js-Plattform mit dynamischem Routing und GEO-SEO für internationale Märkte."
+    ]
+  },
+  "uk": {
+    "name": "Юридична компанія",
+    "about": "Юридична компанія об'єднує команду адвокатів та юристів, пропонуючи комплексні послуги для бізнесу та приватних осіб. Сайт компанії повинен відображати її престиж, представляти партнерів та публікувати аналітику.",
+    "focus": "Юридичні об'єднання просуваються за загальними корпоративними запитами, рейтингами юристів та великим блогом з корпоративного, податкового чи сімейного права.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, без бібліотек, які блокують потік.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для миттєвих сповіщень про нові юридичні справи.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Система CRM для юристів, інтегрована через протокол MCP на Python для автоматизації документообігу.",
+      "Автономний телефонний бот AI, який приймає дзвінки клієнтів поза робочим часом канцелярії.",
+      "Мультимовна платформа Next.js з динамічним роутингом та GEO SEO для міжнародних ринків."
+    ]
+  },
+  "ru": {
+    "name": "Юридическая компания",
+    "about": "Юридическая фирма объединяет команду адвокатов и юристов, оказывая комплексную помощь бизнесу и частным лицам. Сайт фирмы должен отражать статус, представлять партнеров и публиковать авторитетную аналитику.",
+    "focus": "Юридические компании ориентируются на имиджевые запросы, рейтинги юридических фирм и ведение всеобъемлющего блога по различным отраслям права.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, без блокирующих поток библиотек.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для мгновенных уведомлений о новых юридических делах.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Система CRM для юристов, интегрированная через протокол MCP на Python для автоматизации документооборота.",
+      "Автономный телефонный бот AI, принимающий звонки клиентов во внерабочее время канцелярии.",
+      "Мультиязычная платформа Next.js с динамическим роутингом и GEO SEO для международных рынков."
+    ]
+  },
+  "zh": {
+    "name": "律师事务所",
+    "about": "律师事务所集结了诉讼律师与法律顾问团队，为个人和企业客户提供全方位法律服务。律所网站必须彰显其声誉与实力，展示合伙人履历并发布权威的法律深度分析。",
+    "focus": "律所主要针对品牌知名度、重大交易案绩、律所行业排名以及涵盖公司法、劳动法或税法等多领域的综合法律博客进行 SEO 优化。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，杜绝任何阻塞主线程的冗余库。",
+      "深度集成短信网关（Twilio / SMSAPI），用于法律咨询及案件线索实时通报。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "在 Python 中通过 MCP 协议集成的法务 CRM 平台，实现核心案件文书流转完全自动化。",
+      "部署 24 小时全天候自主 AI 电话接听机器人，保障在非工作时间漏接电话的实时跟进与建档。",
+      "支持多语种动态路由的 Next.js 极速站点开发，面向跨国法律服务进行 GEO 地理定位优化。"
+    ]
+  }
+}

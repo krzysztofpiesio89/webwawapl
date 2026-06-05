@@ -6,43 +6,49 @@ export default function CarLogo({ className = "h-12 w-auto" }: { className?: str
       fill="none" 
       xmlns="http://www.w3.org/2000/svg"
     >
-      {/* Car Body */}
-      <path 
-        d="M10 50C10 40 20 35 50 35C80 35 90 40 90 50V75C90 80 85 85 80 85H20C15 85 10 80 10 75V50Z" 
-        fill="#fbbf24" 
-      />
-      <path 
-        d="M20 35C20 25 30 20 50 20C70 20 80 25 80 35H20Z" 
-        fill="#1e293b" 
-      />
-      
-      {/* Windshield */}
-      <path 
-        d="M25 35C25 28 32 25 50 25C68 25 75 28 75 35H25Z" 
-        fill="#94a3b8" 
-        opacity="0.5" 
+      <defs>
+        <linearGradient id="tech-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#d97706" /> {/* amber-600 */}
+          <stop offset="100%" stopColor="#b45309" /> {/* amber-700 */}
+        </linearGradient>
+        <filter id="glow" x="-10%" y="-10%" width="120%" height="120%">
+          <feDropShadow dx="0" dy="2" stdDeviation="3" floodColor="#d97706" floodOpacity="0.3" />
+        </filter>
+      </defs>
+
+      {/* Hexagon/Shield Outer Frame */}
+      <polygon 
+        points="50,5 90,28 90,72 50,95 10,72 10,28" 
+        stroke="url(#tech-gradient)" 
+        strokeWidth="6" 
+        strokeLinejoin="round"
+        fill="#0f172a" /* slate-900 */
+        filter="url(#glow)"
       />
 
-      {/* Eyes (Headlights) */}
-      <circle cx="30" cy="55" r="10" fill="white" />
-      <circle cx="30" cy="55" r="5" fill="#1e293b" />
-      <circle cx="30" cy="53" r="2" fill="white" />
-
-      <circle cx="70" cy="55" r="10" fill="white" />
-      <circle cx="70" cy="55" r="5" fill="#1e293b" />
-      <circle cx="70" cy="53" r="2" fill="white" />
-
-      {/* Smile (Grille) */}
+      {/* Code Brackets: < and > */}
       <path 
-        d="M35 72C40 75 60 75 65 72" 
-        stroke="#1e293b" 
-        strokeWidth="3" 
+        d="M38 35L23 50L38 65" 
+        stroke="#ffffff" 
+        strokeWidth="6" 
+        strokeLinecap="round" 
+        strokeLinejoin="round" 
+      />
+      <path 
+        d="M62 35L77 50L62 65" 
+        stroke="#ffffff" 
+        strokeWidth="6" 
+        strokeLinecap="round" 
+        strokeLinejoin="round" 
+      />
+
+      {/* Slash: / */}
+      <path 
+        d="M54 30L46 70" 
+        stroke="url(#tech-gradient)" 
+        strokeWidth="6" 
         strokeLinecap="round" 
       />
-
-      {/* Wheels */}
-      <rect x="15" y="80" width="15" height="10" rx="4" fill="#1e293b" />
-      <rect x="70" y="80" width="15" height="10" rx="4" fill="#1e293b" />
     </svg>
   );
 }

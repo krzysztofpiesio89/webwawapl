@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Komornik",
+    "about": "Kancelaria komornicza prowadzi postępowania egzekucyjne na mocy wyroków sądowych. Strona www komornika musi spełniać surowe kryteria prawne, prezentować aktualne obwieszczenia o licytacjach oraz udostępniać wnioski egzekucyjne.",
+    "focus": "Komornicy sądowi zyskują na SEO poprzez publikowanie jasnych procedur egzekucyjnych, udostępnianie interaktywnej bazy licytacji komorniczych (ruchomości, nieruchomości) oraz formularzy dla wierzycieli.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, bez zbędnych bibliotek blokujących wątek.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego zgłaszania spraw i zapytań prawnych.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Baza licytacji komorniczych zintegrowana z systemami sądowymi w technologii PHP / Laravel.",
+      "Automatyczne wysyłanie przypomnień o terminach wpłat przez bramkę SMSAPI (Node.js cron).",
+      "Zabezpieczenie przed atakami DDoS (Cloudflare WAF) i zgodność z normami bezpieczeństwa MSWiA."
+    ]
+  },
+  "en": {
+    "name": "Bailiff",
+    "about": "A bailiff's office conducts execution proceedings based on court rulings. A bailiff's website must satisfy strict legal standards, present up-to-date notices of auctions, and supply execution request forms.",
+    "focus": "Court bailiffs benefit from SEO by publishing clear debt execution steps, providing an interactive search database for public auctions (moveables, real estate), and offering templates for creditors.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, without thread-blocking libraries.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant notifications of legal inquiries.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Bailiff auction listing database integrated with court systems using PHP / Laravel.",
+      "Automated payment reminders sent via the SMSAPI gateway (Node.js cron system).",
+      "DDoS protection (Cloudflare WAF) and compliance with strict government security standards."
+    ]
+  },
+  "de": {
+    "name": "Gerichtsvollzieher",
+    "about": "Ein Gerichtsvollzieherbüro führt Zwangsvollstreckungsverfahren auf der Grundlage von Gerichtsurteilen durch. Die Website muss strenge rechtliche Standards erfüllen und aktuelle Versteigerungstermine anzeigen.",
+    "focus": "Gerichtsvollzieher erzielen Sichtbarkeit durch die Veröffentlichung klarer Vollstreckungsverfahren, eine Suchdatenbank für Zwangsversteigerungen und Vorlagen für Gläubiger.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, ohne den Thread blockierende Bibliotheken.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige rechtliche Anfragen und Aktenbenachrichtigungen.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Datenbank für Zwangsversteigerungen integriert mit Gerichtssystemen mittels PHP / Laravel.",
+      "Automatische Zahlungserinnerungen über das SMSAPI-Gateway (Node.js Cron-System).",
+      "DDoS-Schutz (Cloudflare WAF) und Einhaltung strenger staatlicher Sicherheitsstandards."
+    ]
+  },
+  "uk": {
+    "name": "Виконавець",
+    "about": "Офіс державного або приватного виконавця проводить виконавче провадження на підставі судових рішень. Сайт виконавця повинен відповідати суворим стандартам та містити оголошення про аукціони.",
+    "focus": "Державні та приватні виконавці просуваються завдяки публікації інструкцій щодо стягнення боргів, бази активів на аукціоні (СЕТАМ тощо) та бланків заяв.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, без бібліотек, які блокують потік.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для миттєвих сповіщень про нові юридичні справи.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "База даних судових аукціонів, інтегрована з судовими реєстрами на PHP / Laravel.",
+      "Автоматичне надсилання нагадувань про оплату через шлюз SMSAPI (cron-система на Node.js).",
+      "Захист від DDoS-атак (Cloudflare WAF) та відповідність суворим стандартам безпеки МВС."
+    ]
+  },
+  "ru": {
+    "name": "Исполнитель",
+    "about": "Кабинет судебного исполнителя проводит принудительное взыскание на основании решений суда. Сайт исполнителя должен соответствовать юридическим стандартам и публиковать информацию о торгах.",
+    "focus": "Судебные исполнители привлекают внимание за счет публикации понятных процедур взыскания, каталога проводимых аукционов имущества и бланков документов.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, без блокирующих поток библиотек.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для мгновенных уведомлений о новых юридических делах.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "База данных судебных аукционов, интегрированная с судебными реестрами на PHP / Laravel.",
+      "Автоматическая отправка напоминаний об оплате через шлюз SMSAPI (cron-система на Node.js).",
+      "Защита от DDoS-атак (Cloudflare WAF) и соответствие строгим стандартам безопасности МВД."
+    ]
+  },
+  "zh": {
+    "name": "法警 / 执达员",
+    "about": "法警/执达员办公室根据法院裁决执行强制执行程序。执达员网站必须符合严格的法定标准，公布最新的拍卖公告并提供强制执行申请书模版。",
+    "focus": "执达员主要通过发布清晰的执行步骤、提供动产及不动产司法拍卖查询数据库以及债权人常用表单下载来进行 SEO 优化。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，杜绝任何阻塞主线程的冗余库。",
+      "深度集成短信网关（Twilio / SMSAPI），用于法律咨询及案件线索实时通报。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "基于 PHP / Laravel 架构开发的司法拍卖房源管理数据库（支持与法院执行系统对接）。",
+      "通过 SMSAPI 网关，结合 Node.js 计划任务（cron）自动发送缴款期限通知短信。",
+      "部署 Cloudflare WAF 应用防火墙阻断 DDoS 攻击，满足严苛的信息网络安全合规规范。"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Biuro rachunkowe",
+    "about": "Biuro rachunkowe obsługujące dziesiątki firm musi położyć nacisk na kompleksowość usług (księgowość, kadry, doradztwo), skalowalność oraz zautomatyzowaną wymianę dokumentów online. Profesjonalna witryna ułatwia pozyskiwanie klientów abonamentowych.",
+    "focus": "Głównym motorem wzrostu SEO biura rachunkowego jest lokalna dominacja na frazy związane z pełną obsługą firm (np. biuro rachunkowe Warszawa Bemowo) oraz ekspercki blog podatkowy.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, bez zbędnych bibliotek.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) do automatycznych alertów o terminach podatkowych.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "System CRM dla biur rachunkowych zintegrowany przez protokół MCP w Pythonie, automatyzujący obieg spraw.",
+      "Autonomiczny bot telefoniczny AI (Voice Bot) do weryfikacji tożsamości i rejestracji zapytań ofertowych.",
+      "Szyfrowany portal klienta do wymiany dokumentów i plików płacowych w technologii Django."
+    ]
+  },
+  "en": {
+    "name": "Accounting Office",
+    "about": "An accounting office managing dozens of corporate accounts must highlight its comprehensive scope (accounting, payroll, advisory), scalability, and automated online document exchange. A professional website simplifies B2B lead generation.",
+    "focus": "The main driver of SEO growth for an accounting office is local dominance targeting full-service company queries (e.g. accounting agency Warsaw) alongside an expert tax blog.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, without thread-blocking libraries.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for automated tax deadline alerts.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Accounting CRM system integrated via Python MCP protocol for document workflow automation.",
+      "Autonomous AI Voice Bot for caller identity verification and lead capturing.",
+      "Encrypted Django client portal for secure invoice exchange and payroll sheets."
+    ]
+  },
+  "de": {
+    "name": "Steuerberatungsbüro",
+    "about": "Ein Buchhaltungsbüro mit zahlreichen Firmenkunden muss den Schwerpunkt auf ein umfassendes Dienstleistungsangebot (Finanzbuchhaltung, Lohnabrechnung) und digitalen Belegaustausch legen.",
+    "focus": "Wachstumstreiber im SEO ist die lokale Dominanz bei Suchbegriffen rund um die Buchhaltung für Unternehmen und ein steuerlicher Fachblog.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, ohne den Thread blockierende Bibliotheken.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für automatische Steuerfristalarme.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Kanzlei-CRM-System integriert über das Python-MCP-Protokoll zur Dokumenten-Automatisierung.",
+      "Autonomer KI-Voice-Bot zur Identitätsprüfung von Anrufern und Lead-Erfassung.",
+      "Verschlüsseltes Django-Mandantenportal zum sicheren Austausch von Rechnungen und Gehaltsabrechnungen."
+    ]
+  },
+  "uk": {
+    "name": "Бухгалтерське бюро",
+    "about": "Бухгалтерська компанія, яка обслуговує десятки фірм, повинна зробити акцент на комплексності послуг (облік, кадри, консалтинг) та автоматизованому обміні документами.",
+    "focus": "Головним рушієм SEO-просування є лідерство у пошуку за запитами комплексного супроводу бізнесу (наприклад, бухгалтерські послуги компаніям) та податковий блог.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, без бібліотек, які блокують потік.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для автоматичних нагадувань про податкові терміни.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Бухгалтерська система CRM, інтегрована через протокол MCP на Python для автоматизації процесів.",
+      "Автономний телефонний бот AI (Voice Bot) для реєстрації звернень та первинного відбору лідів.",
+      "Зашифрований кабінет клієнта для обміну документами та розрахунками зарплати на Django."
+    ]
+  },
+  "ru": {
+    "name": "Бухгалтерское бюро",
+    "about": "Бухгалтерская фирма, обслуживающая десятки компаний, должна делать акцент на комплексность услуг (учет, кадры, аудит) и автоматизированный документооборот.",
+    "focus": "Ключевой фактор роста в поисковых системах — доминирование по коммерческим локальным запросам комплексного сопровождения бизнеса и ведение экспертного блога.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, без блокирующих поток библиотек.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для автоматических напоминаний о налоговых сроках.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Бухгалтерская система CRM, интегрированная через протокол MCP на Python для автоматизации процессов.",
+      "Автономный телефонный бот AI (Voice Bot) для регистрации обращений и первичного отбора лидов.",
+      "Зашифрованный личный кабинет клиента для обмена документами и расчетами зарплаты на Django."
+    ]
+  },
+  "zh": {
+    "name": "会计师事务所",
+    "about": "服务于众多企业客户的会计师事务所必须强调全方位服务（代理记账、税务筹划、薪酬社保）、规模化服务能力以及在线文档自动化交互。专业的网站极有助于获取长期签约的企业客户。",
+    "focus": "事务所 SEO 增长的核心是垄断针对企业全盘财税托管的本地搜索词（如：华沙代理记账公司、华沙会计代账）以及运营专家级财税博客。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，杜绝任何阻塞主线程的冗余库。",
+      "深度集成短信网关（Twilio / SMSAPI），用于纳税申报及社保缴费等申报节点自动短信提醒。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "在 Python 中通过 Model Context Protocol (MCP) 构建的记账师专属流程自动化 CRM。",
+      "部署智能语音应答系统，用于自主来电身份校验与潜在代理记账线索捕获。",
+      "基于 Django 架构构建的客户文件安全柜，用于安全传递工资单及原始财务凭证。"
+    ]
+  }
+}

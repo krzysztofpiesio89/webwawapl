@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Kardiolog",
+    "about": "Pacjenci gabinetów kardiologicznych to często osoby starsze lub wymagające pilnej diagnostyki. Strona kardiologa musi być czytelna, kontrastowa, prosta w nawigacji i zaufana.",
+    "focus": "Kluczem w SEO dla kardiologa są lokalne frazy diagnostyczne (np. echo serca Warszawa, Holter EKG cena) oraz rzetelne, autorskie opisy badań w celu budowania zaufania.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, z optymalizacją obrazów medycznych.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego potwierdzania wizyt pacjentów.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Autonomiczny Voice Bot AI do potwierdzania terminów wizyt i zarządzania kolejkami pacjentów.",
+      "Wdrożenie Schema.org MedicalBusiness dla lepszego pozycjonowania kliniki kardiologicznej.",
+      "Szyfrowany portal pacjenta do bezpiecznego podglądu wyników badań i historii chorób (SSL/TLS)."
+    ]
+  },
+  "en": {
+    "name": "Cardiologist",
+    "about": "Cardiology patients are often elderly or in need of urgent diagnostics. A cardiologist's website must be clear, high-contrast, easy to navigate, and professional.",
+    "focus": "The key to SEO for a cardiologist is local diagnostic phrases (e.g., echocardiogram Warsaw, Holter ECG price) and reliable, expert test descriptions to build trust.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, with medical image optimization.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant patient booking confirmations.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "IoT telemedicine system integration (remote ECG/blood pressure monitoring) built with Node.js.",
+      "Autonomous AI Voice Bot for managing appointment confirmations and waitlists.",
+      "Schema.org MedicalBusiness structured data implementation for local cardiology SEO."
+    ]
+  },
+  "de": {
+    "name": "Kardiologe",
+    "about": "Kardiologische Patienten sind oft älter oder benötigen dringende Diagnostik. Die Website eines Kardiologen muss klar, kontrastreich, einfach zu navigieren und vertrauenswürdig sein.",
+    "focus": "Der Schlüssel im SEO für Kardiologen sind lokale Diagnosesuchbegriffe (z. B. Echokardiographie Warschau, Langzeit-EKG Preis) und verlässliche Beschreibungen von Untersuchungen.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, mit medizinischer Bildoptimierung.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige Terminbestätigungen von Patienten.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "IoT-Telemedizinsystem-Integration (EKG/Blutdruck-Fernüberwachung) auf Basis von Node.js.",
+      "Autonomer KI-Voice-Bot für Terminbestätigungen und Wartelistenmanagement.",
+      "Schema.org MedicalBusiness strukturierte Daten für lokale Kardiologie-SEO."
+    ]
+  },
+  "uk": {
+    "name": "Кардіолог",
+    "about": "Пацієнти кардіологів — це часто люди старшого віку або ті, хто потребує термінової діагностики. Сайт кардіолога має бути чітким, контрастним, простим у навігації та надійним.",
+    "focus": "Ключем у SEO для кардіолога є локальні діагностичні запити (наприклад, ЕхоКГ Варшава, добове моніторування ЕКГ ціна) та детальні експертні описи обстежень.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, з оптимізацією медичних зображень.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для миттєвого підтвердження записів пацієнтів.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Інтеграція з телемедичними IoT-системами (дистанційний моніторинг ЕКГ/тиску) на Node.js.",
+      "Автономний голосовий бот AI для підтвердження записів та управління чергою пацієнтів.",
+      "Впровадження розмітки Schema.org MedicalBusiness для кардіологічної практики."
+    ]
+  },
+  "ru": {
+    "name": "Кардиолог",
+    "about": "Пациенты кардиологических кабинетов часто пожилые люди или лица, нуждающиеся в срочной диагностике. Сайт кардиолога должен быть с высоким контрастом, простым в навигации и вызывать доверие.",
+    "focus": "Ключ в SEO для кардиолога — локальные диагностические фразы (например, ЭхоКГ Варшава, холтер ЭКГ цена) и подробные экспертные описания обследований.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, с оптимизацией медицинских изображений.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для мгновенного подтверждения записей пациентов.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Интеграция с телемедицинскими IoT-системами (удаленный мониторинг ЭКГ/давления) на Node.js.",
+      "Автономный голосовой бот AI для подтверждения записей и управления очередью пациентов.",
+      "Внедрение разметки Schema.org MedicalBusiness для кардиологической практики."
+    ]
+  },
+  "zh": {
+    "name": "心脏科医生",
+    "about": "心脏科门诊的患者往往是老年人或需要紧急诊断的人群。心脏病医生的网站必须非常清晰、对比度高、易于导航且值得信赖。",
+    "focus": "心脏科 SEO 的关键是本地诊断相关词汇（如：华沙心脏超声、动态心电图价格）以及客观、权威的检查说明以建立医患信任。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，配合医学影像优化。",
+      "深度集成短信网关（Twilio / SMSAPI），用于就诊时间实时确认与通知。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "基于 Node.js 开发的物联网（IoT）远程医疗监控集成（对接便携式心电图与血压设备）。",
+      "部署自主式 AI 语音机器人，用于全自动随访通知、到诊确认及排队候诊管理。",
+      "部署专用的 Schema.org MedicalBusiness 微数据，占领心脏病专科本地搜索头部地位。"
+    ]
+  }
+}

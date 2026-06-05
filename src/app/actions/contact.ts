@@ -10,39 +10,43 @@ const resend = new Resend(process.env.RESEND_API_KEY);
 
 export async function submitQuoteRequest(state: any, formData: FormData) {
   const lang = formData.get('lang') as string || 'pl';
-  const brandModel = formData.get('brandModel') as string || '';
-  const year = formData.get('year') as string || '';
-  const engine = formData.get('engine') as string || '';
-  const price = formData.get('price') as string || '';
-  const city = formData.get('city') as string || '';
+  const brandModel = formData.get('brandModel') as string || ''; // Client/Company Name
+  const year = formData.get('year') as string || ''; // Timeframe
+  const engine = formData.get('engine') as string || ''; // Service Type
+  const price = formData.get('price') as string || ''; // Budget
+  const city = formData.get('city') as string || ''; // Location
   const phone = formData.get('phone') as string || '';
   const email = formData.get('email') as string || '';
-  const description = formData.get('description') as string || '';
+  const description = formData.get('description') as string || ''; // Project Description
   const honeypot = formData.get('website') as string || '';
   
+  const isPl = lang === 'pl';
+
   // 1. Zabezpieczenie HONEYPOT:
-  // Jeśli pole 'website' zostało wypełnione, to znaczy że to bot. Udajemy sukces.
   if (honeypot) {
     return {
       success: true,
-      message: 'Twoje zgłoszenie zostało przyjęte! Nasz rzeczoznawca skontaktuje się z Tobą w ciągu 15 minut.',
+      message: isPl 
+        ? 'Twoje zgłoszenie zostało przyjęte! Nasz doradca skontaktuje się z Tobą w ciągu 24 godzin.'
+        : 'Your inquiry has been received! Our advisor will contact you within 24 hours.',
     };
   }
 
   // 2. Podstawowa walidacja antyspamowa
-  // Boty często wpisują ogromne ciągi znaków. Rok nie powinien mieć więcej niż 4 znaki.
-  if (year.length > 4 || phone.length > 50) {
+  if (phone.length > 50 || email.length > 150 || brandModel.length > 200) {
     return {
       success: false,
-      message: 'Wykryto nieprawidłowe dane w formularzu. Spróbuj ponownie.',
+      message: isPl
+        ? 'Wykryto nieprawidłowe dane w formularzu. Spróbuj ponownie.'
+        : 'Invalid form data detected. Please try again.',
     };
   }
   
-  // Extract images
+  // Extract files
   const images = formData.getAll('images') as File[];
   const validImages = images.filter(img => img.size > 0 && img.name !== 'undefined');
 
-  // Zapisz lead do bazy danych
+  // Zapisz lead do bazy danych (zgodnie z istniejącym schematem Prisma)
   try {
     await prisma.quoteRequest.create({
       data: {
@@ -73,12 +77,13 @@ export async function submitQuoteRequest(state: any, formData: FormData) {
     })
   );
 
-  // Wyślij e-mail przez Resend
+  // Wyślij e-mail do administratora przez Resend
   try {
+    const adminSubject = `🔥 Nowy kontakt (webwawa.pl): ${brandModel} - ${engine}`;
     const { error } = await resend.emails.send({
-      from: 'Wycena Online <wycena@skupautwawa.pl>', // Nadawca zgodny ze zweryfikowaną domeną
-      to: ['kontakt@skupautwawa.pl', 'krzysztofpiesio89@gmail.com', 'turbo664946209@yahoo.com'],
-      subject: `🔥 Nowe zapytanie o wycenę: ${brandModel}`,
+      from: 'Kontakt webwawa.pl <kontakt@webwawa.pl>', // Domena agencji IT
+      to: ['kontakt@webwawa.pl', 'krzysztofpiesio89@gmail.com'],
+      subject: adminSubject,
       react: ContactFormEmail({
         brandModel,
         year,
@@ -96,16 +101,37 @@ export async function submitQuoteRequest(state: any, formData: FormData) {
     if (error) {
       console.error('Resend API Error (Admin):', error);
     } else {
-      // 2. Wyślij potwierdzenie do klienta (bez załączników) w jego języku
+      // Wyślij potwierdzenie do klienta (bez załączników) w jego języku
       try {
-        const dict = await getDictionary(lang);
-        if (email && dict?.email) {
+        const clientSubject = isPl 
+          ? 'Potwierdzenie: Otrzymaliśmy Twoje zapytanie - webwawa.pl'
+          : 'Confirmation: We have received your project inquiry - webwawa.pl';
+
+        const clientDict = {
+          subject: clientSubject,
+          greeting: isPl ? 'Witaj,' : 'Hello,',
+          intro: isPl 
+            ? 'Dziękujemy za przesłanie zapytania ofertowego na stronie webwawa.pl. Poniżej znajduje się podsumowanie Twojego zgłoszenia:'
+            : 'Thank you for submitting your project inquiry on webwawa.pl. Below is a summary of your inquiry:',
+          detailsBrand: isPl ? 'Klient / Firma' : 'Client / Company',
+          detailsYear: isPl ? 'Czas realizacji' : 'Timeframe',
+          detailsPrice: isPl ? 'Szacowany budżet' : 'Estimated Budget',
+          detailsCity: isPl ? 'Lokalizacja' : 'Location',
+          nextStepsTitle: isPl ? 'Co dalej?' : 'What are the next steps?',
+          nextStepsText: isPl
+            ? 'Nasz konsultant analizuje przesłane informacje i przygotowuje wstępną wycenę. Skontaktujemy się z Tobą telefonicznie lub mailowo w ciągu 24 godzin.'
+            : 'Our consultant is analyzing the provided details and preparing an initial estimate. We will contact you via phone or email within 24 hours.',
+          footer: isPl ? 'Z poważaniem, Zespół webwawa.pl' : 'Best regards, webwawa.pl Team',
+          footerAddress: 'webwawa.pl'
+        };
+
+        if (email) {
           const { error: clientError } = await resend.emails.send({
-            from: 'SkupAutWawa.pl <kontakt@skupautwawa.pl>',
+            from: 'Zespół webwawa.pl <kontakt@webwawa.pl>',
             to: [email],
-            subject: dict.email.subject,
+            subject: clientSubject,
             react: ClientConfirmationEmail({
-              dict: dict.email,
+              dict: clientDict,
               brandModel,
               year,
               engine,
@@ -129,6 +155,8 @@ export async function submitQuoteRequest(state: any, formData: FormData) {
 
   return {
     success: true,
-    message: 'Twoje zgłoszenie zostało przyjęte! Nasz rzeczoznawca skontaktuje się z Tobą w ciągu 15 minut.',
+    message: isPl
+      ? 'Twoje zgłoszenie zostało przyjęte! Nasz doradca skontaktuje się z Tobą w ciągu 24 godzin.'
+      : 'Your inquiry has been received! Our advisor will contact you within 24 hours.',
   };
 }

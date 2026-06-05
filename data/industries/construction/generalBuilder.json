@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Firma budowlana",
+    "about": "Budowa domów jednorodzinnych i obsługa inwestycji to wieloetapowe wyzwanie. Klienci poszukują generalnego wykonawcy, któremu mogą powierzyć miliony złotych. Strona internetowa firmy budowlanej musi budować maksymalny autorytet, pokazywać etapy prac (dziennik budowy), posiadać certyfikaty jakości oraz referencje od inwestorów.",
+    "focus": "Głównym celem SEO są frazy intencyjne o wysokiej wartości (np. budowa domów Warszawa, generalny wykonawca domów jednorodzinnych) oraz budowa zaufania przez prezentację szczegółowych studiów przypadku (case studies).",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, bez zbędnych bibliotek blokujących wątek.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego zgłaszania awarii i zleceń budowlanych.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Interaktywny 'Dziennik Budowy' oparty o Sanity Headless CMS z mobilnym wgrywaniem zdjęć z budowy.",
+      "Interaktywna mapa zrealizowanych budów domów jednorodzinnych (Mapbox / Leaflet API).",
+      "Autonomiczny bot telefoniczny AI do zbierania danych o lokalizacji działki i parametrach budowy."
+    ]
+  },
+  "en": {
+    "name": "General Builder",
+    "about": "Building houses and managing investments is a complex, multi-stage process. Clients look for a general contractor they can trust with significant budgets. A builder's website must build absolute authority, show construction phases, and present verified client testimonials.",
+    "focus": "The primary SEO target is high-value intent keywords (e.g. house construction Warsaw, general contractor custom homes) and building credibility via case studies.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, without thread-blocking libraries.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant emergency service and job alerts.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Interactive 'Construction Log' powered by Sanity Headless CMS for quick mobile photo uploads.",
+      "Interactive map of completed residential and commercial projects utilizing Mapbox or Leaflet.",
+      "Autonomous AI voice bot to capture plot locations and construction specifications from callers."
+    ]
+  },
+  "de": {
+    "name": "Bauunternehmen",
+    "about": "Der Hausbau ist ein komplexes, mehrstufiges Vorhaben. Kunden suchen nach einem Generalunternehmer, dem sie vertrauen können. Die Website eines Bauunternehmens muss höchste Professionalität vermitteln, Bauphasen dokumentieren und Bauherren-Referenzen zeigen.",
+    "focus": "Der Fokus im SEO liegt auf hochwertigen Suchbegriffen (z. B. Haus bauen Berlin, Generalunternehmer Einfamilienhäuser) und der Stärkung des Vertrauens durch detaillierte Projektberichte.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, ohne den Thread blockierende Bibliotheken.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige Notfalleinsätze und Bauauftragsalarme.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Interaktives 'Bautagebuch' auf Basis von Sanity Headless CMS für schnelles Hochladen per Handy.",
+      "Interaktive Projektkarte der fertiggestellten Bauvorhaben mit Mapbox oder Leaflet.",
+      "Autonomer KI-Telefonbot zur Erfassung von Grundstücksdaten und Bauspezifikationen."
+    ]
+  },
+  "uk": {
+    "name": "Будівельна компанія",
+    "about": "Будівництво будинків — це тривалий і дорогий процес. Клієнти шукають генерального підрядника, якому можна довірити свій бюджет. Сайт будівельної компанії повинен викликати повну довіру, демонструвати етапи робіт та містити підтверджені відгуки замовників.",
+    "focus": "Головним пріоритетом SEO є високовартісні запити (наприклад, будівництво будинків Київ, побудувати котедж під ключ) та детальні кейси реалізованих об'єктів.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, без бібліотек, які блокують потік.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для моментального інформування про аварії та замовлення.",
+      "Кнопка швидкого дзвінка, адаптована під мобільні екрани для покращення конверсії (Mobile-First Click-to-Call).",
+      "Впровадження інтерактивного 'Журналу будівництва' на базі Sanity Headless CMS з фото зі смартфона.",
+      "Інтерактивна карта об'єктів з використанням картографічних сервісів Mapbox або Leaflet.",
+      "Автономний телефонний бот AI для збору даних про ділянку та параметри майбутнього будинку."
+    ]
+  },
+  "ru": {
+    "name": "Строительная компания",
+    "about": "Строительство коттеджей и домов — это многоэтапный процесс, требующий больших вложений. Клиенты ищут генподрядчика, которому могут доверять. Сайт строительной компании должен вызывать максимальный авторитет, демонстрировать этапы работ и содержать отзывы клиентов.",
+    "focus": "Основной упор в SEO делается на коммерческие запросы высокой стоимости (например, строительство домов Москва, построить коттедж под ключ) и кейсы.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, без блокирующих поток библиотек.",
+      "Интеграция с SMS-оповещениями (Twilio / SMSAPI) для срочной отправки аварийных заявок мастеру на телефон.",
+      "Кнопка быстрого вызова, оптимизированная под мобильных пользователей (Mobile-First Click-to-Call).",
+      "Разработка интерактивного 'Журнала стройки' на базе Sanity Headless CMS с мобильной выгрузкой.",
+      "Интерактивная карта построенных объектов на базе картографических сервисов Mapbox или Leaflet.",
+      "Автономный телефонный бот AI для сбора данных об участке и параметрах будущего дома."
+    ]
+  },
+  "zh": {
+    "name": "建筑施工企业",
+    "about": "别墅建设与工程施工是一项复杂的系统工程。客户需要寻找一个能够托付重大预算的工程总承包商。建筑施工企业的网站必须确立绝对的行业权威，展示清晰的施工节点日志，并提供经证实的项目成果汇报。",
+    "focus": "SEO 的核心在于捕捉高客单价的意向词（如：华沙自建房、别墅施工总承包），并通过详尽的工程案例来打消客户的资金与质量顾虑。",
+    "specifications": [
+      "采用 Vite 与 React 搭建超轻量级静态单页，确保弱网甚至无网环境下实现秒开。",
+      "整合 Twilio 或本地 SMSAPI 短信通知通道，当用户提交紧急报修或施工委托时，手机瞬间收到警报。",
+      "针对移动端触控优化的 Click-to-Call 一键呼叫按钮，极大缩短客户转化路径。",
+      "部署基于 Sanity Headless CMS 的交互式'施工日志'，支持工长手机端一键拍照上传。",
+      "基于 Mapbox 或 Leaflet 的交互式已完工住宅工程电子地图系统。",
+      "部署智能 AI 语音助手，自动收集意向业主的土地规划情况、建筑面积等建房数据。"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Masażysta",
+    "about": "Gabinet masażu oraz salon fizjoterapii estetycznej potrzebują witryny, która buduje wizerunek oazy relaksu, profesjonalnej terapii oraz ulgi w bólu. Dedykowany kalendarz rezerwacji sesji i karnetów ułatwia pozyskiwanie stałych klientów.",
+    "focus": "Najwięcej zapytań przynosi lokalne pozycjonowanie na frazy intencyjne (np. masaż leczniczy Warszawa, masaż klasyczny cennik) oraz optymalizacja profilu w mapach pod kątem szybkiego dojazdu.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) zoptymalizowanej pod kątem szybkiej rezerwacji wizyt online.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla automatycznych przypomnień o terminach zabiegów.",
+      "Przycisk bezpośredniego połączenia telefonicznego oraz szybkiego kontaktu przez WhatsApp (Mobile-First).",
+      "Interaktywny system zakupu kart podarunkowych i voucherów online z automatycznym generowaniem PDF i kodów QR.",
+      "Lekka, zoptymalizowana pod mobile strona zintegrowana z interaktywnym wyborem technik masażu (React).",
+      "System powiadomień e-mail/SMS z prośbą o opinię po zabiegu, zintegrowany z wizytówką Google Maps."
+    ]
+  },
+  "en": {
+    "name": "Massage Therapist",
+    "about": "A massage clinic and body relaxation salon require a website that acts as a digital sanctuary of peace, recovery, and pain relief. A dedicated scheduling app for session bookings and vouchers helps build a loyal customer base.",
+    "focus": "The majority of leads come from local search optimization on intent-driven keywords (e.g. sports massage Warsaw, deep tissue massage near me) and Google Maps targeting for proximity search.",
+    "specifications": [
+      "Ultra-lightweight website (Vite & React / Next.js) optimized for fast online booking and scheduling.",
+      "Integration with SMS notifications (Twilio / SMSAPI) for automated appointment and booking reminders.",
+      "Mobile-first click-to-call button and direct WhatsApp quick contact integration.",
+      "Interactive gift card and voucher purchase system online with automated PDF and QR code generation.",
+      "Lightweight, mobile-optimized site integrated with interactive massage technique selector (React).",
+      "Email/SMS feedback request system post-treatment, integrated with Google Maps profile."
+    ]
+  },
+  "de": {
+    "name": "Masseur",
+    "about": "Eine Massagepraxis benötigt eine Website, die Entspannung, Regeneration und Schmerzlinderung vermittelt. Ein Online-Terminplaner für Einzelsitzungen und Gutscheine erleichtert die Gewinnung von Stammkunden.",
+    "focus": "Die meisten Anfragen werden über lokales SEO für spezielle Massagearten (z. B. Sportmassage oder Lymphdrainage) und die Google Maps Optimierung generiert.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), optimiert für schnelle Online-Terminbuchung.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für automatische Erinnerungen an Behandlungstermine.",
+      "Direktruf-Schaltfläche und schnelle WhatsApp-Kontakt-Integration optimiert für mobile Endgeräte.",
+      "Interaktives Geschenkkarten- und Gutscheinkaufsystem online mit automatischer PDF- und QR-Code-Generierung.",
+      "Leichte, mobiloptimierte Website mit interaktiver Auswahl der Massagetechniken (React).",
+      "E-Mail/SMS-Feedback-System nach der Behandlung, integriert in das Google Maps-Profil."
+    ]
+  },
+  "uk": {
+    "name": "Масажист",
+    "about": "Масажний кабінет та студія тілесної терапії потребують сайту, який створює враження оазису релаксу, професійного відновлення та полегшення болю. Інтегрований календар для запису на сеанси спрощує роботу з постійними клієнтами.",
+    "focus": "Найбільше цільових звернень приносить просування за локальними запитами (наприклад, лікувальний масаж Варшава, лімфодренажний масаж ціни) та оптимізація карти Google.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), оптимізованого для швидкого онлайн-запису на прийом.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для автоматичних нагадувань про процедури.",
+      "Кнопка швидкого дзвінка та інтеграція швидкого зв'язку через WhatsApp (Mobile-First).",
+      "Інтерактивна система купівлі подарункових сертифікатів онлайн з автоматичною генерацією PDF та QR-кодів.",
+      "Легкий мобільний сайт, інтегрований з інтерактивним вибором технік масажу на React.",
+      "Система збору відгуків через e-mail/SMS після сеансу, інтегрована з профілем Google Maps."
+    ]
+  },
+  "ru": {
+    "name": "Массажист",
+    "about": "Массажный кабинет и студия телесной терапии нуждаются в сайте, который создает впечатление оазиса релакса, профессионального восстановления и облегчения боли. Интегрированный календарь для записи на сеансы упрощает работу с постоянными клиентами.",
+    "focus": "Больше всего целевых обращений приносит продвижение по локальным запросам (например, лечебный массаж Варшава, лимфодренажный массаж цены) и оптимизация карты Google.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), оптимизированного для быстрой онлайн-записи на процедуры.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для автоматических напоминаний о визитах.",
+      "Кнопка быстрого звонка и интеграция быстрого контакта через WhatsApp (Mobile-First).",
+      "Интерактивная система покупки подарочных сертификатов онлайн с автоматической генерацией PDF и QR-кодов.",
+      "Легкий мобильный сайт, интегрированный с интерактивным выбором техник массажа на React.",
+      "Система сбора отзывов через e-mail/SMS после сеанса, интегрированная с профилем Google Maps."
+    ]
+  },
+  "zh": {
+    "name": "按摩理疗师",
+    "about": "按摩推拿理疗会所与身体养生馆需要一个能够营造放松、宁静与身体理疗康复氛围的高端网页。在线预定单次理疗课程或购买多次卡/电子代金券的功能可显著提高会员黏性。",
+    "focus": "绝大部分高意向线索来自精准的本地推拿词汇优化（如：华沙泰式按摩价格、运动按摩、深层肌肉理疗），以及谷歌地图对周边半径范围内搜索的覆盖。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，针对线上预约与排班日程进行极速加载优化。",
+      "深度集成短信网关（Twilio / SMSAPI），用于客户护理及美容预约时间自动提醒。",
+      "针对移动端专门优化的 Mobile-First 一键呼叫按钮与 WhatsApp 快捷咨询通道。",
+      "线上礼品卡与代金券自助订购系统，支持自动生成电子 PDF 优惠券及防伪核销 QR 码。",
+      "轻量化移动优先页面，配置基于 React 编写的交互式按摩理疗方案与套餐自选组件。",
+      "理疗结束后自动触发 of 邮件/短信评价邀请机制，无缝关联并提升 Google 地图商家好评率。"
+    ]
+  }
+}

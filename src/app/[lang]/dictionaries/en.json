@@ -1,8 +1,8 @@
 {
   "meta": {
-    "title": "Car Buying & Legal Scrapping - Cash on the Spot | skupautwawa.pl",
-    "description": "skupautwawa.pl is a professional car buying service offering instant vehicle scrapping and dismantling. We provide fair online car valuations and free tow truck transport 24/7 in Warsaw and surrounding areas!",
-    "ogTitle": "Car Buying & Legal Scrapping - Cash on the Spot | skupautwawa.pl"
+    "title": "Modern PWA Apps & Custom Websites | webwawa.pl",
+    "description": "webwawa.pl is a modern IT agency based in Warsaw. We design and build ultra-fast Next.js websites, custom PWA web applications, SEO optimization, and system integrations.",
+    "ogTitle": "Modern PWA Apps & Custom Websites | webwawa.pl"
   },
   "nav": {
     "home": "Home",
@@ -175,22 +175,22 @@
     "requiredNote": "required fields. Data controller is"
   },
   "footer": {
-    "description": "The fastest car buying service in the Warsaw metropolitan area. We guarantee legal scrapping, free tow truck pickup and cash payment. We operate 24/7.",
+    "description": "The fastest IT agency in Warsaw. We guarantee modern solutions, ultra-fast deployments and 24/7 technical support.",
     "servicesTitle": "Our Services",
-    "service1": "Passenger car buying",
-    "service2": "Damaged car buying",
-    "service3": "Legal vehicle scrapping",
-    "service4": "Online car valuation",
+    "service1": "Next.js Web Development",
+    "service2": "Web Apps & PWA",
+    "service3": "SEO & Marketing",
+    "service4": "Custom Systems & API",
     "citiesTitle": "Popular Locations",
     "contactTitle": "Contact",
     "officeLabel": "Warsaw Office:",
     "registryLabel": "Registry Address:",
-    "copyright": "© 2026 skupautwawa.pl - All rights reserved.",
+    "copyright": "© 2026 webwawa.pl - All rights reserved.",
     "privacyPolicy": "Privacy Policy"
   },
   "legal": {
     "companyInfo": "{companyName} | NIP: {nip} | KRS: {krs} | REGON: {regon}",
-    "addressInfo": "Address: {address} | The data controller is the owner of skupautwawa.pl."
+    "addressInfo": "Address: {address} | The data controller is the owner of webwawa.pl."
   },
   "seo": {
     "cityTitle": "Car Buying & Scrapping in {city} - Cash on the Spot",
@@ -250,117 +250,117 @@
     "home": "Home"
   },
   "about": {
-    "metaTitle": "About Us - Who We Are | skupautwawa.pl",
-    "metaDescription": "Learn more about skupautwawa.pl. We are a leader in fast car buying and legal vehicle scrapping. Discover our history, mission and values.",
+    "metaTitle": "About Us - Who We Are | webwawa.pl",
+    "metaDescription": "Learn more about webwawa.pl. We are an IT agency providing modern websites, PWA apps, SEO optimization and custom software.",
     "breadcrumb": "About Us",
     "heroTitle": "Who Are We? Meet",
-    "heroSubtitle": "We are a leader in professional car buying and legal vehicle scrapping. Our goal is to simplify the car selling process to the absolute minimum.",
-    "storyBadge": "About Our Company",
-    "storyTitle": "Our mission is instant buyout and full legal security",
-    "storyP1": "The skupautwawa.pl platform was created for drivers who want to sell their vehicle quickly, without unnecessary formalities, diagnostic station visits and negotiations with fussy buyers. We understand how valuable your time is, so we've simplified the entire transaction process to 15 minutes.",
-    "storyP2": "We buy cars in any technical and visual condition — both well-maintained models ready for further driving and accident-damaged, mechanically broken or scrapping-ready vehicles. We pay cash directly upon car collection and handle all the paperwork.",
-    "statsTitle": "📊 Our Company in Numbers",
-    "stat1Value": "15+",
+    "heroSubtitle": "We design and build custom web applications and systems that give your company a digital edge.",
+    "storyBadge": "About Our Agency",
+    "storyTitle": "Our mission is to deliver modern software and peak performance",
+    "storyP1": "The webwawa.pl agency was created for companies that need professional and fast delivery of web systems, mobile apps, and modern websites. We focus on clean code, SEO optimization, and premium UI/UX standards.",
+    "storyP2": "We work with startups as well as large enterprises. Our team consists of experienced developers, UI/UX designers, and SEO specialists who ensure every line of code translates into business success.",
+    "statsTitle": "📊 Our Agency in Numbers",
+    "stat1Value": "10+",
     "stat1Label": "Years of Experience",
-    "stat1Desc": "Thousands of fairly valued vehicles",
-    "stat2Value": "10k+",
-    "stat2Label": "Satisfied Customers",
-    "stat2Desc": "Positive recommendations across the region",
-    "stat3Value": "15m",
-    "stat3Label": "Average Valuation Time",
-    "stat3Desc": "Quick decision and instant cash",
+    "stat1Desc": "Hundreds of successfully delivered IT projects",
+    "stat2Value": "200+",
+    "stat2Label": "Satisfied Clients",
+    "stat2Desc": "Positive recommendations across industries",
+    "stat3Value": "24h",
+    "stat3Label": "Average Quote Time",
+    "stat3Desc": "Fast technical analysis and zero obligation",
     "pillarsTitle": "Our Three Core Pillars",
     "pillarsBadge": "Why Us?",
-    "pillar1Title": "Honesty & Valuation",
-    "pillar1Desc": "Our appraisers approach every vehicle valuation honestly based on current market rates. You receive a fair and transparent price.",
-    "pillar2Title": "Legal Security",
-    "pillar2Desc": "We operate 100% in compliance with Polish law. We issue legal purchase-sale agreements or dismantling certificates necessary for deregistration and insurance refunds.",
-    "pillar3Title": "Free Transport Fleet",
-    "pillar3Desc": "We have our own modern fleet of tow trucks. If your car is broken or damaged, we'll pick it up for free directly from the specified address.",
-    "galleryBadge": "Action Gallery",
-    "galleryTitle": "Our Fleet & Transactions in Practice",
-    "galleryDesc": "We provide professional service at every stage — from arriving with our tow truck to a secure transaction and instant cash payment.",
-    "galleryImg1Badge": "Free Pickup",
-    "galleryImg1Title": "Modern Tow Truck Transport",
-    "galleryImg1Desc": "Our own professional fleet for safe transport of cars in any condition.",
-    "galleryImg2Badge": "Cash in Hand",
-    "galleryImg2Title": "Lightning-Fast Transaction & Trust",
-    "galleryImg2Desc": "Individual approach, quick 15-minute formalities and complete customer satisfaction.",
+    "pillar1Title": "Innovation & Performance",
+    "pillar1Desc": "We build software using modern frameworks (Next.js, React). We guarantee top-tier performance (100/100 PageSpeed Insights targets) and smooth operation.",
+    "pillar2Title": "Security & Scalability",
+    "pillar2Desc": "Our projects are secure, optimized for high load, and ready to scale with your business. We maintain the highest standards of clean code.",
+    "pillar3Title": "Support & Growth",
+    "pillar3Desc": "We do not leave you after launch. We offer ongoing maintenance, server administration, updates, and further development of your software.",
+    "galleryBadge": "Our Work",
+    "galleryTitle": "Technology & Collaboration in Practice",
+    "galleryDesc": "We ensure a professional approach from the first UI prototypes and wireframes to the final production launch and SEO optimization.",
+    "galleryImg1Badge": "Coding",
+    "galleryImg1Title": "Clean Code & Modern Stack",
+    "galleryImg1Desc": "We deploy systems powered by Next.js, TypeScript, and Prisma ORM.",
+    "galleryImg2Badge": "Collaboration",
+    "galleryImg2Title": "Design & Consultations",
+    "galleryImg2Desc": "Close client communication, workshops, and interactive UI/UX prototyping before coding.",
     "locationBadge": "📍 Office Location",
-    "locationTitle": "Visit Us in Warsaw",
-    "locationDesc": "Our main operations office and customer service point is located in Warsaw. Come to us for a free, professional on-site car valuation or schedule an appointment!",
-    "locationMainOffice": "Warsaw Main Office",
+    "locationTitle": "Visit Our Office in Warsaw",
+    "locationDesc": "Our consulting and development office is located in Warsaw. Contact us by phone or email to schedule a meeting!",
+    "locationMainOffice": "Warsaw Dev Office",
     "locationRegistry": "Registry Address",
-    "ctaTitle": "Have a Car to Sell?",
-    "ctaDesc": "Don't wait, contact us now and receive a free online or phone valuation in 15 minutes.",
+    "ctaTitle": "Planning a new project?",
+    "ctaDesc": "Don't wait, get in touch now to receive a free estimate and initial technical consultation.",
     "ctaCall": "📞 Call:",
-    "ctaOnline": "Online Valuation"
+    "ctaOnline": "Project Quote"
   },
   "brands": {
-    "metaTitle": "Supported Car Brands - Fast Buying & Scrapping | skupautwawa.pl",
-    "metaDescription": "We buy passenger and commercial vehicles of all brands and models. See the full list of supported brands and choose your location for a dedicated valuation.",
+    "metaTitle": "Technology Areas & Services | webwawa.pl",
+    "metaDescription": "Dedicated software deployments, technologies and SEO at webwawa.pl IT agency.",
     "breadcrumbHome": "Home",
     "breadcrumbBrands": "Our Brands",
-    "badge": "Scrapping & Buying 2000-2026",
-    "title": "Vehicle brands",
-    "titleHighlight": "we buy",
-    "subtitle": "Regardless of technical condition, visual state or year of manufacture. We buy and scrap cars of every brand. Choose your city below to generate a dedicated offer."
+    "badge": "Warsaw IT Agency",
+    "title": "Implemented technologies",
+    "titleHighlight": "and areas",
+    "subtitle": "We customize the technology stack to match your industry and company location."
   },
   "schema": {
-    "dealerName": "Car Buying Service Warsaw - skupautwawa.pl",
-    "dealerDescription": "Professional car buying and legal vehicle scrapping in Warsaw and surrounding areas"
+    "dealerName": "IT Agency Warsaw - webwawa.pl",
+    "dealerDescription": "Professional web development, PWA apps and custom systems in Warsaw and surrounding areas"
   },
   "privacy": {
-    "metaTitle": "Polityka Prywatności | skupautwawa.pl",
-    "metaDescription": "Dowiedz się, w jaki sposób chronimy Twoje dane osobowe. Polityka prywatności skupautwawa.pl.",
-    "title": "Polityka Prywatności",
-    "lastUpdate": "Ostatnia aktualizacja",
-    "intro": "Twoja prywatność jest dla nas ważna. W niniejszym dokumencie wyjaśniamy zasady przetwarzania danych.",
+    "metaTitle": "Privacy Policy | webwawa.pl",
+    "metaDescription": "Learn how we protect your personal data. Privacy policy webwawa.pl.",
+    "title": "Privacy Policy",
+    "lastUpdate": "Last update",
+    "intro": "Your privacy is important to us. In this document, we explain the rules of data processing.",
     "sections": [
       {
-        "title": "1. Administrator Danych",
-        "content": "Administratorem Twoich danych jest właściciel serwisu."
+        "title": "1. Data Controller",
+        "content": "The administrator of your data is the owner of the service."
       },
       {
-        "title": "2. Cel przetwarzania",
-        "content": "Przetwarzamy Twoje dane w celu wyceny i odkupu pojazdów."
+        "title": "2. Purpose of processing",
+        "content": "We process your data for the purpose of contact, technical consultation, and quoting/delivering IT projects."
       },
       {
-        "title": "3. Twoje prawa",
-        "content": "Masz prawo dostępu do swoich danych, ich poprawiania oraz usunięcia."
+        "title": "3. Your rights",
+        "content": "You have the right to access, correct, and delete your data."
       }
     ],
-    "backHome": "Wróć do strony głównej",
-    "h1": "Polityka Prywatności",
-    "p1": "Niniejsza polityka prywatności określa zasady przetwarzania danych.",
-    "h2": "Gromadzenie danych",
-    "p2Intro": "Gromadzimy następujące dane:",
+    "backHome": "Back to home page",
+    "h1": "Privacy Policy",
+    "p1": "This privacy policy defines the rules for personal data processing.",
+    "h2": "Data collection",
+    "p2Intro": "We collect the following data:",
     "p2List": [
-      "Imię i nazwisko",
-      "Numer telefonu",
-      "Adres e-mail",
-      "Dane pojazdu"
+      "Name and surname / Company",
+      "Phone number",
+      "Email address",
+      "Project description and requirements"
     ],
-    "h3": "Cel przetwarzania",
-    "p3Intro": "Dane przetwarzamy w celu:",
+    "h3": "Purpose of processing",
+    "p3Intro": "We process data in order to:",
     "p3List": [
-      "Przygotowania wyceny",
-      "Realizacji umowy",
-      "Kontaktu z klientem"
+      "Prepare a project quote",
+      "Execute the deployment contract",
+      "Contact the client"
     ],
-    "h4": "Udostępnianie danych",
-    "p4": "Nie udostępniamy danych osobom trzecim bez wyraźnej zgody klienta, chyba że wymaga tego prawo.",
-    "h5": "Prawa użytkownika",
-    "p5Intro": "Jako użytkownik masz prawo do:",
+    "h4": "Data sharing",
+    "p4": "We do not share data with third parties without the client's explicit consent, unless required by law.",
+    "h5": "User rights",
+    "p5Intro": "As a user, you have the right to:",
     "p5List": [
-      "Dostępu do danych",
-      "Modyfikacji danych",
-      "Usunięcia danych (Prawo do bycia zapomnianym)"
+      "Access your data",
+      "Modify your data",
+      "Request data deletion (Right to be forgotten)"
     ],
-    "h6": "Ciasteczka (Cookies)",
-    "p6": "Strona wykorzystuje pliki cookies do prawidłowego działania oraz analizy ruchu.",
-    "h7": "Kontakt",
-    "p7": "W razie pytań dotyczących polityki prywatności prosimy o kontakt drogą mailową."
+    "h6": "Cookies",
+    "p6": "The website uses cookies for proper operation and traffic analysis.",
+    "h7": "Contact",
+    "p7": "If you have questions regarding the privacy policy, please contact us by email."
   },
   "cityPage": {
     "metaTitle": "Car Buying {city} - Scrapping & Dismantling | Cash in Hand",
@@ -514,16 +514,16 @@
     }
   },
   "brandsPage": {
-    "metaTitle": "Supported Car Brands - Fast Buying & Scrapping | skupautwawa.pl",
-    "metaDescription": "We buy passenger and commercial vehicles of all brands and models. See the full list of supported brands and choose your location for a dedicated valuation.",
+    "metaTitle": "Technology Areas & Services | webwawa.pl",
+    "metaDescription": "Dedicated software deployments, technologies and SEO at webwawa.pl IT agency.",
     "breadcrumbHome": "Home",
     "breadcrumbBrands": "Our Brands",
-    "badge": "Scrapping & Buying 2000-2026",
-    "title": "Vehicle brands",
-    "titleHighlight": "we buy",
-    "subtitle": "Regardless of technical condition, visual state or year of manufacture. We buy and scrap cars of every brand. Choose your city below to generate a dedicated offer.",
-    "breadcrumb": "Marki",
-    "description": "Zobacz pełną listę obsługiwanych marek i wybierz swoje miasto do dedykowanej wyceny.",
+    "badge": "Warsaw IT Agency",
+    "title": "Implemented technologies",
+    "titleHighlight": "and areas",
+    "subtitle": "We customize the technology stack to match your industry and company location.",
+    "breadcrumb": "Technologies",
+    "description": "See the full list of implemented technologies at webwawa.pl IT agency.",
     "list": []
   },
   "uCarsPromo": {
@@ -554,18 +554,18 @@
     "cashTag2": "This one also bought for cash :)"
   },
   "email": {
-    "subject": "Confirmation: We received your vehicle valuation request",
+    "subject": "Confirmation: We received your project inquiry",
     "greeting": "Hello,",
-    "intro": "Thank you for submitting your request on SkupAutWawa.pl. Below is a summary of the information you provided:",
-    "detailsBrand": "Vehicle",
-    "detailsYear": "Year",
-    "detailsEngine": "Engine",
-    "detailsPrice": "Proposed price",
+    "intro": "Thank you for submitting your inquiry on webwawa.pl. Below is a summary of the information you provided:",
+    "detailsBrand": "Client / Company Name",
+    "detailsYear": "Desired Timeframe",
+    "detailsEngine": "Service Type",
+    "detailsPrice": "Estimated Budget",
     "detailsCity": "Location",
     "detailsPhone": "Your phone",
     "nextStepsTitle": "What's next?",
-    "nextStepsText": "Our appraiser is currently reviewing your request. We will contact you at the provided phone number within 15 minutes.",
-    "footer": "Best regards, SkupAutWawa.pl Team",
-    "footerAddress": "Skup Aut Warszawa"
+    "nextStepsText": "Our technical advisor is currently analyzing your inquiry. We will contact you at the provided phone number within 24 hours to discuss your project details.",
+    "footer": "Best regards, webwawa.pl Team",
+    "footerAddress": "webwawa.pl IT Agency"
   }
 }

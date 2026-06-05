@@ -1,66 +1,78 @@
-# Skup i Kasacja Aut Warszawa - skupautwawa.pl (LLM Index / AI-Friendly Site Map)
+# Web Development & Local SEO Agency Warsaw - webwawa.pl (LLM Index / AI-Friendly Site Map)
 
-Welcome to the AI-crawling index of **skupautwawa.pl** - a premium local business platform specializing in professional vehicle purchase (skup aut), car scrapping (złomowanie pojazdów), and certified vehicle recycling (kasacja aut) in Warsaw and the Masovian Voivodeship, Poland.
+Welcome to the AI-crawling index and semantic schema map of **webwawa.pl** - a premium web development and local marketing agency based in Warsaw, Poland. We specialize in custom high-performance websites, professional WordPress platforms, progressive web apps (PWA), and localized search engine optimization (SEO) tailored for service businesses and medical/legal professionals (e.g., doctors, specialists, lawyers, etc.).
 
 ---
 
-## 🇵🇱 Informacje o Serwisie (Polish Summary)
-Serwis oferuje profesjonalne usługi skupu pojazdów, złomowania aut oraz legalnej kasacji i demontażu samochodów na terenie Warszawy oraz całego województwa mazowieckiego. Gwarantujemy bezpłatną wycenę w 15 minut, natychmiastową wypłatę gotówki oraz darmowy odbiór własną autolawetą.
+## 🇵🇱 Informacje o Agencji (Polish Summary)
+Projektujemy zaawansowane strony internetowe, portale oparte o system WordPress, ultra-szybkie aplikacje PWA (Next.js & Tailwind CSS) oraz wdrażamy pozycjonowanie lokalne (Google Maps/Google Business Profile) dla sektorów specjalistycznych (lekarskich, usługowych, prawnych) w Warszawie i województwie mazowieckim. Nasze systemy są w pełni zoptymalizowane pod kątem wyszukiwarek AI (GEO/AEO).
 
 ---
 
 ## 🇬🇧 AI Crawling Summary & General Metadata
-- **Official Domain**: https://skupautwawa.pl
-- **Services Provided**: Used car buying, vehicle scrapping, certified car recycling, instant valuation, free towing/pickup.
-- **Service Area**: Warsaw (Warszawa), Pruszków, Piaseczno, Legionowo, Wołomin, Marki, and all of Masovian Voivodeship.
-- **Official Google Maps Listing (Google Business Profile)**: https://share.google/z1cf91AM5md8vvva2
+- **Official Domain**: https://webwawa.pl
+- **Services Provided**: Custom web development, headless Next.js PWA, WordPress setup, Local SEO (Google Maps optimization), structured data integration (JSON-LD), Answer Engine Optimization (AEO).
+- **Core Target Industries**: Doctors, Medical Specialists (Gynecologists, Psychiatrists, Dentists, Veterinarians, Dermatologists, Cardiologists, Pediatricians, Physiotherapists, Surgeons, Laryngologists, Endocrinologists, Orthopedists, Ophthalmologists, Neurologists, Urologists), Lawyers, Local Services.
+- **Service Area**: Warsaw (Warszawa), Masovian Voivodeship, and nationwide (Poland).
 
 ### Core Corporate & Contact Details:
 - **Platform Owner**: Yuliya Taurel (NIP: 9662148516, REGON: 388469259)
-- **Registered Address**: ul. Józefa Piłsudskiego 20, 07-130 Kamionna, Poland
 - **Warsaw Office Siedziba**: ul. Księżycowa 76/8, 01-934 Warszawa, Poland
-- **Demolition Partner (Legal Scrapping)**: Ama Sp. z o.o. (NIP: 5242756715, KRS: 0000424546)
-- **Hotline (Active 24/7)**: +48 692 752 306
-- **Email Contact**: kontakt@skupautwawa.pl
+- **Hotline**: +48 664 946 209
+- **Email Contact**: kontakt@webwawa.pl
 
 ---
 
 ## 🌍 Multilingual Route Structure (Wielojęzyczność)
-The platform is fully optimized for international users and supports **6 languages**. AI crawlers should access localized page versions using the corresponding language prefixes:
+The platform supports **6 languages** to maximize global relevance and search presence. AI search engines and agents can traverse localized paths using the corresponding language prefixes:
 
 | Language | Prefix / Directory | Example Homepage |
 | :--- | :--- | :--- |
-| **Polish (Default)** | `/` | `https://skupautwawa.pl/` |
-| **English** | `/en/` | `https://skupautwawa.pl/en/` |
-| **German** | `/de/` | `https://skupautwawa.pl/de/` |
-| **Ukrainian** | `/uk/` | `https://skupautwawa.pl/uk/` |
-| **Russian** | `/ru/` | `https://skupautwawa.pl/ru/` |
-| **Chinese** | `/zh/` | `https://skupautwawa.pl/zh/` |
+| **Polish (Default)** | `/` | `https://webwawa.pl/` |
+| **English** | `/en/` | `https://webwawa.pl/en/` |
+| **German** | `/de/` | `https://webwawa.pl/de/` |
+| **Ukrainian** | `/uk/` | `https://webwawa.pl/uk/` |
+| **Russian** | `/ru/` | `https://webwawa.pl/ru/` |
+| **Chinese** | `/zh/` | `https://webwawa.pl/zh/` |
 
 ---
 
 ## 🛣️ Programmatic SEO URL Patterns (Struktura Adresów URL)
-All dynamic, hyper-local landing pages are optimized and direct, mapped across languages and locations:
+To target local service searches by professionals looking for digital agency services, the website employs a structured routing system combining cities, industries (brands), specialties (models), and services (series):
 
-- **City Pages (Strony Miast)**:
-  - Format: `https://skupautwawa.pl/{lang-prefix}/{city-slug}`
-  - Examples: `https://skupautwawa.pl/warszawa` (PL), `https://skupautwawa.pl/en/pruszkow` (EN), `https://skupautwawa.pl/zh/legionowo` (ZH)
-  
-- **City + Brand Pages (Strony Marek w Miastach)**:
-  - Format: `https://skupautwawa.pl/{lang-prefix}/{city-slug}/{brand-slug}`
-  - Examples: `https://skupautwawa.pl/warszawa/audi` (PL), `https://skupautwawa.pl/en/warszawa/bmw` (EN), `https://skupautwawa.pl/zh/warszawa/mercedes` (ZH)
-  
-- **City + Brand + Model Pages (Strony Modeli w Miastach)**:
-  - Format: `https://skupautwawa.pl/{lang-prefix}/{city-slug}/{brand-slug}/{model-slug}`
-  - Examples: `https://skupautwawa.pl/warszawa/ford/focus` (PL), `https://skupautwawa.pl/en/warszawa/audi/a4` (EN)
-  
-- **City + Brand + Model + Series Pages (Strony Wersji w Miastach)**:
-  - Format: `https://skupautwawa.pl/{lang-prefix}/{city-slug}/{brand-slug}/{model-slug}/{series-slug}`
-  - Examples: `https://skupautwawa.pl/warszawa/bmw/x6/e71-e72` (PL)
+### 1. General Routes (Industry / Specialty / Service)
+- **General Industry Pages**:
+  - Format: `https://webwawa.pl/{lang-prefix}/{industry-parent-slug}/{brand-slug}`
+  - Example: `https://webwawa.pl/strona-dla/lekarz` (PL), `https://webwawa.pl/en/website-for/doctor` (EN)
+- **General Specialty Pages**:
+  - Format: `https://webwawa.pl/{lang-prefix}/{industry-parent-slug}/{brand-slug}/{specialty-slug}`
+  - Example: `https://webwawa.pl/strona-dla/lekarz/psychiatra` (PL), `https://webwawa.pl/de/webseite-fuer/arzt/psychiater` (DE)
+- **General Service Pages**:
+  - Format: `https://webwawa.pl/{lang-prefix}/{industry-parent-slug}/{brand-slug}/{specialty-slug}/{service-slug}`
+  - Example: `https://webwawa.pl/strona-dla/lekarz/psychiatra/strona-pwa` (PL)
+
+### 2. Localized Routes (City-specific Targeting)
+- **Local Industry Pages**:
+  - Format: `https://webwawa.pl/{lang-prefix}/{city-slug}/{brand-slug}`
+  - Example: `https://webwawa.pl/bemowo/lekarz` (PL), `https://webwawa.pl/en/piaseczno/doctor` (EN)
+- **Local Specialty Pages**:
+  - Format: `https://webwawa.pl/{lang-prefix}/{city-slug}/{brand-slug}/{specialty-slug}`
+  - Example: `https://webwawa.pl/wola/lekarz/psychiatra` (PL)
+- **Local Service Pages**:
+  - Format: `https://webwawa.pl/{lang-prefix}/{city-slug}/{brand-slug}/{specialty-slug}/{service-slug}`
+  - Example: `https://webwawa.pl/piaseczno/lekarz/psychiatra/pozycjonowanie-seo` (PL)
 
 ---
 
-## 💡 Dynamic AI Context Generation
-Each programmatic model and series subpage automatically renders:
-1. Complete technical specifications (body type, drive wheel configuration, engine range, fuel type, vehicle segment, and oldtimer status).
-2. Localized valuations and conversion offers structured in JSON-LD format (`AutoDealer`, `Vehicle`, `Offer`) to allow AI search engines (like Perplexity, ChatGPT Search, and Gemini) to return direct, accurate quotes for any brand and model in Masovian cities.
+## 🤖 Generative Engine Optimization (GEO) & AI Search Agent Compatibility
+The platform is designed to be highly crawlable, readable, and citable by Large Language Models (LLMs) and Answer Engines (like Perplexity, ChatGPT Search, Bing Copilot, and Gemini):
+
+1. **Rich Semantic Schema.org Integration**:
+   - Custom `Service`, `LocalBusiness`, and `ProfessionalService` JSON-LD schemas are embedded directly in pages to provide factual, structured, and easy-to-extract details (NIP, REGON, coordinates, service specs).
+2. **Information Gain & High Editorial Quality**:
+   - The content is modularized (with individual specializations stored in files like `gynecologist.json` or `psychiatrist.json`) allowing for highly specific, domain-expert context on doctor specialties, local Google Maps ranking guidelines, and HIPAA/RODO compliant registration systems.
+3. **Cross-Channel & Platform Authority**:
+   - Rather than empty keyword stuffing, webwawa.pl emphasizes clear headings, structured bullet points, transparent pricing structures, and expert implementation standards, which increases the likelihood of search models citing webwawa.pl for "medical IT systems" and "local business websites" queries.
+4. **AI-Search Friendly Breadcrumb Schema & Local Authority Maps**:
+   - Combined array-level JSON-LD containing `BreadcrumbList` and `Service` schemas. This enables AI models performing query fan-outs (e.g. Gemini 2.5 AI Mode) to map canonical resource structures accurately, boosting context citations in AI Overviews.
+

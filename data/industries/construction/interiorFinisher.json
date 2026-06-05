@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Wykończenia wnętrz",
+    "about": "Wykończenie wnętrz pod klucz to branża oparta w 100% na prezentacji wizualnej i cennikach. Inwestorzy poszukujący ekipy do nowego mieszkania chcą sprawdzić styl wykończenia, jakość detali oraz oszacować budżet. Witryna musi oferować interaktywne portfolio offline, błyskawiczne ładowanie zdjęć i interaktywne kalkulatory metrażu.",
+    "focus": "Główny target SEO to zapytania dotyczące kompleksowego wykończenia (np. wykończenie wnętrz pod klucz Warszawa, wykończenie mieszkania stan deweloperski Mokotów) oraz pakiety wykończeniowe cennik.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, bez zbędnych bibliotek blokujących wątek.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego zgłaszania awarii i zleceń budowlanych.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Wdrożenie standardów Next.js PWA z Service Workerem do pobierania zdjęć realizacji i przeglądania offline.",
+      "Optymalizacja grafik za pomocą Cloudinary / ImageKit (automatyczne dopasowanie rozdzielczości, kompresja WebP/AVIF).",
+      "Dedykowany wieloetapowy kreator wyceny w React (wybór standardu wykończenia, metrażu) generujący kalkulację PDF."
+    ]
+  },
+  "en": {
+    "name": "Interior Finishing",
+    "about": "Turnkey interior finishing is a business built entirely on visual proof and transparent package pricing. Investors looking for a crew for their new apartment want to evaluate the design style, inspect details, and estimate their budget. The website must deliver an offline-capable portfolio, rapid image loading, and interactive square footage calculators.",
+    "focus": "The primary SEO target is comprehensive finishing keywords (e.g. turnkey interior finishing Warsaw, apartment renovation developer standard Mokotow) and package pricing.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, without thread-blocking libraries.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant emergency service and job alerts.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Implementing Next.js PWA with Service Workers to pre-cache and allow offline browsing of high-res portfolio images.",
+      "Image optimization via Cloudinary / ImageKit (real-time responsive resizing, auto WebP/AVIF format delivery).",
+      "A dedicated multi-step React pricing wizard (selecting standard, size, bathrooms) that outputs a custom PDF estimate."
+    ]
+  },
+  "de": {
+    "name": "Innenausbau",
+    "about": "Der schlüsselfertige Innenausbau basiert zu 100 % auf visueller Präsentation und transparenten Paketpreisen. Bauherren möchten den Stil bewerten und das Budget kalkulieren. Die Website muss ein offline-fähiges Portfolio, schnelle Ladezeiten und interaktive Flächenrechner bieten.",
+    "focus": "Der Fokus im SEO liegt auf schlüsselfertigen Ausbauangeboten (z. B. schlüsselfertige Wohnungsrenovierung Berlin, Innenausbau Neubau) und Paketpreisen.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, ohne den Thread blockierende Bibliotheken.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige Notfalleinsätze und Bauauftragsalarme.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Entwicklung als Next.js PWA mit Service Worker zur Offline-Speicherung und -Ansicht von hochauflösenden Projektbildern.",
+      "Einsatz von Cloudinary / ImageKit zur automatischen Echtzeit-Skalierung und Auslieferung in WebP/AVIF.",
+      "Mehrstufiger React-Kalkulations-Assistent (Auswahl von Qualitätsstufe, Fläche, Raumanzahl) mit PDF-Angebotserstellung."
+    ]
+  },
+  "uk": {
+    "name": "Внутрішнє оздоблення",
+    "about": "Оздоблення квартир під ключ — це сфера, успіх якої на 100% залежить від візуальної презентації та цін. Інвестори, які отримали ключі від нового житла, хочуть переконатися в якості деталей та оцінити бюджет. Сайт повинен надавати інтерактивне портфоліо з офлайн-доступом, швидке завантаження та калькулятори прорахунку кошторису.",
+    "focus": "Головний фокус SEO на запитах комплексного ремонту (наприклад, ремонт квартири під ключ Київ, оздоблення новобудови Осокорки) та пакетах цін на ремонт.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, без бібліотек, які блокують потік.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для моментального інформування про аварії та замовлення.",
+      "Кнопка швидкого дзвінка, адаптована під мобільні екрани для покращення конверсії (Mobile-First Click-to-Call).",
+      "Впровадження Next.js PWA з Service Worker для кешування та перегляду портфоліо без інтернет-з'єднання.",
+      "Оптимізація медіа через Cloudinary / ImageKit (автоматичне стиснення в WebP/AVIF, адаптація під розмір дисплея).",
+      "Розробка багатокрокового квіз-калькулятора на React (вибір стилю, площі, кількості санвузлів) з генерацією PDF."
+    ]
+  },
+  "ru": {
+    "name": "Отделка помещений",
+    "about": "Отделка квартир под ключ полностью опирается на визуальное портфолио и понятные пакеты цен. Новоселы хотят увидеть качество деталей, оценить дизайн и рассчитать бюджет. Сайт должен предлагать быстрое открытие галерей, офлайн-доступ к портфолио и интерактивные калькуляторы площади.",
+    "focus": "Главная цель SEO — это запросы комплексных работ (например, отделка квартир под ключ Москва, ремонт в новостройке) и стоимость отделки за квадратный метр.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, без блокирующих поток библиотек.",
+      "Интеграция с SMS-оповещениями (Twilio / SMSAPI) для срочной отправки аварийных заявок мастеру на телефон.",
+      "Кнопка быстрого вызова, оптимизированная под мобильных пользователей (Mobile-First Click-to-Call).",
+      "Внедрение стандартов Next.js PWA с Service Worker для предзагрузки изображений портфолио и просмотра их без интернета.",
+      "Оптимизация изображений через Cloudinary / ImageKit (автоматический выбор формата WebP/AVIF, ресайз на лету).",
+      "Удобный пошаговый калькулятор на React (выбор материалов, площади, санузлов) с выгрузкой сметы в PDF."
+    ]
+  },
+  "zh": {
+    "name": "精装与室内饰面",
+    "about": "整装与精装交付是一个 100% 依赖于视觉呈现与透明套餐价的行业。寻找施工队的业主期望查看精装风格、检验施工细节并测算整体预算。网站必须提供具备离线浏览能力的案例集、极速的图片加载体验以及直观的面积/预算计算器。",
+    "focus": "SEO 的主要目标是精装交付词汇（如：华沙精装房交付、新房精装一站式 Mokotow 区）以及精装套餐价格查询。",
+    "specifications": [
+      "采用 Vite 与 React 搭建超轻量级静态单页，确保弱网甚至无网环境下实现秒开。",
+      "整合 Twilio 或本地 SMSAPI 短信通知通道，当用户提交紧急报修或施工委托时，手机瞬间收到警报。",
+      "针对移动端触控优化的 Click-to-Call 一键呼叫按钮，极大缩短客户转化路径。",
+      "部署 Next.js PWA 规范及 Service Worker，支持离线缓存和无网访问高精度完工实景图。",
+      "基于 Cloudinary / ImageKit 优化图片加载（自动适配设备分辨率，实时生成并分发 WebP/AVIF 格式）。",
+      "使用 React 编写的多步骤价格计算向导（选择装修档次、房屋面积、卫浴间数量），实时导出 PDF 预算单。"
+    ]
+  }
+}

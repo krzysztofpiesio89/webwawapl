@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Psycholog dziecięcy",
+    "about": "Terapia dzieci i młodzieży wymaga delikatności oraz aktywnej współpracy z rodzicami. Profesjonalna witryna psychologa dziecięcego powinna wyjaśniać, jak przebiega pierwsza wizyta (konsultacja dla rodziców) oraz jak przygotować dziecko na spotkanie, aby zminimalizować jego stres.",
+    "focus": "Kluczem do pozycjonowania są lokalne zapytania rodziców (np. dobry psycholog dziecięcy Warszawa Bielany) oraz publikowanie wartościowych poradników na temat problemów wychowawczych, szkolnych i emocjonalnych.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) dla gabinetów psychoterapii i poradnictwa.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla dyskretnego potwierdzania terminów sesji.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Interaktywny, wieloetapowy kwestionariusz diagnozy wstępnej dla rodziców stworzony w React.",
+      "Autonomiczny chatbot AI z bazą wiedzy o rozwoju psychicznym dzieci i młodzieży.",
+      "Szyfrowane, zgodne z RODO przesyłanie formularzy i dokumentów szkolnych / medycznych."
+    ]
+  },
+  "en": {
+    "name": "Child Psychologist",
+    "about": "Therapy for children and adolescents demands gentleness and active cooperation with parents. A professional child psychologist website should explain how the first consultation works (parent-only session) and how to prepare the child to reduce anxiety.",
+    "focus": "The key to SEO is local queries from parents (e.g. child psychologist near me) and publishing helpful guides on parenting, educational struggles, and emotional regulation.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) tailored for psychotherapy clinics.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for discreet therapy session reminders.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Interactive, multi-step child diagnosis screening form for parents built with React.",
+      "Autonomous AI chatbot powered by a comprehensive child mental development database.",
+      "Encrypted, GDPR-compliant portal for uploading educational and clinical documents."
+    ]
+  },
+  "de": {
+    "name": "Kinderpsychologe",
+    "about": "Die Therapie von Kindern und Jugendlichen erfordert Feingefühl und eine aktive Zusammenarbeit mit den Eltern. Die Website sollte erklären, wie das Erstgespräch abläuft (Beratung nur für Eltern) und wie das Kind vorbereitet werden kann.",
+    "focus": "Der Schwerpunkt des SEO liegt auf lokalen Elternanfragen und dem Veröffentlichen von Ratgebern zu Erziehungsfragen und emotionaler Entwicklung.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js) für Psychotherapie-Praxen.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für diskrete Therapiesitzungserinnerungen.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Interaktiver, mehrstufiger Fragebogen zur Erstdiagnostik für Eltern in React.",
+      "Autonomer KI-Chatbot mit Wissensdatenbank zur kindlichen Entwicklung.",
+      "Verschlüsselter, DSGVO-konformer Upload von schulischen und medizinischen Unterlagen."
+    ]
+  },
+  "uk": {
+    "name": "Дитячий психолог",
+    "about": "Терапія дітей та підлітків вимагає делікатності та активної співпраці з батьками. Сайт дитячого психолога повинен детально пояснювати процес першої консультації (зустріч тільки для батьків) та те, як підготувати дитину до візиту.",
+    "focus": "Для SEO важливі локальні запити батьків (наприклад, дитячий психолог Позняки) та корисні статті на тему вікової психології, труднощів у навчанні та емоційного розвитку.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js) для кабінетів психотерапії та консультування.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для конфіденційного нагадування про сеанси.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Інтерактивний покроковий діагностичний квіз для батьків, розроблений на React.",
+      "Автономний чат-бот AI з базою знань про психологічний розвиток дітей та підлітків.",
+      "Зашифроване завантаження шкільних характеристик та медичних карток (відповідність GDPR)."
+    ]
+  },
+  "ru": {
+    "name": "Детский психолог",
+    "about": "Терапия детей и подростков требует мягкого подхода и тесного сотрудничества с родителями. Сайт детского психолога должен описывать структуру первой консультации (встреча только с родителями) и подготовку ребенка ко встрече.",
+    "focus": "Продвижение строится на локальных родительских запросах и публикации материалов о возрастных кризисах, трудностях в школе и эмоциональных проблемах детей.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js) для кабинетов психотерапии и консультирования.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для конфиденциального напоминания о сеансах.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Интерактивный пошаговый диагностический квиз для родителей, разработанный на React.",
+      "Автономный чат-бот AI с базой знаний о психологическом развитии детей и подростков.",
+      "Зашифрованная загрузка школьных характеристик и медицинских карт (соответствие GDPR)."
+    ]
+  },
+  "zh": {
+    "name": "儿童心理咨询师",
+    "about": "儿童与青少年的心理咨询工作需要极大的耐心与细致，同时也高度依赖与家长的紧密合作。专业的儿童心理咨询师网站应重点说明首次评估的流程（通常是仅家长参与的初访），以及如何做好儿童的思想工作以减轻其压力。",
+    "focus": "SEO 推广的核心在于切中家长的本地搜索习惯（如：华沙靠谱的儿童心理咨询），并撰写应对成长教育挑战、学校适应以及情绪调控障碍的实用科普指南。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，适合心理咨询诊所。",
+      "深度集成短信网关（Twilio / SMSAPI），用于会谈日程的保密级自动提醒与确认。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "基于 React 研发的儿童心理发展在线预筛多阶段交互式测评问卷（面向家长）。",
+      "内置儿童与青少年心理发育及成长危机干预知识图谱的自主智能 AI 客服机器人。",
+      "严格执行 GDPR 规范的加密上传通道，用于家长在线提交学校评估或既往病历材料。"
+    ]
+  }
+}

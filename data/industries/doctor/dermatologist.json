@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Dermatolog",
+    "about": "Gabinet dermatologiczny lub klinika medycyny estetycznej potrzebuje strony, która w bezpieczny i profesjonalny sposób prezentuje zabiegi, przeciwwskazania oraz efekty terapii skóry.",
+    "focus": "Dermatolodzy i lekarze medycyny estetycznej budują widoczność poprzez eksperckie artykuły blogowe opisujące problemy skórne oraz pozycjonowanie na frazy powiązane z konkretnymi zabiegami i technologiami laserowymi.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, z optymalizacją obrazów medycznych.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego potwierdzania wizyt pacjentów.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Bezpieczny moduł przesyłania zdjęć zmian skórnych w Django (Python) z szyfrowaniem AES-256.",
+      "Chatbot AI do wstępnej selekcji i triażu pacjentów na podstawie objawów przed wizytą.",
+      "Optymalizacja galerii efektów leczenia (przebarwienia, trądzik) w nowoczesnych formatach WebP/AVIF."
+    ]
+  },
+  "en": {
+    "name": "Dermatologist",
+    "about": "A dermatology clinic or aesthetic medicine practice needs a website that safely and professionally presents procedures, contraindications, and skin therapy results.",
+    "focus": "Dermatologists and aesthetic doctors build visibility through expert blog articles describing skin conditions and SEO targeting specific skin treatments and laser technologies.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, with medical image optimization.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant patient booking confirmations.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Secure skin issue photo upload module in Django (Python) using AES-256 encryption.",
+      "AI triage chatbot for initial patient screening based on dermatological symptoms.",
+      "Optimized treatment results photo galleries (acne, scars) using modern WebP/AVIF formats."
+    ]
+  },
+  "de": {
+    "name": "Dermatologe",
+    "about": "Eine Hautarztpraxis oder Klinik für ästhetische Medizin benötigt eine Website, die Behandlungen, Kontraindikationen und Ergebnisse der Hauttherapie sicher und professionell darstellt.",
+    "focus": "Dermatologen bauen ihre Online-Präsenz durch fachspezifische Blogartikel über Hautprobleme und SEO-Optimierung für bestimmte Lasertechnologien und Hautbehandlungen auf.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, mit medizinischer Bildoptimierung.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige Terminbestätigungen von Patienten.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Sicheres Modul zum Hochladen von Hautbildern in Django (Python) mit AES-256-Verschlüsselung.",
+      "KI-Triage-Chatbot zur Patientenvorsortierung basierend auf dermatologischen Symptomen.",
+      "Optimierte Bildgalerien für Behandlungsergebnisse (Akne, Narben) in modernen WebP/AVIF-Formaten."
+    ]
+  },
+  "uk": {
+    "name": "Дерматолог",
+    "about": "Дерматологічний кабінет або клініка естетичної медицини потребує сайту, який безпечно та професійно презентує процедури, протипоказання та результати лікування шкіри.",
+    "focus": "Дерматологи будують видимість через експертні статті в блозі про проблеми шкіри та оптимізацію за запитами конкретних процедур і лазерних технологій.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, з оптимізацією медичних зображень.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для миттєвого підтвердження записів пацієнтів.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Безпечний модуль завантаження фотографій шкіри на Django (Python) із шифруванням AES-256.",
+      "Чат-бот AI для попереднього сортування пацієнтів на основі дерматологічних симптомів.",
+      "Оптимізація фотогалерей результатів лікування (акне, рубці) у сучасних форматах WebP/AVIF."
+    ]
+  },
+  "ru": {
+    "name": "Дерматолог",
+    "about": "Дерматологический кабинет или клиника эстетической медицины нуждается в сайте, который безопасно и профессионально представляет процедуры, противопоказания и результаты терапии кожи.",
+    "focus": "Дерматологи повышают видимость за счет экспертных статей в блоге о заболеваниях кожи и SEO-оптимизации под конкретные процедуры и лазерных аппараты.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, с оптимизацией медицинских изображений.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для мгновенного подтверждения записей пациентов.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Безопасный модуль загрузки фотографий кожи на Django (Python) с шифрованием AES-256.",
+      "Чат-бот AI для предварительной сортировки пациентов на основе дерматологических симптомов.",
+      "Оптимизированные фотогалереи результатов лечения (акне, рубцы) в форматах WebP/AVIF."
+    ]
+  },
+  "zh": {
+    "name": "皮肤科医生",
+    "about": "皮肤科诊所或美容医学中心需要一个能够安全、专业地展示疗程项目、禁忌症及皮肤治疗效果的网站。",
+    "focus": "皮肤科医生和微整医生通过撰写介绍皮肤问题的专家博客文章，以及针对特定治疗方法以及激光技术进行 SEO 排名来建立线上曝光率。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，配合医学影像优化。",
+      "深度集成短信网关（Twilio / SMSAPI），用于就诊时间实时确认与通知。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "在 Django (Python) 中基于 AES-256 加密算法构建的皮肤患部影像安全上传模块。",
+      "部署智能分诊 AI 机器人，根据患者自述的皮肤症状进行就诊前的预筛分流。",
+      "采用 WebP/AVIF 等前沿格式，对痘痘、瘢痕治疗前后对比图库进行极限性能优化。"
+    ]
+  }
+}

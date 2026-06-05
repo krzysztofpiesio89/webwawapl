@@ -13,7 +13,6 @@ export default function LanguageSwitcher({ currentLang }: { currentLang: Locale 
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
-    // eslint-disable-next-line react-hooks/set-state-in-effect
     setMounted(true);
   }, []);
 
@@ -68,8 +67,8 @@ export default function LanguageSwitcher({ currentLang }: { currentLang: Locale 
       onClick={() => setIsOpen(false)}
       className={`flex items-center gap-4 px-6 py-3.5 rounded-2xl transition-all duration-300 w-full max-w-[250px] transform hover:scale-105 active:scale-95 ${
         currentLang === locale 
-          ? 'bg-black/5 text-black' 
-          : 'text-black/60 hover:bg-black/5 hover:text-black'
+          ? 'bg-black/5 dark:bg-white/10 text-slate-900 dark:text-white' 
+          : 'text-slate-600 dark:text-slate-400 hover:bg-black/5 dark:hover:bg-white/5 hover:text-slate-900 dark:hover:text-white'
       }`}
       role="option"
       aria-selected={currentLang === locale}
@@ -85,10 +84,10 @@ export default function LanguageSwitcher({ currentLang }: { currentLang: Locale 
     <>
       <button 
         onClick={() => setIsOpen(true)}
-        className="flex items-center gap-1.5 px-3 py-2 text-slate-800 hover:text-amber-600 font-medium transition-colors"
+        className="flex items-center gap-1.5 px-3 py-2 text-slate-700 dark:text-slate-300 hover:text-primary dark:hover:text-primary font-medium transition-colors group"
         aria-expanded={isOpen}
       >
-        <svg className="w-5 h-5 text-slate-500 group-hover:text-amber-600 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <svg className="w-5 h-5 text-slate-500 dark:text-slate-400 group-hover:text-primary dark:group-hover:text-primary transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 5h12M9 3v2m1.048 9.5A18.022 18.022 0 016.412 9m6.088 9h7M11 21l5-10 5 10M12.751 5C11.783 10.77 8.07 15.61 3 18.129" />
         </svg>
         <span className="uppercase tracking-wide text-lg">{currentLang}</span>
@@ -102,7 +101,7 @@ export default function LanguageSwitcher({ currentLang }: { currentLang: Locale 
         >
           {/* Glassmorphism Backdrop */}
           <div 
-            className={`absolute inset-0 bg-white/85 backdrop-blur-2xl transition-opacity duration-500 ${
+            className={`absolute inset-0 bg-white/85 dark:bg-slate-950/85 backdrop-blur-2xl transition-opacity duration-500 ${
               isOpen ? 'opacity-100' : 'opacity-0'
             }`}
             onClick={() => setIsOpen(false)}
@@ -112,24 +111,25 @@ export default function LanguageSwitcher({ currentLang }: { currentLang: Locale 
           {/* Close Button Top Right */}
           <button 
             onClick={() => setIsOpen(false)}
-            className={`absolute top-6 right-6 md:top-10 md:right-10 z-50 p-3 text-slate-500 hover:text-slate-900 bg-white/50 hover:bg-white rounded-full transition-all duration-500 transform hover:scale-110 active:scale-95 shadow-sm border border-white/60 ${
+            className={`absolute top-6 right-6 md:top-10 md:right-10 z-50 p-3 text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white bg-white/50 dark:bg-slate-900/50 hover:bg-white dark:hover:bg-slate-800 rounded-full transition-all duration-500 transform hover:scale-110 active:scale-95 shadow-sm border border-slate-200 dark:border-slate-800/60 ${
               isOpen ? 'opacity-100 rotate-0' : 'opacity-0 rotate-90'
             }`}
-            aria-label="Zamknij"
+            aria-label={currentLang === 'pl' ? 'Zamknij' : 'Close'}
           >
             <svg className="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
             </svg>
           </button>
 
-          
           <div 
             className={`relative z-10 w-full px-6 flex flex-col items-center transition-all duration-500 delay-75 ${
               isOpen ? 'translate-y-0 opacity-100 scale-100' : 'translate-y-12 opacity-0 scale-95'
             }`}
           >
             <div className="mb-8 text-center">
-              <h2 className="text-sm font-black text-slate-500 uppercase tracking-[0.3em] mb-2">Wybierz język</h2>
+              <h2 className="text-sm font-black text-slate-500 dark:text-slate-400 uppercase tracking-[0.3em] mb-2">
+                {currentLang === 'pl' ? 'Wybierz język' : 'Choose Language'}
+              </h2>
             </div>
             
             <div role="listbox" aria-label="Wybierz język" className="w-full flex flex-col items-center space-y-2">

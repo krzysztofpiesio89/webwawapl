@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Kadry i płace",
+    "about": "Obsługa kadr i płac (HR & Payroll) obejmuje naliczanie wynagrodzeń, ewidencję czasu pracy, prowadzenie akt osobowych oraz rozliczenia z ZUS. Dedykowana strona uwiarygadnia ofertę i ułatwia kontakt z dyrektorami operacyjnymi i właścicielami firm.",
+    "focus": "Skuteczne pozycjonowanie opiera się na frazach powiązanych z outsourcingiem kadrowo-płacowym (np. outsourcing kadr i płac Warszawa, obsługa ZUS dla firm) oraz na publikacji poradników o prawie pracy.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, bez zbędnych bibliotek.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) do automatycznych alertów o terminach podatkowych.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Interaktywny kalkulator wynagrodzeń i kosztów pracodawcy napisany w React.",
+      "Automatyczne powiadomienia e-mail i generatory kart pracy oparte o Node.js.",
+      "Zgodność z RODO i pełna anonimizacja danych wrażliwych pracowników."
+    ]
+  },
+  "en": {
+    "name": "Payroll Specialist",
+    "about": "Personnel and payroll administration (HR & Payroll) includes payroll calculation, work hours tracking, keeping employee files, and social security reporting. A dedicated landing page validates your services and drives contact from COO and business owners.",
+    "focus": "Effective SEO relies on keywords related to payroll outsourcing (e.g. payroll outsourcing Warsaw, HR services for business) and educational resources on labor law.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, without thread-blocking libraries.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for automated tax deadline alerts.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Interactive wage and employer labor cost calculator built with React.",
+      "Automated email notifications and timesheet generation powered by Node.js.",
+      "GDPR compliance and complete anonymization of sensitive employee data."
+    ]
+  },
+  "de": {
+    "name": "Lohnbuchhalter",
+    "about": "Die Lohn- und Gehaltsabrechnung umfasst die Berechnung von Entgelten, Arbeitszeiterfassung und Meldungen an Sozialversicherungsträger. Eine eigene Landingpage erhöht die Konversionsrate bei Geschäftskunden.",
+    "focus": "SEO-Erfolg basiert auf Suchbegriffen zur Lohnabrechnung (z. B. Lohnabrechnung Outsourcing) und Fachartikeln zum Arbeitsrecht.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, ohne den Thread blockierende Bibliotheken.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für automatische Steuerfristalarme.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Interaktiver Lohn- und Lohnnebenkostenrechner für Arbeitgeber in React.",
+      "Integration mit Personal- und Gehaltsabrechnungssoftware über C# / .NET-APIs.",
+      "Automatische E-Mail-Benachrichtigungen und Stundenzettel-Generatoren mittels Node.js."
+    ]
+  },
+  "uk": {
+    "name": "Кадровий облік та зарплата",
+    "about": "Кадровий облік та розрахунок заробітної плати (HR & Payroll) включає нарахування виплат, облік робочого часу та звіти до фондів. Сайт підтверджує компетенції та полегшує контакт із бізнесом.",
+    "focus": "Просування фокусується на запитах аутсорсингу кадрів та заробітної плати (наприклад, аутсорсинг кадрового обліку) та статтях про трудове право.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, без бібліотек, які блокують потік.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для автоматичних нагадувань про податкові терміни.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Інтерактивний калькулятор заробітної плати та витрат роботодавця на React.",
+      "Інтеграція з базами даних кадрові та зарплатні за допомогою API на C# / .NET.",
+      "Автоматичні сповіщення на пошту та генератори табелів обліку робочого часу на Node.js."
+    ]
+  },
+  "ru": {
+    "name": "Кадры и зарплата",
+    "about": "Кадровый учет и расчет заработной платы (HR & Payroll) включает начисление выплат, учет рабочего времени, ведение личных дел и отчетность в фонды. Сайт упрощает привлечение руководителей и собственников бизнеса.",
+    "focus": "SEO строится на запросах аутсорсинга расчета зарплаты и ведения кадров (например, расчет заработной платы аутсорсинг) и публикациях на тему трудового права.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, без блокирующих поток библиотек.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для автоматических напоминаний о налоговых сроках.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Интерактивный калькулятор заработной платы и расходов работодателя на React.",
+      "Интеграция с базами данных кадров и зарплаты с помощью API на C# / .NET.",
+      "Автоматические оповещения на почту и генераторы табелей учета рабочего времени на Node.js."
+    ]
+  },
+  "zh": {
+    "name": "薪酬社保专家",
+    "about": "人事与薪酬福利管理（HR & Payroll）包括薪资计算、考勤统计、员工档案维护以及社保公积金申报。专属的落地页可以显著提升服务的商业可信度，方便运营总监及企业主直接建立联系。",
+    "focus": "SEO 推广侧重于与薪酬社保外包相关的关键词（如：薪酬外包服务、华沙社保代缴），以及发布关于劳动法政策的解读指南。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，杜绝任何阻塞主线程的冗余库。",
+      "深度集成短信网关（Twilio / SMSAPI），用于纳税申报及社保缴费等申报节点自动短信提醒。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "基于 React 研发的综合薪酬结构与雇主实际用工成本核算在线计算器。",
+      "基于 C# / .NET API，实现与主流企业人事与考勤系统（如 Optima API）的对接。",
+      "基于 Node.js 异步任务引擎开发的时间卡（Timesheet）生成与工资单触发邮件系统。"
+    ]
+  }
+}

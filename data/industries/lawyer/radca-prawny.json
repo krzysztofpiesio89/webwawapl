@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Radca prawny",
+    "about": "Zawód radcy prawnego w dużej mierze skupia się na obsłudze przedsiębiorstw, audytach umów, doradztwie transakcyjnym oraz bieżącej pomocy prawnej. Nowoczesna witryna radcy prawnego buduje wizerunek zaufanego partnera w biznesie.",
+    "focus": "Radcowie prawni zyskują na SEO targetując frazy B2B (np. obsługa prawna firm Warszawa, doradztwo korporacyjne, audyt umów spółek) oraz publikując merytoryczne analizy zmian w prawie gospodarczym.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, bez zbędnych bibliotek blokujących wątek.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego zgłaszania spraw i zapytań prawnych.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Portal dla klientów biznesowych w technologii C# (.NET Core) z uwierzytelnianiem 2FA/OAuth.",
+      "Wdrożenie mikrodanych Schema JSON-LD LegalService dedykowanej dla wyszukiwarek AI.",
+      "Automatyczne generowanie projektów umów w PDF (TypeScript/PDFKit) po zebraniu danych z formularza."
+    ]
+  },
+  "en": {
+    "name": "Legal Advisor",
+    "about": "The profession of a legal advisor largely focuses on corporate services, contract audits, transaction advisory, and ongoing legal support. A modern website builds the image of a trusted business partner.",
+    "focus": "Legal advisors benefit from B2B SEO targeting corporate keywords (e.g. corporate legal services Warsaw, contract audit, business law consultant) and publishing analytical articles on business law changes.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, without thread-blocking libraries.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant notifications of legal inquiries.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Business client portal built on C# (.NET Core) with 2FA/OAuth authentication.",
+      "Implementation of structured Schema JSON-LD LegalService microdata for AI search visibility.",
+      "Automated draft contract PDF generation (TypeScript/PDFKit) from form submission data."
+    ]
+  },
+  "de": {
+    "name": "Rechtsberater",
+    "about": "Der Beruf des Rechtsberaters konzentriert sich weitgehend auf Unternehmensbetreuung, Vertragsprüfungen und Transaktionsberatung. Eine moderne Website stärkt das Image als verlässlicher Partner für Firmen.",
+    "focus": "Rechtsberater gewinnen Mandanten durch B2B-SEO (z. B. Rechtsberatung für Unternehmen Warschau, Vertragsprüfung) und fundierte Publikationen zu Wirtschaftsrechtsreformen.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, ohne den Thread blockierende Bibliotheken.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige rechtliche Anfragen und Aktenbenachrichtigungen.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Mandantenportal für Unternehmen in C# (.NET Core) mit 2FA/OAuth-Authentifizierung.",
+      "Implementierung strukturierter Schema JSON-LD LegalService-Daten für KI-Suchmaschinen.",
+      "Automatische PDF-Vertragsentwurfserstellung (TypeScript/PDFKit) basierend auf Formulardaten."
+    ]
+  },
+  "uk": {
+    "name": "Юрисконсульт",
+    "about": "Професія юрисконсульта в основному орієнтована на обслуговування бізнесу, аудит договорів, супровід угод та поточну правову підтримку. Сучасний сайт будує імідж надійного партнера для компаній.",
+    "focus": "Юрисконсульти отримують вигоду від B2B SEO (наприклад, юридичний аутсорсинг компаній, реєстрація бізнесу) та публікації аналітики комерційного права.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, без бібліотек, які блокують потік.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для миттєвих сповіщень про нові юридичні справи.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Особистий кабінет бізнес-клієнта на C# (.NET Core) з автентифікацією 2FA/OAuth.",
+      "Розгортання структурованих мікроданих Schema JSON-LD LegalService для пошукових систем AI.",
+      "Автоматичне створення проектів договорів у PDF (TypeScript/PDFKit) на основі форм."
+    ]
+  },
+  "ru": {
+    "name": "Юрисконсульт",
+    "about": "Профессия юрисконсульта ориентирована на обслуживание бизнеса, аудит договоров, сопровождение сделок и текущую правовую поддержку. Современный сайт формирует образ надежного партнера для бизнеса.",
+    "focus": "Юрисконсульты извлекают выгоду из B2B SEO (например, юридическое обслуживание фирм, аудит договоров) и публикации аналитики хозяйственного права.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, без блокирующих поток библиотек.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для мгновенных уведомлений о новых юридических делах.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Личный кабинет бизнес-клиента на C# (.NET Core) с аутентификацией 2FA/OAuth.",
+      "Развертывание структурированных микроданных Schema JSON-LD LegalService для поисковиков AI.",
+      "Автоматическое создание проектов договоров в PDF (TypeScript/PDFKit) на основе форм."
+    ]
+  },
+  "zh": {
+    "name": "法律顾问",
+    "about": "法律顾问这一执业领域侧重于企业法律服务、合同审计、交易咨询和日常法律支持。现代化的法律顾问网站有助于塑造值得信赖的商业合作伙伴形象。",
+    "focus": "法律顾问主要从针对 B2B 的 SEO 优化（如：企业法律服务华沙、合同审计、商业法咨询）以及撰写企业法律法规变动分析文章中获益。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，杜绝任何阻塞主线程的冗余库。",
+      "深度集成短信网关（Twilio / SMSAPI），用于法律咨询及案件线索实时通报。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "基于 C# (.NET Core) 开发的企业级法务客户后台，支持 2FA 双重身份验证与 OAuth 授权。",
+      "部署专用的 Schema JSON-LD LegalService 微标记以优化 AI 搜索的抓取权重。",
+      "基于 TypeScript/PDFKit 开发的在线协议及法律合同 PDF 草案自动生成系统。"
+    ]
+  }
+}

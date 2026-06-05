@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Stomatolog",
+    "about": "Gabinety stomatologiczne konkurują na bardzo nasyconym rynku. Pacjenci poszukują nowoczesnego leczenia bez bólu, sprawdzają cenniki zabiegów implantologicznych czy ortodontycznych oraz weryfikują doświadczenie i opinie o lekarzach.",
+    "focus": "Stomatolodzy zyskują najwięcej dzięki pozycjonowaniu na drogie frazy usługowe (np. implanty Warszawa, ortodonta Warszawa) połączonemu z lokalnym pozycjonowaniem w Google Maps i rozbudowaną sekcją przed/po w galerii.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, z optymalizacją obrazów medycznych.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego potwierdzania wizyt pacjentów.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Wizualny, interaktywny model uzębienia 3D (Three.js/WebGL) do wyboru zębów do leczenia.",
+      "Wdrożenie autonomicznego bota głosowego AI do pełnej obsługi infolinii i zapisów do bazy CRM.",
+      "Dedykowane podstrony cenników pakietowych (implantologia, ortodoncja) w technologii Next.js SSG."
+    ]
+  },
+  "en": {
+    "name": "Dentist",
+    "about": "Dental clinics compete in a highly saturated market. Patients look for modern pain-free treatments, compare prices for implantology or orthodontics, and verify doctors' experience and reviews.",
+    "focus": "Dentists benefit most from SEO targeting high-value service keywords (e.g., dental implants Warsaw, orthodontist Warsaw) combined with local Google Maps optimization and a rich before/after gallery.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, with medical image optimization.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant patient booking confirmations.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Visual, interactive 3D dentition model (Three.js/WebGL) allowing patients to select teeth for treatment.",
+      "Autonomous AI voice bot deployment for call center automation and direct CRM scheduling.",
+      "Dedicated landing pages for treatment packages (implants, orthodontics) using Next.js SSG."
+    ]
+  },
+  "de": {
+    "name": "Zahnarzt",
+    "about": "Zahnarztpraxen konkurrieren in einem hart umkämpften Markt. Patienten suchen nach schmerzfreien Behandlungen, vergleichen Preise für Implantate oder Kieferorthopädie und prüfen Bewertungen.",
+    "focus": "Zahnärzte profitieren am meisten von der SEO-Optimierung für hochwertige Dienstleistungen (z. B. Zahnimplantate Warschau, Kieferorthopäde) in Verbindung mit lokaler Google Maps-Optimierung und einer Vorher-Nachher-Galerie.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, mit medizinischer Bildoptimierung.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige Terminbestätigungen von Patienten.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Visuelles, interaktives 3D-Zahnmodell (Three.js/WebGL) zur Auswahl von Behandlungsbereichen.",
+      "Implementierung eines autonomen KI-Sprachbots für die Notruf-Hotline und CRM-Terminbuchungen.",
+      "Dedizierte Landingpages für Leistungspakete (Implantate, Kieferorthopädie) mittels Next.js SSG."
+    ]
+  },
+  "uk": {
+    "name": "Стоматолог",
+    "about": "Стоматологічні клініки конкурують на дуже насиченому ринку. Пацієнти шукають безболісне лікування, порівнюють ціни на імплантацію та ортодонтію, а також перевіряють відгуки про лікарів.",
+    "focus": "Стоматологи отримують найбільше вигоди від SEO за запитами високовартісних послуг (наприклад, імплантація Варшава) в поєднанні з просуванням у Google Maps та галереєю робіт.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, з оптимізацією медичних зображень.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для миттєвого підтвердження записів пацієнтів.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Візуальна інтерактивна 3D-модель зубів (Three.js/WebGL) для вибору проблемних зон пацієнтом.",
+      "Впровадження автономного голосового бота AI для обробки дзвінків та запису в CRM-систему.",
+      "Спеціалізовані сторінки пакетних послуг (імплантація, ортодонтія) на базі Next.js SSG."
+    ]
+  },
+  "ru": {
+    "name": "Стоматолог",
+    "about": "Стоматологические клиники конкурируют на высоконасыщенном рынке. Пациенты ищут безболезненное лечение, сравнивают цены на имплантацию или ортодонтию и проверяют отзывы.",
+    "focus": "Стоматологи получают больше всего пользы от SEO по высокобюджетным услугам (например, имплантация зубов Варшава) в сочетании с оптимизацией локальных карт Google и галереей.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, с оптимизацией медицинских изображений.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для мгновенного подтверждения записей пациентов.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Визуальная интерактивная 3D-модель зубов (Three.js/WebGL) для выбора зубов при отправке заявки.",
+      "Внедрение автономного голосового бота AI для полной автоматизации горячей линии и записи в CRM.",
+      "Специализированные посадочные страницы тарифов (имплантация, ортодонтия) на Next.js SSG."
+    ]
+  },
+  "zh": {
+    "name": "牙医",
+    "about": "牙科诊所在竞争激烈的市场中运作。患者在寻找无痛的现代化治疗，比较种植牙或正畸的价格，并验证医生的经验和评价。",
+    "focus": "牙医通过针对高价值服务关键词（如：华沙种植牙、华沙牙齿矫正）进行 SEO 优化，并结合谷歌地图本地排名和丰富的“前后对比”案例展示中获益最多。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，配合医学影像优化。",
+      "深度集成短信网关（Twilio / SMSAPI），用于就诊时间实时确认与通知。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "基于 Three.js/WebGL 的交互式 3D 牙齿模型，支持患者在线选定待治疗牙齿。",
+      "部署自主式 AI 语音客服机器人，实现热线呼叫中心托管与 CRM 系统直接预定挂号。",
+      "采用 Next.js SSG 静态生成技术开发的种植牙、牙齿矫正等套餐服务专属落地页。"
+    ]
+  }
+}

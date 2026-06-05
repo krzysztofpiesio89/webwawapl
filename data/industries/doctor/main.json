@@ -1,0 +1,139 @@
+{
+  "id": "doctor",
+  "slugs": {
+    "pl": "lekarz",
+    "en": "doctor",
+    "de": "arzt",
+    "uk": "likar",
+    "ru": "vrach",
+    "zh": "doctor"
+  },
+  "translations": {
+    "pl": {
+      "industryName": "Lekarz",
+      "heroSubtitle": "Dedykowane rozwiązania internetowe, aplikacje medyczne PWA i pozycjonowanie lokalne dla gabinetów lekarskich.",
+      "title": "Strony internetowe i systemy IT dla lekarzy i gabinetów medycznych",
+      "description": "Projektujemy nowoczesne strony www, aplikacje PWA oraz prowadzimy pozycjonowanie SEO dla lekarzy i specjalistów medycznych. Zwiększ liczbę pacjentów i zautomatyzuj rejestrację.",
+      "about": "Sektor medyczny wymaga budowania zaufania, przejrzystości oraz dostępności. Pacjenci wyszukują lekarzy lokalnie, weryfikują opinie i oczekują natychmiastowej możliwości umówienia wizyty. Nasze rozwiązania łączą bezpieczne systemy PWA, szybkie strony informacyjne oraz skuteczne pozycjonowanie SEO, pozwalając lekarzom skupić się na pacjentach, a nie na marketingu.",
+      "series": {
+        "pwa": {
+          "title": "Dedykowane Aplikacje PWA dla Lekarzy",
+          "desc": "Tworzymy super-szybkie aplikacje webowe PWA w oparciu o Next.js i Tailwind CSS 4.0, które pacjenci mogą zainstalować na ekranie głównym swojego telefonu. Umożliwiają one natychmiastowe sprawdzanie terminów, otrzymywanie powiadomień oraz budują stałą relację pacjent-lekarz."
+        },
+        "wordpress": {
+          "title": "Profesjonalne Strony WordPress dla Medycyny",
+          "desc": "Budujemy nowoczesne, łatwe w samodzielnej edycji strony oparte o system WordPress. Pozwala to na wygodne dodawanie wpisów na blogu medycznym, aktualizację godzin przyjęć, cennika oraz zarządzanie podstronami zabiegów."
+        },
+        "seo": {
+          "title": "Pozycjonowanie SEO Gabinetów i Klinik",
+          "desc": "Zapewniamy dominację w wynikach wyszukiwania Google w Twojej dzielnicy lub mieście. Pozycjonujemy na frazy intencyjne, optymalizujemy profil Google Moja Firma oraz wdrażamy struktury Schema JSON-LD, przyciągając pacjentów gotowych na wizytę."
+        }
+      }
+    },
+    "en": {
+      "industryName": "Doctor",
+      "heroSubtitle": "Custom websites, PWA medical applications, and local SEO for doctors and medical clinics.",
+      "title": "Websites and IT Systems for Doctors and Medical Clinics",
+      "description": "We design modern websites, PWA applications, and perform SEO positioning for doctors and medical specialists. Acquire more patients and automate registration.",
+      "about": "The medical sector requires trust, transparency, and accessibility. Patients search for doctors locally, verify reviews, and expect instant appointment booking. Our solutions combine secure PWA systems, fast informational websites, and effective SEO positioning, allowing doctors to focus on patients rather than marketing.",
+      "series": {
+        "pwa": {
+          "title": "Dedicated PWA Applications for Doctors",
+          "desc": "We build super-fast PWA web apps based on Next.js and Tailwind CSS 4.0 that patients can install on their home screens. They allow instant term checks, push notifications, and build a solid patient-doctor relation."
+        },
+        "wordpress": {
+          "title": "Professional WordPress Sites for Medicine",
+          "desc": "We build modern, easy-to-edit websites based on WordPress. This allows for convenient blog posting, update of office hours, prices, and easy management of medical procedure subpages."
+        },
+        "seo": {
+          "title": "SEO Positioning for Clinics and Practices",
+          "desc": "We ensure search dominance in Google for your local district or city. We optimize for high-intent keywords, Google Business Profile, and implement JSON-LD Schema to attract patients ready to visit."
+        }
+      }
+    },
+    "de": {
+      "industryName": "Arzt",
+      "heroSubtitle": "Maßgeschneiderte Websites, medizinische PWA-Anwendungen und lokales SEO für Ärzte und Kliniken.",
+      "title": "Websites und IT-Systeme für Ärzte und Arztpraxen",
+      "description": "Wir entwickeln moderne Websites, PWA-Apps und führen SEO-Optimierungen für Ärzte und medizinische Spezialisten durch. Gewinnen Sie mehr Patienten und automatisieren Sie Ihre Anmeldung.",
+      "about": "Der medizinische Sektor erfordert Vertrauen, Transparenz und Erreichbarkeit. Patienten suchen Ärzte lokal, prüfen Bewertungen und erwarten sofortige Online-Terminvereinbarung. Unsere Lösungen verbinden sichere PWA-Systeme, schnelle Websites und effektive SEO, sodass sich Ärzte auf Patienten statt Marketing konzentrieren können.",
+      "series": {
+        "pwa": {
+          "title": "Dedizierte PWA-Apps für Ärzte",
+          "desc": "Wir bauen superschnelle PWA-Webanwendungen basierend auf Next.js und Tailwind CSS 4.0, die Patienten auf ihrem Startbildschirm installieren können, um Termine abzufragen und Push-Meldungen zu erhalten."
+        },
+        "wordpress": {
+          "title": "Professionelle WordPress-Websites für die Medizin",
+          "desc": "Wir erstellen moderne, leicht editierbare WordPress-Seiten, ideal für medizinische Blogs, Sprechzeiten-Aktualisierungen und Behandlungsseiten."
+        },
+        "seo": {
+          "title": "SEO-Optimierung für Arztpraxen und Kliniken",
+          "desc": "Wir sichern Ihnen die Google-Dominanz in Ihrer Region. Wir optimieren Ihr Google Business Profil und implementieren JSON-LD Schema, um buchungswillige Patienten anzuziehen."
+        }
+      }
+    },
+    "uk": {
+      "industryName": "Лікар",
+      "heroSubtitle": "Сучасні сайти, медичні PWA-додатки та локальне SEO для лікарів та приватних кабінетів.",
+      "title": "Веб-сайти та IT-системи для лікарів та медичних кабінетів",
+      "description": "Проектуємо сучасні сайти, PWA-додатки та здійснюємо SEO-просування для лікарів та медичних центрів. Збільшуйте потік пацієнтів та автоматизуйте запис.",
+      "about": "Медична сфера вимагає довіри, прозорості та доступності. Пацієнти шукають лікарів локально, перевіряють відгуки та очікують миттєвого запису. Наші рішення поєднують безпечні PWA-системи, швидкі сайти та ефективне локальне SEO.",
+      "series": {
+        "pwa": {
+          "title": "Спеціалізовані PWA-додатки для лікарів",
+          "desc": "Ми створюємо надшвидкі PWA-додатки на базі Next.js та Tailwind CSS 4.0, які пацієнти можуть встановити на екран телефону для перевірки дат та отримання нагадувань."
+        },
+        "wordpress": {
+          "title": "Професійні сайти на WordPress для медицини",
+          "desc": "Будуємо сучасні сайти на базі WordPress, що дозволяє зручно вести медичний блог, оновлювати години прийому та ціни."
+        },
+        "seo": {
+          "title": "SEO-просування кабінетів та клінік",
+          "desc": "Забезпечуємо домінування у пошуковій видачі Google у вашому районі. Оптимізуємо профіль Google Business та впроваджуємо Schema JSON-LD."
+        }
+      }
+    },
+    "ru": {
+      "industryName": "Врач",
+      "heroSubtitle": "Современные сайты, медицинские PWA-приложения и локальное SEO для врачей и клиник.",
+      "title": "Веб-сайты и IT-системы для врачей и медицинских кабинетов",
+      "description": "Проектируем современные сайты, PWA-приложения и ведем SEO-продвижение для врачей и клинік. Увеличьте поток пациентов и автоматизируйте запись.",
+      "about": "Медицинская сфера требует доверия, прозрачности и доступности. Пациенты ищут врачей локально, проверяют отзывы и ожидают быстрой записи.",
+      "series": {
+        "pwa": {
+          "title": "Специализированные PWA-приложения для врачей",
+          "desc": "Мы создаем сверхбыстрые PWA-приложения на базе Next.js и Tailwind CSS 4.0, которые пациенты могут установить на телефон для проверки дат и получения уведомлений."
+        },
+        "wordpress": {
+          "title": "Профессиональные сайты на WordPress для медицины",
+          "desc": "Строим современные сайты на базе WordPress, что позволяет удобно вести медицинский блог, обновлять часы приема и цены."
+        },
+        "seo": {
+          "title": "SEO-продвижение кабинетов и клиник",
+          "desc": "Обеспечиваем доминирование в поисковой выдаче Google в вашем районе. Оптимизируем профиль Google Business и внедряем Schema JSON-LD."
+        }
+      }
+    },
+    "zh": {
+      "industryName": "医生",
+      "heroSubtitle": "为医生 and 诊所量身定制的网站、PWA 医疗应用及本地 SEO 优化。",
+      "title": "针对医生和诊所的网站及 IT 系统解决方案",
+      "description": "我们为医生和医疗专家设计现代网站、PWA 应用程序，并提供 SEO 定位服务。增加患者数量并实现挂号自动化。",
+      "about": "医疗行业需要信任、透明度和便利性。患者通常会在本地搜索医生、验证评价并期望能立即在线预约。我们的解决方案将安全的 PWA 系统、快速的信息网站和高效的 SEO 结合在一起。",
+      "series": {
+        "pwa": {
+          "title": "面向医生的专属 PWA 应用程序",
+          "desc": "我们基于 Next.js 和 Tailwind CSS 4.0 构建超快速的 PWA 网页应用，患者可将其安装在手机主屏幕上，用于即时查询出诊时间并接收推送通知。"
+        },
+        "wordpress": {
+          "title": "面向医疗行业的专业 WordPress 网站开发",
+          "desc": "我们基于 WordPress 搭建现代化、易于编辑的网站，方便诊所方便地更新博客、修改接诊时间和价格表。"
+        },
+        "seo": {
+          "title": "诊所和执业医生的谷歌 SEO 排名优化",
+          "desc": "我们确保您的诊所在当地的谷歌搜索结果中占据主导地位。我们优化谷歌商家信息（GBP）并实施 JSON-LD 结构化数据。"
+        }
+      }
+    }
+  }
+}

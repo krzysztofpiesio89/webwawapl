@@ -1,0 +1,139 @@
+{
+  "id": "lawyer",
+  "slugs": {
+    "pl": "prawnik",
+    "en": "lawyer",
+    "de": "anwalt",
+    "uk": "yuryst",
+    "ru": "yurist",
+    "zh": "lawyer"
+  },
+  "translations": {
+    "pl": {
+      "industryName": "Prawnik",
+      "heroSubtitle": "Dedykowane strony internetowe, aplikacje kancelaryjne PWA oraz pozycjonowanie lokalne dla prawników i kancelarii.",
+      "title": "Strony internetowe i systemy IT dla prawników i kancelarii prawnych",
+      "description": "Projektujemy profesjonalne strony www, aplikacje PWA oraz prowadzimy pozycjonowanie SEO dla prawników, adwokatów i kancelarii. Zbuduj zaufanie i pozyskaj klientów.",
+      "about": "Sektor prawny opiera się na autorytecie, zaufaniu i bezwzględnym profesjonalizmie. Klienci poszukujący pomocy prawnej często działają pod wpływem stresu, szukając wiarygodnych informacji i szybkiego kontaktu. Nasze rozwiązania łączą bezpieczne witryny zgodne z etyką zawodu, szybkie platformy Next.js oraz pozycjonowanie lokalne w Google, co pozwala budować pozycję lidera i skutecznie pozyskiwać kluczowe sprawy.",
+      "series": {
+        "pwa": {
+          "title": "Dedykowane Aplikacje PWA dla Kancelarii",
+          "desc": "Tworzymy super-szybkie aplikacje webowe PWA (Next.js i Tailwind CSS), które klienci mogą dodać do ekranu głównego. Umożliwiają one bezpieczne przesyłanie dokumentów, powiadomienia o statusie spraw oraz integrację z kalendarzem."
+        },
+        "wordpress": {
+          "title": "Profesjonalne Strony WordPress dla Prawników",
+          "desc": "Budujemy nowoczesne, responsywne strony oparte o WordPress, ułatwiające samodzielne prowadzenie bloga eksperckiego, aktualizację zakresu usług, cennika porad oraz publikowanie opinii."
+        },
+        "seo": {
+          "title": "Pozycjonowanie SEO & Google Maps Kancelarii",
+          "desc": "Zapewniamy dominację w wynikach wyszukiwania w Twoim mieście. Pozycjonujemy na precyzyjne frazy intencyjne, optymalizujemy profil Google Moja Firma i wdrażamy struktury Schema JSON-LD dla branży prawnej."
+        }
+      }
+    },
+    "en": {
+      "industryName": "Lawyer",
+      "heroSubtitle": "Custom websites, legal PWA applications, and local SEO for lawyers and law firms.",
+      "title": "Websites and IT Systems for Lawyers and Law Firms",
+      "description": "We design professional websites, PWA applications, and run SEO positioning for lawyers, advocates, and law firms. Build trust and acquire clients.",
+      "about": "The legal sector relies on authority, trust, and absolute professionalism. Clients looking for legal assistance often act under stress, seeking reliable information and quick contact. Our solutions combine secure websites compliant with professional ethics, fast Next.js platforms, and local Google SEO, building a leading market position and acquiring key cases.",
+      "series": {
+        "pwa": {
+          "title": "Dedicated PWA Applications for Law Firms",
+          "desc": "We build super-fast PWA web apps based on Next.js and Tailwind CSS that clients can install on home screens. They enable secure document sharing, case status alerts, and calendar integration."
+        },
+        "wordpress": {
+          "title": "Professional WordPress Sites for Lawyers",
+          "desc": "We build modern, responsive WordPress websites, making it simple to manage an expert legal blog, update office services, consultation pricing, and client reviews."
+        },
+        "seo": {
+          "title": "SEO Positioning & Google Maps for Law Firms",
+          "desc": "We secure ranking dominance in Google searches in your local area. We target high-intent keywords, optimize your Google Business profile, and implement structured legal Schema JSON-LD."
+        }
+      }
+    },
+    "de": {
+      "industryName": "Anwalt",
+      "heroSubtitle": "Maßgeschneiderte Websites, juristische PWA-Anwendungen und lokales SEO für Anwälte und Kanzleien.",
+      "title": "Websites und IT-Systeme für Anwälte und Anwaltskanzleien",
+      "description": "Wir entwickeln professionelle Websites, PWA-Apps und führen SEO-Optimierungen für Anwälte, Rechtsanwälte und Kanzleien durch. Gewinnen Sie Mandanten.",
+      "about": "Der Rechtssektor basiert auf Autorität, Vertrauen und absoluter Professionalität. Mandanten, die rechtlichen Beistand suchen, tun dies oft unter Stress und erwarten verlässliche Informationen. Unsere Lösungen verbinden sichere, standesrechtlich konforme Webauftritte, schnelle Next.js-Plattformen und lokales SEO.",
+      "series": {
+        "pwa": {
+          "title": "Dedizierte PWA-Apps für Anwaltskanzleien",
+          "desc": "Wir erstellen superschnelle PWA-Anwendungen auf Basis von Next.js, die einen sicheren Dokumentenaustausch, Fallstatus-Benachrichtigungen und Kalender-Verknüpfungen ermöglichen."
+        },
+        "wordpress": {
+          "title": "Professionelle WordPress-Websites für Anwälte",
+          "desc": "Wir bauen moderne, responsive WordPress-Seiten zur einfachen Pflege von Fachblogs, Leistungsbeschreibungen, Beratungshonoraren und Mandantenbewertungen."
+        },
+        "seo": {
+          "title": "SEO & Google Maps Optimierung für Kanzleien",
+          "desc": "Wir sorgen für Ihre lokale Google-Sichtbarkeit. Wir optimieren Ihr Google Business Profil und implementieren strukturiertes Schema JSON-LD für Juristen."
+        }
+      }
+    },
+    "uk": {
+      "industryName": "Юрист",
+      "heroSubtitle": "Сучасні веб-сайти, спеціалізовані PWA-додатки та локальне SEO для юристів та адвокатських об'єднань.",
+      "title": "Веб-сайти та IT-системи для юристів та адвокатських компаній",
+      "description": "Проектуємо професійні сайти, PWA-додатки та здійснюємо SEO-просування для юристів, адвокатів та нотаріусів. Залучайте більше клієнтів та автоматизуйте роботу.",
+      "about": "Юридичний сектор базується на авторитеті, довірі та бездоганному професіоналізмі. Клієнти, які шукають правову допомогу, очікують надійних відповідей та швидкого зв'язку. Наші рішення поєднують безпечні сайти, швидкі платформи Next.js та ефективне локальне SEO.",
+      "series": {
+        "pwa": {
+          "title": "Спеціалізовані PWA-додатки для юридичних фірм",
+          "desc": "Створюємо швидкі PWA-додатки на Next.js та Tailwind CSS, які клієнти можуть додати на екран телефону для захищеного надсилання документів та відстеження справ."
+        },
+        "wordpress": {
+          "title": "Професійні сайти на WordPress для юристів",
+          "desc": "Будуємо сучасні сайти на WordPress для експертного блогу, оновлення переліку послуг та цін консультацій."
+        },
+        "seo": {
+          "title": "SEO-просування та Google карти для юристів",
+          "desc": "Забезпечуємо домінування у видачі Google у вашому місті. Оптимізуємо профіль Google Business та впроваджуємо структури Schema JSON-LD."
+        }
+      }
+    },
+    "ru": {
+      "industryName": "Юрист",
+      "heroSubtitle": "Современные веб-сайты, специализированные PWA-приложения и локальное SEO для юристов и адвокатских кабинетов.",
+      "title": "Веб-сайты и IT-системы для юристов и адвокатских компаний",
+      "description": "Проектируем профессиональные сайты, PWA-приложения и осуществляем SEO-продвижение для юристов, адвокатов и нотариусов. Привлекайте клиентов.",
+      "about": "Юридический сектор держится на авторитете, доверии и высоком профессионализме. Клиенты, ищущие юридическую помощь, рассчитывают на конфиденциальность и надежность. Наши решения сочетают защищенные сайты, быстрые Next.js платформы и локальное SEO.",
+      "series": {
+        "pwa": {
+          "title": "Специализированные PWA-приложения для адвокатов",
+          "desc": "Создаем быстрые PWA-приложения на базе Next.js, позволяющие безопасно обмениваться документами, получать уведомления о ходе дела и интегрировать календарь."
+        },
+        "wordpress": {
+          "title": "Профессиональные сайты на WordPress для юристов",
+          "desc": "Строим современные сайты на WordPress для ведения экспертного юридического блога, удобного обновления услуг и прайс-листов."
+        },
+        "seo": {
+          "title": "SEO-продвижение и Google карты для юристов",
+          "desc": "Обеспечиваем лидерство в поисковой выдаче в вашем городе. Оптимизируем карточку Google Business и внедряем микроразметку Schema JSON-LD."
+        }
+      }
+    },
+    "zh": {
+      "industryName": "律师",
+      "heroSubtitle": "为律师与律师事务所定制开发的网站、法律 PWA 应用程序及本地 SEO 优化方案。",
+      "title": "针对律师及律师事务所的网站和 IT 系统解决方案",
+      "description": "我们为律师、倡导者及律所设计专业网站、开发 PWA 应用并提供 SEO 定位服务。树立信誉并高效拓展案源。",
+      "about": "法律行业依赖于权威、信任和绝对的专业度。寻求法律援助的客户往往处于焦虑中，他们期望能获得可靠的信息和迅速的响应。我们的解决方案将符合执业伦理的安全网站、快速的 Next.js 平台和本地谷歌 SEO 完美结合。",
+      "series": {
+        "pwa": {
+          "title": "针对律师事务所的专属 PWA 应用程序",
+          "desc": "我们基于 Next.js 和 Tailwind CSS 构建超快速的 PWA 网页应用，客户可将其安装在手机主屏幕上，用于安全传输案卷、接收案件进展通知并与日历集成。"
+        },
+        "wordpress": {
+          "title": "针对律师及律所的专业 WordPress 网站开发",
+          "desc": "我们基于 WordPress 搭建现代化、响应式的网站，便于律师轻松打理专业法律博客、更新服务范围和咨询收费标准。"
+        },
+        "seo": {
+          "title": "律所和执业律师的谷歌 SEO 与地图排名优化",
+          "desc": "我们确保您的律所在当地谷歌搜索结果中占据主导地位。我们优化谷歌商家信息（GBP）并实施专门的法律行业 Schema JSON-LD 结构化数据。"
+        }
+      }
+    }
+  }
+}

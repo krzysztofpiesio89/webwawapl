@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Architekt krajobrazu",
+    "about": "Projektowanie ogrodów i terenów zieleni wymaga połączenia wiedzy botanicznej z techniczną. Strona architekta krajobrazu powinna prezentować wspaniałe galerie realizacji o różnych porach roku oraz opisywać etapy prac ziemnych i nasadzeń.",
+    "focus": "Kluczem do pozycjonowania są frazy lokalne (np. projektowanie ogrodów Warszawa, architekt krajobrazu) oraz poradniki o pielęgnacji i aranżacji zieleni wokół domu.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, z optymalizacją ciężkich portfolio i grafik.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla błyskawicznego potwierdzania konsultacji projektowych.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Baza realizacji w wysokiej rozdzielczości zoptymalizowana w formatach WebP/AVIF.",
+      "Interaktywna mapa projektowanych ogrodów i parków (React / Leaflet API).",
+      "Dedykowane formularze wyceny prac ogrodniczych i architektury krajobrazu."
+    ]
+  },
+  "en": {
+    "name": "Landscape Architect",
+    "about": "Garden and green space design requires combining botanical expertise with technical engineering. A landscape architect's website should display beautiful project galleries across seasons and describe structural work and planting stages.",
+    "focus": "The key to SEO conversion is local search keywords (e.g. garden design Warsaw, landscape architect near me) and guides on plant care and outdoor layouts.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, with portfolio image optimization.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant design consultation booking confirmations.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "High-resolution garden project showcase optimized in WebP/AVIF formats.",
+      "Interactive map of completed gardens and landscape projects (React / Leaflet API).",
+      "Dedicated pricing and estimation forms for landscaping and garden architecture."
+    ]
+  },
+  "de": {
+    "name": "Landschaftsarchitekt",
+    "about": "Die Planung von Gärten und Grünanlagen verbindet botanisches Wissen mit Technik. Die Website sollte Projektgalerien zu verschiedenen Jahreszeiten und die Phasen der Bepflanzung beschreiben.",
+    "focus": "Wichtig für SEO sind lokale Suchbegriffe (z. B. Gartenplanung Düsseldorf, Landschaftsarchitekt) und Pflegetipps.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, mit Portfolio-Bildoptimierung.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige Designberatungsterminbestätigungen.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Hochauflösende Präsentation von Gartenprojekten optimiert in WebP/AVIF-Formaten.",
+      "Interaktive Karte der realisierten Garten- und Landschaftsprojekte (React / Leaflet API).",
+      "Dedizierte Formulare für Baukostenschätzungen im Garten- und Landschaftsbau."
+    ]
+  },
+  "uk": {
+    "name": "Ландшафтний архітектор",
+    "about": "Проектування садів та зелених зон вимагає поєднання ботанічних знань з інженерними. Сайт ландшафтного архітектора повинен демонструвати красу проектів у різні пори року та описувати етапи посадки рослин.",
+    "focus": "Ефективне SEO базується на локальних запитах (наприклад, ландшафтний дизайн Київ, проектування садів) та статтях про догляд за рослинами.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, з оптимізацією портфоліо та зображень.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для миттєвого підтвердження записів на консультації.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Галерея ландшафтних проектів у високій роздільній здатності у форматах WebP/AVIF.",
+      "Інтерактивна карта спроектованих садів та паркових зон (React / Leaflet API).",
+      "Спеціалізовані форми прорахунку вартості ландшафтного дизайну та озеленення."
+    ]
+  },
+  "ru": {
+    "name": "Ландшафтный архитектор",
+    "about": "Проектирование садов и благоустройство участков объединяет знания ботаники и инженерии. Сайт ландшафтного архитектора должен показывать портфолио в разные сезоны года.",
+    "focus": "Продвижение строится на локальных запросах (например, ландшафтный дизайн участка) и публикации советов по уходу за садом.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, с оптимизацией портфолио и изображений.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для мгновенного подтверждения записей на консультации.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Галерея ландшафтных проектов в высоком разрешении в форматах WebP/AVIF.",
+      "Интерактивная карта спроектированных садов и парковых зон (React / Leaflet API).",
+      "Специализированные формы просчета стоимости ландшафтного дизайна и озеленения."
+    ]
+  },
+  "zh": {
+    "name": "景观建筑师",
+    "about": "园林与绿化空间设计要求将植物学学识与工程技术完美结合。景观建筑师的网站应当展示项目在不同季节的视觉效果，并详细描绘土石方施工与植被配置的各个阶段。",
+    "focus": "SEO 的关键在于锁定本地化服务词汇（如：华沙别墅庭院设计、绿化景观设计公司），并撰写关于植物养护和户外空间规划的实用文章。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，针对高精图集实施多重压缩优化。",
+      "深度集成短信网关（Twilio / SMSAPI），用于客户创意方案咨询与确认。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "采用 WebP/AVIF 等高性能媒体格式优化的超高清庭院景观规划实景画廊。",
+      "基于 React / Leaflet API 研发的交互式绿化工程与私家花园项目分布地图。",
+      "针对庭院土建、植物绿化及软装水景度身定制的在线预算表单。"
+    ]
+  }
+}

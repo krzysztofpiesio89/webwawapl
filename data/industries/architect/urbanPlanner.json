@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Urbanista",
+    "about": "Urbanistyka (planowanie przestrzenne) dotyczy analiz chłonności terenu, opracowań do planów miejscowych oraz koncepcji urbanistycznych. Profesjonalna witryna ułatwia kontakt z inwestorami instytucjonalnymi i deweloperami.",
+    "focus": "Skuteczne pozycjonowanie opiera się na frazach B2B powiązanych z analizami chłonności i podziałami (np. analizy chłonności działki Warszawa, koncepcje urbanistyczne) oraz na publikacjach eksperckich.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, z optymalizacją ciężkich portfolio i grafik.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla błyskawicznego potwierdzania konsultacji projektowych.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "System prezentacji planów zagospodarowania przestrzeni (pliki GeoJSON zintegrowane z Leaflet).",
+      "Szyfrowany, bezpieczny moduł pobierania dokumentacji i map planistycznych.",
+      "Wyszukiwarka działek i planów miejscowych zoptymalizowana pod kątem wydajności baz danych."
+    ]
+  },
+  "en": {
+    "name": "Urban Planner",
+    "about": "Urban planning covers land capacity analyses, local master plan developments, and urban concepts. A professional website simplifies contact with institutional investors and real estate developers.",
+    "focus": "Effective SEO is built around high-intent B2B keywords related to land planning (e.g. site capacity analysis Warsaw, urban planning consulting) and expert publications.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, with portfolio image optimization.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant design consultation booking confirmations.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Spatial planning showcase system (GeoJSON files integrated with Leaflet mapping).",
+      "Encrypted, secure download module for planning documents and land maps.",
+      "Land plot and zoning plan search utility optimized for database performance."
+    ]
+  },
+  "de": {
+    "name": "Stadtplaner",
+    "about": "Stadtplanung umfasst Bebauungsplanungen, Flächennutzungsanalysen und städtebauliche Konzepte. Eine professionelle Website erleichtert den Kontakt zu Projektentwicklern.",
+    "focus": "SEO-Erfolg beruht auf B2B-Suchbegriffen rund um die Baulandentwicklung und Erschließungsplanung.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, mit Portfolio-Bildoptimierung.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für sofortige Designberatungsterminbestätigungen.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Präsentationssystem für Raumordnungspläne (GeoJSON-Dateien integriert in Leaflet).",
+      "Verschlüsseltes, sicheres Download-Modul für Planungsunterlagen und Katasterkarten.",
+      "Suchwerkzeug für Grundstücke und Bebauungspläne optimiert für Datenbankgeschwindigkeit."
+    ]
+  },
+  "uk": {
+    "name": "Урбаніст",
+    "about": "Містобудування (урбаністика) охоплює аналіз території, розробку генеральних планів та містобудівних концепцій. Сайт полегшує залучення девелоперів та інституційних інвесторів.",
+    "focus": "Просування фокусується на B2B запитах містобудівного аналізу (наприклад, аналіз містобудівного потенціалу ділянки) та експертних статтях.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, з оптимізацією портфоліо та зображень.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для миттєвого підтвердження записів на консультації.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Система візуалізації просторового планування (файли GeoJSON, інтегровані з картами Leaflet).",
+      "Зашифрований безпечний модуль для завантаження документації та планувальних карт.",
+      "Пошук ділянок та кадастрових планів, оптимізований під швидку роботу баз даних."
+    ]
+  },
+  "ru": {
+    "name": "Урбанист",
+    "about": "Градостроительство (урбанистика) включает анализ эффективности земельных участков, разработку проектов планировки территорий. Сайт упрощает коммуникацию с девелоперами.",
+    "focus": "SEO ориентировано на B2B запросы анализа градостроительного потенциала участков (например, градостроительный аудит) и экспертные обзоры нормативов.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, с оптимизацией портфолио и изображений.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для мгновенного подтверждения записей на консультации.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Система визуализации пространственного планирования (файлы GeoJSON, интегрированные с картами Leaflet).",
+      "Зашифрованный безопасный модуль для загрузки документации и планировочных карт.",
+      "Поиск участков и кадастровых планов, оптимизированный под быструю работу баз данных."
+    ]
+  },
+  "zh": {
+    "name": "城市规划师",
+    "about": "城市规划与空间布局涉及地块开发可行性分析、控制性详细规划编制以及宏观都市设计概念。专业的网站极有助于与开发商、地产投资机构和政府部门建立业务往来。",
+    "focus": "SEO 推广的核心是锁定与土地开发分析相关的 B2B 词汇（如：地块开发容量分析、城市规划咨询），以及发布关于城市规划法规的专业解读。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，针对高精图集实施多重压缩优化。",
+      "深度集成短信网关（Twilio / SMSAPI），用于客户创意方案咨询与确认。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "空间规划成果可视化陈列系统（基于 Leaflet 渲染 GeoJSON 地理空间矢量文件）。",
+      "基于严格访问控制的加密规划设计说明书与红线图纸在线下载模块。",
+      "经过高并发数据库调优的规划地块与控制性详细规划方案在线检索小工具。"
+    ]
+  }
+}

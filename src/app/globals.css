@@ -1,20 +1,56 @@
 @import "tailwindcss";
 
+/* CSS Custom Properties for Aurora Animation */
+@property --a1 {
+  syntax: '<angle>';
+  initial-value: 0deg;
+  inherits: false;
+}
+@property --a2 {
+  syntax: '<angle>';
+  initial-value: 60deg;
+  inherits: false;
+}
+@property --a3 {
+  syntax: '<angle>';
+  initial-value: 120deg;
+  inherits: false;
+}
+
 /* Force Tailwind CSS v4 to only trigger dark variants if .dark class is explicitly present on HTML */
 @variant dark (&:where(.dark, .dark *));
 
 @theme {
-  --font-sans: var(--font-outfit), sans-serif;
-  --color-primary: #fbbf24;
-  --color-primary-dark: #f59e0b;
-  --color-secondary: #1f2937;
-  --color-accent: #ef4444;
+  --font-sans: "Roboto", sans-serif;
+  --color-primary: #3b82f6;
+  --color-primary-dark: #2563eb;
+  --color-secondary: #6366f1;
+  --color-accent: #8b5cf6;
 }
 
 @layer base {
   :root {
-    --background: #ffffff;
-    --text: #0f172a;
+    --background: #f8fafc; /* slate-50 */
+    --text: #0f172a; /* slate-900 */
+    --card-bg: rgba(255, 255, 255, 0.75);
+    --card-border: rgba(15, 23, 42, 0.08);
+    --header-bg: rgba(248, 250, 252, 0.8);
+    --header-border: rgba(15, 23, 42, 0.05);
+    --footer-bg: #f1f5f9; /* slate-100 */
+    --footer-border: rgba(15, 23, 42, 0.08);
+    --shadow-color: rgba(59, 130, 246, 0.08);
+  }
+
+  .dark {
+    --background: #020510; /* deep rich aurora night black/blue */
+    --text: #f3f4f6; /* slate-100 */
+    --card-bg: rgba(15, 23, 42, 0.45);
+    --card-border: rgba(255, 255, 255, 0.05);
+    --header-bg: rgba(2, 5, 16, 0.8);
+    --header-border: rgba(255, 255, 255, 0.05);
+    --footer-bg: #01030a; /* deep slate-950 */
+    --footer-border: rgba(255, 255, 255, 0.04);
+    --shadow-color: rgba(59, 130, 246, 0.15);
   }
 
   html {
@@ -26,23 +62,24 @@
     background-color: var(--background);
     color: var(--text);
     scroll-behavior: smooth;
+    transition: background-color 0.3s ease, color 0.3s ease;
   }
 }
 
 @layer components {
   .glass {
-    background: rgba(255, 255, 255, 0.85);
+    background: var(--header-bg);
     backdrop-filter: blur(12px);
-    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.05);
+    border-bottom: 1px solid var(--header-border);
+    transition: background-color 0.3s ease, border-color 0.3s ease;
   }
 
   .btn-primary {
-    @apply bg-amber-400 hover:bg-amber-500 text-gray-900 font-bold py-3 px-6 rounded-xl transition-all transform hover:scale-105 active:scale-95 shadow-lg hover:shadow-amber-400/50;
+    @apply bg-primary hover:bg-primary-dark text-white font-bold py-3 px-6 rounded-xl transition-all transform hover:scale-105 active:scale-95 shadow-lg hover:shadow-primary/30;
   }
 
   .btn-secondary {
-    @apply bg-gray-800 hover:bg-gray-700 text-white font-bold py-3 px-6 rounded-xl transition-all transform hover:scale-105 active:scale-95;
+    @apply bg-slate-900 hover:bg-slate-800 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-100 dark:text-slate-200 border border-slate-700/50 font-bold py-3 px-6 rounded-xl transition-all transform hover:scale-105 active:scale-95;
   }
 
   .section-title {
@@ -50,8 +87,8 @@
   }
 
   .gradient-text {
-    @apply bg-clip-text text-transparent bg-gradient-to-r from-amber-400 to-amber-600;
-    padding-right: 0.15em;
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-blue-400 via-indigo-400 to-purple-400;
+    padding-right: 0.05em;
   }
 
   .animate-fade-in {
@@ -63,10 +100,85 @@
   }
 
   .glass-card {
-    background: rgba(255, 255, 255, 0.95);
-    backdrop-filter: blur(10px);
-    border: 1px solid rgba(15, 23, 42, 0.08);
-    @apply p-8 rounded-3xl transition-all duration-300 hover:shadow-amber-400/20 hover:border-amber-400/50;
+    background: var(--card-bg);
+    backdrop-filter: blur(16px);
+    border: 1px solid var(--card-border);
+    @apply p-8 rounded-3xl transition-all duration-300 hover:border-primary/45;
+    box-shadow: 0 4px 30px var(--shadow-color);
+  }
+
+  /* ── Aurora curtains & stars classes ── */
+  .stars-bg {
+    background-image:
+      radial-gradient(1px 1px at 10% 15%, rgba(255,255,255,0.8) 0%, transparent 100%),
+      radial-gradient(1.2px 1.2px at 25% 35%, rgba(255,255,255,0.65) 0%, transparent 100%),
+      radial-gradient(1.5px 1.5px at 40% 10%, rgba(255,255,255,0.9) 0%, transparent 100%),
+      radial-gradient(1px 1px at 55% 25%, rgba(255,255,255,0.7) 0%, transparent 100%),
+      radial-gradient(1px 1px at 70% 5%, rgba(255,255,255,0.8) 0%, transparent 100%),
+      radial-gradient(1.5px 1.5px at 90% 15%, rgba(255,255,255,0.75) 0%, transparent 100%),
+      radial-gradient(1px 1px at 15% 55%, rgba(255,255,255,0.4) 0%, transparent 100%),
+      radial-gradient(1px 1px at 60% 50%, rgba(255,255,255,0.5) 0%, transparent 100%),
+      radial-gradient(1px 1px at 75% 65%, rgba(255,255,255,0.45) 0%, transparent 100%),
+      radial-gradient(1.5px 1.5px at 5% 80%, rgba(255,255,255,0.6) 0%, transparent 100%),
+      radial-gradient(2px 2px at 85% 90%, rgba(255,255,255,0.85) 0%, transparent 100%),
+      radial-gradient(1px 1px at 45% 85%, rgba(255,255,255,0.5) 0%, transparent 100%);
+    animation: twinkle 8s ease-in-out infinite alternate;
+  }
+
+  .aurora-container {
+    filter: blur(60px);
+    opacity: 0.75;
+    animation: auroraPulse 14s ease-in-out infinite alternate;
+  }
+
+  .aurora-band {
+    position: absolute;
+    width: 200%;
+    left: -50%;
+    border-radius: 50%;
+    transform-origin: center center;
+  }
+
+  .aurora-band-1 {
+    height: 55vh;
+    top: -10vh;
+    background: conic-gradient(from var(--a1) at 40% 60%,
+      transparent 0%,
+      rgba(0, 255, 204, 0.4) 15%,
+      rgba(59, 130, 246, 0.35) 30%,
+      transparent 45%,
+      rgba(99, 102, 241, 0.3) 60%,
+      transparent 75%
+    );
+    animation: band1 22s linear infinite;
+  }
+
+  .aurora-band-2 {
+    height: 60vh;
+    top: 5vh;
+    background: conic-gradient(from var(--a2) at 60% 40%,
+      transparent 0%,
+      rgba(139, 92, 246, 0.3) 10%,
+      rgba(0, 255, 204, 0.25) 25%,
+      transparent 40%,
+      rgba(59, 130, 246, 0.4) 55%,
+      transparent 70%
+    );
+    animation: band2 28s linear infinite reverse;
+  }
+
+  .aurora-band-3 {
+    height: 50vh;
+    top: -5vh;
+    background: conic-gradient(from var(--a3) at 30% 70%,
+      transparent 0%,
+      rgba(59, 130, 246, 0.3) 20%,
+      transparent 35%,
+      rgba(139, 92, 246, 0.25) 50%,
+      rgba(99, 102, 241, 0.35) 65%,
+      transparent 80%
+    );
+    animation: band3 26s linear infinite;
   }
 }
 
@@ -80,12 +192,66 @@
   }
 }
 
+/* Keyframe animations for Aurora Curtains rotation */
+@keyframes band1 { to { --a1: 360deg; } }
+@keyframes band2 { to { --a2: 420deg; } }
+@keyframes band3 { to { --a3: 480deg; } }
+
+@keyframes twinkle {
+  0%  { opacity: 0.65; }
+  50% { opacity: 0.9; }
+  100% { opacity: 0.45; }
+}
+
+@keyframes auroraPulse {
+  0%  { opacity: 0.55; filter: blur(65px); }
+  50% { opacity: 0.85; filter: blur(48px); }
+  100% { opacity: 0.65; filter: blur(75px); }
+}
+
 @keyframes pulse-slow {
-  0%, 100% { transform: scale(1); box-shadow: 0 0 0 rgba(251, 191, 36, 0); }
-  50% { transform: scale(1.05); box-shadow: 0 0 20px rgba(251, 191, 36, 0.5); }
+  0%, 100% { transform: scale(1); box-shadow: 0 0 0 rgba(59, 130, 246, 0); }
+  50% { transform: scale(1.03); box-shadow: 0 0 25px rgba(59, 130, 246, 0.45); }
 }
 
 @keyframes fade-in {
   from { opacity: 0; transform: translateY(20px); }
   to { opacity: 1; transform: translateY(0); }
+}
+
+/* ── Premium Vanilla Cookie Consent customization ── */
+#cc-main {
+  --cc-font-family: 'Roboto', sans-serif;
+  --cc-modal-border-radius: 1.5rem;
+  --cc-btn-border-radius: 0.75rem;
+  
+  /* Primary Button (Accept all) */
+  --cc-btn-primary-bg: #3b82f6; /* var(--color-primary) */
+  --cc-btn-primary-border-color: #3b82f6;
+  --cc-btn-primary-hover-bg: #2563eb; /* var(--color-primary-dark) */
+  --cc-btn-primary-hover-border-color: #2563eb;
+  
+  /* Secondary Button (Preferences / Necessary) */
+  --cc-btn-secondary-bg: #f1f5f9;
+  --cc-btn-secondary-border-color: #e2e8f0;
+  --cc-btn-secondary-hover-bg: #e2e8f0;
+  --cc-btn-secondary-hover-border-color: #cbd5e1;
+  --cc-btn-secondary-text: #334155;
+  --cc-btn-secondary-hover-text: #0f172a;
+}
+
+/* Dark mode overrides for buttons & modal */
+.cc--darkmode #cc-main {
+  --cc-btn-secondary-bg: #1e293b;
+  --cc-btn-secondary-border-color: #334155;
+  --cc-btn-secondary-hover-bg: #334155;
+  --cc-btn-secondary-hover-border-color: #475569;
+  --cc-btn-secondary-text: #f1f5f9;
+  --cc-btn-secondary-hover-text: #ffffff;
+  
+  /* Make the dark theme matching our dark mode */
+  --cc-bg: #090e1a;
+  --cc-modal-bg: #0c1322;
+  --cc-text: #e2e8f0;
+  --cc-title-text: #ffffff;
 }
