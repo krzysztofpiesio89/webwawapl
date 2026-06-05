@@ -114,7 +114,88 @@ export function proxy(request: NextRequest) {
                                firstSegment === 'sayt-dlya' || 
                                firstSegment === 'webseite-fuer';
 
-    // A. Przypadek ogólny (np. /branze/lekarz/ginekolog/strona-pwa)
+    // Custom check for Automotive with car details in URL segments
+    const resolvedBrandId = secondSegment ? getIndustryIdBySlug(secondSegment) : null;
+    if (isIndustriesParent && resolvedBrandId === 'automotive' && thirdSegment) {
+      const brandId = 'automotive';
+      const modelId = getProfessionIdBySlug(thirdSegment);
+      if (modelId) {
+        let serviceId = null;
+        let carSegments = segments.slice(3);
+        
+        if (carSegments.length > 0) {
+          const lastSegment = carSegments[carSegments.length - 1];
+          const resolvedService = getServiceIdBySlug(lastSegment);
+          if (resolvedService) {
+            serviceId = resolvedService;
+            carSegments = carSegments.slice(0, -1);
+          }
+        }
+
+        let citySlug = 'all';
+        let carBrandSlug = null;
+        let carModelSlug = null;
+        let carSeriesSlug = null;
+
+        if (carSegments.length > 0) {
+          const firstCarSegment = carSegments[0];
+          if (SUPPORTED_CITIES.includes(firstCarSegment) || firstCarSegment === 'all') {
+            citySlug = firstCarSegment;
+            if (carSegments[1]) carBrandSlug = carSegments[1];
+            if (carSegments[2]) carModelSlug = carSegments[2];
+            if (carSegments[3]) carSeriesSlug = carSegments[3];
+          } else {
+            carBrandSlug = firstCarSegment;
+            if (carSegments[1]) carModelSlug = carSegments[1];
+            if (carSegments[2]) carSeriesSlug = carSegments[2];
+          }
+        }
+
+        const url = request.nextUrl.clone();
+        let rewritePath = `/${currentLocale}/industries/${citySlug}/${brandId}/${modelId}`;
+        if (serviceId) {
+          rewritePath += `/${serviceId}`;
+        }
+        
+        url.pathname = rewritePath;
+        if (carBrandSlug) url.searchParams.set('carBrand', carBrandSlug);
+        if (carModelSlug) url.searchParams.set('carModel', carModelSlug);
+        if (carSeriesSlug) url.searchParams.set('carSeries', carSeriesSlug);
+
+        const finalResponse = NextResponse.rewrite(url);
+        responseCookiesToSet.forEach(cookie => {
+          finalResponse.cookies.set(cookie.name, cookie.value, { path: '/', maxAge: cookie.maxAge });
+        });
+        return finalResponse;
+      }
+    }
+
+    // A. Przypadek ogólny (np. /strona-dla/lekarz/ginekolog/strona-pwa)
+    // A1. Sprawdzamy najpierw /strona-dla/{branża}/{miasto} → strona lokalna branży
+    if (isIndustriesParent && secondSegment && thirdSegment) {
+      const brandId = getIndustryIdBySlug(secondSegment);
+      const isCitySegment = SUPPORTED_CITIES.includes(thirdSegment);
+      if (brandId && isCitySegment) {
+        // Format: /strona-dla/lekarz/mokotow → /pl/industries/mokotow/doctor
+        const modelId = fourthSegment ? getProfessionIdBySlug(fourthSegment) : null;
+        const fifthSegment = segments[4] || '';
+        const serviceId = fifthSegment ? getServiceIdBySlug(fifthSegment) : null;
+
+        const url = request.nextUrl.clone();
+        let rewritePath = `/${currentLocale}/industries/${thirdSegment}/${brandId}`;
+        if (modelId) rewritePath += `/${modelId}`;
+        if (serviceId) rewritePath += `/${serviceId}`;
+
+        url.pathname = rewritePath;
+        const finalResponse = NextResponse.rewrite(url);
+        responseCookiesToSet.forEach(cookie => {
+          finalResponse.cookies.set(cookie.name, cookie.value, { path: '/', maxAge: cookie.maxAge });
+        });
+        return finalResponse;
+      }
+    }
+
+    // A2. Przypadek ogólny bez miasta (np. /strona-dla/lekarz/ginekolog/strona-pwa)
     if (isIndustriesParent && secondSegment) {
       const brandId = getIndustryIdBySlug(secondSegment);
       if (brandId) {

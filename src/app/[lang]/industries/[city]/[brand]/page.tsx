@@ -12,8 +12,77 @@ import {
   industrySlugsMap, 
   professionSlugsMap, 
   IndustryId, 
-  ProfessionId 
+  ProfessionId,
+  industryModelsMap
 } from '@/lib/industries-list';
+
+// Key Warsaw districts + nearby cities for regional SEO links
+const KEY_LOCATIONS = [
+  { slug: 'mokotow', name: 'Mokotów' },
+  { slug: 'wola', name: 'Wola' },
+  { slug: 'srodmiescie', name: 'Śródmieście' },
+  { slug: 'ursynow', name: 'Ursynów' },
+  { slug: 'bialoleka', name: 'Białołęka' },
+  { slug: 'bemowo', name: 'Bemowo' },
+  { slug: 'ochota', name: 'Ochota' },
+  { slug: 'wilanow', name: 'Wilanow' },
+  { slug: 'zoliborz', name: 'Żoliborz' },
+  { slug: 'bielany', name: 'Bielany' },
+  { slug: 'legionowo', name: 'Legionowo' },
+  { slug: 'pruszkow', name: 'Pruszków' },
+  { slug: 'piaseczno', name: 'Piaseczno' },
+  { slug: 'otwock', name: 'Otwock' },
+  { slug: 'konstancin-jeziorna', name: 'Konstancin' },
+  { slug: 'lomianki', name: 'Łomianki' },
+  { slug: 'wolomin', name: 'Wołomin' },
+  { slug: 'marki-miasto', name: 'Marki' },
+];
+
+// Related industries map for cross-linking
+const RELATED_INDUSTRIES: Record<IndustryId, IndustryId[]> = {
+  doctor: ['psychologist', 'beauty'],
+  lawyer: ['accountant'],
+  psychologist: ['doctor', 'beauty'],
+  accountant: ['lawyer'],
+  architect: ['construction'],
+  construction: ['architect'],
+  beauty: ['psychologist'],
+  automotive: [],
+};
+
+// Brand-level UI translation strings
+const BRAND_UI = {
+  pl: {
+    locationsHeading: (ind: string) => `${ind} – usługi w Warszawie i okolicach`,
+    relatedHeading: 'Podobne branże i usługi IT',
+    disclaimer: (ind: string) => `webwawa.pl – projektujemy strony WWW i systemy IT dla branży: ${ind} w Warszawie i regionie mazowieckim. Powyższe linki prowadzą do dedykowanych ofert lokalnych.`,
+  },
+  en: {
+    locationsHeading: (ind: string) => `${ind} – services in Warsaw & surrounding area`,
+    relatedHeading: 'Related industries & IT services',
+    disclaimer: (ind: string) => `webwawa.pl – we build websites & IT systems for ${ind} businesses in Warsaw and the Masovian region.`,
+  },
+  de: {
+    locationsHeading: (ind: string) => `${ind} – Dienste in Warschau & Umgebung`,
+    relatedHeading: 'Verwandte Branchen & IT-Dienste',
+    disclaimer: (ind: string) => `webwawa.pl – Websites & IT-Systeme für ${ind} in Warschau und der Masowischen Region.`,
+  },
+  uk: {
+    locationsHeading: (ind: string) => `${ind} – послуги у Варшаві та околицях`,
+    relatedHeading: 'Схожі галузі та IT-послуги',
+    disclaimer: (ind: string) => `webwawa.pl – розробляємо сайти та IT-системи для галузі ${ind} у Варшаві та Мазовії.`,
+  },
+  ru: {
+    locationsHeading: (ind: string) => `${ind} – услуги в Варшаве и окрестностях`,
+    relatedHeading: 'Похожие отрасли и IT-услуги',
+    disclaimer: (ind: string) => `webwawa.pl – разрабатываем сайты и IT-системы для сферы ${ind} в Варшаве и Мазовецком регионе.`,
+  },
+  zh: {
+    locationsHeading: (ind: string) => `${ind} – 华沙及周边地区服务`,
+    relatedHeading: '相关行业与IT服务',
+    disclaimer: (ind: string) => `webwawa.pl – 为华沙及马佐得天山地区${ind}企业提供网站开发与IT系统服务。`,
+  },
+} as const;
 
 interface PageProps {
   params: Promise<{
@@ -36,7 +105,7 @@ export async function generateStaticParams() {
     'sulejowek', 'grodzisk-mazowiecki', 'nowy-dwor-mazowiecki', 'minsk-mazowiecki',
     'lomianki', 'ozarow-mazowiecki', 'nadarzyn', 'warszawa'
   ];
-  const brands = ['doctor', 'lawyer', 'psychologist', 'accountant', 'architect', 'construction', 'beauty'];
+  const brands = ['doctor', 'lawyer', 'psychologist', 'accountant', 'architect', 'construction', 'beauty', 'automotive'];
   
   const paramsList = [];
   for (const lang of langs) {
@@ -350,6 +419,86 @@ export default async function IndustryBrandPage({ params }: PageProps) {
           />
         </div>
       </section>
+
+      {/* SEO Internal Link Cloud */}
+      {brandId !== 'automotive' && (() => {
+        const bt = BRAND_UI[lang as keyof typeof BRAND_UI] || BRAND_UI.en;
+        const relatedIds = RELATED_INDUSTRIES[brandId as IndustryId] || [];
+
+        return (
+          <section className="py-14 bg-white dark:bg-slate-950 border-t border-slate-200 dark:border-slate-900/50">
+            <div className="container mx-auto px-4 max-w-5xl space-y-10">
+
+              {/* Block 1: Locations – same industry across districts */}
+              <div>
+                <div className="flex items-center gap-3 mb-5">
+                  <span className="text-2xl">📍</span>
+                  <h2 className="text-lg font-black uppercase italic tracking-tight text-slate-800 dark:text-white">
+                    {bt.locationsHeading(trans.industryName)}
+                  </h2>
+                </div>
+                <div className="flex flex-wrap gap-2">
+                  {KEY_LOCATIONS.map(loc => (
+                    <Link
+                      key={loc.slug}
+                      href={`${langPrefix}/${parentSlug}/${brandSlug}/${loc.slug}`}
+                      className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-xs font-semibold text-slate-600 dark:text-slate-400 hover:border-primary/60 hover:text-primary hover:bg-primary/5 transition-all duration-150"
+                    >
+                      <svg className="w-3 h-3 text-primary" fill="currentColor" viewBox="0 0 20 20">
+                        <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
+                      </svg>
+                      {loc.name}
+                    </Link>
+                  ))}
+                </div>
+              </div>
+
+              {/* Block 2: Related industries */}
+              {relatedIds.length > 0 && (() => {
+                const relatedItems = relatedIds
+                  .map(rid => {
+                    const relIndustry = getIndustryById(rid);
+                    if (!relIndustry) return null;
+                    const relTrans = relIndustry.translations[lang as Locale];
+                    if (!relTrans) return null;
+                    const relSlug = industrySlugsMap[rid][lang as Locale];
+                    return { name: relTrans.industryName, slug: relSlug, id: rid };
+                  })
+                  .filter(Boolean) as { name: string; slug: string; id: string }[];
+
+                if (relatedItems.length === 0) return null;
+                return (
+                  <div>
+                    <div className="flex items-center gap-3 mb-5">
+                      <span className="text-2xl">🔗</span>
+                      <h2 className="text-lg font-black uppercase italic tracking-tight text-slate-800 dark:text-white">
+                        {bt.relatedHeading}
+                      </h2>
+                    </div>
+                    <div className="flex flex-wrap gap-3">
+                      {relatedItems.map(ri => (
+                        <Link
+                          key={ri.id}
+                          href={`${langPrefix}/${parentSlug}/${ri.slug}`}
+                          className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-sm font-bold text-slate-700 dark:text-slate-300 hover:border-primary/60 hover:text-primary hover:bg-primary/5 transition-all duration-150"
+                        >
+                          {ri.name} →
+                        </Link>
+                      ))}
+                    </div>
+                  </div>
+                );
+              })()}
+
+              {/* Disclaimer */}
+              <p className="text-xs text-slate-400 dark:text-slate-600 text-center pt-2 border-t border-slate-100 dark:border-slate-900">
+                {bt.disclaimer(trans.industryName)}
+              </p>
+
+            </div>
+          </section>
+        );
+      })()}
     </main>
   );
 }

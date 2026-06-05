@@ -1,0 +1,79 @@
+{
+  "pl": {
+    "name": "Mechanika pojazdowa",
+    "about": "Warsztaty samochodowe i serwisy niezależne potrzebują witryn budujących zaufanie poprzez referencje, prezentację profesjonalnego sprzętu oraz łatwy wybór wolnego terminu naprawy.",
+    "focus": "Lokalne pozycjonowanie w Google Maps, frazy geolokalizacyjne (np. dobry mechanik Mokotów, serwis hamulców Warszawa) oraz dynamiczne oznaczania Schema AutoRepair.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, bez zbędnych bibliotek blokujących wątek.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego zgłaszania awarii i umawiania wizyt.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Aplikacja do rezerwacji online terminów wizyt (wybór usługi, stanowiska warsztatowego i mechanika).",
+      "Panel powiadomień SMS o statusie naprawy (przyjęcie pojazdu, diagnostyka, auto gotowe do odbioru).",
+      "Zintegrowana baza wiedzy o kodach błędów OBD2 i częstych usterkach powiązanych z modelami."
+    ]
+  },
+  "en": {
+    "name": "Car Repair & Mechanic",
+    "about": "Auto repair shops and independent garages need websites that build credibility through customer reviews, highlights of advanced diagnostic equipment, and simple booking.",
+    "focus": "Local map SEO rankings, geo-targeted keywords (e.g. best car mechanic near me, brake service Warsaw) and structured Schema.org AutoRepair implementation.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, without thread-blocking libraries.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant alerts and booking notifications.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Online appointment scheduling app (selecting service, garage bay, and mechanic).",
+      "SMS notification dashboard for repair status alerts (intake, diagnostics, vehicle ready for pickup).",
+      "Integrated knowledge base of OBD2 trouble codes and model-specific fault directories."
+    ]
+  },
+  "de": {
+    "name": "Kfz-Werkstatt",
+    "about": "Autowerkstätten und freie Kfz-Betriebe benötigen Websites, die durch Kundenbewertungen, moderne Diagnosegeräte und eine einfache Terminabsprache Vertrauen aufbauen.",
+    "focus": "Lokales SEO in Google Maps, standortbezogene Suchanfragen (z. B. Autowerkstatt München, Ölwechsel in der Nähe) und strukturierte AutoRepair Schema Daten.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, ohne den Thread blockierende Bibliotheken.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für Notfall- und Buchungsalarme in Echtzeit.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Online-Terminplanungs-App (Auswahl von Service, Werkstattbühne und Mechaniker).",
+      "Integrierte Wissensdatenbank für OBD2-Fehlercodes und modellspezifische Mängelkataloge."
+    ]
+  },
+  "uk": {
+    "name": "Автосервіс та СТО",
+    "about": "Автомайстерні та незалежні СТО потребують сайтів, які викликають довіру завдяки відгукам клієнтів, фото сучасного обладнання та легкій формі запису на обслуговування.",
+    "focus": "Локальне просування в Google Maps, гео-запити (наприклад, кращий автомеханік Поділ, заміна гальм Київ) та налаштування розмітки Schema AutoRepair.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, без бібліотек, які блокують потік.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для моментальних сповіщень та записів.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Додаток для онлайн-запису на СТО (вибір послуги, ремонтного боксу та майстра-механіка).",
+      "Панель SMS-сповіщень про статус ремонту (прийнято, діагностика, авто готове до видачі).",
+      "Інтегрована база знань щодо кодів помилок OBD2 та частих несправностей конкретних моделей."
+    ]
+  },
+  "ru": {
+    "name": "Автосервис и СТО",
+    "about": "Автомастерские и независимые СТО нуждаются в сайтах, вызывающих доверие благодаря отзывам клиентов, фото современного оборудования и легкой форме записи на обслуживание.",
+    "focus": "Локальное продвижение в Google Maps, гео-запросы (например, хороший автомеханик центр, замена тормозов Москва) и настройка разметки Schema AutoRepair.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, без блокирующих поток библиотек.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для моментальных уведомлений и записей.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Приложение для онлайн-записи на СТО (выбор услуги, ремонтного бокса и мастера-механика).",
+      "Панель SMS-оповещений о статусе ремонта (принято, диагностика, авто готово к выдаче).",
+      "Интегрированная база знаний по кодам ошибок OBD2 и частым неисправностям конкретных моделей."
+    ]
+  },
+  "zh": {
+    "name": "汽车维修与保养",
+    "about": "汽修厂、独立养护工坊和汽车美容中心需要高度注重公信力的官方网站，重点展示车主好评、先进的检测诊断仪器，以及极其方便的工位预约挂号。",
+    "focus": "核心是同城谷歌地图（GBP）本地排名、精细划分的地理词（如：口碑好汽修师傅、华沙更换刹车片）以及 AutoRepair 专属 Schema 微数据配置。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，杜绝任何阻塞主线程的冗余库。",
+      "深度集成短信网关（Twilio / SMSAPI），用于即时提醒与预约通知。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "支持按工种、维保工位及指定技师进行在线自助预约的汽修厂排班预约系统。",
+      "支持短信自动通报车辆状态（已接车、诊断中、维修中、等待取车）的短信看板。",
+      "集成 OBD2 故障代码解析数据库及特定品牌车型的常见问题维保知识库。"
+    ]
+  }
+}

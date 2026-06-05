@@ -90,6 +90,8 @@ export interface ModelInfo {
 export interface SeriesInfo {
   name: string;
   years: string;
+  specs?: any;
+  wiki?: any;
 }
 
 // ── Public API ──────────────────────────────────────────────────────────────
@@ -114,6 +116,8 @@ export function getAllBrands(): BrandInfo[] {
         series: (f.models[modelName] || []).map((s: any) => ({
           name: String(s["Serie Name"] || s.name || "N/A"),
           years: String(s["Years"] || s.years || "N/A"),
+          specs: s.specs || null,
+          wiki: s.specs?.wiki || null,
         })),
       })),
     };

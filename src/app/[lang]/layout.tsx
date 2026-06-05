@@ -124,13 +124,13 @@ export default async function RootLayout(props: Readonly<{
           id="ldjson-root"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
+      </head>
+      <body className="font-sans antialiased" suppressHydrationWarning>
         <Script
           id="theme-detect"
           src="/theme-detect.js"
           strategy="beforeInteractive"
         />
-      </head>
-      <body className="font-sans antialiased" suppressHydrationWarning>
         <Script id="gtm-script" strategy="afterInteractive">
           {`
             window.dataLayer = window.dataLayer || [];

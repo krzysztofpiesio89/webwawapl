@@ -1765,6 +1765,166 @@ const specsData = {
       "部署基于 Cloudinary Video 编码调优的动作库小视频播放器，保障手机弱网下极速播放且省流量。",
       "配置专属的 LocalBusiness Schema JSON-LD，关联私教社交账号及一对一专属私教课时价格。"
     ]
+  },
+  carRental: {
+    pl: [
+      "Interaktywny system rezerwacji pojazdów z wyborem terminów i dynamicznym wyliczaniem stawek dobowych.",
+      "Integracja bramki płatniczej Stripe oraz automatycznego generowania umów najmu w PDF.",
+      "System weryfikacji tożsamości klienta i skanowania dokumentów tożsamości zoptymalizowany pod mobile."
+    ],
+    en: [
+      "Interactive car booking system with date picker and dynamic daily rate calculation.",
+      "Stripe payment gateway integration and automated PDF rental agreement generation.",
+      "Mobile-optimized customer identity verification and driver's license scanning system."
+    ],
+    de: [
+      "Interaktives Fahrzeugbuchungssystem mit Datumsauswahl und dynamischer Berechnung der Tagespreise.",
+      "Stripe-Zahlungsschnittstelle und automatische PDF-Mietvertragserstellung.",
+      "Mobiloptimiertes System zur Kundenidentitätsprüfung und zum Scannen von Führerscheinen."
+    ],
+    uk: [
+      "Інтерактивна система бронювання авто з вибором дат та динамічним розрахунком добових тарифів.",
+      "Інтеграція платіжного шлюзу Stripe та автоматична генерація договорів оренди в PDF.",
+      "Оптимізована під мобільні пристрої система перевірки особи та сканування посвідчень водія."
+    ],
+    ru: [
+      "Интерактивная система бронирования автомобилей с выбором дат и динамическим расчетом посуточных тарифов.",
+      "Интеграция платежного шлюза Stripe и автоматическое формирование договоров аренды в PDF.",
+      "Оптимизированная под мобильные устройства система верификации личности и сканирования прав."
+    ],
+    zh: [
+      "集成在线订车与租期选择功能的交互式租车系统，支持动态计算日租金率。",
+      "对接 Stripe 在线支付网关，并支持自动渲染生成 PDF 格式电子租车合同。",
+      "专为移动端优化的在线身份及驾照识别与合规审核模块。"
+    ]
+  },
+  leasing: {
+    pl: [
+      "Zaawansowany kalkulator rat leasingowych i kredytowych z opcją dopasowania wpłaty własnej i wykupu.",
+      "Integracja z API banków oraz systemów Scoringu do błyskawicznego sprawdzania zdolności leasingowej.",
+      "Wieloetapowy, bezpieczny formularz wniosku online z szyfrowaniem SSL i obsługą podpisów e-signature."
+    ],
+    en: [
+      "Advanced lease and credit calculator with customizable down payment and buyout variables.",
+      "Integrations with banking APIs and credit scoring systems for instant leasing approvals.",
+      "Multi-step secure online application form with SSL encryption and e-signature support."
+    ],
+    de: [
+      "Erweiterter Leasing- und Kreditrechner mit anpassbaren Anzahlungs- und Restwertoptionen.",
+      "Anbindung an Banken-APIs und Scoring-Systeme für sofortige Leasingzusagen.",
+      "Mehrstufiges, sicheres Online-Bewerbungsformular mit SSL-Verschlüsselung und E-Signatur-Unterstützung."
+    ],
+    uk: [
+      "Розширений калькулятор лізингу та кредиту з гнучкими параметрами першого внеску та викупу.",
+      "Інтеграція з банківськими API та системами кредитного скорингу для швидкого схвалення лізингу.",
+      "Багатокрокова захищена форма онлайн-заявки з шифруванням SSL та підтримкою електронного підпису."
+    ],
+    ru: [
+      "Продвинутый калькулятор лизинга и кредита с гибкими параметрами первоначального взноса и выкупа.",
+      "Интеграция с банковскими API и системами кредитного скоринга для быстрого одобрения лизинга.",
+      "Пошаговая защищенная форма онлайн-заявки с шифрованием SSL и поддержкой электронной подписи."
+    ],
+    zh: [
+      "支持自定义首付比例、期限及尾款的融资租赁与分期付款智能计算器。",
+      "对接银行及征信 API 接口，实现秒级在线租赁额度预授信与风控评估。",
+      "采用安全 SSL 加密技术且支持电子签名的多步骤线上租车申请表单。"
+    ]
+  },
+  carBuying: {
+    pl: [
+      "System natychmiastowej, algorytmicznej wyceny pojazdu na podstawie rocznika, marki i stanu technicznego.",
+      "Szybka integracja ze smartfonem umożliwiająca dodawanie zdjęć auta bezpośrednio z aparatu klienta.",
+      "Zintegrowana mapa z geolokalizacją GPS do planowania darmowego dojazdu lawety pod wskazany adres."
+    ],
+    en: [
+      "Instant algorithmic vehicle valuation system based on year, brand, and mechanical condition.",
+      "Quick mobile integration allowing customers to upload vehicle photos directly from their camera.",
+      "Integrated map with GPS geolocation for scheduling free tow truck pickup at the user's location."
+    ],
+    de: [
+      "Sofortiges algorithmisches Fahrzeugbewertungssystem basierend auf Baujahr, Marke und Zustand.",
+      "Schnelle mobile Integration zum direkten Hochladen von Fahrzeugfotos über die Smartphone-Kamera.",
+      "Integrierte Karte mit GPS-Geolokalisierung zur Planung der kostenlosen Abschleppwagen-Abholung."
+    ],
+    uk: [
+      "Система миттєвої алгоритмічної оцінки авто на основі року випуску, марки та технічного стану.",
+      "Швидка мобільна інтеграція для завантаження фотографій автомобіля прямо з камери смартфона.",
+      "Інтегрована карта з GPS-геолокацією для виклику безкоштовного евакуатора за адресою клієнта."
+    ],
+    ru: [
+      "Система мгновенной алгоритмической оценки авто на основе года выпуска, марки и состояния.",
+      "Быстрая мобильная интеграция для загрузки фотографий автомобиля прямо с камеры смартфона.",
+      "Интегрированная карта с GPS-геолокацией для заказа бесплатного эвакуатора по адресу клиента."
+    ],
+    zh: [
+      "基于车型年份、品牌和车况的在线智能秒级二手车估值与报价算法。",
+      "深度兼容手机端，支持客户直接拍摄并上传车辆内外饰高清照片。",
+      "集成基于 GPS 的电子地图，用于一键预约免费拖车上门回收与报废服务。"
+    ]
+  },
+  mechanic: {
+    pl: [
+      "Aplikacja do rezerwacji online terminów wizyt (wybór usługi, stanowiska warsztatowego i mechanika).",
+      "Panel powiadomień SMS o statusie naprawy (przyjęcie pojazdu, diagnostyka, auto gotowe do odbioru).",
+      "Zintegrowana baza wiedzy o kodach błędów OBD2 i częstych usterkach powiązanych z modelami."
+    ],
+    en: [
+      "Online appointment scheduling app (selecting service, garage bay, and mechanic).",
+      "SMS notification dashboard for repair status alerts (intake, diagnostics, vehicle ready for pickup).",
+      "Integrated knowledge base of OBD2 trouble codes and model-specific fault directories."
+    ],
+    de: [
+      "Online-Terminplanungs-App (Auswahl von Service, Werkstattbühne und Mechaniker).",
+      "SMS-Benachrichtigungs-Dashboard für Reparaturstatus-Updates (Eingang, Diagnose, abholbereit).",
+      "Integrierte Wissensdatenbank für OBD2-Fehlercodes und modellspezifische Mängelkataloge."
+    ],
+    uk: [
+      "Додаток для онлайн-запису на СТО (вибір послуги, ремонтного боксу та майстра-механіка).",
+      "Панель SMS-сповіщень про статус ремонту (прийнято, діагностика, авто готове до видачі).",
+      "Інтегрована база знань щодо кодів помилок OBD2 та частих несправностей конкретних моделей."
+    ],
+    ru: [
+      "Приложение для онлайн-записи на СТО (выбор услуги, ремонтного бокса и мастера-механика).",
+      "Панель SMS-оповещений о статусе ремонта (принято, диагностика, авто готово к выдаче).",
+      "Интегрированная база знаний по кодам ошибок OBD2 и частым неисправностям конкретных моделей."
+    ],
+    zh: [
+      "支持按工种、维保工位及指定技师进行在线自助预约的汽修厂排班预约系统。",
+      "支持短信自动通报车辆状态（已接车、诊断中、维修中、等待取车）的短信看板。",
+      "集成 OBD2 故障代码解析数据库及特定品牌车型的常见问题维保知识库。"
+    ]
+  },
+  carParts: {
+    pl: [
+      "Wyszukiwarka części samochodowych z bazą kodów OE/OEM, zamienników TecDoc oraz wyszukiwaniem po VIN.",
+      "Integracja e-commerce z hurtowniami motoryzacyjnymi (automatyczna synchronizacja stanów i cen).",
+      "Obsługa szybkich płatności BLIK, Apple Pay/Google Pay i zwrotów wygenerowanych przez Paczkomaty."
+    ],
+    en: [
+      "Car parts search engine with OE/OEM numbers, TecDoc cross-references, and VIN database lookups.",
+      "E-commerce integration with wholesale distributor warehouses (real-time stock and price sync).",
+      "Fast checkout via local methods (BLIK, Apple Pay, Google Pay) and automated return label creation."
+    ],
+    de: [
+      "Kfz-Teilesuchmaschine mit OE/OEM-Nummern, TecDoc-Umschlüsselung und Fahrgestellnummer-Abfrage.",
+      "E-Commerce-Schnittstelle zu Großhändlern für automatischen Bestands- und Preisabgleich.",
+      "Schnelle Bezahlung über lokale Methoden (BLIK, Apple/Google Pay) und automatischer Retourendruck."
+    ],
+    uk: [
+      "Пошукова система автозапчастин за номерами OE/OEM, крос-базами TecDoc та пошуком за VIN-кодом.",
+      "Інтеграція інтернет-магазину зі складами гуртових постачальників (автосинхронізація цін і залишків).",
+      "Швидкі онлайн-платежі (BLIK, Apple Pay, Google Pay) та інтегрована система легкого повернення товару."
+    ],
+    ru: [
+      "Поисковая система автозапчастей по номерам OE/OEM, кросс-базам TecDoc и поиску по VIN-коду.",
+      "Интеграция интернет-магазина со складами оптовых поставщиков (автосинхронизация цен и остатков).",
+      "Быстрые онлайн-платежи (BLIK, Apple Pay, Google Pay) и интегрированная система легкого возврата товара."
+    ],
+    zh: [
+      "支持 OE/OEM 配件原厂编号反查、TecDoc 车型互换数据库及 VIN 车架号精准定位零件的搜索引擎。",
+      "集成汽配大库/代理商系统的电商模块，支持库存余量与进货价格自动更新。",
+      "支持 BLIK、Apple Pay 和 Google Pay 极速支付，并深度对接退换货快递流程。"
+    ]
   }
 };
 
@@ -1994,10 +2154,43 @@ const industryCoreSpecs = {
       "针对移动端专门优化的 Mobile-First 一键呼叫按钮与 WhatsApp 快捷咨询通道。"
     ]
   }
-};
+,
+  automotive: {
+    pl: [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, bez zbędnych bibliotek blokujących wątek.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego zgłaszania awarii i umawiania wizyt.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call)."
+    ],
+    en: [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, without thread-blocking libraries.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant alerts and booking notifications.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates."
+    ],
+    de: [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, ohne den Thread blockierende Bibliotheken.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für Notfall- und Buchungsalarme in Echtzeit.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions."
+    ],
+    uk: [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, без бібліотек, які блокують потік.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для моментальних сповіщень та записів.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call)."
+    ],
+    ru: [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, без блокирующих поток библиотек.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для моментальных уведомлений и записей.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call)."
+    ],
+    zh: [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，杜绝任何阻塞主线程的冗余库。",
+      "深度集成短信网关（Twilio / SMSAPI），用于即时提醒与预约通知。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。"
+    ]
+  }
+  };
 
 // Main logic to iterate through data/industries directories, load each JSON file, and update specifications.
-console.log("Starting specifications update process for all 41 specializations...");
+console.log("Starting specifications update process for all 46 specializations...");
 
 const categories = fs.readdirSync(industriesDir);
 let filesUpdated = 0;

@@ -268,7 +268,7 @@ export default async function IndustriesIndexPage(props: { params: Promise<{ lan
                       Sektor: {ind.id}
                     </span>
                     <span className="text-3xl group-hover:scale-110 transition-transform">
-                      {ind.id === 'doctor' ? '🩺' : ind.id === 'lawyer' ? '⚖️' : ind.id === 'psychologist' ? '🧠' : ind.id === 'accountant' ? '📊' : ind.id === 'architect' ? '📐' : ind.id === 'beauty' ? '🌸' : '🏗️'}
+                      {ind.id === 'doctor' ? '🩺' : ind.id === 'lawyer' ? '⚖️' : ind.id === 'psychologist' ? '🧠' : ind.id === 'accountant' ? '📊' : ind.id === 'architect' ? '📐' : ind.id === 'beauty' ? '🌸' : ind.id === 'automotive' ? '🚗' : '🏗️'}
                     </span>
                   </div>
 
@@ -298,7 +298,9 @@ export default async function IndustriesIndexPage(props: { params: Promise<{ lan
                             : ind.id === 'architect'
                             ? 'bg-amber-500/10 dark:bg-amber-500/20 border-amber-500/20 dark:border-amber-400/30 text-amber-700 dark:text-amber-300 hover:bg-amber-500/20 dark:hover:bg-amber-500/30 hover:border-amber-400 dark:hover:border-amber-300'
                             : ind.id === 'beauty'
-                            ? 'bg-rose-500/10 dark:bg-rose-500/20 border-rose-500/20 dark:border-rose-400/30 text-rose-700 dark:text-rose-350 hover:bg-rose-500/20 dark:hover:bg-rose-500/30 hover:border-rose-400 dark:hover:border-rose-300'
+                            ? 'bg-rose-500/10 dark:bg-rose-500/20 border-rose-500/20 dark:border-rose-400/30 text-rose-700 dark:text-rose-355 hover:bg-rose-500/20 dark:hover:bg-rose-500/30 hover:border-rose-400 dark:hover:border-rose-300'
+                            : ind.id === 'automotive'
+                            ? 'bg-amber-500/10 dark:bg-amber-500/20 border-amber-500/20 dark:border-amber-400/30 text-amber-750 dark:text-amber-300 hover:bg-amber-500/20 dark:hover:bg-amber-500/30 hover:border-amber-400 dark:hover:border-amber-300'
                             : 'bg-orange-500/10 dark:bg-orange-500/20 border-orange-500/20 dark:border-orange-400/30 text-orange-700 dark:text-orange-300 hover:bg-orange-500/20 dark:hover:bg-orange-500/30 hover:border-orange-400 dark:hover:border-orange-300';
                           return modelEntries.map(([modelKey, modelVal]) => {
                             const modelSlug = professionSlugsMap[modelKey as ProfessionId][lang];

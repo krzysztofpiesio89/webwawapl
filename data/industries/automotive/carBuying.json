@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Skup aut i kasacja",
+    "about": "Skupy pojazdów używanych oraz stacje demontażu potrzebują prostych stron nakierowanych na natychmiastowy kontakt telefoniczny oraz szybką wycenę online. Klienci chcą sprzedać pojazd natychmiast ze względu na stan techniczny lub pilną potrzebę gotówki.",
+    "focus": "Kluczem do sukcesu SEO są frazy ratunkowe (np. skup aut Warszawa, złomowanie pojazdów Mokotów) oraz łatwo dostępna mobilna infolinia Click-to-Call.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, bez zbędnych bibliotek blokujących wątek.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego zgłaszania awarii i umawiania wizyt.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "System natychmiastowej, algorytmicznej wyceny pojazdu na podstawie rocznika, marki i stanu technicznego.",
+      "Szybka integracja ze smartfonem umożliwiająca dodawanie zdjęć auta bezpośrednio z aparatu klienta.",
+      "Zintegrowana mapa z geolokalizacją GPS do planowania darmowego dojazdu lawety pod wskazany adres."
+    ]
+  },
+  "en": {
+    "name": "Car Buying & Scrap",
+    "about": "Used vehicle buyers and scrap yards require simple, conversion-optimized pages designed for instant phone contact and rapid online valuations. Sellers usually want to dispose of their vehicles quickly due to mechanical failure or urgent cash needs.",
+    "focus": "SEO success hinges on emergency-related queries (e.g. cash for junk cars near me, car buying Warsaw) along with easily accessible mobile Click-to-Call buttons.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, without thread-blocking libraries.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant alerts and booking notifications.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Instant algorithmic vehicle valuation system based on year, brand, and mechanical condition.",
+      "Quick mobile integration allowing customers to upload vehicle photos directly from their camera.",
+      "Integrated map with GPS geolocation for scheduling free tow truck pickup at the user's location."
+    ]
+  },
+  "de": {
+    "name": "Autoankauf & Verschrottung",
+    "about": "Gebrauchtwagenhändler und Verwertungsbetriebe benötigen einfache Websites, die auf schnelle telefonische Kontaktaufnahme und rasche Online-Fahrzeugbewertungen ausgelegt sind.",
+    "focus": "Erfolgsfaktoren im SEO sind dringliche Suchanfragen (z. B. Autoankauf Berlin, Autoverwertung in der Nähe) und mobiloptimierte Click-to-Call-Schaltflächen.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, ohne den Thread blockierende Bibliotheken.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für Notfall- und Buchungsalarme in Echtzeit.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Sofortiges algorithmisches Fahrzeugbewertungssystem basierend auf Baujahr, Marke und Zustand.",
+      "Schnelle mobile Integration zum direkten Hochladen von Fahrzeugfotos über die Smartphone-Kamera.",
+      "Integrierte Karte mit GPS-Geolokalisierung zur Planung der kostenlosen Abschleppwagen-Abholung."
+    ]
+  },
+  "uk": {
+    "name": "Автовикуп та утилізація",
+    "about": "Сервіси викупу вживаних автомобілів та розбірки потребують простих сторінок з орієнтацією на швидкий дзвінок та миттєву оцінку авто онлайн. Клієнти зазвичай хочуть терміново продати машину за готівку.",
+    "focus": "Ключем до SEO є екстрені запити (наприклад, терміновий автовикуп Київ, автовикуп після ДТП) та помітна кнопка мобільного виклику Click-to-Call.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, без бібліотек, які блокують потік.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для моментальних сповіщень та записів.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Система миттєвої алгоритмічної оцінки авто на основі року випуску, марки та технічного стану.",
+      "Швидка мобільна інтеграція для завантаження фотографій автомобіля прямо з камери смартфона.",
+      "Інтегрована карта з GPS-геолокацією для виклику безкоштовного евакуатора за адресою клієнта."
+    ]
+  },
+  "ru": {
+    "name": "Автовыкуп и утилизация",
+    "about": "Сервисы выкупа подержанных автомобилей и авторазборки нуждаются в простых страницах с упором на быстрый звонок и мгновенную оценку авто онлайн. Клиенты обычно хотят срочно продать машину за наличные.",
+    "focus": "Ключом к SEO являются экстренные запросы (например, срочный автовыкуп Москва, автовыкуп после ДТП) и заметная кнопка мобильного вызова Click-to-Call.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, без блокирующих поток библиотек.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для моментальных уведомлений и записей.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Система мгновенной алгоритмической оценки авто на основе года выпуска, марки и состояния.",
+      "Быстрая мобильная интеграция для загрузки фотографий автомобиля прямо с камеры смартфона.",
+      "Интегрированная карта с GPS-геолокацией для заказа бесплатного эвакуатора по адресу клиента."
+    ]
+  },
+  "zh": {
+    "name": "二手车回购与报废",
+    "about": "二手车行和车辆报废拆解厂需要极其简洁、以转化为导向的着陆页，着重于促成即时电话联系与在线快速估估价。卖车客户通常出于车辆故障或急需资金而想要立刻出手。",
+    "focus": "SEO 成功的关键在于本地急迫服务词（如：高价收车、附近报废车上门回收）以及极其显眼的一键拨号（Click-to-Call）移动端浮动按钮。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，杜绝任何阻塞主线程的冗余库。",
+      "深度集成短信网关（Twilio / SMSAPI），用于即时提醒与预约通知。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "基于车型年份、品牌和车况的在线智能秒级二手车估值与报价算法。",
+      "深度兼容手机端，支持客户直接拍摄并上传车辆内外饰高清照片。",
+      "集成基于 GPS 的电子地图，用于一键预约免费拖车上门回收与报废服务。"
+    ]
+  }
+}

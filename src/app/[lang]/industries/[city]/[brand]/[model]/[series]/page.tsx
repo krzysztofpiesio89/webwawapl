@@ -17,6 +17,7 @@ import {
   ServiceId,
   industryModelsMap
 } from '@/lib/industries-list';
+import { getBrandBySlug, getModelBySlug, getBrandLogo, getWikiData } from '@/lib/brands';
 
 interface PageProps {
   params: Promise<{
@@ -25,6 +26,11 @@ interface PageProps {
     brand: string;
     model: string;
     series: string;
+  }>;
+  searchParams: Promise<{
+    carBrand?: string;
+    carModel?: string;
+    carSeries?: string;
   }>;
 }
 
@@ -40,7 +46,7 @@ export async function generateStaticParams() {
     'sulejowek', 'grodzisk-mazowiecki', 'nowy-dwor-mazowiecki', 'minsk-mazowiecki',
     'lomianki', 'ozarow-mazowiecki', 'nadarzyn', 'warszawa'
   ];
-  const brands = ['doctor', 'lawyer', 'psychologist', 'accountant', 'architect', 'construction', 'beauty'] as const;
+  const brands = ['doctor', 'lawyer', 'psychologist', 'accountant', 'architect', 'construction', 'beauty', 'automotive'] as const;
   const seriesList = Object.keys(serviceSlugsMap);
   
   const paramsList = [];
@@ -59,8 +65,13 @@ export async function generateStaticParams() {
   return paramsList;
 }
 
-export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
+export async function generateMetadata({ params, searchParams }: PageProps): Promise<Metadata> {
   const { lang, city: citySlug, brand: brandId, model: modelId, series: seriesId } = await params;
+  const searchParamsData = await searchParams;
+  const carBrandSlug = typeof searchParamsData?.carBrand === 'string' ? searchParamsData.carBrand : null;
+  const carModelSlug = typeof searchParamsData?.carModel === 'string' ? searchParamsData.carModel : null;
+  const carSeriesSlug = typeof searchParamsData?.carSeries === 'string' ? searchParamsData.carSeries : null;
+
   const industry = getIndustryById(brandId as IndustryId);
   if (!industry) return {};
 
@@ -78,13 +89,47 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const localizedProfession = modelData.name;
   const localizedService = seriesData.title;
 
-  const title = isPl 
+  // Resolve car details for contextual B2B metadata
+  let carDetails = '';
+  if (carBrandSlug) {
+    const carBrand = getBrandBySlug(carBrandSlug);
+    const carBrandName = carBrand ? carBrand.name : (carBrandSlug.charAt(0).toUpperCase() + carBrandSlug.slice(1));
+    carDetails = carBrandName;
+    if (carModelSlug) {
+      const carModel = carBrand ? getModelBySlug(carBrand, carModelSlug) : null;
+      const carModelName = carModel ? carModel.name : carModelSlug.toUpperCase();
+      carDetails += ` ${carModelName}`;
+      if (carSeriesSlug) {
+        const decodedSeries = decodeURIComponent(carSeriesSlug);
+        let seriesDisplayName = decodedSeries;
+        const modelClean = carModelName.toLowerCase();
+        if (seriesDisplayName.toLowerCase().startsWith(modelClean)) {
+          seriesDisplayName = seriesDisplayName.slice(modelClean.length).trim();
+        }
+        carDetails += ` ${seriesDisplayName}`;
+      }
+    }
+  }
+
+  let title = isPl 
     ? `${localizedService} dla specjalności: ${localizedProfession} - ${cityName} | webwawa.pl`
     : `${localizedService} for ${localizedProfession} in ${cityName} | webwawa.pl`;
+
+  if (carDetails) {
+    title = isPl
+      ? `${localizedService} dla ${localizedProfession} (${carDetails}) - ${cityName} | webwawa.pl`
+      : `${localizedService} for ${localizedProfession} (${carDetails}) - ${cityName} | webwawa.pl`;
+  }
     
-  const description = isPl 
+  let description = isPl 
     ? `Dedykowane wdrożenia: ${localizedService} dla profesji ${localizedProfession} w lokalizacji ${cityName}. Zwiększ pozycję w wyszukiwarce Google i zoptymalizuj wyniki konwersji.`
     : `Custom ${localizedService} optimized for ${localizedProfession} in ${cityName}. Dominate Google searches and boost patient acquisition.`;
+
+  if (carDetails) {
+    description = isPl
+      ? `Projektowanie i pozycjonowanie: ${localizedService} dla profesji ${localizedProfession} dedykowane dla aut ${carDetails} w lokalizacji ${cityName}.`
+      : `${localizedService} solutions for ${localizedProfession} optimized for ${carDetails} vehicles in ${cityName}.`;
+  }
 
   const langPrefix = lang === 'pl' ? '' : `/${lang}`;
   const parentSlug = lang === 'pl' ? 'strona-dla' : 
@@ -112,6 +157,37 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     }
   }
 
+  const brandLogo = carBrandSlug ? getBrandLogo(carBrandSlug) : null;
+  const wikiData = carBrandSlug && carModelSlug ? getWikiData(carBrandSlug, carModelSlug) : null;
+  const finalImageUrl = wikiData?.specs?.motofaktyImage || wikiData?.wiki?.imageUrl;
+
+  const brandLogoUrl = brandLogo ? (brandLogo.startsWith('http') ? brandLogo : `https://webwawa.pl${brandLogo}`) : null;
+  const ogImages = [];
+  if (finalImageUrl) {
+    ogImages.push({
+      url: finalImageUrl,
+      width: 1200,
+      height: 630,
+      alt: title,
+    });
+  }
+  if (brandLogoUrl) {
+    ogImages.push({
+      url: brandLogoUrl,
+      width: 400,
+      height: 400,
+      alt: `${carBrandSlug} Logo`,
+    });
+  }
+  if (ogImages.length === 0) {
+    ogImages.push({
+      url: imageUrl,
+      width: 1200,
+      height: 630,
+      alt: title,
+    });
+  }
+
   return {
     title,
     description,
@@ -125,26 +201,45 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       siteName: 'webwawa.pl',
       locale: ogLocaleMap[lang as Locale],
       type: 'website',
-      images: [
-        {
-          url: imageUrl,
-          width: 1200,
-          height: 630,
-          alt: title,
-        }
-      ]
+      images: ogImages,
     },
     twitter: {
       card: 'summary_large_image',
       title,
       description,
-      images: [imageUrl],
+      images: ogImages.map(img => img.url),
     }
   };
 }
 
-export default async function IndustrySeriesPage({ params }: PageProps) {
+export default async function IndustrySeriesPage({ params, searchParams }: PageProps) {
   const { lang, city: citySlug, brand: brandId, model: modelId, series: seriesId } = await params;
+  const searchParamsData = await searchParams;
+  const carBrandSlug = typeof searchParamsData?.carBrand === 'string' ? searchParamsData.carBrand : null;
+  const carModelSlug = typeof searchParamsData?.carModel === 'string' ? searchParamsData.carModel : null;
+  const carSeriesSlug = typeof searchParamsData?.carSeries === 'string' ? searchParamsData.carSeries : null;
+
+  // Resolve car details for contextual B2B customizations
+  let carDetails = '';
+  if (carBrandSlug) {
+    const carBrand = getBrandBySlug(carBrandSlug);
+    const carBrandName = carBrand ? carBrand.name : (carBrandSlug.charAt(0).toUpperCase() + carBrandSlug.slice(1));
+    carDetails = carBrandName;
+    if (carModelSlug) {
+      const carModel = carBrand ? getModelBySlug(carBrand, carModelSlug) : null;
+      const carModelName = carModel ? carModel.name : carModelSlug.toUpperCase();
+      carDetails += ` ${carModelName}`;
+      if (carSeriesSlug) {
+        const decodedSeries = decodeURIComponent(carSeriesSlug);
+        let seriesDisplayName = decodedSeries;
+        const modelClean = carModelName.toLowerCase();
+        if (seriesDisplayName.toLowerCase().startsWith(modelClean)) {
+          seriesDisplayName = seriesDisplayName.slice(modelClean.length).trim();
+        }
+        carDetails += ` ${seriesDisplayName}`;
+      }
+    }
+  }
   const industry = getIndustryById(brandId as IndustryId);
   if (!industry) notFound();
 
@@ -164,6 +259,10 @@ export default async function IndustrySeriesPage({ params }: PageProps) {
   const homeUrl = lang === 'pl' ? '/' : `/${lang}`;
   const cityName = city ? city.name : (isPl ? 'Warszawa / cała Polska' : 'Warsaw');
 
+  const wikiData = carBrandSlug && carModelSlug ? getWikiData(carBrandSlug, carModelSlug) : null;
+  const finalImageUrl = wikiData?.specs?.motofaktyImage || wikiData?.wiki?.imageUrl;
+  const brandLogo = carBrandSlug ? getBrandLogo(carBrandSlug) : null;
+
   let imageRelativePath = `/images/industries/${brandId}/${modelId}.svg`;
   let imageFileSystemPath = path.join(process.cwd(), 'public', imageRelativePath);
   if (!fs.existsSync(imageFileSystemPath)) {
@@ -172,6 +271,21 @@ export default async function IndustrySeriesPage({ params }: PageProps) {
   }
   
   let heroImageSrc = '/images/workspace_code.png';
+  if (finalImageUrl) {
+    heroImageSrc = finalImageUrl;
+  } else if (fs.existsSync(imageFileSystemPath)) {
+    heroImageSrc = imageRelativePath;
+  } else {
+    const mainSvgPath = `/images/industries/${brandId}/main.svg`;
+    if (fs.existsSync(path.join(process.cwd(), 'public', mainSvgPath))) {
+      heroImageSrc = mainSvgPath;
+    } else {
+      const mainPngPath = `/images/industries/${brandId}/main.png`;
+      if (fs.existsSync(path.join(process.cwd(), 'public', mainPngPath))) {
+        heroImageSrc = mainPngPath;
+      }
+    }
+  }
   if (fs.existsSync(imageFileSystemPath)) {
     heroImageSrc = imageRelativePath;
   } else {
@@ -205,16 +319,27 @@ export default async function IndustrySeriesPage({ params }: PageProps) {
   };
   const parentLabel = parentLabelMap[lang as Locale] || 'Website for';
 
-  const brandUrl = city 
-    ? `${lang === 'pl' ? '' : '/' + lang}/${city.slug}/${brandSlug}`
-    : `${lang === 'pl' ? '' : '/' + lang}/${parentSlug}/${brandSlug}`;
-
-  const modelUrl = city
-    ? `${lang === 'pl' ? '' : '/' + lang}/${city.slug}/${brandSlug}/${modelSlug}`
-    : `${lang === 'pl' ? '' : '/' + lang}/${parentSlug}/${brandSlug}/${modelSlug}`;
-
   const serviceSlug = serviceSlugsMap[seriesId as ServiceId][lang as Locale];
   const langPrefix = lang === 'pl' ? '' : `/${lang}`;
+
+  const brandUrl = city 
+    ? `${langPrefix}/${city.slug}/${brandSlug}`
+    : `${langPrefix}/${parentSlug}/${brandSlug}`;
+
+  let modelUrl = '';
+  if (carBrandSlug) {
+    modelUrl = `${langPrefix}/${parentSlug}/${brandSlug}/${modelSlug}/${citySlug}/${carBrandSlug}`;
+    if (carModelSlug) {
+      modelUrl += `/${carModelSlug}`;
+      if (carSeriesSlug) {
+        modelUrl += `/${carSeriesSlug}`;
+      }
+    }
+  } else {
+    modelUrl = city
+      ? `${langPrefix}/${city.slug}/${brandSlug}/${modelSlug}`
+      : `${langPrefix}/${parentSlug}/${brandSlug}/${modelSlug}`;
+  }
 
   // Rich specifications checklist or keyword pool
   const keywordCloud = isPl 
@@ -353,11 +478,20 @@ export default async function IndustrySeriesPage({ params }: PageProps) {
                 <span className="text-primary font-semibold">{seriesData.title}</span>
               </nav>
 
-              <h1 className="text-4xl md:text-6xl font-black uppercase italic tracking-tight mb-6">
-                <span className="gradient-text">{seriesData.title}</span> dla specjalności: {modelData.name} - {cityName}
+              <h1 className="text-4xl md:text-6xl font-black uppercase italic tracking-tight mb-6 flex items-center gap-4 flex-wrap">
+                {brandLogo && (
+                  <img src={brandLogo} alt={`${carBrandSlug} Logo`} className="h-12 w-auto object-contain dark:invert" />
+                )}
+                <span><span className="gradient-text">{seriesData.title}</span> dla {modelData.name}{carDetails ? <span className="text-primary"> ({carDetails})</span> : ''} - {cityName}</span>
               </h1>
               <p className="text-xl opacity-80 leading-relaxed text-slate-650 dark:text-slate-350">
-                {seriesData.desc}
+                {carDetails ? (
+                  isPl
+                    ? `Dedykowane wdrożenia w zakresie ${seriesData.title.toLowerCase()} dla firm oferujących usługi ${modelData.name.toLowerCase()} w odniesieniu do pojazdów ${carDetails} w regionie ${cityName}.`
+                    : `Dedicated ${seriesData.title.toLowerCase()} implementations for companies offering ${modelData.name.toLowerCase()} services for ${carDetails} vehicles in the ${cityName} area.`
+                ) : (
+                  seriesData.desc
+                )}
               </p>
             </div>
             <div className="lg:col-span-5 relative w-full h-[300px] md:h-[400px] rounded-3xl overflow-hidden shadow-2xl border border-slate-200/50 dark:border-slate-800/40">
@@ -380,13 +514,37 @@ export default async function IndustrySeriesPage({ params }: PageProps) {
                 Dlaczego my?
               </span>
               <h2 className="text-3xl font-bold tracking-tight text-slate-900 dark:text-white">
-                Co ma największy wpływ na wyniki i pozycję specjalności {modelData.name} w Google?
+                Co ma największy wpływ na wyniki i pozycję specjalności {modelData.name}{carDetails ? ` (${carDetails})` : ''} w Google?
               </h2>
               <p className="text-slate-650 dark:text-slate-400 leading-relaxed">
-                {isPl
-                  ? `Skuteczność naszych wdrożeń opiera się na precyzyjnym dopasowaniu technologii do potrzeb pacjentów. Specjalizacja ${modelData.name} wymaga nie tylko estetycznej strony, lecz przede wszystkim bezbłędnej optymalizacji czasu ładowania, responsywności (Mobile-First) oraz integracji z lokalnymi Mapami Google.`
-                  : `Our implementations' success rests on precise technological adjustments to patient needs. Speciality ${modelData.name} demands not only an aesthetic layout, but above all flawless load speed, Mobile-First responsiveness, and Google Maps local SEO alignment.`}
+                {carDetails ? (
+                  isPl
+                    ? `Skuteczność naszych wdrożeń opiera się na precyzyjnym dopasowaniu technologii do potrzeb Twoich klientów. Obsługa ${modelData.name.toLowerCase()} dla samochodów ${carDetails} wymaga nie tylko estetycznej strony, lecz przede wszystkim bezbłędnej optymalizacji czasu ładowania, responsywności (Mobile-First) oraz integracji z lokalnymi Mapami Google.`
+                    : `Our implementations' success rests on precise technological adjustments to your customers' needs. Servicing ${modelData.name.toLowerCase()} for ${carDetails} vehicles demands not only an aesthetic layout, but above all flawless load speed, Mobile-First responsiveness, and Google Maps local SEO alignment.`
+                ) : (
+                  isPl
+                    ? `Skuteczność naszych wdrożeń opiera się na precyzyjnym dopasowaniu technologii do potrzeb pacjentów. Specjalizacja ${modelData.name} wymaga nie tylko estetycznej strony, lecz przede wszystkim bezbłędnej optymalizacji czasu ładowania, responsywności (Mobile-First) oraz integracji z lokalnymi Mapami Google.`
+                    : `Our implementations' success rests on precise technological adjustments to patient needs. Speciality ${modelData.name} demands not only an aesthetic layout, but above all flawless load speed, Mobile-First responsiveness, and Google Maps local SEO alignment.`
+                )}
               </p>
+
+              {wikiData?.wiki?.description && (
+                <div className="bg-slate-50 dark:bg-slate-950/20 p-6 rounded-2xl border border-slate-200/80 dark:border-slate-800/60 my-6 shadow-sm">
+                  <h3 className="font-bold text-lg text-slate-900 dark:text-white mb-2 uppercase italic">
+                    Kontekst pojazdu: {carDetails}
+                  </h3>
+                  <p className="text-sm text-slate-650 dark:text-slate-350 leading-relaxed font-medium">
+                    {typeof wikiData.wiki.description === 'string' 
+                      ? wikiData.wiki.description 
+                      : (wikiData.wiki.description[lang] || wikiData.wiki.description.pl)}
+                  </p>
+                  <div className="mt-4 text-xs font-bold text-slate-500 dark:text-slate-400 border-t border-slate-200 dark:border-slate-800 pt-3">
+                    {isPl
+                      ? `*Powyższa specyfikacja modelu służy zasileniu parametrów semantycznych pod kątem pozycjonowania SEO oferty wdrożeniowej ${seriesData.title.toLowerCase()} dla aut ${carDetails}.`
+                      : `*The above vehicle description serves to enrich the semantic context for SEO ranking of our ${seriesData.title.toLowerCase()} integrations dedicated for ${carDetails} cars.`}
+                  </div>
+                </div>
+              )}
               
               <div className="bg-primary/5 border border-primary/10 p-6 rounded-2xl">
                 <h3 className="font-bold text-lg mb-2 text-primary">
@@ -428,12 +586,18 @@ export default async function IndustrySeriesPage({ params }: PageProps) {
               <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-primary to-secondary"></div>
               <div className="text-5xl mb-4">🚀</div>
               <h3 className="font-black text-xl mb-4 uppercase tracking-tight italic text-slate-900 dark:text-white">
-                {isPl ? "Zdobądź Więcej Pacjentów" : "Get More Patients"}
+                {isPl ? (carDetails ? "Pozyskaj Więcej Klientów" : "Zdobądź Więcej Pacjentów") : (carDetails ? "Get More Customers" : "Get More Patients")}
               </h3>
               <p className="text-xs text-slate-600 dark:text-slate-450 mb-6 leading-relaxed">
-                {isPl
-                  ? `Zamów dedykowane rozwiązanie ${seriesData.title} dla swojej specjalności ${modelData.name} w lokalizacji ${cityName}. Przygotujemy ofertę dopasowaną do Twojego budżetu.`
-                  : `Order a custom ${seriesData.title} optimized for your specialization ${modelData.name} in ${cityName}. We will prepare a personalized estimate.`}
+                {carDetails ? (
+                  isPl
+                    ? `Zamów dedykowane rozwiązanie ${seriesData.title} dla swojej firmy oferującej ${modelData.name.toLowerCase()} ${carDetails} w lokalizacji ${cityName}. Przygotujemy ofertę dopasowaną do Twojego budżetu.`
+                    : `Order a custom ${seriesData.title} optimized for your business offering ${modelData.name.toLowerCase()} ${carDetails} in ${cityName}. We will prepare a personalized estimate.`
+                ) : (
+                  isPl
+                    ? `Zamów dedykowane rozwiązanie ${seriesData.title} dla swojej specjalności ${modelData.name} w lokalizacji ${cityName}. Przygotujemy ofertę dopasowaną do Twojego budżetu.`
+                    : `Order a custom ${seriesData.title} optimized for your specialization ${modelData.name} in ${cityName}. We will prepare a personalized estimate.`
+                )}
               </p>
               <a href="#kontakt" className="btn-primary w-full block py-3 rounded-xl text-md font-bold uppercase tracking-wider shadow-md hover:shadow-lg">
                 {isPl ? "Bezpłatna wycena" : "Get Free Quote"}

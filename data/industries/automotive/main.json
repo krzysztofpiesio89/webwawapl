@@ -1,0 +1,139 @@
+{
+  "id": "automotive",
+  "slugs": {
+    "pl": "motoryzacja",
+    "en": "automotive",
+    "de": "automobil",
+    "uk": "avto",
+    "ru": "avto",
+    "zh": "automotive"
+  },
+  "translations": {
+    "pl": {
+      "industryName": "Motoryzacja",
+      "heroSubtitle": "Dedykowane strony internetowe, aplikacje PWA do rezerwacji oraz pozycjonowanie lokalne dla wypożyczalni, leasingów, warsztatów i autoskupów.",
+      "title": "Strony internetowe i systemy IT dla branży motoryzacyjnej",
+      "description": "Projektujemy nowoczesne strony www, systemy rezerwacji oraz prowadzimy pozycjonowanie lokalne dla autoserwisów, wypożyczalni aut, firm leasingowych i skupów pojazdów. Zwiększ liczbę zleceń.",
+      "about": "Sektor motoryzacyjny opiera się na zaufaniu, szybkości działania i lokalnej dostępności. Klienci poszukujący mechanika, wynajmu samochodu, oferty leasingowej czy skupu aut oczekują błyskawicznego kontaktu, prostego formularza wyceny lub rezerwacji oraz precyzyjnych informacji. Nasze dedykowane rozwiązania IT łączą ultraszybkie strony Next.js, interaktywne kalkulatory opłat/leasingu oraz zaawansowane pozycjonowanie w Google Maps, co pozwala pozyskiwać wartościowe leady i automatyzować obsługę zapytań.",
+      "series": {
+        "pwa": {
+          "title": "Dedykowane aplikacje i systemy rezerwacji",
+          "desc": "Tworzymy zaawansowane aplikacje PWA ułatwiające rezerwację pojazdów online, wybór terminów w warsztatach czy wycenę aut w skupach, dostępne bezpośrednio na telefonie."
+        },
+        "wordpress": {
+          "title": "Strony WordPress dla firm motoryzacyjnych",
+          "desc": "Budujemy nowoczesne witryny WordPress zoptymalizowane pod SEO, zintegrowane z bazami części samochodowych, kalkulatorami rat leasingu oraz formularzami kontaktowymi."
+        },
+        "seo": {
+          "title": "Pozycjonowanie lokalne (SEO) w branży moto",
+          "desc": "Wdrażamy skuteczne kampanie SEO lokalnego. Pozycjonujemy warsztaty, skupy i wynajmy pod konkretne dzielnice i miasta za pomocą struktur Schema JSON-LD."
+        }
+      }
+    },
+    "en": {
+      "industryName": "Automotive",
+      "heroSubtitle": "Dedicated websites, PWA booking systems, and local SEO for car rentals, leasing companies, repair shops, and car buyers.",
+      "title": "Websites and IT systems for the automotive industry",
+      "description": "We design modern websites, booking platforms, and local SEO campaigns for car repair shops, vehicle rentals, leasing brokers, and auto buyers. Grow your business.",
+      "about": "The automotive sector is built on trust, responsiveness, and local availability. Customers looking for a mechanic, rental car, leasing offer, or auto buyer expect instant contact, simple booking/quote forms, and clear specs. Our custom IT solutions combine fast Next.js sites, interactive lease/fee calculators, and local SEO rankings to capture high-value leads and automate your operational workflow.",
+      "series": {
+        "pwa": {
+          "title": "Custom Apps & Online Booking Engines",
+          "desc": "We build progressive web apps (PWA) that streamline vehicle rental bookings, garage appointment scheduling, and online vehicle valuation forms."
+        },
+        "wordpress": {
+          "title": "WordPress Sites for Automotive Businesses",
+          "desc": "We develop high-performance WordPress sites optimized for search engines, integrated with auto parts catalogues, payment options, and lease calculators."
+        },
+        "seo": {
+          "title": "Local SEO & Map Rankings for Automotive",
+          "desc": "We execute targeted local search campaigns, optimizing Google Maps listings and deploying precise Schema JSON-LD metadata for maximum search engine exposure."
+        }
+      }
+    },
+    "de": {
+      "industryName": "Automobil",
+      "heroSubtitle": "Dedizierte Webseiten, PWA-Buchungssysteme und lokales SEO für Autovermietungen, Leasingfirmen, Werkstätten und Autoankäufer.",
+      "title": "Websites und IT-Systeme für die Automobilbranche",
+      "description": "Wir entwerfen moderne Websites, Buchungsplattformen und lokales SEO für Kfz-Werkstätten, Fahrzeugvermietungen, Leasinganbieter und Autoankäufer.",
+      "about": "Die Automobilbranche lebt von Vertrauen, Schnelligkeit und lokaler Auffindbarkeit. Kunden erwarten einfache Online-Buchungen, schnelle Preisrechner und direkte Ansprechpartner. Unsere Next.js-Websites mit integrierten Tarifsuchmaschinen und gezielter SEO-Optimierung sorgen für kontinuierliche Anfragen und automatisierte Prozesse.",
+      "series": {
+        "pwa": {
+          "title": "Dedizierte Apps und Buchungssysteme",
+          "desc": "Wir erstellen schnelle PWA-Webanwendungen zur mobilen Fahrzeugreservierung, Terminbuchung in Werkstätten und zur unkomplizierten Online-Fahrzeugbewertung."
+        },
+        "wordpress": {
+          "title": "WordPress-Websites für die Kfz-Branche",
+          "desc": "Wir bauen moderne, SEO-optimierte WordPress-Websites mit integrierten Leasingrechnern, Teilekatalogen und interaktiven Kontaktformularen."
+        },
+        "seo": {
+          "title": "Lokales SEO & Maps-Optimierung für Automobil",
+          "desc": "Wir sorgen dafür, dass Ihr Autohaus, Ihre Vermietung oder Werkstatt in lokalen Suchen ganz oben steht, optimiert über strukturierte JSON-LD Schema Daten."
+        }
+      }
+    },
+    "uk": {
+      "industryName": "Автомобільна індустрія",
+      "heroSubtitle": "Спеціалізовані веб-сайти, PWA-системи бронювання та локальне SEO для оренди машин, лізингу, автосервісів та автовикупу.",
+      "title": "Веб-сайти та IT-системи для автомобільної індустрії",
+      "description": "Проектуємо сучасні сайти, системи бронювання та ведемо локальне SEO для автомайстерень, прокату автомобілів, лізингових фірм та автовикупу.",
+      "about": "Автомобільний сектор тримається на довірі, швидкості реакції та локальній доступності. Клієнти, які шукають СТО, оренду авто чи послуги автовикупу, очікують миттєвого зв'язку, простих калькуляторів та чітких умов. Наші IT-рішення поєднують швидкі сайти на Next.js, зручні форми оцінки авто та локальне просування в картах для стабільного залучення клієнтів.",
+      "series": {
+        "pwa": {
+          "title": "Спеціалізовані додатки та системи запису",
+          "desc": "Розробляємо PWA-додатки для онлайн-бронювання автомобілів, вибору часу ремонту на СТО чи автоматичної оцінки авто прямо зі смартфона."
+        },
+        "wordpress": {
+          "title": "Сайти на WordPress для автобізнесу",
+          "desc": "Створюємо швидкі сайти на WordPress, оптимізовані під SEO, інтегровані з базами запчастин, кредитними калькуляторами та формами запиту ціни."
+        },
+        "seo": {
+          "title": "Локальне SEO та просування автосервісів",
+          "desc": "Оптимізуємо картки автомайстерень, автовикупів та прокатів під географічні райони за допомогою точної розмітки Schema JSON-LD."
+        }
+      }
+    },
+    "ru": {
+      "industryName": "Автомобильная индустрия",
+      "heroSubtitle": "Специализированные веб-сайты, PWA-системы бронирования и локальное SEO для аренды машин, лизинга, автосервисов и автовыкупа.",
+      "title": "Веб-сайты и IT-системы для автомобильной индустрии",
+      "description": "Проектируем современные сайты, системы бронирования и ведем локальное SEO для автомастерских, проката автомобилей, лизинговых компаний и автовыкупа.",
+      "about": "Автомобильный сектор строится на доверии, оперативности и локальной доступности. Клиенты, ищущие автосервис, аренду авто или автовыкуп, ожидают мгновенной связи, простых калькуляторов и понятных условий. Наши IT-решения объединяют быстрые сайты на Next.js, удобные формы оценки авто и локальное SEO в картах для стабильного привлечения клиентов.",
+      "series": {
+        "pwa": {
+          "title": "Специализированные приложения и запись",
+          "desc": "Разрабатываем PWA-приложения для онлайн-бронирования машин, выбора времени ремонта в автосервисе или автоматической оценки стоимости авто прямо со смартфона."
+        },
+        "wordpress": {
+          "title": "Сайты на WordPress для автобизнеса",
+          "desc": "Создаем быстрые сайты на WordPress, оптимизированные под SEO, интегрированные с каталогами запчастей, калькуляторами лизинга и формами запроса цены."
+        },
+        "seo": {
+          "title": "Локальное SEO и продвижение автосервисов",
+          "desc": "Оптимизируем карточки автомастерских, автовыкупов и прокатов под географические районы с помощью разметки Schema JSON-LD."
+        }
+      }
+    },
+    "zh": {
+      "industryName": "汽车与出行",
+      "heroSubtitle": "针对汽车租赁、融资租赁、二手车收车（汽车回购）、汽车维修美容及配件零售的定制化网站开发、PWA在线预约与同城SEO方案。",
+      "title": "汽车与出行行业网站及 IT 系统解决方案",
+      "description": "我们为租车公司、金融租赁服务商、二手车回购公司、汽修厂和汽配店提供现代网站设计、PWA在线预订系统开发及同城地图SEO排名优化服务。",
+      "about": "汽车及出行领域高度依赖于用户信任、响应速度与本地化服务的即时可得性。无论是寻找就近汽修厂、短期租车、获取车辆融资租赁方案还是高价卖车，客户都希望拥有秒开的即时响应界面、精简的在线估价表单和极其专业的品牌质感。我们的定制方案将 Next.js 极速渲染、在线租赁与按期付款计算器、以及谷歌商家置顶优化进行深度融合，助力企业全天候捕获高意向客户并提升运营自动化程度。",
+      "series": {
+        "pwa": {
+          "title": "PWA 快捷应用与在线预订系统开发",
+          "desc": "构建即开即用的 PWA 轻量化网页应用，支持手机桌面添加，无缝整合车辆租赁排程、汽修空档智能预约与二手车在线自动估值模块。"
+        },
+        "wordpress": {
+          "title": "汽车出行行业高端 WordPress 官网建设",
+          "desc": "基于 WordPress 打造高转化率的品牌官网，针对搜索引擎进行代码级优化，支持导入海量汽配目录数据库、在线信贷月供自动测算表。"
+        },
+        "seo": {
+          "title": "汽修厂与租车回购同城 SEO 地图置顶",
+          "desc": "帮助您的汽修店、租车网点或二手车行在周边同城搜索中稳占首位。我们深度配置 Schema.org LocalBusiness JSON-LD 微数据进行区划级别引流。"
+        }
+      }
+    }
+  }
+}

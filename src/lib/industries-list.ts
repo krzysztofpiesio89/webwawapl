@@ -54,6 +54,14 @@ export const industrySlugsMap = {
     uk: 'krasa',
     ru: 'krasota',
     zh: 'beauty'
+  },
+  automotive: {
+    pl: 'motoryzacja',
+    en: 'automotive',
+    de: 'automobil',
+    uk: 'avto',
+    ru: 'avto',
+    zh: 'automotive'
   }
 } as const;
 
@@ -425,6 +433,46 @@ export const professionSlugsMap = {
     uk: 'personalnyy-trener',
     ru: 'personalnyy-trener',
     zh: 'personal-trainer'
+  },
+  carRental: {
+    pl: 'wynajem-aut',
+    en: 'car-rental',
+    de: 'autovermietung',
+    uk: 'orenda-avto',
+    ru: 'prokat-avto',
+    zh: 'car-rental'
+  },
+  leasing: {
+    pl: 'leasing-samochodowy',
+    en: 'car-leasing',
+    de: 'autoleasing',
+    uk: 'lizynh-avto',
+    ru: 'lizing-avto',
+    zh: 'car-leasing'
+  },
+  carBuying: {
+    pl: 'skup-aut',
+    en: 'car-buying',
+    de: 'autoankauf',
+    uk: 'vykup-avto',
+    ru: 'vykup-avto',
+    zh: 'car-buying'
+  },
+  mechanic: {
+    pl: 'mechanik',
+    en: 'mechanic',
+    de: 'kfz-mechaniker',
+    uk: 'avtomekhanik',
+    ru: 'avtomehanik',
+    zh: 'mechanic'
+  },
+  carParts: {
+    pl: 'czesci-samochodowe',
+    en: 'car-parts',
+    de: 'autoteile',
+    uk: 'avtozapchastyny',
+    ru: 'avtozapchasti',
+    zh: 'car-parts'
   }
 } as const;
 
@@ -479,6 +527,9 @@ export const industryModelsMap = {
   ],
   beauty: [
     'beautician', 'hairdresser', 'cosmetologist', 'masseur', 'personalTrainer'
+  ],
+  automotive: [
+    'carRental', 'leasing', 'carBuying', 'mechanic', 'carParts'
   ]
 } as const;
 

@@ -1,0 +1,79 @@
+{
+  "pl": {
+    "name": "Wypożyczalnia samochodów",
+    "about": "Wypożyczalnie samochodów osobowych i dostawczych (krótko- i długoterminowe) opierają się na prezentacji floty, przejrzystym cenniku oraz natychmiastowej rezerwacji online. Klienci szukają aut głównie na telefonach komórkowych, często bezpośrednio po wylądowaniu na lotnisku.",
+    "focus": "Najważniejsze czynniki SEO to precyzyjne pozycjonowanie na frazy lokalne (np. wynajem aut Warszawa, wypożyczalnia samochodów Okęcie) oraz zintegrowane systemy rezerwacji i płatności online.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, bez zbędnych bibliotek blokujących wątek.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego zgłaszania awarii i umawiania wizyt.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Interaktywny system rezerwacji pojazdów z wyborem terminów i dynamicznym wyliczaniem stawek dobowych.",
+      "Integracja bramki płatniczej Stripe oraz automatycznego generowania umów najmu w PDF.",
+      "System weryfikacji tożsamości klienta i skanowania dokumentów tożsamości zoptymalizowany pod mobile."
+    ]
+  },
+  "en": {
+    "name": "Car Rental",
+    "about": "Car and van rental businesses (short- and long-term) rely on visual fleet displays, transparent rate structures, and instant online booking. Customers seek rental vehicles primarily on mobile devices, often directly after landing at airports.",
+    "focus": "Key SEO factors include targeted local positioning for airport and city queries (e.g. car rental Warsaw airport, rent a car near me) along with frictionless online booking systems.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, without thread-blocking libraries.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant alerts and booking notifications.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Interactive car booking system with date picker and dynamic daily rate calculation.",
+      "Stripe payment gateway integration and automated PDF rental agreement generation.",
+      "Mobile-optimized customer identity verification and driver's license scanning system."
+    ]
+  },
+  "de": {
+    "name": "Autovermietung",
+    "about": "Fahrzeugvermietungen (Kurz- und Langzeitmiete) basieren auf der optimalen Präsentation des Fuhrparks, transparenten Tarifen und sofortiger Online-Buchung auf mobilen Endgeräten.",
+    "focus": "Erfolgsfaktor im SEO-Bereich sind gezielte Suchbegriffe für Flughäfen und Städte (z. B. Autovermietung Berlin, Mietwagen Flughafen) sowie schnelle Online-Buchungstools.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, ohne den Thread blockierende Bibliotheken.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für Notfall- und Buchungsalarme in Echtzeit.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Interaktives Fahrzeugbuchungssystem mit Datumsauswahl und dynamischer Berechnung der Tagespreise.",
+      "Stripe-Zahlungsschnittstelle und automatische PDF-Mietvertragserstellung.",
+      "Mobiloptimiertes System zur Kundenidentitätsprüfung und zum Scannen von Führerscheinen."
+    ]
+  },
+  "uk": {
+    "name": "Прокат автомобілів",
+    "about": "Сервіси прокату легкових та комерційних авто (коротко- та довгострокова оренда) тримаються на наочній презентації автопарку, прозорих тарифах та миттєвому бронюванні через смартфон.",
+    "focus": "Головними факторами SEO є просування під локальні запити аеропортів та міст (наприклад, оренда авто Київ, прокат авто Жуляни) та інтеграція платіжних систем.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, без бібліотек, які блокують потік.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для моментальних сповіщень та записів.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Інтерактивна система бронювання авто з вибором дат та динамічним розрахунком добових тарифів.",
+      "Інтеграція платіжного шлюзу Stripe та автоматична генерація договорів оренди в PDF.",
+      "Оптимізована під мобільні пристрої система перевірки особи та сканування посвідчень водія."
+    ]
+  },
+  "ru": {
+    "name": "Прокат автомобилей",
+    "about": "Сервисы проката легковых и коммерческих авто (коротко- и долгосрочная аренда) держатся на наглядной презентации автопарка, прозрачных тарифах и мгновенном бронировании через смартфон.",
+    "focus": "Главными факторами SEO являются продвижение под локальные запросы аэропортов и городов (например, аренда авто Москва, прокат авто Шереметьево) и интеграция платежных систем.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, без блокирующих поток библиотек.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для моментальных уведомлений и записей.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Интерактивная система бронирования автомобилей с выбором дат и динамическим расчетом посуточных тарифов.",
+      "Интеграция платежного шлюза Stripe и автоматическое формирование договоров аренды в PDF."
+    ]
+  },
+  "zh": {
+    "name": "汽车租赁",
+    "about": "短期与长期乘用车及货车租赁业务，非常依赖直观的车型库展示、透明的阶梯定价和即时的在线租车预订。客户通常会在手机端进行快速搜车和订车，特别是在机场落地之后。",
+    "focus": "最核心的 SEO 因素是针对机场和特定城市的本地化词条（如：华沙肖邦机场租车、同城自驾租车）进行置顶优化，以及无缝衔接的在线付定金/签约表单。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，杜绝任何阻塞主线程的冗余库。",
+      "深度集成短信网关（Twilio / SMSAPI），用于即时提醒与预约通知。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "集成在线订车与租期选择功能的交互式租车系统，支持动态计算日租金率。",
+      "对接 Stripe 在线支付网关，并支持自动渲染生成 PDF 格式电子租车合同。",
+      "专为移动端优化的在线身份及驾照识别与合规审核模块。"
+    ]
+  }
+}

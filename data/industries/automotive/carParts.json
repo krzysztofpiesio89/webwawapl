@@ -1,0 +1,79 @@
+{
+  "pl": {
+    "name": "Sklep z częściami",
+    "about": "Sklepy stacjonarne i internetowe z częściami zamiennymi oraz hurtownie motoryzacyjne potrzebują witryn zoptymalizowanych pod wyszukiwanie produktów według numerów VIN lub modeli aut.",
+    "focus": "Głównym motorem SEO jest pozycjonowanie na numery katalogowe części (np. wahacz Audi A4, części zamienne Warszawa) oraz szybkie połączenie z bazą TecDoc.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, bez zbędnych bibliotek blokujących wątek.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego zgłaszania awarii i umawiania wizyt.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Wyszukiwarka części samochodowych z bazą kodów OE/OEM, zamienników TecDoc oraz wyszukiwaniem po VIN.",
+      "Integracja e-commerce z hurtowniami motoryzacyjnymi (automatyczna synchronizacja stanów i cen).",
+      "Obsługa szybkich płatności BLIK, Apple Pay/Google Pay i zwrotów wygenerowanych przez Paczkomaty."
+    ]
+  },
+  "en": {
+    "name": "Auto Parts Store",
+    "about": "Local auto parts stores, wholesale distributors, and e-commerce platforms require websites optimized for catalog searching by VIN or specific vehicle models.",
+    "focus": "The main SEO drivers are part number queries (e.g. control arm Audi A4, auto parts supplier Warsaw) and real-time database linking (e.g., TecDoc API).",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, without thread-blocking libraries.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant alerts and booking notifications.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Car parts search engine with OE/OEM numbers, TecDoc cross-references, and VIN database lookups.",
+      "Fast checkout via local methods (BLIK, Apple Pay, Google Pay) and automated return label creation."
+    ]
+  },
+  "de": {
+    "name": "Autoteile-Shop",
+    "about": "Kfz-Ersatzteilhändler und Online-Shops benötigen Suchmaschinen-optimierte Produktkataloge, die eine einfache Suche nach Fahrgestellnummern (VIN) oder Modellreihen ermöglichen.",
+    "focus": "Der SEO-Erfolg beruht auf Teilenummern-Suchen (z. B. Querlenker Audi A4, Ersatzteile Berlin) und der schnellen Anbindung an Datenbanken wie TecDoc.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, ohne den Thread blockierende Bibliotheken.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für Notfall- und Buchungsalarme in Echtzeit.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Kfz-Teilesuchmaschine mit OE/OEM-Nummern, TecDoc-Umschlüsselung und Fahrgestellnummer-Abfrage.",
+      "E-Commerce-Schnittstelle zu Großhändlern für automatischen Bestands- und Preisabgleich.",
+      "Schnelle Bezahlung über lokale Methoden (BLIK, Apple/Google Pay) und automatischer Retourendruck."
+    ]
+  },
+  "uk": {
+    "name": "Магазин автозапчастин",
+    "about": "Роздрібні магазини та оптові склади автозапчастин потребують сайтів з пошуком за VIN-кодом або конкретними марками та моделями автомобілів.",
+    "focus": "Основним рушієм SEO є просування за каталожними номерами деталей (наприклад, важіль підвіски Audi A4, автозапчастини Київ) та швидка інтеграція з TecDoc API.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, без бібліотек, які блокують потік.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для моментальних сповіщень та записів.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Пошукова система автозапчастин за номерами OE/OEM, крос-базами TecDoc та пошуком за VIN-кодом.",
+      "Інтеграція інтернет-магазину зі складами гуртових постачальників (автосинхронізація цін і залишків).",
+      "Швидкі онлайн-платежі (BLIK, Apple Pay, Google Pay) та інтегрована система легкого повернення товару."
+    ]
+  },
+  "ru": {
+    "name": "Магазин автозапчастей",
+    "about": "Розничные магазины и оптовые склады автозапчастей нуждаются в сайтах с поиском по VIN-коду или конкретным маркам и моделям автомобилей.",
+    "focus": "Основным двигателем SEO является продвижение по каталожным номерам деталей (например, рычаг подвески Audi A4, автозапчасти Москва) и быстрая интеграция с TecDoc API.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, без блокирующих поток библиотек.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для моментальных уведомлений и записей.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Поисковая система автозапчастей по номерам OE/OEM, кросс-базам TecDoc и поиску по VIN-коду.",
+      "Интеграция интернет-магазина со складами оптовых поставщиков (автосинхронизация цен и остатков).",
+      "Быстрые онлайн-платежи (BLIK, Apple Pay, Google Pay) и интегрированная система легкого возврата товара."
+    ]
+  },
+  "zh": {
+    "name": "汽车配件零售与批发",
+    "about": "同城汽配实体店、线上独立商城以及汽配批发商，需要支持按车架号（VIN）或特定车型数据库快速检索配件的产品目录和电商界面。",
+    "focus": "SEO 流量的核心源于具体配件OEM编号或匹配名查询（如：奥迪A4控制臂、同城刹车泵现货批发）以及与 TecDoc 基础数据库接口的高速对接。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，杜绝任何阻塞主线程的冗余库。",
+      "深度集成短信网关（Twilio / SMSAPI），用于即时提醒与预约通知。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "支持 OE/OEM 配件原厂编号反查、TecDoc 车型互换数据库及 VIN 车架号精准定位零件的搜索引擎。",
+      "集成汽配大库/代理商系统的电商模块，支持库存余量与进货价格自动更新。",
+      "支持 BLIK、Apple Pay 和 Google Pay 极速支付，并深度对接退换货快递流程。"
+    ]
+  }
+}

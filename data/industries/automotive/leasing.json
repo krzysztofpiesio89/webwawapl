@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Broker leasingowy",
+    "about": "Firmy oferujące leasing, wynajem długoterminowy i kredytowanie pojazdów potrzebują witryn generujących wartościowe zapytania ofertowe. Klienci szukają głównie kalkulatorów rat oraz porównań modeli w różnych finansowaniach.",
+    "focus": "Głównym motorem SEO są frazy związane z kalkulacją leasingu (np. kalkulator leasingowy Warszawa, leasing Audi) oraz dynamiczne dopasowanie parametrów finansowania.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy, bez zbędnych bibliotek blokujących wątek.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego zgłaszania awarii i umawiania wizyt.",
+      "Przycisk bezpośredniego połączenia telefonicznego zoptymalizowany pod kątem konwersji mobilnej (Mobile-First Click-to-Call).",
+      "Zaawansowany kalkulator rat leasingowych i kredytowych z opcją dopasowania wpłaty własnej i wykupu.",
+      "Integracja z API banków oraz systemów Scoringu do błyskawicznego sprawdzania zdolności leasingowej.",
+      "Wieloetapowy, bezpieczny formularz wniosku online z szyfrowaniem SSL i obsługą podpisów e-signature."
+    ]
+  },
+  "en": {
+    "name": "Leasing Broker",
+    "about": "Leasing, financing, and long-term rental agencies require high-conversion websites that generate premium leads. Users look for lease installment calculators and financing options comparisons.",
+    "focus": "The main SEO drivers are search queries focused on lease rate calculations (e.g., auto leasing broker, lease calculator BMW) and dynamic financial parameter adjustments.",
+    "specifications": [
+      "Ultra-lightweight website development (Vite & React / Next.js) loading in a fraction of a second, without thread-blocking libraries.",
+      "Integration with SMS dispatch (Twilio / SMSAPI) for instant alerts and booking notifications.",
+      "Mobile-first direct call button (Click-to-Call) optimized for maximum call conversion rates.",
+      "Advanced lease and credit calculator with customizable down payment and buyout variables.",
+      "Integrations with banking APIs and credit scoring systems for instant leasing approvals.",
+      "Multi-step secure online application form with SSL encryption and e-signature support."
+    ]
+  },
+  "de": {
+    "name": "Leasing-Makler",
+    "about": "Unternehmen, die Leasing, Langzeitmiete und Fahrzeugfinanzierung anbieten, benötigen Websites mit hoher Lead-Konvertierung. Kunden suchen nach Ratenrechnern und Finanzierungsvergleichen.",
+    "focus": "Die wichtigsten SEO-Treiber sind Suchanfragen zur Leasingkalkulation (z. B. Auto Leasing Rechner, Leasing BMW) und flexible Finanzierungs-Berechnungsformulare.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Sekundenbruchteilen lädt, ohne den Thread blockierende Bibliotheken.",
+      "SMS-Benachrichtigungssystem (Twilio / SMSAPI) für Notfall- und Buchungsalarme in Echtzeit.",
+      "Direktruf-Schaltfläche optimiert für mobile Endgeräte (Mobile-First Click-to-Call) zur Maximierung der Conversions.",
+      "Erweiterter Leasing- und Kreditrechner mit anpassbaren Anzahlungs- und Restwertoptionen.",
+      "Anbindung an Banken-APIs und Scoring-Systeme für sofortige Leasingzusagen.",
+      "Mehrstufiges, sicheres Online-Bewerbungsformular mit SSL-Verschlüsselung und E-Signatur-Unterstützung."
+    ]
+  },
+  "uk": {
+    "name": "Лізинговий брокер",
+    "about": "Компанії, що пропонують послуги автолізингу, довгострокової оренди та автокредитування, потребують сайтів з високою конверсією лідів. Клієнти перш за все шукають розрахунки щомісячних платежів.",
+    "focus": "Основою SEO є запити, пов'язані з розрахунком лізингу (наприклад, автолізинг калькулятор, лізинг авто Київ) та інтерактивні форми підбору умов.",
+    "specifications": [
+      "Створення надлегкого сайту (Vite & React / Next.js), що завантажується за частку секунди, без бібліотек, які блокують потік.",
+      "Інтеграція з системою SMS-сповіщень (Twilio / SMSAPI) для моментальних сповіщень та записів.",
+      "Кнопка прямого телефонного дзвінка, оптимізована для мобільної конверсії (Mobile-First Click-to-Call).",
+      "Розширений калькулятор лізингу та кредиту з гнучкими параметрами першого внеску та викупу.",
+      "Інтеграція з банківськими API та системами кредитного скорингу для швидкого схвалення лізингу.",
+      "Багатокрокова захищена форма онлайн-заявки з шифруванням SSL та підтримкою електронного підпису."
+    ]
+  },
+  "ru": {
+    "name": "Лизинговый брокер",
+    "about": "Компании, предлагающие услуги автолизинга, долгосрочной аренды и автокредитования, нуждаются в сайтах с высокой конверсией лидов. Клиенты прежде всего ищут расчеты ежемесячных платежей.",
+    "focus": "Основой SEO являются запросы, связанные с расчетом лизинга (например, автолизинг калькулятор, лизинг авто Москва) и интерактивные формы подбора условий.",
+    "specifications": [
+      "Создание сверхлегкого сайта (Vite & React / Next.js), загружающегося за долю секунды, без блокирующих поток библиотек.",
+      "Интеграция с системой SMS-оповещений (Twilio / SMSAPI) для моментальных уведомлений и записей.",
+      "Кнопка прямого телефонного звонка, оптимизированная для мобильной конверсии (Mobile-First Click-to-Call).",
+      "Продвинутый калькулятор лизинга и кредита с гибкими параметрами первоначального взноса и выкупа.",
+      "Интеграция с банковскими API и системами кредитного скоринга для быстрого одобрения лизинга.",
+      "Пошаговая защищенная форма онлайн-заявки с шифрованием SSL и поддержкой электронной подписи."
+    ]
+  },
+  "zh": {
+    "name": "汽车金融与租赁",
+    "about": "提供以租代购、汽车融资租赁及汽车金融贷款服务的企业，需要高度注重表单转化率的专业网站。意向客户通常会在网上寻找月供计算器，并对比不同金融方案的实际费率。",
+    "focus": "SEO 的主要驱动力是与金融计算相关的词汇（如：汽车租赁计算器、免息购车方案）以及针对汽车品牌融资细分词的动态适配。",
+    "specifications": [
+      "构建超轻量级（Vite & React / Next.js）页面，毫秒级瞬间加载，杜绝任何阻塞主线程的冗余库。",
+      "深度集成短信网关（Twilio / SMSAPI），用于即时提醒与预约通知。",
+      "针对移动端专门优化的 Mobile-First Click-to-Call 一键呼叫按钮，极大提升来电转化率。",
+      "支持自定义首付比例、期限及尾款的融资租赁与分期付款智能计算器。",
+      "对接银行及征信 API 接口，实现秒级在线租赁额度预授信与风控评估。",
+      "采用安全 SSL 加密技术且支持电子签名的多步骤线上租车申请表单。"
+    ]
+  }
+}
