@@ -224,7 +224,7 @@ export default async function CityBrandPage({ params }: PageProps) {
             <span className="inline-block py-1 px-4 rounded-full bg-primary/10 border border-primary/30 text-primary text-xs font-bold uppercase tracking-wider mb-4">
               B2B Services & Software
             </span>
-            <h2 className="text-3xl md:text-4xl font-black uppercase italic tracking-tight text-slate-900 dark:text-white mb-4">
+            <h2 className="text-3xl md:text-4xl font-black uppercase tracking-tight text-slate-900 dark:text-white mb-4">
               {t.title}
             </h2>
             <p className="text-slate-650 dark:text-slate-400 max-w-2xl mx-auto text-sm md:text-base">

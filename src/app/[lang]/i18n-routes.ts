@@ -37,6 +37,38 @@ export const localizedRoutes = {
     de: 'datenschutz',
     zh: 'privacy-policy',
   },
+  websites: {
+    pl: 'dedykowane-strony-www',
+    en: 'custom-websites',
+    uk: 'rozrobka-saytiv',
+    ru: 'razrabotka-saytov',
+    de: 'dedizierte-webseiten',
+    zh: 'custom-websites',
+  },
+  ecommerce: {
+    pl: 'sklepy-internetowe',
+    en: 'ecommerce-stores',
+    uk: 'internet-mahazyny',
+    ru: 'internet-magaziny',
+    de: 'onlineshops',
+    zh: 'ecommerce',
+  },
+  software: {
+    pl: 'dedykowane-aplikacje',
+    en: 'custom-software',
+    uk: 'rozrobka-pz',
+    ru: 'razrabotka-po',
+    de: 'individuelle-software',
+    zh: 'custom-software',
+  },
+  seo: {
+    pl: 'pozycjonowanie-seo',
+    en: 'seo-optimization',
+    uk: 'seo-optymizatsiya',
+    ru: 'seo-optimizatsiya',
+    de: 'seo-optimierung',
+    zh: 'seo-optimization',
+  },
 } as const;
 
 export type StaticPage = keyof typeof localizedRoutes;

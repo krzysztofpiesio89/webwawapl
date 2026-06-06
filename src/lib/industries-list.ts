@@ -62,6 +62,14 @@ export const industrySlugsMap = {
     uk: 'avto',
     ru: 'avto',
     zh: 'automotive'
+  },
+  gastronomy: {
+    pl: 'gastronomia',
+    en: 'gastronomy',
+    de: 'gastronomie',
+    uk: 'hastronomiya',
+    ru: 'gastronomiya',
+    zh: 'gastronomy'
   }
 } as const;
 
@@ -473,6 +481,46 @@ export const professionSlugsMap = {
     uk: 'avtozapchastyny',
     ru: 'avtozapchasti',
     zh: 'car-parts'
+  },
+  restaurant: {
+    pl: 'restauracja',
+    en: 'restaurant',
+    de: 'restaurant',
+    uk: 'restoran',
+    ru: 'restoran',
+    zh: 'restaurant'
+  },
+  dietCatering: {
+    pl: 'catering-dietetyczny',
+    en: 'dietary-catering',
+    de: 'diaet-catering',
+    uk: 'diyetychnyy-keyteryng',
+    ru: 'dieticheskiy-keytering',
+    zh: 'dietary-catering'
+  },
+  foodTruck: {
+    pl: 'food-truck',
+    en: 'food-truck',
+    de: 'food-truck',
+    uk: 'fud-trak',
+    ru: 'fud-trak',
+    zh: 'food-truck'
+  },
+  cafe: {
+    pl: 'kawiarnia',
+    en: 'cafe',
+    de: 'cafe',
+    uk: 'kavyarnya',
+    ru: 'kofeynya',
+    zh: 'cafe'
+  },
+  cateringCompany: {
+    pl: 'firma-cateringowa',
+    en: 'catering-company',
+    de: 'catering-unternehmen',
+    uk: 'keyterynhova-kompaniya',
+    ru: 'keyteringovaya-kompaniya',
+    zh: 'catering-company'
   }
 } as const;
 
@@ -530,6 +578,9 @@ export const industryModelsMap = {
   ],
   automotive: [
     'carRental', 'leasing', 'carBuying', 'mechanic', 'carParts'
+  ],
+  gastronomy: [
+    'restaurant', 'dietCatering', 'foodTruck', 'cafe', 'cateringCompany'
   ]
 } as const;
 
@@ -556,7 +607,6 @@ export function getProfessionIdBySlug(slug: string): ProfessionId | null {
   }
   return null;
 }
-
 export function getServiceIdBySlug(slug: string): ServiceId | null {
   const lower = slug.toLowerCase();
   for (const [id, slugs] of Object.entries(serviceSlugsMap)) {
@@ -566,3 +616,89 @@ export function getServiceIdBySlug(slug: string): ServiceId | null {
   }
   return null;
 }
+
+export interface IndustryTerms {
+  target: string;
+  targetAccusative: string;
+  schemaType: string;
+  pathway: string;
+  action: string;
+  spec: string;
+  scope: string;
+  scopes: string;
+}
+
+export const industryTerminology: Record<IndustryId, Record<string, IndustryTerms>> = {
+  doctor: {
+    pl: { target: 'pacjentów', targetAccusative: 'Pacjentów', schemaType: 'MedicalBusiness / Service', pathway: 'ścieżek pacjenta', action: 'rezerwację wizyty', spec: 'specjalizacji', scope: 'gabinetu', scopes: 'lekarzy' },
+    en: { target: 'patients', targetAccusative: 'Patients', schemaType: 'MedicalBusiness / Service', pathway: 'patient user flows', action: 'booking a visit', spec: 'specialization', scope: 'clinic', scopes: 'doctors' },
+    de: { target: 'Patienten', targetAccusative: 'Patienten', schemaType: 'MedicalBusiness / Service', pathway: 'Patienten-User-Flows', action: 'Terminbuchung', spec: 'Spezialisierung', scope: 'Praxis', scopes: 'Ärzte' },
+    uk: { target: 'пацієнтів', targetAccusative: 'Пацієнтів', schemaType: 'MedicalBusiness / Service', pathway: 'шляхів пацієнта', action: 'запис на прийом', spec: 'спеціалізації', scope: 'кабінету', scopes: 'лікарів' },
+    ru: { target: 'пациентов', targetAccusative: 'Пациентов', schemaType: 'MedicalBusiness / Service', pathway: 'путей пациента', action: 'запись на прием', spec: 'специализации', scope: 'кабинета', scopes: 'врачей' },
+    zh: { target: '患者', targetAccusative: '患者', schemaType: 'MedicalBusiness / Service', pathway: '患者就诊流程', action: '完成在线预约', spec: '专业方向', scope: '诊所', scopes: '医生' }
+  },
+  lawyer: {
+    pl: { target: 'klientów', targetAccusative: 'Klientów', schemaType: 'LegalService / Service', pathway: 'ścieżek klienta', action: 'kontakt lub konsultację online', spec: 'specjalizacji', scope: 'kancelarii', scopes: 'kancelarii prawnych' },
+    en: { target: 'clients', targetAccusative: 'Clients', schemaType: 'LegalService / Service', pathway: 'client user flows', action: 'booking a consultation online', spec: 'specialization', scope: 'law firm', scopes: 'law firms' },
+    de: { target: 'Mandanten', targetAccusative: 'Mandanten', schemaType: 'LegalService / Service', pathway: 'Mandanten-User-Flows', action: 'Online-Beratungsbuchung', spec: 'Spezialisierung', scope: 'Kanzlei', scopes: 'Anwaltskanzleien' },
+    uk: { target: 'клієнтів', targetAccusative: 'Клієнтів', schemaType: 'LegalService / Service', pathway: 'шляхів клієнта', action: 'онлайн-консультацію', spec: 'спеціалізації', scope: 'команії', scopes: 'юристів' },
+    ru: { target: 'клиентов', targetAccusative: 'Клиентов', schemaType: 'LegalService / Service', pathway: 'путей клиента', action: 'онлайн-консультацию', spec: 'специализации', scope: 'компании', scopes: 'юристов' },
+    zh: { target: '客户', targetAccusative: '客户', schemaType: 'LegalService / Service', pathway: '客户咨询流程', action: '在线预订法律咨询', spec: '专业方向', scope: '律所', scopes: '律师事务所' }
+  },
+  psychologist: {
+    pl: { target: 'pacjentów', targetAccusative: 'Pacjentów', schemaType: 'MedicalBusiness / Service', pathway: 'ścieżek pacjenta', action: 'rezerwację wizyty', spec: 'specjalizacji', scope: 'gabinetu', scopes: 'psychologów' },
+    en: { target: 'patients', targetAccusative: 'Patients', schemaType: 'MedicalBusiness / Service', pathway: 'patient user flows', action: 'booking a session', spec: 'specialization', scope: 'practice', scopes: 'psychologists' },
+    de: { target: 'Klienten', targetAccusative: 'Klienten', schemaType: 'MedicalBusiness / Service', pathway: 'Klienten-User-Flows', action: 'Sitzungsbuchung', spec: 'Spezialisierung', scope: 'Praxis', scopes: 'Psychologen' },
+    uk: { target: 'пацієнтів', targetAccusative: 'Пацієнтів', schemaType: 'MedicalBusiness / Service', pathway: 'шляхів пацієнта', action: 'запис на сеанс', spec: 'спеціалізації', scope: 'кабінету', scopes: 'психологів' },
+    ru: { target: 'пациентов', targetAccusative: 'Пациентов', schemaType: 'MedicalBusiness / Service', pathway: 'путей пациента', action: 'запись на сеанс', spec: 'специализации', scope: 'кабинета', scopes: 'психологов' },
+    zh: { target: '来访者', targetAccusative: '来访者', schemaType: 'MedicalBusiness / Service', pathway: '来访者咨询流程', action: '预订咨询服务', spec: '专业方向', scope: '工作室', scopes: '心理咨询师' }
+  },
+  accountant: {
+    pl: { target: 'klientów', targetAccusative: 'Klientów', schemaType: 'FinancialService / Service', pathway: 'ścieżek klienta', action: 'kontakt i zapytanie ofertowe', spec: 'specjalizacji', scope: 'biura rachunkowego', scopes: 'biur rachunkowych' },
+    en: { target: 'clients', targetAccusative: 'Clients', schemaType: 'FinancialService / Service', pathway: 'client user flows', action: 'requesting a quote', spec: 'specialization', scope: 'accounting office', scopes: 'accounting offices' },
+    de: { target: 'Mandanten', targetAccusative: 'Mandanten', schemaType: 'FinancialService / Service', pathway: 'Mandanten-User-Flows', action: 'Angebotsanfrage', spec: 'Spezialisierung', scope: 'Kanzlei', scopes: 'Steuerberater' },
+    uk: { target: 'клієнтів', targetAccusative: 'Клієнтів', schemaType: 'FinancialService / Service', pathway: 'шляхів клієнта', action: 'запит цінової пропозиції', spec: 'спеціалізації', scope: 'бюро', scopes: 'бухгалтерів' },
+    ru: { target: 'клиентов', targetAccusative: 'Клиентов', schemaType: 'FinancialService / Service', pathway: 'путей клиента', action: 'запрос ценового предложения', spec: 'специализация', scope: 'бюро', scopes: 'бухгалтеров' },
+    zh: { target: '客户', targetAccusative: '客户', schemaType: 'FinancialService / Service', pathway: '客户转化流程', action: '获取服务报价', spec: '专业方向', scope: '事务所', scopes: '会计事务所' }
+  },
+  architect: {
+    pl: { target: 'klientów', targetAccusative: 'Klientów', schemaType: 'LocalBusiness / Service', pathway: 'ścieżek klienta', action: 'kontakt i przesłanie briefu', spec: 'specjalizacji', scope: 'pracowni', scopes: 'architektów' },
+    en: { target: 'clients', targetAccusative: 'Clients', schemaType: 'LocalBusiness / Service', pathway: 'client user flows', action: 'submitting a project brief', spec: 'specialization', scope: 'studio', scopes: 'architects' },
+    de: { target: 'Kunden', targetAccusative: 'Kunden', schemaType: 'LocalBusiness / Service', pathway: 'Kunden-User-Flows', action: 'Briefing-Einreichung', spec: 'Spezialisierung', scope: 'Büro', scopes: 'Architekten' },
+    uk: { target: 'клієнтів', targetAccusative: 'Клієнтів', schemaType: 'LocalBusiness / Service', pathway: 'шляхів клієнта', action: 'надсилання брифу проекту', spec: 'спеціалізації', scope: 'студії', scopes: 'архітекторів' },
+    ru: { target: 'клиентов', targetAccusative: 'Клиентов', schemaType: 'LocalBusiness / Service', pathway: 'путей клиента', action: 'отправку брифа проекта', spec: 'специализация', scope: 'студии', scopes: 'архитекторов' },
+    zh: { target: '客户', targetAccusative: '客户', schemaType: 'LocalBusiness / Service', pathway: '客户沟通流程', action: '提交项目意向书', spec: '专业方向', scope: '设计所', scopes: '建筑事务所' }
+  },
+  construction: {
+    pl: { target: 'klientów', targetAccusative: 'Klientów', schemaType: 'HomeAndConstructionBusiness / Service', pathway: 'ścieżek klienta', action: 'szybki kontakt i wycenę online', spec: 'branży', scope: 'firmy budowlanej', scopes: 'firm budowlanych' },
+    en: { target: 'customers', targetAccusative: 'Customers', schemaType: 'HomeAndConstructionBusiness / Service', pathway: 'customer user flows', action: 'requesting a cost estimate', spec: 'industry', scope: 'construction company', scopes: 'builders' },
+    de: { target: 'Kunden', targetAccusative: 'Kunden', schemaType: 'HomeAndConstructionBusiness / Service', pathway: 'Kunden-User-Flows', action: 'Angebotsanfrage', spec: 'Branche', scope: 'Bauunternehmen', scopes: 'Bauunternehmen' },
+    uk: { target: 'клієнтів', targetAccusative: 'Клієнтів', schemaType: 'HomeAndConstructionBusiness / Service', pathway: 'шляхів клієнта', action: 'запит кошторису online', spec: 'галузі', scope: 'будівельної компанії', scopes: 'будівельних фірм' },
+    ru: { target: 'клиентов', targetAccusative: 'Клиентов', schemaType: 'HomeAndConstructionBusiness / Service', pathway: 'путей клиента', action: 'запрос сметы онлайн', spec: 'отрасли', scope: 'строительной компании', scopes: 'строительных фирм' },
+    zh: { target: '客户', targetAccusative: '客户', schemaType: 'HomeAndConstructionBusiness / Service', pathway: '客户咨询流程', action: '获取装修/建筑估价', spec: '行业', scope: '工程公司', scopes: '建筑工程公司' }
+  },
+  beauty: {
+    pl: { target: 'klientów', targetAccusative: 'Klientów', schemaType: 'BeautySalon / Service', pathway: 'ścieżek klienta', action: 'rezerwację wizyty i usługi', spec: 'specjalizacji', scope: 'salonu urody', scopes: 'salonów piękności' },
+    en: { target: 'clients', targetAccusative: 'Clients', schemaType: 'BeautySalon / Service', pathway: 'client user flows', action: 'booking a beauty service', spec: 'specialization', scope: 'beauty salon', scopes: 'beauty salons' },
+    de: { target: 'Kunden', targetAccusative: 'Kunden', schemaType: 'BeautySalon / Service', pathway: 'Kunden-User-Flows', action: 'Terminbuchung für Services', spec: 'Spezialisierung', scope: 'Salon', scopes: 'Schönheitssalons' },
+    uk: { target: 'клієнтів', targetAccusative: 'Клієнтів', schemaType: 'BeautySalon / Service', pathway: 'шляхів клієнта', action: 'запис на послугу краси', spec: 'спеціалізації', scope: 'салону', scopes: 'салонів краси' },
+    ru: { target: 'клиентов', targetAccusative: 'Клиентов', schemaType: 'BeautySalon / Service', pathway: 'путей клиента', action: 'запись на услугу красоты', spec: 'специализация', scope: 'салона', scopes: 'салонов красоты' },
+    zh: { target: '顾客', targetAccusative: '顾客', schemaType: 'BeautySalon / Service', pathway: '顾客消费流程', action: '在线预订美业服务', spec: '专业方向', scope: '美容院', scopes: '美发美容沙龙' }
+  },
+  automotive: {
+    pl: { target: 'klientów', targetAccusative: 'Klientów', schemaType: 'AutoRepair / AutoDealer / Service', pathway: 'ścieżek klienta', action: 'kontakt i wycenę', spec: 'specjalizacji', scope: 'serwisu', scopes: 'firm motoryzacyjnych' },
+    en: { target: 'customers', targetAccusative: 'Customers', schemaType: 'AutoRepair / AutoDealer / Service', pathway: 'customer user flows', action: 'requesting a cost estimate', spec: 'specialization', scope: 'automotive business', scopes: 'automotive businesses' },
+    de: { target: 'Kunden', targetAccusative: 'Kunden', schemaType: 'AutoRepair / AutoDealer / Service', pathway: 'Kunden-User-Flows', action: 'Angebotsanfrage', spec: 'Spezialisierung', scope: 'Betrieb', scopes: 'Automobilunternehmen' },
+    uk: { target: 'клієнтів', targetAccusative: 'Клієнтів', schemaType: 'AutoRepair / AutoDealer / Service', pathway: 'шляхів клієнта', action: 'запит цінової пропозиції', spec: 'спеціалізації', scope: 'сервісу', scopes: 'автомобільних фірм' },
+    ru: { target: 'клиентов', targetAccusative: 'Клиентов', schemaType: 'AutoRepair / AutoDealer / Service', pathway: 'путей клиента', action: 'запрос ценового предложения', spec: 'специализация', scope: 'сервиса', scopes: 'автомобильных фирм' },
+    zh: { target: '客户', targetAccusative: '客户', schemaType: 'AutoRepair / AutoDealer / Service', pathway: '客户预订流程', action: '获取服务报价', spec: '专业方向', scope: '汽修厂/车行', scopes: '汽车服务企业' }
+  },
+  gastronomy: {
+    pl: { target: 'klientów/gości', targetAccusative: 'Klientów', schemaType: 'FoodEstablishment / Service', pathway: 'ścieżek klienta', action: 'złożenie zamówienia online', spec: 'branży', scope: 'lokalu / restauracji', scopes: 'gastronomii' },
+    en: { target: 'customers/guests', targetAccusative: 'Customers', schemaType: 'FoodEstablishment / Service', pathway: 'customer user flows', action: 'submitting an online order', spec: 'industry', scope: 'restaurant / establishment', scopes: 'restaurants' },
+    de: { target: 'Gäste/Kunden', targetAccusative: 'Gäste', schemaType: 'FoodEstablishment / Service', pathway: 'Kunden-User-Flows', action: 'Online-Bestellaufgabe', spec: 'Branche', scope: 'Lokal / Restaurant', scopes: 'Gastronomiebetriebe' },
+    uk: { target: 'клієнтів/гостей', targetAccusative: 'Клієнтів', schemaType: 'FoodEstablishment / Service', pathway: 'шляхів клієнта', action: 'онлайн-замовлення їжі', spec: 'галузі', scope: 'закладу / ресторану', scopes: 'гастрономії' },
+    ru: { target: 'клиентов/гостей', targetAccusative: 'Клиентов', schemaType: 'FoodEstablishment / Service', pathway: 'путей клиента', action: 'онлайн-заказ еды', spec: 'отрасль', scope: 'заведения / ресторана', scopes: 'гастрономии' },
+    zh: { target: '顾客/饕客', targetAccusative: '客户', schemaType: 'FoodEstablishment / Service', pathway: '用户点餐流程', action: '提交在线订餐订单', spec: '行业', scope: '餐馆/商户', scopes: '餐饮企业' }
+  }
+};

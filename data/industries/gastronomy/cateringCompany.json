@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Firma cateringowa",
+    "about": "Catering okolicznościowy i biznesowy wymaga profesjonalnego podejścia B2B oraz B2C. Klienci planujący wesela, komunie, chrzciny czy eventy firmowe poszukują konkretnych wycen. Strona internetowa wyposażona w interaktywny kalkulator kosztów cateringu, formularz wyboru menu oraz profesjonalne portfolio zrealizowanych imprez drastycznie skraca proces ofertowania i zwiększa konwersję.",
+    "focus": "Firmy cateringowe konkurują w wyszukiwarkach na frazy komercyjne o wysokiej wartości (np. catering na wesele Warszawa, catering biznesowy, bufet szwedzki Warszawa). Kluczowa jest wysoka widoczność na frazy intencyjne B2B.",
+    "specifications": [
+      "Interaktywny kalkulator wyceny imprezy (liczba gości, rodzaj menu: zimne przekąski, dania ciepłe, desery, obsługa kelnerska).",
+      "Generator ofert PDF do automatycznego pobrania szczegółowego menu B2B bezpośrednio ze strony.",
+      "Formularz rezerwacji terminów i zapytań eventowych ze szczegółowym zakresem usług logistycznych.",
+      "Rozbudowane portfolio (Case Studies) z galeriami zdjęć z obsłużonych bankietów, wesel i konferencji.",
+      "Moduł opinii i rekomendacji od klientów biznesowych z logotypami firm partnerskich.",
+      "Wdrożenie Schema.org (CateringService / LocalBusiness) w celu optymalizacji pozycjonowania oferty imprezowej."
+    ]
+  },
+  "en": {
+    "name": "Catering company",
+    "about": "Event and corporate catering requires a professional B2B and B2C approach. Clients planning weddings, family celebrations, or corporate events look for transparent pricing. A website equipped with an interactive catering cost calculator, menu selection builders, and a professional event portfolio drastically shortens sales cycles and boosts conversions.",
+    "focus": "Catering companies compete in search engines on high-value commercial terms (e.g. wedding catering Warsaw, corporate event catering, finger food buffet). Visibility for high-intent B2B search phrases is critical.",
+    "specifications": [
+      "Interactive event cost estimator (guest count, menu types: cold finger food, warm dishes, desserts, waiter service toggles).",
+      "Dynamic PDF offer generator enabling corporate clients to download menu packages instantly.",
+      "Structured event inquiry booking forms capturing event details, guest counts, and logistical requirements.",
+      "Case studies portfolio detailing executed banquets, corporate conferences, and outdoor weddings.",
+      "Partnership logos slider and verified testimonial section showcasing B2B clients' feedback.",
+      "Schema.org integrations (CateringService / LocalBusiness) to target event catering keywords in search results."
+    ]
+  },
+  "de": {
+    "name": "Catering-Unternehmen",
+    "about": "Event- und Business-Catering erfordert einen professionellen B2B- und B2C-Auftritt. Kunden, die Hochzeiten oder Firmenevents planen, suchen transparente Preise. Ein interaktiver Catering-Kostenrechner und eine Menüauswahl verkürzen den Angebotsprozess erheblich.",
+    "focus": "Catering-Firmen konkurrieren um wertvolle Keywords (z.B. Hochzeits-Catering Warschau, Business-Catering). B2B-Sichtbarkeit ist hierbei der wichtigste Faktor.",
+    "specifications": [
+      "Interaktiver Event-Kostenrechner (Gästeanzahl, Menüauswahl, Servicepersonal, Logistik).",
+      "PDF-Angebotsgenerator zum direkten Download detaillierter B2B-Menüvorschläge.",
+      "Anfrageformular für Eventbuchungen mit Abfrage aller logistischen Rahmenbedingungen.",
+      "Case Studies-Bereich mit Fotos und Berichten von Banketten, Hochzeiten und Firmenfeiern.",
+      "Referenz-Bereich mit Logos zufriedener Firmenkunden und B2B-Kundenbewertungen.",
+      "Schema.org-Optimierung (CateringService) zur optimalen Platzierung bei Event-Anfragen."
+    ]
+  },
+  "uk": {
+    "name": "Фірма кейтерингу",
+    "about": "Організація харчування на заходах та бізнес-кейтеринг вимагають професійного B2B та B2C підходу. Клієнти, які шукають фуршет на весілля, ювілей або корпоратив, очікують швидких розрахунків. Інтерактивний калькулятор вартості кейтерингу та конструктор банкетного меню суттєво підвищують конверсію сайту.",
+    "focus": "Кейтерингові компанії змагаються в пошуку за дорогими комерційними запитами (наприклад, кейтеринг на весілля Варшава, корпоративний кейтеринг, фуршетні закуски). Важлива видимість у сегменті B2B.",
+    "specifications": [
+      "Інтерактивний калькулятор вартості бенкету (кількість осіб, холодні закуски, гаряче, десерти, обслуговування).",
+      "Автоматичний генератор комерційних пропозицій у PDF для корпоративних клієнтів.",
+      "Детальна форма запиту на проведення заходів з урахуванням логістичних особливостей локації.",
+      "Портфоліо виконаних проектів (Case Studies) з фотогалереями обслугованих банкетів та конференцій.",
+      "Блок відгуків від бізнес-клієнтів та слайдер з логотипами корпоративних партнерів.",
+      "Впровадження Schema.org (CateringService / LocalBusiness) для оптимізації під комерційні запити."
+    ]
+  },
+  "ru": {
+    "name": "Кейтеринговая компания",
+    "about": "Событийный и корпоративный кейтеринг требует сильного B2B и B2C позиционирования. Клиенты, планирующие свадьбы, банкеты или корпоративы, ищут точную стоимость. Сайт, оснащенный калькулятором сметы банкета и конструктором меню, значительно упрощает продажи.",
+    "focus": "Кейтеринговые компании конкурируют за дорогие коммерческие запросы (например, кейтеринг на свадьбу Варшава, банкет на корпоратив, фуршетные закуски). Главный акцент делается на привлечении B2B заказчиков.",
+    "specifications": [
+      "Интерактивный калькулятор стоимости мероприятия (число гостей, тип меню: холодные закуски, горячее, официанты).",
+      "Генератор PDF-предложений для моментального скачивания корпоративного меню прямо с сайта.",
+      "Форма бронирования дат и отправки спецификаций с учетом логистики площадки.",
+      "Портфолио реализованных кейсов (Case Studies) с фотоотчетами с обслуженных банкетов и конференций.",
+      "Раздел отзывов корпоративных клиентов со слайдером логотипов брендов-партнеров.",
+      "Внедрение разметки Schema.org (CateringService / LocalBusiness) для целевого привлечения ивент-трафика."
+    ]
+  },
+  "zh": {
+    "name": "宴会定制与外包餐饮公司 / Catering",
+    "about": "节日宴请与企业商务餐饮外包对 B2B 及 B2C 服务的专业度要求极高。筹备婚礼、家庭聚会或企业年会的客户迫切需要公开透明的预估价。在网站上配备交互式的宴会预算计算器、自助式菜单选择组合器以及承办活动的照片墙展示，能够极大缩短成单沟通周期，提高最终转化率。",
+    "focus": "餐饮外包公司在搜索引擎中主要竞争高单价的商业关键词（例如：华沙婚礼宴会餐饮、企业年会自助餐外包、冷餐会冷盘定制）。在极具意向性的 B2B 搜索词下获得高排位是盈利关键。",
+    "specifications": [
+      "交互式宴会外包费用估算器（输入来宾人数、选择菜单类别：冷餐、热菜、甜点，一键勾选侍应生服务等参数）。",
+      "自动 PDF 报价单生成下载系统，方便企业采购直接在官网下载详细的 B2B 餐饮套餐明细。",
+      "规范的宴会活动咨询表单，完美收集派送地点、场地厨房条件等物流对接要素。",
+      "丰富的真实承办案例（Case Studies），全方位展示承接大型酒会、行业论坛及户外婚礼的图文故事。",
+      "合作伙伴展区及大客户评价墙，展示合作品牌的 Logo，增强 B2B 谈判信任度。",
+      "配置 Schema.org（CateringService / LocalBusiness）结构化微数据，精确拦截各类宴会外包搜索流量。"
+    ]
+  }
+}

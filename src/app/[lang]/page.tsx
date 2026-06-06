@@ -1,6 +1,7 @@
 import { cookies } from 'next/headers';
 import ContactForm from '@/components/ContactForm';
 import HeroSection from '@/components/HeroSection';
+import IndustriesShowcase from '@/components/IndustriesShowcase';
 import { getGlobalSettings } from '@/lib/settings';
 import { getCityBySlug } from '@/lib/cities';
 import { getDictionary, Locale } from './dictionaries';
@@ -19,6 +20,9 @@ export default async function Home(props: { params: Promise<{ lang: string  }> }
     <main className="min-h-screen bg-slate-50 dark:bg-slate-950 text-slate-800 dark:text-white transition-colors">
       {/* Hero Section */}
       <HeroSection lang={params.lang} phone={settings?.phone} email={settings?.email} />
+
+      {/* Industries Showcase Section */}
+      <IndustriesShowcase lang={params.lang as Locale} dict={dict.industriesShowcase} />
 
       {/* Formularz Kontaktowy */}
       <section id="kontakt" className="py-24 bg-slate-100 dark:bg-slate-950/40 border-t border-slate-200 dark:border-slate-900/60 transition-colors duration-300">

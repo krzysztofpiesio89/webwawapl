@@ -13,7 +13,8 @@ import {
   professionSlugsMap, 
   IndustryId, 
   ProfessionId,
-  industryModelsMap
+  industryModelsMap,
+  industryTerminology
 } from '@/lib/industries-list';
 
 // Key Warsaw districts + nearby cities for regional SEO links
@@ -48,6 +49,7 @@ const RELATED_INDUSTRIES: Record<IndustryId, IndustryId[]> = {
   construction: ['architect'],
   beauty: ['psychologist'],
   automotive: [],
+  gastronomy: [],
 };
 
 // Brand-level UI translation strings
@@ -56,31 +58,49 @@ const BRAND_UI = {
     locationsHeading: (ind: string) => `${ind} – usługi w Warszawie i okolicach`,
     relatedHeading: 'Podobne branże i usługi IT',
     disclaimer: (ind: string) => `webwawa.pl – projektujemy strony WWW i systemy IT dla branży: ${ind} w Warszawie i regionie mazowieckim. Powyższe linki prowadzą do dedykowanych ofert lokalnych.`,
+    aboutHeading: "O specyfice branży",
+    selectModel: "Wybierz specjalizację (model profesji):",
+    solutionsHeading: "Stosowane rozwiązania"
   },
   en: {
     locationsHeading: (ind: string) => `${ind} – services in Warsaw & surrounding area`,
     relatedHeading: 'Related industries & IT services',
     disclaimer: (ind: string) => `webwawa.pl – we build websites & IT systems for ${ind} businesses in Warsaw and the Masovian region.`,
+    aboutHeading: "About the industry specifics",
+    selectModel: "Select profession model:",
+    solutionsHeading: "Applied solutions"
   },
   de: {
     locationsHeading: (ind: string) => `${ind} – Dienste in Warschau & Umgebung`,
     relatedHeading: 'Verwandte Branchen & IT-Dienste',
     disclaimer: (ind: string) => `webwawa.pl – Websites & IT-Systeme für ${ind} in Warschau und der Masowischen Region.`,
+    aboutHeading: "Über die Branchenspezifika",
+    selectModel: "Wählen Sie das Berufsmodell:",
+    solutionsHeading: "Angewandte Lösungen"
   },
   uk: {
     locationsHeading: (ind: string) => `${ind} – послуги у Варшаві та околицях`,
     relatedHeading: 'Схожі галузі та IT-послуги',
     disclaimer: (ind: string) => `webwawa.pl – розробляємо сайти та IT-системи для галузі ${ind} у Варшаві та Мазовії.`,
+    aboutHeading: "Про специфіку галузі",
+    selectModel: "Виберіть спеціалізацію (модель професії):",
+    solutionsHeading: "Застосовувані рішення"
   },
   ru: {
     locationsHeading: (ind: string) => `${ind} – услуги в Варшаве и окрестностях`,
     relatedHeading: 'Похожие отрасли и IT-услуги',
     disclaimer: (ind: string) => `webwawa.pl – разрабатываем сайты и IT-системы для сферы ${ind} в Варшаве и Мазовецком регионе.`,
+    aboutHeading: "О специфике отрасли",
+    selectModel: "Выберите специализацию (модель профессии):",
+    solutionsHeading: "Применяемые решения"
   },
   zh: {
     locationsHeading: (ind: string) => `${ind} – 华沙及周边地区服务`,
     relatedHeading: '相关行业与IT服务',
     disclaimer: (ind: string) => `webwawa.pl – 为华沙及马佐得天山地区${ind}企业提供网站开发与IT系统服务。`,
+    aboutHeading: "关于行业特色",
+    selectModel: "选择专业方向（职业模型）：",
+    solutionsHeading: "应用解决方案"
   },
 } as const;
 
@@ -105,7 +125,7 @@ export async function generateStaticParams() {
     'sulejowek', 'grodzisk-mazowiecki', 'nowy-dwor-mazowiecki', 'minsk-mazowiecki',
     'lomianki', 'ozarow-mazowiecki', 'nadarzyn', 'warszawa'
   ];
-  const brands = ['doctor', 'lawyer', 'psychologist', 'accountant', 'architect', 'construction', 'beauty', 'automotive'];
+  const brands = ['doctor', 'lawyer', 'psychologist', 'accountant', 'architect', 'construction', 'beauty', 'automotive', 'gastronomy'];
   
   const paramsList = [];
   for (const lang of langs) {
@@ -129,16 +149,33 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   
   if (!trans) return {};
 
-  const isPl = lang === 'pl';
   const localizedBrandName = trans.industryName;
 
-  const title = isPl 
-    ? `Dedykowane strony i systemy IT dla sektora: ${localizedBrandName} - ${cityName} | webwawa.pl`
-    : `Custom Websites & IT for ${localizedBrandName} - ${cityName} | webwawa.pl`;
-    
-  const description = isPl 
-    ? `Tworzenie nowoczesnych stron internetowych, aplikacji PWA i pozycjonowanie SEO dla branży: ${localizedBrandName} w lokalizacji ${cityName}. Zwiększ konwersję pacjentów.`
-    : `Designing modern websites, PWA apps, and local SEO positioning for ${localizedBrandName} in ${cityName}. Build trust and acquire more patients.`;
+  const terms = industryTerminology[brandId as IndustryId]?.[lang] || industryTerminology[brandId as IndustryId]?.en || {
+    target: lang === 'pl' ? 'klientów' : 'clients',
+    targetAccusative: lang === 'pl' ? 'Klientów' : 'Clients'
+  };
+
+  const metaTitles = {
+    pl: `Dedykowane strony i systemy IT dla sektora: ${localizedBrandName} - ${cityName} | webwawa.pl`,
+    en: `Custom Websites & IT for ${localizedBrandName} - ${cityName} | webwawa.pl`,
+    de: `Dedizierte Webseiten und IT-Systeme für den Sektor: ${localizedBrandName} - ${cityName} | webwawa.pl`,
+    uk: `Індивідуальні сайти та IT-системи для сектору: ${localizedBrandName} - ${cityName} | webwawa.pl`,
+    ru: `Индивидуальные сайты и IT-системы для сектора: ${localizedBrandName} - ${cityName} | webwawa.pl`,
+    zh: `为${localizedBrandName}领域定制网站与 IT 系统 - ${cityName} | webwawa.pl`
+  };
+
+  const metaDescriptions = {
+    pl: `Tworzenie nowoczesnych stron internetowych, aplikacji PWA i pozycjonowanie SEO dla branży: ${localizedBrandName} w lokalizacji ${cityName}. Zwiększ konwersję ${terms.target}.`,
+    en: `Designing modern websites, PWA apps, and local SEO positioning for ${localizedBrandName} in ${cityName}. Build trust and acquire more ${terms.target}.`,
+    de: `Erstellung moderner Webseiten, PWA-Apps und lokale SEO-Positionierung für die Branche: ${localizedBrandName} in ${cityName}. Steigern Sie die Konversion der ${terms.target}.`,
+    uk: `Створення сучасних веб-сайтів, додатків PWA та локальне просування SEO для галузі: ${localizedBrandName} у ${cityName}. Збільшуйте конверсію для ${terms.target}.`,
+    ru: `Создание современных веб-сайтов, приложений PWA и локальное продвижение SEO для отрасли: ${localizedBrandName} в ${cityName}. Увеличивайте конверсию для ${terms.target}.`,
+    zh: `为在 ${cityName} 的 ${localizedBrandName} 行业提供现代网站建设、PWA 应用设计和本地 SEO 排名优化。提升${terms.target}转化率。`
+  };
+
+  const title = metaTitles[lang as Locale] || metaTitles.en;
+  const description = metaDescriptions[lang as Locale] || metaDescriptions.en;
 
   const langPrefix = lang === 'pl' ? '' : `/${lang}`;
   const parentSlug = lang === 'pl' ? 'strona-dla' : 
@@ -201,6 +238,7 @@ export default async function IndustryBrandPage({ params }: PageProps) {
   const settings = getGlobalSettings();
   const dict = await getDictionary(lang as Locale);
   const isPl = lang === 'pl';
+  const bt = BRAND_UI[lang as keyof typeof BRAND_UI] || BRAND_UI.en;
   const homeUrl = lang === 'pl' ? '/' : `/${lang}`;
   const cityName = city ? city.name : (isPl ? 'Warszawa / cała Polska' : 'Warsaw');
 
@@ -352,26 +390,26 @@ export default async function IndustryBrandPage({ params }: PageProps) {
           <div className="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
             <div className="md:col-span-7 space-y-6">
               <span className="inline-block py-1 px-4 rounded-full bg-primary/10 border border-primary/30 text-primary text-xs font-bold uppercase tracking-wider">
-                O specyfice branży
+                {bt.aboutHeading}
               </span>
               <h2 className="text-3xl font-bold tracking-tight text-slate-900 dark:text-white">
                 {trans.title}
               </h2>
-              <p className="text-slate-600 dark:text-slate-400 leading-relaxed text-md">
+              <p className="text-slate-650 dark:text-slate-400 leading-relaxed text-md">
                 {trans.about}
               </p>
               
               {/* Specializations Quick Navigation */}
               <div className="pt-6">
                 <h3 className="font-bold text-lg mb-4 text-slate-900 dark:text-white">
-                  {isPl ? "Wybierz specjalizację (model profesji):" : "Select profession model:"}
+                  {bt.selectModel}
                 </h3>
                 <div className="flex flex-wrap gap-4">
                   {Object.entries(trans.models).map(([modelKey, modelVal]) => {
                     const modelSlug = professionSlugsMap[modelKey as ProfessionId][lang as Locale];
                     const url = city 
-                      ? `${lang === 'pl' ? '' : '/' + lang}/${city.slug}/${brandSlug}/${modelSlug}`
-                      : `${lang === 'pl' ? '' : '/' + lang}/${parentSlug}/${brandSlug}/${modelSlug}`;
+                      ? `${langPrefix}/${city.slug}/${brandSlug}/${modelSlug}`
+                      : `${langPrefix}/${parentSlug}/${brandSlug}/${modelSlug}`;
                     return (
                       <Link 
                         key={modelKey}
@@ -389,8 +427,8 @@ export default async function IndustryBrandPage({ params }: PageProps) {
             {/* Tech Stack Box */}
             <div className="md:col-span-5 glass-card relative overflow-hidden">
               <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-primary to-secondary"></div>
-              <h3 className="font-black text-xl mb-6 uppercase tracking-tight italic text-slate-900 dark:text-white">
-                Stosowane rozwiązania
+              <h3 className="font-black text-xl mb-6 uppercase tracking-tight text-slate-900 dark:text-white">
+                {bt.solutionsHeading}
               </h3>
               <ul className="space-y-4">
                 {Object.entries(trans.series).map(([key, val]) => (
@@ -433,7 +471,7 @@ export default async function IndustryBrandPage({ params }: PageProps) {
               <div>
                 <div className="flex items-center gap-3 mb-5">
                   <span className="text-2xl">📍</span>
-                  <h2 className="text-lg font-black uppercase italic tracking-tight text-slate-800 dark:text-white">
+                  <h2 className="text-lg font-black uppercase tracking-tight text-slate-800 dark:text-white">
                     {bt.locationsHeading(trans.industryName)}
                   </h2>
                 </div>
@@ -471,7 +509,7 @@ export default async function IndustryBrandPage({ params }: PageProps) {
                   <div>
                     <div className="flex items-center gap-3 mb-5">
                       <span className="text-2xl">🔗</span>
-                      <h2 className="text-lg font-black uppercase italic tracking-tight text-slate-800 dark:text-white">
+                      <h2 className="text-lg font-black uppercase tracking-tight text-slate-800 dark:text-white">
                         {bt.relatedHeading}
                       </h2>
                     </div>

@@ -54,6 +54,31 @@ The platform supports **6 languages** to maximize global relevance and search pr
 
 ---
 
+## 🛠️ Main Service Landing Pages (Główne Usługi)
+To support general and B2B customers, webwawa.pl provides dedicated high-converting service landing pages:
+
+### 1. Custom Website Design & Development (Dedykowane Strony WWW)
+- **Slugs**: `/dedykowane-strony-www` (PL), `/custom-websites` (EN/ZH), `/dedizierte-webseiten` (DE), `/rozrobka-saytiv` (UK), `/razrabotka-saytov` (RU).
+- **Core offerings**: High performance Next.js pages, corporate WordPress CMS, static PWA landing pages (LCP < 0.5s, Core Web Vitals 100/100).
+- **Pricing**: Landing Page from 3,900 PLN, WordPress Biznesowy from 6,900 PLN, Next.js PWA from 14,900 PLN.
+
+### 2. E-commerce & Online Store Development (E-commerce & Sklepy)
+- **Slugs**: `/sklepy-internetowe` (PL), `/ecommerce-stores` (EN), `/onlineshops` (DE), `/internet-mahazyny` (UK), `/internet-magaziny` (RU), `/ecommerce` (ZH).
+- **Core offerings**: Headless WooCommerce, Headless Shopify (Next.js Storefront), PrestaShop + custom PWA front-ends. ERP & POS synchronization, payment gateways (Stripe, BLIK, PayU).
+- **Pricing**: WooCommerce Starter from 5,900 PLN, WooCommerce Professional / Shopify from 12,900 PLN, Headless PWA Store from 22,000 PLN.
+
+### 3. Custom Software & Web Applications (Dedykowane Aplikacje)
+- **Slugs**: `/dedykowane-aplikacje` (PL), `/custom-software` (EN/ZH), `/individuelle-software` (DE), `/rozrobka-pz` (UK), `/razrabotka-po` (RU).
+- **Core offerings**: Custom CRM/ERP software, Booking platforms, custom SaaS development, LLM integrations (FastAPI/Python), vector RAG bases.
+- **Pricing**: API Integration & Automation from 7,900 PLN, Booking/CRM (Custom Quote from 25,000 PLN), SaaS/Enterprise (Custom Quote from 50,000 PLN).
+
+### 4. SEO & GEO Optimization (Pozycjonowanie SEO & GEO)
+- **Slugs**: `/pozycjonowanie-seo` (PL), `/seo-optimization` (EN/ZH), `/seo-optimierung` (DE), `/seo-optymizatsiya` (UK), `/seo-optimizatsiya` (RU).
+- **Core offerings**: AI Search Engine Optimization (GEO/AEO), Google Business Profile & Google Maps ranking, zero-click traffic conversion, semantic structured content, Schema JSON-LD.
+- **Pricing (Subscription)**: Local SEO from 1,500 PLN/mo, National SEO from 3,500 PLN/mo, E-commerce + AI Search GEO from 5,900 PLN/mo.
+
+---
+
 ## 🚗 Automotive Industry Section (Branża Motoryzacyjna)
 
 webwawa.pl builds **dedicated IT systems, booking platforms, landing pages and SEO campaigns** for all automotive business types. We cover every major car brand and model, creating thousands of hyper-targeted landing pages for Polish and international automotive businesses operating in Warsaw and the Masovian region.

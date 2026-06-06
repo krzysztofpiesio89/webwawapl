@@ -9,6 +9,7 @@
     "valuation": "Online-Bewertung",
     "recentlyBought": "Zuletzt gekauft",
     "aboutUs": "Über uns",
+    "industries": "Branchen",
     "callNow": "Jetzt anrufen",
     "brands": "Unsere Marken"
   },
@@ -25,6 +26,12 @@
     "floatingBadge24h": "24h",
     "floatingBadgeTitle": "Kostenlose Abholung & Bewertung",
     "floatingBadgeDesc": "Wir erreichen {city} und Umgebung in 30 Minuten!"
+  },
+  "industriesShowcase": {
+    "title": "Maßgeschneiderte IT-Systeme & Webseiten für Ihre Branche",
+    "subtitle": "Wir entwickeln fortschrittliche Plattformen, die auf die Besonderheiten bestimmter Berufe zugeschnitten sind. Steigern Sie Ihre Conversions.",
+    "cta": "Alle Branchen & Fachrichtungen anzeigen",
+    "sectorLabel": "Bereich"
   },
   "features": {
     "freeValuation": {

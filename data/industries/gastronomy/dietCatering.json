@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Catering dietetyczny",
+    "about": "Branża cateringów dietetycznych (diet pudełkowych) rozwija się niezwykle szybko. Kluczem do konwersji w tym biznesie jest prosty i przejrzysty konfigurator diety, kalkulator zapotrzebowania kalorycznego oraz wygodny kalendarz dostaw zintegrowany z płatnościami cyklicznymi (subskrypcjami). Szybka strona PWA zapewnia maksymalne domknięcie koszyka na urządzeniach mobilnych.",
+    "focus": "Cateringi pudełkowe konkurują w wyszukiwarkach na frazy ogólnopolskie i regionalne (np. catering dietetyczny Warszawa, tania dieta pudełkowa). Kluczowe jest SEO techniczne, szybkość ładowania oraz landing page zoptymalizowane pod konwersję.",
+    "specifications": [
+      "Interaktywny konfigurator zamówienia (wybór kaloryczności, liczby posiłków, wykluczeń i okresu dostaw).",
+      "Wbudowany kalkulator zapotrzebowania kalorycznego BMR/TDEE ułatwiający dobór diety.",
+      "Integracja z systemami płatności odnawialnych Stripe Billing dla automatycznego przedłużania diet.",
+      "Panel klienta umożliwiający samodzielne zarządzanie kalendarzem dostaw, zmianą adresu i zawieszaniem dni.",
+      "Integracja z oprogramowaniem do zarządzania produkcją i logistyką cateringową (np. MasterLife, Dietly) przez API.",
+      "Zgodność witryny z Mobile-First PWA (dodawanie do ekranu telefonu jako lekka aplikacja)."
+    ]
+  },
+  "en": {
+    "name": "Dietary catering",
+    "about": "The dietary catering (box diet) industry is growing rapidly. The key to conversion in this business is a simple and clear diet builder, a calorie needs calculator, and an easy delivery calendar integrated with recurring subscription payments. A fast PWA site ensures maximum checkout conversion rates on mobile devices.",
+    "focus": "Box diet providers compete in search engines on national and regional terms (e.g. healthy diet catering Warsaw, affordable box diet). Technical SEO, fast load times, and conversion-optimized landing pages are critical.",
+    "specifications": [
+      "Interactive diet builder (select calories, meal count, dietary exclusions, and delivery schedules).",
+      "Built-in BMR/TDEE calorie needs calculator helping users choose the correct meal plan.",
+      "Stripe Billing integration for secure recurring payments and automatic subscription renewals.",
+      "Dedicated client portal allowing self-service calendar edits, address updates, and delivery pauses.",
+      "API connections with production and kitchen management software (MasterLife, Dietly, etc.).",
+      "Full PWA implementation allowing users to add the diet calendar to their phone's home screen."
+    ]
+  },
+  "de": {
+    "name": "Diät-Catering",
+    "about": "Die Diät-Catering-Branche (Box-Diäten) wächst rasant. Der Schlüssel zur Conversion in diesem Geschäft ist ein einfacher und klarer Diätkonfigurator, ein Kalorienrechner und ein flexibler Lieferkalender mit integrierten Abo-Zahlungen. Eine schnelle PWA-Website maximiert die Conversions auf Mobilgeräten.",
+    "focus": "Catering-Dienste konkurrieren in Suchmaschinen um stark umkämpfte Begriffe (z.B. Diät-Catering Warschau). Technisches SEO und schnelle Ladezeiten sind hierbei kaufentscheidend.",
+    "specifications": [
+      "Interaktiver Diätkonfigurator (Auswahl von Kalorienzahl, Mahlzeitenanzahl, Ausschlusskriterien und Zeitraum).",
+      "Integrierter BMR/TDEE-Kalorienbedarfsrechner zur Erleichterung der Diätauswahl.",
+      "Stripe Billing-Integration für wiederkehrende Zahlungen und automatische Abo-Verlängerungen.",
+      "Kundenportal zur selbstständigen Verwaltung des Lieferkalenders, Adressänderungen und Lieferpausen.",
+      "API-Anbindung an Küchen- und Logistikmanagement-Software (z.B. MasterLife).",
+      "Mobile-First PWA-Entwicklung zur Installation der Anwendung direkt auf dem Homescreen."
+    ]
+  },
+  "uk": {
+    "name": "Дієтичний кейтеринг",
+    "about": "Індустрія дієтичного кейтерингу (доставки їжі в коробках) розвивається шаленими темпами. Головним елементом успіху є проста структура замовлення, калькулятор калорій та зручний календар доставки раціонів, інтегрований з автоматичними підписками. Мобільний PWA-сайт гарантує максимальну конверсію.",
+    "focus": "Сервіси доставки раціонів конкурують у пошуку за запитами (наприклад, доставка здорового харчування Варшава, дієта в коробках). Технічне SEO та швидкість є найважливішими чинниками.",
+    "specifications": [
+      "Інтерактивний покроковий конструктор замовлення (вибір калорійності, кількості страв, виключень та дат).",
+      "Вбудований калькулятор BMR/TDEE для швидкого розрахунку добової потреби в калоріях.",
+      "Інтеграція з платіжним шлюзом Stripe Billing для підтримки щомісячних рекурентних платежів.",
+      "Особистий кабінет клієнта для самостійного перенесення дат доставки, зміни адреси чи заморозки балансу.",
+      "API інтеграція з професійним софтом управління виробництвом (MasterLife, Dietly тощо).",
+      "Розробка за стандартами PWA для швидкого доступу до кабінету клієнта прямо з екрану смартфона."
+    ]
+  },
+  "ru": {
+    "name": "Диетический кейтеринг",
+    "about": "Рынок диетического питания (рационов в коробках) демонстрирует взрывной рост. Главным фактором продаж здесь является интуитивный конфигуратор меню, калькулятор калорийности и гибкий календарь доставки с автоматическими платежами по подписке. Быстрый PWA-сайт сокращает процент брошенных корзин на смартфонах.",
+    "focus": "Поставщики готовых рационов борются в поиске за высококонкурентные фразы (например, доставка здорового питания Варшава, готовая еда на неделю). Техническое SEO и скорость загрузки стоят на первом месте.",
+    "specifications": [
+      "Интерактивный мастер заказа (выбор калоража, количества приемов пищи, исключений и периода подписки).",
+      "Встроенный калькулятор суточной потребности BMR/TDEE для точного подбора программы питания.",
+      "Интеграция со Stripe Billing для проведения безопасных регулярных платежей и автопродления подписок.",
+      "Личный кабинет для переноса дат доставки, приостановки подписки и оперативного изменения адреса.",
+      "Интеграция через API со специализированными ERP-системами управления пищевым производством (MasterLife и др.).",
+      "Реализация в виде PWA-приложения для мгновенного входа в личный кабинет с главного экрана телефона."
+    ]
+  },
+  "zh": {
+    "name": "膳食纤维与控卡轻食配送",
+    "about": "控卡轻食配送（减脂健康盒饭）行业目前正在飞速发展。在此类业务中，高转化率的秘诀在于极简的膳食搭配器、科学的卡路里摄入计算器，以及与周期性订阅扣款绑定的配送日历。超高响应的 PWA 官网可大幅降低移动端客户的购物车放弃率。",
+    "focus": "健康轻食配送商主要在搜索引擎中竞争全国或区域性关键词（例如：华沙轻食外送、低卡健身餐）。技术层面的 SEO 结构、极致的加载速度以及专为转化设计的着陆页是核心壁垒。",
+    "specifications": [
+      "交互式轻食订阅配置器（自由选择热量等级、每日餐数、过敏原剔除及配送天数）。",
+      "内置 BMR/TDEE 每日能量代谢计算器，帮助用户一键匹配最适合的减脂/增肌膳食计划。",
+      "深度集成 Stripe Billing 周期性订阅结算系统，支持每周/每月自动续订并扣款。",
+      "专属会员管理后台，支持客户自助修改配送日历、变更派送地址或中途暂停配送。",
+      "通过 API 与餐饮生产及后勤管理软件（如 MasterLife、Dietly 等）无缝对接。",
+      "完全符合 PWA 标准，支持将个人订阅日历和订单状态入口直接添加到手机桌面。"
+    ]
+  }
+}

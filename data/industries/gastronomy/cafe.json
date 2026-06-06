@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Kawiarnia",
+    "about": "Kawiarnie i cukiernie przyciągają klientów unikalnym klimatem i estetyką. Profesjonalna witryna to narzędzie do budowania wizerunku przyjaznego miejsca (np. do pracy zdalnej), rezerwacji stolików na spotkania oraz prezentacji oferty wypieków. Dodatkowo, system zamówień online na torty i ciasta okolicznościowe to świetne źródło dodatkowego przychodu.",
+    "focus": "Kawiarnie budują pozycję w wyszukiwarce na frazach lokalnych związanych ze słodkościami i spotkaniami (np. klimatyczna kawiarnia Warszawa, torty artystyczne na zamówienie) oraz na wysokiej jakości materiałach wizualnych.",
+    "specifications": [
+      "Estetyczny layout o wysokiej jakości wizualnej (High-End Visual Design) dopasowany do klimatu kawiarni.",
+      "Moduł zamówień online na wypieki i torty okolicznościowe z wyborem smaku, wagi, napisu i daty odbioru.",
+      "System rezerwacji stolików online z powiadomieniami mailowymi i SMS dla klientów.",
+      "Interaktywna galeria zdjęć wypieków (Gallery) zoptymalizowana pod kątem wagowym (WebP/AVIF).",
+      "Sekcja opisująca warunki pracy zdalnej (dostępność Wi-Fi, gniazdek elektrycznych, strefy ciszy).",
+      "Wdrożenie Schema.org (Bakery / Cafe) dla wyświetlania opinii o kawiarni oraz lokalizacji w wyszukiwarce."
+    ]
+  },
+  "en": {
+    "name": "Cafe",
+    "about": "Cafes and bakeries attract customers through unique atmospheres and aesthetics. A professional website builds the image of a friendly environment (e.g. for remote work), handles table bookings, and showcases baked goods. An online ordering portal for custom cakes and pastry catering serves as an excellent additional revenue stream.",
+    "focus": "Cafes gain search visibility on local terms related to desserts, breakfasts, and meetups (e.g. cozy cafe Warsaw, custom wedding cakes near me) coupled with outstanding visual storytelling.",
+    "specifications": [
+      "Elegant, high-end visual layout reflecting the unique atmosphere and branding of the cafe.",
+      "Custom online ordering form for cakes and special occasion pastries (taste, weight, lettering, and pickup date selector).",
+      "Online table reservation system with automated email and SMS confirmations.",
+      "Interactive image gallery showcasing baked goods, optimized for file size using WebP/AVIF formats.",
+      "Remote work suitability section highlighting Wi-Fi speeds, electrical outlets, and quiet workspace zones.",
+      "Schema.org markup (Bakery / Cafe) to render star reviews and address listings directly in search results."
+    ]
+  },
+  "de": {
+    "name": "Café",
+    "about": "Cafés und Konditoreien ziehen Kunden durch Atmosphäre und Ästhetik an. Eine Website präsentiert Ihr Café als gemütlichen Ort (z.B. für Co-Working), ermöglicht Tischreservierungen und den Verkauf von Torten auf Bestellung.",
+    "focus": "Cafés optimieren auf lokale Suchen rund um Kaffee und Gebäck (z.B. gemütliches Café Warschau, Torten auf Bestellung) gepaart mit hochwertigen Fotos.",
+    "specifications": [
+      "Ästhetisches Webdesign, das die Atmosphäre und das Flair des Cafés widerspiegelt.",
+      "Bestellsystem für Torten und Backwaren mit Optionen für Größe, Geschmack und Abholdatum.",
+      "Online-Tischreservierung mit E-Mail- und SMS-Bestätigungen für Gäste.",
+      "Interaktive Bildgalerie für Torten und Gebäcke, optimiert im WebP- und AVIF-Format.",
+      "Co-Working-Bereich mit Angaben zu Wi-Fi-Geschwindigkeit, Steckdosen und Ruhezonen.",
+      "Implementierung von Schema.org (Cafe, Bakery) zur Anzeige von Bewertungen und Öffnungszeiten."
+    ]
+  },
+  "uk": {
+    "name": "Кав'ярня",
+    "about": "Кав'ярні та кондитерські приваблюють гостей унікальною атмосферою та естетикою. Професійний сайт допомагає позиціонувати заклад як дружнє місце (наприклад, для коворкінгу чи побачень), бронювати столики та замовляти фірмові торти чи випічку онлайн.",
+    "focus": "Кав'ярні просуваються за локальними запитами про каву, сніданки та солодощі (наприклад, затишна кав'ярня Варшава, торти на замовлення) та завдяки якісному візуальному контенту.",
+    "specifications": [
+      "Естетичний візуальний дизайн сайту, що відображає унікальну концепцію та атмосферу кав'ярні.",
+      "Модуль онлайн-замовлень тортів та тістечок на свята з вибором смаку, ваги, декору та дати.",
+      "Система онлайн-бронювання столиків з інтеграцією SMS та email повідомлень.",
+      "Інтерактивна галерея кондитерських виробів, оптимізована для мобільних пристроїв (формати WebP/AVIF).",
+      "Інформаційний блок для фрілансерів (швидкість Wi-Fi, розетки, робочі зони).",
+      "Впровадження мікророзмітки Schema.org (Bakery / Cafe) для відображення оцінок та відгуків у Google."
+    ]
+  },
+  "ru": {
+    "name": "Кофейня",
+    "about": "Кофейни и кондитерские привлекают гостей своей атмосферой и эстетикой. Удобный сайт подчеркивает уют заведения (в том числе приспособленность для работы), позволяет бронировать столы и заказывать десерты. Заказ праздничных тортов онлайн — это мощный источник прибыли.",
+    "focus": "Кофейни продвигаются по локальным фразам, связанным с десертами, завтраками и встречами (например, уютная кофейня Варшава, заказать торт на день рождения) и ярким визуалом.",
+    "specifications": [
+      "Эстетичный высококлассный дизайн, передающий уникальное настроение и бренд кофейни.",
+      "Модуль заказа заказных тортов и кондитерских изделий с выбором вкуса, веса, надписей и даты выдачи.",
+      "Система онлайн-резервирования столов с автоматическим подтверждением по SMS и email.",
+      "Интерактивная галерея кондитерских изделий с высокой скоростью загрузки фото (WebP/AVIF).",
+      "Специальный блок для удаленной работы (скорость Wi-Fi, наличие розеток, тихие места).",
+      "Внедрение разметки Schema.org (Cafe, Bakery) для вывода рейтинга и отзывов в поиске."
+    ]
+  },
+  "zh": {
+    "name": "咖啡馆 / 烘焙甜品店",
+    "about": "咖啡馆与烘焙坊主要依靠独特的店面氛围和视觉美感来吸引顾客。专业的官方网站是展示咖啡馆惬意环境（如适合远程办公/自习）、处理在线订座以及展示当日新鲜烘焙的最佳阵地。此外，针对定制蛋糕和节日甜点的在线预订系统也是甜品店利润增长的核心增长点。",
+    "focus": "咖啡馆主要在本地搜索中定位与甜品、下午茶、早餐和社交相关的关键词（如：华沙治愈系咖啡馆、艺术手工蛋糕预订），并极其依赖高质量的视觉图片表达。",
+    "specifications": [
+      "极具视觉美学的高端版面设计（High-End Visual Design），完美投射咖啡馆的品牌调性与实体店氛围。",
+      "专属在线定制蛋糕与甜点表单系统，支持选择口味、克数、定制手写字及预约自提时间。",
+      "在线座席预订系统，配有自动化的短信（SMS）及邮件预订确认通知。",
+      "精美烘焙产品与店面实景的交互式相册，图片全部进行 WebP/AVIF 无损高压优化，保障加载速度。",
+      "专设“远程办公友好度”版块，明示 Wi-Fi 带宽、插座分布、静音区等自由职业者关心的参数。",
+      "配置 Schema.org 结构化微数据（Bakery / Cafe），将星级评分、真实口碑及营业时间直观渲染在谷歌搜索卡片中。"
+    ]
+  }
+}

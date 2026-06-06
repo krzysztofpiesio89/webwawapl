@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Food Truck",
+    "about": "Mobilna gastronomia rządzi się swoimi prawami. Klienci food trucków chcą wiedzieć dwie rzeczy: gdzie obecnie stacjonuje pojazd oraz jak wygląda aktualne menu. Posiadanie mobilnej aplikacji PWA z interaktywną mapą GPS i kalendarzem zlotów pozwala gromadzić społeczność wokół marki i zwiększać obroty podczas eventów.",
+    "focus": "Food trucki opierają się na pozycjonowaniu lokalnym na wydarzenia (np. zlot food trucków Warszawa) oraz na wyszukiwaniach mobilnych typu 'jedzenie blisko mnie'. Kluczowa jest szybkość działania strony w terenie przy słabszym zasięgu LTE/5G.",
+    "specifications": [
+      "Integracja z mapą Google Maps / OpenStreetMap pokazująca aktualną lokalizację GPS pojazdu na żywo.",
+      "Interaktywny kalendarz tras i zlotów (harmonogram tygodniowy/miesięczny) z powiadomieniami push.",
+      "Szybkie zamówienia online (Pre-order) z płatnością BLIK/Apple Pay w celu odbioru bez stania w kolejce.",
+      "Mobilne menu (kod QR na stolikach lub na pojeździe) zoptymalizowane pod słaby zasięg komórkowy (lekki kod HTML/CSS).",
+      "Integracja z mediami społecznościowymi (Instagram/Facebook Feed) bezpośrednio w strukturze witryny.",
+      "Wdrożenie lokalnego pozycjonowania (Local SEO) z naciskiem na frazy festiwalowe i street-food."
+    ]
+  },
+  "en": {
+    "name": "Food Truck",
+    "about": "Mobile gastronomy has its own rules. Food truck customers want to know two things: where the truck is currently parked and what's on the menu. A mobile-friendly PWA application featuring a live GPS tracker and event schedule calendar allows you to build a community and maximize sales during events.",
+    "focus": "Food trucks rely on local SEO for festivals and street food events (e.g. food truck festival Warsaw) and mobile-first 'food near me' search intent. Page load speed under weak 3G/4G/5G signals is highly critical.",
+    "specifications": [
+      "Live GPS tracking integration with Google Maps / OpenStreetMap displaying the truck's location in real-time.",
+      "Interactive tour and event schedule calendar (weekly/monthly calendar) with PWA push notifications.",
+      "Fast online pre-ordering with mobile pay options (Apple Pay, Google Pay) to bypass lines at busy festivals.",
+      "Mobile QR-code menu cards optimized for low bandwidth networks (ultra-lightweight HTML/CSS footprint).",
+      "Social media integration (live Instagram and Facebook feeds) loaded asynchronously to protect performance.",
+      "Targeted local SEO optimization focusing on street food keywords, festivals, and mobile searches."
+    ]
+  },
+  "de": {
+    "name": "Food Truck",
+    "about": "Mobile Gastronomie folgt eigenen Regeln. Kunden wollen zwei Dinge wissen: Wo steht der Food Truck und was gibt es zu essen. Eine PWA mit Live-Standortkarte und Event-Kalender bindet die Community und steigert den Umsatz auf Festivals.",
+    "focus": "Food Trucks gewinnen Kunden über Suchen wie 'Food Truck in der Nähe' und Event-Keywords. Die Ladezeit bei schlechter Mobilfunkverbindung ist ein entscheidender Erfolgsfaktor.",
+    "specifications": [
+      "Google Maps / OpenStreetMap-Integration zur Anzeige des Live-GPS-Standorts des Fahrzeugs.",
+      "Interaktiver Tour- und Eventplaner (Wochen- und Monatsübersicht) mit Push-Benachrichtigungen.",
+      "Mobiles Vorbestellsystem (Pre-order) mit Apple Pay und Google Pay zur Vermeidung von Warteschlangen.",
+      "QR-Code-Speisekarte optimiert für schwachen Empfang (extrem leichtgewichtiges HTML/CSS).",
+      "Asynchron geladene Social-Media-Feeds zur Darstellung aktueller Eindrücke direkt auf der Seite.",
+      "Lokale SEO-Optimierung mit Fokus auf Street-Food-Keywords und Festival-Suchen."
+    ]
+  },
+  "uk": {
+    "name": "Фуд-трак",
+    "about": "Мобільна гастрономія має особливу специфіку. Клієнтам фуд-траків важливо знати: де зараз знаходиться машина та що є в меню. Мобільний PWA-сайт з інтерактивною картою GPS та календарем виїздів допомагає збирати лояльну аудиторію навколо бренду.",
+    "focus": "Фуд-траки просуваються за локальними подіями (наприклад, фестиваль фуд-траків) та мобільними запитами 'їжа поруч'. Найважливішим є швидкість завантаження сайту при слабкому сигналі LTE/5G в полі.",
+    "specifications": [
+      "Інтеграція з Google Maps / OpenStreetMap, що відображає поточну локацію фуд-трака в реальному часі.",
+      "Інтерактивний календар маршрутів та фестивалей (тижневий/місячний графік) з push-сповіщеннями.",
+      "Швидке замовлення онлайн (Pre-order) з оплатою в один клік для отримання їжі без черги.",
+      "Цифрове QR-меню на столиках, оптимізоване для роботи в умовах поганого інтернету.",
+      "Асинхронний віджет соцмереж (Instagram/Facebook) для демонстрації життя бренду.",
+      "Локальне просування (SEO) з фокусом на фестивалі вуличної їжі та мобільний пошук."
+    ]
+  },
+  "ru": {
+    "name": "Фуд-трак",
+    "about": "Мобильный общепит живет по своим законам. Клиентам фуд-траков нужно знать: где сейчас находится фургон и актуально ли меню. Наличие мобильного PWA-сайта с интерактивной GPS-картой и календарем выездов сплачивает сообщество вокруг бренда.",
+    "focus": "Фуд-траки зависят от локального SEO по фестивалям (например, фестиваль фуд-траков) и мобильным запросам 'еда рядом'. Критически важна быстрая загрузка при слабом сигнале сети (LTE/5G) на открытом воздухе.",
+    "specifications": [
+      "Интеграция с картами Google Maps / OpenStreetMap, показывающая текущую GPS-локацию фургона в живом времени.",
+      "Интерактивный календарь маршрутов и стоянок (недельный/месячный план) с push-уведомлениями.",
+      "Быстрый предзаказ (Pre-order) с мобильной оплатой для выдачи блюд без ожидания в очередях.",
+      "Электронное QR-меню для столов, специально оптимизированное для медленного мобильного интернета.",
+      "Интеграция с социальными сетями (Instagram/Facebook Feed) без ущерба для скорости загрузки страницы.",
+      "Локальная поисковая оптимизация с акцентом на стрит-фуд ключевые слова и геолокацию."
+    ]
+  },
+  "zh": {
+    "name": "餐车 / Food Truck",
+    "about": "移动餐饮拥有完全不同的业务逻辑。餐车的顾客最关心两件事：车现在停在哪里，以及今天卖什么。一个带有实时 GPS 地图和节日日程表的小巧 PWA 应用，是积累粉丝社群、并在美食节等活动中极大增加营业额的完美神器。",
+    "focus": "餐车商户非常依赖与活动相关的本地 SEO（例如：华沙餐车节、街头美食）以及移动端“附近美食”的搜索。在户外 LTE/5G 信号较弱的情况下保持极佳的页面打开速度是核心重点。",
+    "specifications": [
+      "深度集成 Google Maps / OpenStreetMap 实现在线 GPS 轨迹，在地图上实时显示餐车的停泊位置。",
+      "交互式出车日程表与巡回轨迹（按周/按月展示），并配有 PWA 消息推送通知系统。",
+      "快速在线预订与点单（Pre-order），支持 BLIK、Apple Pay 闪付，实现顾客无需排队即拿即走。",
+      "移动端 QR 码数字菜单（贴于餐桌或车身上），针对野外较差的信号基站进行极简化 HTML/CSS 优化。",
+      "社交媒体（Instagram/Facebook 动态）的无缝异步集成，不拖慢网页主线程加载速度。",
+      "针对街头小吃（Street-food）、节日集市、户外派对等关键词开展精准的本地 SEO 推广。"
+    ]
+  }
+}

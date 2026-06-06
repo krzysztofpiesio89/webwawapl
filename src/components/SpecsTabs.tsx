@@ -223,7 +223,7 @@ export default function SpecsTabs({ lang, specifications }: SpecsTabsProps) {
       {/* Tabs Header */}
       <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center border-b border-slate-200 dark:border-slate-800 pb-5 mb-6 gap-4">
         <div>
-          <h3 className="font-black text-2xl uppercase tracking-tight italic text-slate-900 dark:text-white">
+          <h3 className="font-black text-2xl uppercase tracking-tight text-slate-900 dark:text-white">
             {isPl ? 'Standardy & Specyfikacja' : 'Standards & Specification'}
           </h3>
           <p className="text-sm text-slate-500 dark:text-slate-400 mt-1">

@@ -1,56 +1,52 @@
 @import "tailwindcss";
 
-/* CSS Custom Properties for Aurora Animation */
-@property --a1 {
-  syntax: '<angle>';
-  initial-value: 0deg;
-  inherits: false;
-}
-@property --a2 {
-  syntax: '<angle>';
-  initial-value: 60deg;
-  inherits: false;
-}
-@property --a3 {
-  syntax: '<angle>';
-  initial-value: 120deg;
-  inherits: false;
-}
-
 /* Force Tailwind CSS v4 to only trigger dark variants if .dark class is explicitly present on HTML */
 @variant dark (&:where(.dark, .dark *));
 
 @theme {
-  --font-sans: "Roboto", sans-serif;
-  --color-primary: #3b82f6;
-  --color-primary-dark: #2563eb;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  
+  /* --- KOLORY Z LOGOTYPU WEBWAWA --- */
+  --color-brand-amber: #d97706;      /* Główny bursztyn z sygnetu */
+  --color-brand-amber-dark: #b45309; /* Ciemny bursztyn do gradientu */
+  --color-brand-blue: #4f46e5;       /* Zmieniony na Indigo-600 dla spójności i elegancji */
+  --color-brand-slate: #0f172a;      /* Wypełnienie tarczy sygnetu */
+
+  /* --- PRZYPISANIE RÓL --- */
+  --color-primary: #4f46e5;
+  --color-primary-dark: #4338ca;      /* Indigo-700 */
+  --color-accent: #d97706;
   --color-secondary: #6366f1;
-  --color-accent: #8b5cf6;
+  --color-bg-base: #08080f;
 }
 
 @layer base {
   :root {
-    --background: #f8fafc; /* slate-50 */
+    --background: #ffffff; /* Czysta biel dla nowoczesnego wyglądu premium */
     --text: #0f172a; /* slate-900 */
-    --card-bg: rgba(255, 255, 255, 0.75);
-    --card-border: rgba(15, 23, 42, 0.08);
-    --header-bg: rgba(248, 250, 252, 0.8);
+    --card-bg: #ffffff; /* Solid white for perfect contrast and form visibility */
+    --card-border: rgba(15, 23, 42, 0.08); /* Delikatniejsze obramowanie przy mocniejszym cieniu */
+    --header-bg: rgba(255, 255, 255, 0.9);
     --header-border: rgba(15, 23, 42, 0.05);
-    --footer-bg: #f1f5f9; /* slate-100 */
-    --footer-border: rgba(15, 23, 42, 0.08);
-    --shadow-color: rgba(59, 130, 246, 0.08);
+    --footer-bg: #f8fafc; /* slate-50 */
+    --footer-border: rgba(15, 23, 42, 0.06);
+    --shadow-color: rgba(99, 102, 241, 0.07); /* Cieplejszy brand-tinted cień z odcieniem indygo */
+    --glow-color-1: rgba(99, 102, 241, 0.08); /* Indigo glow */
+    --glow-color-2: rgba(245, 158, 11, 0.05); /* Amber glow */
   }
 
   .dark {
-    --background: #020510; /* deep rich aurora night black/blue */
+    --background: #060713; /* Deep cosmic dark space blue */
     --text: #f3f4f6; /* slate-100 */
-    --card-bg: rgba(15, 23, 42, 0.45);
-    --card-border: rgba(255, 255, 255, 0.05);
-    --header-bg: rgba(2, 5, 16, 0.8);
-    --header-border: rgba(255, 255, 255, 0.05);
-    --footer-bg: #01030a; /* deep slate-950 */
+    --card-bg: rgba(13, 16, 35, 0.45); /* Highly visible translucent card in dark mode */
+    --card-border: rgba(255, 255, 255, 0.08);
+    --header-bg: rgba(6, 7, 19, 0.85);
+    --header-border: rgba(255, 255, 255, 0.04);
+    --footer-bg: #030409;
     --footer-border: rgba(255, 255, 255, 0.04);
-    --shadow-color: rgba(59, 130, 246, 0.15);
+    --shadow-color: rgba(0, 0, 0, 0.35);
+    --glow-color-1: rgba(99, 102, 241, 0.18); /* Vivid cosmic indigo glow */
+    --glow-color-2: rgba(20, 184, 166, 0.12); /* Vivid cosmic teal glow */
   }
 
   html {
@@ -63,6 +59,39 @@
     color: var(--text);
     scroll-behavior: smooth;
     transition: background-color 0.3s ease, color 0.3s ease;
+    overflow-x: hidden; /* Prevent horizontal scroll from rotating glows */
+  }
+
+  body::before {
+    content: '';
+    position: fixed;
+    width: 140vw;
+    height: 140vh;
+    top: -20vh;
+    left: -20vw;
+    z-index: -1;
+    pointer-events: none;
+    background:
+      radial-gradient(ellipse 60% 55% at 15% 65%, var(--glow-color-1), transparent 75%),
+      radial-gradient(ellipse 65% 55% at 85% 65%, var(--glow-color-2), transparent 75%);
+    transform-origin: center center;
+    animation: auroraGlow 40s ease-in-out infinite alternate;
+  }
+
+  @keyframes auroraGlow {
+    0% {
+      transform: translate(0, 0) rotate(0deg) scale(1);
+    }
+    50% {
+      transform: translate(4vw, -4vh) rotate(4deg) scale(1.03);
+    }
+    100% {
+      transform: translate(-2vw, 3vh) rotate(-2deg) scale(0.97);
+    }
+  }
+
+  main {
+    background-color: transparent !important;
   }
 }
 
@@ -76,6 +105,11 @@
 
   .btn-primary {
     @apply bg-primary hover:bg-primary-dark text-white font-bold py-3 px-6 rounded-xl transition-all transform hover:scale-105 active:scale-95 shadow-lg hover:shadow-primary/30;
+  }
+
+  /* Dodany przycisk akcentujący z bursztynem z logo */
+  .btn-accent {
+    @apply bg-accent hover:bg-amber-700 text-white font-bold py-3 px-6 rounded-xl transition-all transform hover:scale-105 active:scale-95 shadow-lg hover:shadow-accent/30;
   }
 
   .btn-secondary {
@@ -142,7 +176,7 @@
   .aurora-band-1 {
     height: 55vh;
     top: -10vh;
-    background: conic-gradient(from var(--a1) at 40% 60%,
+    background: conic-gradient(from 0deg at 40% 60%,
       transparent 0%,
       rgba(0, 255, 204, 0.4) 15%,
       rgba(59, 130, 246, 0.35) 30%,
@@ -150,13 +184,13 @@
       rgba(99, 102, 241, 0.3) 60%,
       transparent 75%
     );
-    animation: band1 22s linear infinite;
+    animation: rotateBand1 22s linear infinite;
   }
 
   .aurora-band-2 {
     height: 60vh;
     top: 5vh;
-    background: conic-gradient(from var(--a2) at 60% 40%,
+    background: conic-gradient(from 0deg at 60% 40%,
       transparent 0%,
       rgba(139, 92, 246, 0.3) 10%,
       rgba(0, 255, 204, 0.25) 25%,
@@ -164,13 +198,13 @@
       rgba(59, 130, 246, 0.4) 55%,
       transparent 70%
     );
-    animation: band2 28s linear infinite reverse;
+    animation: rotateBand2 28s linear infinite reverse;
   }
 
   .aurora-band-3 {
     height: 50vh;
     top: -5vh;
-    background: conic-gradient(from var(--a3) at 30% 70%,
+    background: conic-gradient(from 0deg at 30% 70%,
       transparent 0%,
       rgba(59, 130, 246, 0.3) 20%,
       transparent 35%,
@@ -178,7 +212,24 @@
       rgba(99, 102, 241, 0.35) 65%,
       transparent 80%
     );
-    animation: band3 26s linear infinite;
+    animation: rotateBand3 26s linear infinite;
+  }
+
+  .section-glow {
+    position: relative;
+  }
+
+  .section-glow::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    background:
+      radial-gradient(ellipse 50% 40% at 20% 80%,
+        var(--glow-color-1), transparent 70%),
+      radial-gradient(ellipse 40% 30% at 80% 20%,
+        var(--glow-color-2), transparent 70%);
+    pointer-events: none;
   }
 }
 
@@ -193,9 +244,18 @@
 }
 
 /* Keyframe animations for Aurora Curtains rotation */
-@keyframes band1 { to { --a1: 360deg; } }
-@keyframes band2 { to { --a2: 420deg; } }
-@keyframes band3 { to { --a3: 480deg; } }
+@keyframes rotateBand1 {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+@keyframes rotateBand2 {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(-360deg); }
+}
+@keyframes rotateBand3 {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
 
 @keyframes twinkle {
   0%  { opacity: 0.65; }
@@ -221,15 +281,15 @@
 
 /* ── Premium Vanilla Cookie Consent customization ── */
 #cc-main {
-  --cc-font-family: 'Roboto', sans-serif;
+  --cc-font-family: inherit;
   --cc-modal-border-radius: 1.5rem;
   --cc-btn-border-radius: 0.75rem;
   
-  /* Primary Button (Accept all) */
-  --cc-btn-primary-bg: #3b82f6; /* var(--color-primary) */
-  --cc-btn-primary-border-color: #3b82f6;
-  --cc-btn-primary-hover-bg: #2563eb; /* var(--color-primary-dark) */
-  --cc-btn-primary-hover-border-color: #2563eb;
+  /* Primary Button (Accept all) - używa brand blue */
+  --cc-btn-primary-bg: var(--color-brand-blue); 
+  --cc-btn-primary-border-color: var(--color-brand-blue);
+  --cc-btn-primary-hover-bg: var(--color-primary-dark);
+  --cc-btn-primary-hover-border-color: var(--color-primary-dark);
   
   /* Secondary Button (Preferences / Necessary) */
   --cc-btn-secondary-bg: #f1f5f9;

@@ -9,6 +9,7 @@
     "valuation": "Wycena Online",
     "recentlyBought": "Ostatnio Kupione",
     "aboutUs": "O nas",
+    "industries": "Branże",
     "callNow": "Zadzwoń Teraz",
     "brands": "Nasze Marki"
   },
@@ -25,6 +26,12 @@
     "floatingBadge24h": "24h",
     "floatingBadgeTitle": "Dojazd i wycena gratis",
     "floatingBadgeDesc": "W {city} i okolicach dojeżdżamy w 30 minut!"
+  },
+  "industriesShowcase": {
+    "title": "Dedykowane systemy i strony dla Twojej branży",
+    "subtitle": "Tworzymy zaawansowane platformy dopasowane do specyfiki konkretnych zawodów. Zwiększ konwersję i pozycję w wyszukiwarkach AI.",
+    "cta": "Zobacz wszystkie branże i specjalizacje",
+    "sectorLabel": "Sektor"
   },
   "features": {
     "freeValuation": {

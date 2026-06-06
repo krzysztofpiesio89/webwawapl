@@ -107,7 +107,7 @@ export default function BrandsList({ brands, cities, dict, lang }: { brands: Bra
           {sortedLetters.map(letter => (
             <div key={letter} id={`letter-${letter}`} className="scroll-mt-24 space-y-6">
               <div className="flex items-center gap-4">
-                <h2 className="text-3xl font-black text-slate-900 bg-amber-400 w-12 h-12 rounded-2xl flex items-center justify-center shadow-md uppercase italic">
+                <h2 className="text-3xl font-black text-slate-900 bg-amber-400 w-12 h-12 rounded-2xl flex items-center justify-center shadow-md uppercase">
                   {letter}
                 </h2>
                 <div className="flex-1 h-0.5 bg-slate-200"></div>
@@ -150,7 +150,7 @@ export default function BrandsList({ brands, cities, dict, lang }: { brands: Bra
       ) : (
         <div className="text-center py-20 bg-white border border-slate-200 rounded-3xl p-8 shadow-sm">
           <div className="text-5xl mb-4">🔍</div>
-          <p className="text-2xl font-black text-slate-900 mb-2 uppercase italic">{dict.noResults}</p>
+          <p className="text-2xl font-black text-slate-900 mb-2 uppercase">{dict.noResults}</p>
           <p className="text-slate-500">{dict.noResultsDesc.replace('{search}', search)}</p>
           <button
             onClick={() => setSearch('')}
@@ -163,7 +163,7 @@ export default function BrandsList({ brands, cities, dict, lang }: { brands: Bra
 
       {/* CTA Bottom Banner */}
       <div className="bg-amber-400 rounded-3xl p-8 md:p-12 text-center shadow-xl space-y-6">
-        <h3 className="text-2xl md:text-3xl font-black text-slate-900 uppercase italic tracking-tight">
+        <h3 className="text-2xl md:text-3xl font-black text-slate-900 uppercase tracking-tight">
           {dict.ctaTitle}
         </h3>
         <p className="text-slate-900 font-medium max-w-2xl mx-auto opacity-80 leading-relaxed">
@@ -172,13 +172,13 @@ export default function BrandsList({ brands, cities, dict, lang }: { brands: Bra
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
           <a
             href={`${langPrefix}/#wycena`}
-            className="bg-slate-900 text-white hover:bg-slate-800 font-black uppercase italic py-4 px-8 rounded-2xl transition-all shadow-md w-full sm:w-auto"
+            className="bg-slate-900 text-white hover:bg-slate-800 font-black uppercase py-4 px-8 rounded-2xl transition-all shadow-md w-full sm:w-auto"
           >
             {dict.ctaFormBtn}
           </a>
           <a
             href="tel:+48664946209"
-            className="bg-white text-slate-900 hover:bg-slate-50 font-black uppercase italic py-4 px-8 rounded-2xl transition-all border border-slate-200 shadow-md w-full sm:w-auto flex items-center justify-center gap-2"
+            className="bg-white text-slate-900 hover:bg-slate-50 font-black uppercase py-4 px-8 rounded-2xl transition-all border border-slate-200 shadow-md w-full sm:w-auto flex items-center justify-center gap-2"
           >
             <span>📞</span> +48 664 946 209
           </a>

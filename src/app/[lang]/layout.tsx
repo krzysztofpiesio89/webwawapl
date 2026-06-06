@@ -1,9 +1,4 @@
 import type { Metadata } from "next";
-import "@fontsource/roboto/300.css";
-import "@fontsource/roboto/400.css";
-import "@fontsource/roboto/500.css";
-import "@fontsource/roboto/700.css";
-import "@fontsource/roboto/900.css";
 import "../globals.css"; // Zmieniona ścieżka względem [lang]
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
@@ -124,13 +119,25 @@ export default async function RootLayout(props: Readonly<{
           id="ldjson-root"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
-      </head>
-      <body className="font-sans antialiased" suppressHydrationWarning>
         <Script
           id="theme-detect"
-          src="/theme-detect.js"
           strategy="beforeInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `(function() {
+  try {
+    var theme = localStorage.getItem('theme');
+    var supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    if (theme === 'dark' || (!theme && supportDarkMode)) {
+      document.documentElement.classList.add('dark');
+    } else {
+      document.documentElement.classList.remove('dark');
+    }
+  } catch (e) {}
+})();`
+          }}
         />
+      </head>
+      <body className="font-sans antialiased" suppressHydrationWarning>
         <Script id="gtm-script" strategy="afterInteractive">
           {`
             window.dataLayer = window.dataLayer || [];

@@ -1,0 +1,139 @@
+{
+  "id": "gastronomy",
+  "slugs": {
+    "pl": "gastronomia",
+    "en": "gastronomy",
+    "de": "gastronomie",
+    "uk": "hastronomiya",
+    "ru": "gastronomiya",
+    "zh": "gastronomy"
+  },
+  "translations": {
+    "pl": {
+      "industryName": "Gastronomia i Catering",
+      "heroSubtitle": "Szybkie aplikacje PWA do zamówień online bez prowizji, dedykowane systemy dla cateringu dietetycznego oraz lokalne pozycjonowanie SEO dla restauracji i kawiarni.",
+      "title": "Strony internetowe, systemy zamówień online i pozycjonowanie SEO dla gastronomii",
+      "description": "Projektujemy ultra-szybkie strony www, aplikacje PWA do zamawiania jedzenia online oraz prowadzimy pozycjonowanie SEO dla restauracji, cateringów dietetycznych i kawiarni. Zwiększ sprzedaż bez prowizji.",
+      "about": "Sektor HoReCa opiera się na szybkości, atrakcyjnej prezentacji i łatwości składania zamówień. W dobie rosnących prowizji platform dostawczych (takich jak UberEats, Wolt czy Pyszne.pl), posiadanie własnego, zoptymalizowanego pod kątem SEO kanału sprzedaży staje się kluczem do rentowności. Oferujemy dedykowane strony PWA zintegrowane z szybkimi płatnościami online, systemy subskrypcyjne dla diet pudełkowych oraz lokalne pozycjonowanie w Google Maps, co pozwala restauracjom budować własną bazę lojalnych klientów.",
+      "series": {
+        "pwa": {
+          "title": "Aplikacje PWA do Zamówień Online",
+          "desc": "Tworzymy super-szybkie, mobilne aplikacje PWA (Next.js & Tailwind CSS) zintegrowane z bramkami płatniczymi (BLIK, Stripe, PayU), które umożliwiają klientom bezpośrednie zamawianie jedzenia z dostawą lub odbiorem własnym, z pominięciem prowizji pośredników."
+        },
+        "wordpress": {
+          "title": "Responsywne Strony WordPress z Menu",
+          "desc": "Budujemy nowoczesne witryny na WordPressie z dynamicznym menu, systemem rezerwacji stolików online oraz blogiem kulinarnym, idealne do budowania silnej marki restauracji, kawiarni czy food trucka."
+        },
+        "seo": {
+          "title": "Lokalne SEO & Google Maps dla Restauracji",
+          "desc": "Wypozycjonujemy Twoją restaurację w Google Maps oraz wyszukiwarce na frazy lokalne (np. pizzeria Warszawa Śródmieście, catering dietetyczny). Wdrożymy dane strukturalne Schema (Restaurant / FoodEstablishment), które zwiększą widoczność menu w wyszukiwarce."
+        }
+      }
+    },
+    "en": {
+      "industryName": "Gastronomy & Catering",
+      "heroSubtitle": "Fast PWA apps for commission-free online ordering, custom systems for diet catering, and local SEO positioning for restaurants and cafes.",
+      "title": "Websites, Online Ordering Systems, and SEO for Gastronomy",
+      "description": "We design ultra-fast websites, PWA food ordering apps, and run local SEO positioning for restaurants, diet catering, and cafes. Boost sales commission-free.",
+      "about": "The HoReCa sector relies on speed, appealing visual presentation, and seamless ordering experiences. With rising commission fees from third-party delivery services (like UberEats, Wolt, or Grubhub), owning your own SEO-optimized sales channel is crucial for profitability. We deliver dedicated PWA ordering apps integrated with instant online payments, subscription systems for diet catering, and local Google Maps SEO, enabling food businesses to build a loyal customer base.",
+      "series": {
+        "pwa": {
+          "title": "PWA Apps for Online Food Ordering",
+          "desc": "We build lightning-fast mobile PWA applications (Next.js & Tailwind CSS) integrated with Stripe, Apple Pay, and Google Pay. Clients order food directly for delivery or pickup, bypassing high third-party commissions."
+        },
+        "wordpress": {
+          "title": "Responsive WordPress Sites with Menu",
+          "desc": "We design modern WordPress sites featuring dynamic menus, online table booking, and culinary blogs, perfect for building strong brand identity for restaurants, cafes, or food trucks."
+        },
+        "seo": {
+          "title": "Local SEO & Google Maps for Gastronomy",
+          "desc": "We boost your local ranking in Google Maps and search results for high-intent keywords. We implement rich Schema data (Restaurant / FoodEstablishment) to show your menu items directly in Google."
+        }
+      }
+    },
+    "de": {
+      "industryName": "Gastronomie & Catering",
+      "heroSubtitle": "Schnelle PWA-Apps für provisionsfreie Online-Bestellungen, maßgeschneiderte Systeme für Diät-Catering und lokales SEO für Restaurants und Cafés.",
+      "title": "Websites, Online-Bestellsysteme und SEO für die Gastronomie",
+      "description": "Wir entwickeln ultraschnelle Websites, PWA-Bestell-Apps und betreiben lokales SEO für Restaurants, Diät-Catering und Cafés. Steigern Sie Ihren Umsatz provisionsfrei.",
+      "about": "Der HoReCa-Sektor basiert auf Schnelligkeit, ansprechender visueller Präsentation und einfacher Bestellabwicklung. Angesichts steigender Provisionen von Lieferplattformen ist ein eigener, SEO-optimierter Vertriebskanal der Schlüssel zur Rentabilität. Wir bieten dedizierte PWA-Lösungen mit Online-Zahlungssystemen, Abo-Funktionen für Lieferservices und optimieren Ihre lokale Google-Sichtbarkeit.",
+      "series": {
+        "pwa": {
+          "title": "PWA-Apps für Online-Bestellungen",
+          "desc": "Wir entwickeln superschnelle PWA-Anwendungen (Next.js & Tailwind CSS) mit integrierten Zahlungsanbietern wie Stripe und PayPal. Kunden bestellen direkt zur Lieferung oder Abholung ohne Drittanbieter-Gebühren."
+        },
+        "wordpress": {
+          "title": "Responsive WordPress-Seiten mit Speisekarte",
+          "desc": "Wir erstellen moderne WordPress-Seiten mit digitaler Speisekarte, Tischreservierungstool und Blog zur Markenbildung für Restaurants, Cafés oder Food Trucks."
+        },
+        "seo": {
+          "title": "Lokales SEO & Google Maps für Restaurants",
+          "desc": "Wir optimieren Ihre Google Maps-Präsenz und Suchergebnisse für lokale Anfragen (z.B. Sushi Warschau). Wir implementieren strukturierte Schema-Daten (Restaurant) zur Anzeige Ihrer Speisekarte."
+        }
+      }
+    },
+    "uk": {
+      "industryName": "Гастрономія та Кейтеринг",
+      "heroSubtitle": "Швидкі додатки PWA для онлайн-замовлень без комісії, спеціалізовані системи для дієтичного кейтерингу та локальне SEO для ресторанів і кав'ярень.",
+      "title": "Веб-сайти, системи онлайн-замовлень та SEO для гастрономії",
+      "description": "Проектуємо надшвидкі сайти, PWA-додатки для замовлення їжі онлайн та проводимо локальне SEO-просування для ресторанів, кафе та дієтичних кейтерингів.",
+      "about": "Сектор HoReCa тримається на швидкості, привабливій візуалізації та зручності замовлень. В епоху зростання комісій служб доставки (таких як UberEats, Wolt) наявність власного каналу продажів, оптимізованого під SEO, стає вирішальною. Ми пропонуємо спеціалізовані PWA-додатки з онлайн-оплатою, системи підписки на доставку раціонів та локальне просування в Google Maps.",
+      "series": {
+        "pwa": {
+          "title": "PWA-додатки для онлайн-замовлень",
+          "desc": "Створюємо швидкі мобільні PWA-додатки на Next.js та Tailwind CSS з інтеграцією платежів (Apple Pay, Google Pay, Stripe). Клієнти замовляють доставку або самовивіз без посередників."
+        },
+        "wordpress": {
+          "title": "Адаптивні сайти на WordPress з меню",
+          "desc": "Будуємо сучасні сайти на WordPress з інтерактивним меню, онлайн-резервуванням столиків та блогом для розвитку бренду ресторану чи кав'ярні."
+        },
+        "seo": {
+          "title": "Локальне SEO та Google карти для ресторанів",
+          "desc": "Забезпечимо видимість вашого закладу в Google Maps за локальними запитами (наприклад, кафе Варшава). Впровадимо Schema розмітку (Restaurant) для відображення меню у пошуку."
+        }
+      }
+    },
+    "ru": {
+      "industryName": "Гастрономия и Кейтеринг",
+      "heroSubtitle": "Быстрые PWA-приложения для онлайн-заказов без комиссии, специализированные системы для диетического кейтеринга и локальное SEO для ресторанов и кафе.",
+      "title": "Веб-сайты, системы онлайн-заказов и SEO для гастрономии",
+      "description": "Проектируем сверхбыстрые сайты, PWA-приложения для заказа еды онлайн и проводим локальное SEO-продвижение для ресторанов, кафе и служб доставки питания.",
+      "about": "Сектор HoReCa опирается на скорость работы, вкусную подачу и легкость оформления заказа. В условиях растущих комиссий агрегаторов доставки собственный SEO-оптимизированный канал продаж становится ключевым условием прибыльности. Мы предлагаем PWA-решения с быстрой онлайн-оплатой, подписками на готовые рационы и локальное продвижение в Google Maps.",
+      "series": {
+        "pwa": {
+          "title": "PWA-приложения для заказа еды",
+          "desc": "Создаем быстрые мобильные PWA-приложения на Next.js и Tailwind CSS с интеграцией платежей (Stripe, Apple Pay). Клиенты заказывают еду напрямую без переплат агрегаторам."
+        },
+        "wordpress": {
+          "title": "Адаптивные сайты на WordPress с меню",
+          "desc": "Строим современные сайты на WordPress с интерактивным меню, бронированием столов онлайн и кулинарным блогом для брендинга ресторана или кофейни."
+        },
+        "seo": {
+          "title": "Локальное SEO и Google карты для ресторанов",
+          "desc": "Обеспечиваем лидерство вашего заведения в Google Maps по локальным запросам. Внедряем микроразметку Schema (Restaurant) для отображения блюд прямо в поисковой выдаче."
+        }
+      }
+    },
+    "zh": {
+      "industryName": "餐饮与外卖配送",
+      "heroSubtitle": "免佣金在线订餐超快速 PWA 应用、针对减肥/健身控卡轻食的订阅式管理系统以及餐厅和咖啡馆的本地 SEO 排名优化。",
+      "title": "餐饮行业的定制网站开发、在线订餐系统与本地 SEO 优化服务",
+      "description": "我们设计超快速的网站、开发 PWA 在线订餐应用，并为餐厅、健身轻食配送和咖啡馆提供本地 SEO 推广服务。免去第三方平台高额佣金，实现销量直接增长。",
+      "about": "餐饮与酒店管理（HoReCa）行业高度依赖出餐/送达速度、精美的视觉效果和极其简便的下单体验。在第三方外卖平台（如美团外卖、UberEats、Wolt）抽成居高不下的当下，拥有一个完全自主、且经过 SEO 优化的线上订餐渠道对于保障餐厅利润率至关重要。我们提供深度集成了快捷在线支付的专属 PWA 订餐系统、健身包月餐饮订阅方案以及谷歌地图本地 SEO 优化，帮助餐饮商户搭建完全属于自己的私域流量池。",
+      "series": {
+        "pwa": {
+          "title": "针对在线订餐的 PWA 移动端应用程序",
+          "desc": "我们基于 Next.js 与 Tailwind CSS 构建超高响应速度的 PWA 订餐应用，集成 Stripe、Apple Pay 和 Google Pay 等主流支付接口。客户可直接下单外卖或自提，全面绕过第三方抽成。"
+        },
+        "wordpress": {
+          "title": "配有动态菜单的响应式 WordPress 官方网站",
+          "desc": "我们为客户搭建现代化的 WordPress 餐饮网站，带有方便自主更新的交互式菜单、在线订座系统以及品牌美食博客，极佳地塑造餐饮与咖啡厅品牌形象。"
+        },
+        "seo": {
+          "title": "谷歌地图本地 SEO 与餐饮行业 Schema 优化",
+          "desc": "我们将您的餐厅精准推送到本地谷歌地图及搜索结果的前排（如：华沙日料推荐、附近烘焙咖啡馆）。深度配置餐饮专用 Schema（Restaurant / FoodEstablishment）结构化数据，使得菜品和价格直接展现在搜索结果摘要中。"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Restauracja",
+    "about": "Dzisiejsza gastronomia opiera się na elastyczności. Własny system zamówień online pozwala restauracjom zachować 100% zysków i uniknąć marż pośredników (dochodzących do 30%). Dedykowana, lekka strona internetowa to również idealne narzędzie do prezentacji menu, rezerwacji stolików i budowania marki lokalnej.",
+    "focus": "Restauracje zyskują najwięcej na pozycjonowaniu lokalnym na frazy intencyjne (np. dobra restauracja włoska Warszawa, sushi z dostawą) oraz na dobrze skonstruowanym profilu Google Moja Firma zintegrowanym ze stroną.",
+    "specifications": [
+      "Ultra-szybka witryna PWA (Next.js / Vite) z czasem ładowania poniżej 0.5 sekundy na urządzeniach mobilnych.",
+      "Autorski system zamówień online bezpośrednio na stronie z płatnościami BLIK, Apple Pay i Stripe.",
+      "Integracja z drukarkami fiskalnymi i systemami POS (POSbistro, GoPOS itp.) przez API.",
+      "Wdrożenie danych strukturalnych Schema.org (Menu, OpeningHours, Restaurant) do wyświetlania cen i dań w Google.",
+      "Interaktywna karta dań (Menu) z filtrowaniem alergenów, wyszukiwarką potraw i dynamicznym koszykiem.",
+      "Panel administracyjny do łatwej edycji cen, dostępności dań i stref dostaw w czasie rzeczywistym."
+    ]
+  },
+  "en": {
+    "name": "Restaurant",
+    "about": "Modern gastronomy is built on flexibility. Having your own online ordering system allows restaurants to keep 100% of profits and bypass third-party platforms' commission fees (often up to 30%). A dedicated, lightweight website is the perfect tool for menu showcase, table reservations, and local branding.",
+    "focus": "Restaurants benefit most from local SEO targeting intent-driven queries (e.g. best Italian restaurant Warsaw, sushi delivery near me) and an optimized Google Business Profile integrated with the site.",
+    "specifications": [
+      "Ultra-fast PWA website (Next.js / Vite) loading in under 0.5s on mobile devices.",
+      "Custom commission-free online ordering system with instant credit card, Apple Pay, and Google Pay options.",
+      "API integrations with fiscal printers and POS systems (GoPOS, POSbistro, etc.) for streamlined order flows.",
+      "Structured Schema.org data markup (Menu, OpeningHours, Restaurant) displaying pricing and dishes directly in search snippets.",
+      "Interactive digital menu with allergen filters, search tools, and dynamic shopping carts.",
+      "Admin dashboard for easy, real-time pricing edits, dish availability toggles, and delivery zone mapping."
+    ]
+  },
+  "de": {
+    "name": "Restaurant",
+    "about": "Die moderne Gastronomie basiert auf Flexibilität. Ein eigenes Online-Bestellsystem ermöglicht es Restaurants, 100% des Gewinns einzubehalten und Lieferdienst-Provisionen (bis zu 30%) zu vermeiden. Eine eigene, leichte Website ist das ideale Tool für Menü-Präsentation und Reservierungen.",
+    "focus": "Restaurants profitieren am meisten von lokalem SEO für zielgerichtete Suchen (z.B. bestes italienisches Restaurant Warschau) sowie einem gut gepflegten Google Maps-Profil.",
+    "specifications": [
+      "Superschnelle PWA-Website (Next.js / Vite) mit Ladezeiten unter 0.5 Sekunden auf Mobilgeräten.",
+      "Integriertes Online-Bestellsystem direkt auf der Website mit Stripe, PayPal und Apple Pay.",
+      "Integration mit Kassensystemen (POS) über Schnittstellen zur direkten Bestellannahme.",
+      "Schema.org-Markup (Restaurant, Speisekarte) zur direkten Anzeige von Gerichten und Preisen in Google-Treffern.",
+      "Interaktive Speisekarte mit Allergenfiltern, Suchfunktion und dynamischem Warenkorb.",
+      "Verwaltungsbereich zur Echtzeit-Aktualisierung von Preisen, Verfügbarkeiten und Liefergebieten."
+    ]
+  },
+  "uk": {
+    "name": "Ресторан",
+    "about": "Сучасна гастрономія тримається на гнучкості. Власна система онлайн-замовлень дозволяє ресторанам зберігати 100% прибутку та уникати комісій агрегаторів (які сягають 30%). Окремий швидкий сайт є ідеальним інструментом для представлення меню, бронювання столиків та побудови бренду.",
+    "focus": "Ресторани залучають найбільше клієнтів завдяки локальному SEO (наприклад, ресторан італійської кухні Варшава, доставка суші) та оптимізованому профілю Google Maps.",
+    "specifications": [
+      "Надшвидкий мобільний PWA-сайт (Next.js / Vite) із завантаженням менше 0.5 сек.",
+      "Автономна система замовлень без комісії з прийомом платежів Apple Pay, Google Pay та картками.",
+      "Інтеграція з принтерами чеків та системами POS через API для миттєвого друку на кухні.",
+      "Впровадження Schema розмітки (Restaurant, Menu) для показу страв та цін прямо у результатах пошуку.",
+      "Інтерактивне меню з пошуком, фільтрацією алергенів та зручним кошиком.",
+      "Зручна адмін-панель для оновлення цін, наявності страв та налаштування зон доставки в реальному часі."
+    ]
+  },
+  "ru": {
+    "name": "Ресторан",
+    "about": "Современный общепит требует гибкости. Собственная система онлайн-заказов позволяет ресторану сохранять 100% прибыли, минуя комиссии агрегаторов доставки (до 30%). Легкий выделенный сайт также служит отличным инструментом для публикации меню, резерва столов и брендинга.",
+    "focus": "Рестораны выигрывают от локального SEO по целевым запросам (например, итальянский ресторан Варшава, доставка суши) и интеграции с профилем Google Карты.",
+    "specifications": [
+      "Сверхбыстрый PWA-сайт (Next.js / Vite), загружающийся на мобильных устройствах быстрее 0.5 секунды.",
+      "Собственный модуль онлайн-заказов с приемом карт, Apple Pay и Google Pay без скрытых комиссий.",
+      "Интеграция с фискальными принтерами и POS-системами через API для автоматизации кухни.",
+      "Внедрение разметки Schema.org (Restaurant, Menu) для вывода позиций меню прямо в результаты поиска.",
+      "Интерактивная карта блюд с фильтрацией по аллергенам, поиском и адаптивной корзиной.",
+      "Кабинет администратора для быстрого изменения цен, стоп-листов и настройки полигонов доставки."
+    ]
+  },
+  "zh": {
+    "name": "餐厅",
+    "about": "当今的餐饮业成败在于灵活性。拥有自己的在线订餐系统可以让餐厅保留100%的利润，彻底免除抽成平台（抽佣高达30%）的盘剥。一个轻量级的专属官网也是展示精美菜单、接受订座和树立本地品牌形象的最佳利器。",
+    "focus": "餐厅最能从针对本地高意向查询（例如：华沙意大利餐厅推荐、附近寿司外送）的本地 SEO 优化以及与网站完美联动的“谷歌商家信息”中获益。",
+    "specifications": [
+      "超快速 PWA 网站（基于 Next.js / Vite），移动端加载时间控制在0.5秒以内。",
+      "完全自主开发、免抽佣的在线订餐模块，集成信用卡、BLIK、Apple Pay 及 Google Pay 极速支付。",
+      "通过 API 将前台订单直接同步打通至后厨票据打印机及 POS 收银系统（如 GoPOS、POSbistro 等）。",
+      "深度配置 Schema.org 结构化微数据（Menu、OpeningHours、Restaurant），使菜品图文及价格在谷歌搜索结果中直接呈现。",
+      "交互式数码菜单，提供过敏原筛选、菜品关键词搜索以及丝滑的购物车结算体验。",
+      "极其直观的后台管理面板，用于实时更新菜品价格、设置止损沽清以及划定外卖派送范围。"
+    ]
+  }
+}

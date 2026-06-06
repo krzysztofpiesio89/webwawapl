@@ -9,6 +9,7 @@
     "valuation": "在线报价",
     "recentlyBought": "最近购买的",
     "aboutUs": "关于我们",
+    "industries": "行业方案",
     "callNow": "立即致电",
     "brands": "我们的品牌"
   },
@@ -25,6 +26,12 @@
     "floatingBadge24h": "24小时",
     "floatingBadgeTitle": "免费送货和报价",
     "floatingBadgeDesc": "30 分钟内到达{city} 及周边地区！"
+  },
+  "industriesShowcase": {
+    "title": "适合您行业的定制 IT 系统与网站",
+    "subtitle": "我们搭建契合具体行业特性的数字化平台。助您提升客户转化率，并在最新的 AI 搜索引擎中脱颖而出。",
+    "cta": "查看所有行业与细分方向",
+    "sectorLabel": "行业"
   },
   "features": {
     "freeValuation": {

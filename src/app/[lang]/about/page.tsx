@@ -55,7 +55,7 @@ export default async function AboutUsPage(props: { params: Promise<{ lang: strin
               <span className="inline-block py-1.5 px-4 rounded-full bg-primary/10 border border-primary/20 dark:border-primary/40 text-primary dark:text-blue-400 text-xs font-bold uppercase tracking-wider">
                 {dict.about.storyBadge}
               </span>
-              <h2 className="text-3xl md:text-4xl font-black text-slate-900 dark:text-white uppercase italic tracking-tight">
+              <h2 className="text-3xl md:text-4xl font-black text-slate-900 dark:text-white uppercase tracking-tight">
                 {dict.about.storyTitle}
               </h2>
               <div className="w-20 h-1 bg-primary rounded-full"></div>
@@ -79,7 +79,7 @@ export default async function AboutUsPage(props: { params: Promise<{ lang: strin
             <div className="lg:col-span-5 space-y-8">
               <div className="bg-slate-900 dark:bg-slate-950/80 text-white rounded-3xl p-8 shadow-xl relative overflow-hidden border border-slate-800 dark:border-slate-800/50">
                 <div className="absolute top-0 right-0 w-32 h-32 bg-primary/10 rounded-full blur-3xl pointer-events-none" />
-                <h3 className="text-lg font-black mb-6 uppercase tracking-tight italic flex items-center gap-2">
+                <h3 className="text-lg font-black mb-6 uppercase tracking-tight flex items-center gap-2">
                   {dict.about.statsTitle}
                 </h3>
 
@@ -129,7 +129,7 @@ export default async function AboutUsPage(props: { params: Promise<{ lang: strin
             <span className="inline-block py-1.5 px-4 rounded-full bg-primary/10 border border-primary/20 dark:border-primary/45 text-primary dark:text-blue-400 text-xs font-bold mb-4 uppercase tracking-wider">
               {dict.about.pillarsBadge}
             </span>
-            <h2 className="text-3xl md:text-5xl font-black text-slate-900 dark:text-white uppercase italic tracking-tight">
+            <h2 className="text-3xl md:text-5xl font-black text-slate-900 dark:text-white uppercase tracking-tight">
               {dict.about.pillarsTitle}
             </h2>
             <div className="w-24 h-1 bg-primary mx-auto mt-4 rounded-full"></div>
@@ -171,7 +171,7 @@ export default async function AboutUsPage(props: { params: Promise<{ lang: strin
             <span className="inline-block py-1.5 px-4 rounded-full bg-primary/10 border border-primary/20 text-primary dark:text-blue-400 text-xs font-bold mb-4 uppercase tracking-wider">
               {dict.about.galleryBadge}
             </span>
-            <h2 className="text-3xl md:text-5xl font-black uppercase italic tracking-tight">
+            <h2 className="text-3xl md:text-5xl font-black uppercase tracking-tight">
               {dict.about.galleryTitle}
             </h2>
             <div className="w-24 h-1 bg-primary mx-auto mt-4 rounded-full"></div>
@@ -189,7 +189,7 @@ export default async function AboutUsPage(props: { params: Promise<{ lang: strin
               />
               <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/20 to-transparent opacity-85 group-hover:opacity-90 transition-opacity duration-300 flex flex-col justify-end p-8">
                 <span className="text-primary dark:text-blue-400 text-xs font-bold uppercase tracking-wider mb-2">{dict.about.galleryImg1Badge}</span>
-                <h3 className="text-xl font-black uppercase italic">{dict.about.galleryImg1Title}</h3>
+                <h3 className="text-xl font-black uppercase">{dict.about.galleryImg1Title}</h3>
                 <p className="text-slate-300 text-xs font-semibold mt-2 opacity-80">{dict.about.galleryImg1Desc}</p>
               </div>
             </div>
@@ -202,7 +202,7 @@ export default async function AboutUsPage(props: { params: Promise<{ lang: strin
               />
               <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/20 to-transparent opacity-85 group-hover:opacity-90 transition-opacity duration-300 flex flex-col justify-end p-8">
                 <span className="text-primary dark:text-blue-400 text-xs font-bold uppercase tracking-wider mb-2">{dict.about.galleryImg2Badge}</span>
-                <h3 className="text-xl font-black uppercase italic">{dict.about.galleryImg2Title}</h3>
+                <h3 className="text-xl font-black uppercase">{dict.about.galleryImg2Title}</h3>
                 <p className="text-slate-300 text-xs font-semibold mt-2 opacity-80">{dict.about.galleryImg2Desc}</p>
               </div>
             </div>
@@ -219,7 +219,7 @@ export default async function AboutUsPage(props: { params: Promise<{ lang: strin
               <span className="inline-block py-1.5 px-4 rounded-full bg-primary/10 border border-primary/20 dark:border-primary/45 text-primary dark:text-blue-400 text-xs font-bold uppercase tracking-wider">
                 {dict.about.locationBadge}
               </span>
-              <h2 className="text-3xl md:text-4xl font-black text-slate-900 dark:text-white uppercase italic tracking-tight">
+              <h2 className="text-3xl md:text-4xl font-black text-slate-900 dark:text-white uppercase tracking-tight">
                 {dict.about.locationTitle}
               </h2>
               <div className="w-20 h-1 bg-primary rounded-full"></div>
@@ -270,7 +270,7 @@ export default async function AboutUsPage(props: { params: Promise<{ lang: strin
         <div className="container mx-auto px-4 max-w-4xl text-center">
           <div className="glass-card p-12 shadow-2xl relative overflow-hidden">
             <div className="absolute top-0 left-0 w-32 h-32 bg-primary/5 rounded-full blur-3xl pointer-events-none" />
-            <h2 className="text-3xl md:text-5xl font-black text-slate-900 dark:text-white uppercase italic tracking-tight mb-4">
+            <h2 className="text-3xl md:text-5xl font-black text-slate-900 dark:text-white uppercase tracking-tight mb-4">
               {dict.about.ctaTitle}
             </h2>
             <p className="text-slate-550 dark:text-slate-400 font-semibold mb-8 max-w-xl mx-auto leading-relaxed">

@@ -104,7 +104,7 @@ export default async function UCarsPromo({ dict }: { dict: any }) {
               <span className="w-1.5 h-1.5 rounded-full bg-amber-400 animate-pulse"></span>
               {dict.badge}
             </div>
-            <h2 className="text-2xl md:text-3xl font-black tracking-tight mb-2 uppercase italic">
+            <h2 className="text-2xl md:text-3xl font-black tracking-tight mb-2 uppercase">
               {dict.titlePrefix} <span className="text-amber-400">{dict.titleHighlight}</span>
             </h2>
             <p className="text-sm text-slate-400 leading-relaxed" dangerouslySetInnerHTML={{ __html: dict.description }} />
@@ -114,7 +114,7 @@ export default async function UCarsPromo({ dict }: { dict: any }) {
               href="https://ucars.pl"
               target="_blank"
               rel="noopener noreferrer"
-              className="px-6 py-3 bg-amber-500 text-slate-950 font-black uppercase italic tracking-wider transition-all duration-300 hover:bg-amber-400 rounded-xl text-sm text-center"
+              className="px-6 py-3 bg-amber-500 text-slate-950 font-black uppercase tracking-wider transition-all duration-300 hover:bg-amber-400 rounded-xl text-sm text-center"
             >
               {dict.ctaPrimary}
             </a>

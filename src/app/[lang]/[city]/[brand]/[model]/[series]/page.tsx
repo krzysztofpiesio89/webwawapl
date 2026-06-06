@@ -359,7 +359,7 @@ export default async function CarPage({ params }: PageProps) {
               <span className="inline-block py-1.5 px-4 rounded-full bg-primary/10 border border-primary/30 text-primary text-xs font-bold mb-3 uppercase tracking-wider">
                 🔗 {isPl ? 'Powiązane marki' : 'Related brands'}
               </span>
-              <h2 className="text-2xl md:text-3xl font-black uppercase italic tracking-tight text-slate-900 dark:text-white">
+              <h2 className="text-2xl md:text-3xl font-black uppercase tracking-tight text-slate-900 dark:text-white">
                 {isPl ? 'Zobacz również' : 'See also'}
               </h2>
               <p className="text-sm text-slate-500 dark:text-slate-400 mt-2 max-w-xl mx-auto">
@@ -405,7 +405,7 @@ export default async function CarPage({ params }: PageProps) {
                 <span className="inline-block py-1.5 px-4 rounded-full bg-primary/10 border border-primary/30 text-primary text-xs font-bold mb-3 uppercase tracking-wider">
                   📚 Specyfikacja i Opis Modelu
                 </span>
-                <h2 className="text-3xl md:text-4xl font-black text-slate-900 dark:text-white uppercase italic tracking-tight">
+                <h2 className="text-3xl md:text-4xl font-black text-slate-900 dark:text-white uppercase tracking-tight">
                   Kontekst technologiczny: {brandName} {modelName} {series.name}
                 </h2>
                 <div className="w-20 h-1 bg-primary mx-auto mt-3 rounded-full"></div>
@@ -415,7 +415,7 @@ export default async function CarPage({ params }: PageProps) {
                 {/* Description */}
                 <div className="lg:col-span-7 space-y-6">
                   <div className="bg-slate-50 dark:bg-slate-950/20 p-8 rounded-2xl border border-slate-200/80 dark:border-slate-800/60 shadow-sm">
-                    <h3 className="text-xl font-black text-slate-900 dark:text-white mb-4 uppercase italic">Opis Pojazdu</h3>
+                    <h3 className="text-xl font-black text-slate-900 dark:text-white mb-4 uppercase">Opis Pojazdu</h3>
                     <p className="text-slate-650 dark:text-slate-350 leading-relaxed text-base font-medium">
                       {wikiDesc}
                     </p>
@@ -442,7 +442,7 @@ export default async function CarPage({ params }: PageProps) {
                   )}
                   
                   <div className="bg-slate-905 dark:bg-slate-950 text-slate-800 dark:text-slate-200 rounded-2xl p-6 shadow-md border border-slate-200 dark:border-slate-800">
-                    <h3 className="text-lg font-black mb-4 uppercase tracking-tight italic flex items-center gap-2 text-slate-900 dark:text-white">
+                    <h3 className="text-lg font-black mb-4 uppercase tracking-tight flex items-center gap-2 text-slate-900 dark:text-white">
                       📊 Parametry Techniczne
                     </h3>
 
@@ -500,7 +500,7 @@ export default async function CarPage({ params }: PageProps) {
             <span className="inline-block py-1 px-4 rounded-full bg-primary/10 border border-primary/30 text-primary text-xs font-bold uppercase tracking-wider mb-4">
               B2B Services & Software
             </span>
-            <h2 className="text-3xl md:text-4xl font-black uppercase italic tracking-tight text-slate-900 dark:text-white mb-4">
+            <h2 className="text-3xl md:text-4xl font-black uppercase tracking-tight text-slate-900 dark:text-white mb-4">
               {t.title}
             </h2>
             <p className="text-slate-650 dark:text-slate-400 max-w-2xl mx-auto text-sm md:text-base">

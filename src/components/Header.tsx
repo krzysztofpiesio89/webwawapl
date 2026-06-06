@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
-import CarLogo from './CarLogo'; // IT logo representation
+import Logo from './Logo'; // IT logo representation
 import { GlobalSettings } from '@/lib/settings';
 import LanguageSwitcher from './LanguageSwitcher';
 import { Locale } from '@/app/[lang]/dictionaries';
@@ -23,6 +23,7 @@ export default function Header({
 
   const homeUrl = lang === 'pl' ? '/' : `/${lang}`;
   const aboutUrl = getLocalizedStaticPath('about', lang);
+  const industriesUrl = getLocalizedStaticPath('industries', lang);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -60,17 +61,18 @@ export default function Header({
     >
       <div className="container mx-auto px-4 flex justify-between items-center relative">
           <Link href={homeUrl} className="flex items-center gap-2 sm:gap-3 group shrink-0" onClick={() => setIsMenuOpen(false)}>
-            <CarLogo className="h-9 sm:h-12 w-auto transform group-hover:scale-105 transition-transform duration-300" />
+            <Logo className="h-9 sm:h-12 w-auto transform group-hover:scale-105 transition-transform duration-300" />
             <div className="flex flex-col leading-none">
               <span className="text-[17px] sm:text-[22px] font-black text-slate-900 dark:text-white tracking-tight uppercase">
-                WEB<span className="text-primary">WAWA.PL</span>
+                WEB<span className="text-primary">WAWA</span><span className="text-red-500">.PL</span>
               </span>
             </div>
           </Link>
-
+ 
           {/* Desktop Nav */}
           <nav className="hidden lg:flex gap-1 xl:gap-2 font-bold items-center">
             <Link href={homeUrl} className="text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100/80 dark:hover:bg-slate-900/80 px-4 py-2.5 rounded-full transition-all duration-300 text-sm xl:text-base">{dict.nav.home}</Link>
+            <Link href={industriesUrl} className="text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100/80 dark:hover:bg-slate-900/80 px-4 py-2.5 rounded-full transition-all duration-300 text-sm xl:text-base">{dict.nav.industries || (lang === 'pl' ? 'Branże' : 'Industries')}</Link>
             <Link href={aboutUrl} className="text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100/80 dark:hover:bg-slate-900/80 px-4 py-2.5 rounded-full transition-all duration-300 text-sm xl:text-base">{dict.nav.aboutUs}</Link>
             
             {/* Theme Toggle Button (Desktop) */}
@@ -150,6 +152,7 @@ export default function Header({
           >
             <nav className="flex flex-col p-3 font-bold text-center gap-1 text-slate-800 dark:text-slate-200">
               <Link href={homeUrl} className="text-lg py-3.5 hover:bg-slate-50 dark:hover:bg-slate-900/60 rounded-xl transition-colors" onClick={() => setIsMenuOpen(false)}>{dict.nav.home}</Link>
+              <Link href={industriesUrl} className="text-lg py-3.5 hover:bg-slate-50 dark:hover:bg-slate-900/60 rounded-xl transition-colors" onClick={() => setIsMenuOpen(false)}>{dict.nav.industries || (lang === 'pl' ? 'Branże' : 'Industries')}</Link>
               <Link href={aboutUrl} className="text-lg py-3.5 hover:bg-slate-50 dark:hover:bg-slate-900/60 rounded-xl transition-colors" onClick={() => setIsMenuOpen(false)}>{dict.nav.aboutUs}</Link>
               
               <div className="px-2 pt-2 pb-1 mt-1 border-t border-slate-100 dark:border-slate-800">

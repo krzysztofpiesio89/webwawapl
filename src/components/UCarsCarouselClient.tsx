@@ -173,7 +173,7 @@ export default function UCarsCarouselClient({ cars, dict }: { cars: CarProps[], 
               <div className="mt-auto pt-3 border-t border-slate-800/60">
                 <div className="flex items-baseline justify-between mb-3">
                   <span className="text-[10px] text-slate-400 uppercase font-bold">{dict.buyNow}</span>
-                  <strong className="text-xl font-black text-amber-400 italic">
+                  <strong className="text-xl font-black text-amber-400">
                     ${priceVal.toLocaleString()}
                   </strong>
                 </div>

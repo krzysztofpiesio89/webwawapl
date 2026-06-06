@@ -9,6 +9,7 @@
     "valuation": "Online Valuation",
     "recentlyBought": "Recently Purchased",
     "aboutUs": "About Us",
+    "industries": "Industries",
     "callNow": "Call Now",
     "brands": "Our Brands"
   },
@@ -25,6 +26,12 @@
     "floatingBadge24h": "24h",
     "floatingBadgeTitle": "Free pickup & valuation",
     "floatingBadgeDesc": "We reach {city} and surroundings in 30 minutes!"
+  },
+  "industriesShowcase": {
+    "title": "Dedicated systems & websites for your industry",
+    "subtitle": "We build advanced platforms tailored to the specifics of concrete professions. Boost client conversions and optimize AI search visibility.",
+    "cta": "View all industries & specializations",
+    "sectorLabel": "Sector"
   },
   "features": {
     "freeValuation": {

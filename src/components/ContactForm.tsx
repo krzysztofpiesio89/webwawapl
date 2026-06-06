@@ -19,33 +19,166 @@ export default function ContactForm({
   const [images, setImages] = useState<{file: File, preview: string}[]>([]);
   const formRef = useRef<HTMLDivElement>(null);
 
-  const isPl = lang === 'pl';
-  const labels = {
-    title: isPl ? "Darmowa Konsultacja & Wycena" : "Free Consultation & Quote",
-    clientName: isPl ? "Imię i nazwisko / Nazwa firmy" : "Name / Company Name",
-    clientNamePlaceholder: isPl ? "np. Jan Kowalski / WebWawa Sp. z o.o." : "e.g. John Doe / Tech Corp",
-    serviceType: isPl ? "Rodzaj usługi" : "Service Type",
-    serviceTypePlaceholder: isPl ? "np. Strona internetowa, sklep, aplikacja webowa" : "e.g. Website, e-commerce, web app",
-    budget: isPl ? "Planowany budżet" : "Estimated Budget",
-    budgetPlaceholder: isPl ? "np. 5000 - 15000 zł" : "e.g. $3000 - $10000",
-    timeframe: isPl ? "Czas realizacji" : "Desired Timeframe",
-    timeframePlaceholder: isPl ? "np. 1-2 miesiące, pilne" : "e.g. 1-2 months, urgent",
-    city: isPl ? "Lokalizacja / Siedziba" : "Location / Office",
-    phone: isPl ? "Numer telefonu" : "Phone Number",
-    phonePlaceholder: isPl ? "Twój numer telefonu" : "Your phone number",
-    email: isPl ? "Adres e-mail" : "Email Address",
-    emailPlaceholder: isPl ? "twoj@email.pl" : "your@email.com",
-    description: isPl ? "Opis projektu / Wymagania" : "Project Description / Brief",
-    descriptionPlaceholder: isPl ? "Opisz krótko swój projekt, cele i oczekiwania..." : "Describe your project, goals and expectations...",
-    files: isPl ? "Załącz pliki / Brief" : "Attach Files / Brief",
-    submit: isPl ? "Wyślij zapytanie" : "Send Inquiry",
-    submitting: isPl ? "Wysyłanie..." : "Sending...",
-    successTitle: isPl ? "Zapytanie wysłane!" : "Inquiry Sent!",
-    successMessage: isPl ? "Dziękujemy za kontakt. Nasz doradca skontaktuje się z Tobą w ciągu 24 godzin." : "Thank you for contacting us. Our advisor will get back to you within 24 hours.",
-    submitAnother: isPl ? "Wyślij kolejne zapytanie" : "Send another inquiry",
-    requiredNote: isPl ? "pola wymagane. Administratorem danych jest" : "required fields. Data controller is",
-    attachments: isPl ? "Załączniki" : "Attachments"
+  const labelsMap = {
+    pl: {
+      title: "Darmowa Konsultacja & Wycena",
+      clientName: "Imię i nazwisko / Nazwa firmy",
+      clientNamePlaceholder: "np. Jan Kowalski / WebWawa Sp. z o.o.",
+      serviceType: "Rodzaj usługi",
+      serviceTypePlaceholder: "np. Strona internetowa, sklep, aplikacja webowa",
+      budget: "Planowany budżet",
+      budgetPlaceholder: "np. 5000 - 15000 zł",
+      timeframe: "Czas realizacji",
+      timeframePlaceholder: "np. 1-2 miesiące, pilne",
+      city: "Lokalizacja / Siedziba",
+      phone: "Numer telefonu",
+      phonePlaceholder: "Twój numer telefonu",
+      email: "Adres e-mail",
+      emailPlaceholder: "twoj@email.pl",
+      description: "Opis projektu / Wymagania",
+      descriptionPlaceholder: "Opisz krótko swój projekt, cele i oczekiwania...",
+      files: "Załącz pliki / Brief",
+      submit: "Wyślij zapytanie",
+      submitting: "Wysyłanie...",
+      successTitle: "Zapytanie wysłane!",
+      successMessage: "Dziękujemy za kontakt. Nasz doradca skontaktuje się z Tobą w ciągu 24 godzin.",
+      submitAnother: "Wyślij kolejne zapytanie",
+      requiredNote: "pola wymagane. Administratorem danych jest",
+      attachments: "Załączniki"
+    },
+    en: {
+      title: "Free Consultation & Quote",
+      clientName: "Name / Company Name",
+      clientNamePlaceholder: "e.g. John Doe / Tech Corp",
+      serviceType: "Service Type",
+      serviceTypePlaceholder: "e.g. Website, e-commerce, web app",
+      budget: "Estimated Budget",
+      budgetPlaceholder: "e.g. $3000 - $10000",
+      timeframe: "Desired Timeframe",
+      timeframePlaceholder: "e.g. 1-2 months, urgent",
+      city: "Location / Office",
+      phone: "Phone Number",
+      phonePlaceholder: "Your phone number",
+      email: "Email Address",
+      emailPlaceholder: "your@email.com",
+      description: "Project Description / Brief",
+      descriptionPlaceholder: "Describe your project, goals and expectations...",
+      files: "Attach Files / Brief",
+      submit: "Send Inquiry",
+      submitting: "Sending...",
+      successTitle: "Inquiry Sent!",
+      successMessage: "Thank you for contacting us. Our advisor will get back to you within 24 hours.",
+      submitAnother: "Send another inquiry",
+      requiredNote: "required fields. Data controller is",
+      attachments: "Attachments"
+    },
+    de: {
+      title: "Kostenlose Beratung & Angebot",
+      clientName: "Name / Firmenname",
+      clientNamePlaceholder: "z.B. Max Mustermann / Muster GmbH",
+      serviceType: "Dienstleistungsart",
+      serviceTypePlaceholder: "z.B. Website, E-Commerce, Web-App",
+      budget: "Geschätztes Budget",
+      budgetPlaceholder: "z.B. 3000 € - 10000 €",
+      timeframe: "Gewünschter Zeitrahmen",
+      timeframePlaceholder: "z.B. 1-2 Monate, dringend",
+      city: "Standort / Büro",
+      phone: "Telefonnummer",
+      phonePlaceholder: "Ihre Telefonnummer",
+      email: "E-Mail-Adresse",
+      emailPlaceholder: "ihre@email.de",
+      description: "Projektbeschreibung / Briefing",
+      descriptionPlaceholder: "Beschreiben Sie kurz Ihr Projekt, Ihre Ziele und Erwartungen...",
+      files: "Dateien anhängen / Briefing",
+      submit: "Anfrage senden",
+      submitting: "Wird gesendet...",
+      successTitle: "Anfrage gesendet!",
+      successMessage: "Vielen Dank für Ihre Kontaktaufnahme. Unser Berater wird sich innerhalb von 24 Stunden mit Ihnen in Verbindung setzen.",
+      submitAnother: "Weitere Anfrage senden",
+      requiredNote: "Pflichtfelder. Datenverantwortlicher ist",
+      attachments: "Anhänge"
+    },
+    uk: {
+      title: "Безкоштовна консультація та оцінка",
+      clientName: "Ім'я та прізвище / Назва компанії",
+      clientNamePlaceholder: "напр. Іван Іванов / ТОВ ВебВава",
+      serviceType: "Тип послуги",
+      serviceTypePlaceholder: "напр. Сайт, інтернет-магазин, веб-додаток",
+      budget: "Орієнтовний бюджет",
+      budgetPlaceholder: "напр. 5000 - 15000 злотих",
+      timeframe: "Термін реалізації",
+      timeframePlaceholder: "напр. 1-2 місяці, терміново",
+      city: "Місцезнаходження / Офіс",
+      phone: "Номер телефону",
+      phonePlaceholder: "Ваш номер телефону",
+      email: "Електронна пошта",
+      emailPlaceholder: "vash@email.com",
+      description: "Опис проекту / Бриф",
+      descriptionPlaceholder: "Опишіть коротко свій проект, цілі та очікування...",
+      files: "Додати файли / Бриф",
+      submit: "Надіслати запит",
+      submitting: "Надсилання...",
+      successTitle: "Запит надіслано!",
+      successMessage: "Дякуємо за звернення. Наш консультант зв'яжеться з вами протягом 24 годин.",
+      submitAnother: "Надіслати ще один запит",
+      requiredNote: "обов'язкові поля. Контролером даних є",
+      attachments: "Вкладення"
+    },
+    ru: {
+      title: "Бесплатная консультация и оценка",
+      clientName: "Имя и фамилия / Название компании",
+      clientNamePlaceholder: "напр. Иван Иванов / ООО ВебВава",
+      serviceType: "Тип услуги",
+      serviceTypePlaceholder: "напр. Сайт, интернет-магазин, веб-приложение",
+      budget: "Ориентировочный бюджет",
+      budgetPlaceholder: "напр. 5000 - 15000 злотых",
+      timeframe: "Срок реализации",
+      timeframePlaceholder: "напр. 1-2 месяца, срочно",
+      city: "Местоположение / Офис",
+      phone: "Номер телефона",
+      phonePlaceholder: "Ваш номер телефона",
+      email: "Электронная почта",
+      emailPlaceholder: "vash@email.com",
+      description: "Описание проекта / Бриф",
+      descriptionPlaceholder: "Опишите кратко свой проект, цели и ожидания...",
+      files: "Прикрепить файлы / Бриф",
+      submit: "Отправить запрос",
+      submitting: "Отправка...",
+      successTitle: "Запрос отправлен!",
+      successMessage: "Благодарим за обращение. Наш консультант свяжется с вами в течение 24 часов.",
+      submitAnother: "Отправить еще один запрос",
+      requiredNote: "обязательные поля. Контролером данных является",
+      attachments: "Вложения"
+    },
+    zh: {
+      title: "免费咨询与估价",
+      clientName: "姓名 / 公司名称",
+      clientNamePlaceholder: "例如：张三 / 某科技公司",
+      serviceType: "服务类型",
+      serviceTypePlaceholder: "例如：网站建设、提单系统、Web应用",
+      budget: "预估预算",
+      budgetPlaceholder: "例如：3000 - 10000 美元",
+      timeframe: "期望工期",
+      timeframePlaceholder: "例如：1-2 个月、紧急",
+      city: "地点 / 办公室",
+      phone: "电话号码",
+      phonePlaceholder: "您的电话号码",
+      email: "电子邮箱",
+      emailPlaceholder: "your@email.com",
+      description: "项目描述 / 简要需求",
+      descriptionPlaceholder: "简要描述您的项目、目标和期望...",
+      files: "添加附件 / 简要需求",
+      submit: "发送咨询",
+      submitting: "正在发送...",
+      successTitle: "咨询已发送！",
+      successMessage: "感谢您的联系。我们的顾问将在 24 小时内与您联系。",
+      submitAnother: "发送另一个咨询",
+      requiredNote: "必填项。数据控制者为",
+      attachments: "附件"
+    }
   };
+
+  const labels = labelsMap[lang as keyof typeof labelsMap] || labelsMap.en;
 
   useEffect(() => {
     if (state?.success && formRef.current) {
@@ -86,7 +219,16 @@ export default function ContactForm({
       }
       
       if (sizeExceeded) {
-        alert(isPl ? `Przekroczono limit ${MAX_TOTAL_SIZE_MB}MB na załączniki. Pomiń niektóre pliki.` : `Limit of ${MAX_TOTAL_SIZE_MB}MB for attachments exceeded. Skip some files.`);
+        const sizeLimitAlerts = {
+          pl: `Przekroczono limit ${MAX_TOTAL_SIZE_MB}MB na załączniki. Pomiń niektóre pliki.`,
+          en: `Limit of ${MAX_TOTAL_SIZE_MB}MB for attachments exceeded. Skip some files.`,
+          de: `Limit von ${MAX_TOTAL_SIZE_MB}MB für Anhänge überschritten. Einige Dateien überspringen.`,
+          uk: `Перевищено ліміт у ${MAX_TOTAL_SIZE_MB}МБ для вкладень. Пропустіть деякі файли.`,
+          ru: `Превышен лимит в ${MAX_TOTAL_SIZE_MB}МБ для вложений. Пропустите некоторые файлы.`,
+          zh: `超出附件 ${MAX_TOTAL_SIZE_MB}MB 的限制。请移除部分文件。`
+        };
+        const alertMsg = sizeLimitAlerts[lang as keyof typeof sizeLimitAlerts] || sizeLimitAlerts.en;
+        alert(alertMsg);
       }
       
       setImages(prev => [...prev, ...validImages].slice(0, 6));
@@ -120,14 +262,14 @@ export default function ContactForm({
       {/* Top gradient bar */}
       <div className="absolute top-0 left-0 w-full h-1.5 bg-gradient-to-r from-primary to-secondary"></div>
       
-      <h2 className="text-3xl font-black mb-8 text-center text-slate-900 dark:text-white uppercase tracking-tighter italic">
+      <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-center text-slate-900 dark:text-white mb-8">
         {labels.title}
       </h2>
       
       {state?.success ? (
         <div className="bg-green-500/10 border border-green-500/20 text-green-700 dark:text-green-400 p-8 md:p-16 rounded-2xl text-center animate-fade-in shadow-inner">
           <div className="text-6xl mb-6 animate-bounce">✅</div>
-          <p className="text-3xl font-black mb-4 uppercase italic tracking-tight text-green-800 dark:text-green-500">{labels.successTitle}</p>
+          <p className="text-2xl font-bold mb-3 tracking-tight text-green-800 dark:text-green-500">{labels.successTitle}</p>
           <p className="font-medium opacity-80">{labels.successMessage}</p>
           <button 
             onClick={() => window.location.reload()} 
@@ -148,110 +290,110 @@ export default function ContactForm({
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             {/* Client Name */}
-            <div className="space-y-1">
-              <label htmlFor="brandModel" className="text-xs font-black text-slate-600 dark:text-slate-400 uppercase tracking-widest block">{labels.clientName} *</label>
+            <div className="space-y-1.5">
+              <label htmlFor="brandModel" className="text-xs font-bold text-slate-600 dark:text-slate-400 uppercase tracking-wider block">{labels.clientName} *</label>
               <input 
                 id="brandModel"
                 name="brandModel" 
                 required 
                 type="text" 
                 placeholder={labels.clientNamePlaceholder} 
-                className="w-full p-4 rounded-xl border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-bold placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
+                className="w-full p-4 rounded-xl border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
               />
             </div>
 
             {/* Service Type */}
-            <div className="space-y-1">
-              <label htmlFor="engine" className="text-xs font-black text-slate-600 dark:text-slate-400 uppercase tracking-widest block">{labels.serviceType} *</label>
+            <div className="space-y-1.5">
+              <label htmlFor="engine" className="text-xs font-bold text-slate-600 dark:text-slate-400 uppercase tracking-wider block">{labels.serviceType} *</label>
               <input 
                 id="engine"
                 name="engine" 
                 required
                 type="text" 
                 placeholder={labels.serviceTypePlaceholder} 
-                className="w-full p-4 rounded-xl border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-bold placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
+                className="w-full p-4 rounded-xl border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
               />
             </div>
 
             {/* Budget */}
-            <div className="space-y-1">
-              <label htmlFor="price" className="text-xs font-black text-slate-600 dark:text-slate-400 uppercase tracking-widest block">{labels.budget}</label>
+            <div className="space-y-1.5">
+              <label htmlFor="price" className="text-xs font-bold text-slate-600 dark:text-slate-400 uppercase tracking-wider block">{labels.budget}</label>
               <input 
                 id="price"
                 name="price" 
                 type="text" 
                 placeholder={labels.budgetPlaceholder} 
-                className="w-full p-4 rounded-xl border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-bold placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
+                className="w-full p-4 rounded-xl border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
               />
             </div>
 
             {/* Timeframe */}
-            <div className="space-y-1">
-              <label htmlFor="year" className="text-xs font-black text-slate-600 dark:text-slate-400 uppercase tracking-widest block">{labels.timeframe}</label>
+            <div className="space-y-1.5">
+              <label htmlFor="year" className="text-xs font-bold text-slate-600 dark:text-slate-400 uppercase tracking-wider block">{labels.timeframe}</label>
               <input 
                 id="year"
                 name="year" 
                 type="text" 
                 placeholder={labels.timeframePlaceholder} 
-                className="w-full p-4 rounded-xl border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-bold placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
+                className="w-full p-4 rounded-xl border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
               />
             </div>
 
             {/* Location */}
-            <div className="space-y-1">
-              <label htmlFor="city" className="text-xs font-black text-slate-600 dark:text-slate-400 uppercase tracking-widest block">{labels.city}</label>
+            <div className="space-y-1.5">
+              <label htmlFor="city" className="text-xs font-bold text-slate-600 dark:text-slate-400 uppercase tracking-wider block">{labels.city}</label>
               <input 
                 id="city"
                 name="city" 
                 defaultValue={defaultCity} 
-                className="w-full p-4 rounded-xl border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-bold focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
+                className="w-full p-4 rounded-xl border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
               />
             </div>
 
             {/* Phone */}
-            <div className="space-y-1">
-              <label htmlFor="phone" className="text-xs font-black text-slate-600 dark:text-slate-400 uppercase tracking-widest block">{labels.phone} *</label>
+            <div className="space-y-1.5">
+              <label htmlFor="phone" className="text-xs font-bold text-slate-600 dark:text-slate-400 uppercase tracking-wider block">{labels.phone} *</label>
               <input 
                 id="phone"
                 name="phone" 
                 required 
                 type="tel" 
                 placeholder={labels.phonePlaceholder} 
-                className="w-full p-4 rounded-xl border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-bold placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
+                className="w-full p-4 rounded-xl border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
               />
             </div>
 
             {/* E-mail */}
-            <div className="md:col-span-2 space-y-1">
-              <label htmlFor="email" className="text-xs font-black text-slate-600 dark:text-slate-400 uppercase tracking-widest block">{labels.email} *</label>
+            <div className="md:col-span-2 space-y-1.5">
+              <label htmlFor="email" className="text-xs font-bold text-slate-600 dark:text-slate-400 uppercase tracking-wider block">{labels.email} *</label>
               <input 
                 id="email"
                 name="email" 
                 required 
                 type="email" 
                 placeholder={labels.emailPlaceholder} 
-                className="w-full p-4 rounded-xl border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-bold placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
+                className="w-full p-4 rounded-xl border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
               />
             </div>
           </div>
 
           {/* Project description */}
-          <div className="space-y-1">
-            <label htmlFor="description" className="text-xs font-black text-slate-600 dark:text-slate-400 uppercase tracking-widest block">{labels.description}</label>
+          <div className="space-y-1.5">
+            <label htmlFor="description" className="text-xs font-bold text-slate-600 dark:text-slate-400 uppercase tracking-wider block">{labels.description}</label>
             <textarea 
               id="description"
               name="description" 
               rows={4} 
               placeholder={labels.descriptionPlaceholder} 
-              className="w-full p-4 rounded-xl border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-bold placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
+              className="w-full p-4 rounded-xl border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
             />
           </div>
 
           {/* Files / Brief */}
           <div className="space-y-4">
-            <label htmlFor="images-input" className="text-xs font-black text-slate-600 dark:text-slate-400 uppercase tracking-widest block">{labels.files}</label>
+            <label htmlFor="images-input" className="text-xs font-bold text-slate-600 dark:text-slate-400 uppercase tracking-wider block">{labels.files}</label>
             <div className="flex flex-wrap gap-4">
-              <label htmlFor="images-input" className="w-20 h-20 border-2 border-dashed border-slate-300 dark:border-slate-850 rounded-xl flex items-center justify-center cursor-pointer hover:border-primary dark:hover:border-primary bg-slate-50 dark:bg-slate-950/60 transition-colors text-2xl text-slate-400 dark:text-slate-600">
+              <label htmlFor="images-input" className="w-20 h-20 border-2 border-dashed border-slate-300 dark:border-slate-800 rounded-xl flex items-center justify-center cursor-pointer hover:border-primary dark:hover:border-primary bg-slate-50 dark:bg-slate-950/60 transition-colors text-2xl text-slate-400 dark:text-slate-600">
                 +
                 <input 
                   id="images-input"
@@ -302,7 +444,7 @@ export default function ContactForm({
           <button 
             disabled={isPending} 
             type="submit" 
-            className="w-full bg-gradient-to-r from-primary to-secondary hover:from-primary-dark hover:to-secondary text-white font-black text-xl py-5 rounded-2xl shadow-lg hover:shadow-primary/25 transition-all duration-300 transform hover:-translate-y-0.5 active:scale-98 disabled:opacity-50 disabled:cursor-not-allowed uppercase italic tracking-wide"
+            className="w-full bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-500 hover:to-indigo-500 text-white font-bold text-lg py-4 rounded-xl shadow-lg shadow-blue-500/20 hover:shadow-blue-500/40 transition-all duration-300 transform hover:scale-[1.01] active:scale-98 disabled:opacity-50 disabled:cursor-not-allowed tracking-tight"
           >
             {isPending ? labels.submitting : labels.submit}
           </button>
