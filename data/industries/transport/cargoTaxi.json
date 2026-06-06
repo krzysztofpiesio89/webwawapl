@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Taksówka Bagażowa",
+    "about": "Taksówka bagażowa to idealne rozwiązanie do szybkiego przewozu pojedynczych mebli, sprzętu AGD czy zakupów ze sklepów budowlanych. Strona dla tej usługi musi umożliwiać natychmiastowe zamówienie transportu z kierowcą bez skomplikowanych formalności.",
+    "focus": "Kluczem w tej branży są szybkie połączenia telefoniczne i przejrzyste stawki godzinowe oraz kilometrowe. Mobilny interfejs oraz precyzyjne lokalne SEO (np. bagażówka Warszawa Wola) zapewniają stały napływ klientów.",
+    "specifications": [
+      "Zoptymalizowany pod smartfony interfejs ze stałym przyciskiem szybkiego połączenia telefonicznego.",
+      "Autorski formularz kalkulacji kosztów na podstawie odległości, czasu pracy i pomocy przy wnoszeniu.",
+      "Integracja z mapami do wizualizacji trasy przejazdu i natychmiastowego wyliczenia ceny transportu.",
+      "Opcja wyboru dodatkowego tragarza bezpośrednio w formularzu zamówienia na stronie.",
+      "Moduł powiadomień SMS informujący klienta o statusie zlecenia i przybliżonym czasie dojazdu kierowcy.",
+      "Struktura danych Schema.org (Service) dla bezpośrednich odpowiedzi i wycen w wyszukiwarkach AI."
+    ]
+  },
+  "en": {
+    "name": "Cargo Taxi",
+    "about": "A cargo taxi is the perfect solution for fast transport of single furniture items, home appliances, or large DIY store purchases. A website for this service must focus on instant booking with driver assistance.",
+    "focus": "The core conversion drivers are immediate phone contacts and transparent hourly/mileage rates. Mobile-first layout combined with local SEO (e.g., small van transport Warsaw) keeps the phone ringing.",
+    "specifications": [
+      "Mobile-first user interface with a sticky Click-to-Call button for instant emergency dispatch.",
+      "Custom quote engine factoring in trip distance, loading time, and helper assistance level.",
+      "Live interactive maps integration to display transit routes and provide instant fare quotes.",
+      "Add-on selection menu for booking extra helpers or specialized packing materials online.",
+      "Integrated SMS gateway sending live booking status and estimated driver arrival time notifications.",
+      "SEO-ready Schema.org structured markup (Service) maximizing citation chances in AI Search Overviews."
+    ]
+  },
+  "de": {
+    "name": "Lastentaxi",
+    "about": "Ein Lastentaxi ist die ideale Lösung für den schnellen Transport einzelner Möbelstücke, Elektrogeräte oder Baumarkteinkäufe. Die Website für diesen Service muss eine unkomplizierte Buchung mit Fahrerhilfe ermöglichen.",
+    "focus": "Der Erfolg basiert auf schnellen Anrufen und transparenten Stunden- oder Kilometertarifen. Ein optimierter Mobil-Auftritt und lokales SEO sichern kontinuierliche Buchungen.",
+    "specifications": [
+      "Mobiloptimiertes Design mit dauerhaft sichtbarem Direktruf-Button für schnelle Kontaktaufnahme.",
+      "Preiskalkulator basierend auf Entfernung, Zeittarif und optionaler Trageunterstützung.",
+      "Interaktive Karteneinbindung zur direkten Visualisierung der Fahrtstrecke und Preisauskunft.",
+      "Optionale Zubuchung von Tragehelfern direkt über das Online-Bestellformular.",
+      "Automatische SMS-Status-Updates über den Auftragsfortschritt und die Ankunftszeit des Fahrers.",
+      "Implementierung strukturierter Schema.org-Daten (Service) für direkte Listung in KI-Suchergebnissen."
+    ]
+  },
+  "uk": {
+    "name": "Вантажне Таксі",
+    "about": "Вантажне таксі — ідеальне рішення для швидкого перевезення поодиноких меблів, великої побутової техніки або покупок з будівельних супермаркетів. Сайт має забезпечити миттєве замовлення машини з водієм.",
+    "focus": "Головне для клієнтів вантажного таксі — швидкі телефонні дзвінки та прозорі погодинні або кілометрові тарифи. Мобільна оптимізація та локальне SEO гарантують стабільний потік клієнтів.",
+    "specifications": [
+      "Зручний мобільний інтерфейс з плаваючою кнопкою швидкого дзвінка на екрані.",
+      "Калькулятор вартості на основі кілометражу, часу завантаження та необхідності допомоги.",
+      "Інтеграція з картами для автоматичного прокладання маршруту та розрахунку вартості поїздки.",
+      "Можливість додавання послуг вантажників (наприклад, 1 або 2 помічники) прямо на сайті.",
+      "Система SMS-інформування про призначення машини та час прибуття вантажного таксі.",
+      "Налаштування мікророзмітки Schema.org (Service) для відображення цін у результатах пошуку AI."
+    ]
+  },
+  "ru": {
+    "name": "Грузовое Такси",
+    "about": "Грузовое такси — это лучшее решение для быстрой перевозки отдельных предметов мебели, бытовой техники или стройматериалов. Сайт должен позволять быстро и просто заказать машину с водителем-помощником.",
+    "focus": "В этой нише критически важен моментальный звонок и понятные тарифы за километр/час. Адаптивный мобильный дизайн и локальное SEO (например, грузовое такси Москва дешево) приносят регулярные заказы.",
+    "specifications": [
+      "Адаптивный под смартфоны интерфейс со сквозной кнопкой быстрого набора номера телефона.",
+      "Интуитивный онлайн-калькулятор стоимости в зависимости от расстояния, времени и услуг грузчиков.",
+      "Интеграция с картами для построения маршрута и моментальной калькуляции стоимости поездки.",
+      "Опция заказа грузчиков непосредственно через форму бронирования на сайте.",
+      "SMS-уведомления клиента с подтверждением заказа и информированием о времени прибытия авто.",
+      "Применение разметки Schema.org (Service) для вывода тарифов и отзывов в поисковой выдаче AI."
+    ]
+  },
+  "zh": {
+    "name": "货运出租车",
+    "about": "货运出租车是快速搬运单件家具、家用电器或建材超市采购物品的理想之选。专为此类服务设计的网站必须聚焦于让客户无需繁杂手续，极速下单预约配有司机的货运车辆。",
+    "focus": "对于即时货运，核心在于一键致电与完全透明的起步价/里程价。出色的移动端交互界面和本地化 SEO（如：货运面包车叫车电话）是保障源源不断成单的基石。",
+    "specifications": [
+      "深度优化智能手机体验，配有醒目的“一键拨号”浮动按钮，便于紧急用车联系。",
+      "自主研发的运费预估表单，根据行驶里程、起卸用时和司机是否协助搬运自动出价。",
+      "嵌入互动地图接口，让客户可预览路线轨迹并获得秒级精准透明报价。",
+      "表单中集成增值服务勾选项（如：增配专业搬运工、提供纸箱塑料膜等防护材料）。",
+      "集成短信服务，自动向客户发送派车状态、车牌号及司机预计到达时间的提示短信。",
+      "部署完全符合 AI 搜索抓取的 Schema.org 结构化字段（Service），锁定首屏曝光机会。"
+    ]
+  }
+}

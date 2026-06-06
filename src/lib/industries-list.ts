@@ -70,6 +70,30 @@ export const industrySlugsMap = {
     uk: 'hastronomiya',
     ru: 'gastronomiya',
     zh: 'gastronomy'
+  },
+  transport: {
+    pl: 'transport',
+    en: 'transport',
+    de: 'transport',
+    uk: 'transport',
+    ru: 'transport',
+    zh: 'transport'
+  },
+  ecommerce: {
+    pl: 'sklepy-internetowe',
+    en: 'online-stores',
+    de: 'online-shops',
+    uk: 'internet-mahazyny',
+    ru: 'internet-magaziny',
+    zh: 'online-stores'
+  },
+  education: {
+    pl: 'edukacja',
+    en: 'education',
+    de: 'bildung',
+    uk: 'osvita',
+    ru: 'obrazovanie',
+    zh: 'education'
   }
 } as const;
 
@@ -521,6 +545,126 @@ export const professionSlugsMap = {
     uk: 'keyterynhova-kompaniya',
     ru: 'keyteringovaya-kompaniya',
     zh: 'catering-company'
+  },
+  movingCompany: {
+    pl: 'przeprowadzki',
+    en: 'moving-services',
+    de: 'umzuege',
+    uk: 'pereyizdy',
+    ru: 'pereezdy',
+    zh: 'moving-services'
+  },
+  cargoTaxi: {
+    pl: 'taksowka-bagazowa',
+    en: 'cargo-taxi',
+    de: 'lastentaxi',
+    uk: 'vantazhne-taksi',
+    ru: 'gruzovoe-taksi',
+    zh: 'cargo-taxi'
+  },
+  roadsideAssistance: {
+    pl: 'pomoc-drogowa',
+    en: 'roadside-assistance',
+    de: 'pannenhilfe',
+    uk: 'avtodopomoha',
+    ru: 'pomoshch-na-dorogah',
+    zh: 'roadside-assistance'
+  },
+  vanRental: {
+    pl: 'wynajem-dostawczakow',
+    en: 'van-rental',
+    de: 'transporter-vermietung',
+    uk: 'orenda-busiiv',
+    ru: 'arenda-furgonov',
+    zh: 'van-rental'
+  },
+  courier: {
+    pl: 'kurier-lokalny',
+    en: 'local-courier',
+    de: 'lokaler-kurier',
+    uk: 'lokalnyy-kuryer',
+    ru: 'mestnyy-kuryer',
+    zh: 'local-courier'
+  },
+  physicalStore: {
+    pl: 'produkty-fizyczne',
+    en: 'physical-products',
+    de: 'physische-produkte',
+    uk: 'fizychni-tovary',
+    ru: 'fizicheskie-tovary',
+    zh: 'physical-products'
+  },
+  digitalStore: {
+    pl: 'produkty-cyfrowe',
+    en: 'digital-products',
+    de: 'digitale-produkte',
+    uk: 'tsyfrovi-produkty',
+    ru: 'cifrovye-produkty',
+    zh: 'digital-products'
+  },
+  subscriptionStore: {
+    pl: 'ecommerce-subskrypcyjny',
+    en: 'subscription-ecommerce',
+    de: 'abo-ecommerce',
+    uk: 'peredplata-ecommerce',
+    ru: 'podpiska-ecommerce',
+    zh: 'subscription-ecommerce'
+  },
+  b2bEcommerce: {
+    pl: 'ecommerce-b2b',
+    en: 'b2b-ecommerce',
+    de: 'b2b-ecommerce',
+    uk: 'b2b-ecommerce',
+    ru: 'b2b-ecommerce',
+    zh: 'b2b-ecommerce'
+  },
+  headlessEcommerce: {
+    pl: 'headless-ecommerce',
+    en: 'headless-ecommerce',
+    de: 'headless-ecommerce',
+    uk: 'headless-ecommerce',
+    ru: 'headless-ecommerce',
+    zh: 'headless-ecommerce'
+  },
+  languageSchool: {
+    pl: 'szkola-jezykowa',
+    en: 'language-school',
+    de: 'sprachschule',
+    uk: 'shkola-mov',
+    ru: 'yazykovaya-shkola',
+    zh: 'language-school'
+  },
+  tutoring: {
+    pl: 'korepetycje',
+    en: 'tutoring',
+    de: 'nachhilfe',
+    uk: 'repetytorstvo',
+    ru: 'repetitorstvo',
+    zh: 'tutoring'
+  },
+  drivingSchool: {
+    pl: 'szkola-jazdy',
+    en: 'driving-school',
+    de: 'fahrschule',
+    uk: 'avtoshkola',
+    ru: 'avtoshkola',
+    zh: 'driving-school'
+  },
+  trainingCenter: {
+    pl: 'centrum-szkoleniowe',
+    en: 'training-center',
+    de: 'schulungszentrum',
+    uk: 'navchalnyy-tsentr',
+    ru: 'uchebnyy-centr',
+    zh: 'training-center'
+  },
+  kindergarten: {
+    pl: 'przedszkole-i-zlobek',
+    en: 'kindergarten',
+    de: 'kindergarten',
+    uk: 'dityachyy-sadok',
+    ru: 'detskiy-sad',
+    zh: 'kindergarten'
   }
 } as const;
 
@@ -581,6 +725,15 @@ export const industryModelsMap = {
   ],
   gastronomy: [
     'restaurant', 'dietCatering', 'foodTruck', 'cafe', 'cateringCompany'
+  ],
+  transport: [
+    'movingCompany', 'cargoTaxi', 'roadsideAssistance', 'vanRental', 'courier'
+  ],
+  ecommerce: [
+    'physicalStore', 'digitalStore', 'subscriptionStore', 'b2bEcommerce', 'headlessEcommerce'
+  ],
+  education: [
+    'languageSchool', 'tutoring', 'drivingSchool', 'trainingCenter', 'kindergarten'
   ]
 } as const;
 
@@ -700,5 +853,29 @@ export const industryTerminology: Record<IndustryId, Record<string, IndustryTerm
     uk: { target: 'клієнтів/гостей', targetAccusative: 'Клієнтів', schemaType: 'FoodEstablishment / Service', pathway: 'шляхів клієнта', action: 'онлайн-замовлення їжі', spec: 'галузі', scope: 'закладу / ресторану', scopes: 'гастрономії' },
     ru: { target: 'клиентов/гостей', targetAccusative: 'Клиентов', schemaType: 'FoodEstablishment / Service', pathway: 'путей клиента', action: 'онлайн-заказ еды', spec: 'отрасль', scope: 'заведения / ресторана', scopes: 'гастрономии' },
     zh: { target: '顾客/饕客', targetAccusative: '客户', schemaType: 'FoodEstablishment / Service', pathway: '用户点餐流程', action: '提交在线订餐订单', spec: '行业', scope: '餐馆/商户', scopes: '餐饮企业' }
+  },
+  transport: {
+    pl: { target: 'klientów', targetAccusative: 'Klientów', schemaType: 'LocalBusiness / Service', pathway: 'ścieżek klienta', action: 'kontakt i wycenę online', spec: 'branży', scope: 'firmy transportowej', scopes: 'firm transportowych' },
+    en: { target: 'customers', targetAccusative: 'Customers', schemaType: 'LocalBusiness / Service', pathway: 'customer user flows', action: 'requesting a quote online', spec: 'industry', scope: 'transport company', scopes: 'transport companies' },
+    de: { target: 'Kunden', targetAccusative: 'Kunden', schemaType: 'LocalBusiness / Service', pathway: 'Kunden-User-Flows', action: 'Online-Angebotsanfrage', spec: 'Branche', scope: 'Transportunternehmen', scopes: 'Transportunternehmen' },
+    uk: { target: 'клієнтів', targetAccusative: 'Клієнтів', schemaType: 'LocalBusiness / Service', pathway: 'шляхів клієнта', action: 'запит ціни online', spec: 'галузі', scope: 'транспортної компанії', scopes: 'транспортних фірм' },
+    ru: { target: 'клиентов', targetAccusative: 'Клиентов', schemaType: 'LocalBusiness / Service', pathway: 'путей клиента', action: 'запрос цены онлайн', spec: 'отрасли', scope: 'транспортной компании', scopes: 'транспортных фирм' },
+    zh: { target: '客户', targetAccusative: '客户', schemaType: 'LocalBusiness / Service', pathway: '客户转化路径', action: '获取在线报价', spec: '行业', scope: '运输公司', scopes: '运输物流企业' }
+  },
+  ecommerce: {
+    pl: { target: 'klientów', targetAccusative: 'Klientów', schemaType: 'OnlineStore / Service', pathway: 'ścieżek zakupowych', action: 'zakup produktu lub kontakt', spec: 'rodzaju e-commerce', scope: 'sklepu internetowego', scopes: 'sklepów internetowych' },
+    en: { target: 'customers', targetAccusative: 'Customers', schemaType: 'OnlineStore / Service', pathway: 'purchase paths', action: 'purchasing a product or contact', spec: 'e-commerce type', scope: 'online store', scopes: 'online stores' },
+    de: { target: 'Kunden', targetAccusative: 'Kunden', schemaType: 'OnlineStore / Service', pathway: 'Kunden-User-Flows', action: 'Online-Kauf oder Kontakt', spec: 'E-Commerce-Typ', scope: 'Online-Shop', scopes: 'Online-Shops' },
+    uk: { target: 'клієнтів', targetAccusative: 'Клієнтів', schemaType: 'OnlineStore / Service', pathway: 'шляхів покупки', action: 'купівлю товару або контакт', spec: 'типу e-commerce', scope: 'інтернет-магазину', scopes: 'інтернет-магазинів' },
+    ru: { target: 'клиентов', targetAccusative: 'Клиентов', schemaType: 'OnlineStore / Service', pathway: 'путей покупки', action: 'покупку товара или контакт', spec: 'типа e-commerce', scope: 'интернет-магазина', scopes: 'интернет-магазинов' },
+    zh: { target: '顾客', targetAccusative: '顾客', schemaType: 'OnlineStore / Service', pathway: '购买路径', action: '完成在线订购或咨询', spec: '电商类型', scope: '在线商城', scopes: '在线商城' }
+  },
+  education: {
+    pl: { target: 'uczniów/kursantów', targetAccusative: 'Uczniów', schemaType: 'EducationalOrganization / School / Service', pathway: 'ścieżek edukacyjnych', action: 'rezerwację kursu lub kontakt', spec: 'rodzaju placówki', scope: 'szkoły / ośrodka', scopes: 'placówek edukacyjnych' },
+    en: { target: 'students/trainees', targetAccusative: 'Students', schemaType: 'EducationalOrganization / School / Service', pathway: 'learning paths', action: 'enrolling in a course or contact', spec: 'facility type', scope: 'school / center', scopes: 'educational institutions' },
+    de: { target: 'Schüler/Kursteilnehmer', targetAccusative: 'Schüler', schemaType: 'EducationalOrganization / School / Service', pathway: 'Lernpfade', action: 'Kursbuchung oder Kontakt', spec: 'Einrichtungstyp', scope: 'Schule / Zentrum', scopes: 'Bildungseinrichtungen' },
+    uk: { target: 'учнів/курсантів', targetAccusative: 'Учнів', schemaType: 'EducationalOrganization / School / Service', pathway: 'навчальних шляхів', action: 'запис на курс або контакт', spec: 'типу закладу', scope: 'школи / центру', scopes: 'освітніх закладів' },
+    ru: { target: 'учеников/курсантов', targetAccusative: 'Учеников', schemaType: 'EducationalOrganization / School / Service', pathway: 'обучающих путей', action: 'запись на курс или контакт', spec: 'типа учреждения', scope: 'школы / центра', scopes: 'образовательных учреждений' },
+    zh: { target: '学生/学员', targetAccusative: '学生', schemaType: 'EducationalOrganization / School / Service', pathway: '学习路径与选课流', action: '预约试听或报名咨询', spec: '办学类型', scope: '学校/培训中心', scopes: '教育培训机构' }
   }
 };

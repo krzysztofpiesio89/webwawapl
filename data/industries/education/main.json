@@ -1,0 +1,139 @@
+{
+  "id": "education",
+  "slugs": {
+    "pl": "edukacja",
+    "en": "education",
+    "de": "bildung",
+    "uk": "osvita",
+    "ru": "obrazovanie",
+    "zh": "education"
+  },
+  "translations": {
+    "pl": {
+      "industryName": "Edukacja",
+      "heroSubtitle": "Dedykowane strony internetowe, aplikacje szkoleniowe PWA, platformy e-learningowe oraz pozycjonowanie SEO dla sektora edukacyjnego.",
+      "title": "Strony internetowe i platformy e-learningowe dla edukacji",
+      "description": "Projektujemy nowoczesne strony www, platformy szkoleniowe PWA oraz prowadzimy pozycjonowanie SEO dla szkół językowych, korepetytorów, szkół jazdy i przedszkoli.",
+      "about": "Sektor edukacyjny przechodzi intensywną cyfryzację. Klienci poszukują wygodnych sposobów na rezerwację zajęć, dostęp do materiałów szkoleniowych online oraz przejrzyste informacje o programach nauczania. Nasze rozwiązania łączą bezpieczne systemy zarządzania lekcjami, szybkie platformy PWA i optymalizację SEO, wspierając rozwój placówek i ułatwiając pozyskiwanie uczniów.",
+      "series": {
+        "pwa": {
+          "title": "Dedykowane Aplikacje PWA dla Szkół i Kursów",
+          "desc": "Tworzymy super-szybkie aplikacje webowe PWA (Next.js i Tailwind CSS) z panelami kursanta, harmonogramami zajęć, powiadomieniami PUSH i modułami e-learningu."
+        },
+        "wordpress": {
+          "title": "Strony WordPress dla Edukacji z LMS",
+          "desc": "Budujemy responsywne strony na systemie WordPress, zintegrowane z wtyczkami LMS, ułatwiające zarządzanie lekcjami, dodawanie testów i dystrybucję materiałów wideo."
+        },
+        "seo": {
+          "title": "Pozycjonowanie SEO i Kampanie Google dla Szkół",
+          "desc": "Zapewniamy wysoką widoczność w wynikach wyszukiwania w Twoim regionie. Pozycjonujemy na frazy intencyjne, optymalizujemy wizytówki Google i wdrażamy Schema.org."
+        }
+      }
+    },
+    "en": {
+      "industryName": "Education",
+      "heroSubtitle": "Custom websites, training PWA apps, e-learning platforms, and SEO for the education sector.",
+      "title": "Websites and E-learning Platforms for Education",
+      "description": "We design modern websites, training PWA platforms, and run SEO positioning for language schools, tutors, driving schools, and kindergartens.",
+      "about": "The education sector is undergoing intense digitalization. Clients seek easy course booking, access to online learning resources, and clear curriculum details. Our solutions integrate secure lesson management systems, fast PWA platforms, and SEO optimization to support institution growth and student acquisition.",
+      "series": {
+        "pwa": {
+          "title": "Dedicated PWA Apps for Schools & Courses",
+          "desc": "We develop super-fast PWA web apps (Next.js & Tailwind CSS) featuring student portals, lesson schedules, PUSH notifications, and e-learning modules."
+        },
+        "wordpress": {
+          "title": "WordPress Sites with LMS for Education",
+          "desc": "We build responsive WordPress-based websites integrated with LMS plugins, simplifying lesson management, quiz additions, and video content distribution."
+        },
+        "seo": {
+          "title": "SEO Positioning & Google Campaigns for Schools",
+          "desc": "We ensure high search engine visibility in your region. We target high-intent keywords, optimize Google Business profiles, and implement structured Schema.org markup."
+        }
+      }
+    },
+    "de": {
+      "industryName": "Bildung",
+      "heroSubtitle": "Maßgeschneiderte Websites, PWA-Schulungs-Apps, E-Learning-Plattformen und SEO für den Bildungssektor.",
+      "title": "Websites und E-Learning-Plattformen für das Bildungswesen",
+      "description": "Wir entwickeln moderne Webseiten, PWA-Lernportale und betreiben SEO-Optimierung für Sprachschulen, Nachhilfelehrer, Fahrschulen und Kindergärten.",
+      "about": "Der Bildungsbereich durchläuft eine intensive Digitalisierung. Kunden wünschen sich einfache Kursbuchungen, Online-Zugang zu Lehrmaterialien und transparente Lehrpläne. Unsere Lösungen verbinden sichere Kursmanagementsysteme, schnelle PWA-Plattformen und lokale Suchmaschinenoptimierung zur Schülergewinnung.",
+      "series": {
+        "pwa": {
+          "title": "Dedizierte PWA-Apps für Schulen und Kurse",
+          "desc": "Wir erstellen superschnelle PWA-Anwendungen (Next.js & Tailwind CSS) mit Studenten-Dashboards, Stundenplänen, Push-Nachrichten und E-Learning-Modulen."
+        },
+        "wordpress": {
+          "title": "WordPress-Webseiten mit LMS für Bildung",
+          "desc": "Wir konzipieren responsive WordPress-Websites mit integrierten LMS-Plugins zur einfachen Kursverwaltung, Testeinbindung und Video-Bereitstellung."
+        },
+        "seo": {
+          "title": "SEO-Optimierung & Google-Kampagnen für Schulen",
+          "desc": "Wir garantieren hohe Sichtbarkeit in den lokalen Suchergebnissen. Wir optimieren Ihr Google Business Profil und implementieren strukturiertes Schema.org."
+        }
+      }
+    },
+    "uk": {
+      "industryName": "Освіта",
+      "heroSubtitle": "Сучасні веб-сайти, навчальні PWA-додатки, e-learning платформи та SEO-просування для освітнього сектору.",
+      "title": "Веб-сайти та e-learning платформи для сфери освіти",
+      "description": "Проектуємо сучасні сайти, навчальні PWA-платформи та здійснюємо SEO для мовних шкіл, репетиторів, автошкіл та дитячих садків.",
+      "about": "Освітня сфера активно цифровізується. Клієнти шукають зручні інструменти для запису на заняття, доступу до навчальних матеріалів онлайн та детальних програм навчання. Наші рішення поєднують безпечні системи управління уроками, швидкі платформи PWA та SEO-оптимізацію.",
+      "series": {
+        "pwa": {
+          "title": "Спеціалізовані PWA-додатки для шкіл та курсів",
+          "desc": "Створюємо швидкі PWA-сайти (Next.js та Tailwind CSS) з кабінетом учня, розкладом занять, PUSH-сповіщеннями та модулями тестування."
+        },
+        "wordpress": {
+          "title": "Сайти на WordPress з LMS для освіти",
+          "desc": "Будуємо адаптивні сайти на WordPress з інтеграцією плагінів LMS, що спрощує керування уроками, тестами та навчальним відеоконтентом."
+        },
+        "seo": {
+          "title": "SEO-просування та кампанії в Google для шкіл",
+          "desc": "Забезпечуємо високі позиції в пошуковій видачі у вашому регіоні. Оптимізуємо профілі Google Business та впроваджуємо мікророзмітку Schema.org."
+        }
+      }
+    },
+    "ru": {
+      "industryName": "Образование",
+      "heroSubtitle": "Современные веб-сайты, обучающие PWA-приложения, e-learning платформы и SEO-продвижение для сферы образования.",
+      "title": "Веб-сайты и e-learning платформы для образования",
+      "description": "Проектируем современные сайты, обучающие PWA-платформы и осуществляем SEO для языковых школ, репетиторов, автошкол и детских садов.",
+      "about": "Образовательный сектор проходит этап глубокой цифровизации. Клиентам необходимы удобный онлайн-запись на курсы, доступ к учебным материалам в личном кабинете и подробные программы. Наши решения сочетают безопасные системы управления обучением, быстрые PWA и локальное SEO.",
+      "series": {
+        "pwa": {
+          "title": "Специализированные PWA-приложения для курсов",
+          "desc": "Создаем быстрые PWA-приложения на базе Next.js и Tailwind CSS с панелью студента, расписанием занятий, PUSH-уведомлениями и онлайн-тестами."
+        },
+        "wordpress": {
+          "title": "Сайты на WordPress с LMS для образования",
+          "desc": "Строим отзывчивые сайты на WordPress, интегрированные с плагинами LMS для легкого управления уроками, курсами и видеолекциями."
+        },
+        "seo": {
+          "title": "SEO-продвижение и Google реклама для учебных центров",
+          "desc": "Обеспечиваем лидирующие позиции в поисковой выдаче в вашем городе. Настраиваем Schema.org разметку и оптимизируем Google Карты."
+        }
+      }
+    },
+    "zh": {
+      "industryName": "教育培训",
+      "heroSubtitle": "为教育培训行业量身定制的网站、PWA 在线学习应用、网校系统及本地 SEO 营销方案。",
+      "title": "针对教育与在线培训的网站及网校平台解决方案",
+      "description": "我们为语言学校、课外辅导机构、驾校、职业培训中心和私立托儿所设计高转化率网站、开发 PWA 学习系统并提供 SEO 服务。",
+      "about": "教育行业正经历全面数字化转型。学员和家长期望能轻松在线选课、预约排课、获取电子讲义以及直观查看教学进度。我们的解决方案集成了安全的课程管理系统（LMS）、高速 PWA 架构和精准的本地搜索引擎优化，助力机构招生转化与教学体验升级。",
+      "series": {
+        "pwa": {
+          "title": "面向学校与培训课程的专属 PWA 应用",
+          "desc": "基于 Next.js 与 Tailwind CSS 打造毫秒级响应的 PWA 网页应用，集成学员个人中心、课表查阅、PUSH 提醒与在线刷题模块。"
+        },
+        "wordpress": {
+          "title": "基于 WordPress 的开源 LMS 教学系统开发",
+          "desc": "构建响应式 WordPress 官方网站，无缝整合主流开源 LMS 插件，轻松进行课程编排、随堂测试及教学视频的安全防盗播管理。"
+        },
+        "seo": {
+          "title": "教育机构谷歌 SEO 排名与本地搜索矩阵优化",
+          "desc": "保障机构在当地谷歌搜索中名列前茅。针对高意向选课词进行内容布局，优化谷歌商家信息（GBP）并全站实施 Schema.org 结构化数据。"
+        }
+      }
+    }
+  }
+}

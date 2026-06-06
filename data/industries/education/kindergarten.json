@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Przedszkole i Żłobek",
+    "about": "Prywatne przedszkola i żłobki konkurują o zaufanie rodziców. Nowoczesna strona internetowa z bezpieczną strefą rodzica, e-dziennikiem, przejrzystą ofertą edukacyjną oraz jadłospisem ułatwia rodzicom podjęcie decyzji o zapisie dziecka.",
+    "focus": "Przedszkola i żłobki najwięcej zyskują na pozycjonowaniu lokalnym na frazy dzielnicowe (np. prywatne przedszkole Mokotów, żłobek Warszawa) oraz na budowaniu zaufania poprzez transparentność.",
+    "specifications": [
+      "Budowa szybkiej, responsywnej strony Next.js z przyjaznym dla oka designem i nowoczesną typografią.",
+      "Zabezpieczona strefa rodzica (logowanie OAuth / JWT) umożliwiająca wgląd w jadłospis i plany zajęć.",
+      "System powiadomień PUSH i e-mail dla rodziców o ważnych wydarzeniach i ogłoszeniach w placówce.",
+      "Interaktywny e-dziennik oraz panel zgłaszania nieobecności dziecka zintegrowany z bazą danych.",
+      "Bezpieczna, szyfrowana galeria zdjęć z zajęć dostępna wyłącznie dla zweryfikowanych rodziców.",
+      "Wdrożenie Schema.org (School / Preschool) w celu ułatwienia indeksacji i widoczności w wynikach Google."
+    ]
+  },
+  "en": {
+    "name": "Kindergarten & Nursery",
+    "about": "Private kindergartens and nurseries compete for parents' trust. A modern website with a secure parent portal, electronic diary, clear curriculum details, and daily menus helps parents make enrollment decisions.",
+    "focus": "Preschools and nurseries benefit most from local SEO targeting district-specific keywords (e.g. private kindergarten Mokotów, nursery Warsaw) and building trust through transparency.",
+    "specifications": [
+      "Development of a fast, responsive Next.js website with kid-friendly designs and clean typography.",
+      "Secure parent area (OAuth / JWT authentication) providing access to weekly menus and activity plans.",
+      "PUSH notification and email alert system to notify parents of important school announcements.",
+      "Interactive electronic diary and kid absence reporter system integrated with a database backend.",
+      "Secure, encrypted school photo galleries accessible exclusively to verified parents.",
+      "Schema.org (School / Preschool) markup integration to improve indexation and visibility in Google searches."
+    ]
+  },
+  "de": {
+    "name": "Kindergarten & Kita",
+    "about": "Private Kindergärten und Kitas buhlen um das Vertrauen der Eltern. Eine moderne Website mit einem geschützten Elternbereich, digitalen Kita-Planern, klaren Bildungsangeboten und Speiseplänen erleichtert Eltern die Entscheidung.",
+    "focus": "Kindergärten und Kitas gewinnen Kunden über lokales SEO für Stadtteile (z. B. privater Kindergarten Mokotów, Kita Warschau) und Transparenz im Webauftritt.",
+    "specifications": [
+      "Erstellung einer schnellen, responsiven Next.js Webseite mit ansprechendem Design und lesbarer Typografie.",
+      "Geschützter Elternbereich (OAuth / JWT Login) zur Einsicht in wöchentliche Essenspläne und Tagesaktivitäten.",
+      "Push-Benachrichtigungs- und E-Mail-Warnsystem zur schnellen Verteilung wichtiger Elternmitteilungen.",
+      "Interaktiver digitaler Planer und Abwesenheitsmelder für Kinder, direkt angebunden an die Kita-Datenbank.",
+      "Sichere, verschlüsselte Fotogalerien aus dem Gruppenalltag, nur für freigeschaltete Eltern sichtbar.",
+      "Optimierung der strukturierten Daten nach Schema.org (School / Preschool) zur Erhöhung der Trefferqualität in Google."
+    ]
+  },
+  "uk": {
+    "name": "Дитячий Садок і Ясла",
+    "about": "Приватні дитячі садки та ясла змагаються за довіру батьків. Сучасний сайт із захищеним кабінетом батьків, електронним щоденником, меню та прозорою навчальною програмою допомагає батькам зробити вибір.",
+    "focus": "Дитячі садки та ясла найбільше виграють від локального SEO у конкретних районах (наприклад: приватний дитячий садок Мокотув, ясла Варшава) та високої довіри до бренду.",
+    "specifications": [
+      "Розробка швидкого та адаптивного сайту на Next.js із приємним дизайном та зручною навігацією.",
+      "Захищений кабінет батьків (авторизація OAuth / JWT) для перегляду меню та розкладу занять.",
+      "Система PUSH-сповіщень та e-mail сповіщень для батьків про важливі події в садку.",
+      "Інтерактивний e-щоденник та модуль повідомлення про відсутність дитини, пов'язаний з базою даних.",
+      "Безпечна, зашифрована фотогалерея занять, доступна виключно для авторизованих батьків.",
+      "Впровадження мікророзмітки Schema.org (School / Preschool) для кращого відображення в результатах Google."
+    ]
+  },
+  "ru": {
+    "name": "Детский Сад и Ясли",
+    "about": "Частные детские сады и ясли конкурируют за доверие родителей. Современный сайт с безопасным личным кабинетом родителей, меню, расписанием и открытой программой обучения облегчает принятие решения.",
+    "focus": "Детские сады и ясли получают отдачу от локального SEO в конкретных районах города (например: частный детский сад Мокотув, ясли Варшава) и прозрачности контента.",
+    "specifications": [
+      "Создание быстрого адаптивного сайта на Next.js с дружелюбным интерфейсом и современной типографикой.",
+      "Защищенный личный кабинет родителей (авторизация OAuth / JWT) для доступа к меню и планам занятий.",
+      "Система PUSH-уведомлений и e-mail рассылок родителям о важных объявлениях и праздниках.",
+      "Интерактивный электронный дневник и форма отметки отсутствия ребенка с интеграцией в базу данных.",
+      "Безопасная шифрованная фотогалерея учебных групп, доступная только верифицированным родителям.",
+      "Реализация Schema.org (School / Preschool) для приоритетного сканирования поисковыми роботами Google."
+    ]
+  },
+  "zh": {
+    "name": "私立幼儿园与托儿所",
+    "about": "私立幼儿园与托儿所面临着家长对安全和教学质量信任的考验。一个配备了高安全性家长后台、电子家园联系簿、公开透明的膳食菜谱以及每日活动表设计的官方网站，是吸引家长考察报名的核心引擎。",
+    "focus": "幼儿园与托儿所的主要流量来自于区县级精准 SEO（例如：莫科图夫私立幼儿园、华沙托儿所）以及通过展示真实环境与办学资质来建立家长信任。",
+    "specifications": [
+      "基于 Next.js 研发高响应度界面，采用儿童友好的柔和色调和易读字体设计。",
+      "搭建支持 OAuth / JWT 登录的专用家长加密专区，便于查看每日餐单及活动实况。",
+      "整合 PUSH 浏览器通知与邮件告警，即时向家长传达幼儿园紧急放假通知或园所活动公告。",
+      "开发互动式电子考勤和请假登记表，直连后台教务数据库，实现精细化考勤管理。",
+      "应用端到端加密机制开发照片和视频画廊，仅允许通过资质审核的签约家长登录浏览。",
+      "精准配置 Schema.org (School / Preschool) 结构化数据，加快学校官网在谷歌本地化搜索中的收录展现。"
+    ]
+  }
+}

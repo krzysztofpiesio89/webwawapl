@@ -65,10 +65,13 @@ const RELATED_INDUSTRIES: Record<IndustryId, IndustryId[]> = {
   psychologist: ['doctor', 'beauty'],
   accountant: ['lawyer'],
   architect: ['construction'],
-  construction: ['architect'],
+  construction: ['architect', 'transport'],
   beauty: ['psychologist'],
-  automotive: [],
+  automotive: ['transport'],
   gastronomy: [],
+  transport: ['automotive', 'construction'],
+  ecommerce: ['accountant', 'transport'],
+  education: ['psychologist'],
 };
 
 // Model-level UI translation strings for non-automotive
@@ -429,7 +432,7 @@ export async function generateStaticParams() {
     'sulejowek', 'grodzisk-mazowiecki', 'nowy-dwor-mazowiecki', 'minsk-mazowiecki',
     'lomianki', 'ozarow-mazowiecki', 'nadarzyn', 'warszawa'
   ];
-  const brands = ['doctor', 'lawyer', 'psychologist', 'accountant', 'architect', 'construction', 'beauty', 'automotive', 'gastronomy'] as const;
+  const brands = ['doctor', 'lawyer', 'psychologist', 'accountant', 'architect', 'construction', 'beauty', 'automotive', 'gastronomy', 'transport', 'ecommerce', 'education'] as const;
   
   const paramsList = [];
   for (const lang of langs) {

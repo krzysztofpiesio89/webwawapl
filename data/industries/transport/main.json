@@ -1,0 +1,139 @@
+{
+  "id": "transport",
+  "slugs": {
+    "pl": "transport",
+    "en": "transport",
+    "de": "transport",
+    "uk": "transport",
+    "ru": "transport",
+    "zh": "transport"
+  },
+  "translations": {
+    "pl": {
+      "industryName": "Transport i Przeprowadzki",
+      "heroSubtitle": "Dynamiczne strony WWW, autorskie kalkulatory wyceny tras oraz lokalne pozycjonowanie SEO dla firm przeprowadzkowych, taksówek bagażowych i pomocy drogowej.",
+      "title": "Strony internetowe, systemy wyceny i pozycjonowanie SEO dla transportu",
+      "description": "Projektujemy ultra-szybkie strony WWW, aplikacje PWA z kalkulatorami kosztów transportu oraz prowadzimy pozycjonowanie SEO dla firm przeprowadzkowych i logistycznych.",
+      "about": "Sektor transportu lokalnego i przeprowadzek opiera się na szybkości reakcji i zaufaniu. Klienci szukający pomocy drogowej, taksówki bagażowej czy przeprowadzki podejmują decyzje w kilka minut. Nasze dedykowane systemy PWA zintegrowane z Google Maps API do obliczania odległości, automatycznymi kalkulatorami wycen i lokalnym pozycjonowaniem w Google Maps gwarantują najwyższą konwersję i pozyskiwanie stałych zleceń.",
+      "series": {
+        "pwa": {
+          "title": "Aplikacje PWA z Kalkulatorami Kosztów",
+          "desc": "Budujemy błyskawiczne aplikacje PWA (Next.js & Tailwind CSS) z wbudowanymi kalkulatorami objętości ładunku i wyceny trasy na żywo, co skraca proces pozyskiwania klienta o 80%."
+        },
+        "wordpress": {
+          "title": "Witryny WordPress dla Transportu",
+          "desc": "Projektujemy responsywne serwisy na WordPressie z przejrzystym cennikiem usług, modułem referencji oraz prostymi formularzami szybkiej wyceny zlecenia."
+        },
+        "seo": {
+          "title": "Lokalne SEO & Google Maps dla Transportu",
+          "desc": "Wypozycjonujemy Twoją firmę w Google Maps oraz wynikach wyszukiwania na frazy lokalne (np. pomoc drogowa Warszawa Ursynów). Wdrożymy Schema.org dla optymalnego indeksowania AI."
+        }
+      }
+    },
+    "en": {
+      "industryName": "Transport & Moving Services",
+      "heroSubtitle": "Dynamic websites, custom route cost calculators, and local SEO for moving companies, cargo taxis, and roadside assistance.",
+      "title": "Websites, Quote Systems, and SEO for Transport & Logistics",
+      "description": "We design ultra-fast websites, PWA apps with freight cost calculators, and run local SEO positioning for moving and transport companies.",
+      "about": "The local transport and moving sector is built on speed and reliability. Customers searching for roadside assistance, cargo taxi, or moving help make decisions in minutes. Our custom PWA systems integrated with distance-based pricing engines (Google Maps API) and localized Google Maps SEO guarantee maximum conversions and customer acquisition.",
+      "series": {
+        "pwa": {
+          "title": "PWA Apps with Live Cost Calculators",
+          "desc": "We build lightning-fast PWA applications (Next.js & Tailwind CSS) with live route distance calculators and cargo volume estimators to speed up bookings by 80%."
+        },
+        "wordpress": {
+          "title": "WordPress Sites for Transport Companies",
+          "desc": "We design responsive WordPress sites featuring transparent pricing tables, client testimonials, and simple quote forms perfect for transport businesses."
+        },
+        "seo": {
+          "title": "Local SEO & Google Maps for Logistics",
+          "desc": "We boost your local ranking in Google Maps and search results for high-intent keywords. We implement rich Schema.org metadata for AI search overview optimization."
+        }
+      }
+    },
+    "de": {
+      "industryName": "Transport & Umzüge",
+      "heroSubtitle": "Dynamische Webseiten, integrierte Routenrechner und lokales SEO für Umzugsunternehmen, Lastentaxis und Pannenhilfe.",
+      "title": "Websites, Preiskalkulatoren und SEO für Transport & Umzüge",
+      "description": "Wir entwickeln superschnelle Webseiten, PWA-Apps mit Transportkostenrechnern und betreiben lokales SEO für Umzugs- und Transportfirmen.",
+      "about": "Die lokale Transport- und Umzugsbranche basiert auf Schnelligkeit und Vertrauen. Kunden, die ein Lastentaxi, ein Umzugsunternehmen oder Pannenhilfe suchen, entscheiden in wenigen Minuten. Unsere PWA-Lösungen mit Google Maps API-Integration zur Routenberechnung und Google Maps-Optimierung sichern Ihnen einen klaren Wettbewerbsvorteil.",
+      "series": {
+        "pwa": {
+          "title": "PWA-Apps mit Live-Kalkulatoren",
+          "desc": "Wir erstellen ultraschnelle PWA-Anwendungen (Next.js & Tailwind) mit interaktiven Routen- und Ladevolumenrechnern für direkte Buchungen ohne Zeitverlust."
+        },
+        "wordpress": {
+          "title": "WordPress-Seiten für Transportdienste",
+          "desc": "Wir gestalten moderne WordPress-Webseiten mit klaren Preisstrukturen, Kundenbewertungen und einfachen Anfrageformularen zur Kundengewinnung."
+        },
+        "seo": {
+          "title": "Lokales SEO & Google Maps für Transport",
+          "desc": "Wir optimieren Ihre Google Maps-Präsenz für lokale Suchen. Wir implementieren Schema.org-Daten, um in KI-gestützten Suchübersichten direkt gelistet zu werden."
+        }
+      }
+    },
+    "uk": {
+      "industryName": "Транспорт та Перевезення",
+      "heroSubtitle": "Динамічні веб-сайти, калькулятори вартості маршруту та локальне SEO для мувінгових компаній, вантажних таксі та автоевакуаторів.",
+      "title": "Веб-сайти, системи прорахунку та SEO для транспорту і логістики",
+      "description": "Проектуємо надшвидкі сайти, PWA-додатки з калькуляторами вартості вантажоперевезення та проводимо локальне SEO-просування для транспортних фірм.",
+      "about": "Сектор локального транспорту та переїздів тримається на швидкості реагування та надійності. Клієнти, які шукають евакуатор, вантажне таксі або переїзд під ключ, приймають рішення за лічені хвилини. Наші PWA-системи з інтеграцією Google Maps API для розрахунку відстані та локальне SEO в картах гарантують лідерство на ринку.",
+      "series": {
+        "pwa": {
+          "title": "PWA-додатки з калькуляторами вартості",
+          "desc": "Створюємо швидкі PWA-додатки на Next.js та Tailwind з онлайн-калькуляторами об'єму вантажу та пробігу для моментального замовлення."
+        },
+        "wordpress": {
+          "title": "Сайти на WordPress для логістики",
+          "desc": "Будуємо адаптивні сайти на WordPress з прайс-листами, відгуками клієнтів та формами для швидкого прорахунку замовлення."
+        },
+        "seo": {
+          "title": "Локальне SEO та Google карти для транспорту",
+          "desc": "Забезпечимо видимість вашої компанії в Google Maps за локальними запитами. Впровадимо Schema.org для успішного індексування пошуковими AI."
+        }
+      }
+    },
+    "ru": {
+      "industryName": "Транспорт и Перевозки",
+      "heroSubtitle": "Динамические веб-сайты, калькуляторы стоимости маршрута и локальное SEO для мувинговых компаний, грузовых такси и автоэвакуаторов.",
+      "title": "Веб-сайты, калькуляторы стоимости и SEO для транспорта и логистики",
+      "description": "Проектируем сверхбыстрые сайты, PWA-приложения с расчетом стоимости доставки и проводим локальное SEO-продвижение для транспортных компаний.",
+      "about": "Сектор грузоперевозок и переездов критически зависит от скорости звонка и доверия. Клиенты, ищущие эвакуатор, грузовое такси или бригаду грузчиков, выбирают исполнителя за минуты. Наши PWA-платформы с интеграцией картографических сервисов для расчета маршрута и локальное SEO в картах обеспечат стабильный поток заявок.",
+      "series": {
+        "pwa": {
+          "title": "PWA-приложения с онлайн-калькуляторами",
+          "desc": "Создаем быстрые PWA-приложения на Next.js и Tailwind с живым расчетом стоимости по километражу и объему вещей для быстрой конверсии."
+        },
+        "wordpress": {
+          "title": "Сайты на WordPress для перевозок",
+          "desc": "Проектируем адаптивные сайты на WordPress с прозрачными тарифами, отзывами заказчиков и формами экспресс-оценки стоимости услуг."
+        },
+        "seo": {
+          "title": "Локальное SEO и Google карты для транспорта",
+          "desc": "Обеспечиваем топ-позиции вашей службы в Google Maps по локальным запросам. Настраиваем Schema.org для точного цитирования AI-поисковиками."
+        }
+      }
+    },
+    "zh": {
+      "industryName": "运输与搬家服务",
+      "heroSubtitle": "动态网站开发、专属路线运费计算器以及针对搬家公司、货运出租车和道路救援的本地 SEO 排名优化。",
+      "title": "运输与物流行业的定制网站开发、报价系统与本地 SEO 推广服务",
+      "description": "我们设计超快速的网站、开发集成运费计算器的 PWA 应用，并为搬家及运输公司提供本地 SEO 推广服务。",
+      "about": "本地运输与搬家行业的核心在于响应速度与服务信赖度。寻找道路救援、货运出租车或搬家服务的客户通常会在几分钟内做出决定。我们提供深度集成 Google Maps API 的 PWA 运费估算系统和精准的谷歌地图本地 SEO，确保您的业务在客户需求爆发的第一时间获得极高转化。",
+      "series": {
+        "pwa": {
+          "title": "集成实时运费计算器的 PWA 移动端应用",
+          "desc": "基于 Next.js 与 Tailwind CSS 构建超高响应速度的 PWA 订舱系统，集成物品体积估算与路线运费自动计算，可缩短80%的沟通确认时间。"
+        },
+        "wordpress": {
+          "title": "配有透明价目表的 WordPress 运输官网",
+          "desc": "我们设计带有透明价目表、客户案例墙和快速询价表单的响应式 WordPress 官方网站，树立专业物流品牌形象。"
+        },
+        "seo": {
+          "title": "谷歌地图本地 SEO 与运输行业 Schema 优化",
+          "desc": "我们将您的公司精准推送到本地谷歌地图及搜索结果的前排（如：华沙长途搬家、特快货运）。深度配置 Schema 结构化微数据，适配 AI 搜索解答。"
+        }
+      }
+    }
+  }
+}

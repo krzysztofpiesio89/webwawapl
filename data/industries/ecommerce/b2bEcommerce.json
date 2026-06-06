@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "E-commerce B2B i systemy hurtowe",
+    "about": "Hurtownie internetowe i platformy B2B różnią się od klasycznych sklepów detalicznych. Wymagają obsługi dedykowanych cenników, limitów kredytowych, odroczonych płatności oraz integracji z systemami magazynowo-księgowymi (ERP).",
+    "focus": "Główny nacisk kładziemy na: zaawansowaną integrację z ERP (Comarch ERP, Subiekt GT/Nexo, SAP, Symfony, BaseLinker), wielopoziomowe grupy rabatowe, szybkie koszyki hurtowe (import z CSV/XLSX) oraz elastyczne terminy płatności (faktury odożone, limity kupieckie).",
+    "specifications": [
+      "Wdrożenie dedykowanych platform B2B z indywidualnymi kontami kontrahentów i systemem zatwierdzania rejestracji.",
+      "Integracja z systemami ERP (SAP, Comarch, Subiekt, Wapro, Symfony) - dwukierunkowy przepływ cen, stanów i zamówień.",
+      "Personalizacja warunków handlowych: indywidualne grupy cenowe, rabaty ilościowe (volume pricing) i obsługa wielu walut.",
+      "Obsługa kredytu kupieckiego: limity zakupowe dla partnerów, automatyczne generowanie proform i płatności odroczone (14/30 dni).",
+      "Szybkie zamawianie hurtowe (Quick Order): wyszukiwanie po SKU/EAN, dodawanie wielu produktów naraz i import koszyka z plików CSV/XLSX.",
+      "Wydajny backend (Python Django / PostgreSQL) zoptymalizowany pod kątem operacji na bazach danych liczących miliony wariantów produktów."
+    ]
+  },
+  "en": {
+    "name": "B2B E-commerce & Wholesale",
+    "about": "Wholesale web portals and B2B platforms differ significantly from retail stores. They require personalized pricing structures, credit limits, deferred payments, and deep integration with back-office ERP inventory databases.",
+    "focus": "Our core focus includes: deep ERP integrations (SAP, Comarch, Subiekt, Symfony, BaseLinker), multi-level customer discount groups, quick bulk ordering (CSV/XLSX uploads), and merchant payment terms (credit limits, deferred invoices).",
+    "specifications": [
+      "Development of custom B2B wholesale portals with individual client accounts and account approval gates.",
+      "Direct integration with ERP systems (SAP, Comarch ERP, Subiekt, Symfony) for real-time stock, pricing, and order flow.",
+      "Custom merchant terms: personalized contract pricing groups, volume-based tiered discounts, and multi-currency support.",
+      "Trade credit management: partner credit limits, automated pro-forma invoice creation, and deferred payment terms (14/30 days).",
+      "Quick bulk ordering tools: instant SKU/EAN search grids, matrix product variants, and shopping cart imports from CSV/XLSX sheets.",
+      "High-scale database backend (Python Django / PostgreSQL) optimized for fast queries on catalogs with millions of product variants."
+    ]
+  },
+  "de": {
+    "name": "B2B E-Commerce & Großhandel",
+    "about": "B2B-Großhandelsportale unterscheiden sich grundlegend von klassischen B2C-Shops. Sie erfordern individuelle Preisstrukturen, Kreditlimits, Zahlungsziele und eine tiefe Anbindung an ERP-Warenwirtschaftssysteme.",
+    "focus": "Der Fokus liegt auf: ERP-Schnittstellen (SAP, Comarch, Subiekt, Symfony, BaseLinker), mehrstufigen Rabattgruppen, schneller Sammeleingabe (CSV/XLSX-Upload) und flexiblen Zahlungsbedingungen.",
+    "specifications": [
+      "Entwicklung von B2B-Plattformen mit geschützten Kundenbereichen und Freigabeprozessen für Neukundenregistrierungen.",
+      "Schnittstellen zu ERP-Systemen (SAP, Comarch, Subiekt, Wapro, Symfony) für Echtzeitabgleich von Preisen, Beständen und Aufträgen.",
+      "Individuelle Konditionen: kundenspezifische Preislisten, Mengenrabatte (Staffelpreise) und Unterstützung mehrerer Währungen.",
+      "Warenkredit-Management: Kreditlimits für Partner, automatische Proforma-Rechnungserstellung und Kauf auf Rechnung (14/30 Tage).",
+      "Schnellbestellfunktionen (Quick Order): Suche nach Artikeln per SKU/EAN und Warenkorb-Import via CSV-/XLSX-Dateien.",
+      "Leistungsfähiges Backend (Python Django / PostgreSQL) optimiert für komplexe Abfragen in Katalogen mit Millionen Produktvarianten."
+    ]
+  },
+  "uk": {
+    "name": "B2B E-commerce та гуртовні",
+    "about": "Інтернет-гуртівні та B2B-платформи мають свої особливості порівняно з роздрібними магазинами. Вони вимагають підтримки індивідуальних прайс-листів, кредитних лімітів, відстрочки платежів та глибокої інтеграції з ERP-системами.",
+    "focus": "Основний акцент: інтеграція з ERP (SAP, Comarch, Subiekt, Symfony, BaseLinker), багаторівневі знижки, швидке замовлення великих партій (імпорт з CSV/XLSX) та товарний кредит (відстрочка платежів, ліміти покупців).",
+    "specifications": [
+      "Розробка спеціалізованих платформ B2B з індивідуальними кабінетами контрагентів та верифікацією компаній при реєстрації.",
+      "Інтеграція з системами ERP (SAP, Comarch, Subiekt, Symfony) - двосторонній обмін цінами, залишками та замовленнями.",
+      "Індивідуальні умови співпраці: персональні цінові пропозиції, оптові знижки від об'єму (volume pricing) та мультивалютність.",
+      "Управління товарним кредитом: ліміти замовлень для дистриб'юторів, автоматичне виставлення проформ та відстрочка оплати (14/30 днів).",
+      "Швидке гуртове замовлення (Quick Order): пошук за SKU/EAN, пакетне додавання товарів та імпорт кошика з CSV/XLSX таблиць.",
+      "Високопродуктивна серверна частина (Python Django / PostgreSQL), адаптована до обробки мільйонів варіацій продукції."
+    ]
+  },
+  "ru": {
+    "name": "B2B E-commerce и оптовые порталы",
+    "about": "Оптовые интернет-магазины и B2B-платформы имеют кардинальные отличия от розницы. Они требуют поддержки персональных цен, кредитных лимитов, отсрочки платежей и интеграции с ERP-системами учета.",
+    "focus": "В основе решения: интеграция с ERP (SAP, Comarch, Subiekt, Symfony, BaseLinker), многоуровневые скидки, быстрые оптовые корзины (импорт из CSV/XLSX) и коммерческий кредит (отсрочка, лимиты партнеров).",
+    "specifications": [
+      "Создание специализированных B2B-платформ с личными кабинетами контрагентов и модерацией новых регистраций.",
+      "Интеграция с учетными ERP системами (SAP, Comarch, Subiekt, Symfony) — двусторонний обмен ценами, остатками и заказами.",
+      "Персонализация условий: индивидуальные ценовые колонки, скидки от объема (volume pricing) и поддержка мультивалютности.",
+      "Управление торговым кредитом: лимиты для дилеров, автоматическое выставление проформ и отсрочка платежа (14/30 дней).",
+      "Быстрый оптовый заказ (Quick Order): поиск по артикулу SKU/EAN, пакетное добавление товаров и импорт корзины из CSV/XLSX файлов.",
+      "Высокопроизводительный бэкенд (Python Django / PostgreSQL), оптимизированный для работы с каталогами на миллионы товарных вариаций."
+    ]
+  },
+  "zh": {
+    "name": "B2B 跨境批发与企业级订货系统",
+    "about": "在线批发商城和 B2B 采购平台与常规 B2C 零售商城存在本质区别。它们高度依赖针对特定代理商的阶梯协议价设置、企业采购信用额度审核、账期延后支付（货到付款/月结）以及与企业内部 ERP 系统的数据直连。",
+    "focus": "我们的开发重点包括：与主流 ERP（SAP、Comarch、Subiekt、Symfony、BaseLinker）实现数据直连、多层级代理商折扣组配置、大宗快速订货（支持一键导入 CSV/XLSX 采购单），以及完善的商业信用控制（账期发票、额度授信）。",
+    "specifications": [
+      "开发专用的 B2B 批发订货平台，提供专属的企业代理商账户管理及注册资质人工审核入口。",
+      "与主流 ERP 软件（SAP、Comarch ERP、Subiekt、Symfony）实现无缝数据对接，实时同步库存、售价及订单信息。",
+      "商务条款自定义：为不同采购商指定专属合同价、实现大宗阶梯式批发折扣，并提供对多币种支付的支持。",
+      "商业信用与账期管理：设定合作伙伴授信额度、全自动生成预付款形式发票（Pro-forma）并提供账期延后支付（14/30天）。",
+      "极速大宗采购工具（Quick Order）：支持输入 SKU/EAN 批量添加变体，以及一键导入 CSV/XLSX 批量订单表。",
+      "构建企业级高并发后台（Python Django / PostgreSQL 架构），完美支持包含数百万 SKU 变体目录的流畅查询与检索。"
+    ]
+  }
+}

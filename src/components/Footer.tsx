@@ -105,7 +105,7 @@ export default function Footer({
               <Logo className="h-12 w-auto transform group-hover:scale-105 transition-transform" />
               <div className="flex flex-col leading-none">
                 <span className="text-2xl font-black text-slate-900 dark:text-white tracking-tighter uppercase">
-                  WEB<span className="text-primary">WAWA</span><span className="text-red-500">.PL</span>
+                  WEB<span className="text-primary">WAWA</span><span className="text-amber-500">.PL</span>
                 </span>
               </div>
             </Link>

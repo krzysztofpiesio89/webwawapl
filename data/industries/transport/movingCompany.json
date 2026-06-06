@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Przeprowadzki",
+    "about": "Przeprowadzka to jedno z najbardziej stresujących wydarzeń w życiu. Profesjonalna strona internetowa dla firmy przeprowadzkowej buduje zaufanie dzięki jasnemu cennikowi, referencjom oraz interaktywnemu kalkulatorowi objętości mebli i kartonów.",
+    "focus": "Firmy przeprowadzkowe zyskują najwięcej na pozycjonowaniu lokalnym na frazy dzielnicowe (np. przeprowadzki Warszawa Bemowo) oraz na zoptymalizowanym formularzu wyceny zlecenia dostosowanym do urządzeń mobilnych.",
+    "specifications": [
+      "Ultra-szybka witryna PWA (Next.js / Tailwind CSS) ładująca się w mgnieniu oka na telefonach komórkowych.",
+      "Interaktywny kalkulator objętości ładunku (m³) pozwalający precyzyjnie oszacować wielkość potrzebnego meblowozu.",
+      "Dynamiczne obliczanie odległości i ceny trasy dzięki pełnej integracji z Google Maps API.",
+      "Kalendarz rezerwacji terminów online zintegrowany z płatnościami BLIK, Apple Pay i Stripe.",
+      "Przejrzysta prezentacja pakietów (np. przeprowadzka ekonomiczna, kompleksowa z pakowaniem).",
+      "Wdrożenie danych strukturalnych Schema.org (MovingCompany) wspierających pozycjonowanie AI (GEO/SEO)."
+    ]
+  },
+  "en": {
+    "name": "Moving Services",
+    "about": "Moving is one of the most stressful life events. A professional website for a moving company builds trust through transparent pricing, verified client reviews, and an interactive volume estimator for furniture and boxes.",
+    "focus": "Moving businesses benefit most from neighborhood-level local SEO (e.g., office removals Warsaw City Center) and a streamlined quote request form optimized for mobile devices.",
+    "specifications": [
+      "Ultra-fast PWA website (Next.js / Tailwind CSS) with instant loading times on mobile devices.",
+      "Interactive cargo volume calculator (m³) allowing clients to accurately estimate the required van size.",
+      "Dynamic route distance and shipping cost estimation powered by Google Maps API.",
+      "Online booking calendar with secure down payment processing via Stripe, Apple Pay, and Google Pay.",
+      "Transparent service tier presentation (e.g., Self-pack, Full service with packing and unpacking).",
+      "Rich Schema.org structured data markup (MovingCompany) optimized for AI search overview placement."
+    ]
+  },
+  "de": {
+    "name": "Umzugsunternehmen",
+    "about": "Ein Umzug gehört zu den stressigsten Lebensereignissen. Eine professionelle Website für ein Umzugsunternehmen schafft Vertrauen durch transparente Preise, Bewertungen und einen interaktiven Volumenrechner für Möbel und Kartons.",
+    "focus": "Umzugsfirmen profitieren besonders von lokalem SEO für Stadtteile (z.B. Umzüge Berlin Mitte) und einem benutzerfreundlichen, mobiloptimierten Anfrageformular.",
+    "specifications": [
+      "Superschnelle PWA-Website (Next.js / Tailwind CSS) mit Ladezeiten unter 0.5s auf Smartphones.",
+      "Interaktiver Volumenrechner (m³) zur genauen Bestimmung der benötigten Lkw-Größe.",
+      "Automatische Entfernungs- und Preiskalkulation durch direkte Google Maps API-Anbindung.",
+      "Online-Terminkalender zur Direktbuchung mit Anzahlung über Stripe, PayPal und Kreditkarten.",
+      "Übersichtliche Darstellung der Leistungspakete (z. B. Standardumzug vs. Komplettservice mit Einpacken).",
+      "Implementierung strukturierter Schema.org-Daten (MovingCompany) für optimale Sichtbarkeit bei Suchanfragen."
+    ]
+  },
+  "uk": {
+    "name": "Переїзди",
+    "about": "Переїзд — одна з найстресовіших подій у житті. Професійний сайт для мувінгової компанії будує довіру завдяки прозорим тарифам, відгукам та інтерактивному калькулятору об'єму меблів і речей.",
+    "focus": "Мувінгові фірми залучають найбільше замовлень завдяки локальному SEO за районами (наприклад, переїзди Київ Печерськ) та зручній формі прорахунку на мобільних пристроях.",
+    "specifications": [
+      "Надшвидкий мобільний PWA-сайт (Next.js / Tailwind CSS) з моментальним відкриттям сторінок.",
+      "Інтерактивний калькулятор об'єму вантажу (м³) для точного вибору об'єму вантажівки.",
+      "Розрахунок маршруту та вартості переїзду в реальному часі за допомогою Google Maps API.",
+      "Модуль бронювання дати переїзду онлайн з можливістю передплати карткою або Apple Pay.",
+      "Зручне порівняння тарифів (економний переїзд, стандартний або переїзд під ключ з пакуванням).",
+      "Впровадження структурованих даних Schema.org (MovingCompany) для покращення позицій в AI пошуку."
+    ]
+  },
+  "ru": {
+    "name": "Переезды",
+    "about": "Переезд — одно из самых стрессовых событий в жизни. Профессиональный сайт для мувинговой компании вызывает доверие благодаря прозрачным тарифам, отзывам и интерактивному калькулятору объема мебели и вещей.",
+    "focus": "Мувинговые компании получают максимум конверсий за счет локального SEO по районам (например, квартирные переезды Москва) и адаптивной формы оценки стоимости с мобильного.",
+    "specifications": [
+      "Сверхбыстрый PWA-сайт (Next.js / Tailwind CSS), загружающийся на смартфонах быстрее 0.5 секунды.",
+      "Интерактивный калькулятор объема вещей (м³) для безошибочного выбора класса грузового автомобиля.",
+      "Динамический расчет километража и цены перевозки через официальную интеграцию Google Maps API.",
+      "Система бронирования дат переезда онлайн с приемом предоплаты банковскими картами и Apple Pay.",
+      "Понятное разделение на пакеты услуг (например, только перевозка, стандарт или переезд под ключ).",
+      "Разметка структурированных данных Schema.org (MovingCompany) для вывода отзывов и цен в результатах поиска."
+    ]
+  },
+  "zh": {
+    "name": "搬家服务",
+    "about": "搬家是人生中最繁琐的压力事件之一。一个搬家公司的专业官网可以通过透明的阶梯报价、真实客户口碑以及互动的家具/纸箱体积测算器，迅速建立起品牌专业度与信赖感。",
+    "focus": "搬家物流公司非常依赖区域级本地 SEO 关键词（例如：华沙市中心办公室搬迁、跨城长途搬家）以及专门针对移动端优化、简化到极致的快捷询价表单。",
+    "specifications": [
+      "超快速 PWA 网站（基于 Next.js 与 Tailwind CSS 构建），移动端访问体感丝滑无缝。",
+      "交互式立方估算器（m³），帮助客户精准测算需要派发何种吨位及容积的箱式货车。",
+      "深度整合 Google Maps API 接口，实现行驶里程及跨城过路运费的自动化精准计算。",
+      "在线排程预订日历，并提供基于 Stripe、Apple Pay 及 Google Pay 的安全订金收取通道。",
+      "直观的服务套餐对比（如：纯运输自助搬家、全程打包保洁一站式日式搬家）。",
+      "深度配置行业专用 Schema 结构化微数据（MovingCompany），高度契合 AI 搜索排名策略。"
+    ]
+  }
+}

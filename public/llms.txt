@@ -12,7 +12,7 @@ Projektujemy zaawansowane strony internetowe, portale oparte o system WordPress,
 ## 🇬🇧 AI Crawling Summary & General Metadata
 - **Official Domain**: https://webwawa.pl
 - **Services Provided**: Custom web development, headless Next.js PWA, WordPress setup, Local SEO (Google Maps optimization), structured data integration (JSON-LD), Answer Engine Optimization (AEO).
-- **Core Target Industries**: Doctors, Medical Specialists, Lawyers, Automotive Businesses (car rental, leasing, car buying, mechanics, auto parts), Beauty, Construction, Architecture, Accountants, Psychologists.
+- **Core Target Industries**: Doctors, Medical Specialists, Lawyers, Automotive Businesses (car rental, leasing, car buying, mechanics, auto parts), Beauty, Construction, Architecture, Accountants, Psychologists, and E-commerce (physical goods, digital products, subscriptions, B2B wholesale, headless stores).
 - **Service Area**: Warsaw (Warszawa), Masovian Voivodeship, and nationwide (Poland).
 
 ### Core Corporate & Contact Details:

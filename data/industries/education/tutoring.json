@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Korepetycje",
+    "about": "Indywidualni korepetytorzy i platformy korepetycyjne szukają prostych systemów rezerwacji i automatyzacji pracy. Profesjonalna witryna ułatwia prezentację przedmiotów, referencji oraz rezerwację i opłacanie lekcji bez pośredników.",
+    "focus": "Korepetycje zyskują najwięcej na precyzyjnym SEO lokalnym (np. korepetycje matematyka Mokotów, fizyka matura Warszawa) oraz na pełnej integracji płatności ze Stripe / Revolut.",
+    "specifications": [
+      "Ultra-szybka witryna Next.js gwarantująca natychmiastowe wczytywanie na urządzeniach mobilnych.",
+      "Integracja z systemem rezerwacji lekcji online (np. Cal.com / Calendly API) z blokadą zajętych terminów.",
+      "Bezpieczne bramki płatnicze Stripe i Revolut umożliwiające opłacanie pojedynczych lekcji lub pakietów godzin.",
+      "Automatyczne przypomnienia SMS (Twilio) o zbliżających się lekcjach w celu redukcji odwołanych zajęć.",
+      "Integracja z platformami wideo (Zoom / Google Meet API) do automatycznego generowania linków do lekcji.",
+      "Wdrożenie Schema.org (Service / LearningResource) dla lepszego pozycjonowania i widoczności w wyszukiwarkach."
+    ]
+  },
+  "en": {
+    "name": "Tutoring",
+    "about": "Individual tutors and tutoring platforms require simple booking systems and workflows. A professional website simplifies subject listings, reviews, and direct lesson booking and payment without commission fees.",
+    "focus": "Tutoring benefits most from precise local SEO (e.g. math tutor Mokotów, physics prep Warsaw) and seamless integration of Stripe / Revolut payment gateways.",
+    "specifications": [
+      "Ultra-fast Next.js website ensuring instantaneous loading times on all mobile devices.",
+      "Online lesson booking integration (Cal.com / Calendly API) with live teacher availability calendars.",
+      "Secure payment processing via Stripe and Revolut for single classes or multi-hour packages.",
+      "Automated SMS reminders (Twilio) sent to students to decrease class cancellation rates.",
+      "Video platform integration (Zoom / Google Meet API) to automatically generate classroom links.",
+      "Schema.org (Service / LearningResource) markup deployment for enhanced search engine ranking and exposure."
+    ]
+  },
+  "de": {
+    "name": "Nachhilfe",
+    "about": "Einzelne Nachhilfelehrer und Vermittlungsplattformen benötigen schlanke Buchungssysteme und automatisierte Abläufe. Ein professioneller Webauftritt erleichtert das Auflisten von Fächern, das Buchen von Terminen und das Abrechnen.",
+    "focus": "Nachhilfeangebote profitieren am meisten von lokalem SEO (z. B. Nachhilfe Mathe Mokotów, Physik Abiturvorbereitung) und einer direkten Online-Bezahlung über Stripe.",
+    "specifications": [
+      "Superschnelle Next.js Webseite, optimiert für mobile Ladezeiten und bestmögliche Google-Indexierung.",
+      "Terminbuchungs-Schnittstelle (Cal.com / Calendly API) mit Abgleich von Kalendern in Echtzeit.",
+      "Sichere Zahlungsabwicklung mit Stripe und Revolut für Einzelstunden oder rabattierte Stundenpakete.",
+      "Automatische SMS-Erinnerungen (Twilio) vor Unterrichtsbeginn, um Fehlzeiten der Schüler zu minimieren.",
+      "API-Anbindung an Videokonferenzdienste (Zoom / Google Meet) zur automatischen Generierung von Unterrichtsräumen.",
+      "Implementierung von Schema.org (Service / LearningResource) zur optimalen Kennzeichnung des Angebots."
+    ]
+  },
+  "uk": {
+    "name": "Репетиторство",
+    "about": "Приватні репетитори та платформи для пошуку викладачів шукають зручні системи бронювання уроків. Професійний сайт спрощує представлення предметів, публікацію відгуків, а також оплату занять без зайвих комісій.",
+    "focus": "Репетиторство найбільше виграє від точкового локального SEO (наприклад: репетитор математики Мокотув, підготовка до ЗНО фізика Варшава) та інтеграції Stripe / Revolut.",
+    "specifications": [
+      "Створення швидкого сайту на Next.js, що моментально завантажується на смартфонах.",
+      "Інтеграція системи бронювання онлайн-уроків (Cal.com / Calendly API) з автоматичним оновленням графіку.",
+      "Безпечний прийом платежів через Stripe та Revolut за окремі уроки або пакети занять.",
+      "Автоматичні SMS-нагадування (Twilio) для учнів про заплановані уроки для зменшення пропусків.",
+      "Інтеграція з відео-сервісами (Zoom / Google Meet API) для автоматичного створення посилань на онлайн-зустрічі.",
+      "Впровадження розмітки Schema.org (Service / LearningResource) для розширеного представлення в пошуку."
+    ]
+  },
+  "ru": {
+    "name": "Репетиторство",
+    "about": "Индивидуальные репетиторы и платформы подбора преподавателей нуждаются в простой автоматизации. Профессиональный сайт облегчает выбор предметов, публикацию отзывов, бронирование времени и проведение оплат.",
+    "focus": "Репетиторы получают больше всего заявок благодаря локальному SEO (например: репетитор математики Мокотув, физика ЕГЭ Варшава) и удобной онлайн-оплате Stripe.",
+    "specifications": [
+      "Разработка быстрого сайта на Next.js для мгновенной загрузки на мобильных устройствах.",
+      "Интеграция виджета онлайн-записи (Cal.com / Calendly API) с актуальным расписанием преподавателя.",
+      "Прием оплат через Stripe и Revolut за разовые занятия или абонементы.",
+      "Автоматические SMS-напоминания (Twilio) о приближении урока для сокращения пропусков.",
+      "Интеграция с Zoom / Google Meet API для автоматического создания ссылки на онлайн-урок при записи.",
+      "Внедрение разметки Schema.org (Service / LearningResource) для улучшения видимости в поисковиках."
+    ]
+  },
+  "zh": {
+    "name": "课外辅导与个人教师",
+    "about": "独立教师与辅导机构需要极简的约课系统来节省运营精力。专业的网站不仅便于集中展示教学科目、真实家长评价，更支持学员无需中介平台、直接在官网约课并完成付款。",
+    "focus": "课外辅导的精准获客点在于本地长尾 SEO（例如：莫科图夫数学辅导、华沙高考物理集训）以及无缝的 Stripe / Revolut 担保交易流程。",
+    "specifications": [
+      "采用 Next.js 极速渲染框架，保证移动端网页的毫秒级即时加载与流畅阅读体验。",
+      "集成约课插件（Cal.com / Calendly API），学生可根据教师真实空闲时段自主选课。",
+      "对接 Stripe 和 Revolut 安全接口，支持单次购买或购买多课时优惠套餐。",
+      "通过短信网关（Twilio）配置自动化上课提醒短信，显著降低课程放鸽子与漏课率。",
+      "深度调用 Zoom / Google Meet API 接口，在约课成功后自动生成并向双方分发专属在线教室链接。",
+      "配置 Schema.org (Service / LearningResource) 微数据，提升名师简介和辅导科目在检索结果中的展示层级。"
+    ]
+  }
+}

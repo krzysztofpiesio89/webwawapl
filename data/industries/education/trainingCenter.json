@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Centrum Szkoleniowe",
+    "about": "Centra szkoleniowe i firmy oferujące kursy zawodowe potrzebują platform do sprzedaży biletów, obsługi szkoleń online i automatycznego generowania certyfikatów. Nowoczesny portal usprawnia cały proces i buduje profesjonalny wizerunek firmy.",
+    "focus": "Centra szkoleniowe zyskują najwięcej na optymalizacji SEO pod kątem zapytań o konkretne uprawnienia i kursy (np. kursy spawacza Warszawa, szkolenia biznesowe Mokotów) oraz na czytelnym katalogu szkoleń.",
+    "specifications": [
+      "Strona o architekturze Jamstack (Next.js) z błyskawicznym czasem ładowania katalogu szkoleń.",
+      "System sprzedaży wejściówek i rezerwacji miejsc online zintegrowany ze Stripe, Revolut oraz PayU.",
+      "Moduł automatycznego generowania certyfikatów ukończenia szkolenia w formacie PDF (PDF-Kit / Node.js).",
+      "Strefa uczestnika szkolenia (PWA) umożliwiająca pobieranie prezentacji i materiałów poszkoleniowych.",
+      "Integracja z newsletterem (Mailchimp / ActiveCampaign) w celu automatycznego informowania o nowych terminach.",
+      "Implementacja zaawansowanego oznaczania Course Schema (JSON-LD) w wyszukiwarce Google dla bezpośredniej prezentacji cen i terminów."
+    ]
+  },
+  "en": {
+    "name": "Training Center",
+    "about": "Training centers and vocational course providers require platforms to sell tickets, host online sessions, and generate certificates automatically. A modern portal streamlines these operations and builds a professional brand.",
+    "focus": "Training centers benefit most from SEO optimized for specific certifications and courses (e.g. welding courses Warsaw, business training Mokotów) and clear course catalogs.",
+    "specifications": [
+      "Jamstack architecture (Next.js) website ensuring blazing-fast load times for extensive course catalogs.",
+      "Online ticket sales and seat reservation system integrated with Stripe, PayPal, and Revolut.",
+      "Automated completion certificate generation module producing secure PDFs upon course finalization.",
+      "Secure student portal (PWA) for downloading presentations, lecture notes, and training materials.",
+      "Newsletter marketing integration (Mailchimp / ActiveCampaign) to notify leads of upcoming training sessions.",
+      "Advanced Course Schema (JSON-LD) markup integration in Google to display pricing, dates, and slots directly in search."
+    ]
+  },
+  "de": {
+    "name": "Schulungszentrum",
+    "about": "Schulungszentren und Anbieter von Berufskursen benötigen Plattformen für den Ticketverkauf, E-Learning-Schnittstellen und automatisierte Zertifikatserstellung. Ein modernes Portal rationalisiert diesen Workflow.",
+    "focus": "Schulungszentren profitieren von SEO-Optimierung für spezifische Qualifikationen und Zertifikate (z. B. Schweißer-Kurs Warschau, Business-Schulungen Mokotów) und einer klaren Kursübersicht.",
+    "specifications": [
+      "Jamstack-Architektur (Next.js) für extrem schnelle Ladezeiten auch bei sehr großen Schulungskatalogen.",
+      "Online-Ticketkauf- und Sitzplatzreservierungssystem, nahtlos angebunden an Stripe und Revolut.",
+      "Automatisches PDF-Zertifikatserstellungsmodul nach erfolgreichem Kursabschluss mittels Node.js.",
+      "Geschützter Downloadbereich für Seminarunterlagen, Präsentationen und Zusatzmaterialien per PWA.",
+      "Newsletter-Anbindung (Mailchimp / ActiveCampaign) zur automatisierten Bewerbung neuer Schulungstermine.",
+      "Strukturiertes Course Schema (JSON-LD) in Google, um Preise, Termine und Plätze direkt in den Suchergebnissen anzuzeigen."
+    ]
+  },
+  "uk": {
+    "name": "Навчальний Центр",
+    "about": "Навчальні центри та компанії, що пропонують професійні курси, потребують платформ для продажу квитків, проведення вебінарів та автоматичної видачі сертифікатів. Сучасний веб-портал оптимізує ці процеси.",
+    "focus": "Навчальні центри найбільше виграють від оптимізації SEO під конкретні курси та спеціальності (наприклад: курси зварювальників Варшава, бізнес-тренінги Мокотув) та чіткої структури сайту.",
+    "specifications": [
+      "Побудова сайту на архітектурі Jamstack (Next.js) для миттєвого завантаження великих каталогів курсів.",
+      "Система онлайн-продажу квитків та бронювання місць, інтегрована зі Stripe та PayPal.",
+      "Модуль автоматичної генерації сертифікатів про проходження навчання у форматі PDF (PDF-Kit / Node.js).",
+      "Особистий кабінет учасника (PWA) для завантаження презентацій та навчальних матеріалів.",
+      "Синхронізація з сервісами розсилок (Mailchimp / ActiveCampaign) для повідомлень про нові дати занять.",
+      "Інтеграція мікророзмітки Course Schema (JSON-LD) в Google для показу цін та дат прямо в пошуку."
+    ]
+  },
+  "ru": {
+    "name": "Учебный Центр",
+    "about": "Учебные центры и провайдеры профессиональных курсов нуждаются в автоматизированных платформах для продажи билетов, проведения занятий и генерации сертификатов. Современный портал выстраивает системные продажи.",
+    "focus": "Учебные центры получают результаты благодаря SEO-оптимизации под конкретные курсы и квалификации (например: курсы сварщиков Варшава, бизнес-тренинги Мокотув).",
+    "specifications": [
+      "Сайт на архитектуре Jamstack (Next.js) для моментальной загрузки больших каталогов курсов и программ.",
+      "Интеграция системы бронирования мест и покупки билетов через Stripe, Revolut и PayPal.",
+      "Модуль автогенерации именных сертификатов выпускников в формате PDF после завершения курса.",
+      "Личный кабинет слушателя (PWA) для скачивания презентаций, методичек и записей лекций.",
+      "Синхронизация с почтовыми сервисами (Mailchimp / ActiveCampaign) для прогрева базы новыми анонсами.",
+      "Расширенная разметка Course Schema (JSON-LD) для отображения цен, расписания и свободных мест в поиске Google."
+    ]
+  },
+  "zh": {
+    "name": "职业培训中心",
+    "about": "培训中心与职业教育机构需要高效率的平台来销售课程门票、管理在线培训并自动向合格学员颁发证书。一个现代化的在线门户能够极大减少教务人工投入，并树立行业权威形象。",
+    "focus": "培训中心最核心的获客策略是围绕具体执业证书或技术培训进行 SEO 布局（例如：华沙焊工考证、莫科图夫商业管理培训）并展示清晰易读的课表。",
+    "specifications": [
+      "采用 Jamstack 现代架构（Next.js），即使承载成百上千门课程，网页也能保持零延迟打开。",
+      "内置课程门票在线预订与支付系统，无缝支持 Stripe、Revolut 及 PayPal 结算。",
+      "开发自动化证书生成组件，在学员修完学时或通过在线考核后，即时渲染生成加密防伪的 PDF 证书文件。",
+      "通过 PWA 缓存机制设计学员后台，方便学员离线下载讲义 PPT、配套学习资料及作业包。",
+      "对接邮件与短信自动化营销平台（Mailchimp / ActiveCampaign），在新开班或限时促销时智能推送通知。",
+      "全站集成 Course Schema (JSON-LD) 富媒体元数据，直接在谷歌搜索页面中向用户呈现课程价格、开班日期及剩余名额。"
+    ]
+  }
+}

@@ -290,6 +290,8 @@
   --cc-btn-primary-border-color: var(--color-brand-blue);
   --cc-btn-primary-hover-bg: var(--color-primary-dark);
   --cc-btn-primary-hover-border-color: var(--color-primary-dark);
+  --cc-btn-primary-text: #ffffff;
+  --cc-btn-primary-hover-text: #ffffff;
   
   /* Secondary Button (Preferences / Necessary) */
   --cc-btn-secondary-bg: #f1f5f9;
@@ -308,6 +310,9 @@
   --cc-btn-secondary-hover-border-color: #475569;
   --cc-btn-secondary-text: #f1f5f9;
   --cc-btn-secondary-hover-text: #ffffff;
+  
+  --cc-btn-primary-text: #ffffff;
+  --cc-btn-primary-hover-text: #ffffff;
   
   /* Make the dark theme matching our dark mode */
   --cc-bg: #090e1a;

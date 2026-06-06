@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Kurier Lokalny",
+    "about": "Usługi kurierów miejskich i lokalnych opierają się na szybkości doręczenia (same-day delivery). Strona internetowa musi oferować maksymalnie uproszczony proces nadania przesyłki, generowania etykiet i automatycznej wyceny w czasie rzeczywistym.",
+    "focus": "Najważniejszym elementem jest prosty formularz wyceny paczki (koperta, paczka, gabaryt), moduł śledzenia przesyłki na żywo oraz pozycjonowanie na frazy lokalne typu szybki kurier miejski Warszawa.",
+    "specifications": [
+      "Intuicyjny konfigurator przesyłek (wybór wagi i gabarytu) z natychmiastową wyceną kosztu dostawy.",
+      "Integracja z mapami do automatycznego obliczania odległości między punktem nadania i odbioru.",
+      "Moduł śledzenia statusu przesyłki w czasie rzeczywistym (tracking) dla nadawcy i odbiorcy.",
+      "Automatyczne generowanie i pobieranie etykiety adresowej w formacie PDF bezpośrednio po opłaceniu.",
+      "Integracja z szybki płatnościami (BLIK, Apple Pay, Stripe) umożliwiająca bezkontaktowe nadanie paczki.",
+      "Zgodność ze Schema.org (Service) dla lepszej indeksacji i prezentacji w wyszukiwarkach AI."
+    ]
+  },
+  "en": {
+    "name": "Local Courier",
+    "about": "Urban and local courier services live on speed of delivery (same-day delivery). The website must offer a highly simplified shipping flow, instant label generation, and automated real-time pricing.",
+    "focus": "The critical elements are a simple parcel booking form (envelope, box, pallet), a live parcel tracking system, and local SEO optimized for terms like same-day courier Warsaw.",
+    "specifications": [
+      "Intuitive parcel booking tool (weight and size selector) with instant shipping rate quotes.",
+      "Maps integration to automatically compute driving distances between pickup and drop-off points.",
+      "Real-time parcel tracking dashboard (tracking) for both sender and recipient convenience.",
+      "Automated shipping label and waybill generator producing print-ready PDFs instantly upon checkout.",
+      "Integrated instant checkout (Stripe, Apple Pay, Google Pay) for seamless parcel booking.",
+      "Schema.org structured data (Service) optimized for conversational search and AI answer engines."
+    ]
+  },
+  "de": {
+    "name": "Lokaler Kurier",
+    "about": "Städtische und lokale Kurierdienste basieren auf extrem schnellen Lieferzeiten (Same-Day Delivery). Die Website muss einen stark vereinfachten Prozess für Paketversand, Etikettenerstellung und Echtzeit-Preiskalkulation bieten.",
+    "focus": "Wichtig sind ein einfacher Paket-Konfigurator (Brief, Paket, Sperrgut), eine Live-Sendungsverfolgung sowie lokales SEO für Suchbegriffe wie Expresskurier Warschau.",
+    "specifications": [
+      "Intuitive Paketeingabe (Gewicht und Maße) mit sofortiger Berechnung der Versandkosten.",
+      "Karteneinbindung zur automatischen Distanzberechnung zwischen Abhol- und Lieferort.",
+      "Echtzeit-Sendungsverfolgung (Tracking) für Absender und Empfänger mit Benachrichtigungen.",
+      "Automatische PDF-Etikettenerstellung zum Ausdrucken direkt nach erfolgreicher Online-Zahlung.",
+      "Integration schneller Zahlungsmethoden (Stripe, Kreditkarte, PayPal) für den sofortigen Versand.",
+      "Strukturierte Schema.org-Daten (Service) zur optimalen Lesbarkeit für Such-Bots und KI-Systeme."
+    ]
+  },
+  "uk": {
+    "name": "Локальний Кур'єр",
+    "about": "Послуги міських та локальних кур'єрів базуються на швидкості доставки (доставка в той же день). Веб-сайт має запропонувати максимально простий процес відправки посилки, генерації етикеток та миттєвого розрахунку ціни.",
+    "focus": "Ключовими елементами є простий формуляр відправки (конверт, коробка, палета), трекінг посилки в реальному часі та локальне SEO (наприклад, терміновий кур'єр Варшава).",
+    "specifications": [
+      "Інтуїтивний конфігуратор відправлень (вибір ваги та розмірів) з миттєвим розрахунком вартості доставки.",
+      "Інтеграція з картами для автоматичного прорахунку відстані між адресою забору та доставки.",
+      "Модуль відстеження статусу посилки в реальному часі (трекінг) для відправника та отримувача.",
+      "Автоматична генерація та завантаження адресної етикетки в PDF відразу після оплати на сайті.",
+      "Підключення швидких онлайн-платежів (Apple Pay, Google Pay, Stripe) для моментального оформлення.",
+      "Налаштування структурованих даних Schema.org (Service) для відображення в результатах пошуку AI."
+    ]
+  },
+  "ru": {
+    "name": "Местный Курьер",
+    "about": "Услуги экспресс-курьеров в пределах города строятся на скорости доставки (в тот же день). Веб-сайт должен предлагать максимально простой процесс отправки посылки, генерации накладных и моментальной оценки тарифа.",
+    "focus": "Самое важное — это легкая форма оформления отправления (конверт, коробка, паллета), живой трекинг посылки и продвижение на фразы вроде экспресс-доставка по городу Варшава.",
+    "specifications": [
+      "Удобный конфигуратор посылок (выбор габаритов и веса) с мгновенным выводом стоимости доставки.",
+      "Интеграция с картами для автоматического расчета километража между точками забора и выдачи.",
+      "Модуль онлайн-трекинга отправлений в реальном времени с SMS-оповещением для получателя.",
+      "Автоматическое формирование готовой к печати адресной этикетки в формате PDF после совершения оплаты.",
+      "Интеграция быстрых платежей (Stripe, Apple Pay) для оформления отправления за один клик.",
+      "Соответствие стандарту Schema.org (Service) для успешного ранжирования и цитирования в AI-выдаче."
+    ]
+  },
+  "zh": {
+    "name": "同城特快专递",
+    "about": "同城及本地即时配送配送服务极度看重派送时效（即日达）。快递公司的官网必须提供最大程度简化的寄件表单流程、实时自动价格预算以及在线标签打印系统。",
+    "focus": "最核心的要素包括一个极简的包裹规格选择器（信封、纸箱、托盘）、实时的物流轨迹查询模块，以及针对本地化特快配送关键字（如：华沙当日达快递、同城摩托急件）进行的 SEO 优化。",
+    "specifications": [
+      "直观的包裹规格及重量配置表单，实现配送费用的秒级即时估算。",
+      "结合地图 API 接口，根据发件地与收件地之间的行车轨迹自动计算距离与费用。",
+      "针对寄件人和收件人开放的实时包裹轨迹跟踪（Tracking）看板。",
+      "在线结账后，系统自动生成符合规范的 PDF 格式快递运单/面单，供客户直接下载打印。",
+      "无缝接入极速支付网关（Stripe、Apple Pay、Google Pay），实现无感下单结账。",
+      "全面符合 AI 搜索引擎抓取规范的 Schema.org 微数据（Service），锁定首屏曝光机会。"
+    ]
+  }
+}

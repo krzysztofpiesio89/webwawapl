@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Szkoła Jazdy",
+    "about": "Ośrodki Szkolenia Kierowców (OSK) konkurują w wyszukiwarkach o młodych kursantów. Nowoczesna strona internetowa z możliwością zakupu kursu na raty, zapisów online na jazdy oraz czytelnym profilem instruktorów decyduje o wyborze szkoły.",
+    "focus": "Szkoły jazdy najwięcej zyskują na pozycjonowaniu lokalnym na frazy regionalne (np. szkoła jazdy Warszawa, prawo jazdy kat. B Mokotów) oraz na mobilnej optymalizacji strony.",
+    "specifications": [
+      "Strona Mobile-First (Next.js & Tailwind CSS) zoptymalizowana pod kątem szybkiego ładowania na telefonach kursantów.",
+      "Moduł wyboru kursów (kat. A, B, C, D) z integracją płatności online i opcją zakupu na raty (PayU / Stripe).",
+      "Szybki formularz kontaktowy typu Click-to-Call i bezpośredni czat WhatsApp ułatwiający szybkie zapytania.",
+      "Integracja z systemem rezerwacji jazd dla kursantów za pomocą bezpiecznego panelu klienta PWA.",
+      "Sekcja z prezentacją floty pojazdów szkoleniowych i sylwetek instruktorów o wysokiej wydajności graficznej.",
+      "Wdrożenie Schema.org (AutomotiveBusiness / EducationalOrganization) w celu poprawy widoczności lokalnej w Google Maps."
+    ]
+  },
+  "en": {
+    "name": "Driving School",
+    "about": "Driving schools compete online to attract young learners. A modern website with options for installment plans, online registration, and profiles of certified instructors makes a school stand out.",
+    "focus": "Driving schools benefit most from local SEO on high-intent keywords (e.g. driving school Warsaw, category B driving license Mokotów) and mobile performance optimization.",
+    "specifications": [
+      "Mobile-First website design (Next.js & Tailwind CSS) optimized for instant load speeds on students' smartphones.",
+      "Course selector module (categories A, B, C, D) with online payment integration and installment options (Stripe).",
+      "Quick contact features such as Click-to-Call and WhatsApp chat integration to capture young prospects.",
+      "Integration with driving lesson booking software via a secure PWA student panel.",
+      "High-performance gallery of the driving fleet and profiles of certified driving instructors.",
+      "Schema.org markup (AutomotiveBusiness / EducationalOrganization) for superior visibility in Google Maps local pack."
+    ]
+  },
+  "de": {
+    "name": "Fahrschule",
+    "about": "Fahrschulen stehen im harten Online-Wettbewerb um junge Fahrschüler. Eine moderne Website mit Ratenzahlungsmodulen, Online-Anmeldungen und Fahrlehrerporträts ist der Schlüssel zur erfolgreichen Schülergewinnung.",
+    "focus": "Fahrschulen profitieren am meisten von lokalem SEO für regionale Suchbegriffe (z. B. Fahrschule Warschau, Führerschein Klasse B Mokotów) und einer mobil optimierten Landingpage.",
+    "specifications": [
+      "Mobile-First Design (Next.js & Tailwind CSS), optimiert für extrem kurze Ladezeiten auf den Handys der Schüler.",
+      "Kurskonfigurator (Klassen A, B, C, D) mit Stripe-Zahlung und Ratenzahlungsoptionen.",
+      "Click-to-Call-Telefonknöpfe und WhatsApp-Direktchat für barrierefreie Anfragen von unterwegs.",
+      "Integration von Fahrstunden-Planungssoftware über ein sicheres, installierbares PWA-Schülerportal.",
+      "Schnell ladende Fotopräsentation des Fuhrparks sowie Profile der Fahrlehrer zur Vertrauensbildung.",
+      "Lokale Google Maps Optimierung mittels strukturierter Daten nach Schema.org (AutomotiveBusiness)."
+    ]
+  },
+  "uk": {
+    "name": "Автошкола",
+    "about": "Автошколи борються в інтернеті за увагу майбутніх водіїв. Сучасний сайт з можливістю онлайн-запису, вибором пакетів навчання, оплатою частинами та профілями інструкторів є визначальним чинником при виборі автошколи.",
+    "focus": "Автошколи отримують найбільшу віддачу від локального просування (наприклад: автошкола Варшава, курси водіння категорія B Мокотув) та швидкої мобільної версії.",
+    "specifications": [
+      "Розробка сайту за принципом Mobile-First (Next.js & Tailwind CSS) для швидкої роботи на телефонах учнів.",
+      "Модуль вибору категорій навчання (A, B, C, D) з інтегрованою оплатою онлайн та розстрочкою (Stripe).",
+      "Швидкі кнопки дзвінка (Click-to-Call) та інтеграція чату WhatsApp для миттєвих консультацій.",
+      "Синхронізація з системою планування практичних занять через захищений PWA-кабінет учня.",
+      "Галерея навчальних автомобілів та детальні картки інструкторів з оптимізованими зображеннями.",
+      "Впровадження локальної Schema.org розмітки (AutomotiveBusiness / EducationalOrganization) для Google Maps."
+    ]
+  },
+  "ru": {
+    "name": "Автошкола",
+    "about": "Автошколы ведут активную борьбу за молодых курсантов в интернете. Современный сайт с возможностью записи онлайн, оплаты в рассрочку и портфолио инструкторов напрямую влияет на количество новых учеников.",
+    "focus": "Автошколы получают поток клиентов благодаря локальному SEO (например: автошкола Варшава, водительские права категория B Мокотув) и высокой скорости мобильной версии.",
+    "specifications": [
+      "Разработка сайта по стандарту Mobile-First (Next.js & Tailwind CSS) для быстрой загрузки на смартфонах.",
+      "Модуль выбора курсов вождения (кат. A, B, C, D) с онлайн-оплатой и рассрочкой платежей через Stripe.",
+      "Кнопки быстрого звонка Click-to-Call и интеграция WhatsApp для оперативной консультации будущих водителей.",
+      "Синхронизация с внутренней системой записи на вождение через защищенный личный кабинет PWA.",
+      "Высокопроизводительная галерея учебных автомобилей автошколы и презентация инструкторского состава.",
+      "Реализация разметки Schema.org (AutomotiveBusiness / EducationalOrganization) для приоритета в Google Картах."
+    ]
+  },
+  "zh": {
+    "name": "驾校",
+    "about": "驾校面临着激烈的线上招生竞争。一个拥有现代化界面、支持分期付款付款、可在线预约学车时段并清晰展示教练信息的官网，往往能直接决定学员的报名选择。",
+    "focus": "驾校的核心获客路径是本地化 SEO（例如：华沙驾校推荐、莫科图夫B照驾考）以及在移动端的极致访问速度优化。",
+    "specifications": [
+      "采用 Mobile-First（移动端优先）交互设计，基于 Next.js & Tailwind CSS，确保青年学员在手机上即点即开。",
+      "按车型类别（A、B、C、D照）设计选课报名模块，无缝结合 Stripe 分期付款或首付定金功能。",
+      "部署一键拨号（Click-to-Call）与 WhatsApp 直达客服插件，方便学员就近咨询学车场地。",
+      "在 PWA 学员个人中心里深度嵌入练车约课系统，实现自主查看教练排班与预约科目二/三练车。",
+      "运用懒加载技术呈现高清晰度的教练车队展示与专业教练员资历库，建立可信品牌度。",
+      "精准配置 Schema.org (AutomotiveBusiness / EducationalOrganization) 标签，提高机构在谷歌地图本地列表中的自然权重。"
+    ]
+  }
+}

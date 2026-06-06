@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Pomoc Drogowa",
+    "about": "W przypadku awarii lub kolizji liczy się każda sekunda. Strona dla pomocy drogowej musi być ekstremalnie szybka, czytelna w trudnych warunkach pogodowych i oświetleniowych oraz dawać kierowcy możliwość natychmiastowego wezwania lawety jednym kliknięciem.",
+    "focus": "Priorytetem jest natychmiastowy kontakt telefoniczny (Click-to-Call) oraz funkcja szybkiego udostępniania lokalizacji GPS z telefonu klienta bezpośrednio do dyspozytora. Silne lokalne SEO na drogach szybkiego ruchu i dzielnicach generuje najcenniejszy ruch.",
+    "specifications": [
+      "Strona zoptymalizowana pod kątem błyskawicznego ładowania (poniżej 0.3s) na autostradach przy słabym zasięgu.",
+      "Przycisk 'Wyślij lokalizację GPS' pobierający współrzędne z telefonu klienta za jego zgodą.",
+      "Czytelny podział usług: holowanie, wyciąganie z rowu, dowóz paliwa, awaryjne odpalanie z kabli.",
+      "Wizualny licznik czasu dojazdu najbliższego holownika w czasie rzeczywistym na podstawie geolokalizacji.",
+      "Informacje o bezgotówkowym holowaniu z ubezpieczenia OC sprawcy oraz assistance wiodących marek.",
+      "Wdrożenie Schema.org (EmergencyService) dla bezpośrednich połączeń z wyszukiwarek głosowych i AI."
+    ]
+  },
+  "en": {
+    "name": "Roadside Assistance",
+    "about": "In the event of a breakdown or collision, every second counts. A website for roadside assistance must load instantly, remain readable under harsh weather or lighting conditions, and allow motorists to request a tow truck with a single click.",
+    "focus": "The absolute priority is instant phone contact (Click-to-Call) and a GPS location sharing feature sending coordinates directly from the driver's phone to dispatchers. Strong local SEO on highways and main routes driving conversions.",
+    "specifications": [
+      "Website optimized to load in under 0.3 seconds even on highways with poor cellular coverage.",
+      "One-click 'Send GPS Location' button leveraging the browser's Geolocation API.",
+      "Clear categorizations: towing, winch outs, fuel delivery, battery jump starts, tire changes.",
+      "Visual real-time ETA estimator based on the dispatcher's current active fleet positioning.",
+      "Cashless towing coverage guidance (billing directly to insurance policies or roadside memberships).",
+      "Schema.org markup (EmergencyService) tailored for instant voice searches and AI overview callouts."
+    ]
+  },
+  "de": {
+    "name": "Pannenhilfe",
+    "about": "Bei einer Panne oder einem Unfall zählt jede Sekunde. Die Website für die Pannenhilfe muss extrem schnell laden, bei jedem Wetter gut lesbar sein und dem Fahrer ermöglichen, sofort mit einem Klick Hilfe zu rufen.",
+    "focus": "Priorität haben der Direktruf (Click-to-Call) und die GPS-Standortübermittlung vom Smartphone des Kunden an den Disponenten. Lokales SEO für Autobahnen und Großstädte sichert lukrative Aufträge.",
+    "specifications": [
+      "Website-Ladezeiten unter 0.3 Sekunden für schnelle Hilfe bei schlechtem Empfang auf der Autobahn.",
+      "Ein-Klick-Button 'GPS-Standort senden' zur automatischen Standortermittlung per Browser-API.",
+      "Klare Gliederung der Services: Abschleppdienst, Bergung, Kraftstofflieferung, Starthilfe.",
+      "Echtzeit-Anzeige der geschätzten Ankunftszeit des Abschleppwagens basierend auf der GPS-Ortung.",
+      "Direktabrechnung mit KFZ-Versicherungen (Schutzbrief, Kasko) und bekannten Automobilclubs.",
+      "Schema.org-Optimierung (EmergencyService) für schnelle Ergebnisse bei Sprachsuche und KI-Abfragen."
+    ]
+  },
+  "uk": {
+    "name": "Pomoc Drogowa",
+    "about": "У разі поломки або ДТП кожна секунда на рахунку. Сайт допомоги на дорозі має завантажуватися миттєво, бути зручним для читання при будь-якому освітленні та дозволяти водієві викликати евакуатор в один клік.",
+    "focus": "Пріоритетом є миттєвий дзвінок (Click-to-Call) та функція швидкої передачі координат GPS з телефону водія безпосередньо диспетчеру. Локальне SEO на трасах і розв'язках приносить цільові дзвінки.",
+    "specifications": [
+      "Сайт оптимізований для миттєвого завантаження (до 0.3 сек) на шосе за умов слабкого мобільного зв'язку.",
+      "Кнопка 'Надіслати GPS-локацію', яка визначає точні координати водія за допомогою GPS телефону.",
+      "Чіткий каталог послуг: евакуація авто, витягування з кювету, підвезення палива, запуск двигуна бустером.",
+      "Індикатор розрахункового часу прибуття найближчого евакуатора в реальному часі.",
+      "Інформація про можливість безкоштовного евакуатора за страховкою ОСЦПВ/КАСКО або асистансом.",
+      "Впровадження розмітки Schema.org (EmergencyService) для миттєвих дзвінків з голосового пошуку та AI."
+    ]
+  },
+  "ru": {
+    "name": "Помощь на Дорогах",
+    "about": "При поломке или ДТП на дороге дорога каждая секунда. Сайт эвакуатора и автопомощи должен открываться моментально, легко читаться при ярком солнце или дожде и позволять вызвать техпомощь в один клик.",
+    "focus": "Главное — мгновенная связь по телефону (Click-to-Call) и возможность поделиться точной геопозицией GPS со своего смартфона. Сильное локальное SEO на автомагистралях обеспечивает поток горячих заявок.",
+    "specifications": [
+      "Сайт оптимизирован для сверхбыстрого рендеринга (до 0.3 сек) на трассах в зонах неустойчивого приема сети.",
+      "Интегрированная кнопка 'Поделиться геопозицией' для точной передачи координат на пульт диспетчера.",
+      "Понятный каталог услуг: эвакуация легковых авто, внедорожников, подвоз бензина, прикуривание АКБ.",
+      "Интерактивный таймер с ориентировочным временем подачи автоэвакуатора в реальном времени.",
+      "Блок информации о страховом возмещении (эвакуация по ОСАГО/КАСКО и картам автоассистанса).",
+      "Использование разметки Schema.org (EmergencyService) для интеграции в голосовые помощники и AI-поиск."
+    ]
+  },
+  "zh": {
+    "name": "道路救援",
+    "about": "当车辆在道路上突发起火、故障或碰撞事故时，时间就是生命。道路救援与拖车服务网站必须具备极致的加载速度，在恶劣天气或刺眼日光下也能清晰阅读，并支持一键呼叫救援。",
+    "focus": "该场景下用户的首要需求是“一键拨号”以及通过手机 GPS 定位接口直接共享案发地坐标。针对高速公路路段、高架桥和主干道进行的本地化 SEO 可以带来最具商业价值的精准急修流量。",
+    "specifications": [
+      "极致精简的 Next.js 页面结构，确保在网络信号极差的高速路段也能在0.3秒内极速首屏展现。",
+      "“发送我当前的 GPS 坐标”功能，利用浏览器 HTML5 地理定位 API 一键共享位置信息。",
+      "清晰的救援服务分类：故障拖车、事故吊装、现场搭电起动、送油送水、原地换胎等。",
+      "基于救援网络分布图，动态计算并展示距离故障车辆最近的清障车预计到达时间（ETA）。",
+      "支持各大保险公司拖车服务（直赔代办、免垫付流程）以及道路救援卡权益对接引导说明。",
+      "高度优化的 Schema 语音搜索结构化数据（EmergencyService），抢占语音助手及 AI 直达结果。"
+    ]
+  }
+}

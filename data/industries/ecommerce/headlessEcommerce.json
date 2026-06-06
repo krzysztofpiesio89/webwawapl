@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Dedykowany e-commerce Headless",
+    "about": "Architektura Headless e-commerce to rozdzielenie warstwy prezentacyjnej (szybkiego frontend w Next.js/Vue) od silnika sklepowego. Zapewnia to niezrównane bezpieczeństwo, błyskawiczne działanie oraz pełną niezależność od szablonów.",
+    "focus": "Głównymi zaletami są: wynik PageSpeed Insights 100/100, odporność na ataki DDoS (front na CDN), integracja API z systemami takimi jak Python/Django lub Symfony, automatyczne feedy Google Merchant Center (GMC) oraz pełne przystosowanie pod pozycjonowanie w AI Search (GEO).",
+    "specifications": [
+      "Wdrożenie frontendu Next.js, React lub Vue (Nuxt) serwowanego bezpośrednio z serwerów brzegowych (Edge CDN) w ułamku sekundy.",
+      "Kompletne odcięcie bazy danych od publicznego frontendu, gwarantujące całkowite bezpieczeństwo (brak SQL Injection, odporność na ataki).",
+      "Komunikacja z backendem (Python Django / Saleor / Symfony / Node.js) poprzez ultra-szybkie interfejsy GraphQL lub REST API.",
+      "Automatyczne, zoptymalizowane pod GMC (Google Merchant Center) generowanie XML feedów bezpośrednio z CDN.",
+      "Zaimplementowana struktura llms.txt oraz zaawansowana semantyka Schema.org dla optymalnego pozycjonowania w ChatGPT i Perplexity (GEO).",
+      "Brak ograniczeń szablonowych: dowolny design UI/UX, zaawansowane animacje mikro-interakcyjne i PageSpeed 100/100 na mobile."
+    ]
+  },
+  "en": {
+    "name": "Bespoke Headless E-commerce",
+    "about": "Headless e-commerce architecture decouples the presentation layer (fast Next.js/Vue front-end) from the commerce database engine. This delivers unmatched speed, top-tier security, and complete design freedom.",
+    "focus": "Key advantages include: 100/100 PageSpeed Insights score, DDoS resilience (CDN edge front-end), custom backend APIs (Python/Django, Symfony), automated Google Merchant Center (GMC) feeds, and optimization for AI Search (GEO).",
+    "specifications": [
+      "Deployment of Next.js, React, or Vue (Nuxt) storefronts served directly from global edge servers (Edge CDN) within milliseconds.",
+      "Total isolation of the commerce database from the public front-end, guaranteeing absolute security against SQL injections and security threats.",
+      "Communication with backend servers (Python Django / Saleor / Symfony / Node.js) using ultra-fast GraphQL or REST APIs.",
+      "Automated XML Product Feed generation optimized for Google Merchant Center (GMC), served dynamically from edge CDN.",
+      "Embedded llms.txt configurations and Schema.org semantic structure for ranking dominance in AI engines like ChatGPT and Perplexity (GEO).",
+      "No theme constraints: unlimited UI/UX design freedom, advanced micro-animations, and guaranteed 100/100 Mobile PageSpeed score."
+    ]
+  },
+  "de": {
+    "name": "Individuelles Headless E-Commerce",
+    "about": "Die Headless-E-Commerce-Architektur trennt die Präsentationsschicht (schnelles Next.js/Vue Frontend) von der E-Commerce-Datenbank. Dies bietet unübertroffene Ladezeiten, maximale Sicherheit und Designfreiheit.",
+    "focus": "Hauptvorteile sind: 100/100 PageSpeed Insights Mobile Score, DDoS-Resistenz, API-Anbindung (Python/Django, Symfony), automatische Google Merchant Center (GMC) Feeds und Optimierung für KI-Suchen (GEO).",
+    "specifications": [
+      "Entwicklung von Next.js, React oder Vue (Nuxt) Storefronts, die über globale Edge-Server (Edge CDN) in Millisekunden ausgeliefert werden.",
+      "Vollständige Isolierung der E-Commerce-Datenbank vom öffentlichen Frontend, was absolute Sicherheit gegen SQL-Injections und Angriffe bietet.",
+      "Kommunikation mit Backend-Systemen (Python Django / Saleor / Symfony / Node.js) über extrem schnelle GraphQL oder REST APIs.",
+      "Automatisierte XML-Feederstellung für Google Merchant Center (GMC), die dynamisch und ressourcenschonend direkt vom CDN ausgeliefert wird.",
+      "Implementierung von llms.txt und Schema.org zur optimierten Indexierung und Zitatgewinnung in KI-Suchmaschinen wie ChatGPT (GEO).",
+      "Keine Template-Einschränkungen: unbegrenzte UI/UX-Gestaltungsfreiheit, feine Mikro-Interaktionen und 100/100 PageSpeed auf Mobilgeräten."
+    ]
+  },
+  "uk": {
+    "name": "Спеціалізований Headless E-commerce",
+    "about": "Архітектура Headless e-commerce відокремлює шар презентації (швидкий фронтенд на Next.js/Vue) від бази даних та бізнес-логіки. Це гарантує максимальну швидкість роботи, безпеку та свободу дизайну.",
+    "focus": "Основними перевагами є: оцінка PageSpeed Insights 100/100, стійкість до DDoS-атак (фронтенд на CDN), інтеграція API з системами на Python/Django чи Symfony, автоматичні фіди Google Merchant Center (GMC) та оптимізація під AI Search (GEO).",
+    "specifications": [
+      "Впровадження фронтенду на Next.js, React або Vue (Nuxt), що віддається безпосередньо з крайових серверів (Edge CDN) за мілісекунди.",
+      "Повна ізоляція бази даних від публічного інтерфейсу, що виключає можливість SQL-ін'єкцій та зломів сайту.",
+      "Зв'язок з бекендом (Python Django / Saleor / Symfony / Node.js) через надшвидкі інтерфейси GraphQL або REST API.",
+      "Автоматичне створення товарних фідів XML, сумісних з Google Merchant Center (GMC), що генеруються прямо на CDN.",
+      "Інтеграція файлів llms.txt та семантики Schema.org для пріоритетного цитування вашого магазину в ChatGPT та Perplexity (GEO).",
+      "Повна свобода дизайну: розробка будь-якого унікального інтерфейсу, мікроанімації та гарантовані 100/100 PageSpeed на мобільних."
+    ]
+  },
+  "ru": {
+    "name": "Специализированный Headless E-commerce",
+    "about": "Архитектура Headless e-commerce разделяет визуальную часть (быстрый фронтенд на Next.js/Vue) и ядро магазина. Это обеспечивает превосходную скорость, максимальную безопасность и независимость от шаблонов.",
+    "focus": "Основные преимущества: показатель PageSpeed Insights 100/100, устойчивость к DDoS (фронтенд на CDN), интеграция API с Python/Django или Symfony, автоматические фиды Google Merchant Center (GMC) и готовность к AI Search (GEO).",
+    "specifications": [
+      "Внедрение фронтенда Next.js, React или Vue (Nuxt), отдающегося с серверов Edge CDN за доли секунды.",
+      "Абсолютное исключение прямого доступа к базе данных с публичного сайта, защищающее от SQL-инъекций и взломов.",
+      "Обмен данными с бэкендом (Python Django / Saleor / Symfony / Node.js) через реактивные интерфейсы GraphQL или REST API.",
+      "Автоматическое формирование XML товарных фидов для Google Merchant Center (GMC), транслируемое напрямую с CDN.",
+      "Настройка файлов llms.txt и разметки Schema.org для приоритетного отображения вашего бренда в выдачах ChatGPT и Perplexity (GEO).",
+      "Полная свобода кастомизации: неограниченный UI/UX дизайн, продвинутые микро-анимации и стабильные 100/100 PageSpeed на mobile."
+    ]
+  },
+  "zh": {
+    "name": "Bespoke Headless 前后端分离电商系统",
+    "about": "前后端分离（Headless）电商架构将内容展现层（基于 Next.js/Vue 的极速前端）与核心商业数据库及业务逻辑彻底解耦。这种架构赋予了网站绝佳的打开速度、军事级的安全防护以及无限的设计表现力。",
+    "focus": "其核心竞争力包括：移动端 PageSpeed 评测直达 100/100、凭借边缘 CDN 部署实现无惧 DDoS 攻击的抗高并发能力、对接 Python/Django 或 Symfony 等高级后台 API、自动化 GMC（谷歌 Merchant Center）商品流同步，以及完全适配 AI 搜索引擎的 GEO 语义优化。",
+    "specifications": [
+      "基于 Next.js、React 或 Vue (Nuxt) 搭建极速前端，并直接托管在全球边缘节点服务器（Edge CDN），实现毫秒级快速响应。",
+      "彻底隔离核心电商数据库与公开访问前端，从物理上杜绝 SQL 注入和各类越权安全漏洞威胁。",
+      "通过超高速、标准化的 GraphQL 或 REST API 与后台系统（Python Django / Saleor / Symfony / Node.js）进行实时交互。",
+      "自动配置 GMC (Google Merchant Center) 商品目录 XML Feed，并由边缘节点进行动态分发以减少服务器负载。",
+      "内置 llms.txt 文件并配置 Schema.org 微数据，让大语言模型（如 ChatGPT, Perplexity 等）在 AI 回答中优先推荐并引用您的品牌 (GEO)。",
+      "打破模版死板框架：支持完全自由的定制化 UI/UX 视效表现、精美的微交互动效，以及保证 100/100 的 Mobile PageSpeed 跑分。"
+    ]
+  }
+}

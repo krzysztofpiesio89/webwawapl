@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Sklep z produktami fizycznymi",
+    "about": "Sklepy oferujące towary fizyczne potrzebują integracji z kurierami, magazynami oraz platformami takimi jak Allegro, Amazon czy eBay. Kluczem do sukcesu jest płynna synchronizacja stanów magazynowych oraz automatyzacja wysyłki zamówień.",
+    "focus": "Głównymi filarami sukcesu są: integracja z BaseLinker do kompleksowego zarządzania sprzedażą wielokanałową (omnichannel), automatyczne generowanie listów przewozowych, płatności PayU, Przelewy24, BLIK oraz optymalizacja XML dla Google Merchant Center (GMC) do kampanii produktowych.",
+    "specifications": [
+      "Budowa szybkiego sklepu PWA (Next.js / PrestaShop / Shopify / WooCommerce) opartego o lekkie komponenty.",
+      "Pełna integracja z BaseLinker: dwukierunkowa synchronizacja stanów magazynowych z Allegro, Amazon, eBay i eMAG.",
+      "Automatyzacja procesów wysyłkowych: generowanie etykiet kurierskich (InPost, DHL, DPD, UPS) bezpośrednio w panelu.",
+      "Bramki płatnicze zoptymalizowane pod kątem konwersji mobilnej (PayU, Przelewy24, BLIK, Revolut, Stripe).",
+      "Dynamiczne generowanie pliku XML produktowego (feed) zoptymalizowanego pod Google Merchant Center (GMC) i kampanie Google Shopping.",
+      "Wdrożenie Schema.org Product, Offer i AggregateRating w JSON-LD, poprawiające wyświetlanie cen i stanów w Google."
+    ]
+  },
+  "en": {
+    "name": "Physical Goods Store",
+    "about": "Stores offering physical goods require seamless integrations with couriers, warehouses, and multi-channel sales marketplaces like Allegro, Amazon, or eBay. The key to success is automated stock synchronization and quick order fulfillment.",
+    "focus": "The main pillars of growth are: BaseLinker integration for omnichannel sales management, automated shipping label generation, payment methods (PayU, Przelewy24, BLIK, Stripe), and optimized Google Merchant Center (GMC) feeds.",
+    "specifications": [
+      "Ultra-fast PWA online store development (Next.js / PrestaShop / Shopify / WooCommerce) built with clean performance components.",
+      "Full BaseLinker integration: two-way stock and price synchronization with Amazon, eBay, Allegro, and eMAG.",
+      "Automated shipping workflows: instant generation of courier labels (DHL, DPD, UPS, InPost) directly within the dashboard.",
+      "E-commerce payment gateways optimized for high mobile conversion rates (Stripe, Revolut, PayPal, PayU, BLIK).",
+      "Dynamic Product XML Feed generation optimized for Google Merchant Center (GMC) and Google Shopping Ads.",
+      "Implementation of Schema.org Product, Offer, and Reviews JSON-LD to display price tags and stock levels in Google Search."
+    ]
+  },
+  "de": {
+    "name": "Shop für physische Produkte",
+    "about": "Online-Shops für physische Produkte benötigen Schnittstellen zu Versanddienstleistern, Lagersystemen und Verkaufsplattformen wie Amazon, eBay oder Allegro. Der Erfolg hängt von automatischer Bestandssynchronisierung ab.",
+    "focus": "Die wichtigsten Erfolgsfaktoren sind: BaseLinker-Integration für Omnichannel-Vertrieb, automatischer Druck von Versandetiketten, Zahlungsmethoden (Stripe, Revolut, PayPal) und optimierte Feeds für Google Merchant Center (GMC).",
+    "specifications": [
+      "Entwicklung von schnellen PWA-Shops (Next.js / PrestaShop / Shopify / WooCommerce) basierend auf leichtgewichtigen Komponenten.",
+      "Vollständige BaseLinker-Integration: bidirektionale Bestandssynchronisierung mit Amazon, eBay, Allegro und eMAG.",
+      "Automatisierung des Versands: Generierung von Versandaufklebern (DHL, DPD, UPS) direkt aus dem Admin-Panel.",
+      "Für Mobilgeräte optimierte Zahlungs-Gateways zur Maximierung der Konversionsrate (Stripe, Revolut, PayPal, Klarna).",
+      "Dynamische Erstellung von Produkt-XML-Feeds optimiert für Google Merchant Center (GMC) und Google Shopping-Kampagnen.",
+      "Implementierung von Schema.org Product, Offer und AggregateRating in JSON-LD für optimierte Suchergebnisse in Google."
+    ]
+  },
+  "uk": {
+    "name": "Магазин фізичних товарів",
+    "about": "Магазини, що пропонують фізичні товари, потребують інтеграції зі службами доставки, складами та маркетплейсами, такими як Allegro, Amazon або eBay. Ключем до успіху є автоматична синхронізація залишків та замовлень.",
+    "focus": "Головними елементами успіху є: інтеграція з BaseLinker для багатоканальних продажів (omnichannel), автоматична генерація накладних, платіжні рішення PayU, Przelewy24, BLIK та оптимізація XML для Google Merchant Center (GMC).",
+    "specifications": [
+      "Створення швидкого магазину PWA (Next.js / PrestaShop / Shopify / WooCommerce) на основі легких компонентів.",
+      "Повна інтеграція з BaseLinker: двостороння синхронізація залишків і цін з Amazon, eBay, Allegro та eMAG.",
+      "Автоматизація доставки: миттєве створення транспортних етикеток (DHL, DPD, UPS, InPost) безпосередньо в адмін-панелі.",
+      "Платіжні системи, оптимізовані для мобільних пристроїв (PayU, Przelewy24, BLIK, Stripe, Revolut).",
+      "Динамічна генерація XML файлу товарів, оптимізованого під Google Merchant Center (GMC) та рекламу Google Shopping.",
+      "Впровадження розмітки Schema.org Product, Offer та AggregateRating в JSON-LD для відображення цін та залишків у пошуку Google."
+    ]
+  },
+  "ru": {
+    "name": "Магазин физических товаров",
+    "about": "Магазины физических товаров требуют интеграции со службами доставки, складскими программами и торговыми площадками вроде Allegro, Amazon или eBay. Ключ к успеху — автоматизация остатков и отправки посылок.",
+    "focus": "Главные составляющие успеха: интеграция с BaseLinker для многоканальных продаж (omnichannel), автоматическое создание накладных, платежные шлюзы PayU, Przelewy24, BLIK, Stripe и оптимизация фидов для Google Merchant Center (GMC).",
+    "specifications": [
+      "Создание быстрого интернет-магазина PWA (Next.js / PrestaShop / Shopify / WooCommerce) на легком коде.",
+      "Полная интеграция с BaseLinker: двухсторонняя синхронизация остатков с Amazon, eBay, Allegro и eMAG.",
+      "Автоматизация доставки: мгновенное создание транспортных наклеек курьеров (DHL, DPD, UPS) в панели управления.",
+      "Платежные шлюзы с высокой конверсией на мобильных телефонах (PayU, Przelewy24, BLIK, Stripe, Revolut).",
+      "Динамическая генерация XML файлов товаров для Google Merchant Center (GMC) и рекламы Google Shopping.",
+      "Внедрение микроразметки Schema.org Product, Offer и AggregateRating в JSON-LD для выдачи цен и наличия в Google."
+    ]
+  },
+  "zh": {
+    "name": "实体商品在线商城",
+    "about": "销售实体货物的商家需要对接物流快递公司、仓储管理系统（WMS），以及 Allegro、亚马逊、eBay 等多渠道电商平台。实现库存跨平台自动同步及发货流程自动化是提升运营效率的关键。",
+    "focus": "核心开发要点包括：深度对接 BaseLinker 以管理多渠道零售（Omnichannel）、实现一键打印物流面单、集成 PayU、Przelewy24、BLIK、Stripe 快捷支付，以及自动化生成适配 Google Merchant Center (GMC) 的商品数据 XML 流。",
+    "specifications": [
+      "构建首屏闪开的 PWA 商城（Next.js / PrestaShop / Shopify / WooCommerce 架构），剔除冗余代码限制。",
+      "BaseLinker 深度集成：实现与亚马逊、eBay、Allegro 和 eMAG 的双向库存和零售价秒级实时同步。",
+      "物流发货全自动：支持直接在商城后台一键生成主流快递公司（DHL、DPD、UPS 等）的邮寄标签。",
+      "针对移动端专门优化的全球/本地快捷支付支付网关（BLIK、PayU、Przelewy24、Stripe、Revolut）。",
+      "动态商品数据流（XML Feed）自动导出，完美适配谷歌 Merchant Center (GMC) 和 Google 购物广告代投需求。",
+      "部署 Schema.org Product、Offer 和 AggregateRating 结构化 JSON-LD 数据，在谷歌搜索中突出显示商品星级、价格及库存状态。"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Wynajem Dostawczaków",
+    "about": "Wynajem samochodów dostawczych wymaga maksymalnie przejrzystego procesu doboru floty. Klienci szukają aut o konkretnych wymiarach przestrzeni ładunkowej. Zoptymalizowana strona www pozwala szybko sprawdzić gabaryty auta, jego dostępność w kalendarzu oraz dokonać rezerwacji online.",
+    "focus": "Głównym celem jest prezentacja specyfikacji technicznej pojazdów (długość paki, ładowność) oraz intuicyjny proces rezerwacyjny. Lokalne SEO na frazy typu wynajem dostawczaka Warszawa zapewnia stałych klientów biznesowych i indywidualnych.",
+    "specifications": [
+      "Interaktywna prezentacja floty z wyszczególnieniem wymiarów paki (L1H1, L2H2 itp.) i ładowności.",
+      "Moduł rezerwacyjny z kalendarzem dostępności aut na żywo i automatycznym kalkulatorem dobowym.",
+      "Wygodny konfigurator opcji dodatkowych (np. wózek schodowy, pasy transportowe, brak limitu kilometrów).",
+      "Bezpieczny system przesyłania skanów dokumentów (prawo jazdy, dowód) w celu przyspieszenia formalności.",
+      "Integracja z systemami płatności (BLIK, karty płatnicze) do szybkiej opłaty rezerwacyjnej i kaucji.",
+      "Dane Schema.org (AutoRental) ułatwiające pozycjonowanie w wyszukiwarkach AI (GEO/AEO)."
+    ]
+  },
+  "en": {
+    "name": "Van Rental",
+    "about": "Renting a cargo van requires an extremely transparent fleet selection process. Customers look for vehicles with specific cargo dimensions. An optimized website allows them to check van sizes, real-time calendar availability, and book online.",
+    "focus": "The primary goal is showcasing technical vehicle specs (load length, payload capacity) alongside an intuitive booking flow. Local SEO targeting terms like van rental Warsaw brings steady streams of business and individual clients.",
+    "specifications": [
+      "Interactive fleet showcase highlighting cargo box dimensions (e.g., L1H1, L3H2) and max payload.",
+      "Online booking engine with real-time van availability calendar and automated daily rate calculation.",
+      "Easy selection of optional accessories (e.g., stair climbing hand trucks, tie-down straps, unlimited mileage).",
+      "Secure document upload portal (driver's license, ID verification) to reduce physical counter times.",
+      "Integrated payment processing (Stripe, Apple Pay) for quick booking deposits and security authorizations.",
+      "SEO-optimized Schema.org markup (AutoRental) designed for maximum visibility in generative AI search."
+    ]
+  },
+  "de": {
+    "name": "Transporter-Vermietung",
+    "about": "Die Vermietung von Transportern erfordert einen maximal transparenten Flottenauswahl-Prozess. Kunden suchen Fahrzeuge mit bestimmten Laderaummaßen. Eine optimierte Website ermöglicht die schnelle Abfrage von Abmessungen, Kalenderverfügbarkeit und Online-Buchung.",
+    "focus": "Ziel ist die übersichtliche Präsentation technischer Daten (Ladelänge, Nutzlast) und ein einfacher Buchungsablauf. Lokales SEO für Suchbegriffe wie Transporter mieten Warschau sichert gewerbliche und private Mieter.",
+    "specifications": [
+      "Interaktive Flottenübersicht mit genauen Laderaummaßen (L1H1, L2H2 usw.) und Traglastangaben.",
+      "Online-Buchungssystem mit Echtzeit-Verfügbarkeitskalender und automatischer Tagespreiskalkulation.",
+      "Konfigurator für Extras (z.B. Sackkarren, Spanngurte, Zusatzfahrer, Wegfall der Kilometerbegrenzung).",
+      "Sicherer Dokumenten-Upload (Führerschein, Ausweis) zur Beschleunigung der Fahrzeugübergabe vor Ort.",
+      "Schnittstelle zu Zahlungsanbietern für die sofortige Online-Zahlung der Mietgebühr und Kaution.",
+      "Schema.org-Optimierung (AutoRental) für hohe Relevanz in Suchmaschinen und KI-Overviews."
+    ]
+  },
+  "uk": {
+    "name": "Оренда Бусів",
+    "about": "Оренда комерційного транспорту потребує максимальної прозорості у представленні автопарку. Клієнти шукають автомобілі з конкретними габаритами будки. Оптимізований сайт дозволяє швидко перевірити розміри авто, його доступність та забронювати онлайн.",
+    "focus": "Основна мета — демонстрація технічних характеристик автомобілів (довжина вантажного відсіку, вантажопідйомність) та легкий процес бронювання. Локальне SEO (наприклад, оренда буса Варшава) приносить постійних клієнтів.",
+    "specifications": [
+      "Інтерактивна галерея автопарку з чітким зазначенням розмірів відсіку (L1H1, L3H2 тощо) та вантажопідйомності.",
+      "Онлайн-система бронювання з календарем наявності машин наживо та добовим розрахунком ціни.",
+      "Можливість оренди додаткового обладнання (ремені кріплення, ручні візки, GPS-навігатори).",
+      "Безпечний інтерфейс для завантаження фото посвідчення водія для прискорення видачі авто.",
+      "Інтеграція з платіжними шлюзами для безпечної передоплати та блокування застави на картці.",
+      "Налаштування структурованих даних Schema.org (AutoRental) для кращої видимості в AI пошуку."
+    ]
+  },
+  "ru": {
+    "name": "Аренда Фургонов",
+    "about": "Аренда коммерческого транспорта требует максимальной ясности при выборе автопарка. Клиенты ищут фургоны с конкретными габаритами грузового отсека. Оптимизированный сайт позволяет быстро проверить размеры кузова, его свободные даты и оформить аренду.",
+    "focus": "Главное — демонстрация технических характеристик (длина кузова, грузоподъемность) и простой процесс бронирования. Локальное SEO (например, аренда коммерческого авто Варшава) привлекает постоянных B2B и B2C клиентов.",
+    "specifications": [
+      "Интерактивный каталог автопарка с детальными габаритами грузовой части (L1H1, L3H2 и др.) и грузоподъемностью.",
+      "Модуль онлайн-бронирования с календарем доступности машин в реальном времени и расчетом стоимости.",
+      "Возможность заказа полезных опций (ремни крепления груза, рохли, тележки, безлимитный пробег).",
+      "Защищенный личный кабинет для загрузки водительского удостоверения с целью быстрого оформления договора.",
+      "Интеграция с платежными системами для моментального внесения брони и авторизации залога.",
+      "Разметка Schema.org (AutoRental) для обеспечения высокой видимости в поиске нового поколения (GEO/AI)."
+    ]
+  },
+  "zh": {
+    "name": "厢式货车租赁",
+    "about": "厢式货车租赁行业的核心在于高度透明的车型选择流程。租车客户非常看重货舱的具体长宽高尺寸。一个经过深度优化的网站应当让客户迅速核对车厢尺寸、查看实时档期日历并在线自助锁定车辆。",
+    "focus": "网站的重中之重是展示详尽的车辆技术参数（如内舱长度、载重上限）以及流畅的在线预订逻辑。针对本地化租车需求（如：华沙货车日租、货运面包车免押金租赁）的 SEO 优化可带来稳定优质的中小企业客户流。",
+    "specifications": [
+      "交互式车型展示板，明确标注货厢尺寸代号（如 L1H1, L3H2 等）、底盘长宽高及最大载重量。",
+      "在线自助订车引擎，匹配实时车辆库存储备日历，并提供自动化阶梯日租金计算器。",
+      "集成便利性租赁配件选购（如：爬楼重载手推车、拉紧器捆绑带、免限里程包等）。",
+      "支持安全可靠的驾驶执照与身份证件上传通道，大幅压缩线下提车现场登记审核的等待时间。",
+      "深度集成支付结算网关，实现无感快捷支付订金以及线上信用卡租车预授权预扣押金操作。",
+      "部署完全符合 AI 搜索标准的 Schema.org 结构化字段（AutoRental），夺取高价值 AI 推荐排位。"
+    ]
+  }
+}

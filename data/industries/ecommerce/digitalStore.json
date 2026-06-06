@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Sklep z produktami cyfrowymi",
+    "about": "Sprzedaż e-booków, kursów wideo czy licencji oprogramowania wymaga zautomatyzowanego systemu dostarczania plików. Klient po opłaceniu zamówienia powinien natychmiast i bezpiecznie otrzymać dostęp do cyfrowych produktów.",
+    "focus": "Główny nacisk kładziemy na: natychmiastowe bramki płatnicze (BLIK, Stripe, Revolut), dynamiczne znakowanie plików PDF (stamping/watermarking) w celu ochrony przed piractwem oraz hosting plików z bezpiecznym pobieraniem przez generowane czasowo linki S3.",
+    "specifications": [
+      "Wdrożenie automatycznego systemu wysyłki produktów cyfrowych (e-booki, wideo, klucze licencyjne) natychmiast po zaksięgowaniu wpłaty.",
+      "Zabezpieczenie plików: generowanie czasowych, wygasających linków pobierania (signed URLs) opartych o AWS S3 / Cloudflare.",
+      "Dynamiczne znakowanie plików PDF (PDF stamping) - automatyczne nanoszenie danych kupującego (imię, e-mail, ID transakcji) na każdą stronę.",
+      "Szybkie metody płatności One-Click: integracja z Stripe (Apple Pay/Google Pay), Revolut Pay, Przelewy24 oraz BLIK.",
+      "Platforma kursów online z wbudowanym odtwarzaczem wideo odpornym na pobieranie (zabezpieczenie strumienia HLS/AES-128).",
+      "Struktura serwisu zoptymalizowana pod kątem mobilnego UX (Mobile-First) z uproszczoną ścieżką zakupową (single page checkout)."
+    ]
+  },
+  "en": {
+    "name": "Digital Products Store",
+    "about": "Selling e-books, video courses, or software licenses requires an automated file delivery system. Immediately after paying, the customer should receive secure access to their digital content.",
+    "focus": "Our main focus is on: instant payment gateways (Stripe, Revolut, BLIK), dynamic PDF watermarking (stamping) to protect copyrights, and secure file hosting with time-limited signed download URLs.",
+    "specifications": [
+      "Implementation of automated instant digital product dispatch (e-books, courses, licenses) upon payment clearance.",
+      "File protection: generation of secure, expiring download links (signed URLs) powered by AWS S3 / Cloudflare.",
+      "Dynamic PDF stamping: automatically overlaying the buyer's name, email, and transaction ID on every page to prevent piracy.",
+      "One-click payment systems: seamless integration with Stripe (Apple Pay/Google Pay), Revolut Pay, Przelewy24, and local BLIK.",
+      "Online course platform with built-in download-resistant video player (HLS encryption with AES-128 keys).",
+      "Store architecture optimized for mobile UX (Mobile-First) featuring a streamlined checkout funnel (single-page checkout)."
+    ]
+  },
+  "de": {
+    "name": "Shop für digitale Produkte",
+    "about": "Der Vertrieb von E-Books, Videokursen oder Softwarelizenzen erfordert ein automatisiertes Dateiauslieferungssystem. Der Kunde muss nach der Zahlung sofort und sicher Zugriff auf seine digitalen Güter erhalten.",
+    "focus": "Der Schwerpunkt liegt auf: Sofortzahlungs-Schnittstellen (Stripe, Revolut, Klarna), dynamischer PDF-Wasserzeichen-Kennzeichnung (Stamping) zum Schutz vor Piraterie und sicherem Download-Hosting via zeitlich begrenzten S3-Links.",
+    "specifications": [
+      "Implementierung eines automatischen Versandsystems für digitale Produkte (E-Books, Videos, Lizenzen) direkt nach Zahlungseingang.",
+      "Dateischutz: Generierung von zeitlich begrenzten, ablaufenden Download-Links (Signed URLs) über AWS S3 / Cloudflare.",
+      "Dynamische PDF-Stempelung (PDF Stamping) - automatisches Aufbringen von Käuferdaten (Name, E-Mail, Transaktions-ID) auf jede Seite.",
+      "Schnelle One-Click-Zahlungsmethoden: Integration von Stripe (Apple/Google Pay), Revolut Pay und lokalen Zahlungsarten.",
+      "Online-Kursplattform mit integriertem, kopiergeschütztem Videoplayer (HLS-Streaming mit AES-128-Verschlüsselung).",
+      "Shop-Architektur optimiert für mobiles UX mit einem vereinfachten Checkout-Prozess (Single Page Checkout)."
+    ]
+  },
+  "uk": {
+    "name": "Магазин цифрових товарів",
+    "about": "Продаж електронних книг, відеокурсів або ліцензій на ПЗ вимагає автоматизованої системи доставки файлів. Одразу після оплати клієнт має миттєво та безпечно отримати доступ до своїх цифрових товарів.",
+    "focus": "Основний акцент робиться на: миттєвих платіжних шлюзах (Stripe, Revolut, BLIK), динамічному водяному маркуванні PDF-файлів (stamping) для захисту від піратства та безпечному хостингу з посиланнями S3, що мають обмежений час дії.",
+    "specifications": [
+      "Впровадження системи автоматичного надсилання цифрових товарів (е-буки, відео, ліцензійні ключі) одразу після підтвердження оплати.",
+      "Захист файлів: генерація тимчасових посилань для завантаження (signed URLs) на базі AWS S3 / Cloudflare.",
+      "Динамічний PDF-стемпінг - автоматичне нанесення даних покупця (ім'я, e-mail, ID транзакції) на кожну сторінку файлу.",
+      "Швидкі методи оплати One-Click: інтеграція з Stripe (Apple Pay/Google Pay), Revolut Pay, Przelewy24 та BLIK.",
+      "Платформа онлайн-курсів з вбудованим відеоплеєром, захищеним від завантаження (шифрування HLS/AES-128).",
+      "Оптимізація інтерфейсу під мобільні пристрої (Mobile-First) зі спрощеною сторінкою оформлення замовлення (single page checkout)."
+    ]
+  },
+  "ru": {
+    "name": "Магазин цифровых товаров",
+    "about": "Продажа электронных книг, видеокурсов или лицензий на ПО требует автоматизированной системы выдачи файлов. Сразу после оплаты клиент должен мгновенно и безопасно получить доступ к своим цифровым товарам.",
+    "focus": "Основной упор делается на: моментальные платежные шлюзы (Stripe, Revolut, BLIK), динамическое водяное маркирование PDF-файлов (stamping) для защиты от пиратства и безопасный хостинг с временными ссылками S3.",
+    "specifications": [
+      "Внедрение системы автоматической отправки цифровых товаров (е-книги, видео, лицензии) сразу после оплаты.",
+      "Защита файлов: генерация временных, истекающих ссылок для скачивания (signed URLs) на базе AWS S3 / Cloudflare.",
+      "Динамический PDF-стемпинг - автоматическое нанесение данных покупателя (имя, e-mail, ID транзакции) на каждую страницу файла.",
+      "Быстрые способы оплаты One-Click: интеграция с Stripe (Apple Pay/Google Pay), Revolut Pay, Przelewy24 и BLIK.",
+      "Платформа онлайн-курсов с встроенным плеером, защищенным от скачивания видео (шифрование HLS/AES-128).",
+      "Оптимизация интерфейса под мобильные устройства (Mobile-First) с упрощенной корзиной (single page checkout)."
+    ]
+  },
+  "zh": {
+    "name": "数字化虚拟商品商城",
+    "about": "销售电子书、视频课程或软件许可证，需要一套全自动的虚拟商品发货及下载系统。用户付款后必须能瞬间且安全地获取所购文件或授权码。",
+    "focus": "开发的核心是：接入支持极速支付的网关（Stripe、Revolut、BLIK）、实现 PDF 文件动态戳记（PDF Stamping/版权水印）以防止二次盗版滥用，以及基于 AWS S3/Cloudflare 临时防盗链技术的虚拟资产托管与下载保护。",
+    "specifications": [
+      "配置数字化产品（电子书、教程视频、软件序列号）付款后秒级自动配发系统。",
+      "虚拟资产防盗链保护：基于 AWS S3 或 Cloudflare R2 生成具备时效性、自动失效的专属下载链接（Signed URLs）。",
+      "动态 PDF 戳记（PDF Stamping）：全自动在 PDF 页面角落覆盖购买者姓名、邮箱及订单流水号以追踪盗版源。",
+      "一键闪付体验：深度集成 Stripe One-Click (Apple Pay/Google Pay)、Revolut Pay 及本地 BLIK 支付。",
+      "在线网课平台开发：搭建防提取/防录屏加密播放器（基于 HLS 协议和 AES-128 底层流加密）。",
+      "全站 Mobile-First 极简移动端体验调优，缩短结算漏斗（采用单页极速结算 Single Page Checkout 架构）。"
+    ]
+  }
+}

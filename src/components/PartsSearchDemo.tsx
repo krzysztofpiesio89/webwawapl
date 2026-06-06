@@ -311,7 +311,7 @@ export default function PartsSearchDemo({ lang }: PartsSearchDemoProps) {
                 {/* Polish name & ID badge */}
                 <div className="flex justify-between items-start gap-4 mb-2">
                   <h4 className="font-extrabold text-sm text-slate-900 dark:text-white uppercase tracking-tight">
-                    {part.pl || part.main_pl}
+                    {part.pl}
                   </h4>
                   <span className="text-[10px] font-mono text-slate-400 dark:text-slate-550 bg-slate-100 dark:bg-white/[0.04] px-2 py-0.5 rounded-md">
                     ID: #{part.id}

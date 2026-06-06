@@ -64,6 +64,41 @@ export default function IndustriesShowcase({ lang, dict }: IndustriesShowcasePro
       text: 'text-amber-600 dark:text-amber-400',
       glow: 'shadow-amber-500/10 dark:shadow-amber-500/5',
     },
+    construction: {
+      gradient: 'from-amber-600/10 to-yellow-500/10 dark:from-amber-600/20 dark:to-yellow-500/20',
+      border: 'hover:border-amber-600/30 dark:hover:border-amber-600/30',
+      bg: 'bg-amber-600/5',
+      text: 'text-amber-600 dark:text-amber-500',
+      glow: 'shadow-amber-600/10 dark:shadow-amber-600/5',
+    },
+    gastronomy: {
+      gradient: 'from-rose-500/10 to-orange-500/10 dark:from-rose-500/20 dark:to-orange-500/20',
+      border: 'hover:border-rose-500/30 dark:hover:border-rose-500/30',
+      bg: 'bg-rose-500/5',
+      text: 'text-orange-600 dark:text-orange-400',
+      glow: 'shadow-orange-500/10 dark:shadow-orange-500/5',
+    },
+    transport: {
+      gradient: 'from-cyan-500/10 to-blue-500/10 dark:from-cyan-500/20 dark:to-blue-500/20',
+      border: 'hover:border-cyan-500/30 dark:hover:border-cyan-500/30',
+      bg: 'bg-cyan-500/5',
+      text: 'text-cyan-600 dark:text-cyan-400',
+      glow: 'shadow-cyan-500/10 dark:shadow-cyan-500/5',
+    },
+    ecommerce: {
+      gradient: 'from-fuchsia-500/10 to-indigo-500/10 dark:from-fuchsia-500/20 dark:to-indigo-500/20',
+      border: 'hover:border-fuchsia-500/30 dark:hover:border-fuchsia-500/30',
+      bg: 'bg-fuchsia-500/5',
+      text: 'text-fuchsia-600 dark:text-fuchsia-400',
+      glow: 'shadow-fuchsia-500/10 dark:shadow-fuchsia-500/5',
+    },
+    education: {
+      gradient: 'from-violet-500/10 to-fuchsia-500/10 dark:from-violet-500/20 dark:to-fuchsia-500/20',
+      border: 'hover:border-violet-500/30 dark:hover:border-violet-500/30',
+      bg: 'bg-violet-500/5',
+      text: 'text-violet-600 dark:text-violet-400',
+      glow: 'shadow-violet-500/10 dark:shadow-violet-500/5',
+    },
   };
 
   const getSectorIcon = (id: string) => {
@@ -75,7 +110,12 @@ export default function IndustriesShowcase({ lang, dict }: IndustriesShowcasePro
       case 'architect': return '📐';
       case 'beauty': return '🌸';
       case 'automotive': return '🚗';
-      default: return '🏗️';
+      case 'construction': return '🏗️';
+      case 'gastronomy': return '🍔';
+      case 'transport': return '🚚';
+      case 'ecommerce': return '🛒';
+      case 'education': return '🎓';
+      default: return '💼';
     }
   };
 

@@ -1,0 +1,139 @@
+{
+  "id": "ecommerce",
+  "slugs": {
+    "pl": "sklepy-internetowe",
+    "en": "online-stores",
+    "de": "online-shops",
+    "uk": "internet-mahazyny",
+    "ru": "internet-magaziny",
+    "zh": "online-stores"
+  },
+  "translations": {
+    "pl": {
+      "industryName": "E-commerce",
+      "heroSubtitle": "Projektujemy i wdrażamy ultra-szybkie sklepy internetowe PWA (Next.js, React, Vue) oraz zintegrowane systemy e-commerce oparte o WooCommerce i PrestaShop.",
+      "title": "Tworzenie Sklepów Internetowych i Zaawansowanych Platform E-commerce",
+      "description": "Profesjonalne sklepy internetowe w technologii Headless PWA. Integracje z BaseLinker, Google Merchant Center, bramkami płatniczymi i systemami ERP (Symfony/Python).",
+      "about": "Dzisiejszy rynek handlu elektronicznego wymaga maksymalnej prędkości ładowania i niezawodności. Wolny sklep oznacza utratę klientów. Nasze rozwiązania łączą nowoczesne frontendy (Next.js, React, Vue) z wydajnymi backendami e-commerce (WooCommerce, PrestaShop, custom Django/Python). Oferujemy pełne wdrożenia e-commerce, w tym optymalizację pod wyszukiwarki AI (GEO), integrację z systemami BaseLinker, automatyzację feedów Google Merchant Center oraz wdrożenie bezpiecznych płatności (Stripe, Revolut, PayU, Przelewy24, PayPal) i produktów subskrypcyjnych.",
+      "series": {
+        "pwa": {
+          "title": "Dedykowany Headless E-commerce (Next.js/React/Vue)",
+          "desc": "Budujemy ultra-szybkie sklepy PWA z czasem ładowania poniżej 0.5s. Pełna separacja frontendu od backendu (headless) gwarantuje bezkompromisowe bezpieczeństwo, odporność na wysoki ruch i idealne wyniki PageSpeed."
+        },
+        "wordpress": {
+          "title": "Sklepy WooCommerce & PrestaShop z nakładką PWA",
+          "desc": "Łączymy popularne silniki sklepowe (WooCommerce, PrestaShop) z nowoczesnym frontendem. Otrzymujesz łatwy w obsłudze panel zarządzania zintegrowany z błyskawicznym i zoptymalizowanym pod SEO/GEO kodem strony."
+        },
+        "seo": {
+          "title": "Optymalizacja GMC, SEO & GEO dla Sklepów",
+          "desc": "Zapewniamy maksymalną widoczność Twoich produktów. Wdrażamy automatyczne generowanie feedów produktowych XML dla Google Merchant Center, mikrodane Schema Product i optymalizujemy sklep pod kątem wyszukiwarek AI."
+        }
+      }
+    },
+    "en": {
+      "industryName": "E-commerce",
+      "heroSubtitle": "We design and build ultra-fast PWA online stores (Next.js, React, Vue) and integrated e-commerce systems based on WooCommerce and PrestaShop.",
+      "title": "Online Store Development & Advanced E-commerce Platforms",
+      "description": "Professional headless PWA online stores. Integrated with BaseLinker, Google Merchant Center, payment gateways, and custom ERP systems (Symfony/Python).",
+      "about": "Today's e-commerce market demands maximum loading speed and reliability. A slow store means lost customers. Our solutions combine modern front-ends (Next.js, React, Vue) with efficient e-commerce back-ends (WooCommerce, PrestaShop, custom Django/Python). We offer comprehensive e-commerce deployments, including generative search engine optimization (GEO), integration with BaseLinker, automated Google Merchant Center feeds, secure payment systems (Stripe, Revolut, PayU, Przelewy24, PayPal), and subscription-based products.",
+      "series": {
+        "pwa": {
+          "title": "Bespoke Headless E-commerce (Next.js/React/Vue)",
+          "desc": "We build ultra-fast PWA stores with loading times under 0.5s. Complete separation of front-end from back-end (headless) guarantees uncompromising security, traffic spike stability, and perfect PageSpeed scores."
+        },
+        "wordpress": {
+          "title": "WooCommerce & PrestaShop with PWA Storefront",
+          "desc": "We merge popular commerce engines (WooCommerce, PrestaShop) with modern front-ends. You get an easy-to-use admin dashboard integrated with a lightning-fast web page optimized for SEO/GEO."
+        },
+        "seo": {
+          "title": "GMC Optimization, SEO & GEO for Online Stores",
+          "desc": "We ensure maximum visibility for your products. We implement automated XML feed generation for Google Merchant Center, Schema Product microdata, and optimize your store for AI search engines."
+        }
+      }
+    },
+    "de": {
+      "industryName": "E-Commerce",
+      "heroSubtitle": "Wir entwerfen und entwickeln ultraschnelle PWA-Onlineshops (Next.js, React, Vue) und integrierte E-Commerce-Systeme auf Basis von WooCommerce und PrestaShop.",
+      "title": "Online-Shop Entwicklung & Fortschrittliche E-Commerce-Plattformen",
+      "description": "Professionelle Headless PWA-Onlineshops. Integriert mit BaseLinker, Google Merchant Center, Payment-Gateways und maßgeschneiderten ERP-Systemen (Symfony/Python).",
+      "about": "Der heutige E-Commerce-Markt verlangt maximale Ladegeschwindigkeit und Zuverlässigkeit. Ein langsamer Shop bedeutet verlorene Kunden. Unsere Lösungen kombinieren moderne Frontends (Next.js, React, Vue) mit effizienten E-Commerce-Backends (WooCommerce, PrestaShop, custom Django/Python). Wir bieten umfassende E-Commerce-Implementierungen, einschließlich Generative Engine Optimization (GEO), Integration mit BaseLinker, automatisierten Google Merchant Center Feeds, sicheren Zahlungssystemen (Stripe, Revolut, PayU, Przelewy24, PayPal) und Abonnementprodukten.",
+      "series": {
+        "pwa": {
+          "title": "Maßgeschneidertes Headless E-Commerce (Next.js/React/Vue)",
+          "desc": "Wir bauen ultraschnelle PWA-Shops mit Ladezeiten unter 0,5 Sek. Die vollständige Trennung von Frontend und Backend (headless) garantiert kompromisslose Sicherheit, Laststabilität und perfekte PageSpeed-Ergebnisse."
+        },
+        "wordpress": {
+          "title": "WooCommerce & PrestaShop mit PWA-Storefront",
+          "desc": "Wir verbinden bewährte E-Commerce-Engines (WooCommerce, PrestaShop) mit modernen Frontends. Sie erhalten ein benutzerfreundliches Admin-Dashboard integriert mit einem blitzschnellen, SEO/GEO-optimierten Code."
+        },
+        "seo": {
+          "title": "GMC-Optimierung, SEO & GEO für Onlineshops",
+          "desc": "Wir sorgen für maximale Sichtbarkeit Ihrer Produkte. Wir implementieren die automatisierte XML-Feederstellung für Google Merchant Center, Schema Product-Mikrodaten und optimieren den Shop für KI-Suchmaschinen."
+        }
+      }
+    },
+    "uk": {
+      "industryName": "E-commerce",
+      "heroSubtitle": "Ми проектуємо та впроваджуємо ультрашвидкі інтернет-магазини PWA (Next.js, React, Vue) та інтегровані системи e-commerce на базі WooCommerce та PrestaShop.",
+      "title": "Створення Інтернет-Магазинів та Сучасних Платформ E-commerce",
+      "description": "Професійні інтернет-магазини за технологією Headless PWA. Інтеграція з BaseLinker, Google Merchant Center, платіжними шлюзами та ERP-системами (Symfony/Python).",
+      "about": "Сучасний ринок електронної комерції вимагає максимальної швидкості завантаження та надійності. Повільний магазин означає втрату клієнтів. Наші рішення поєднують сучасні фронтенди (Next.js, React, Vue) з ефективними бекендами (WooCommerce, PrestaShop, custom Django/Python). Ми пропонуємо повний цикл розробки e-commerce, включаючи оптимізацію під AI-пошук (GEO), інтеграцію з BaseLinker, автоматичне створення фідів для Google Merchant Center, впровадження безпечних платіжних систем (Stripe, Revolut, PayU, Przelewy24, PayPal) та продаж цифрових і субскрипційних товарів.",
+      "series": {
+        "pwa": {
+          "title": "Спеціалізований Headless E-commerce (Next.js/React/Vue)",
+          "desc": "Ми створюємо надшвидкі магазини PWA із часом завантаження менше 0.5с. Повне розділення фронтенду та бекенду (headless) забезпечує безкомпромісну безпеку, стійкість до великого трафіку та високі оцінки PageSpeed."
+        },
+        "wordpress": {
+          "title": "Магазини WooCommerce & PrestaShop з PWA оболонкою",
+          "desc": "Ми поєднуємо популярні e-commerce рушії (WooCommerce, PrestaShop) із сучасними фронтендами. Ви отримуєте зручну панель адміністрування та швидкий веб-сайт, оптимізований під SEO/GEO."
+        },
+        "seo": {
+          "title": "Оптимізація GMC, SEO & GEO для магазинів",
+          "desc": "Ми забезпечуємо максимальну видимість ваших товарів. Впроваджуємо автоматичну генерацію XML фідів для Google Merchant Center, розмітку Schema Product та оптимізуємо сайт під пошукові системи штучного інтелекту."
+        }
+      }
+    },
+    "ru": {
+      "industryName": "E-commerce",
+      "heroSubtitle": "Мы проектируем и создаем ультрабыстрые интернет-магазины PWA (Next.js, React, Vue) и интегрированные системы e-commerce на базе WooCommerce и PrestaShop.",
+      "title": "Создание Интернет-Магазинов и Современных Платформ E-commerce",
+      "description": "Профессиональные интернет-магазины по технологии Headless PWA. Интеграция с BaseLinker, Google Merchant Center, платежными шлюзами и системами ERP (Symfony/Python).",
+      "about": "Современный рынок электронной коммерции требует максимальной скорости загрузки и надежности. Медленный магазин означает потерю покупателей. Наши решения сочетают современные фронтенды (Next.js, React, Vue) с эффективными бекендами (WooCommerce, PrestaShop, custom Django/Python). Мы предлагаем полную разработку e-commerce, включая оптимизацию под поиск ИИ (GEO), интеграцию с BaseLinker, автогенерацию фидов для Google Merchant Center, безопасный прием платежей (Stripe, Revolut, PayU, Przelewy24, PayPal) и решения для подписок.",
+      "series": {
+        "pwa": {
+          "title": "Специализированный Headless E-commerce (Next.js/React/Vue)",
+          "desc": "Мы создаем сверхбыстрые магазины PWA со скоростью загрузки до 0.5с. Разделение фронтенда и бекенда (headless) гарантирует непревзойденную безопасность, отказоустойчивость при пиковых нагрузках и 100/100 PageSpeed."
+        },
+        "wordpress": {
+          "title": "Магазины WooCommerce & PrestaShop с PWA интерфейсом",
+          "desc": "Мы объединяем популярные движки (WooCommerce, PrestaShop) с современными фронтендами. Вы получаете привычную панель управления и реактивный веб-сайт, оптимизированный под SEO/GEO."
+        },
+        "seo": {
+          "title": "Оптимизация GMC, SEO & GEO для магазинов",
+          "desc": "Мы обеспечиваем максимальную видимость ваших товаров. Внедряем автогенерацию XML фидов для Google Merchant Center, разметку Schema Product и оптимизируем сайт под поисковые системы искусственного интеллекта."
+        }
+      }
+    },
+    "zh": {
+      "industryName": "电子商务",
+      "heroSubtitle": "我们设计并开发超快速的 PWA 在线商城（基于 Next.js、React、Vue 框架），以及深度整合 WooCommerce 和 PrestaShop 的高级零售系统。",
+      "title": "专业在线商城建设与企业级电子商务平台开发",
+      "description": "采用 Headless PWA 架构的专业电商系统。支持 BaseLinker、谷歌 Merchant Center (GMC)、主流支付网关及定制 ERP 系统（Symfony/Python 架构）的无缝集成。",
+      "about": "如今的数字零售市场对网页加载速度和系统稳定性有着严苛的要求。加载迟缓意味着客户流失。我们的解决方案将最尖端的前端（Next.js、React、Vue）与高并发的电商后台（WooCommerce、PrestaShop、定制 Python/Django）完美融合。我们提供全流程的电商开发，包括面向新型 AI 搜索的优化 (GEO)、BaseLinker 深度对接、Google Merchant Center 商品 feed 自动生成、全球主流支付（Stripe、Revolut、PayU、Przelewy24、PayPal）接入，以及创新的数字化订阅/会员收费系统开发。",
+      "series": {
+        "pwa": {
+          "title": "定制化 Headless 架构电商系统 (Next.js/React/Vue)",
+          "desc": "我们构建页面首屏加载时间小于 0.5 秒的极速 PWA 商城。前后端彻底分离（Headless）确保网站坚不可摧，完美承载大促爆量访问，PageSpeed 评分直达 100/100。"
+        },
+        "wordpress": {
+          "title": "加装 PWA 轻量前端的 WooCommerce & PrestaShop 系统",
+          "desc": "将市面上主流的电商引擎（WooCommerce、PrestaShop）与现代前端融合。让商户既能享受简便的后台操作，又能拥有首屏秒开、SEO/GEO 极佳的前端用户体验。"
+        },
+        "seo": {
+          "title": "针对电商商城的 GMC 优化、SEO 与 GEO AI 搜索排名",
+          "desc": "确保您的商品在全球搜索中占据优势。我们配置自动化 GMC 商品 XML 数据流输出、部署标准 Schema Product 微数据，并对店铺进行全面的 AI 语义搜索匹配调优。"
+        }
+      }
+    }
+  }
+}

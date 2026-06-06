@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Szkoła Językowa",
+    "about": "Szkoły językowe wymagają budowania silnego wizerunku, przejrzystej prezentacji lektorów oraz łatwego kontaktu. Profesjonalna witryna pomaga zaprezentować metody nauki, opinie kursantów oraz poziomy zaawansowania (A1-C2), a także umożliwia natychmiastowe zapisy online.",
+    "focus": "Szkoły językowe najwięcej zyskują na pozycjonowaniu lokalnym na frazy intencyjne (np. szkoła języka angielskiego Warszawa, kursy hiszpańskiego Mokotów) oraz na integracji e-zapisów z systemami zarządzania szkołą.",
+    "specifications": [
+      "Budowa ultra-lekkiej strony (Vite & React / Next.js) ładującej się w ułamku sekundy dla doskonałego UX i optymalizacji SEO.",
+      "Integracja z systemem powiadomień SMS (Twilio / SMSAPI) dla natychmiastowego potwierdzania zapisów na lekcje próbne.",
+      "Moduł zapisu na kursy online powiązany z kalendarzami lektorów i systemami płatności (Stripe, Przelewy24).",
+      "Wdrożenie multimedialnego bloga językowego opartego na headless CMS w celu budowania autorytetu w Google.",
+      "Zoptymalizowana galeria sal szkoleniowych oraz strefy ucznia z zachowaniem wysokiej wydajności (Next.js Image).",
+      "Struktury Schema JSON-LD (EducationalOrganization) w celu wyróżnienia oferty w wynikach wyszukiwania Google."
+    ]
+  },
+  "en": {
+    "name": "Language School",
+    "about": "Language schools require a strong brand presence, clear teacher profiles, and frictionless communication. A professional website showcases learning methodologies, student testimonials, and course levels (A1-C2), prompting quick registrations.",
+    "focus": "Language schools benefit most from local SEO targeting high-intent keywords (e.g. English school Warsaw, Spanish courses Mokotów) and integrating online booking with school management software.",
+    "specifications": [
+      "Ultra-lightweight website development (Next.js & Tailwind CSS) loading in a fraction of a second for superior UX and SEO performance.",
+      "Integration with SMS notifications (Twilio / SMSAPI) for instant trial lesson confirmations.",
+      "Course registration system linked directly to teacher schedules and payment gateways (Stripe, PayPal).",
+      "Headless CMS-based language blog integration to write and publish articles that build authority in Google.",
+      "Performance-optimized gallery of classrooms and student facilities using Next.js Image component.",
+      "EducationalOrganization Schema JSON-LD markup implementation to highlight courses and levels directly in search results."
+    ]
+  },
+  "de": {
+    "name": "Sprachschule",
+    "about": "Sprachschulen müssen eine starke Marke aufbauen, Profile der Lehrkräfte transparent darstellen und Hürden bei der Kontaktaufnahme abbauen. Eine professionelle Website präsentiert Lernmethoden, Kundenbewertungen und Sprachniveaus (A1-C2) und ermöglicht Direktbuchungen.",
+    "focus": "Sprachschulen profitieren stark von lokaler Suchmaschinenoptimierung (z. B. Englischschule Warschau, Spanischkurs Mokotów) und einer automatisierten Schnittstelle zu Verwaltungssystemen.",
+    "specifications": [
+      "Entwicklung einer ultra-leichten Website (Vite & React / Next.js), die in Millisekunden geladen wird, um Ladezeiten zu minimieren.",
+      "Einbindung von SMS-Benachrichtigungssystemen (Twilio / SMSAPI) zur schnellen Bestätigung von Probestunden.",
+      "Online-Kursanmelde-Modul mit automatischer Prüfung freier Lehrer-Zeitslots und Anbindung an Stripe.",
+      "Integration eines flexiblen Blogs über ein Headless CMS zur Stärkung der organischen Relevanz in Suchmaschinen.",
+      "Hochperformante Bildergalerien für Unterrichtsräume und Zertifikate dank optimierter Next.js Image-Komponenten.",
+      "Schema.org JSON-LD-Strukturierung (EducationalOrganization) zur Verbesserung der Snippet-Darstellung in Google."
+    ]
+  },
+  "uk": {
+    "name": "Мовна Школа",
+    "about": "Мовні школи потребують сильного бренду, зрозумілого представлення викладачів та простої форми запису. Професійний сайт демонструє методики навчання, відгуки студентів, рівні знань (A1-C2) та дозволяє миттєво записатися на курс.",
+    "focus": "Мовні школи отримують найбільшу вигоду від локального SEO (наприклад: курси англійської мови Варшава, іспанська мова Мокотув) та автоматизації онлайн-записів.",
+    "specifications": [
+      "Розробка надлегкого сайту (Vite & React / Next.js) з блискавичним завантаженням для ідеального UX та показників Core Web Vitals.",
+      "Інтеграція з SMS-сервісами (Twilio / SMSAPI) для автоматичного підтвердження записів на пробні уроки.",
+      "Модуль бронювання курсів, синхронізований з календарями викладачів та платіжними шлюзами (Stripe, PayPal).",
+      "Впровадження сучасного мовного блогу на базі Headless CMS для залучення безкоштовного органічного трафіку.",
+      "Оптимізовані галереї навчальних класів та сертифікатів з використанням Next.js Image.",
+      "Впровадження розмітки Schema JSON-LD (EducationalOrganization) для розширених сніпетів у результатах Google."
+    ]
+  },
+  "ru": {
+    "name": "Языковая Школа",
+    "about": "Языковым школам важен сильный бренд, открытая презентация преподавателей и удобная форма связи. Качественный сайт демонстрирует методики обучения, отзывы учащихся, уровни подготовки (A1-C2) и стимулирует быстрые заявки.",
+    "focus": "Языковые школы получают максимум клиентов за счет локального SEO (например: курсы английского Варшава, испанский язык Мокотув) и интеграции сайта с CRM школы.",
+    "specifications": [
+      "Разработка сверхбыстрого сайта (Vite & React / Next.js) с мгновенной загрузкой для идеального пользовательского опыта.",
+      "Настройка отправки SMS-уведомлений (Twilio / SMSAPI) для подтверждения записи на бесплатный пробный урок.",
+      "Интеграция интерактивной формы бронирования курсов с календарем преподавателей и оплатой через Stripe.",
+      "Создание тематического блога на базе Headless CMS для привлечения целевого трафика по информационным запросам.",
+      "Оптимизированная галерея аудиторий и учебных материалов с использованием адаптивных изображений Next.js Image.",
+      "Разметка Schema.org JSON-LD (EducationalOrganization) для красивого отображения курсов в выдаче Яндекса и Google."
+    ]
+  },
+  "zh": {
+    "name": "语言学校",
+    "about": "语言学校需要塑造高端品牌形象、清晰展示师资力量并提供无障碍的沟通通道。专业的官方网站能够完整呈现教学特色、学员成功案例及课程级别分级（A1-C2），引导用户立即在线预约试听。",
+    "focus": "语言学校的核心转化点在于本地 SEO（例如：华沙英语学校、莫科图夫西班牙语培训）以及将官网表单与教学教务管理系统无缝对接。",
+    "specifications": [
+      "基于 Next.js & Tailwind CSS 构建超轻量化页面，毫秒级快速载入，优化移动端 Core Web Vitals 指标。",
+      "集成主流短信发送服务（Twilio / SMSAPI），在用户提交体验课申请后自动发送确认及导航短信。",
+      "开发集成排课冲突检测的选课系统，并整合 Stripe、PayPal 等多币种在线支付网关。",
+      "部署基于 Headless CMS 的语言知识博客，通过优质内容营销提升学校在谷歌搜索中的自然排名与权威度。",
+      "使用 Next.js Image 智能裁切和懒加载技术，设计高性能、无延迟加载的教学环境与外教风采画廊。",
+      "全面注入 Schema.org (EducationalOrganization) 结构化 JSON-LD 数据，使课程亮点与等级在搜索结果中富媒体化展示。"
+    ]
+  }
+}

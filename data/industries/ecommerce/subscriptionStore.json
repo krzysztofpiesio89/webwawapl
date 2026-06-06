@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "E-commerce subskrypcyjny",
+    "about": "Model subskrypcyjny (pudełka abonamentowe, dostęp do platformy premium, SaaS) wymaga automatycznego obciążania kart klientów oraz elastycznego systemu zarządzania cyklami rozliczeniowymi.",
+    "focus": "Kluczem jest wdrożenie zaawansowanych płatności cyklicznych (Stripe Billing, Revolut Recurring), bezpiecznego panelu klienta (Self-Service Customer Portal) oraz integracji z fakturowaniem online (np. Fakturownia, wFirma) działającym w tle.",
+    "specifications": [
+      "Wdrożenie silnika płatności cyklicznych (Stripe Billing / Revolut API) z pełną obsługą 3D Secure 2 (SCA).",
+      "Bezpieczny panel klienta (Customer Billing Portal) umożliwiający samodzielną zmianę planu, aktualizację karty lub anulowanie subskrypcji.",
+      "Obsługa mechanizmów 'dunning' i webhooks: automatyczne ponawianie płatności, maile o wygasającej karcie oraz zawieszanie kont.",
+      "Pełna integracja z fakturowaniem (Fakturownia / wFirma) - automatyczne wystawianie i wysyłanie faktur VAT po każdym pobraniu środków.",
+      "Obsługa okresów próbnych (free trials), kodów rabatowych (coupons) oraz elastycznych planów (miesięczne, kwartalne, roczne).",
+      "Wydajne API (Node.js / Python FastAPI) obsługujące stan subskrypcji użytkowników w czasie rzeczywistym."
+    ]
+  },
+  "en": {
+    "name": "Subscription E-commerce",
+    "about": "The subscription model (subscription boxes, premium content access, SaaS) requires automated recurring card charging and a flexible billing cycle management system.",
+    "focus": "The core focus is on implementing recurring billing engines (Stripe Billing, Revolut Recurring), a secure Self-Service Customer Portal, and background integration with online invoicing platforms.",
+    "specifications": [
+      "Implementation of a recurring payment engine (Stripe Billing / Revolut API) compliant with 3D Secure 2 (SCA) rules.",
+      "Secure Customer Billing Portal for self-service subscription management, plan changes, payment card updates, and cancellations.",
+      "Webhook and dunning flow handling: automated payment retries, card expiration reminders, and grace period account suspensions.",
+      "Integrated automated invoicing (Stripe Invoicing / local tools) - automatic PDF invoice creation and email dispatch upon charge success.",
+      "Support for trial periods (free trials), promo codes (coupons), and multi-tier billing frequencies (monthly, quarterly, annually).",
+      "High-performance backend API (Node.js / Python FastAPI) to synchronize subscription states in real-time."
+    ]
+  },
+  "de": {
+    "name": "Abonnement E-Commerce",
+    "about": "Das Abonnementmodell (Abo-Boxen, Premium-Inhalte, SaaS) erfordert automatisierte Kreditkarten-Abbuchungen und ein flexibles Abrechnungs- und Laufzeitmanagement.",
+    "focus": "Der Schwerpunkt liegt auf: Implementierung von wiederkehrenden Zahlungen (Stripe Billing, Revolut Recurring), einem Self-Service-Kundenportal und automatischer Rechnungsstellung im Hintergrund.",
+    "specifications": [
+      "Integration von wiederkehrenden Zahlungen (Stripe Billing / Revolut API) mit voller 3D Secure 2 (SCA) Konformität.",
+      "Sicheres Kundenportal (Customer Billing Portal) zur eigenständigen Tarifänderung, Aktualisierung der Kreditkarte oder Kündigung.",
+      "Dunning-Prozess und Webhook-Handling: automatische Zahlungsversuche, E-Mail-Mahnungen bei abgelaufenen Karten und Kontosperrung.",
+      "Vollautomatische Rechnungsstellung - automatisierte Generierung und Versand von Steuerbelegen nach erfolgreichem Einzug.",
+      "Unterstützung von Testzeiträumen (Free Trials), Rabattcodes (Coupons) und flexiblen Abrechnungszyklen (monatlich, jährlich).",
+      "Hochleistungs-API (Node.js / Python FastAPI) zur Überwachung und Synchronisierung des Abonnementstatus in Echtzeit."
+    ]
+  },
+  "uk": {
+    "name": "Субскрипційний E-commerce",
+    "about": "Модель підписки (регулярна доставка товарів, доступ до контенту, SaaS) вимагає автоматичного списання коштів з карток клієнтів та гнучкої системи управління циклами розрахунків.",
+    "focus": "Ключовим є впровадження платформ регулярних платежів (Stripe Billing, Revolut Recurring), безпечного кабінету самообслуговування (Customer Billing Portal) та інтеграції з автоматичною онлайн-випискою рахунків.",
+    "specifications": [
+      "Впровадження рушія регулярних платежів (Stripe Billing / Revolut API) з повною підтримкою стандартів 3D Secure 2 (SCA).",
+      "Безпечний клієнтський кабінет (Customer Billing Portal) для самостійної зміни тарифів, оновлення карток та скасування підписок.",
+      "Налаштування процесів 'dunning' та webhooks: повторні спроби списання, листи про закінчення терміну дії картки, призупинення доступу.",
+      "Повна інтеграція з сервісами виписки рахунків - автоматичне генерування та відправка квитанцій після кожного платежу.",
+      "Підтримка тріалів (free trials), промокодів та гнучкої тарифної сітки (щомісячні, квартальні або річні підписки).",
+      "Високопродуктивне API (Node.js / Python FastAPI) для миттєвої перевірки статусу підписки користувача в реальному часі."
+    ]
+  },
+  "ru": {
+    "name": "Субскрипционный E-commerce",
+    "about": "Модель подписок (абонентские боксы, премиум-доступ, SaaS) требует автоматического списания средств с банковских карт и гибкого управления расчетными периодами.",
+    "focus": "В основе решения: подключение регулярных платежей (Stripe Billing, Revolut Recurring), разработка безопасного личного кабинета (Customer Billing Portal) и фоновое создание счетов.",
+    "specifications": [
+      "Внедрение движка рекуррентных платежей (Stripe Billing / Revolut API) с поддержкой стандартов безопасности 3D Secure 2 (SCA).",
+      "Безопасный личный кабинет клиента (Customer Billing Portal) для самостоятельного управления планами подписки, обновления карт и отмены.",
+      "Обработка webhooks и процессов dunning: повторные попытки списания, уведомления об истечении карт, приостановка услуг.",
+      "Полная интеграция с сервисами автовыписки счетов - автоматическое создание и отправка квитанций при каждом списании средств.",
+      "Поддержка пробных периодов (free trials), промокодов и гибких биллинг-циклов (ежемесячно, ежеквартально, ежегодно).",
+      "Высокопроизводительное API (Node.js / Python FastAPI) для проверки актуального статуса подписки в реальном времени."
+    ]
+  },
+  "zh": {
+    "name": "订阅制/会员制电商系统",
+    "about": "订阅制电商（如周期购礼盒、平台高级会员、SaaS软件服务）需要搭建自动扣款机制及灵活的多档位计费周期管理后台。",
+    "focus": "开发核心在于：集成高级周期性扣款引擎（Stripe Billing、Revolut Recurring）、提供高安全性的自助账单门户（Self-Service Billing Portal），以及实现后台全自动生成并发送发票。",
+    "specifications": [
+      "部署支持定期自动扣款的订阅引擎（Stripe Billing / Revolut API），全面通过 3D Secure 2 (SCA) 安全规范验证。",
+      "搭建高安全性用户自助账单门户（Customer Billing Portal），允许用户自行升级订阅、更换信用卡或暂停/退订服务。",
+      "智能催收（Dunning）及 Webhooks 回调处理：支持扣款失败自动重试、卡片到期提醒、扣款失败自动锁定账户等业务逻辑。",
+      "财务系统深度整合（Stripe Invoicing 或本地财务 API）：扣款成功后全自动生成含税发票并通过邮件发送 PDF。",
+      "提供对免费试用期（Free Trials）、专属折扣码（Coupons）及不同扣费频次（月付、季付、年付）的开箱即用支持。",
+      "构建高性能后台 API（基于 Node.js / Python FastAPI 架构），实时检验并回传用户的订阅状态与权限等级。"
+    ]
+  }
+}
