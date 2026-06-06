@@ -6,6 +6,21 @@ import { getGlobalSettings } from "@/lib/settings";
 import { locales, Locale, getDictionary, htmlLangMap, ogLocaleMap } from "./dictionaries";
 import Script from "next/script";
 import { CookieConsentProvider } from "@/components/CookieConsent";
+import { Public_Sans, Instrument_Sans } from "next/font/google";
+
+const publicSans = Public_Sans({
+  subsets: ["latin", "latin-ext"],
+  weight: ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
+  variable: "--font-public-sans",
+  display: "swap",
+});
+
+const instrumentSans = Instrument_Sans({
+  subsets: ["latin", "latin-ext"],
+  weight: ["400", "500", "600", "700"],
+  variable: "--font-instrument-sans",
+  display: "swap",
+});
 
 export function generateStaticParams() {
   return locales.map((lang) => ({ lang }));
@@ -112,7 +127,7 @@ export default async function RootLayout(props: Readonly<{
   };
 
   return (
-    <html lang={htmlLangMap[params.lang as Locale]} suppressHydrationWarning>
+    <html lang={htmlLangMap[params.lang as Locale]} className={`${publicSans.variable} ${instrumentSans.variable}`} suppressHydrationWarning>
       <head>
         <script
           type="application/ld+json"

@@ -4,7 +4,8 @@
 @variant dark (&:where(.dark, .dark *));
 
 @theme {
-  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  --font-sans: var(--font-public-sans), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  --font-display: var(--font-instrument-sans), sans-serif;
   
   /* --- KOLORY Z LOGOTYPU WEBWAWA --- */
   --color-brand-amber: #d97706;      /* Główny bursztyn z sygnetu */
@@ -60,6 +61,10 @@
     scroll-behavior: smooth;
     transition: background-color 0.3s ease, color 0.3s ease;
     overflow-x: hidden; /* Prevent horizontal scroll from rotating glows */
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-instrument-sans), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   }
 
   body::before {

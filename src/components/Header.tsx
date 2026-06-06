@@ -63,8 +63,8 @@ export default function Header({
           <Link href={homeUrl} className="flex items-center gap-2 sm:gap-3 group shrink-0" onClick={() => setIsMenuOpen(false)}>
             <Logo className="h-9 sm:h-12 w-auto transform group-hover:scale-105 transition-transform duration-300" />
             <div className="flex flex-col leading-none">
-              <span className="text-[17px] sm:text-[22px] font-black text-slate-900 dark:text-white tracking-tight uppercase">
-                WEB<span className="text-primary">WAWA</span><span className="text-amber-500">.PL</span>
+              <span className="text-[19px] sm:text-[23px] font-extrabold text-slate-900 dark:text-white tracking-tight font-display lowercase">
+                webwawa<span className="text-primary font-semibold">.pl</span>
               </span>
             </div>
           </Link>
