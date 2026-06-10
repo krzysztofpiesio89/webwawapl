@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import Script from 'next/script';
 import Link from 'next/link';
 import { getDictionary, Locale, locales, ogLocaleMap } from '../dictionaries';
 import { getLocalizedStaticPath } from '../i18n-routes';
@@ -409,11 +410,11 @@ export default async function IndustriesIndexPage(props: { params: Promise<{ lan
 
   return (
     <main className="min-h-screen bg-slate-50 dark:bg-slate-950 text-slate-800 dark:text-white transition-colors duration-300">
-      <script
-        type="application/ld+json"
-        id="ldjson-industries-index"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify([jsonLd, breadcrumbListJsonLd]) }}
-      />
+<Script
+          id="ldjson-industries-index"
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify([jsonLd, breadcrumbListJsonLd]) }}
+        />
 
       {/* Hero Section */}
       <section className="bg-slate-100 dark:bg-slate-900 py-20 relative overflow-hidden transition-colors duration-300">
@@ -444,13 +445,13 @@ export default async function IndustriesIndexPage(props: { params: Promise<{ lan
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {industries.map((ind) => {
               const industryTrans = ind.translations[lang] || ind.translations.pl;
-              const brandSlug = industrySlugsMap[ind.id][lang];
+              const industrySlug = industrySlugsMap[ind.id][lang];
               const parentPath = lang === 'pl' ? 'strona-dla' : 
                                  lang === 'en' ? 'website-for' : 
                                  lang === 'de' ? 'webseite-fuer' : 
                                  lang === 'uk' ? 'sayt-dlya' : 
                                  lang === 'ru' ? 'sayt-dlya' : 'website-for';
-              const targetUrl = `${lang === 'pl' ? '' : '/' + lang}/${parentPath}/${brandSlug}`;
+              const targetUrl = `${lang === 'pl' ? '' : '/' + lang}/${parentPath}/${industrySlug}`;
 
               // Get a list of popular specializations (keys and values) to show on the tile
               const modelEntries = Object.entries(industryTrans.models || {}).slice(0, 3);
@@ -514,8 +515,8 @@ export default async function IndustriesIndexPage(props: { params: Promise<{ lan
                         </span>
                         <div className="grid grid-cols-3 gap-1.5 sm:gap-2">
                           {modelEntries.map(([modelKey, modelVal]) => {
-                            const modelSlug = professionSlugsMap[modelKey as ProfessionId][lang];
-                            const specialtyUrl = `${lang === 'pl' ? '' : '/' + lang}/${parentPath}/${brandSlug}/${modelSlug}`;
+                            const professionSlug = professionSlugsMap[modelKey as ProfessionId][lang];
+                            const specialtyUrl = `${lang === 'pl' ? '' : '/' + lang}/${parentPath}/${industrySlug}/${professionSlug}`;
                             return (
                               <Link 
                                 key={modelKey} 

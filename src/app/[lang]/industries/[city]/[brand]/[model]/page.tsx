@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import Script from 'next/script';
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
@@ -74,8 +75,8 @@ const RELATED_INDUSTRIES: Record<IndustryId, IndustryId[]> = {
   education: ['psychologist'],
 };
 
-// Model-level UI translation strings for non-automotive
-const MODEL_UI = {
+// Profession-level UI translation strings for non-automotive
+const PROFESSION_UI = {
   pl: {
     specHeading: (ind: string) => `Inne specjalizacje: ${ind}`,
     locationsHeading: (prof: string) => `${prof} – Warszawa i okolice`,
@@ -410,8 +411,8 @@ interface PageProps {
   params: Promise<{
     lang: string;
     city: string;
-    brand: string;
-    model: string;
+    industry: string;
+    profession: string;
   }>;
   searchParams: Promise<{
     carBrand?: string;
@@ -432,15 +433,15 @@ export async function generateStaticParams() {
     'sulejowek', 'grodzisk-mazowiecki', 'nowy-dwor-mazowiecki', 'minsk-mazowiecki',
     'lomianki', 'ozarow-mazowiecki', 'nadarzyn', 'warszawa'
   ];
-  const brands = ['doctor', 'lawyer', 'psychologist', 'accountant', 'architect', 'construction', 'beauty', 'automotive', 'gastronomy', 'transport', 'ecommerce', 'education'] as const;
+  const industriesList = ['doctor', 'lawyer', 'psychologist', 'accountant', 'architect', 'construction', 'beauty', 'automotive', 'gastronomy', 'transport', 'ecommerce', 'education'] as const;
   
   const paramsList = [];
   for (const lang of langs) {
     for (const city of cities) {
-      for (const brand of brands) {
-        const models = industryModelsMap[brand];
-        for (const model of models) {
-          paramsList.push({ lang, city, brand, model });
+      for (const industry of industriesList) {
+        const professions = industryModelsMap[industry];
+        for (const profession of professions) {
+          paramsList.push({ lang, city, industry, profession });
         }
       }
     }
@@ -449,13 +450,13 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params, searchParams }: PageProps): Promise<Metadata> {
-  const { lang, city: citySlug, brand: brandId, model: modelId } = await params;
+  const { lang, city: citySlug, industry: industryId, profession: professionId } = await params;
   const searchParamsData = await searchParams;
   const carBrandSlug = typeof searchParamsData?.carBrand === 'string' ? searchParamsData.carBrand : null;
   const carModelSlug = typeof searchParamsData?.carModel === 'string' ? searchParamsData.carModel : null;
   const carSeriesSlug = typeof searchParamsData?.carSeries === 'string' ? searchParamsData.carSeries : null;
 
-  const industry = getIndustryById(brandId as IndustryId);
+  const industry = getIndustryById(industryId as IndustryId);
   if (!industry) return {};
 
   const city = citySlug === 'all' ? null : getCityBySlug(citySlug);
@@ -464,7 +465,7 @@ export async function generateMetadata({ params, searchParams }: PageProps): Pro
   
   if (!trans) return {};
 
-  const modelData = trans.models[modelId as ProfessionId];
+  const modelData = trans.models[professionId as ProfessionId];
   if (!modelData) return {};
 
   const isPl = lang === 'pl';
@@ -544,21 +545,21 @@ export async function generateMetadata({ params, searchParams }: PageProps): Pro
                      lang === 'uk' ? 'sayt-dlya' : 
                      lang === 'ru' ? 'sayt-dlya' : 'website-for';
   const canonicalUrl = citySlug === 'all'
-    ? `https://webwawa.pl${langPrefix}/${parentSlug}/${industrySlugsMap[brandId as IndustryId][lang as Locale]}/${professionSlugsMap[modelId as ProfessionId][lang as Locale]}`
-    : `https://webwawa.pl${langPrefix}/${citySlug}/${industrySlugsMap[brandId as IndustryId][lang as Locale]}/${professionSlugsMap[modelId as ProfessionId][lang as Locale]}`;
+    ? `https://webwawa.pl${langPrefix}/${parentSlug}/${industrySlugsMap[industryId as IndustryId][lang as Locale]}/${professionSlugsMap[professionId as ProfessionId][lang as Locale]}`
+    : `https://webwawa.pl${langPrefix}/${citySlug}/${industrySlugsMap[industryId as IndustryId][lang as Locale]}/${professionSlugsMap[professionId as ProfessionId][lang as Locale]}`;
 
-  let imageUrl = `https://webwawa.pl/images/industries/${brandId}/${modelId}.png`;
-  const modelSvgPath = path.join(process.cwd(), 'public', 'images', 'industries', brandId, `${modelId}.svg`);
+  let imageUrl = `https://webwawa.pl/images/industries/${industryId}/${professionId}.png`;
+  const modelSvgPath = path.join(process.cwd(), 'public', 'images', 'industries', industryId, `${professionId}.svg`);
   if (fs.existsSync(modelSvgPath)) {
-    imageUrl = `https://webwawa.pl/images/industries/${brandId}/${modelId}.svg`;
+    imageUrl = `https://webwawa.pl/images/industries/${industryId}/${professionId}.svg`;
   } else {
-    const modelPngPath = path.join(process.cwd(), 'public', 'images', 'industries', brandId, `${modelId}.png`);
+    const modelPngPath = path.join(process.cwd(), 'public', 'images', 'industries', industryId, `${professionId}.png`);
     if (!fs.existsSync(modelPngPath)) {
-      const mainSvgPath = path.join(process.cwd(), 'public', 'images', 'industries', brandId, 'main.svg');
+      const mainSvgPath = path.join(process.cwd(), 'public', 'images', 'industries', industryId, 'main.svg');
       if (fs.existsSync(mainSvgPath)) {
-        imageUrl = `https://webwawa.pl/images/industries/${brandId}/main.svg`;
+        imageUrl = `https://webwawa.pl/images/industries/${industryId}/main.svg`;
       } else {
-        imageUrl = `https://webwawa.pl/images/industries/${brandId}/main.png`;
+        imageUrl = `https://webwawa.pl/images/industries/${industryId}/main.png`;
       }
     }
   }
@@ -619,13 +620,13 @@ export async function generateMetadata({ params, searchParams }: PageProps): Pro
 }
 
 export default async function IndustryModelPage({ params, searchParams }: PageProps) {
-  const { lang, city: citySlug, brand: brandId, model: modelId } = await params;
+  const { lang, city: citySlug, industry: industryId, profession: professionId } = await params;
   const searchParamsData = await searchParams;
   const carBrandSlug = typeof searchParamsData?.carBrand === 'string' ? searchParamsData.carBrand : null;
   const carModelSlug = typeof searchParamsData?.carModel === 'string' ? searchParamsData.carModel : null;
   const carSeriesSlug = typeof searchParamsData?.carSeries === 'string' ? searchParamsData.carSeries : null;
 
-  const industry = getIndustryById(brandId as IndustryId);
+  const industry = getIndustryById(industryId as IndustryId);
   if (!industry) notFound();
 
   const city = citySlug === 'all' ? null : getCityBySlug(citySlug);
@@ -634,7 +635,7 @@ export default async function IndustryModelPage({ params, searchParams }: PagePr
   const trans = industry.translations[lang as Locale];
   if (!trans) notFound();
 
-  const modelData = trans.models[modelId as ProfessionId];
+  const modelData = trans.models[professionId as ProfessionId];
   if (!modelData) notFound();
 
   const settings = await getGlobalSettings();
@@ -776,10 +777,10 @@ export default async function IndustryModelPage({ params, searchParams }: PagePr
   const finalImageUrl = wikiData?.specs?.motofaktyImage || wikiData?.wiki?.imageUrl;
   const brandLogo = carBrandSlug ? getBrandLogo(carBrandSlug) : null;
 
-  let imageRelativePath = `/images/industries/${brandId}/${modelId}.svg`;
+  let imageRelativePath = `/images/industries/${industryId}/${professionId}.svg`;
   let imageFileSystemPath = path.join(process.cwd(), 'public', imageRelativePath);
   if (!fs.existsSync(imageFileSystemPath)) {
-    imageRelativePath = `/images/industries/${brandId}/${modelId}.png`;
+    imageRelativePath = `/images/industries/${industryId}/${professionId}.png`;
     imageFileSystemPath = path.join(process.cwd(), 'public', imageRelativePath);
   }
   
@@ -789,19 +790,19 @@ export default async function IndustryModelPage({ params, searchParams }: PagePr
   } else if (fs.existsSync(imageFileSystemPath)) {
     heroImageSrc = imageRelativePath;
   } else {
-    const mainSvgPath = `/images/industries/${brandId}/main.svg`;
+    const mainSvgPath = `/images/industries/${industryId}/main.svg`;
     if (fs.existsSync(path.join(process.cwd(), 'public', mainSvgPath))) {
       heroImageSrc = mainSvgPath;
     } else {
-      const mainPngPath = `/images/industries/${brandId}/main.png`;
+      const mainPngPath = `/images/industries/${industryId}/main.png`;
       if (fs.existsSync(path.join(process.cwd(), 'public', mainPngPath))) {
         heroImageSrc = mainPngPath;
       }
     }
   }
 
-  const brandSlug = industrySlugsMap[brandId as IndustryId][lang as Locale];
-  const modelSlug = professionSlugsMap[modelId as ProfessionId][lang as Locale];
+  const industrySlug = industrySlugsMap[industryId as IndustryId][lang as Locale];
+  const professionSlug = professionSlugsMap[professionId as ProfessionId][lang as Locale];
 
   const parentSlug = lang === 'pl' ? 'strona-dla' : 
                      lang === 'en' ? 'website-for' : 
@@ -820,8 +821,8 @@ export default async function IndustryModelPage({ params, searchParams }: PagePr
   const parentLabel = parentLabelMap[lang as Locale] || 'Website for';
 
   const brandUrl = city 
-    ? `${lang === 'pl' ? '' : '/' + lang}/${city.slug}/${brandSlug}`
-    : `${lang === 'pl' ? '' : '/' + lang}/${parentSlug}/${brandSlug}`;
+    ? `${lang === 'pl' ? '' : '/' + lang}/${city.slug}/${industrySlug}`
+    : `${lang === 'pl' ? '' : '/' + lang}/${parentSlug}/${industrySlug}`;
 
   const langPrefix = lang === 'pl' ? '' : `/${lang}`;
 
@@ -830,7 +831,7 @@ export default async function IndustryModelPage({ params, searchParams }: PagePr
     "@type": "Service",
     "name": `${modelData.name} - Usługi IT & Marketing`,
     "description": modelData.about,
-    "image": `https://webwawa.pl/images/industries/${brandId}/${modelId}.png`,
+    "image": `https://webwawa.pl/images/industries/${industryId}/${professionId}.png`,
     "provider": {
       "@type": "LocalBusiness",
       "name": "webwawa.pl",
@@ -867,13 +868,13 @@ export default async function IndustryModelPage({ params, searchParams }: PagePr
               "@type": "ListItem",
               "position": 3,
               "name": trans.industryName,
-              "item": `https://webwawa.pl${langPrefix}/${city.slug}/${brandSlug}`
+              "item": `https://webwawa.pl${langPrefix}/${city.slug}/${industrySlug}`
             },
             {
               "@type": "ListItem",
               "position": 4,
               "name": modelData.name,
-              "item": `https://webwawa.pl${langPrefix}/${city.slug}/${brandSlug}/${modelSlug}`
+              "item": `https://webwawa.pl${langPrefix}/${city.slug}/${industrySlug}/${professionSlug}`
             }
           ]
         : [
@@ -887,13 +888,13 @@ export default async function IndustryModelPage({ params, searchParams }: PagePr
               "@type": "ListItem",
               "position": 3,
               "name": trans.industryName,
-              "item": `https://webwawa.pl${langPrefix}/${parentSlug}/${brandSlug}`
+              "item": `https://webwawa.pl${langPrefix}/${parentSlug}/${industrySlug}`
             },
             {
               "@type": "ListItem",
               "position": 4,
               "name": modelData.name,
-              "item": `https://webwawa.pl${langPrefix}/${parentSlug}/${brandSlug}/${modelSlug}`
+              "item": `https://webwawa.pl${langPrefix}/${parentSlug}/${industrySlug}/${professionSlug}`
             }
           ]
       )
@@ -902,7 +903,7 @@ export default async function IndustryModelPage({ params, searchParams }: PagePr
 
   const ecomUi = ECOMMERCE_UI[lang as keyof typeof ECOMMERCE_UI] || ECOMMERCE_UI.pl;
 
-  const faqJsonLd = modelId === 'carParts' ? {
+  const faqJsonLd = professionId === 'carParts' ? {
     "@context": "https://schema.org",
     "@type": "FAQPage",
     "mainEntity": ecomUi.faqs.map(faq => ({
@@ -917,13 +918,13 @@ export default async function IndustryModelPage({ params, searchParams }: PagePr
 
   return (
     <main className="min-h-screen bg-slate-50 dark:bg-slate-950 text-slate-800 dark:text-white transition-colors duration-300">
-      <script
-        type="application/ld+json"
-        id={`ldjson-model-${brandId}-${modelId}`}
-        dangerouslySetInnerHTML={{ 
-          __html: JSON.stringify([jsonLd, breadcrumbListJsonLd, faqJsonLd].filter(Boolean)) 
-        }}
-      />
+<Script
+          id={`ldjson-model-${industryId}-${professionId}`}
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ 
+            __html: JSON.stringify([jsonLd, breadcrumbListJsonLd, faqJsonLd].filter(Boolean)) 
+          }}
+        />
 
       {/* Hero Section */}
       <section className="bg-slate-100 dark:bg-slate-900 py-20 text-slate-900 dark:text-white relative overflow-hidden transition-colors duration-300">
@@ -1043,7 +1044,7 @@ export default async function IndustryModelPage({ params, searchParams }: PagePr
                   const serviceSlug = serviceSlugsMap[seriesKey as keyof typeof serviceSlugsMap][lang as Locale];
                   let serviceUrl = '';
                   if (carBrandSlug) {
-                    serviceUrl = `${langPrefix}/${parentSlug}/${brandSlug}/${modelSlug}/${citySlug}/${carBrandSlug}`;
+                    serviceUrl = `${langPrefix}/${parentSlug}/${industrySlug}/${professionSlug}/${citySlug}/${carBrandSlug}`;
                     if (carModelSlug) {
                       serviceUrl += `/${carModelSlug}`;
                       if (carSeriesSlug) {
@@ -1053,8 +1054,8 @@ export default async function IndustryModelPage({ params, searchParams }: PagePr
                     serviceUrl += `/${serviceSlug}`;
                   } else {
                     serviceUrl = city 
-                      ? `${langPrefix}/${city.slug}/${brandSlug}/${modelSlug}/${serviceSlug}`
-                      : `${langPrefix}/${parentSlug}/${brandSlug}/${modelSlug}/${serviceSlug}`;
+                      ? `${langPrefix}/${city.slug}/${industrySlug}/${professionSlug}/${serviceSlug}`
+                      : `${langPrefix}/${parentSlug}/${industrySlug}/${professionSlug}/${serviceSlug}`;
                   }
 
                   return (
@@ -1076,7 +1077,7 @@ export default async function IndustryModelPage({ params, searchParams }: PagePr
         </div>
       </section>
 
-      {modelId === 'carParts' && (
+      {professionId === 'carParts' && (
         <>
           {/* 1. Parts Search Demo */}
           <section className="py-20 bg-slate-50 dark:bg-slate-900/10 border-t border-slate-200 dark:border-slate-900/40">
@@ -1175,7 +1176,7 @@ export default async function IndustryModelPage({ params, searchParams }: PagePr
       </section>
 
       {/* SEO Tag Cloud – Automotive */}
-      {brandId === 'automotive' && (
+      {industryId === 'automotive' && (
         <section className="py-14 bg-white dark:bg-slate-950 border-t border-slate-200 dark:border-slate-900/50">
           <div className="container mx-auto px-4 max-w-5xl space-y-10">
 
@@ -1197,16 +1198,16 @@ export default async function IndustryModelPage({ params, searchParams }: PagePr
                   <div className="flex items-center gap-3 mb-5">
                     <span className="text-2xl">🔗</span>
                     <h2 className="text-lg font-black uppercase tracking-tight text-slate-800 dark:text-white">
-                      {t.brandsHeading(professionSlugsMap[modelId as ProfessionId]?.[lang as Locale] || modelData.name)}
+                      {t.brandsHeading(professionSlugsMap[professionId as ProfessionId]?.[lang as Locale] || modelData.name)}
                     </h2>
                   </div>
                   <div className="flex flex-wrap gap-2">
                     {relatedBrands.map((rb) => (
                       <Link
                         key={rb.slug}
-                        href={`${langPrefix}/${parentSlug}/${brandSlug}/${modelSlug}/${rb.slug}`}
+                        href={`${langPrefix}/${parentSlug}/${industrySlug}/${professionSlug}/${rb.slug}`}
                         className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-xs font-bold text-slate-600 dark:text-slate-400 hover:border-primary/60 hover:text-primary hover:bg-primary/5 transition-all duration-150"
-                        title={`${rb.name} – ${trans.models[modelId as ProfessionId]?.name || modelId}`}
+                        title={`${rb.name} – ${trans.models[professionId as ProfessionId]?.name || professionId}`}
                       >
                         {rb.logo && (
                           <img src={rb.logo} alt={rb.name} className="h-3.5 w-auto object-contain dark:invert" loading="lazy" />
@@ -1229,12 +1230,12 @@ export default async function IndustryModelPage({ params, searchParams }: PagePr
               </div>
               <div className="flex flex-wrap gap-2">
                 {AUTOMOTIVE_PROFESSIONS
-                  .filter(p => p.id !== modelId)
+                  .filter(p => p.id !== professionId)
                   .map(prof => {
                     const profSlug = professionSlugsMap[prof.id as ProfessionId]?.[lang as Locale] || prof.slugPl;
                     const href = carBrandSlug
-                      ? `${langPrefix}/${parentSlug}/${brandSlug}/${profSlug}/${carBrandSlug}${carModelSlug ? '/' + carModelSlug : ''}`
-                      : `${langPrefix}/${parentSlug}/${brandSlug}/${profSlug}`;
+                      ? `${langPrefix}/${parentSlug}/${industrySlug}/${profSlug}/${carBrandSlug}${carModelSlug ? '/' + carModelSlug : ''}`
+                      : `${langPrefix}/${parentSlug}/${industrySlug}/${profSlug}`;
                     const profName = trans.models[prof.id as ProfessionId]?.name || profSlug;
                     return (
                       <Link
@@ -1276,7 +1277,7 @@ export default async function IndustryModelPage({ params, searchParams }: PagePr
                     {keyCities.map(kc => (
                       <Link
                         key={kc.slug}
-                        href={`${langPrefix}/${kc.slug}/${brandSlug}/${modelSlug}`}
+                        href={`${langPrefix}/${kc.slug}/${industrySlug}/${professionSlug}`}
                         className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-xs font-semibold text-slate-600 dark:text-slate-400 hover:border-primary/60 hover:text-primary hover:bg-primary/5 transition-all duration-150"
                       >
                         <svg className="w-3 h-3 text-primary" fill="currentColor" viewBox="0 0 20 20"><path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" /></svg>
@@ -1297,12 +1298,12 @@ export default async function IndustryModelPage({ params, searchParams }: PagePr
         </section>
       )}
       {/* SEO Internal Link Cloud – Non-Automotive Industries */}
-      {brandId !== 'automotive' && (() => {
-        const mt = MODEL_UI[lang as keyof typeof MODEL_UI] || MODEL_UI.en;
-        const relatedIds = RELATED_INDUSTRIES[brandId as IndustryId] || [];
+      {industryId !== 'automotive' && (() => {
+        const mt = PROFESSION_UI[lang as keyof typeof PROFESSION_UI] || PROFESSION_UI.en;
+        const relatedIds = RELATED_INDUSTRIES[industryId as IndustryId] || [];
         // Other specializations within same industry
         const siblingModels = Object.entries(trans.models)
-          .filter(([k]) => k !== modelId)
+          .filter(([k]) => k !== professionId)
           .map(([k, v]) => ({
             id: k as ProfessionId,
             name: v.name,
@@ -1325,8 +1326,8 @@ export default async function IndustryModelPage({ params, searchParams }: PagePr
                   <div className="flex flex-wrap gap-2">
                     {siblingModels.map(sm => {
                       const href = city
-                        ? `${langPrefix}/${city.slug}/${brandSlug}/${sm.slug}`
-                        : `${langPrefix}/${parentSlug}/${brandSlug}/${sm.slug}`;
+                        ? `${langPrefix}/${city.slug}/${industrySlug}/${sm.slug}`
+                        : `${langPrefix}/${parentSlug}/${industrySlug}/${sm.slug}`;
                       return (
                         <Link
                           key={sm.id}
@@ -1353,7 +1354,7 @@ export default async function IndustryModelPage({ params, searchParams }: PagePr
                   {KEY_LOCATIONS.map(loc => (
                     <Link
                       key={loc.slug}
-                      href={`${langPrefix}/${loc.slug}/${brandSlug}/${modelSlug}`}
+                      href={`${langPrefix}/${loc.slug}/${industrySlug}/${professionSlug}`}
                       className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-xs font-semibold text-slate-600 dark:text-slate-400 hover:border-primary/60 hover:text-primary hover:bg-primary/5 transition-all duration-150"
                     >
                       <svg className="w-3 h-3 text-primary" fill="currentColor" viewBox="0 0 20 20">

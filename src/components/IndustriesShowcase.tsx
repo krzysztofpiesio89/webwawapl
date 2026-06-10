@@ -181,14 +181,14 @@ export default function IndustriesShowcase({ lang, dict }: IndustriesShowcasePro
                     <div className="space-y-2 mb-6">
                       <div className="flex flex-wrap gap-2">
                         {modelEntries.map(([modelKey, modelVal]) => {
-                          const modelSlug = professionSlugsMap[modelKey as ProfessionId][lang];
-                          const brandSlug = industrySlugsMap[ind.id][lang];
+                          const professionSlug = professionSlugsMap[modelKey as ProfessionId][lang];
+                          const industrySlug = industrySlugsMap[ind.id][lang];
                           const parentPath = lang === 'pl' ? 'strona-dla' : 
                                              lang === 'en' ? 'website-for' : 
                                              lang === 'de' ? 'webseite-fuer' : 
                                              lang === 'uk' ? 'sayt-dlya' : 
                                              lang === 'ru' ? 'sayt-dlya' : 'website-for';
-                          const specialtyUrl = `${lang === 'pl' ? '' : '/' + lang}/${parentPath}/${brandSlug}/${modelSlug}`;
+                          const specialtyUrl = `${lang === 'pl' ? '' : '/' + lang}/${parentPath}/${industrySlug}/${professionSlug}`;
 
                           return (
                             <Link

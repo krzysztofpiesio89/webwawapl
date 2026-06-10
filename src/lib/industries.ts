@@ -113,15 +113,15 @@ export function getAllIndustries(): IndustryData[] {
 export function getLocalizedIndustryPath(
   lang: Locale, 
   citySlug: string, 
-  brandId: IndustryId, 
-  modelId?: ProfessionId, 
+  industryId: IndustryId, 
+  professionId?: ProfessionId, 
   serviceId?: ServiceId
 ): string {
   const prefix = lang === 'pl' ? '' : `/${lang}`;
   
   // Resolve slugs based on locale
-  const brandSlug = industrySlugsMap[brandId][lang];
-  const modelSlug = modelId ? professionSlugsMap[modelId][lang] : '';
+  const industrySlug = industrySlugsMap[industryId][lang];
+  const professionSlug = professionId ? professionSlugsMap[professionId][lang] : '';
   const serviceSlug = serviceId ? serviceSlugsMap[serviceId][lang] : '';
   
   // Parent route for general pages
@@ -133,14 +133,14 @@ export function getLocalizedIndustryPath(
   
   if (citySlug === 'all') {
     // General path e.g. /branze/lekarz/ginekolog/strona-pwa
-    let path = `${prefix}/${parentSlug}/${brandSlug}`;
-    if (modelSlug) path += `/${modelSlug}`;
+    let path = `${prefix}/${parentSlug}/${industrySlug}`;
+    if (professionSlug) path += `/${professionSlug}`;
     if (serviceSlug) path += `/${serviceSlug}`;
     return path;
   } else {
     // City-specific path e.g. /bemowo/lekarz/ginekolog/strona-pwa
-    let path = `${prefix}/${citySlug}/${brandSlug}`;
-    if (modelSlug) path += `/${modelSlug}`;
+    let path = `${prefix}/${citySlug}/${industrySlug}`;
+    if (professionSlug) path += `/${professionSlug}`;
     if (serviceSlug) path += `/${serviceSlug}`;
     return path;
   }

@@ -129,9 +129,9 @@ export default async function RootLayout(props: Readonly<{
   return (
     <html lang={htmlLangMap[params.lang as Locale]} className={`${publicSans.variable} ${instrumentSans.variable}`} suppressHydrationWarning>
       <head>
-        <script
-          type="application/ld+json"
+        <Script
           id="ldjson-root"
+          type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
         <Script

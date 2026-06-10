@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import Script from 'next/script';
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
@@ -55,8 +56,8 @@ const RELATED_INDUSTRIES: Record<IndustryId, IndustryId[]> = {
   education: ['psychologist'],
 };
 
-// Brand-level UI translation strings
-const BRAND_UI = {
+// Industry-level UI translation strings
+const INDUSTRY_UI = {
   pl: {
     locationsHeading: (ind: string) => `${ind} – usługi w Warszawie i okolicach`,
     relatedHeading: 'Podobne branże i usługi IT',
@@ -116,7 +117,7 @@ interface PageProps {
 }
 
 export async function generateStaticParams() {
-  // We can pre-generate pages for the doctor brand, in all supported languages and cities (including 'all')
+  // We can pre-generate pages for the doctor industry, in all supported languages and cities (including 'all')
   const langs = ['pl', 'en', 'de', 'uk', 'ru', 'zh'];
   const cities = [
     'all',
@@ -128,13 +129,13 @@ export async function generateStaticParams() {
     'sulejowek', 'grodzisk-mazowiecki', 'nowy-dwor-mazowiecki', 'minsk-mazowiecki',
     'lomianki', 'ozarow-mazowiecki', 'nadarzyn', 'warszawa'
   ];
-  const brands = ['doctor', 'lawyer', 'psychologist', 'accountant', 'architect', 'construction', 'beauty', 'automotive', 'gastronomy', 'transport', 'ecommerce', 'education'];
+  const industryIds = ['doctor', 'lawyer', 'psychologist', 'accountant', 'architect', 'construction', 'beauty', 'automotive', 'gastronomy', 'transport', 'ecommerce', 'education'];
   
   const paramsList = [];
   for (const lang of langs) {
     for (const city of cities) {
-      for (const brand of brands) {
-        paramsList.push({ lang, city, brand });
+      for (const industryId of industryIds) {
+        paramsList.push({ lang, city, brand: industryId });
       }
     }
   }
@@ -142,8 +143,8 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
-  const { lang, city: citySlug, brand: brandId } = await params;
-  const industry = getIndustryById(brandId as IndustryId);
+  const { lang, city: citySlug, brand: industryId } = await params;
+  const industry = getIndustryById(industryId as IndustryId);
   if (!industry) return {};
 
   const city = citySlug === 'all' ? null : getCityBySlug(citySlug);
@@ -154,7 +155,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
   const localizedBrandName = trans.industryName;
 
-  const terms = industryTerminology[brandId as IndustryId]?.[lang] || industryTerminology[brandId as IndustryId]?.en || {
+  const terms = industryTerminology[industryId as IndustryId]?.[lang] || industryTerminology[industryId as IndustryId]?.en || {
     target: lang === 'pl' ? 'klientów' : 'clients',
     targetAccusative: lang === 'pl' ? 'Klientów' : 'Clients'
   };
@@ -187,13 +188,13 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
                      lang === 'uk' ? 'sayt-dlya' : 
                      lang === 'ru' ? 'sayt-dlya' : 'website-for';
   const canonicalUrl = citySlug === 'all'
-    ? `https://webwawa.pl${langPrefix}/${parentSlug}/${industrySlugsMap[brandId as IndustryId][lang as Locale]}`
-    : `https://webwawa.pl${langPrefix}/${citySlug}/${industrySlugsMap[brandId as IndustryId][lang as Locale]}`;
+    ? `https://webwawa.pl${langPrefix}/${parentSlug}/${industrySlugsMap[industryId as IndustryId][lang as Locale]}`
+    : `https://webwawa.pl${langPrefix}/${citySlug}/${industrySlugsMap[industryId as IndustryId][lang as Locale]}`;
 
-  let imageUrl = `https://webwawa.pl/images/industries/${brandId}/main.png`;
-  const svgPath = path.join(process.cwd(), 'public', 'images', 'industries', brandId, 'main.svg');
+  let imageUrl = `https://webwawa.pl/images/industries/${industryId}/main.png`;
+  const svgPath = path.join(process.cwd(), 'public', 'images', 'industries', industryId, 'main.svg');
   if (fs.existsSync(svgPath)) {
-    imageUrl = `https://webwawa.pl/images/industries/${brandId}/main.svg`;
+    imageUrl = `https://webwawa.pl/images/industries/${industryId}/main.svg`;
   }
 
   return {
@@ -228,8 +229,8 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 }
 
 export default async function IndustryBrandPage({ params }: PageProps) {
-  const { lang, city: citySlug, brand: brandId } = await params;
-  const industry = getIndustryById(brandId as IndustryId);
+  const { lang, city: citySlug, brand: industryId } = await params;
+  const industry = getIndustryById(industryId as IndustryId);
   if (!industry) notFound();
 
   const city = citySlug === 'all' ? null : getCityBySlug(citySlug);
@@ -241,14 +242,14 @@ export default async function IndustryBrandPage({ params }: PageProps) {
   const settings = getGlobalSettings();
   const dict = await getDictionary(lang as Locale);
   const isPl = lang === 'pl';
-  const bt = BRAND_UI[lang as keyof typeof BRAND_UI] || BRAND_UI.en;
+  const bt = INDUSTRY_UI[lang as keyof typeof INDUSTRY_UI] || INDUSTRY_UI.en;
   const homeUrl = lang === 'pl' ? '/' : `/${lang}`;
   const cityName = city ? city.name : (isPl ? 'Warszawa / cała Polska' : 'Warsaw');
 
-  let imageRelativePath = `/images/industries/${brandId}/main.svg`;
+  let imageRelativePath = `/images/industries/${industryId}/main.svg`;
   let imageFileSystemPath = path.join(process.cwd(), 'public', imageRelativePath);
   if (!fs.existsSync(imageFileSystemPath)) {
-    imageRelativePath = `/images/industries/${brandId}/main.png`;
+    imageRelativePath = `/images/industries/${industryId}/main.png`;
     imageFileSystemPath = path.join(process.cwd(), 'public', imageRelativePath);
   }
   const hasImage = fs.existsSync(imageFileSystemPath);
@@ -269,7 +270,7 @@ export default async function IndustryBrandPage({ params }: PageProps) {
                      lang === 'de' ? 'webseite-fuer' : 
                      lang === 'uk' ? 'sayt-dlya' : 
                      lang === 'ru' ? 'sayt-dlya' : 'website-for';
-  const brandSlug = industrySlugsMap[brandId as IndustryId][lang as Locale];
+  const industrySlug = industrySlugsMap[industryId as IndustryId][lang as Locale];
 
   const langPrefix = lang === 'pl' ? '' : `/${lang}`;
   
@@ -315,7 +316,7 @@ export default async function IndustryBrandPage({ params }: PageProps) {
               "@type": "ListItem",
               "position": 3,
               "name": trans.industryName,
-              "item": `https://webwawa.pl${langPrefix}/${city.slug}/${brandSlug}`
+              "item": `https://webwawa.pl${langPrefix}/${city.slug}/${industrySlug}`
             }
           ]
         : [
@@ -329,7 +330,7 @@ export default async function IndustryBrandPage({ params }: PageProps) {
               "@type": "ListItem",
               "position": 3,
               "name": trans.industryName,
-              "item": `https://webwawa.pl${langPrefix}/${parentSlug}/${brandSlug}`
+              "item": `https://webwawa.pl${langPrefix}/${parentSlug}/${industrySlug}`
             }
           ]
       )
@@ -338,11 +339,11 @@ export default async function IndustryBrandPage({ params }: PageProps) {
 
   return (
     <main className="min-h-screen bg-slate-50 dark:bg-slate-950 text-slate-800 dark:text-white transition-colors duration-300">
-      <script
-        type="application/ld+json"
-        id={`ldjson-brand-${brandId}`}
-        dangerouslySetInnerHTML={{ __html: JSON.stringify([jsonLd, breadcrumbListJsonLd]) }}
-      />
+<Script
+          id={`ldjson-industry-${industryId}`}
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify([jsonLd, breadcrumbListJsonLd]) }}
+        />
 
       {/* Hero Section with Aurora */}
       <section className="bg-slate-100 dark:bg-slate-900 py-20 text-slate-900 dark:text-white relative overflow-hidden transition-colors duration-300">
@@ -354,19 +355,19 @@ export default async function IndustryBrandPage({ params }: PageProps) {
               <nav className="flex mb-8 text-sm font-semibold text-slate-500 dark:text-slate-400">
                 <Link href={homeUrl} className="hover:text-primary transition-colors">Home</Link>
                 <span className="mx-2">/</span>
-                {city ? (
-                  <>
-                    <Link href={`${lang === 'pl' ? '' : '/' + lang}/${city.slug}`} className="hover:text-primary transition-colors">{city.name}</Link>
-                    <span className="mx-2">/</span>
-                    <span className="text-primary font-semibold">{trans.industryName}</span>
-                  </>
-                ) : (
-                  <>
-                    <span className="text-slate-400">{parentLabel}</span>
-                    <span className="mx-2">/</span>
-                    <span className="text-primary font-semibold">{trans.industryName}</span>
-                  </>
-                )}
+{city ? (
+                   <>
+                     <Link href={`${lang === 'pl' ? '' : '/' + lang}/${city.slug}`} className="hover:text-primary transition-colors">{city.name}</Link>
+                     <span className="mx-2">/</span>
+                     <span className="text-primary font-semibold">{trans.industryName}</span>
+                   </>
+                 ) : (
+                   <>
+                     <Link href={`${langPrefix}/${parentSlug}`} className="hover:text-primary transition-colors text-slate-400">{parentLabel}</Link>
+                     <span className="mx-2">/</span>
+                     <span className="text-primary font-semibold">{trans.industryName}</span>
+                   </>
+                 )}
               </nav>
 
               <h1 className="text-4xl md:text-6xl font-black uppercase italic tracking-tight mb-6">
@@ -411,8 +412,8 @@ export default async function IndustryBrandPage({ params }: PageProps) {
                   {Object.entries(trans.models).map(([modelKey, modelVal]) => {
                     const modelSlug = professionSlugsMap[modelKey as ProfessionId][lang as Locale];
                     const url = city 
-                      ? `${langPrefix}/${city.slug}/${brandSlug}/${modelSlug}`
-                      : `${langPrefix}/${parentSlug}/${brandSlug}/${modelSlug}`;
+                      ? `${langPrefix}/${city.slug}/${industrySlug}/${modelSlug}`
+                      : `${langPrefix}/${parentSlug}/${industrySlug}/${modelSlug}`;
                     return (
                       <Link 
                         key={modelKey}
@@ -462,9 +463,9 @@ export default async function IndustryBrandPage({ params }: PageProps) {
       </section>
 
       {/* SEO Internal Link Cloud */}
-      {brandId !== 'automotive' && (() => {
-        const bt = BRAND_UI[lang as keyof typeof BRAND_UI] || BRAND_UI.en;
-        const relatedIds = RELATED_INDUSTRIES[brandId as IndustryId] || [];
+      {industryId !== 'automotive' && (() => {
+        const bt = INDUSTRY_UI[lang as keyof typeof INDUSTRY_UI] || INDUSTRY_UI.en;
+        const relatedIds = RELATED_INDUSTRIES[industryId as IndustryId] || [];
 
         return (
           <section className="py-14 bg-white dark:bg-slate-950 border-t border-slate-200 dark:border-slate-900/50">
@@ -482,7 +483,7 @@ export default async function IndustryBrandPage({ params }: PageProps) {
                   {KEY_LOCATIONS.map(loc => (
                     <Link
                       key={loc.slug}
-                      href={`${langPrefix}/${parentSlug}/${brandSlug}/${loc.slug}`}
+                      href={`${langPrefix}/${parentSlug}/${industrySlug}/${loc.slug}`}
                       className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-xs font-semibold text-slate-600 dark:text-slate-400 hover:border-primary/60 hover:text-primary hover:bg-primary/5 transition-all duration-150"
                     >
                       <svg className="w-3 h-3 text-primary" fill="currentColor" viewBox="0 0 20 20">

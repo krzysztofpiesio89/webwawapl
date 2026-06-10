@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import Script from 'next/script';
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
@@ -24,9 +25,9 @@ interface PageProps {
   params: Promise<{
     lang: string;
     city: string;
-    brand: string;
-    model: string;
-    series: string;
+    industry: string;
+    profession: string;
+    service: string;
   }>;
   searchParams: Promise<{
     carBrand?: string;
@@ -47,17 +48,17 @@ export async function generateStaticParams() {
     'sulejowek', 'grodzisk-mazowiecki', 'nowy-dwor-mazowiecki', 'minsk-mazowiecki',
     'lomianki', 'ozarow-mazowiecki', 'nadarzyn', 'warszawa'
   ];
-  const brands = ['doctor', 'lawyer', 'psychologist', 'accountant', 'architect', 'construction', 'beauty', 'automotive', 'gastronomy', 'transport', 'ecommerce', 'education'] as const;
-  const seriesList = Object.keys(serviceSlugsMap);
+  const industriesList = ['doctor', 'lawyer', 'psychologist', 'accountant', 'architect', 'construction', 'beauty', 'automotive', 'gastronomy', 'transport', 'ecommerce', 'education'] as const;
+  const serviceList = Object.keys(serviceSlugsMap);
   
   const paramsList = [];
   for (const lang of langs) {
     for (const city of cities) {
-      for (const brand of brands) {
-        const models = industryModelsMap[brand];
-        for (const model of models) {
-          for (const series of seriesList) {
-            paramsList.push({ lang, city, brand, model, series });
+      for (const industry of industriesList) {
+        const professions = industryModelsMap[industry];
+        for (const profession of professions) {
+          for (const service of serviceList) {
+            paramsList.push({ lang, city, industry, profession, service });
           }
         }
       }
@@ -67,13 +68,13 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params, searchParams }: PageProps): Promise<Metadata> {
-  const { lang, city: citySlug, brand: brandId, model: modelId, series: seriesId } = await params;
+  const { lang, city: citySlug, industry: industryId, profession: professionId, service: serviceId } = await params;
   const searchParamsData = await searchParams;
   const carBrandSlug = typeof searchParamsData?.carBrand === 'string' ? searchParamsData.carBrand : null;
   const carModelSlug = typeof searchParamsData?.carModel === 'string' ? searchParamsData.carModel : null;
   const carSeriesSlug = typeof searchParamsData?.carSeries === 'string' ? searchParamsData.carSeries : null;
 
-  const industry = getIndustryById(brandId as IndustryId);
+  const industry = getIndustryById(industryId as IndustryId);
   if (!industry) return {};
 
   const city = citySlug === 'all' ? null : getCityBySlug(citySlug);
@@ -82,8 +83,8 @@ export async function generateMetadata({ params, searchParams }: PageProps): Pro
   
   if (!trans) return {};
 
-  const modelData = trans.models[modelId as ProfessionId];
-  const seriesData = trans.series[seriesId as ServiceId];
+  const modelData = trans.models[professionId as ProfessionId];
+  const seriesData = trans.series[serviceId as ServiceId];
   if (!modelData || !seriesData) return {};
 
   const isPl = lang === 'pl';
@@ -152,7 +153,7 @@ export async function generateMetadata({ params, searchParams }: PageProps): Pro
     zh: carDetails
       ? `专为 ${cityName} 的 ${localizedProfession} 打造的 ${localizedService} 方案，并针对 ${carDetails} 车辆进行优化。`
       : `定制解决方案：专为 ${cityName} 的 ${localizedProfession} 开发的 ${localizedService}。提升您在谷歌搜索中的排名并优化转化率。`
-  };
+};
 
   const title = metaTitles[lang as Locale] || metaTitles.en;
   const description = metaDescriptions[lang as Locale] || metaDescriptions.en;
@@ -163,90 +164,68 @@ export async function generateMetadata({ params, searchParams }: PageProps): Pro
                      lang === 'de' ? 'webseite-fuer' : 
                      lang === 'uk' ? 'sayt-dlya' : 
                      lang === 'ru' ? 'sayt-dlya' : 'website-for';
-  const canonicalUrl = citySlug === 'all'
-    ? `https://webwawa.pl${langPrefix}/${parentSlug}/${industrySlugsMap[brandId as IndustryId][lang as Locale]}/${professionSlugsMap[modelId as ProfessionId][lang as Locale]}/${serviceSlugsMap[seriesId as ServiceId][lang as Locale]}`
-    : `https://webwawa.pl${langPrefix}/${citySlug}/${industrySlugsMap[brandId as IndustryId][lang as Locale]}/${professionSlugsMap[modelId as ProfessionId][lang as Locale]}/${serviceSlugsMap[seriesId as ServiceId][lang as Locale]}`;
-
-  let imageUrl = `https://webwawa.pl/images/industries/${brandId}/${modelId}.png`;
-  const modelSvgPath = path.join(process.cwd(), 'public', 'images', 'industries', brandId, `${modelId}.svg`);
-  if (fs.existsSync(modelSvgPath)) {
-    imageUrl = `https://webwawa.pl/images/industries/${brandId}/${modelId}.svg`;
-  } else {
-    const modelPngPath = path.join(process.cwd(), 'public', 'images', 'industries', brandId, `${modelId}.png`);
-    if (!fs.existsSync(modelPngPath)) {
-      const mainSvgPath = path.join(process.cwd(), 'public', 'images', 'industries', brandId, 'main.svg');
-      if (fs.existsSync(mainSvgPath)) {
-        imageUrl = `https://webwawa.pl/images/industries/${brandId}/main.svg`;
-      } else {
-        imageUrl = `https://webwawa.pl/images/industries/${brandId}/main.png`;
-      }
-    }
-  }
-
-  const brandLogo = carBrandSlug ? getBrandLogo(carBrandSlug) : null;
-  const wikiData = carBrandSlug && carModelSlug ? getWikiData(carBrandSlug, carModelSlug) : null;
-  const finalImageUrl = wikiData?.specs?.motofaktyImage || wikiData?.wiki?.imageUrl;
-
-  const brandLogoUrl = brandLogo ? (brandLogo.startsWith('http') ? brandLogo : `https://webwawa.pl${brandLogo}`) : null;
-  const ogImages = [];
-  if (finalImageUrl) {
-    ogImages.push({
-      url: finalImageUrl,
-      width: 1200,
-      height: 630,
-      alt: title,
-    });
-  }
-  if (brandLogoUrl) {
-    ogImages.push({
-      url: brandLogoUrl,
-      width: 400,
-      height: 400,
-      alt: `${carBrandSlug} Logo`,
-    });
-  }
-  if (ogImages.length === 0) {
-    ogImages.push({
-      url: imageUrl,
-      width: 1200,
-      height: 630,
-      alt: title,
-    });
-  }
+  const industrySlug = industrySlugsMap[industryId as IndustryId][lang as Locale];
+  const professionSlug = professionSlugsMap[professionId as ProfessionId][lang as Locale];
+  const serviceSlug = serviceSlugsMap[serviceId as ServiceId][lang as Locale];
 
   return {
     title,
     description,
     alternates: {
-      canonical: canonicalUrl,
+      canonical: citySlug === 'all' 
+        ? `https://webwawa.pl${langPrefix}/${parentSlug}/${industrySlug}/${professionSlug}/${serviceSlug}`
+        : `https://webwawa.pl${langPrefix}/${citySlug}/${industrySlug}/${professionSlug}/${serviceSlug}`,
     },
     openGraph: {
       title,
       description,
-      url: canonicalUrl,
+      url: citySlug === 'all' 
+        ? `https://webwawa.pl${langPrefix}/${parentSlug}/${industrySlug}/${professionSlug}/${serviceSlug}`
+        : `https://webwawa.pl${langPrefix}/${citySlug}/${industrySlug}/${professionSlug}/${serviceSlug}`,
       siteName: 'webwawa.pl',
       locale: ogLocaleMap[lang as Locale],
       type: 'website',
-      images: ogImages,
+      images: [{
+        url: `https://webwawa.pl/images/industries/${industryId}/${professionId}.png`,
+        width: 1200,
+        height: 630,
+        alt: title,
+      }],
     },
-    twitter: {
-      card: 'summary_large_image',
-      title,
-      description,
-      images: ogImages.map(img => img.url),
-    }
   };
 }
 
-export default async function IndustrySeriesPage({ params, searchParams }: PageProps) {
-  const { lang, city: citySlug, brand: brandId, model: modelId, series: seriesId } = await params;
+export default async function IndustryServicePage({ params, searchParams }: PageProps) {
+  const { lang, city: citySlug, industry: industryId, profession: professionId, service: serviceId } = await params;
   const searchParamsData = await searchParams;
   const carBrandSlug = typeof searchParamsData?.carBrand === 'string' ? searchParamsData.carBrand : null;
   const carModelSlug = typeof searchParamsData?.carModel === 'string' ? searchParamsData.carModel : null;
   const carSeriesSlug = typeof searchParamsData?.carSeries === 'string' ? searchParamsData.carSeries : null;
 
-  // Resolve car details for contextual B2B customizations
+  const industry = getIndustryById(industryId as IndustryId);
+  if (!industry) notFound();
+
+  const city = citySlug === 'all' ? null : getCityBySlug(citySlug);
+  if (citySlug !== 'all' && !city) notFound();
+
+  const trans = industry.translations[lang as Locale];
+  if (!trans) notFound();
+
+  const modelData = trans.models[professionId as ProfessionId];
+  const seriesData = trans.series[serviceId as ServiceId];
+  if (!modelData || !seriesData) notFound();
+
+  const settings = await getGlobalSettings();
+  const dict = await getDictionary(lang as Locale);
+  const isPl = lang === 'pl';
+  const homeUrl = lang === 'pl' ? '/' : `/${lang}`;
+  const cityName = city ? city.name : (isPl ? 'Warszawa / cała Polska' : 'Warsaw');
+
   let carDetails = '';
+  let heroImageSrc = '/images/workspace_code.png';
+  let brandLogo: string | null = null;
+  let wikiData: any = null;
+
   if (carBrandSlug) {
     const carBrand = getBrandBySlug(carBrandSlug);
     const carBrandName = carBrand ? carBrand.name : (carBrandSlug.charAt(0).toUpperCase() + carBrandSlug.slice(1));
@@ -265,69 +244,18 @@ export default async function IndustrySeriesPage({ params, searchParams }: PageP
         carDetails += ` ${seriesDisplayName}`;
       }
     }
-  }
-  const industry = getIndustryById(brandId as IndustryId);
-  if (!industry) notFound();
-
-  const city = citySlug === 'all' ? null : getCityBySlug(citySlug);
-  if (citySlug !== 'all' && !city) notFound();
-
-  const trans = industry.translations[lang as Locale];
-  if (!trans) notFound();
-
-  const modelData = trans.models[modelId as ProfessionId];
-  const seriesData = trans.series[seriesId as ServiceId];
-  if (!modelData || !seriesData) notFound();
-
-  const settings = getGlobalSettings();
-  const dict = await getDictionary(lang as Locale);
-  const isPl = lang === 'pl';
-  const homeUrl = lang === 'pl' ? '/' : `/${lang}`;
-  const cityName = city ? city.name : (isPl ? 'Warszawa / cała Polska' : 'Warsaw');
-
-  const wikiData = carBrandSlug && carModelSlug ? getWikiData(carBrandSlug, carModelSlug) : null;
-  const finalImageUrl = wikiData?.specs?.motofaktyImage || wikiData?.wiki?.imageUrl;
-  const brandLogo = carBrandSlug ? getBrandLogo(carBrandSlug) : null;
-
-  let imageRelativePath = `/images/industries/${brandId}/${modelId}.svg`;
-  let imageFileSystemPath = path.join(process.cwd(), 'public', imageRelativePath);
-  if (!fs.existsSync(imageFileSystemPath)) {
-    imageRelativePath = `/images/industries/${brandId}/${modelId}.png`;
-    imageFileSystemPath = path.join(process.cwd(), 'public', imageRelativePath);
-  }
-  
-  let heroImageSrc = '/images/workspace_code.png';
-  if (finalImageUrl) {
-    heroImageSrc = finalImageUrl;
-  } else if (fs.existsSync(imageFileSystemPath)) {
-    heroImageSrc = imageRelativePath;
-  } else {
-    const mainSvgPath = `/images/industries/${brandId}/main.svg`;
-    if (fs.existsSync(path.join(process.cwd(), 'public', mainSvgPath))) {
-      heroImageSrc = mainSvgPath;
-    } else {
-      const mainPngPath = `/images/industries/${brandId}/main.png`;
-      if (fs.existsSync(path.join(process.cwd(), 'public', mainPngPath))) {
-        heroImageSrc = mainPngPath;
-      }
-    }
-  }
-  if (fs.existsSync(imageFileSystemPath)) {
-    heroImageSrc = imageRelativePath;
-  } else {
-    const mainSvgPath = `/images/industries/${brandId}/main.svg`;
-    if (fs.existsSync(path.join(process.cwd(), 'public', mainSvgPath))) {
-      heroImageSrc = mainSvgPath;
-    } else {
-      const mainPngPath = `/images/industries/${brandId}/main.png`;
-      if (fs.existsSync(path.join(process.cwd(), 'public', mainPngPath))) {
-        heroImageSrc = mainPngPath;
-      }
+    wikiData = carBrandSlug && carModelSlug ? getWikiData(carBrandSlug, carModelSlug) : null;
+    const finalImageUrl = wikiData?.specs?.motofaktyImage || wikiData?.wiki?.imageUrl;
+    brandLogo = carBrandSlug ? getBrandLogo(carBrandSlug) : null;
+    if (finalImageUrl) {
+      heroImageSrc = finalImageUrl;
     }
   }
 
-  const brandSlug = industrySlugsMap[brandId as IndustryId][lang as Locale];
-  const modelSlug = professionSlugsMap[modelId as ProfessionId][lang as Locale];
+  const langPrefix = lang === 'pl' ? '' : `/${lang}`;
+  const industrySlug = industrySlugsMap[industryId as IndustryId][lang as Locale];
+  const professionSlug = professionSlugsMap[professionId as ProfessionId][lang as Locale];
+  const serviceSlug = serviceSlugsMap[serviceId as ServiceId][lang as Locale];
 
   const parentSlug = lang === 'pl' ? 'strona-dla' : 
                      lang === 'en' ? 'website-for' : 
@@ -340,21 +268,18 @@ export default async function IndustrySeriesPage({ params, searchParams }: PageP
     en: 'Website for',
     de: 'Webseite für',
     uk: 'Сайт для',
-    ru: 'Сайt для',
+    ru: 'Сайт для',
     zh: '网站适用'
   };
   const parentLabel = parentLabelMap[lang as Locale] || 'Website for';
 
-  const serviceSlug = serviceSlugsMap[seriesId as ServiceId][lang as Locale];
-  const langPrefix = lang === 'pl' ? '' : `/${lang}`;
-
   const brandUrl = city 
-    ? `${langPrefix}/${city.slug}/${brandSlug}`
-    : `${langPrefix}/${parentSlug}/${brandSlug}`;
+    ? `${langPrefix}/${city.slug}/${industrySlug}`
+    : `${langPrefix}/${parentSlug}/${industrySlug}`;
 
   let modelUrl = '';
   if (carBrandSlug) {
-    modelUrl = `${langPrefix}/${parentSlug}/${brandSlug}/${modelSlug}/${citySlug}/${carBrandSlug}`;
+    modelUrl = `${langPrefix}/${parentSlug}/${industrySlug}/${professionSlug}/${citySlug}/${carBrandSlug}`;
     if (carModelSlug) {
       modelUrl += `/${carModelSlug}`;
       if (carSeriesSlug) {
@@ -363,11 +288,11 @@ export default async function IndustrySeriesPage({ params, searchParams }: PageP
     }
   } else {
     modelUrl = city
-      ? `${langPrefix}/${city.slug}/${brandSlug}/${modelSlug}`
-      : `${langPrefix}/${parentSlug}/${brandSlug}/${modelSlug}`;
+      ? `${langPrefix}/${city.slug}/${industrySlug}/${professionSlug}`
+      : `${langPrefix}/${parentSlug}/${industrySlug}/${professionSlug}`;
   }
 
-  const terms = industryTerminology[brandId as IndustryId]?.[lang] || industryTerminology[brandId as IndustryId]?.en || {
+  const terms = industryTerminology[industryId as IndustryId]?.[lang] || industryTerminology[industryId as IndustryId]?.en || {
     target: isPl ? 'klientów' : 'clients',
     targetAccusative: isPl ? 'Klientów' : 'Clients',
     schemaType: 'LocalBusiness / Service',
@@ -478,7 +403,7 @@ export default async function IndustrySeriesPage({ params, searchParams }: PageP
     "@type": "Service",
     "name": `${seriesData.title} - ${modelData.name}`,
     "description": seriesData.desc,
-    "image": `https://webwawa.pl/images/industries/${brandId}/${modelId}.png`,
+    "image": `https://webwawa.pl/images/industries/${industryId}/${professionId}.png`,
     "provider": {
       "@type": "LocalBusiness",
       "name": "webwawa.pl",
@@ -515,19 +440,19 @@ export default async function IndustrySeriesPage({ params, searchParams }: PageP
               "@type": "ListItem",
               "position": 3,
               "name": trans.industryName,
-              "item": `https://webwawa.pl${langPrefix}/${city.slug}/${brandSlug}`
+              "item": `https://webwawa.pl${langPrefix}/${city.slug}/${industrySlug}`
             },
             {
               "@type": "ListItem",
               "position": 4,
               "name": modelData.name,
-              "item": `https://webwawa.pl${langPrefix}/${city.slug}/${brandSlug}/${modelSlug}`
+              "item": `https://webwawa.pl${langPrefix}/${city.slug}/${industrySlug}/${professionSlug}`
             },
             {
               "@type": "ListItem",
               "position": 5,
               "name": seriesData.title,
-              "item": `https://webwawa.pl${langPrefix}/${city.slug}/${brandSlug}/${modelSlug}/${serviceSlug}`
+              "item": `https://webwawa.pl${langPrefix}/${city.slug}/${industrySlug}/${professionSlug}/${serviceSlug}`
             }
           ]
         : [
@@ -541,19 +466,19 @@ export default async function IndustrySeriesPage({ params, searchParams }: PageP
               "@type": "ListItem",
               "position": 3,
               "name": trans.industryName,
-              "item": `https://webwawa.pl${langPrefix}/${parentSlug}/${brandSlug}`
+              "item": `https://webwawa.pl${langPrefix}/${parentSlug}/${industrySlug}`
             },
             {
               "@type": "ListItem",
               "position": 4,
               "name": modelData.name,
-              "item": `https://webwawa.pl${langPrefix}/${parentSlug}/${brandSlug}/${modelSlug}`
+              "item": `https://webwawa.pl${langPrefix}/${parentSlug}/${industrySlug}/${professionSlug}`
             },
             {
               "@type": "ListItem",
               "position": 5,
               "name": seriesData.title,
-              "item": `https://webwawa.pl${langPrefix}/${parentSlug}/${brandSlug}/${modelSlug}/${serviceSlug}`
+              "item": `https://webwawa.pl${langPrefix}/${parentSlug}/${industrySlug}/${professionSlug}/${serviceSlug}`
             }
           ]
       )
@@ -562,11 +487,11 @@ export default async function IndustrySeriesPage({ params, searchParams }: PageP
 
   return (
     <main className="min-h-screen bg-slate-50 dark:bg-slate-950 text-slate-800 dark:text-white transition-colors duration-300">
-      <script
-        type="application/ld+json"
-        id={`ldjson-series-${brandId}-${modelId}-${seriesId}`}
-        dangerouslySetInnerHTML={{ __html: JSON.stringify([jsonLd, breadcrumbListJsonLd]) }}
-      />
+<Script
+          id={`ldjson-series-${industryId}-${professionId}-${serviceId}`}
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify([jsonLd, breadcrumbListJsonLd]) }}
+        />
 
       {/* Hero Section */}
       <section className="bg-slate-100 dark:bg-slate-900 py-20 text-slate-900 dark:text-white relative overflow-hidden transition-colors duration-300">

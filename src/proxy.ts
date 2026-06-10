@@ -115,11 +115,11 @@ export function proxy(request: NextRequest) {
                                firstSegment === 'webseite-fuer';
 
     // Custom check for Automotive with car details in URL segments
-    const resolvedBrandId = secondSegment ? getIndustryIdBySlug(secondSegment) : null;
-    if (isIndustriesParent && resolvedBrandId === 'automotive' && thirdSegment) {
-      const brandId = 'automotive';
-      const modelId = getProfessionIdBySlug(thirdSegment);
-      if (modelId) {
+    const resolvedIndustryId = secondSegment ? getIndustryIdBySlug(secondSegment) : null;
+    if (isIndustriesParent && resolvedIndustryId === 'automotive' && thirdSegment) {
+      const industryId = 'automotive';
+      const professionId = getProfessionIdBySlug(thirdSegment);
+      if (professionId) {
         let serviceId = null;
         let carSegments = segments.slice(3);
         
@@ -152,7 +152,7 @@ export function proxy(request: NextRequest) {
         }
 
         const url = request.nextUrl.clone();
-        let rewritePath = `/${currentLocale}/industries/${citySlug}/${brandId}/${modelId}`;
+        let rewritePath = `/${currentLocale}/industries/${citySlug}/${industryId}/${professionId}`;
         if (serviceId) {
           rewritePath += `/${serviceId}`;
         }
@@ -173,17 +173,17 @@ export function proxy(request: NextRequest) {
     // A. Przypadek ogólny (np. /strona-dla/lekarz/ginekolog/strona-pwa)
     // A1. Sprawdzamy najpierw /strona-dla/{branża}/{miasto} → strona lokalna branży
     if (isIndustriesParent && secondSegment && thirdSegment) {
-      const brandId = getIndustryIdBySlug(secondSegment);
+      const industryId = getIndustryIdBySlug(secondSegment);
       const isCitySegment = SUPPORTED_CITIES.includes(thirdSegment);
-      if (brandId && isCitySegment) {
+      if (industryId && isCitySegment) {
         // Format: /strona-dla/lekarz/mokotow → /pl/industries/mokotow/doctor
-        const modelId = fourthSegment ? getProfessionIdBySlug(fourthSegment) : null;
+        const professionId = fourthSegment ? getProfessionIdBySlug(fourthSegment) : null;
         const fifthSegment = segments[4] || '';
         const serviceId = fifthSegment ? getServiceIdBySlug(fifthSegment) : null;
 
         const url = request.nextUrl.clone();
-        let rewritePath = `/${currentLocale}/industries/${thirdSegment}/${brandId}`;
-        if (modelId) rewritePath += `/${modelId}`;
+        let rewritePath = `/${currentLocale}/industries/${thirdSegment}/${industryId}`;
+        if (professionId) rewritePath += `/${professionId}`;
         if (serviceId) rewritePath += `/${serviceId}`;
 
         url.pathname = rewritePath;
@@ -197,18 +197,18 @@ export function proxy(request: NextRequest) {
 
     // A2. Przypadek ogólny bez miasta (np. /strona-dla/lekarz/ginekolog/strona-pwa)
     if (isIndustriesParent && secondSegment) {
-      const brandId = getIndustryIdBySlug(secondSegment);
-      if (brandId) {
-        const modelId = thirdSegment ? getProfessionIdBySlug(thirdSegment) : null;
+      const industryId = getIndustryIdBySlug(secondSegment);
+      if (industryId) {
+        const professionId = thirdSegment ? getProfessionIdBySlug(thirdSegment) : null;
         const serviceId = fourthSegment ? getServiceIdBySlug(fourthSegment) : null;
 
         // Jeśli podano dodatkowe segmenty, ale nie są poprawnymi specjalizacjami/usługami - nie dopasowujemy (np. błędna podstrona)
-        if ((thirdSegment && !modelId) || (fourthSegment && !serviceId)) {
+        if ((thirdSegment && !professionId) || (fourthSegment && !serviceId)) {
           // Pozwól przejść dalej
         } else {
           const url = request.nextUrl.clone();
-          let rewritePath = `/${currentLocale}/industries/all/${brandId}`;
-          if (modelId) rewritePath += `/${modelId}`;
+          let rewritePath = `/${currentLocale}/industries/all/${industryId}`;
+          if (professionId) rewritePath += `/${professionId}`;
           if (serviceId) rewritePath += `/${serviceId}`;
           
           url.pathname = rewritePath;
@@ -223,17 +223,17 @@ export function proxy(request: NextRequest) {
 
     // B. Przypadek lokalny (np. /bemowo/lekarz/ginekolog/strona-pwa)
     if (SUPPORTED_CITIES.includes(firstSegment) && secondSegment) {
-      const brandId = getIndustryIdBySlug(secondSegment);
-      if (brandId) {
-        const modelId = thirdSegment ? getProfessionIdBySlug(thirdSegment) : null;
+      const industryId = getIndustryIdBySlug(secondSegment);
+      if (industryId) {
+        const professionId = thirdSegment ? getProfessionIdBySlug(thirdSegment) : null;
         const serviceId = fourthSegment ? getServiceIdBySlug(fourthSegment) : null;
 
-        if ((thirdSegment && !modelId) || (fourthSegment && !serviceId)) {
+        if ((thirdSegment && !professionId) || (fourthSegment && !serviceId)) {
           // Błędny model/usługa - pozwól przejść dalej
         } else {
           const url = request.nextUrl.clone();
-          let rewritePath = `/${currentLocale}/industries/${firstSegment}/${brandId}`;
-          if (modelId) rewritePath += `/${modelId}`;
+          let rewritePath = `/${currentLocale}/industries/${firstSegment}/${industryId}`;
+          if (professionId) rewritePath += `/${professionId}`;
           if (serviceId) rewritePath += `/${serviceId}`;
           
           url.pathname = rewritePath;
