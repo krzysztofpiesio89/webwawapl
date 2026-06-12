@@ -4,21 +4,25 @@
 @variant dark (&:where(.dark, .dark *));
 
 @theme {
-  --font-sans: var(--font-public-sans), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
-  --font-display: var(--font-instrument-sans), sans-serif;
+  --font-sans: var(--font-inter), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-display: var(--font-inter), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   
   /* --- KOLORY Z LOGOTYPU WEBWAWA --- */
-  --color-brand-amber: #d97706;      /* Główny bursztyn z sygnetu */
-  --color-brand-amber-dark: #b45309; /* Ciemny bursztyn do gradientu */
-  --color-brand-blue: #4f46e5;       /* Zmieniony na Indigo-600 dla spójności i elegancji */
-  --color-brand-slate: #0f172a;      /* Wypełnienie tarczy sygnetu */
+  --color-brand-amber: #d97706;
+  --color-brand-amber-dark: #b45309;
+  --color-brand-blue: #0ea5e9;
+  --color-brand-slate: #0f172a;
 
   /* --- PRZYPISANIE RÓL --- */
-  --color-primary: #4f46e5;
-  --color-primary-dark: #4338ca;      /* Indigo-700 */
-  --color-accent: #d97706;
-  --color-secondary: #6366f1;
-  --color-bg-base: #08080f;
+  --color-primary: #818cf8;
+  --color-primary-dark: #0ea5e9;
+  --color-accent: #fbbf24;
+  --color-secondary: #f97316;
+  --color-bg-base: #060713;
+
+  /* --- MAPA KOLORÓW DLA ZGODNOŚCI Z LOGO (NIGHT MODE) --- */
+  --color-slate-900: #0a0e17;
+  --color-slate-950: #060713;
 }
 
 @layer base {
@@ -115,11 +119,11 @@
 
   /* WARIANTY KOLORYSTYCZNE */
   .btn-primary {
-    @apply bg-primary hover:bg-primary-dark text-white shadow-lg hover:shadow-primary/30;
+    @apply bg-primary hover:bg-primary-dark dark:bg-indigo-600 dark:hover:bg-indigo-700 text-white shadow-lg hover:shadow-primary/30;
   }
   
   .btn-accent {
-    @apply bg-accent hover:bg-amber-700 text-white shadow-lg hover:shadow-accent/30;
+    @apply bg-accent hover:bg-amber-500 dark:bg-amber-600 dark:hover:bg-amber-700 text-white shadow-lg hover:shadow-accent/30;
   }
 
   .btn-secondary {
@@ -127,7 +131,7 @@
   }
 
   .btn-gradient {
-    @apply bg-gradient-to-r from-[#818cf8] to-[#0ea5e9] hover:from-[#6366f1] hover:to-[#0284c7] text-white shadow-lg shadow-blue-500/20 hover:shadow-blue-500/40;
+    @apply bg-gradient-to-r from-[#818cf8] to-[#0ea5e9] hover:from-[#6366f1] hover:to-[#0284c7] dark:from-indigo-600 dark:to-sky-600 dark:hover:from-indigo-700 dark:hover:to-sky-700 text-white font-black shadow-lg shadow-blue-500/20 hover:shadow-blue-500/40;
   }
 
   .btn-ghost {

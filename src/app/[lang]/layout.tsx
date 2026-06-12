@@ -6,19 +6,11 @@ import { getGlobalSettings } from "@/lib/settings";
 import { locales, Locale, getDictionary, htmlLangMap, ogLocaleMap } from "./dictionaries";
 import Script from "next/script";
 import { CookieConsentProvider } from "@/components/CookieConsent";
-import { Public_Sans, Instrument_Sans } from "next/font/google";
+import { Inter } from "next/font/google";
 
-const publicSans = Public_Sans({
+const inter = Inter({
   subsets: ["latin", "latin-ext"],
-  weight: ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
-  variable: "--font-public-sans",
-  display: "swap",
-});
-
-const instrumentSans = Instrument_Sans({
-  subsets: ["latin", "latin-ext"],
-  weight: ["400", "500", "600", "700"],
-  variable: "--font-instrument-sans",
+  variable: "--font-inter",
   display: "swap",
 });
 
@@ -132,7 +124,7 @@ export default async function RootLayout(props: Readonly<{
   };
 
   return (
-    <html lang={htmlLangMap[params.lang as Locale]} className={`${publicSans.variable} ${instrumentSans.variable}`} suppressHydrationWarning>
+    <html lang={htmlLangMap[params.lang as Locale]} className={`${inter.variable}`} suppressHydrationWarning>
       <head>
         <Script
           id="ldjson-root"

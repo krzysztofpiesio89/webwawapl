@@ -86,9 +86,9 @@ export default function TechnologyCloud({
   const basePath = getLocalizedIndustryPath(lang, city, industryId, professionId, serviceId);
 
   return (
-    <section className="my-16 py-12 px-6 bg-slate-100/80 dark:bg-slate-900/60 rounded-3xl border border-slate-200 dark:border-slate-800/80 backdrop-blur-md transition-colors duration-300">
+    <section className="my-16 py-12 px-6 bg-slate-100/80 dark:bg-slate-900/60 rounded-none border-t-4 border-b border-t-indigo-500 border-b-slate-200 dark:border-b-slate-800 backdrop-blur-md transition-colors duration-300">
       <div className="max-w-4xl mx-auto text-center mb-10">
-        <h2 className="text-2xl md:text-3xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 dark:from-blue-400 dark:via-indigo-200 dark:to-purple-400">
+        <h2 className="text-2xl md:text-3xl font-black uppercase tracking-tight text-slate-900 dark:text-white">
           {headingText}
         </h2>
         <p className="text-slate-600 dark:text-slate-400 mt-2 text-sm md:text-base transition-colors duration-300">
@@ -98,8 +98,8 @@ export default function TechnologyCloud({
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-5xl mx-auto">
         {TECH_CATEGORIES.map((cat, idx) => (
-          <div key={idx} className="bg-white/60 dark:bg-slate-950/40 p-6 rounded-2xl border border-slate-200 dark:border-slate-800/50 hover:border-indigo-300 dark:hover:border-indigo-500/30 transition-all duration-300">
-            <h3 className="text-sm font-semibold tracking-wider text-indigo-700 dark:text-indigo-400 uppercase mb-4 transition-colors duration-300">
+          <div key={idx} className="bg-white/60 dark:bg-slate-950/80 p-6 rounded-none border border-slate-200 dark:border-slate-800/50 hover:border-indigo-300 dark:hover:border-indigo-500/80 transition-all duration-300 [clip-path:polygon(16px_0,100%_0,100%_calc(100%-16px),calc(100%-16px)_100%,0_100%,0_16px)]">
+            <h3 className="text-sm font-black tracking-wider text-indigo-700 dark:text-indigo-400 uppercase mb-4 transition-colors duration-300">
               {isPl ? cat.namePl : cat.nameEn}
             </h3>
             <div className="flex flex-wrap gap-2">
@@ -111,10 +111,10 @@ export default function TechnologyCloud({
                   <Link
                     key={tech.slug}
                     href={linkHref}
-                    className={`text-xs md:text-sm px-3.5 py-1.5 rounded-full transition-all duration-200 font-medium ${
+                    className={`text-xs md:text-sm px-5 py-2 rounded-none transition-all duration-200 font-bold [clip-path:polygon(10px_0,calc(100%-10px)_0,100%_50%,calc(100%-10px)_100%,10px_100%,0_50%)] ${
                       isActive
-                        ? 'bg-gradient-to-r from-blue-600 to-indigo-600 text-white shadow-lg shadow-indigo-500/20 scale-105'
-                        : 'bg-white dark:bg-slate-900 hover:bg-slate-50 dark:hover:bg-slate-800 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-800 hover:border-slate-300 dark:hover:border-slate-700'
+                        ? 'bg-gradient-to-r from-[#818cf8] to-[#0ea5e9] text-slate-950 scale-105'
+                        : 'bg-slate-200 dark:bg-slate-800 hover:bg-indigo-500 hover:text-white dark:hover:bg-indigo-600 text-slate-800 dark:text-slate-200'
                     }`}
                   >
                     {tech.name}

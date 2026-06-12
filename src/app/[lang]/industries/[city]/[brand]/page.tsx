@@ -399,7 +399,7 @@ export default async function IndustryBrandPage({ params, searchParams }: PagePr
                 {trans.heroSubtitle}
               </p>
             </div>
-            <div className="lg:col-span-5 relative w-full h-[300px] md:h-[400px] rounded-3xl overflow-hidden shadow-2xl border border-slate-200/50 dark:border-slate-800/40">
+            <div className="lg:col-span-5 relative w-full h-[300px] md:h-[400px] rounded-none overflow-hidden shadow-2xl border border-slate-200/50 dark:border-slate-800/40">
               <img 
                 src={heroImageSrc} 
                 alt={trans.industryName}
@@ -415,7 +415,7 @@ export default async function IndustryBrandPage({ params, searchParams }: PagePr
         <div className="container mx-auto px-4 max-w-5xl">
           <div className="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
             <div className="md:col-span-7 space-y-6">
-              <span className="inline-block py-1 px-4 rounded-full bg-primary/10 border border-primary/30 text-primary text-xs font-bold uppercase tracking-wider">
+              <span className="inline-block py-1 px-4 rounded-none bg-primary/10 border-l-4 border-primary border-y border-r border-y-primary/20 border-r-primary/20 text-primary text-xs font-bold uppercase tracking-wider">
                 {bt.aboutHeading}
               </span>
               <h2 className="text-3xl font-bold tracking-tight text-slate-900 dark:text-white">
@@ -426,7 +426,7 @@ export default async function IndustryBrandPage({ params, searchParams }: PagePr
               </p>
 
               {techTrans && (
-                <div className="my-8 p-6 bg-indigo-50/80 dark:bg-slate-900/40 rounded-2xl border border-indigo-200 dark:border-indigo-500/20 backdrop-blur-sm transition-colors duration-300">
+                <div className="my-8 p-6 bg-indigo-50/80 dark:bg-slate-900/40 rounded-none border-l-4 border-indigo-500 border-y border-r border-y-indigo-200 dark:border-y-indigo-500/20 border-r-indigo-200 dark:border-r-indigo-500/20 backdrop-blur-sm transition-colors duration-300">
                   <div className="flex items-center gap-2 mb-3">
                     <span className="text-xl">🚀</span>
                     <h3 className="font-bold text-lg text-indigo-800 dark:text-indigo-400">
@@ -462,9 +462,9 @@ export default async function IndustryBrandPage({ params, searchParams }: PagePr
                       <Link 
                         key={modelKey}
                         href={url}
-                        className="py-3 px-6 bg-slate-100 hover:bg-primary hover:text-white dark:bg-slate-900 dark:hover:bg-primary font-bold rounded-xl transition-all shadow-sm"
+                        className="relative group py-3 px-6 bg-slate-100 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:bg-primary hover:border-primary dark:hover:bg-primary dark:hover:border-primary text-slate-900 dark:text-white font-bold transition-all shadow-sm -skew-x-12"
                       >
-                        {modelVal.name} &rarr;
+                        <span className="block skew-x-12 group-hover:text-white transition-colors">{modelVal.name} &rarr;</span>
                       </Link>
                     );
                   })}

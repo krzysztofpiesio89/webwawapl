@@ -266,12 +266,6 @@ export default function HeroSection({ lang, phone, email }: HeroSectionProps) {
           {/* ── LEFT ── */}
           <div className="lg:col-span-6 space-y-8 text-left">
 
-            {/* Badge */}
-            <span className="inline-flex items-center gap-2 py-1.5 px-4 rounded-full bg-white dark:bg-white/5 border border-slate-200 dark:border-white/10 text-slate-700 dark:text-slate-300 text-xs font-semibold uppercase tracking-wider shadow-sm">
-              <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse" />
-              {t.badge}
-            </span>
-
             {/* Headline */}
             <h1 className="text-4xl sm:text-5xl lg:text-[3.25rem] font-black text-slate-900 dark:text-white tracking-tight leading-[1.08]">
               {t.h1a}{' '}
