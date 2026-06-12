@@ -104,8 +104,8 @@ export default function Footer({
             <Link href={homeUrl} className="flex items-center gap-3 group">
               <Logo className="h-12 w-auto transform group-hover:scale-105 transition-transform" />
               <div className="flex flex-col leading-none">
-                <span className="text-2xl font-black text-slate-900 dark:text-white tracking-tighter uppercase">
-                  WEB<span className="text-primary">WAWA</span><span className="text-amber-500">.PL</span>
+                <span className="text-[23px] font-extrabold text-slate-900 dark:text-white tracking-tight font-display lowercase">
+                  webwawa<span className="text-amber-500 font-semibold">.pl</span>
                 </span>
               </div>
             </Link>

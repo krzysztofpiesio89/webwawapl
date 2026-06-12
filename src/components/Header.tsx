@@ -65,7 +65,7 @@ export default function Header({
             <Logo className="h-9 sm:h-12 w-auto transform group-hover:scale-105 transition-transform duration-300" />
             <div className="flex flex-col leading-none">
               <span className="text-[19px] sm:text-[23px] font-extrabold text-slate-900 dark:text-white tracking-tight font-display lowercase">
-                webwawa<span className="text-primary font-semibold">.pl</span>
+                webwawa<span className="text-amber-500 font-semibold">.pl</span>
               </span>
             </div>
           </Link>

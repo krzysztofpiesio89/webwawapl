@@ -2,13 +2,13 @@ import type { MetadataRoute } from "next";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "Skup i Kasacja Aut - skupautwawa.pl",
-    short_name: "Skup Aut",
-    description: "Najlepszy skup aut i legalna kasacja pojazdów w Polsce. Darmowa wycena, dojazd do klienta w 30 minut i gotówka do ręki.",
+    name: "webwawa.pl - Software House & SEO",
+    short_name: "webwawa",
+    description: "Profesjonalne usługi informatyczne, dedykowane aplikacje webowe oraz pozycjonowanie SEO dla biznesu.",
     start_url: "/",
     display: "standalone",
-    background_color: "#ffffff",
-    theme_color: "#fbbf24",
+    background_color: "#020617",
+    theme_color: "#4f46e5",
     icons: [
       {
         src: "/android/launchericon-48x48.png",

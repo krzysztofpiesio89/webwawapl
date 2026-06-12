@@ -71,7 +71,7 @@ export async function generateMetadata(props: { params: Promise<{ lang: string  
       images: ['/images/workspace_code.png'],
     },
     icons: {
-      icon: [{ url: '/favicon.svg', type: 'image/svg+xml' }],
+      icon: [{ url: '/android/launchericon-96x96.png', type: 'image/png' }],
       apple: [
         { url: '/ios/180.png', sizes: '180x180', type: 'image/png' },
         { url: '/ios/152.png', sizes: '152x152', type: 'image/png' },
