@@ -1,0 +1,92 @@
+{
+  "pl": {
+    "title": "Rust – Maksymalna wydajność i bezpieczeństwo pamięci",
+    "description": "Rust to nowoczesny język programowania systemowego charakteryzujący się niesamowitą wydajnością porównywalną z C++, przy jednoczesnym zapewnieniu pełnego bezpieczeństwa pamięci. Idealny do mikroserwisów.",
+    "advantages": [
+      "Ekstremalna szybkość i minimalne zużycie zasobów RAM.",
+      "Brak kompilatora garbage collector, co eliminuje mikro-przycięcia.",
+      "Pełne bezpieczeństwo wielowątkowości i operacji na pamięci."
+    ],
+    "faq": [
+      {
+        "q": "Kiedy warto wdrożyć Rust w projekcie webowym?",
+        "a": "Do krytycznych mikroserwisów, przetwarzania wideo/zdjęć w czasie rzeczywistym lub silników transakcyjnych o dużym natężeniu ruchu."
+      }
+    ]
+  },
+  "en": {
+    "title": "Rust – Performance and Safety First",
+    "description": "Rust is a systems programming language that is blindingly fast and memory-efficient. It prevents segmentation faults and guarantees thread safety.",
+    "advantages": [
+      "Blazing speed with predictable performance scaling.",
+      "No garbage collector overhead, ensuring zero latency spikes.",
+      "Thread safety compiler checks eliminating race conditions."
+    ],
+    "faq": [
+      {
+        "q": "When is Rust recommended for web development?",
+        "a": "For heavy data processing, real-time multimedia servers, or critical transaction-heavy microservices."
+      }
+    ]
+  },
+  "de": {
+    "title": "Rust – Technologie-Lösungen für maximale Leistung",
+    "description": "Rust Wir setzen moderne Frameworks und Tools ein, um blitzschnelle, SEO-optimierte Websites zu erstellen, die Konversionen steigern.",
+    "advantages": [
+      "Optimiert mit Rust: Blazing speed with predictable performance scaling.",
+      "Optimiert mit Rust: No garbage collector overhead, ensuring zero latency spikes.",
+      "Optimiert mit Rust: Thread safety compiler checks eliminating race conditions."
+    ],
+    "faq": [
+      {
+        "q": "When is Rust recommended for web development? (Rust)",
+        "a": "For heavy data processing, real-time multimedia servers, or critical transaction-heavy microservices."
+      }
+    ]
+  },
+  "uk": {
+    "title": "Rust – Технологічні рішення для максимальної швидкості",
+    "description": "Rust Ми використовуємо найсучасніші технології для розробки ультрашвидких та SEO-оптимізованих веб-сайтів.",
+    "advantages": [
+      "Оптимізовано з Rust: Ekstremalna szybkość i minimalne zużycie zasobów RAM.",
+      "Оптимізовано з Rust: Brak kompilatora garbage collector, co eliminuje mikro-przycięcia.",
+      "Оптимізовано з Rust: Pełne bezpieczeństwo wielowątkowości i operacji na pamięci."
+    ],
+    "faq": [
+      {
+        "q": "Kiedy warto wdrożyć Rust w projekcie webowym? (Rust)",
+        "a": "Do krytycznych mikroserwisów, przetwarzania wideo/zdjęć w czasie rzeczywistym lub silników transakcyjnych o dużym natężeniu ruchu."
+      }
+    ]
+  },
+  "ru": {
+    "title": "Rust – Технологические решения для максимальной производительности",
+    "description": "Rust Мы используем современные инструменты для создания сверхбыстрых и оптимизированных под SEO сайтов.",
+    "advantages": [
+      "Оптимизировано с Rust: Ekstremalna szybkość i minimalne zużycie zasobów RAM.",
+      "Оптимизировано с Rust: Brak kompilatora garbage collector, co eliminuje mikro-przycięcia.",
+      "Оптимизировано с Rust: Pełne bezpieczeństwo wielowątkowości i operacji na pamięci."
+    ],
+    "faq": [
+      {
+        "q": "Kiedy warto wdrożyć Rust w projekcie webowym? (Rust)",
+        "a": "Do krytycznych mikroserwisów, przetwarzania wideo/zdjęć w czasie rzeczywistym lub silników transakcyjnych o dużym natężeniu ruchu."
+      }
+    ]
+  },
+  "zh": {
+    "title": "Rust – 提升性能与SEO的现代技术解决方案",
+    "description": "Rust 我们采用前沿的技术架构，为您构建加载极快、极致SEO优化的专业企业级网站。",
+    "advantages": [
+      "使用 Rust 优化：Ekstremalna szybkość i minimalne zużycie zasobów RAM.",
+      "使用 Rust 优化：Brak kompilatora garbage collector, co eliminuje mikro-przycięcia.",
+      "使用 Rust 优化：Pełne bezpieczeństwo wielowątkowości i operacji na pamięci."
+    ],
+    "faq": [
+      {
+        "q": "Kiedy warto wdrożyć Rust w projekcie webowym? (Rust)",
+        "a": "Do krytycznych mikroserwisów, przetwarzania wideo/zdjęć w czasie rzeczywistym lub silników transakcyjnych o dużym natężeniu ruchu."
+      }
+    ]
+  }
+}

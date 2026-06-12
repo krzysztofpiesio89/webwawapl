@@ -53,10 +53,10 @@ export default function Header({
 
   return (
     <header 
-      className={`sticky top-0 z-50 w-full transition-all duration-400 ease-out-expo border-b ${
+      className={`fixed top-0 z-50 w-full transition-all duration-400 ease-out-expo border-b ${
         scrolled 
-          ? 'bg-white/95 dark:bg-slate-950/95 backdrop-blur-2xl border-slate-200 dark:border-slate-800 shadow-sm py-2 sm:py-3' 
-          : 'bg-white/80 dark:bg-slate-950/80 backdrop-blur-xl border-slate-200/50 dark:border-slate-800/40 py-3 sm:py-4'
+          ? 'bg-white/70 dark:bg-slate-950/70 backdrop-blur-lg border-slate-200/50 dark:border-slate-800/50 shadow-sm py-2 sm:py-3' 
+          : 'bg-transparent border-transparent py-3 sm:py-4'
       }`}
     >
       <div className="container mx-auto px-4 flex justify-between items-center relative">
@@ -71,14 +71,14 @@ export default function Header({
  
           {/* Desktop Nav */}
           <nav className="hidden lg:flex gap-1 xl:gap-2 font-bold items-center">
-            <Link href={homeUrl} className="text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100/80 dark:hover:bg-slate-900/80 px-4 py-2.5 rounded-full transition-all duration-300 text-sm xl:text-base">{dict.nav.home}</Link>
-            <Link href={industriesUrl} className="text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100/80 dark:hover:bg-slate-900/80 px-4 py-2.5 rounded-full transition-all duration-300 text-sm xl:text-base">{dict.nav.industries || (lang === 'pl' ? 'Branże' : 'Industries')}</Link>
-            <Link href={aboutUrl} className="text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100/80 dark:hover:bg-slate-900/80 px-4 py-2.5 rounded-full transition-all duration-300 text-sm xl:text-base">{dict.nav.aboutUs}</Link>
+            <Link href={homeUrl} className="text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100/80 dark:hover:bg-slate-900/80 px-4 py-2.5 rounded-xl transition-all duration-300 text-sm xl:text-base">{dict.nav.home}</Link>
+            <Link href={industriesUrl} className="text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100/80 dark:hover:bg-slate-900/80 px-4 py-2.5 rounded-xl transition-all duration-300 text-sm xl:text-base">{dict.nav.industries || (lang === 'pl' ? 'Branże' : 'Industries')}</Link>
+            <Link href={aboutUrl} className="text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100/80 dark:hover:bg-slate-900/80 px-4 py-2.5 rounded-xl transition-all duration-300 text-sm xl:text-base">{dict.nav.aboutUs}</Link>
             
             {/* Theme Toggle Button (Desktop) */}
             <button 
               onClick={toggleTheme}
-              className="p-2.5 text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-slate-900 rounded-full transition-colors ml-2"
+              className="p-2.5 text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-slate-900 rounded-xl transition-colors ml-2"
               aria-label="Toggle Theme"
             >
               {theme === 'dark' ? (
@@ -109,7 +109,7 @@ export default function Header({
             {/* Theme Toggle Button (Mobile) */}
             <button 
               onClick={toggleTheme}
-              className="p-2 text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-slate-900 rounded-full transition-colors"
+              className="p-2 text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-slate-900 rounded-xl transition-colors"
               aria-label="Toggle Theme"
             >
               {theme === 'dark' ? (
@@ -125,13 +125,13 @@ export default function Header({
             <LanguageSwitcher currentLang={lang} />
             <button 
               onClick={() => setIsMenuOpen(!isMenuOpen)} 
-              className="relative w-11 h-11 text-slate-700 dark:text-slate-300 hover:bg-slate-100/60 dark:hover:bg-slate-900/60 rounded-full transition-colors flex items-center justify-center focus:outline-none ml-1"
+              className="relative w-11 h-11 text-slate-700 dark:text-slate-300 hover:bg-slate-100/60 dark:hover:bg-slate-900/60 rounded-xl transition-colors flex items-center justify-center focus:outline-none ml-1"
               aria-label="Menu"
             >
               <div className="relative w-5 h-[16px]">
-                <span className={`absolute left-0 h-[2px] w-5 bg-current transform transition-all duration-300 ease-out rounded-full ${isMenuOpen ? 'rotate-45 top-[7px]' : 'top-0'}`} />
-                <span className={`absolute left-0 h-[2px] bg-current transform transition-all duration-300 ease-out rounded-full ${isMenuOpen ? 'w-0 opacity-0 top-[7px] left-1/2' : 'w-5 opacity-100 top-[7px]'}`} />
-                <span className={`absolute left-0 h-[2px] w-5 bg-current transform transition-all duration-300 ease-out rounded-full ${isMenuOpen ? '-rotate-45 top-[7px]' : 'top-[14px]'}`} />
+                <span className={`absolute left-0 h-[2px] w-5 bg-current transform transition-all duration-300 ease-out rounded-xl ${isMenuOpen ? 'rotate-45 top-[7px]' : 'top-0'}`} />
+                <span className={`absolute left-0 h-[2px] bg-current transform transition-all duration-300 ease-out rounded-xl ${isMenuOpen ? 'w-0 opacity-0 top-[7px] left-1/2' : 'w-5 opacity-100 top-[7px]'}`} />
+                <span className={`absolute left-0 h-[2px] w-5 bg-current transform transition-all duration-300 ease-out rounded-xl ${isMenuOpen ? '-rotate-45 top-[7px]' : 'top-[14px]'}`} />
               </div>
             </button>
           </div>

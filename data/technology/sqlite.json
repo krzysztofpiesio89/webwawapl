@@ -1,0 +1,92 @@
+{
+  "pl": {
+    "title": "SQLite – Lekkość i szybkość w jednym pliku",
+    "description": "SQLite to bezserwerowa, lekka relacyjna baza danych. Służy do błyskawicznego serwowania danych statycznych i strukturyzowanych w projektach lokalnych i aplikacjach o niskim narzucie infrastruktury.",
+    "advantages": [
+      "Zero narzutu sieciowego – baza danych znajduje się w tym samym procesie co aplikacja.",
+      "Łatwe tworzenie kopii zapasowych (baza to pojedynczy plik na dysku).",
+      "Świetne wyniki prędkości odczytu przy małych i średnich bazach."
+    ],
+    "faq": [
+      {
+        "q": "Kiedy SQLite jest najlepszym wyborem?",
+        "a": "Dla witryn opartych o programmatic SEO (np. nasza baza miast i branż), gdzie dane zmieniają się rzadko, a odczyt musi być natychmiastowy."
+      }
+    ]
+  },
+  "en": {
+    "title": "SQLite – Lightweight Serverless Storage",
+    "description": "SQLite is a lightweight, zero-configuration database. It is embedded directly in the application, ensuring ultra-low latency reads.",
+    "advantages": [
+      "Zero network latency – database operations execute in-process.",
+      "Simple backups as the database is stored in a single file.",
+      "Excellent read performance for medium-sized applications."
+    ],
+    "faq": [
+      {
+        "q": "When is SQLite ideal?",
+        "a": "For static programmatic SEO platforms with intensive read operations and infrequent updates."
+      }
+    ]
+  },
+  "de": {
+    "title": "SQLite – Technologie-Lösungen für maximale Leistung",
+    "description": "SQLite Wir setzen moderne Frameworks und Tools ein, um blitzschnelle, SEO-optimierte Websites zu erstellen, die Konversionen steigern.",
+    "advantages": [
+      "Optimiert mit SQLite: Zero network latency – database operations execute in-process.",
+      "Optimiert mit SQLite: Simple backups as the database is stored in a single file.",
+      "Optimiert mit SQLite: Excellent read performance for medium-sized applications."
+    ],
+    "faq": [
+      {
+        "q": "When is SQLite ideal? (SQLite)",
+        "a": "For static programmatic SEO platforms with intensive read operations and infrequent updates."
+      }
+    ]
+  },
+  "uk": {
+    "title": "SQLite – Технологічні рішення для максимальної швидкості",
+    "description": "SQLite Ми використовуємо найсучасніші технології для розробки ультрашвидких та SEO-оптимізованих веб-сайтів.",
+    "advantages": [
+      "Оптимізовано з SQLite: Zero narzutu sieciowego – baza danych znajduje się w tym samym procesie co aplikacja.",
+      "Оптимізовано з SQLite: Łatwe tworzenie kopii zapasowych (baza to pojedynczy plik na dysku).",
+      "Оптимізовано з SQLite: Świetne wyniki prędkości odczytu przy małych i średnich bazach."
+    ],
+    "faq": [
+      {
+        "q": "Kiedy SQLite jest najlepszym wyborem? (SQLite)",
+        "a": "Dla witryn opartych o programmatic SEO (np. nasza baza miast i branż), gdzie dane zmieniają się rzadko, a odczyt musi być natychmiastowy."
+      }
+    ]
+  },
+  "ru": {
+    "title": "SQLite – Технологические решения для максимальной производительности",
+    "description": "SQLite Мы используем современные инструменты для создания сверхбыстрых и оптимизированных под SEO сайтов.",
+    "advantages": [
+      "Оптимизировано с SQLite: Zero narzutu sieciowego – baza danych znajduje się w tym samym procesie co aplikacja.",
+      "Оптимизировано с SQLite: Łatwe tworzenie kopii zapasowych (baza to pojedynczy plik na dysku).",
+      "Оптимизировано с SQLite: Świetne wyniki prędkości odczytu przy małych i średnich bazach."
+    ],
+    "faq": [
+      {
+        "q": "Kiedy SQLite jest najlepszym wyborem? (SQLite)",
+        "a": "Dla witryn opartych o programmatic SEO (np. nasza baza miast i branż), gdzie dane zmieniają się rzadko, a odczyt musi być natychmiastowy."
+      }
+    ]
+  },
+  "zh": {
+    "title": "SQLite – 提升性能与SEO的现代技术解决方案",
+    "description": "SQLite 我们采用前沿的技术架构，为您构建加载极快、极致SEO优化的专业企业级网站。",
+    "advantages": [
+      "使用 SQLite 优化：Zero narzutu sieciowego – baza danych znajduje się w tym samym procesie co aplikacja.",
+      "使用 SQLite 优化：Łatwe tworzenie kopii zapasowych (baza to pojedynczy plik na dysku).",
+      "使用 SQLite 优化：Świetne wyniki prędkości odczytu przy małych i średnich bazach."
+    ],
+    "faq": [
+      {
+        "q": "Kiedy SQLite jest najlepszym wyborem? (SQLite)",
+        "a": "Dla witryn opartych o programmatic SEO (np. nasza baza miast i branż), gdzie dane zmieniają się rzadko, a odczyt musi być natychmiastowy."
+      }
+    ]
+  }
+}

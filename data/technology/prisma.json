@@ -1,0 +1,92 @@
+{
+  "pl": {
+    "title": "Prisma ORM – Nowoczesna integracja z bazą danych",
+    "description": "Prisma to nowoczesny system ORM dla języków TypeScript i Node.js. Zapewnia pełne bezpieczeństwo typów, automatyczne generowanie migracji bazy danych oraz czytelny interfejs zapytań (Prisma Client).",
+    "advantages": [
+      "Automatyczne generowanie typów TypeScript na podstawie schematu bazy.",
+      "Czytelny i prosty język zapytań eliminujący ryzyko błędów SQL.",
+      "Łatwe zarządzanie migracjami schematu bazy danych."
+    ],
+    "faq": [
+      {
+        "q": "Czy Prisma zwalnia działanie aplikacji?",
+        "a": "Nie, w najnowszych wersjach silnik Prisma jest zoptymalizowany pod kątem łączenia zapytań (query batching) i działa niezwykle szybko."
+      }
+    ]
+  },
+  "en": {
+    "title": "Prisma ORM – Next-Gen Database Mapping",
+    "description": "Prisma is a developer-friendly ORM for TypeScript and Node.js. It features type-safe client generation, migrations, and straightforward query syntax.",
+    "advantages": [
+      "Fully typed database clients generated directly from schemas.",
+      "Intuitive query API preventing SQL injections.",
+      "Automated database migration tracking."
+    ],
+    "faq": [
+      {
+        "q": "Does Prisma add performance overhead?",
+        "a": "Prisma engine is highly optimized and includes advanced query batching to minimize database trips."
+      }
+    ]
+  },
+  "de": {
+    "title": "Prisma ORM – Technologie-Lösungen für maximale Leistung",
+    "description": "Prisma ORM Wir setzen moderne Frameworks und Tools ein, um blitzschnelle, SEO-optimierte Websites zu erstellen, die Konversionen steigern.",
+    "advantages": [
+      "Optimiert mit Prisma ORM: Fully typed database clients generated directly from schemas.",
+      "Optimiert mit Prisma ORM: Intuitive query API preventing SQL injections.",
+      "Optimiert mit Prisma ORM: Automated database migration tracking."
+    ],
+    "faq": [
+      {
+        "q": "Does Prisma add performance overhead? (Prisma ORM)",
+        "a": "Prisma engine is highly optimized and includes advanced query batching to minimize database trips."
+      }
+    ]
+  },
+  "uk": {
+    "title": "Prisma ORM – Технологічні рішення для максимальної швидкості",
+    "description": "Prisma ORM Ми використовуємо найсучасніші технології для розробки ультрашвидких та SEO-оптимізованих веб-сайтів.",
+    "advantages": [
+      "Оптимізовано з Prisma ORM: Automatyczne generowanie typów TypeScript na podstawie schematu bazy.",
+      "Оптимізовано з Prisma ORM: Czytelny i prosty język zapytań eliminujący ryzyko błędów SQL.",
+      "Оптимізовано з Prisma ORM: Łatwe zarządzanie migracjami schematu bazy danych."
+    ],
+    "faq": [
+      {
+        "q": "Czy Prisma zwalnia działanie aplikacji? (Prisma ORM)",
+        "a": "Nie, w najnowszych wersjach silnik Prisma jest zoptymalizowany pod kątem łączenia zapytań (query batching) i działa niezwykle szybko."
+      }
+    ]
+  },
+  "ru": {
+    "title": "Prisma ORM – Технологические решения для максимальной производительности",
+    "description": "Prisma ORM Мы используем современные инструменты для создания сверхбыстрых и оптимизированных под SEO сайтов.",
+    "advantages": [
+      "Оптимизировано с Prisma ORM: Automatyczne generowanie typów TypeScript na podstawie schematu bazy.",
+      "Оптимизировано с Prisma ORM: Czytelny i prosty język zapytań eliminujący ryzyko błędów SQL.",
+      "Оптимизировано с Prisma ORM: Łatwe zarządzanie migracjami schematu bazy danych."
+    ],
+    "faq": [
+      {
+        "q": "Czy Prisma zwalnia działanie aplikacji? (Prisma ORM)",
+        "a": "Nie, w najnowszych wersjach silnik Prisma jest zoptymalizowany pod kątem łączenia zapytań (query batching) i działa niezwykle szybko."
+      }
+    ]
+  },
+  "zh": {
+    "title": "Prisma ORM – 提升性能与SEO的现代技术解决方案",
+    "description": "Prisma ORM 我们采用前沿的技术架构，为您构建加载极快、极致SEO优化的专业企业级网站。",
+    "advantages": [
+      "使用 Prisma ORM 优化：Automatyczne generowanie typów TypeScript na podstawie schematu bazy.",
+      "使用 Prisma ORM 优化：Czytelny i prosty język zapytań eliminujący ryzyko błędów SQL.",
+      "使用 Prisma ORM 优化：Łatwe zarządzanie migracjami schematu bazy danych."
+    ],
+    "faq": [
+      {
+        "q": "Czy Prisma zwalnia działanie aplikacji? (Prisma ORM)",
+        "a": "Nie, w najnowszych wersjach silnik Prisma jest zoptymalizowany pod kątem łączenia zapytań (query batching) i działa niezwykle szybko."
+      }
+    ]
+  }
+}

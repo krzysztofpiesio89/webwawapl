@@ -1,0 +1,92 @@
+{
+  "pl": {
+    "title": "Open Graph – Optymalizacja udostępniania w Social Media",
+    "description": "Protokół Open Graph pozwala kontrolować wygląd linków do Twojej strony w mediach społecznościowych (Facebook, LinkedIn). Automatycznie generujemy dedykowane grafiki i opisy dla każdego miasta i branży.",
+    "advantages": [
+      "Zwiększenie klikalności (CTR) linków udostępnianych na Facebooku / LinkedInie.",
+      "Dynamiczne generowanie miniaturek (og:image) dopasowanych do lokalizacji użytkownika.",
+      "Profesjonalny wygląd marki w mediach społecznościowych."
+    ],
+    "faq": [
+      {
+        "q": "Jak testujemy meta-tagi Open Graph?",
+        "a": "Używamy oficjalnych debuggerów (np. Facebook Sharing Debugger) w celu upewnienia się, że grafiki i tytuły ładują się poprawnie."
+      }
+    ]
+  },
+  "en": {
+    "title": "Open Graph – Social Media Optimization",
+    "description": "Open Graph protocol controls how your URLs are previewed on social media platforms. We dynamically generate custom preview images (og:image) and descriptive text.",
+    "advantages": [
+      "Higher Click-Through Rates (CTR) on platforms like Facebook or LinkedIn.",
+      "Dynamic open graph graphics based on the specific page content.",
+      "Consistent and premium brand presentation across the web."
+    ],
+    "faq": [
+      {
+        "q": "How do you verify Open Graph tags?",
+        "a": "We use official debuggers (e.g., Facebook Crawler Debugger) to validate caching and image sizes."
+      }
+    ]
+  },
+  "de": {
+    "title": "Open Graph – Technologie-Lösungen für maximale Leistung",
+    "description": "Open Graph Wir setzen moderne Frameworks und Tools ein, um blitzschnelle, SEO-optimierte Websites zu erstellen, die Konversionen steigern.",
+    "advantages": [
+      "Optimiert mit Open Graph: Higher Click-Through Rates (CTR) on platforms like Facebook or LinkedIn.",
+      "Optimiert mit Open Graph: Dynamic open graph graphics based on the specific page content.",
+      "Optimiert mit Open Graph: Consistent and premium brand presentation across the web."
+    ],
+    "faq": [
+      {
+        "q": "How do you verify Open Graph tags? (Open Graph)",
+        "a": "We use official debuggers (e.g., Facebook Crawler Debugger) to validate caching and image sizes."
+      }
+    ]
+  },
+  "uk": {
+    "title": "Open Graph – Технологічні рішення для максимальної швидкості",
+    "description": "Open Graph Ми використовуємо найсучасніші технології для розробки ультрашвидких та SEO-оптимізованих веб-сайтів.",
+    "advantages": [
+      "Оптимізовано з Open Graph: Zwiększenie klikalności (CTR) linków udostępnianych na Facebooku / LinkedInie.",
+      "Оптимізовано з Open Graph: Dynamiczne generowanie miniaturek (og:image) dopasowanych do lokalizacji użytkownika.",
+      "Оптимізовано з Open Graph: Profesjonalny wygląd marki w mediach społecznościowych."
+    ],
+    "faq": [
+      {
+        "q": "Jak testujemy meta-tagi Open Graph? (Open Graph)",
+        "a": "Używamy oficjalnych debuggerów (np. Facebook Sharing Debugger) w celu upewnienia się, że grafiki i tytuły ładują się poprawnie."
+      }
+    ]
+  },
+  "ru": {
+    "title": "Open Graph – Технологические решения для максимальной производительности",
+    "description": "Open Graph Мы используем современные инструменты для создания сверхбыстрых и оптимизированных под SEO сайтов.",
+    "advantages": [
+      "Оптимизировано с Open Graph: Zwiększenie klikalności (CTR) linków udostępnianych na Facebooku / LinkedInie.",
+      "Оптимизировано с Open Graph: Dynamiczne generowanie miniaturek (og:image) dopasowanych do lokalizacji użytkownika.",
+      "Оптимизировано с Open Graph: Profesjonalny wygląd marki w mediach społecznościowych."
+    ],
+    "faq": [
+      {
+        "q": "Jak testujemy meta-tagi Open Graph? (Open Graph)",
+        "a": "Używamy oficjalnych debuggerów (np. Facebook Sharing Debugger) w celu upewnienia się, że grafiki i tytuły ładują się poprawnie."
+      }
+    ]
+  },
+  "zh": {
+    "title": "Open Graph – 提升性能与SEO的现代技术解决方案",
+    "description": "Open Graph 我们采用前沿的技术架构，为您构建加载极快、极致SEO优化的专业企业级网站。",
+    "advantages": [
+      "使用 Open Graph 优化：Zwiększenie klikalności (CTR) linków udostępnianych na Facebooku / LinkedInie.",
+      "使用 Open Graph 优化：Dynamiczne generowanie miniaturek (og:image) dopasowanych do lokalizacji użytkownika.",
+      "使用 Open Graph 优化：Profesjonalny wygląd marki w mediach społecznościowych."
+    ],
+    "faq": [
+      {
+        "q": "Jak testujemy meta-tagi Open Graph? (Open Graph)",
+        "a": "Używamy oficjalnych debuggerów (np. Facebook Sharing Debugger) w celu upewnienia się, że grafiki i tytuły ładują się poprawnie."
+      }
+    ]
+  }
+}

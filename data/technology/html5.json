@@ -1,0 +1,92 @@
+{
+  "pl": {
+    "title": "HTML5 – Semantyczny i czysty kod witryny",
+    "description": "HTML5 to fundament każdej nowoczesnej witryny. Dbamy o poprawną semantykę kodu (użycie tagów header, article, section), co bezpośrednio przekłada się na lepszą ocenę strony przez boty indeksujące Google.",
+    "advantages": [
+      "Semantyczna struktura ułatwiająca indeksację robotom SEO.",
+      "Wbudowana obsługa multimediów (tagi video, audio) bez ciężkich odtwarzaczy.",
+      "Pełna zgodność z czytnikami ekranu dla osób z niepełnosprawnościami (Dostępność / WCAG)."
+    ],
+    "faq": [
+      {
+        "q": "Czy semantyka HTML ma znaczenie dla SEO?",
+        "a": "Tak. Odpowiednia hierarchia nagłówków (H1-H6) i tagów semantycznych wskazuje Google najważniejsze treści na Twojej stronie."
+      }
+    ]
+  },
+  "en": {
+    "title": "HTML5 – Semantic and Clean Web Standards",
+    "description": "HTML5 forms the structural layer of all web apps. We build correct semantic documents (using header, main, section tags), which help search engines read and rank your pages.",
+    "advantages": [
+      "Semantic structures for search engine context discovery.",
+      "Native media streaming tags (video, audio) omitting external player bloat.",
+      "Strict accessibility standards compliance (WCAG / Screen Readers)."
+    ],
+    "faq": [
+      {
+        "q": "Is HTML semantics important for SEO?",
+        "a": "Yes. Headings (H1-H6) and semantic landmarks guide search engines to the most valuable keywords on the page."
+      }
+    ]
+  },
+  "de": {
+    "title": "HTML5 – Technologie-Lösungen für maximale Leistung",
+    "description": "HTML5 Wir setzen moderne Frameworks und Tools ein, um blitzschnelle, SEO-optimierte Websites zu erstellen, die Konversionen steigern.",
+    "advantages": [
+      "Optimiert mit HTML5: Semantic structures for search engine context discovery.",
+      "Optimiert mit HTML5: Native media streaming tags (video, audio) omitting external player bloat.",
+      "Optimiert mit HTML5: Strict accessibility standards compliance (WCAG / Screen Readers)."
+    ],
+    "faq": [
+      {
+        "q": "Is HTML semantics important for SEO? (HTML5)",
+        "a": "Yes. Headings (H1-H6) and semantic landmarks guide search engines to the most valuable keywords on the page."
+      }
+    ]
+  },
+  "uk": {
+    "title": "HTML5 – Технологічні рішення для максимальної швидкості",
+    "description": "HTML5 Ми використовуємо найсучасніші технології для розробки ультрашвидких та SEO-оптимізованих веб-сайтів.",
+    "advantages": [
+      "Оптимізовано з HTML5: Semantyczna struktura ułatwiająca indeksację robotom SEO.",
+      "Оптимізовано з HTML5: Wbudowana obsługa multimediów (tagi video, audio) bez ciężkich odtwarzaczy.",
+      "Оптимізовано з HTML5: Pełna zgodność z czytnikami ekranu dla osób z niepełnosprawnościami (Dostępność / WCAG)."
+    ],
+    "faq": [
+      {
+        "q": "Czy semantyka HTML ma znaczenie dla SEO? (HTML5)",
+        "a": "Tak. Odpowiednia hierarchia nagłówków (H1-H6) i tagów semantycznych wskazuje Google najważniejsze treści na Twojej stronie."
+      }
+    ]
+  },
+  "ru": {
+    "title": "HTML5 – Технологические решения для максимальной производительности",
+    "description": "HTML5 Мы используем современные инструменты для создания сверхбыстрых и оптимизированных под SEO сайтов.",
+    "advantages": [
+      "Оптимизировано с HTML5: Semantyczna struktura ułatwiająca indeksację robotom SEO.",
+      "Оптимизировано с HTML5: Wbudowana obsługa multimediów (tagi video, audio) bez ciężkich odtwarzaczy.",
+      "Оптимизировано с HTML5: Pełna zgodność z czytnikami ekranu dla osób z niepełnosprawnościami (Dostępność / WCAG)."
+    ],
+    "faq": [
+      {
+        "q": "Czy semantyka HTML ma znaczenie dla SEO? (HTML5)",
+        "a": "Tak. Odpowiednia hierarchia nagłówków (H1-H6) i tagów semantycznych wskazuje Google najważniejsze treści na Twojej stronie."
+      }
+    ]
+  },
+  "zh": {
+    "title": "HTML5 – 提升性能与SEO的现代技术解决方案",
+    "description": "HTML5 我们采用前沿的技术架构，为您构建加载极快、极致SEO优化的专业企业级网站。",
+    "advantages": [
+      "使用 HTML5 优化：Semantyczna struktura ułatwiająca indeksację robotom SEO.",
+      "使用 HTML5 优化：Wbudowana obsługa multimediów (tagi video, audio) bez ciężkich odtwarzaczy.",
+      "使用 HTML5 优化：Pełna zgodność z czytnikami ekranu dla osób z niepełnosprawnościami (Dostępność / WCAG)."
+    ],
+    "faq": [
+      {
+        "q": "Czy semantyka HTML ma znaczenie dla SEO? (HTML5)",
+        "a": "Tak. Odpowiednia hierarchia nagłówków (H1-H6) i tagów semantycznych wskazuje Google najważniejsze treści na Twojej stronie."
+      }
+    ]
+  }
+}

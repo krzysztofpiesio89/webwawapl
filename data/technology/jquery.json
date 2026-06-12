@@ -1,0 +1,92 @@
+{
+  "pl": {
+    "title": "jQuery – Klasyczna biblioteka skryptów",
+    "description": "jQuery to kultowa biblioteka JavaScript. Używamy jej wyłącznie w starszych, modernizowanych projektach lub gdy klient posiada specyficzne wtyczki wymagające tego wsparcia, zawsze dbając o optymalną konfigurację.",
+    "advantages": [
+      "Szeroka kompatybilność ze starszymi systemami i wtyczkami.",
+      "Łatwe animacje i manipulacja drzewem DOM w prostych witrynach.",
+      "Sprawdzona stabilność na milionach stron na świecie."
+    ],
+    "faq": [
+      {
+        "q": "Czy jQuery spowalnia nowoczesną stronę?",
+        "a": "Może dodawać niepotrzebny narzut (ok. 30KB). Jeśli budujemy stronę od podstaw, wolimy użyć nowoczesnego JavaScriptu (Vanilla ES6) lub Astro."
+      }
+    ]
+  },
+  "en": {
+    "title": "jQuery – Classic JavaScript Utilities",
+    "description": "jQuery is a legendary script library. We limit its usage to legacy system modernizations or specific plugins, ensuring it is deferred to minimize performance impacts.",
+    "advantages": [
+      "Maximum compatibility with legacy systems and web templates.",
+      "Simple DOM traversal and legacy animation fallback scripts.",
+      "Battle-tested stability across millions of production sites."
+    ],
+    "faq": [
+      {
+        "q": "Does jQuery slow down page speeds?",
+        "a": "It introduces a ~30KB bundle. When developing fresh websites, we replace it with Vanilla JS ES6 or Astro to optimize performance."
+      }
+    ]
+  },
+  "de": {
+    "title": "jQuery – Technologie-Lösungen für maximale Leistung",
+    "description": "jQuery Wir setzen moderne Frameworks und Tools ein, um blitzschnelle, SEO-optimierte Websites zu erstellen, die Konversionen steigern.",
+    "advantages": [
+      "Optimiert mit jQuery: Maximum compatibility with legacy systems and web templates.",
+      "Optimiert mit jQuery: Simple DOM traversal and legacy animation fallback scripts.",
+      "Optimiert mit jQuery: Battle-tested stability across millions of production sites."
+    ],
+    "faq": [
+      {
+        "q": "Does jQuery slow down page speeds? (jQuery)",
+        "a": "It introduces a ~30KB bundle. When developing fresh websites, we replace it with Vanilla JS ES6 or Astro to optimize performance."
+      }
+    ]
+  },
+  "uk": {
+    "title": "jQuery – Технологічні рішення для максимальної швидкості",
+    "description": "jQuery Ми використовуємо найсучасніші технології для розробки ультрашвидких та SEO-оптимізованих веб-сайтів.",
+    "advantages": [
+      "Оптимізовано з jQuery: Szeroka kompatybilność ze starszymi systemami i wtyczkami.",
+      "Оптимізовано з jQuery: Łatwe animacje i manipulacja drzewem DOM w prostych witrynach.",
+      "Оптимізовано з jQuery: Sprawdzona stabilność na milionach stron na świecie."
+    ],
+    "faq": [
+      {
+        "q": "Czy jQuery spowalnia nowoczesną stronę? (jQuery)",
+        "a": "Może dodawać niepotrzebny narzut (ok. 30KB). Jeśli budujemy stronę od podstaw, wolimy użyć nowoczesnego JavaScriptu (Vanilla ES6) lub Astro."
+      }
+    ]
+  },
+  "ru": {
+    "title": "jQuery – Технологические решения для максимальной производительности",
+    "description": "jQuery Мы используем современные инструменты для создания сверхбыстрых и оптимизированных под SEO сайтов.",
+    "advantages": [
+      "Оптимизировано с jQuery: Szeroka kompatybilność ze starszymi systemami i wtyczkami.",
+      "Оптимизировано с jQuery: Łatwe animacje i manipulacja drzewem DOM w prostych witrynach.",
+      "Оптимизировано с jQuery: Sprawdzona stabilność na milionach stron na świecie."
+    ],
+    "faq": [
+      {
+        "q": "Czy jQuery spowalnia nowoczesną stronę? (jQuery)",
+        "a": "Może dodawać niepotrzebny narzut (ok. 30KB). Jeśli budujemy stronę od podstaw, wolimy użyć nowoczesnego JavaScriptu (Vanilla ES6) lub Astro."
+      }
+    ]
+  },
+  "zh": {
+    "title": "jQuery – 提升性能与SEO的现代技术解决方案",
+    "description": "jQuery 我们采用前沿的技术架构，为您构建加载极快、极致SEO优化的专业企业级网站。",
+    "advantages": [
+      "使用 jQuery 优化：Szeroka kompatybilność ze starszymi systemami i wtyczkami.",
+      "使用 jQuery 优化：Łatwe animacje i manipulacja drzewem DOM w prostych witrynach.",
+      "使用 jQuery 优化：Sprawdzona stabilność na milionach stron na świecie."
+    ],
+    "faq": [
+      {
+        "q": "Czy jQuery spowalnia nowoczesną stronę? (jQuery)",
+        "a": "Może dodawać niepotrzebny narzut (ok. 30KB). Jeśli budujemy stronę od podstaw, wolimy użyć nowoczesnego JavaScriptu (Vanilla ES6) lub Astro."
+      }
+    ]
+  }
+}

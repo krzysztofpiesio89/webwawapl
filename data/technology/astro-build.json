@@ -1,0 +1,116 @@
+{
+  "pl": {
+    "title": "Astro Build – Ultra-szybkie strony dla firm",
+    "description": "Astro to wiodący framework zorientowany na wydajność i SEO. Dzięki architekturze wysp (Islands Architecture) ładuje na urządzeniach klienta absolutne minimum kodu JavaScript, co przekłada się na wyniki 100/100 w PageSpeed Insights.",
+    "advantages": [
+      "Znikoma waga i natychmiastowe ładowanie stron (zero-JS by default).",
+      "Zoptymalizowany pod kątem lokalnego SEO (generowanie statyczne SSG).",
+      "Bezpieczeństwo i stabilność dzięki kompilacji w czasie budowania."
+    ],
+    "faq": [
+      {
+        "q": "Dlaczego warto wybrać Astro do strony lokalnej?",
+        "a": "Dla lokalnych biznesów szybkość ładowania na telefonach to kluczowy czynnik w Google. Astro gwarantuje zerowe opóźnienia i brak narzutu JS."
+      },
+      {
+        "q": "Czy Astro wspiera aplikacje dynamiczne?",
+        "a": "Tak, pozwala na wstrzykiwanie wysp interaktywności w React, Vue lub Svelte tylko tam, gdzie to niezbędne."
+      }
+    ]
+  },
+  "en": {
+    "title": "Astro Build – Ultra-fast websites for business",
+    "description": "Astro is a performance-first framework optimized for SEO. Its unique Islands Architecture reduces client-side JavaScript to a bare minimum, enabling 100/100 PageSpeed scores.",
+    "advantages": [
+      "Minimal footprint and instant page load (zero-JS by default).",
+      "Perfect for local SEO through static site generation (SSG).",
+      "Enhanced security as pages are pre-compiled during build time."
+    ],
+    "faq": [
+      {
+        "q": "Why choose Astro for local websites?",
+        "a": "For local businesses, mobile load speed is a critical ranking factor. Astro guarantees instant loading."
+      },
+      {
+        "q": "Does Astro support dynamic features?",
+        "a": "Yes, it enables interactive React, Vue, or Svelte components only where interactive islands are needed."
+      }
+    ]
+  },
+  "de": {
+    "title": "Astro – Technologie-Lösungen für maximale Leistung",
+    "description": "Astro Wir setzen moderne Frameworks und Tools ein, um blitzschnelle, SEO-optimierte Websites zu erstellen, die Konversionen steigern.",
+    "advantages": [
+      "Optimiert mit Astro: Minimal footprint and instant page load (zero-JS by default).",
+      "Optimiert mit Astro: Perfect for local SEO through static site generation (SSG).",
+      "Optimiert mit Astro: Enhanced security as pages are pre-compiled during build time."
+    ],
+    "faq": [
+      {
+        "q": "Why choose Astro for local websites? (Astro)",
+        "a": "For local businesses, mobile load speed is a critical ranking factor. Astro guarantees instant loading."
+      },
+      {
+        "q": "Does Astro support dynamic features? (Astro)",
+        "a": "Yes, it enables interactive React, Vue, or Svelte components only where interactive islands are needed."
+      }
+    ]
+  },
+  "uk": {
+    "title": "Astro – Технологічні рішення для максимальної швидкості",
+    "description": "Astro Ми використовуємо найсучасніші технології для розробки ультрашвидких та SEO-оптимізованих веб-сайтів.",
+    "advantages": [
+      "Оптимізовано з Astro: Znikoma waga i natychmiastowe ładowanie stron (zero-JS by default).",
+      "Оптимізовано з Astro: Zoptymalizowany pod kątem lokalnego SEO (generowanie statyczne SSG).",
+      "Оптимізовано з Astro: Bezpieczeństwo i stabilność dzięki kompilacji w czasie budowania."
+    ],
+    "faq": [
+      {
+        "q": "Dlaczego warto wybrać Astro do strony lokalnej? (Astro)",
+        "a": "Dla lokalnych biznesów szybkość ładowania na telefonach to kluczowy czynnik w Google. Astro gwarantuje zerowe opóźnienia i brak narzutu JS."
+      },
+      {
+        "q": "Czy Astro wspiera aplikacje dynamiczne? (Astro)",
+        "a": "Tak, pozwala na wstrzykiwanie wysp interaktywności w React, Vue lub Svelte tylko tam, gdzie to niezbędne."
+      }
+    ]
+  },
+  "ru": {
+    "title": "Astro – Технологические решения для максимальной производительности",
+    "description": "Astro Мы используем современные инструменты для создания сверхбыстрых и оптимизированных под SEO сайтов.",
+    "advantages": [
+      "Оптимизировано с Astro: Znikoma waga i natychmiastowe ładowanie stron (zero-JS by default).",
+      "Оптимизировано с Astro: Zoptymalizowany pod kątem lokalnego SEO (generowanie statyczne SSG).",
+      "Оптимизировано с Astro: Bezpieczeństwo i stabilność dzięki kompilacji w czasie budowania."
+    ],
+    "faq": [
+      {
+        "q": "Dlaczego warto wybrać Astro do strony lokalnej? (Astro)",
+        "a": "Dla lokalnych biznesów szybkość ładowania na telefonach to kluczowy czynnik w Google. Astro gwarantuje zerowe opóźnienia i brak narzutu JS."
+      },
+      {
+        "q": "Czy Astro wspiera aplikacje dynamiczne? (Astro)",
+        "a": "Tak, pozwala na wstrzykiwanie wysp interaktywności w React, Vue lub Svelte tylko tam, gdzie to niezbędne."
+      }
+    ]
+  },
+  "zh": {
+    "title": "Astro – 提升性能与SEO的现代技术解决方案",
+    "description": "Astro 我们采用前沿的技术架构，为您构建加载极快、极致SEO优化的专业企业级网站。",
+    "advantages": [
+      "使用 Astro 优化：Znikoma waga i natychmiastowe ładowanie stron (zero-JS by default).",
+      "使用 Astro 优化：Zoptymalizowany pod kątem lokalnego SEO (generowanie statyczne SSG).",
+      "使用 Astro 优化：Bezpieczeństwo i stabilność dzięki kompilacji w czasie budowania."
+    ],
+    "faq": [
+      {
+        "q": "Dlaczego warto wybrać Astro do strony lokalnej? (Astro)",
+        "a": "Dla lokalnych biznesów szybkość ładowania na telefonach to kluczowy czynnik w Google. Astro gwarantuje zerowe opóźnienia i brak narzutu JS."
+      },
+      {
+        "q": "Czy Astro wspiera aplikacje dynamiczne? (Astro)",
+        "a": "Tak, pozwala na wstrzykiwanie wysp interaktywności w React, Vue lub Svelte tylko tam, gdzie to niezbędne."
+      }
+    ]
+  }
+}

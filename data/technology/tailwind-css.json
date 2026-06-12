@@ -1,0 +1,92 @@
+{
+  "pl": {
+    "title": "Tailwind CSS – Nowoczesne i szybkie stylowanie interfejsów",
+    "description": "Tailwind CSS to biblioteka klas narzędziowych, która rewolucjonizuje tworzenie stylów CSS. Generuje ultra-małe pliki wynikowe (dzięki mechanizmowi Purge), co drastycznie skraca czas wczytywania strony.",
+    "advantages": [
+      "Niewielki rozmiar pliku CSS (często poniżej 15KB po kompresji).",
+      "Brak spowolnienia renderowania strony przez przeglądarkę (eliminacja blokującego CSS).",
+      "Pełna responsywność (Mobile-First) budowana bezpośrednio w kodzie HTML."
+    ],
+    "faq": [
+      {
+        "q": "Czy Tailwind obciąża stronę?",
+        "a": "Nie, wprost przeciwnie. Tailwind kompiluje tylko te klasy, których rzeczywiście używasz, usuwając całą resztę kodu CSS."
+      }
+    ]
+  },
+  "en": {
+    "title": "Tailwind CSS – Modern styling utilities",
+    "description": "Tailwind CSS compiles highly optimized stylesheets. By purging unused rules, it produces minimal CSS file sizes, accelerating initial browser page render times.",
+    "advantages": [
+      "Extremely small CSS bundle sizes (often under 15KB compressed).",
+      "Eliminates render-blocking stylesheets for faster loading.",
+      "Native Mobile-First responsiveness designed inline."
+    ],
+    "faq": [
+      {
+        "q": "Does Tailwind make the site heavy?",
+        "a": "No. Tailwind scans your files and builds a utility-first bundle containing only the CSS rules that you actually use."
+      }
+    ]
+  },
+  "de": {
+    "title": "Tailwind CSS – Technologie-Lösungen für maximale Leistung",
+    "description": "Tailwind CSS Wir setzen moderne Frameworks und Tools ein, um blitzschnelle, SEO-optimierte Websites zu erstellen, die Konversionen steigern.",
+    "advantages": [
+      "Optimiert mit Tailwind CSS: Extremely small CSS bundle sizes (often under 15KB compressed).",
+      "Optimiert mit Tailwind CSS: Eliminates render-blocking stylesheets for faster loading.",
+      "Optimiert mit Tailwind CSS: Native Mobile-First responsiveness designed inline."
+    ],
+    "faq": [
+      {
+        "q": "Does Tailwind make the site heavy? (Tailwind CSS)",
+        "a": "No. Tailwind scans your files and builds a utility-first bundle containing only the CSS rules that you actually use."
+      }
+    ]
+  },
+  "uk": {
+    "title": "Tailwind CSS – Технологічні рішення для максимальної швидкості",
+    "description": "Tailwind CSS Ми використовуємо найсучасніші технології для розробки ультрашвидких та SEO-оптимізованих веб-сайтів.",
+    "advantages": [
+      "Оптимізовано з Tailwind CSS: Niewielki rozmiar pliku CSS (często poniżej 15KB po kompresji).",
+      "Оптимізовано з Tailwind CSS: Brak spowolnienia renderowania strony przez przeglądarkę (eliminacja blokującego CSS).",
+      "Оптимізовано з Tailwind CSS: Pełna responsywność (Mobile-First) budowana bezpośrednio w kodzie HTML."
+    ],
+    "faq": [
+      {
+        "q": "Czy Tailwind obciąża stronę? (Tailwind CSS)",
+        "a": "Nie, wprost przeciwnie. Tailwind kompiluje tylko te klasy, których rzeczywiście używasz, usuwając całą resztę kodu CSS."
+      }
+    ]
+  },
+  "ru": {
+    "title": "Tailwind CSS – Технологические решения для максимальной производительности",
+    "description": "Tailwind CSS Мы используем современные инструменты для создания сверхбыстрых и оптимизированных под SEO сайтов.",
+    "advantages": [
+      "Оптимизировано с Tailwind CSS: Niewielki rozmiar pliku CSS (często poniżej 15KB po kompresji).",
+      "Оптимизировано с Tailwind CSS: Brak spowolnienia renderowania strony przez przeglądarkę (eliminacja blokującego CSS).",
+      "Оптимизировано с Tailwind CSS: Pełna responsywność (Mobile-First) budowana bezpośrednio w kodzie HTML."
+    ],
+    "faq": [
+      {
+        "q": "Czy Tailwind obciąża stronę? (Tailwind CSS)",
+        "a": "Nie, wprost przeciwnie. Tailwind kompiluje tylko te klasy, których rzeczywiście używasz, usuwając całą resztę kodu CSS."
+      }
+    ]
+  },
+  "zh": {
+    "title": "Tailwind CSS – 提升性能与SEO的现代技术解决方案",
+    "description": "Tailwind CSS 我们采用前沿的技术架构，为您构建加载极快、极致SEO优化的专业企业级网站。",
+    "advantages": [
+      "使用 Tailwind CSS 优化：Niewielki rozmiar pliku CSS (często poniżej 15KB po kompresji).",
+      "使用 Tailwind CSS 优化：Brak spowolnienia renderowania strony przez przeglądarkę (eliminacja blokującego CSS).",
+      "使用 Tailwind CSS 优化：Pełna responsywność (Mobile-First) budowana bezpośrednio w kodzie HTML."
+    ],
+    "faq": [
+      {
+        "q": "Czy Tailwind obciąża stronę? (Tailwind CSS)",
+        "a": "Nie, wprost przeciwnie. Tailwind kompiluje tylko te klasy, których rzeczywiście używasz, usuwając całą resztę kodu CSS."
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "pl": {
+    "title": "Next.js – Nowoczesne i skalowalne aplikacje webowe",
+    "description": "Next.js to potężny framework oparty na React, oferujący rendering po stronie serwera (SSR), generowanie statyczne (SSG) oraz hybrydowe. Idealny do budowania dynamicznych serwisów wymagających zaawansowanej logiki.",
+    "advantages": [
+      "Optymalne renderowanie (SSR/SSG) ułatwiające robotom Google pełną indeksację.",
+      "Wbudowana optymalizacja obrazów (next/image) oraz fontów dla lepszego Core Web Vitals.",
+      "Płynna nawigacja po stronie klienta bez przeładowywania całej strony."
+    ],
+    "faq": [
+      {
+        "q": "Dlaczego Next.js jest wybierany przez duże serwisy?",
+        "a": "Zapewnia połączenie doskonałego SEO dzięki renderowaniu na serwerze z dynamiką aplikacji SPA."
+      },
+      {
+        "q": "Czy Next.js nadaje się do e-commerce?",
+        "a": "Tak, to standard w architekturze Headless Commerce współpracujący z Shopify czy WooCommerce."
+      }
+    ]
+  },
+  "en": {
+    "title": "Next.js – Scalable react applications",
+    "description": "Next.js is a powerful framework built on React, providing Server-Side Rendering (SSR) and Static Site Generation (SSG). It is perfect for dynamic web apps with complex logic.",
+    "advantages": [
+      "Server rendering makes indexing straightforward for search crawlers.",
+      "Built-in image and font optimizations out of the box.",
+      "Seamless routing and fast client-side client navigations."
+    ],
+    "faq": [
+      {
+        "q": "Why do major applications choose Next.js?",
+        "a": "It bridges the gap between top SEO rankings through SSR and rich dynamic frontend capabilities."
+      },
+      {
+        "q": "Is Next.js suitable for e-commerce?",
+        "a": "Yes, it is the industry standard for Headless Commerce integrations."
+      }
+    ]
+  },
+  "de": {
+    "title": "Next.js – Technologie-Lösungen für maximale Leistung",
+    "description": "Next.js Wir setzen moderne Frameworks und Tools ein, um blitzschnelle, SEO-optimierte Websites zu erstellen, die Konversionen steigern.",
+    "advantages": [
+      "Optimiert mit Next.js: Server rendering makes indexing straightforward for search crawlers.",
+      "Optimiert mit Next.js: Built-in image and font optimizations out of the box.",
+      "Optimiert mit Next.js: Seamless routing and fast client-side client navigations."
+    ],
+    "faq": [
+      {
+        "q": "Why do major applications choose Next.js? (Next.js)",
+        "a": "It bridges the gap between top SEO rankings through SSR and rich dynamic frontend capabilities."
+      },
+      {
+        "q": "Is Next.js suitable for e-commerce? (Next.js)",
+        "a": "Yes, it is the industry standard for Headless Commerce integrations."
+      }
+    ]
+  },
+  "uk": {
+    "title": "Next.js – Технологічні рішення для максимальної швидкості",
+    "description": "Next.js Ми використовуємо найсучасніші технології для розробки ультрашвидких та SEO-оптимізованих веб-сайтів.",
+    "advantages": [
+      "Оптимізовано з Next.js: Optymalne renderowanie (SSR/SSG) ułatwiające robotom Google pełną indeksację.",
+      "Оптимізовано з Next.js: Wbudowana optymalizacja obrazów (next/image) oraz fontów dla lepszego Core Web Vitals.",
+      "Оптимізовано з Next.js: Płynna nawigacja po stronie klienta bez przeładowywania całej strony."
+    ],
+    "faq": [
+      {
+        "q": "Dlaczego Next.js jest wybierany przez duże serwisy? (Next.js)",
+        "a": "Zapewnia połączenie doskonałego SEO dzięki renderowaniu na serwerze z dynamiką aplikacji SPA."
+      },
+      {
+        "q": "Czy Next.js nadaje się do e-commerce? (Next.js)",
+        "a": "Tak, to standard w architekturze Headless Commerce współpracujący z Shopify czy WooCommerce."
+      }
+    ]
+  },
+  "ru": {
+    "title": "Next.js – Технологические решения для максимальной производительности",
+    "description": "Next.js Мы используем современные инструменты для создания сверхбыстрых и оптимизированных под SEO сайтов.",
+    "advantages": [
+      "Оптимизировано с Next.js: Optymalne renderowanie (SSR/SSG) ułatwiające robotom Google pełną indeksację.",
+      "Оптимизировано с Next.js: Wbudowana optymalizacja obrazów (next/image) oraz fontów dla lepszego Core Web Vitals.",
+      "Оптимизировано с Next.js: Płynna nawigacja po stronie klienta bez przeładowywania całej strony."
+    ],
+    "faq": [
+      {
+        "q": "Dlaczego Next.js jest wybierany przez duże serwisy? (Next.js)",
+        "a": "Zapewnia połączenie doskonałego SEO dzięki renderowaniu na serwerze z dynamiką aplikacji SPA."
+      },
+      {
+        "q": "Czy Next.js nadaje się do e-commerce? (Next.js)",
+        "a": "Tak, to standard w architekturze Headless Commerce współpracujący z Shopify czy WooCommerce."
+      }
+    ]
+  },
+  "zh": {
+    "title": "Next.js – 提升性能与SEO的现代技术解决方案",
+    "description": "Next.js 我们采用前沿的技术架构，为您构建加载极快、极致SEO优化的专业企业级网站。",
+    "advantages": [
+      "使用 Next.js 优化：Optymalne renderowanie (SSR/SSG) ułatwiające robotom Google pełną indeksację.",
+      "使用 Next.js 优化：Wbudowana optymalizacja obrazów (next/image) oraz fontów dla lepszego Core Web Vitals.",
+      "使用 Next.js 优化：Płynna nawigacja po stronie klienta bez przeładowywania całej strony."
+    ],
+    "faq": [
+      {
+        "q": "Dlaczego Next.js jest wybierany przez duże serwisy? (Next.js)",
+        "a": "Zapewnia połączenie doskonałego SEO dzięki renderowaniu na serwerze z dynamiką aplikacji SPA."
+      },
+      {
+        "q": "Czy Next.js nadaje się do e-commerce? (Next.js)",
+        "a": "Tak, to standard w architekturze Headless Commerce współpracujący z Shopify czy WooCommerce."
+      }
+    ]
+  }
+}

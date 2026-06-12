@@ -1,0 +1,92 @@
+{
+  "pl": {
+    "title": "PostgreSQL – Najbardziej zaawansowana baza danych",
+    "description": "PostgreSQL to potężny, open-sourceowy system relacyjnych baz danych. Obsługuje zaawansowane typy danych (np. JSONB, wyszukiwanie pełnotekstowe) oraz skomplikowane relacje w dużych aplikacjach SaaS.",
+    "advantages": [
+      "Znakomite wsparcie dla danych JSONB (hybryda SQL i NoSQL).",
+      "Zaawansowane mechanizmy indeksowania i wyszukiwania pełnotekstowego.",
+      "Obsługa skomplikowanych procedur składowanych i wyzwalaczy."
+    ],
+    "faq": [
+      {
+        "q": "Czym PostgreSQL różni się od MySQL?",
+        "a": "Jest bardziej zaawansowany pod kątem zgodności ze standardami SQL oraz radzi sobie lepiej ze skomplikowanymi zapytaniami analitycznymi."
+      }
+    ]
+  },
+  "en": {
+    "title": "PostgreSQL – Advanced Relational Database Systems",
+    "description": "PostgreSQL is a powerful object-relational database. It supports advanced queries, indexing, and JSONB fields, bridging relational and document-based paradigms.",
+    "advantages": [
+      "Native JSONB support enabling unstructured document queries.",
+      "Sophisticated indexing and full-text search indexing.",
+      "ACID compliance with complex transactions."
+    ],
+    "faq": [
+      {
+        "q": "Why choose PostgreSQL over MySQL?",
+        "a": "PostgreSQL excels at handling complex schemas, analytical operations, and dynamic JSON queries."
+      }
+    ]
+  },
+  "de": {
+    "title": "PostgreSQL – Technologie-Lösungen für maximale Leistung",
+    "description": "PostgreSQL Wir setzen moderne Frameworks und Tools ein, um blitzschnelle, SEO-optimierte Websites zu erstellen, die Konversionen steigern.",
+    "advantages": [
+      "Optimiert mit PostgreSQL: Native JSONB support enabling unstructured document queries.",
+      "Optimiert mit PostgreSQL: Sophisticated indexing and full-text search indexing.",
+      "Optimiert mit PostgreSQL: ACID compliance with complex transactions."
+    ],
+    "faq": [
+      {
+        "q": "Why choose PostgreSQL over MySQL? (PostgreSQL)",
+        "a": "PostgreSQL excels at handling complex schemas, analytical operations, and dynamic JSON queries."
+      }
+    ]
+  },
+  "uk": {
+    "title": "PostgreSQL – Технологічні рішення для максимальної швидкості",
+    "description": "PostgreSQL Ми використовуємо найсучасніші технології для розробки ультрашвидких та SEO-оптимізованих веб-сайтів.",
+    "advantages": [
+      "Оптимізовано з PostgreSQL: Znakomite wsparcie dla danych JSONB (hybryda SQL i NoSQL).",
+      "Оптимізовано з PostgreSQL: Zaawansowane mechanizmy indeksowania i wyszukiwania pełnotekstowego.",
+      "Оптимізовано з PostgreSQL: Obsługa skomplikowanych procedur składowanych i wyzwalaczy."
+    ],
+    "faq": [
+      {
+        "q": "Czym PostgreSQL różni się od MySQL? (PostgreSQL)",
+        "a": "Jest bardziej zaawansowany pod kątem zgodności ze standardami SQL oraz radzi sobie lepiej ze skomplikowanymi zapytaniami analitycznymi."
+      }
+    ]
+  },
+  "ru": {
+    "title": "PostgreSQL – Технологические решения для максимальной производительности",
+    "description": "PostgreSQL Мы используем современные инструменты для создания сверхбыстрых и оптимизированных под SEO сайтов.",
+    "advantages": [
+      "Оптимизировано с PostgreSQL: Znakomite wsparcie dla danych JSONB (hybryda SQL i NoSQL).",
+      "Оптимизировано с PostgreSQL: Zaawansowane mechanizmy indeksowania i wyszukiwania pełnotekstowego.",
+      "Оптимизировано с PostgreSQL: Obsługa skomplikowanych procedur składowanych i wyzwalaczy."
+    ],
+    "faq": [
+      {
+        "q": "Czym PostgreSQL różni się od MySQL? (PostgreSQL)",
+        "a": "Jest bardziej zaawansowany pod kątem zgodności ze standardami SQL oraz radzi sobie lepiej ze skomplikowanymi zapytaniami analitycznymi."
+      }
+    ]
+  },
+  "zh": {
+    "title": "PostgreSQL – 提升性能与SEO的现代技术解决方案",
+    "description": "PostgreSQL 我们采用前沿的技术架构，为您构建加载极快、极致SEO优化的专业企业级网站。",
+    "advantages": [
+      "使用 PostgreSQL 优化：Znakomite wsparcie dla danych JSONB (hybryda SQL i NoSQL).",
+      "使用 PostgreSQL 优化：Zaawansowane mechanizmy indeksowania i wyszukiwania pełnotekstowego.",
+      "使用 PostgreSQL 优化：Obsługa skomplikowanych procedur składowanych i wyzwalaczy."
+    ],
+    "faq": [
+      {
+        "q": "Czym PostgreSQL różni się od MySQL? (PostgreSQL)",
+        "a": "Jest bardziej zaawansowany pod kątem zgodności ze standardami SQL oraz radzi sobie lepiej ze skomplikowanymi zapytaniami analitycznymi."
+      }
+    ]
+  }
+}

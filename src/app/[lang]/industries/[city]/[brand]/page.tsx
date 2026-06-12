@@ -9,6 +9,8 @@ import { getCityBySlug } from '@/lib/cities';
 import { getGlobalSettings } from '@/lib/settings';
 import { getDictionary, Locale, ogLocaleMap } from '../../../dictionaries';
 import ContactForm from '@/components/ContactForm';
+import { getTechnologyById } from '@/lib/technology';
+import TechnologyCloud from '@/components/TechnologyCloud';
 import { 
   industrySlugsMap, 
   professionSlugsMap, 
@@ -114,10 +116,12 @@ interface PageProps {
     city: string;
     brand: string;
   }>;
+  searchParams: Promise<{
+    tech?: string;
+  }>;
 }
 
 export async function generateStaticParams() {
-  // We can pre-generate pages for the doctor industry, in all supported languages and cities (including 'all')
   const langs = ['pl', 'en', 'de', 'uk', 'ru', 'zh'];
   const cities = [
     'all',
@@ -142,8 +146,10 @@ export async function generateStaticParams() {
   return paramsList;
 }
 
-export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
+export async function generateMetadata({ params, searchParams }: PageProps): Promise<Metadata> {
   const { lang, city: citySlug, brand: industryId } = await params;
+  const { tech } = await searchParams;
+  
   const industry = getIndustryById(industryId as IndustryId);
   if (!industry) return {};
 
@@ -160,9 +166,14 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     targetAccusative: lang === 'pl' ? 'Klientów' : 'Clients'
   };
 
+  // Obsługa dodatkowego kontekstu technologicznego pod SEO
+  const techData = tech ? getTechnologyById(tech) : null;
+  const techTrans = techData?.translations[lang as Locale];
+  const techSuffix = techTrans ? ` (${techData.name})` : '';
+
   const metaTitles = {
-    pl: `Dedykowane strony i systemy IT dla sektora: ${localizedBrandName} - ${cityName} | webwawa.pl`,
-    en: `Custom Websites & IT for ${localizedBrandName} - ${cityName} | webwawa.pl`,
+    pl: `Dedykowane strony i systemy IT${techSuffix} dla sektora: ${localizedBrandName} - ${cityName} | webwawa.pl`,
+    en: `Custom Websites & IT${techSuffix} for ${localizedBrandName} - ${cityName} | webwawa.pl`,
     de: `Dedizierte Webseiten und IT-Systeme für den Sektor: ${localizedBrandName} - ${cityName} | webwawa.pl`,
     uk: `Індивідуальні сайти та IT-системи для сектору: ${localizedBrandName} - ${cityName} | webwawa.pl`,
     ru: `Индивидуальные сайты и IT-системы для сектора: ${localizedBrandName} - ${cityName} | webwawa.pl`,
@@ -173,13 +184,17 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     pl: `Tworzenie nowoczesnych stron internetowych, aplikacji PWA i pozycjonowanie SEO dla branży: ${localizedBrandName} w lokalizacji ${cityName}. Zwiększ konwersję ${terms.target}.`,
     en: `Designing modern websites, PWA apps, and local SEO positioning for ${localizedBrandName} in ${cityName}. Build trust and acquire more ${terms.target}.`,
     de: `Erstellung moderner Webseiten, PWA-Apps und lokale SEO-Positionierung für die Branche: ${localizedBrandName} in ${cityName}. Steigern Sie die Konversion der ${terms.target}.`,
-    uk: `Створення сучасних веб-сайтів, додатків PWA та локальне просування SEO для галузі: ${localizedBrandName} у ${cityName}. Збільшуйте конверсію для ${terms.target}.`,
+    uk: `Створення nowoczesnych stron internetowych, aplikacji PWA i lokalne prowanie SEO dla branży: ${localizedBrandName} w lokalizacji ${cityName}. Zwiększ konwersję dla ${terms.target}.`,
     ru: `Создание современных веб-сайтов, приложений PWA и локальное продвижение SEO для отрасли: ${localizedBrandName} в ${cityName}. Увеличивайте конверсию для ${terms.target}.`,
     zh: `为在 ${cityName} 的 ${localizedBrandName} 行业提供现代网站建设、PWA 应用设计和本地 SEO 排名优化。提升${terms.target}转化率。`
   };
 
   const title = metaTitles[lang as Locale] || metaTitles.en;
-  const description = metaDescriptions[lang as Locale] || metaDescriptions.en;
+  let description = metaDescriptions[lang as Locale] || metaDescriptions.en;
+  
+  if (techTrans) {
+    description = `${techTrans.description} ${description}`;
+  }
 
   const langPrefix = lang === 'pl' ? '' : `/${lang}`;
   const parentSlug = lang === 'pl' ? 'strona-dla' : 
@@ -187,9 +202,11 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
                      lang === 'de' ? 'webseite-fuer' : 
                      lang === 'uk' ? 'sayt-dlya' : 
                      lang === 'ru' ? 'sayt-dlya' : 'website-for';
+                     
+  const techSuffixUrl = tech ? `/${tech}` : '';
   const canonicalUrl = citySlug === 'all'
-    ? `https://webwawa.pl${langPrefix}/${parentSlug}/${industrySlugsMap[industryId as IndustryId][lang as Locale]}`
-    : `https://webwawa.pl${langPrefix}/${citySlug}/${industrySlugsMap[industryId as IndustryId][lang as Locale]}`;
+    ? `https://webwawa.pl${langPrefix}/${parentSlug}/${industrySlugsMap[industryId as IndustryId][lang as Locale]}${techSuffixUrl}`
+    : `https://webwawa.pl${langPrefix}/${citySlug}/${industrySlugsMap[industryId as IndustryId][lang as Locale]}${techSuffixUrl}`;
 
   let imageUrl = `https://webwawa.pl/images/industries/${industryId}/main.png`;
   const svgPath = path.join(process.cwd(), 'public', 'images', 'industries', industryId, 'main.svg');
@@ -228,8 +245,9 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   };
 }
 
-export default async function IndustryBrandPage({ params }: PageProps) {
+export default async function IndustryBrandPage({ params, searchParams }: PageProps) {
   const { lang, city: citySlug, brand: industryId } = await params;
+  const { tech } = await searchParams;
   const industry = getIndustryById(industryId as IndustryId);
   if (!industry) notFound();
 
@@ -238,6 +256,10 @@ export default async function IndustryBrandPage({ params }: PageProps) {
 
   const trans = industry.translations[lang as Locale];
   if (!trans) notFound();
+
+  const techData = tech ? getTechnologyById(tech) : null;
+  const techTrans = techData?.translations[lang as Locale];
+  const techSuffix = techTrans ? ` + ${techData.name}` : '';
 
   const settings = getGlobalSettings();
   const dict = await getDictionary(lang as Locale);
@@ -260,8 +282,8 @@ export default async function IndustryBrandPage({ params }: PageProps) {
     pl: 'Strona dla',
     en: 'Website for',
     de: 'Webseite für',
-    uk: 'Сайт для',
-    ru: 'Сайт для',
+    uk: 'Сайт dla',
+    ru: 'Сайт dla',
     zh: '网站适用'
   };
   const parentLabel = parentLabelMap[lang as Locale] || 'Website for';
@@ -339,11 +361,11 @@ export default async function IndustryBrandPage({ params }: PageProps) {
 
   return (
     <main className="min-h-screen bg-slate-50 dark:bg-slate-950 text-slate-800 dark:text-white transition-colors duration-300">
-<Script
-          id={`ldjson-industry-${industryId}`}
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify([jsonLd, breadcrumbListJsonLd]) }}
-        />
+      <Script
+        id={`ldjson-industry-${industryId}`}
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify([jsonLd, breadcrumbListJsonLd]) }}
+      />
 
       {/* Hero Section with Aurora */}
       <section className="bg-slate-100 dark:bg-slate-900 py-20 text-slate-900 dark:text-white relative overflow-hidden transition-colors duration-300">
@@ -355,7 +377,7 @@ export default async function IndustryBrandPage({ params }: PageProps) {
               <nav className="flex mb-8 text-sm font-semibold text-slate-500 dark:text-slate-400">
                 <Link href={homeUrl} className="hover:text-primary transition-colors">Home</Link>
                 <span className="mx-2">/</span>
-{city ? (
+                {city ? (
                    <>
                      <Link href={`${lang === 'pl' ? '' : '/' + lang}/${city.slug}`} className="hover:text-primary transition-colors">{city.name}</Link>
                      <span className="mx-2">/</span>
@@ -371,7 +393,7 @@ export default async function IndustryBrandPage({ params }: PageProps) {
               </nav>
 
               <h1 className="text-4xl md:text-6xl font-black uppercase italic tracking-tight mb-6">
-                Dedykowane IT dla branży: <span className="gradient-text">{trans.industryName}</span> - {cityName}
+                Dedykowane IT dla branży: <span className="gradient-text">{trans.industryName}</span>{techSuffix} - {cityName}
               </h1>
               <p className="text-xl opacity-80 leading-relaxed text-slate-650 dark:text-slate-350">
                 {trans.heroSubtitle}
@@ -402,6 +424,28 @@ export default async function IndustryBrandPage({ params }: PageProps) {
               <p className="text-slate-650 dark:text-slate-400 leading-relaxed text-md">
                 {trans.about}
               </p>
+
+              {techTrans && (
+                <div className="my-8 p-6 bg-indigo-50/80 dark:bg-slate-900/40 rounded-2xl border border-indigo-200 dark:border-indigo-500/20 backdrop-blur-sm transition-colors duration-300">
+                  <div className="flex items-center gap-2 mb-3">
+                    <span className="text-xl">🚀</span>
+                    <h3 className="font-bold text-lg text-indigo-800 dark:text-indigo-400">
+                      {techTrans.title}
+                    </h3>
+                  </div>
+                  <p className="text-slate-700 dark:text-slate-300 text-sm leading-relaxed mb-4">
+                    {techTrans.description}
+                  </p>
+                  <ul className="space-y-2">
+                    {techTrans.advantages.map((adv, aIdx) => (
+                      <li key={aIdx} className="flex items-start gap-2 text-xs text-slate-700 dark:text-slate-400">
+                        <span className="text-indigo-600 dark:text-indigo-500 font-bold">✦</span>
+                        <span>{adv}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
               
               {/* Specializations Quick Navigation */}
               <div className="pt-6">
@@ -447,6 +491,41 @@ export default async function IndustryBrandPage({ params }: PageProps) {
               </ul>
             </div>
           </div>
+        </div>
+      </section>
+
+      {/* FAQ dla technologii */}
+      {techTrans?.faq && techTrans.faq.length > 0 && (
+        <section className="py-20 bg-slate-100/50 dark:bg-slate-900/10 border-t border-slate-200 dark:border-slate-900/40">
+          <div className="container mx-auto px-4 max-w-3xl">
+            <h3 className="text-2xl font-black uppercase italic tracking-tight text-slate-900 dark:text-white mb-8 text-center">
+              FAQ – {techData?.name} w branży {trans.industryName}
+            </h3>
+            <div className="space-y-4">
+              {techTrans.faq.map((item, fIdx) => (
+                <div key={fIdx} className="p-6 bg-white dark:bg-slate-900/40 rounded-2xl border border-slate-200 dark:border-slate-800/80 shadow-sm">
+                  <h4 className="font-extrabold text-slate-900 dark:text-white text-base mb-2">
+                    {item.q}
+                  </h4>
+                  <p className="text-sm text-slate-600 dark:text-slate-400 leading-relaxed">
+                    {item.a}
+                  </p>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* Chmura tagów technologii pod SEO */}
+      <section className="py-12 bg-white dark:bg-slate-950 border-t border-slate-200 dark:border-slate-900/40">
+        <div className="container mx-auto px-4 max-w-5xl">
+          <TechnologyCloud
+            lang={lang as Locale}
+            city={citySlug}
+            industryId={industryId as IndustryId}
+            activeTech={tech}
+          />
         </div>
       </section>
 
@@ -522,7 +601,7 @@ export default async function IndustryBrandPage({ params }: PageProps) {
                         <Link
                           key={ri.id}
                           href={`${langPrefix}/${parentSlug}/${ri.slug}`}
-                          className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-sm font-bold text-slate-700 dark:text-slate-300 hover:border-primary/60 hover:text-primary hover:bg-primary/5 transition-all duration-150"
+                          className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-slate-50 dark:bg-slate-900 border border-slate-200/80 dark:border-slate-800 text-sm font-bold text-slate-700 dark:text-slate-300 hover:border-primary/60 hover:text-primary hover:bg-primary/5 transition-all duration-150"
                         >
                           {ri.name} →
                         </Link>

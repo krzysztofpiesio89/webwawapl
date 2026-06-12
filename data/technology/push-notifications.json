@@ -1,0 +1,92 @@
+{
+  "pl": {
+    "title": "Push Notifications – Bezpośredni marketing mobilny",
+    "description": "Web Push pozwala na wysyłanie krótkich powiadomień bezpośrednio na ekrany telefonów i komputerów użytkowników, nawet gdy ich przeglądarka jest zamknięta. Zwiększa powracalność klientów.",
+    "advantages": [
+      "Bezpośredni kanał komunikacji pomijający filtry antyspamowe e-maili.",
+      "Natychmiastowe dotarcie z informacją o promocji czy statusie zamówienia.",
+      "Niski próg subskrypcji – wystarczy jedno kliknięcie użytkownika."
+    ],
+    "faq": [
+      {
+        "q": "Jak działają powiadomienia w tle?",
+        "a": "Wykorzystują technologię Service Workers uruchamianą w tle systemu operacyjnego przez przeglądarkę."
+      }
+    ]
+  },
+  "en": {
+    "title": "Web Push Notifications – Engage Customers Instantly",
+    "description": "Web Push enables sending short messages directly to user devices even when the website is closed. Excellent tool for mobile customer retention.",
+    "advantages": [
+      "Direct communication bypassing cluttered email spam filters.",
+      "Immediate delivery of promotions or booking status updates.",
+      "Frictionless subscribe flow – requires only a single tap."
+    ],
+    "faq": [
+      {
+        "q": "How do push notifications work in background?",
+        "a": "They rely on browser Service Workers that run in the background of the operating system."
+      }
+    ]
+  },
+  "de": {
+    "title": "Push Notifications – Technologie-Lösungen für maximale Leistung",
+    "description": "Push Notifications Wir setzen moderne Frameworks und Tools ein, um blitzschnelle, SEO-optimierte Websites zu erstellen, die Konversionen steigern.",
+    "advantages": [
+      "Optimiert mit Push Notifications: Direct communication bypassing cluttered email spam filters.",
+      "Optimiert mit Push Notifications: Immediate delivery of promotions or booking status updates.",
+      "Optimiert mit Push Notifications: Frictionless subscribe flow – requires only a single tap."
+    ],
+    "faq": [
+      {
+        "q": "How do push notifications work in background? (Push Notifications)",
+        "a": "They rely on browser Service Workers that run in the background of the operating system."
+      }
+    ]
+  },
+  "uk": {
+    "title": "Push Notifications – Технологічні рішення для максимальної швидкості",
+    "description": "Push Notifications Ми використовуємо найсучасніші технології для розробки ультрашвидких та SEO-оптимізованих веб-сайтів.",
+    "advantages": [
+      "Оптимізовано з Push Notifications: Bezpośredni kanał komunikacji pomijający filtry antyspamowe e-maili.",
+      "Оптимізовано з Push Notifications: Natychmiastowe dotarcie z informacją o promocji czy statusie zamówienia.",
+      "Оптимізовано з Push Notifications: Niski próg subskrypcji – wystarczy jedno kliknięcie użytkownika."
+    ],
+    "faq": [
+      {
+        "q": "Jak działają powiadomienia w tle? (Push Notifications)",
+        "a": "Wykorzystują technologię Service Workers uruchamianą w tle systemu operacyjnego przez przeglądarkę."
+      }
+    ]
+  },
+  "ru": {
+    "title": "Push Notifications – Технологические решения для максимальной производительности",
+    "description": "Push Notifications Мы используем современные инструменты для создания сверхбыстрых и оптимизированных под SEO сайтов.",
+    "advantages": [
+      "Оптимизировано с Push Notifications: Bezpośredni kanał komunikacji pomijający filtry antyspamowe e-maili.",
+      "Оптимизировано с Push Notifications: Natychmiastowe dotarcie z informacją o promocji czy statusie zamówienia.",
+      "Оптимизировано с Push Notifications: Niski próg subskrypcji – wystarczy jedno kliknięcie użytkownika."
+    ],
+    "faq": [
+      {
+        "q": "Jak działają powiadomienia w tle? (Push Notifications)",
+        "a": "Wykorzystują technologię Service Workers uruchamianą w tle systemu operacyjnego przez przeglądarkę."
+      }
+    ]
+  },
+  "zh": {
+    "title": "Push Notifications – 提升性能与SEO的现代技术解决方案",
+    "description": "Push Notifications 我们采用前沿的技术架构，为您构建加载极快、极致SEO优化的专业企业级网站。",
+    "advantages": [
+      "使用 Push Notifications 优化：Bezpośredni kanał komunikacji pomijający filtry antyspamowe e-maili.",
+      "使用 Push Notifications 优化：Natychmiastowe dotarcie z informacją o promocji czy statusie zamówienia.",
+      "使用 Push Notifications 优化：Niski próg subskrypcji – wystarczy jedno kliknięcie użytkownika."
+    ],
+    "faq": [
+      {
+        "q": "Jak działają powiadomienia w tle? (Push Notifications)",
+        "a": "Wykorzystują technologię Service Workers uruchamianą w tle systemu operacyjnego przez przeglądarkę."
+      }
+    ]
+  }
+}

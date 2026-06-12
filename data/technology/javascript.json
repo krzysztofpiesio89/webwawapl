@@ -1,0 +1,92 @@
+{
+  "pl": {
+    "title": "JavaScript – Interaktywność i dynamika",
+    "description": "JavaScript to standard webowy odpowiedzialny za interakcję z użytkownikiem. Wykorzystujemy go na naszych stronach w zminimalizowanej, zoptymalizowanej formie, aby nie opóźniać wczytywania treści.",
+    "advantages": [
+      "Interaktywne elementy (kalkulatory, animacje, filtrowanie na żywo).",
+      "Możliwość tworzenia aplikacji SPA i PWA działających offline.",
+      "Dynamiczne pobieranie danych bez przeładowywania strony (AJAX/Fetch)."
+    ],
+    "faq": [
+      {
+        "q": "Jak optymalizujemy kod JavaScript?",
+        "a": "Minimalizujemy jego użycie do krytycznych interakcji, kompresujemy pliki oraz opóźniamy ładowanie skryptów analitycznych."
+      }
+    ]
+  },
+  "en": {
+    "title": "JavaScript – Dynamic User Interactions",
+    "description": "JavaScript is the universal language of client-side interactivity. We write clean, minified JS to avoid rendering blocks and maintain high performance scores.",
+    "advantages": [
+      "Rich interactive features (calculators, smooth animations, live search).",
+      "Foundation for offline-capable Progressive Web Apps (PWAs).",
+      "Dynamic asynchronous data loading (Fetch API)."
+    ],
+    "faq": [
+      {
+        "q": "How do you optimize JavaScript payload?",
+        "a": "By stripping unused code, splitting bundles, and deferring non-critical scripts like tracking pixels."
+      }
+    ]
+  },
+  "de": {
+    "title": "JavaScript – Technologie-Lösungen für maximale Leistung",
+    "description": "JavaScript Wir setzen moderne Frameworks und Tools ein, um blitzschnelle, SEO-optimierte Websites zu erstellen, die Konversionen steigern.",
+    "advantages": [
+      "Optimiert mit JavaScript: Rich interactive features (calculators, smooth animations, live search).",
+      "Optimiert mit JavaScript: Foundation for offline-capable Progressive Web Apps (PWAs).",
+      "Optimiert mit JavaScript: Dynamic asynchronous data loading (Fetch API)."
+    ],
+    "faq": [
+      {
+        "q": "How do you optimize JavaScript payload? (JavaScript)",
+        "a": "By stripping unused code, splitting bundles, and deferring non-critical scripts like tracking pixels."
+      }
+    ]
+  },
+  "uk": {
+    "title": "JavaScript – Технологічні рішення для максимальної швидкості",
+    "description": "JavaScript Ми використовуємо найсучасніші технології для розробки ультрашвидких та SEO-оптимізованих веб-сайтів.",
+    "advantages": [
+      "Оптимізовано з JavaScript: Interaktywne elementy (kalkulatory, animacje, filtrowanie na żywo).",
+      "Оптимізовано з JavaScript: Możliwość tworzenia aplikacji SPA i PWA działających offline.",
+      "Оптимізовано з JavaScript: Dynamiczne pobieranie danych bez przeładowywania strony (AJAX/Fetch)."
+    ],
+    "faq": [
+      {
+        "q": "Jak optymalizujemy kod JavaScript? (JavaScript)",
+        "a": "Minimalizujemy jego użycie do krytycznych interakcji, kompresujemy pliki oraz opóźniamy ładowanie skryptów analitycznych."
+      }
+    ]
+  },
+  "ru": {
+    "title": "JavaScript – Технологические решения для максимальной производительности",
+    "description": "JavaScript Мы используем современные инструменты для создания сверхбыстрых и оптимизированных под SEO сайтов.",
+    "advantages": [
+      "Оптимизировано с JavaScript: Interaktywne elementy (kalkulatory, animacje, filtrowanie na żywo).",
+      "Оптимизировано с JavaScript: Możliwość tworzenia aplikacji SPA i PWA działających offline.",
+      "Оптимизировано с JavaScript: Dynamiczne pobieranie danych bez przeładowywania strony (AJAX/Fetch)."
+    ],
+    "faq": [
+      {
+        "q": "Jak optymalizujemy kod JavaScript? (JavaScript)",
+        "a": "Minimalizujemy jego użycie do krytycznych interakcji, kompresujemy pliki oraz opóźniamy ładowanie skryptów analitycznych."
+      }
+    ]
+  },
+  "zh": {
+    "title": "JavaScript – 提升性能与SEO的现代技术解决方案",
+    "description": "JavaScript 我们采用前沿的技术架构，为您构建加载极快、极致SEO优化的专业企业级网站。",
+    "advantages": [
+      "使用 JavaScript 优化：Interaktywne elementy (kalkulatory, animacje, filtrowanie na żywo).",
+      "使用 JavaScript 优化：Możliwość tworzenia aplikacji SPA i PWA działających offline.",
+      "使用 JavaScript 优化：Dynamiczne pobieranie danych bez przeładowywania strony (AJAX/Fetch)."
+    ],
+    "faq": [
+      {
+        "q": "Jak optymalizujemy kod JavaScript? (JavaScript)",
+        "a": "Minimalizujemy jego użycie do krytycznych interakcji, kompresujemy pliki oraz opóźniamy ładowanie skryptów analitycznych."
+      }
+    ]
+  }
+}

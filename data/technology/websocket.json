@@ -1,0 +1,92 @@
+{
+  "pl": {
+    "title": "WebSockets – Komunikacja w czasie rzeczywistym",
+    "description": "Protokół WebSockets umożliwia stałe, dwukierunkowe połączenie między przeglądarką klienta a serwerem. Idealny do czatów na żywo, powiadomień instant i systemów aukcyjnych.",
+    "advantages": [
+      "Zerowe opóźnienia w przesyłaniu wiadomości (brak narzutu HTTP).",
+      "Minimalne zużycie transferu w porównaniu do tradycyjnego odpytywania (polling).",
+      "Natychmiastowe reakcje aplikacji bez odświeżania strony."
+    ],
+    "faq": [
+      {
+        "q": "Czy WebSockets obciąża serwer?",
+        "a": "Dzięki nowoczesnym serwerom asynchronicznym (Node.js/Socket.io, Go, Rust), pojedynczy serwer może obsługiwać tysiące połączeń naraz."
+      }
+    ]
+  },
+  "en": {
+    "title": "WebSockets – Real-time Connections",
+    "description": "WebSockets establish a persistent, low-latency, two-way connection between user browsers and the server. Perfect for real-time notifications and chat systems.",
+    "advantages": [
+      "Instant messaging with zero HTTP connection overhead.",
+      "Extremely low bandwidth usage compared to polling.",
+      "Dynamic state updates without triggering page reloads."
+    ],
+    "faq": [
+      {
+        "q": "Does WebSocket scale well?",
+        "a": "Yes, with modern asynchronous engines (Node.js/Go/Rust), a single server can maintain thousands of concurrent connections efficiently."
+      }
+    ]
+  },
+  "de": {
+    "title": "WebSockets – Technologie-Lösungen für maximale Leistung",
+    "description": "WebSockets Wir setzen moderne Frameworks und Tools ein, um blitzschnelle, SEO-optimierte Websites zu erstellen, die Konversionen steigern.",
+    "advantages": [
+      "Optimiert mit WebSockets: Instant messaging with zero HTTP connection overhead.",
+      "Optimiert mit WebSockets: Extremely low bandwidth usage compared to polling.",
+      "Optimiert mit WebSockets: Dynamic state updates without triggering page reloads."
+    ],
+    "faq": [
+      {
+        "q": "Does WebSocket scale well? (WebSockets)",
+        "a": "Yes, with modern asynchronous engines (Node.js/Go/Rust), a single server can maintain thousands of concurrent connections efficiently."
+      }
+    ]
+  },
+  "uk": {
+    "title": "WebSockets – Технологічні рішення для максимальної швидкості",
+    "description": "WebSockets Ми використовуємо найсучасніші технології для розробки ультрашвидких та SEO-оптимізованих веб-сайтів.",
+    "advantages": [
+      "Оптимізовано з WebSockets: Zerowe opóźnienia w przesyłaniu wiadomości (brak narzutu HTTP).",
+      "Оптимізовано з WebSockets: Minimalne zużycie transferu w porównaniu do tradycyjnego odpytywania (polling).",
+      "Оптимізовано з WebSockets: Natychmiastowe reakcje aplikacji bez odświeżania strony."
+    ],
+    "faq": [
+      {
+        "q": "Czy WebSockets obciąża serwer? (WebSockets)",
+        "a": "Dzięki nowoczesnym serwerom asynchronicznym (Node.js/Socket.io, Go, Rust), pojedynczy serwer może obsługiwać tysiące połączeń naraz."
+      }
+    ]
+  },
+  "ru": {
+    "title": "WebSockets – Технологические решения для максимальной производительности",
+    "description": "WebSockets Мы используем современные инструменты для создания сверхбыстрых и оптимизированных под SEO сайтов.",
+    "advantages": [
+      "Оптимизировано с WebSockets: Zerowe opóźnienia w przesyłaniu wiadomości (brak narzutu HTTP).",
+      "Оптимизировано с WebSockets: Minimalne zużycie transferu w porównaniu do tradycyjnego odpytywania (polling).",
+      "Оптимизировано с WebSockets: Natychmiastowe reakcje aplikacji bez odświeżania strony."
+    ],
+    "faq": [
+      {
+        "q": "Czy WebSockets obciąża serwer? (WebSockets)",
+        "a": "Dzięki nowoczesnym serwerom asynchronicznym (Node.js/Socket.io, Go, Rust), pojedynczy serwer może obsługiwać tysiące połączeń naraz."
+      }
+    ]
+  },
+  "zh": {
+    "title": "WebSockets – 提升性能与SEO的现代技术解决方案",
+    "description": "WebSockets 我们采用前沿的技术架构，为您构建加载极快、极致SEO优化的专业企业级网站。",
+    "advantages": [
+      "使用 WebSockets 优化：Zerowe opóźnienia w przesyłaniu wiadomości (brak narzutu HTTP).",
+      "使用 WebSockets 优化：Minimalne zużycie transferu w porównaniu do tradycyjnego odpytywania (polling).",
+      "使用 WebSockets 优化：Natychmiastowe reakcje aplikacji bez odświeżania strony."
+    ],
+    "faq": [
+      {
+        "q": "Czy WebSockets obciąża serwer? (WebSockets)",
+        "a": "Dzięki nowoczesnym serwerom asynchronicznym (Node.js/Socket.io, Go, Rust), pojedynczy serwer może obsługiwać tysiące połączeń naraz."
+      }
+    ]
+  }
+}

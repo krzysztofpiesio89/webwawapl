@@ -1,0 +1,116 @@
+{
+  "pl": {
+    "title": "WordPress – Najpopularniejszy system zarządzania treścią",
+    "description": "WordPress to elastyczny system CMS. Wykorzystujemy go jako panel administracyjny (Headless CMS) połączony z szybkim frontendem (Astro / Next.js) lub w zoptymalizowanych instalacjach autorskich.",
+    "advantages": [
+      "Niezwykle prosty w obsłudze panel zarządzania treścią dla właściciela firmy.",
+      "Ogromna społeczność i możliwość łatwej rozbudowy o nowe moduły.",
+      "Możliwość działania w architekturze Headless bez obciążania frontu."
+    ],
+    "faq": [
+      {
+        "q": "Czy WordPress musi być wolny?",
+        "a": "Nie. Wolne działanie wynika ze złych szablonów i nadmiaru wtyczek. Nasze wdrożenia są zoptymalizowane do poziomu 90+ punktów PageSpeed."
+      },
+      {
+        "q": "Co to jest Headless WordPress?",
+        "a": "To model, w którym treść edytuje się w WordPressie, ale sama strona jest wyświetlana przez błyskawiczny system Next.js."
+      }
+    ]
+  },
+  "en": {
+    "title": "WordPress – Modern Content Management",
+    "description": "WordPress is a highly flexible CMS. We leverage it as a headless CMS connected to a fast Astro / Next.js frontend or deploy optimized custom themes.",
+    "advantages": [
+      "Intuitive administration dashboard for content editors.",
+      "Thriving global ecosystem with easy expansion capabilities.",
+      "Headless architecture compatible for secure and fast frontends."
+    ],
+    "faq": [
+      {
+        "q": "Does WordPress have to be slow?",
+        "a": "No. Slow speeds are caused by bloated themes and plugins. Our custom implementations consistently score 90+ on PageSpeed."
+      },
+      {
+        "q": "What is Headless WordPress?",
+        "a": "It separates the content editor (WordPress backend) from the public presentation (fast Next.js frontend)."
+      }
+    ]
+  },
+  "de": {
+    "title": "WordPress – Technologie-Lösungen für maximale Leistung",
+    "description": "WordPress Wir setzen moderne Frameworks und Tools ein, um blitzschnelle, SEO-optimierte Websites zu erstellen, die Konversionen steigern.",
+    "advantages": [
+      "Optimiert mit WordPress: Intuitive administration dashboard for content editors.",
+      "Optimiert mit WordPress: Thriving global ecosystem with easy expansion capabilities.",
+      "Optimiert mit WordPress: Headless architecture compatible for secure and fast frontends."
+    ],
+    "faq": [
+      {
+        "q": "Does WordPress have to be slow? (WordPress)",
+        "a": "No. Slow speeds are caused by bloated themes and plugins. Our custom implementations consistently score 90+ on PageSpeed."
+      },
+      {
+        "q": "What is Headless WordPress? (WordPress)",
+        "a": "It separates the content editor (WordPress backend) from the public presentation (fast Next.js frontend)."
+      }
+    ]
+  },
+  "uk": {
+    "title": "WordPress – Технологічні рішення для максимальної швидкості",
+    "description": "WordPress Ми використовуємо найсучасніші технології для розробки ультрашвидких та SEO-оптимізованих веб-сайтів.",
+    "advantages": [
+      "Оптимізовано з WordPress: Niezwykle prosty w obsłudze panel zarządzania treścią dla właściciela firmy.",
+      "Оптимізовано з WordPress: Ogromna społeczność i możliwość łatwej rozbudowy o nowe moduły.",
+      "Оптимізовано з WordPress: Możliwość działania w architekturze Headless bez obciążania frontu."
+    ],
+    "faq": [
+      {
+        "q": "Czy WordPress musi być wolny? (WordPress)",
+        "a": "Nie. Wolne działanie wynika ze złych szablonów i nadmiaru wtyczek. Nasze wdrożenia są zoptymalizowane do poziomu 90+ punktów PageSpeed."
+      },
+      {
+        "q": "Co to jest Headless WordPress? (WordPress)",
+        "a": "To model, w którym treść edytuje się w WordPressie, ale sama strona jest wyświetlana przez błyskawiczny system Next.js."
+      }
+    ]
+  },
+  "ru": {
+    "title": "WordPress – Технологические решения для максимальной производительности",
+    "description": "WordPress Мы используем современные инструменты для создания сверхбыстрых и оптимизированных под SEO сайтов.",
+    "advantages": [
+      "Оптимизировано с WordPress: Niezwykle prosty w obsłudze panel zarządzania treścią dla właściciela firmy.",
+      "Оптимизировано с WordPress: Ogromna społeczność i możliwość łatwej rozbudowy o nowe moduły.",
+      "Оптимизировано с WordPress: Możliwość działania w architekturze Headless bez obciążania frontu."
+    ],
+    "faq": [
+      {
+        "q": "Czy WordPress musi być wolny? (WordPress)",
+        "a": "Nie. Wolne działanie wynika ze złych szablonów i nadmiaru wtyczek. Nasze wdrożenia są zoptymalizowane do poziomu 90+ punktów PageSpeed."
+      },
+      {
+        "q": "Co to jest Headless WordPress? (WordPress)",
+        "a": "To model, w którym treść edytuje się w WordPressie, ale sama strona jest wyświetlana przez błyskawiczny system Next.js."
+      }
+    ]
+  },
+  "zh": {
+    "title": "WordPress – 提升性能与SEO的现代技术解决方案",
+    "description": "WordPress 我们采用前沿的技术架构，为您构建加载极快、极致SEO优化的专业企业级网站。",
+    "advantages": [
+      "使用 WordPress 优化：Niezwykle prosty w obsłudze panel zarządzania treścią dla właściciela firmy.",
+      "使用 WordPress 优化：Ogromna społeczność i możliwość łatwej rozbudowy o nowe moduły.",
+      "使用 WordPress 优化：Możliwość działania w architekturze Headless bez obciążania frontu."
+    ],
+    "faq": [
+      {
+        "q": "Czy WordPress musi być wolny? (WordPress)",
+        "a": "Nie. Wolne działanie wynika ze złych szablonów i nadmiaru wtyczek. Nasze wdrożenia są zoptymalizowane do poziomu 90+ punktów PageSpeed."
+      },
+      {
+        "q": "Co to jest Headless WordPress? (WordPress)",
+        "a": "To model, w którym treść edytuje się w WordPressie, ale sama strona jest wyświetlana przez błyskawiczny system Next.js."
+      }
+    ]
+  }
+}

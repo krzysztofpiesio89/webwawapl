@@ -1,0 +1,116 @@
+{
+  "pl": {
+    "title": "WooCommerce – Sklepy internetowe na bazie WordPress",
+    "description": "WooCommerce to najpopularniejsza wtyczka e-commerce. Przekształca WordPressa w profesjonalny sklep. Łącząc go z Next.js, budujemy bezpieczne i superszybkie platformy sprzedażowe.",
+    "advantages": [
+      "Pełna kontrola nad danymi klientów i zamówieniami bez opłat abonamentowych.",
+      "Prosta integracja z polskimi bramkami płatności (PayU, BLIK, Przelewy24).",
+      "Bezproblemowe zarządzanie produktami z poziomu panelu WP."
+    ],
+    "faq": [
+      {
+        "q": "Jak przyspieszyć sklep WooCommerce?",
+        "a": "Najlepszą metodą jest wdrożenie frontu Headless w Next.js, dzięki czemu baza WordPressa nie jest obciążana ruchem klientów."
+      },
+      {
+        "q": "Czy WooCommerce sprawdzi się przy dużym asortymencie?",
+        "a": "Tak, pod warunkiem odpowiedniej konfiguracji bazy danych i hostingu (np. Redis + MariaDB)."
+      }
+    ]
+  },
+  "en": {
+    "title": "WooCommerce – E-commerce on WordPress",
+    "description": "WooCommerce is the go-to plugin for online stores. By combining it with a Headless Next.js frontend, we create secure and high-performance sales platforms.",
+    "advantages": [
+      "Complete ownership of customer data and products without monthly platform fees.",
+      "Easy integration with local and global payment gateways (Stripe, PayPal).",
+      "Seamless inventory management from a familiar dashboard."
+    ],
+    "faq": [
+      {
+        "q": "How do you speed up a WooCommerce store?",
+        "a": "The most effective approach is building a headless Next.js frontend to decouple database load from client hits."
+      },
+      {
+        "q": "Can WooCommerce handle thousands of products?",
+        "a": "Yes, when paired with professional database optimizations and proper caching layers like Redis."
+      }
+    ]
+  },
+  "de": {
+    "title": "WooCommerce – Technologie-Lösungen für maximale Leistung",
+    "description": "WooCommerce Wir setzen moderne Frameworks und Tools ein, um blitzschnelle, SEO-optimierte Websites zu erstellen, die Konversionen steigern.",
+    "advantages": [
+      "Optimiert mit WooCommerce: Complete ownership of customer data and products without monthly platform fees.",
+      "Optimiert mit WooCommerce: Easy integration with local and global payment gateways (Stripe, PayPal).",
+      "Optimiert mit WooCommerce: Seamless inventory management from a familiar dashboard."
+    ],
+    "faq": [
+      {
+        "q": "How do you speed up a WooCommerce store? (WooCommerce)",
+        "a": "The most effective approach is building a headless Next.js frontend to decouple database load from client hits."
+      },
+      {
+        "q": "Can WooCommerce handle thousands of products? (WooCommerce)",
+        "a": "Yes, when paired with professional database optimizations and proper caching layers like Redis."
+      }
+    ]
+  },
+  "uk": {
+    "title": "WooCommerce – Технологічні рішення для максимальної швидкості",
+    "description": "WooCommerce Ми використовуємо найсучасніші технології для розробки ультрашвидких та SEO-оптимізованих веб-сайтів.",
+    "advantages": [
+      "Оптимізовано з WooCommerce: Pełna kontrola nad danymi klientów i zamówieniami bez opłat abonamentowych.",
+      "Оптимізовано з WooCommerce: Prosta integracja z polskimi bramkami płatności (PayU, BLIK, Przelewy24).",
+      "Оптимізовано з WooCommerce: Bezproblemowe zarządzanie produktami z poziomu panelu WP."
+    ],
+    "faq": [
+      {
+        "q": "Jak przyspieszyć sklep WooCommerce? (WooCommerce)",
+        "a": "Najlepszą metodą jest wdrożenie frontu Headless w Next.js, dzięki czemu baza WordPressa nie jest obciążana ruchem klientów."
+      },
+      {
+        "q": "Czy WooCommerce sprawdzi się przy dużym asortymencie? (WooCommerce)",
+        "a": "Tak, pod warunkiem odpowiedniej konfiguracji bazy danych i hostingu (np. Redis + MariaDB)."
+      }
+    ]
+  },
+  "ru": {
+    "title": "WooCommerce – Технологические решения для максимальной производительности",
+    "description": "WooCommerce Мы используем современные инструменты для создания сверхбыстрых и оптимизированных под SEO сайтов.",
+    "advantages": [
+      "Оптимизировано с WooCommerce: Pełna kontrola nad danymi klientów i zamówieniami bez opłat abonamentowych.",
+      "Оптимизировано с WooCommerce: Prosta integracja z polskimi bramkami płatności (PayU, BLIK, Przelewy24).",
+      "Оптимизировано с WooCommerce: Bezproblemowe zarządzanie produktami z poziomu panelu WP."
+    ],
+    "faq": [
+      {
+        "q": "Jak przyspieszyć sklep WooCommerce? (WooCommerce)",
+        "a": "Najlepszą metodą jest wdrożenie frontu Headless w Next.js, dzięki czemu baza WordPressa nie jest obciążana ruchem klientów."
+      },
+      {
+        "q": "Czy WooCommerce sprawdzi się przy dużym asortymencie? (WooCommerce)",
+        "a": "Tak, pod warunkiem odpowiedniej konfiguracji bazy danych i hostingu (np. Redis + MariaDB)."
+      }
+    ]
+  },
+  "zh": {
+    "title": "WooCommerce – 提升性能与SEO的现代技术解决方案",
+    "description": "WooCommerce 我们采用前沿的技术架构，为您构建加载极快、极致SEO优化的专业企业级网站。",
+    "advantages": [
+      "使用 WooCommerce 优化：Pełna kontrola nad danymi klientów i zamówieniami bez opłat abonamentowych.",
+      "使用 WooCommerce 优化：Prosta integracja z polskimi bramkami płatności (PayU, BLIK, Przelewy24).",
+      "使用 WooCommerce 优化：Bezproblemowe zarządzanie produktami z poziomu panelu WP."
+    ],
+    "faq": [
+      {
+        "q": "Jak przyspieszyć sklep WooCommerce? (WooCommerce)",
+        "a": "Najlepszą metodą jest wdrożenie frontu Headless w Next.js, dzięki czemu baza WordPressa nie jest obciążana ruchem klientów."
+      },
+      {
+        "q": "Czy WooCommerce sprawdzi się przy dużym asortymencie? (WooCommerce)",
+        "a": "Tak, pod warunkiem odpowiedniej konfiguracji bazy danych i hostingu (np. Redis + MariaDB)."
+      }
+    ]
+  }
+}

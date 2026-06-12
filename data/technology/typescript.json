@@ -1,0 +1,92 @@
+{
+  "pl": {
+    "title": "TypeScript – Bezpieczny i bezbłędny kod aplikacji",
+    "description": "TypeScript rozszerza JavaScript o statyczne typowanie. Stosujemy go w naszych projektach, aby wyeliminować błędy programistyczne zanim strona trafi do klientów, co gwarantuje stabilność działania.",
+    "advantages": [
+      "Wychwytywanie błędów na etapie pisania kodu.",
+      "Lepsza dokumentacja i strukturyzacja systemów biznesowych.",
+      "Szybsza rozbudowa serwisu w przyszłości dzięki autouzupełnianiu kodu."
+    ],
+    "faq": [
+      {
+        "q": "Czy klient odczuwa różnicę dzięki TypeScript?",
+        "a": "Bezpośrednio nie, ale strona napisana w TS jest znacznie stabilniejsza, bezpieczniejsza i tańsza w utrzymaniu/rozwoju."
+      }
+    ]
+  },
+  "en": {
+    "title": "TypeScript – Strict Types for Bulletproof Apps",
+    "description": "TypeScript adds static typing to JavaScript. We use it to identify and resolve software errors before deployment, ensuring absolute operational stability.",
+    "advantages": [
+      "Error detection during compile time instead of client-side runtime.",
+      "Enhanced self-documenting codebases for large projects.",
+      "Faster refactoring and updates with automated code intelligence."
+    ],
+    "faq": [
+      {
+        "q": "Does TypeScript change page loading speeds?",
+        "a": "No, because it compiles down to standard JavaScript. However, it ensures the application has fewer runtime crashes."
+      }
+    ]
+  },
+  "de": {
+    "title": "TypeScript – Technologie-Lösungen für maximale Leistung",
+    "description": "TypeScript Wir setzen moderne Frameworks und Tools ein, um blitzschnelle, SEO-optimierte Websites zu erstellen, die Konversionen steigern.",
+    "advantages": [
+      "Optimiert mit TypeScript: Error detection during compile time instead of client-side runtime.",
+      "Optimiert mit TypeScript: Enhanced self-documenting codebases for large projects.",
+      "Optimiert mit TypeScript: Faster refactoring and updates with automated code intelligence."
+    ],
+    "faq": [
+      {
+        "q": "Does TypeScript change page loading speeds? (TypeScript)",
+        "a": "No, because it compiles down to standard JavaScript. However, it ensures the application has fewer runtime crashes."
+      }
+    ]
+  },
+  "uk": {
+    "title": "TypeScript – Технологічні рішення для максимальної швидкості",
+    "description": "TypeScript Ми використовуємо найсучасніші технології для розробки ультрашвидких та SEO-оптимізованих веб-сайтів.",
+    "advantages": [
+      "Оптимізовано з TypeScript: Wychwytywanie błędów na etapie pisania kodu.",
+      "Оптимізовано з TypeScript: Lepsza dokumentacja i strukturyzacja systemów biznesowych.",
+      "Оптимізовано з TypeScript: Szybsza rozbudowa serwisu w przyszłości dzięki autouzupełnianiu kodu."
+    ],
+    "faq": [
+      {
+        "q": "Czy klient odczuwa różnicę dzięki TypeScript? (TypeScript)",
+        "a": "Bezpośrednio nie, ale strona napisana w TS jest znacznie stabilniejsza, bezpieczniejsza i tańsza w utrzymaniu/rozwoju."
+      }
+    ]
+  },
+  "ru": {
+    "title": "TypeScript – Технологические решения для максимальной производительности",
+    "description": "TypeScript Мы используем современные инструменты для создания сверхбыстрых и оптимизированных под SEO сайтов.",
+    "advantages": [
+      "Оптимизировано с TypeScript: Wychwytywanie błędów na etapie pisania kodu.",
+      "Оптимизировано с TypeScript: Lepsza dokumentacja i strukturyzacja systemów biznesowych.",
+      "Оптимизировано с TypeScript: Szybsza rozbudowa serwisu w przyszłości dzięki autouzupełnianiu kodu."
+    ],
+    "faq": [
+      {
+        "q": "Czy klient odczuwa różnicę dzięki TypeScript? (TypeScript)",
+        "a": "Bezpośrednio nie, ale strona napisana w TS jest znacznie stabilniejsza, bezpieczniejsza i tańsza w utrzymaniu/rozwoju."
+      }
+    ]
+  },
+  "zh": {
+    "title": "TypeScript – 提升性能与SEO的现代技术解决方案",
+    "description": "TypeScript 我们采用前沿的技术架构，为您构建加载极快、极致SEO优化的专业企业级网站。",
+    "advantages": [
+      "使用 TypeScript 优化：Wychwytywanie błędów na etapie pisania kodu.",
+      "使用 TypeScript 优化：Lepsza dokumentacja i strukturyzacja systemów biznesowych.",
+      "使用 TypeScript 优化：Szybsza rozbudowa serwisu w przyszłości dzięki autouzupełnianiu kodu."
+    ],
+    "faq": [
+      {
+        "q": "Czy klient odczuwa różnicę dzięki TypeScript? (TypeScript)",
+        "a": "Bezpośrednio nie, ale strona napisana w TS jest znacznie stabilniejsza, bezpieczniejsza i tańsza w utrzymaniu/rozwoju."
+      }
+    ]
+  }
+}

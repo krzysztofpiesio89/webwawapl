@@ -5,17 +5,43 @@ import { getGlobalSettings } from '@/lib/settings';
 import { getBrandBySlug } from '@/lib/brands';
 import { getCityBySlug } from '@/lib/cities';
 import { getDictionary, Locale, ogLocaleMap } from '../../dictionaries';
-import { industrySlugsMap, professionSlugsMap } from '@/lib/industries-list';
+import { industrySlugsMap, professionSlugsMap, getIndustryIdBySlug } from '@/lib/industries-list';
+import { resolveStaticSlug } from '../../i18n-routes';
+import IndustryModelPage, { generateMetadata as generateIndustryModelMetadata } from '../../industries/[city]/[brand]/[model]/page';
 
 interface PageProps {
   params: Promise<{ lang: string;
     city: string;
     brand: string;
    }>;
+  searchParams?: Promise<{ tech?: string; }>;
 }
 
-export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
-  const { lang, city: citySlug, brand: brandSlug } = await params;
+export async function generateMetadata(props: PageProps): Promise<Metadata> {
+  const params = await props.params;
+  const { lang, city: citySlug, brand: brandSlug } = params;
+
+  // Intercept Industry Parent Slugs (e.g., /strona-dla/architekt/projektant-wnetrz)
+  const resolvedParent = resolveStaticSlug(lang);
+  if (resolvedParent?.page === 'industries') {
+    return generateIndustryModelMetadata({
+      params: Promise.resolve({ lang: resolvedParent.lang, city: 'all', brand: citySlug, model: brandSlug }),
+      searchParams: props.searchParams || Promise.resolve({})
+    });
+  }
+
+  // Intercept City + Industry Slugs (e.g., /warszawa/architekt/projektant-wnetrz)
+  const cityCheck = getCityBySlug(lang);
+  if (cityCheck) {
+    const industryCheck = getIndustryIdBySlug(citySlug);
+    if (industryCheck) {
+      return generateIndustryModelMetadata({
+        params: Promise.resolve({ lang: 'pl', city: lang, brand: citySlug, model: brandSlug }),
+        searchParams: props.searchParams || Promise.resolve({})
+      });
+    }
+  }
+
   const city = getCityBySlug(citySlug);
   const brand = getBrandBySlug(brandSlug);
   const brandName = brand ? brand.name : (brandSlug.charAt(0).toUpperCase() + brandSlug.slice(1));
@@ -45,10 +71,32 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   };
 }
 
-export default async function CityBrandPage({ params }: PageProps) {
+export default async function CityBrandPage(props: PageProps) {
+  const params = await props.params;
+  const { lang, city: citySlug, brand: brandSlug } = params;
+
+  // Intercept Industry Parent Slugs (e.g., /strona-dla/architekt/projektant-wnetrz)
+  const resolvedParent = resolveStaticSlug(lang);
+  if (resolvedParent?.page === 'industries') {
+    return IndustryModelPage({ 
+      params: Promise.resolve({ lang: resolvedParent.lang, city: 'all', brand: citySlug, model: brandSlug }),
+      searchParams: props.searchParams || Promise.resolve({})
+    });
+  }
+
+  // Intercept City + Industry Slugs (e.g., /warszawa/architekt/projektant-wnetrz)
+  const cityCheck = getCityBySlug(lang);
+  if (cityCheck) {
+    const industryCheck = getIndustryIdBySlug(citySlug);
+    if (industryCheck) {
+      return IndustryModelPage({ 
+        params: Promise.resolve({ lang: 'pl', city: lang, brand: citySlug, model: brandSlug }),
+        searchParams: props.searchParams || Promise.resolve({})
+      });
+    }
+  }
+
   const settings = await getGlobalSettings();
-  const { lang, city: citySlug, brand: brandSlug } = await params;
-  
   const city = getCityBySlug(citySlug);
   if (!city) notFound();
 

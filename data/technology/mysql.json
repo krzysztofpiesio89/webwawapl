@@ -1,0 +1,92 @@
+{
+  "pl": {
+    "title": "MySQL – Niezawodna relacyjna baza danych",
+    "description": "MySQL to standard w przechowywaniu danych strukturyzowanych. Zapewnia pełną zgodność z transakcjami ACID i jest optymalnym rozwiązaniem dla większości serwisów internetowych i sklepów e-commerce.",
+    "advantages": [
+      "Wysoka wydajność odczytu i zapisu przy odpowiedniej indeksacji.",
+      "Standard branżowy wspierany przez wszystkie hostingi na świecie.",
+      "Bezpieczeństwo danych dzięki mechanizmom replikacji i backupów."
+    ],
+    "faq": [
+      {
+        "q": "Czy MySQL nadaje się do szybkiego SEO?",
+        "a": "Tak, odpowiednio skonfigurowane indeksy i optymalne zapytania SQL pozwalają na zwracanie danych w kilka milisekund."
+      }
+    ]
+  },
+  "en": {
+    "title": "MySQL – Reliable Relational Databases",
+    "description": "MySQL is the gold standard for structured data storage. It offers ACID compliance and represents the optimal solution for standard business databases and e-commerce projects.",
+    "advantages": [
+      "High-speed reads and writes with indexing optimizations.",
+      "Industry standard natively supported by all hosting providers.",
+      "Data replication and automatic backup systems."
+    ],
+    "faq": [
+      {
+        "q": "How does database speed impact local SEO?",
+        "a": "If your server takes too long to query cities or services, search bots will lower your rank. MySQL indexing keeps queries fast."
+      }
+    ]
+  },
+  "de": {
+    "title": "MySQL – Technologie-Lösungen für maximale Leistung",
+    "description": "MySQL Wir setzen moderne Frameworks und Tools ein, um blitzschnelle, SEO-optimierte Websites zu erstellen, die Konversionen steigern.",
+    "advantages": [
+      "Optimiert mit MySQL: High-speed reads and writes with indexing optimizations.",
+      "Optimiert mit MySQL: Industry standard natively supported by all hosting providers.",
+      "Optimiert mit MySQL: Data replication and automatic backup systems."
+    ],
+    "faq": [
+      {
+        "q": "How does database speed impact local SEO? (MySQL)",
+        "a": "If your server takes too long to query cities or services, search bots will lower your rank. MySQL indexing keeps queries fast."
+      }
+    ]
+  },
+  "uk": {
+    "title": "MySQL – Технологічні рішення для максимальної швидкості",
+    "description": "MySQL Ми використовуємо найсучасніші технології для розробки ультрашвидких та SEO-оптимізованих веб-сайтів.",
+    "advantages": [
+      "Оптимізовано з MySQL: Wysoka wydajność odczytu i zapisu przy odpowiedniej indeksacji.",
+      "Оптимізовано з MySQL: Standard branżowy wspierany przez wszystkie hostingi na świecie.",
+      "Оптимізовано з MySQL: Bezpieczeństwo danych dzięki mechanizmom replikacji i backupów."
+    ],
+    "faq": [
+      {
+        "q": "Czy MySQL nadaje się do szybkiego SEO? (MySQL)",
+        "a": "Tak, odpowiednio skonfigurowane indeksy i optymalne zapytania SQL pozwalają na zwracanie danych w kilka milisekund."
+      }
+    ]
+  },
+  "ru": {
+    "title": "MySQL – Технологические решения для максимальной производительности",
+    "description": "MySQL Мы используем современные инструменты для создания сверхбыстрых и оптимизированных под SEO сайтов.",
+    "advantages": [
+      "Оптимизировано с MySQL: Wysoka wydajność odczytu i zapisu przy odpowiedniej indeksacji.",
+      "Оптимизировано с MySQL: Standard branżowy wspierany przez wszystkie hostingi na świecie.",
+      "Оптимизировано с MySQL: Bezpieczeństwo danych dzięki mechanizmom replikacji i backupów."
+    ],
+    "faq": [
+      {
+        "q": "Czy MySQL nadaje się do szybkiego SEO? (MySQL)",
+        "a": "Tak, odpowiednio skonfigurowane indeksy i optymalne zapytania SQL pozwalają na zwracanie danych w kilka milisekund."
+      }
+    ]
+  },
+  "zh": {
+    "title": "MySQL – 提升性能与SEO的现代技术解决方案",
+    "description": "MySQL 我们采用前沿的技术架构，为您构建加载极快、极致SEO优化的专业企业级网站。",
+    "advantages": [
+      "使用 MySQL 优化：Wysoka wydajność odczytu i zapisu przy odpowiedniej indeksacji.",
+      "使用 MySQL 优化：Standard branżowy wspierany przez wszystkie hostingi na świecie.",
+      "使用 MySQL 优化：Bezpieczeństwo danych dzięki mechanizmom replikacji i backupów."
+    ],
+    "faq": [
+      {
+        "q": "Czy MySQL nadaje się do szybkiego SEO? (MySQL)",
+        "a": "Tak, odpowiednio skonfigurowane indeksy i optymalne zapytania SQL pozwalają na zwracanie danych w kilka milisekund."
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "pl": {
+    "title": "Laravel – Elegancki i wydajny framework PHP",
+    "description": "Laravel to najchętniej wybierany framework PHP na świecie. Pozwala na budowanie stabilnych, bezpiecznych i skalowalnych systemów CRM, API oraz portali internetowych od podstaw.",
+    "advantages": [
+      "Ekspresowe tempo prac programistycznych dzięki wbudowanym modułom (Blade, Eloquent).",
+      "Najwyższy poziom bezpieczeństwa (ochrona przed CSRF, XSS, SQL Injection).",
+      "Łatwe zarządzanie zadaniami w tle i kolejkami (Queues)."
+    ],
+    "faq": [
+      {
+        "q": "Do jakich projektów warto użyć Laravela?",
+        "a": "Do dedykowanych systemów rezerwacji, paneli klienta, integracji z hurtowniami i autorskich aplikacji biznesowych."
+      }
+    ]
+  },
+  "en": {
+    "title": "Laravel – Modern and Elegant PHP Web Apps",
+    "description": "Laravel is the worlds most popular PHP framework. It is ideal for building secure, scalable custom CRM systems, robust APIs, and interactive web portals.",
+    "advantages": [
+      "Rapid development cycles using advanced out-of-the-box features.",
+      "Top-tier security defaults protecting against CSRF, XSS, and SQL Injection.",
+      "Efficient background job and queue processing."
+    ],
+    "faq": [
+      {
+        "q": "What projects benefit most from Laravel?",
+        "a": "Custom SaaS platforms, client portals, booking systems, and tailor-made business automation tools."
+      }
+    ]
+  },
+  "de": {
+    "title": "Laravel – Technologie-Lösungen für maximale Leistung",
+    "description": "Laravel Wir setzen moderne Frameworks und Tools ein, um blitzschnelle, SEO-optimierte Websites zu erstellen, die Konversionen steigern.",
+    "advantages": [
+      "Optimiert mit Laravel: Rapid development cycles using advanced out-of-the-box features.",
+      "Optimiert mit Laravel: Top-tier security defaults protecting against CSRF, XSS, and SQL Injection.",
+      "Optimiert mit Laravel: Efficient background job and queue processing."
+    ],
+    "faq": [
+      {
+        "q": "What projects benefit most from Laravel? (Laravel)",
+        "a": "Custom SaaS platforms, client portals, booking systems, and tailor-made business automation tools."
+      }
+    ]
+  },
+  "uk": {
+    "title": "Laravel – Технологічні рішення для максимальної швидкості",
+    "description": "Laravel Ми використовуємо найсучасніші технології для розробки ультрашвидких та SEO-оптимізованих веб-сайтів.",
+    "advantages": [
+      "Оптимізовано з Laravel: Ekspresowe tempo prac programistycznych dzięki wbudowanym modułom (Blade, Eloquent).",
+      "Оптимізовано з Laravel: Najwyższy poziom bezpieczeństwa (ochrona przed CSRF, XSS, SQL Injection).",
+      "Оптимізовано з Laravel: Łatwe zarządzanie zadaniami w tle i kolejkami (Queues)."
+    ],
+    "faq": [
+      {
+        "q": "Do jakich projektów warto użyć Laravela? (Laravel)",
+        "a": "Do dedykowanych systemów rezerwacji, paneli klienta, integracji z hurtowniami i autorskich aplikacji biznesowych."
+      }
+    ]
+  },
+  "ru": {
+    "title": "Laravel – Технологические решения для максимальной производительности",
+    "description": "Laravel Мы используем современные инструменты для создания сверхбыстрых и оптимизированных под SEO сайтов.",
+    "advantages": [
+      "Оптимизировано с Laravel: Ekspresowe tempo prac programistycznych dzięki wbudowanym modułom (Blade, Eloquent).",
+      "Оптимизировано с Laravel: Najwyższy poziom bezpieczeństwa (ochrona przed CSRF, XSS, SQL Injection).",
+      "Оптимизировано с Laravel: Łatwe zarządzanie zadaniami w tle i kolejkami (Queues)."
+    ],
+    "faq": [
+      {
+        "q": "Do jakich projektów warto użyć Laravela? (Laravel)",
+        "a": "Do dedykowanych systemów rezerwacji, paneli klienta, integracji z hurtowniami i autorskich aplikacji biznesowych."
+      }
+    ]
+  },
+  "zh": {
+    "title": "Laravel – 提升性能与SEO的现代技术解决方案",
+    "description": "Laravel 我们采用前沿的技术架构，为您构建加载极快、极致SEO优化的专业企业级网站。",
+    "advantages": [
+      "使用 Laravel 优化：Ekspresowe tempo prac programistycznych dzięki wbudowanym modułom (Blade, Eloquent).",
+      "使用 Laravel 优化：Najwyższy poziom bezpieczeństwa (ochrona przed CSRF, XSS, SQL Injection).",
+      "使用 Laravel 优化：Łatwe zarządzanie zadaniami w tle i kolejkami (Queues)."
+    ],
+    "faq": [
+      {
+        "q": "Do jakich projektów warto użyć Laravela? (Laravel)",
+        "a": "Do dedykowanych systemów rezerwacji, paneli klienta, integracji z hurtowniami i autorskich aplikacji biznesowych."
+      }
+    ]
+  }
+}

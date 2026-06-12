@@ -1,0 +1,92 @@
+{
+  "pl": {
+    "title": "Symfony – Standard dla zaawansowanych systemów IT",
+    "description": "Symfony to profesjonalny, modułowy framework PHP. Jest fundamentem dla największych systemów korporacyjnych i sklepów internetowych na świecie, stawiającym na stabilność i powtarzalność kodu.",
+    "advantages": [
+      "Wyjątkowa stabilność i wsparcie długoterminowe (LTS).",
+      "Architektura oparta na samodzielnych komponentach wielokrotnego użytku.",
+      "Idealne dopasowanie do projektów z obszaru Enterprise."
+    ],
+    "faq": [
+      {
+        "q": "Dlaczego programiści cenią Symfony?",
+        "a": "Zapewnia sztywne standardy programowania, co ułatwia rozwój aplikacji przez duże zespoły."
+      }
+    ]
+  },
+  "en": {
+    "title": "Symfony – Enterprise PHP Development",
+    "description": "Symfony is a professional, modular PHP framework. It serves as the foundation for major enterprise-grade systems, focusing on performance, reliability, and standards.",
+    "advantages": [
+      "Unmatched stability and Long-Term Support (LTS) versions.",
+      "Built with loosely coupled reusable PHP components.",
+      "Highly optimized for large-scale enterprise solutions."
+    ],
+    "faq": [
+      {
+        "q": "Why choose Symfony?",
+        "a": "It enforces strict coding standards, making project maintenance and scaling straightforward for engineering teams."
+      }
+    ]
+  },
+  "de": {
+    "title": "Symfony – Technologie-Lösungen für maximale Leistung",
+    "description": "Symfony Wir setzen moderne Frameworks und Tools ein, um blitzschnelle, SEO-optimierte Websites zu erstellen, die Konversionen steigern.",
+    "advantages": [
+      "Optimiert mit Symfony: Unmatched stability and Long-Term Support (LTS) versions.",
+      "Optimiert mit Symfony: Built with loosely coupled reusable PHP components.",
+      "Optimiert mit Symfony: Highly optimized for large-scale enterprise solutions."
+    ],
+    "faq": [
+      {
+        "q": "Why choose Symfony? (Symfony)",
+        "a": "It enforces strict coding standards, making project maintenance and scaling straightforward for engineering teams."
+      }
+    ]
+  },
+  "uk": {
+    "title": "Symfony – Технологічні рішення для максимальної швидкості",
+    "description": "Symfony Ми використовуємо найсучасніші технології для розробки ультрашвидких та SEO-оптимізованих веб-сайтів.",
+    "advantages": [
+      "Оптимізовано з Symfony: Wyjątkowa stabilność i wsparcie długoterminowe (LTS).",
+      "Оптимізовано з Symfony: Architektura oparta na samodzielnych komponentach wielokrotnego użytku.",
+      "Оптимізовано з Symfony: Idealne dopasowanie do projektów z obszaru Enterprise."
+    ],
+    "faq": [
+      {
+        "q": "Dlaczego programiści cenią Symfony? (Symfony)",
+        "a": "Zapewnia sztywne standardy programowania, co ułatwia rozwój aplikacji przez duże zespoły."
+      }
+    ]
+  },
+  "ru": {
+    "title": "Symfony – Технологические решения для максимальной производительности",
+    "description": "Symfony Мы используем современные инструменты для создания сверхбыстрых и оптимизированных под SEO сайтов.",
+    "advantages": [
+      "Оптимизировано с Symfony: Wyjątkowa stabilność i wsparcie długoterminowe (LTS).",
+      "Оптимизировано с Symfony: Architektura oparta na samodzielnych komponentach wielokrotnego użytku.",
+      "Оптимизировано с Symfony: Idealne dopasowanie do projektów z obszaru Enterprise."
+    ],
+    "faq": [
+      {
+        "q": "Dlaczego programiści cenią Symfony? (Symfony)",
+        "a": "Zapewnia sztywne standardy programowania, co ułatwia rozwój aplikacji przez duże zespoły."
+      }
+    ]
+  },
+  "zh": {
+    "title": "Symfony – 提升性能与SEO的现代技术解决方案",
+    "description": "Symfony 我们采用前沿的技术架构，为您构建加载极快、极致SEO优化的专业企业级网站。",
+    "advantages": [
+      "使用 Symfony 优化：Wyjątkowa stabilność i wsparcie długoterminowe (LTS).",
+      "使用 Symfony 优化：Architektura oparta na samodzielnych komponentach wielokrotnego użytku.",
+      "使用 Symfony 优化：Idealne dopasowanie do projektów z obszaru Enterprise."
+    ],
+    "faq": [
+      {
+        "q": "Dlaczego programiści cenią Symfony? (Symfony)",
+        "a": "Zapewnia sztywne standardy programowania, co ułatwia rozwój aplikacji przez duże zespoły."
+      }
+    ]
+  }
+}

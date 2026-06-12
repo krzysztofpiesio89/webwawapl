@@ -1,0 +1,92 @@
+{
+  "pl": {
+    "title": "Sylius – Headless E-commerce oparty na Symfony",
+    "description": "Sylius to nowoczesna platforma e-commerce przeznaczona dla średnich i dużych projektów handlowych. Stworzona na bazie frameworka Symfony, oferuje niezrównaną elastyczność i możliwość dostosowania do każdego modelu biznesowego.",
+    "advantages": [
+      "Czysty kod oparty na standardach PHP i Symfony.",
+      "Architektura zorientowana na API (Headless first).",
+      "Wysokie bezpieczeństwo i odporność na obciążenia."
+    ],
+    "faq": [
+      {
+        "q": "Kiedy wybrać Sylius zamiast WooCommerce?",
+        "a": "Gdy Twój sklep ma specyficzne wymagania, nietypowy proces zakupowy lub musi obsługiwać tysiące transakcji jednocześnie."
+      }
+    ]
+  },
+  "en": {
+    "title": "Sylius – Tailored Headless E-commerce",
+    "description": "Sylius is a modern e-commerce framework for medium to large enterprise projects. Built on top of Symfony, it offers unprecedented flexibility and tailor-made workflows.",
+    "advantages": [
+      "Clean, testable PHP code adhering to Symfony standards.",
+      "API-first headless architecture.",
+      "Excellent security and high transactional throughput."
+    ],
+    "faq": [
+      {
+        "q": "When should I choose Sylius over WooCommerce?",
+        "a": "When your shop requires non-standard business logic, integrations, or needs to scale to massive volumes."
+      }
+    ]
+  },
+  "de": {
+    "title": "Sylius – Technologie-Lösungen für maximale Leistung",
+    "description": "Sylius Wir setzen moderne Frameworks und Tools ein, um blitzschnelle, SEO-optimierte Websites zu erstellen, die Konversionen steigern.",
+    "advantages": [
+      "Optimiert mit Sylius: Clean, testable PHP code adhering to Symfony standards.",
+      "Optimiert mit Sylius: API-first headless architecture.",
+      "Optimiert mit Sylius: Excellent security and high transactional throughput."
+    ],
+    "faq": [
+      {
+        "q": "When should I choose Sylius over WooCommerce? (Sylius)",
+        "a": "When your shop requires non-standard business logic, integrations, or needs to scale to massive volumes."
+      }
+    ]
+  },
+  "uk": {
+    "title": "Sylius – Технологічні рішення для максимальної швидкості",
+    "description": "Sylius Ми використовуємо найсучасніші технології для розробки ультрашвидких та SEO-оптимізованих веб-сайтів.",
+    "advantages": [
+      "Оптимізовано з Sylius: Czysty kod oparty na standardach PHP i Symfony.",
+      "Оптимізовано з Sylius: Architektura zorientowana na API (Headless first).",
+      "Оптимізовано з Sylius: Wysokie bezpieczeństwo i odporność na obciążenia."
+    ],
+    "faq": [
+      {
+        "q": "Kiedy wybrać Sylius zamiast WooCommerce? (Sylius)",
+        "a": "Gdy Twój sklep ma specyficzne wymagania, nietypowy proces zakupowy lub musi obsługiwać tysiące transakcji jednocześnie."
+      }
+    ]
+  },
+  "ru": {
+    "title": "Sylius – Технологические решения для максимальной производительности",
+    "description": "Sylius Мы используем современные инструменты для создания сверхбыстрых и оптимизированных под SEO сайтов.",
+    "advantages": [
+      "Оптимизировано с Sylius: Czysty kod oparty na standardach PHP i Symfony.",
+      "Оптимизировано с Sylius: Architektura zorientowana na API (Headless first).",
+      "Оптимизировано с Sylius: Wysokie bezpieczeństwo i odporność na obciążenia."
+    ],
+    "faq": [
+      {
+        "q": "Kiedy wybrać Sylius zamiast WooCommerce? (Sylius)",
+        "a": "Gdy Twój sklep ma specyficzne wymagania, nietypowy proces zakupowy lub musi obsługiwać tysiące transakcji jednocześnie."
+      }
+    ]
+  },
+  "zh": {
+    "title": "Sylius – 提升性能与SEO的现代技术解决方案",
+    "description": "Sylius 我们采用前沿的技术架构，为您构建加载极快、极致SEO优化的专业企业级网站。",
+    "advantages": [
+      "使用 Sylius 优化：Czysty kod oparty na standardach PHP i Symfony.",
+      "使用 Sylius 优化：Architektura zorientowana na API (Headless first).",
+      "使用 Sylius 优化：Wysokie bezpieczeństwo i odporność na obciążenia."
+    ],
+    "faq": [
+      {
+        "q": "Kiedy wybrać Sylius zamiast WooCommerce? (Sylius)",
+        "a": "Gdy Twój sklep ma specyficzne wymagania, nietypowy proces zakupowy lub musi obsługiwać tysiące transakcji jednocześnie."
+      }
+    ]
+  }
+}

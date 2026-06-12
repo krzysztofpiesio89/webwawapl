@@ -1,0 +1,92 @@
+{
+  "pl": {
+    "title": "Schema.org – Ustrukturyzowane dane JSON-LD dla Google",
+    "description": "Dane strukturalne (Schema) to specjalny kod w formacie JSON-LD umieszczony na stronie, który bezpośrednio tłumaczy robotom wyszukiwarek ofertę firmy, opinie,FAQ czy lokalizację. Zapewnia bogate wyniki wyszukiwania (Rich Snippets).",
+    "advantages": [
+      "Zrozumienie intencji strony przez Google (np. rozróżnienie artykułu od lokalnego biznesu).",
+      "Wyświetlanie gwiazdek ocen, FAQ i cen bezpośrednio w wynikach wyszukiwania.",
+      "Wyższe pozycje w wyszukiwarce dzięki lepszemu indeksowaniu."
+    ],
+    "faq": [
+      {
+        "q": "Jakie typy Schema stosujemy?",
+        "a": "LocalBusiness dla firm lokalnych, FAQPage dla sekcji pytań, Service dla usług oraz BreadcrumbList dla nawigacji."
+      }
+    ]
+  },
+  "en": {
+    "title": "Schema.org – Structured Data for Google Search",
+    "description": "Schema markup (JSON-LD) translates your business details directly to search engine crawlers, enabling rich snippets like review stars, pricing, and FAQ toggles in search listings.",
+    "advantages": [
+      "Clear semantic indexing of page content for search engines.",
+      "Rich snippets (stars, FAQ accordions, price ranges) in Google search results.",
+      "Improved local search visibility for physical service business listings."
+    ],
+    "faq": [
+      {
+        "q": "What Schema types do you implement?",
+        "a": "LocalBusiness, Service, FAQPage, and BreadcrumbList JSON-LD blocks."
+      }
+    ]
+  },
+  "de": {
+    "title": "Schema.org – Technologie-Lösungen für maximale Leistung",
+    "description": "Schema.org Wir setzen moderne Frameworks und Tools ein, um blitzschnelle, SEO-optimierte Websites zu erstellen, die Konversionen steigern.",
+    "advantages": [
+      "Optimiert mit Schema.org: Clear semantic indexing of page content for search engines.",
+      "Optimiert mit Schema.org: Rich snippets (stars, FAQ accordions, price ranges) in Google search results.",
+      "Optimiert mit Schema.org: Improved local search visibility for physical service business listings."
+    ],
+    "faq": [
+      {
+        "q": "What Schema types do you implement? (Schema.org)",
+        "a": "LocalBusiness, Service, FAQPage, and BreadcrumbList JSON-LD blocks."
+      }
+    ]
+  },
+  "uk": {
+    "title": "Schema.org – Технологічні рішення для максимальної швидкості",
+    "description": "Schema.org Ми використовуємо найсучасніші технології для розробки ультрашвидких та SEO-оптимізованих веб-сайтів.",
+    "advantages": [
+      "Оптимізовано з Schema.org: Zrozumienie intencji strony przez Google (np. rozróżnienie artykułu od lokalnego biznesu).",
+      "Оптимізовано з Schema.org: Wyświetlanie gwiazdek ocen, FAQ i cen bezpośrednio w wynikach wyszukiwania.",
+      "Оптимізовано з Schema.org: Wyższe pozycje w wyszukiwarce dzięki lepszemu indeksowaniu."
+    ],
+    "faq": [
+      {
+        "q": "Jakie typy Schema stosujemy? (Schema.org)",
+        "a": "LocalBusiness dla firm lokalnych, FAQPage dla sekcji pytań, Service dla usług oraz BreadcrumbList dla nawigacji."
+      }
+    ]
+  },
+  "ru": {
+    "title": "Schema.org – Технологические решения для максимальной производительности",
+    "description": "Schema.org Мы используем современные инструменты для создания сверхбыстрых и оптимизированных под SEO сайтов.",
+    "advantages": [
+      "Оптимизировано с Schema.org: Zrozumienie intencji strony przez Google (np. rozróżnienie artykułu od lokalnego biznesu).",
+      "Оптимизировано с Schema.org: Wyświetlanie gwiazdek ocen, FAQ i cen bezpośrednio w wynikach wyszukiwania.",
+      "Оптимизировано с Schema.org: Wyższe pozycje w wyszukiwarce dzięki lepszemu indeksowaniu."
+    ],
+    "faq": [
+      {
+        "q": "Jakie typy Schema stosujemy? (Schema.org)",
+        "a": "LocalBusiness dla firm lokalnych, FAQPage dla sekcji pytań, Service dla usług oraz BreadcrumbList dla nawigacji."
+      }
+    ]
+  },
+  "zh": {
+    "title": "Schema.org – 提升性能与SEO的现代技术解决方案",
+    "description": "Schema.org 我们采用前沿的技术架构，为您构建加载极快、极致SEO优化的专业企业级网站。",
+    "advantages": [
+      "使用 Schema.org 优化：Zrozumienie intencji strony przez Google (np. rozróżnienie artykułu od lokalnego biznesu).",
+      "使用 Schema.org 优化：Wyświetlanie gwiazdek ocen, FAQ i cen bezpośrednio w wynikach wyszukiwania.",
+      "使用 Schema.org 优化：Wyższe pozycje w wyszukiwarce dzięki lepszemu indeksowaniu."
+    ],
+    "faq": [
+      {
+        "q": "Jakie typy Schema stosujemy? (Schema.org)",
+        "a": "LocalBusiness dla firm lokalnych, FAQPage dla sekcji pytań, Service dla usług oraz BreadcrumbList dla nawigacji."
+      }
+    ]
+  }
+}

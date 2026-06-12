@@ -3,6 +3,7 @@ import { PrismaLibSql } from "@prisma/adapter-libsql";
 import { createClient } from "@libsql/client";
 import * as path from 'path';
 import * as dotenv from 'dotenv';
+import { getAllCities } from "../src/lib/cities";
 
 // Explicitly load .env
 dotenv.config({ path: path.join(process.cwd(), '.env') });
@@ -104,46 +105,38 @@ async function main() {
   await (prisma as any).globalSettings.upsert({
     where: { id: 'settings' },
     update: {
-      companyName: 'Yuliya Taurel',
-      nip: '9662148516',
+      companyName: 'Krzysztof Piesio WIKOL',
+      nip: '8262147079',
       krs: '',
-      regon: '388469259',
-      address: 'ul. Józefa Piłsudskiego 20, 07-130 Kamionna',
-      phone: '+48 692 752 306',
-      email: 'kontakt@skupautwawa.pl',
+      regon: '381131959',
+      address: 'ul. Brzozowa 16, 05-462 Kąck',
+      phone: '+48 664 946 209',
+      email: 'kontakt@webwawa.pl',
     },
     create: {
       id: 'settings',
-      companyName: 'Yuliya Taurel',
-      nip: '9662148516',
+      companyName: 'Krzysztof Piesio WIKOL',
+      nip: '8262147079',
       krs: '',
-      regon: '388469259',
-      address: 'ul. Józefa Piłsudskiego 20, 07-130 Kamionna',
-      phone: '+48 692 752 306',
-      email: 'kontakt@skupautwawa.pl',
+      regon: '381131959',
+      address: 'ul. Brzozowa 16, 05-462 Kąck',
+      phone: '+48 664 946 209',
+      email: 'kontakt@webwawa.pl',
     }
   });
 
   // Seed Cities
   console.log('Seeding cities...');
-  const citiesData = [
-    { name: 'Warszawa', slug: 'warszawa' },
-    { name: 'Kraków', slug: 'krakow' },
-    { name: 'Wrocław', slug: 'wroclaw' },
-    { name: 'Poznań', slug: 'poznan' },
-    { name: 'Gdańsk', slug: 'gdansk' },
-    { name: 'Łódź', slug: 'lodz' },
-    { name: 'Szczecin', slug: 'szczecin' },
-    { name: 'Bydgoszcz', slug: 'bydgoszcz' },
-    { name: 'Lublin', slug: 'lublin' },
-    { name: 'Białystok', slug: 'bialystok' },
-  ];
+  const citiesData = getAllCities();
 
   for (const city of citiesData) {
     await (prisma as any).city.upsert({
       where: { slug: city.slug },
       update: { name: city.name },
-      create: city
+      create: {
+        name: city.name,
+        slug: city.slug,
+      }
     });
   }
 

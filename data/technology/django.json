@@ -1,0 +1,92 @@
+{
+  "pl": {
+    "title": "Django – Bezpieczny framework Python dla aplikacji AI",
+    "description": "Django to kompletny framework napisany w języku Python. Słynie z podejścia \"batteries included\" oraz świetnego wsparcia dla zaawansowanej analityki, przetwarzania danych oraz integracji z modelami sztucznej inteligencji (AI).",
+    "advantages": [
+      "Wbudowany, automatyczny i bezpieczny panel administracyjny.",
+      "Szybkie przetwarzanie danych i łatwa integracja z Python AI/ML.",
+      "Niezrównane zabezpieczenia chroniące aplikację przed typowymi błędami."
+    ],
+    "faq": [
+      {
+        "q": "Czy Django nadaje się na proste strony?",
+        "a": "Zazwyczaj jest wybierany do bardziej złożonych systemów z panelem administracyjnym lub wymagających obliczeń naukowych/AI."
+      }
+    ]
+  },
+  "en": {
+    "title": "Django – Python Web Framework for Data & AI",
+    "description": "Django is a high-level Python web framework that encourages rapid development. It is renowned for its \"batteries included\" philosophy, security, and top-tier AI/ML compatibility.",
+    "advantages": [
+      "Built-in, fully-featured secure admin dashboard.",
+      "Seamless integration with Pythons data science and AI libraries.",
+      "Built-in protection against web security threats."
+    ],
+    "faq": [
+      {
+        "q": "Is Django overkill for small websites?",
+        "a": "For static pages, it is usually too heavy. It shines when building secure databases, user portals, or AI integrations."
+      }
+    ]
+  },
+  "de": {
+    "title": "Django – Technologie-Lösungen für maximale Leistung",
+    "description": "Django Wir setzen moderne Frameworks und Tools ein, um blitzschnelle, SEO-optimierte Websites zu erstellen, die Konversionen steigern.",
+    "advantages": [
+      "Optimiert mit Django: Built-in, fully-featured secure admin dashboard.",
+      "Optimiert mit Django: Seamless integration with Pythons data science and AI libraries.",
+      "Optimiert mit Django: Built-in protection against web security threats."
+    ],
+    "faq": [
+      {
+        "q": "Is Django overkill for small websites? (Django)",
+        "a": "For static pages, it is usually too heavy. It shines when building secure databases, user portals, or AI integrations."
+      }
+    ]
+  },
+  "uk": {
+    "title": "Django – Технологічні рішення для максимальної швидкості",
+    "description": "Django Ми використовуємо найсучасніші технології для розробки ультрашвидких та SEO-оптимізованих веб-сайтів.",
+    "advantages": [
+      "Оптимізовано з Django: Wbudowany, automatyczny i bezpieczny panel administracyjny.",
+      "Оптимізовано з Django: Szybkie przetwarzanie danych i łatwa integracja z Python AI/ML.",
+      "Оптимізовано з Django: Niezrównane zabezpieczenia chroniące aplikację przed typowymi błędami."
+    ],
+    "faq": [
+      {
+        "q": "Czy Django nadaje się na proste strony? (Django)",
+        "a": "Zazwyczaj jest wybierany do bardziej złożonych systemów z panelem administracyjnym lub wymagających obliczeń naukowych/AI."
+      }
+    ]
+  },
+  "ru": {
+    "title": "Django – Технологические решения для максимальной производительности",
+    "description": "Django Мы используем современные инструменты для создания сверхбыстрых и оптимизированных под SEO сайтов.",
+    "advantages": [
+      "Оптимизировано с Django: Wbudowany, automatyczny i bezpieczny panel administracyjny.",
+      "Оптимизировано с Django: Szybkie przetwarzanie danych i łatwa integracja z Python AI/ML.",
+      "Оптимизировано с Django: Niezrównane zabezpieczenia chroniące aplikację przed typowymi błędami."
+    ],
+    "faq": [
+      {
+        "q": "Czy Django nadaje się na proste strony? (Django)",
+        "a": "Zazwyczaj jest wybierany do bardziej złożonych systemów z panelem administracyjnym lub wymagających obliczeń naukowych/AI."
+      }
+    ]
+  },
+  "zh": {
+    "title": "Django – 提升性能与SEO的现代技术解决方案",
+    "description": "Django 我们采用前沿的技术架构，为您构建加载极快、极致SEO优化的专业企业级网站。",
+    "advantages": [
+      "使用 Django 优化：Wbudowany, automatyczny i bezpieczny panel administracyjny.",
+      "使用 Django 优化：Szybkie przetwarzanie danych i łatwa integracja z Python AI/ML.",
+      "使用 Django 优化：Niezrównane zabezpieczenia chroniące aplikację przed typowymi błędami."
+    ],
+    "faq": [
+      {
+        "q": "Czy Django nadaje się na proste strony? (Django)",
+        "a": "Zazwyczaj jest wybierany do bardziej złożonych systemów z panelem administracyjnym lub wymagających obliczeń naukowych/AI."
+      }
+    ]
+  }
+}

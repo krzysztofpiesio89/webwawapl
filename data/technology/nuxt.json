@@ -1,0 +1,116 @@
+{
+  "pl": {
+    "title": "Nuxt.js – Intuicyjny framework oparty o Vue",
+    "description": "Nuxt.js to zaawansowany framework dla ekosystemu Vue.js. Ułatwia tworzenie stron renderowanych po stronie serwera (SSR) i statycznych aplikacji jednostronicowych (SPA) z naciskiem na SEO i modułowość.",
+    "advantages": [
+      "Automatyczne generowanie routingu i importowanie komponentów.",
+      "Świetne wsparcie SEO (automatyczne generowanie tagów meta i nagłówków).",
+      "Szybki czas wdrożenia dzięki gotowym modułom integracji."
+    ],
+    "faq": [
+      {
+        "q": "Dla kogo przeznaczony jest Nuxt.js?",
+        "a": "Dla zespołów programistycznych preferujących prostotę i czytelność Vue.js zamiast Reacta."
+      },
+      {
+        "q": "Jak Nuxt wpływa na PageSpeed?",
+        "a": "Nuxt 3 posiada doskonałe mechanizmy podziału kodu (code-splitting), co pozwala uzyskać świetne wyniki wydajności."
+      }
+    ]
+  },
+  "en": {
+    "title": "Nuxt.js – Intuitive framework for Vue",
+    "description": "Nuxt.js is an advanced framework for the Vue.js ecosystem. It makes building Server-Side Rendered (SSR) websites and static applications efficient and SEO-friendly.",
+    "advantages": [
+      "Automatic routing generation and auto-import of components.",
+      "Excellent SEO handling with dynamic meta tagging.",
+      "Rapid development cycles with a robust module ecosystem."
+    ],
+    "faq": [
+      {
+        "q": "Who should choose Nuxt.js?",
+        "a": "Development teams seeking the clean syntax and ergonomics of Vue.js over React."
+      },
+      {
+        "q": "How does Nuxt perform in PageSpeed tests?",
+        "a": "Nuxt 3 features advanced bundle chunking, delivering excellent page load times."
+      }
+    ]
+  },
+  "de": {
+    "title": "Nuxt.js – Technologie-Lösungen für maximale Leistung",
+    "description": "Nuxt.js Wir setzen moderne Frameworks und Tools ein, um blitzschnelle, SEO-optimierte Websites zu erstellen, die Konversionen steigern.",
+    "advantages": [
+      "Optimiert mit Nuxt.js: Automatic routing generation and auto-import of components.",
+      "Optimiert mit Nuxt.js: Excellent SEO handling with dynamic meta tagging.",
+      "Optimiert mit Nuxt.js: Rapid development cycles with a robust module ecosystem."
+    ],
+    "faq": [
+      {
+        "q": "Who should choose Nuxt.js? (Nuxt.js)",
+        "a": "Development teams seeking the clean syntax and ergonomics of Vue.js over React."
+      },
+      {
+        "q": "How does Nuxt perform in PageSpeed tests? (Nuxt.js)",
+        "a": "Nuxt 3 features advanced bundle chunking, delivering excellent page load times."
+      }
+    ]
+  },
+  "uk": {
+    "title": "Nuxt.js – Технологічні рішення для максимальної швидкості",
+    "description": "Nuxt.js Ми використовуємо найсучасніші технології для розробки ультрашвидких та SEO-оптимізованих веб-сайтів.",
+    "advantages": [
+      "Оптимізовано з Nuxt.js: Automatyczne generowanie routingu i importowanie komponentów.",
+      "Оптимізовано з Nuxt.js: Świetne wsparcie SEO (automatyczne generowanie tagów meta i nagłówków).",
+      "Оптимізовано з Nuxt.js: Szybki czas wdrożenia dzięki gotowym modułom integracji."
+    ],
+    "faq": [
+      {
+        "q": "Dla kogo przeznaczony jest Nuxt.js? (Nuxt.js)",
+        "a": "Dla zespołów programistycznych preferujących prostotę i czytelność Vue.js zamiast Reacta."
+      },
+      {
+        "q": "Jak Nuxt wpływa na PageSpeed? (Nuxt.js)",
+        "a": "Nuxt 3 posiada doskonałe mechanizmy podziału kodu (code-splitting), co pozwala uzyskać świetne wyniki wydajności."
+      }
+    ]
+  },
+  "ru": {
+    "title": "Nuxt.js – Технологические решения для максимальной производительности",
+    "description": "Nuxt.js Мы используем современные инструменты для создания сверхбыстрых и оптимизированных под SEO сайтов.",
+    "advantages": [
+      "Оптимизировано с Nuxt.js: Automatyczne generowanie routingu i importowanie komponentów.",
+      "Оптимизировано с Nuxt.js: Świetne wsparcie SEO (automatyczne generowanie tagów meta i nagłówków).",
+      "Оптимизировано с Nuxt.js: Szybki czas wdrożenia dzięki gotowym modułom integracji."
+    ],
+    "faq": [
+      {
+        "q": "Dla kogo przeznaczony jest Nuxt.js? (Nuxt.js)",
+        "a": "Dla zespołów programistycznych preferujących prostotę i czytelność Vue.js zamiast Reacta."
+      },
+      {
+        "q": "Jak Nuxt wpływa na PageSpeed? (Nuxt.js)",
+        "a": "Nuxt 3 posiada doskonałe mechanizmy podziału kodu (code-splitting), co pozwala uzyskać świetne wyniki wydajności."
+      }
+    ]
+  },
+  "zh": {
+    "title": "Nuxt.js – 提升性能与SEO的现代技术解决方案",
+    "description": "Nuxt.js 我们采用前沿的技术架构，为您构建加载极快、极致SEO优化的专业企业级网站。",
+    "advantages": [
+      "使用 Nuxt.js 优化：Automatyczne generowanie routingu i importowanie komponentów.",
+      "使用 Nuxt.js 优化：Świetne wsparcie SEO (automatyczne generowanie tagów meta i nagłówków).",
+      "使用 Nuxt.js 优化：Szybki czas wdrożenia dzięki gotowym modułom integracji."
+    ],
+    "faq": [
+      {
+        "q": "Dla kogo przeznaczony jest Nuxt.js? (Nuxt.js)",
+        "a": "Dla zespołów programistycznych preferujących prostotę i czytelność Vue.js zamiast Reacta."
+      },
+      {
+        "q": "Jak Nuxt wpływa na PageSpeed? (Nuxt.js)",
+        "a": "Nuxt 3 posiada doskonałe mechanizmy podziału kodu (code-splitting), co pozwala uzyskać świetne wyniki wydajności."
+      }
+    ]
+  }
+}

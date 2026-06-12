@@ -103,6 +103,51 @@ export function proxy(request: NextRequest) {
 
     // 5.5 Obsługa dynamicznego SEO dla branż/profesji (np. /warszawa/lekarz lub /branze/lekarz)
     const segments = pathWithoutLocale.split('/').filter(Boolean);
+
+    // Słownik mapowania alternatywnych / niepełnych nazw technologii na kanoniczne klucze JSON
+    const TECHNOLOGY_MAP: Record<string, string> = {
+      'astro-build': 'astro-build',
+      'astro': 'astro-build',
+      'nextjs': 'nextjs',
+      'next-js': 'nextjs',
+      'next': 'nextjs',
+      'nuxt': 'nuxt',
+      'wordpress': 'wordpress',
+      'woocommerce': 'woocommerce',
+      'sylius': 'sylius',
+      'laravel': 'laravel',
+      'symfony': 'symfony',
+      'django': 'django',
+      'php': 'php',
+      'javascript': 'javascript',
+      'typescript': 'typescript',
+      'rust': 'rust',
+      'mysql': 'mysql',
+      'sqlite': 'sqlite',
+      'postgresql': 'postgresql',
+      'postgres': 'postgresql',
+      'prisma': 'prisma',
+      'open-graph': 'open-graph',
+      'schema-org': 'schema-org',
+      'websocket': 'websocket',
+      'push-notifications': 'push-notifications',
+      'vapid': 'vapid',
+      'tailwind-css': 'tailwind-css',
+      'tailwind': 'tailwind-css',
+      'jquery': 'jquery',
+      'html5': 'html5',
+      'hosting': 'hosting',
+    };
+
+    let detectedTech: string | null = null;
+    if (segments.length > 0) {
+      const lastSegment = segments[segments.length - 1].toLowerCase();
+      if (TECHNOLOGY_MAP[lastSegment]) {
+        detectedTech = TECHNOLOGY_MAP[lastSegment];
+        segments.pop(); // Usuwamy segment technologii z routingu, aby reszta dopasowała się standardowo
+      }
+    }
+
     const firstSegment = segments[0] || '';
     const secondSegment = segments[1] || '';
     const thirdSegment = segments[2] || '';
@@ -161,6 +206,7 @@ export function proxy(request: NextRequest) {
         if (carBrandSlug) url.searchParams.set('carBrand', carBrandSlug);
         if (carModelSlug) url.searchParams.set('carModel', carModelSlug);
         if (carSeriesSlug) url.searchParams.set('carSeries', carSeriesSlug);
+        if (detectedTech) url.searchParams.set('tech', detectedTech);
 
         const finalResponse = NextResponse.rewrite(url);
         responseCookiesToSet.forEach(cookie => {
@@ -187,6 +233,8 @@ export function proxy(request: NextRequest) {
         if (serviceId) rewritePath += `/${serviceId}`;
 
         url.pathname = rewritePath;
+        if (detectedTech) url.searchParams.set('tech', detectedTech);
+
         const finalResponse = NextResponse.rewrite(url);
         responseCookiesToSet.forEach(cookie => {
           finalResponse.cookies.set(cookie.name, cookie.value, { path: '/', maxAge: cookie.maxAge });
@@ -212,6 +260,8 @@ export function proxy(request: NextRequest) {
           if (serviceId) rewritePath += `/${serviceId}`;
           
           url.pathname = rewritePath;
+          if (detectedTech) url.searchParams.set('tech', detectedTech);
+
           const finalResponse = NextResponse.rewrite(url);
           responseCookiesToSet.forEach(cookie => {
             finalResponse.cookies.set(cookie.name, cookie.value, { path: '/', maxAge: cookie.maxAge });
@@ -237,6 +287,8 @@ export function proxy(request: NextRequest) {
           if (serviceId) rewritePath += `/${serviceId}`;
           
           url.pathname = rewritePath;
+          if (detectedTech) url.searchParams.set('tech', detectedTech);
+
           const finalResponse = NextResponse.rewrite(url);
           responseCookiesToSet.forEach(cookie => {
             finalResponse.cookies.set(cookie.name, cookie.value, { path: '/', maxAge: cookie.maxAge });
@@ -262,6 +314,7 @@ export function proxy(request: NextRequest) {
         const url = request.nextUrl.clone();
         const newPathWithoutLocale = `/${resolvedStatic.page}` + (segments.length > 1 ? `/${segments.slice(1).join('/')}` : '');
         url.pathname = `/${currentLocale}${newPathWithoutLocale}`;
+        if (detectedTech) url.searchParams.set('tech', detectedTech);
         finalResponse = NextResponse.rewrite(url);
       } else {
         // Jesli wszedl na /en/marki to powinnismy go zredirectowac na /en/brands (poprawny slug dla ang)
@@ -284,6 +337,8 @@ export function proxy(request: NextRequest) {
         // na /pl/warszawa zeby App Router wiedzial gdzie to jest
         const url = request.nextUrl.clone();
         url.pathname = `/${defaultLocale}${pathname}`;
+        // Przekazujemy parametr tech, jeśli został wykryty w oryginalnym żądaniu bez prefixu językowego
+        if (detectedTech) url.searchParams.set('tech', detectedTech);
         finalResponse = NextResponse.rewrite(url);
       } else {
         // Wejscie z poprawnym prefiksem - nic nie musimy przepisywac

@@ -1,0 +1,92 @@
+{
+  "pl": {
+    "title": "PHP – Silnik napędowy nowoczesnego internetu",
+    "description": "PHP to sprawdzony język programowania po stronie serwera. W nowoczesnej wersji 8.x zapewnia niesamowitą wydajność, niskie koszty utrzymania hostingu oraz szybki czas ładowania aplikacji.",
+    "advantages": [
+      "Niskie koszty hostingu i wysoka kompatybilność z serwerami.",
+      "Bardzo szybki czas przetwarzania zapytań (PHP 8.2+ z OPcache).",
+      "Największy rynek bibliotek i gotowych systemów CMS."
+    ],
+    "faq": [
+      {
+        "q": "Czy PHP wciąż jest aktualnym językiem?",
+        "a": "Tak, PHP napędza ponad 75% internetu. Nowoczesny PHP (8.x) jest równie szybki i bezpieczny co Node.js czy Python."
+      }
+    ]
+  },
+  "en": {
+    "title": "PHP – The Engine of the Web",
+    "description": "PHP is the backbone of server-side web development. With version 8.x, it offers incredible performance, low infrastructure costs, and rapid response times.",
+    "advantages": [
+      "Cost-effective hosting and universal server support.",
+      "High execution speeds with OPcache and JIT compilation in PHP 8.2+.",
+      "Broad ecosystem of open-source libraries and CMS platforms."
+    ],
+    "faq": [
+      {
+        "q": "Is PHP still relevant today?",
+        "a": "Yes, powering over 75% of websites globally. Modern PHP is object-oriented, typed, and highly performant."
+      }
+    ]
+  },
+  "de": {
+    "title": "PHP – Technologie-Lösungen für maximale Leistung",
+    "description": "PHP Wir setzen moderne Frameworks und Tools ein, um blitzschnelle, SEO-optimierte Websites zu erstellen, die Konversionen steigern.",
+    "advantages": [
+      "Optimiert mit PHP: Cost-effective hosting and universal server support.",
+      "Optimiert mit PHP: High execution speeds with OPcache and JIT compilation in PHP 8.2+.",
+      "Optimiert mit PHP: Broad ecosystem of open-source libraries and CMS platforms."
+    ],
+    "faq": [
+      {
+        "q": "Is PHP still relevant today? (PHP)",
+        "a": "Yes, powering over 75% of websites globally. Modern PHP is object-oriented, typed, and highly performant."
+      }
+    ]
+  },
+  "uk": {
+    "title": "PHP – Технологічні рішення для максимальної швидкості",
+    "description": "PHP Ми використовуємо найсучасніші технології для розробки ультрашвидких та SEO-оптимізованих веб-сайтів.",
+    "advantages": [
+      "Оптимізовано з PHP: Niskie koszty hostingu i wysoka kompatybilność z serwerami.",
+      "Оптимізовано з PHP: Bardzo szybki czas przetwarzania zapytań (PHP 8.2+ z OPcache).",
+      "Оптимізовано з PHP: Największy rynek bibliotek i gotowych systemów CMS."
+    ],
+    "faq": [
+      {
+        "q": "Czy PHP wciąż jest aktualnym językiem? (PHP)",
+        "a": "Tak, PHP napędza ponad 75% internetu. Nowoczesny PHP (8.x) jest równie szybki i bezpieczny co Node.js czy Python."
+      }
+    ]
+  },
+  "ru": {
+    "title": "PHP – Технологические решения для максимальной производительности",
+    "description": "PHP Мы используем современные инструменты для создания сверхбыстрых и оптимизированных под SEO сайтов.",
+    "advantages": [
+      "Оптимизировано с PHP: Niskie koszty hostingu i wysoka kompatybilność z serwerami.",
+      "Оптимизировано с PHP: Bardzo szybki czas przetwarzania zapytań (PHP 8.2+ z OPcache).",
+      "Оптимизировано с PHP: Największy rynek bibliotek i gotowych systemów CMS."
+    ],
+    "faq": [
+      {
+        "q": "Czy PHP wciąż jest aktualnym językiem? (PHP)",
+        "a": "Tak, PHP napędza ponad 75% internetu. Nowoczesny PHP (8.x) jest równie szybki i bezpieczny co Node.js czy Python."
+      }
+    ]
+  },
+  "zh": {
+    "title": "PHP – 提升性能与SEO的现代技术解决方案",
+    "description": "PHP 我们采用前沿的技术架构，为您构建加载极快、极致SEO优化的专业企业级网站。",
+    "advantages": [
+      "使用 PHP 优化：Niskie koszty hostingu i wysoka kompatybilność z serwerami.",
+      "使用 PHP 优化：Bardzo szybki czas przetwarzania zapytań (PHP 8.2+ z OPcache).",
+      "使用 PHP 优化：Największy rynek bibliotek i gotowych systemów CMS."
+    ],
+    "faq": [
+      {
+        "q": "Czy PHP wciąż jest aktualnym językiem? (PHP)",
+        "a": "Tak, PHP napędza ponad 75% internetu. Nowoczesny PHP (8.x) jest równie szybki i bezpieczny co Node.js czy Python."
+      }
+    ]
+  }
+}

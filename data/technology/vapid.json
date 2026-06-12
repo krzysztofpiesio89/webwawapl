@@ -1,0 +1,92 @@
+{
+  "pl": {
+    "title": "VAPID – Bezpieczna identyfikacja powiadomień Push",
+    "description": "VAPID (Voluntary Application Server Identification) to standard bezpieczeństwa dla powiadomień Web Push. Zapewnia, że nikt inny nie podszyje się pod Twój serwer wysyłający wiadomości.",
+    "advantages": [
+      "Szyfrowanie kluczem publicznym/prywatnym chroniące prywatność użytkowników.",
+      "Brak konieczności rejestracji w zewnętrznych platformach (np. Firebase).",
+      "Zgodność ze standardami W3C i nowoczesnymi przeglądarkami."
+    ],
+    "faq": [
+      {
+        "q": "Dlaczego VAPID jest niezbędny?",
+        "a": "To wymagany mechanizm uwierzytelniania przez przeglądarki Safari, Chrome i Firefox dla bezpiecznych powiadomień."
+      }
+    ]
+  },
+  "en": {
+    "title": "VAPID – Secure Push Server Authentication",
+    "description": "VAPID (Voluntary Application Server Identification) is the security protocol for Web Push notifications. It guarantees that only your verified server can send notifications to your subscribers.",
+    "advantages": [
+      "Asymmetric encryption protecting subscriber confidentiality.",
+      "Eliminates third-party provider dependencies (e.g. Firebase).",
+      "Strict compliance with W3C standards and modern browsers."
+    ],
+    "faq": [
+      {
+        "q": "Why is VAPID necessary?",
+        "a": "It is a mandatory browser authentication protocol for Safari, Chrome, and Firefox to enable secure notification endpoints."
+      }
+    ]
+  },
+  "de": {
+    "title": "VAPID – Technologie-Lösungen für maximale Leistung",
+    "description": "VAPID Wir setzen moderne Frameworks und Tools ein, um blitzschnelle, SEO-optimierte Websites zu erstellen, die Konversionen steigern.",
+    "advantages": [
+      "Optimiert mit VAPID: Asymmetric encryption protecting subscriber confidentiality.",
+      "Optimiert mit VAPID: Eliminates third-party provider dependencies (e.g. Firebase).",
+      "Optimiert mit VAPID: Strict compliance with W3C standards and modern browsers."
+    ],
+    "faq": [
+      {
+        "q": "Why is VAPID necessary? (VAPID)",
+        "a": "It is a mandatory browser authentication protocol for Safari, Chrome, and Firefox to enable secure notification endpoints."
+      }
+    ]
+  },
+  "uk": {
+    "title": "VAPID – Технологічні рішення для максимальної швидкості",
+    "description": "VAPID Ми використовуємо найсучасніші технології для розробки ультрашвидких та SEO-оптимізованих веб-сайтів.",
+    "advantages": [
+      "Оптимізовано з VAPID: Szyfrowanie kluczem publicznym/prywatnym chroniące prywatność użytkowników.",
+      "Оптимізовано з VAPID: Brak konieczności rejestracji w zewnętrznych platformach (np. Firebase).",
+      "Оптимізовано з VAPID: Zgodność ze standardami W3C i nowoczesnymi przeglądarkami."
+    ],
+    "faq": [
+      {
+        "q": "Dlaczego VAPID jest niezbędny? (VAPID)",
+        "a": "To wymagany mechanizm uwierzytelniania przez przeglądarki Safari, Chrome i Firefox dla bezpiecznych powiadomień."
+      }
+    ]
+  },
+  "ru": {
+    "title": "VAPID – Технологические решения для максимальной производительности",
+    "description": "VAPID Мы используем современные инструменты для создания сверхбыстрых и оптимизированных под SEO сайтов.",
+    "advantages": [
+      "Оптимизировано с VAPID: Szyfrowanie kluczem publicznym/prywatnym chroniące prywatność użytkowników.",
+      "Оптимизировано с VAPID: Brak konieczności rejestracji w zewnętrznych platformach (np. Firebase).",
+      "Оптимизировано с VAPID: Zgodność ze standardami W3C i nowoczesnymi przeglądarkami."
+    ],
+    "faq": [
+      {
+        "q": "Dlaczego VAPID jest niezbędny? (VAPID)",
+        "a": "To wymagany mechanizm uwierzytelniania przez przeglądarki Safari, Chrome i Firefox dla bezpiecznych powiadomień."
+      }
+    ]
+  },
+  "zh": {
+    "title": "VAPID – 提升性能与SEO的现代技术解决方案",
+    "description": "VAPID 我们采用前沿的技术架构，为您构建加载极快、极致SEO优化的专业企业级网站。",
+    "advantages": [
+      "使用 VAPID 优化：Szyfrowanie kluczem publicznym/prywatnym chroniące prywatność użytkowników.",
+      "使用 VAPID 优化：Brak konieczności rejestracji w zewnętrznych platformach (np. Firebase).",
+      "使用 VAPID 优化：Zgodność ze standardami W3C i nowoczesnymi przeglądarkami."
+    ],
+    "faq": [
+      {
+        "q": "Dlaczego VAPID jest niezbędny? (VAPID)",
+        "a": "To wymagany mechanizm uwierzytelniania przez przeglądarki Safari, Chrome i Firefox dla bezpiecznych powiadomień."
+      }
+    ]
+  }
+}

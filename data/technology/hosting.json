@@ -1,0 +1,92 @@
+{
+  "pl": {
+    "title": "Hosting & CDN – Szybkość i wysokie bezpieczeństwo",
+    "description": "Wybór serwera ma krytyczne znaczenie dla stabilności strony. Wdrażamy projekty na nowoczesnych platformach chmurowych (Vercel, Netlify) zintegrowanych z globalną siecią CDN (Cloudflare), co skraca czas TTFB do minimum.",
+    "advantages": [
+      "Czas do pierwszego bajtu (TTFB) poniżej 50ms dzięki globalnej sieci serwerów Edge.",
+      "Automatyczne skalowanie – strona działa bez zakłóceń nawet przy nagłym wzroście ruchu.",
+      "Darmowy certyfikat SSL (Let's Encrypt) odnawiający się automatycznie."
+    ],
+    "faq": [
+      {
+        "q": "Co to jest sieć CDN?",
+        "a": "Content Delivery Network to sieć serwerów na całym świecie przechowujących kopie Twojej strony. Klient z Warszawy pobierze ją z najbliższego serwera w Warszawie, co skraca czas wczytywania."
+      }
+    ]
+  },
+  "en": {
+    "title": "Hosting & CDN – Low Latency and High Availability",
+    "description": "Server response times are crucial. We deploy applications to top cloud providers (Vercel, Netlify) paired with global Content Delivery Networks (Cloudflare), minimizing TTFB.",
+    "advantages": [
+      "Time to First Byte (TTFB) under 50ms utilizing Edge servers.",
+      "Auto-scaling resources preventing crashes during sudden traffic spikes.",
+      "Automated and free SSL security certificates (Let's Encrypt)."
+    ],
+    "faq": [
+      {
+        "q": "What is a CDN network?",
+        "a": "Content Delivery Network mirrors your site assets worldwide. A user in Warsaw gets the assets served from Warsaw, resulting in instantaneous page renders."
+      }
+    ]
+  },
+  "de": {
+    "title": "Hosting i CDN – Technologie-Lösungen für maximale Leistung",
+    "description": "Hosting i CDN Wir setzen moderne Frameworks und Tools ein, um blitzschnelle, SEO-optimierte Websites zu erstellen, die Konversionen steigern.",
+    "advantages": [
+      "Optimiert mit Hosting i CDN: Time to First Byte (TTFB) under 50ms utilizing Edge servers.",
+      "Optimiert mit Hosting i CDN: Auto-scaling resources preventing crashes during sudden traffic spikes.",
+      "Optimiert mit Hosting i CDN: Automated and free SSL security certificates (Let's Encrypt)."
+    ],
+    "faq": [
+      {
+        "q": "What is a CDN network? (Hosting i CDN)",
+        "a": "Content Delivery Network mirrors your site assets worldwide. A user in Warsaw gets the assets served from Warsaw, resulting in instantaneous page renders."
+      }
+    ]
+  },
+  "uk": {
+    "title": "Hosting i CDN – Технологічні рішення для максимальної швидкості",
+    "description": "Hosting i CDN Ми використовуємо найсучасніші технології для розробки ультрашвидких та SEO-оптимізованих веб-сайтів.",
+    "advantages": [
+      "Оптимізовано з Hosting i CDN: Czas do pierwszego bajtu (TTFB) poniżej 50ms dzięki globalnej sieci serwerów Edge.",
+      "Оптимізовано з Hosting i CDN: Automatyczne skalowanie – strona działa bez zakłóceń nawet przy nagłym wzroście ruchu.",
+      "Оптимізовано з Hosting i CDN: Darmowy certyfikat SSL (Let's Encrypt) odnawiający się automatycznie."
+    ],
+    "faq": [
+      {
+        "q": "Co to jest sieć CDN? (Hosting i CDN)",
+        "a": "Content Delivery Network to sieć serwerów na całym świecie przechowujących kopie Twojej strony. Klient z Warszawy pobierze ją z najbliższego serwera w Warszawie, co skraca czas wczytywania."
+      }
+    ]
+  },
+  "ru": {
+    "title": "Hosting i CDN – Технологические решения для максимальной производительности",
+    "description": "Hosting i CDN Мы используем современные инструменты для создания сверхбыстрых и оптимизированных под SEO сайтов.",
+    "advantages": [
+      "Оптимизировано с Hosting i CDN: Czas do pierwszego bajtu (TTFB) poniżej 50ms dzięki globalnej sieci serwerów Edge.",
+      "Оптимизировано с Hosting i CDN: Automatyczne skalowanie – strona działa bez zakłóceń nawet przy nagłym wzroście ruchu.",
+      "Оптимизировано с Hosting i CDN: Darmowy certyfikat SSL (Let's Encrypt) odnawiający się automatycznie."
+    ],
+    "faq": [
+      {
+        "q": "Co to jest sieć CDN? (Hosting i CDN)",
+        "a": "Content Delivery Network to sieć serwerów na całym świecie przechowujących kopie Twojej strony. Klient z Warszawy pobierze ją z najbliższego serwera w Warszawie, co skraca czas wczytywania."
+      }
+    ]
+  },
+  "zh": {
+    "title": "Hosting i CDN – 提升性能与SEO的现代技术解决方案",
+    "description": "Hosting i CDN 我们采用前沿的技术架构，为您构建加载极快、极致SEO优化的专业企业级网站。",
+    "advantages": [
+      "使用 Hosting i CDN 优化：Czas do pierwszego bajtu (TTFB) poniżej 50ms dzięki globalnej sieci serwerów Edge.",
+      "使用 Hosting i CDN 优化：Automatyczne skalowanie – strona działa bez zakłóceń nawet przy nagłym wzroście ruchu.",
+      "使用 Hosting i CDN 优化：Darmowy certyfikat SSL (Let's Encrypt) odnawiający się automatycznie."
+    ],
+    "faq": [
+      {
+        "q": "Co to jest sieć CDN? (Hosting i CDN)",
+        "a": "Content Delivery Network to sieć serwerów na całym świecie przechowujących kopie Twojej strony. Klient z Warszawy pobierze ją z najbliższego serwera w Warszawie, co skraca czas wczytywania."
+      }
+    ]
+  }
+}
