@@ -128,7 +128,7 @@ export default function IndustriesShowcase({ lang, dict }: IndustriesShowcasePro
         
         {/* Section Header */}
         <div className="text-center max-w-3xl mx-auto mb-16 space-y-4">
-          <span className="inline-flex items-center gap-2 py-1.5 px-4 rounded-full bg-primary/10 border border-primary/20 text-primary text-xs font-bold uppercase tracking-wider">
+          <span className="inline-flex items-center gap-2 py-1.5 px-4 rounded-none border-l-4 border-[#818cf8] border-y border-r border-primary/20 bg-primary/10 text-primary text-xs font-bold uppercase tracking-wider">
             <span className="w-1.5 h-1.5 rounded-full bg-primary animate-pulse" />
             {dict.sectorLabel || 'Sektory'}
           </span>
@@ -155,12 +155,12 @@ export default function IndustriesShowcase({ lang, dict }: IndustriesShowcasePro
             return (
               <div 
                 key={ind.id}
-                className={`group relative flex flex-col justify-between p-7 rounded-3xl bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 shadow-sm ${theme.glow} ${theme.border} transition-all duration-300 ease-[cubic-bezier(0.25,0.8,0.25,1)] hover:-translate-y-1.5 hover:scale-[1.015]`}
+                className={`group relative flex flex-col justify-between p-7 rounded-none bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 shadow-[2px_2px_0_rgba(15,23,42,0.05)] dark:shadow-[2px_2px_0_rgba(255,255,255,0.02)] ${theme.glow} ${theme.border} transition-all duration-300 ease-[cubic-bezier(0.25,0.8,0.25,1)] hover:-translate-y-1.5 hover:scale-[1.015]`}
               >
                 <div>
                   {/* Top Bar inside card */}
                   <div className="flex justify-between items-center mb-6">
-                    <span className={`text-[10px] font-bold uppercase tracking-widest px-3 py-1.5 rounded-full ${theme.bg} ${theme.text}`}>
+                    <span className={`text-[10px] font-bold uppercase tracking-widest px-3 py-1.5 rounded-none border-l-2 border-currentColor ${theme.bg} ${theme.text}`}>
                       {dict.sectorLabel || 'Sector'}: {ind.id}
                     </span>
                     <span className="text-3xl transition-transform duration-300 ease-out group-hover:-translate-y-1 group-hover:scale-110 group-hover:rotate-6 origin-bottom-left">
@@ -194,7 +194,7 @@ export default function IndustriesShowcase({ lang, dict }: IndustriesShowcasePro
                             <Link
                               key={modelKey}
                               href={specialtyUrl}
-                              className="text-[clamp(9.5px,0.9vw,11.5px)] font-bold text-slate-600 dark:text-slate-400 bg-white dark:bg-white/5 border border-slate-200 dark:border-white/10 px-3 py-1.5 rounded-xl transition-colors duration-300 group-hover:bg-slate-100 dark:group-hover:bg-slate-800/40 group-hover:border-slate-300 dark:group-hover:border-slate-700 hover:!bg-slate-200 dark:hover:!bg-slate-700 shadow-sm"
+                              className="text-[clamp(9.5px,0.9vw,11.5px)] font-bold text-slate-600 dark:text-slate-400 bg-white dark:bg-white/5 border border-slate-200 dark:border-white/10 px-3 py-1.5 rounded-none transition-colors duration-300 group-hover:bg-slate-100 dark:group-hover:bg-slate-800/40 group-hover:border-slate-300 dark:group-hover:border-slate-700 hover:!bg-slate-200 dark:hover:!bg-slate-700 shadow-sm"
                             >
                               {modelVal.name}
                             </Link>
@@ -222,7 +222,7 @@ export default function IndustriesShowcase({ lang, dict }: IndustriesShowcasePro
         <div className="text-center mt-16">
           <Link
             href={industriesUrl}
-            className="btn-primary inline-flex py-4 px-9 rounded-2xl text-sm font-bold uppercase tracking-widest shadow-lg hover:shadow-xl transition-all"
+            className="btn-primary inline-flex py-4 px-9 rounded-none border-b-2 border-r-2 border-primary-dark text-sm font-bold uppercase tracking-widest shadow-lg hover:shadow-xl transition-all"
             id="cta-home-industries"
           >
             {dict.cta} →

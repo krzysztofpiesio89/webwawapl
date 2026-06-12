@@ -127,7 +127,7 @@
   }
 
   .btn-gradient {
-    @apply bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-500 hover:to-indigo-500 text-white shadow-lg shadow-blue-500/20 hover:shadow-blue-500/40;
+    @apply bg-gradient-to-r from-[#818cf8] to-[#0ea5e9] hover:from-[#6366f1] hover:to-[#0284c7] text-white shadow-lg shadow-blue-500/20 hover:shadow-blue-500/40;
   }
 
   .btn-ghost {
@@ -136,15 +136,15 @@
 
   /* ROZMIARY (w tym globalny border-radius) */
   .btn-sm {
-    @apply py-2 px-4 text-sm rounded-lg;
+    @apply py-2 px-4 text-sm rounded-none;
   }
 
   .btn-md {
-    @apply py-2.5 px-6 text-base rounded-xl;
+    @apply py-2.5 px-6 text-base rounded-none;
   }
 
   .btn-lg {
-    @apply py-4 px-8 text-lg rounded-2xl;
+    @apply py-4 px-8 text-lg rounded-none;
   }
   /* ------------------------------------ */
 
@@ -169,7 +169,7 @@
     background: var(--card-bg);
     backdrop-filter: blur(16px);
     border: 1px solid var(--card-border);
-    @apply p-8 rounded-3xl transition-all duration-300 hover:border-primary/45;
+    @apply p-8 rounded-none transition-all duration-300 hover:border-primary/45;
     box-shadow: 0 4px 30px var(--shadow-color);
   }
 

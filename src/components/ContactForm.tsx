@@ -259,7 +259,7 @@ export default function ContactForm({
   };
 
   return (
-    <div ref={formRef} className="glass-card relative overflow-hidden text-slate-800 dark:text-slate-100 scroll-mt-24 transition-colors">
+    <div ref={formRef} className="glass-card relative overflow-hidden text-slate-800 dark:text-slate-100 scroll-mt-24 transition-colors border-t-4 border-t-[#818cf8]">
       {/* Top gradient bar */}
       <div className="absolute top-0 left-0 w-full h-1.5 bg-gradient-to-r from-primary to-secondary"></div>
       
@@ -268,7 +268,7 @@ export default function ContactForm({
       </h2>
       
       {state?.success ? (
-        <div className="bg-green-500/10 border border-green-500/20 text-green-700 dark:text-green-400 p-8 md:p-16 rounded-2xl text-center animate-fade-in shadow-inner">
+        <div className="bg-green-500/10 border border-green-500/20 text-green-700 dark:text-green-400 p-8 md:p-16 rounded-none text-center animate-fade-in shadow-inner">
           <div className="text-6xl mb-6 animate-bounce">✅</div>
           <p className="text-2xl font-bold mb-3 tracking-tight text-green-800 dark:text-green-500">{labels.successTitle}</p>
           <p className="font-medium opacity-80">{labels.successMessage}</p>
@@ -299,7 +299,7 @@ export default function ContactForm({
                 required 
                 type="text" 
                 placeholder={labels.clientNamePlaceholder} 
-                className="w-full p-4 rounded-xl border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
+                className="w-full p-4 rounded-none border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
               />
             </div>
 
@@ -312,7 +312,7 @@ export default function ContactForm({
                 required
                 type="text" 
                 placeholder={labels.serviceTypePlaceholder} 
-                className="w-full p-4 rounded-xl border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
+                className="w-full p-4 rounded-none border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
               />
             </div>
 
@@ -324,7 +324,7 @@ export default function ContactForm({
                 name="price" 
                 type="text" 
                 placeholder={labels.budgetPlaceholder} 
-                className="w-full p-4 rounded-xl border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
+                className="w-full p-4 rounded-none border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
               />
             </div>
 
@@ -336,7 +336,7 @@ export default function ContactForm({
                 name="year" 
                 type="text" 
                 placeholder={labels.timeframePlaceholder} 
-                className="w-full p-4 rounded-xl border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
+                className="w-full p-4 rounded-none border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
               />
             </div>
 
@@ -347,7 +347,7 @@ export default function ContactForm({
                 id="city"
                 name="city" 
                 defaultValue={defaultCity} 
-                className="w-full p-4 rounded-xl border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
+                className="w-full p-4 rounded-none border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
               />
             </div>
 
@@ -360,7 +360,7 @@ export default function ContactForm({
                 required 
                 type="tel" 
                 placeholder={labels.phonePlaceholder} 
-                className="w-full p-4 rounded-xl border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
+                className="w-full p-4 rounded-none border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
               />
             </div>
 
@@ -373,7 +373,7 @@ export default function ContactForm({
                 required 
                 type="email" 
                 placeholder={labels.emailPlaceholder} 
-                className="w-full p-4 rounded-xl border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
+                className="w-full p-4 rounded-none border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
               />
             </div>
           </div>
@@ -386,7 +386,7 @@ export default function ContactForm({
               name="description" 
               rows={4} 
               placeholder={labels.descriptionPlaceholder} 
-              className="w-full p-4 rounded-xl border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
+              className="w-full p-4 rounded-none border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
             />
           </div>
 
@@ -394,7 +394,7 @@ export default function ContactForm({
           <div className="space-y-4">
             <label htmlFor="images-input" className="text-xs font-bold text-slate-600 dark:text-slate-400 uppercase tracking-wider block">{labels.files}</label>
             <div className="flex flex-wrap gap-4">
-              <label htmlFor="images-input" className="w-20 h-20 border-2 border-dashed border-slate-300 dark:border-slate-800 rounded-xl flex items-center justify-center cursor-pointer hover:border-primary dark:hover:border-primary bg-slate-50 dark:bg-slate-950/60 transition-colors text-2xl text-slate-400 dark:text-slate-600">
+              <label htmlFor="images-input" className="w-20 h-20 border-2 border-dashed border-slate-300 dark:border-slate-800 rounded-none flex items-center justify-center cursor-pointer hover:border-primary dark:hover:border-primary bg-slate-50 dark:bg-slate-950/60 transition-colors text-2xl text-slate-400 dark:text-slate-600">
                 +
                 <input 
                   id="images-input"
@@ -407,9 +407,9 @@ export default function ContactForm({
                 />
               </label>
               {images.map((img, i) => (
-                <div key={i} className="w-20 h-20 bg-slate-50 dark:bg-slate-950/60 rounded-xl flex items-center justify-center text-[10px] text-slate-500 font-bold overflow-hidden text-center p-0.5 relative group shadow-sm border border-slate-200 dark:border-slate-800">
+                <div key={i} className="w-20 h-20 bg-slate-50 dark:bg-slate-950/60 rounded-none flex items-center justify-center text-[10px] text-slate-500 font-bold overflow-hidden text-center p-0.5 relative group shadow-sm border border-slate-200 dark:border-slate-800">
                   {img.file.type.startsWith('image/') ? (
-                    <img src={img.preview} alt="" className="w-full h-full object-cover rounded-lg" />
+                    <img src={img.preview} alt="" className="w-full h-full object-cover rounded-none" />
                   ) : (
                     <div className="flex flex-col items-center justify-center h-full p-1 text-slate-700 dark:text-slate-300">
                       <span className="text-xl">📄</span>
@@ -419,7 +419,7 @@ export default function ContactForm({
                   <button 
                     type="button" 
                     onClick={() => removeImage(i)} 
-                    className="absolute inset-0 bg-red-500/90 text-white font-black flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity rounded-lg"
+                    className="absolute inset-0 bg-red-500/90 text-white font-black flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity rounded-none"
                   >
                     X
                   </button>

@@ -280,13 +280,13 @@ export default function HeroSection({ lang, phone, email }: HeroSectionProps) {
               <span className="bg-gradient-to-r from-slate-700 via-red-500 to-red-600 dark:from-slate-100 dark:via-red-400 dark:to-rose-400 bg-clip-text text-transparent font-semibold text-3xl sm:text-4xl lg:text-[2.5rem] block mt-2 mb-1">
                 {t.h1b}
               </span>
-              <span className="bg-slate-900 text-white dark:bg-white dark:text-slate-900 px-5 py-2 rounded-2xl inline-block mt-3 not-italic shadow-lg shadow-slate-950/10 dark:shadow-white/5 text-3xl sm:text-4xl lg:text-[2.5rem] tracking-tight">
+              <span className="bg-slate-900 text-white dark:bg-white dark:text-slate-900 px-5 py-2 rounded-none inline-block mt-3 not-italic shadow-[4px_4px_0_rgba(15,23,42,0.1)] dark:shadow-[4px_4px_0_rgba(255,255,255,0.05)] text-3xl sm:text-4xl lg:text-[2.5rem] tracking-tight">
                 {t.h1c}
               </span>
             </h1>
 
             {/* Lighthouse chart */}
-            <div className="rounded-2xl border border-slate-200 dark:border-white/10 bg-white dark:bg-white/[0.02] p-6 space-y-4 shadow-md shadow-slate-200/40 dark:shadow-none">
+            <div className="rounded-none border-l-4 border-l-[#818cf8] border-y border-r border-slate-200 dark:border-slate-800 bg-white dark:bg-white/[0.02] p-6 space-y-4 shadow-sm dark:shadow-none">
               <p className="text-xs font-bold text-slate-500 dark:text-slate-500 uppercase tracking-widest">
                 {t.chartTitle}
               </p>
@@ -298,7 +298,7 @@ export default function HeroSection({ lang, phone, email }: HeroSectionProps) {
             {/* Metrics row (Stripe-style Hierarchy) */}
             <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
               {/* 1. Primary (Projects) */}
-              <div className="relative overflow-hidden rounded-xl border border-emerald-200 dark:border-emerald-500/20 bg-white dark:bg-emerald-500/10 p-4 shadow-sm shadow-emerald-100 dark:shadow-none">
+              <div className="relative overflow-hidden rounded-none border-t-2 border-emerald-500 bg-white dark:bg-emerald-500/10 p-4 shadow-sm dark:shadow-none">
                 <div className="absolute -right-4 -top-4 w-16 h-16 bg-emerald-500/10 dark:bg-emerald-500/20 rounded-full blur-xl" />
                 <p className="relative text-2xl font-black text-emerald-600 dark:text-emerald-400 tabular-nums leading-none">
                   {projectCount}
@@ -309,17 +309,17 @@ export default function HeroSection({ lang, phone, email }: HeroSectionProps) {
               </div>
               
               {/* 2 & 3. Supporting (Neutral Ghosts) */}
-              <div className="rounded-xl border border-slate-200 dark:border-white/5 bg-white dark:bg-white/[0.02] p-4 shadow-sm shadow-slate-100/50 dark:shadow-none flex flex-col justify-center">
+              <div className="rounded-none border border-slate-200 dark:border-white/5 bg-white dark:bg-white/[0.02] p-4 flex flex-col justify-center">
                 <p className="text-xl font-extrabold text-slate-800 dark:text-slate-300 leading-none">24h</p>
                 <p className="text-[10px] text-slate-500 dark:text-slate-500 uppercase tracking-wider mt-1.5 font-semibold">{t.metric2}</p>
               </div>
-              <div className="rounded-xl border border-slate-200 dark:border-white/5 bg-white dark:bg-white/[0.02] p-4 shadow-sm shadow-slate-100/50 dark:shadow-none flex flex-col justify-center">
+              <div className="rounded-none border border-slate-200 dark:border-white/5 bg-white dark:bg-white/[0.02] p-4 flex flex-col justify-center">
                 <p className="text-xl font-extrabold text-slate-800 dark:text-slate-300 leading-none">100%</p>
                 <p className="text-[10px] text-slate-500 dark:text-slate-500 uppercase tracking-wider mt-1.5 font-semibold">{t.metric3}</p>
               </div>
               
               {/* 4. Urgency */}
-              <div className="rounded-xl border border-red-200 dark:border-red-500/20 bg-red-50 dark:bg-red-500/10 p-4 shadow-sm shadow-red-50 dark:shadow-none">
+              <div className="rounded-none border-t-2 border-[#f97316] bg-red-50 dark:bg-orange-500/10 p-4 shadow-sm dark:shadow-none">
                 <p className="text-2xl font-black text-red-600 dark:text-red-400 leading-none">2</p>
                 <p className="text-[10px] text-red-700/80 dark:text-red-400/80 uppercase tracking-wider mt-1.5 font-bold">
                   {t.metric4}
@@ -380,7 +380,7 @@ export default function HeroSection({ lang, phone, email }: HeroSectionProps) {
             <div className="absolute -bottom-6 -left-6 sm:bottom-0 sm:left-0 w-36 h-36 sm:w-44 sm:h-44 rounded-full bg-gradient-to-tr from-emerald-400/40 to-blue-500/40 dark:from-emerald-500/20 dark:to-blue-600/20 filter blur-2xl shadow-xl opacity-90 animate-pulse-slow -z-10" />
 
             {/* Card back */}
-            <div className="relative w-[80%] aspect-[4/3] rounded-3xl overflow-hidden shadow-2xl shadow-slate-300/50 dark:shadow-black/60 border border-slate-200/80 dark:border-white/10 transition-all hover:scale-[1.02] duration-500 bg-white dark:bg-white/5 self-start ml-auto">
+            <div className="relative w-[80%] aspect-[4/3] rounded-none overflow-hidden shadow-2xl shadow-slate-300/50 dark:shadow-black/60 border-2 border-slate-200/80 dark:border-white/10 transition-all hover:scale-[1.02] duration-500 bg-white dark:bg-white/5 self-start ml-auto">
               <Image
                 src="/images/team_meeting.png"
                 alt={t.altTeam}
@@ -393,8 +393,8 @@ export default function HeroSection({ lang, phone, email }: HeroSectionProps) {
             </div>
 
             {/* Card front */}
-            <div className="absolute left-0 bottom-0 w-[65%] aspect-[16/10] rounded-3xl overflow-hidden shadow-2xl shadow-slate-400/40 dark:shadow-black/80 border border-white/80 dark:border-white/10 backdrop-blur-md transition-all hover:scale-[1.05] duration-500 bg-white/80 dark:bg-white/5 p-2">
-              <div className="relative w-full h-full rounded-2xl overflow-hidden bg-slate-900 shadow-inner">
+            <div className="absolute left-0 bottom-0 w-[65%] aspect-[16/10] rounded-none overflow-hidden shadow-2xl shadow-slate-400/40 dark:shadow-black/80 border-2 border-white/80 dark:border-white/10 backdrop-blur-md transition-all hover:scale-[1.05] duration-500 bg-white/80 dark:bg-white/5 p-2">
+              <div className="relative w-full h-full rounded-none overflow-hidden bg-slate-900 shadow-inner">
                 <Image
                   src="/images/workspace_code.png"
                   alt={t.altCode}
@@ -405,7 +405,7 @@ export default function HeroSection({ lang, phone, email }: HeroSectionProps) {
                 />
               </div>
               {/* Live Lighthouse score badge overlay */}
-              <div className="absolute top-6 right-6 bg-emerald-500 text-white text-[11px] font-black rounded-full px-3 py-1.5 shadow-lg shadow-emerald-500/40 border border-emerald-400 z-20">
+              <div className="absolute top-6 right-6 bg-emerald-500 text-white text-[11px] font-black rounded-none px-3 py-1.5 shadow-lg shadow-emerald-500/40 border-l-2 border-emerald-300 z-20">
                 90+ ⚡
               </div>
             </div>
