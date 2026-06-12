@@ -261,11 +261,17 @@ export default function ContactForm({
 
   return (
     <BlurReveal>
-      <div ref={formRef} className="glass-card relative overflow-hidden text-slate-800 dark:text-slate-100 scroll-mt-24 transition-colors border-t-4 border-t-[#818cf8]">
-      {/* Top gradient bar */}
-      <div className="absolute top-0 left-0 w-full h-1.5 bg-gradient-to-r from-primary to-secondary"></div>
+      <div ref={formRef} className="relative p-8 md:p-12 overflow-hidden text-slate-800 dark:text-slate-100 scroll-mt-24 transition-colors bg-white/95 dark:bg-[#060713]/80 border border-slate-200 dark:border-indigo-500/20 shadow-2xl backdrop-blur-md">
+      {/* HUD Corners */}
+      <div className="absolute top-0 left-0 w-6 h-6 border-t-2 border-l-2 border-indigo-500 pointer-events-none"></div>
+      <div className="absolute top-0 right-0 w-6 h-6 border-t-2 border-r-2 border-indigo-500 pointer-events-none"></div>
+      <div className="absolute bottom-0 left-0 w-6 h-6 border-b-2 border-l-2 border-indigo-500 pointer-events-none"></div>
+      <div className="absolute bottom-0 right-0 w-6 h-6 border-b-2 border-r-2 border-indigo-500 pointer-events-none"></div>
       
-      <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-center text-slate-900 dark:text-white mb-8">
+      {/* Scanline overlay */}
+      <div className="absolute inset-0 bg-[linear-gradient(to_bottom,transparent_0%,rgba(99,102,241,0.02)_50%,transparent_100%)] bg-[length:100%_4px] pointer-events-none"></div>
+      
+      <h2 className="text-2xl sm:text-3xl font-black tracking-tight text-center text-slate-900 dark:text-white mb-8 uppercase relative z-10">
         {labels.title}
       </h2>
       
@@ -294,57 +300,57 @@ export default function ContactForm({
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             {/* Client Name */}
             <div className="space-y-1.5">
-              <label htmlFor="brandModel" className="text-xs font-bold text-slate-600 dark:text-slate-400 uppercase tracking-wider block">{labels.clientName} *</label>
+              <label htmlFor="brandModel" className="text-xs font-bold text-slate-600 dark:text-indigo-400/90 uppercase tracking-wider block font-sans">{labels.clientName} *</label>
               <input 
                 id="brandModel"
                 name="brandModel" 
                 required 
                 type="text" 
                 placeholder={labels.clientNamePlaceholder} 
-                className="w-full p-4 rounded-none border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
+                className="w-full p-4 rounded-none border-0 border-b-2 border-slate-200 dark:border-indigo-900/40 bg-slate-50/50 dark:bg-transparent text-slate-900 dark:text-white font-sans text-base placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-0 focus:border-b-indigo-500 outline-none transition-colors relative z-10" 
               />
             </div>
 
             {/* Service Type */}
             <div className="space-y-1.5">
-              <label htmlFor="engine" className="text-xs font-bold text-slate-600 dark:text-slate-400 uppercase tracking-wider block">{labels.serviceType} *</label>
+              <label htmlFor="engine" className="text-xs font-bold text-slate-600 dark:text-indigo-400/90 uppercase tracking-wider block font-sans">{labels.serviceType} *</label>
               <input 
                 id="engine"
                 name="engine" 
                 required
                 type="text" 
                 placeholder={labels.serviceTypePlaceholder} 
-                className="w-full p-4 rounded-none border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
+                className="w-full p-4 rounded-none border-0 border-b-2 border-slate-200 dark:border-indigo-900/40 bg-slate-50/50 dark:bg-transparent text-slate-900 dark:text-white font-sans text-base placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-0 focus:border-b-indigo-500 outline-none transition-colors relative z-10" 
               />
             </div>
 
             {/* Budget */}
             <div className="space-y-1.5">
-              <label htmlFor="price" className="text-xs font-bold text-slate-600 dark:text-slate-400 uppercase tracking-wider block">{labels.budget}</label>
+              <label htmlFor="price" className="text-xs font-bold text-slate-600 dark:text-indigo-400/90 uppercase tracking-wider block font-sans">{labels.budget}</label>
               <input 
                 id="price"
                 name="price" 
                 type="text" 
                 placeholder={labels.budgetPlaceholder} 
-                className="w-full p-4 rounded-none border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
+                className="w-full p-4 rounded-none border-0 border-b-2 border-slate-200 dark:border-indigo-900/40 bg-slate-50/50 dark:bg-transparent text-slate-900 dark:text-white font-sans text-base placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-0 focus:border-b-indigo-500 outline-none transition-colors relative z-10" 
               />
             </div>
 
             {/* Timeframe */}
             <div className="space-y-1.5">
-              <label htmlFor="year" className="text-xs font-bold text-slate-600 dark:text-slate-400 uppercase tracking-wider block">{labels.timeframe}</label>
+              <label htmlFor="year" className="text-xs font-bold text-slate-600 dark:text-indigo-400/90 uppercase tracking-wider block font-sans">{labels.timeframe}</label>
               <input 
                 id="year"
                 name="year" 
                 type="text" 
                 placeholder={labels.timeframePlaceholder} 
-                className="w-full p-4 rounded-none border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
+                className="w-full p-4 rounded-none border-0 border-b-2 border-slate-200 dark:border-indigo-900/40 bg-slate-50/50 dark:bg-transparent text-slate-900 dark:text-white font-sans text-base placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-0 focus:border-b-indigo-500 outline-none transition-colors relative z-10" 
               />
             </div>
 
             {/* Location */}
             <div className="space-y-1.5">
-              <label htmlFor="city" className="text-xs font-bold text-slate-600 dark:text-slate-400 uppercase tracking-wider block">{labels.city}</label>
+              <label htmlFor="city" className="text-xs font-bold text-slate-600 dark:text-indigo-400/90 uppercase tracking-wider block font-sans">{labels.city}</label>
               <input 
                 id="city"
                 name="city" 
@@ -355,48 +361,48 @@ export default function ContactForm({
 
             {/* Phone */}
             <div className="space-y-1.5">
-              <label htmlFor="phone" className="text-xs font-bold text-slate-600 dark:text-slate-400 uppercase tracking-wider block">{labels.phone} *</label>
+              <label htmlFor="phone" className="text-xs font-bold text-slate-600 dark:text-indigo-400/90 uppercase tracking-wider block font-sans">{labels.phone} *</label>
               <input 
                 id="phone"
                 name="phone" 
                 required 
                 type="tel" 
                 placeholder={labels.phonePlaceholder} 
-                className="w-full p-4 rounded-none border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
+                className="w-full p-4 rounded-none border-0 border-b-2 border-slate-200 dark:border-indigo-900/40 bg-slate-50/50 dark:bg-transparent text-slate-900 dark:text-white font-sans text-base placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-0 focus:border-b-indigo-500 outline-none transition-colors relative z-10" 
               />
             </div>
 
             {/* E-mail */}
             <div className="md:col-span-2 space-y-1.5">
-              <label htmlFor="email" className="text-xs font-bold text-slate-600 dark:text-slate-400 uppercase tracking-wider block">{labels.email} *</label>
+              <label htmlFor="email" className="text-xs font-bold text-slate-600 dark:text-indigo-400/90 uppercase tracking-wider block font-sans">{labels.email} *</label>
               <input 
                 id="email"
                 name="email" 
                 required 
                 type="email" 
                 placeholder={labels.emailPlaceholder} 
-                className="w-full p-4 rounded-none border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
+                className="w-full p-4 rounded-none border-0 border-b-2 border-slate-200 dark:border-indigo-900/40 bg-slate-50/50 dark:bg-transparent text-slate-900 dark:text-white font-sans text-base placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-0 focus:border-b-indigo-500 outline-none transition-colors relative z-10" 
               />
             </div>
           </div>
 
           {/* Project description */}
           <div className="space-y-1.5">
-            <label htmlFor="description" className="text-xs font-bold text-slate-600 dark:text-slate-400 uppercase tracking-wider block">{labels.description}</label>
+            <label htmlFor="description" className="text-xs font-bold text-slate-600 dark:text-indigo-400/90 uppercase tracking-wider block font-sans">{labels.description}</label>
             <textarea 
               id="description"
               name="description" 
               rows={4} 
               placeholder={labels.descriptionPlaceholder} 
-              className="w-full p-4 rounded-none border border-slate-200 dark:border-slate-800/80 bg-slate-50 dark:bg-slate-950/60 text-slate-900 dark:text-white font-medium placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-2 focus:ring-primary/20 focus:border-primary outline-none transition-all shadow-sm focus:shadow-md" 
+              className="w-full p-4 rounded-none border-0 border-b-2 border-slate-200 dark:border-indigo-900/40 bg-slate-50/50 dark:bg-transparent text-slate-900 dark:text-white font-sans text-base placeholder:text-slate-400 dark:placeholder:text-slate-600 focus:ring-0 focus:border-b-indigo-500 outline-none transition-colors relative z-10" 
             />
           </div>
 
           {/* Files / Brief */}
           <div className="space-y-4">
-            <label htmlFor="images-input" className="text-xs font-bold text-slate-600 dark:text-slate-400 uppercase tracking-wider block">{labels.files}</label>
+            <label htmlFor="images-input" className="text-xs font-bold text-slate-600 dark:text-indigo-400/90 uppercase tracking-wider block font-sans">{labels.files}</label>
             <div className="flex flex-wrap gap-4">
-              <label htmlFor="images-input" className="w-20 h-20 border-2 border-dashed border-slate-300 dark:border-slate-800 rounded-none flex items-center justify-center cursor-pointer hover:border-primary dark:hover:border-primary bg-slate-50 dark:bg-slate-950/60 transition-colors text-2xl text-slate-400 dark:text-slate-600">
+              <label htmlFor="images-input" className="w-20 h-20 border border-dashed border-slate-300 dark:border-indigo-500/40 rounded-none flex items-center justify-center cursor-pointer hover:border-indigo-500 dark:hover:border-indigo-400 bg-slate-50 dark:bg-indigo-950/20 transition-colors text-2xl text-slate-400 dark:text-indigo-500/50 relative z-10">
                 +
                 <input 
                   id="images-input"
@@ -447,11 +453,12 @@ export default function ContactForm({
           <Button 
             disabled={isPending} 
             type="submit" 
-            variant="gradient"
+            variant="primary"
             size="lg"
-            className="w-full tracking-tight"
+            className="w-full tracking-wide font-sans font-black text-lg uppercase -skew-x-12 group relative overflow-hidden dark:bg-indigo-600 dark:hover:bg-indigo-500"
           >
-            {isPending ? labels.submitting : labels.submit}
+            <span className="block skew-x-12 relative z-10 font-black">{isPending ? labels.submitting : labels.submit}</span>
+            <div className="absolute top-0 left-0 h-full w-4 bg-white/30 skew-x-12 -translate-x-12 group-hover:translate-x-[800px] transition-transform duration-[1.5s] ease-out z-0"></div>
           </Button>
           <p className="text-[10px] text-slate-500 dark:text-slate-500 text-center leading-tight">
             * {labels.requiredNote} {settings?.companyName || 'webwawa.pl'}.
