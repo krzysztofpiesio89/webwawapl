@@ -3,6 +3,7 @@ import { Locale } from '@/app/[lang]/dictionaries';
 import { getAllIndustries, getLocalizedIndustryPath } from '@/lib/industries';
 import { getLocalizedStaticPath } from '@/app/[lang]/i18n-routes';
 import { industrySlugsMap, professionSlugsMap, ProfessionId } from '@/lib/industries-list';
+import { BlurReveal } from '@/components/ui/BlurReveal';
 
 interface IndustriesShowcaseProps {
   lang: Locale;
@@ -127,22 +128,24 @@ export default function IndustriesShowcase({ lang, dict }: IndustriesShowcasePro
       <div className="container mx-auto px-4 max-w-6xl relative z-10">
         
         {/* Section Header */}
-        <div className="text-center max-w-3xl mx-auto mb-16 space-y-4">
-          <span className="inline-flex items-center gap-2 py-1.5 px-4 rounded-none border-l-4 border-[#818cf8] border-y border-r border-primary/20 bg-primary/10 text-primary text-xs font-bold uppercase tracking-wider">
-            <span className="w-1.5 h-1.5 rounded-full bg-primary animate-pulse" />
-            {dict.sectorLabel || 'Sektory'}
-          </span>
-          <h2 className="text-[clamp(1.75rem,4.5vw,3rem)] font-black uppercase italic tracking-tight text-slate-900 dark:text-white leading-tight">
-            {dict.title}
-          </h2>
-          <p className="text-slate-650 dark:text-slate-400 leading-relaxed text-[clamp(13px,1.2vw,16px)]">
-            {dict.subtitle}
-          </p>
-        </div>
+        <BlurReveal>
+          <div className="text-center max-w-3xl mx-auto mb-16 space-y-4">
+            <span className="inline-flex items-center gap-2 py-1.5 px-4 rounded-none border-l-4 border-[#818cf8] border-y border-r border-primary/20 bg-primary/10 text-primary text-xs font-bold uppercase tracking-wider">
+              <span className="w-1.5 h-1.5 rounded-full bg-primary animate-pulse" />
+              {dict.sectorLabel || 'Sektory'}
+            </span>
+            <h2 className="text-[clamp(1.75rem,4.5vw,3rem)] font-black uppercase italic tracking-tight text-slate-900 dark:text-white leading-tight">
+              {dict.title}
+            </h2>
+            <p className="text-slate-650 dark:text-slate-400 leading-relaxed text-[clamp(13px,1.2vw,16px)]">
+              {dict.subtitle}
+            </p>
+          </div>
+        </BlurReveal>
 
         {/* Sectors Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {industries.slice(0, 6).map((ind) => {
+          {industries.slice(0, 6).map((ind, idx) => {
             const industryTrans = ind.translations[lang] || ind.translations.pl;
             const theme = sectorThemeMap[ind.id] || sectorThemeMap.doctor;
             
@@ -153,67 +156,68 @@ export default function IndustriesShowcase({ lang, dict }: IndustriesShowcasePro
             const modelEntries = Object.entries(industryTrans.models || {}).slice(0, 3);
 
             return (
-              <div 
-                key={ind.id}
-                className={`group relative flex flex-col justify-between p-7 rounded-none bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 shadow-[2px_2px_0_rgba(15,23,42,0.05)] dark:shadow-[2px_2px_0_rgba(255,255,255,0.02)] ${theme.glow} ${theme.border} transition-all duration-300 ease-[cubic-bezier(0.25,0.8,0.25,1)] hover:-translate-y-1.5 hover:scale-[1.015]`}
-              >
-                <div>
-                  {/* Top Bar inside card */}
-                  <div className="flex justify-between items-center mb-6">
-                    <span className={`text-[10px] font-bold uppercase tracking-widest px-3 py-1.5 rounded-none border-l-2 border-currentColor ${theme.bg} ${theme.text}`}>
-                      {dict.sectorLabel || 'Sector'}: {ind.id}
-                    </span>
-                    <span className="text-3xl transition-transform duration-300 ease-out group-hover:-translate-y-1 group-hover:scale-110 group-hover:rotate-6 origin-bottom-left">
-                      {getSectorIcon(ind.id)}
-                    </span>
+              <BlurReveal key={ind.id} delay={idx * 150}>
+                <div 
+                  className={`group relative flex flex-col justify-between h-full p-7 rounded-none bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 shadow-[2px_2px_0_rgba(15,23,42,0.05)] dark:shadow-[2px_2px_0_rgba(255,255,255,0.02)] ${theme.glow} ${theme.border} transition-all duration-300 ease-[cubic-bezier(0.25,0.8,0.25,1)] hover:-translate-y-1.5 hover:scale-[1.015]`}
+                >
+                  <div>
+                    {/* Top Bar inside card */}
+                    <div className="flex justify-between items-center mb-6">
+                      <span className={`text-[10px] font-bold uppercase tracking-widest px-3 py-1.5 rounded-none border-l-2 border-currentColor ${theme.bg} ${theme.text}`}>
+                        {dict.sectorLabel || 'Sector'}: {ind.id}
+                      </span>
+                      <span className="text-3xl transition-transform duration-300 ease-out group-hover:-translate-y-1 group-hover:scale-110 group-hover:rotate-6 origin-bottom-left">
+                        {getSectorIcon(ind.id)}
+                      </span>
+                    </div>
+
+                    {/* Title & Description */}
+                    <h3 className="text-[clamp(1.25rem,2.2vw,1.625rem)] font-black uppercase tracking-tight text-slate-900 dark:text-white mb-3">
+                      {industryTrans.industryName}
+                    </h3>
+                    <p className="text-slate-600 dark:text-slate-400 text-[clamp(11px,1vw,13px)] leading-relaxed mb-6 line-clamp-3">
+                      {industryTrans.description}
+                    </p>
+
+                    {/* Specialization List Preview */}
+                    {modelEntries.length > 0 && (
+                      <div className="space-y-2 mb-6">
+                        <div className="flex flex-wrap gap-2">
+                          {modelEntries.map(([modelKey, modelVal]) => {
+                            const professionSlug = professionSlugsMap[modelKey as ProfessionId][lang];
+                            const industrySlug = industrySlugsMap[ind.id][lang];
+                            const parentPath = lang === 'pl' ? 'strona-dla' : 
+                                               lang === 'en' ? 'website-for' : 
+                                               lang === 'de' ? 'webseite-fuer' : 
+                                               lang === 'uk' ? 'sayt-dlya' : 
+                                               lang === 'ru' ? 'sayt-dlya' : 'website-for';
+                            const specialtyUrl = `${lang === 'pl' ? '' : '/' + lang}/${parentPath}/${industrySlug}/${professionSlug}`;
+
+                            return (
+                              <Link
+                                key={modelKey}
+                                href={specialtyUrl}
+                                className="text-[clamp(9.5px,0.9vw,11.5px)] font-bold text-slate-600 dark:text-slate-400 bg-white dark:bg-white/5 border border-slate-200 dark:border-white/10 px-3 py-1.5 rounded-none transition-colors duration-300 group-hover:bg-slate-100 dark:group-hover:bg-slate-800/40 group-hover:border-slate-300 dark:group-hover:border-slate-700 hover:!bg-slate-200 dark:hover:!bg-slate-700 shadow-sm"
+                              >
+                                {modelVal.name}
+                              </Link>
+                            );
+                          })}
+                        </div>
+                      </div>
+                    )}
                   </div>
 
-                  {/* Title & Description */}
-                  <h3 className="text-[clamp(1.25rem,2.2vw,1.625rem)] font-black uppercase tracking-tight text-slate-900 dark:text-white mb-3">
-                    {industryTrans.industryName}
-                  </h3>
-                  <p className="text-slate-600 dark:text-slate-400 text-[clamp(11px,1vw,13px)] leading-relaxed mb-6 line-clamp-3">
-                    {industryTrans.description}
-                  </p>
-
-                  {/* Specialization List Preview */}
-                  {modelEntries.length > 0 && (
-                    <div className="space-y-2 mb-6">
-                      <div className="flex flex-wrap gap-2">
-                        {modelEntries.map(([modelKey, modelVal]) => {
-                          const professionSlug = professionSlugsMap[modelKey as ProfessionId][lang];
-                          const industrySlug = industrySlugsMap[ind.id][lang];
-                          const parentPath = lang === 'pl' ? 'strona-dla' : 
-                                             lang === 'en' ? 'website-for' : 
-                                             lang === 'de' ? 'webseite-fuer' : 
-                                             lang === 'uk' ? 'sayt-dlya' : 
-                                             lang === 'ru' ? 'sayt-dlya' : 'website-for';
-                          const specialtyUrl = `${lang === 'pl' ? '' : '/' + lang}/${parentPath}/${industrySlug}/${professionSlug}`;
-
-                          return (
-                            <Link
-                              key={modelKey}
-                              href={specialtyUrl}
-                              className="text-[clamp(9.5px,0.9vw,11.5px)] font-bold text-slate-600 dark:text-slate-400 bg-white dark:bg-white/5 border border-slate-200 dark:border-white/10 px-3 py-1.5 rounded-none transition-colors duration-300 group-hover:bg-slate-100 dark:group-hover:bg-slate-800/40 group-hover:border-slate-300 dark:group-hover:border-slate-700 hover:!bg-slate-200 dark:hover:!bg-slate-700 shadow-sm"
-                            >
-                              {modelVal.name}
-                            </Link>
-                          );
-                        })}
-                      </div>
-                    </div>
-                  )}
+                  {/* Card CTA */}
+                  <Link
+                    href={sectorUrl}
+                    className={`mt-4 flex items-center justify-between text-xs font-bold uppercase tracking-wider text-slate-900 dark:text-white transition-colors group-hover:${theme.text.split(' ')[0]} dark:group-hover:${theme.text.split(' ')[1]}`}
+                  >
+                    <span>{lang === 'pl' ? 'Szczegóły oferty' : 'Explore templates'}</span>
+                    <span className="transform translate-x-0 group-hover:translate-x-2 transition-transform duration-300 ease-out">&rarr;</span>
+                  </Link>
                 </div>
-
-                {/* Card CTA */}
-                <Link
-                  href={sectorUrl}
-                  className={`mt-4 flex items-center justify-between text-xs font-bold uppercase tracking-wider text-slate-900 dark:text-white transition-colors group-hover:${theme.text.split(' ')[0]} dark:group-hover:${theme.text.split(' ')[1]}`}
-                >
-                  <span>{lang === 'pl' ? 'Szczegóły oferty' : 'Explore templates'}</span>
-                  <span className="transform translate-x-0 group-hover:translate-x-2 transition-transform duration-300 ease-out">&rarr;</span>
-                </Link>
-              </div>
+              </BlurReveal>
             );
           })}
         </div>

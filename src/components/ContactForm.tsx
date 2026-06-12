@@ -4,6 +4,7 @@ import { useActionState, useState, useEffect, startTransition, useRef } from 're
 import { submitQuoteRequest } from '@/app/actions/contact';
 import { GlobalSettings } from '@/lib/settings';
 import { Button } from '@/components/ui/Button';
+import { BlurReveal } from '@/components/ui/BlurReveal';
 
 export default function ContactForm({ 
   lang,
@@ -259,7 +260,8 @@ export default function ContactForm({
   };
 
   return (
-    <div ref={formRef} className="glass-card relative overflow-hidden text-slate-800 dark:text-slate-100 scroll-mt-24 transition-colors border-t-4 border-t-[#818cf8]">
+    <BlurReveal>
+      <div ref={formRef} className="glass-card relative overflow-hidden text-slate-800 dark:text-slate-100 scroll-mt-24 transition-colors border-t-4 border-t-[#818cf8]">
       {/* Top gradient bar */}
       <div className="absolute top-0 left-0 w-full h-1.5 bg-gradient-to-r from-primary to-secondary"></div>
       
@@ -456,6 +458,7 @@ export default function ContactForm({
           </p>
         </form>
       )}
-    </div>
+      </div>
+    </BlurReveal>
   );
 }
