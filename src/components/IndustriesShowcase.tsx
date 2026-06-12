@@ -17,87 +17,87 @@ export default function IndustriesShowcase({ lang, dict }: IndustriesShowcasePro
   const sectorThemeMap: Record<string, { gradient: string; border: string; bg: string; text: string; glow: string }> = {
     doctor: {
       gradient: 'from-blue-500/10 to-indigo-500/10 dark:from-blue-500/20 dark:to-indigo-500/20',
-      border: 'hover:border-blue-500/30 dark:hover:border-blue-500/30',
+      border: 'hover:border-blue-500/50 dark:hover:border-blue-500/50',
       bg: 'bg-blue-500/5',
       text: 'text-blue-600 dark:text-blue-400',
-      glow: 'shadow-blue-500/10 dark:shadow-blue-500/5',
+      glow: 'hover:shadow-[0_0_30px_-5px_rgba(59,130,246,0.15)] dark:hover:shadow-[0_0_30px_-5px_rgba(59,130,246,0.2)]',
     },
     lawyer: {
       gradient: 'from-indigo-500/10 to-purple-500/10 dark:from-indigo-500/20 dark:to-purple-500/20',
-      border: 'hover:border-indigo-500/30 dark:hover:border-indigo-500/30',
+      border: 'hover:border-indigo-500/50 dark:hover:border-indigo-500/50',
       bg: 'bg-indigo-500/5',
       text: 'text-indigo-600 dark:text-indigo-400',
-      glow: 'shadow-indigo-500/10 dark:shadow-indigo-500/5',
+      glow: 'hover:shadow-[0_0_30px_-5px_rgba(99,102,241,0.15)] dark:hover:shadow-[0_0_30px_-5px_rgba(99,102,241,0.2)]',
     },
     psychologist: {
       gradient: 'from-teal-500/10 to-emerald-500/10 dark:from-teal-500/20 dark:to-emerald-500/20',
-      border: 'hover:border-teal-500/30 dark:hover:border-teal-500/30',
+      border: 'hover:border-teal-500/50 dark:hover:border-teal-500/50',
       bg: 'bg-teal-500/5',
       text: 'text-teal-600 dark:text-teal-400',
-      glow: 'shadow-teal-500/10 dark:shadow-teal-500/5',
+      glow: 'hover:shadow-[0_0_30px_-5px_rgba(20,184,166,0.15)] dark:hover:shadow-[0_0_30px_-5px_rgba(20,184,166,0.2)]',
     },
     accountant: {
       gradient: 'from-emerald-500/10 to-green-500/10 dark:from-emerald-500/20 dark:to-green-500/20',
-      border: 'hover:border-emerald-500/30 dark:hover:border-emerald-500/30',
+      border: 'hover:border-emerald-500/50 dark:hover:border-emerald-500/50',
       bg: 'bg-emerald-500/5',
       text: 'text-emerald-600 dark:text-emerald-400',
-      glow: 'shadow-emerald-500/10 dark:shadow-emerald-500/5',
+      glow: 'hover:shadow-[0_0_30px_-5px_rgba(16,185,129,0.15)] dark:hover:shadow-[0_0_30px_-5px_rgba(16,185,129,0.2)]',
     },
     architect: {
       gradient: 'from-amber-500/10 to-orange-500/10 dark:from-amber-500/20 dark:to-orange-500/20',
-      border: 'hover:border-amber-500/30 dark:hover:border-amber-500/30',
+      border: 'hover:border-amber-500/50 dark:hover:border-amber-500/50',
       bg: 'bg-amber-500/5',
       text: 'text-amber-600 dark:text-amber-400',
-      glow: 'shadow-amber-500/10 dark:shadow-amber-500/5',
+      glow: 'hover:shadow-[0_0_30px_-5px_rgba(245,158,11,0.15)] dark:hover:shadow-[0_0_30px_-5px_rgba(245,158,11,0.2)]',
     },
     beauty: {
       gradient: 'from-rose-500/10 to-pink-500/10 dark:from-rose-500/20 dark:to-pink-500/20',
-      border: 'hover:border-rose-500/30 dark:hover:border-rose-500/30',
+      border: 'hover:border-rose-500/50 dark:hover:border-rose-500/50',
       bg: 'bg-rose-500/5',
       text: 'text-rose-600 dark:text-rose-400',
-      glow: 'shadow-rose-500/10 dark:shadow-rose-500/5',
+      glow: 'hover:shadow-[0_0_30px_-5px_rgba(244,63,94,0.15)] dark:hover:shadow-[0_0_30px_-5px_rgba(244,63,94,0.2)]',
     },
     automotive: {
       gradient: 'from-amber-500/10 to-red-500/10 dark:from-amber-500/20 dark:to-red-500/20',
-      border: 'hover:border-amber-500/30 dark:hover:border-amber-500/30',
+      border: 'hover:border-amber-500/50 dark:hover:border-amber-500/50',
       bg: 'bg-amber-500/5',
       text: 'text-amber-600 dark:text-amber-400',
-      glow: 'shadow-amber-500/10 dark:shadow-amber-500/5',
+      glow: 'hover:shadow-[0_0_30px_-5px_rgba(245,158,11,0.15)] dark:hover:shadow-[0_0_30px_-5px_rgba(245,158,11,0.2)]',
     },
     construction: {
       gradient: 'from-amber-600/10 to-yellow-500/10 dark:from-amber-600/20 dark:to-yellow-500/20',
-      border: 'hover:border-amber-600/30 dark:hover:border-amber-600/30',
+      border: 'hover:border-amber-600/50 dark:hover:border-amber-600/50',
       bg: 'bg-amber-600/5',
       text: 'text-amber-600 dark:text-amber-500',
-      glow: 'shadow-amber-600/10 dark:shadow-amber-600/5',
+      glow: 'hover:shadow-[0_0_30px_-5px_rgba(217,119,6,0.15)] dark:hover:shadow-[0_0_30px_-5px_rgba(217,119,6,0.2)]',
     },
     gastronomy: {
       gradient: 'from-rose-500/10 to-orange-500/10 dark:from-rose-500/20 dark:to-orange-500/20',
-      border: 'hover:border-rose-500/30 dark:hover:border-rose-500/30',
+      border: 'hover:border-rose-500/50 dark:hover:border-rose-500/50',
       bg: 'bg-rose-500/5',
       text: 'text-orange-600 dark:text-orange-400',
-      glow: 'shadow-orange-500/10 dark:shadow-orange-500/5',
+      glow: 'hover:shadow-[0_0_30px_-5px_rgba(249,115,22,0.15)] dark:hover:shadow-[0_0_30px_-5px_rgba(249,115,22,0.2)]',
     },
     transport: {
       gradient: 'from-cyan-500/10 to-blue-500/10 dark:from-cyan-500/20 dark:to-blue-500/20',
-      border: 'hover:border-cyan-500/30 dark:hover:border-cyan-500/30',
+      border: 'hover:border-cyan-500/50 dark:hover:border-cyan-500/50',
       bg: 'bg-cyan-500/5',
       text: 'text-cyan-600 dark:text-cyan-400',
-      glow: 'shadow-cyan-500/10 dark:shadow-cyan-500/5',
+      glow: 'hover:shadow-[0_0_30px_-5px_rgba(6,182,212,0.15)] dark:hover:shadow-[0_0_30px_-5px_rgba(6,182,212,0.2)]',
     },
     ecommerce: {
       gradient: 'from-fuchsia-500/10 to-indigo-500/10 dark:from-fuchsia-500/20 dark:to-indigo-500/20',
-      border: 'hover:border-fuchsia-500/30 dark:hover:border-fuchsia-500/30',
+      border: 'hover:border-fuchsia-500/50 dark:hover:border-fuchsia-500/50',
       bg: 'bg-fuchsia-500/5',
       text: 'text-fuchsia-600 dark:text-fuchsia-400',
-      glow: 'shadow-fuchsia-500/10 dark:shadow-fuchsia-500/5',
+      glow: 'hover:shadow-[0_0_30px_-5px_rgba(217,70,239,0.15)] dark:hover:shadow-[0_0_30px_-5px_rgba(217,70,239,0.2)]',
     },
     education: {
       gradient: 'from-violet-500/10 to-fuchsia-500/10 dark:from-violet-500/20 dark:to-fuchsia-500/20',
-      border: 'hover:border-violet-500/30 dark:hover:border-violet-500/30',
+      border: 'hover:border-violet-500/50 dark:hover:border-violet-500/50',
       bg: 'bg-violet-500/5',
       text: 'text-violet-600 dark:text-violet-400',
-      glow: 'shadow-violet-500/10 dark:shadow-violet-500/5',
+      glow: 'hover:shadow-[0_0_30px_-5px_rgba(139,92,246,0.15)] dark:hover:shadow-[0_0_30px_-5px_rgba(139,92,246,0.2)]',
     },
   };
 
@@ -155,7 +155,7 @@ export default function IndustriesShowcase({ lang, dict }: IndustriesShowcasePro
             return (
               <div 
                 key={ind.id}
-                className={`group relative flex flex-col justify-between p-7 rounded-3xl bg-slate-50 dark:bg-white/[0.02] border border-slate-200 dark:border-white/5 shadow-sm hover:shadow-xl ${theme.glow} ${theme.border} transition-all duration-300 hover:-translate-y-1`}
+                className={`group relative flex flex-col justify-between p-7 rounded-3xl bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 shadow-sm ${theme.glow} ${theme.border} transition-all duration-300 ease-[cubic-bezier(0.25,0.8,0.25,1)] hover:-translate-y-1.5 hover:scale-[1.015]`}
               >
                 <div>
                   {/* Top Bar inside card */}
@@ -163,7 +163,7 @@ export default function IndustriesShowcase({ lang, dict }: IndustriesShowcasePro
                     <span className={`text-[10px] font-bold uppercase tracking-widest px-3 py-1.5 rounded-full ${theme.bg} ${theme.text}`}>
                       {dict.sectorLabel || 'Sector'}: {ind.id}
                     </span>
-                    <span className="text-3xl group-hover:scale-110 transition-transform duration-300">
+                    <span className="text-3xl transition-transform duration-300 ease-out group-hover:-translate-y-1 group-hover:scale-110 group-hover:rotate-6 origin-bottom-left">
                       {getSectorIcon(ind.id)}
                     </span>
                   </div>
@@ -194,7 +194,7 @@ export default function IndustriesShowcase({ lang, dict }: IndustriesShowcasePro
                             <Link
                               key={modelKey}
                               href={specialtyUrl}
-                              className="text-[clamp(9.5px,0.9vw,11.5px)] font-bold text-slate-600 dark:text-slate-400 hover:text-primary dark:hover:text-primary bg-white dark:bg-white/5 border border-slate-200 dark:border-white/10 px-3 py-1.5 rounded-xl hover:scale-105 transition-all shadow-sm"
+                              className="text-[clamp(9.5px,0.9vw,11.5px)] font-bold text-slate-600 dark:text-slate-400 bg-white dark:bg-white/5 border border-slate-200 dark:border-white/10 px-3 py-1.5 rounded-xl transition-colors duration-300 group-hover:bg-slate-100 dark:group-hover:bg-slate-800/40 group-hover:border-slate-300 dark:group-hover:border-slate-700 hover:!bg-slate-200 dark:hover:!bg-slate-700 shadow-sm"
                             >
                               {modelVal.name}
                             </Link>
@@ -208,10 +208,10 @@ export default function IndustriesShowcase({ lang, dict }: IndustriesShowcasePro
                 {/* Card CTA */}
                 <Link
                   href={sectorUrl}
-                  className="mt-4 flex items-center justify-between text-xs font-bold uppercase tracking-wider text-slate-900 dark:text-white group-hover:text-primary dark:group-hover:text-primary transition-colors"
+                  className={`mt-4 flex items-center justify-between text-xs font-bold uppercase tracking-wider text-slate-900 dark:text-white transition-colors group-hover:${theme.text.split(' ')[0]} dark:group-hover:${theme.text.split(' ')[1]}`}
                 >
                   <span>{lang === 'pl' ? 'Szczegóły oferty' : 'Explore templates'}</span>
-                  <span className="transform translate-x-0 group-hover:translate-x-1 transition-transform duration-300">&rarr;</span>
+                  <span className="transform translate-x-0 group-hover:translate-x-2 transition-transform duration-300 ease-out">&rarr;</span>
                 </Link>
               </div>
             );

@@ -103,8 +103,13 @@ export default async function RootLayout(props: Readonly<{
     "inLanguage": htmlLangMap[params.lang as Locale],
     "availableLanguage": locales,
     "image": "https://webwawa.pl/images/workspace_code.png",
+    "logo": "https://webwawa.pl/favicon.svg",
     "@id": "https://webwawa.pl",
     "url": "https://webwawa.pl",
+    "sameAs": [
+      "https://www.linkedin.com/company/webwawapl",
+      "https://www.facebook.com/webwawapl"
+    ],
     "telephone": settings?.phone || "+48 664 946 209",
     "address": {
       "@type": "PostalAddress",

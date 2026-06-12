@@ -7,6 +7,7 @@ import { GlobalSettings } from '@/lib/settings';
 import LanguageSwitcher from './LanguageSwitcher';
 import { Locale } from '@/app/[lang]/dictionaries';
 import { getLocalizedStaticPath } from '@/app/[lang]/i18n-routes';
+import { Button } from '@/components/ui/Button';
 
 export default function Header({ 
   settings, 
@@ -96,12 +97,12 @@ export default function Header({
               <LanguageSwitcher currentLang={lang} />
             </div>
             
-            <a href={`tel:${settings?.phone || '+48664946209'}`} className="btn-primary py-2.5 px-6 text-sm flex items-center gap-2 animate-pulse-slow ml-2">
+            <Button href={`tel:${settings?.phone || '+48664946209'}`} variant="primary" size="sm" className="flex items-center gap-2 animate-pulse-slow ml-2">
               <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
               </svg>
               {lang === 'pl' ? 'Kontakt' : 'Call us'}
-            </a>
+            </Button>
           </nav>
 
           {/* Mobile Toggle, Theme & Language Switcher */}
@@ -156,12 +157,12 @@ export default function Header({
               <Link href={aboutUrl} className="text-lg py-3.5 hover:bg-slate-50 dark:hover:bg-slate-900/60 rounded-xl transition-colors" onClick={() => setIsMenuOpen(false)}>{dict.nav.aboutUs}</Link>
               
               <div className="px-2 pt-2 pb-1 mt-1 border-t border-slate-100 dark:border-slate-800">
-                <a href={`tel:${settings?.phone || '+48664946209'}`} className="btn-primary py-4 px-5 text-lg flex items-center justify-center gap-3 w-full" onClick={() => setIsMenuOpen(false)}>
+                <Button href={`tel:${settings?.phone || '+48664946209'}`} variant="primary" size="lg" className="flex items-center justify-center gap-3 w-full" onClick={() => setIsMenuOpen(false)}>
                   <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
                   </svg>
                   {lang === 'pl' ? 'Zadzwoń do nas' : 'Call us'}
-                </a>
+                </Button>
               </div>
             </nav>
           </div>

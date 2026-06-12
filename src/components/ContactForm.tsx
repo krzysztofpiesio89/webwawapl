@@ -3,6 +3,7 @@
 import { useActionState, useState, useEffect, startTransition, useRef } from 'react';
 import { submitQuoteRequest } from '@/app/actions/contact';
 import { GlobalSettings } from '@/lib/settings';
+import { Button } from '@/components/ui/Button';
 
 export default function ContactForm({ 
   lang,
@@ -441,13 +442,15 @@ export default function ContactForm({
             </div>
           </div>
 
-          <button 
+          <Button 
             disabled={isPending} 
             type="submit" 
-            className="w-full bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-500 hover:to-indigo-500 text-white font-bold text-lg py-4 rounded-xl shadow-lg shadow-blue-500/20 hover:shadow-blue-500/40 transition-all duration-300 transform hover:scale-[1.01] active:scale-98 disabled:opacity-50 disabled:cursor-not-allowed tracking-tight"
+            variant="gradient"
+            size="lg"
+            className="w-full tracking-tight"
           >
             {isPending ? labels.submitting : labels.submit}
-          </button>
+          </Button>
           <p className="text-[10px] text-slate-500 dark:text-slate-500 text-center leading-tight">
             * {labels.requiredNote} {settings?.companyName || 'webwawa.pl'}.
           </p>

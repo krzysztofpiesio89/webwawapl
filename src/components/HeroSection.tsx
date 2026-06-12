@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, useState } from 'react';
 import Image from 'next/image';
+import { Button } from '@/components/ui/Button';
 
 interface HeroSectionProps {
   lang: string;
@@ -344,12 +345,14 @@ export default function HeroSection({ lang, phone, email }: HeroSectionProps) {
 
             {/* CTA row */}
             <div className="flex flex-col sm:flex-row gap-5 items-stretch sm:items-center pt-2">
-              <a
+              <Button
                 href="#kontakt"
-                className="w-full sm:w-auto text-base px-8 py-4 text-center rounded-xl font-bold text-white transition-all transform hover:scale-[1.03] active:scale-95 border border-blue-500/20 dark:border-white/10 shadow-lg shadow-blue-600/20 dark:shadow-indigo-600/10 hover:shadow-blue-600/40 dark:hover:shadow-indigo-600/30 bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-500 hover:to-blue-600 dark:from-blue-600 dark:to-indigo-700 dark:hover:from-blue-500 dark:hover:to-indigo-600"
+                variant="gradient"
+                size="lg"
+                className="w-full sm:w-auto text-center"
               >
                 {t.cta} →
-              </a>
+              </Button>
               <div className="flex flex-col items-center sm:items-start gap-1">
                 <span className="text-[10px] text-slate-400 uppercase tracking-widest font-semibold">
                   {t.call}

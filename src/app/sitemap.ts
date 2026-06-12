@@ -1,14 +1,16 @@
 import { MetadataRoute } from 'next';
-import { getAllBrands } from '@/lib/brands';
 import { getAllCities } from '@/lib/cities';
 import { locales, Locale } from './[lang]/dictionaries';
 import { getLocalizedStaticPath } from './[lang]/i18n-routes';
+import { getAllIndustries, getLocalizedIndustryPath } from '@/lib/industries';
+import { industryModelsMap, ProfessionId } from '@/lib/industries-list';
 
 export async function generateSitemaps() {
   const cities = getAllCities();
   const sitemaps = [{ id: 'global' }];
   
   for (const lang of locales) {
+    sitemaps.push({ id: `${lang}-all` });
     for (const city of cities) {
       sitemaps.push({ id: `${lang}-${city.slug}` });
     }
@@ -19,7 +21,7 @@ export async function generateSitemaps() {
 
 export default async function sitemap(props: { id: string | Promise<string> }): Promise<MetadataRoute.Sitemap> {
   const id = await props.id;
-  const baseUrl = 'https://skupautwawa.pl';
+  const baseUrl = 'https://webwawa.pl';
   const sitemapEntries: MetadataRoute.Sitemap = [];
 
   if (id === 'global') {
@@ -61,48 +63,43 @@ export default async function sitemap(props: { id: string | Promise<string> }): 
     return sitemapEntries;
   }
 
-  // Handle dynamic routes split by lang-citySlug (e.g. "pl-warszawa", "en-pruszkow")
-  const [lang, citySlug] = id.split('-');
-  const brands = getAllBrands();
+  // Handle dynamic routes split by lang-citySlug (e.g. "pl-warszawa", "en-all")
+  const parts = id.split('-');
+  const lang = parts[0] as Locale;
+  const citySlug = parts.slice(1).join('-'); // handles multi-dash city slugs like praga-polnoc
+  const industries = getAllIndustries();
   const langPrefix = lang === 'pl' ? '' : `/${lang}`;
   
-  // 1. City Page
-  sitemapEntries.push({
-    url: `${baseUrl}${langPrefix}/${citySlug}`,
-    lastModified: new Date(),
-    changeFrequency: 'weekly',
-    priority: 0.9,
-  });
-
-  // 2. City + Brand Pages
-  for (const brand of brands) {
+  // 1. City Page (only if it's a real city, 'all' is not a real city overview page)
+  if (citySlug !== 'all') {
     sitemapEntries.push({
-      url: `${baseUrl}${langPrefix}/${citySlug}/${brand.slug}`,
+      url: `${baseUrl}${langPrefix}/${citySlug}`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.9,
+    });
+  }
+
+  // 2. City + Industry Pages
+  for (const industry of industries) {
+    const industryPath = getLocalizedIndustryPath(lang, citySlug, industry.id);
+    sitemapEntries.push({
+      url: `${baseUrl}${industryPath}`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.8,
     });
     
-    // 3. City + Brand + Model Pages
-    for (const model of brand.models) {
+    // 3. City + Industry + Profession Pages
+    const professions = industryModelsMap[industry.id] || [];
+    for (const professionId of professions) {
+      const professionPath = getLocalizedIndustryPath(lang, citySlug, industry.id, professionId as ProfessionId);
       sitemapEntries.push({
-        url: `${baseUrl}${langPrefix}/${citySlug}/${brand.slug}/${model.slug}`,
+        url: `${baseUrl}${professionPath}`,
         lastModified: new Date(),
         changeFrequency: 'monthly',
         priority: 0.7,
       });
-      
-      // 4. City + Brand + Model + Series Pages
-      for (const series of model.series) {
-        // We use encodeURIComponent because some series names might have spaces or special characters
-        const seriesSlug = encodeURIComponent(series.name.toLowerCase().replace(/\s+/g, '-'));
-        sitemapEntries.push({
-          url: `${baseUrl}${langPrefix}/${citySlug}/${brand.slug}/${model.slug}/${seriesSlug}`,
-          lastModified: new Date(),
-          changeFrequency: 'monthly',
-          priority: 0.6,
-        });
-      }
     }
   }
 

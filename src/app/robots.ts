@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: '/api/',
     },
-    sitemap: 'https://skupautwawa.pl/sitemap.xml',
+    sitemap: 'https://webwawa.pl/sitemap.xml',
   };
 }

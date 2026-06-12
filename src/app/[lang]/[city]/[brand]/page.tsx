@@ -67,6 +67,14 @@ export async function generateMetadata(props: PageProps): Promise<Metadata> {
       siteName: 'webwawa.pl',
       locale: ogLocaleMap[lang as Locale],
       type: 'website',
+      images: [
+        {
+          url: 'https://webwawa.pl/images/workspace_code.png',
+          width: 1200,
+          height: 630,
+          alt: title,
+        }
+      ]
     }
   };
 }
@@ -243,8 +251,58 @@ export default async function CityBrandPage(props: PageProps) {
 
   const t = transMap[lang as keyof typeof transMap] || transMap.en;
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": t.title,
+    "description": t.subtitle,
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "webwawa.pl",
+      "telephone": settings?.phone || "+48 664 946 209"
+    },
+    "areaServed": city ? {
+      "@type": "City",
+      "name": city.name
+    } : {
+      "@type": "Country",
+      "name": "Poland"
+    }
+  };
+
+  const breadcrumbListJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": `https://webwawa.pl${langPrefix}/`
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": city ? city.name : parentPath,
+        "item": `https://webwawa.pl${langPrefix}/${city ? citySlug : parentPath}`
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": brand.name,
+        "item": `https://webwawa.pl${langPrefix}/${city ? citySlug : parentPath}/${brandSlug}`
+      }
+    ]
+  };
+
   return (
     <main className="min-h-screen bg-slate-50 dark:bg-slate-950 text-slate-800 dark:text-white transition-colors duration-300">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ 
+          __html: JSON.stringify([jsonLd, breadcrumbListJsonLd]) 
+        }}
+      />
       <section className="bg-slate-100 dark:bg-slate-900 py-20 text-slate-900 dark:text-white transition-colors duration-300">
         <div className="container mx-auto px-4 text-center">
           <nav className="flex justify-center mb-8 text-sm font-semibold text-slate-500 dark:text-slate-400">
