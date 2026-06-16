@@ -279,6 +279,26 @@ export default function HeroSection({ lang, phone, email }: HeroSectionProps) {
               </span>
             </h1>
 
+            {/* CTA row (Moved up for better conversion) */}
+            <div className="flex flex-col sm:flex-row gap-5 items-stretch sm:items-center pt-2">
+              <Button
+                href="#kontakt"
+                variant="gradient"
+                size="lg"
+                className="w-full sm:w-auto text-center"
+              >
+                {t.cta} →
+              </Button>
+              <div className="flex flex-col items-center sm:items-start gap-1">
+                <span className="text-[10px] text-slate-500 font-bold tracking-widest uppercase">
+                  {t.call}
+                </span>
+                <a href={`tel:${phoneNum}`} className="text-sm font-semibold text-slate-800 dark:text-slate-200 hover:text-primary transition-colors">
+                  {phoneLabel}
+                </a>
+              </div>
+            </div>
+
             {/* Lighthouse chart */}
             <div className="rounded-none border-l-4 border-l-[#818cf8] border-y border-r border-slate-200 dark:border-slate-800 bg-white dark:bg-white/[0.02] p-6 space-y-4 shadow-sm dark:shadow-none">
               <p className="text-xs font-bold text-slate-500 dark:text-slate-500 uppercase tracking-widest">

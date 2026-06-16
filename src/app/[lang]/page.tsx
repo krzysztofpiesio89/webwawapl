@@ -1,6 +1,7 @@
 import { cookies } from 'next/headers';
 import ContactForm from '@/components/ContactForm';
 import HeroSection from '@/components/HeroSection';
+import PageSpeedSection from '@/components/PageSpeedSection';
 import IndustriesShowcase from '@/components/IndustriesShowcase';
 import { getGlobalSettings } from '@/lib/settings';
 import { getCityBySlug } from '@/lib/cities';
@@ -20,6 +21,9 @@ export default async function Home(props: { params: Promise<{ lang: string  }> }
     <main className="min-h-screen bg-slate-50 dark:bg-slate-950 text-slate-800 dark:text-white transition-colors">
       {/* Hero Section */}
       <HeroSection lang={params.lang} phone={settings?.phone} email={settings?.email} />
+
+      {/* Page Speed Section */}
+      <PageSpeedSection lang={params.lang} />
 
       {/* Industries Showcase Section */}
       <IndustriesShowcase lang={params.lang as Locale} dict={dict.industriesShowcase} />

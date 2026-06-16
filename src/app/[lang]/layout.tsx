@@ -133,9 +133,9 @@ export default async function RootLayout(props: Readonly<{
           rel="preload"
           as="image"
           href="/images/team_meeting.png"
-          // @ts-expect-error — imagesrcset/imagesizes are valid HTML but not yet in React types
-          imagesrcset="/_next/image?url=%2Fimages%2Fteam_meeting.png&w=640&q=75 640w, /_next/image?url=%2Fimages%2Fteam_meeting.png&w=1080&q=75 1080w, /_next/image?url=%2Fimages%2Fteam_meeting.png&w=1920&q=75 1920w"
-          imagesizes="(max-width: 1024px) 80vw, 40vw"
+          // @ts-expect-error — imageSrcSet/imageSizes are valid HTML but not yet in React types
+          imageSrcSet="/_next/image?url=%2Fimages%2Fteam_meeting.png&w=640&q=75 640w, /_next/image?url=%2Fimages%2Fteam_meeting.png&w=1080&q=75 1080w, /_next/image?url=%2Fimages%2Fteam_meeting.png&w=1920&q=75 1920w"
+          imageSizes="(max-width: 1024px) 80vw, 40vw"
         />
         <Script
           id="ldjson-root"
