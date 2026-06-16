@@ -137,14 +137,13 @@ export default async function RootLayout(props: Readonly<{
           imageSrcSet="/_next/image?url=%2Fimages%2Fteam_meeting.png&w=640&q=75 640w, /_next/image?url=%2Fimages%2Fteam_meeting.png&w=1080&q=75 1080w, /_next/image?url=%2Fimages%2Fteam_meeting.png&w=1920&q=75 1920w"
           imageSizes="(max-width: 1024px) 80vw, 40vw"
         />
-        <Script
+        <script
           id="ldjson-root"
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
-        <Script
+        <script
           id="theme-detect"
-          strategy="beforeInteractive"
           dangerouslySetInnerHTML={{
             __html: `(function() {
   try {

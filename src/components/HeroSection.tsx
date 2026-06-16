@@ -75,7 +75,7 @@ const translations = {
     cta: 'Pobierz bezpłatną wycenę',
     call: 'lub zadzwoń',
     response: 'Odpowiadamy w < 2h',
-    trust1: 'Wydajność 99/100 gwarantowana umową',
+    trust1: 'Wydajność 90+ gwarantowana umową',
     trust2: 'Wsparcie 12 miesięcy po wdrożeniu',
     trust3: 'SEO techniczne w cenie',
     altTeam: 'Zespół webwawa.pl projektujący dedykowane aplikacje i strony internetowe',
@@ -100,7 +100,7 @@ const translations = {
     cta: 'Get a free quote',
     call: 'or call us',
     response: 'We reply in < 2h',
-    trust1: '99/100 performance guaranteed by contract',
+    trust1: '90+ performance guaranteed by contract',
     trust2: '12-month post-launch support',
     trust3: 'Technical SEO included',
     altTeam: 'webwawa.pl team designing custom web applications and websites',
@@ -125,7 +125,7 @@ const translations = {
     cta: 'Отримати безкоштовну оцінку',
     call: 'або зателефонуйте',
     response: 'Відповідаємо за < 2 год',
-    trust1: 'Продуктивність 99/100 гарантована договором',
+    trust1: 'Продуктивність 90+ гарантована договором',
     trust2: '12 місяців підтримки після запуску',
     trust3: 'Технічне SEO включено у вартість',
     altTeam: 'Команда webwawa.pl розробляє веб-додатки та веб-сайти',
@@ -150,7 +150,7 @@ const translations = {
     cta: 'Получить бесплатную оценку',
     call: 'или позвоните',
     response: 'Отвечаем за < 2 ч',
-    trust1: 'Производительность 99/100 гарантирована договором',
+    trust1: 'Производительность 90+ гарантирована договором',
     trust2: '12 месяцев поддержки после запуска',
     trust3: 'Техническое SEO включено в стоимость',
     altTeam: 'Команда webwawa.pl разрабатывает веб-приложения и веб-сайты',
@@ -175,7 +175,7 @@ const translations = {
     cta: 'Kostenloses Angebot anfordern',
     call: 'oder rufen Sie uns an',
     response: 'Antwort in < 2 Std.',
-    trust1: '99/100 Performance vertraglich garantiert',
+    trust1: '90+ Performance vertraglich garantiert',
     trust2: '12 Monate Support nach dem Launch',
     trust3: 'Technisches SEO inklusive',
     altTeam: 'webwawa.pl Team beim Entwurf von Webanwendungen und Websites',
@@ -186,7 +186,7 @@ const translations = {
     h1a: '您的网站加载仅需',
     h1b: '竞争对手正在失去客户 ——',
     h1c: '而您赢得了他们。',
-    chartTitle: 'Lighthouse 评分 —— 我们的项目 99/100',
+    chartTitle: 'Lighthouse 评分 — 我们的项目 99/100',
     yourSite: '您的网站',
     industryAvg: '行业平均',
     typicalWordpress: '典型 WordPress',
@@ -200,7 +200,7 @@ const translations = {
     cta: '获取免费估价',
     call: '或致电我们',
     response: '2小时内回复',
-    trust1: '合同保障 99/100 性能体验',
+    trust1: '合同保障 90+ 性能体验',
     trust2: '上线后 12 个月技术支持',
     trust3: '包含技术性 SEO 优化',
     altTeam: 'webwawa.pl 团队设计定制 Web 应用和网站',
@@ -301,8 +301,13 @@ export default function HeroSection({ lang, phone, email }: HeroSectionProps) {
 
             {/* Lighthouse chart */}
             <div className="rounded-none border-l-4 border-l-[#818cf8] border-y border-r border-slate-200 dark:border-slate-800 bg-white dark:bg-white/[0.02] p-6 space-y-4 shadow-sm dark:shadow-none">
-              <p className="text-xs font-bold text-slate-500 dark:text-slate-500 uppercase tracking-widest">
-                {t.chartTitle}
+              <p className="text-xs font-bold uppercase tracking-widest flex items-center gap-1.5 flex-wrap">
+                <span className="text-amber-700 dark:text-amber-400">
+                  {t.chartTitle.split('—')[0].trim()}
+                </span>
+                <span className="text-slate-500 dark:text-slate-500">
+                  — {t.chartTitle.split('—')[1]?.trim()}
+                </span>
               </p>
               <LighthouseBar label={t.yourSite} score={99} color="#10b981" animate={visible} />
               <LighthouseBar label={t.industryAvg} score={63} color="#94a3b8" animate={visible} />

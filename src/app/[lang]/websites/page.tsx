@@ -3,6 +3,8 @@ import Link from 'next/link';
 import { getGlobalSettings } from '@/lib/settings';
 import { getDictionary, Locale } from '../dictionaries';
 import ContactForm from '@/components/ContactForm';
+import { getLocalizedSlug } from '../i18n-routes';
+import { industrySlugsMap } from '@/lib/industries-list';
 
 const translations = {
   pl: {
@@ -172,24 +174,44 @@ const pricingTiers = {
   ]
 };
 
-export async function generateMetadata(props: { params: Promise<{ lang: string }> }): Promise<Metadata> {
+import { getTechnologyById } from '@/lib/technology';
+
+export async function generateMetadata(props: { params: Promise<{ lang: string }>, searchParams: Promise<{ tech?: string }> }): Promise<Metadata> {
   const params = await props.params;
+  const searchParams = await props.searchParams;
   const t = translations[params.lang as Locale] || translations.en;
+  let title = t.title;
+  let description = t.description;
+
+  if (searchParams?.tech) {
+    const techSlug = searchParams.tech;
+    const formattedTech = techSlug.charAt(0).toUpperCase() + techSlug.slice(1).replace('-', ' ');
+    title = `${t.heroTitle} ${formattedTech} | webwawa.pl`;
+    description = `Tworzymy ${t.heroTitle.toLowerCase()} w oparciu o ${formattedTech}. ` + description;
+  }
+
   return {
-    title: t.title,
-    description: t.description,
+    title,
+    description,
   };
 }
 
-export default async function WebsitesServicePage(props: { params: Promise<{ lang: string }> }) {
+export default async function WebsitesServicePage(props: { params: Promise<{ lang: string }>, searchParams: Promise<{ tech?: string }> }) {
   const params = await props.params;
+  const searchParams = await props.searchParams;
   const lang = params.lang as Locale;
+  const techSlug = searchParams?.tech;
+  const techData = techSlug ? await getTechnologyById(techSlug, lang) : null;
   const settings = getGlobalSettings();
   const dict = await getDictionary(lang);
   
   const t = translations[lang] || translations.en;
   const tiers = pricingTiers[lang] || pricingTiers.en;
   const homeUrl = lang === 'pl' ? '/' : `/${lang}`;
+  const websitesSlug = getLocalizedSlug('websites', lang);
+
+  const heroTitle = techData ? `${t.heroTitle} ${techData.name}` : t.heroTitle;
+  const heroSubtitle = techData && techData.description ? techData.description : t.heroSubtitle;
 
   return (
     <main className="min-h-screen bg-white dark:bg-[#020510] text-slate-800 dark:text-slate-100 transition-colors duration-300">
@@ -204,12 +226,12 @@ export default async function WebsitesServicePage(props: { params: Promise<{ lan
           </nav>
           <h1 className="text-4xl md:text-6xl font-black uppercase tracking-tight mb-6 leading-relaxed md:leading-normal">
             <span className="bg-slate-900 text-white dark:bg-white dark:text-slate-900 px-5 py-2 rounded-2xl inline-block mr-2 shadow-lg shadow-slate-950/10 dark:shadow-white/5">
-              {t.heroTitle}
+              {heroTitle}
             </span>{" "}
-            <span className="gradient-text">webwawa.pl</span>
+            <span className="normal-case">webwawa<span className="text-amber-700 dark:text-amber-400">.pl</span></span>
           </h1>
           <p className="text-xl opacity-80 max-w-2xl mx-auto leading-relaxed font-semibold">
-            {t.heroSubtitle}
+            {heroSubtitle}
           </p>
         </div>
       </section>
@@ -231,45 +253,45 @@ export default async function WebsitesServicePage(props: { params: Promise<{ lan
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
-            <div className="glass-card hover:-translate-y-1.5 transition-transform duration-300">
-              <div className="text-primary text-3xl font-black mb-3">▲ Next.js</div>
-              <h3 className="font-bold text-slate-900 dark:text-white mb-2">Framework No. 1</h3>
+            <Link href={`/${lang}/${websitesSlug}/nextjs`} className="glass-card hover:-translate-y-1.5 transition-transform duration-300 block">
+              <svg viewBox="0 0 24 24" className="w-10 h-10 mb-4 text-slate-900 dark:text-white fill-current"><path d="M18.665 21.978C16.758 23.255 14.465 24 12 24 5.377 24 0 18.623 0 12S5.377 0 12 0s12 5.377 12 12c0 3.583-1.574 6.801-4.067 9.001L9.219 7.2H7.2v9.596h1.615V9.251l9.85 12.727Zm-3.332-8.533 1.6 2.061V7.2h-1.6v6.245Z" /></svg>
+              <h3 className="font-bold text-slate-900 dark:text-white mb-2">Next.js — Framework No. 1</h3>
               <p className="text-xs text-slate-500 dark:text-slate-400 leading-relaxed font-semibold">
                 {lang === 'pl' 
                   ? 'Renderowanie Server-Side (SSR) oraz statyczne (SSG) gwarantujące czas LCP poniżej 0.5s.' 
                   : 'Server-Side Rendering (SSR) and static site generation (SSG) for sub-0.5s LCP speeds.'}
               </p>
-            </div>
+            </Link>
             
-            <div className="glass-card hover:-translate-y-1.5 transition-transform duration-300">
-              <div className="text-primary text-3xl font-black mb-3">⚛ React</div>
-              <h3 className="font-bold text-slate-900 dark:text-white mb-2">Modern UI Components</h3>
+            <Link href={`/${lang}/${websitesSlug}/react`} className="glass-card hover:-translate-y-1.5 transition-transform duration-300 block">
+              <svg viewBox="0 0 24 24" className="w-10 h-10 mb-4 text-[#61DAFB] fill-current"><path d="M14.23 12.004a2.236 2.236 0 0 1-2.235 2.236 2.236 2.236 0 0 1-2.236-2.236 2.236 2.236 0 0 1 2.235-2.236 2.236 2.236 0 0 1 2.236 2.236zm2.648-10.69c-1.346 0-3.107.96-4.888 2.622-1.78-1.653-3.542-2.602-4.887-2.602-.41 0-.783.093-1.106.278-1.375.793-1.683 3.264-.973 6.365C1.98 8.917 0 10.42 0 12.004c0 1.59 1.99 3.097 5.043 4.03-.704 3.113-.39 5.588.988 6.38.32.187.69.275 1.102.275 1.345 0 3.107-.96 4.888-2.624 1.78 1.654 3.542 2.603 4.887 2.603.41 0 .783-.09 1.106-.275 1.374-.792 1.683-3.263.973-6.365C22.02 15.096 24 13.59 24 12.004c0-1.59-1.99-3.097-5.043-4.032.704-3.11.39-5.587-.988-6.38-.318-.184-.688-.277-1.092-.278zm-.005 1.09v.006c.225 0 .406.044.558.127.666.382.955 1.835.73 3.704-.054.46-.142.945-.25 1.44-.96-.236-2.006-.417-3.107-.534-.66-.905-1.345-1.727-2.035-2.447 1.592-1.48 3.087-2.292 4.105-2.295zm-9.77.02c1.012 0 2.514.808 4.11 2.28-.686.72-1.37 1.537-2.02 2.442-1.107.117-2.154.298-3.113.538-.112-.49-.195-.964-.254-1.42-.23-1.868.054-3.32.714-3.707.19-.09.4-.127.563-.132zm4.882 3.05c.455.468.91.992 1.36 1.564-.44-.02-.89-.034-1.345-.034-.46 0-.915.01-1.36.034.44-.572.895-1.096 1.345-1.565zM12 8.1c.74 0 1.477.034 2.202.093.406.582.802 1.203 1.183 1.86.372.64.71 1.29 1.018 1.946-.308.655-.646 1.31-1.013 1.95-.38.66-.773 1.288-1.18 1.87-.728.063-1.466.098-2.21.098-.74 0-1.477-.035-2.202-.093-.406-.582-.802-1.204-1.183-1.86-.372-.64-.71-1.29-1.018-1.946.303-.657.646-1.313 1.013-1.954.38-.66.773-1.286 1.18-1.868.728-.064 1.466-.098 2.21-.098zm-3.635.254c-.24.377-.48.763-.704 1.16-.225.39-.435.782-.635 1.174-.265-.656-.49-1.31-.676-1.947.64-.15 1.315-.283 2.015-.386zm7.26 0c.695.103 1.365.23 2.006.387-.18.632-.405 1.282-.66 1.933-.2-.39-.41-.783-.64-1.174-.225-.392-.465-.774-.705-1.146zm3.063.675c.484.15.944.317 1.375.498 1.732.74 2.852 1.708 2.852 2.476-.005.768-1.125 1.74-2.857 2.475-.42.18-.88.342-1.355.493-.28-.958-.646-1.956-1.1-2.98.45-1.017.81-2.01 1.085-2.964zm-13.395.004c.278.96.645 1.957 1.1 2.98-.45 1.017-.812 2.01-1.086 2.964-.484-.15-.944-.318-1.37-.5-1.732-.737-2.852-1.706-2.852-2.474 0-.768 1.12-1.742 2.852-2.476.42-.18.88-.342 1.356-.494zm11.678 4.28c.265.657.49 1.312.676 1.948-.64.157-1.316.29-2.016.39.24-.375.48-.762.705-1.158.225-.39.435-.788.636-1.18zm-9.945.02c.2.392.41.783.64 1.175.23.39.465.772.705 1.143-.695-.102-1.365-.23-2.006-.386.18-.63.406-1.282.66-1.933zM17.92 16.32c.112.493.2.968.254 1.423.23 1.868-.054 3.32-.714 3.708-.147.09-.338.128-.563.128-1.012 0-2.514-.807-4.11-2.28.686-.72 1.37-1.536 2.02-2.44 1.107-.118 2.154-.3 3.113-.54zm-11.83.01c.96.234 2.006.415 3.107.532.66.905 1.345 1.727 2.035 2.446-1.595 1.483-3.092 2.295-4.11 2.295-.22-.005-.406-.05-.553-.132-.666-.38-.955-1.834-.73-3.703.054-.46.142-.944.25-1.438zm4.56.64c.44.02.89.034 1.345.034.46 0 .915-.01 1.36-.034-.44.572-.895 1.095-1.345 1.565-.455-.47-.91-.993-1.36-1.565z" /></svg>
+              <h3 className="font-bold text-slate-900 dark:text-white mb-2">React — UI Components</h3>
               <p className="text-xs text-slate-500 dark:text-slate-400 leading-relaxed font-semibold">
                 {lang === 'pl' 
                   ? 'Interaktywne elementy, wysoka elastyczność i skalowalność kodu.' 
                   : 'Interactive components, great flexibility, and code maintainability.'}
               </p>
-            </div>
+            </Link>
 
-            <div className="glass-card hover:-translate-y-1.5 transition-transform duration-300">
-              <div className="text-primary text-3xl font-black mb-3">💨 Tailwind</div>
-              <h3 className="font-bold text-slate-900 dark:text-white mb-2">Utility-First CSS</h3>
+            <Link href={`/${lang}/${websitesSlug}/tailwind-css`} className="glass-card hover:-translate-y-1.5 transition-transform duration-300 block">
+              <svg viewBox="0 0 24 24" className="w-10 h-10 mb-4 text-[#06B6D4] fill-current"><path d="M12.001,4.8c-3.2,0-5.2,1.6-6,4.8c1.2-1.6,2.6-2.2,4.2-1.8c0.913,0.228,1.565,0.89,2.288,1.624 C13.666,10.618,15.027,12,18.001,12c3.2,0,5.2-1.6,6-4.8c-1.2,1.6-2.6,2.2-4.2,1.8c-0.913-0.228-1.565-0.89-2.288-1.624 C16.337,6.182,14.976,4.8,12.001,4.8z M6.001,12c-3.2,0-5.2,1.6-6,4.8c1.2-1.6,2.6-2.2,4.2-1.8c0.913,0.228,1.565,0.89,2.288,1.624 c1.177,1.194,2.538,2.576,5.512,2.576c3.2,0,5.2-1.6,6-4.8c-1.2,1.6-2.6,2.2-4.2,1.8c-0.913-0.228-1.565-0.89-2.288-1.624 C10.337,13.382,8.976,12,6.001,12z" /></svg>
+              <h3 className="font-bold text-slate-900 dark:text-white mb-2">Tailwind — Utility CSS</h3>
               <p className="text-xs text-slate-500 dark:text-slate-400 leading-relaxed font-semibold">
                 {lang === 'pl' 
                   ? 'Brak nadmiarowego kodu CSS, szybkie dopasowanie do urządzeń mobilnych.' 
                   : 'Zero bloated CSS styles, rapid development of custom mobile-first layouts.'}
               </p>
-            </div>
+            </Link>
 
-            <div className="glass-card hover:-translate-y-1.5 transition-transform duration-300">
-              <div className="text-primary text-3xl font-black mb-3">📝 WordPress</div>
-              <h3 className="font-bold text-slate-900 dark:text-white mb-2">Dynamic CMS</h3>
+            <Link href={`/${lang}/${websitesSlug}/wordpress`} className="glass-card hover:-translate-y-1.5 transition-transform duration-300 block">
+              <svg viewBox="0 0 24 24" className="w-10 h-10 mb-4 text-[#21759B] fill-current"><path d="M21.469 6.825c.84 1.537 1.318 3.3 1.318 5.175 0 3.979-2.156 7.456-5.363 9.325l3.295-9.527c.615-1.54.82-2.771.82-3.864 0-.405-.026-.78-.07-1.11m-7.981.105c.647-.03 1.232-.105 1.232-.105.582-.075.514-.93-.067-.899 0 0-1.755.135-2.88.135-1.064 0-2.85-.15-2.85-.15-.585-.03-.661.855-.075.885 0 0 .54.061 1.125.09l1.68 4.605-2.37 7.08L5.354 6.9c.649-.03 1.234-.1 1.234-.1.585-.075.516-.93-.065-.896 0 0-1.746.138-2.874.138-.2 0-.438-.008-.69-.015C4.911 3.15 8.235 1.215 12 1.215c2.809 0 5.365 1.072 7.286 2.833-.046-.003-.091-.009-.141-.009-1.06 0-1.812.923-1.812 1.914 0 .89.513 1.643 1.06 2.531.411.72.89 1.643.89 2.977 0 .915-.354 1.994-.821 3.479l-1.075 3.585-3.9-11.61.001.014zM12 22.784c-1.059 0-2.081-.153-3.048-.437l3.237-9.406 3.315 9.087c.024.053.05.101.078.149-1.12.393-2.325.609-3.582.609M1.211 12c0-1.564.336-3.05.935-4.39L7.29 21.709C3.694 19.96 1.212 16.271 1.211 12M12 0C5.385 0 0 5.385 0 12s5.385 12 12 12 12-5.385 12-12S18.615 0 12 0" /></svg>
+              <h3 className="font-bold text-slate-900 dark:text-white mb-2">WordPress — Dynamic CMS</h3>
               <p className="text-xs text-slate-500 dark:text-slate-400 leading-relaxed font-semibold">
                 {lang === 'pl' 
                   ? 'Przyjazny i znany system edycji treści dla stron informacyjnych i blogowych.' 
                   : 'Friendly and well-known content editor for corporate blogs and informational sites.'}
               </p>
-            </div>
+            </Link>
           </div>
         </div>
       </section>

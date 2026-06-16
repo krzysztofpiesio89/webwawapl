@@ -8,6 +8,8 @@ import { getDictionary, Locale, ogLocaleMap } from '../../dictionaries';
 import { industrySlugsMap, professionSlugsMap, getIndustryIdBySlug } from '@/lib/industries-list';
 import { resolveStaticSlug } from '../../i18n-routes';
 import IndustryModelPage, { generateMetadata as generateIndustryModelMetadata } from '../../industries/[city]/[brand]/[model]/page';
+import IndustryBrandPage, { generateMetadata as generateIndustryMetadata } from '../../industries/[city]/[brand]/page';
+import { getTechnologyById } from '@/lib/technology';
 
 interface PageProps {
   params: Promise<{ lang: string;
@@ -24,6 +26,14 @@ export async function generateMetadata(props: PageProps): Promise<Metadata> {
   // Intercept Industry Parent Slugs (e.g., /strona-dla/architekt/projektant-wnetrz)
   const resolvedParent = resolveStaticSlug(lang);
   if (resolvedParent?.page === 'industries') {
+    const isTech = getTechnologyById(brandSlug) !== null;
+    if (isTech) {
+      return generateIndustryMetadata({
+        params: Promise.resolve({ lang: resolvedParent.lang, city: 'all', brand: citySlug }),
+        searchParams: Promise.resolve({ tech: brandSlug })
+      });
+    }
+
     return generateIndustryModelMetadata({
       params: Promise.resolve({ lang: resolvedParent.lang, city: 'all', brand: citySlug, model: brandSlug }),
       searchParams: props.searchParams || Promise.resolve({})
@@ -86,6 +96,14 @@ export default async function CityBrandPage(props: PageProps) {
   // Intercept Industry Parent Slugs (e.g., /strona-dla/architekt/projektant-wnetrz)
   const resolvedParent = resolveStaticSlug(lang);
   if (resolvedParent?.page === 'industries') {
+    const isTech = getTechnologyById(brandSlug) !== null;
+    if (isTech) {
+      return IndustryBrandPage({ 
+        params: Promise.resolve({ lang: resolvedParent.lang, city: 'all', brand: citySlug }),
+        searchParams: Promise.resolve({ tech: brandSlug })
+      });
+    }
+
     return IndustryModelPage({ 
       params: Promise.resolve({ lang: resolvedParent.lang, city: 'all', brand: citySlug, model: brandSlug }),
       searchParams: props.searchParams || Promise.resolve({})

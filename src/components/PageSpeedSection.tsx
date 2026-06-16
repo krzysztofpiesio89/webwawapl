@@ -1,6 +1,7 @@
 'use client';
 
 import React, { useRef, useState, useEffect } from 'react';
+import { BlurReveal } from '@/components/ui/BlurReveal';
 
 const translations = {
   pl: {
@@ -82,16 +83,16 @@ export default function PageSpeedSection({ lang }: { lang: string }) {
       <div className="absolute inset-0 z-0 bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:24px_24px] [mask-image:radial-gradient(ellipse_60%_60%_at_50%_50%,#000_70%,transparent_100%)] pointer-events-none" />
       
       <div className="container mx-auto px-4 relative z-10">
-        <div className="text-center mb-16">
+        <BlurReveal delay={0} className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-black text-slate-800 dark:text-white tracking-tight mb-4">
             {t.title}
           </h2>
           <p className="text-slate-600 dark:text-slate-400 font-medium max-w-2xl mx-auto">
             {t.subtitle}
           </p>
-        </div>
+        </BlurReveal>
 
-        <div className="flex flex-col md:flex-row items-center justify-center gap-10 lg:gap-20">
+        <BlurReveal delay={150} className="flex flex-col md:flex-row items-center justify-center gap-10 lg:gap-20">
           {/* Main Large Metric */}
           <div className="flex flex-col items-center">
             <div className="relative w-40 h-40 md:w-56 md:h-56 rounded-full flex items-center justify-center mb-4 shadow-xl shadow-emerald-500/10 bg-white dark:bg-slate-950 transition-transform duration-700 hover:scale-105">
@@ -142,7 +143,7 @@ export default function PageSpeedSection({ lang }: { lang: string }) {
               </div>
             ))}
           </div>
-        </div>
+        </BlurReveal>
       </div>
     </section>
   );

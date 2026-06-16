@@ -29,6 +29,7 @@
     "react-dom": "19.2.4",
     "react-email": "^6.3.3",
     "resend": "^6.12.4",
+    "simple-icons": "^16.23.0",
     "vanilla-cookieconsent": "^3.1.0"
   },
   "devDependencies": {

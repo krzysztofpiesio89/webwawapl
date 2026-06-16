@@ -134,6 +134,7 @@ export function proxy(request: NextRequest) {
       'vapid': 'vapid',
       'tailwind-css': 'tailwind-css',
       'tailwind': 'tailwind-css',
+      'react': 'react',
       'jquery': 'jquery',
       'html5': 'html5',
       'hosting': 'hosting',

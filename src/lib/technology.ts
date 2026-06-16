@@ -27,6 +27,7 @@ export function getTechnologyById(id: string): TechnologyData | null {
     const names: Record<string, string> = {
       'astro-build': 'Astro',
       'nextjs': 'Next.js',
+      'react': 'React',
       'nuxt': 'Nuxt.js',
       'tailwind-css': 'Tailwind CSS',
       'javascript': 'JavaScript',
