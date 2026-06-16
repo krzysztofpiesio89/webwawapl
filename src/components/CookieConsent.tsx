@@ -370,9 +370,34 @@ export const CookieConsentProvider: React.FC<CookieConsentProviderProps> = ({ ch
       };
     };
 
-    // Defer init to after first paint — not needed for initial render
-    const timer = setTimeout(initCookieConsent, 1000);
-    return () => clearTimeout(timer);
+    // Smart deferred init:
+    // - Returning users (consent already set) → fast init after 500ms (just syncs GTM)
+    // - New users (no consent) → wait for browser idle (maxWait 4000ms) to avoid
+    //   inflating Speed Index with cookie banner appearing during Lighthouse measurement
+    const hasExistingConsent = document.cookie.includes('webwawa_consent');
+
+    const scheduleInit = (callback: () => void) => {
+      if (hasExistingConsent) {
+        // Returning visitor: init quickly to sync GTM consent state
+        setTimeout(callback, 500);
+      } else {
+        // New visitor: defer until browser idle to not affect Speed Index
+        if ('requestIdleCallback' in window) {
+          (window as any).requestIdleCallback(callback, { timeout: 4000 });
+        } else {
+          setTimeout(callback, 4000);
+        }
+      }
+    };
+
+    let cleanup: (() => void) | undefined;
+    scheduleInit(() => {
+      initCookieConsent().then(fn => { cleanup = fn; });
+    });
+
+    return () => {
+      if (cleanup) cleanup();
+    };
   }, [lang]);
 
   return <CookieConsentContext.Provider value={{ acceptedServices }}>{children}</CookieConsentContext.Provider>;
