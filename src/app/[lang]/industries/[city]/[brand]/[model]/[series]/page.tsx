@@ -26,9 +26,9 @@ interface PageProps {
   params: Promise<{
     lang: string;
     city: string;
-    industry: string;
-    profession: string;
-    service: string;
+    brand: string;
+    model: string;
+    series: string;
   }>;
   searchParams: Promise<{
     carBrand?: string;
@@ -59,7 +59,7 @@ export async function generateStaticParams() {
         const professions = industryModelsMap[industry];
         for (const profession of professions) {
           for (const service of serviceList) {
-            paramsList.push({ lang, city, industry, profession, service });
+            paramsList.push({ lang, city, brand: industry, model: profession, series: service });
           }
         }
       }
@@ -69,7 +69,7 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params, searchParams }: PageProps): Promise<Metadata> {
-  const { lang, city: citySlug, industry: industryId, profession: professionId, service: serviceId } = await params;
+  const { lang, city: citySlug, brand: industryId, model: professionId, series: serviceId } = await params;
   const searchParamsData = await searchParams;
   const carBrandSlug = typeof searchParamsData?.carBrand === 'string' ? searchParamsData.carBrand : null;
   const carModelSlug = typeof searchParamsData?.carModel === 'string' ? searchParamsData.carModel : null;
@@ -197,7 +197,7 @@ export async function generateMetadata({ params, searchParams }: PageProps): Pro
 }
 
 export default async function IndustryServicePage({ params, searchParams }: PageProps) {
-  const { lang, city: citySlug, industry: industryId, profession: professionId, service: serviceId } = await params;
+  const { lang, city: citySlug, brand: industryId, model: professionId, series: serviceId } = await params;
   const searchParamsData = await searchParams;
   const carBrandSlug = typeof searchParamsData?.carBrand === 'string' ? searchParamsData.carBrand : null;
   const carModelSlug = typeof searchParamsData?.carModel === 'string' ? searchParamsData.carModel : null;
@@ -747,8 +747,9 @@ export default async function IndustryServicePage({ params, searchParams }: Page
               </a>
             </div>
           </div>
-        </section>
-      </BlurReveal>
+        </div>
+      </section>
+    </BlurReveal>
 
       {/* Formularz Kontaktowy */}
       <BlurReveal delay={300}>
