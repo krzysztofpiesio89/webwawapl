@@ -326,48 +326,5 @@
   to { opacity: 1; transform: translateY(0); }
 }
 
-/* ── Premium Vanilla Cookie Consent customization ── */
-#cc-main {
-  --cc-font-family: inherit;
-  --cc-modal-border-radius: 1.5rem;
-  --cc-btn-border-radius: 0.75rem;
-  
-  /* Primary Button (Accept all) - sky-700/800 for high accessibility contrast */
-  --cc-btn-primary-bg: #0369a1; 
-  --cc-btn-primary-border-color: #0369a1;
-  --cc-btn-primary-hover-bg: #0284c7;
-  --cc-btn-primary-hover-border-color: #0284c7;
-  --cc-btn-primary-text: #ffffff;
-  --cc-btn-primary-hover-text: #ffffff;
-  
-  /* Secondary Button (Preferences / Necessary) - slate-800 for high contrast */
-  --cc-btn-secondary-bg: #f1f5f9;
-  --cc-btn-secondary-border-color: #e2e8f0;
-  --cc-btn-secondary-hover-bg: #e2e8f0;
-  --cc-btn-secondary-hover-border-color: #cbd5e1;
-  --cc-btn-secondary-text: #1e293b;
-  --cc-btn-secondary-hover-text: #0f172a;
-}
-
-/* Dark mode overrides for buttons & modal */
-.cc--darkmode #cc-main {
-  --cc-btn-secondary-bg: #1e293b;
-  --cc-btn-secondary-border-color: #334155;
-  --cc-btn-secondary-hover-bg: #334155;
-  --cc-btn-secondary-hover-border-color: #475569;
-  --cc-btn-secondary-text: #f1f5f9;
-  --cc-btn-secondary-hover-text: #ffffff;
-  
-  --cc-btn-primary-bg: #0284c7; 
-  --cc-btn-primary-border-color: #0284c7;
-  --cc-btn-primary-hover-bg: #0ea5e9;
-  --cc-btn-primary-hover-border-color: #0ea5e9;
-  --cc-btn-primary-text: #ffffff;
-  --cc-btn-primary-hover-text: #ffffff;
-  
-  /* Make the dark theme matching our dark mode */
-  --cc-bg: #090e1a;
-  --cc-modal-bg: #0c1322;
-  --cc-text: #e2e8f0;
-  --cc-title-text: #ffffff;
-}
+/* Cookie Consent CSS overrides are injected dynamically by CookieConsent.tsx
+   after the vanilla-cookieconsent stylesheet loads, ensuring correct cascade order. */

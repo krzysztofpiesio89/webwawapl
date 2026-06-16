@@ -12,6 +12,8 @@ const inter = Inter({
   subsets: ["latin", "latin-ext"],
   variable: "--font-inter",
   display: "swap",
+  preload: true,
+  fallback: ["-apple-system", "BlinkMacSystemFont", "Segoe UI", "sans-serif"],
 });
 
 export function generateStaticParams() {
