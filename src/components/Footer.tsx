@@ -97,7 +97,7 @@ export default function Footer({
   const t = translations[lang as keyof typeof translations] || translations.en;
 
   return (
-    <footer className="bg-slate-100 dark:bg-slate-950 text-slate-600 dark:text-slate-400 pt-20 pb-8 border-t border-slate-200 dark:border-slate-800 transition-colors">
+    <footer className="bg-slate-100 dark:bg-slate-950 text-slate-700 dark:text-slate-300 pt-20 pb-8 border-t border-slate-200 dark:border-slate-800 transition-colors">
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12 mb-16">
           <div className="space-y-6">
@@ -105,7 +105,7 @@ export default function Footer({
               <Logo className="h-12 w-auto transform group-hover:scale-105 transition-transform" />
               <div className="flex flex-col leading-none">
                 <span className="text-[23px] font-extrabold text-slate-900 dark:text-white tracking-tight font-display lowercase">
-                  webwawa<span className="text-amber-500 font-semibold">.pl</span>
+                  webwawa<span className="text-amber-700 dark:text-amber-400 font-semibold">.pl</span>
                 </span>
               </div>
             </Link>
@@ -137,7 +137,7 @@ export default function Footer({
                 <span className="text-primary shrink-0 mt-0.5">🏢</span>
                 <div>
                   <span className="font-bold text-slate-800 dark:text-slate-200 block text-xs">{t.officeWarsaw}</span>
-                  <span className="text-xs text-slate-500 dark:text-slate-400 block">ul. Księżycowa 76/8, 01-934 Warszawa</span>
+                  <span className="text-xs text-slate-700 dark:text-slate-300 block">ul. Księżycowa 76/8, 01-934 Warszawa</span>
                 </div>
               </li>
             </ul>

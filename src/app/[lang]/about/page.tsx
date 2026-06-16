@@ -291,7 +291,7 @@ export default async function AboutUsPage(props: { params: Promise<{ lang: strin
 
       {/* Legal Info Footnote */}
       <section className="py-8 bg-slate-100 dark:bg-[#01030a] border-t border-slate-200 dark:border-slate-900 transition-colors duration-300">
-        <div className="container mx-auto px-4 max-w-4xl text-center text-xs text-slate-400 dark:text-slate-500 font-semibold space-y-2">
+        <div className="container mx-auto px-4 max-w-4xl text-center text-xs text-slate-750 dark:text-slate-400 font-semibold space-y-2">
           <p>Właścicielem serwisu webwawa.pl oraz podmiotem świadczącym usługi informatyczne jest {companyName} z siedzibą pod adresem: {addressRegistered} | NIP: {nip} | REGON: {regon}.</p>
           <p>Usługi doradztwa technicznego, wdrożeń Next.js/PWA i pozycjonowania SEO są realizowane na terenie Warszawy oraz całego kraju.</p>
           <p>Administratorem danych osobowych jest właściciel serwisu webwawa.pl.</p>

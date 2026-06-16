@@ -395,11 +395,10 @@ export default function HeroSection({ lang, phone, email }: HeroSectionProps) {
                   fill
                   sizes="(max-width: 1024px) 60vw, 30vw"
                   className="object-cover opacity-90"
-                  priority
                 />
               </div>
               {/* Live Lighthouse score badge overlay */}
-              <div className="absolute top-6 right-6 bg-emerald-500 text-white text-[11px] font-black rounded-none px-3 py-1.5 shadow-lg shadow-emerald-500/40 border-l-2 border-emerald-300 z-20">
+              <div className="absolute top-6 right-6 bg-emerald-700 text-white text-[11px] font-black rounded-none px-3 py-1.5 shadow-lg shadow-emerald-700/40 border-l-2 border-emerald-300 z-20">
                 90+ ⚡
               </div>
             </div>

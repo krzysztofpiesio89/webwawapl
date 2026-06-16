@@ -14,8 +14,8 @@
   --color-brand-slate: #0f172a;
 
   /* --- PRZYPISANIE RÓL --- */
-  --color-primary: #818cf8;
-  --color-primary-dark: #0ea5e9;
+  --color-primary: #4f46e5;
+  --color-primary-dark: #3730a3;
   --color-accent: #fbbf24;
   --color-secondary: #f97316;
   --color-bg-base: #060713;
@@ -68,7 +68,7 @@
   }
 
   h1, h2, h3, h4, h5, h6 {
-    font-family: var(--font-instrument-sans), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    font-family: var(--font-display), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   }
 
   body::before {
@@ -321,20 +321,20 @@
   --cc-modal-border-radius: 1.5rem;
   --cc-btn-border-radius: 0.75rem;
   
-  /* Primary Button (Accept all) - używa brand blue */
-  --cc-btn-primary-bg: var(--color-brand-blue); 
-  --cc-btn-primary-border-color: var(--color-brand-blue);
-  --cc-btn-primary-hover-bg: var(--color-primary-dark);
-  --cc-btn-primary-hover-border-color: var(--color-primary-dark);
+  /* Primary Button (Accept all) - sky-700/800 for high accessibility contrast */
+  --cc-btn-primary-bg: #0369a1; 
+  --cc-btn-primary-border-color: #0369a1;
+  --cc-btn-primary-hover-bg: #0284c7;
+  --cc-btn-primary-hover-border-color: #0284c7;
   --cc-btn-primary-text: #ffffff;
   --cc-btn-primary-hover-text: #ffffff;
   
-  /* Secondary Button (Preferences / Necessary) */
+  /* Secondary Button (Preferences / Necessary) - slate-800 for high contrast */
   --cc-btn-secondary-bg: #f1f5f9;
   --cc-btn-secondary-border-color: #e2e8f0;
   --cc-btn-secondary-hover-bg: #e2e8f0;
   --cc-btn-secondary-hover-border-color: #cbd5e1;
-  --cc-btn-secondary-text: #334155;
+  --cc-btn-secondary-text: #1e293b;
   --cc-btn-secondary-hover-text: #0f172a;
 }
 
@@ -347,6 +347,10 @@
   --cc-btn-secondary-text: #f1f5f9;
   --cc-btn-secondary-hover-text: #ffffff;
   
+  --cc-btn-primary-bg: #0284c7; 
+  --cc-btn-primary-border-color: #0284c7;
+  --cc-btn-primary-hover-bg: #0ea5e9;
+  --cc-btn-primary-hover-border-color: #0ea5e9;
   --cc-btn-primary-text: #ffffff;
   --cc-btn-primary-hover-text: #ffffff;
   
