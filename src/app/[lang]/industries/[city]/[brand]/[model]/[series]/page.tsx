@@ -9,6 +9,7 @@ import { getCityBySlug } from '@/lib/cities';
 import { getGlobalSettings } from '@/lib/settings';
 import { getDictionary, Locale, ogLocaleMap } from '../../../../../dictionaries';
 import ContactForm from '@/components/ContactForm';
+import { BlurReveal } from '@/components/ui/BlurReveal';
 import { 
   industrySlugsMap, 
   professionSlugsMap, 
@@ -494,7 +495,8 @@ export default async function IndustryServicePage({ params, searchParams }: Page
         />
 
       {/* Hero Section */}
-      <section className="bg-slate-100 dark:bg-slate-900 py-20 text-slate-900 dark:text-white relative overflow-hidden transition-colors duration-300">
+      <BlurReveal delay={100}>
+        <section className="bg-slate-100 dark:bg-slate-900 py-20 text-slate-900 dark:text-white relative overflow-hidden transition-colors duration-300">
         <div className="absolute top-0 right-0 w-[400px] h-[400px] bg-primary/5 rounded-full blur-[100px] pointer-events-none" />
         <div className="container mx-auto px-4 relative z-10">
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
@@ -547,11 +549,13 @@ export default async function IndustryServicePage({ params, searchParams }: Page
             </div>
           </div>
         </div>
-      </section>
+        </section>
+      </BlurReveal>
 
       {/* Detail Section */}
-      <section className="py-20 bg-white dark:bg-slate-950/20 border-t border-slate-200 dark:border-slate-900/40">
-        <div className="container mx-auto px-4 max-w-5xl">
+      <BlurReveal delay={200}>
+        <section className="py-20 bg-white dark:bg-slate-950/20 border-t border-slate-200 dark:border-slate-900/40">
+          <div className="container mx-auto px-4 max-w-5xl">
           <div className="grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
             <div className="md:col-span-7 space-y-6">
               <span className="inline-block py-1 px-4 rounded-full bg-primary/10 border border-primary/30 text-primary text-xs font-bold uppercase tracking-wider">
@@ -743,12 +747,13 @@ export default async function IndustryServicePage({ params, searchParams }: Page
               </a>
             </div>
           </div>
-        </div>
-      </section>
+        </section>
+      </BlurReveal>
 
       {/* Formularz Kontaktowy */}
-      <section id="kontakt" className="py-20 bg-slate-100 dark:bg-slate-900/30 border-t border-slate-200 dark:border-slate-900/50">
-        <div className="container mx-auto px-4 max-w-4xl">
+      <BlurReveal delay={300}>
+        <section id="kontakt" className="py-20 bg-slate-100 dark:bg-slate-900/30 border-t border-slate-200 dark:border-slate-900/50">
+          <div className="container mx-auto px-4 max-w-4xl">
           <ContactForm 
             lang={lang} 
             defaultCity={city ? city.name : 'Warszawa'} 
@@ -756,7 +761,8 @@ export default async function IndustryServicePage({ params, searchParams }: Page
             dict={dict.form} 
           />
         </div>
-      </section>
-    </main>
+          </section>
+        </BlurReveal>
+      </main>
   );
 }

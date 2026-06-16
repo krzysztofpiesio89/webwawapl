@@ -1,8 +1,8 @@
 {
   "meta": {
-    "title": "汽车购买和法律诉讼 - 手头现金 | skupautwawa.pl",
-    "description": "skupautwawa.pl 是一家专业的汽车购买、即时汽车报废和汽车收藏网站。我们有一个有执照的车辆拆解站。我们在华沙及周边地区提供可靠的在线汽车估价和免费 24/7 拖车运输！",
-    "ogTitle": "汽车购买和法律诉讼 - 手头现金 | skupautwawa.pl"
+    "title": "现代 PWA 应用与定制网站开发 | webwawa.pl",
+    "description": "webwawa.pl 是华沙一家现代化的 IT 机构。我们设计并构建超快速的 Next.js 网站、定制的 PWA Web 应用、SEO 优化和系统集成服务。",
+    "ogTitle": "现代 PWA 应用与定制网站开发 | webwawa.pl"
   },
   "nav": {
     "home": "主页",
@@ -182,22 +182,22 @@
     "requiredNote": "必填字段。数据控制器是"
   },
   "footer": {
-    "description": "华沙地区最快的购车速度。我们保证合法收货、免费拖车取货和现金付款。我们 24/7 运营。",
+    "description": "华沙最快速的 IT 机构。我们提供现代化的解决方案、超快速的交付以及 24/7 的技术支持。",
     "servicesTitle": "我们的服务",
-    "service1": "购买乘用车",
-    "service2": "购买损坏的汽车",
-    "service3": "合法报废车辆",
-    "service4": "网上汽车估价",
+    "service1": "Next.js 网站开发",
+    "service2": "Web 应用与 PWA",
+    "service3": "SEO 与网络定位",
+    "service4": "定制系统与 API 接口",
     "citiesTitle": "热门地点",
-    "contactTitle": "接触",
+    "contactTitle": "联系方式",
     "officeLabel": "华沙办事处：",
     "registryLabel": "注册地址：",
-    "copyright": "© 2026 skupautwawa.pl - 保留所有权利。",
+    "copyright": "© 2026 webwawa.pl - 保留所有权利。",
     "privacyPolicy": "隐私政策"
   },
   "legal": {
-    "companyInfo": "{companyName} |纳税识别号：{nip} | KRS：{krs} |雷贡：{regon}",
-    "addressInfo": "地址：{address} |个人数据的管理员是 skupautwawa.pl 网站的所有者。"
+    "companyInfo": "{companyName} | 纳税识别号: {nip} | KRS: {krs} | REGON: {regon}",
+    "addressInfo": "地址: {address} | 个人数据管理员为 webwawa.pl 网站所有者。"
   },
   "seo": {
     "cityTitle": "汽车购买和报废{city} - 报废|手头现金",
@@ -521,16 +521,16 @@
     }
   },
   "brandsPage": {
-    "metaTitle": "支持汽车品牌-快速购买及收藏| skupautwawa.pl",
-    "metaDescription": "我们购买各种品牌和型号的客车和货车。查看支持品牌的完整列表并选择您所在的城市以获得专门报价。",
-    "breadcrumbHome": "主页",
+    "metaTitle": "技术领域与服务 | webwawa.pl",
+    "metaDescription": "webwawa.pl IT 机构提供的定制软件开发、技术和 SEO。",
+    "breadcrumbHome": "首页",
     "breadcrumbBrands": "我们的品牌",
-    "badge": "报废和采购 2000-2026",
-    "title": "车辆品牌,",
-    "titleHighlight": "我们购买的",
-    "subtitle": "无论技术、视觉条件或生产年份如何。我们购买和处置所有品牌的汽车。在下面选择您所在的城市以生成专属优惠。",
-    "breadcrumb": "品牌",
-    "description": "查看支持品牌的完整列表并选择您所在的城市以获得专门报价。",
+    "badge": "华沙 IT 机构",
+    "title": "已实现的技术",
+    "titleHighlight": "与领域",
+    "subtitle": "我们调整技术栈以适应您的行业和公司所在地。",
+    "breadcrumb": "技术",
+    "description": "查看 webwawa.pl IT 机构实现的完整技术列表。",
     "list": []
   },
   "uCarsPromo": {
@@ -561,18 +561,18 @@
     "cashTag2": "这也是用现金买的:)"
   },
   "email": {
-    "subject": "确认：我们已收到您的车辆评估请求",
+    "subject": "确认：我们已收到您的项目咨询",
     "greeting": "您好，",
-    "intro": "感谢您在 SkupAutWawa.pl 上提交请求。以下是您提供的信息摘要：",
-    "detailsBrand": "车辆",
-    "detailsYear": "年份",
-    "detailsEngine": "发动机",
-    "detailsPrice": "建议价格",
-    "detailsCity": "地点",
-    "detailsPhone": "您的电话",
+    "intro": "感谢您在 webwawa.pl 上提交咨询。以下是您提供的信息摘要：",
+    "detailsBrand": "客户 / 公司",
+    "detailsYear": "期望时间期限",
+    "detailsEngine": "服务类型",
+    "detailsPrice": "预估预算",
+    "detailsCity": "地区",
+    "detailsPhone": "您的电话号码",
     "nextStepsTitle": "下一步是什么？",
-    "nextStepsText": "我们的估价师正在审核您的请求。我们将在15分钟内通过您提供的电话号码与您联系。",
-    "footer": "此致，SkupAutWawa.pl 团队",
-    "footerAddress": "Skup Aut Warszawa"
+    "nextStepsText": "我们的技术顾问正在分析您的咨询。我们将在 24 小时内通过您提供的电话号码与您联系，以讨论项目细节。",
+    "footer": "此致，webwawa.pl 团队",
+    "footerAddress": "webwawa.pl IT 机构"
   }
 }

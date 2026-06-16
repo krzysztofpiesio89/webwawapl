@@ -65,7 +65,7 @@ export default function LanguageSwitcher({ currentLang }: { currentLang: Locale 
       key={locale}
       href={getLocalizedUrl(locale)}
       onClick={() => setIsOpen(false)}
-      className={`flex items-center gap-4 px-6 py-3.5 rounded-2xl transition-all duration-300 w-full max-w-[250px] transform hover:scale-105 active:scale-95 ${
+      className={`block px-6 py-3.5 rounded-none transition-all duration-300 w-full max-w-[250px] transform hover:scale-105 active:scale-95 -skew-x-12 ${
         currentLang === locale 
           ? 'bg-black/5 dark:bg-white/10 text-slate-900 dark:text-white' 
           : 'text-slate-600 dark:text-slate-400 hover:bg-black/5 dark:hover:bg-white/5 hover:text-slate-900 dark:hover:text-white'
@@ -73,10 +73,12 @@ export default function LanguageSwitcher({ currentLang }: { currentLang: Locale 
       role="option"
       aria-selected={currentLang === locale}
     >
-      <span className="text-2xl sm:text-3xl drop-shadow-sm">{languageFlags[locale]}</span>
-      <span className={`text-xl sm:text-2xl tracking-tight ${currentLang === locale ? 'font-bold' : 'font-medium'}`}>
-        {languageNames[locale]}
-      </span>
+      <div className="flex items-center gap-4 skew-x-12">
+        <span className="text-2xl sm:text-3xl drop-shadow-sm">{languageFlags[locale]}</span>
+        <span className={`text-xl sm:text-2xl tracking-tight ${currentLang === locale ? 'font-bold' : 'font-medium'}`}>
+          {languageNames[locale]}
+        </span>
+      </div>
     </Link>
   ));
 

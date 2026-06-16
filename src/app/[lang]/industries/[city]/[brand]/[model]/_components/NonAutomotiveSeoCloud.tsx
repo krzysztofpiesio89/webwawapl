@@ -85,7 +85,7 @@ export default function NonAutomotiveSeoCloud({
                   <Link
                     key={sm.id}
                     href={href}
-                    className="group inline-flex items-center gap-1.5 px-4 py-1.5 rounded-none bg-slate-100 dark:bg-slate-900/60 text-xs font-bold text-slate-700 dark:text-slate-300 hover:bg-indigo-500 hover:text-white dark:hover:bg-indigo-600 transition-all duration-150 [clip-path:polygon(8px_0,calc(100%_-_8px)_0,100%_50%,calc(100%_-_8px)_100%,8px_100%,0_50%)]"
+                    className="group inline-flex items-center gap-1.5 px-4 py-1.5 rounded-none bg-slate-100 dark:bg-slate-900/60 text-xs font-bold text-slate-700 dark:text-slate-300 hover:bg-indigo-500 hover:text-white dark:hover:bg-indigo-600 transition-all duration-150 [clip-path:polygon(0_0,calc(100%-12px)_0,100%_50%,calc(100%-12px)_100%,0_100%)]"
                   >
                     {sm.name}
                   </Link>
@@ -111,7 +111,7 @@ export default function NonAutomotiveSeoCloud({
               <Link
                 key={loc.slug}
                 href={`${langPrefix}/${loc.slug}/${industrySlug}/${professionSlug}`}
-                className="group inline-flex items-center gap-1.5 px-4 py-1.5 rounded-none bg-slate-100 dark:bg-slate-900/60 text-xs font-bold text-slate-700 dark:text-slate-300 hover:bg-indigo-500 hover:text-white dark:hover:bg-indigo-600 transition-all duration-150 [clip-path:polygon(8px_0,calc(100%_-_8px)_0,100%_50%,calc(100%_-_8px)_100%,8px_100%,0_50%)]"
+                className="group inline-flex items-center gap-1.5 px-4 py-1.5 rounded-none bg-slate-100 dark:bg-slate-900/60 text-xs font-bold text-slate-700 dark:text-slate-300 hover:bg-indigo-500 hover:text-white dark:hover:bg-indigo-600 transition-all duration-150 [clip-path:polygon(0_0,calc(100%-12px)_0,100%_50%,calc(100%-12px)_100%,0_100%)]"
               >
                 <svg className="w-3 h-3 text-indigo-500 group-hover:text-white transition-colors" fill="currentColor" viewBox="0 0 20 20">
                   <path
@@ -142,9 +142,9 @@ export default function NonAutomotiveSeoCloud({
                 <Link
                   key={ri.id}
                   href={`${langPrefix}/${parentSlug}/${ri.slug}`}
-                  className="inline-flex items-center gap-2 px-5 py-2 rounded-none bg-slate-100 dark:bg-slate-900/60 text-sm font-bold text-slate-700 dark:text-slate-300 hover:bg-indigo-500 hover:text-white dark:hover:bg-indigo-600 transition-all duration-150 [clip-path:polygon(10px_0,calc(100%_-_10px)_0,100%_50%,calc(100%_-_10px)_100%,10px_100%,0_50%)]"
+                  className="group inline-flex items-center gap-2 px-5 py-2 rounded-none bg-slate-100 dark:bg-slate-900/60 text-sm font-bold text-slate-700 dark:text-slate-300 hover:bg-indigo-500 hover:text-white dark:hover:bg-indigo-600 transition-all duration-150 -skew-x-12"
                 >
-                  {ri.name} →
+                  <span className="block skew-x-12">{ri.name} &rarr;</span>
                 </Link>
               ))}
             </div>

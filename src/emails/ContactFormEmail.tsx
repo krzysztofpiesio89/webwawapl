@@ -41,90 +41,150 @@ export const ContactFormEmail = ({
       <Tailwind>
         <Head />
         <Body className="bg-slate-50 font-sans">
-          <Preview>Nowe zapytanie ofertowe: {brandModel}</Preview>
-          <Container>
-            <Section className="px-5 py-[30px] text-center bg-white">
-              <Heading className="m-0 text-3xl font-black tracking-tighter uppercase italic text-slate-900">
-                webwawa<span className="text-amber-500">.pl</span>
+          <Preview>Nowe zapytanie (webwawa.pl): {brandModel}</Preview>
+          <Container className="mx-auto my-10 max-w-[600px]">
+            {/* Header / Logo */}
+            <Section className="px-8 py-6 text-center">
+              <Heading className="m-0 text-2xl font-black tracking-tight text-slate-900 uppercase">
+                webwawa<span className="text-indigo-600">.pl</span>
               </Heading>
             </Section>
 
-            <Section className="border border-solid border-slate-200 bg-white rounded-3xl overflow-hidden shadow-lg">
-              <Row className="bg-amber-400 p-5">
-                <Column>
-                  <Heading className="text-[24px] font-black text-slate-900 text-center uppercase italic m-0">
-                    Nowe zapytanie ofertowe (IT)
-                  </Heading>
-                </Column>
-              </Row>
-
+            {/* Main Content Box */}
+            <Section className="border border-solid border-slate-200 bg-white rounded-3xl overflow-hidden shadow-sm">
+              {/* Subtle top indicator bar */}
+              <div className="h-1.5 bg-gradient-to-r from-violet-500 to-indigo-600"></div>
+              
               <Row className="p-8">
                 <Column>
-                  <Text className="text-base text-slate-800 mb-6">
-                    Otrzymano nowe zapytanie o projekt IT ze strony webwawa.pl. Poniżej znajdują się szczegóły:
+                  <Heading className="text-[20px] font-black text-slate-900 m-0 mb-6 uppercase tracking-tight">
+                    Nowe zapytanie ofertowe (B2B Lead)
+                  </Heading>
+                  
+                  <Text className="text-sm text-slate-600 leading-relaxed mb-6">
+                    Otrzymano nowe zapytanie o projekt IT ze strony <strong className="text-slate-900">webwawa.pl</strong>. Poniżej znajdują się szczegóły zgłoszenia:
                   </Text>
                   
-                  <div className="bg-slate-50 p-6 rounded-xl border border-slate-100">
-                    <Text className="text-base m-0 mb-2">
-                      <b className="text-slate-500 uppercase text-xs tracking-wider">Klient / Firma: </b><br/>
-                      <span className="text-xl font-bold text-slate-900">{brandModel}</span>
-                    </Text>
-
-                    <Text className="text-base m-0 mb-2">
-                      <b className="text-slate-500 uppercase text-xs tracking-wider">Rodzaj usługi: </b><br/>
-                      <span className="text-lg font-bold text-slate-900">{engine || '-'}</span>
-                    </Text>
-                    
-                    <Text className="text-base m-0 mb-2">
-                      <b className="text-slate-500 uppercase text-xs tracking-wider">Czas realizacji: </b><br/>
-                      <span className="font-semibold text-slate-700">{year || '-'}</span>
-                    </Text>
-
-                    <Text className="text-base m-0 mb-2">
-                      <b className="text-slate-500 uppercase text-xs tracking-wider">Szacowany budżet: </b><br/>
-                      <span className="text-lg font-bold text-amber-600">{price || '-'}</span>
-                    </Text>
-                    
-                    <Text className="text-base m-0 mb-2">
-                      <b className="text-slate-500 uppercase text-xs tracking-wider">Lokalizacja: </b><br/>
-                      <span className="font-semibold text-slate-700">{city || '-'}</span>
-                    </Text>
-                  </div>
-
-                  <div className="mt-6 border-t border-slate-100 pt-6">
-                    <Heading as="h3" className="text-lg font-bold text-slate-900 m-0 mb-4 uppercase">Dane Kontaktowe</Heading>
-                    <Text className="text-base m-0 mb-2">
-                      <b className="text-slate-500 uppercase text-xs tracking-wider">Telefon: </b><br/>
-                      <a href={`tel:${phone}`} className="text-xl font-black text-blue-600 no-underline">{phone}</a>
-                    </Text>
-                    <Text className="text-base m-0 mb-4">
-                      <b className="text-slate-500 uppercase text-xs tracking-wider">E-mail: </b><br/>
-                      <a href={`mailto:${email}`} className="font-semibold text-blue-600 no-underline">{email}</a>
-                    </Text>
-                  </div>
-
-                  {description && (
-                     <div className="mt-4 border-t border-slate-100 pt-6">
-                        <Text className="text-base m-0 mb-2">
-                          <b className="text-slate-500 uppercase text-xs tracking-wider">Opis projektu / Wymagania: </b><br/>
-                          <span className="italic text-slate-700">{description}</span>
+                  {/* Details block */}
+                  <div className="bg-slate-50/80 p-6 rounded-2xl border border-slate-100">
+                    <Row className="mb-4">
+                      <Column>
+                        <Text className="m-0 text-[11px] font-bold text-slate-400 uppercase tracking-wider">
+                          Klient / Firma
                         </Text>
-                     </div>
+                        <Text className="m-0 text-base font-bold text-slate-900 mt-0.5">
+                          {brandModel}
+                        </Text>
+                      </Column>
+                    </Row>
+
+                    {engine && (
+                      <Row className="mb-4">
+                        <Column>
+                          <Text className="m-0 text-[11px] font-bold text-slate-400 uppercase tracking-wider">
+                            Rodzaj usługi
+                          </Text>
+                          <Text className="m-0 text-sm font-semibold text-slate-800 mt-0.5">
+                            {engine}
+                          </Text>
+                        </Column>
+                      </Row>
+                    )}
+
+                    {year && (
+                      <Row className="mb-4">
+                        <Column>
+                          <Text className="m-0 text-[11px] font-bold text-slate-400 uppercase tracking-wider">
+                            Czas realizacji
+                          </Text>
+                          <Text className="m-0 text-sm font-semibold text-slate-800 mt-0.5">
+                            {year}
+                          </Text>
+                        </Column>
+                      </Row>
+                    )}
+
+                    {price && (
+                      <Row className="mb-4">
+                        <Column>
+                          <Text className="m-0 text-[11px] font-bold text-slate-400 uppercase tracking-wider">
+                            Budżet
+                          </Text>
+                          <Text className="m-0 text-sm font-bold text-indigo-600 mt-0.5">
+                            {price}
+                          </Text>
+                        </Column>
+                      </Row>
+                    )}
+
+                    {city && (
+                      <Row className="mb-4">
+                        <Column>
+                          <Text className="m-0 text-[11px] font-bold text-slate-400 uppercase tracking-wider">
+                            Lokalizacja
+                          </Text>
+                          <Text className="m-0 text-sm font-semibold text-slate-800 mt-0.5">
+                            {city}
+                          </Text>
+                        </Column>
+                      </Row>
+                    )}
+
+                    <Row className="mb-4">
+                      <Column>
+                        <Text className="m-0 text-[11px] font-bold text-slate-400 uppercase tracking-wider">
+                          Telefon
+                        </Text>
+                        <Text className="m-0 text-sm mt-0.5">
+                          <a href={`tel:${phone}`} className="font-bold text-indigo-600 no-underline">
+                            {phone}
+                          </a>
+                        </Text>
+                      </Column>
+                    </Row>
+
+                    <Row>
+                      <Column>
+                        <Text className="m-0 text-[11px] font-bold text-slate-400 uppercase tracking-wider">
+                          Adres E-mail
+                        </Text>
+                        <Text className="m-0 text-sm mt-0.5">
+                          <a href={`mailto:${email}`} className="font-semibold text-indigo-600 no-underline">
+                            {email}
+                          </a>
+                        </Text>
+                      </Column>
+                    </Row>
+                  </div>
+
+                  {/* Description Box */}
+                  {description && (
+                    <div className="mt-6 border-t border-solid border-slate-100 pt-6">
+                      <Heading as="h3" className="text-sm font-bold text-slate-900 m-0 mb-2 uppercase tracking-wide">
+                        Opis projektu / Wymagania
+                      </Heading>
+                      <Text className="text-sm text-slate-700 leading-relaxed m-0 italic bg-slate-50/50 p-4 rounded-xl border border-dashed border-slate-200">
+                        {description}
+                      </Text>
+                    </div>
                   )}
 
-                  <div className="mt-6 bg-amber-50 p-4 rounded-xl border border-amber-100 text-center">
-                    <Text className="text-base font-bold text-amber-800 m-0">
-                      Załączone pliki / brief: {imagesCount}
+                  {/* Attachment indicator badge */}
+                  <div className="mt-6 bg-indigo-50/50 p-4 rounded-2xl border border-solid border-indigo-100/50 text-center">
+                    <Text className="text-xs font-bold text-indigo-700 m-0 uppercase tracking-wider">
+                      Liczba przesłanych plików / brief: {imagesCount}
                     </Text>
                   </div>
-                  
                 </Column>
               </Row>
             </Section>
 
-            <Text className="text-center text-xs leading-[24px] text-slate-400 mt-8 font-semibold">
-              © {new Date().getFullYear()} | webwawa.pl | Formularz kontaktowy
-            </Text>
+            {/* Footer */}
+            <Section className="text-center mt-8 px-6">
+              <Text className="text-[10px] leading-relaxed text-slate-400 m-0 uppercase tracking-wider">
+                © {new Date().getFullYear()} | webwawa.pl | Panel Administratora
+              </Text>
+            </Section>
           </Container>
         </Body>
       </Tailwind>

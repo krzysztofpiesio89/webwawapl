@@ -24,7 +24,7 @@ function slugify(str) {
 }
 
 async function main() {
-  const baseUrl = 'https://skupautwawa.pl';
+  const baseUrl = 'https://webwawa.pl';
   const PUBLIC_DIR = path.join(process.cwd(), 'public');
   const SITEMAP_DIR = path.join(PUBLIC_DIR, 'sitemap');
   const BRANDS_DIR = path.join(process.cwd(), 'data', 'brands');

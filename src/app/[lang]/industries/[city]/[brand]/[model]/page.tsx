@@ -27,6 +27,8 @@ import EcommerceShowcase from './_components/EcommerceShowcase';
 import AutomotiveSeoCloud from './_components/AutomotiveSeoCloud';
 import NonAutomotiveSeoCloud from './_components/NonAutomotiveSeoCloud';
 
+import { BlurReveal } from '@/components/ui/BlurReveal';
+
 interface PageProps {
   params: Promise<{
     lang: string;
@@ -561,50 +563,57 @@ export default async function IndustryModelPage({ params, searchParams }: PagePr
         }}
       />
 
-      <HeroSection
-        lang={lang}
-        homeUrl={homeUrl}
-        city={city}
-        brandUrl={brandUrl}
-        industryName={trans.industryName}
-        modelName={modelData.name}
-        brandLogo={brandLogo}
-        carBrandSlug={carBrandSlug}
-        t={t}
-        carDetails={carDetails}
-        techSuffix={techSuffix}
-        cityName={cityName}
-        heroImageSrc={heroImageSrc}
-      />
+      <BlurReveal delay={100}>
+        <HeroSection
+          lang={lang}
+          homeUrl={homeUrl}
+          city={city}
+          brandUrl={brandUrl}
+          industryName={trans.industryName}
+          modelName={modelData.name}
+          brandLogo={brandLogo}
+          carBrandSlug={carBrandSlug}
+          t={t}
+          carDetails={carDetails}
+          techSuffix={techSuffix}
+          cityName={cityName}
+          heroImageSrc={heroImageSrc}
+        />
+      </BlurReveal>
 
-      <SpecializationDetails
-        lang={lang}
-        cityName={cityName}
-        carDetails={carDetails}
-        t={t}
-        modelData={modelData}
-        techTrans={techTrans}
-        wikiData={wikiData}
-        trans={trans}
-        carBrandSlug={carBrandSlug}
-        carModelSlug={carModelSlug}
-        carSeriesSlug={carSeriesSlug}
-        langPrefix={langPrefix}
-        parentSlug={parentSlug}
-        industrySlug={industrySlug}
-        professionSlug={professionSlug}
-        citySlug={citySlug}
-        city={city}
-      />
+      <BlurReveal delay={200}>
+        <SpecializationDetails
+          lang={lang}
+          cityName={cityName}
+          carDetails={carDetails}
+          t={t}
+          modelData={modelData}
+          techTrans={techTrans}
+          wikiData={wikiData}
+          trans={trans}
+          carBrandSlug={carBrandSlug}
+          carModelSlug={carModelSlug}
+          carSeriesSlug={carSeriesSlug}
+          langPrefix={langPrefix}
+          parentSlug={parentSlug}
+          industrySlug={industrySlug}
+          professionSlug={professionSlug}
+          citySlug={citySlug}
+          city={city}
+        />
+      </BlurReveal>
 
       {professionId === 'carParts' && (
-        <EcommerceShowcase lang={lang} ecomUi={ecomUi} />
+        <BlurReveal delay={300}>
+          <EcommerceShowcase lang={lang} ecomUi={ecomUi} />
+        </BlurReveal>
       )}
 
       {/* FAQ dla technologii */}
       {techTrans?.faq && techTrans.faq.length > 0 && (
-        <section className="py-20 bg-slate-100/50 dark:bg-slate-900/10 border-t border-slate-200 dark:border-slate-900/40">
-          <div className="container mx-auto px-4 max-w-3xl">
+        <BlurReveal delay={400}>
+          <section className="py-20 bg-slate-100/50 dark:bg-slate-900/10 border-t border-slate-200 dark:border-slate-900/40">
+            <div className="container mx-auto px-4 max-w-3xl">
             <h3 className="text-2xl font-black uppercase italic tracking-tight text-slate-900 dark:text-white mb-8 text-center">
               FAQ – {techData?.name} w specjalizacji {modelData.name}
             </h3>
@@ -620,13 +629,15 @@ export default async function IndustryModelPage({ params, searchParams }: PagePr
                 </div>
               ))}
             </div>
-          </div>
-        </section>
+            </div>
+          </section>
+        </BlurReveal>
       )}
 
       {/* Chmura tagów technologii pod SEO */}
-      <section className="py-12 bg-white dark:bg-slate-950 border-t border-slate-200 dark:border-slate-900/40">
-        <div className="container mx-auto px-4 max-w-5xl">
+      <BlurReveal delay={500}>
+        <section className="py-12 bg-white dark:bg-slate-950 border-t border-slate-200 dark:border-slate-900/40">
+          <div className="container mx-auto px-4 max-w-5xl">
           <TechnologyCloud
             lang={lang as Locale}
             city={citySlug}
@@ -634,49 +645,54 @@ export default async function IndustryModelPage({ params, searchParams }: PagePr
             professionId={professionId as ProfessionId}
             activeTech={tech || undefined}
           />
-        </div>
-      </section>
+          </div>
+        </section>
+      </BlurReveal>
 
       {/* Formularz Kontaktowy */}
-      <section id="kontakt" className="py-20 bg-slate-100 dark:bg-slate-900/30 border-t border-slate-200 dark:border-slate-900/50">
-        <div className="container mx-auto px-4 max-w-4xl">
+      <BlurReveal delay={600}>
+        <section id="kontakt" className="py-20 bg-slate-100 dark:bg-slate-900/30 border-t border-slate-200 dark:border-slate-900/50">
+          <div className="container mx-auto px-4 max-w-4xl">
           <ContactForm 
             lang={lang} 
             defaultCity={city ? city.name : 'Warszawa'} 
             settings={settings} 
             dict={dict.form} 
           />
-        </div>
-      </section>
+          </div>
+        </section>
+      </BlurReveal>
 
-      {industryId === 'automotive' ? (
-        <AutomotiveSeoCloud
-          lang={lang}
-          carBrandSlug={carBrandSlug}
-          carModelSlug={carModelSlug}
-          professionId={professionId}
-          modelName={modelData.name}
-          industrySlug={industrySlug}
-          professionSlug={professionSlug}
-          parentSlug={parentSlug}
-          langPrefix={langPrefix}
-          t={t}
-          trans={trans}
-        />
-      ) : (
-        <NonAutomotiveSeoCloud
-          lang={lang}
-          industryId={industryId}
-          professionId={professionId}
-          modelData={modelData}
-          trans={trans}
-          city={city}
-          industrySlug={industrySlug}
-          professionSlug={professionSlug}
-          parentSlug={parentSlug}
-          langPrefix={langPrefix}
-        />
-      )}
+      <BlurReveal delay={700}>
+        {industryId === 'automotive' ? (
+          <AutomotiveSeoCloud
+            lang={lang}
+            carBrandSlug={carBrandSlug}
+            carModelSlug={carModelSlug}
+            professionId={professionId}
+            modelName={modelData.name}
+            industrySlug={industrySlug}
+            professionSlug={professionSlug}
+            parentSlug={parentSlug}
+            langPrefix={langPrefix}
+            t={t}
+            trans={trans}
+          />
+        ) : (
+          <NonAutomotiveSeoCloud
+            lang={lang}
+            industryId={industryId}
+            professionId={professionId}
+            modelData={modelData}
+            trans={trans}
+            city={city}
+            industrySlug={industrySlug}
+            professionSlug={professionSlug}
+            parentSlug={parentSlug}
+            langPrefix={langPrefix}
+          />
+        )}
+      </BlurReveal>
     </main>
   );
 }

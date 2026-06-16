@@ -304,14 +304,14 @@
     "ctaOnline": "Projekt-Angebot"
   },
   "brands": {
-    "metaTitle": "Unterstützte Automarken - Schneller Ankauf & Verschrottung | skupautwawa.pl",
-    "metaDescription": "Wir kaufen PKW und Nutzfahrzeuge aller Marken und Modelle. Sehen Sie die vollständige Liste der unterstützten Marken und wählen Sie Ihren Standort für eine individuelle Bewertung.",
+    "metaTitle": "Technologiebereiche & Dienstleistungen | webwawa.pl",
+    "metaDescription": "Maßgeschneiderte Software-Implementierungen, Technologien und SEO bei der IT-Agentur webwawa.pl.",
     "breadcrumbHome": "Startseite",
     "breadcrumbBrands": "Unsere Marken",
-    "badge": "Verschrottung & Ankauf 2000-2026",
-    "title": "Fahrzeugmarken",
-    "titleHighlight": "die wir kaufen",
-    "subtitle": "Unabhängig vom technischen Zustand, dem optischen Zustand oder dem Baujahr. Wir kaufen und verschrotten Autos jeder Marke. Wählen Sie unten Ihre Stadt aus, um ein individuelles Angebot zu erstellen."
+    "badge": "IT-Agentur Warschau",
+    "title": "Implementierte Technologien",
+    "titleHighlight": "und Bereiche",
+    "subtitle": "Wir passen den Technologie-Stack an Ihre Branche und den Standort Ihres Unternehmens an."
   },
   "schema": {
     "dealerName": "IT-Agentur Warschau - webwawa.pl",
@@ -521,23 +521,23 @@
     }
   },
   "brandsPage": {
-    "metaTitle": "Unterstützte Automarken - Schneller Ankauf & Verschrottung | skupautwawa.pl",
-    "metaDescription": "Wir kaufen PKW und Nutzfahrzeuge aller Marken und Modelle. Sehen Sie die vollständige Liste der unterstützten Marken und wählen Sie Ihren Standort für eine individuelle Bewertung.",
+    "metaTitle": "Technologiebereiche & Dienstleistungen | webwawa.pl",
+    "metaDescription": "Maßgeschneiderte Software-Implementierungen, Technologien und SEO bei der IT-Agentur webwawa.pl.",
     "breadcrumbHome": "Startseite",
     "breadcrumbBrands": "Unsere Marken",
-    "badge": "Verschrottung & Ankauf 2000-2026",
-    "title": "Fahrzeugmarken",
-    "titleHighlight": "die wir kaufen",
-    "subtitle": "Unabhängig vom technischen Zustand, dem optischen Zustand oder dem Baujahr. Wir kaufen und verschrotten Autos jeder Marke. Wählen Sie unten Ihre Stadt aus, um ein individuelles Angebot zu erstellen.",
-    "breadcrumb": "Marki",
-    "description": "Zobacz pełną listę obsługiwanych marek i wybierz swoje miasto do dedykowanej wyceny.",
+    "badge": "IT-Agentur Warschau",
+    "title": "Implementierte Technologien",
+    "titleHighlight": "und Bereiche",
+    "subtitle": "Wir passen den Technologie-Stack an Ihre Branche und den Standort Ihres Unternehmens an.",
+    "breadcrumb": "Technologien",
+    "description": "Sehen Sie sich die vollständige Liste der implementierten Technologien bei der IT-Agentur webwawa.pl an.",
     "list": []
   },
   "uCarsPromo": {
     "badge": "Auktionen aus den USA",
     "titlePrefix": "Suchen Sie ein unbeschädigtes Auto?",
     "titleHighlight": "Startet und fährt!",
-    "description": "Bieten Sie sicher auf Versicherungsfahrzeuge mit <strong class=\"text-white\">uCars.pl</strong> anstatt lokaler Autos und sparen Sie.",
+    "description": "Bieten Sie sicher auf Versicherungsfahrzeuge with <strong class=\"text-white\">uCars.pl</strong> anstatt lokaler Autos und sparen Sie.",
     "ctaPrimary": "Zu uCars gehen",
     "ctaSecondary": "Katalog ansehen",
     "trustText": "Die präsentierten Angebote stammen aus US-Auktionen Copart & IAAI. uCars.pl bietet volle Logistik und Lieferung an Ihre Tür.",
@@ -561,18 +561,18 @@
     "cashTag2": "Dieser wurde auch bar gekauft :)"
   },
   "email": {
-    "subject": "Bestätigung: Wir haben Ihre Fahrzeugbewertungsanfrage erhalten",
+    "subject": "Bestätigung: Wir haben Ihre Projektanfrage erhalten",
     "greeting": "Hallo,",
-    "intro": "Vielen Dank für Ihre Anfrage auf SkupAutWawa.pl. Nachfolgend finden Sie eine Zusammenfassung der von Ihnen angegebenen Informationen:",
-    "detailsBrand": "Fahrzeug",
-    "detailsYear": "Baujahr",
-    "detailsEngine": "Motor",
-    "detailsPrice": "Vorgeschlagener Preis",
+    "intro": "Vielen Dank für Ihre Anfrage auf webwawa.pl. Nachfolgend finden Sie eine Zusammenfassung der von Ihnen angegebenen Informationen:",
+    "detailsBrand": "Kunde / Unternehmen",
+    "detailsYear": "Gewünschter Zeitraum",
+    "detailsEngine": "Dienstleistungsart",
+    "detailsPrice": "Geschätztes Budget",
     "detailsCity": "Ort",
     "detailsPhone": "Ihre Telefonnummer",
     "nextStepsTitle": "Wie geht es weiter?",
-    "nextStepsText": "Unser Gutachter prüft Ihre Anfrage. Wir werden Sie innerhalb von 15 Minuten unter der angegebenen Telefonnummer kontaktieren.",
-    "footer": "Mit freundlichen Grüßen, Ihr SkupAutWawa.pl Team",
-    "footerAddress": "Skup Aut Warszawa"
+    "nextStepsText": "Unser technischer Berater analysiert derzeit Ihre Anfrage. Wir werden Sie innerhalb von 24 Stunden unter der angegebenen Telefonnummer kontaktieren, um die Projektdetails zu besprechen.",
+    "footer": "Mit freundlichen Grüßen, Ihr webwawa.pl Team",
+    "footerAddress": "IT-Agentur webwawa.pl"
   }
 }

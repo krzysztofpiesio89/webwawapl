@@ -4,12 +4,30 @@ import { Resend } from 'resend';
 import { prisma } from '@/lib/prisma';
 import ContactFormEmail from '@/emails/ContactFormEmail';
 import ClientConfirmationEmail from '@/emails/ClientConfirmationEmail';
-import { getDictionary } from '@/app/[lang]/dictionaries';
+import { getDictionary, Locale } from '@/app/[lang]/dictionaries';
 
 const resend = new Resend(process.env.RESEND_API_KEY);
 
+const successMessages: Record<string, string> = {
+  pl: 'Twoje zgłoszenie zostało przyjęte! Nasz doradca skontaktuje się z Tobą w ciągu 24 godzin.',
+  en: 'Your inquiry has been received! Our advisor will contact you within 24 hours.',
+  de: 'Ihre Anfrage ist eingegangen! Unser Berater wird sich innerhalb von 24 Stunden mit Ihnen in Verbindung setzen.',
+  uk: 'Ваш запит отримано! Наш консультант зв\'яжеться з вами протягом 24 годин.',
+  ru: 'Ваш запрос получен! Наш консультант свяжется с вами в течение 24 часов.',
+  zh: '您的咨询已收到！我们的顾问将在 24 小时内与您联系。',
+};
+
+const invalidDataMessages: Record<string, string> = {
+  pl: 'Wykryto nieprawidłowe dane w formularzu. Spróbuj ponownie.',
+  en: 'Invalid form data detected. Please try again.',
+  de: 'Ungültige Formulardaten erkannt. Bitte versuchen Sie es erneut.',
+  uk: 'Виявлено недійсні дані форми. Будь ласка, спробуйте ще раз.',
+  ru: 'Обнаружены недействительные данные формы. Пожалуйста, попробуйте еще раз.',
+  zh: '检测到无效的表单数据。请重试。',
+};
+
 export async function submitQuoteRequest(state: any, formData: FormData) {
-  const lang = formData.get('lang') as string || 'pl';
+  const lang = (formData.get('lang') as string || 'pl').toLowerCase();
   const brandModel = formData.get('brandModel') as string || ''; // Client/Company Name
   const year = formData.get('year') as string || ''; // Timeframe
   const engine = formData.get('engine') as string || ''; // Service Type
@@ -20,15 +38,14 @@ export async function submitQuoteRequest(state: any, formData: FormData) {
   const description = formData.get('description') as string || ''; // Project Description
   const honeypot = formData.get('website') as string || '';
   
-  const isPl = lang === 'pl';
+  const successMessage = successMessages[lang] || successMessages.en;
+  const invalidMessage = invalidDataMessages[lang] || invalidDataMessages.en;
 
   // 1. Zabezpieczenie HONEYPOT:
   if (honeypot) {
     return {
       success: true,
-      message: isPl 
-        ? 'Twoje zgłoszenie zostało przyjęte! Nasz doradca skontaktuje się z Tobą w ciągu 24 godzin.'
-        : 'Your inquiry has been received! Our advisor will contact you within 24 hours.',
+      message: successMessage,
     };
   }
 
@@ -36,9 +53,7 @@ export async function submitQuoteRequest(state: any, formData: FormData) {
   if (phone.length > 50 || email.length > 150 || brandModel.length > 200) {
     return {
       success: false,
-      message: isPl
-        ? 'Wykryto nieprawidłowe dane w formularzu. Spróbuj ponownie.'
-        : 'Invalid form data detected. Please try again.',
+      message: invalidMessage,
     };
   }
   
@@ -103,27 +118,11 @@ export async function submitQuoteRequest(state: any, formData: FormData) {
     } else {
       // Wyślij potwierdzenie do klienta (bez załączników) w jego języku
       try {
-        const clientSubject = isPl 
+        const dict = await getDictionary(lang as Locale);
+        const emailDict = dict.email || {};
+        const clientSubject = emailDict.subject || (lang === 'pl'
           ? 'Potwierdzenie: Otrzymaliśmy Twoje zapytanie - webwawa.pl'
-          : 'Confirmation: We have received your project inquiry - webwawa.pl';
-
-        const clientDict = {
-          subject: clientSubject,
-          greeting: isPl ? 'Witaj,' : 'Hello,',
-          intro: isPl 
-            ? 'Dziękujemy za przesłanie zapytania ofertowego na stronie webwawa.pl. Poniżej znajduje się podsumowanie Twojego zgłoszenia:'
-            : 'Thank you for submitting your project inquiry on webwawa.pl. Below is a summary of your inquiry:',
-          detailsBrand: isPl ? 'Klient / Firma' : 'Client / Company',
-          detailsYear: isPl ? 'Czas realizacji' : 'Timeframe',
-          detailsPrice: isPl ? 'Szacowany budżet' : 'Estimated Budget',
-          detailsCity: isPl ? 'Lokalizacja' : 'Location',
-          nextStepsTitle: isPl ? 'Co dalej?' : 'What are the next steps?',
-          nextStepsText: isPl
-            ? 'Nasz konsultant analizuje przesłane informacje i przygotowuje wstępną wycenę. Skontaktujemy się z Tobą telefonicznie lub mailowo w ciągu 24 godzin.'
-            : 'Our consultant is analyzing the provided details and preparing an initial estimate. We will contact you via phone or email within 24 hours.',
-          footer: isPl ? 'Z poważaniem, Zespół webwawa.pl' : 'Best regards, webwawa.pl Team',
-          footerAddress: 'webwawa.pl'
-        };
+          : 'Confirmation: We have received your project inquiry - webwawa.pl');
 
         if (email) {
           const { error: clientError } = await resend.emails.send({
@@ -131,7 +130,7 @@ export async function submitQuoteRequest(state: any, formData: FormData) {
             to: [email],
             subject: clientSubject,
             react: ClientConfirmationEmail({
-              dict: clientDict,
+              dict: emailDict,
               brandModel,
               year,
               engine,
@@ -155,8 +154,6 @@ export async function submitQuoteRequest(state: any, formData: FormData) {
 
   return {
     success: true,
-    message: isPl
-      ? 'Twoje zgłoszenie zostało przyjęte! Nasz doradca skontaktuje się z Tobą w ciągu 24 godzin.'
-      : 'Your inquiry has been received! Our advisor will contact you within 24 hours.',
+    message: successMessage,
   };
 }
