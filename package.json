@@ -50,9 +50,9 @@
     "seed": "tsx prisma/seed.ts"
   },
   "browserslist": [
-    "Chrome >= 90",
-    "Safari >= 15",
-    "Firefox >= 90",
-    "Edge >= 90"
+    "Chrome >= 109",
+    "Safari >= 15.6",
+    "Firefox >= 110",
+    "Edge >= 109"
   ]
 }

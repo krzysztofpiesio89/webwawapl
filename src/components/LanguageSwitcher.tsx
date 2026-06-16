@@ -16,12 +16,16 @@ export default function LanguageSwitcher({ currentLang }: { currentLang: Locale 
     setMounted(true);
   }, []);
 
-  // Lock body scroll when modal is open
+  // Lock body scroll when modal is open — use rAF to avoid forced reflow
   useEffect(() => {
     if (isOpen) {
-      const scrollbarWidth = window.innerWidth - document.documentElement.clientWidth;
-      document.body.style.paddingRight = `${scrollbarWidth}px`;
-      document.body.style.overflow = 'hidden';
+      // Defer geometry read to avoid forced reflow during state update
+      const raf = requestAnimationFrame(() => {
+        const scrollbarWidth = window.innerWidth - document.documentElement.clientWidth;
+        document.body.style.paddingRight = `${scrollbarWidth}px`;
+        document.body.style.overflow = 'hidden';
+      });
+      return () => cancelAnimationFrame(raf);
     } else {
       document.body.style.paddingRight = '';
       document.body.style.overflow = '';

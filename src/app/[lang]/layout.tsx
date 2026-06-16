@@ -126,12 +126,14 @@ export default async function RootLayout(props: Readonly<{
   return (
     <html lang={htmlLangMap[params.lang as Locale]} className={`${inter.variable}`} suppressHydrationWarning>
       <head>
-        {/* Preload LCP hero image for faster FCP/LCP */}
+        {/* Preload LCP hero image — srcset must match Next.js Image output to avoid double-fetch */}
         <link
           rel="preload"
           as="image"
-          href="/_next/image?url=%2Fimages%2Fteam_meeting.png&w=1080&q=75"
-          fetchPriority="high"
+          href="/images/team_meeting.png"
+          // @ts-expect-error — imagesrcset/imagesizes are valid HTML but not yet in React types
+          imagesrcset="/_next/image?url=%2Fimages%2Fteam_meeting.png&w=640&q=75 640w, /_next/image?url=%2Fimages%2Fteam_meeting.png&w=1080&q=75 1080w, /_next/image?url=%2Fimages%2Fteam_meeting.png&w=1920&q=75 1920w"
+          imagesizes="(max-width: 1024px) 80vw, 40vw"
         />
         <Script
           id="ldjson-root"
