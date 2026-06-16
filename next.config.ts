@@ -2,7 +2,10 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   reactStrictMode: true,
+  compress: true,
   images: {
+    formats: ['image/avif', 'image/webp'],
+    minimumCacheTTL: 31536000, // 1 year cache for optimized images
     remotePatterns: [
       {
         protocol: 'https',
@@ -32,8 +35,7 @@ const nextConfig: NextConfig = {
   },
   serverExternalPackages: ['better-sqlite3'],
   experimental: {
-    // Enable performance optimizations for large P-SEO projects
-    optimizePackageImports: ['@apollo/server'],
+    optimizePackageImports: ['@apollo/server', 'lucide-react'],
   },
 };
 

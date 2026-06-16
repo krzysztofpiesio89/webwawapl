@@ -126,6 +126,13 @@ export default async function RootLayout(props: Readonly<{
   return (
     <html lang={htmlLangMap[params.lang as Locale]} className={`${inter.variable}`} suppressHydrationWarning>
       <head>
+        {/* Preload LCP hero image for faster FCP/LCP */}
+        <link
+          rel="preload"
+          as="image"
+          href="/_next/image?url=%2Fimages%2Fteam_meeting.png&w=1080&q=75"
+          fetchPriority="high"
+        />
         <Script
           id="ldjson-root"
           type="application/ld+json"

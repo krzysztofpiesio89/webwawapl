@@ -83,20 +83,7 @@
     background:
       radial-gradient(ellipse 60% 55% at 15% 65%, var(--glow-color-1), transparent 75%),
       radial-gradient(ellipse 65% 55% at 85% 65%, var(--glow-color-2), transparent 75%);
-    transform-origin: center center;
-    animation: auroraGlow 40s ease-in-out infinite alternate;
-  }
-
-  @keyframes auroraGlow {
-    0% {
-      transform: translate(0, 0) rotate(0deg) scale(1);
-    }
-    50% {
-      transform: translate(4vw, -4vh) rotate(4deg) scale(1.03);
-    }
-    100% {
-      transform: translate(-2vw, 3vh) rotate(-2deg) scale(0.97);
-    }
+    /* Static gradient — no animation to avoid continuous GPU compositing */
   }
 
   main {
@@ -197,8 +184,8 @@
 
   .aurora-container {
     filter: blur(60px);
-    opacity: 0.75;
-    animation: auroraPulse 14s ease-in-out infinite alternate;
+    opacity: 0.7;
+    /* No animation — static blur for reduced GPU overhead */
   }
 
   .aurora-band {
@@ -277,6 +264,19 @@
   .animate-pulse-slow {
     animation: pulse-slow 3s infinite;
   }
+
+  /* ── BlurReveal — astro.build-style scroll animation ── */
+  /* Hidden state: rendered on server, no FOUC */
+  .blur-reveal[data-reveal="hidden"] {
+    opacity: 0;
+    transform: translateY(24px);
+    filter: blur(8px);
+  }
+
+  /* Visible state: CSS animation takes over, browser composites optimally */
+  .blur-reveal[data-reveal="visible"] {
+    animation: blurRevealIn 0.75s cubic-bezier(0.16, 1, 0.3, 1) both;
+  }
 }
 
 /* Keyframe animations for Aurora Curtains rotation */
@@ -299,15 +299,26 @@
   100% { opacity: 0.45; }
 }
 
-@keyframes auroraPulse {
-  0%  { opacity: 0.55; filter: blur(65px); }
-  50% { opacity: 0.85; filter: blur(48px); }
-  100% { opacity: 0.65; filter: blur(75px); }
-}
+/* auroraPulse removed — was causing continuous filter:blur repaints */
+/* Use static opacity on .aurora-container instead */
 
 @keyframes pulse-slow {
-  0%, 100% { transform: scale(1); box-shadow: 0 0 0 rgba(59, 130, 246, 0); }
-  50% { transform: scale(1.03); box-shadow: 0 0 25px rgba(59, 130, 246, 0.45); }
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.82; }
+}
+
+/* BlurReveal keyframe — opacity+transform composited by GPU, filter only during animation */
+@keyframes blurRevealIn {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+    filter: blur(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+    filter: blur(0);
+  }
 }
 
 @keyframes fade-in {

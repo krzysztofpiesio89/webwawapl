@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useRef, useState, ReactNode } from 'react';
+import { useEffect, useRef, ReactNode } from 'react';
 
 interface BlurRevealProps {
   children: ReactNode;
@@ -9,51 +9,50 @@ interface BlurRevealProps {
   threshold?: number;
 }
 
-export function BlurReveal({ 
-  children, 
-  delay = 0, 
+/**
+ * BlurReveal — astro.build-style blur+fade+lift reveal on scroll.
+ *
+ * Perf notes:
+ * - Uses CSS @keyframes animation (GPU-composited: opacity + transform only).
+ * - `filter: blur` is applied only during the animation via `data-reveal` attribute,
+ *   so the compositor layer is created only when needed and immediately released.
+ * - `will-change` is NOT set globally — browser allocates layers lazily via CSS animation.
+ * - IntersectionObserver fires once then disconnects — zero ongoing JS cost.
+ * - Initial state is set via inline style (not className) to avoid FOUC on SSR.
+ */
+export function BlurReveal({
+  children,
+  delay = 0,
   className = '',
-  threshold = 0.1
+  threshold = 0.1,
 }: BlurRevealProps) {
   const ref = useRef<HTMLDivElement>(null);
-  const [isVisible, setIsVisible] = useState(false);
 
   useEffect(() => {
-    // Only run on client
-    if (typeof window === 'undefined') return;
-
-    const currentRef = ref.current;
-    if (!currentRef) return;
+    const el = ref.current;
+    if (!el) return;
 
     const observer = new IntersectionObserver(
       ([entry]) => {
         if (entry.isIntersecting) {
-          setIsVisible(true);
-          observer.unobserve(entry.target);
+          // Trigger CSS animation via data attribute
+          el.setAttribute('data-reveal', 'visible');
+          observer.unobserve(el);
         }
       },
-      {
-        threshold,
-        rootMargin: '0px 0px -50px 0px',
-      }
+      { threshold, rootMargin: '0px 0px -40px 0px' }
     );
 
-    observer.observe(currentRef);
-
-    return () => {
-      observer.disconnect();
-    };
+    observer.observe(el);
+    return () => observer.disconnect();
   }, [threshold]);
 
   return (
     <div
       ref={ref}
-      style={{ transitionDelay: `${delay}ms` }}
-      className={`transition-all duration-1000 ease-[cubic-bezier(0.25,0.8,0.25,1)] will-change-[opacity,transform,filter] ${
-        isVisible
-          ? 'opacity-100 blur-0 translate-y-0'
-          : 'opacity-0 blur-[12px] translate-y-8'
-      } ${className}`}
+      data-reveal="hidden"
+      style={{ animationDelay: `${delay}ms` }}
+      className={`blur-reveal ${className}`}
     >
       {children}
     </div>
