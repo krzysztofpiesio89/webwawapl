@@ -201,7 +201,7 @@ export default async function WebsitesServicePage(props: { params: Promise<{ lan
   const searchParams = await props.searchParams;
   const lang = params.lang as Locale;
   const techSlug = searchParams?.tech;
-  const techData = techSlug ? await getTechnologyById(techSlug, lang) : null;
+  const techData = techSlug ? getTechnologyById(techSlug) : null;
   const settings = getGlobalSettings();
   const dict = await getDictionary(lang);
   
@@ -211,7 +211,7 @@ export default async function WebsitesServicePage(props: { params: Promise<{ lan
   const websitesSlug = getLocalizedSlug('websites', lang);
 
   const heroTitle = techData ? `${t.heroTitle} ${techData.name}` : t.heroTitle;
-  const heroSubtitle = techData && techData.description ? techData.description : t.heroSubtitle;
+  const heroSubtitle = techData?.translations?.[lang]?.description ? techData.translations[lang].description : t.heroSubtitle;
 
   return (
     <main className="min-h-screen bg-white dark:bg-[#020510] text-slate-800 dark:text-slate-100 transition-colors duration-300">
