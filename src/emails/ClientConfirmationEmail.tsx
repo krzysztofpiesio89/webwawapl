@@ -1,15 +1,17 @@
 import {
   Body,
+  Column,
   Container,
   Head,
   Heading,
   Html,
+  Link,
   Preview,
   Row,
   Section,
   Tailwind,
   Text,
-  Column,
+  Img,
 } from '@react-email/components';
 import * as React from 'react';
 
@@ -36,135 +38,148 @@ export const ClientConfirmationEmail = ({
     <Html>
       <Tailwind>
         <Head />
-        <Body className="bg-slate-50 font-sans">
+        <Body className="bg-[#0f172a] font-sans m-0 p-0 text-slate-300">
           <Preview>{dict.subject}</Preview>
-          <Container className="mx-auto my-10 max-w-[600px]">
-            {/* Header / Logo */}
-            <Section className="px-8 py-6 text-center">
-              <Heading className="m-0 text-2xl font-black tracking-tight text-slate-900 uppercase">
-                webwawa<span className="text-indigo-600">.pl</span>
-              </Heading>
-            </Section>
-
-            {/* Main Content Box */}
-            <Section className="border border-solid border-slate-200 bg-white rounded-3xl overflow-hidden shadow-sm">
-              {/* Subtle top indicator bar */}
-              <div className="h-1.5 bg-gradient-to-r from-indigo-500 to-violet-600"></div>
-              
-              <Row className="p-8">
-                <Column>
-                  <Heading className="text-[20px] font-black text-slate-900 m-0 mb-6 uppercase tracking-tight">
-                    {dict.subject}
+          <Container className="bg-[#020617] mx-auto my-8 max-w-[640px] border border-solid border-slate-800 rounded-xl overflow-hidden shadow-2xl">
+            {/* Header */}
+            <Section className="px-8 pt-8 pb-6 border-b border-solid border-slate-800/60">
+              <Row>
+                <Column align="left" style={{ width: '40px' }}>
+                  <Img src="https://webwawa.pl/favicon.svg" width="32" height="32" alt="Logo" />
+                </Column>
+                <Column align="left">
+                  <Heading className="m-0 text-2xl font-black tracking-tight text-white lowercase">
+                    webwawa<span className="text-amber-500">.pl</span>
                   </Heading>
-                  
-                  <Text className="text-base text-slate-800 mb-4 font-bold">
-                    {dict.greeting}
-                  </Text>
-                  
-                  <Text className="text-sm text-slate-600 leading-relaxed mb-6">
-                    {dict.intro}
-                  </Text>
-                  
-                  {/* Styled Summary Box */}
-                  <div className="bg-slate-50/80 p-6 rounded-2xl border border-slate-100">
-                    <Row className="mb-4">
-                      <Column>
-                        <Text className="m-0 text-[11px] font-bold text-slate-400 uppercase tracking-wider">
-                          {dict.detailsBrand || 'Klient / Firma'}
-                        </Text>
-                        <Text className="m-0 text-base font-bold text-slate-900 mt-0.5">
-                          {brandModel}
-                        </Text>
-                      </Column>
-                    </Row>
-
-                    {engine && (
-                      <Row className="mb-4">
-                        <Column>
-                          <Text className="m-0 text-[11px] font-bold text-slate-400 uppercase tracking-wider">
-                            {dict.detailsEngine || 'Rodzaj usługi'}
-                          </Text>
-                          <Text className="m-0 text-sm font-semibold text-slate-800 mt-0.5">
-                            {engine}
-                          </Text>
-                        </Column>
-                      </Row>
-                    )}
-
-                    {year && (
-                      <Row className="mb-4">
-                        <Column>
-                          <Text className="m-0 text-[11px] font-bold text-slate-400 uppercase tracking-wider">
-                            {dict.detailsYear || 'Czas realizacji'}
-                          </Text>
-                          <Text className="m-0 text-sm font-semibold text-slate-800 mt-0.5">
-                            {year}
-                          </Text>
-                        </Column>
-                      </Row>
-                    )}
-
-                    {price && (
-                      <Row className="mb-4">
-                        <Column>
-                          <Text className="m-0 text-[11px] font-bold text-slate-400 uppercase tracking-wider">
-                            {dict.detailsPrice || 'Budżet'}
-                          </Text>
-                          <Text className="m-0 text-sm font-bold text-indigo-600 mt-0.5">
-                            {price}
-                          </Text>
-                        </Column>
-                      </Row>
-                    )}
-
-                    {city && (
-                      <Row className="mb-4">
-                        <Column>
-                          <Text className="m-0 text-[11px] font-bold text-slate-400 uppercase tracking-wider">
-                            {dict.detailsCity || 'Lokalizacja'}
-                          </Text>
-                          <Text className="m-0 text-sm font-semibold text-slate-800 mt-0.5">
-                            {city}
-                          </Text>
-                        </Column>
-                      </Row>
-                    )}
-
-                    {phone && (
-                      <Row>
-                        <Column>
-                          <Text className="m-0 text-[11px] font-bold text-slate-400 uppercase tracking-wider">
-                            {dict.detailsPhone || 'Telefon'}
-                          </Text>
-                          <Text className="m-0 text-sm font-semibold text-slate-800 mt-0.5">
-                            {phone}
-                          </Text>
-                        </Column>
-                      </Row>
-                    )}
-                  </div>
-
-                  {/* Next Steps Section */}
-                  <div className="mt-8 border-t border-solid border-slate-100 pt-6">
-                    <Heading as="h3" className="text-sm font-bold text-slate-900 m-0 mb-2 uppercase tracking-wide">
-                      {dict.nextStepsTitle}
-                    </Heading>
-                    <Text className="text-sm text-slate-600 leading-relaxed m-0">
-                      {dict.nextStepsText}
-                    </Text>
-                  </div>
                 </Column>
               </Row>
             </Section>
 
+            {/* Main Content */}
+            <Section className="px-8 pt-8 pb-10">
+              <Section align="left">
+                <Text className="m-0 text-2xl font-bold tracking-tight text-white mb-6">
+                  {dict.subject}
+                </Text>
+                
+                <Text className="text-base text-slate-200 mb-4 font-semibold">
+                  {dict.greeting}
+                </Text>
+                
+                <Text className="text-[15px] text-slate-400 leading-relaxed m-0 mb-8">
+                  {dict.intro}
+                </Text>
+              </Section>
+
+              {/* Styled Summary Box */}
+              <Section className="border border-solid border-slate-800 bg-[#0f172a]/50 p-6 rounded-2xl mb-8">
+                <Text className="text-xs font-bold text-slate-500 uppercase tracking-wider mb-5 mt-0">
+                  Szczegóły zapytania
+                </Text>
+                
+                <Row className="mb-4">
+                  <Column>
+                    <Text className="m-0 text-[11px] font-semibold text-slate-500 uppercase tracking-wider">
+                      {dict.detailsBrand || 'Klient / Firma'}
+                    </Text>
+                    <Text className="m-0 text-[15px] font-bold text-slate-200 mt-1">
+                      {brandModel || '—'}
+                    </Text>
+                  </Column>
+                </Row>
+
+                {engine && (
+                  <Row className="mb-4">
+                    <Column>
+                      <Text className="m-0 text-[11px] font-semibold text-slate-500 uppercase tracking-wider">
+                        {dict.detailsEngine || 'Rodzaj usługi'}
+                      </Text>
+                      <Text className="m-0 text-[15px] font-bold text-slate-200 mt-1">
+                        {engine}
+                      </Text>
+                    </Column>
+                  </Row>
+                )}
+
+                {year && (
+                  <Row className="mb-4">
+                    <Column>
+                      <Text className="m-0 text-[11px] font-semibold text-slate-500 uppercase tracking-wider">
+                        {dict.detailsYear || 'Czas realizacji'}
+                      </Text>
+                      <Text className="m-0 text-[15px] font-bold text-slate-200 mt-1">
+                        {year}
+                      </Text>
+                    </Column>
+                  </Row>
+                )}
+
+                {price && (
+                  <Row className="mb-4">
+                    <Column>
+                      <Text className="m-0 text-[11px] font-semibold text-slate-500 uppercase tracking-wider">
+                        {dict.detailsPrice || 'Budżet'}
+                      </Text>
+                      <Text className="m-0 text-[15px] font-bold text-amber-500 mt-1">
+                        {price}
+                      </Text>
+                    </Column>
+                  </Row>
+                )}
+
+                {city && (
+                  <Row className="mb-4">
+                    <Column>
+                      <Text className="m-0 text-[11px] font-semibold text-slate-500 uppercase tracking-wider">
+                        {dict.detailsCity || 'Lokalizacja'}
+                      </Text>
+                      <Text className="m-0 text-[15px] font-bold text-slate-200 mt-1">
+                        {city}
+                      </Text>
+                    </Column>
+                  </Row>
+                )}
+
+                {phone && (
+                  <Row>
+                    <Column>
+                      <Text className="m-0 text-[11px] font-semibold text-slate-500 uppercase tracking-wider">
+                        {dict.detailsPhone || 'Telefon'}
+                      </Text>
+                      <Text className="m-0 text-[15px] font-bold text-slate-200 mt-1">
+                        {phone}
+                      </Text>
+                    </Column>
+                  </Row>
+                )}
+              </Section>
+
+              {/* Next Steps Section */}
+              <Section className="pt-2">
+                <Text className="text-[17px] font-bold text-white m-0 mb-3">
+                  {dict.nextStepsTitle || 'Co dalej?'}
+                </Text>
+                <Text className="text-[15px] text-slate-400 leading-relaxed m-0">
+                  {dict.nextStepsText || 'Skontaktujemy się z Tobą w najszybszym możliwym czasie w celu omówienia szczegółów.'}
+                </Text>
+              </Section>
+            </Section>
+
             {/* Footer */}
-            <Section className="text-center mt-8 px-6">
-              <Text className="text-xs leading-relaxed text-slate-400 m-0 font-medium">
-                {dict.footer}
+            <Section className="px-8 py-8 border-t border-solid border-slate-800 bg-[#0a0f1d]">
+              <Text className="text-[13px] leading-relaxed text-slate-500 m-0 mb-4 max-w-[400px]">
+                {dict.footer || 'Tworzymy z pasją nowoczesne rozwiązania internetowe.'}
               </Text>
-              <Text className="text-[10px] leading-relaxed text-slate-400 m-0 mt-1 uppercase tracking-wider">
-                © {new Date().getFullYear()} | {dict.footerAddress}
-              </Text>
+              <Row align="left">
+                <Column className="w-full pt-4 align-top">
+                  <Text className="text-[12px] font-semibold text-slate-600 uppercase tracking-wider m-0">
+                    © {new Date().getFullYear()} | webwawa.pl
+                  </Text>
+                  <Text className="text-[12px] text-slate-600 m-0 mt-1">
+                    {dict.footerAddress || 'ul. Księżycowa 76/8, 01-934 Warszawa'}
+                  </Text>
+                </Column>
+              </Row>
             </Section>
           </Container>
         </Body>

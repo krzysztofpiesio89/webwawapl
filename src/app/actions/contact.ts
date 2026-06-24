@@ -96,8 +96,8 @@ export async function submitQuoteRequest(state: any, formData: FormData) {
   try {
     const adminSubject = `🔥 Nowy kontakt (webwawa.pl): ${brandModel} - ${engine}`;
     const { error } = await resend.emails.send({
-      from: 'Kontakt webwawa.pl <kontakt@webwawa.pl>', // Domena agencji IT
-      to: ['kontakt@webwawa.pl', 'krzysztofpiesio89@gmail.com'],
+      from: 'Kontakt webwawa.pl <biuro@webwawa.pl>', // Domena agencji IT
+      to: ['biuro@webwawa.pl', 'krzysztofpiesio89@gmail.com'],
       subject: adminSubject,
       react: ContactFormEmail({
         brandModel,
@@ -126,7 +126,7 @@ export async function submitQuoteRequest(state: any, formData: FormData) {
 
         if (email) {
           const { error: clientError } = await resend.emails.send({
-            from: 'Zespół webwawa.pl <kontakt@webwawa.pl>',
+            from: 'Zespół webwawa.pl <biuro@webwawa.pl>',
             to: [email],
             subject: clientSubject,
             react: ClientConfirmationEmail({

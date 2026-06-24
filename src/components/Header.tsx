@@ -20,7 +20,7 @@ export default function Header({
 }) {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
-  const [theme, setTheme] = useState<'light' | 'dark'>('light');
+  const [theme, setTheme] = useState<'light' | 'dark'>('dark');
 
   const homeUrl = lang === 'pl' ? '/' : `/${lang}`;
   const aboutUrl = getLocalizedStaticPath('about', lang);
