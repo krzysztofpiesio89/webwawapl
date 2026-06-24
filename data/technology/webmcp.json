@@ -1,0 +1,146 @@
+{
+  "pl": {
+    "title": "Wdrożenia WebMCP & Przeglądarkowe Agenty AI",
+    "description": "Przygotujemy Twoją platformę do integracji z asystentami AI w Chrome za pomocą najnowszego standardu Web Model Context Protocol (WebMCP). Wykorzystując imperatywne i deklaratywne interfejsy API, umożliwiamy modelom sztucznej inteligencji bezpieczne czytanie DOM, rozumienie kontekstu strony oraz proaktywne wykonywanie akcji w imieniu użytkownika.",
+    "advantages": [
+      "Bezpośrednia integracja z agentami AI działającymi w przeglądarce",
+      "Obsługa standardu Model Context Protocol (MCP) zdefiniowanego dla środowiska sieciowego",
+      "Ekspozycja metadanych i struktury danych dla dużych modeli językowych (LLM)",
+      "Zdolność do automatycznego uzupełniania formularzy i inteligentnego e-commerce"
+    ],
+    "faq": [
+      {
+        "q": "Co to jest standard WebMCP?",
+        "a": "WebMCP to nowy interfejs programistyczny (wersja przeglądarkowa Model Context Protocol), który pozwala lokalnym i chmurowym modelom językowym na głębokie i bezpieczne interakcje ze stroną WWW, jej danymi i funkcjonalnością."
+      },
+      {
+        "q": "Z czego składa się to API?",
+        "a": "Obejmuje dwa podejścia: API deklaratywne (dodawanie specjalnych atrybutów do kodu HTML w celu oznakowania ważnych elementów dla AI) oraz API imperatywne (umożliwiające bezpośrednie sterowanie agentami za pomocą języka JavaScript)."
+      },
+      {
+        "q": "Dlaczego jest to obecnie kluczowy standard rynkowy?",
+        "a": "Integracja agentów AI staje się standardem w przeglądarkach (jak np. w Google Chrome). Bycie gotowym na wdrożenie AI pozwala na bezobsługową realizację zadań przez wirtualnych asystentów użytkownika, co podnosi współczynnik konwersji i obniża koszty obsługi klienta."
+      }
+    ]
+  },
+  "en": {
+    "title": "WebMCP Integrations & Browser AI Agents",
+    "description": "We prepare your platform for seamless integration with Chrome AI assistants using the emerging Web Model Context Protocol (WebMCP). By leveraging imperative and declarative APIs, we empower AI models to securely read the DOM, comprehend page context, and execute proactive actions on behalf of the user.",
+    "advantages": [
+      "Direct integration with in-browser Artificial Intelligence agents",
+      "Support for the web-optimized Model Context Protocol (MCP) standard",
+      "Semantic data extraction and DOM exposure for Large Language Models (LLMs)",
+      "Capabilities for automated form filling and intelligent e-commerce assistants"
+    ],
+    "faq": [
+      {
+        "q": "What is the WebMCP standard?",
+        "a": "WebMCP is a new programming interface (the browser counterpart of the Model Context Protocol) that allows local and cloud-based AI models to interact securely and deeply with websites, their data, and their functionality."
+      },
+      {
+        "q": "What does this API consist of?",
+        "a": "It encompasses two approaches: the declarative API (adding special attributes to HTML elements to highlight semantic importance for AI) and the imperative API (direct control and observation of AI agents via JavaScript)."
+      },
+      {
+        "q": "Why is it currently a key market standard?",
+        "a": "AI agent integration is rapidly becoming the default behavior in modern browsers (like Google Chrome). Adopting this standard prepares your site for autonomous task execution by user AI assistants, ultimately boosting conversion rates and reducing customer service overhead."
+      }
+    ]
+  },
+  "de": {
+    "title": "WebMCP-Integrationen & Browser-KI-Agenten",
+    "description": "Wir bereiten Ihre Plattform auf die nahtlose Integration mit Chrome-KI-Assistenten mithilfe des neuen Web Model Context Protocol (WebMCP) vor. Durch die Nutzung von imperativen und deklarativen APIs ermöglichen wir KI-Modellen das sichere Lesen des DOM, das Verstehen des Seitenkontexts und die Ausführung proaktiver Aktionen im Namen des Benutzers.",
+    "advantages": [
+      "Direkte Integration mit browserbasierten Agenten der Künstlichen Intelligenz",
+      "Unterstützung des weboptimierten Standards Model Context Protocol (MCP)",
+      "Semantische Datenextraktion und DOM-Freigabe für große Sprachmodelle (LLMs)",
+      "Fähigkeiten für automatisches Ausfüllen von Formularen und intelligente E-Commerce-Assistenten"
+    ],
+    "faq": [
+      {
+        "q": "Was ist der WebMCP-Standard?",
+        "a": "WebMCP ist eine neue Programmierschnittstelle (das Browser-Gegenstück zum Model Context Protocol), die es lokalen und cloudbasierten KI-Modellen ermöglicht, sicher und tiefgehend mit Websites, ihren Daten und Funktionen zu interagieren."
+      },
+      {
+        "q": "Woraus besteht diese API?",
+        "a": "Sie umfasst zwei Ansätze: die deklarative API (Hinzufügen spezieller Attribute zu HTML-Elementen, um die semantische Bedeutung für KI hervorzuheben) und die imperative API (direkte Steuerung und Beobachtung von KI-Agenten über JavaScript)."
+      },
+      {
+        "q": "Warum ist es derzeit ein wichtiger Marktstandard?",
+        "a": "Die Integration von KI-Agenten wird zunehmend zum Standardverhalten in modernen Browsern (wie Google Chrome). Die Übernahme dieses Standards bereitet Ihre Website auf die autonome Aufgabenausführung durch KI-Assistenten der Benutzer vor, was letztendlich die Konversionsraten erhöht und den Kundendienstaufwand reduziert."
+      }
+    ]
+  },
+  "uk": {
+    "title": "Інтеграції WebMCP та браузерні AI агенти",
+    "description": "Ми готуємо вашу платформу до безпроблемної інтеграції з AI-асистентами Chrome, використовуючи новий стандарт Web Model Context Protocol (WebMCP). Використовуючи імперативні та декларативні API, ми дозволяємо моделям штучного інтелекту безпечно читати DOM, розуміти контекст сторінки та виконувати проактивні дії від імені користувача.",
+    "advantages": [
+      "Пряма інтеграція зі штучним інтелектом безпосередньо в браузері",
+      "Підтримка оптимізованого для веб-середовища стандарту Model Context Protocol (MCP)",
+      "Семантичне вилучення даних та відкриття DOM для великих мовних моделей (LLM)",
+      "Можливості для автоматичного заповнення форм та інтелектуальних асистентів e-commerce"
+    ],
+    "faq": [
+      {
+        "q": "Що таке стандарт WebMCP?",
+        "a": "WebMCP – це новий програмний інтерфейс (браузерний аналог Model Context Protocol), який дозволяє локальним та хмарним AI моделям безпечно і глибоко взаємодіяти з вебсайтами, їх даними та функціональністю."
+      },
+      {
+        "q": "З чого складається це API?",
+        "a": "Він охоплює два підходи: декларативний API (додавання спеціальних атрибутів до елементів HTML для підкреслення семантичного значення для AI) та імперативний API (безпосереднє управління та спостереження за AI агентами через JavaScript)."
+      },
+      {
+        "q": "Чому це наразі ключовий ринковий стандарт?",
+        "a": "Інтеграція AI агентів швидко стає стандартом у сучасних браузерах (наприклад, у Google Chrome). Прийняття цього стандарту готує ваш сайт до автономного виконання завдань AI-асистентами користувачів, що підвищує конверсію та знижує витрати на обслуговування клієнтів."
+      }
+    ]
+  },
+  "ru": {
+    "title": "Интеграции WebMCP и браузерные AI агенты",
+    "description": "Мы готовим вашу платформу к бесшовной интеграции с AI-ассистентами Chrome с использованием нового стандарта Web Model Context Protocol (WebMCP). Используя императивные и декларативные API, мы позволяем моделям искусственного интеллекта безопасно читать DOM, понимать контекст страницы и выполнять проактивные действия от имени пользователя.",
+    "advantages": [
+      "Прямая интеграция с агентами искусственного интеллекта в браузере",
+      "Поддержка оптимизированного для веб-среды стандарта Model Context Protocol (MCP)",
+      "Семантическое извлечение данных и предоставление DOM для больших языковых моделей (LLM)",
+      "Возможности для автоматического заполнения форм и интеллектуальных ассистентов e-commerce"
+    ],
+    "faq": [
+      {
+        "q": "Что такое стандарт WebMCP?",
+        "a": "WebMCP — это новый программный интерфейс (браузерный аналог Model Context Protocol), который позволяет локальным и облачным AI моделям безопасно и глубоко взаимодействовать с веб-сайтами, их данными и функциональностью."
+      },
+      {
+        "q": "Из чего состоит этот API?",
+        "a": "Он включает два подхода: декларативный API (добавление специальных атрибутов к HTML-элементам для подчеркивания семантического значения для AI) и императивный API (прямое управление и наблюдение за AI агентами через JavaScript)."
+      },
+      {
+        "q": "Почему это сейчас ключевой рыночный стандарт?",
+        "a": "Интеграция AI агентов быстро становится стандартом в современных браузерах (таких как Google Chrome). Внедрение этого стандарта готовит ваш сайт к автономному выполнению задач пользовательскими AI-ассистентами, что повышает конверсию и снижает затраты на обслуживание клиентов."
+      }
+    ]
+  },
+  "zh": {
+    "title": "WebMCP集成与浏览器AI代理",
+    "description": "我们使用新兴的 Web Model Context Protocol (WebMCP) 为您的平台准备与 Chrome AI 助手的无缝集成。通过利用命令式和声明式 API，我们使人工智能模型能够安全地读取 DOM、理解页面上下文，并代表用户执行主动操作。",
+    "advantages": [
+      "直接与浏览器内的人工智能代理集成",
+      "支持针对 Web 环境优化的 Model Context Protocol (MCP) 标准",
+      "为大型语言模型（LLM）提供语义数据提取和 DOM 暴露",
+      "支持自动表单填写和智能电子商务助手功能"
+    ],
+    "faq": [
+      {
+        "q": "WebMCP 标准是什么？",
+        "a": "WebMCP 是一种新的编程接口（模型上下文协议的浏览器版本），允许本地和基于云的 AI 模型安全深入地与网站及其数据和功能交互。"
+      },
+      {
+        "q": "该 API 包含哪些内容？",
+        "a": "它包含两种方法：声明式 API（向 HTML 元素添加特殊属性以向 AI 强调其语义重要性）和命令式 API（通过 JavaScript 直接控制和观察 AI 代理）。"
+      },
+      {
+        "q": "为什么它是目前关键的市场标准？",
+        "a": "AI 代理的集成正迅速成为现代浏览器（如 Google Chrome）的默认行为。采用这一标准可以让您的网站准备好由用户的 AI 助手自主执行任务，从而提高转化率并降低客户服务成本。"
+      }
+    ]
+  }
+}

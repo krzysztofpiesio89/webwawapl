@@ -1,0 +1,92 @@
+{
+  "pl": {
+    "title": "OpenAI & Claude – Integracje AI i LLM",
+    "description": "Wdrażamy zaawansowane modele sztucznej inteligencji (LLM) takie jak OpenAI GPT-4 czy Anthropic Claude 3 do Twojego oprogramowania.",
+    "advantages": [
+      "Automatyzacja obsługi klienta za pomocą inteligentnych chatbotów rozumiejących kontekst.",
+      "Automatyczne generowanie treści, analizowanie dokumentów i ekstrakcja danych.",
+      "Personalizacja ofert i systemy rekomendacyjne oparte na zachowaniach użytkowników."
+    ],
+    "faq": [
+      {
+        "q": "Czy moje dane są bezpieczne podczas korzystania z API modeli AI?",
+        "a": "Tak, korzystamy z zabezpieczonych instancji Enterprise (API bez trenowania modelu na danych klienta), zapewniających pełną poufność."
+      }
+    ]
+  },
+  "en": {
+    "title": "OpenAI & Claude – AI & LLM Integrations",
+    "description": "We implement advanced artificial intelligence models (LLMs) such as OpenAI GPT-4 and Anthropic Claude 3 directly into your software.",
+    "advantages": [
+      "Customer service automation with intelligent, context-aware chatbots.",
+      "Automated content generation, document analysis, and data extraction.",
+      "Personalized offers and recommendation systems."
+    ],
+    "faq": [
+      {
+        "q": "Is my data secure when using AI APIs?",
+        "a": "Yes, we use secure Enterprise API endpoints (zero-data-retention) to ensure full data confidentiality."
+      }
+    ]
+  },
+  "de": {
+    "title": "OpenAI & Claude – KI & LLM-Integrationen",
+    "description": "Wir integrieren fortschrittliche KI-Modelle wie GPT-4 und Claude 3 in Ihre Software.",
+    "advantages": [
+      "Automatisierter Kundenservice mit intelligenten Chatbots.",
+      "Automatische Dokumentenanalyse und Datenerfassung.",
+      "Personalisierte Empfehlungssysteme."
+    ],
+    "faq": [
+      {
+        "q": "Sind meine Daten bei der Nutzung von KI-APIs sicher?",
+        "a": "Ja, wir nutzen Enterprise-APIs, bei denen Ihre Daten nicht für das Training verwendet werden."
+      }
+    ]
+  },
+  "uk": {
+    "title": "OpenAI та Claude – Інтеграції ШІ",
+    "description": "Ми впроваджуємо передові моделі штучного інтелекту (LLM), такі як GPT-4 та Claude 3, у ваше програмне забезпечення.",
+    "advantages": [
+      "Автоматизація підтримки клієнтів за допомогою розумних чат-ботів.",
+      "Аналіз документів та вилучення даних.",
+      "Персоналізація пропозицій."
+    ],
+    "faq": [
+      {
+        "q": "Чи безпечні мої дані при використанні ШІ?",
+        "a": "Так, ми використовуємо Enterprise API без збереження та тренування на ваших даних."
+      }
+    ]
+  },
+  "ru": {
+    "title": "OpenAI и Claude – Интеграции ИИ",
+    "description": "Мы внедряем передовые модели ИИ (LLM), такие как GPT-4 и Claude 3, в ваше ПО.",
+    "advantages": [
+      "Автоматизация поддержки клиентов умными чат-ботами.",
+      "Анализ документов и извлечение данных.",
+      "Персонализация предложений."
+    ],
+    "faq": [
+      {
+        "q": "Безопасны ли мои данные при использовании ИИ?",
+        "a": "Да, мы используем Enterprise API без сохранения и обучения на ваших данных."
+      }
+    ]
+  },
+  "zh": {
+    "title": "OpenAI 与 Claude – AI & LLM 整合",
+    "description": "我们将 OpenAI GPT-4 或 Anthropic Claude 3 等先进的人工智能模型 (LLM) 无缝集成到您的软件中。",
+    "advantages": [
+      "通过理解上下文的智能聊天机器人实现客户服务自动化。",
+      "自动化内容生成、文档分析与数据提取。",
+      "基于用户行为的个性化推荐系统。"
+    ],
+    "faq": [
+      {
+        "q": "使用 AI API 时我的数据安全吗？",
+        "a": "安全的，我们使用企业级 API（您的数据不会用于模型训练）以确保绝对保密。"
+      }
+    ]
+  }
+}

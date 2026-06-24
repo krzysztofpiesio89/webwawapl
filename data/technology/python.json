@@ -1,0 +1,92 @@
+{
+  "pl": {
+    "title": "Python & FastAPI – Przetwarzanie Danych i AI",
+    "description": "Python to król analizy danych i sztucznej inteligencji. Wykorzystujemy FastAPI do tworzenia błyskawicznych backendów zdolnych przetwarzać gigabajty danych w locie.",
+    "advantages": [
+      "Bezpośrednia integracja z bibliotekami AI/ML (TensorFlow, PyTorch, Pandas).",
+      "Wysoka wydajność dzięki asynchroniczności we frameworku FastAPI.",
+      "Szybki czas wdrożenia modeli analitycznych i LLM do produkcji."
+    ],
+    "faq": [
+      {
+        "q": "Kiedy warto wybrać Pythona?",
+        "a": "Gdy Twoja aplikacja bazuje na algorytmach sztucznej inteligencji, analizie Big Data lub zaawansowanym web scrapingu."
+      }
+    ]
+  },
+  "en": {
+    "title": "Python & FastAPI – AI & Data Processing",
+    "description": "Python is the king of data science and artificial intelligence. We use FastAPI to build lightning-fast backends capable of processing gigabytes of data on the fly.",
+    "advantages": [
+      "Direct integration with AI/ML libraries (TensorFlow, PyTorch, Pandas).",
+      "High performance through FastAPI's asynchronous architecture.",
+      "Rapid deployment of analytical and LLM models to production."
+    ],
+    "faq": [
+      {
+        "q": "When should I choose Python?",
+        "a": "When your application relies on AI algorithms, Big Data analysis, or advanced web scraping."
+      }
+    ]
+  },
+  "de": {
+    "title": "Python & FastAPI – KI & Datenverarbeitung",
+    "description": "Python ist der König der Datenanalyse und Künstlichen Intelligenz. Wir verwenden FastAPI für blitzschnelle Backends.",
+    "advantages": [
+      "Direkte Integration mit KI/ML-Bibliotheken.",
+      "Hohe Leistung durch asynchrone FastAPI-Architektur.",
+      "Schnelle Bereitstellung von LLM-Modellen in der Produktion."
+    ],
+    "faq": [
+      {
+        "q": "Wann sollte man Python wählen?",
+        "a": "Wenn die Anwendung auf KI-Algorithmen, Big Data oder Web Scraping basiert."
+      }
+    ]
+  },
+  "uk": {
+    "title": "Python та FastAPI – ШІ та обробка даних",
+    "description": "Python — король аналізу даних та штучного інтелекту. Ми використовуємо FastAPI для швидких бекендів.",
+    "advantages": [
+      "Пряма інтеграція з бібліотеками AI/ML.",
+      "Висока продуктивність завдяки асинхронності FastAPI.",
+      "Швидке розгортання моделей LLM."
+    ],
+    "faq": [
+      {
+        "q": "Коли варто обрати Python?",
+        "a": "Якщо додаток базується на ШІ, Big Data або розширеному веб-скрейпінгу."
+      }
+    ]
+  },
+  "ru": {
+    "title": "Python и FastAPI – ИИ и обработка данных",
+    "description": "Python — король анализа данных и искусственного интеллекта. Мы используем FastAPI для быстрых бэкендов.",
+    "advantages": [
+      "Прямая интеграция с библиотеками AI/ML.",
+      "Высокая производительность благодаря асинхронности FastAPI.",
+      "Быстрое развертывание моделей LLM."
+    ],
+    "faq": [
+      {
+        "q": "Когда стоит выбрать Python?",
+        "a": "Если приложение базируется на ИИ, Big Data или продвинутом веб-скрейпинге."
+      }
+    ]
+  },
+  "zh": {
+    "title": "Python 与 FastAPI – AI 与数据处理",
+    "description": "Python 是数据科学与人工智能之王。我们使用 FastAPI 构建能够实时处理海量数据的极速后端。",
+    "advantages": [
+      "直接集成 AI/ML 库（TensorFlow、PyTorch、Pandas）。",
+      "FastAPI 的异步架构提供极高的人能。",
+      "快速将 LLM 与分析模型部署到生产环境。"
+    ],
+    "faq": [
+      {
+        "q": "什么时候应该选择 Python？",
+        "a": "当您的应用程序依赖于 AI 算法、大数据分析或高级网页抓取时。"
+      }
+    ]
+  }
+}

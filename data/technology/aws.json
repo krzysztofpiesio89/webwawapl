@@ -1,0 +1,92 @@
+{
+  "pl": {
+    "title": "AWS & Vercel – Infrastruktura Chmurowa",
+    "description": "Opieramy nasze systemy o potęgę chmur publicznych takich jak Amazon Web Services (AWS) oraz Vercel. Gwarantujemy dostępność na poziomie 99.99% i automatyczne skalowanie.",
+    "advantages": [
+      "Globalna sieć CDN zapewniająca błyskawiczny czas ładowania w dowolnym miejscu na Ziemi.",
+      "Architektura Serverless – płacisz tylko za realnie zużyte zasoby obliczeniowe.",
+      "Automatyczny CI/CD pipeline (Continuous Integration / Deployment) z każdym commitem."
+    ],
+    "faq": [
+      {
+        "q": "Dlaczego Vercel dla Next.js?",
+        "a": "Vercel to twórcy Next.js. Hostowanie na ich platformie gwarantuje natywną obsługę ISR, optymalizację obrazów i ochronę przed atakami DDoS na poziomie Edge."
+      }
+    ]
+  },
+  "en": {
+    "title": "AWS & Vercel – Cloud Infrastructure",
+    "description": "We base our systems on the power of public clouds like Amazon Web Services (AWS) and Vercel. We guarantee 99.99% uptime and automatic scaling.",
+    "advantages": [
+      "Global CDN network providing lightning-fast loading times anywhere on Earth.",
+      "Serverless Architecture – pay only for the compute resources you actually use.",
+      "Automated CI/CD pipelines with every code commit."
+    ],
+    "faq": [
+      {
+        "q": "Why Vercel for Next.js?",
+        "a": "Vercel created Next.js. Hosting on their platform guarantees native ISR support, image optimization, and DDoS protection at the Edge."
+      }
+    ]
+  },
+  "de": {
+    "title": "AWS & Vercel – Cloud-Infrastruktur",
+    "description": "Wir stützen unsere Systeme auf die Leistung von AWS und Vercel. Wir garantieren 99,99% Uptime und automatische Skalierung.",
+    "advantages": [
+      "Globales CDN für blitzschnelle Ladezeiten weltweit.",
+      "Serverless-Architektur – Bezahlen Sie nur für genutzte Ressourcen.",
+      "Automatisierte CI/CD-Pipelines."
+    ],
+    "faq": [
+      {
+        "q": "Warum Vercel für Next.js?",
+        "a": "Vercel sind die Schöpfer von Next.js und bieten native ISR, Bildoptimierung und Edge-Schutz."
+      }
+    ]
+  },
+  "uk": {
+    "title": "AWS та Vercel – Хмарна інфраструктура",
+    "description": "Ми базуємо наші системи на AWS та Vercel, що гарантує доступність 99.99% та автоматичне масштабування.",
+    "advantages": [
+      "Глобальна мережа CDN для блискавичного завантаження.",
+      "Безсерверна архітектура – платіть лише за використані ресурси.",
+      "Автоматичний CI/CD pipeline."
+    ],
+    "faq": [
+      {
+        "q": "Чому Vercel для Next.js?",
+        "a": "Vercel створили Next.js. Хостинг на їхній платформі забезпечує нативну підтримку ISR та захист від DDoS."
+      }
+    ]
+  },
+  "ru": {
+    "title": "AWS и Vercel – Облачная инфраструктура",
+    "description": "Мы строим системы на AWS и Vercel, гарантируя доступность 99.99% и автоматическое масштабирование.",
+    "advantages": [
+      "Глобальная сеть CDN для мгновенной загрузки.",
+      "Бессерверная архитектура – платите только за использованные ресурсы.",
+      "Автоматический CI/CD pipeline."
+    ],
+    "faq": [
+      {
+        "q": "Почему Vercel для Next.js?",
+        "a": "Vercel создали Next.js. Хостинг на их платформе обеспечивает поддержку ISR и защиту от DDoS."
+      }
+    ]
+  },
+  "zh": {
+    "title": "AWS 与 Vercel – 云计算基础设施",
+    "description": "我们依托亚马逊 AWS 和 Vercel 的公有云力量。保证 99.99% 的可用性与自动弹性伸缩。",
+    "advantages": [
+      "全球 CDN 网络确保在世界任何地方都能实现极速加载。",
+      "无服务器架构 (Serverless) – 仅为实际消耗的计算资源付费。",
+      "全自动化 CI/CD 流水线。"
+    ],
+    "faq": [
+      {
+        "q": "为何选择 Vercel 托管 Next.js？",
+        "a": "Vercel 是 Next.js 的缔造者。在他们的平台托管能原生支持 ISR、图片优化及边缘 DDoS 防护。"
+      }
+    ]
+  }
+}

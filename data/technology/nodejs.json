@@ -1,0 +1,92 @@
+{
+  "pl": {
+    "title": "Node.js & NestJS – Skalowalne Mikroserwisy",
+    "description": "Wykorzystujemy potęgę Node.js i frameworka NestJS do budowy ekstremalnie szybkich i skalowalnych systemów backendowych, API oraz architektury mikrousług.",
+    "advantages": [
+      "Asynchroniczne przetwarzanie pozwalające na obsługę tysięcy jednoczesnych połączeń.",
+      "Architektura mikrousług idealna do skalowania w chmurze.",
+      "Ujednolicony język TypeScript na frontendzie (Next.js) i backendzie (NestJS)."
+    ],
+    "faq": [
+      {
+        "q": "Do czego najlepiej sprawdzi się Node.js?",
+        "a": "Do aplikacji działających w czasie rzeczywistym (czaty, notyfikacje), platform streamingowych oraz zaawansowanych paneli SaaS."
+      }
+    ]
+  },
+  "en": {
+    "title": "Node.js & NestJS – Scalable Microservices",
+    "description": "We harness the power of Node.js and NestJS to build extremely fast, scalable backend systems, robust APIs, and microservice architectures.",
+    "advantages": [
+      "Asynchronous processing handling thousands of concurrent connections.",
+      "Microservice architecture perfect for cloud scalability.",
+      "Unified TypeScript stack across frontend (Next.js) and backend (NestJS)."
+    ],
+    "faq": [
+      {
+        "q": "What is Node.js best used for?",
+        "a": "Real-time applications (chats, notifications), streaming platforms, and complex SaaS dashboards."
+      }
+    ]
+  },
+  "de": {
+    "title": "Node.js & NestJS – Skalierbare Microservices",
+    "description": "Wir nutzen die Leistungsfähigkeit von Node.js und NestJS, um extrem schnelle Backend-Systeme und APIs aufzubauen.",
+    "advantages": [
+      "Asynchrone Verarbeitung für Tausende von gleichzeitigen Verbindungen.",
+      "Microservice-Architektur ideal für Cloud-Skalierbarkeit.",
+      "Einheitlicher TypeScript-Stack auf Frontend und Backend."
+    ],
+    "faq": [
+      {
+        "q": "Wofür eignet sich Node.js am besten?",
+        "a": "Echtzeitanwendungen, Streaming-Plattformen und komplexe SaaS-Dashboards."
+      }
+    ]
+  },
+  "uk": {
+    "title": "Node.js та NestJS – Масштабовані мікросервіси",
+    "description": "Ми використовуємо Node.js та NestJS для створення надзвичайно швидких і масштабованих бекенд-систем та API.",
+    "advantages": [
+      "Асинхронна обробка тисяч одночасних з'єднань.",
+      "Мікросервісна архітектура, ідеальна для масштабування в хмарі.",
+      "Єдиний стек TypeScript для фронтенду та бекенду."
+    ],
+    "faq": [
+      {
+        "q": "Для чого найкраще підходить Node.js?",
+        "a": "Для додатків реального часу (чати), стрімінгових платформ та SaaS-панелей."
+      }
+    ]
+  },
+  "ru": {
+    "title": "Node.js и NestJS – Масштабируемые микросервисы",
+    "description": "Мы используем мощь Node.js и NestJS для создания чрезвычайно быстрых бэкенд-систем и API.",
+    "advantages": [
+      "Асинхронная обработка тысяч одновременных подключений.",
+      "Микросервисная архитектура для облачного масштабирования.",
+      "Единый стек TypeScript на фронтенде и бэкенде."
+    ],
+    "faq": [
+      {
+        "q": "Для чего лучше всего подходит Node.js?",
+        "a": "Для приложений реального времени, стриминговых платформ и SaaS-панелей."
+      }
+    ]
+  },
+  "zh": {
+    "title": "Node.js 与 NestJS – 可扩展微服务",
+    "description": "我们利用 Node.js 和 NestJS 的强大功能构建极快、可扩展的后端系统和 API。",
+    "advantages": [
+      "异步处理可应对数千个并发连接。",
+      "微服务架构非常适合云端扩展。",
+      "前端与后端统一使用 TypeScript 技术栈。"
+    ],
+    "faq": [
+      {
+        "q": "Node.js 最适合用于什么？",
+        "a": "实时应用（聊天、通知）、流媒体平台和复杂的 SaaS 面板。"
+      }
+    ]
+  }
+}

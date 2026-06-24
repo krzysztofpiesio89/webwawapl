@@ -288,7 +288,15 @@ export default function ContactForm({
           </button>
         </div>
       ) : (
-        <form onSubmit={handleSubmit} className="space-y-6">
+        <form 
+          onSubmit={handleSubmit} 
+          className="space-y-6"
+          {...{ 
+            toolname: "submitQuoteRequest", 
+            tooldescription: "Submit a request for a web development quote, including project details, budget, and contact information.",
+            toolautosubmit: "true"
+          } as any}
+        >
           <input type="hidden" name="lang" value={lang} />
           
           {/* Honeypot field */}

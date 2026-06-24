@@ -1,0 +1,92 @@
+{
+  "pl": {
+    "title": "GraphQL & REST – Nowoczesna Architektura API",
+    "description": "Projektujemy elastyczne interfejsy API przy wykorzystaniu standardów REST oraz języka zapytań GraphQL. Dostarczamy dane dokładnie w takiej formie, w jakiej aplikacja ich potrzebuje.",
+    "advantages": [
+      "GraphQL eliminuje problem nadmiarowego pobierania danych (over-fetching).",
+      "Standaryzacja REST API pozwala na łatwą integrację z usługami zewnętrznymi (Zapie, ERP).",
+      "Automatyczna generacja dokumentacji (Swagger, GraphQL Playground)."
+    ],
+    "faq": [
+      {
+        "q": "Co jest lepsze – REST czy GraphQL?",
+        "a": "Wybór zależy od projektu. REST świetnie sprawdza się w klasycznych integracjach B2B, natomiast GraphQL doskonale napędza dynamiczne aplikacje frontendowe (React, Vue)."
+      }
+    ]
+  },
+  "en": {
+    "title": "GraphQL & REST – Modern API Architecture",
+    "description": "We design flexible APIs using REST standards and GraphQL query language. We deliver data exactly as your application needs it.",
+    "advantages": [
+      "GraphQL eliminates over-fetching of data.",
+      "REST API standardization allows easy integration with external tools (Zapier, ERP).",
+      "Automated documentation generation (Swagger, Playground)."
+    ],
+    "faq": [
+      {
+        "q": "Which is better – REST or GraphQL?",
+        "a": "It depends. REST is perfect for standard B2B integrations, while GraphQL brilliantly powers dynamic frontend apps (React, Vue)."
+      }
+    ]
+  },
+  "de": {
+    "title": "GraphQL & REST – Moderne API-Architektur",
+    "description": "Wir entwickeln flexible APIs mit REST und GraphQL. Wir liefern Daten exakt nach Bedarf.",
+    "advantages": [
+      "GraphQL verhindert Over-Fetching.",
+      "REST-Standardisierung für einfache Integrationen (ERP).",
+      "Automatische API-Dokumentation."
+    ],
+    "faq": [
+      {
+        "q": "Was ist besser – REST oder GraphQL?",
+        "a": "REST ist ideal für klassische B2B-Integrationen, GraphQL für dynamische Frontends."
+      }
+    ]
+  },
+  "uk": {
+    "title": "GraphQL та REST – Архітектура API",
+    "description": "Ми розробляємо гнучкі API за допомогою REST та GraphQL. Доставляємо лише необхідні дані.",
+    "advantages": [
+      "GraphQL усуває проблему надмірного завантаження даних (over-fetching).",
+      "Стандартизація REST для легкої інтеграції.",
+      "Автоматична генерація документації."
+    ],
+    "faq": [
+      {
+        "q": "Що краще – REST чи GraphQL?",
+        "a": "REST ідеальний для B2B інтеграцій, а GraphQL — для динамічних фронтендів."
+      }
+    ]
+  },
+  "ru": {
+    "title": "GraphQL и REST – Архитектура API",
+    "description": "Мы разрабатываем гибкие API с использованием REST и GraphQL. Доставляем только нужные данные.",
+    "advantages": [
+      "GraphQL устраняет проблему избыточной загрузки данных (over-fetching).",
+      "Стандартизация REST для легкой интеграции.",
+      "Автоматическая генерация документации."
+    ],
+    "faq": [
+      {
+        "q": "Что лучше – REST или GraphQL?",
+        "a": "REST идеален для B2B интеграций, а GraphQL — для динамичных фронтендов."
+      }
+    ]
+  },
+  "zh": {
+    "title": "GraphQL 与 REST – 现代 API 架构",
+    "description": "我们使用 REST 标准与 GraphQL 查询语言设计灵活的 API，确保以应用最需要的格式准确传递数据。",
+    "advantages": [
+      "GraphQL 彻底消除了数据过度获取 (over-fetching) 的问题。",
+      "标准化的 REST API 便于与外部系统（如 Zapier, ERP）无缝对接。",
+      "自动生成交互式 API 文档 (Swagger, Playground)。"
+    ],
+    "faq": [
+      {
+        "q": "REST 和 GraphQL 哪个更好？",
+        "a": "取决于项目。REST 非常适合经典的 B2B 集成，而 GraphQL 则能完美驱动动态的前端应用（如 React）。"
+      }
+    ]
+  }
+}

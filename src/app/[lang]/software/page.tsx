@@ -2,8 +2,9 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { getGlobalSettings } from '@/lib/settings';
 import { getDictionary, Locale } from '../dictionaries';
+import { getLocalizedStaticPath } from '../i18n-routes';
 import ContactForm from '@/components/ContactForm';
-
+import { siLaravel, siNodedotjs, siPython, siPostgresql, siVercel, siDocker, siAnthropic, siGraphql, siGooglechrome } from 'simple-icons';
 const translations = {
   pl: {
     title: 'Dedykowane Aplikacje i Systemy Webowe | webwawa.pl',
@@ -258,15 +259,18 @@ export default async function SoftwareServicePage(props: { params: Promise<{ lan
   const homeUrl = lang === 'pl' ? '/' : `/${lang}`;
 
   const techStack = [
-    { icon: '🐘', name: 'Laravel / PHP', sub: 'Backend API & Business Logic' },
-    { icon: '🟩', name: 'Node.js / NestJS', sub: 'Scalable Microservices' },
-    { icon: '🐍', name: 'Python / FastAPI', sub: 'AI & Data Processing' },
-    { icon: '🐘', name: 'PostgreSQL / Redis', sub: 'Relational & Cache DB' },
-    { icon: '☁️', name: 'AWS / Vercel', sub: 'Cloud Deployment' },
-    { icon: '🐳', name: 'Docker / CI/CD', sub: 'DevOps & Automation' },
-    { icon: '🤖', name: 'OpenAI / Gemini', sub: 'LLM Integrations' },
-    { icon: '🔗', name: 'REST / GraphQL', sub: 'API Architecture' },
+    { icon: siLaravel, name: 'Laravel / PHP', sub: 'Backend API & Business Logic', slug: 'laravel' },
+    { icon: siNodedotjs, name: 'Node.js / NestJS', sub: 'Scalable Microservices', slug: 'nodejs' },
+    { icon: siPython, name: 'Python / FastAPI', sub: 'AI & Data Processing', slug: 'python' },
+    { icon: siPostgresql, name: 'PostgreSQL / Redis', sub: 'Relational & Cache DB', slug: 'postgresql' },
+    { icon: siVercel, name: 'AWS / Vercel', sub: 'Cloud Deployment', slug: 'aws' },
+    { icon: siDocker, name: 'Docker / CI/CD', sub: 'DevOps & Automation', slug: 'docker' },
+    { icon: siAnthropic, name: 'OpenAI / Claude', sub: 'LLM Integrations', slug: 'openai' },
+    { icon: siGraphql, name: 'REST / GraphQL', sub: 'API Architecture', slug: 'graphql' },
+    { icon: siGooglechrome, name: 'WebMCP', sub: 'Browser AI Agents', slug: 'webmcp' },
   ];
+  
+  const softwarePath = getLocalizedStaticPath('software', lang);
 
   return (
     <main className="min-h-screen bg-white dark:bg-[#020510] text-slate-800 dark:text-slate-100 transition-colors duration-300">
@@ -311,11 +315,13 @@ export default async function SoftwareServicePage(props: { params: Promise<{ lan
 
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             {techStack.map((tech, idx) => (
-              <div key={idx} className="glass-card hover:-translate-y-1.5 transition-transform duration-300 text-center">
-                <div className="text-3xl mb-3">{tech.icon}</div>
+              <Link href={`${softwarePath}/${tech.slug}`} key={idx} className="glass-card hover:-translate-y-1.5 transition-transform duration-300 text-center flex flex-col items-center">
+                <svg viewBox="0 0 24 24" className="w-9 h-9 mb-4 fill-current" style={{ color: '#' + tech.icon.hex }}>
+                  <path d={tech.icon.path} />
+                </svg>
                 <h3 className="font-bold text-slate-900 dark:text-white text-sm mb-1">{tech.name}</h3>
                 <p className="text-xs text-slate-500 dark:text-slate-400 font-semibold">{tech.sub}</p>
-              </div>
+              </Link>
             ))}
           </div>
         </div>

@@ -51,7 +51,8 @@ export function getTechnologyById(id: string): TechnologyData | null {
       'schema-org': 'Schema.org JSON-LD',
       'open-graph': 'Open Graph Meta',
       'push-notifications': 'Push Notifications',
-      'vapid': 'VAPID Security'
+      'vapid': 'VAPID Security',
+      'webmcp': 'WebMCP'
     };
 
     return {

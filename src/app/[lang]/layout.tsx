@@ -126,7 +126,7 @@ export default async function RootLayout(props: Readonly<{
   };
 
   return (
-    <html lang={htmlLangMap[params.lang as Locale]} className={`${inter.variable}`} suppressHydrationWarning>
+    <html lang={htmlLangMap[params.lang as Locale]} suppressHydrationWarning>
       <head>
         {/* Preload LCP hero image — srcset must match Next.js Image output to avoid double-fetch */}
         <link
@@ -158,7 +158,7 @@ export default async function RootLayout(props: Readonly<{
           }}
         />
       </head>
-      <body className="font-sans antialiased" suppressHydrationWarning>
+      <body className={`font-sans antialiased ${inter.variable}`} suppressHydrationWarning>
         {process.env.NEXT_PUBLIC_GTM_ID && process.env.NEXT_PUBLIC_GTM_ID !== 'GTM-XXXXXXX' && (
           <Script id="gtm-script" strategy="afterInteractive">
             {`

@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { getGlobalSettings } from '@/lib/settings';
 import { getDictionary, Locale } from '../dictionaries';
 import ContactForm from '@/components/ContactForm';
-
+import { siWoocommerce, siShopify, siPrestashop } from 'simple-icons';
 const translations = {
   pl: {
     title: 'Tworzenie Sklepów Internetowych i E-commerce | webwawa.pl',
@@ -232,8 +232,10 @@ export default async function EcommerceServicePage(props: { params: Promise<{ la
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="glass-card hover:-translate-y-1.5 transition-transform duration-300">
-              <div className="text-primary text-3xl font-black mb-3">🛍️ WooCommerce</div>
-              <h3 className="font-bold text-slate-900 dark:text-white mb-2">Headless WordPress</h3>
+              <svg viewBox="0 0 24 24" className="w-10 h-10 mb-4 fill-current" style={{ color: '#' + siWoocommerce.hex }}>
+                <path d={siWoocommerce.path} />
+              </svg>
+              <h3 className="font-bold text-slate-900 dark:text-white mb-2">Headless WooCommerce</h3>
               <ul className="text-xs text-slate-550 dark:text-slate-400 space-y-2 mt-4 font-semibold">
                 <li>✓ {lang === 'pl' ? 'Niski koszt utrzymania serwera' : 'Low hosting costs'}</li>
                 <li>✓ {lang === 'pl' ? 'Wygodne zarządzanie treścią (CMS)' : 'Familiar CMS dashboards'}</li>
@@ -242,7 +244,9 @@ export default async function EcommerceServicePage(props: { params: Promise<{ la
             </div>
             
             <div className="glass-card hover:-translate-y-1.5 transition-transform duration-300">
-              <div className="text-primary text-3xl font-black mb-3">💼 Shopify API</div>
+              <svg viewBox="0 0 24 24" className="w-10 h-10 mb-4 fill-current" style={{ color: '#' + siShopify.hex }}>
+                <path d={siShopify.path} />
+              </svg>
               <h3 className="font-bold text-slate-900 dark:text-white mb-2">Headless Shopify</h3>
               <ul className="text-xs text-slate-550 dark:text-slate-400 space-y-2 mt-4 font-semibold">
                 <li>✓ {lang === 'pl' ? 'Brak obaw o serwery bazodanowe' : 'No database scalability worries'}</li>
@@ -252,7 +256,9 @@ export default async function EcommerceServicePage(props: { params: Promise<{ la
             </div>
 
             <div className="glass-card hover:-translate-y-1.5 transition-transform duration-300">
-              <div className="text-primary text-3xl font-black mb-3">⚙️ PrestaShop</div>
+              <svg viewBox="0 0 24 24" className="w-10 h-10 mb-4 fill-current" style={{ color: '#' + siPrestashop.hex }}>
+                <path d={siPrestashop.path} />
+              </svg>
               <h3 className="font-bold text-slate-900 dark:text-white mb-2">Presta PWA</h3>
               <ul className="text-xs text-slate-550 dark:text-slate-400 space-y-2 mt-4 font-semibold">
                 <li>✓ {lang === 'pl' ? 'Stworzone dla tysięcy produktów' : 'Engineered for large catalogs'}</li>

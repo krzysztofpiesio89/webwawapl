@@ -1,0 +1,92 @@
+{
+  "pl": {
+    "title": "Docker & CI/CD – Automatyzacja DevOps",
+    "description": "Zapewniamy powtarzalność środowisk i bezpieczeństwo wdrażania za pomocą konteneryzacji Docker oraz procesów CI/CD.",
+    "advantages": [
+      "Konteneryzacja gwarantuje, że aplikacja zadziała tak samo na każdym serwerze.",
+      "Zautomatyzowane testy przed każdym wdrożeniem do środowiska produkcyjnego.",
+      "Błyskawiczne odzyskiwanie sprawności w razie awarii."
+    ],
+    "faq": [
+      {
+        "q": "Dlaczego automatyzacja CI/CD jest ważna?",
+        "a": "Eliminuje błędy ludzkie podczas wdrażania nowej wersji systemu i drastycznie przyspiesza proces programowania."
+      }
+    ]
+  },
+  "en": {
+    "title": "Docker & CI/CD – DevOps Automation",
+    "description": "We ensure environment reproducibility and deployment safety using Docker containerization and CI/CD pipelines.",
+    "advantages": [
+      "Containerization guarantees the app works identically on any server.",
+      "Automated testing before every production deployment.",
+      "Lightning-fast disaster recovery."
+    ],
+    "faq": [
+      {
+        "q": "Why is CI/CD automation important?",
+        "a": "It eliminates human error during deployment and drastically accelerates the software development lifecycle."
+      }
+    ]
+  },
+  "de": {
+    "title": "Docker & CI/CD – DevOps-Automatisierung",
+    "description": "Wir gewährleisten Umgebungskonsistenz und Bereitstellungssicherheit mit Docker und CI/CD.",
+    "advantages": [
+      "Konsistenz über alle Server hinweg durch Container.",
+      "Automatisierte Tests vor jedem Release.",
+      "Schnelle Wiederherstellung im Fehlerfall."
+    ],
+    "faq": [
+      {
+        "q": "Warum ist CI/CD wichtig?",
+        "a": "Reduziert menschliche Fehler und beschleunigt die Entwicklung."
+      }
+    ]
+  },
+  "uk": {
+    "title": "Docker та CI/CD – Автоматизація DevOps",
+    "description": "Ми забезпечуємо стабільність середовищ та безпеку розгортання за допомогою Docker та CI/CD.",
+    "advantages": [
+      "Контейнеризація гарантує ідентичну роботу на будь-якому сервері.",
+      "Автоматизовані тести перед кожним релізом.",
+      "Миттєве відновлення у разі збоїв."
+    ],
+    "faq": [
+      {
+        "q": "Чому автоматизація CI/CD є важливою?",
+        "a": "Вона усуває людський фактор і значно прискорює розробку."
+      }
+    ]
+  },
+  "ru": {
+    "title": "Docker и CI/CD – Автоматизация DevOps",
+    "description": "Мы обеспечиваем стабильность сред и безопасность развертывания с помощью Docker и CI/CD.",
+    "advantages": [
+      "Контейнеризация гарантирует идентичную работу на любом сервере.",
+      "Автоматизированные тесты перед каждым релизом.",
+      "Мгновенное восстановление при сбоях."
+    ],
+    "faq": [
+      {
+        "q": "Почему важна автоматизация CI/CD?",
+        "a": "Она устраняет человеческий фактор и ускоряет разработку."
+      }
+    ]
+  },
+  "zh": {
+    "title": "Docker 与 CI/CD – DevOps 自动化",
+    "description": "我们通过 Docker 容器化和 CI/CD 流水线确保环境的一致性与部署的安全。",
+    "advantages": [
+      "容器化保证应用在任何服务器上都能如期运行。",
+      "在每次部署到生产环境之前进行自动化测试。",
+      "极速的灾难恢复能力。"
+    ],
+    "faq": [
+      {
+        "q": "为什么 CI/CD 自动化很重要？",
+        "a": "它消除了部署过程中的人为错误，并大大加速了软件开发周期。"
+      }
+    ]
+  }
+}
