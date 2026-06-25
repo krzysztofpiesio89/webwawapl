@@ -339,40 +339,47 @@ export default async function IndustriesIndexPage(props: { params: Promise<{ lan
   const techStack = [
     {
       name: 'Next.js & React',
-      logo: '⚡',
+      logo: '/icons/nextjs.svg',
       key: 'next' as const,
+      slug: 'nextjs',
       desc_pl: 'Tworzymy ultra-szybkie aplikacje webowe PWA. Gwarancja wyniku 100/100 Mobile PageSpeed, błyskawiczna nawigacja bez przeładowań strony oraz pełna optymalizacja pod indeksację wyszukiwarek AI (GEO/AEO).',
       desc_en: 'We build ultra-fast PWA web apps. Guaranteed 100/100 Mobile PageSpeed scores, instant transitions, and complete readiness for AI search engine indexing (GEO/AEO).'
     },
     {
       name: 'WordPress',
-      logo: '📝',
+      logo: '/icons/wordpress.svg',
       key: 'wp' as const,
+      slug: 'wordpress',
       desc_pl: 'Idealne rozwiązanie dla gabinetów i kancelarii prowadzących blogi eksperckie. Zapewniamy nowoczesny design, pełną integrację z wtyczkami rejestracji i prosty w edycji panel administracyjny.',
       desc_en: 'Perfect solution for practices and firms running expert blogs. We deliver modern designs, seamless booking plugin integrations, and an intuitive admin panel.'
     },
     {
       name: 'Django & Python',
-      logo: '🐍',
+      logo: '/icons/django.svg',
       key: 'django' as const,
+      slug: 'django',
       desc_pl: 'Niezrównane bezpieczeństwo danych, bezbłędny backend oraz zaawansowane bazy danych. Doskonały wybór do obsługi poufnych danych pacjentów i klientów w systemach CRM i portalach medyczno-prawnych.',
       desc_en: 'Unmatched data security, clean backend architectures, and advanced databases. The best fit for handling confidential client records in custom CRM systems.'
     },
     {
       name: 'Laravel & PHP',
-      logo: '🚀',
+      logo: '/icons/laravel.svg',
       key: 'laravel' as const,
+      slug: 'laravel',
       desc_pl: 'Solidne, szybkie i wysoce skalowalne systemy biznesowe. Tworzymy dedykowane panele klienta, integracje z systemami płatności (PayU, BLIK), e-rezerwacje oraz skomplikowane portale ogłoszeniowe.',
       desc_en: 'Robust, fast, and highly scalable business software. We build dedicated client panels, payment gateway integrations (Stripe, PayPal), and e-booking systems.'
     },
     {
       name: 'PrestaShop',
-      logo: '🛒',
+      logo: '/icons/prestashop.svg',
       key: 'presta' as const,
+      slug: 'prestashop',
       desc_pl: 'Zaawansowany e-commerce dostosowany do sprzedaży specjalistycznej. Integracje z magazynami, systemami kurierskimi i hurtowniami. Optymalna konwersja zakupowa (CRO).',
       desc_en: 'Advanced e-commerce tailored for professional sales. Direct integrations with warehouses, couriers, and ERP systems. Optimized conversion paths (CRO).'
     }
   ];
+
+  const softwarePath = getLocalizedStaticPath('software', lang);
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -585,22 +592,26 @@ export default async function IndustriesIndexPage(props: { params: Promise<{ lan
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-12">
               {techStack.map((tech) => (
-                <div 
+                <Link 
+                  href={`${lang === 'pl' ? '' : '/' + lang}${softwarePath}/${tech.slug}`}
                   key={tech.name} 
-                  className="p-6 bg-white dark:bg-slate-900/60 border border-slate-200/70 dark:border-slate-800/80 rounded-2xl shadow-sm relative overflow-hidden group hover:border-primary/40 transition-colors"
+                  className="p-6 bg-white dark:bg-slate-900/60 border border-slate-200/70 dark:border-slate-800/80 rounded-2xl shadow-sm relative overflow-hidden group hover:border-primary/40 hover:shadow-md transition-all duration-300 hover:-translate-y-1 block"
                 >
                   <div className="flex items-center gap-4 mb-3.5">
-                    <span className="text-3xl bg-slate-100 dark:bg-slate-800 p-2.5 rounded-xl block group-hover:scale-105 transition-transform">
-                      {tech.logo}
+                    <span className="w-12 h-12 flex items-center justify-center bg-slate-100 dark:bg-slate-800 p-2.5 rounded-xl group-hover:scale-105 transition-transform">
+                      <img src={tech.logo} alt={tech.name} className="w-full h-full object-contain dark:brightness-110" />
                     </span>
-                    <h4 className="font-extrabold text-xl text-slate-900 dark:text-white tracking-tight">
+                    <h4 className="font-extrabold text-xl text-slate-900 dark:text-white tracking-tight group-hover:text-primary transition-colors">
                       {tech.name}
                     </h4>
                   </div>
-                  <p className="text-sm text-slate-600 dark:text-slate-400 leading-relaxed">
+                  <p className="text-sm text-slate-600 dark:text-slate-400 leading-relaxed mb-4">
                     {trans.techStack[tech.key]}
                   </p>
-                </div>
+                  <span className="text-xs font-bold text-primary uppercase tracking-widest opacity-0 group-hover:opacity-100 transition-opacity flex items-center gap-1">
+                    {trans.readMore} <span className="text-lg leading-none">&rarr;</span>
+                  </span>
+                </Link>
               ))}
             </div>
 

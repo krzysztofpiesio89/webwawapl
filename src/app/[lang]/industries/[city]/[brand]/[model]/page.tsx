@@ -56,7 +56,7 @@ export async function generateStaticParams() {
     'sulejowek', 'grodzisk-mazowiecki', 'nowy-dwor-mazowiecki', 'minsk-mazowiecki',
     'lomianki', 'ozarow-mazowiecki', 'nadarzyn', 'warszawa'
   ];
-  const industriesList = ['doctor', 'lawyer', 'psychologist', 'accountant', 'architect', 'construction', 'beauty', 'automotive', 'gastronomy', 'transport', 'ecommerce', 'education'] as const;
+  const industriesList = ['doctor', 'lawyer', 'psychologist', 'accountant', 'architect', 'construction', 'beauty', 'automotive', 'gastronomy', 'transport', 'ecommerce', 'education', 'real-estate', 'tourism', 'events', 'cleaning', 'insurance', 'pets', 'industry'] as const;
   
   const paramsList = [];
   for (const lang of langs) {

@@ -1,0 +1,139 @@
+{
+  "id": "real-estate",
+  "slugs": {
+    "pl": "nieruchomosci",
+    "en": "real-estate",
+    "de": "immobilien",
+    "uk": "nerukhomist",
+    "ru": "nedvizhimost",
+    "zh": "real-estate"
+  },
+  "translations": {
+    "pl": {
+      "industryName": "Nieruchomości",
+      "heroSubtitle": "Nowoczesne strony dla agencji nieruchomości i deweloperów z zaawansowaną wyszukiwarką ofert.",
+      "title": "Strony internetowe i SEO dla branży nieruchomości",
+      "description": "Tworzymy strony internetowe dla deweloperów i agencji nieruchomości. Integrujemy systemy MLS i CRM.",
+      "about": "Branża nieruchomości wymaga profesjonalnego wizerunku i narzędzi ułatwiających wyszukiwanie ofert. Projektujemy nowoczesne portale, wizytówki dla agentów oraz systemy wspierające sprzedaż inwestycji deweloperskich.",
+      "series": {
+        "pwa": {
+          "title": "Aplikacje dla nieruchomości",
+          "desc": "Budujemy aplikacje ułatwiające przeglądanie ofert na urządzeniach mobilnych."
+        },
+        "wordpress": {
+          "title": "Strony WordPress z ofertami",
+          "desc": "Tworzymy portale nieruchomości oparte na WordPressie z integracją CRM."
+        },
+        "seo": {
+          "title": "Lokalne SEO dla agencji",
+          "desc": "Pozycjonujemy strony agencji nieruchomości i deweloperów, zwiększając widoczność ofert."
+        }
+      }
+    },
+    "en": {
+      "industryName": "Real Estate",
+      "heroSubtitle": "Modern websites for real estate agencies and developers with advanced property search.",
+      "title": "Websites and SEO for the real estate industry",
+      "description": "We create websites for developers and real estate agencies. We integrate MLS and CRM systems.",
+      "about": "The real estate industry requires a professional image and tools to facilitate property search. We design modern portals, business cards for agents, and systems supporting the sale of development investments.",
+      "series": {
+        "pwa": {
+          "title": "Real estate apps",
+          "desc": "We build apps making it easier to browse listings on mobile devices."
+        },
+        "wordpress": {
+          "title": "WordPress sites with listings",
+          "desc": "We create WordPress-based real estate portals with CRM integration."
+        },
+        "seo": {
+          "title": "Local SEO for agencies",
+          "desc": "We position websites of real estate agencies and developers, increasing listing visibility."
+        }
+      }
+    },
+    "de": {
+      "industryName": "Immobilien",
+      "heroSubtitle": "Moderne Websites für Immobilienagenturen und Bauträger mit erweiterter Immobiliensuche.",
+      "title": "Websites und SEO für die Immobilienbranche",
+      "description": "Wir erstellen Websites für Bauträger und Immobilienagenturen. Wir integrieren MLS- und CRM-Systeme.",
+      "about": "Die Immobilienbranche erfordert ein professionelles Image und Werkzeuge, die die Immobiliensuche erleichtern. Wir entwerfen moderne Portale, Visitenkarten für Makler und Systeme zur Unterstützung des Verkaufs von Bauprojekten.",
+      "series": {
+        "pwa": {
+          "title": "Immobilien-Apps",
+          "desc": "Wir entwickeln Apps, die das Durchsuchen von Angeboten auf Mobilgeräten erleichtern."
+        },
+        "wordpress": {
+          "title": "WordPress-Seiten mit Angeboten",
+          "desc": "Wir erstellen auf WordPress basierende Immobilienportale mit CRM-Integration."
+        },
+        "seo": {
+          "title": "Lokales SEO für Agenturen",
+          "desc": "Wir positionieren Websites von Immobilienagenturen und Bauträgern und erhöhen die Sichtbarkeit der Angebote."
+        }
+      }
+    },
+    "uk": {
+      "industryName": "Нерухомість",
+      "heroSubtitle": "Сучасні сайти для агентств нерухомості та забудовників з розширеним пошуком об'єктів.",
+      "title": "Веб-сайти та SEO для галузі нерухомості",
+      "description": "Створюємо сайти для забудовників та агентств нерухомості. Інтегруємо системи MLS та CRM.",
+      "about": "Галузь нерухомості вимагає професійного іміджу та інструментів, що полегшують пошук пропозицій. Ми проектуємо сучасні портали, візитки для агентів та системи, що підтримують продаж інвестицій забудовників.",
+      "series": {
+        "pwa": {
+          "title": "Додатки для нерухомості",
+          "desc": "Створюємо додатки, що полегшують перегляд пропозицій на мобільних пристроях."
+        },
+        "wordpress": {
+          "title": "Сайти WordPress з пропозиціями",
+          "desc": "Створюємо портали нерухомості на базі WordPress з інтеграцією CRM."
+        },
+        "seo": {
+          "title": "Локальне SEO для агентств",
+          "desc": "Позиціонуємо сайти агентств нерухомості та забудовників, підвищуючи видимість пропозицій."
+        }
+      }
+    },
+    "ru": {
+      "industryName": "Недвижимость",
+      "heroSubtitle": "Современные сайты для агентств недвижимости и застройщиков с расширенным поиском объектов.",
+      "title": "Веб-сайты и SEO для отрасли недвижимости",
+      "description": "Создаем сайты для застройщиков и агентств недвижимости. Интегрируем системы MLS и CRM.",
+      "about": "Отрасль недвижимости требует профессионального имиджа и инструментов, облегчающих поиск предложений. Мы проектируем современные порталы, визитки для агентов и системы, поддерживающие продажу инвестиций застройщиков.",
+      "series": {
+        "pwa": {
+          "title": "Приложения для недвижимости",
+          "desc": "Создаем приложения, облегчающие просмотр предложений на мобильных устройствах."
+        },
+        "wordpress": {
+          "title": "Сайты WordPress с предложениями",
+          "desc": "Создаем порталы недвижимости на базе WordPress с интеграцией CRM."
+        },
+        "seo": {
+          "title": "Локальное SEO для агентств",
+          "desc": "Позиционируем сайты агентств недвижимости и застройщиков, повышая видимость предложений."
+        }
+      }
+    },
+    "zh": {
+      "industryName": "房地产",
+      "heroSubtitle": "为房地产机构和开发商提供具有高级房产搜索功能的现代化网站。",
+      "title": "房地产行业的网站和 SEO",
+      "description": "我们为开发商和房地产机构创建网站。我们集成 MLS 和 CRM 系统。",
+      "about": "房地产行业需要专业的形象和促进房产搜索的工具。我们设计现代门户网站、代理名片以及支持开发投资销售的系统。",
+      "series": {
+        "pwa": {
+          "title": "房地产应用",
+          "desc": "我们构建的应用程序可让您更轻松地在移动设备上浏览房源。"
+        },
+        "wordpress": {
+          "title": "带有房源的 WordPress 网站",
+          "desc": "我们创建基于 WordPress 的房地产门户网站，并集成 CRM。"
+        },
+        "seo": {
+          "title": "机构的本地 SEO",
+          "desc": "我们对房地产机构和开发商的网站进行定位，以增加房源的可见度。"
+        }
+      }
+    }
+  }
+}

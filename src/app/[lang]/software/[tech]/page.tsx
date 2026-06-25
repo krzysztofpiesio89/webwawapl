@@ -144,8 +144,26 @@ export default async function TechPage(props: PageProps) {
   // Shuffle and pick 15 tags
   const shuffledTags = tagCloud.sort(() => 0.5 - Math.random()).slice(0, 15);
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": techData.title,
+    "operatingSystem": "All",
+    "applicationCategory": "DeveloperApplication",
+    "description": techData.description,
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "webwawa.pl",
+      "url": "https://webwawa.pl"
+    }
+  };
+
   return (
     <main className="min-h-screen bg-slate-50 dark:bg-slate-950 text-slate-800 dark:text-white transition-colors duration-300">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       {/* Hero */}
       <section className="bg-slate-100 dark:bg-slate-900 py-20 text-slate-900 dark:text-white relative overflow-hidden transition-colors duration-300 border-b border-slate-200 dark:border-slate-800">
         <div className="absolute top-0 right-0 w-[400px] h-[400px] bg-primary/5 rounded-full blur-[100px] pointer-events-none" />

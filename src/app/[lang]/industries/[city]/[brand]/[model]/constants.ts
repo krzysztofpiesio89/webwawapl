@@ -46,14 +46,21 @@ export const RELATED_INDUSTRIES: Record<IndustryId, IndustryId[]> = {
   lawyer: ['accountant'],
   psychologist: ['doctor', 'beauty'],
   accountant: ['lawyer'],
-  architect: ['construction'],
-  construction: ['architect', 'transport'],
-  beauty: ['psychologist'],
+  architect: ['construction', 'real-estate'],
+  construction: ['architect', 'transport', 'real-estate'],
+  beauty: ['psychologist', 'pets'],
   automotive: ['transport'],
-  gastronomy: [],
+  gastronomy: ['events', 'tourism'],
   transport: ['automotive', 'construction'],
   ecommerce: ['accountant', 'transport'],
   education: ['psychologist'],
+  "real-estate": ['architect', 'construction', 'insurance'],
+  tourism: ['gastronomy', 'events'],
+  events: ['gastronomy', 'tourism', 'beauty'],
+  cleaning: ['real-estate', 'construction'],
+  insurance: ['real-estate', 'automotive'],
+  pets: ['beauty'],
+  industry: ['transport', 'construction']
 };
 
 // Profession-level UI translation strings for non-automotive

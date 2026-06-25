@@ -1,0 +1,139 @@
+{
+  "id": "industry",
+  "slugs": {
+    "pl": "przemysl",
+    "en": "industry",
+    "de": "industry",
+    "uk": "industry",
+    "ru": "industry",
+    "zh": "industry"
+  },
+  "translations": {
+    "pl": {
+      "industryName": "Przemysł i Produkcja",
+      "heroSubtitle": "Nowoczesne strony internetowe i SEO dla branży: Przemysł i Produkcja.",
+      "title": "Strony WWW i SEO - Przemysł i Produkcja",
+      "description": "Tworzymy strony internetowe i prowadzimy skuteczne pozycjonowanie dla branży: Przemysł i Produkcja.",
+      "about": "Branża Przemysł i Produkcja wymaga profesjonalnego wizerunku w sieci. Projektujemy dedykowane rozwiązania wspierające Twój biznes.",
+      "series": {
+        "pwa": {
+          "title": "Aplikacje PWA",
+          "desc": "Nowoczesne aplikacje mobilne dla Twojej firmy."
+        },
+        "wordpress": {
+          "title": "Strony na WordPress",
+          "desc": "Łatwe w obsłudze i zoptymalizowane strony wizytówki."
+        },
+        "seo": {
+          "title": "Lokalne SEO",
+          "desc": "Pozycjonowanie w Google Maps i wyszukiwarce."
+        }
+      }
+    },
+    "en": {
+      "industryName": "Industry & Manufacturing",
+      "heroSubtitle": "Modern websites and SEO for the industry: Industry & Manufacturing.",
+      "title": "Websites and SEO - Industry & Manufacturing",
+      "description": "We create websites and run effective SEO for the industry: Industry & Manufacturing.",
+      "about": "The Industry & Manufacturing industry requires a professional online image. We design dedicated solutions to support your business.",
+      "series": {
+        "pwa": {
+          "title": "PWA Apps",
+          "desc": "Modern mobile apps for your company."
+        },
+        "wordpress": {
+          "title": "WordPress Sites",
+          "desc": "Easy to use and optimized business websites."
+        },
+        "seo": {
+          "title": "Local SEO",
+          "desc": "Positioning in Google Maps and search engine."
+        }
+      }
+    },
+    "de": {
+      "industryName": "Industry & Manufacturing",
+      "heroSubtitle": "Moderne Websites und SEO für die Branche: Industry & Manufacturing.",
+      "title": "Websites und SEO - Industry & Manufacturing",
+      "description": "Wir erstellen Websites und betreiben effektives SEO für die Branche: Industry & Manufacturing.",
+      "about": "Die Branche Industry & Manufacturing erfordert ein professionelles Online-Image. Wir entwerfen spezielle Lösungen zur Unterstützung Ihres Unternehmens.",
+      "series": {
+        "pwa": {
+          "title": "PWA Apps",
+          "desc": "Moderne mobile Apps für Ihr Unternehmen."
+        },
+        "wordpress": {
+          "title": "WordPress-Seiten",
+          "desc": "Einfach zu bedienende und optimierte Unternehmenswebsites."
+        },
+        "seo": {
+          "title": "Lokales SEO",
+          "desc": "Positionierung in Google Maps und Suchmaschinen."
+        }
+      }
+    },
+    "uk": {
+      "industryName": "Industry & Manufacturing",
+      "heroSubtitle": "Сучасні веб-сайти та SEO для галузі: Industry & Manufacturing.",
+      "title": "Веб-сайти та SEO - Industry & Manufacturing",
+      "description": "Створюємо веб-сайти та проводимо ефективне SEO для галузі: Industry & Manufacturing.",
+      "about": "Галузь Industry & Manufacturing вимагає професійного іміджу в Інтернеті. Ми розробляємо спеціальні рішення для підтримки вашого бізнесу.",
+      "series": {
+        "pwa": {
+          "title": "Додатки PWA",
+          "desc": "Сучасні мобільні додатки для вашої компанії."
+        },
+        "wordpress": {
+          "title": "Сайти на WordPress",
+          "desc": "Зручні у використанні та оптимізовані бізнес-сайти."
+        },
+        "seo": {
+          "title": "Локальне SEO",
+          "desc": "Позиціонування в Google Maps та пошукових системах."
+        }
+      }
+    },
+    "ru": {
+      "industryName": "Industry & Manufacturing",
+      "heroSubtitle": "Современные сайты и SEO для отрасли: Industry & Manufacturing.",
+      "title": "Сайты и SEO - Industry & Manufacturing",
+      "description": "Создаем сайты и проводим эффективное SEO для отрасли: Industry & Manufacturing.",
+      "about": "Отрасль Industry & Manufacturing требует профессионального имиджа в Интернете. Мы разрабатываем специальные решения для поддержки вашего бизнеса.",
+      "series": {
+        "pwa": {
+          "title": "Приложения PWA",
+          "desc": "Современные мобильные приложения для вашей компании."
+        },
+        "wordpress": {
+          "title": "Сайты на WordPress",
+          "desc": "Удобные в использовании и оптимизированные бизнес-сайты."
+        },
+        "seo": {
+          "title": "Локальное SEO",
+          "desc": "Позиционирование в Google Maps и поисковых системах."
+        }
+      }
+    },
+    "zh": {
+      "industryName": "Industry & Manufacturing",
+      "heroSubtitle": "适用于该行业的现代网站和 SEO：Industry & Manufacturing。",
+      "title": "网站和 SEO - Industry & Manufacturing",
+      "description": "我们为该行业创建网站并运行有效的 SEO：Industry & Manufacturing。",
+      "about": "Industry & Manufacturing 行业需要专业的在线形象。我们设计专用的解决方案来支持您的业务。",
+      "series": {
+        "pwa": {
+          "title": "PWA 应用",
+          "desc": "适用于贵公司的现代移动应用程序。"
+        },
+        "wordpress": {
+          "title": "WordPress 网站",
+          "desc": "易于使用和优化的商业网站。"
+        },
+        "seo": {
+          "title": "本地 SEO",
+          "desc": "在 Google 地图和搜索引擎中定位。"
+        }
+      }
+    }
+  }
+}

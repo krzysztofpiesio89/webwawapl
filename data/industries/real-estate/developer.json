@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Deweloper",
+    "about": "Strona internetowa dla dewelopera budowlanego pełni funkcję głównego kanału sprzedaży inwestycji. Służy do zaprezentowania portfolio, postępów w budowie i szczegółów inwestycji. Kluczowym elementem są interaktywne makiety 3D osiedli i mieszkań, pozwalające klientom na łatwy wybór.",
+    "focus": "Deweloperzy opierają się na kampaniach reklamowych i SEO fraz nowo powstających inwestycji, np. \"nowe mieszkania [dzielnica]\" czy \"domy od dewelopera [miasto]\".",
+    "specifications": [
+      "Interaktywna wyszukiwarka mieszkań 3D z planami pięter (Floor Plan Selector).",
+      "Dynamiczne tabele dostępności z filtrowaniem (metraż, liczba pokoi, cena).",
+      "Strony Landing Page dedykowane konkretnym inwestycjom z formularzem kontaktowym.",
+      "Integracja z systemami CRM dedykowanymi deweloperom (np. VOX, ASARI).",
+      "Wizualizacja postępów prac (oś czasu z galerią zdjęć/wideo).",
+      "Wdrożenie Schema.org (RealEstateAgent / Residence) dla poprawnych metadanych."
+    ]
+  },
+  "en": {
+    "name": "Developer",
+    "about": "A website for a real estate developer serves as the primary sales channel for new developments. It showcases portfolios, construction progress, and investment details. Interactive 3D mockups of estates and apartments are key features allowing customers to easily select their desired property.",
+    "focus": "Developers rely on ad campaigns and SEO for newly built developments, such as \"new apartments [district]\" or \"homes from developer [city]\".",
+    "specifications": [
+      "Interactive 3D apartment search with floor plans (Floor Plan Selector).",
+      "Dynamic availability tables with filtering (area, number of rooms, price).",
+      "Landing pages dedicated to specific investments with contact forms.",
+      "Integration with CRM systems tailored for developers.",
+      "Visualization of construction progress (timeline with photo/video gallery).",
+      "Implementation of Schema.org (RealEstateAgent / Residence) for proper metadata."
+    ]
+  },
+  "de": {
+    "name": "Bauträger",
+    "about": "Eine Website für einen Bauträger dient als primärer Vertriebskanal für neue Bauprojekte. Sie präsentiert Portfolios, Baufortschritte und Projektdetails. Interaktive 3D-Modelle von Siedlungen und Wohnungen sind wesentliche Funktionen, die es Kunden erleichtern, ihre Wunschimmobilie auszuwählen.",
+    "focus": "Bauträger setzen auf Werbekampagnen und SEO für neu errichtete Bauprojekte, wie z.B. \"Neubauwohnungen [Viertel]\" oder \"Häuser vom Bauträger [Stadt]\".",
+    "specifications": [
+      "Interaktive 3D-Wohnungssuche mit Grundrissen (Floor Plan Selector).",
+      "Dynamische Verfügbarkeitstabellen mit Filterfunktion (Fläche, Zimmeranzahl, Preis).",
+      "Landingpages für spezifische Bauprojekte mit Kontaktformularen.",
+      "Integration mit CRM-Systemen für Bauträger.",
+      "Visualisierung des Baufortschritts (Zeitachse mit Foto-/Videogalerie).",
+      "Implementierung von Schema.org (RealEstateAgent / Residence) für korrekte Metadaten."
+    ]
+  },
+  "uk": {
+    "name": "Забудовник",
+    "about": "Веб-сайт для забудовника служить основним каналом продажу нових об'єктів. Він демонструє портфоліо, хід будівництва та деталі інвестицій. Інтерактивні 3D-макети містечок і квартир – це ключові функції, які дозволяють клієнтам легко обирати бажану нерухомість.",
+    "focus": "Забудовники покладаються на рекламні кампанії та SEO для новобудов, наприклад, \"нові квартири [район]\" або \"будинки від забудовника [місто]\".",
+    "specifications": [
+      "Інтерактивний 3D пошук квартир з плануваннями поверхів (Floor Plan Selector).",
+      "Динамічні таблиці доступності з фільтрацією (площа, кількість кімнат, ціна).",
+      "Лендінги, присвячені конкретним інвестиціям, з контактними формами.",
+      "Інтеграція з CRM-системами, призначеними для забудовників.",
+      "Візуалізація ходу будівництва (часова шкала з фото/відео галереєю).",
+      "Впровадження Schema.org (RealEstateAgent / Residence) для правильних метаданих."
+    ]
+  },
+  "ru": {
+    "name": "Застройщик",
+    "about": "Сайт для застройщика является основным каналом продаж новых объектов. Он демонстрирует портфолио, ход строительства и детали инвестиций. Интерактивные 3D-макеты поселков и квартир — это ключевые функции, позволяющие клиентам легко выбирать желаемую недвижимость.",
+    "focus": "Застройщики полагаются на рекламные кампании и SEO для новостроек, например, \"новые квартиры [район]\" или \"дома от застройщика [город]\".",
+    "specifications": [
+      "Интерактивный 3D поиск квартир с поэтажными планами (Floor Plan Selector).",
+      "Динамические таблицы доступности с фильтрацией (площадь, количество комнат, цена).",
+      "Лендинги, посвященные конкретным объектам, с контактными формами.",
+      "Интеграция с CRM-системами, предназначенными для застройщиков.",
+      "Визуализация хода строительства (временная шкала с фото/видео галереей).",
+      "Внедрение Schema.org (RealEstateAgent / Residence) для правильных метаданных."
+    ]
+  },
+  "zh": {
+    "name": "开发商",
+    "about": "房地产开发商的网站是新开发项目的主要销售渠道。它展示投资组合、施工进度和投资细节。楼盘和公寓的交互式 3D 模拟是让客户轻松选择心仪房产的关键功能。",
+    "focus": "开发商依赖于广告活动和针对新建楼盘的 SEO，例如“[区域]新公寓”或“[城市]开发商直售房屋”。",
+    "specifications": [
+      "带有楼层平面的交互式 3D 公寓搜索（Floor Plan Selector）。",
+      "带有过滤条件（面积、房间数、价格）的动态可售房源表。",
+      "专为特定投资项目设计的带有联系表单的登陆页面。",
+      "与专为开发商量身定制的 CRM 系统集成。",
+      "施工进度可视化（带有照片/视频库的时间表）。",
+      "实施 Schema.org (RealEstateAgent / Residence) 以获得正确的元数据。"
+    ]
+  }
+}

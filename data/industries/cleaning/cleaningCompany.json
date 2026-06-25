@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Firma Sprzątająca",
+    "about": "Dla firmy sprzątającej, intuicyjna strona internetowa to najlepszy sposób na automatyzację obsługi klientów. Przejrzysty cennik, kalkulator usług oraz możliwość zamówienia sprzątania online budują wizerunek nowoczesnego i rzetelnego wykonawcy.",
+    "focus": "Firmy sprzątające opierają pozyskiwanie klientów na pozycjonowaniu lokalnym (np. \"sprzątanie biur [miasto]\", \"firma sprzątająca [dzielnica]\") oraz na opiniach z Google.",
+    "specifications": [
+      "Moduł wyceny i rezerwacji usług online (kalkulator na podstawie metrażu i zakresu prac).",
+      "Strony usługowe (np. sprzątanie biur, pranie dywanów) zoptymalizowane pod SEO lokalne.",
+      "Integracja z platformami do zarządzania zleceniami i grafikami pracowników.",
+      "Kluczowa sekcja \"Dlaczego my?\" prezentująca certyfikaty, ubezpieczenie OC i referencje.",
+      "Galeria „przed i po” zoptymalizowana do szybkiego ładowania (WebP).",
+      "Wdrożenie Schema.org (HomeAndConstructionBusiness) zwiększające widoczność w wynikach Google."
+    ]
+  },
+  "en": {
+    "name": "Cleaning Company",
+    "about": "For a cleaning company, an intuitive website is the best way to automate customer service. A clear pricing structure, service calculator, and the ability to book cleaning services online build the image of a modern and reliable contractor.",
+    "focus": "Cleaning companies rely on local SEO for client acquisition (e.g., \"office cleaning [city]\", \"cleaning company [district]\") and Google reviews.",
+    "specifications": [
+      "Online pricing and booking module (calculator based on square footage and scope of work).",
+      "Service pages (e.g., office cleaning, carpet cleaning) optimized for local SEO.",
+      "Integration with platforms for managing work orders and employee schedules.",
+      "Key \"Why Us?\" section showcasing certifications, liability insurance, and references.",
+      "\"Before and After\" gallery optimized for fast loading (WebP).",
+      "Implementation of Schema.org (HomeAndConstructionBusiness) to increase visibility in Google results."
+    ]
+  },
+  "de": {
+    "name": "Reinigungsfirma",
+    "about": "Für eine Reinigungsfirma ist eine intuitive Website der beste Weg, den Kundenservice zu automatisieren. Eine klare Preisstruktur, ein Service-Rechner und die Möglichkeit, Reinigungsdienste online zu buchen, vermitteln das Bild eines modernen und zuverlässigen Dienstleisters.",
+    "focus": "Reinigungsfirmen stützen sich bei der Kundenakquise auf lokales SEO (z.B. \"Büroreinigung [Stadt]\", \"Reinigungsfirma [Viertel]\") und Google-Bewertungen.",
+    "specifications": [
+      "Online-Preisbildungs- und Buchungsmodul (Rechner auf Basis von Quadratmetern und Arbeitsumfang).",
+      "Für lokales SEO optimierte Serviceseiten (z.B. Büroreinigung, Teppichreinigung).",
+      "Integration mit Plattformen zur Verwaltung von Arbeitsaufträgen und Mitarbeiterplänen.",
+      "Wichtiger Abschnitt \"Warum wir?\" zur Präsentation von Zertifikaten, Haftpflichtversicherung und Referenzen.",
+      "\"Vorher-Nachher\"-Galerie, optimiert für schnelles Laden (WebP).",
+      "Implementierung von Schema.org (HomeAndConstructionBusiness) zur Erhöhung der Sichtbarkeit in Google-Ergebnissen."
+    ]
+  },
+  "uk": {
+    "name": "Клінінгова компанія",
+    "about": "Для клінінгової компанії інтуїтивно зрозумілий сайт – це найкращий спосіб автоматизувати обслуговування клієнтів. Прозорий прайс-лист, калькулятор послуг та можливість замовити прибирання онлайн формують імідж сучасного та надійного підрядника.",
+    "focus": "Клінінгові компанії покладаються на локальне SEO для залучення клієнтів (наприклад, \"прибирання офісів [місто]\", \"клінінгова компанія [район]\") та відгуки в Google.",
+    "specifications": [
+      "Модуль онлайн-оцінки та бронювання (калькулятор на основі площі та обсягу робіт).",
+      "Сторінки послуг (наприклад, прибирання офісів, хімчистка килимів), оптимізовані для локального SEO.",
+      "Інтеграція з платформами для управління замовленнями та графіками працівників.",
+      "Ключовий розділ \"Чому ми?\" з демонстрацією сертифікатів, страхування відповідальності та рекомендацій.",
+      "Галерея \"До і після\", оптимізована для швидкого завантаження (WebP).",
+      "Впровадження Schema.org (HomeAndConstructionBusiness) для підвищення видимості в результатах Google."
+    ]
+  },
+  "ru": {
+    "name": "Клининговая компания",
+    "about": "Для клининговой компании интуитивно понятный сайт — это лучший способ автоматизировать обслуживание клиентов. Прозрачный прайс-лист, калькулятор услуг и возможность заказать уборку онлайн создают имидж современного и надежного подрядчика.",
+    "focus": "Клининговые компании полагаются на локальное SEO для привлечения клиентов (например, \"уборка офисов [город]\", \"клининговая компания [район]\") и отзывы в Google.",
+    "specifications": [
+      "Модуль онлайн-оценки и бронирования (калькулятор на основе площади и объема работ).",
+      "Страницы услуг (например, уборка офисов, химчистка ковров), оптимизированные для локального SEO.",
+      "Интеграция с платформами для управления заказами и графиками сотрудников.",
+      "Ключевой раздел \"Почему мы?\" с демонстрацией сертификатов, страхования ответственности и рекомендаций.",
+      "Галерея \"До и после\", оптимизированная для быстрой загрузки (WebP).",
+      "Внедрение Schema.org (HomeAndConstructionBusiness) для повышения видимости в результатах Google."
+    ]
+  },
+  "zh": {
+    "name": "保洁公司",
+    "about": "对于保洁公司而言，直观的网站是实现客户服务自动化的最佳方式。清晰的定价结构、服务计算器以及在线预订保洁服务的功能，树立了现代且可靠的承包商形象。",
+    "focus": "保洁公司依靠本地 SEO 来获取客户（例如，“[城市]办公室保洁”、“[区域]保洁公司”）以及 Google 上的评论。",
+    "specifications": [
+      "在线定价和预订模块（基于面积和工作范围的计算器）。",
+      "针对本地 SEO 优化的服务页面（例如，办公室保洁、地毯清洗）。",
+      "与用于管理工作订单和员工日程安排的平台集成。",
+      "关键的“为什么选择我们？”部分，展示认证、责任保险和推荐信。",
+      "优化以实现快速加载的“保洁前后”对比图库 (WebP)。",
+      "实施 Schema.org (HomeAndConstructionBusiness) 以提高在 Google 搜索结果中的可见度。"
+    ]
+  }
+}

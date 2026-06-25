@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Agencja Nieruchomości",
+    "about": "Profesjonalna strona dla agencji nieruchomości to kluczowe narzędzie do pozyskiwania kontaktów, prezentowania ofert domów i mieszkań oraz budowania zaufania. Funkcje takie jak interaktywne wyszukiwarki ofert, wirtualne spacery i integracje z portalami ogłoszeniowymi przyspieszają proces sprzedaży lub wynajmu.",
+    "focus": "Agencje nieruchomości skupiają się na SEO lokalnym dla haseł typu \"agencja nieruchomości [miasto]\" lub \"biuro nieruchomości [miasto]\" oraz na szybkim kontakcie poprzez formularze.",
+    "specifications": [
+      "Zaawansowana wyszukiwarka ofert z filtrowaniem (cena, metraż, lokalizacja, rynek wtórny/pierwotny).",
+      "Integracja z systemami CRM i portalami ogłoszeniowymi poprzez API (np. Asari, Galactica).",
+      "Obsługa wirtualnych spacerów 3D i galerii zdjęć w wysokiej rozdzielczości (WebP/AVIF).",
+      "System umawiania wizyt i prezentacji nieruchomości online.",
+      "Kalkulator zdolności kredytowej jako narzędzie angażujące użytkowników (Lead Magnet).",
+      "Wdrożenie Schema.org (RealEstateAgent) dla poprawy wyników wyszukiwania."
+    ]
+  },
+  "en": {
+    "name": "Real Estate Agency",
+    "about": "A professional website for a real estate agency is a critical tool for lead generation, showcasing property listings, and building trust. Features like interactive property search, virtual tours, and MLS integrations accelerate the sales or rental process.",
+    "focus": "Real estate agencies focus on local SEO for terms like \"real estate agency [city]\" or \"realtor [city]\" and quick lead capture via forms.",
+    "specifications": [
+      "Advanced property search with filtering (price, area, location, buy/rent).",
+      "Integration with CRM systems and MLS property portals via API.",
+      "Support for 3D virtual tours and high-resolution image galleries (WebP/AVIF).",
+      "Online scheduling system for property viewings and presentations.",
+      "Mortgage calculator as an engaging lead magnet tool.",
+      "Implementation of Schema.org (RealEstateAgent) to improve search visibility."
+    ]
+  },
+  "de": {
+    "name": "Immobilienagentur",
+    "about": "Eine professionelle Website für eine Immobilienagentur ist ein entscheidendes Instrument zur Lead-Generierung, Präsentation von Immobilienangeboten und Vertrauensbildung. Funktionen wie interaktive Immobiliensuche, virtuelle Rundgänge und MLS-Integrationen beschleunigen den Verkaufs- oder Vermietungsprozess.",
+    "focus": "Immobilienagenturen konzentrieren sich auf lokales SEO für Begriffe wie \"Immobilienmakler [Stadt]\" und schnelle Lead-Erfassung über Formulare.",
+    "specifications": [
+      "Erweiterte Immobiliensuche mit Filterfunktion (Preis, Fläche, Ort, Kaufen/Mieten).",
+      "Integration mit CRM-Systemen und Immobilienportalen via API.",
+      "Unterstützung für virtuelle 3D-Rundgänge und hochauflösende Bildergalerien (WebP/AVIF).",
+      "Online-Terminplanungssystem für Besichtigungen und Präsentationen.",
+      "Hypothekenrechner als ansprechendes Lead-Magnet-Tool.",
+      "Implementierung von Schema.org (RealEstateAgent) zur Verbesserung der Suchsichtbarkeit."
+    ]
+  },
+  "uk": {
+    "name": "Агентство нерухомості",
+    "about": "Професійний сайт для агентства нерухомості – це ключовий інструмент для залучення лідів, демонстрації об'єктів та побудови довіри. Такі функції, як інтерактивний пошук, віртуальні тури та інтеграція з порталами оголошень, прискорюють процес продажу або оренди.",
+    "focus": "Агентства нерухомості зосереджуються на локальному SEO для запитів на кшталт \"агентство нерухомості [місто]\" та швидкому зборі контактів через форми.",
+    "specifications": [
+      "Розширений пошук нерухомості з фільтрацією (ціна, площа, локація, продаж/оренда).",
+      "Інтеграція з CRM-системами та порталами нерухомості через API.",
+      "Підтримка віртуальних 3D-турів та галерей зображень високої роздільної здатності (WebP/AVIF).",
+      "Система онлайн-запису на перегляд об'єктів та презентації.",
+      "Іпотечний калькулятор як інструмент для залучення лідів.",
+      "Впровадження Schema.org (RealEstateAgent) для покращення видимості в пошуку."
+    ]
+  },
+  "ru": {
+    "name": "Агентство недвижимости",
+    "about": "Профессиональный сайт для агентства недвижимости — это ключевой инструмент для привлечения лидов, демонстрации объектов и создания доверия. Такие функции, как интерактивный поиск, виртуальные туры и интеграция с порталами объявлений, ускоряют процесс продажи или аренды.",
+    "focus": "Агентства недвижимости фокусируются на локальном SEO по запросам типа \"агентство недвижимости [город]\" и быстром сборе контактов через формы.",
+    "specifications": [
+      "Расширенный поиск недвижимости с фильтрацией (цена, площадь, локация, продажа/аренда).",
+      "Интеграция с CRM-системами и порталами недвижимости через API.",
+      "Поддержка виртуальных 3D-туров и галерей изображений высокого разрешения (WebP/AVIF).",
+      "Система онлайн-записи на просмотр объектов и презентации.",
+      "Ипотечный калькулятор в качестве инструмента для привлечения лидов.",
+      "Внедрение Schema.org (RealEstateAgent) для улучшения видимости в поиске."
+    ]
+  },
+  "zh": {
+    "name": "房产中介",
+    "about": "房地产机构的专业网站是获取潜在客户、展示房源信息和建立信任的关键工具。互动式房产搜索、虚拟看房和与房产门户的集成等功能，加速了销售或租赁过程。",
+    "focus": "房产中介专注于针对“房产中介 [城市]”等词汇的本地 SEO，并通过表单快速捕获潜在客户。",
+    "specifications": [
+      "带有过滤条件的高级房产搜索（价格、面积、位置、买/租）。",
+      "通过 API 与 CRM 系统和房产门户网站集成。",
+      "支持 3D 虚拟看房和高分辨率图片库 (WebP/AVIF)。",
+      "在线预约看房和房产展示系统。",
+      "房贷计算器作为吸引用户的工具。",
+      "实施 Schema.org (RealEstateAgent) 以提高搜索可见度。"
+    ]
+  }
+}

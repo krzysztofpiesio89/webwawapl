@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Hotel i Noclegi",
+    "about": "W branży turystycznej własna strona internetowa pozwala na przyjmowanie rezerwacji bezpośrednich bez prowizji pobieranych przez platformy OTA (jak Booking.com czy Airbnb). Estetyczna galeria zdjęć, opis udogodnień oraz integracja z popularnymi Channel Managerami to podstawa sukcesu obiektów noclegowych.",
+    "focus": "Obiekty noclegowe budują widoczność na hasła lokalne, np. \"hotel [miasto] centrum\" czy \"apartamenty na wynajem [region]\", łącząc SEO z profilami Google Moja Firma.",
+    "specifications": [
+      "Własny silnik rezerwacji (Booking Engine) lub integracja z Channel Managerem (np. IdoSell, Profitroom).",
+      "Wysokiej jakości interaktywna galeria pokoi i udogodnień (WebP/AVIF).",
+      "Prezentacja oferty dodatkowej: SPA, restauracja, organizacja konferencji i wesel.",
+      "Moduł opinii i recenzji wdrożony jako mikrodane (Review Schema) widoczne w Google.",
+      "Wielojęzyczność (i18n) dla obsługi gości zagranicznych.",
+      "Integracja map i narzędzi do nawigacji dla ułatwienia dojazdu."
+    ]
+  },
+  "en": {
+    "name": "Hotel & Accommodation",
+    "about": "In the tourism industry, having your own website allows for direct bookings without the commissions charged by OTA platforms (like Booking.com or Airbnb). An aesthetic photo gallery, description of amenities, and integration with popular Channel Managers are the foundation of success for accommodation providers.",
+    "focus": "Accommodation facilities build visibility for local keywords, e.g., \"hotel [city] center\" or \"apartments for rent [region]\", combining SEO with Google My Business profiles.",
+    "specifications": [
+      "Custom Booking Engine or integration with a Channel Manager (e.g., Cloudbeds, SiteMinder).",
+      "High-quality interactive gallery of rooms and amenities (WebP/AVIF).",
+      "Presentation of additional offers: SPA, restaurant, conferences, and weddings.",
+      "Review and rating module implemented as microdata (Review Schema) visible in Google.",
+      "Multilingual support (i18n) to cater to international guests.",
+      "Integration of maps and navigation tools to facilitate arrivals."
+    ]
+  },
+  "de": {
+    "name": "Hotel & Unterkunft",
+    "about": "In der Tourismusbranche ermöglicht eine eigene Website Direktbuchungen ohne die von OTA-Plattformen (wie Booking.com oder Airbnb) erhobenen Provisionen. Eine ästhetische Fotogalerie, die Beschreibung der Annehmlichkeiten und die Integration mit beliebten Channel Managern sind die Grundlage für den Erfolg von Unterkünften.",
+    "focus": "Unterkünfte bauen Sichtbarkeit für lokale Keywords auf, z.B. \"Hotel [Stadt] Zentrum\" oder \"Ferienwohnungen [Region]\", indem sie SEO mit Google My Business-Profilen kombinieren.",
+    "specifications": [
+      "Eigene Buchungsmaschine (Booking Engine) oder Integration mit einem Channel Manager.",
+      "Hochwertige interaktive Galerie von Zimmern und Annehmlichkeiten (WebP/AVIF).",
+      "Präsentation von Zusatzangeboten: SPA, Restaurant, Konferenzen und Hochzeiten.",
+      "Bewertungsmodul als Mikrodaten (Review Schema) in Google sichtbar implementiert.",
+      "Mehrsprachigkeit (i18n) zur Betreuung internationaler Gäste.",
+      "Integration von Karten und Navigationstools zur Erleichterung der Anreise."
+    ]
+  },
+  "uk": {
+    "name": "Готель та житло",
+    "about": "У туристичній галузі власний веб-сайт дозволяє отримувати прямі бронювання без комісій, які стягують OTA-платформи (наприклад, Booking.com або Airbnb). Естетична фотогалерея, опис зручностей та інтеграція з популярними Channel Manager є основою успіху об'єктів розміщення.",
+    "focus": "Об'єкти розміщення розбудовують видимість за локальними ключовими словами, наприклад, \"готель [місто] центр\" або \"апартаменти в оренду [регіон]\", поєднуючи SEO з профілями Google Мій Бізнес.",
+    "specifications": [
+      "Власний модуль бронювання (Booking Engine) або інтеграція з Channel Manager.",
+      "Високоякісна інтерактивна галерея номерів та зручностей (WebP/AVIF).",
+      "Презентація додаткових послуг: SPA, ресторан, конференції та весілля.",
+      "Модуль відгуків, реалізований як мікродані (Review Schema), видимі в Google.",
+      "Багатомовність (i18n) для обслуговування іноземних гостей.",
+      "Інтеграція карт та інструментів навігації для полегшення доїзду."
+    ]
+  },
+  "ru": {
+    "name": "Отель и жилье",
+    "about": "В туристической отрасли собственный сайт позволяет получать прямые бронирования без комиссий, взимаемых OTA-платформами (такими как Booking.com или Airbnb). Эстетичная фотогалерея, описание удобств и интеграция с популярными Channel Manager являются основой успеха объектов размещения.",
+    "focus": "Объекты размещения выстраивают видимость по локальным ключевым словам, например, \"отель [город] центр\" или \"апартаменты в аренду [регион]\", совмещая SEO с профилями Google Мой Бизнес.",
+    "specifications": [
+      "Собственный модуль бронирования (Booking Engine) или интеграция с Channel Manager.",
+      "Высококачественная интерактивная галерея номеров и удобств (WebP/AVIF).",
+      "Презентация дополнительных услуг: СПА, ресторан, конференции и свадьбы.",
+      "Модуль отзывов, реализованный как микроданные (Review Schema), видимые в Google.",
+      "Многоязычность (i18n) для обслуживания иностранных гостей.",
+      "Интеграция карт и навигационных инструментов для облегчения приезда."
+    ]
+  },
+  "zh": {
+    "name": "酒店与住宿",
+    "about": "在旅游业中，拥有自己的网站可以实现直接预订，而无需支付 OTA 平台（如 Booking.com 或 Airbnb）收取的佣金。唯美的图库、设施描述以及与流行的渠道管理器集成是住宿提供商成功的基础。",
+    "focus": "住宿设施通过针对本地关键词建立可见度，例如“[城市]市中心酒店”或“[地区]公寓出租”，并将 SEO 与 Google 我的商家资料相结合。",
+    "specifications": [
+      "自定义预订引擎或与渠道管理器集成。",
+      "客房和设施的高质量交互式图库 (WebP/AVIF)。",
+      "展示附加产品：SPA、餐厅、会议和婚礼。",
+      "将评论和评级模块实施为在 Google 中可见的微数据 (Review Schema)。",
+      "多语言支持 (i18n) 以迎合国际客人。",
+      "集成地图和导航工具以方便抵达。"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Zakład Produkcyjny / Fabryka",
+    "about": "W sektorze B2B profesjonalna strona fabryki pełni rolę wizytówki technologicznej. Pokazuje możliwości produkcyjne, park maszynowy i standardy jakości. To główne narzędzie do pozyskiwania dużych kontraktów i budowania zaufania wśród partnerów biznesowych.",
+    "focus": "Firmy przemysłowe celują w rynki krajowe i międzynarodowe. Kluczowe jest pozycjonowanie na precyzyjne frazy związane z technologią produkcji (np. \"obróbka CNC [region]\", \"producent opakowań [kraj]\") oraz wielojęzyczność.",
+    "specifications": [
+      "Wielojęzyczna platforma wspierająca eksport (i18n), zoptymalizowana pod wyszukiwarki międzynarodowe.",
+      "Zintegrowana strefa B2B dla kontrahentów (katalog produktów z zaawansowanym filtrowaniem).",
+      "Szczegółowa prezentacja parku maszynowego i stosowanych technologii w formie wideo.",
+      "Rozbudowana sekcja certyfikatów jakości (ISO itp.) budująca zaufanie.",
+      "Moduł dla HR – dedykowana podstrona kariery ułatwiająca rekrutację pracowników produkcyjnych.",
+      "Wdrożenie Schema.org (Organization / LocalBusiness) dla zwiększenia wiarygodności w wynikach wyszukiwania B2B."
+    ]
+  },
+  "en": {
+    "name": "Manufacturing Plant / Factory",
+    "about": "In the B2B sector, a professional website for a factory serves as a technological showcase. It demonstrates production capabilities, machinery, and quality standards. It is the primary tool for acquiring large contracts and building trust among business partners.",
+    "focus": "Industrial companies target domestic and international markets. Positioning for precise keywords related to production technology (e.g., \"CNC machining [region]\", \"packaging manufacturer [country]\") and multilingual support are crucial.",
+    "specifications": [
+      "Multilingual platform supporting export (i18n), optimized for international search engines.",
+      "Integrated B2B zone for contractors (product catalog with advanced filtering).",
+      "Detailed presentation of machinery and applied technologies in video format.",
+      "Extensive section of quality certificates (ISO, etc.) building trust.",
+      "HR module – a dedicated career subpage to facilitate the recruitment of production workers.",
+      "Implementation of Schema.org (Organization / LocalBusiness) to increase credibility in B2B search results."
+    ]
+  },
+  "de": {
+    "name": "Produktionsstätte / Fabrik",
+    "about": "Im B2B-Sektor fungiert eine professionelle Fabrik-Website als technologisches Aushängeschild. Sie demonstriert Produktionskapazitäten, den Maschinenpark und Qualitätsstandards. Sie ist das primäre Instrument zur Akquise von Großaufträgen und zum Aufbau von Vertrauen bei Geschäftspartnern.",
+    "focus": "Industrieunternehmen zielen auf nationale und internationale Märkte ab. Entscheidend ist die Positionierung für präzise Keywords rund um die Produktionstechnik (z.B. \"CNC-Bearbeitung [Region]\", \"Verpackungshersteller [Land]\") sowie Mehrsprachigkeit.",
+    "specifications": [
+      "Mehrsprachige Plattform zur Unterstützung des Exports (i18n), optimiert für internationale Suchmaschinen.",
+      "Integrierter B2B-Bereich für Geschäftspartner (Produktkatalog mit erweiterten Filtern).",
+      "Detaillierte Präsentation des Maschinenparks und angewandter Technologien als Video.",
+      "Umfangreicher Bereich für Qualitätszertifikate (ISO etc.) zur Vertrauensbildung.",
+      "HR-Modul – eine eigene Karriere-Unterseite zur Erleichterung der Rekrutierung von Produktionsmitarbeitern.",
+      "Implementierung von Schema.org (Organization / LocalBusiness) zur Erhöhung der Glaubwürdigkeit in B2B-Suchergebnissen."
+    ]
+  },
+  "uk": {
+    "name": "Виробниче підприємство / Фабрика",
+    "about": "У секторі B2B професійний веб-сайт фабрики служить технологічною візитівкою. Він демонструє виробничі можливості, машинний парк та стандарти якості. Це головний інструмент для залучення великих контрактів і побудови довіри серед ділових партнерів.",
+    "focus": "Промислові компанії націлюються на внутрішній та міжнародні ринки. Ключовим є позиціонування за точними ключовими словами, пов'язаними з технологією виробництва (наприклад, \"обробка ЧПУ [регіон]\", \"виробник упаковки [країна]\"), та багатомовність.",
+    "specifications": [
+      "Багатомовна платформа для підтримки експорту (i18n), оптимізована під міжнародні пошукові системи.",
+      "Інтегрована зона B2B для контрагентів (каталог продукції з розширеною фільтрацією).",
+      "Детальна презентація машинного парку та застосовуваних технологій у відеоформаті.",
+      "Розширений розділ сертифікатів якості (ISO тощо) для зміцнення довіри.",
+      "Модуль HR – спеціальна підсторінка кар'єри для полегшення найму виробничих працівників.",
+      "Впровадження Schema.org (Organization / LocalBusiness) для підвищення довіри в результатах пошуку B2B."
+    ]
+  },
+  "ru": {
+    "name": "Производственное предприятие / Фабрика",
+    "about": "В секторе B2B профессиональный веб-сайт фабрики служит технологической визитной карточкой. Он демонстрирует производственные мощности, машинный парк и стандарты качества. Это главный инструмент для привлечения крупных контрактов и выстраивания доверия среди деловых партнеров.",
+    "focus": "Промышленные компании нацелены на внутренний и международные рынки. Ключевым является позиционирование по точным ключевым словам, связанным с технологией производства (например, \"ЧПУ обработка [регион]\", \"производитель упаковки [страна]\"), и многоязычность.",
+    "specifications": [
+      "Многоязычная платформа для поддержки экспорта (i18n), оптимизированная под международные поисковые системы.",
+      "Интегрированная зона B2B для контрагентов (каталог продукции с расширенной фильтрацией).",
+      "Детальная презентация машинного парка и применяемых технологий в видеоформате.",
+      "Расширенный раздел сертификатов качества (ISO и т.д.) для укрепления доверия.",
+      "Модуль HR – специальная подстраница карьеры для облегчения найма производственного персонала.",
+      "Внедрение Schema.org (Organization / LocalBusiness) для повышения доверия в результатах поиска B2B."
+    ]
+  },
+  "zh": {
+    "name": "制造工厂",
+    "about": "在 B2B 领域，工厂的专业网站是其技术展示的窗口。它展示了生产能力、机械设备和质量标准。这是获取大额合同并在业务合作伙伴中建立信任的主要工具。",
+    "focus": "工业公司以国内和国际市场为目标。针对与生产技术相关的精确关键词（例如，“CNC加工 [区域]”、“包装制造商 [国家]”）进行定位以及多语言支持至关重要。",
+    "specifications": [
+      "支持出口的多语言平台 (i18n)，针对国际搜索引擎进行了优化。",
+      "为承包商提供的集成 B2B 区域（具有高级过滤功能的产品目录）。",
+      "以视频格式详细介绍机械设备和应用技术。",
+      "广泛的质量证书（ISO 等）部分，以建立信任。",
+      "HR 模块——专用的职业子页面，以促进生产工人的招聘。",
+      "实施 Schema.org (Organization / LocalBusiness) 以提高 B2B 搜索结果中的可信度。"
+    ]
+  }
+}

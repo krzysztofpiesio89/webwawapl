@@ -4,6 +4,7 @@ import { locales, Locale } from './[lang]/dictionaries';
 import { getLocalizedStaticPath } from './[lang]/i18n-routes';
 import { getAllIndustries, getLocalizedIndustryPath } from '@/lib/industries';
 import { industryModelsMap, ProfessionId } from '@/lib/industries-list';
+import { getAllTechnologies } from '@/lib/technology';
 
 export async function generateSitemaps() {
   const cities = getAllCities();
@@ -59,6 +60,49 @@ export default async function sitemap(props: { id: string | Promise<string> }): 
         changeFrequency: 'yearly', 
         priority: 0.3 
       });
+      
+      // SEO
+      sitemapEntries.push({ 
+        url: `${baseUrl}${getLocalizedStaticPath('seo', lang as Locale)}`, 
+        lastModified: new Date(), 
+        changeFrequency: 'weekly', 
+        priority: 0.8 
+      });
+
+      // Websites
+      sitemapEntries.push({ 
+        url: `${baseUrl}${getLocalizedStaticPath('websites', lang as Locale)}`, 
+        lastModified: new Date(), 
+        changeFrequency: 'weekly', 
+        priority: 0.9 
+      });
+
+      // Ecommerce
+      sitemapEntries.push({ 
+        url: `${baseUrl}${getLocalizedStaticPath('ecommerce', lang as Locale)}`, 
+        lastModified: new Date(), 
+        changeFrequency: 'weekly', 
+        priority: 0.9 
+      });
+
+      // Software
+      sitemapEntries.push({ 
+        url: `${baseUrl}${getLocalizedStaticPath('software', lang as Locale)}`, 
+        lastModified: new Date(), 
+        changeFrequency: 'weekly', 
+        priority: 0.9 
+      });
+
+      // Technologies (software/[tech])
+      const techs = getAllTechnologies();
+      for (const tech of techs) {
+        sitemapEntries.push({ 
+          url: `${baseUrl}${getLocalizedStaticPath('software', lang as Locale)}/${tech}`, 
+          lastModified: new Date(), 
+          changeFrequency: 'monthly', 
+          priority: 0.8 
+        });
+      }
     }
     return sitemapEntries;
   }

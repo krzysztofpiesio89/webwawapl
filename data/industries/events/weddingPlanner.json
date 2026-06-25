@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Wedding Planner",
+    "about": "Strona dla organizatorów ślubów to wizytówka ich kreatywności i profesjonalizmu. Estetyczne portfolio zrealizowanych uroczystości, czytelna oferta oraz narzędzia do umawiania darmowych konsultacji to klucz do zdobycia zaufania przyszłych nowożeńców.",
+    "focus": "Wedding plannerzy celują w frazy oparte na lokalizacji i dacie (np. \"organizacja wesel [miasto]\", \"wedding planner [region] 2025\"). Ważną rolę odgrywa tu też zintegrowany blog ślubny.",
+    "specifications": [
+      "Eleganckie, nieszablonowe portfolio wideo i zdjęć (masonry grid) wspierające formaty WebP/AVIF.",
+      "Kalendarz rezerwacji darmowych konsultacji wstępnych (np. integracja z Calendly).",
+      "Sekcja z opiniami i referencjami wdrożona w oparciu o Review Schema.",
+      "Zintegrowany blog poradnikowy wspierający strategię Content Marketingową.",
+      "Ukryte sekcje dla klientów ze strefą logowania (np. plan zadań, kosztorys).",
+      "Kalkulator wstępnych kosztów wesela jako narzędzie do generowania leadów."
+    ]
+  },
+  "en": {
+    "name": "Wedding Planner",
+    "about": "A website for wedding planners is a showcase of their creativity and professionalism. An aesthetic portfolio of completed events, a clear offer, and tools for scheduling free consultations are key to gaining the trust of future newlyweds.",
+    "focus": "Wedding planners target location- and date-based keywords (e.g., \"wedding planning [city]\", \"wedding planner [region] 2025\"). An integrated wedding blog also plays a crucial role.",
+    "specifications": [
+      "Elegant, unconventional video and photo portfolio (masonry grid) supporting WebP/AVIF formats.",
+      "Booking calendar for free initial consultations (e.g., Calendly integration).",
+      "Reviews and testimonials section implemented based on Review Schema.",
+      "Integrated advice blog supporting Content Marketing strategy.",
+      "Hidden sections for clients with a login area (e.g., task plan, cost estimate).",
+      "Preliminary wedding cost calculator as a lead generation tool."
+    ]
+  },
+  "de": {
+    "name": "Hochzeitsplaner",
+    "about": "Eine Website für Hochzeitsplaner ist das Aushängeschild für deren Kreativität und Professionalität. Ein ästhetisches Portfolio durchgeführter Veranstaltungen, ein klares Angebot und Tools zur Vereinbarung kostenloser Erstgespräche sind der Schlüssel zum Vertrauen zukünftiger Brautpaare.",
+    "focus": "Hochzeitsplaner zielen auf orts- und datumsbezogene Keywords ab (z.B. \"Hochzeitsplanung [Stadt]\", \"Hochzeitsplaner [Region] 2025\"). Ein integrierter Hochzeitsblog spielt ebenfalls eine wichtige Rolle.",
+    "specifications": [
+      "Elegantes, unkonventionelles Video- und Foto-Portfolio (Masonry-Grid) mit WebP/AVIF-Unterstützung.",
+      "Buchungskalender für kostenlose Erstberatungen (z.B. Calendly-Integration).",
+      "Kundenstimmen und Referenzen auf Basis von Review Schema implementiert.",
+      "Integrierter Ratgeber-Blog zur Unterstützung der Content-Marketing-Strategie.",
+      "Verborgene Bereiche für Kunden mit Login (z.B. Aufgabenplan, Kostenvoranschlag).",
+      "Vorläufiger Hochzeitskostenrechner als Tool zur Lead-Generierung."
+    ]
+  },
+  "uk": {
+    "name": "Організатор весіль",
+    "about": "Сайт для організаторів весіль – це вітрина їхньої креативності та професіоналізму. Естетичне портфоліо проведених заходів, зрозуміла пропозиція та інструменти для запису на безкоштовні консультації є ключем до завоювання довіри майбутніх молодят.",
+    "focus": "Весільні організатори націлюються на ключові слова на основі локації та дати (наприклад, \"організація весіль [місто]\", \"весільний організатор [регіон] 2025\"). Інтегрований весільний блог також відіграє важливу роль.",
+    "specifications": [
+      "Елегантне, нестандартне відео та фото портфоліо (masonry grid) з підтримкою форматів WebP/AVIF.",
+      "Календар бронювання безкоштовних первинних консультацій (наприклад, інтеграція з Calendly).",
+      "Розділ відгуків і рекомендацій, реалізований на базі Review Schema.",
+      "Інтегрований блог з порадами для підтримки стратегії контент-маркетингу.",
+      "Приховані розділи для клієнтів із зоною авторизації (наприклад, план завдань, кошторис).",
+      "Калькулятор попередніх витрат на весілля як інструмент для генерації лідів."
+    ]
+  },
+  "ru": {
+    "name": "Свадебный организатор",
+    "about": "Сайт для организаторов свадеб — это витрина их креативности и профессионализма. Эстетичное портфолио проведенных мероприятий, понятное предложение и инструменты для записи на бесплатные консультации являются ключом к завоеванию доверия будущих молодоженов.",
+    "focus": "Свадебные организаторы нацеливаются на ключевые слова на основе локации и даты (например, \"организация свадеб [город]\", \"свадебный организатор [регион] 2025\"). Интегрированный свадебный блог также играет важную роль.",
+    "specifications": [
+      "Элегантное, нестандартное видео и фото портфолио (masonry grid) с поддержкой форматов WebP/AVIF.",
+      "Календарь бронирования бесплатных первичных консультаций (например, интеграция с Calendly).",
+      "Раздел отзывов и рекомендаций, реализованный на базе Review Schema.",
+      "Интегрированный блог с советами для поддержки стратегии контент-маркетинга.",
+      "Скрытые разделы для клиентов с зоной авторизации (например, план задач, смета).",
+      "Калькулятор предварительных затрат на свадьбу как инструмент для генерации лидов."
+    ]
+  },
+  "zh": {
+    "name": "婚礼策划师",
+    "about": "婚礼策划师的网站是展现其创意与专业素养的窗口。唯美的过往活动作品集、清晰的服务报价以及预约免费咨询的工具，是赢得准新人信任的关键。",
+    "focus": "婚礼策划师通常针对基于地点和日期的关键词进行优化（例如“[城市]婚礼策划”、“[地区]2025婚礼策划师”）。内置的婚礼博客也发挥着重要作用。",
+    "specifications": [
+      "优雅、不落俗套的视频和照片作品集（瀑布流布局），支持 WebP/AVIF 格式。",
+      "用于预约免费初步咨询的日历（例如与 Calendly 集成）。",
+      "基于 Review Schema 实施的评价和感言部分。",
+      "支持内容营销策略的内置建议博客。",
+      "为客户提供带登录区域的隐藏版块（例如任务计划、费用估算）。",
+      "初步婚礼成本计算器，用作获取潜在客户的工具。"
+    ]
+  }
+}

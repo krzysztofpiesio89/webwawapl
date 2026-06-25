@@ -48,14 +48,21 @@ const RELATED_INDUSTRIES: Record<IndustryId, IndustryId[]> = {
   lawyer: ['accountant'],
   psychologist: ['doctor', 'beauty'],
   accountant: ['lawyer'],
-  architect: ['construction'],
-  construction: ['architect', 'transport'],
-  beauty: ['psychologist'],
+  architect: ['construction', 'real-estate'],
+  construction: ['architect', 'transport', 'real-estate'],
+  beauty: ['psychologist', 'pets'],
   automotive: ['transport'],
-  gastronomy: [],
+  gastronomy: ['events', 'tourism'],
   transport: ['automotive', 'construction'],
   ecommerce: ['accountant', 'transport'],
   education: ['psychologist'],
+  "real-estate": ['architect', 'construction', 'insurance'],
+  tourism: ['gastronomy', 'events'],
+  events: ['gastronomy', 'tourism', 'beauty'],
+  cleaning: ['real-estate', 'construction'],
+  insurance: ['real-estate', 'automotive'],
+  pets: ['beauty'],
+  industry: ['transport', 'construction']
 };
 
 // Industry-level UI translation strings
@@ -133,7 +140,7 @@ export async function generateStaticParams() {
     'sulejowek', 'grodzisk-mazowiecki', 'nowy-dwor-mazowiecki', 'minsk-mazowiecki',
     'lomianki', 'ozarow-mazowiecki', 'nadarzyn', 'warszawa'
   ];
-  const industryIds = ['doctor', 'lawyer', 'psychologist', 'accountant', 'architect', 'construction', 'beauty', 'automotive', 'gastronomy', 'transport', 'ecommerce', 'education'];
+  const industryIds = ['doctor', 'lawyer', 'psychologist', 'accountant', 'architect', 'construction', 'beauty', 'automotive', 'gastronomy', 'transport', 'ecommerce', 'education', 'real-estate', 'tourism', 'events', 'cleaning', 'insurance', 'pets', 'industry'];
   
   const paramsList = [];
   for (const lang of langs) {
@@ -568,10 +575,54 @@ export default async function IndustryBrandPage({ params, searchParams }: PagePr
                       href={`${langPrefix}/${parentSlug}/${industrySlug}/${loc.slug}`}
                       className="group inline-flex items-center gap-1.5 px-4 py-1.5 rounded-none bg-slate-100 dark:bg-slate-900/60 text-xs font-bold text-slate-700 dark:text-slate-300 hover:bg-indigo-500 hover:text-white dark:hover:bg-indigo-600 transition-all duration-150 [clip-path:polygon(0_0,calc(100%-12px)_0,100%_50%,calc(100%-12px)_100%,0_100%)]"
                     >
-                      <svg className="w-3 h-3 text-indigo-500 group-hover:text-white transition-colors" fill="currentColor" viewBox="0 0 20 20">
+                      <svg className="w-3 h-3 text-indigo-500 group-hover:text-white transition-colors flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                         <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
                       </svg>
-                      {loc.name}
+                      <span className="truncate max-w-[250px] sm:max-w-xs md:max-w-sm lg:max-w-md">
+                        {(() => {
+                          const phrases = {
+                            pl: [
+                              `projektowanie stron dla ${trans.industryName.toLowerCase()} ${loc.name}`,
+                              `aplikacje dedykowane dla ${trans.industryName.toLowerCase()} ${loc.name}`,
+                              `pozycjonowanie lokalne dla ${trans.industryName.toLowerCase()} ${loc.name}`,
+                              `sklepy internetowe dla ${trans.industryName.toLowerCase()} ${loc.name}`,
+                              `systemy rezerwacji dla ${trans.industryName.toLowerCase()} ${loc.name}`,
+                              `marketing internetowy dla ${trans.industryName.toLowerCase()} ${loc.name}`,
+                            ],
+                            en: [
+                              `website design for ${trans.industryName.toLowerCase()} ${loc.name}`,
+                              `custom apps for ${trans.industryName.toLowerCase()} ${loc.name}`,
+                              `local seo for ${trans.industryName.toLowerCase()} ${loc.name}`,
+                              `ecommerce for ${trans.industryName.toLowerCase()} ${loc.name}`,
+                              `booking systems for ${trans.industryName.toLowerCase()} ${loc.name}`,
+                              `digital marketing for ${trans.industryName.toLowerCase()} ${loc.name}`,
+                            ],
+                            de: [
+                              `Webdesign für ${trans.industryName.toLowerCase()} ${loc.name}`,
+                              `Apps für ${trans.industryName.toLowerCase()} ${loc.name}`,
+                              `lokales SEO für ${trans.industryName.toLowerCase()} ${loc.name}`,
+                            ],
+                            uk: [
+                              `створення сайтів для ${trans.industryName.toLowerCase()} ${loc.name}`,
+                              `додатки для ${trans.industryName.toLowerCase()} ${loc.name}`,
+                              `seo просування для ${trans.industryName.toLowerCase()} ${loc.name}`,
+                            ],
+                            ru: [
+                              `создание сайтов для ${trans.industryName.toLowerCase()} ${loc.name}`,
+                              `приложения для ${trans.industryName.toLowerCase()} ${loc.name}`,
+                              `seo продвижение для ${trans.industryName.toLowerCase()} ${loc.name}`,
+                            ],
+                            zh: [
+                              `${trans.industryName.toLowerCase()} ${loc.name} 网站建设`,
+                              `${trans.industryName.toLowerCase()} ${loc.name} APP开发`,
+                              `${trans.industryName.toLowerCase()} ${loc.name} 本地SEO`,
+                            ]
+                          };
+                          const list = phrases[lang as keyof typeof phrases] || phrases.en;
+                          const idx = Array.from(loc.slug).reduce((acc, char) => acc + char.charCodeAt(0), 0) % list.length;
+                          return list[idx];
+                        })()}
+                      </span>
                     </Link>
                   ))}
                 </div>
@@ -608,7 +659,20 @@ export default async function IndustryBrandPage({ params, searchParams }: PagePr
                           href={`${langPrefix}/${parentSlug}/${ri.slug}`}
                           className="group inline-flex items-center gap-2 px-5 py-2 rounded-none bg-slate-100 dark:bg-slate-900/60 text-sm font-bold text-slate-700 dark:text-slate-300 hover:bg-indigo-500 hover:text-white dark:hover:bg-indigo-600 transition-all duration-150 -skew-x-12"
                         >
-                          <span className="block skew-x-12">{ri.name} &rarr;</span>
+                          <span className="block skew-x-12">
+                            {(() => {
+                              const relatedPrefix = {
+                                pl: 'projektowanie aplikacji dla ',
+                                en: 'app development for ',
+                                de: 'App-Entwicklung für ',
+                                uk: 'розробка додатків для ',
+                                ru: 'разработка приложений для ',
+                                zh: '开发程序：'
+                              };
+                              const p = relatedPrefix[lang as keyof typeof relatedPrefix] || relatedPrefix.en;
+                              return p + ri.name.toLowerCase();
+                            })()} &rarr;
+                          </span>
                         </Link>
                       ))}
                     </div>

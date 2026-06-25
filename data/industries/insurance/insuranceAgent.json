@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Agent Ubezpieczeniowy",
+    "about": "W branży ubezpieczeń konkurencja jest ogromna. Własna, dobrze zoptymalizowana strona internetowa pozwala wybić się na tle innych agentów. Powinna wzbudzać zaufanie profesjonalnym designem i umożliwiać szybki kontakt lub wycenę polisy w kilku krokach.",
+    "focus": "Agenci ubezpieczeniowi pozyskują ruch z Google (SEO lokalne np. \"tanie ubezpieczenia OC [miasto]\", \"agent PZU [dzielnica]\") oraz poprzez prowadzenie eksperckiego bloga o ubezpieczeniach.",
+    "specifications": [
+      "Wielostopniowy kalkulator/kreator wyceny polisy ubezpieczeniowej (Lead Capture Form).",
+      "Czytelny podział oferty na ubezpieczenia majątkowe, życiowe i firmowe.",
+      "Integracja z systemami CRM i narzędziami do automatyzacji e-maili/SMS.",
+      "Blog z poradami eksperckimi optymalizowany pod słowa kluczowe z długiego ogona (Long-tail SEO).",
+      "Przejrzysta sekcja FAQ z odpowiedziami na najczęstsze pytania klientów.",
+      "Wdrożenie Schema.org (FinancialService / InsuranceAgency) ułatwiające znalezienie placówki w Google."
+    ]
+  },
+  "en": {
+    "name": "Insurance Agent",
+    "about": "Competition in the insurance industry is fierce. Having your own well-optimized website allows you to stand out from other agents. It should inspire trust with a professional design and enable quick contact or policy quotes in a few steps.",
+    "focus": "Insurance agents acquire traffic from Google (local SEO e.g., \"cheap car insurance [city]\", \"insurance agent [district]\") and by running an expert blog about insurance.",
+    "specifications": [
+      "Multi-step policy quote calculator/wizard (Lead Capture Form).",
+      "Clear division of the offer into property, life, and business insurance.",
+      "Integration with CRM systems and email/SMS automation tools.",
+      "Expert advice blog optimized for long-tail keywords (Long-tail SEO).",
+      "Clear FAQ section with answers to the most common customer questions.",
+      "Implementation of Schema.org (FinancialService / InsuranceAgency) making it easier to find the office in Google."
+    ]
+  },
+  "de": {
+    "name": "Versicherungsvertreter",
+    "about": "In der Versicherungsbranche ist die Konkurrenz groß. Eine eigene, gut optimierte Website ermöglicht es Ihnen, sich von anderen Vermittlern abzuheben. Sie sollte durch professionelles Design Vertrauen erwecken und eine schnelle Kontaktaufnahme oder ein Policenangebot in wenigen Schritten ermöglichen.",
+    "focus": "Versicherungsvertreter gewinnen Traffic über Google (lokales SEO z.B. \"günstige Autoversicherung [Stadt]\", \"Versicherungsvertreter [Viertel]\") und durch das Betreiben eines Expertenblogs über Versicherungen.",
+    "specifications": [
+      "Mehrstufiger Policen-Angebotsrechner/Assistent (Lead-Capture-Formular).",
+      "Klare Aufteilung des Angebots in Sach-, Lebens- und Firmenversicherungen.",
+      "Integration mit CRM-Systemen und E-Mail-/SMS-Automatisierungstools.",
+      "Experten-Ratgeber-Blog, optimiert für Long-Tail-Keywords (Long-Tail-SEO).",
+      "Übersichtlicher FAQ-Bereich mit Antworten auf die häufigsten Kundenfragen.",
+      "Implementierung von Schema.org (FinancialService / InsuranceAgency) zum leichteren Auffinden der Agentur in Google."
+    ]
+  },
+  "uk": {
+    "name": "Страховий агент",
+    "about": "Конкуренція у страховій галузі величезна. Власний, добре оптимізований веб-сайт дозволяє виділитися на тлі інших агентів. Він повинен викликати довіру професійним дизайном і забезпечувати швидкий контакт або розрахунок вартості поліса в кілька кроків.",
+    "focus": "Страхові агенти залучають трафік з Google (локальне SEO, наприклад, \"дешеве автострахування [місто]\", \"страховий агент [район]\") та завдяки веденню експертного блогу про страхування.",
+    "specifications": [
+      "Багатокроковий калькулятор/майстер розрахунку поліса (Lead Capture Form).",
+      "Чіткий поділ пропозиції на майнове, життєве та корпоративне страхування.",
+      "Інтеграція з CRM-системами та інструментами автоматизації email/SMS.",
+      "Блог з порадами експертів, оптимізований під ключові слова з довгим хвостом (Long-tail SEO).",
+      "Зрозумілий розділ FAQ з відповідями на найпоширеніші запитання клієнтів.",
+      "Впровадження Schema.org (FinancialService / InsuranceAgency) для полегшення пошуку офісу в Google."
+    ]
+  },
+  "ru": {
+    "name": "Страховой агент",
+    "about": "Конкуренция в страховой отрасли огромна. Собственный, хорошо оптимизированный веб-сайт позволяет выделиться на фоне других агентов. Он должен вызывать доверие профессиональным дизайном и обеспечивать быстрый контакт или расчет стоимости полиса в несколько шагов.",
+    "focus": "Страховые агенты привлекают трафик из Google (локальное SEO, например, \"дешевая автостраховка [город]\", \"страховой агент [район]\") и благодаря ведению экспертного блога о страховании.",
+    "specifications": [
+      "Многошаговый калькулятор/мастер расчета полиса (Lead Capture Form).",
+      "Четкое разделение предложения на имущественное, страхование жизни и корпоративное страхование.",
+      "Интеграция с CRM-системами и инструментами автоматизации email/SMS.",
+      "Блог с советами экспертов, оптимизированный под ключевые слова с длинным хвостом (Long-tail SEO).",
+      "Понятный раздел FAQ с ответами на самые частые вопросы клиентов.",
+      "Внедрение Schema.org (FinancialService / InsuranceAgency) для облегчения поиска офиса в Google."
+    ]
+  },
+  "zh": {
+    "name": "保险代理人",
+    "about": "保险行业的竞争非常激烈。拥有自己优化良好的网站可以让您在众多代理人中脱颖而出。它应该通过专业的设计激发信任，并允许在几个步骤内快速联系或获取保单报价。",
+    "focus": "保险代理人从 Google 获取流量（本地 SEO，例如“[城市]便宜的车险”、“[区域]保险代理人”），并通过运营有关保险的专家博客来获取流量。",
+    "specifications": [
+      "多步保单报价计算器/向导（潜在客户捕获表单）。",
+      "将产品清晰地划分为财产保险、人寿保险和商业保险。",
+      "与 CRM 系统和电子邮件/短信自动化工具集成。",
+      "针对长尾关键词优化的专家建议博客（长尾 SEO）。",
+      "清晰的常见问题解答（FAQ）部分，解答最常见的客户问题。",
+      "实施 Schema.org (FinancialService / InsuranceAgency)，使其更容易在 Google 中找到该办事处。"
+    ]
+  }
+}

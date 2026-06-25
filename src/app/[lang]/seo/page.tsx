@@ -204,8 +204,29 @@ export default async function SeoServicePage(props: { params: Promise<{ lang: st
     { icon: '🔗', name: lang === 'pl' ? 'Link Building' : 'Link Building', sub: 'High Authority Backlinks' },
   ];
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": t.title,
+    "description": t.description,
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "webwawa.pl",
+      "url": "https://webwawa.pl"
+    },
+    "serviceType": "SEO Optimization",
+    "areaServed": {
+      "@type": "Country",
+      "name": "Poland"
+    }
+  };
+
   return (
     <main className="min-h-screen bg-white dark:bg-[#020510] text-slate-800 dark:text-slate-100 transition-colors duration-300">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       {/* Hero */}
       <section className="bg-gradient-to-b from-indigo-50/20 to-white dark:from-slate-950/10 dark:to-transparent py-24 text-slate-900 dark:text-white relative overflow-hidden border-b border-slate-100 dark:border-slate-900/60">
         <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-blue-600/5 rounded-full blur-[120px] pointer-events-none" />

@@ -1,0 +1,80 @@
+{
+  "pl": {
+    "name": "Groomer (Psi Fryzjer)",
+    "about": "Usługi groomerskie i pielęgnacja zwierząt cieszą się rosnącą popularnością. Strona internetowa dla psiego fryzjera pozwala zaprezentować portfolio odmienionych zwierzaków, a zintegrowany system rezerwacji zdejmuje z właściciela konieczność odbierania telefonów podczas pracy.",
+    "focus": "Kluczem do sukcesu jest pozycjonowanie na Google Maps i hasła lokalne (\"psi fryzjer [dzielnica]\", \"strzyżenie psów [miasto]\") zoptymalizowane pod urządzenia mobilne.",
+    "specifications": [
+      "Integracja z systemami do rezerwacji online wizyt, np. Booksy lub własny kalendarz.",
+      "Przejrzysty cennik usług podzielony według ras i wielkości psów/kotów.",
+      "Galeria „Metamorfozy” (Przed i Po) budująca zaufanie przyszłych klientów.",
+      "Sekcja z poradami dotyczącymi dbania o sierść zwierzaka (Content Marketing).",
+      "Lekki, przyjazny i estetyczny design wzbudzający zaufanie właścicieli czworonogów.",
+      "Wdrożenie Schema.org (LocalBusiness / PetStore) zwiększające widoczność na urządzeniach mobilnych."
+    ]
+  },
+  "en": {
+    "name": "Pet Groomer",
+    "about": "Grooming and pet care services are enjoying growing popularity. A website for a dog groomer allows them to showcase a portfolio of transformed pets, while an integrated booking system relieves the owner from having to answer phone calls while working.",
+    "focus": "The key to success is positioning on Google Maps and local keywords (\"dog groomer [district]\", \"dog grooming [city]\") optimized for mobile devices.",
+    "specifications": [
+      "Integration with online appointment booking systems, e.g., Booksy or a custom calendar.",
+      "Clear pricing structure for services categorized by breed and size of dogs/cats.",
+      "\"Metamorphoses\" (Before and After) gallery building trust with future clients.",
+      "Advice section on pet coat care (Content Marketing).",
+      "Lightweight, friendly, and aesthetic design inspiring trust in pet owners.",
+      "Implementation of Schema.org (LocalBusiness / PetStore) increasing visibility on mobile devices."
+    ]
+  },
+  "de": {
+    "name": "Hundefriseur",
+    "about": "Grooming und Tierpflege erfreuen sich wachsender Beliebtheit. Eine Website für einen Hundefriseur ermöglicht die Präsentation eines Portfolios verwandelter Haustiere, während ein integriertes Buchungssystem den Inhaber davon entlastet, während der Arbeit ans Telefon gehen zu müssen.",
+    "focus": "Der Schlüssel zum Erfolg liegt in der Positionierung auf Google Maps und bei lokalen Keywords (\"Hundefriseur [Viertel]\", \"Hundesalon [Stadt]\"), optimiert für mobile Endgeräte.",
+    "specifications": [
+      "Integration in Online-Terminbuchungssysteme (z.B. Booksy oder ein eigener Kalender).",
+      "Übersichtliche Preisliste, aufgeteilt nach Rasse und Größe der Hunde/Katzen.",
+      "\"Vorher-Nachher\"-Galerie (Metamorphosen), die Vertrauen bei zukünftigen Kunden schafft.",
+      "Ratgeber-Bereich zur Fellpflege von Haustieren (Content-Marketing).",
+      "Leichtes, freundliches und ästhetisches Design, das Vertrauen bei Tierhaltern weckt.",
+      "Implementierung von Schema.org (LocalBusiness / PetStore) zur Erhöhung der Sichtbarkeit auf mobilen Geräten."
+    ]
+  },
+  "uk": {
+    "name": "Грумер (Перукар для тварин)",
+    "about": "Послуги грумінгу та догляду за тваринами набувають все більшої популярності. Сайт для собачого перукаря дозволяє продемонструвати портфоліо перевтілених улюбленців, а інтегрована система бронювання позбавляє власника необхідності відповідати на дзвінки під час роботи.",
+    "focus": "Ключем до успіху є позиціонування на Google Картах та за локальними запитами (\"собачий перукар [район]\", \"стрижка собак [місто]\"), оптимізованими під мобільні пристрої.",
+    "specifications": [
+      "Інтеграція з системами онлайн-бронювання візитів, наприклад Booksy або власний календар.",
+      "Прозорий прайс-лист на послуги, розділений за породами та розмірами собак/котів.",
+      "Галерея \"Метаморфози\" (До і Після), що формує довіру майбутніх клієнтів.",
+      "Розділ з порадами щодо догляду за шерстю улюбленця (контент-маркетинг).",
+      "Легкий, привітний та естетичний дизайн, що викликає довіру власників тварин.",
+      "Впровадження Schema.org (LocalBusiness / PetStore) для підвищення видимості на мобільних пристроях."
+    ]
+  },
+  "ru": {
+    "name": "Грумер (Парикмахер для животных)",
+    "about": "Услуги груминга и ухода за животными набирают все большую популярность. Сайт для собачьего парикмахера позволяет продемонстрировать портфолио преобразившихся питомцев, а интегрированная система бронирования избавляет владельца от необходимости отвечать на звонки во время работы.",
+    "focus": "Ключом к успеху является позиционирование на Google Картах и по локальным запросам (\"собачий парикмахер [район]\", \"стрижка собак [город]\"), оптимизированным под мобильные устройства.",
+    "specifications": [
+      "Интеграция с системами онлайн-бронирования визитов, например Booksy или собственный календарь.",
+      "Прозрачный прайс-лист на услуги, разделенный по породам и размерам собак/кошек.",
+      "Галерея \"Метаморфозы\" (До и После), формирующая доверие будущих клиентов.",
+      "Раздел с советами по уходу за шерстью питомца (контент-маркетинг).",
+      "Легкий, приветливый и эстетичный дизайн, вызывающий доверие владельцев животных.",
+      "Внедрение Schema.org (LocalBusiness / PetStore) для повышения видимости на мобильных устройствах."
+    ]
+  },
+  "zh": {
+    "name": "宠物美容师",
+    "about": "宠物美容和护理服务越来越受欢迎。宠物美容师的网站可以展示他们改造宠物的作品集，而集成的预订系统则免除了店主在工作时接听电话的烦恼。",
+    "focus": "成功的关键是在 Google 地图上定位以及针对移动设备优化的本地关键词（“[区域]宠物美容师”、“[城市]宠物美容”）。",
+    "specifications": [
+      "与在线预约系统（例如 Booksy 或自定义日历）集成。",
+      "按狗/猫的品种和大小分类的服务明确的定价结构。",
+      "建立未来客户信任的“蜕变”（前后对比）图库。",
+      "关于宠物被毛护理的建议部分（内容营销）。",
+      "轻巧、友好且美观的设计，激发宠物主人的信任。",
+      "实施 Schema.org (LocalBusiness / PetStore) 提高在移动设备上的可见度。"
+    ]
+  }
+}
